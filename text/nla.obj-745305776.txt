@@ -1,0 +1,227 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+        <meta property="og:url" content="https://nla.gov.au/nla.obj-745305776">
+        <meta property="og:image" content="https://nla.gov.au/nla.obj-745305776/representativeImage?wid=250">
+        <meta property="og:image:url" content="https://nla.gov.au/nla.obj-745305776/representativeImage?wid=250">
+
+	<!-- favicons -->
+	
+	<link rel="shortcut icon" href="/tarkine/resources/ico/favicon.ico">
+	<link rel="apple-touch-icon" sizes="57x57" href="/tarkine/resources/ico/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/tarkine/resources/ico/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/tarkine/resources/ico/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/tarkine/resources/ico/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/tarkine/resources/ico/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/tarkine/resources/ico/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/tarkine/resources/ico/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/tarkine/resources/ico/apple-touch-icon-152x152.png">
+	<link rel="icon" type="image/png" href="/tarkine/resources/ico/favicon-196x196.png" sizes="196x196">
+	<link rel="icon" type="image/png" href="/tarkine/resources/ico/favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href="/tarkine/resources/ico/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/tarkine/resources/ico/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/tarkine/resources/ico/favicon-32x32.png" sizes="32x32">
+    	<link href="/tarkine/webjars/font-awesome/4.4.0/css/font-awesome.css" rel="stylesheet" media="screen">
+	<meta name="msapplication-TileColor" content="#619743">
+	<meta name="msapplication-TileImage" content="/tarkine/resources/ico/mstile-144x144.png">
+	<meta name="msapplication-square70x70logo" content="/tarkine/resources/ico/mstile-70x70.png">
+	<meta name="msapplication-square150x150logo" content="/tarkine/resources/ico/mstile-150x150.png">
+	<meta name="msapplication-square310x310logo" content="/tarkine/resources/ico/mstile-310x310.png">
+	<meta name="msapplication-wide310x150logo" content="/tarkine/resources/ico/mstile-310x150.png">
+
+	<meta data-screen-id="Page Not Found">
+    <title>
+      Error
+    </title>
+    
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="/tarkine/css/bootstrap.css?v=" type="text/css" media="screen, print">
+    <link rel="stylesheet" href="/tarkine/css/tarkine-print.css?v=" type="text/css" media="print">
+    <link rel="stylesheet" href="/tarkine/css/jquery-ui-1.10.3.custom.css" type="text/css" media="screen"> <!-- included in a bid to get the slider to render properly on the fullscreen PictureViewerModal in the book viewer -->
+	<!--[if lte IE 9]>
+    <link rel="stylesheet" href="/tarkine/css/tarkine-IE9.css" type="text/css" media="screen">
+    <![endif]-->
+
+	<!-- Latest compiled and minified JavaScript -->
+    <script src="/tarkine/js/jquery/jquery.min.js"></script>
+    <script src="/tarkine/js/jquery/jquery-ui.min.js"></script>
+	<script src="/tarkine/js/jquery/jquery-migrate-1.2.1.min.js"></script><!-- To help us fix issues in from using JQuery pre v1.9 -->
+    <script src="/tarkine/js/bootstrap/bootstrap-3.3.7.min.js"></script>
+    <script src="/tarkine/js/urijs/URI-1.18.1.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="/tarkine/webjars/spin-js/1.3.0/spin.js"></script>
+    <script src="/tarkine/js/persist-js/persist-min.js"></script>
+    <script src="/tarkine/js/tarkine.js?v="></script>
+	
+	<!-- Google Analytics -->
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga("create", "UA-807909-27", "nla.gov.au");
+	  ga("send", "pageview");
+
+	</script>
+	<script>
+    $('#trovelogin').on('click', function(e) {                
+        window.location.href = 'https://trove.nla.gov.au/login?backurl=https://trove.nla.gov.au/tarkine/nla.obj-745305776/download?downloadOption=ocr&firstPage=0&lastPage=0' + window.location.hash;
+    });       
+	</script>
+	
+	<!--[if lt IE 9]>	
+    <script src="/tarkine/js/viewport-units-buggyfill.js"></script>
+    <script>window.viewportUnitsBuggyfill.init(true);</script>
+    <![endif]-->
+    
+</head>
+<body class="loadingInProgress">
+
+    <!-- Header -->   
+      
+    <div class="container-full">
+    
+    
+    <nav class="navbar navbar-default" role="navigation" id="header-c">
+	    <div id="skip">
+	        <a onclick="$('#contentrow').focus();" href="#contentrow">Skip to content</a>
+	        <a onclick="$('#SearchTermTrove').focus();" href="#SearchTermTrove">Skip to search</a>
+	    </div>
+
+
+            <p class="nla"><a href="http://www.nla.gov.au">National Library of Australia</a></p>
+
+    <!-- container-fluid -->
+        <div class="container-fluid">
+            <a href="https://trove.nla.gov.au" class="navbar-brand"><img src="/tarkine//images/trove-logo.gif" alt="Trove logo"></a>
+
+            <form class="navbar-form navbar-left" role="search" action="https://trove.nla.gov.au/result" method="GET">
+                <div class="input-group">
+                    
+                    <input type="text" placeholder="Search Trove" class="form-control" id="SearchTermTrove" name="q" value="" />
+                    <label class="sr-only" for="SearchTermTrove">Search</label>
+                    <div class="input-group-btn">
+                      <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span> <span class="sr-only">Search</span></button>
+                      <!--
+                      <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu pull-right" role="menu">
+                        <li><a href="#">Advanced search</a></li>
+                        <li><a href="#">Search tips</a></li>
+                      </ul>
+                      -->
+                    </div>
+                </div>
+            </form>        
+              
+
+			<!-- Toggle button -->
+            <div class="navbar-header">
+                <button class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>                                                       
+            </div> <!-- /.Toggle button -->     
+
+            
+            <!-- .navbar-collapse -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        
+				    
+                                   
+                <!-- .nav, .navbar-search, .navbar-form, etc -->
+                <ul class="nav navbar-nav navbar-right" id="navglobal">
+                    <li><a href="https://trove.nla.gov.au">Home</a></li>
+                    <li><a href="https://trove.nla.gov.au/general/about">About</a></li>
+                    <li><a href="https://trove.nla.gov.au/general/completedlist">Site news</a></li>
+                    <li><a href="https://trove.nla.gov.au/system/counts">Statistics</a></li>
+                    <li><a href="https://trove.nla.gov.au/tag">Tags</a></li>
+                    <li><a href="https://trove.nla.gov.au/general/faq">Help</a></li>
+                    <li><a href="https://trove.nla.gov.au/forum">Forum</a></li>
+                    <li><a href="javascript:onclick();" onclick="window.open('https://trove.nla.gov.au/contact', '_blank');">Contact us</a></li>
+                    
+                        <li><a class="btn btn-default btn-sm login push-right" href="/tarkine/login?backurl=https://trove.nla.gov.au/tarkine/nla.obj-745305776/download?downloadOption=ocr&firstPage=0&lastPage=0"  aria-label="Login to Trove"><span class="glyphicon glyphicon-user"></span> Login</a></li>
+                </ul>
+                
+                  
+                                       
+            </div> <!-- /.navbar-collapse-->
+              				 
+        </div> <!-- /.container-fluid -->
+      </nav> 
+      <!-- Trove search header  END-->
+         
+ 
+    
+
+    </div>
+
+    <!-- /Header -->        
+<div class="container"><br/>
+    <div class="jumbotron">
+        <h1>Oops!
+            <small>Page could not be found</small>
+        </h1>
+        <p>We're sorry, but the page you were looking for could not be found.</p>
+
+        <p>It is possible that you have an old bookmark or we have moved the page. Check that the web page address is correct or try a new search from the <a href="https://trove.nla.gov.au">Trove homepage</a>
+        </p>
+
+        <p>Here are some other pages that might help get you back on track.</p>
+
+        <ul>
+            <li><a href="https://trove.nla.gov.au">Trove homepage</a></li>
+            <li><a href="https://trove.nla.gov.au/general/about">About Trove</a></li>
+            <li><a href="http://www.nla.gov.au">National Library of Australia homepage</a></li>
+        </ul>
+    </div>
+
+</div>
+<!-- footer -->
+<div id="footer" class="table-footer footertext">
+
+    <div class="menurow">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+            <a href="http://www.nla.gov.au" target="_blank"><img class="footerlogo" src="/tarkine//images/NLA_White_LS.png" width="200" alt="National Library of Australia"></a>
+        </div>
+
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 pull-right">
+            <div class="pull-right socialbar">
+   	 	   <span>
+			   <a href="https://trove.nla.gov.au" target="_blank" class="footerbiglinks">Trove</a>
+                   <a href="http://www.nla.gov.au/app/eresources/" target="_blank" class="footerbiglinks">eResources</a>
+			   <a href="http://catalogue.nla.gov.au/" target="_blank" class="footerbiglinks">Catalogue</a>
+            <br>
+		    <a class="footersmlinks" title="Version 1.39.0-RELEASE, ">Version 1.39.0-RELEASE</a>
+		   <a href="/trove/our-policies/copyright" target="_blank" class="footersmlinks">Copyright</a> 
+		   <a href="https://trove.nla.gov.au/general/termsofuse" target="_blank" class="footersmlinks">Terms of Use</a>
+		   <a href="https://trove.nla.gov.au/general/privacy" target="_blank" class="footersmlinks">Privacy</a>
+		   <a href="https://trove.nla.gov.au/general/about#disclaimer" target="_blank" class="footersmlinks">Disclaimer</a>
+		   <a href="/trove/building-with-trove/api" target="_blank" class="footersmlinks">API</a>
+		   </span>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

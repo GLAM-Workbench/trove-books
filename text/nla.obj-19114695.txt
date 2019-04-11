@@ -1,0 +1,1610 @@
+
+
+English Hexameters
+T. S. OM O N D
+
+
+
+
+English Hexameter Verse
+With a Specimen
+BY
+T. S. OMOND
+M.A. EDIN. & OXON.
+FORMERLY FELLOW OF ST JOHN’S COLLEGE, OXFORD
+DAVID DOUGLAS
+EDINBURGH
+1897
+
+
+
+
+NOTE
+Students of English poetry, and they alone, can be
+expected to find matter of interest in the following paper.
+They are asked to regard it as an essay in every sense of
+the term—an attempt which seeks to suggest even where
+it explicitly and definitively asserts, and whose argument
+is now submitted to the notice of more authoritative
+judges, in the hope of calling attention to a subject on
+which criticism would seem not yet to have said its final
+word.
+It may possibly be well to add that the word English
+is used in these pages with strict accuracy as denoting the
+language not the people, consequently without any. wish
+to debar those who use that language, in whatever country,
+from claiming their rightful share in the glories of our
+" English ” literature.
+
+
+ENGLISH HEXAMETERS.
+The theory which this paper proposes to expound can be very briefly
+stated. It amounts to no more and no less than this, that the
+English hexameter yet remains to be written. English verse, there-
+fore, is the subject of its discussion, which will be conducted
+throughout with the aim of being intelligible to the non-classical
+reader. Such technicalities as it is impossible to avoid introducing
+can fortunately be explained in the language of ordinary life. Our
+examination will begin from and end with the actual verses of
+English poets; and if its progress compels us to give close attention
+to the subtleties of their music, such study may be trusted to repay
+its exertion. Hitherto, in this particular field, the natural order of
+things would seem to have been inverted, the grammarian having
+aspired to make laws by which the poet shall sing. One main object
+of this paper is to recall the rightful relation of the two, and bid the
+critic be content to summarise and formulate results achieved by our
+poets, instead of laying down imaginary rules to control and check
+the free flow of their inspiration.
+To the English reader, it may be assumed, hexameters are simply
+a curious form of somewhat lengthy verses, familiar to him in the
+writings of Longfellow ( Evangeline ), Kingsley {Andromeda), Clough
+{Bothie of Tobernavuolich), and others. Of the laws of their structure
+he knows little and cares less. He probably notices in them a
+peculiar “galloping” effect, unlike the sober tread of ordinary blank
+; and is conscious of a certain rigidity, not to say artificiality,
+of structure, and of a difficulty sometimes in knowing where the
+
+
+accent is meant to fall. This is quite as much as the ordinary reader
+either can or need know. We can enjoy blank verse or the heroic
+couplet without discussing the laws of their metre. If we cannot do
+the same with the hexameters of Evangeline and its fellows, we may
+safely conclude that there is something amiss with either writer or
+reader, and what that something may be it is the duty of the critic
+to discover.
+The unfamiliar effect produced by these verses is certainly not
+due entirely to their length. Our poets have lately accustomed us
+to metres which would have astonished the readers of an earlier
+generation. The very longest line in English poetry, it may be safely
+asserted, occurs in our late Laureate’s latest volume, in a poem
+named Kapiolani —
+“ Call’d on the Power adored by the Christian, and crying ‘ I dare her,
+let Peele avenge herself.’ ”
+This line is longer by one-fourth than the hexameter, yet do we
+find the slightest difficulty in enjoying its music? And if this be the
+record, it is run very close by lines of Mr Swinburne and others.
+Indeed, the development of the long line is one of the most notice-
+able features of contemporary English poetry, as must have occurred
+to the least observant reader. Browning, Morris, all our creative
+singers vie in showing us what can be done with long swinging lines,
+and how consonant these are to the genius of our language. We
+must find, therefore, some other cause for the effect of unfamiliarity
+still produced by the hexameter alone of our longer metres.
+There need be no mystery made about the matter. The
+undoubted cause of this unfamiliarity is that hexameter verse has
+been built up after alien models. And that the English reader may
+understand precisely how this came about, we must deal shortly
+with some questions of “ prosody.” It will not, however, be neces-
+sary to go beyond the statements to be found in any elementary
+
+
+text-book, some knowledge of which is essential to even a superficial
+study of English poetry.
+To begin, then. The value of a syllable depends on two causes,
+which the grammarians call “quantity” and “accent.” Quantity is
+the natural duration of a sound, long or short as the case may be;
+accent is the temporary importance'given to it by the stress of the
+voice in reading. These two factors obviously coexist in all poetry.
+But in classical verse, in the Greek and Latin languages, quantity
+played a larger part than it does with us. Roughly speaking, their
+quantities were absolutely fixed and immutable. The Greeks had
+even different letters for long O and short O ( omega and omicron),
+long E and short E, etc. Accent, on the other hand, was so
+subordinate and inferior that scholars are still disputing as to what
+precisely it meant, and most people read Greek by quantity alone,
+totally disregarding the accent-marks. In these respects Greek
+poetry was very different indeed from English. And it will be seen
+that therefore,' in analysing Greek verse, it is possible to lay down
+with absolute certainty what “ feet ” went to make up the line. A
+foot is, of course, a collocation of syllables—in the commonest cases
+either two or three—which may be formed either by one single
+word, or by parts of various words. The Hexameter, as its name
+implies, consisted of six feet. These feet had but two varieties:
+they must be either or spondees. The dactyl takes its name
+from the Greek word ddktulos , a finger, because just as the finger
+consists of one long and two short joints, so the dactyl consists of
+one long syllable followed by two short ones. The Greek word
+daktulos is itself an illustration ; in English such words as wanderer ,
+eulogy , luminous , come sufficiently near it. The spondee again was
+like the thumb with its two joints of equal length; it contained
+invariably two long syllables. Words like byplay or side-light, with
+compound adjectives like blood-stained, may pass for examples of
+this foot, though, as we shall see later, the resemblance is by no
+
+
+means complete. Of the six feet which make up the Hexameter, the
+first four may be either dactyls or spondees indifferently, the fifth
+and sixth are usually, though not invariably, a dactyl followed by a
+spondee. To the arrangement of sound produced by this ending
+much of the characteristic cadence of the hexameter line is un-
+doubtedly due.
+Such was the simple structure of the Greek and Latin Hexameter.
+From these few elements was compounded the “ strong-wing’d music
+of Homer,” and this metre filled in the Ancient world very much
+the place that Blank Verse does in English literature. Another
+favourite metre, however—the only other requiring our attention—
+was the “ Elegiac ” couplet (the name is derived merely from the
+circumstances of its first using), which may be similarly compared
+to our “Heroic Verse,” the favourite metre of Pope and his school.
+This Elegiac metre consisted of a hexameter precisely as before,
+followed by a slightly shorter line, the “ pentameter ” or verse of
+five feet. The structure of the pentameter was curious. The line
+was divided into two halves, the fifth foot (a spondee) being, so to
+speak, cut in two, and one syllable placed at the end of the first
+half, the other of the second. An English approximation will show
+this more clearly than further description:—
+“ Stretches and j swings to the | slow ( passionate | pulse of the | sea.”
+The first and second feet may be either dactyls or spondees in-
+differently (in the above instance they are both supposed to be
+dactyls); the third and fourth, as in the illustration, must always
+be dactyls. The fifth foot is, as it were, divided, being represented
+in the above instance by the two words slow and sea , which come
+at the end of the first and the second halves of the line respectively.
+Another English instance of this division, corresponding with con-
+siderable accuracy to the peculiar effect of the pentameter, will be
+found in the alternate lines of Browning’s Abt Vogler. The follow-
+ing verses, translated by Coleridge from Schiller, illustrate not
+
+
+inaptly both the structure and the effect of these two metres. In
+the second example, however, a somewhat unnatural stress must
+be laid on the word In , to convert it from a “ short ” into a “ long ”
+syllable:—
+The Homeric Hexameter.
+Strongly it bears us along in swelling and limitless billows,
+Nothing before and nothing behind but the sky and the ocean.
+The Elegiac Couplet.
+In the hexameter rises the fountain’s silvery column ;
+In the pentameter aye falling in melody back.
+These two metres, then, the “Hexameter” and the “Elegiac,”
+are the only two with which we are now concerned. The only
+“ feet ” that occur in them are dactyls and spondees. As, however,
+there may be occasion later to refer to other kinds, let us name here
+three other “feet,” to conclude our troublesome technicalities. A
+dactyl inverted, two short syllables followed by a long, is called an
+anapaest. One short syllable followed by a long is known as an
+iambus; one long syllable followed by a short, as a trochee. Repre-
+sented by the usual notation for indicating long and short syllables,
+these five feet appear in the following symbols :
+Dactyl
+Anapaest . o
+Spondee
+lambus
+Trochee
+Equipped thus by the grammarians, we may now proceed on our
+course without further delay. All this lumber of prosody, it may be
+frankly confessed, is taken on board at the present stage only to be
+jettisoned at a subsequent. Yet no apology is needed, for such
+elementary knowledge (as already said) is absolutely necessary to
+understanding the simplest book on the study of English verse.
+
+
+Most readers, indeed, will be more likely to expect an apology for
+being asked to peruse an exposition of such familiar terms. But
+it is well to begin, in the present case, absolutely from the beginning.
+The writer remembers a lady who, after some days or weeks of
+elementary instruction in whist, electrified her instructor by enquir-
+ing, “ But what is a trick ? ” He prefers, therefore, in this case to
+leave nothing to the imagination, and to instruct his readers, with
+all due apologies, in even the most elementary tricks of the gram-
+marians.
+Greek and Latin verse, then, we see, depended almost entirely
+on quantity , treated accent apparently as altogether subordinate, and,
+it may be added, knew little or nothing of rhyme , which plays now-
+adays so important a part in our poetry. The structure of verse
+above described remained unaltered through the whole “classical”
+period of Greek and Roman literature. But after the fall in ruins
+of the Old World, in the dark ages that succeeded the destruction
+of the Roman Empire, when the masterpieces of ancient literature
+were forgotten and monkish hymns and chronicles took their place,
+poetry, beaten down but never dead, assumed new robes and orna-
+ments. Discarding entirely the old laws of quantity, it began to
+place its reliance wholly on accent and rhyme. The languages of
+modern Europe came under this influence in their infancy. From
+cells and cloisters the new forms of verse passed into the homes of
+the people, taking on added grace and beauty in the hands of
+troubadours and romancers. Our English language, like its sister-
+tongues, adopted these measures, discarding the alliterative metre
+of our remoter ancestors, which makes its last belated appearance in
+the Vision of Piers Plowman. By the time of Chaucer, usually
+considered the father of English poetry, the modern metres had
+attained universal and unquestioned sway, and their supremacy has
+since then never been shaken or impaired.
+Once, however, in the great experimental age of English poetry,
+
+
+the “ Elizabethan era ” of our history-books, a serious attempt was
+made to challenge this supremacy. Some of our leading poets
+themselves were concerned in this daring conspiracy, Edmund
+Spenser and Sir Philip Sidney being among the ringleaders. Much
+undeserved ridicule has been heaped on their attempt by critics who
+did not understand its scope and aim. Reading their verses by our
+ordinary accent, these critics make game of their obvious absurdity.
+Here is a line of Spenser’s, intended as a hexameter —
+“Wot ye why | his moo | ther with a | veale hath | covered | his face?”
+The absurdity to our ears is patent. But it was no less obvious to
+the great men who made this attempt. The accent, says Spenser
+in a familiar letter,* discoursing of the progress of his experiments,
+“ sometime gapeth, and as it were yawneth ill-favouredly, . . . some-
+time seemeth like a lame gosling that draweth one leg after her,”
+. . . or, again, “is like a lame dog that holds up one leg.” Fully
+alive as they were to these difficulties, they yet persevered in trying
+to overcome them, and it is not difficult to understand, and in some
+measure to sympathise with, their aim and motive.
+* “ Three proper, wittie, and familiar letters, lately passed between two
+Universitie men” [viz. Spenser and Gabriel Harvey]. “Two other very com-
+mendable letters, of the same men’s writing.” London 1580.
+The authenticity of these letters has been impugned, but apparently without
+sufficient reason.
+Students will get further information about this curious little eddy of classicism
+by consulting Sir Philip Sidney’s Arcadia; Ascham’s Schoolmaster , Webbe’s
+Discourse of English Poetry, and Puttenham’s Art of English Poetry, all pub-
+lished in Professor Arber’s reprints; Abraham Fraunce, Lamentations of
+Amyntas, London 1587 ; Nash, Apologie of Pierce Penniless, London 1593 ;
+Campion, Observations in the Art of English Poesie, London 1602; and other
+contemporary references. Reprints in Sir Egerton Brydges’ Archaica, 2 vols.
+London 1815, and Haslewood’s Ancient Critical Essays ttpon English Poets and
+Poesy, 2 vols. London 1811-15. The second volume of the latter contains the
+letters above cited, which are also quoted in Todd’s Spenser, Vol. I.
+
+
+The two points to be carefully borne in mind are that these
+writers had few or no working models in their own language, and that
+they looked with intense and of course most laudable admiration on
+the great literary products of antiquity. Revelling in the enjoy-
+ment of Greek poetry, which had but lately been revealed to the
+modern world by the revival of learning, what could be more natural
+than an attempt to introduce the principles of classic metre. Quan-
+tity and accent, they knew, were different things in Greek; why not
+too in English ? Our language was still unsettled, our literature in
+its infancy. What was the true direction in which to seek progress ?
+Should they not follow the ancient models, and create quantity in
+English, as they evidently thought Homer or some one else had
+created it in Greek ? “ Our English tongue,” says Ascham, may
+“ receive true quantity of syllables, as well as true order of versi-
+fying.” * They were engaged in something tentative, experimental;
+their verses are not to be published, only shown to each other as
+specimens. Spenser asks his friend Harvey to send him the rules
+on which he had worked, or to adopt those which Spenser himself
+had received from Drant and Sidney. They are perfectly aware that
+strict “ feet ” did not as yet exist in English; the question is
+whether they can be created. It is quite beside the point, therefore,
+to ridicule them for not complying with our ordinary rules of verse.
+Nor did they contemplate merely adopting the classic rules whole-
+sale ; their aim was to discover cognate principles, suiting the genius
+of the English language. That their attempt failed may be proof
+enough that it was ill-advised, for in such hands it had every possible
+chance of success. But it was a natural enough attempt to make,
+and nothing is gained by ignoring its true purport, and laughing at
+its exponents for neglecting the very rules which the object of their
+endeavour was to supersede.
+* Scholemaster (1570), Arber’s reprint, p. 73.
+
+
+For our purpose, however, it is enough to note that the attempt
+was made, made too under most favourable auspices, and failed
+utterly and hopelessly. Puttenham, in his Art of Poesie , sums the
+matter up admirably. “ Which feet {i.e., those of classic metres) we
+have not, nor as yet never went about to frame, the nature of our
+language and words not permitting it.” The history of our literature
+ratifies this verdict. Modern France and Italy, not ancient Greece
+and Rome, are our direct literary ancestors, and from them our poets
+derived their working rules and methods. The bold spirits who
+inspired the classical revolt soon convinced themselves of its futility.
+Spenser gave up his hexameters, and went off to write his Pastorals
+and his Faery Queen. The attempt to write verses according to
+quantity alone was definitely abandoned, and may be said never to
+have been resumed. Only in our own day, sedulous in its search
+for novelties, and ready to whitewash any damaged reputation, has
+this ancient heresy found revivers and defenders. It would seem
+to have been some such experiments, perhaps those of his friend
+Clough,* which induced Tennyson to satirise the attempt in his
+well-known lines, though one does not see why he coupled with these
+the altogether differently constructed verses of Goethe and Schiller
+(to be presently described), declaring that his own were “Hexa-
+meters no worse than daring Germany gave us.”
+But we are anticipating slightly. Through the next two
+centuries of our poetry there is no trace of any attempt to emulate
+* See Clough’s Poems, Essays in Classical Metre , also his Letters of Pare-
+pidemus (Works Vol. L). Tennyson’s Experiments in Quantity will be found
+among his poems. The question seems to have been seriously debated about this
+time, see Matthew Arnold’s references in Lectures subsequently quoted. Com-
+pare a later and more ambitious effort, The Iliad homometrically translated, by
+C. B. Cayley, London 1877, with its seven lines of quaint preface.
+The attempt of other writers to comply at once with the rules of accent and
+of quantity will be noticed later.
+
+
+the classic models. “ Pindaric Odes ” were written, but in purely
+English metres. In the eighteenth century in particular, our poets
+were eminently tame and conventional, not to say dull to a degree, in
+respect of metre. A few stock measures exhausted their programme.
+Poetry had almost come to be an affair of counting syllables;
+novelty or subtlety of cadence seems to have been carefully
+eschewed. But just as the century before ours was dying to
+its close, English poetry, which had seemed either dead or dying
+too, took as we all know a sudden access of vitality, and spread
+its wings once more for flights surpassed only by those of its
+Elizabethan predecessors. Among the pioneers of the new enter-
+prise the poets of the “Lake School” hold a prominent place.
+Coleridge—a name never to be mentioned without reverence by
+any student of metre and melody—laid down in the preface to his
+Christabel a “new principle” (so he calls it), which alone did much
+to unfetter the motions of English verse. Not the syllables, he
+maintains, but the accents in a line are to be counted; the syllables
+may be many or few at the poet’s discretion, the number of accents
+must be fixed and definite. Coleridge’s theory and practice both
+had enormous influence. It is well known that Scott took inspir-
+ation from a reading of Christabel, that Byron and Shelley, not to
+speak of Wordsworth, owe much metrically to his example and
+teaching. Into his own few’ but brilliant achievements in the field
+of poetry proper we have at present no occasion to enter. But
+some experiments of his, taken in connection with the work of his
+friend and brother-in-law Southey, originated the whole English
+school of accentual hexameters, and require therefore our special
+attention.
+The inspiration of these was apparently not of native growth.
+Students, indeed, will remember the early attempts of Southey and
+others in classical metre, ridiculed by Canning in his Needy Knife-
+grinder. But when in mature life, these poets essayed the hexameter,
+
+
+it was clearly enough under German influences. Goethe and Schiller
+(not to mention Voss, Klopstock, and many more) had deliberately
+essayed the task of reproducing the chief classic metres in their
+own tongue. Standing to German literature very much in the
+position the early Elizabethans did to ours, they made their attempt
+on different principles, and with a much fairer prospect of success.
+Accent, they saw, was the dominant principle of modern poetry.
+Why not construct “feet” in accordance with accent alone, neglect-
+ing quantity altogether ? Such an attempt was less revolutionary, and
+less obviously predestined to failure, than that .of our own Spenser
+and Sidney. It attained, in fact, a very considerable measure of
+success in the country of its origin. Dealing with a fluid language,
+and with ears—shall we say ?—that had not been trained to nicety
+by generations of glorious music, Goethe and Schiller were able to
+procure acceptance for their very frequently rough and lumbering
+lines. Take a single instance :
+“ Durch die | Schrecken des | feindlichen | Meers, durch die | Schrecken
+des | Landes.”
+Here, it will be noticed, not to speak of minor harshnesses, the
+syllables Durch die are actually made long in the first half of the
+verse, and short in the second, without any apparent reason. The
+Classical poets occasionally took such a liberty, especially in proper
+names, for the sake of metre; but verses built on such models
+could never succeed in “reading themselves,” could never prove
+acceptable to listeners accustomed to the delicate and subtle
+minstrelsy of our own elder poets.
+To Coleridge, however, the innovation seems to have appealed,
+probably because of his own theories as to the supremacy of accent,
+and he made the attempt to carry it out in English.
+‘ Earth ! thou mother of numberless children, the nurse and the mother,
+Hail! O Goddess, thrice hail ! Blest be thou ! and, blessing, I hymn thee.
+
+
+Forth, ye sweet sounds ! from my harp, and my voice shall float on your
+surges—
+Soar thou aloft, O my soul, and bear up my song on thy pinions.” *
+Of such lines it may be said, more accurately than of Tennyson’s,
+that they are “ Hexameters no worse than daring Germany gave us; ”
+but where is the fairy music of Kubla Khan or the Ancient Mariner ?
+The curious may analyse these lines for themselves, and discover
+what collocations of syllables are presented for dactyls, such as
+“Goddess, thrice” and “Forth, ye sweet.” For the rest it is enough
+to say that in this and his other attempts after classical metre con-
+structed according to accent, Coleridge’s refined sense of sound
+seems to fail him almost entirely, and he gives us lines which can
+hardly be said either to “ scan ” in the technical sense or to sing
+themselves to any but the most Boeotian ear.
+Southey, friend and associate of Coleridge, worked at the same
+experiment with greater perseverance, but not with very much greater
+success. In the preface to his Vision of Judgement, indeed, he claims
+to be the pioneer in an untrodden field.
+“ I first adventure : follow me who list.” t
+But both Southey and Coleridge had made many attempts after
+classical metres, and it would be hard to say which was really the
+first to follow in the footsteps of the great Germans. When he
+wrote the Vision of fudgement , however, Southey was Poet Laureate,
+and its publication caused a storm of controversy and excitement.
+We have nothing to do with its matter and contents, its fulsome
+glorification of George 111., and its denunciation of the “Satanic
+* Hymn to the Earth ; compare Mahomet , and other pieces,
+t This is quoted from Bishop Joseph Hall, Virgidemarium , 1597.
+. . . “ follow me who list,
+And be the second English satirist.”
+Southey himself, however, refers to some earlier hexameters by his friend William
+Taylor of Norwich, as well as to an interesting passage in Goldsmith’s Essays.
+
+
+school ” of Byron, who promptly replied in his most stinging and
+amusing verses. But the preface which Southey prefixed to his
+poem is practically the Magna Charta of our modern hexametrists,
+and should be carefully read. A better scholar than poet, his
+theories deserve respectful treatment, and its criticisms are generally
+sound. Excellent, for instance, are his remarks on the ordinary
+objections to hexameter verse in English, and the reasons why our
+language is less ductile to this metre than German. But when we
+come to the verses themselves, our satisfaction is less complete. It
+is indeed somewhat difficult to study them, dispassionately, so
+grotesquely ridiculous is the subject-matter.
+“ ‘ Ho! ’he exclaimed, ‘ King George of England standeth in judgement! ’ ”
+“There was our late-lost Queen, the nation’s example of virtue.”
+Lines like these so irresistibly suggest the comic element, that it is
+hard to confine one’s attention to the metrical aspect of the verse.
+But doing our best to be scientific, limiting our study to such
+passages as the really pretty and often-quoted opening paragraph,
+do we not recognise a certain general stiffness, as of an academical
+composition rather than a burst of native inspiration? And in
+particular, when we consider individual lines in detail, is there not
+a continual tendency to accentuate non-accented words, which
+weakens and impairs the whole effect of the poem ?
+As these are faults which he shares with practically all his fol-
+lowers, and on which much more will have to be said immediately,
+we may pass on for the present without further comment. It only
+remains to add, by way of completing our historical retrospect, that
+Southey’s poem fairly started the subject of hexameters in modern
+England. Pamphlet after pamphlet poured from the press; scholars
+and versifiers took part for or against. The battle so begun con-
+tinues to rage to our own day. Learned men still denounce this
+verse as a pestilent heresy, or praise and cultivate it as a curious
+
+
+exotic. Poets, though rarely any quite of the first rank, have used
+it to a certain extent. Longfellow’s Evangeline is perhaps the most
+widely known instance,* and lovers of Browning will not forget his
+Ixion. But all, whether poets or merely scholars, have worked on
+the lines that Southey, following his classic or German exemplars,
+laid down. They have treated the hexameter as a verse which must
+consist of six exact “feet,” these feet however being constituted by
+accent and not by any unalterable rules of quantity.
+In so doing, it is the contention of this paper, they have erred
+against the canons of English poetry. They have foredoomed them-
+selves to a failure as inevitable, if not so extensive and violent, as
+that of Spenser and Sidney. They have forgotten Coleridge’s prin-
+ciple—how came Southey not to apply it here ? —that English verse
+is to be measured by accents rather than by syllables. Not only
+have they so condemned themselves to an artificial and wearisome
+uniformity, producing the stiff effect of an academical exercise, but
+they have built their structure upon shifting sand. This is the con-
+clusive and irresistible objection to the hexameters of this school.
+“ Which feet we have not, nor as yet never went about to frame.”
+Accent in English is too variable, too uncertain, to supply a basis for
+any rigid system of longs and shorts. No two of us, it is safe to say,
+read a line of poetry in quite the same way; hardly ever will two of
+us, in any case of difficulty, agree as to the “ scansion ” of particular
+syllables. The very first line of “ Paradise Lost ” supplies a case in
+point. Shall we accent the dis in “ disobedience,” or does the whole
+* The most successful serious experiment made by an English writer of this
+school is probably the Andromeda of Charles Kingsley. Working on a better
+model, its poetic feeling arid descriptive power would have attained still higher
+success. But subject and structure are alike too narrowly classical to appeal pro-
+foundly to the English reader. Some remarks on Clough’s Bothie and Long-
+fellow’s Evangeline will be found in one of the concluding paragraphs of this
+paper.
+
+
+stress fall on the third syllable of the word ? The critics are divided,
+each maintaining a theory of his own. On a foundation so unstable
+no architecturally exact superstructure can with safety be raised.
+This is admitted by the hexametrists themselves in the case of
+spondees. Southey acutely remarks, in the Preface already cited,
+that even words like twilight , which seem fairly good spondees when
+sounded by themselves, become trochaic when compounded in a
+sentence; compare sunset when pronounced separately, and the
+same word in the phrase “At the sunset hour.” And this holds
+good even of two monosyllables, or two parts of separate words; the
+accent invariably throws more weight on one than the other, destroy-
+ing the equality of balance. It seems therefore absolutely and entirely
+true that we have no accurate spondees in English. But even con-
+ceding this, conceding Southey’s claim to use trochees instead of
+spondees, destructive as it is to our classic ideal, we find ourselves
+but little nearer anything definite or precise. We still encounter
+lines which can only be read with hesitation and uncertainty. Con-
+tinually our ear is puzzled as to where the stress is meant to fall.
+Now and again, through some fortunate coincidence of accent with
+natural quantity, we meet a verse that “ sings itself; ” but as a rule
+all is dubiety and bewilderment. Lines begin with In or Of or The,
+and we find ourselves supposed to accent them for the sake of metre.
+Matthew Arnold himself, to whose suggestive criticism this paper
+owes much, begins what is-intended as a model hexameter* with the
+words “To a mortal,” to and a being actually supposed to do duty
+as long syllables. Even Mr Swinburne, in an early attempt at
+another classic metre, begins
+“ In the | month of the | long decline of roses,”
+* Lectures On translating Homer (popular edition 1896). Full of interest
+every way. But his criticisms should never be accepted without question, and his
+own specimens vividly illustrate the characteristic defects of this school.
+
+
+which the English ear would infallibly read “ In the month | of the
+long,” to the time of
+“ At the close j of the day, [ when the hamlet is still.”
+He, as we shall see, has since then pointed the way to a better and
+higher ideal. But our hexametrists according to rule remain where
+he began. They are still striving to make up their pedantic tale
+of precisely-measured feet, and in doing so have recourse to the
+strangest expedients. Habitually they accent syllables in a way
+these will not bear, or strain and twist their language to get the
+accented syllables in the proper place. Only those familiar with
+theories of metre can read their lines as verse, and even they are
+often in doubt whether they read as the writers intended. The
+one cause of this uncertainty is the shifting and fugitive nature of
+our English accent, which refuses to be passively stretched on the
+Procrustes-bed of any rigid metrical system. It would weary the
+reader to heap up instances of this laxity and confusing uncertainty
+of form, which is patent to every careful student, and is scarcely
+denied by the experimentalists themselves. More important for
+our purpose it is to notice that such theoretical exactness of
+structure, quite apart from any defects in the execution, is a thing
+itself altogether alien to English verse. The “accentual” school
+of Southey and the rest, not less than the “ quantitative ” hexametrists
+of the Elizabethan age, founded upon a false theory, which carries
+with it its own condemnation. A line consisting necessarily of
+“ from fourteen to seventeen ” syllables, quite apart from the
+principle on which these are arranged, has no parallel in our poetry.
+If this is the only possible model, by all means let the hexameter
+be condemned as a pestilent heresy. Let the accentual line follow
+the quantitative to the limbo of forgotten superstitions. Even Pope
+could sneer at your “word-catcher that lives on syllables,” and
+an English metre that exists only by counting of “feet” is an
+
+
+anachronism and a delusion. If this is the last word to be said
+on the question, victory must remain with the assailants of hexa-
+meters. But it is not the last word, and there is another view of
+the matter which seems to have been strangely overlooked both by
+defenders and attackers in this prolonged controversy.
+Before taking up this new position, however, a sentence in our
+last paragraph suggests the question : Can this inherent instability
+of English accent —so patent to every one that it has not been
+thought necessary to multiply examples—not be remedied by a
+closer attention to technical rules of quantity ? In other words, can
+verses be written which, while never distorting the natural accent,
+shall emphasise and reinforce that accent by a rigorous system of
+quantity, so as to render the beat of the rhythm as obvious and
+unmistakeable as it is in Greek poetry, and enable us to count our
+“ feet ” with the same precision as the Ancients undoubtedly did ?
+One might have been tempted to say that the task was impossible,
+if one did not know that it had actually been performed. One of
+the most accomplished of contemporary scholars, to take the most
+crucial instance, has given us, in his translations of Catullus,*
+specimens of the principal ancient metres, whose verses obey
+with marvellous precision at once the dominance of accent and the
+laws of classic quantity so far as these can be applied in English.
+That his success is absolutely perfect it might be rash to assert.
+A hypercritical ear may perhaps detect an occasional uncertainty,
+an emphatic Look / shortened for the sake of metre, or a naturally
+* Poems and Fragments of Catullus, by Robinson Ellis, Fellow of Trinity
+College, Oxford: London 1871.
+Another recent experimentalist on similar lines is Mr J. H. Hallard (Idylls
+of Theocritus: Longmans, 1894). Some of this translator’s quatrains follow a
+truer model, but in his hexameters, built after a rigorous pattern, the uncertainty
+of accent not infrequently obtrudes itself— e.g.: “Plague upon Telephus, who
+once uttered verses about it.” One’s ear rebels against the stress upon who.
+
+
+short And or Not bearing an unnatural stress. But for practical
+purposes the success may be taken as complete. Are we then
+advanced any nearer to the goal of our present enquiry? The
+answer must be emphatically in the negative. If these verses are
+meant to point the road our poets shall travel, so far, and so far
+only, they must be pronounced a “ failure.” Long before English
+poetry could be written under these conditions, all life, and passion,
+and force would have evaporated in an insipid correctness. Our native
+Muse has never submitted to these swaddling bands. What do we
+find in the lines whose metrical perfection has just been praised
+so highly? A wonderful verbal mosaic, a triumph of dainty work-
+manship, which bears hardly more relation to English poetry than
+a Chinese puzzle does, and can often scarcely be understood without
+reference to the original. It may be said that this is because it is
+a translation; the threefold task, not the double one, constitutes
+the difficulty. But the answer still remains that the result does not
+justify the cramping means employed. The best verses in this
+volume would have been equally musical at a vastly less expenditure
+of laborious letter-counting. It is remarked in the preface of the
+book, referring to Mr Swinburne, that he “neglects position as a
+rule, though his nice sense of metre leads him at times to observe
+it, and uniformly rejects any approach to the harsh combinations
+indulged in by other writers.” This seems to describe with exact-
+ness the true function of “ quantity ”in English. Its function, as
+Mr Ellis himself has stated, is negative rather than positive. Neglect
+of it makes verses harsh and unmusical; taken in and by itself it
+has no absolute value. When we read such lines as
+“ Borne o’er many a land, o’er many a level of ocean,
+Here to the grave I come, brother, of holy repose,
+Sadly the last poor gifts, death’s simple duty, to bring thee ;
+Unto the silent dust vainly to murmur a cry”—
+our satisfaction is precisely similar to that with which we read a
+
+
+page of Tennyson or of Swinburne. But the same “musical” result
+is attained by those writers without compliance with the rules of quan-
+tity so carefully observed here. These verses will remain a model in
+their own especial line. They note an immense advance on the
+crudeness of our ordinary “ accentual ” metres. But the poet who
+should take them for his exemplar would be following a false and
+fictitious standard of excellence, and would devote himself to a
+bondage which has never been tolerated by the masters of English
+poetry.
+Ouf historical survey is now complete. The reader has seen
+passed in review the various attempts that have been made to
+develop this metre. He can distinguish the quantitative hexameter
+of the ancients, imitated by Spenser and Sidney, from the accentual
+hexameter of our later poets, and from the combination of both
+systems attempted in the example last quoted. He can analyse the
+structure of each for himself, and decide whether the strictures which
+have been made on them are just or unjust. In what remains of
+this paper it is proposed to conduct him to a totally new stand-
+point, to ask him to consider the hexameter in a light more familiar
+to the customs and canons of our native English verse.
+The course of enquiry to be followed henceforward may be
+described as the inductive, in opposition to the deductive, method.
+Instead of asking what our poets may or should do, let us learn
+what they actually have done. It cannot be too often repeated that
+this is the only legitimate form of enquiry. The poet must precede
+the critic, not the critic point the way to the poet. Aristarchus does
+not lay down rules for Homer to sing by ; he studies with his utmost
+acumen the Homeric songs, and tries to formulate and define the
+natural laws of their composition. And in speaking of our poets,
+we must of course place aside those who have consciously worked
+under rules imposed from without. The laws we wish to discover
+are those which govern the poet, when he sings to please himself,
+
+
+without an eye to critic or schoolmaster. No doubt our great poets
+nowadays are learned, but their learning does not necessarily fetter
+their inspiration. All great work transcends the limitations which
+conditioned its beginning; they are fused and absorbed in the glow
+of its progress. Yet its development is not lawless, but obeys
+inborn rules of its own; “it is all triumphant art, but art in
+obedience to laws.” To discover the laws on which genius has
+perhaps unconsciously worked is the true function of the critic.
+Let us apply this here, and content ourselves with the more modest
+task this restriction implies. Let our aim be merely to enquire
+what work has been done by our native and natural poets in this
+field. Assuredly this is the only trustworthy means of getting light
+on the past or guidance for the future.
+It has been often pointed out that there is nothing absolutely
+alien to the genius of the English language in the march and swing
+of the hexameter. Lines which approximate not remotely to it occur
+spontaneously in our best writings. We turn to the Bible, that
+storehouse of English undefiled, and find verses like
+“ Hear, O heavens, and give ear, O earth, for the Lord hath spoken.”
+“ God is gone up with a shout—the Lord with the sound of a trumpet.”
+Without pressing the point too closely, or attempting to claim such
+lines as actual hexameters, it will be quite apparent to those who
+have followed the foregoing metrical exposition that there is quite
+sufficient analogy to warrant us in expecting that some such form of
+structure may find favour with our poets. Those interested in such
+matters may refer to a list of some forty Biblical verses, all corre-
+sponding with more or less exactness to the structure of the above.*
+For us it will be sufficient to note the fact, and pass on to enquire
+what use, if any, our poets have made of the metrical cadence sug-
+gested by such passages.
+* Journal of Education, August 1893 : compiled by C. A. Ford.
+
+
+Here, however, it will be convenient to define accurately what
+English verse-structure really is. It is proposed to go a step further
+even than Coleridge, and lay down—it is believed for the first time
+in these exact terms —that the true unit of English verse is not the
+foot , not even the accent, but simply a period of time* Different
+metres are distinguished by the prevailing character of their music.
+Thus the ordinary “ heroic ” line is one of five periods, the prevailing
+character of whose cadence is what we call “iambic.” But the
+variations on this rudimental cadence are simply endless, and admit
+of no arbiter but the poet’s ear. Such a theory, may be regarded as
+too lax, as amounting almost to the abnegation of rule. Yet it is
+submitted that nothing short of this way of stating the case will
+account for the actual facts of English prosody. Take blank verse
+in its most cultivated form. Let us go, not to the dramatists, where
+one naturally expects, and assuredly finds, every imaginable form of
+metrical licence. But let us go rather to the most introspective and
+learned of English poets, in whose deeply studied music we may
+be quite sure there is nothing careless or accidental, no cadence
+that did not commend itself to his ear, however unaccountable and
+erratic it may sound to ours. Let us take Milton as our model,
+in the great poem to which he gave his most mature and earnest
+workmanship. We have seen already that the very first line of the
+Paradise Lost is a stumbling-block to critics of metre. But this is
+nothing to what occurs as* we advance in the poem. Can any one
+* The statement in the text of course lays no claim to originality. Rather it
+is a summation of what is believed to be the view of most competent critics. But
+no direct authority can be quoted for the statement. The author’s obligations to
+previous writers are large, but they are general rather than specific, and the terms
+above used are not consciously borrowed from any source. The nearest approxi-
+mation to it which he has encountered is in Mr Symonds’ study quoted in next
+footnote; and even this passage he does not remember to have read when he
+formulated his own terms.
+
+
+really pretend to reduce to five feet, or even five accents, the studied
+irregularity of lines like these —
+“ Curiosity, inquisitive, importune.”
+“ Burnt after them to the bottomless pit.”
+“In the bosom of bliss, a bower of light.”
+“ Wallowing unwieldy, enormous in their gait.”
+“ And made him bow to the gods of his wives.”
+“ Shoots invisible virtue even to the deep.”
+(This last line might well be set as a crux to the pedant, asking him
+to pronounce of what English metre it is an example.) These are
+but a few instances culled from the unlikeliest of sources.* Had we
+chosen to go further afield, our instances might have been immensely
+multiplied and intensified. To take but one instance out of a
+thousand, what shall we make of Browning’s
+“ You are the Cardinal Acciauoli, and you
+The Abate Panciatici—two good Tuscan names.”
+Yet both these lines are intended for verses of ordinary length, and
+the hurrying rush of the syllables is evidently meant to express the
+eager alacrity with which Guido welcomes the visitors to his con-
+demned cell.
+Let us assume then, provisionally at least, that some such theory
+of the structure of English verse is the true one, and let us accord-
+ingly regard the hexameter simply as a verse of six periods, having a
+prevailingly dactylic or trochaic character, as opposed to iambic or
+anapaestic. These terms, which have been explained before, are
+used merely as a sort of convenient shorthand, not with any admis-
+sion of their actual or precise accuracy. Indeed, we have now parted
+company finally with the grammarians; we have heaved overboard,
+so far as actual use is concerned, all the lumber of prosody which we
+* Cf. Prof. Masson’s edition of Milton, essay on the poet’s versification;
+J. A. Symonds’ Blank Verse, London 1895 (reprinted from Appendix to
+Renaissance in Italy); and many other sources.
+
+
+carried with us at first, and retain these terms merely as a concise
+and convenient way of avoiding prolonged description. It may well
+be that there are no such actual “ feet ”at all in English; but the
+reader now understands the sort of musical effect denoted by these
+terms, and it saves time to use the familiar names, understanding
+once for all that not an exact “foot,” but merely an approximate
+intonation or cadence, is intended in each case.
+The English hexameter, then, will be simply a line of six periods
+—rhymed or rhymeless does not as yet appear—the prevailing
+intonation of which is dactylic or trochaic. Trochaic, observe, not
+spondaic. For, even having regard to “ intonations ” rather than
+actual “ feet,” it may be doubted whether the spondaic cadence exists
+in English; if at all, it occurs most rarely, and seems altogether
+opposed to the genius of our language, which delights in rapidity of
+movement and vivid emphasis of accent. Dactyls and trochees,
+therefore, may be expected to predominate in the metre we seek;
+and six of these, roughly speaking, may be taken as the normal basis
+of the line. Now here we are met by a dictum of our most eminent
+contemporary critic, who roundly asserts that all dactylic and
+spondaic forms are “unnatural and abhorrent” to English verse.*
+The spondaic we concede, but with regard to the other we must
+make bold to appeal from Mr Swinburne the critic to Mr Swinburne
+the poet. Whether or no this dictum be true when applied th the
+past of English poetry, his own work with that of his great fellow-
+singers prevents it from being true in the present, and forbids us to
+think it will be true in the future. During the last thirty years
+“dactylic” metres have come immensely more into favour, and Mr
+Swinburne’s own example has had much to do with this. It almost
+looks as if our poetry were entering on a dactylic era. Tennyson,
+* A. C. Swinburne, Studies in Song , London 1880, see introductory note to
+translation from Aristophanes.
+
+
+after sowing the metrical wild oats of his juvenile poems, begins
+steadily with iambic metres, progresses through the trochees of
+Locksley Hall to the vigorous dactyls of Maud—
+“ Peace in her vineyard, yes ! but a company forges the wine ”
+adopts this as the favourite ballad metre of his old age, and extends
+its sweep in the remarkable metres of Kapiolani and of Vastness —
+“ What but a murmur of gnats in the gloom, or a moment’s anger of
+bees in their hive.”
+Morris begins similarly with the iambics of the Earthly Paradise ,
+and goes on to the metre of Sigurd and the rest, to lines like
+“ Love is enough ; have no thought for to-morrow.”
+Rossetti, though more rarely, strikes the same note with unfailing
+mastery —
+“ Say, is it day, is it dusk in thy bower ? ”
+Browning, with a wider range of music, and less studious attention
+to niceties of metre, yet shows signs of the same influence, and
+progresses from Evefyfi Hope and Master Hugues of Saxe Gotha to
+the long exulting lines of Abt Vogler , and a ballad-measure much
+resembling that adopted by Tennyson. While Mr Swinburne, in
+the haunting melody of whose verse English metre has been exalted
+to heights of perfection never previously attained, from the first
+showed a marked fondness for the musical “ lilt ” which we have
+agreed roughly to call dactylic—
+“ Bind on thy sandals, O thou most fleet,
+Over the splendour and speed of thy feet ”
+and has carried his mastery of its magic, as we shall see, into regions
+never explored before. The example of these contemporary masters,
+as may be imagined, has not been lost upon younger singers, and a
+very cursory examination of our minor poetry will show that their
+influence in this direction has been fully felt and responded to. Is
+
+
+it likely, then, that in this development of dactylic verse the hexa-
+meter —the verse of six periods—should have been totally neglected ?
+We open the pages of our recent singers with a confident expectation
+that we shall find independent studies in this metre, and we are not
+disappointed.
+It will be best to confine our attention to one or two conspicuous
+instances, and those from our chief poets. We must set aside, of
+course, any poems consciously written after ancient models. Brown-
+ing’s Ixion, for instance, is composed in regular “ elegiacs ” of the
+school of Southey, and, though it has the vigour of genius, is not
+much better or worse metrically than other examples of that school.
+But the ringing lines of Abi Vogler , on the other hand, seem written
+from free and native inspiration, though they approximate with con-
+siderable closeness to the same elegiac type, only substituting a
+monosyllabic ending for the dissyllabic termination of the hexa-
+meter. A still more suggestive instance, however, because one still
+further removed from strict obedience to foreign influences, will be
+found in the Hesperia * of Mr Swinburne :
+“ Out of the golden remote wild west, where the sea without shore is,
+Full of the sunset, and sad, if at all, with the fulness of joy,
+As a wind sets in with the autumn that blows from the region of stories,
+Blows with a perfume of songs and of memories beloved from a boy,
+Blows from the capes of the past oversea to the bays of the present,
+Filled as with shadow of sound with the pulse of invisible feet.
+Far out to the shallows and straits of the future, by rough ways or pleasant,
+Is it thither the wind’s wings beat ? is it hither to me, O my sweet ?”
+These lines are obviously not “ elegiacs.” Here, as in Abt Vogler ,
+we are in a different region from that in which scholars and critics
+construct neat verses to order. We are listening to an English poet,
+singing after his own unfettered will, probably without any conscious
+reference to, or recollection of, the forms of verse we have been
+* Poems and Ballads (first series). London 1866.
+
+
+considering. Yet the result approximates in many respects very
+closely to these forms, and it will be worth while to study with
+some minuteness the points of resemblance and difference.
+(1) First, then, all these lines, but more particularly those with
+the dissyllabic rhyme, are verses of six periods. They would be
+“ scanned ” by grammarians as follows :
+“ Out of the | golden re- | mote wild | west, where the | sea without |
+shore is.”
+And so far they correspond precisely to the metre of “Evangeline” :—
+“ This is the j forest pri- | meval, the | murmuring j pines and the j hem-
+locks.”
+Only the third foot would be taken as a spondee in Mr Swinburne’s
+line, and as a dactyl in Longfellow’s. But in Longfellow’s poem
+lines of this type follow each other unbroken; in Mr Swinburne’s
+they alternate with ones of a slightly different pattern, and every
+set of four lines is joined together by alternate rhymes. Mr
+Swinburne has never given us a poem in long lines of the one
+pattern alone—hexameters, so to call them, instead of elegiacs.
+This experiment he may yet have in store for us, and it would be
+one of intense interest to students of poetry. It would teach
+us more about the construction of true English hexameters than
+all the pages of all the pedants. But in the meantime we must
+take what we have got, and study our hexameter, not singly, but
+in the metrical combination we venture to call “elegiac.”
+(2) The additional feature of rhyme, present in Mr Swinburne’s
+lines and absent in Longfellow’s, though it seems so important to
+the English reader, is not of much moment to the metrical critic.
+It is accidental so far, that the metre could exist without it, though
+the effect produced would of course be very different. Mr
+Swinburne’s musical ear and dexterous handicraft in the matter
+of words enable him to use rhymes where another writer might
+
+
+find them hampering and impracticable. The dissyllabic rhyme, in
+particular, has hardly been handled by any one else with such
+mastery as by Mr Swinburne. Browning uses it with equal facility,
+but always with more or less of a sub-grotesque effect. In Mr
+Swinburne it is compatible with perfect seriousness, though even
+with him it may be doubted whether it is not more consonant with
+the lighter than the loftier strains of serious thought. But any
+succeeding singer will have to Judge for himself whether he shall
+employ the dissyllabic rhyme; it is not involved necessarily as a
+part of the problem.
+(3) The preponderance of dactylic over trochaic cadences is
+probably again a matter personal to the poet. It is as marked in
+Evangeline as in Hesperia, though a very different measure of
+satisfaction attends the result. Mr Swinburne’s fondness for the
+dactylic “lilt” has been already referred to, and we need not be
+surprised to find it so conspicuous here. But even here it is any-
+thing but invariable; the line we contrasted with Longfellow’s
+affords an immediate instance. And doubtless any succeeding
+singer would claim his right to treat the metre as freely as Mr
+Swinburne has done, to mould it after his own pattern, and produce
+from it his own cadences and effects.
+(4) More important, though applying only to the alternate lines,
+the supposed “ pentameters ” of our parallel, is what grammarians
+would call the “resolution-of the caesura.” The ccesura, or “cutting
+in twain,” was that sharp division between the two halves of the
+pentameter, which we described in dealing with the Classic metres.
+And the English line which we took to exemplify it was one quoted
+with a slight alteration from this very poem.
+“ Stretches and swings to the slow ( passionate pulse of the sea ”
+is, however, not the normal type of these alternate lines; it is an
+exceptional effect, deliberately produced by the suppression of one
+
+
+or more syllables, and the consequent break in the line. The
+usual type, to which this is a solitary exception, runs thus:—
+“ Filled as with shadow of sound with the pulse of invisible feet.”
+Now does the English reader detect much difference in the structure
+of, or rather the effect produced by, these two verses? The poet
+has treated them as equally admissible: is he not justified? To
+the English reader’s ear, are they not both equally permissible,
+legitimate variations in either case on one fundamental type ?If so,
+our theory of metre has received a most important and far-reaching
+corroboration. For it is evident that this indicates that the “period
+of time,” rather than either accent or syllables, is what both poet
+and reader regard. And it follows that in this particular case the
+English “pentameter” can be written in either way with perfect
+propriety; which, to the classical student’s narrower view, will
+seem almost like giving up the theoretical pentameter altogether.
+(5) Similarly, and following closely on the heels of the last remark,
+we find that, though the metre is mainly dactylic, the lines are far
+from always beginning with an accented syllable. The use of
+redundant syllables at the beginning of a line is one of the commonest
+licences of native English poetry, and there seems not the slightest
+reason why it should not be found in this metre as in so many
+others. A single instance will illustrate what is meant.
+“ Thou who art bearing my buckler and bow,
+Should the soldiers of Saul look away from the foe,
+Stretch me that moment in blood at thy feet!
+Mine be the doom, which they dared not to meet.”
+It is obvious that in the second line the words Should the are extra
+syllables, redundant as they are technically called, outside and
+beyond the regular beat of the verse, but which our ear in reading
+accepts naturally and almost without notice. Will it be believed
+that this obvious and familiar method, practised by every English
+
+
+writer and accepted as a matter of course by every English reader,
+finds no place in the schemes of the hexameter-mongers? With
+hardly an exception* they eschew it entirely. Hence comes that
+uncertainty of initial accent, which we have noticed as one of the
+chief stumbling-blocks to the casual reader. Southey indeed claimed
+the liberty of substituting “any foot” for a dactyl at the beginning
+of the line, thereby securing variety at the cost of effectiveness. He
+seems never to have thought of this other most natural method of
+avoiding his difficulty.! His followers either repeat his error, or
+avoid it by unnatural inversions such as “ Ran he at once to the
+shore,” and the like. In Androtneda and Evangeline it is believed
+that not one single line begins with a redundant syllable. Even
+Clough, in the wild metrical licence of the “ Bothie” and after much
+careful study of verse-structures, hardly ever permits it. But the
+example of Hesperia confirms what might have seemed a priori
+probable, and enables us to claim for this variation its legitimate
+place in the development of English hexameters.
+(6) Lastly, in spite of all minor differences, the general effect of
+Mr Swinburne’s lines is unmistakeably in accordance with what we
+are looking for.
+“ Straight from the sunset, across white waves whence rose as a daughter
+Venus”
+* The following instances have been noted, and no doubt the list might be
+considerably extended. Owen- Meredith (Lord Lytton) in The IVanderer, see
+a poem called The Shore: the preceding piece, Seaside Elegiacs, is of the con-
+ventional type, whereas in The Shore the metre is handled with great freedom and
+boldness. Iliad, 1.-111., translated by Fred H. J. Ritso, London 1861 : redun-
+dant syllables used freely. Sir Lewis Morris, in Vox Clamantium (a compilation
+by different writers), London 1894.
+In lighter verse it seems to occur quite naturally, e.g., “ ’Pon my word, as I
+live, said a younger, I really think he has done it. ” Landor, verses on Person
+(Works, Vol. VIII., p. 346).
+f Yet Coleridge himself, it is worth noting, had used it once in the Hymn to
+the Earth quoted on a previous page.
+
+
+is a hexameter as good as any the school of Southey and Coleridge
+have produced.
+“Sudden and steady the music, as eight hoofs trample and thunder”
+not only conforms to hexameter structure, but recalls with no
+unworthy reproduction the music of the Virgilian line of which it
+seems a reminiscence. Take any of the best lines of Kingsley’s
+Andromeda , such as
+“ Deep in the wane of the night, as the moon sank low to the westward”—
+or
+“ Cool in the fierce still noon, where streams glance clear in the moss-beds,”
+and say if these lines differ appreciably from Mr Swinburne’s quoted
+above. Does the English reader’s ear detect any substantial differ-
+ence in such a line as this—
+“As the cross that a wild nun clasps till the edge of it bruises her bosom?”
+If not, it is clear that in these lines of Mr Swinburne’s we have at
+least the hint for a more free and truly English use of the metre,
+that his redundant syllables and resolved caesuras and the rest must
+all take their place as legitimate variations on the one fundamental
+type of structure.
+It is with deep interest, therefore, that we search the later
+volumes of this poet to see if he has elsewhere employed or further
+developed a metre of this kind. And in a piece called Evening on
+the Broads * we find precisely what we are in search of;—
+“ Over two shadowless waters, adrift as a pinnace in peril,
+Hangs as in heavy suspense, charged with irresolute light,
+Softly the soul of the sunset upholden awhile on the sterile
+Waves and wastes of the land, half repossessed by the night.”
+* Studies in Song. London 1880.
+
+
+It will be seen that there is here, as in Browning’s Abt Vogler , a
+closer approach to the classic pentameter than in Hesperia; the
+caesural pause is this time the rule, not the exception. For the
+rest, the reader can now study the music of this second poem for
+himself. He will note in it the same easy mastery of metrical
+form, the same transcending of mere prosodiacal counting of
+syllables. The very first words of the poem, “ Over two,” could
+hardly by the most careless listener be accounted a dactyl.
+Another line begins with “A wall of turbid water,” where the
+rigid metrist would demand some such phrase as. “Wall of a.”
+The csesural pause, again, is “ resolved ” or not at the poet’s
+pleasure, and he does not hesitate to substitute a trochee for a
+dactyl in the most important place in the “ pentameter ” ;
+“ Spirits of men that are eased when the wheels of the sun
+Redundant syllables occur freely and frequently, even in so striking
+an instance as this “ hexameter ” :
+“ Discoloured, opaque, suspended in sign as of strength without pity.”
+But always the reader’s ear is satisfied, always the victorious march
+of the music carries him unquestioning and unresisting along. It
+is only when in cold blood he returns afterwards to retrace his
+steps, to analyse with sober exactness the mechanism and structure
+of the strains that have carried him away captive, that he finds
+how largely these are the wqrk simply of the poet’s ear. He finds
+then that four or five syllables have been crowded into the normal
+space of three, without in any way disturbing his sense of the beat
+and movement of the line. And the thin partitions that in English
+poetry divide the dactylic from the anapaestic cadence are exempli-
+fied to him in the line, which might be set to our pedantic critic
+to reconcile with his preconceived theories of the pentameter:—
+“ The delight of the light she knows not, nor answers the sun or the stars.”
+It may not be possible to cite many examples so apposite as
+
+
+the foregoing. But enough has been surely done to prove that the
+thesis of this paper is no mere hypothesis. While critics have
+been disputing as to the legitimacy in English of their “ accentual
+hexameters,” our poets have been quietly building up a form of
+verse which, to all intents and purposes, is a reproduction of the
+hexameter under the conditions of English metre. Whether it is
+to be carried any further the poets alone can tell us. Let it be
+repeated once more that the poet must precede the critic, not the
+critic the poet. To habituate the ear of English readers, much
+more than mere skill in metrification is necessary. It needs the
+sweep and stress of a great poem, compelling the reader’s attention,
+dominating him by the fervour of its thought or passion, fascinating
+him by the charm of its style, and challenging his submission to the
+witchery of its music. Not otherwise has any other metre won its
+way to a place in our poetry ; not otherwise can the hexameter, in
+turn, be introduced to English readers. Apart from all question of
+metrical structure, can we say that the hexameter in any shape or
+form has yet had this introduction? The nearest approach is in
+the pages of Longfellow and Clough. Evangeline , we have said, is
+probably the poem by which this metre is as yet best known to the
+English public. Fluent and graceful, like all its writer’s work, this
+poem, with its companion Miles Standish , has done much to accustom
+our ears to a rhymeless, somewhat monotonous, steadily flowing six-
+period line. But its nerveless dactyls, its sound as of cantering
+rather than galloping, and the somewhat tepid interest with which
+we follow its shadowy plot may be not unfairly held to have tended
+toward a false ideal, and retarded rather than advanced the progress
+of hexameter verse in our language. Clough’s poems in this metre,
+again, are delightful reading in their way. The Bothie especially,
+that quaint hotch-potch of Radicalism and Long Vacation love-
+making, with its Oxford slang and Scotch Highland scenery, is
+perennially amusing, and holds some fine poetry in solution, though
+
+
+it is scarcely to be called a poem. It is a serio-comic burlesque, in
+which the mock-heroic character of the metre admirably suits the
+tone of the thought. Indeed it may be said that the “ accentual ”
+hexameter has reached its highest attainment in this modest enter-
+prise, and that Clough has carried it to the furthest development
+of which its'artificial structure is capable, by showing how well its
+humour can represent the various phases of a semi-serious, semi-
+playful, rapidly changing, always self-conscious, and altogether
+charming idyllic medley.
+But this is not the way in which great poetry is written.
+If any new writer, therefore, should turn his attention to this form
+of verse—if he should feel, with Matthew Arnold,* that “ our poets
+will not always be content to do without the music ” of this metre,
+while recognising with Arnold, with Worsley,f and with the argument
+of this paper, that the hexameter of the future still remains to be
+written —he is advised to proceed on a different method. Let him
+turn his back, definitely and conclusively, on the theories of the
+“accentual” school, and the artificial verses of Kingsley, Lockhart,
+Whewell, Hawtrey, Julius Hare, and the rest. Let him remain
+equally firm against those, if there be any, who would set him to
+the impossible task of framing his metre in accordance with un-
+necessary and invariable rules of syllabic “quantity.” Let him
+read Southey and Longfellow only to criticise, and while studying
+both Clough’s theory and, his practice beware of following him
+into the regions of the serio-comic and mock-heroic. Let him
+turn for inspiration rather to such poems as Tennyson’s Parnassus ,
+Maeldune , Lucknow , as well as to those previously mentioned; to
+Browning’s Abt Vogler and Up at a Villa —
+“ Beggars can scarcely be choosers, but still —ah, the pity, the pity ! ”
+* Lectures On Translating Homer: see previous footnote.
+f Preface to translation of Odyssey, Vol. 11. (published 1862).
+
+
+to the strong war-like music of Sigurd , said to be Morris’s own
+favourite among all his poems; and to any and every attempt
+which Mr Swinburne may make to reap fresh laurels in the field
+he has already occupied so victoriously. From each and all of
+these makers he may catch “ hints of the proper craft, tricks of
+the tool’s true play.” But he will probably be well advised to
+lend a reluctant ear to the siren melody of the last-named writer’s
+dactylics; it is not for every one to play on the string or strings
+of a Paganini or a Sarasate. Rather let him study for himself the
+arcana of his subject, the mysteries of natural quantity and pause—
+considering, for example, whether Milton ever admits two weak
+syllables without a lingering of the voice between, “Of Oxeb, or
+of Sinai.” Let him thus string his harp his own way, and learn
+to play on it to the best of his natural ability.
+Equipped now \yith all the resources of his art, the future
+hexametrist must next throw himself boldly on the wings of his
+imagination. Unless they bear him off his feet in their triumphal
+progress, he need never expect to carry his hearers captive, as
+the true singer does with his audience. In an old familiar metre,
+learning and elaboration go far to mask the absence of creative
+faculty; in a new and strange one, its want is painfully felt at
+once. It needs the plastic power and reverent love, the insight
+and the sense for sound of a great original poet, to master the
+secrets of any new form of melody or harmony, and compel it to
+yield up its magic to the listening ear of his readers. Does the
+discouraged experimenter incline to retort with Rasselas, “You
+have shown how impossible it is to be a poet ” ? If his heart fail
+him before the difficulties of the way, it is certainly wiser to turn
+back while there is time. Yet difficulties present themselves as
+opportunities to the strong; and if the labour be arduous, the
+reward is great. To add a new engine to the mighty armoury of
+English verse—to tune a new string to its harp, say rather a new
+
+
+stop to the stately roll of its organ-music—is an ambition worth
+cherishing, and worth spending one’s best strength on. We may
+leave the subject, then, in the hands of the poets, confident that
+they will not long be able to “do without the music” of this metre;
+waiting with expectancy its next development, at the hand of some
+competent master; recognising that such a development, for which
+the time seems ripe, will proceed on laws of its own, and not
+borrow its canons from models unsuited to the genius of our
+language; and recognising, too, that such a development, while
+adding to the riches of the great treasure-house of English poetry,
+will incidentally solve a long-standing difficulty, by supplying us,
+as many scholars have already perceived, with the only possible
+instrument for a fit and adequate translation of the master-poems
+of ancient Greece into their poetic equivalents in the English
+language.
+To conclude these remarks with another specimen of English hexa-
+meters may seem both a bathos and a presumption. Undoubtedly,
+till the master poet has shown the way, we can but speculate as to
+the right course, and may even like Southey and Longfellow do more
+harm than good by our endeavours. Yet, on the other hand, great
+poets build on the blunders and shortcomings of their predecessors.
+Shakspeare himself was not possible till the earlier Elizabethans had
+experimented and made mistakes. So on the whole, though after
+much hesitation, and on the principle that an ounce of practice is
+sometimes worth a pound of theory, it has been decided to print
+these verses. Tentative and experimental, they have purposely been
+left rather in the rough. Some ears will doubtless be offended by
+the liberal use of a trochaic cadence: others, it is hoped, will recog-
+nise in this a natural and legitimate variation from the common
+model. Redundant syllables have not been studiously introduced,
+but they have been allowed to occur freely and naturally as they
+
+
+came. The verses are intended primarily if not solely for the English
+reader. He is asked to read them naturally and freely just as he
+would read any other English verses, without the slightest thought of
+doctrines or theories of metre. So reading, he is expected to find no
+difficulty in recognising these as unrhymed six-period lines, differing
+in regard of musical effect from the verses quoted in this paper, but
+built substantially on the same model, however unworthy otherwise
+to be placed beside them. The subject is taken from the old heroic
+poem of the Greeks, and the narrative in places follows more or less
+closely that of the Fifth Book of the Odyssey. But it does not
+profess to be a translation from that poem, and must not in any way
+be judged as such. Rather perhaps it is intended as a specimen to
+show how an English singer might seek to reproduce the effect of that
+poem to English readers, following for the most part the course of
+the Homeric narrative, without in any way pledging himself faithfully
+to reflect every line and movement of the original. In such a repro-
+duction, —which would not interfere with the province of the actual
+.translator, as it would start from a different conception, and aim at a
+different ideal, —it is permissible to hope that the non-classical reader
+might find presented to him some new features in those many-sided
+poems which are as yet the despair and recognised impossibility of
+poetical translators; that it might enable him to catch, in however
+faint and feeble an echo, some hint of the imperishable music and
+sea-like swell of the Homeric line; that not in these verses, but in
+the more competent attempt of a more fortunate successor, he may
+attain to hear some reverberation, though it be over league-long
+distance, of the “ surge and thunder of the Odyssey.”
+
+
+THE RETURN OF ODYSSEUS.
+{A FRAGMENT.)
+Troy, tall Troy, was down. Her bulwarks heavily builded
+Low in the dust were laid ; her proud pre-eminent chieftains,
+Hector, Paris, and all those sons of white-haired Priam,
+All were slain or fled. And they, their doughty assailants,
+They who ten loud years had waged fierce war round I lion,
+Scourged long since by the anger of gods through wanderings woeful,
+Now in their well-loved homes, but some in narrower chambers,
+Rested, tired of fight, and heard —if surely in Hades
+Memory of deeds immortal comfort the soul of heroes—
+Minstrels thoro’ the land their deathless victory chanting,
+And all the old ten years’ tale. He only, gallant Odysseus,
+Far in an isle of the west, in a sea-cave home of a goddess,
+Mourned and wept and sighed, remembering Ithaca always,
+Wife and child long lost, and the island home of his empire.
+Tell then the tale how, last and sole, and weary of roaming,
+Friendless, wayworn, strange, in the twentieth year of exile,
+Mighty Odysseus came to his Ithacan home, and conquered.
+The gods held council sage ; in the wide Olympian chamber
+High upon golden thrones the great gods sat and counselled.
+Then to our father Zeus spake bright-eyed Pallas Athene.
+“ Quite, is he quite forgot, that wise world-wandering hero,
+He who in sea-girt isle yet abides through dolour and exile,
+Longing to see but the smoke’s up-leap from an Ithacan homestead,
+See it but once, or die ? Henceforth let no one of mortals
+
+
+Reverence the Immortals duly, or sacrifice upon their altars,
+Since he, the bravest, best, the doer of right to his people,
+Pitiful, tender, wise, of the high gods reverent alway,
+Languishes thus forlorn, by gods and men forsaken.”
+Then in the midst of the gods spake Zeus, great sire of all things.
+“ Daughter of mine, what word has escaped from lips unweeting ?
+Not forgotten of gods or men is the brave Odysseus.
+Nay, but his doom he drees, and the fateful term of his exile,
+For that his daring hand wrought deadliest harm to the Cyclops,
+Son of the Shaker of earth, the Lord of the Sea, Poseidon.
+Wherefore still unappeased the great god drives him wand’ring,
+Slaying him not, but harassing still, with an enmity tireless.
+But —for the date draws nigh, and the destined goal of his anguish—
+Hermes now let us send to the daughter of terrible Atlas,
+Far over land and sea to the bourne of the western waters,
+Bidding her speed on his way her captive wearily pining ;
+So that, the fates fulfilled, by gods and men unholpen,
+After wanderings manifold, toil and peril and shipwreck,
+Mighty Odysseus come to his Ithacan home in safety.”
+Hermes heard and sped ; to his feet his golden sandals,
+Wind-winged, work of a god, he bound, and his wand of magic
+Grasping shot from on high ; like a sea-bird eager of outlook
+Flashed over land and sea, rich land and hungering ocean,
+Yea, like a sea-bird flashed on the crests of the tumbling billows
+Far o’er the western wave to an isle in the western waters,
+Wood-clad, wild, remote. From the violet depth up-darting f
+Swift to the shore he hied, and the wonderful home of the goddess,
+Where in a vast sea-cave she dwelt, that daughter of Atlas,
+Beautiful-haired Calypso. Alder, aspen, and cypress
+Circled sheltering round, where birds of shadowy pinion
+
+
+Nested, owls and hawks and sea-crows noisily chattering.
+Meadows bright were there, with violet crowned and parsley,
+Bright with sinuous rills, four founts of crystal water,
+Each on its own way wending. Around the porch of the sea-cave
+Pendulous bloomed a vine, with rich luxuriant clusters ;
+While from its hid recess came odour of fragrant firewood,
+Cedar and citron, burning. There the beautiful goddess
+Worked at her loom, and sang, with a golden shuttle weaving ;
+Shrill was her voice and sweet. And the high god, gazing, marvelled.
+But when he had entered there to the wonderful .home of the goddess,
+Swiftly she knew him, spake, and hailed with words of greeting.
+“ Lord of the golden wand, most worshipful and beloved,
+Long now a stranger here, what brings thee thus to my dwelling ?
+Speak thy behest: be mine to fulfil, when thy mouth hath spoken,
+All the decrees of fate. But first, a wayfarer’s welcome.”
+Then on the table fair ambrosia and ruby nectar
+Heaping, she bade him sit; and the Argus-slayer feasted.
+Hunger and thirst appeased, he spake grave words of answer.
+“ Verily Zeus himself hath sent me, little willing.
+For who of gods or men this world of wandering water,
+Homeless, hungering, void, would willingly seek to traverse ?
+Yet the behest of Zeus nor men nor gods may gainsay.
+Him whom thou boldest here he bids thee send rejoicing
+Over the wide waste sea. Not here is he doomed to perish :
+Nay, but his fate stands writ to behold his friends and kinsmen,
+Back to his high-roofed home, to his Ithaca, safe returning.”
+Hermes ended grave ; but Calypso paled and trembled,
+And shuddering spake in haste wild words of wrathful chiding.
+
+
+“Jealous are ye in your tyranny, gods ! No one of immortals
+Suffer ye long to be wed to a mortal, loving him dearly.
+Thus when the rosy Dawn had wooed and won Orion,
+Thus when lasion Demeter loved and cherished,
+Soon with an arrowy bolt their short-lived bliss was sundered.
+Me too, me in your envious spite ye grudge this mortal,
+Him that I found left lone, on the keel of his vessel riding,
+Comrades cruelly lost, for his ship the dazzle of lightning
+Struck, and it whelmed his bark, and left him desperate clinging
+Fast to the keel in the wine-hued deep ; and billow and tempest
+Carried him helpless here to the shore of my sea-girt dwelling.
+Him then I loved and saved, and tenderly sought to cherish,
+Yea, would have made immortal, knowing not these for ever,
+Death nor eld. But enough ! small gain with Zeus to parley.
+Over the sea once more let him go, if the god hath spoken,
+O’er the unharvested deep, if Zeus have spoken it surely,
+I will not make or mend ; no ships are mine, no rowers,
+Over the sea’s broad back to bear him speedily onward.
+Yet will I give, not hide, thy message, telling it truly,
+So that in peace he may come to his Ithaca, safe returning.”
+The goddess spake, and ceased : her answered messenger Hermes.
+“Do as thou sayest, lady. The word of Zeus be stablished.”
+Then over land and sea departed the Argus-slayer.
+But fair Calypso sought the all-patient goodly Odysseus.
+Him when she found, by the shore of the sea he sat lamenting,
+Over the wide wave straining his eyes, whence tears perpetual
+Flowed unstanched, deep-wrung, and his soul dissolved in yearning
+Far on the sea to go to his well-loved Ithacan country.
+And standing near to his side thus spake the beautiful goddess.
+
+
+“ Now be an end of grief, fond soul, and of hopeless yearning !
+Freely, and all unharmed, I send thee forth of the island.
+Come now and cut tall trees, and shape with mastery cunning
+Plank and beam and spar, that a raft may bear thee joyful
+Over the dim wide sea. Myself will plentiful outfit,
+Water and bread and wine and raiment needful furnish,
+Yea, and a favouring wind in thy wake, to bear thee onward ;
+So that unharmed and safe, if the great Olympian dwellers,
+Who are stronger than I, to will and to do, desire it truly,
+Thou to thy well-loved home mayest yet return rejoicing.”
+Thus then the goddess spake ; but mighty Odysseus answered,
+Doubting sorely, “ Lady, I dread thy secret purpose.
+One thing thou sayest, another concealed in thy breast abideth,
+Bidding me thus to embark in a raft on the waters endless,
+Where even mightiest ships full oft are evilly handled.
+Willingly never would I thus fare o’er perilous ocean,
+Save with a mighty oath thou swear and truly assure me
+Nothing of ill thou deem’st or of secret mischief to meward,
+Sending me in such case o’er the wide unharvested waters.”
+Sweetly the goddess smiled, and his sunburnt cheek
+“Wiliest of men,” she said, “no babe art thou for counsel.
+Nay, but by earth I swear, and the blue sky wide o’erarching,
+And (mightiest oath of all, and dreadful even to immortals)
+By the wave of Styx below, no secret guile I cherish.
+Even as the need were mine, so straight is my rede and counsel.
+For my heart, trust me, too is made not of stone nor iron,
+But it loves the right, and can pity the need of a hapless mortal.”
+She spake, and led the way, and quickly he followed after,
+And came to the arched cave ; and there they sat together,
+
+
+The man and the beautiful nymph, and meat and drink beside him,
+Such as we mortals use, she placed, but near to the goddess
+Swiftly her handmaids placed ambrosia and ruby nectar.
+And when they had eaten and drunk, she spake once more—
+“ Odysseus,
+Master of cunning wiles, Zeus-born, thou longest sorely
+Now to return and come to thy well-loved Ithacan country.
+Go, and the fates be kind ! But an if thou knewest it rightly,
+All that remains to endure, and the woes that still may await thee,
+Better it yet might seem to abide in my island cavern,
+Blest with immortal life, and the love of a deathless goddess,
+Who surely in form and face is fair as the wife thou lovest,
+Fairer than she, than Penelope’s self, since the seed of immortals
+Neither in mould nor mind may yield to the daughters of women.”
+And her thus answered there the resourceful son of Laertes :
+“ Goddess and queen, be it mine to speak, be it thine to pardon.
+Fairer art thou, I wis, than the wife I long for hourly,
+Fairer by far than Penelope’s self, for the daughters of women
+Never in face or form may match with the blessed immortals.
+Yet —be not wroth with me saying it—night and morn unceasing
+Ever my heart is fain to behold my day of returning.
+Be it that toil and sorrow await me, these of a surety
+Still can I bear as I bore them of old ; if peril and shipwreck
+Even are mine, and a god once more in the wine-dark waters
+Whelm me —yet would I go : for my heart is steadfast ever.
+Much have I toiled and striven ; be strife and toil my portion.”
+So with each other that night in the wonderful cave they communed,
+Then in the gray of the dawn to the tallest woods they hied them,
+He with his broad bright axe ; and the goddess brought him wedges,
+
+
+Augurs too, and planes ; but then—for she brooked not seeing—
+Back to the cave she went. And the hero toiled unceasing.
+Four long days he wrought, four days of strenuous labour :
+Till, at the last, when the work was done, and the beams were bolted,
+Squared were the planks, and morticed home, and the bulwarks rounded,
+Fenced from stem to stern, and the mast and yard set upright,
+Sails and sheets well braced, and the helm fixed firm in its socket,
+Lastly on rollers huge he pushed his raft to the ocean.
+So on the fifth fair morn, when food and raiment needful,
+Water and wine and bread, the immortal nymph had given him,
+Sadly divine Calypso speeded him forth from the island.
+A warm and favouring wind she made to follow him going,
+And the hero’s heart rejoiced, as he trimmed his sail to the breezes,
+And over the wine-hued sea fared forth to his Ithacan country.
+All day long to the east he steered, nor at night did slumber
+Visit his wakeful eyes, but he held his course in the darkness,
+Guiding his helm by the stars, as divine Calypso taught him.
+Eighteen days he sailed, till afar in the eastward distance
+Shadowy loomed and large the Phaeacian land before him,
+Like the boss of a giant shield on the wide dim misty waters,
+’Twas then Poseidon saw him, lord of the dread sea-billows,
+Gazing high from the Lyci*m hills—for a feast was made him
+Far at the ends of the earth, where sinks the sun to the ocean.
+There with the blameless tribes of the South he had staid and feasted,
+But now returning spied the raft and the wanderer weary
+Borne on the placid main. And the god’s heart swelled with fury,
+And stormily shaking his head with himself in his wrath he communed.
+“ So then —while I, secure, with the blameless Ethiop feasted—
+The gods had other thoughts for the hated wretch, Odysseus.
+He nears yon destined shore, the goal of his sorrow and labour.
+
+
+Yet, even yet, if a god have might, and the wave a master,
+Yet shall he taste and feel the weight of the Sea-god’s anger.”
+Speaking, he called his storms, and his giant sceptre wielding
+Stirred up the deep ; grim darkness fell over earth and heaven.
+And the blasts of all the winds came rushing at once together,
+Heavy with clouds, and rolling the might of their mountain-billows.
+Then did Odysseus see, and his knees with fear were loosened,
+And heavy at heart he spake—
+“ Most miserable of mortals !
+What last and worst of woes is destined here to befall me ?
+Well did the goddess warn. For, see, heaven lowers in tempest.
+The wild deep roars —waves foam —winds rage —my doom is certain.
+Happy of men were they, who died in the Trojan leaguer,
+Happy my comrades all! Would God I had died beside them,
+There in the storm of fight, when around the fallen Achilles
+Hurtled the Trojan shafts. For there I had died in glory,
+Praised by the Danaans, honoured in death with a funeral splendid,
+But now by a shameful fate I am doomed this day to perish.”
+As he spake, a white wave swelled o’er head, and terribly rising
+Hurled on the raft. And the stout mast snapped, and the sail and
+yard-arm
+Crashed in the deep, and the hero, swept from his seat at the rudder,
+Fell, and the deep wave whelmed him, clogged and sunk by his clothing,
+Whirling him far. Long time he laboured, mightily striving,
+Watching the raft, till at length, as the wild wave drifted it near him,
+Sudden he sprang, and clutched, and clung to it, tempest-battered,
+Clung to it, climbed, and sat, out of imminent death delivered.
+And the fierce wave seized it and swept, like a plaything, hither and
+thither,
+Light as at autumn-tide rude Boreas over the champaign
+
+
+Tosses the thistle’s down, and its tufts cling tight together ;
+So on the turbulent deep did the wild waves hurry their plaything
+This way now, now that, and the North and the South wind tossed it,
+And the East to the furious West would abandon it, helpless drifting.
+But a sea-nymph marked him there, fair Ino the white sea-goddess,
+Daughter of Cadmus once, and reared as a mortal maiden,
+Now with the bright sea-deities sharing glory and honour.
+Seeing she pitied, and shaped like a sea-gull fresh from diving
+Perched on the raft, and spake.
+“Ah hapless ! why without ceasing
+Still doth Poseidon rage, dire evil against thee brooding ?
+Yet shall he not thus end thee, for all his rage and frenzy.
+Hearken—not witless thou —thy cumberous raiment doffing
+Leave thou the raft to be borne at will by billow and tempest,
+And boldly strike for the shore, to the might of thy strong arms trusting.
+Bind thee around thy breast this scarf of heavenly texture,
+Pain nor death can assault thee then. On the safe shore landed,
+Loose it, and fling far forth from the land on the wine-dark waters,
+Looking not back, but turning away,”
+The scarf she left him ;
+Then to the billowy deep once more like a sea-gull darting
+Plunged, and the dark wave hid her. Odysseus gazed in wonder,
+And thus with his dauntless mind in anxious thought he pondered.
+“Ah me ! what wiles are these, what craft of another immortal,
+Bidding me loose from the raft, to the treacherous wave confiding ?
+Far is the shore, and the waters deep. Meseemeth it better
+Here to abide, while the raft holds out, with a patience steadfast.
+Then, if no better may be, when the planks ai*e riven asunder,
+Then at the last to attempt the shore.”
+
+
+He spake, and pondered.
+But now a mightiest wave Poseidon hurled against him,
+Hurled, and it crashed, and came, illimitable, ruining, endless,
+High over-arched. Like a hillock of chaff that the wild winds scatter,
+Swiftly the raft’s torn planks were dashed and shattered asunder
+Wide on the wave ; but Odysseus, falling, grasped at a timber,
+Straddled it swift, and rode ; and he stripped his raiment from him,
+Binding around his breast the scarf, the gift of a goddess ;
+Then on the sea-wave prone, to his hands’ strong oarage trusting,
+Fell, and essayed to swim. And the grim Earth-shaker, watchful,
+Nodded in fierce disdain, and thus reviled him struggling.
+“ Go, after many woes, on the wave a wanderer helpless.
+Thus is my vengeance wreaked : nor lightly, I think, thou ’scapest
+Now to the shore, nor soon to forget Poseidon’s anger.”
+Two long nights and days on the breast of the heaving billow
+Gallant Odysseus rode, and his heart grew sore within him.
+But when the third fair morn arose in perfected glory,
+Still was the air and calm, and aloft on a tall crest mounting
+Sudden he saw, full nigh, the Phaeacian land before him.
+As when a father dear beneath the eyes of his children
+Wakes to a strong new life, when the wasting fever is ended,
+And all their hearts are glad, that the god hath ceased to vex him ;
+So to Odysseus’ eyes seemed that fair landscape opening,
+Field and hill and wood. With strong strokes eagerly forward
+Pressed he, joyful at heart, to the welcome strand forth-reaching.
+But when he had neared the shore, to as far as a voice might carry,
+Nought but the thunderous main was heard, for terribly breaking
+The loud wave crashed on the rocks, and the foam flew high to the
+cliff-top.
+Port was there none, nor creek, nor roads where a ship might anchor :
+
+
+Nought but the jutting crags, and rocks, and the breaking billow.
+And then Odysseus feared, and heavily spake within him.
+“ Alas ! when Zeus, unhoped, deliverance out of danger
+Has wrought, and brought me safe through the deep abysms of ocean,
+Yet can I find no help, no landing-place before me.
+For the smooth cliff rises sheer, and the grim wave bellows under ;
+Sharp are the crags, and the waters deep. If I turn me seaward,
+Coasting along the shore, till I reach some land-locked haven,
+Haply a monstrous wave may hurry me far to the ocean,
+Or yet more monstrous beast, of the many that Amphitritfe
+Shepherds in deep sea-caves, may spring upon me and rend me,
+For well I have learned the wrath of the Shaker of earth, Poseidon.”
+As he spake, a great wave seized him, bearing him up to the rock-wall.
+Then had his bones been crushed, and his fair skin terribly mangled,
+Had not Athene, mindful, succoured the chief in his peril.
+Swift to a crag with his hands he clung, and the wave, whirled past him,
+Roared on the cliff; he clung ; but the surge of it, eddying backward,
+Snatched him again from his hold, and dashed him mightily seaward.
+As when a polypus clings in his den, and the strong wave refluent
+Tears him struggling forth, and the pebbles stick to his suckers,
+So was Odysseus torn, and the skin of his hands he left there,
+Whelmed in the wave ; but Athene still gave strength to her hero,
+Else had he found his fate, or in spite of fate had perished.
+Diving under the breaker, as again it thundered shoreward,
+He rose on the seaward side, and coasting, ever regardful,
+Swam, till he came at the last to the mouth of a fair-flowing river,
+Sheltered, smooth, stone-free. And thus he prayed to the river,
+“ Lord of the stream, whosoever thou art, O hear my prayer.
+Suppliant verily I, from the wrath of Poseidon fleeing.
+
+
+Even the most high gods respect a suppliant’s title.
+Hear and pity, O king ! ”
+And the river heard him praying ;
+Yea, and it stayed its stream, and smoothed its billowy waters,
+Bringing him safe to shore. And down sank mighty Odysseus
+There, for his knees and his strong hands failed, and his heart within him
+Flagged, and the salt brine gushed from his swollen mouth and nostrils.
+So without spirit or life for a while he lay, deep-weary.
+Then when the breath came back, and his spirit revived within him,
+Loosing the scarf, he rose, and into the flowing river
+Cast it; the river caught, and carried it down to the ocean,
+And Ino fair received it. But he, once more back-turning,
+Fell in the reeds, and kissed with his lips the warm and kindly
+Earth, the giver of food. And weary, he lay and pondered,
+Whether were safer there by the river’s bed to couch him,
+Prey to the dew and the frost and the bitter winds of morning,
+Or the wooded upland seek, where, frost and fever avoided,
+Haply might sullen beasts of the wood devour and rend him.
+Yet at the last this pleased him ; a wide spot near to the river
+Quickly he found, and crept where twin shrubs, olive and mastic,
+Grew from one stem ; no wind might pierce through their leafy covert,
+No, nor the sun’s fierce rays, nor the might of the driving shower.
+In then he crept, and lay ; and his couch was made upon dead leaves
+Fall’n, for a wealth of these lay deeply around and about him.
+As when a careful hind, in a neighbourless out-field steading,
+Sedulous haps a brand, in the deep dark ashes hiding,
+Saving the spark of fire ; so deep in the leaves he laid him,
+Happing them carefully round and about; and Athene o’er him
+Slumber refreshing shed, that his limbs might rest from travail.
+So in his woodland couch safe slept the mighty Odysseus.
+F/NIS.
+
+
+
+

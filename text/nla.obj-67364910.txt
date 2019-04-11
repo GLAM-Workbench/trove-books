@@ -1,0 +1,1709 @@
+
+
+ON THE APPLICATION OF
+STEAM
+TO
+SHIPS OF WAR.
+A PAPER READ AT THE UNITED SERVICE INSTITUTION, MAY 18,
+BY CAPTAIN ROBERT EITZ-ROY, R.N.,F.R.S.
+(NOT PUBLISHED.)
+' LONDON:
+
+
+ABE PRINTED, EOB THE SAKE OE INDUCING DISCUSSION
+AMONG BROTHER OFFICERS.
+, \; rj v 7 ?
+N
+AT THE BEQUEST OE ESTEEMED FRIENDS THESE PAGES
+
+
+yvfysy-
+/ (^ tt jt)dr7'it~&t� tZyi~
+at ~~- y ?
+4j^
+il flute X/?�-<:,
+***-
+W *~**y
+, iLJ- 't4~~-
+,
+d '' d ' Aj r
+Avtc< (rZ
+
+
+?ft 1 ' P /
+Z' C'Ct.^eZ
+/^ H ' JLtfc' �
+?>l 7*^
+a ( * ** /jffl tl
+i*JazztrA*~~ - * Tyt^
+?siy'i-rij /I, ">
+f <C*Z* C dy/by/Ccc^^
+(Ls Lj*~*c /
+jiti%!/0"*-"
+* **?'- ml '?
+
+
+PP'ttA?
+jb-*sLy~' i
+/f
+�^C*X L <
+/ULf*,
+I'L'ivit&i. <^, ?"
+i
+Jfa�z& < -
+o*^
+
+
+fa t
+y^ /v
+r
+y/i ? ?
+7ffu4e,
+
+
+ON THE APPLICATION OF STEAM
+SHIPS OF WAR.
+Before venturing to read a paper which I have prepared at
+the request of our esteemed Chairman and the Council, it
+seems to me indispensable that I should assure the members
+of this Institution ?I am fully aware how presumptuous it
+would indeed have been in me to have volunteered such an
+undertaking, in the presence of many officers of far more
+experience, and very much better qualified for the task, had
+I not been urged by the Committee of Council to make
+this attempt ?however much against my own inclination ?
+with a view of eliciting other opinions, and raising a useful
+professional discussion.
+No result of human ingenuity and ability has attracted a
+greater share of general attention and astonishment, than
+that combination of ? a few pieces of metal, a little water,
+and a little fire,? called a steam engine. No other single
+object has more irresistibly rivetted to itself the devotion of
+scientific minds, and the general interest of the community.
+The history of the invention, from the days of Hero,
+about a century before the Christian era, is familiar to most
+people; and everybody is now aware of the importance of
+steam engines, whether employed in factories, or on rail-
+roads, in printing the Times newspaper, or impelling great
+ships across the ocean.
+
+
+The application of steam to ships of war having already-
+caused great changes in naval arrangements, and indicating
+yet further alterations scarcely less remarkable, every reflect-
+ing inhabitant of the British Empire is interested in a subject
+so vitally important to safety and independence.
+It is universally admitted, that however ably defended,
+however skilfully fortified the coasts may he, our principal
+reliance as Islanders, is still on our ? wooden walls.? No
+enemy can approach, except by water; therefore on the
+water he must be met, and there destroyed. But the use of
+such floating castles as scientific art has lately constructed,
+their management, and the employment of forces afloat (in a
+somewhat novel manner) must be deferred to the latter part
+of this paper.
+It is proposed previously, and as briefly as may he practi-
+cable, consistently with clearness, to give an outline of the
+general nature, or character, and properties of the principal
+materials used in constructing steam ships, and marine steam
+engines?with a sketch of the architecture, and peculiarities
+of hulls : ?then to refer to some of the more remarkable
+parts and characteristics of marine engines; and afterwards
+to make a few observations on the personal (personnel)
+portion of the subject, relative to commanding officers and
+chief engineers.
+Lastly, will be briefly discussed, the management of steam-
+ers afloat?at anchor?and under way ?making passages
+and in action.
+If the remarks submitted to you are too superficial, too
+meagre, and unsatisfactory, I must beg that you will make
+allowance for the shortness of the time available, and for
+the deficiencies of the writer.
+The principal materials or elements used in the construction
+of ships and engines are so familiarly known to all, that it
+may seem unnecessary to mention them here; but I much
+wish to be permitted to recapitulate (as it were) a few of their
+peculiarities, which particularly require distinct and ready
+
+
+recollection, while considering details of Naval Architecture
+and Steam Machinery.
+Air. ?Atmospheric air, not only presses or weighs heavily
+on a vacuum, (or space in which there is neither air, nor gas,
+nor other fluid, or solid,) but it is highly elastic. The pres-
+sure of the air, or atmosphere, on a square inch, is nearly
+fifteen pounds.* This great pressure, of which our bodies
+are insensible, because accessible to air, will sustain a column
+of quicksilver (or mercury) nearly thirty inches high; a
+column of water (in vacuo) about thirty-four feet high ; and is
+a chief agent in steam condensing engines.
+Gas is also highly elastic, and generally invisible. Some
+gases are light?some heavy ; some are beneficial?others
+injurious if not destructive. The dangerous gas called fire
+damp, is well known in mines: it has been generated on board
+ships, and has caused terrible explosions. Carbonic acid gas
+is not infrequent; and it is very pernicious, soon causing
+death. Deleterious gases are formed by chemical combina-
+tions in the lower parts of ships, especially steam ships?
+bodies, where there is not sufficient ventilation: and they are
+always prejudicial to health, even if they do not immediately
+cause active disease.
+Steam , it is almost superfluous to say, is water heated to a
+degree that admits of, or causes a change from the visible
+non-elastic fluid, to an aeriform and very highly elastic vapour.
+This change takes place at degrees of temperature varying
+with the pressure of the atmosphere and the quality of the
+water, (more or less salt); yet these variations range but a
+few degrees from 212 of Fahrenheit, (the usual boiling point
+marked on a thermometer). Steam is invisible while separa-
+ted from the atmosphere, or a cold substance, but becomes
+visible, like white smoke, while cooling in the air. By the
+absorption, or combination of caloric, or heat, with water, a
+cubic inch of water is converted into very nearly a cubic foot
+* It is customary to speak* of the pressure of one atmosphere, or of so many
+atmospheres.
+
+
+of steam, (at the ordinary pressure of our atmosphere) or by
+the opposite process, by cooling, or absorbing, or abstracting
+the caloric from a cubic foot of steam, there remains a cubic
+inch of water. The precise najture of heat or caloric is not
+known, however well its effects are understood. Its subtle
+and mysterious operations, evidently connected with elec-
+trical phenomena ?with magnetism and light, have yet to be
+traced by philosophers. All that is material for us now to
+bear in mind is, that to evaporate water, or turn it into steam,
+heat or caloric must be obtained by the combustion of fuel,
+and, other things being alike, the more fuel burned, the
+more heat will be generated, (however wasted it may be).
+Steam confined in a strong vessel, such as a boiler, becomes
+more and more powerful in proportion as it is restrained and
+confined. Degrees of pressure varying from one or two
+pounds on the square inch (above the pressure of the atmos-
+phere) up to perhaps one hundred and fifty pounds, have
+been actually used on board steamers in the United States;
+but in this country, marine steam engines have generally
+been condensing, and worked at a low pressure, seldom ex-
+ceeding ten or twelve pounds, until lately. Now there are
+many condensing engines with at least double that pressure
+of steam, and men of experience?engineers, as well as naval
+officers ?are anxious to employ engines in the navy, working
+at a high pressure and without condensers. But this part of
+the subject must be deferred.
+Water is usually considered non-elastic, and almost incom-
+pressible. That it is slightly elastic is shewn by the rebound
+of splashes; and that it may be compressed, though by
+enormous force only, has been proved by various philoso-
+phical experiments. For our immediate purpose it may be
+considered incompressible and non-elastic, qualities at va-
+riance entirely with those of vapour and gas.
+Fresh water is lighter than salt water, it boils sooner, de-
+posits no saline crust, and cleans the boilers, (by a chemical
+action) therefore it should be used when attainable. The
+
+
+peculiar and annoying effect called priming, or by the
+Americans foaming, is explained variously. Some attribute
+it to the more or less mixed, or dirty condition of the water;
+others to the shape of the boilers and the want of space for
+steam above the water. It is an ebullition of the water, in
+consequence of which the steam carries some with it into the
+steam pipes and cylinders.
+Fuel is either coal, wood, or peat. The two latter are
+mere substitutes, yielding but little heat, and therefore evapo-
+rating water badly. Patent fuel is of various kinds, all mix-
+tures of small coal with other substances. It has been an
+object to combine strength, or great evaporating power, with
+freedom from sulphurous or other noxious qualities, with
+durability in form and nature, compactness for stowage, non-
+liability to spontaneous combustion, or the generation of gases,
+and economy: a combination of qualities possessed by no one
+kind of coal. One or two varieties of patent fuel have
+answered admirably, and are extensively used. The best
+coal is Welsh, and the next Newcastle. In the United
+States, Anthracite is in general use, for marine engines as
+well as locomotives; but there is still an impression'?not to
+say a prejudice?against its employment in this country.
+It abounds in Wales. Anthracite, as is well-known, causes
+no smoke, a very important quality for naval uses; not
+only on account of freedom from the excessive dirt caused
+by common coal smoke, but because of its not betraying
+a ship?s position to an enemy, while at a great distance.
+In a man of war, where so many men go aloft, and they
+are expected to be clean in their persons and clothing, the
+sooty state of ropes, yards, and sails, is a permanent nui-
+sance by no means encouraging to seamen.
+Supplies of fuel may often be required at sea, while
+there is some swell, and even large ships are rolling. It
+may also happen that fuel is to be taken in while at
+anchor in a roadstead, where ships have much motion. The
+common (however objectionable) method of passing coal in
+
+
+through a line of battle ship?s lower deck ports would not
+then be available. But coal or fuel may be hoisted in
+over all, or (partly by derricks) through the main or middle
+deck ports, whenever a vessel could lie near the ship.
+Disturbing the lower deck, the men?s mess place, and scat-
+tering coal dust about all their things, as well as dirtying
+all the ?tween decks, is very objectionable. Iron pipes
+should lead from the main or middle deck into the coal
+rooms below; these pipes should be light and moveable,
+fitted to go one inside another, in a set. Plenty of two
+hundred weight coal sacks should be supplied to every
+ship, and they should be kept dry and in good order.
+Wood, as the material used in construction, need only
+be referred to here in the shortest manner. Rapidly as
+it is giving way to iron in merchant?s yards, it appears
+to be the best material for ships of war; on account of its
+superior resistance to shot, or rather, because it is not so
+widely or seriously injured by the effect of shot, and be-
+cause it does not do so much injury to the crew by
+splintering.
+Iron, answers exceedingly well for mercantile vessels and
+packets. Improvements in their construction have succeeded
+rapidly, and notwithstanding the failure of a few vessels,
+built of inferior iron, and indifferently put together, there
+are no ships in the world that can be pronounced superior
+as packets or merchant ships, to some of those lately
+launched, and others proved by long voyages.
+The qualities of iron are almost as various as those of
+timber used in ship building; yet iron ships are generally
+considered as if constructed of one and the same material.
+From the most inferior and brittle iron of the ?first
+make,? (first make from the ore ?first smelting), to the
+highly wrought material compounded under Nasmyth?s huge
+hammer from innumerable scraps, there is every degree of
+cohesion and durability. Inferior iron rusts or decays sooner,
+breaks much more easily, and is far weaker than such ?scrap
+
+
+iron? as is now used by the first-rate builders. It is certain
+that iron ships may be made as strong as can be desired,
+without unduly encroaching on stowage, or materially aug-
+menting weight, because they can be fastened so much more
+securely than wooden ships, and every part can be relied on
+not to yield or decay. They may be of any required strength.
+For some parts of the steam machinery of a ship, the
+very best and most tenacious soft, (wrought, or malleable)
+iron, is required; in others, the hardest steel. Some
+portions only require inferior, if not cast iron; but in a
+combination of such consequence there should be the most
+vigilant superintendence. Mere dimensions are not a suffi-
+cient guide, if quality be not also carefully considered.*
+Steel is used for slide faces and a very few other objects.
+Hard as it is, the liability to ? cutting ,? (as it is called) by
+steam, (?) to oxidation, or rusting, and to heating under
+friction, are remarkable. It heats and adheres sooner than
+soft or malleable iron.
+Copper is used for small pipes, and some of the large
+ones. It does not vary so much in quality as iron, but there
+are nevertheless, material differences in strength, tenacity, and
+durability, between various kirids of copper. It has been
+used for boilers, but generally discontinued. It yields to
+great heat, is less tenacious than iron, and is more than
+trebly expensive, though four times as durable. Perhaps
+the most serious objection to it is, that copper boilers soon
+yield or ? give out,? under the influence of great heat, near
+the furnaces.
+Brass ?the well-known compound of copper, tin and zinc
+?is much used for joints, sea cocks, pump gear, and valves.
+Soft metal, (Babbit?s patent,) is a composition of copper
+1 lb., tin 50 lbs., and regulus of antimony 5 lbs.; valuable
+for lining journals and stuffing-boxes, where there is great
+* Curious alterations in the quality of iron have been caused by gradual though
+continued action of passing water ?of heat ?or of magnetism. Hie very parti-
+cles of iron seem to become altered in internal arrangement and form after the
+lapse of a few years.
+
+
+heat and friction. When screw propellers were first tried,
+hard bearings were used?brass, iron, or steel; but they be-
+came heated and fixed, by welding to the shaft, and were torn
+out of place. Soft malleable iron, or what is called ? soft
+metal,? bear and resist the effect of friction without heating,
+much better than hardened metals.
+Vulcanised india-rubber is much used for valves. It an-
+swers well, but requires to be watched and frequently
+replaced, as it yields and loses shape by degrees. It will
+evaporate under a very high degree of heat. Besides these,
+oil, tallow, gasket, paint, white and red lead, are indispen-
+sable materials.
+SHIPS.
+Having glanced over the rough materials, we will now look
+at the ships? hulls, and then consider their engines.
+To those who have studied Naval Architecture as a scien-
+tific art, involving mathematical acquirements and much
+practical knowledge, it is by no means surprising that so
+many failures have occurred in building ships to be propelled
+by steam. In fact, the time, ability, and labour necessary for
+completely designing, drawing, and calculating all the ele-
+ments of an entirely new kind of ship are so great, that very
+few models, in proportion to the great number of vessels, can
+be considered original and truly scientific?constructed to
+possess certain qualities, known beforehand from measure, and
+weight, and form.
+By far the greater number?one may say all except a very
+few?are more or less copies of other vessels, or the results of
+trial and error. Not for a moment would I undervalue or
+attempt to depreciate that sagacious skill and accuracy of eye,
+or rather judgment, possessed so remarkably by some of the
+most successful builders. Their experience is science to
+them, however incommunicable to the minds of others, except
+by results. But such skill and knowledge, acquired only by
+
+
+practice, are at a loss when required to design and complete a
+totally new form, to build a long steamer, instead of a short
+sailing ship, to carry many weights, differently arranged,
+heavy guns in extreme positions, and peculiarly placed
+masts, with sails of novel dimensions.
+Few persons only are aware, that some of the very best,
+as well as some of the worst, steamers have been constructed
+on the lines of previously tried vessels, more or less altered
+by estimation ; and that failures were at first more numerous
+in war steamers, especially those of iron, than in private con-
+structions, chiefly because, although they were required
+to carry unusually heavy armaments and a great number of
+men, sufficient previous calculations of form, weights, and
+displacement, were not made.
+Except to those engaged in the subject professionally, it is
+not enough known how necessary it is to adjust every thing
+in a ship by weight and measure, in order that the various
+centres may be duly placed, and that the draught of water,
+the stability, the ease of motion, and the direction of effort
+exerted to impel the ship may be such as are desired.
+As clear ideas of tonnage, of displacement, and of the
+centres above mentioned, are * not always present to one s
+mind; it may here be convenient to notice a few points.
+Tonnage or burthen, usually called builder?s tonnage, was
+really intended to be, formerly, the difference in weight be-
+tween a ship when light and when loaded; and therefore it
+was the weight of all that a ship carried (when duly loaded),
+irrespective of her hull. But from defective methods of
+measuring the hull in order to calculate the solid immersed
+in water between the light and load water lines, results be-
+came very unsatisfactory, and new rules have been adopted,
+which, however, are still open to considerable objection.
+In ships built for sailing well and carrying a considerable
+amount of weight, as our men-of-war, the old method of cal-
+culation gives a result not differing greatly from the modem
+?Builder?s rule for tonnage,? which aims at measuring by
+
+
+weight, the size of the whole hull, not merely the difference be-
+tween the light and load water sections. But even this modern
+rule commonly referred to and used in England,*' does not give
+a ship s actual displacement, the total weight of her hull, and
+everything in and upon it, equal, of course, to the total
+amount of water displaced by the hull while floating. This
+is only attainable by calculating the cubical contents of every
+portion of the immersed body, which equals the weight
+of everything composing or resting on that body. And this
+truly laborious and delicate calculation, which occupies some
+weeks of close application, must be gone through, and is com-
+pleted by scientific Naval Architects, when designing a new
+class or form of ship. All weights are carefully calculated and
+the body is cubed by portions: the weights where they will
+be carried at sea ?the body (in sailing trim) divided into
+halves, longitudinally and transversely. (Subdivisions should
+also be made, but need not here be mentioned further.) The
+centres of gravity of these half, or rather quarter bodies are
+found, and the centre of these centres, which is the centre
+of gravity of displacement (of immersion, or of buoyancy).
+Now the nearer this centre is to the centre of gravity of the
+hull, and all its weights, including masts and yards, the more
+easy a ship will be (other things being equal).
+But the application of these branches of Naval Archi-
+tecture, the calculation and disposition of weights, the
+adoption of them to the form of hull, their connection with
+the position of masts, centre of effort of sails, line of steam
+propulsion, and action of the rudder, are really among the
+most difficult and tedious operations of the truly scientific
+Naval Architect, and are only exceeded in difficulty by the
+mysteries of dynamics, or the laws of fluids in motion, which
+are not even yet thoroughly investigated and understood.
+For our immediate purpose it will be sufficient to keep in
+view the centre of gravity of the displacement, or immersion,
+or buoyancy, (as it is indifferently called) which is considerably
+* In Scotland the whole cubical contents of the hull, to the deck, are included
+as tonnage.
+
+
+below the surface of the water, and to remember the distinct
+difference between it and the centre of gravity of the whole
+body, which is usually not far from, or nearly in the load
+water line . The relative distance between these centies ma-
+terially affects the stability.
+When the hull is inclined or heeled to one side, the
+centre of immersion (or buoyancy or displacement) is
+proportionably changed towards the same side, and a
+line drawn vertically from the said centre will cut a line
+drawn vertically from its former position, at a point denom-
+inated by Bouguer, and others, the Metacentre. This must
+be above the centre of gravity, or the vessel would capsize if
+inclined from an upright position. The height of the meta-
+centre above the centre of gravity of the ship, multiplied by
+the sine (natural) of the angle of inclination, at which the
+stability is required, and also by the displacement in tons,
+gives the moment of stability. Hence we see that length
+and depth as well as breadth are concerned in giving stability
+or stiffness to ships.
+It has been proved experimentally, as well as by theory,
+that, other things being equal, the smaller the area of mid-
+ship section, the less the resistance to speed: but other con-
+siderations must not be overlooked; especially the breadth
+necessary for stability, for working room, and for stowage.
+The centre, more correctly axis, of rotation, is that around
+which a vessel turns horizontally : this depends on the form of
+hull, effort of sails, and effect of rudder, besides the centre of
+gravity. A moment?s consideration of the forms of widely
+differing vessels, such as a Bermuda boat, a Bean cod, a Bombay
+yacht, a junk, a cutter, schooner, or frigate, will illustrate this
+movement. In addition to these centres, is the very impor-
+tant centre of effort of sail, on which so much depends. The
+position of this point is so intimately connected with the form
+and trim of the ship, the stowage, position, and amount of
+her weights, and the metacentre, that no alteration can be
+made in any one without immediately more or less affecting
+
+
+others, and the performance or motion of the ship. This
+centre of effort of sail, (corresponding nearly to Bouguer?s
+? point velique?) is usually placed with reference to the ship
+under all sail on a wind. Bouguer thought it should be
+where a line of the mean resistance of water at the bows
+struck a perpendicular to the centre of gravity. Modern
+authorities place it in a horizontal line which will pass through
+the intersection of lines representing the forces of water
+on the fore and after bodies of a ship, and at the inter-
+section of that line with a perpendicular to the intersection
+of the direct and lateral resistances of the water on the ship?s
+immersed hull.
+Hence we see what a very complicated and critically formed
+structure a good ship must be; and how accurately balanced
+those forces which affect her equilibrium under so many
+varying conditions. It is no wonder that mere experi-
+mentalists, unaided by study or by scientific acquirements,
+should have been mistaken in their designs for new kinds of
+vessels, for steamers especially, and that many failures should
+have occurred. It is pleasant to turn to late improve-
+ments ?to the Agamemnon, the Duke of Wellington, the
+Imperieuse, Arrogant, and Highflyer, among men-of-war: to
+the Bengal, Calcutta, Great Britain, Jocelyn, La Plata, and
+other fine private ships. Larger ships still are in preparation,
+although but ten years ago the Great Britain was thought
+an absurdity?so much too large. Now her constructor
+and his friends are about to build an immense vessel more
+than twice her size, namely, 680 feet long, 84 feet broad,
+and 27 feet draught of water. In a few days will be
+launched at Blackwall, the Himalaya, (30 feet longer than
+the Great Britain, ? to be propelled by a screw) for the
+Peninsular and Oriental Company; while other huge ships are
+ordered in the north. In all these vessels there is a combina-
+tion of merits previously unattained, demonstrating that their
+constructors have combined theory with practical skill to an
+extent unprecedented. Not only have their constructors,
+
+
+their architects, surpassed all former efforts; but they have
+solved the difficult problem of designing ships which are as
+good and efficient under sail as they are while steaming?
+a result thought impossible a few years ago, and even now
+hardly realised and appreciated sufficiently.
+The mechanical construction, the carpentry, and ironwork of
+these latest ships, (and others not yet tried or even launched) is
+excellent. French and Americans acknowledge its superiority.
+Other nations send to copy, to learn, or to buy, what they
+cannot emulate. Yet those who are most conversant with
+the subject say there is still great room for improvement.
+In the lower parts of our ships, more than a few feet from
+the water line, and below the reach of shot, or say from
+their light water line downwards, it is thought that iron
+might be substituted in very many places for wood, with
+great advantage, especially as sleepers and beams; that better
+water ways and means of ventilation might be contrived,
+more efficient pumps, or rather water-courses leading to
+pumps, better and more nearly water-tight divisions of the
+hold, and much stronger fastenings abaft where the vibrations
+of the screw are most trying. .Around and near journals,
+bearings, and heated metal, iron should be substituted, not
+only on account of wood yielding to great pressure, being
+more liable to char and then burn, and occupying more space
+(therefore diminishing ventilation and stowage); but because
+all wood, however hard and durable, loses its power of resis-
+tance, its elasticity, after long and continued varying pressure,
+and then it admits moisture, and decays. (This is particularly
+the case round the screw-shaft stuffing-box.)
+Some of our ships, as the Sanspareil, have not answered at
+first, from some defective arrangements of weights and from
+being overmasted, it is said. An officer who has recently pub-
+lished a pamphlet (in which he refers to that ship) seems to think
+her rolling caused by too much weight placed too low, and com-
+pares her condition (when first sent to Lisbon) to that of a ship
+
+
+laden with iron or other heavy cargo at the bottom of the hold.
+Are not the cases entirely different ? The Sanspareil had
+no stability?she could not carry sail?she rolled and lurched
+excessively, but easily (as far as such sweeping oscillations
+could be easy), a direct consequence of being overmasted and
+overweighted above the centre of gravity. Her engines were
+higher and lighter than had been expected and calculated.
+She had landed too much ballast (owing to that miscalcula-
+tion) ?her shot were all stowed high?her masts, yards, guns,
+and stores were all larger and heavier than now thought right.
+Therefore she was crank and topheavy?not too stiff.
+I have said little about paddle steamers, because a con-
+viction prevails that they are yielding to screws, and will be-
+come obsolete except for shallow water. The arguments used
+in favor of paddles or side wheels are losing their force
+annually, as the screw and its machinery are improved, and as
+the construction of our ships? after-bodies is strengthened. One
+of the most striking proofs of this conviction is, that at the
+very centre of improvements and general knowledge in steam
+machinery, a large iron ship (the Himalaya, 355 feet long,
+building by Mr. Waterman, for Mr. Mare, was intended for
+side wheels (paddles); but when half built was altered, and
+is now ready to be launched for a screw. The Great
+Britain was, at first, designed to be propelled by side wheels;
+but even at that day, in 1841-2, Mr. Brunei advised her
+proprietors to adopt the screw, and success resulted.
+ENGINES.
+While paddle or side wheels prevailed, the best engines
+were the beam or side lever engines, which worked well
+during many years, and under ever} 7 vicissitude.
+As the screw has gained ground in public estimation, new
+descriptions of engines have been adopted, of which, at the
+present time, the best are said to be Penn?s horizontal trunk
+
+
+and his oscillating; Maudslay and Field?s angular oscillating,
+and Napier?s horizontal with gearing.
+The cost of engines varies from �%O to �6O per horse-
+power, according to the intrinsic value of the materials used,
+the kind of engine, the patents adopted, and the reputation
+of the maker.
+Good engines ought to last (the machinery exclusive ot
+boilers) more than twenty years, if carefully attended. Iron
+boilers last from two or three to ten years, according to their
+use and the care that is bestowed on them : copper boilers
+three or four times as long.
+Scarcely any two engines, even nominally the same, and by
+the same maker, have in all respects corresponded. Altera-
+tions and improvements have been in almost every case
+effected. However desirable it may be to classify engines
+and check their now indefinite variety, one may doubt
+whether the time has yet arrived for such a decision. In the
+work on this subject, published by Mr. Atherton, that gentle-
+man is now well aware that there are unsound arguments.
+Mr. Rennie?s (or rather Bishopp?s) Disc Engine has just
+been brought to a working condition indicative of very ad-
+vantageous future results. The remarkably small space it
+occupies, and the extreme simplicity of construction, are
+great reasons for encouraging its adoption. At present there
+may be objections, as the pressure of steam may not be
+well developed, though high, (from 40 to 50 pounds); but
+acquaintance with it is alone wanting to make this engine
+esteemed, perhaps second to none. It is so simple, so
+manageable, so easily and quickly started, stopped, or reversed.
+However superfluous to most persons interested in this sub-
+ject, it may be advisable here to refer, as briefly as possible,
+to the general operation and nature of a marine steam-
+engine?that wonderful combination of iron, water, and fuel,
+which now impels the largest ship in the world more than
+eleven miles an hour through the ocean ?in a state perfectly
+
+
+ready to sail as fast without steam ?to weather a gale?or to
+encounter an enemy.
+The simplest view of a marine steam-engine is to consider
+it as a propelling machine, moved by vaporised water. To turn
+the water into vapour or steam there are boilers and furnaces.
+From the boilers steam passes to the cylinder, in which a
+piston moves; the piston carries a rod which works a crank,
+the crank turns a shaft, and the shaft a wheel or screw.
+This is the skeleton of each except the Disc engine, in
+which the piston works round its centre (like a broad
+teetotum, about to fall), within a cylinder, and gives a rotary
+motion (like that of a teetotum?s top) to the piston-rod,
+which turns as haft by a continued circular motion. Above
+and below the piston are very low cones?or conical surfaces,
+against all parts of which the piston presses successively.
+Engines without a condenser are worked by the force of
+steam only, acting on each side of the piston alternately
+or successively. Condensing engines have a power (like
+suction) acting on one side of the piston, while steam presses
+on the other side. And a very powerful action this ex-
+hausting process ?the effect of condensing the steam and
+forming a vacuum?is, requiring but a low pressure of steam
+above that of the atmosphere (say four or five pounds on a
+square inch) to keep it in very effective operation.
+BOILERS.
+On the size and construction of the boiler depends the
+supply of steam. Boilers should generate an ample supply
+of dry steam ?steam that does not hold water in suspen-
+sion, mechanically, as is the case when priming takes place.
+The occurrence of priming implies insufficient steam room
+in the boiler, and is, therefore a reproach to the arrange-
+ments.
+
+
+When urged to contract the machinery as much as pos-
+sible, to save stowage, and get it below the water line in
+men-of-war, makers of even the best engines stinted them-
+selves of boiler space; and some dispensed with steam chests.
+All yielded more or less to the supposed necessity: although
+economy of fuel, duration of engines, security against ac-
+cidents, and actual power are promoted by ample steam room.
+Through very small openings, or ports, steam is admitted
+into the cylinder, and, after moving the piston, escapes into
+the exhaust or eduction pipe, which opens into the condenser,
+where sprinkled jets of cold water contract the steam instantly
+from the size of (say) a cubic foot to that of a cubic inch.
+A vacuum, or nearly so, is left, the effect of which is instan-
+taneous in the cylinder, where, on one side of the piston,
+there is also a vacuum; while, on the other, steam presses
+violently, with a force nearly equal to that of the atmospheie
+(about 13 or 14 lbs.), added to that of the steam itself (say
+5 lbs.) above the pressure of the atmosphere. The water
+thus formed in the condenser (with some air) is pumped out
+by an air-pump, kept going by attachment to the machinery
+moved at each stroke of the piston. Being heated, as much
+of it is sent to the boilers (for economy) as is required, and
+the remainder is forced overboard through the discharge or
+waste water pipe.
+High-pressure engines require neither condenser, nor air-
+pump, nor great discharge pipe. An escape for the steam
+that has done its work is alone necessary.
+This discharge pipe is of inconvenient size in some ships,
+considering that it is many feet below the water line, and has,
+in those ships, no sluice, or slide valve, by which sea-water
+can be kept out of the ship, while the engines are under re-
+pair, and anything accidental prevents the large spindle
+valve from closing accurately. At least three times this
+happened in the Arrogant, owing to a chip getting under the
+valve, or to the spindle of the valve being bent. Hei dis-
+charge pipe is eighteen, inches in diameter, similai to those of
+
+
+the Encounter and Imperieuse: that of the Agamemnon is
+about twenty-two inches. She has no sluice valve, though
+that great aperture is about seven feet below the water line !
+The first time the Arrogant?s large valve was set up, by a
+chip, the ship was light in Woolwich basin. Something was
+amiss with the condenser?water entered fast, and several
+feet were in the hold before a hawse plug could be forced
+into the outer aperture.
+It has been urged that if a slide, or sluice-valve were fitted,
+outside, it might be forgotten, when about to work, and that
+the engine would be broken down. But such slides are fitted
+to other engines which have discharge pipes, and much
+smaller ones, under water, and those engines have not been
+broken down in consequence.
+Let us now trace the process of evaporating water (or
+raising steam) and moving a propeller.
+The fuel laid in the furnaces for fires should not be much
+piled, or too large in quantity. Small fires light more
+readily, and should be increased by degrees. However
+broken through unavoidably at times, the general rule should
+be to get up steam slowly, so that the iron may be heated
+gradually and uniformly, while the water becomes equally
+and generally heated. This precaution will tend to prevent
+injury to the boilers, and the nuisance, as well as risk, of
+priming.
+It is supposed that the boilers are filled, or ? run up,?
+when, or before, the fires are laid. Of course no fires should
+be lighted till the boilers are sufficiently filled. Fresh water
+ought always to be preferred to salt, not only because it
+deposits no caking sediment or scale; but because it acts
+chemically in dissolving much of the sedimentary formations
+encrusting any part of the boiler.
+Upon the quality of the fuel, the supply or draught of air
+(or the ventilation), the extent of ? heating surface,? and its
+distribution, depend the rapidity and amount of evaporation.
+To make steam, heat (or caloric) must be produced ; and to
+
+
+produce heat fuel must be burned: therefore, the more heat
+produced (all other things being equal), the more fuel will be
+burned, or the converse.
+But the shape of furnaces, the kind and arrangement of
+fire-bars and grates, the description, number, and position of
+tubes, the kind of chimney or funnel, and the form of boiler,
+all affect the heat and, therefore, the evaporation.
+The proportions of grate area, of heating surfaces (whether
+the tubes be measured inside or outside) and of water e\apo-
+rated in proportion to certain quantities of coal 01 fuel of
+various qualities, are too intricate questions to be treated of
+in this superficial paper, however interesting and really im-
+portant they are.
+Like the relative proportions of the parts of engines, the
+mathematical calculations on which their dimensions are
+based, the surprising exactness with which their effects are
+foreseen, and all needful adjustments and counter-balances
+provided?these, the nicer and more scientific intricacies of
+the marine engine, must be left generally to professional en-
+gineers, whose skilful ability and care we nautical men may
+content ourselves with admiring, and trying? to turn to
+practical account.
+But there is one portion of the subject so necessary for
+everyone to understand clearly who is interested in the pei-
+formance of marine engines, that I must ask permission to
+enter a little more into detail at this point.
+I allude to the operation of steam in the cylinder, and the
+measurement of its power. It has been mentioned that steam
+enters and leaves the cylinder by small openings or ports.
+(It rushes in faster than it goes out, therefore a smaller aper-
+ture is required for the first.) These ports are opened or
+closed by slides on the outside, so contrived that they alter-
+nately admit steam to the cylinder from the steam pipe, and
+allow it to escape into the condenser, by the exhaust (or
+eduction pipe). The proper adjustment of these slides is one
+of the most difficult dnd critically important parts of the
+
+
+constructing engineer?s department. There are various
+(short D?long D?locomotive, &c.) but their common
+principle or object is what has been mentioned. Their face s
+of steel, which slide against similar surfaces, are kept as
+smooth and truly parallel, or even, as possible. If neglected,
+they soon become corroded and leak, (or allow steam to
+escape improperly), but notwithstanding the utmost care, an
+effect is observed (called the cutting of the steam) in lines, or,
+subsequently, small grooves. This may be connected with some
+some galvanic or electrical agency. It is very like the effect
+caused on iron, by copper or brass, in contact with water. The
+steam pipes?and the exhaust pipes are frequently of copper.
+We know by the steam electrical machine, (at the Polytech-
+nic) what excessive developement of electricity takes place
+in connection with steam.
+The faces of the slides?which move to and fro through
+a short space of their cylinder?s length?not differing greatly
+from the size of their ports ?are adjusted so as to open or
+shut, sooner or later, by being more or less cut away
+(shortened) or lengthened. Cutting away, is called giving the
+slide ? lead,? (because it helps to lead the steam into the
+cylinder); lengthening the slide face is called giving it ?lap,?
+(because it partly overlaps the port). By these nice adjust-
+ments ?so simple when closely examined?and not mystified,
+the flow of steam is regulated in the cylinder.
+Independent of the slides, the steam is under the constant
+control of the throttle valve, which may cut off more or less
+steam in its progress through the steam pipe, from the boiler
+to the cylinder?or stop its passage entirely. When the
+steam is much checked by thus partially closing the steam
+pipe, it is said to be ? wire drawn.? Some persons used to
+consider that wire drawing the steam was equivalent to
+working ? expansively ,? but that error is now generally
+recognized?although, perhaps there is nothing connected
+with the steam engine?about which there has been more
+unnecessary mystification?or which more requires examina-
+tion?than this working expansively.
+
+
+If steam were allowed to enter the cylinder during the
+whole stroke of the piston, its strength at the end of the
+stroke would be too great, it would interfere with the rapid
+return of the piston, and check the immediate operation of
+the exhaust, or rather the condenser. Generally speaking,
+the faster a piston moves, the sooner steam must be cut
+off or stopped?varying from seven-tenths to five-tenths (or
+half) the length of the stroke.
+The piston does not ? travel? quite to the ends of the
+cylinder, small spaces are left for the first access of steam to
+start the piston, and for a small quantity of air, or even
+water that may be there. Sometimes water is carried with
+steam, by priming, from the boiler into the cylinder; if this
+cannot escape, and it cannot pass so rapidly into the conden-
+ser as steam, it accumulates in the cylinder, and being almost
+incompressible, causes its fracture. Many? very many engines
+have been thus broken down. Escape valves, intended to
+allow such imprisoned water to escape, are not large enough
+to effect the purpose when most wanted; but there isa? very
+ingenious and (then) quite new? method?(l quote Mr. Penn s
+words in a letter to myself, dated January 18th, 1851); de-
+vised by Mr. Houghton, of Woolwich, by which, whether
+used with or without escape valves, not only the risk and
+probable danger of a break down from this cause may be
+avoided, but the engines themselves may be made to exert a
+greater power with safety, when their utmost force is most
+needed? in towing, for example?or clawing off a lee shore
+in heavy weather.
+Mr. Houghton?s alteration of the slides ensures the ex-
+haust side being open to the very end of the stroke, so that
+any water which may be in the cylinder must be forced out
+into the condenser; the aperture being much larger than
+that of any escape valve, which, it should be observed, may,
+and should be retained, as an additional security.
+By Mr. Houghton?s method of fitting the slides, may be
+obtained not only this advantage, but the means of working
+
+
+and save the fuel for a time when there is but little, or a
+contrary wind.
+Striking instances (apparently to me) of a very mistaken
+view of economising fuel, appear in printed descriptions of
+the Inflexible s voyages. For example?That steamer was
+said to have run from the Cape of Good Hope to Australia
+very economically, by expansive working, and expending
+only a comparatively small quantity of coal; small as com-
+pared with what she would have burned had she steamed at
+full power all the way in a calm. But between the Cape
+and Australia, strong westerly winds prevail. The Inflexible
+was under sail the greater part of the time, and had she
+stopped her engines, supposing her floats off, she might have
+made the passage nearly as soon without expending any coal.
+(Certainly a screw steamer would.) The Inflexible?s engines
+were giving her the greater part of that time a very little way
+indeed beyond that caused by wind and sea, while the ex-
+pense of coal (the constant expense) due to, or required for
+overcoming friction, and moving the wheels sufficiently to
+prevent their dragging, was as great during the whole time as
+if there had been no wind impelling the ship.
+In the tiials of the Lisbon squadron, in 1850, many ex-
+periments were made to see with how little power sufficient
+way (or speed) might be obtained. In these, when one or
+two boilers only were used, it was found necessary?indispen-
+sable?to work the steam expansively, or to throttle it, to
+prevent its escape from the boiler through the cylinder too
+rapidly, and thus causing inability to ? keep steam.? Hence
+the results obtained were not quite those sought for, and
+so exceedingly desirable; namely, to know with how little
+steam or boiler power a certain amount of tonnage could be
+moved at a certain rate?because the inertia and friction of
+the engines consumed so much more steam than would
+have been necessary for effectively working engines similarly
+constructed but proportionate to the smaller power of steam.
+It is a nice and difficult point to determine how far ex-
+
+
+pansive working maybe advantageously carried under varying
+circumstances. Those who say it is a fallacy, are opposed
+to a great majority; able, as they individually may be in
+practical as well as theoretical engineering:?while the advo-
+cates of an opposite extreme ought to bear in mind that to
+expand advantageously, the first effort of the steam must be
+powerful, that the fires must be kept up well, if not forced,
+to ensure this strength of steam, and that to make steam
+stronger, fuel must burn more rapidly.
+In considering the most economical method of reaching a
+port when short of fuel, (with reference to Captain Ryder s
+printed discussion of the subject) much reflection and dis-
+crimination are required, lest fuel should be wasted in what
+may be called its constant of expense, namely, in merely
+turning the engines.
+The strength of steam is measured by the now generally
+known and used ? Indicator,? invented by Watt. This little
+instrument may be applied to the cylinder, boiler, or other
+places ; a minute hole only being required to admit steam
+into the instrument, when fixed. It is a very small cylinder
+in which is a piston bearing against a spiral spring, and
+carrying a pencil that presses lightly upon a paper, or
+card, attached to a roller which revolves as the piston moves,
+having a line attached to the machinery. One stroke is made
+as the piston goes each way ?the result is a complete figure
+or diagram, traced on the paper, or card, which shews at once
+approximately to the eye how the engines are performing,
+and afterwards, when carefully measured and calculated, what
+is the actual power exerted by the steam. This beautiful
+and accurate index affords not only a measure of the whole
+power, but also shews the power exerted at each part of the
+stroke. It is, in the hands of a skilful person, most valuable,
+and cannot be too highly appreciated. It may be said to
+show the working and the state of the heart of the steam
+engine; it is a steam stethoscope; or it may be said to tell
+the condition of the spirit of that imaginary monster which
+
+
+seems to lie fettered and obedient at the bottom of a great
+ship.
+The calculation of results from indicator diagrams is very-
+simple when divested of mystery. The height at which the
+pressure of the atmosphere solely would keep the pencil of the
+indicator, is shewn by a line drawn across the card by the
+pencil while influenced only by the atmosphere. The length
+of the figure is divided into equal parts, by any convenient
+scale, and the pressure of steam above the line, and that
+below, (which might be called exhaustion) are measured by
+the scale to which the indicator is divided ; one-tenth of an
+inch usually representing one pound pressure on a square
+inch. Then, mechanically, with compasses, or dividers, a
+certain number of equi-distant ordinates are measured, and
+their mean length taken as representing the average pressure
+on the piston during one stroke. This mean pressure multi-
+plied by the velocity of the piston (or the number of feet
+travelled by it in a minute), and again by the area of the
+piston in square inches, gives a product which, divided by
+33,000, (the number of pounds one horse is supposed to raise
+a foot high in a minute,) gives the indicator horse power, or
+indicated power of the engines.
+This indicated power is now seldom less than twice the
+nominal. It is often three times greater, and there are in-
+stances in which it is four or five times greater than the
+nominal or contract power of the engines.
+The nominal or commercial horse power, as is now well
+known, only refers to sizes and weights?to the dimensions of
+an engine by which it is valued in the market, or ordered
+from the maker.
+There must be some determinate scale, according to which
+a contract may be made, before the construction of an engine
+is commenced. Probably the present method might be greatly
+improved, but, like an alteration of coinage, innovation is
+much resisted.
+High pressure engines are thought (by many persons of
+
+
+experience in such matters and competent to judge of them,)
+to he better suited to ships of war than condensing engines.
+Less space would he occupied, and they would he con-
+siderably lighter, at equal powers.
+Much of the objection to high pressure has been removed
+since locomotive engines have become our constant travelling
+companions, and the pressure in condensing engines has been
+so greatly increased. In such engines as these, where the
+pressure rises to twenty or thirty pounds, or even more, there
+are the principally objectionable features of high pressuie
+steam without the advantages of less weight and more stowage.
+The disasters so frequently heard of in America, result
+chiefly from very defective workmanship, and reckless want
+of care, or from determination to <c go-a-head, at all risks.
+The little ? Isabel,? made her Arctic voyage with a high
+pressure engine, and several merchant steamers have adopted
+the principle. But our government has been vigilant a
+frigate is to be fitted with high pressure engines, (as a trial)
+which are now' in progress, and much will depend on the result.
+PADDLE AND SCREW.
+It appears unlikely that the Admiralty will construct many
+more paddle steamers, except of a light draught of water.
+The less the depth of immersed hull, the less advantageously
+the single screw acts, and conversely. The contrary is the
+case with the paddle.
+Two screws have been adopted for shallow water, one on
+each side of the dead wood. Two screws and two rudders,
+in two distinct and separate arrangements of after-keels and
+dead wood, are also recommended by the same gentleman,
+who has shewn what appeared to be their advantages, by
+models. But the watch-work power in those models was
+indefinite, (as one may say) it would have turned any number
+of screws, and each one would of course have added to the
+impelling force. It is not so with an engine which has no
+
+
+measured across, through the centre, like the diameter of a
+circle. The angle is the inclination of the periphery, or outer
+boundary line, to the axis or shaft. The length is measured
+along the shaft at the roots of the blades. The area is the
+surface on one side of each blade.
+It was at first supposed that the greater area the better.
+Trials soon dispelled that idea. Gradually the areas of screws
+have been made less and less in proportion to diameter, and
+hitherto the smaller seem to have been the better. More
+than two blades cannot be raised conveniently through the
+trunk; but some merchant ships which do not raise their
+screw, the Great Britain for example, prefer three-bladed
+screws.
+Lately, Griffith?s screw has opposed all previously received
+opinions, by completely reversing the blades, having the widest
+part near a large central boss (very similar to Woodcroft?s
+and Maudslay and Field?s), and the narrower part outwards.
+With this screw an increase of speed has been obtained, in
+the fairest trials, with a great diminution of vibration.
+The change of pitch is not a novelty. Woodcroft urged it
+previously; but to Mr. Griffith is undoubtedly due the merit
+of a change in form, which has produced beneficial results.
+How and why such results have been obtained deserves at-
+tentive consideration.
+In a screw of the form usually known as Smith?s, the
+outer part chiefly acts in the water so as to propel the ship:
+the inner part or root, does little more than drive the water
+round and round. Whether, therefore, there be what is
+usually called a ? choking? of water near the centre or a
+solid sphere of metal, will not affect the ship?s way differently.
+But if a sphere be there, some water driven from the blades,
+impinging on it, will be deflected aft, and tend to increase the
+ship?s way.
+It has been usually supposed that equal areas of blade act
+more forcibly the farther removed from the centre, as in the
+sails of windmills. But the cases are not similar. The mill
+
+
+sails are turned by the wind: they do not advance. The
+screw is turned by its centre, in the water, and advances like
+a screw in a nut. Of equal areas, set at similar angles, (say
+a square foot, near the centre, compared with a square foot
+on an arm removed from the centre,) having equal powers
+applied to the shafts to turn them, that area nearest the
+centre would advance the faster, because it would have much
+less distance to travel in its circuit, and, therefore, it would
+impel the ship faster. Again, with a screw wide at the end
+of the blade, and of such diameter that there is very little
+space between the outer edge and the ship?s keel, or the
+guard frame (of the screw), there is some resistance to its
+rotation at each time the screw is nearly vertical; not only
+from water being forced against the upper and lower resisting
+places just mentioned, but against the two posts (stern and
+rudder posts). Moreover, there is a tendency to lift the
+screw bodily each time it is nearly horizontal; because the
+blade going down is more resisted by the water below it than
+the rising blade is by the water above?for two reasons: ?
+the upper water, that nearest the surface, is more easily dis-
+placed than the water below, and the water from under the
+ship?s bottom has an immediate upward tendency. The re-
+sult is a vibratory or thumping motion, more or less felt in
+most cases, which causes the upper part of the after shaft
+bearing to wear away faster than the lower one ; ?and which,
+when the bearings are much worn, become a serious nuisance
+to all on board, as well as detrimental to the caulking, to the
+fastenings, and consequently to the strength of the ship?s
+after-body. The form of Griffith?s screw is theoretically in
+favour of diminishing these effects considerably, and it has
+been found, practically, that such is the fact.
+It is remarkable that the screw which has caused the least
+vibration, comparatively, and which has produced the greatest
+speed in proportion to its diameter, revolutions, and propelling
+power of steam employed, is that which has always had the
+greatest resemblance to Griffith?s ?namely, Maudslay and
+Field?s.
+
+
+The more brilliant results obtained by other screws, on
+Smith?s principle, are to be attributed, perhaps, to the excel-
+lence of the machinery, the power of steam employed, and
+the nicely-calculated pitch of the screw employed, rather than
+to the distribution of that screw?s area, along the length (in
+diameter) of the blade.
+In elucidation of this subject allusion may be made to the
+usual forms of Indian paddles, which are all more or less
+diminished in width towards the ends. If we follow the
+stroke of a paddle through the water, we see that the outer
+end describes a larger curve, and travels through the water
+faster than the part nearer the water?s surface; and we know
+that the water near the surface is more easily displaced than
+that below.
+There are, then, good reasons why a paddle should be
+wider near the water?s edge (when immersed) than at the
+point or end below: ?the resistance varying as the area
+multiplied into the velocity, and the velocity increasing with
+the length of the blade. To obtain a uniform resistance to
+muscular action throughout the length of the blade,
+and thus avoid throwing the whole effect towards the end,
+w'hich would not only cause vibration, but tend to break the
+paddle ?a form has been adopted, as the result of experience,
+which resembles that of Griffith?s screw. Latterly Messrs.
+Maudslay and Field have narrowed their screw blades; and
+when we reflect on the shape of an oar, and think how little
+slip even that narrow surface has, we may suspect that there
+will be further improvement yet in screw propellers.
+The principle of a Bomerang appears to me quite uncon-
+nected with that of a screw.
+Here are several Bomerangs: they are all more or less
+curved, but not spirally. They are nearly flat surfaces, unless
+where accidentally warped. What is the peculiarity of this
+Australian weapon ? It is thrown at an object, but, if it does
+not hit anything, it returns to the place it was thrown from,
+by a curious consequence of the rotatory movement over-
+coming the direct impulsion. As a proof that it is not owing
+
+
+to any spiral or screw-like form, a piece of card, perfectly
+flat, cut into the form of a bomerang, will rotate and return
+in a similar manner.
+But be this as it may, the form of screw which Sir Thomas
+Mitchell proposed immediately on his arrival in this country,
+was simply a section of a spiral surface taken longitudinally
+and diagonally, connected to the axis by two roots.
+With such a form, such a distribution of area, all directly
+available, and no part tending to choke or drive water round
+and round towards the centre, there would be every reason
+to expect good effects, if the aperture were long enough, and
+the roots attaching the blades (two to each) strong enough.
+But as such an aperture was not to be found?to avail
+himself of an opportunity granted by the Admiralty?Sir
+Thomas has so altered his plan, that the propeller has still
+less, or rather no kind of, resemblance to a bomerang.
+Theoretically, the section of a spiral, first adopted by him,
+offers great advantages, because all its area is available ; but
+the practical difficulties of construction now appear in-
+superable, unless a vessel be built for the purpose, with a
+long aperture (which might weaken her considerably).
+By repeated trial and error a form of screw may be devised
+that will be superior to many less carefully considered, of
+which number the Conflict?s own screw is certainly one ; but
+that there is a legitimate connection between a bomerang
+and a screw, greater than there is between a bomerang and
+a wheel, I venture to deny.
+A hoop, thrown to a distance in the air, with a backward
+rotary movement given by a jerk as it leaves the hand, will
+fly some distance away, and then come back again, some-
+thing like a bomerang: but there is no screwing motion,
+nor is there anything analogous to it, except turning round.
+The slip or loss of a screw is very much smaller than would
+be supposed. When the vessel is moving slowly and the
+screw has an unusual load, a greater task to perform than is
+generally the case, as when towing or driving against a head
+sea or gale of wind, there will be a great deal of slip, perhaps
+
+
+fifty per cent or more; but under ordinary circumstances,
+with good engines and well-formed screw, ten per cent is a
+fair average of actual slip. Ido not confound here the
+actual slip with what is called negative slip?a term perhaps
+less suitable than the expression counter-slip.
+When a ship is going fast it is well known that what is
+called ? dead water? follows in her wake, or rather, leaves
+the stern less swiftly than water on each side. (Heaving
+the log shows this.) Water closes up from beneath the ship
+and from each side, to fill the space she leaves, and in this
+following dead water the screw does much of its work. Of
+course it slips quite as much in that water as any other ; but as
+the water itself has a movement towards or after the ship, the
+screw advances faster, over the ground, than it would in still
+water.
+The faster a ship goes, the more this apparent anomaly is
+observed, which at first perplexed theoretical men exces-
+sively, as they said it was impossible the screw could advance
+faster than its form and speed would allow in still water,
+without a load to impel.
+Trials under canvas shewed the fact still more plainly.
+However fast a ship went by her canvas, still the screw not only
+kept pace, and did not impede by dragging; but it actually
+added to the speed given by sails alone.* It was not
+? over-run.? On the contrary, it added, in the proportion due
+to the known dynamical law?velocity or speed increasing
+as the squares of the resistances, and therefore of powers
+necessary to overcome them. Thus if 10 horses? power gave
+4 knots? speed, 100 horses? power would be required to give
+8 knots, and no less than 10,000 horses? power would be
+necesssary to produce a speed of 16 knots an hour.
+I would add one word here about raising and lowering the
+screw. By practice not only in the Royal Navy, but in
+other services, it has been proved that no plan answers better
+than the plain ? seaman?s purchase,? originally suggested
+and adopted by Captain Austin.
+* In a very sharp vessel the screw may possibly be over-nm.
+
+
+Complicated mechanical arrangements, however beautiful
+they may appear on paper, are not only more expensive, but
+they do not answer so well as the simple runner and tackle.
+When engineers themselves place the screw, tackles are used.
+Why should not seamen use similar means, when they are left to
+their own resources ? Happily this is the opinion of that true
+and experienced seaman?s friend and advocate, Sir Baldwin
+Walker ; so we shall not hear much longer of hydraulic rams,
+or other too clever artifices, on board ships of war.
+The classification of engines has been much insisted on.
+It is comparatively easy to classify things settled and com-
+pleted?ships ?guns?masts?sails?may be classified advan-
+tageously no doubt, but so complicated and hitherto varying,
+have been the combination of ships engines, that it has been
+impracticable to classify completely. Witness the changes
+since Mr. Atherton wrote his book in 1850. Certainly there
+are not two engines exactly similar in the navy, though a
+few are said to be so, and many, not all, of their parts were
+made from the same drawings, if not moulds. The Impe-
+rieuse, Arrogant, and Encounter, are examples.
+While bodies differ in size and form, of ships as of men,
+machinery must be fitted to hulls, as coats must be cut to the
+shape.
+Here I would submit a few observations on the personnel
+part of our subject ?namely, the officers and men employed
+in Her Majesty?s service on board steamers.
+As a point of importance to the nation, as well as to the
+navy?it seems indispensable that the largest class of steam
+ships should be intrusted to men who have had expe-
+rience?who have commanded large ships, and, if possible,
+who have been under fire. If they have a practical acquain-
+tance with steam, so much the better; but the ship and her
+general efficiency must be first considered. The engine is a
+secondary, however important a consideration.
+Some naval officers who may be good on paper, or even as
+practical engineers, may want skill in seamanship, in dis-
+d2
+
+
+ciplining a numerous crew, and in handling or manoeuvring
+a large ship.
+Unless a seaman as well as an officer, (not that any one can
+he a good naval officer without being a seaman) a captain
+must inevitably be as awkward, and as much at a loss in the
+practical command of a line of battle ship, as a field officer
+on land who cannot ride. Horsemanship is not more neces-
+sary to a cavalry officer, than seamanship is to a naval officer.
+However informed, taught, and improved by book learning,
+naval officers may be, they are aware (though unfortunately
+for them, their countrymen of the land do not credit the
+fact sufficiently) that seamanship is the most essential
+part of their education?that it can only be learned
+afloat and by practice?that it needs certain qualities of head,
+eye, character, and constitution, not easily or quickly ac-
+quired?but therefore proportionally valuable. Neither the
+differential calculus nor dynamical study will enable an
+officer to manage his ship in a gale of wind, or in action: ?he
+must neither overlook nor undervalue plain duties?while
+studying mathematics and philosophy.
+But where the foundation is solid, much useful superstruc-
+ture may be raised. And the sooner an officer, employed
+in a steamer, acquires a certain knowledge of steam, the
+sooner he will become enabled to stand alone, independent
+of others. Without such an acquisition, he must be more
+in the hands of his chief engineer than he would like to
+acknowledge, even to himself: ?and however able and trust-
+worthy the head of the engine department may be, it is
+neither convenient nor right that the commanding officer
+should depend on him alone for information respecting
+the management of his department; ?in which, like any
+other human being, he may become negligent, or otherwise
+reprehensible.
+Whether it was expedient to place engineers in the ward-
+room mess, while liable to be personally and manually
+at work in the engine-room, may be doubted; as they them-
+selves were generally disinclined to the arrangement.
+
+
+A good and zealous chief engineer must often manage his
+own engine, by the exertion of his own practised arms. He
+must require his subordinates to use tools and execute repairs,
+with their own hands ; ?which they will not do well unless he
+occasionally sets them an example. Heat and dirt are then un-
+avoidable ; but while men are so engaged they may piefcr
+living apart from other officers who may be apt to undervalue
+such manual labour, and to depreciate those who perforin
+it, however indispensably necessary and valuable. Whether
+the chief engineer should mess by himself, or in the ward-
+room, might be a question, were it not already decided;
+but that the inspectors of machinery should be among the
+ward-room officers, there can be no doubt, as their ma-
+nual labour is over. In character and conduct, and informa-
+tion, the chief engineers are very deserving of their present
+position; but the necessary and unavoidable liability to much
+manual labour, causes inconvenience.
+If not already settled, their half pay is now under con-
+sideration, and it is to be hoped that an improvement will
+be made in their uniform. The terms stoker and stoke
+hole, more correctly stoke hold, although commonly used,
+seem objectionable. The Americans always say fire-man,
+and fire-room. In one of our frigates, furnace-man, and
+fire-room, were successfully adopted, and coal-room was
+substituted for bunker.
+Much encouragement and consideration should be shown
+to the engine department, and every facility given for clean-
+liness, ventilation, and due assistance when necessary.
+We now have to consider the management of steamers
+afloat?at anchor?under way?making passages?defend-
+ing places ?and in action.
+A steamer afloat requires, in addition to the precautions
+and regulations usual on board Her Majesty s sailing ships,
+that the sea cocks, engine room pumps, and (unless under
+repair) every part of the engine, boilers, shaft passage, and
+
+
+store rooms, should be in good order and fit for immediate
+use. Unless ordered to be filled, the boilers should be quite
+dry, and closed. Nothing should lie on them. No sweep-
+ings or gatherings should be allowed to accumulate anywhere,
+no wipings, oil, tallow, or filings?to be by possibility the
+cause of, or aiding spontaneous combustion. The coal-rooms
+should be well ventilated, by little slides fitted purposely,
+and the temperature of the coals ascertained daily by ther-
+mometers. At night, if the engine is not wanted, gratings
+ought to be laid and locked down. No person should ever
+be allowed in the engine room without permission. The
+engines should be turned partly round every day, and the
+utmost care taken to keep every part in good order, free from
+any deterioration, by paint, red lead, tallow, oil, or polishing.
+The slide faces should be carefully examined, and cleaned,
+fiom time to time. All the cocks and valves should be
+turned or moved?and, generally, every place and part of the
+machinery regularly inspected.
+As a general rule, no iron work should be without polish,
+paint, or grease, to defend it from rust. In the lower part
+of the ship, and inside the boilers, it is very difficult?in some
+ships it is impossible?to prevent oxidation, or rust; the mere
+changes of temperature cause such deposits of moisture
+on the iron, like dew on windows and bottles. This is fre-
+quently called the ?sweating? of the iron.
+Ropes, chains, nets, &c., must be kept clear of the screw,
+which should be moved daily (or the paddles, if they are the
+motors). Some time before getting under way, the boilers
+should be run up, and the fires then lighted, so that steam may
+be got up gradually, (without unequally heating the boilers and
+furnaces,) in ample time to warm everything thoroughly, to
+have plenty of steam, and to make a few slow strokes with
+the engines to prove that all is right. The fires should not
+be forced, but, on the contrary, damped or put back in time,
+if delayed in starting, lest the boilers should prime.
+Officers of the highest ability and reputation differ as to the
+
+
+proportion of power to tonnage ?of speed to be attained by
+steam only. Sir Charles Napier has been of opinion that a
+small power is better for a ship of war?that an engine to be
+used chiefly as a? n anoeuvrer? would be the best. The highest
+French authorities take a different view. As may be seen
+in the ? Enquete Parlementaire? (presented by H.R.H.
+Prince Albert to this Institution), French admirals say (in
+other words), Let us have the highest power, the greatest
+S p ee( j? an d let provisions be carried in store-ships. They
+also say ?Put screw's in all the ships that are new and strong.
+Build none to carry more than a hundred guns. Let no
+time be lost in building at least ten ships of that class, and
+providing them with engines of not less than one thousand
+horses? nominal power! ?It is not indeed for me to offer an
+opinion; but I may say that if I had a choice, I should
+prefer the highest power, (if provided with an engine at all),
+and I believe many of my brother officers are of the same way
+of thinking.
+When first starting, neither wheels nor screw should be
+moved quickly, for, if so started, they will only churn the
+water out of one place, at first; and will hardly move the
+ship. Beginning slowly, speed may be increased gradually.
+It is advisable always to warn the engineer of what is
+intended, in time for him to manage the fires properly.
+Habitual attention should be paid to firing (or stoking),
+as economy of fuel, duration of furnaces and boilers, and
+making steam, depend on it so much. The level of water in
+the boilers is, of course, a constant object to watch. Safety
+and reverse valves should be frequently examined.
+Knowing how much time the engines require for being
+stopped or reversed, allowance must be made, in handling
+the ship, accordingly, and every pilot must be cautioned.
+Some engines can be reversed, like locomotives, by a link
+motion, suddenly : others-can only be slowly changed?much
+too slowly for the ship?s safety.
+While waiting, under way, for a short time?a few hours,
+or even days?the fires are put back (checked) or banked up,
+
+
+by pushing them back against the bridge of the furnace, and
+throwing wetted small coal over them. The safety-valve
+should be shut, as the steam will then be condensed on the
+crown of the boiler, trickle down and keep up the supply;
+so that the water will not become salted, as would be the
+case if the valves were set open, when the boilers must be
+blown off from time to time, much more frequently.
+All hatchways, ports, and scuttles, should be kept open, that
+the weather will allow, while steam is up. The freer current
+of air to the fires, the better they will burn, and the more
+steam will be generated. Every precaution should be taken,
+especially at night, to prevent anything combustible being
+near a heated surface: and the pumps, hoses, &c. should
+always be perfectly ready.
+In every ship there should be tanks, filled with water, on
+the lower deck, and orlop, ready for instant use in case of fire.
+One bucketful of water, at the critical moment, may save a
+ship, but how seldom is it at hand.
+Making passages in steamers?so as to excel other steamers
+equal in qualifications?is a very nice matter, requiring a con-
+siderable combination of experience, skill, and judgment.
+Simply to make a passage, and one that appears to be good,
+is easy enough for any indifferent person, in a superior
+steamer; but to make a much better passage than that, by skill,
+is the question. The shortest distance (on the globe, not on
+Mercator?s chart, if a long voyage,) the prevailing winds, the
+currents, and direction of usual swell will be considered, a
+good offing allowed from all land, and composite courses
+shaped from point to point. The points being taken from
+the globe may be marked on a Mercator?s chart, and then the
+lines joining them will shew the courses to be steered suc-
+cessively. Having no globe at hand, the courses and distances
+may be calculated, by spherical trigonometry, from point to
+point, and similarly transferred to Mercator?s chart, in order
+that the courses to be steered, successively, to follow the re-
+quired arc of a great circle, may be known by inspection. This
+
+
+accuracy is only necessary in long voyages. For short dis-
+tances Mercator?s chart is sufficient.
+Whether it is prudent to deviate from the best line, in order
+to benefit by wind or current, or avoid either, is a matter for
+judgment at the time. If blowing fresh, with much sea, a
+point some distance in advance, on the desired line, may
+be reached sooner by two or more boards, using sails and
+steam, than by steaming directly towards it: but when the
+wind is light the contrar}? would be the case.
+In making a long passage, the course of a sailing vessel
+should be generally adopted, and steam used only in calm or
+light winds.
+If steam be used continually and a direct course shaped,
+doubtless a quicker passage will be made, if the fuel lasts:
+but then the time necessary for replenishing that quantity of
+fuel must be considered. While at sea, it is usually better,
+on every account, to steam ahead while becalmed or in very
+light winds ; but the less fuel is used at other times, the
+better, for all reasons. As a general principle in long
+voyages, such as those to Australia, or the East Indies,
+frequent delays to replenish fuel consume more time, and
+cause more expense, risk, and anxiety than can be com-
+pensated by a few days, a very few days, shorter time actually
+at sea.
+In large packet steamers the expense of pay, provisions,
+(passengers? tables included,) and wear, taken together,
+nearly equal, if they do not exceed, that of fuel, for a day?s
+full power steaming: therefore, when full of passengers, it
+is a great object to gain time by burning coal, when the
+wind does not give sufficient speed.
+It was intended, at first, that the General Screw Company?s
+ships should act on the principle of combining the properties
+of good sailing ships and good steamers. It was argued (as
+may be seen by the evidence taken by a Committee of the
+House of Commons, in 1851,) that if sailing ships go from
+England to India in seventy or eighty days?fine steamers,
+
+
+not less fast under canvas, steaming through calms and light
+winds, ought to beat them from ten to twenty days.
+To Australia it was then proposed that they should go on
+similar principles, direct to Port Phillip, with only one
+cargo of fuel from St. Vincent. But they adopted a different
+plan?called at several ports ?made steamers? passages ?
+burned an immense quantity of coal?delayed a long while
+to replenish?were very expensive, and at last, this very
+month, that Company has decided to adopt the original plan.
+When those screw ships began to run to the Cape,
+people said it was impossible to make the passage in thirty
+days, as was proposed. It has been done in twenty-eight.
+To go between England and Calcutta, by the Cape of
+Good Hope, in sixty sailing days, was thought totally im-
+possible. It has been done in fifty-six. Mr. Brunei?s huge
+iron Leviathan (680 feet long, 84 feet broad, drawing 27
+feet), to be propelled by three separate engines, driving
+paddles and a screw, each one independent of the other ?a
+very monster of the deep?is intended to carry coals for the
+whole voyage and stop nowhere: but reach Calcutta, by the
+Cape of Good Hope, in a month from England.
+To do this, Leviathan must steam at an average rate of at
+least fifteen knots an hour.
+While this is in contemplation by the designer of the suc-
+cessful Great Britain, (aided as usual by Captain Claxton,)
+which ten years ago was thought a chimerical structure, but
+is now making the longest voyages admirably ?the Bengal, a
+larger ship than the Great Britain, runs from Alexandria to
+England, averaging twelve knots an hour great part of the way:
+?and in a few days the Himalaya, a larger ship still, 355 feet
+over all, (the Bengal being 335 ?and the Great Britain 320,)
+will be launched from Mr. Mare?s yard, at Blackwall, to
+compete for the championship with Napier?s Bengal, both
+belonging to the Peninsular and Oriental Company. Mean-
+while we have the Duke of Wellington?s huge bulk impelled
+at the rate of ten knots an hour ?the Agamemnon, deep in
+
+
+the water, with her ninety guns and all sea-stores on board,
+racing with the flying Fairy at the rate of eleven knots an
+hour ?the Imperieuse, in sea trim, making ten knots?the
+little Banshee always ready for fifteen, and many other ships
+for the nation to be proud of, coming forward as fast as due
+care and finishing will admit.
+Not only are these ships admirable in appearance as well
+as in performance, but they are as strong as wood, and iron,
+and copper can make them. It is not so with our neighbour?s
+most lauded production, the Napoleon. That ship is said to
+be already shaken seriously by her engines, and the machi-
+nery itself almost ruined, because originally too slightly
+constructed.
+DEFENCE.
+For defending our own coasts it must be kept in view that
+large ships can only act at a distance from the land, on account
+of their great draft of water, nearly five fathoms, and can only
+leave or enter our principal ports at high water.
+It should also be remembered that we have numerous
+ready-made batteries in our guardships and ships in ordinary,
+which may be soon towed to and moored in commanding
+positions; and that every sailing ship of war may be made
+almost as efficient as a steamer, by attaching a good tug-boat
+to her as a tender.
+Whether, instead of one or two of our immense three-deck-
+ers, costing about two hundred thousand pounds each, besides
+the pay and maintenance of the thousand souls on board, it
+might be advisable to have two or three hundred steam gun
+boats, which could be built, equipped, and maintained for the
+same money?is a question for the Authorities.
+One well placed shell might disable a three-decker, with all
+her immense force. That shell may be fired from a gun boat.
+The disproportion between the risk and damage to which each
+is liable is enormous. Suppose that an enemy?s flotilla ap-
+
+
+preached any part of our shores?only steam gun-boats could
+act promptly, in comparatively shallow water, against a flotilla
+of boats carrying troops. Such engines as Mr. Rennie?s Disc
+would suit them excellently well. Each might have one
+good, heavy, long gun?and the whole number might be
+stationed in squadrons, at sheltered places around the coast,
+wherever a landing might be effected.
+High authorities think that our war ships are too large?
+that, considering the effects of even one shell, there is
+too much at stake in a single ship?that we ought to build no
+ships so large even as the Agamemnon. The French have
+already approached this conclusion, it would appear, by having
+stated in the Report of their Enquete Parlementaire, that
+it is not advisable to construct any ships to carry more than
+a hundred guns. On the other hand, some of our best
+officers say that we must have the largest ships, and that
+whatever other nations build, we must exceed; because
+large ships have a prestige that tells heavily, in addition
+to their weight of metal.
+It is a difficult and important question?not perhaps to be
+viewed exactly in the same light as before the introduction
+of steam ?and shells fired horizontally.
+TACTICS.
+Naval tactics will undoubtedly be much altered in consequence
+of the prevalence of these additions to hostile armaments.
+That the majority of effective line-of-battle ships will have
+screws, seems more than probable, as the French Commission
+has reported in favour of fitting every ship with a screw that
+is strong enough to bear one: and our Admiralty has taken
+steps to be quite on an equality.
+A general action, some years hence, may probably be
+between steamers only; but, at present, and for a few years,
+a fleet or squadron will be composed of steamers and ordinary
+sailing vessels.
+
+
+No doubt flag-officers and those who may expect to hoist
+their flags in active service, have thought much about the
+disposition of such mixed and differing forces?of the
+arrangements to be made ?and the tactics to be adopted.
+But no recently written treatise on naval tactics is acces-
+sible. Works published before steam came into use afloat
+are now of little practical value ; even our Signal books, the
+only official instructions on this subject, require much alter-
+ation. The whole system of manoeuvring a fleet must be
+more or less modified to suit existing circumstances, and to
+turn them to the best account.
+Perhaps it is less inconvenient for an inexperienced junior
+officer to attempt a discussion of this question, than it
+would be for an officer of experience and reputation. The
+mistakes of the former will be of less consequence : there-
+fore, under this impression?l will venture to offer a few
+ideas.
+In the navies of England, France, and Russia, the only
+Powers possessing fleets, there are now (as is well known)
+many large steamers ?line of battle ships, as well as frigates,
+and there will soon be many more.
+In the event of war, the fleets of these great maritime
+Powers will be called into activity. How will they be com-
+posed ? In what order will they sail ? How will they form
+for action ? In what manner will a general action be com-
+menced ?and how will it be carried on ?
+First ? as to the composition of the English fleet. Sup-
+posing that half of our line of battle ships are screws, and
+the rest without steam ?it is obvious that the whole must
+be put as nearly on an equality as possible, as to speed and
+manoeuvring, or ?if it does not adhere to the maxim of
+regulating movements by the slowest ships ?the fleet will
+become divided. This equality may be effected by attach-
+ing to each ship (without an engine) a handy and powerful
+towing steamer, as a tender, under the immediate and entire
+control of the ship to which she is attached. Supposing this
+
+
+A veteran officer, well known to both professions of arms,
+(who has had much experience of hard fighting) observed,
+not long ago ?? that more nerve and self possession would
+be wanted in the next war than were required in the last;? ?
+steam and shells having added such elements of destruction.
+Now, if one may say so without undue national pride, it is
+in these very qualities of cool courage and self-possession,
+that the British Islanders excel. And as war requires two
+parties to play its deadly game, it does appear that the more
+formidable, and the more complicated, the weapons used,
+the greater will be our own advantages ?if we do not throw
+them away.
+Supposing hostile fleets in sight of each other in open
+ocean; manoeuvring will probably take place, with two objects,
+namely ?disabling, by good gunnery, a part of the enemy s
+fleet, and guarding our own from a similar calamity. Pro-
+bably little or no sail will be set on board steamers, the prin-
+cipal canvas will be clewed up, though kept ready for setting,
+and thoroughly wetted. It seems likely that sailing ships
+will be ordered against similar ships, rather than steamers,
+and that their tenders will aid them as much as possible,
+keeping, while they can, on the side of their ship which is
+not engaged. Concentrating efforts against a portion of the
+enemy, bringing overwhelming force to bear upon a part only
+of his line, will doubtless be a main principle of attack?as
+it has been hitherto with the best admirals, as well as generals.
+While exercising the valuable gunnery skill, acquired during
+many years of careful practice ?the direction of wind, the
+drift of smoke, will be of much consequence; and though
+steam almost does away with the comparative values of wea-
+ther or lee gages, the quantity and drift of smoke must be
+considered, with the double object of seeing the enemy, and
+being covered from his sight.
+Some officers think that the sooner our ships close, and
+board the enemy, the greater will be our advantage. Some
+say that actions at sea will in future have a resemblance
+to the encounters of Roman galleys, and that we shall have
+
+
+ships with sharp iron prows, for running into and disabling
+our opponents. Were such a course of action approved
+generally, by the most competent authorities, another
+description of vessel ?between Nasmyth?s f< coast defender,
+and a gigantic war galley ?might be more suitable than a
+three-decker. But be this as it may ?there can be little or no
+doubt that we shall not often again be permitted to approach
+and take up positions almost uninjured, as was the case at
+the Nile ?at Copenhagen ?Trafalgar ?Algiers ?and Nava-
+rino. Difficult as it may be to refrain from immediately
+closing with the enemy, a reasonable interval of gunnery
+practice will afford time for a few accidents, and explosions,
+which may be anticipated on board the enemy s ships; and
+will allow the steady enduring qualities of our countrymen
+to gain their w?onted advantage over those of too eager and
+more easily excited opponents.
+It is to be presumed that the attacked portion of a fleet
+will be speedily supported by the remainder, unless that
+part be promptly met and disabled by- ships not yet en-
+gaged, Steam power affords great facilities for manoeuvring
+ships, or squadrons, (almost like brigades of land forces,)
+but, at the same time, officers and men must be prepared
+to meet, and not be astonished by greater disasters than
+have ever yet happened; ?disasters proportioned to such
+augmented powers of injury.
+Great ships have been burned, have foundered, or have
+been blown up in former actions : but steam and shells
+have immensely added to the means by which catastro-
+phes will in future be caused when hostile fleets encounter.
+While duly mindful of the Omnipotent Disposer of
+all things?w r e may, however, rest in confidence, that with
+an Army and Navy duly appreciated by those ? who live at
+home at ease,? ?? Britannia safely will retain ?her Empire
+of the seas.?
+
+
+x) ? I v. j i j i J ?>. is : 1 � . , .-s. ?
+* 5 *ij | . } ? :? ? r <*tfj .v .*
+* ...7 J.. - . " . ? I ?; . ,� ? t
+fi H-iidf- *AC,i? (s'*. .'?tO .<:'< ' V 7 a' . , ,
+I , *?
+&J is ?: ? ;; i.. *
+3-J v.j ('-.V 1 / - . . 7 7 !S a i? > i
+- i 4 . . a ?
+X - ::ml n.01, #hS. 1 S cd v . 1 1 . V .a. '?; i|
+*v> i Vi.J .i ole, ,5 : K ) j i.:' . >
+. ..u' ? 3 i ,? ?;� . ... . ? . ;i
+, ' : ?
+tfj&vrtS:tuo& iro vrS.l ip * ?u/fi/s v.S:,v .?; v ' r fv; i;? t
+1 adi&orj , i ...
+? r ? t ? ?' , .?/
+: _ 3bi� ryJ I:.' ?J > a i*.-r r. , . ,s� 3v--;|
+.*.v.:cj.Tr.ai itn as? V ? i v, - :.; . .3**?
+... 3 ? ? ?
+ir.?f-M no fi i ?; a'; ?.;!� s
+tfsxb yd 'k ? H..:? j: C ? 3 .:{ 3,:;; ,<>t ; ,.y
+oi iiuu?:-cruyr v, .3.. ; 3- v i
+- v ??/ :j � >
+? ?sVj�fi td t r 5i h .w' S? ?! / . - "it* I
+?
+fsmr'li V 3 hr a arccJa 3uu ;t. .3s* i r c? f*'i; r.?. ,V' fj� rf
+S 1.'.,. .. i ,a- i fcsV , }
+..... , . -.J -
+I.'. . -.1 J -. . ? . /?- J "
+i \v 3a:'j ,?.*:? .. LiO!) i;i ;� ,-i,v.y ? ! Ml Hu
+? 3s tilt o:� r Af ?* sr-.j i; . v :3 v '.I M;* v ? iA no.
+s- A � .. ?, >.; .1 ..:*// v .5 .4 r'i ? ?' . ,j 3;, orua.i ?
+SJi3 '*o ? ?

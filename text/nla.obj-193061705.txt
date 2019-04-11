@@ -1,0 +1,352 @@
+
+
+A.R.C.
+RADIO
+FAULT FINDER
+A LIGHTNING METHOD OF DETERMINING
+RADIO SERVICE TROUBLES.
+Copyright . All rights reserved.
+Designed and compiled by
+AUSTRALIAN RADIO COLLEGE PTY. LTD.
+BROADWAY (Opp. GRACE BROS.) SYDNEY.
+
+
+f. Turn to the page set aside for the sympton apparent in the set.
+2. Take each of the probable causes -in turn and check carefully.
+3. Apply the remedy suggested.
+♦>
+♦>
+This Radio Fault Finder is designed and printed by The Australian Radio College Pty. Ltd.,
+E. S. & A. Bank Buildings, (Opp. Grace Bros.), Broadway, N.S.W., undisputed leaders in the field of Radio
+Service Engineering Training.
+Some advantages of A.R.C. Training.
+1. Modern Training,
+2. Night Classes or Correspondence Training.
+3. Individual attention.
+4. Lessons kept up to date.
+5. Free Technical Consultation Service.
+6. Free Employment Service.
+7. Free Business Advice.
+8. Buying Advice etc.
+How to Use The Fault Finder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complaint & rela-
+tive occurrence.
+Method.
+Cure.
+Set Dead
+34%
+Apply stage test
+(a) Touch grid of 1st A.F. am-
+plifier.
+(b) Remove tubes from sockets
+and listen for clicks.
+(c) Trace signals from aerial end
+with signal tracer.
+(d) Apply signals from test oscil-
+lator to each stage starting at
+speaker end.
+Use multimeter
+or oscillator to
+determine faulty
+part and replace.
+Hum 18%
+Component Check.
+Try new electrolytic filter conden-
+sers in parallel with existing ones.
+Measure hum voltage in filter with
+output meter.
+Trace hum with cathode ray oscil-
+loscope.
+Test valves for heater to cathode
+leakage.
+Examine rectifier for violet or blue
+glow inside plates, revealing gas.
+See Fault Finder for other causes.
+Replace faulty
+parts.
+Test valves and
+replace if defec-
+tive.
+RADIO RECEIVER SERVICING
+TECHNIQUE
+(Attach these sheets to your Fault Finder and use in conjunction with it.)
+METHOD OF ATTACK.
+Question owner about faults in set. Switch on. In A.C. set, watch for
+blue glow or overheating of rectifier.
+Observe symptoms. Choose one of three methods of attack listed below.
+(a) Stage Tests —To determine faulty group of parts. (Especially suitable
+for receivers which seem “alive” but will not reproduce any signals.)
+(b) Check All Voltages—Many faults reveal by producing a
+change in voltage at one or more points in a receiver. (Especially
+suitable when receiver is completely “dead” or where signals are weak).
+(c) Check Components most likely to cause symptom—certain faulty com-
+ponents cause characteristic symptoms, for example, high impedance
+electrolytic condensers cause hum, leaky coupling condenser causes
+distortion, etc.
+The method of attack selected should be determined by the symptoms
+apparent, type of test equipment available, age of receiver and ex-
+perience of serviceman.
+COMMON TROUBLES.
+The table below sets out common troubles in radio receivers, the percentage
+with which these faults are experienced in normal service work in districts
+where A.C. power mains are used, a suggested method of diagnosing the
+cause of trouble and the appropriate cure.
+N.B. —The following tables list only the most common causes for- various
+troubles and are not by any means complete. They should be used in
+conjunction with the appropriate page of the “Fault Finder” which will
+reveal all possible causes.
+
+
+Complaint & rela-
+tive occurrence.
+Method,
+Cure.
+Fading and
+Intermittent
+Operation 10%.
+(a) About 50% of these troubles
+caused by defects in Electrical
+Installation of building.
+(b) Faults in set may be due to:
+1. Short or open circuits in valves
+or bad contact with valve socket.
+2. Faults in tubular paper dielec-
+tric condensers.
+3. Corrosion or Electrolysis in coil
+windings.
+Record voltages throughout set
+and watch for changes.
+Check earthing of
+electrical conduit
+or call in elec-
+trician.
+Test valves or
+try replacements.
+Replace all tub.
+condensers.
+Try short circuit
+test.
+Determine part
+causing change &
+replace.
+Distortion or
+Rattle 8%.
+Feel speaker to see that moving
+coil is not rubbing.
+Test valves especially P.O. valve.
+Check voltages, especially bias of
+P.O. stage (Use VTVM if avail-
+able).
+Check A.F. coupling condenser.
+Use Signal Tracer or oscilloscope
+to determine point at which dis-
+tortion is introduced.
+Recentre cone.
+Oscillation 7%.
+Examine shielding and position of
+grid, plate and loudspeaker leads.
+Check earthing of metal valve en-
+velopes.
+Try substitute by-pass condenser in
+parallel with all tubular condensers.
+Check alignment especially inter-
+mediate frequency.
+Earth shields, re-
+arrange wires.
+Replace any
+faulty parts.
+Align.
+Crackling
+(a) Due to faults
+in set 4i%.
+(b) Due to inter-
+ference 3%.
+Attempt to determine whether
+crackles are due to fault in set or
+interference picked up by aerial
+by trying new location or _ testing
+with signal tracer or oscillator.
+If in set: —
+(a) Test valves.
+(b) Pass heavy short circuit cur-
+rent through coils.
+(c) Check for variations in voltage.
+(d) Wobble joints and components.
+Try an efficient
+earth wire.
+Replace defective
+parts.
+Mechanical defects
+and noisy controls
+4%.
+Examine receiver.
+Replace broken
+dial cords or
+faulty controls.
+Clean switch
+contacts.
+
+
+Complaint & rela-
+tive occurrence.
+Method.
+Cure.
+Stations at Wrong
+Position on Dial
+4%.
+Check dial mechanism.
+Check whether oscillator of set is
+functioning.
+If error greatest at L.F. end, check
+padder.
+If error greatest at H.F. end, check
+trimmer.
+Readjust dial.
+Realign tuned
+circuits.
+Insensitivity 2i%.
+Check voltages.
+Test valves.
+Align tuned circuits.
+If possible make stage gain mea-
+surements with signal tracer or
+oscillator.
+Replace faulty
+parts.
+Set inoperative on
+L.F. stations only
+2%.
+Defect in oscillator circuit.
+Check oscillator plate voltage—
+should be above 100 volts in A.C.
+sets.
+Test frequency changer tube.
+Losses in oscillator coil.
+Replace faulty
+parts.
+Whistles on some
+stations only 1%.
+If on local station, check inter-
+mediate frequency and adjust to
+455 K.C. or appropriate value.
+Excessive oscillator strength.
+10 K.C. whistles experienced at
+night only are due to beats between
+stations and little can be done at
+the receiver to rectify this.
+Align.
+Reduce oscillator
+plate voltage or
+remove turns
+from oscillator
+plate winding.
+SUSCEPTIBILITY OF PARTS TO BREAKDOWN,
+The following analysis reveals the
+component parts most likely to
+break down and result in service
+calls. The percentage figures show
+the percentage of service calls due
+to faults in the parts listed.
+Faulty valves 25%
+Electrolytic condensers
+(High impedance) .. . . 15%
+(Shorted or leaking) .. 9%
+Paper & Mica condensers
+(Shorted or leaking) .. 10%
+(Open circuited) 6%
+Resistors
+(Open circuited or high) 9%
+(Low or shorted) 1%
+Inductors
+(Open circuited or
+intermittent) 6%
+(Short circuited) 2%
+Vibrators • 1%
+Mechanical faults and noisy
+controls • • • • 11%
+Other miscellaneous faults .. 5%
+GENERAL.
+On restoring set to working order,
+test thoroughly to determine
+whether other less apparent faults
+are evident.
+
+
+INSTRUCTIONS FOR USING FOREGOING TABLES.
+The charts printed on the previous pages have been made as compact
+and brief as possible and it is felt that the following explanatory note which
+enlarges upon certain sections will simplify their use. ~ ~
+As most large towns and cities have alternating power available, the
+majority of receivers now in use operate from A.C. power mams and the
+tables apply particularly to mams operated sets. In the case of y
+operated receivers many of the complaints tabulated could be caused by
+discharged batteries with voltages considerably below normal. This applies
+especially to symptoms such as complete failure to operate intermittent
+operation, distortion, crackling, insensitivity, set inoperative at frequency
+end of tuning range only and audio frequency howling.. .Therefore a most
+important preliminary in servicing battery and vibrator operated sets is
+check battery voltages and see that they are adequate.
+MET In°aU se F rvfcI T wo C rf‘it is desirable to adopt a methodical rather than a
+haphazard approach but there is no one single method which can be efficiently
+adopted to cover all types of faults. There are three distinct methods
+systematic fault finding which embrace practically all troubles and after a
+and questioning of the o™er,
+the nature of the complaint, one should adopt whichever of the three systems
+listed seems most appropriate and follow it through. ,
+Stave tests will frequently reveal m a very short time the smge or
+group o? part? in which q a fault exists but a multimeter oscillator or trial
+replacement of one or more parts associated
+l-,p nnnnqcorv to determine the exact location of the tauit. une stage res.
+yn,i-y armHed is to touch the grid of the first A.F. amplifier with one finger.
+tV a i ou d squeal or humming sound is heard from the speaker uns immeuiateiy
+suvvests that the A.F. amplifier, speaker and power supply section are all
+functioning so that a fault probably exists in the tuning section or detector
+efficient way of making stage tests is by means of a “signal
+tracer” or “modulated oscillator” if these instruments are available
+Detailed instructions on the method of applying various tests and
+using instruments will be fodnd in many of the lesson papers contained in
+the third section of the Service Engineering Course.
+Under the heading of “Fading and Intermittent^ Operation onefault
+listed is “Corrosion or Electrolysis in Coil Windings . This is a frequent
+cause of trouble in tropical districts. It is suggested that you Try short
+circuit test”. This consists of deliberately passing a heavy current through
+a suspected winding for about 3 seconds. It is easily carried out in practice
+bv" short circuiting to chassis, the plate of a valve to which the suspected
+Ending for about three seconds. It is easily carried out in practice by
+short circuiting to chassis, the plate of a valve to which the suspected part
+is LS For example, to test the first I. F. transformer short circuit
+for about three seconds, the plate of the frequency converter valve to chassis
+bv meals of a screwdriver or wire. If corrosion exists in the winding, the
+£a?v surge of current will cause it to become completely open circuited
+and the set will stop. If the transformer winding is in good order it w
+BOt In connection^with ‘the'same complaint it is suggested that you ‘'Replace
+all tubur condensers”. This may seem a dr-tm step when a
+condenser which becomes faulty intermittently is suspected. As it may be
+a verv long and difficult task to check all tubular condensers for intermittent
+fauTts y amfas tubular condensers are not expensive, it is us-% f -per o
+discard all those in a set and replace with new ones. Inis step is usually
+v(srv successful in curing intermittent troubles.
+
+
+
+

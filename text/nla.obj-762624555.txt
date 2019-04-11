@@ -1,0 +1,2436 @@
+
+
+
+
+
+
+
+
+
+
+HANDBOOK
+MAGISTERIAL INQUIRIES
+NEW SOUTH WALES
+BEING
+A PRACTICAL GUIDE FOR JUSTICES OF THE PEACE IN HOLDING
+INQUIRIES RESPECTING DEATHS
+AND JUSTICE OF THE PEACE FOR QUEENSLAND
+CORONER AND JUSTICE OF THE PEACE FOR NEW SOUTH WALES AND SOUTH AUSTRALIA
+Parramatta
+LITTLE AND COMPANY, THE ARGUS OFFICE
+[copyright]
+
+
+.
+'
+■
+
+
+HANDBOOK
+MAGISTERIAL INQUIRIES
+NEW SOUTH WALES
+BEING
+A PRACTICAL GUIDE FOR JUSTICES OF THE PEACE IN HOLDING
+INQUIRIES RESPECTING DEATHS
+FOURTH EDITION
+R. H. MATHEWS
+CORONER AND JUSTICE OF THE PEACE FOR NEW SOUTH WALES AND SOUTH AUSTRALIA
+AND JUSTICE OF THE PEACE FOR QUEENSLAND
+Parramatta
+LITTLE AND COMPANY, THE ARGUS OFFICE
+[copyright]
+
+
+.
+.
+
+
+P 06437
+4 AUG 1938
+PREFACE TO THE FOURTH EDITION.
+It is now fourteen years since the first edition of this
+“Handbook to Magisterial Inquiries” appeared in 1888,
+and the rapid sale which it met with called for the publication
+of a second edition in 1890. A third edition was published
+in 1896, but this is now also out of print. It has therefore
+become necessary to publish the present new and revised
+edition, to which a large amount of valuable information
+has been added, comprising all the additional instructions
+which have been issued from time to time by the Depart-
+ment of the Attorney General and of Justice in regard to
+the holding of Magisterial Inquiries, since the publication
+of the former editions of this work.
+The want of a reliable Text Book, simply and intelligibly
+arranged, in which the law and practice relating to Magis-
+terial Inquiries respecting deaths is fully and lucidly laid
+down, has long been felt and complained of by Justices of
+the Peace throughout the State ; and it is hoped that this
+Handbook , being a complete practical Guide to the holding
+of these Inquiries, from their first initiation, through all
+their stages, to the final transmission of the proceedings to
+the Department of the Attorney General and of Justice,
+will supply the means of learning at a glance the whole
+form of procedure, and enable Justices of the Peace, when
+called upon to act, to discharge the important duties
+devolving upon them with facility and efficiency.
+§K>
+
+
+PREFACE.
+The comprehensive instructions given in the articles on the
+Mode of Taking the Depositions , and the Examination of Witnesses,
+will be found of great service to Justices of the Peace when
+officiating on the Bench at Police Courts, to Coroners, to
+Clerks of Petty Sessions, to Solicitors, and others whose
+duty it is to examine Witnesses, or to take down the
+evidence given by them in any Court.
+To members of the Police Force, who are always required
+to be in attendance to get up the case for the Magistrate ;
+to transmit reports of all inquests and inquiries to their
+superior officers; to furnish reports and declarations re-
+specting persons dying intestate; and to make arrangements
+for the burial of paupers, this book will be found a simple
+and compendious guide to the performance of these duties
+in a correct and satisfactory manner. And to such of the
+Police as are desirous of qualifying themselves to discharge
+the functions of Acting Clerks of Petty Sessions when called
+upon to do so, the articles on the examination of witnesses
+and writing down their depositions, already referred to, will
+be found invaluable.
+The Author respectfully asks for a continuance of the
+liberal patronage of Magistrates and Members of the Police
+Force throughout the State hitherto accorded to this Text
+Book, which contains the complete practice and procedure
+in connection with Magisterial Inquiries, revised up to the
+present date.
+R. H. MATHEWS.
+Carcuron, Parramatta,
+gth December, 1902.
+
+
+CONTENTS.
+CHAPTER I.
+General Instructions Respecting Magisterial Inquiries.
+AUTHORITY FOR MAGISTRATES HOLDING INQUIRIES.
+PAGE.
+Inquiries may be held by Justices of the Peace 1
+Inquiries should not be held where any suspicion of foul play .. .. 1
+Inquiries should not be held unnecessarily .. .. .. .. .. 3
+Post-mortem examinations, when and how made .. .. .. .. 5
+Analysis or assay of contents of stomach (see also p. 22) .. .. .. 6
+Magistrates cannot hold inquiries respecting fires .. .. .. .. 6
+DUTY OF MAGISTRATES WHEN A DEATH IS REPORTED TO THEM.
+When an inquiry should be held .. .. .. .. .. .. 7
+Police report death to the nearest Magistrate 7
+Interpreter procured when necessary .. .. .. .. ~ 7
+Police to get up the case at inquiry 8
+Inquiry may be dispensed with 8
+Publicans bound to receive dead bodies .. .. .. ... 8
+Accidents on Government railways .. .. .. .. .. .. 8
+Deaths in gaols and lunatic asylums.. .. .. .. .. .. 9
+MODE OF TAKING THE DEPOSITIONS.
+Form of caption for depositions .. .. .. .. ..10
+Corrections, &c., should be initialled .. .. .. ~ ..10
+Documents produced in evidence—how marked .. ... .. .. n
+Cross-examination—how taken down .. .. .. .. ..11
+Re-examination—how taken down ...... 12
+ne-examination —now taken down .. .. .. .. .. .. 12
+Form of jurat .. ” ’’ 12
+Re-calling witnesses—how taken down .. .. .. .. .. 12
+Deposition of Interpreter ** " .*! 12
+Adjournment of inquiry—how noted., .. .. .. .. ..13
+Resumption of inquiry after adjournment—how noted .. .. ..13
+Conclusion of inquiry—how noted .. ~ ~ .. .. .. 14
+
+
+OATHS OF WITNESSES AND INTERPRETERS.
+PAGE.
+Power to administer oath to witness .. .. .. .. .. 14
+Witness to be sworn before examination .. .. .. .. 14
+Mode of administering the oath .. .. .. .. .. .. 14
+1. Christians .. .. .. .. .. .. .. .. 14
+2. Jews .. .. .. .. .. .. .. .. 15
+3. Mohammedans .. .. .. .. .. .. ..15
+4. Parsees .. .. .. .. .. .. .. .. 15
+5. Roman Catholics .. .. .. .. .. .. .. 15
+6. Quakers or Moravians ~ .. .... .. .. 15
+7. Gentoos .. .. .. .. .. .. .. .. 15
+8. Chinese .. .. .. .. .. .. .. .. 15
+9. Interpreter’s oath, where witness does not speak English .. 16
+10. Affirmation instead of oath .. .. .. .. .. 16
+il. Declaration instead of oath .. .. ~ .. .. 17
+ADMISSIBILITY OF EVIDENCE AND COMPETENCY OF WITNESSES.
+Admissibility of evidence .. .. .. .. .. .. ..17
+Competency of witnesses .. .. .. .. .. .. .. 17
+CHAPTER 11.
+Procedure in Holding Magisterial Inquiries.
+OPENING THE INQUIRY.
+Magistrate proceeds to place appointed for inquiry .. .. .. 18
+Constable has the witnesses, &c., in attendance .. .. .. .. 18
+Not necessary that body should be viewed .. .. .. .. .. 18
+EXAMINATION OF WITNESSES.
+Witnesses examined in relative order .. .. .. .. .. 19
+Examination in chief .. .. .. .. .. .. .. .. 19
+When cross-examination allowed .. .. .. .. .. .. 19
+Purpose'of re-examination .. .. .. .. .. ..19
+Purpose of recalling witnesses.. .. .. .. .. .. .. 20
+Foreign witnesses examined through interpreter .. .. .. .. 20
+Medical witness, when and how examined .. .. .. .. 20
+Procedure if medical witness disobeys summons .. .. .. .. 21
+Persons found dead .. .. .. .. .. .. .. .. 22
+Describe deceased if unknown .. .. 22
+Inquiry may be adjourned .. .. .. .. .. .. .. 23
+Magistrate records his finding .. .. .. .. .. .. 24
+Copy of finding should be kept .. .. .. .. .. .. 24
+DUTIES OF POLICE AT INQUIRIES.
+Bodies should be removed to nearest public house.. .. .. .. 24
+Death should be reported to Magistrate or Coroner .. .. .. 25
+Police should get up case for Magistrate .. .. .. .. 25
+Report to Inspector General of Police, Form 10 .. .. .. .. 25
+Report to Agent of Curator of Intestate Estates, Form 11.. .. .. 26
+
+
+FORMS OF MAGISTRATES’ FINDING.
+PAGE.
+1. Death from apoplexy .. .. .. ~ .. .. ..26
+2. Death by hanging .. .. .. .. .. .. .. 27
+3. Death by cutting throat .. .. .. .. .. .. .. 27
+4. Congestion of the lungs, accelerated by intemperance .. .. 27
+5. Death from excessive drinking ~ .. .. .. .. .. 27
+6. Death by gun-shot wound . .. .. .. .. .. .. 27
+7. Death from sunstroke .. .. .. .. .. .. .. 27
+8. Death resulting from a fall .. .. .. .. .. ..27
+9. Death from burns .. .. .. .. .. .. .. 27
+Death from scalds .. .. .. .. .. .. .. 27
+10. Death from poisoning .. .. .. .. .. .. .. 27
+11. Found drowned, cause of death unknown ~ .. .. ..27
+12. Drowned whilst bathing .. .. .. .. .. .. .. 27
+13. Suicide by drowning .. .. .. .. .. .. .. 27
+14. Death from disease of the hea,rt .. .. .. .. .. .. 27
+Death from starvation .. .. .. .. .. .. .. 27
+15. Found dead, cause unknown .. .. .. .. .. ..27
+16. Where part of body found .. .. .. .. .. .. 28
+17. Death by being accidentally overlain by mother .. .. .. 28
+18. Death by accident on the railway or tramway.. .. .. ..28
+19. Where skeleton is found .. .. .. .. .. .. .. 28
+RECAPITULATION OF PRACTICAL INSTRUCTIONS.
+General synopsis of instructions for holding inquiry .. .. .. 28
+Memoranda of questions to ask witnesses .. .. .. .. .. 29
+CHAPTER 111.
+Peocedure after Conclusion of Inquiry.
+MISCELLANEOUS DIRECTIONS.
+Burial of body in ordinary cases .. .. «. .. .. .. 31
+Burial of deceased paupers .. .. .. .. .. .. .. 31
+Particulars to be furnished .. .. .. .. .. .. 32
+Deaths caused by intemperance .. .. .. .. .. .. 32
+Information to be sent to District Registrar .. .. .. .. 33
+Deaths of foreigners reported to Consul .. .. .. ~ .. 33
+Death of intestates reported to Curator .. .. .. .. 33
+Report by Police to Inspector-General .. .. .. -. 34
+Declaration respecting unknown persons .. .. .. .. .. 34
+Obtaining funeral expenses from societies .. .. .. .34
+PREPARATION AND RENDERING OF ACCOUNTS.
+Accounts should be rendered in proper form .. .. .. .. 35
+Fees to Magistrates for holding inquiries .. .. .. .. .. 35
+Fees to medical witnesses .. .. .. .. .. .. 36
+Fees to interpreters, with specimen of account .. .. .. .. 37
+Fees to publicans, where body received on premises, with specimen of
+account ~ ~ ~ ~ .. ~ ~ ~ 37
+
+
+PAGE.
+Rewards for taking up bodies found drowned, with specimen .. .. 38
+Stationery and Postage account with specimen .. .. .. .. 38
+Fees for the burial of paupers, with specimen 38
+Witnesses’ expenses .. .. .. .. .. .. .. .. 39
+General remarks respecting preparation of accounts .. .. .. 40
+To whom medical witnesses accounts are forwarded .. .. .. 40
+To whom accounts for burial of paupers forwarded, where no inquiry
+held 40
+To whom all other accounts are forwarded .. .. .. .. .. 40
+Accounts to be rendered in duplicate .. .. .. .. .. 41
+Mode of rendering account when the Magistrate pays the parties himself 41
+TRANSMISSION OF PROCEEDINGS.
+Proceedings should be forwarded without delay .. 41
+Letter to accompany proceedings .. .. .. .. .. .. 41
+Proceedings to be fastened together .. .. .. .. .. .. 42
+Directions for numbering the pages, &c. .. .. .. .. .. 42
+Postage and registration must be paid for .. .. .. .. .. 42
+Proceedings forwarded under registered cover .. .. .. .. 42
+FORMS USED AT MAGISTERIAL INQUIRIES.
+Preliminary remarks .. .. .. .. .. .. .. .. 43
+Form 1. —Magistrate’s Letter to Accompany Proceedings.. .. .. 43
+2. Caption for Proceedings at Magisterial Inquiries .. .. 44
+3. —Report by Police to Magistrate .. .. .. .. .. 44
+4. —Certificate of Magistrate’s Finding .. .. .. .. 45
+s.—Magistrate’s Certificate for the Burial of the Body .. .. 45
+6 —Magistrate’s Certificate dispensing with Inquiry .. .. 45
+7. Summons for Attendance of Medical Witness 46
+B.—Death Register (G 245) .. .. .. .. .. ..46
+9. —Justice’s Information of Death .. • .. .. .. .. 46
+10.— Report by Police to the Inspector-General .. .. .. 48
+11.—Declaration of Death and Intestacy 49
+
+
+PRACTICAL GUIDE
+MAGISTERIAL INQUIRIES
+CHAPTEK I.
+GENERAL INSTRUCTIONS RESPECTING
+MAGISTERIAL INQUIRIES.
+Authority for Justices of the Peace Holding Magis-
+terial Inquiries as to Causes of Death.
+Inquiries may be held by Justices of the Peace. —ln this State
+no special Statute has been passed authorising the holding of
+Magisterial Inquiries into the cause of the death of any person,
+or regulating the procedure thereat, but an implied authority
+is given by the Medical Witnesses Act, i Vic., No. 3, to which
+practical effect is given by a notice which appeared in the
+Government Gazette , No. 22, page 300, of 18th March, 1845.
+This notice is dated 15th March, 1845, and after defining the
+limits within which Coroners should exercise their jurisdiction,
+states as follows : —“ In police districts in which there may be
+no Coroners, the inquiries into the causes of any sudden deaths
+which may happen within the same, are to be conducted by
+the Police Magistrate, if there be one, or if not, by any Justice
+of the Peace of the district, under the powers granted by the
+Act of the Governor and Council, 1 Victoria, No. 3.”
+Inquiry should not he held where there is any suspicion of foul
+play. —Magisterial inquiries should only be instituted where
+there is no Coroner, or during a vacancy of that office ; or
+where the local Coroner is absent, or is unable from any cause
+to hold an inquest; or in cases where the body is so much
+decomposed, or has lain so long that no information could be
+gained by an inspection of it ; and should be confined to those
+cases in which the tacts and circumstances plainly indicate that
+
+
+the death was accidental, or due to natural causes ; and that
+no suspicion of criminality or negligence attaches to anyone.
+In many cases of infanticide, however, where there is no
+clue to the guilty person, and therefore nothing to be gained
+by holding an inquest instead of an inquiry—and also in cases
+of homicide by misadventure—it is quite competent for a
+Magistrate to hold an inquiry in the absence of the Coroner,
+or by request of that officer.
+Whenever, in the opinion of a Magistrate, it is expedient to
+institute an inquiry into the cause of any death, he should
+carefully consider whether the circumstances of the case do
+not rather render the laying of an information for “ murder ”
+or “ manslaughter ” the more desirable course to pursue, so
+that the guilty party may be at once arrested, and the pro-
+ceedings assume their proper judicial shape in the only
+effectual form which would render them available for ultimate
+usefulness.
+In what cases Inquiries should he held. —The object of holding
+a Magisterial Inquiry is to ascertain the cause of death, free
+from doubt or suspicion, so that the public may be satisfied
+that such deaths occurred in the common course of nature,
+and not by some unlawful violence, foul play, or culpable
+neglect. It is, therefore, the custom to hold inquiries in all
+cases of persons meeting their death by violence or accident—
+persons found dead—dying suddenly, or in any place of con-
+finement—or persons committing suicide—for the purpose of
+ascertaining whether deceased came to his death by the
+wrongful action of any other person, or not.
+Magistrates ought not in any case to obtrude themselves
+into private families for the purpose of instituting inquiries,
+but should wait until the case is reported to them by the
+Police, to whom it is the duty of those in whose houses violent
+or sudden deaths occur, to make immediate communication,
+whilst the body is fresh, and, if possible, whilst it remains in
+the same situation as when the person died. But under what-
+ever circumstances an inquiry may be considered necessary,
+the authority vested in the Magistrate in this behalf ought to
+be exercised within the limits of a sound discretion.
+In what cases the inquiry should he terminated. —Whenever, at
+any stage of the inquiry, the evidence discloses facts which
+point to the conclusion that any person is guilty of wrongfully
+causing the death under consideration, the Magistrate should
+terminate the inquiry as soon as possible; but before doing so,
+he should take sufficient evidence to enable him to form an
+opinion as to the cause of death. He will then record his
+
+
+“ finding ” in the usual form, —adding thereto a direction to
+the Police to lay an information against the suspected person,
+charging him with murder, or manslaughter, in order that
+such person may be brought up on summons, or warrant, at
+the Police Court, in the usual way. The whole case is then
+commenced afresh before the Justices, at the Police Court,
+according to the usual rules of procedure in charges of
+indictable offences, and all the witnesses are examined de novo,
+in the presence of the accused, who has the opportunity
+afforded him of cross-examining them, if he wishes to do so,
+or of calling any witnesses he may think desirable for his
+defence. If, after full investigation, the Justices think a prima
+facie case is made out against the accused, they will commit
+him for trial ; otherwise, he will be discharged.
+It sometimes happens that the person who caused the death
+is present in the custody of the Police, and in such cases
+there need be no hurry in closing the inquiry. The object of
+terminating the proceedings where there is any suspicion of
+foul play on the part of any person not present, is to give the
+Police an opportunity of arresting the guilty party before he
+can get timely warning of the evidence available against him
+and so elude justice by absconding—by tampering with the
+witnesses—or by any other means.
+Inquiries should not be held unnecessarily . —lt is important to
+keep down the expenses of Magisterial inquiries to a limit
+provided by Parliament, and to confine such inquiries, as far
+as may be practicable, to cases of suspicious death, or of deaths
+so sudden as to create a reasonable ground for investigating
+the cause; and with this object in view, it is desirable in all
+cases for the Magistrate to consult with the Police, for the
+purpose of ascertaining whether any clear ground exists for
+suspecting that death might have been caused by some foul
+means, before the Government is put to the expenses incidental
+to such inquiries.
+It would be very harassing to families, as well as costly to
+the Government, if Magisterial inquiries were held in cases
+where no reasonable doubt existed that death was the result of
+natural causes, even though it may have been unexpected and
+somewhat sudden. Dying suddenly is not to be understood as
+applying to persons who may die of fevers, or other epidemics ;
+and the absence of a doctor in attendance before death is not in
+itself a sufficient reason for holding an inquiry, unless there
+are some suspicious circumstances of neglect or maltreatment
+in the case. If inquiries were considered necessary in all such
+cases, the cost would be very much in excess of the
+Parliamentary provision for the purpose.
+
+
+Whilst urging the necessity for restricting the number of
+inquiries, the Minister for Justice does not desire to be under-
+stood as controlling the exercise of the Magistrate’s discretion
+in respect to cases in which an inquiry may appear to him to
+be essential to the ends of justice.
+Cannot impannel a Jury , or commit for Trial. —A Magistrate
+has no power to summon or impannel a Jury for the purpose
+of holding an inquiry—that power being conferred only upon
+Coroners —but must conduct the proceedings himself; at the
+conclusion of which he formally records his opinion—usually
+called the Magistrate’s “ Finding ” —as to the cause of death.
+Owing to these inquiries being instituted without formal in-
+formations, and being held before the arrest of any suspected
+person, or, in his absence, there is no power vested in the
+Magistrate to commit any such person for trial, although the
+evidence may disclose a strong case of suspicion against him.
+And it is important to bear in mind that no depositions taken
+at Magisterial inquiries, of witnesses who may subsequently
+die, can be read as evidence at any trial, either on behalf of
+the Crown or of the prisoner.
+No power to compel attendance cf Witnesses. —With the excep-
+tion of a medical witness, who may be summoned under the
+Act 1 Vic., No. 3, the Magistrate has no authority to summon
+any witnesses to attend at these inquiries, and therefore there
+are no means of compelling unwilling witnesses to be present
+thereat. The usual way of obtaining evidence is for the
+Constable who has charge of the case to request all persons
+who know anything of the death to attend at the time and place
+appointed for holding the inquiry.
+Sunday. —A Magisterial inquiry should not be held on a
+Sunday.
+One Inquiry held on several bodies. —One Magisterial inquiry
+may be held touching the death of several persons, who have
+been injured by the same cause and died at the same time ;
+but only one fee is payable to the Magistrate for the whole in-
+quiry, no matter how many persons may have met their death.
+Expenses of Inquiry. —A Justice of the Peace, holding a
+Magisterial inquiry, has authority to sanction the payment of
+certain necessary fees to witnesses—medical witnesses—
+interpreters publicans—rewards for taking up bodies of
+persons found drowned—and for the burial of paupers.
+Any legally qualified medical practitioner may be summoned. —The
+Justice of the Peace holding the inquiry is authorised by the
+Statute i Vic., No. 3, to issue his summons for the attendance
+
+
+as a witness of some legally qualified medical practitioner in
+actual practice, who may reside in or near the locality, if the
+deceased was not attended by one, at or immediately before his
+death ; and in cases where the deceased was so attended by one
+or more such practitioners, the Magistrate may at his discretion
+summon any one, or all of them, to give evidence as to the
+cause of death ( Form 7). By a circular issued by the
+Government it is directed that the expense of medical
+testimony should not be incurred, except in cases in which the
+Magistrate shall have been satisfied that a skilled and scientific
+examination of the body is absolutely necessary, or that it is
+important to ascertain the history of deceased’s case and
+treatment.
+Post mortem examination may be ordered. —Should the Justice be
+of opinion that an external examination of the body is not
+sufficient, owing to the suspicious or unusual circumstances of
+the case, he may, at any time before the termination of the
+inquiry, direct any legally qualified medical practitioner to
+perform a post-mortem examination of the body of deceased,
+either with or without an analysis of the contents of the
+stomach or intestines.
+Whenever the cause of death has not been satisfactorily
+explained by the practitioner examined in the first instance,
+the Justice may summon any other legally qualified medical prac-
+titioner, and direct him to perform a post-mortem examination
+with or without an analysis, whether such an examination shall
+have been previously performed or not; and may, if necessary,
+adjourn the inquiry for the purpose.
+Post-mortem examinations, when and how made. —The fullest
+care should be exercised by Magistrates in order to avoid the
+performance of post-mortem examinations unnecessarily. Such
+examinations are necessary only as far as there is need to
+ascertain the precise cause of death. It is not always requisite
+to determine the cause of death with that minute accuracy
+which can be attained only by making an autopsy of the body.
+In every case, however, where there is any ground for think-
+ing that a person may be placed on his trial for causing or
+contributing to the death of the deceased, a careful post-mortem
+examination of the body should be made, without exception, so
+as to prevent the possibility of a miscarriage of justice on
+account of any uncertainty as to the cause of death.
+The medical practitioner conducting the post-mortem should
+open and examine the head, chest and abdomen. It is neces-
+sary that evidence as to the state of the organs in each of the
+cavities mentioned should be given before a claim for a fee for
+making a. post-mortem can be entertained. The Magistrate con-
+
+
+ducting the Inquiry should therefore take care that a medical
+practitioner who has made a post-mortem examination in the
+manner described, shall give full evidence of the result of such
+examination. Evidence as to a part of such examination only
+will not be accepted ; the doctor must state that he opened
+the head, chest and abdomen.
+Penalty for Medical Witness disobeying summons. —The Act
+referred to, i Vic., No. 3, does not empower the Justice to
+compel the attendance of a legally qualified medical practitioner,
+but section 5 provides that if such witness be duly summoned
+to give evidence, or if ordered in writing to perform a post
+mortem examination, and he does not obey such summons or
+order, without a reasonable excuse, he shall be liable to a fine
+of not less than £3, nor more than £ 2O, to be recovered in a
+summary way before any two Justices of the Peace.
+Any Medical Witness may he examined. —The Magistrate has
+power to examine as a medical witness any person he thinks
+fit other than a legally qualified medical practitioner ; but this
+should be done only where a properly qualified medical man
+is not available.
+Analysis or Assay. —Whenever there may be reasonable
+ground for suspecting death to have been caused by poison, or
+by improper medical treatment, and in the opinion of the
+Magistrate an analysis of the stomach or other parts of the
+deceased person may be necessary, the Magistrate may com-
+municate in the first instance, either by telegraph or by letter
+(according to the urgency of the case), with the Under-
+secretary of Justice, giving an outline of the circumstances in
+each case, and of the symptoms and duration of illness, etc.,
+before incurring the expense of sending constables to Sydney
+with the matter for analysis or assay, so that the necessary
+steps may be at once taken, and the Government Analytical
+Chemist duly instructed for the purpose of obtaining the
+requisite information thereon. The Constable entrusted with
+the matter should take care to be able to swear that he
+delivered it in the same condition in which he received it.
+No authority to hold Inquiries respecting fires. —A Justice of the
+Peace has no authority to hold a Magisterial inquiry respect-
+ing the cause of any fire, that power being conferred only upon
+Coroners. The proper course to be pursued in cases where
+any property has been wilfully destroyed or damaged by fire,
+and there is no Coroner to hold the usual inquest, is for the
+Police to proceed against the suspected person on a charge of
+arson, by laying an information and taking out a summons or
+warrant —according to the urgency of the case—and bringing
+
+
+him before the Police Court; and then, after public examina-
+tion of the witnesses against and for the accused, and in his
+presence, a committal or discharge may take place, in precisely
+the same way as in any other charge of felony.
+Duty of Magistrates when a Death is Reported
+to THEM.
+When Inquiry should be held. —When the body of any deceased
+person is found by the Police, or they are informed of any such
+body having been found, or any death under unusual circum-
+stances is notified to them, a report (Form 3) stating, if
+possible, the name of the deceased, and the manner of the
+death, should be made immediately to the Coroner, if there be
+one, or if not, to the nearest Magistrate, in all cases of violent
+and unnatural deaths casualties by which death ensues—
+sudden deaths —persons found dead, whether the whole body
+or only part of the skeleton be found—persons committing
+suicide—persons dying in gaols, asylums, or hospitals—and
+prisoners executed in gaol.
+Arrangements for holding the Inquiry. —On receipt of the report
+referred to whether verbally, or in the form of a letter or a
+telegram—from a Police Officer, the Magistrate, if he is satis-
+fied that there are no suspicious circumstances connected with
+the case, and that a Magisterial inquiry would be sufficient to
+elicit the cause of death, thereupon arranges with the Police
+as to the place where, and time when, such inquiry will be
+held, having due regard to the convenience of the witnesses,
+and all persons concerned.
+If the death happened on a railway line, and no Coroner is
+available to conduct an inquest, the Magistrate will then send
+notice to the Officer of the Railway Department, in accord-
+ance with the directions given under the sub-heading of
+Accidents on Government Railways. [But see “ Note,” p. 9.]
+If it be thought necessary that a medical man should be
+called in to view the body, or make a post-mortem examination,
+the Magistrate should issue his summons [Form 7) for such
+medical man if there are reasons for supposing that he will not
+attend without a summons, in order that the Constable may
+have him in attendance, with the other witnesses, when the
+inquiry commences, preference being given to the Government
+Medical Officer of the district, who lives nearest to the place
+of holding the inquiry.
+The Constable then communicates these arrangements to
+all persons who will be required to give evidence in the case,
+and requests them to be present; and if he learns that any
+material witnesses cannot speak English, he should endeavour
+
+
+to find some competent person to act as interpreter, and have
+him in attendance, with the witnesses, at the place appointed
+for holding the inquiry.
+It is not imperative that the inquiry should be held at the
+place where the body was found, or the death occurred ; the
+body may be removed, in a cart or-otherwise, to the nearest
+convenient place for holding an inquiry ; or, if the Magistrate
+does not consider a view of the body necessary, it need not be
+removed, and the inquiry can be held at any place which will
+be convenient for the attendance of the witnesses and others.
+The Police Officer who reports the death to the Magistrate,
+must consider himself as the person whose special duty it is to
+get up the case at the inquiry, by having the witnesses, ex-
+hibits, interpreter, &c., ready at the time and place appointed.
+Inquiry may be dispensed with. —lf, however, the Magistrate is
+satisfied, from the information given to him by the Police when
+reporting the death, that there is no necessity for holding a
+Magisterial Inquiry, he may dispense with it, and grant a
+certificate for the burial of the body, to the effect of Form 6.
+Publicans bound to receive dead bodies. —The bodies of persons
+found dead are usually removed by the Police to the nearest
+public-house, or to the house of some of the deceased’s friends,
+if any. By section 86 of the Licensing Act of 1882, power is
+given to hold inquests in public-houses, where the house is not
+situated within one mile from any dead-house or police-station ;
+and the publican is bound, under a penalty not exceeding £5,
+to receive a dead body into some secure place upon his
+premises, if it be brought there for the purpose of an inquest
+being held upon it; but he is not bound to receive a dead body
+in an offensive state of decomposition, or the body of a person
+reputed to have died of an infectious disease. For every body
+so received, the publican is entitled to receive the sum of thirty
+shillings. In the section just quoted, the word “ inquest,”
+and not “Coroner’s inquest,” is used, and it is thought the
+Government would be willing to pay the prescribed fee to the
+publican in cases of Magisterial inquiries, and that the publi-
+can would be bound to receive the dead body upon his
+premises; because, when the Police bring the body there,
+they do not know whether an inquest, or a Magisterial inquiry,
+will be held thereon. In the case of a person dying suddenly
+in a public-house, the publican will not be entitled to receive
+the sum mentioned, or any other gratuity.
+Accidents on Government Railways. —Whenever loss of life
+occurs by reason of any accident on a line of Government
+Railway, or on the premises of any railway station, and no
+
+
+Coroner is available to hold an inquest, the Magistrate con-
+ducting the inquiry should send notice to the nearest Traffic
+Manager, Station Master, or other railway official, of the time
+and place of holding such inquiry, in order that the Traffic
+Manager, or his representative, may have an opportunity of
+being present thereat, and of examining and cross-examining
+any witnesses he may think proper. And for the purpose of
+allowing sufficient time for the attendance of such official, the
+Magistrate may, if he consider it necessary, adjourn the
+inquiry to a time and place to be stated in the notice referred
+to, after having taken sufficient evidence to identify the body,
+and issuing his certificate for its interment.
+Deaths in Gaols and Asylums. —When holding Magisterial
+inquiries respecting deaths in Gaols or Lunatic Asylums, and
+the circumstances of the case raise any question as to
+negligence or impropriety in the treatment of the prisoner, or
+inmate, the independent evidence of some medical man wholly
+unconnected with such Gaol or Asylum should be taken, in
+addition to that of the regular medical officer, as a guarantee
+and a safeguard against the testimony of interested parties,
+however respectable, connected with such institutions.
+Note. — In cases of deaths resulting from accidents
+on a Railway—or deaths occurring in Gaols and Lunatic
+Asylums—the local Coronor generally holds an inquest;
+or, in case of his absence, a Coroner from another district
+may be instructed to undertake the duty; but as cases
+may arise where Justices of the Peace may be called upon to
+hold inquiries, it has been thought desirable to refer to the
+matter in this work.
+Interested persons may be allowed to examine witnesses. —ln
+cases where fatal accidents occur in saw or other mills, in
+house-building, in the erection of bridges, or in any large
+establishments where a number of men are employed, and in
+reference to which the public or employes may think there is,
+perhaps, some blame or negligence on the part of the employer,
+it is usual to allow such employer, or any person interested in the
+result of the proceedings, to be present at the inquiry to cross-
+examine the witnesses, in order that he may have an oppor-
+tunity of correcting any wrong impression which may have
+arisen respecting the cause of the accident, and of setting him-
+self right with the public ; or he may himself give evidence if
+he so desires, but in such case it would be the Magistrate’s
+duty to caution him that he is not compellable to answer any
+questions, or to make any disclosures, tending to criminate
+himself; or, further, he may be allowed to call and examine
+
+
+any witnesses he wishes as to the cause of the accident, such
+witnesses being subject to examination afterwards by the
+Magistrate if he thinks proper.
+Where any such person decides to give evidence himself, or
+to call any other persons as witnesses, the proper time for him
+to do so is at the conclusion of the evidence called by the
+Constable.
+Mode of Taking the Depositions.
+Form and caption of depositions. —The depositions should be
+preceded with a heading, or caption, as it is called, to the effect
+of Form 2, on half a sheet of foolscap paper. The first witness’
+deposition should then commence on a fresh half-sheet of
+paper, giving his name in full, occupation, and place of
+residence. When a witness’ evidence extends over more than
+one page, the first word on each succeeding page should be
+repeated at the foot of the page preceding it.
+The continuation of the depositions should be written on
+half-sheets of foolscap paper, with the pages numbered in
+regular order ; the examination of each witness commencing
+on a fresh half-sheet, preceded by the words :—“ J. 8., having
+been sworn, states : ” Here will commence his evidence, as
+follows :
+“I am a sawyer and reside at Tulloona. I recognise the
+deceased, the subject of this inquiry. His name was John
+Smith, and his age about 36 years. He was a native of Tam-
+worth, in this State, and was unmarried [or, he was married,
+and leaves a wife and family of four children, or as the case may
+be.] He was a carpenter by trade, and was last employed by
+Mr. T. Jones, of Boggabilla.”
+When a child gives evidence, his or her age should be stated
+in the deposition.
+The depositions, and all the proceedings connected with the
+inquiry, should be written in a distinct and legible hand, on
+one side only of the paper, leaving about a quarter of the width
+of the sheet as a margin Although erasures and interlinea-
+tions should be avoided as much as possible in writing down
+depositions, yet it is sometimes necessary to strike out words
+and expressions, and to substitute or interline others in lieu of
+them ; but all such erasures, interlineations, or other correc-
+tions, from whatever cause they may be made, should be
+made, should be initialled by the Magistrate on the margin
+opposite to where they occur. But no alteration of any kind
+should be made in a witness’ deposition after he has signed it,
+or has made his mark.
+
+
+How the evidence should he taken down. —The statement of every
+witness should invariably be taken down in the first person,
+and as nearly as possible in the precise words and expressions
+spoken by the witness, omitting all that is irrelevant, sup-
+position or hearsay. Ambiguous phraseology should be
+avoided in writing down the evidence ; and if it be found
+necessary to alter the witness’ words in order to show the fair
+and obvious purport of his statement, he should be asked if
+the alteration expresses his meaning.
+All depositions should be as concise as the nature of the
+case will permit, and needless prolixity is not desired ; but the
+facts should be stated with reasonable minuteness, in words
+most commonly used and generally understood, and in such
+sequence as to give a connected account of what took place.
+Every relevant circumstance detailed by the witness should
+be taken down with care and accuracy, particularly as regards
+time, place, and persons ; and whenever these or any other
+matters appear to be loosely or ambiguously spoken of, the
+attention of the witness should be called to these points, not
+by leading questions, but by such as may tend to elicit the
+desired information from the witness in his own words.
+In taking the depositions of witnesses who are unaccustomed
+to giving evidence, great care is necessary, in order to avoid
+writing down a variety of matters altogether irrelevant ; and
+it is difficult to make such witnesses state only what they saw
+or did, and to suppress that which they only heard or surmised.
+A witness of this description will go on for a considerable time
+in telling a story as if he had been present and seen it all; but
+presently it turns out that it was only communicated to him
+by someone else. Depositions are sometimes taken very care-
+lessly in this respect, mixing up facts with hearsay and surmise,
+and also containing ambiguous and irrelevant sentences.
+Documents produced in evidence.- -When documents are pro-
+duced in evidence, they should either be introduced in extenso
+into the depositions, or their purport stated, as their impor-
+tance may seem to require, and should then be initialled by the
+Magistrate, and lettered in consecutive order, thus :—“ Exhibit
+A,” “ Exhibit B,” &c., followed by the Magistrate’s initials. A
+note should also be made on the margin of that part of the
+deposition where such document is quoted, or referred to
+thus :- “ See Exhibit A.” All exhibits should be attached to
+the depositions with which they are connected.
+Cross-examination . —When a person is allowed to cross-
+examine a witness at the end of the examination-in-chief, any
+relevant evidence so elicted should be written down imme-
+
+
+diately following, as a part of the deposition already taken, and
+such evidence must be distinguished from the examination-in-
+chief, which may be done in this way : “ Cross-examined by
+Mr. John Smith : ”
+[Here give the evidence.]
+Re-examination. —lf the witness be re-examined, such ad-
+ditional evidence should be distinguished from the cross-
+examination in the following manner:—“ Re-examined by the
+Magistrate: ”
+[Here give the re-examination.]
+Form of Jurat in ordinary cases. —When the witness’ deposi-
+tion is finally completed, read to him, and corrected, if neces-
+sary, it must be signed by him with his name or mark, and the
+following jurat added and signed by the Magistrate :—“ Taken
+and sworn [affirmed or declared], at Bourke, this 10th day of
+September, 1902, before me, A. 8., J.P. [This jurat must be
+added to each witness’ deposition after he signs it.]
+Recalling witnesses —lf a witness be recalled, it should be
+noted on the proceedings in the same order as if he were a new
+witness, except that he need not be again sworn. The additi-
+onal evidence will be taken down on a fresh half-sheet of paper,
+and the heading will be as follows :—“ A. 8., recalled, states : ”
+[Here give his additional evidence.] The witness will then
+sign it as before, and the Magistrate will add and sign a jurat
+in the usual way.
+Deposition op Interpreter. —ln cases in which an interpreter
+has been employed in interpreting the evidence given by the
+witnesses, it should be shown on the face of the depositions,
+not only that the witnesses were examined through an inter-
+preter, but also that the interpreter was sworn as such. This
+is accomplished by taking from the interpreter a short deposi-
+tion embodying the usual enterpreter's oath, in precisely the
+same manner as the other depositions are taken. The follow-
+is the prescribed form of deposition in such cases, which must
+be made by the interpreter before he is permitted to act:
+C.D. on oath states:—“ I will truly and faithfully interpret
+the evidence about to be given, and all other matters and
+things touching the present inquiry as to the cause of death of
+J.S., and the French language into the English language, and
+the English language into the French language, according to the
+best of my skill and ability, so help me God.”
+This is signed by the interpreter, and the Magistrate adds
+the ordinary jurat given at p. 12.
+
+
+When the witness is examined through the medium of an
+interpreter, such witness’ deposition may commence as follows :
+“ Eugene Grandjean, by the interpretation of Jacques de Baun,
+was sworn and deposed [Here give the witness’ evidence].
+Constable's deposition of service of Summons on Medical Witness. —
+The deposition of a constable who serves a summons on a
+medical witness, who disobeys it, may be in the following form :
+“John Dunn, on oath, states: —lam a Constable in the
+New South Wales Police Force, stationed at Menindie. On
+the 18th day of June, instant, I served a duplicate of the
+summons produced on 0.P., by delivering it to him personally
+[or, by leaving it with Q.R., to whom I read and explained it,
+at the usual place of abode of the said O.P.]. It is under the
+hand and seal of a Magistrate of this State, and is returnable
+to-day. He has been called three times, and does not appear.’’
+This deposition will be signed, and a jurat added in the
+usual manner. The copy of the summons referred to should
+be attached to the deposition by a tape and sealing wax, and
+the Magistrate should endorse on such copy these words :
+“ This is the copy of the summons referred to in the deposition
+of John Dunn, hereto annexed,” and adding his signature.
+Adjournment. The date and place to which the Inquiry may
+be adjourned, with the causes rendering such adjournment
+necessary, should be entered in the deposition, at the end of
+the deposition already taken, in the following manner:
+“ Inquiry adjourned to the Plough Inn, Branxton, for the
+purpose of obtaining further evidence [or, as the case may be]
+until Monday, the 9th May, 1903, at 10 o’clock, a.m. A.8.,J.P.”
+Resumption. —When the inquiry is resumed, the following
+caption, on a fresh half-sheet of paper, should precede the ex-
+amination of the witnesses : —“ The Magisterial Inquiry,
+respecting the cause of death of J. S. [or, a man unknown]
+was resumed on the 9th May, 1903, at the Plough Inn,
+Branxton, to which time and place the Inquiry had been duly
+adjourned.
+“ Thomas Bull, having been sworn [or , having made an
+affimation, or, having made a declaration], states : —” [Here
+will follow his deposition in the usual manner.]
+Conclusion. —When the inquiry is concluded, the certificate of
+the Magistrate's finding ( Form 4) should be written on a
+fresh half-sheet of foolscap paper, and the following entry
+made at the end of it: —“ Inquiry closed. Branxton, May gth,
+1903.”
+
+
+Oaths of Witnesses and Interpreters.
+Power to administer Oath to Witnesses. —lt may be laid down
+as a general rule, that wherever Justices of the Peace are
+authorised by Act of Parliament to hear and determine, or to
+examine witnesses, they have, incidentally, a power to take
+the examinations on oath.
+Witness to be sworn before the examination. —Before the exam-
+ination of a witness is taken, he should be duly sworn to
+speak the truth. And, as the mode of administering the oath
+varies, according to the peculiar religious belief professed by
+the witness, the Magistrate should always satisfy himself upon
+this point, either by questions put to the witness or other
+persons. It need scarcely be observed that the object in view
+in putting the witness under the solemn obligation of an oath
+is not only to impress him with the moral and religious duty
+of speaking the truth, but to render him liable, in case he
+should give false testimony, to the punishment awarded by law
+to a person who commits perjury. If, therefore, a Magistrate
+should be wilfully deceived by a witness as to his religious
+belief, and the witness should thus be improperly sworn, and
+so as not to bind his conscience, it will not the less prevent
+his being convicted of perjury, in case he should be proved to
+have given false testimony.
+Mode of Administering the Oath. —The particular form of
+ceremony of administering an oath is quite distinct rrom
+the substance of the oath itself. The form of oaths under
+which God is invoked as a witness, or as an avenger of
+perjury, is to be accommodated to the religious persuasion
+which the swearer entertains of God, it being vain to compel
+a man to swear by a God in whom he does not believe,
+and whom he therefore does not reverence. (Puffend, b. 4,
+c. 2, s 4). According to several decisions and enactments, the
+mode of swearing witnesses of different religious persuasions
+may be as follows :
+Christians, how sworn. —A. Christian is sworn upon the four
+Gospels or Books of the Holy Evangelists, and the following
+form of oath is usually adopted, being repeated to the
+witness after he has taken the Testament in his right hand :
+A ,8., the evidence that you shall give to this inquiry
+touching the death of C.D., shall be the truth, the whole truth,
+and nothing but the truth. So help you God.
+The witness then kisses the Testament, and the oath is com-
+plete. It is not necessary, in imposing the oath, to use the
+exact form of words here given ; any other words of similar
+import will be sufficient for the purpose.
+
+
+2. Jews. —A Jew is sworn upon the Pentateuch, with his
+head covered, the language of the oath being changed from
+“ So help you God ” to “ So help you Jehovah ” (2 Hale, P.C.,
+279; Omichund v. Barker, Willes, 543).
+3. Mohammedans. —A Mohammedan is sworn on the Koran.
+The form in Morgan s case (1 Leach, 54), was as follows :
+The witness first placed his right hand flat upon the book, put
+the other hand to his forehead, and brought the top of his fore-
+head down to the book and touched it with his head. He then
+looked for some time upon it, and being asked what effect that
+ceremony was to produce, he answered that he was bound by
+it to speak the truth. (Roscoe’s Cr. Ev.) In a recent case, a
+different course was followed. The officer of the Court asked
+the witness what form of oath was binding on his conscience,
+who replied, the oath in the usual words, provided he was
+sworn on the Koran, and he was sworn accordingly. (Best’s
+Ev., 6th Ed., 233.)
+4. Parsees. —A Parsee swears in a similar mode to the
+Mohammedans, except that, instead of the Koran, he swears
+on the Prayer Book used by the Parsees.
+5. Roman Catholics. Roman Catholics sometimes express a
+wish to be sworn on the Douay version of the Bible, which
+should always be acceded to, but this formality is unnecessary,
+unless desired by the witness conscientiously.
+6. Quakers or Moravians. —Quakers, Moravians, and Separatists
+are permitied to make a solemn declaration or affirmation,
+instead of taking an oath. (See 3& 4 Will. IV., c. 49, adopted
+in this State by 8 Will. IV., No. 2 ) The following is the
+form of declaration :
+I, A .8., being one of the people called Quakers [or one of
+the persuasion of the people called Separatists, or of the United
+Brethren called Moravians, as the case may be], do solemnly
+sincerely, and truly declare and affirm that the evidence, &>c.
+7. Gentoos. —The deposition of a Gentoo has been received
+who touched with his hand the foot of a Brahmin ( Omichund v.
+Barker, 1 Atk. 21). But if the party swearing be himself a
+priest, then he touches the Brahmin’s hand. In some parts of
+India the natives are sworn on a portion of the water of the
+Ganges. (Best’s Ev. 6th Ed. 233).
+8. Chinese. The following is given in a recent case as the
+form of swearing 'a Chinese witness (Roscoe’s Cr. Ev.): —On
+entering the box, the witness immediately knelt down, and a
+
+
+china saucer having been placed in his hand, he struck it
+against the brass rail in front of the box and broke it. The
+Crier of the Court then, by direction of the interpreter,
+administered the oath in these words, which were translated
+by the interpreter into the Chinese language ( Enirehman's case,
+1 Car. & M., 248):
+You shall tell the truth, and the whole truth; the saucer
+is cracked, and if you do not tell the truth, your soul will be
+cracked like the saucer.
+Other forms - as the extinguishing a lighted lucifer, or of
+cutting off the head of a cock—are also used in this State ;
+because particular sects of Chinese recognise these forms as
+binding on the conscience.
+9. Interpreter's Oath where witness does not speak English.—
+Foreigners, as well as other witnesses who do not speak the
+English language, should be sworn through the medium of
+another person duly qualified to interpret them, the interpreter
+being first sworn faithfully to interpret the witness. The in-
+terpreter’s oath may be in the following form :
+You shall truly and faithfully interpret the evidence about to
+be given, and all other matters and things touching the present
+inquiry, and the [French, or as the case may be] language
+into the English language, and the English language into the
+[French, &c.] language, according to the best of your skill
+and ability. So help you God.
+[See form of interpreter’s deposition given at page 12.]
+io. Affirmation instead of Oath in certain cases where persons are
+unwilling to be sworn.— By the ioth section of the Common Law
+Procedure Act., 20 Vic., No. 31, it is enacted, that if any
+person called as a witness, or required or desired to make an
+affidavit or deposition, shall refuse or be unwilling, from
+alleged conscientious motives, to be sworn, it shall be lawful
+for the Court or Judge, or other presiding officer, or person
+qualified to take affidavits or depositions, upon being satisfied
+of the sincerity of such objection, to permit such person, instead
+of being Sworn, to make his or her solemn affirmation in the
+words following, viz :
+I, A. 8., do solemnly, sincerely, and truly affirm and declare
+that the taking of any oath is, according to my religious belief,
+unlawful; and Ido also solemnly, sincerely, and truly affirm
+and declare that the evidence, &c.
+Which solemn affirmation shall be of the same force and effect
+as if such person had taken an oath in the usual form, and the
+
+
+like provisions shall apply also to every person required to be
+sworn as a Juror.
+11. Declaration instead of Oath.— Whenever any person
+called as a witness before any Justice, objects to take an oath, or
+is reasonably objected to as incompetent to take an oath, or
+appears to the Justice to be incompetent to take an oath, he
+may make the following declaration instead of being sworn :
+/ solemnly declare that the evidence now about to be given by
+me shall be the truth, the whole truth, and nothing but the truth.
+Admissibility of Evidence, and Competency of
+Witnesses.
+Admissibility of evidence. —Justices, when holding Magisterial
+inquiries, ought, as far as they can, apply and be governed by
+the general rules of law regulating the admissibility or exclu-
+sion of evidence ; but they may, with propriety, listen to state-
+ments not strictly admissible in evidence for the purpose of
+arriving at what is admissible to establish the facts of the case.
+The chief test of the admissibility of evidence at these in-
+quiries, is its relevancy ; and if care be taken to prevent leading
+questions, except in cross-examination, and to repudiate
+answers founded on hearsay and surmise, the Magistrate will
+have no difficulty in this respect; but if he be in doubt as to
+whether any evidence is admissible or not, the better and
+safer course is to take it down.
+Competency of witnesses. —No person is competent to give evi-
+dence on oath unless he believes in a Supreme Being who will
+punish him, either in the present or future life, for perjury ; but
+by the 343rd section of 46 Vic., No. 17, and the 3rd section of
+40 Vic., No. 8, if a witness objects to take an oath, or is
+reasonably objected to as incompetent to take an oath, he can
+make a declaration or promise : so that, practically, all persons
+universally are competent as witnesses, with the exception of
+persons who have not the use of reason, as idiots, lunatics, and
+very young children ; but the evidence of witnesses at any age
+is admissible, if it appear that they have sufficient discretion,
+and understand the moral obligation of an oath ; so, likewise,
+a lunatic is competent during a lucid interval.
+No witness is compellable to answer any questions, or make
+any disclosures, tending to criminate himself.
+
+
+CHAPTER 11.
+PROCEDURE IN HOLDING MAGISTERIAL
+INQUIRIES.
+Opening the Inquiry.
+When the time arrives at which the inquiry is to be held,
+the Magistrate proceeds to the place appointed, where he
+meets the Constable, who attends with all the witnesses, an
+interpreter, if necessary, and any exhibits, such as the instru-
+ment by which death is supposed to have been caused — as a
+razor, pistol, poison, &c., papers or other property found on
+searching the body, or anything else which may tend to explain
+the cause of death, or to facilitate identification, if the deceased
+be an unknown person.
+The Magistrate should have with him a sufficient supply of
+foolscap paper for taking the depositions, pen, ink, blotting-
+paper, a bible for administering the oaths to the witnesses, and
+this Handbook.
+It is not essential to the validity of an inquiry that the
+Magistrate should view the body, but it is thought desirable
+that he should do so when practicable, as material evidence as
+to the cause of death may thereby be gained If the body has
+lain so long that there remains nothing but the skeleton, or is
+so decomposed that an inspection of it would be of no service,
+such view may be dispensed with. v
+It is usual to allow any person interested in the result of the
+proceedings to be present and cross examine the witnesses,
+but the room or place in which a Magisterial inquiry is held is
+not an open Court, and no person has a vight to be present, or
+to examine witnesses, except the officers of the Railway
+Department (see Duty of Magistrates when a Death is reported to
+to them, p. 7), and can only do either by permission of the
+Magistrate; but as publicity generally assists the investiga-
+tion of truth and the detection of guilt, the power of exclusion
+ought not to be enforced, unless the ends of justice appear to
+require it.
+Representatives of the Press are generally allowed to be
+present, on the understanding that they will not publish the
+particulars until the conclusion of the inquiry, if so required by
+the Magistrate.
+The next step in the proceedings is to examine the witnesses,
+whose evidence is either taken secretly or in public, as the
+Magistrate may consider expedient.
+
+
+Examination of Witnesses.
+Witnesses examined in relative order. —The witnesses should
+be called in separately to give their evidence, and should be
+examined in succession in such relative order as may best
+serve to give a connected account of everything relating to the
+case, and form a regular chain of evidence. The evidence of
+each witness should be taken formally in every case, for until
+the inquiry is terminated it is impossible to say what may be
+the result.
+Examination-in-chief. —As each witness appears, and before
+his name or testimony is taken down, he should be sworn
+according to some of the forms given under the heading of
+•Oaths of Witnesses and Interpreters, p. 14. After the witness has
+been sworn, or has made an affirmation or declaration in the
+prescribed manner, the Magistrate will proceed to examine the
+witness and elicit from him in regular order an account not
+only of all the facts within his own personal knowledge
+respecting the cause of death of the deceased, but all material
+circumstances affecting it, rejecting all hearsay and extraneous
+statements.
+Instead of the Magistrate himself conducting the examina-
+tion of the witnesses, this duty is frequently performed by the
+Constable in attendance, who, from his previous knowledge of
+the facts of the case, knows the substance of the information
+which each witness will be able to give, and he questions them
+accordingly. If any papers or other exhibits are produced by
+the witness, they will be received by the Magistrate, and
+lettered in consecutive order. See Mode of Taking the Deposi-
+tions, p. ii.
+Cross-examination. —ln cases where an officer of the Railway
+Department, or any other person interested in the result of the
+proceedings, has attended for the purpose of cross-examining
+the witnesses, such cross-examination should take place im-
+mediately after the examination-in-chief.
+Re-examination. —When the cross-examination is finished, the
+witness may be re-examined by the Magistrate, for the purpose
+of explaining anything he may have said in his cross-examina-
+tion.
+Depositions read to and signed by the Witnesses. —When the
+evidence of each witness is complete, containing both his
+examination and cross-examination, it should be read over to
+him, when any corrections or additions may be made at the
+witness’ request, but all erasures and interlineations should be
+initialled on the margin by the Magistrate. The witness then
+
+
+signs his deposition, but if he cannot write, the Magistrate, or
+the Constable in attendance, may write his name for him, and
+get him to make his mark between his Christian and surname,
+the Constable signing as a witness to the mark. The Magis-
+trate then writes and signs the usual jurat, which should be
+added to each separate witness’ deposition.
+Witnesses may be re-called. —A witness who has already given
+his evidence may be re-called at any stage of the inquiry, in
+order that he may be asked any further questions which may
+be thought necessary, or to explain anything he has pre-
+viously stated, and as he was sworn in the first instance it will
+not be necessary to swear him again. When a witness is
+recalled, he may be examined, cross-examined and re-examined
+in the same manner as if he were a new witness. He must
+also sign his additional evidence, and the Magistrate adds a
+jurat as before.
+Foreign witnesses examined through Interpreter. —lf any of the
+witnesses are foreigners, and do not speak the English
+language, the oath, affirmation, or declaration, should be ad-
+ministered to them through an interpreter, who should first be
+sworn to truly and faithfully interpret the evidence of the
+witness. (See Oaths of Witnesses and Interpreters , p. 14.) The
+caption given under the sub-head of Deposition of Interpreter
+(p. 12) should precede the witness' evidence, and when his
+examination is finished, it should be translated to him by the
+interpreter, and corrected, if necessary, after which he signs it,
+and the usual jurat is added.
+Medical witnesses. —ln cases of death from accident, where
+the physical injuries are such as to leave no doubt as to the
+cause of death, and there are no grounds for suspecting foul
+play or criminal negligence, medical evidence will not, as a
+rule, be required. For example, a man is seen to fall from a
+loaded dray, one of the wheels of which passes over him; he
+is taken up in a state of collapse and dies before medical
+assistance can be obtained. In some cases the cause of death
+is in its nature obvious, e.g., gun shot, cut throat, etc.
+In all cases where medical evidence is necessary, the
+Government Medical Officer should be sent for who lives
+nearest to the place where the Inquiry is to be held. But if a
+legally qualified medical practitioner of good repute happens
+to live very much nearer to the place of the Inquiry than even
+the nearest Government Medical Officer, then, with a view to
+economy, the legally qualified doctor on the spot may be
+engaged. It is to be understood, however, that the last-
+mentioned arrangement is permitted only for purposes of
+
+
+economy. In important cases efficiency must not be sacrificed
+to economy, and it may be prudent, in such cases, to bring a
+Government Medical Officer from a distance, rather than
+employ a local practitioner.
+The medical witness, if one be thought necessary, is allowed
+to be present during the examination of all the other witnesses,
+to enable him more fully to arrive at his conclusions as to the
+cause of death, especially where no post-mortem examination has
+been made ; and his testimony is usually the last taken, but it
+may, of course, be taken at any stage of the inquiry.
+See also remarks under the head of Post-mortem examinations,
+when and how made, pp. 5-6.
+Some Coroners and Magistrates having, in order to save
+time, allowed medical witnesses to write their own depositions,
+the Attorney-General called attention to the practice as being
+illegal, and that it should be discontinued. The depositions of
+medical witnesses should be written down by the Magistrate
+himself in the same manner as those of other witnesses.
+In some instances, medical witnesses when giving evidence
+at inquiries—where more than one such witness has been
+examined —have deposed that, having read the evidence, they
+concur in the medical testimony already given in the case.
+The Attorney-General does not consider such evidence satis-
+factory or sufficient; and, therefore, in all cases where more
+than one medical witness is examined, each witness should
+give his own professional opinion, independent of any other
+medical testimony that may previously have been given at the
+inquiry.
+Where Medical Witness disobeys Summons. —Should a medical
+witness not appear in answer to the summons ( Form 7), the
+deposition of the Constable, on oath, must be taken of the
+service of the summons; to render which effectual the Magis-
+trate should, in issuing the summons, make out a copy of it,
+to be compared with the original by the Constable who is to
+serve it; for it is necessary that the service of the summons
+should be both made and deposed to by the Constable to whom
+it is delivered. (See Mode of Taking the Depositions, p. 13).
+The Magistrate holding the inquiry has no power to fine a
+medical witness for non-attendance; but, on proof of the
+service of the summons and the disobedience of the witness,
+he is liable to a penalty provided by section 5 of 1 Vic., No. 37,
+which may be sued for and recovered as therein provided. The
+Constable’s deposition of the service of the summons should be
+attached to, and forwarded with, the other depositions in the
+case.
+
+
+In practice, however, it is seldom necessary to summon a
+medical witness ; the Constable, by direction of the Magistrate,
+verbally requests him to attend with the other witnesses.
+Other Witnesses. If any person interested in the result of an
+inquiry wishes to call any witnesses, or to give evidence him-
+self, he may do so at the conclusion of the examination of the
+witnesses called by the Constable. See pp. 9-10.
+Persons found Dead. —lt has been observed that in connection
+with Magisterial Inquiries held upon bodies of persons found
+dead, the evidence tendered does not satisfactorily disclose the
+cause of death, and the result of the inquiry is inconclusive.
+This is particularly noticeable when bodies are found in rivers
+or creeks, etc., and the only medical testimony given is to the
+effect that, while the appearance of the body is consistent with
+that of death by drowning, it cannot be positively said, owing
+to the decomposed state of the organs, that death arose from
+that cause. In such cases the inquiry should be of a searching
+character ; for although the outward examination of a body
+may perhaps be sufficient for the purpose of detecting signs
+of external violence, it would be of practically no value in the
+event of death having been caused by poison.
+It is therefore directed that in cases where dead bodies are
+found, and the cause of death is not established with reason-
+able certainty by the evidence obtainable, the stomach of the
+deceased should, if practicable, be secured, and submitted to
+medical examination. When possible, this examination should
+be made by a local medical practitioner, so that the inconveni-
+ence and expense of sending the stomach and its contents to
+Sydney for the purpose may be avoided. See also Analysis
+or Assay, p. 6.
+Describe Deceased, if unknown. —Where the deceased is un-
+known, the Magistrate should endeavour to obtain the
+following particulars from the witnesses, in order to facilitate
+identification of the body, namely : Height—colour of hair—
+colour of eyes —apparent age—complexion—whether bald,
+wore whiskers or moustache —dress—stout or light build
+distinctive or natural marks on body. Any papers, trinkets,
+&c., found on the body should be described, or any other
+means of identity. See also remarks under heading Unknown
+Persons, p. 34.
+Information to be obtained from the Witnesses. —During the ex-
+amination of the witnesses, the Magistrate should endeavour
+to elicit from them the following information, viz. : —The
+particulars required for filling up the Death Register (p. 32)
+—whether intemperance was the direct or indirect cause of
+
+
+death (p. 321 —whether deceased died intestate and possessed of
+property, leaving no next of kin in the State (p. 33) —whether
+deceased was a pauper at the time of his death, having no
+friends able or willing to bury him (p. 31) —if deceased was a
+foreigner, to what state or country did he belong (p. 33) —and
+the necessary particulars for the District Registrar (p. 33). By
+referring to the Memoranda at page 29, the Magistrate will be
+enabled to see at a glance the information required under the
+several heads mentioned in this paragraph.
+Inquivy may he adjourned. —If, during the inquiry, it appear
+that there are absent persons who can give material evidence,
+dr that it will be necessary to direct a surgeon to perform a
+post-mortem examination, or for the attendance of an interpreter
+or to obtain an analysis of the contents of the stomach, or for
+any other reason that the Magistrate may deem sufficient, he
+may adjourn the inquiry till a later hour of the same day, or
+to another day, at the same or any other place, and the fol-
+lowing form of words may be used by the Magistrate or
+Constable in the hearing of those present :
+‘‘ This inquiry is now adjourned [to the Commercial Hotel,
+Wilcannia] until Tuesday next , the 26th instant, at 10 o'clock.
+In most cases, the witnesses who have already given their
+evidence will not be required again, and their claims for pay-
+ment, if any, should be noted. See Witnesses' expenses , under
+the head of “ Preparation and Rendering of Accounts.”
+Where a witness is injured so much as not to be able to
+attend an inquiry, the Magistrate may adjourn the inquiry to
+the place where such injured witness lies, for the purpose of
+taking his evidence.
+The inquiry may be adjourned from time to time, as often
+as may be requisite, to obtain all necessary information
+respecting the cause of death under investigation, and an
+entry of every adjournment and resumption should be made
+upon the depositions as directed in the article on the Mode
+op Taking the Depositions , p. 13.
+An adjournment should be made for as short a time as is
+consistent with the nature of the case, and the difficulty of
+bringing the evidence forward. In the use of this power of
+adjournment, great discretion is necessary, because undue or
+frequent adjournment is the cause of inconvenience and
+complaint, and the Magistrate should not practise it except
+upon absolutely real necessity.
+Resumption of Inquiry after Adjournment. —At the time and
+place mentioned in the adjournment, the Constable again
+meets the Magistrate with such additional witnesses as may be
+
+
+thought necessary, and the inquiry is resumed. The evidence
+of the further witnesses is then taken in the same way and
+with the like formalities as were observed at the first exam-
+ination, preceded by a fresh caption. See Mode of Taking the
+Depositions, under the sub-head of Resumption, p. 13.
+Magistrate's Finding. —At the conclusion of the examination
+of all the witnesses the Magistrate formally draws up his
+opinion respecting the cause of death (called the Magistrate’s
+Finding), which he openly declares to those present, and
+attaches it to the depositions. If the case be a difficult one,
+and the Magistrate wishes to have time to consider his
+Finding, he may adjourn the inquiry for that purpose.
+The Certificate of the Magistrate's Finding (Form 4) should
+state the name of the deceased, and the time, place and
+manner of the death ; and in all cases of persons found dead,
+or of supposed drowning, it should state whether there are any
+external marks of violence on the body. If the name of the
+deceased be unknown he may be described as “a certain
+person unknown.”
+In every case of death from violence, the finding should
+show how the injuries were received—accidentally or
+otherwise.
+In cases where no direct evidence can be obtained respecting
+the death of any deceased person found upon the sea-coast, or
+in any river or other water, the body should be carefully
+examined externally, and should there be no appearance of
+violence or suspicion of foul play, the Finding should state that
+the person was “found dead,” as it is not always practicable
+in these cases to determine, even by a post-mortem examination,
+whether death has been occasioned by drowning or not. See
+also remarks under Persons found dead, p. 22.
+A copy of the Finding should in all cases be kept, together
+with the date and place of the inquiry, and the Magistrate
+should allow any member of the Police force to take a copy
+thereof.
+Conclusion. —This brings the inquiry to a termination, and
+the Magistrate then thanks the witnesses for having willingly
+given their time and assistance at the investigation, and
+relieves them from further attendance.
+Duties of Police at Magisterial Inquiries.
+[Extract from “ Rules for the Police Force, 1884.”)
+When the body of any deceased person is found by the
+Police, or reported to them as having been found, it should be
+
+
+removed to the nearest public-house in the neighbourhood ;
+but where there are two or more public-houses near to each
+other, they should be used alternately.
+A report stating, if possible, the names of the deceased, and
+the manner of death, should be made immediately to the
+Coroner, if there be one, or, if not, to the nearest Magistrate,
+in all cases of violent death, casualties by which death ensues,
+sudden deaths, persons found dead, persons committing
+suicide, prisoners dying in any of His Majesty’s gaols or other
+places of confinement, prisoners executed in gaols, and in all
+cases where death is suspected to have occurred from foul
+play ; and such a report, together with the result of the
+Coroner’s Inquest or Magisterial Inquiry, should be made to
+the Inspector-General, on a Form which is supplied to them
+for that purpose. See Form 10.
+The appearance of such body, the position in which it was
+found, and the probable length of time dead, should be noted ;
+and it should then be carefully searched, and anything found
+thereon should be kept in the custody of the Police, and
+produced at the inquest or inquiry.
+If the Police are unable to secure the attendance of a
+Coroner, they should forthwith report the matter to the
+nearest Magistrate, or take other necessary steps so that an
+inquiry may be held as soon as possible.
+A Constable should remain in charge of the body until an
+inquest or inquiry has been held thereon.
+Summonses should be personally served upon the witnesses
+or persons who may have found the body, or know any circum-
+stances connected with the death of the deceased, and also
+upon the medical man who first saw the body, and any other
+medical man who can give evidence touching the death. If no
+medical man can be procured to examine the body, the Con-
+stable must make the best examination he can himself.
+The Constable should produce at the inquest or inquiry any
+papers or other property found on searching the body of the
+deceased, and any weapon or instrument found that might be
+supposed to have been the means of death—such as a knife,
+razor, pistol, or any bottle, or paper, &c., containing poison.
+If the wound consists of a cut, the length, breadth, and
+depth should be ascertained as far as possible, together with
+its exact appearances. If firearms appear to have been the
+cause of the death, it is desirable to find the bullet or any other
+matter which may have entered the body ; but a medical man
+should generally make any examination of the body that may
+be necessary for the purpose, and in all cases, before the body
+
+
+or any weapon or other article which could in any way be con-
+nected with the case is moved, or the position of the body
+altered, care should be taken that every particular is noted
+in writing.
+Should there be wounds or other marks of violence on the
+body, it is of importance to ascertain and get possession of the
+instrument (if any) with which such wounds or marks have
+been inflicted.
+The Police should not take upon themselves to bury the
+body without an order from the Coroner or a Magistrate, un-
+less it is impracticable to obtain one.
+Upon inquiries into deaths caused by violence, the Police
+Officer in charge of the station at the time must consider him-
+self as the person whose special duty it is to get up the case
+for the Coroner or Magistrate.
+Reports in the proper form are to be made respecting all in-
+quests or inquiries. If the deceased died intestate, and
+possessed of property, full particulars respecting the same
+must be promptly transmitted to the District Agent for the
+Curator of Intestate Estates, together with declaration of death
+and intestacy.in the prescribed form. The cost of funeral ex-
+penses will form the first charge upon the deceased’s property.
+In case any new-born child or any dead body shall be found
+exposed, the Constable, in case of a new-born child, and the
+Coroner, or if none such, the nearest Justice, in the case of a
+dead body, shall forthwith inform the District Registrar there-
+of, and of the place where such child or dead body was found ;
+and where an Inquest or Magisterial Inquiry shall be held on
+any dead body, the Coroner or Magistrate (as the case may be)
+shall notify to the District Registrar the verdict of the jury or
+the opinion of such Magistrate, with all other particulars re-
+quired to be registered concerning the death.
+Forms of Magistrates’ Findings.
+For the purpose of assisting the Magistrate in formally
+writing out his finding, the following specimens are given, and
+are numbered in such a manner that a finding, which may be’
+altered to suit any particular case, can be easily picked out by
+referring to the Contents of this book. Form 4 will be copied to
+the words “ I find as follows,” and then add the particulars,
+modified from some of the cases given below :
+i. That J. S., at Byrock, in the Bourke District in the State
+aforesaid, on the 22nd April, 1902, died from cardiacal
+apoplexy [or, cerebral apoplexy.]
+
+
+2. Or, died from asphyxia caused by strangulation, which
+was the result of his own act.
+3. Or, died from haemorhage from a wound in his throat in-
+flicted by himself the same day.
+4. Or, died of congestion of the lungs, accelerated by in-
+temperance.
+5. Or, died of nervous exhaustion, resulting from excessive
+drinking.
+6. Or, died from a gunshot wound in his chest (accidentally)
+inflicted by himself the same day.
+7. Or, died from congestion of the brain caused by sun-
+stroke.
+8. That J. S., at the Singleton Hospital, in the town of
+Singleton, in the District of Patrick’s Plains, in the
+State aforesaid, on the 23rd of April, 1902 [died from
+the effects of injuries accidentally received by falling
+from his horse (or a building, &c.) at Boggy Flat, on
+the 22nd of the same month.]
+9. Or, died from the effects of burns (or scalds) accidentally
+received on the 19th of the said month.
+10. Or, died from the effects of a certain poison, known as
+concentrated acetic acid (accidentally) taken by himself
+on the same day.
+11. That J.S., in the waters ot the Darling River, at Menin-
+die, in the District of Mitchell, in the State aforesaid,
+on the 20th of May, 1902 [was found dead without any
+marks of violence appearing on his body, but whether
+his death was caused by drowning, or not, there is not
+sufficient evidence to show.]
+12. Or, died from asphyxia caused by drowning, and that
+such drowning was the result of accident whilst bathing
+on the same day.
+13. Or, died from asphyxia caused by drowning, and that
+such drowning was the result of his own act.
+14. That J.S. (or a man unknown), on the Goorangoola
+Road, near Bridgeman, in the District of Patrick’s
+Plains, in the State aforesaid, on the Bth of May, 1902,
+was found dead, without any marks of violence appear -
+on his body, and that the cause of death was disease of
+the heart (or starvation).
+15. Or, and that there is not sufficient evidence to show the
+cause of death.
+
+
+16. That part of the body, namely the skull [or as the case
+may be] of an adult person, name and’sex unknown, on
+the bank of the Hunter River, near Bowman’s crossing-
+place, in the District of Patrick’s Plains, in the State
+aforesaid, on the 10th of April, 1902, was found, without
+any marks of violence appearing thereon, but where,
+when, or how such person came by his or her death the
+evidence adduced is not sufficient to show.
+17. That J.S., at Seven Hills, in the District of Parramatta,
+in the State aforesaid, on the 3rd of April, 1902, died
+from asphyxia, caused by being accidentally overlain by
+his mother.
+18. That J.S., on the Great Northern Railway line, near
+Rix’s Creek platform, in the District of Patrick’s Plains,
+in the State aforesaid, on the 21st of July, 1902, died
+from injuries accidentally received through being struck
+by a passing train.
+19. That at Guildford, in the District of Parramatta, in the
+State aforesaid, on the 23rd of March, 1902, the skeleton
+of J.S. [or a man unknown] was found, but how he
+came by his death the evidence is insufficient to show.
+Recapitulation of Practical Instructions for
+Holding Inquiries.
+When a Magistrate is apprised by the Police of a death
+respecting the cause of which he considers an inquiry
+necessary, he fixes a time and place for holding it, to suit as
+far as possible the convenience of all persons concerned (p. 7).
+If a doctor’s evidence be thought necessary, a summons is
+issued to, or the Constable is requested to communicate
+verbally with, the Medical Officer for the District, or other
+available medical man (pp. 5 and 7).
+If the death occurred on the railway, notice should be sent
+to the proper officer (pp. 8 and 9).
+Should an Interpreter be required, the Constable must
+■endeavour to find a competent person for this duty, and have
+him in attendance (pp. 7-8).
+When the time arrives at which the inquiry is to be held,
+the Magistrate proceeds to the place appointed, taking with
+him the requisite materials for taking down the depositions, a
+Bible, and this Handbook. He then meets the Constable with
+the exhibits, witnesses, &c. (p. 18).
+
+
+The Magistrate may view the body, if thought desirable, or
+he may dispense with such view (p. 18).
+On assembling in the room where the proceedings are to be
+conducted, the Constable announces that the Magisterial
+inquiry is now open.
+The examination of the witnesses (p. 19) is then proceeded
+with, and their depositions (p. 10) taken down in accordance
+with the directions given under those heads.
+Persons interested in the result of the proceedings may be
+present to cross-examine witnesses, or tender evidence (p. 22).
+For any reason the Magistrate may deem sufficient he may
+adjourn the inquiry to a future day, or to a later hour of the
+same day, to the same or another place (p. 23). The inquiry
+may be adjourned as often as found necessary. If the witnesses
+already examined will not be again required, they should be so
+informed (p. 23).
+On resumption after adjournment, if any, the Constable
+again declares the inquiry open, as he did in the first instance.
+If the body be that of an unknown person, it ought to be
+carefully described, to assist in identification (p. 22).
+During the examination of the witnesses, the Magistrate
+should endeavour to elicit from them the particulars
+enumerated under the head of Information to be obtained from the
+Witnesses (pp. 22-23.)
+When all the evidence has been taken, the Magistrate draws
+up his formal Finding, and delivers it in open court (p. 24.)
+After the inquiry is terminated—or before if it be adjourned,
+or if thought necessary to prevent infection—the Magistrate
+writes out the burial certificate, and delivers it to the party
+having charge of the funeral (p. 31). If the deceased be a
+pauper, arrangements must be made for his interment at the
+public expense.
+As soon after the conclusion of the inquiry as possible, the
+Magistrate should make out the accounts, and prepare the
+whole of the proceedings for transmission, as directed in the
+articles on Preparation and Rendering of Accounts and Transmission
+of Proceedings, given in Chapter 111.
+Memoranda of Information to be Obtained from
+the Witnesses.
+As some of the information referred to in these memoranda
+need not appear in the depositions, it is convenient in practice
+to have Form 9 lying at hand, in which the particulars
+
+
+elicited from the witnesses can be at once inserted. As most
+of the items in Form 8 are also required for Form g, they have
+not been repeated under the latter head.
+For Death Register—Form 8.
+Name of deceased, or description of body (if not identified.)
+Age, and where born.
+Date and place of death.
+Cause of death.
+Whether or not intemperance directly or indirectly
+-contributed to the cause of deceased’s death.
+Value of deceased’s Property, and name and address of
+nearest relative, if known.
+For the District Registrar—Form 9.
+Calling or occupation, and sex.
+How long in the State ?
+Undertaker’s name.
+Christian name, surname, and occupation of father.
+Christian name and maiden name of mother.
+Where, at what age, and to whom was deceased married ?
+Names and ages of all children living.
+Names of males and females deceased.
+If married more than once, the like information in regard to
+each marriage.
+For the Curator's Agent.
+Did deceased die intestate, leaving no next of kin in the
+State ? Was he a bachelor at the time of his death ?
+If so, did he leave any property—what does it consist of—
+where is it situated—and what is its approximate value ?
+Where did deceased reside—and what are the names and
+addresses of his nearest relatives (if any known) ?
+For General Purposes.
+If a foreigner, to what State did deceased belong ?
+Was the deceased a pauper ?*
+* Where the deceased is unknown, the particulars given at p. 22 should
+be elicited from the witnesses.
+
+
+CHAPTER 111.
+PROCEDURE AFTER CONCLUSION OF INQUIRY.
+Miscellaneous Directions.
+Burial of the body, in ordinary cases. -If the Magistrate views
+the body, or if he considers such view unnecessary, and is
+satisfied that it will not be required for a post-mortem examina-
+tion, or if he deems speedy interment desirable, in order to
+prevent infection, he will, before the commencement of the in-
+quiry, issue his certificate for the burial of the body. This can
+be done by writing out a copy of Form 5 of this Handbook, and
+filling in the necessary name and date. If the body has not
+been ordered to be buried in the first instance, then, in the
+event of an adjournment of the inquiry, the Magistrate should
+make out the burial certificate and hand it to the friends of the
+deceased, or to the undertaker, unless the body be required
+for a post-mortem examination. But, in any case, at the con-
+clusion of the inquiry, if the body has not previously been
+buried, an order, in accordance with Form 5, will be given for
+its interment.
+Burial of deceased paupers. —lf the Magistrate has ascertained
+that the deceased was a pauper, and that there are no relatives
+or friends able or willing to defray the cost of his burial, in-
+structions should be given to the Police to make arrange-
+ments with some person in the locality for his interment at the
+public expense ; but, before forwarding the accounts for these
+services to the Department, the Magistrate should satisfy him-
+self, by careful inquiry, through the Police or otherwise, that
+the charge made in each case is strictly moderate, and the
+lowest price for which the work could reasonably be performed ;
+and, also, that the requisite particulars are stated on the
+voucher in every instance—that is to say, the cost of the coffin,
+the distance and expense of conveying the body to the place of
+interment, digging grave, and the amount of grave fees (if
+any). For form of certificate to be endorsed on these vouch-
+ers, and the explanation to be given when the amount
+charged exceeds £(2, see Preparation and Rendering of Accounts.
+
+
+Circulars have at different times been issued to Magistrates
+by the Department of Justice, calling attention to the excessive
+charges frequently made for the burial of paupers, and point-
+ing out that the remains may be interred in a shell or coffin of
+the plainest description, for which service 30s or f'l would, in
+most cases, seem to be sufficient remuneration.
+Particulars required for Death Register. —Magistrates are also
+required in every case to furnish the following information on
+the Form G 245, called the “ Death Register,” supplied for
+the purpose by the Government Printer (see Form 8), namely :
+1. Name of deceased.
+2. His (or her) age.
+3. Where born.
+4. Locality where death occurred.
+5. Cause of death.
+6. Whether post-mortem examination was held.
+7. Whether or not intemperance directly or indirectly
+contributed to the cause of deceased’s death.
+8. Value of deceased's property, and name and
+address of nearest relative, if known.
+The information required in the first, fourth and fifth
+columns will transpire during the ordinary process of the in-
+quiry ; and the remainder should be obtained from any of the
+witnesses able to supply it whilst giving their evidence.
+A tabulated statement consisting of the particulars required
+under the respective headings indicated on Form 8 is prepared
+every year from the information thus furnished by Coroners
+and Magistrates throughout the colony; respecting all inquests
+and inquiries held by them in cases of deaths from the ist of
+January to the 31st of December in each year ; and such state-
+ment is published in the Government Gazette during the first
+quarter of the ensuing year.
+Deaths caused by Intemperance. —As information tending to
+show the number of deaths arising directly or indirectly from in-
+temperance, where inquests or Magisterial Inquiries shall have
+been held, is considered valuable for statistical purposes, it is
+requested that in all cases the Magistrate will append to the
+proceedings of each inquiry a memorandum, stating whether
+intemperance has, or has not, in his opinion, been the im-
+mediate or more or less remote cause of the death in question.
+The information asked for should, therefore, be elicited from
+some of the witnesses during their examination, and inserted
+in the proper column in Form 8.
+
+
+Information for the District Registrar. —By the 28th section of
+19 Victoria, No. 34. a Magistrate holding an inquiry is required
+to notify to the District Registrar of Births, Deaths and
+Marriages, all particulars required to be registered concerning
+the death, together with the opinion of such Magistrate, as to
+the cause thereof. This information should be furnished on a
+form supplied for the purpose by the Registrar-General (Form
+9). The Magistrate should fill in the particulars, as nearly as
+he can ascertain them, under the several printed headings in
+such form, and forward it to the District-Registrar by post or
+otherwise (See also p. 30).
+Deceased Foreigners. —When the deceased person on whom
+the inquiry has been held is a foreigner, having no relatives in
+the district, the Magistrate should forthwith give information
+to the Consul of the State or Country to which such person
+belonged, furnishing particulars of property (if any) possessed
+by deceased.
+Persons Dying Intestate. - In cases where the subject of the
+inquiry died intestate, and possessed of property, leaving no
+next of kin in the State entitled to his real and personal estate,
+the Police are required to promptly transmit full particulars
+respecting the same to the District Agent of the Curator of
+Intestate Estates, giving the nature and probable value of his
+property, and where situated, together with the names and
+addresses of his nearest relatives, if any known. The form of
+declaration to accompany these particulars is given in Form 11 .
+If the Magistrate holding the inquiry think the matter may be
+overlooked by the Police, he should himself bring the case
+under the notice of the Curator’s Agent.
+The cost of burial will be the first charge on the property of
+deceased, and the Curator’s Agent is the only person who can
+pay such expenses, by the sale of deceased’s effects; the
+Magistrate has no authority to do so, even if sufficient ready
+money for that purpose be found on the body. On receiving
+the necessary information and declaration (Form 11) from the
+Police, of the death of any person intestate, leaving any real or
+personal estate liable to be collected by him, the District Agent
+of the Curator of Intestate Estates is required to take posses-
+sion of the property of the deceased, and as soon as a sale
+thereof is effected, he may pay out of the proceeds the claims
+for funeral expenses, if verified by affidavits, when not exceed-
+ing £5 ; but when exceeding that sum the balance will be paid
+by the Curator, if certified to as reasonable by the District
+Agent. In estates where the -amount of assets is small, the
+funeral expenses must hot exceed £5. Charges for refresh-
+ments at the burials will not be allowed.
+
+
+Report by Police to Inspector-General. - The Police are in-
+structed to furnish reports respecting all inquests and inquiries
+to the Inspector-General, and in order to help them to do so,
+the Magistrate should allow the Police-Officer who has had'
+charge of the case to take a copy of the Finding or any other
+information he may require. These reports by the Police are
+made on printed forms supplied them for the purpose, with
+columns specifying the particulars required, and although the
+Magistrate has nothing to do with filling up such reports, and
+is in no way responsible for them, yet a copy of the form used
+by the Police (Form 10) is given in this work, in order that
+the Magistrate may see what information the Police-Officer
+requires.
+Unknown Persons. —ln cases where a person is unknown at
+the time of holding the inquiry (p. 22), but his name is sub-
+sequently ascertained, evidence of such identity should be
+taken down in writing by the Magistrate, in the form of a
+declaration, and forwarded to the Department of the Attorney-
+General and of Justice, in order that it may be attached to the
+proceedings of the inquiry.
+Obtaining Funeral Expenses from Societies. —ln any Society in
+which a sum of money may be insured payable on the death of
+a child, for the funeral expenses of such child, the sum so in-
+sured will not be paid to any person unless he produce a
+certificate signed by a legally qualified medical practitioner,
+stating the probable cause of death. In places distant more
+than ten miles from the residence of a legally qualified medical
+practitioner, the certificate referred to may be given and signed
+by the Coroner of the District, or a Justice of the Peace.—37
+Vic., No. 4, s. 20.
+If a Magistrate should hold an inquiry in such a case, the
+certificate furnished by him to the person applying for the
+same, may be to the effect of Form 4, adding the following
+words at the end of the finding :
+“ It does not appear to me that the death of the said
+J.S. has been caused by wilful neglect or any improper
+conduct on the part of any person interested in obtaining
+burial money from any Society.”
+If no inquiry has been held, the required certificate may
+consist only of the words given in inverted commas in the last
+paragraph, altered to meet the requirements of the case.
+
+
+Preparation and Rendering C& Accounts.
+Inconvenience and delay having occasionally arisen in the
+payment of accounts, through the Magistrate not being aware'
+of, or not complying with, the regulations and formalities to be
+observed in rendering accounts, it has been thought desirable
+under this head to give full directions as to the filling up and
+transmission of every account which can occur in practice. By
+carefully reading these instructions a Magistrate will have no
+difficulty in preparing all the accounts in connection with the
+inquiry.
+Forms required at Inquiries. —As,soon as the Magistrate is
+requested to hold an inquir/- respecting the death of any
+person, he may write to the Under Secretary, Depart-
+ment of the Attorney-General and of Justice, and ask that the
+following printed forms be supplied to him : -
+a. Voucher for Magistrate’s fee for conducting the
+Inquiry.
+b. Voucher for Medical Witness’ Fee.
+c. Voucher for Witnesses’ Expenses.
+d. Form of Justice’s Information of Death.
+e. Death Register, G 245.
+/. Voucher for Burial of Paupers.
+g. Voucher for fees to Interpreters, Publicans, &c
+In lieu of particularising the forms in this way, it would be
+sufficient to ask for “ all the printed forms necessary in con-
+nection with a Magisterial Inquiry.”
+Or, instead of applying for the printed forms in the first
+instance, as above suggested, the Magistrate may, on com-
+pletion of the Inquiry, transmit the Depositions, &c. (see p. 41),
+to the Department, and attach a memorandum thereto, stating
+what Vouchers and other forms he requires to enable him to
+furnish the necessary information, and they will be forwarded
+to him without delay. He can then fill them up as directed
+in these pages, and transmit them to the proper officers, under
+registered cover.
+Any Magistrate who is likely to be often called upon to
+hold inquiries will find it convenient to obtain from the
+Department a few -copies of the necessary forms, and keep
+them on hand for use as required.
+Magistrates' Fees for holding inquiries. —The fee for holding
+each Magisterial Inquiry is £i, and travelling expenses at the
+rate of is. 6d. for every mile from the Magistrate’s usual place
+of residence to the place where the inquiry is held. Only one
+
+
+fee of £1 is allowed for the same inquiry, no matter how often
+it is adjourned, but the Magistrate will be allowed is. 6d. per
+mile for every journey he has to make for the purpose of con-
+tinuing the inquiry. No mileage is allowed for the return
+journey in any case. In districts where there are facilities for
+travelling by railway, which can be availed of by the
+Magistrate when holding an inquiry, he.will be paid gd. per
+mile one way, instead of the higher rate of is. 6d. per mile,
+above mentioned.
+In cases where the Magistrate can avail himself of travel-
+ling by railway for a part only of the journey in going to hold
+an inquiry, he will be paid gd. per mile for such part, and
+is. 6d. per mile for the remainder.
+The travelling allowances above enumerated are expected to
+cover all expenses that may be incurred by the Magistrate in
+the holding of inquiries. No application for increased travel-
+ling expenses will be entertained unless the circumstances of
+the case are of a very special or exceptional character.
+If two or more inquiries be held in the same place, on the
+same day, the Magistrate will, of course, be only entitled to
+one allowance of mileage. And where an inquiry is held on
+the bodies of several persons who died from the same cause,
+and at the same time, it will be treated as one inquiry, and
+only one fee of £1 will be payable.
+The account for these fees should be rendered in duplicate
+on the prescribed form, supplied on application by the
+Department. See also Stationery, p. 38.
+Sometimes the Magistrate is paid a special fee where the
+inquiry is frequently adjourned. In such case the Magistrate
+should submit to the Minister an account for what he
+considers a fair remuneration, and it will be dealt with on its
+merits.
+If the inquiry be held by a Police Magistrate, he is en-
+titled to 15s. per day, in addition to the cost of hired con-
+veyance, if any ; or if he use his own conveyance, then he is
+paid 7d. per mile both ways.
+Fees to Medical Witnesses. —A medical witness is allowed for
+each inquiry one guinea for attending and giving evidence, and,
+in addition thereto, two guineas for each post-mortem examination.
+No mileage is chargeable where the distance is under ten
+miles from the residence of the medical witness, but he is
+allowed is. per mile one way for every mile beyond ten from
+his residence to the place where the inquiry is held. He will
+also be allowed a fee of one guinea for every day which he
+actually attends at an inquiry, in cases where it has been ad-
+journed ; together with travelling expenses, the same as in the
+
+
+first instance, for every journey he takes to attend such inquiry.
+The account should be rendered on the prescribed Form,
+supplied by the Department. See p. 35.
+The form, when filled up and signed by the medical witness,
+should be left with the Magistrate, who will insert the name
+of the doctor, and forward it for payment to the Chief Medical
+Officer of the Government. One copy of this account will be
+sufficient, as it is not required to be rendered in duplicate.
+Where the death shall have happened in any hospital, gaol,
+or public institution, no medical officer appointed with salary
+to attend thereat shall be entitled to any remuneration. These
+fees are, however, sometimes allowed where deceased is re-
+ceived into an institution in a dying state, and expires within a
+few hours after admission.
+In exceptional and special cases where a medical witness
+has travelled over three miles to the scene of an inquiry, the
+Magistrate may represent the facts to the . Chief Medical
+Officer of the Government, with a view to the witness being
+specially remunerated. In every such case the Magistrate
+should state the length of time the doctor was absent from his
+residence, the means of conveyance employed by him, and the
+actual expenses out of pocket he incurred.
+Fees to Interpreter. —When it is found necessary to employ an
+interpreter, the Magistrate should make the best terms he can
+with any competent person. The scale of fees fixed by the
+Government for Chinese interpreters is ios. per day, or ss. if
+occupied for less than two hours, and it is thought that this is
+a fair fee for any other class of interpreters; but as much
+depends on the scarcity of interpreters, or the class of person
+employed, the maximum daily fee fixed by the superior courts
+is 30s. Interpreters, if residing within 10 miles of the place
+of holding the enquiry, are sometimes allowed travelling
+expenses of 4s. per day, and if residing more than 10 miles, of
+Bs. per day, in addition to the above fees.
+The account for interpreters’ fees should be rendered in
+duplicate on the prescribed form, and may be stated as follows :
+“ Acting as Interpreter at a Magisterial Inquiry, held by A. 8.,
+J.P., respecting the death of C.D. at on 19 ,
+occupied less than two hours, ss. [or, occupied more than two
+hours, ios.]”
+Fees to Publicans. —Every licensed publican who shall receive
+a dead body upon his premises for the purpose of an inquest
+or inquiry (p. 8) is entitled to a fee of 305., the account for
+which should be submitted in duplicate, in the name of the
+publican, on the prescribed form, to the following effect: —
+
+
+“ Receiving upon my licensed premises, at Dubbo, known as
+the Travellers' Rest Inn, the dead body of J.S., for the purpose
+of a Magisterial Inquiry, which was subsequently held thereon
+by A. 8., J.P., on 19 ,£1 10s.”
+Rewards for taking up the bodies of persons found drowned. —A fee
+of five shillings is allowed for each body so taken up, and
+claims for these services should be rendered in duplicate, in
+the name of the claimant, on the prescribed form, and may be
+to the following effect: —
+“ Taking up out of the Lachlan River at Oxley , the dead
+body of J.S., found drowned therein, on which a Magisterial
+Inquiry was subsequently held by A 8., J.P , on the
+19 > SS.
+Stationery —A stationery allowance of is. 3d. will be made to
+the Magistrate in respect of each Inquiry held by him ; but
+such allowance will not be paid to a Magistrate who is a
+salaried officer of the Government, as he may obtain the
+necessary stationery from the Court of Petty Sessions in the
+locality where the Inquiry is held. This amount should be
+included in the account rendered by the Magistrate for his
+fees and travelling expenses in connection with the Inquiry.
+The item may be stated as under :
+“ Stationery used in Magisterial Inquiry respecting the
+death of J.S., held at on 19 , is. 3d.”
+The cost of postage and registration of the proceedings con-
+nected with the Inquiry may also be added.
+Fees for the Burial of deceased Paupers. —There is no regular
+scale of charges for the burial of paupers, but the Magistrate
+conducting the inquiry should take care that the Government
+is not imposed upon. (See Miscellaneous Directions , pp. 31-32).
+The account for these services should be rendered in duplicate
+on the prescribed form, and the particulars may be stated as
+follows :
+“June ist, 1902. To burial of J.S Making a plain shell
+coffin, 20s. ; conveying body to place of interment, ss. ; digging
+grave, ss. ; and grave fees (if any).” The voucher should be
+rendered in duplicate, in the name of the undertaker or person
+by whom the body was buried.
+In cases where an Inquiry has been held, the following
+certificate should be written on the voucher, and signed by
+the Magistrate, without which the claim will not be passed for
+payment:—
+
+
+“ I hereby certify that a Magisterial Inquiry was held by
+me in this case, and that the proceedings were forwarded to
+the Department of the Attorney General and of Justice on
+[date] ; that the deceased was a pauper at the time of his [or
+her] death, and left no relatives or friends able or willing to
+defray the cost of burial expenses ; and that the charge is
+strictly moderate, and the lowest price for which the services
+could reasonably be performed. 1 ’
+In cases where the Magistrate has thought an inquiry re-
+specting the death of a pauper unnecessary, and has given a
+certificate to that effect as per Form 6, merely authorising the
+burial of the body, the endorsement on the voucher will be
+varied as follows .
+“ I hereby certify that no Magisterial Inquiry has been
+held by me in this case, as I considered the same un-
+necessary ; that the deceased was a pauper ” (and so on,
+as in the last case).
+In addition to the certificate to be written on the face of
+the voucher, it will be necessary to furnish with the accounts
+for the burial of paupers-in all cases where the amount
+charged exceeds the maximum amount of £ 2 —a special ex-
+planation of the circumstances of the case, and the reasons
+for incurring the additional expenditure. This explanation
+may be given in a paragraph in the letter (Form i) transmitting
+the proceedings.
+Witnesses' Expenses. —When expenses are claimed by wit-
+nesses attending to give evidence at Magisterial Inquiries, they
+should, at the conclusion of the Inquiry, submit their claims in
+accordance with the following scale, to the Police, who will be
+supplied with the necessary vouchers for signature, and will
+forward the claims to the Department for consideration. No
+expenses will be allowed if any excessive or improper charge is
+attempted to be made.
+(a). Witnesses will be allowed actual and necessary out-of-
+pocket expenses for cost of conveyance and sustenance, whilst
+going to and returning from the Inquiry.
+(b). In addition to the above, witnesses who suffer a loss of
+wages by reason of their attendence at a Magisterial Inquiry,
+will beqpaid an allowance not exceeding six shillings per day.
+(r). In addition to expenses under (a), expert witnesses are
+allowed a reasonable fee.
+(d). When witnesses travel by rail or steamer, first or second
+class fares will be allowed them, according to their station in
+life.
+
+
+(e). All witnesses who travel by their own horses or vehicles
+will be paid (in addition to their personal sustenance expenses
+on the journey to and from the place of holding the inquiry) a
+fixed rate of 6d. per mile for the distance travelled one way
+only. Such allowance must cover forage and stabling ex-
+penses, and include compensation for the use of their own
+horses or vehicles.
+General remarks respecting accounts —ln order to avoid repeti-
+tion, it has been thought desirable to give under this head a
+few general directions respecting the filling up of all the
+foregoing forms of accounts, or vouchers, as they are commonly
+called, and the names of the officers to whom they should be
+submitted.
+The Magistrate conducting the inquiry is responsible for the
+rendering of all accounts in connection with it, and as he has
+to countersign every voucher, without which it will not be
+paid, it is recommended that he should fill up all the vouchers
+for fees and allowances in connection with the inquiry, in order
+that all the information required in the different columns, may
+be given in a complete and accurate manner ; and that, when
+so filled up, he should get the persons entitled to the fees to
+sign the Forms in the proper places. A separate account must
+be rendered by each claimant ; but if one claimant perform
+several services, he may charge for them all in one account.
+The Police deal with Witnesses' Expenses, p. 39.
+The vouchers for fees to medical witnesses, filled up as
+previously directed, should be forwarded direct to the Chief
+Medical Officer of the Government, and all necessary informa-
+tion should, at the same time, be furnished to that officer to
+enable him to deal with such claims.
+If the Magistrate have more than one Inquiry during the
+month, at which a medical witness is required, he may send
+all the vouchers for such witnesses to the officer mentioned, at
+the close of the month.
+Accounts for the burial of deceased paupers, respecting
+whose death no Magisterial Inquiry has been held, when filled
+up as directed, and the necessary certificate endorsed thereon,
+should be forwarded direct to the Principal Under-Secretary,.
+Colonial Secretary’s Department, and are chargeable against
+an amount provided for the burial of destitute persons in cases
+where no written evidence has been taken.
+All the other accounts in connection with the inquiry,
+including that for the Magistrate’s own fee, should be for-
+warded direct to the Under-Secretary, Department of the
+Attorney-General and of Justice. The accounts should be
+
+
+rendered as early as possible after the conclusion of the inquiry,
+and if any of them amount to £?. or upwards, should have a
+duty stamp affixed and duly cancelled.
+All vouchers for the payment of fees, with the exception of
+those to medical witnesses, must be furnished in duplicate, in
+order that a record of the details of the same may be kept by
+the Department to which they are sent.
+Sometimes the parties performing the service are persons
+having no fixed place of abode—may, in fact, at the time be
+travelling about the country ; this applies more particularly ta
+the class of men who recover bodies of persons found drowned,
+interpreters, and those who effect the burial of paupers in the
+interior of the State. To such persons it would obviously be
+very inconvenient to render the accounts in their own names,
+and wait till they were paid by the Department. In such cases
+it is recommended that the Magistrate should pay the parties
+out of his own pocket, first getting them to sign the printed
+authority on the voucher, filled up in his (the Magistrate’s)
+name. He then writes on the face of the voucher of each
+claimant whom he has so paid the following authority, request-
+ing the money to be paid to his own credit in any bank he may
+desire:—
+“ I hereby authorize the amount of the above account
+to be paid on my behalf to the Bank of New South Wales,
+Bourke. A. 8., J.P.”
+The Magistrate should obtain vouchers, filled up and signed
+in a similar manner, from every person whom he pays. He
+then forwards these accounts to the Under-Secretary, Depart-
+ment of the Attorney-General and of Justice —the Principal
+Under-Secretary, Colonial Secretary’s Department —or the
+Medical Adviser to the Government, as the case may he, and is
+paid precisely as if he had himself performed the different
+services.
+Transmission of Proceedings.
+As soon as convenient after the termination of the inquiry,
+the Magistrate should forward the proceedings, under regis-
+tered cover, to the Under-Secretary, Department of the
+Attorney-General and of Justice, accompanied by a letter,,
+something to the effect of that given in Form 1.
+When the Coroner is absent from his district, or is ill, or is
+unable from any cause to hold an inquest and a Justice of the
+Peace holds a Magisterial Inquiry, he should state in his letter
+(Form 1), transmitting the proceedings, the reason of his
+having held such inquiry.
+
+
+In cases of “ deaths from natural causes,” the Magistrate is
+requested to insert in such letter a paragraph explanatory of
+any special features of the case, other than those appearing in
+the depositions, which may have induced him to incur the
+expense of an inquiry.
+The Police report (Form 3) referred to at pages 7 and 25,
+upon receipt of which a Magisterial inquiry is held, should be
+attached to the proceedings as an exhibit to the Constable’s
+deposition.
+The proceedings should be fastened together with a metal
+fastener, or with tape, and the pages regularly numbered,
+and correctly placed. The letter above referred to (Form 1)
+will be the first page, the caption (Form 2) the second
+page ; then will follow the depositions in the same order as
+they were written down, at the end of which should come the
+“ Exhibits,” if any, in the order in which they were produced
+in evidence. After the depositions (or after the Exhibits) will
+follow the “ Magistrate’s Finding ( Form 4). To those who
+are unaccustomed to fastening documents of this kind together,
+it may be as well to state that the pages should read from the
+top downwards as they lie open on the table—not from the
+bottom upwards.
+In the same envelope with the proceedings, but not fastened to
+them, —or under a separate cover—should be forwarded the
+Death Register ( Form 8), filled up with all particulars
+mentioned at the head of the columns, together with all the
+accounts in connection with the case (excepting accounts for
+the burial of paupers where no inquiry has been held, p. 40),
+and medical witnesses’ accounts (p. 40), which should be
+transmitted to the officers mentioned in Preparation and Render-
+ing of Accounts. The information for the District Registrar
+should be forwarded direct to that officer, as stated at p. 33.
+The postage on all correspondence in connection with an
+Inquiry must be prepaid by the Magistrate by means of
+postage stamps As inconvenience and delay have been
+frequently occasioned in consequence of depositions and other
+proceedings taken at Magisterial Inquiries having gone astray
+in transit to the Department of the Attorney-General and of
+Justice, it is now necessary that all such proceedings be trans-
+mitted under registered cover.
+The cost of the postage stamps, and of the registration, will
+be refunded to the Magistrate, as explained under the heading
+of Stationery, p. 38.
+
+
+FORMS.
+Under this heading it is proposed to introduce the most in-
+dispensable of the Forms used in connection with Magisterial
+Inquiries. Forms 1 to 4 are not printed, and have to be
+written out by the party requiring them.
+Forms 5 to 9, together with all Account Forms, can be ob-
+tained on application to the Under-Secretary, Department of
+the Attorney-General and of Justice, as already explained at
+P- 35-
+Forms 5 and 6, although printed, are frequently written out
+by the Magistrate, when not on hand.
+Forms 10 and 11 are used by the Police, whose duty it is to
+provide them. See pp. 33-34.
+Form i.
+Magistrate's Letter to accompany Proceedings.
+Sir, —I have the honour to forward herewith the depositions
+taken at a Magisterial Inquiry, held by me, on the
+of 19 , respecting the death of one J. S. (or a man
+unknown, as the case may be), with my finding thereon ; to
+which is appended the Police report, in consequence of which
+I held the Inquiry.
+Mr. A. 8., Coroner for the district, was ill, or, as the case may
+require, and requested me to hold the Inquiry. Or, there being
+no Coroner for this district [or, the Coroner being absent], I
+was requested by the Police to conduct this Inquiry.
+[Here may be stated any special features of the case, if any,
+other than those appearing in the depositions, which the
+Magistrate may consider necessary to bring under the notice
+of the Department.]
+The deceased was a pauper, and I found it necessary to
+instruct the Police to make arrangements for his burial at the
+public expense; [and if the charge for such burial exceed f'l,
+the cause of the higher rate should here be explained.] ( This
+paragraph will only be added if necessary .)
+I also forward by this post, the usual particulars and
+vouchers in connection with the Inquiry. [Or the necessary
+Forms may be applied for as stated at p. 35.]
+I have the honour to be,
+Your obedient servant,
+The Under-Secretary, Department of the Attorney-
+General and of Justice, Sydney.
+
+
+Form 2.
+Caption for Proceedings at Magisterial Inquiries.
+Magisterial Inquiry held at , in the District of ,
+in the State of New South Wales, on the day of
+19 , [and by adjournment at ,on the day of
+19 ] before me, one of His Majesty’s Justices of the
+Peace for the said State, respecting the cause of death of J.S. r
+[or, a man unknown.]
+Before commencing the Inquiry the body was viewed by me
+[or, the body was not viewed by me, as I did not consider such
+view necessary.]
+[lf any one interested in the result of the Inquiry be present,
+it may be stated in the following manner :—]
+Sergeant X. watched the proceedings on behalf of the
+Crown.
+A. 8., Inspector at , appeared on behalf of the Railway
+Department.
+E.F. appeared on behalf of the relatives of the deceased.
+The following witnesses were examined on oath, viz. :
+[Here insert names of witnesses in the order in which they
+were examined]
+and their depositions are hereto appended.
+My finding is recorded at page
+Form 3.
+Report by Police to Magistrate.
+Police Station,
+Sir, — 19
+I beg to inform you that this forenoon, at Boggabilla, [about
+7 miles from Goondiwindi], the body of a man named J.S. [or,
+a man, whose name has not transpired] was found dead in
+the waters of the Macintyre river (or, on the road from Camden
+to Picton).
+or, a man named J S., committed suicide by hanging himself,
+(or as the case may he).
+or, a man named J.S. died from injuries accidentally received
+by ( give cause), on the inst.
+or, a man named J.S. was killed by (giving cause of death),
+or, a man named J.S. died suddenly, supposed to be caused by
+{give cause shortly).
+or, the remains of a human being were found.
+The body now lies at
+I. think an inquiry ought to be held in this case, and that
+
+
+{giving name of house or hotel) would be a convenient place for
+holding the same.
+I have the honor to be, &c.,
+( Signature af Constable.)
+T. Jones, Esq., J.P.
+Form 4.
+Certificate of Magistrate's Finding.
+I, being one of His Majesty’s Justices of
+the Peace for the State of New South Wales, having held a
+Magisterial Inquiry on the day of 19 ,
+[*and by adjournment on the day of 19 ,]
+respecting the cause of death of J. S. [or, a man unknown, or,
+.a male child], do hereby certify that I find as follows :
+That [here state finding. ]
+Witness my hand at this day
+of 19 .
+* If there have been frequent adjournments, the wording may be as
+follows: —“ And by adjournment on the 23rd March, 30th March, and
+4th April, 19 .” Similar wording may be adopted in the Caption,
+Form 2.
+Form 5.
+Certificate of Justice of the Peace for the Burial of the Body
+SCHEDULE G.
+I, Justice of the Peace of
+do hereby order the burial of the body now shewn to me
+as the body of
+Witness my hand this day of 19 .
+Justice of the Peace.
+Form 6.
+Certificate of Justice of the Peace dispensing with Inquest.
+I, Justice of the Peace of
+do hereby order the burial of the body of the undermentioned
+deceased, after registration of death, as by law required, as I
+am of opinion that an inquest is unnecessary.
+Name and Surname „ T , -r.. , Age and , „ ..
+Rank or Profession. When and Where Died. Sex. Cause of Death.
+Justice of the Peace.
+
+
+Form 7.
+Summons for the attendance of a Medical Witness.
+New South Wales, to wit.
+Magisterial Inquiry at , upon the body of
+By virtue of this my order, as a Justice of the Peace for the
+District of , you are required to appear before me
+at , on the day of one thousand nine
+hundred and at of the clock in the noon, to
+give evidence touching the death of
+Form 9.
+Form of Justice's Information of Death.
+To the Registrar of the District in which the undermentioned
+Death took place.
+Pursuant to the Act of the Legislative Council, 19th Vic-
+toria, No. 34, intituled “ An Act for Registering Buths, Deaths,
+
+
+and Marriages in the Colony of New South Wales," I hereby
+certify that an Inquiry held by me on the day of
+19 , at on the body of
+, then and there lying dead, the following particulars
+were elicited, viz :
+When and where Died. SHSE?. Cause of Death.
+Witness my hand, this day of 19 .
+J P., conducting the Inquiry.
+* Further particulars, if obtainable.
+Christian name and surname of Father
+Occupation
+Christian name and maiden surname of mother
+Undertaker’s name
+Birthplace of deceased
+How long in New South Wales
+How long resident in other States of Australia respectively
+f If deceased was married ? Where married f i
+At what age f i To whom f i
+2 2
+(See note below.)
+Issue : Living, names and ages f
+(In order of birth.)
+~ Deceased, males
+females
+Names
+f Note. —lf married more than once give particulars of each marriage
+separately.
+*A ny other matter of detail that may he valuable to Registrar.
+Name of householder where deceased died
+Or name and address of friend of deceased who could complete
+registration
+Constable in charge of the case
+Town or station
+J.P., conducting the Inquiry.
+* As in the majority of cases, relatives or intimate friends of deceased
+persons are in attendance at the time of the inquest or inquiry, it is found to
+be in the public interest that the particulars asked for in these Forms should
+be ascertained in accordance with section 28 of 19 Victoria, No. 34.
+
+
+Form io. ~oo
+Report by Police to Inspector-General.
+NEW SOUTH WALES POLICE.
+District Station.
+Report of Inquest held at
+Name of De-
+ceased (or
+description of
+body, if not
+identified). *
+Probable
+age.
+Calling
+or
+Occupation.
+Place
+of
+Death.
+By whom
+reported to
+Police
+or
+, Coroner.
+When.
+Date
+of
+Death.
+Date of
+Report to
+Coroner.
+Date
+of
+Inquest.
+Name of
+Coroner or
+Magistrate
+before whom
+held.
+Property
+found with
+Deceased,
+and how >
+disposed of. O
+CAL GUIDE TO
+Verdict :—
+Special report as follows (if necessary) : —
+Police Officer.
+Date.
+\
+* For information required respecting unknown persons, see pages 22 and 34.
+
+
+Form ii.
+Declaration of Death and Intestacy.
+STATUTORY DECLARATION.
+I, of do hereby solemnly and sincerely declare
+that , late of in the State of New South
+Wales, departed this life at , on or about the
+day of , one thousand nine hundred and
+intestate, and having at the time of his death
+estate in the said State, liable to waste.
+The said deceased died without leaving any widow or next
+of kin resident within the said State, (a)
+And I make this solemn declaration, conscientiously believ-
+ing the same to be true, and by virtue of the provisions of
+the Oaths Act of 1900.
+Subscribed and declared at]
+this day of ( (Signature of Declarant .l
+19 , before me /
+J-P' )
+(a) If deceased died a bachelor or spinster, state same. If deceased left a
+widow or next of kin resident out of the jurisdiction of the State, insert
+particulars of the same.
+Note —This Declaration, together with full particulars of deceased’s
+property, should be promptly transmitted to the District Agent for the
+Curator of Intestate Estates. See p. 33.
+
+
+
+
+00882546 0
+aJ
+3v 7 . f 4
+
+

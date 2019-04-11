@@ -1,0 +1,2207 @@
+
+
+1929.
+COMMONWEALTH OF AUSTRALIA.
+DEPARTMENT OF HEALTH.
+REPORT
+ON
+MENTAL DEFICIENCY
+IN THE
+COMMONWEALTH OF AUSTRALIA.
+BY
+W. ERNEST JONES, M.R.S.,R.C.P.,
+INSPECTOR-GENERAL OF THE INSANE (STATE OF VICTORIA).
+By Authority:
+H.J. GREN, GOVERMENT PRINTER, CANBERRA
+2030.
+
+
+REPORT ON MENTAL DEFICIENCY IN THE COMMONWEALTH
+OF AUSTRALIA.
+The problem of mental deficiency is one of supreme national importance, inasmuch as it involves the physical
+and mental health of the whole population of Australia, as well as its economic prosperity and efficiency.
+So far as Australia is concerned, the subject has been considered, up to the present, as one of the particular
+duties of the State, but there are good reasons why it should not be limited to the narrow and wholly artificial
+borders by which the States and their individual activities are confined. We may at least assume that the
+Commonwealth has a duty in the way of co-ordinating legislation and in regulating the nation’s activities with a
+view to establishing reciprocity between the States and uniformity in administration by those Departments which
+are responsible for the care of the mentally defective.
+More than this, the Commonwealth is already interested, since there are many mentally defective persons in
+receipt of invalid pensions, concerning which fact it should be pointed out that an anomaly already exists arising
+from the fact that there is differentiation in the treatment between the mentally defective in private care and
+guardianship, and those in State institutions. It must be a matter of common knowledge that there are very
+considerable numbers of mentally defective persons segregated in State hospitals or hospitals for the insane or
+institutions for the feeble-minded, who are not in receipt of the relief by the Commonwealth afforded to other mentally
+deficient persons who are not in such State institutions, where, be it remarked, they should not infrequently be
+detained that they might get the necessary inspection, care and training, at the hands of the officials of the State,
+whose experience in such matters would be a valuable protection to them.
+Evidence was given in 1925 before the Royal Commission on Health at some length on the question of mental
+deficiency and the steps taken to deal with that important aspect of preventive medicine. The Royal Commission on
+Health in its report made reference to this problem, and included recommendations that a Director of a Division of
+Child Welfare should be appointed, one of whose duties should be to investigate the health conditions of children of
+all ages, especially mental hygiene, and that the Commonwealth should subsidize States to provide institutional care
+for mental defectives. These recommendations were considered by the conference of Ministers of Health in 1926 and
+were approved by that conference. The Federal Health Council, at its second session in 1928, passed the following
+resolution:—
+“Mental Deficiency. —ln view of the incompleteness of information concerning the extent of mental
+deficiency in Australia, and the urgent necessity for having this knowledge available, the Council requests the
+Commonwealth Government to arrange for an inquiry to be made and for a full report on this subject to be
+compiled for the next session of the Council.”
+The Commonwealth Government adopted this resolution and approached the Government of the State of
+Victoria with a request that the services of the writer should be made available for the purposes of carrying out the
+full inquiry contemplated by the resolution of the Council.
+The report herewith presented is the outcome of this action by the Commonwealth Government. It is not
+claimed for the survey that it is an absolutely accurate census of all mental defectives within the Australian borders,
+but in all probability it can be considered sufficiently truthful to demonstrate the need for action by the Federal
+Government. It may be possible also to compare Australian statistics on this subiect with published returns and
+estimates from other countries, particularly with those of English-speaking nations. It is hoped in this report to
+indicate the principal causes of mental deficiency, with a view to stimulating the study of preventive measures in
+w ith the teaching of modern hygiene, and to point out the most efficient method of providing for the detection,
+..cation, training, segregation and guardianship of the various classes of defective individuals.
+tr At the request of the Federal Health Minister, facilities were made through the State Governments for the
+visits of the writer, who was thereby enabled to obtain interviews and co-operation with State Departments, such
+as the Education, Lunacy, Penal, Children’s Welfare and other agencies of the State. Private institutions, blind
+deaf and dumb asylums, epileptic colonies, were also visited, and the writer desires to acknowledge the invariable
+courtesy and assistance which he has received at the hands of heads of the churches, Ministers of State, public
+servants, and many private citizens, who are interested in this subject.
+Arrangements were made for the writer’s visits and for much of the work in the matter of the collection
+of statistics "by the Federal Medical Officers of Health in each State, and the assistance of these gentlemen has been
+of a very valuable character.
+iylthough the subject of mental deficiency has many sides, it was considered for the purposes of this return
+necessary to turn one’s attention chiefly to two avenues of inquiry—the educational and the institutional.
+'Vyith regard to the former, it was thought desirable to give the Education Departments in each State as free
+Iras possible, permitting them to make use of their own statistics wherever such existed. This was especially
+in New South Wales, where the Education Department was undertaking a survey of the State under the
+of Dr. Harvey Sutton, Principal School Medical Officer ; and Tasmania, in which State a Mental Deficiency
+a Board are already established. In other States than New South Wales, as no inquiry had been made
+a set scheme was adopted and the Education Departments in each of the States fell into line and adopted
+W3|HKrm return. Forms were sent out to each State School on the lines of that attached to the appendix to this
+ijjr, as well as criteria for tabulation printed in each Education Gazette. This advice or instruction is also to be
+in the appendix.
+
+
+It will be seen that the work asked from the State Education Departments was not a light one, as, according
+to the returns of the Federal Statistician in 1926, there were 10,203 State schools with 883,925 scholars enrolled and
+an average attendance of 730,571. Inasmuch as inquiry was also to be made from private schools, of which there
+existed in 1926 no less than 1,761, with an enrolment of 233,566 and an average attendance of 178,985, it will be seen
+that inquiries should be made from nearly 12,000 schools and of more than 1,100,000 schoolchildren. The collection
+and examination of these returns afforded a task of some considerable magnitude.
+For these returns, a special classification of mental deficiency was adopted and three grades were recognized—
+those of extremely low mentality, who may be generally known as idiots and low-grade imbeciles, those of definite
+mental deficiency, not so low as the first class, but still definitely below the third class, which are spoken of as the
+border-line class, and returns were asked for as to this border-line class according to the criteria laid down in the
+advices printed in the Education Gazettes, because it was considered that this was the most important class which the
+educationalist has to deal with. Age classification was also asked for, giving special heed to the period of school age
+viz., six to fourteen years of age. This classification was, in point of fact, devised by the educationalists and medical
+officers of the Victorian Education Department and their advice was followed, although there was more than a
+possibility of border-line cases, who were merely dull, being included in the returns of the mental deficient, Still,
+the explanations and definitions as to the criteria were so simple that it was thought that every school teacher should
+have been able to respond to the request in a reasonably accurate manner. It would seem, however, that in many
+cases where no tests of the Binet-Simon type were made, difficulties and discrepancies arose and not infrequently.
+With regard to the institutional investigation, it was fairly certain in this respect that the information could
+be of a verv definite character. The number of institutions dealing with mental defectives in Australia is not a large
+one, probably there are not more than 50 or 60 institutions which are definitely admitting mental deficients for care
+and treatment. Many of these will be found in the wards of the mental hospitals belonging to the State Lunacy
+Departments, and it was obvious from the first that this return could be made of a reasonably accurate character.
+For the purpose of this return, the nomenclature and definitions which have been laid down by the Royal
+British Commission of 1908 were adopted, that is to say, a return was asked for classifying mental deficients into
+idiots, imbeciles, feeble-minded persons, and moral deficients. The return also differentiated those cases into those
+below the age of six, those from six to fourteen, and those above fourteen years of age. The number of epileptics
+was asked for separately. A copy of the return which was sent to each institution is also attached to the appendix.
+The survey is, therefore, a two-fold one. The (a) returns will consist of an enumeration of those children who
+are mentally deficient but who are not in institutions. They are known to the Education Departments and are being
+catered for in many ways quite satisfactorily, but it is obvious that the extent of the special school and class provision
+is totally insufficient. Those children are the cases for whom the greatest degree of amelioration can be expected,
+and a considerable portion of them will be found to respond educationally to some extent, and particularly to the
+specialized education of the opportunity classes and special schools which have been established in many States.
+These cases are the more important because they are particularly capable of re-actmg to good or evil influences.
+r p]}o classification will include the inmates of various institutions the idiots, imbeciles and high-grade
+mental defectives, who are anti-social or who are incapable of being looked after by their relatives, and who are in
+any case certain to find their way into some institution or another, in which their liberty and their possibilities for
+doing mischief can be restricted.
+As already stated, arrangements were made with the Education Departments in the various States for the
+collection of the information with regard to State schools, but as the system followed for this collection and for the
+tabulation of the information received varied somewhat in each State, the following is a short resume of the manner
+in which the collection and tabulation was carried out for each State, together with a summary of the number of
+returns and the number of children to whom the returns applied.
+New South Wales. —The investigation in this State was carried out by the medical service of the Departme.
+of Education and was based on a different system to that adopted by the other States, inasmuch as the reports were
+furnished by the School Medical Officers, while in the other States they were supplied by the head teachers themselves ;
+hence, the New South Wales figures, based as they are on the examination by medical specialists experienced in such
+intelligence testing, will not include a large number of the border-line and doubtful cases, which would certainly be
+enumerated by the school teacher actuated by indifferent scholastic responses.
+Considerable delay was experienced with this State, as Dr. Harvey Sutton, who was at first in of the
+School Medical Service, resigned in February, and as his figures did not correspond with those furnished later by
+Dr. Stewart, his successor, the figures of the latter have been adopted.
+This investigation has covered but little more than one-quarter of the State school population ; fortunately,
+it includes schools in the cities, suburban areas and country districts, so that it can be taken as representative of the
+whole State. The number of children examined was 76,557, out of a total enrolment at June, 1926, of 29Sj3*p|7J»s
+estimated by the Department. ■■sS&SS
+Victoria— In this State the forms to be filled in, accompanied by instructions in the Education Gaz
+sent out to the head teacher of every State school by the Education Department, and the returns handed
+writer for tabulation. A large number of forms had to be returned for completion, as in many cases the head
+had omitted to fill in the total number of children attending his school, without which information it was imposapll#
+to obtain the percentage of mental defectives. ■ ' ’ v -
+
+
+Altogether returns were furnished by 2,098 schools or 78 per cent, of the whole number, embracing 201,548
+children, representing 98.5 per cent, of the estimated attendance for June, 1928. A number of small schools, which
+neglected to furnish returns, were disregarded as being too insignificant to affect the total percentage.
+As the returns were all analysed under the supervision of the writer, it was possible to make interesting
+comparisons between the numbers of mental defectives in the city, urban, and country schools.
+Queensland. —As in Victoria, the forms, accompanied by instructions in the Education Gazette were sent to each
+head teacher by the Education Department. The completed forms were sent for tabulation. There were many
+incompletely filled in forms, the number of children in attendance not having been given, but the Education
+Department was able to supply the information itself as time was too short to send the forms back to the various
+head teachers.
+Returns were received from 1,447 State schools, or about 83 per cent, of the total number, and they referred
+to 115,306 children. The compilation was made out showing separate figures relating to city, urban and country
+schools, as was done in the case of Victoria.
+South Australia. —The information regarding this State was obtained in a similar manner and tabulated by
+Dr. Constance Davey, Psychologist to the Education Department, and apparently includes all the State schools,
+inasmuch 5s a total of 77,476 children is reported on by her, while the total average attendance at June, 1928, is
+estimated at only 73,259, the total enrolment in 1926 being nearly 85,000.
+A separation into metropolitan and country schools was also made.
+Western Australia. —The returns, which were given on forms issued as supplements to the Education Gazette
+containing the instructions, were collected and tabulated by the Education Department in Perth. The total number
+of schools from which returns were received is not given, but the Department reported that about 50 more returns
+were still outstanding. The number of State schools in 1926 was 848, so that presumably about 800 returns have
+been received.
+Tasmania. —As regards this State, the information was collected and compiled by Dr. Morris Miller, Chairman
+of the Mental Deficiency Board. Although the number of schools investigated is not given, still the survey must have
+been fairly complete, as the number of children reported, viz., 28,496, exceeds the estimated attendance, though
+it does not come up to the total enrolment of about 32,000.
+Dr. Morris Miller states that “ The estimated percentage of feeble-mindedness at school age (Class (b) —according
+to teachers’ estimates based on your criteria) is about 1.83 per cent. We expected about 2 per cent, under the
+circumstances ; but according to examinations made under the Mental Deficiency Act, the percentage is nearer
+0.75 per cent, for children of school age. We are of the opinion that, however the figures re percentage of certifiable
+defectives vary, there are border-line and feeble-minded children comprising about 3 per cent, of the school population
+that require special training ”.
+Note. —In connexion with the numbers of children at State schools, two sets of figures are available in the
+Commonwealth Year Book, viz., scholars enrolled and average attendance. There is a large difference between these
+two sets of figures, for example, in 1926 the number of scholars enrolled was 883,925, and the average attendance was
+730,571, or 82.7 per cent, of the enrolment. This is due to the fact that many children, both in the city and in the
+country, are enrolled at more than one school during the course of the year, and thus get duplicated in the figures
+for enrolment, the actual number of State school children would therefore lie somewhere between these two sets of
+figures.
+With regard to private schools, the figures are very unsatisfactory, as the furnishing of returns was purely
+voluntary on the part of the authorities concerned. Through the courtesy of the Archbishops in New South Wales,
+Victoria and Queensland, I was able to obtain returns from many of the Catholic schools, but with the exception of
+Victoria and South Australia, no returns were received from any non-Catholic schools.
+New South Wales. —The total number of completed returns received was 89, representing 9,685 children. The
+total number of private schools in this State in 1926 was 704 and the average estimated attendance in 1928 was 71,510,
+hence only a little over 12 per cent, of the schools and about 13.5 per cent, of the children in attendance are
+represented.
+Victoria. —As the filling in of the forms relating to mental deficiency was purely a voluntary matter with private
+schools, it was not possible for the Council on Education to exercise any compulsion on the proprietors to send in any
+returns. However, better results were obtained in Victoria than in New South Wales, but even in this State only
+251 out of 484 —about 52 per cent, of the private schools —furnished retxxrns, the number of children included being
+34,006 or about 58.5 per cent, of the average attendance.
+Queensland. —Returns relating to 2,641 children in eighteen convent schools were received, or about 10 per
+cent, of the average attendance and 9 per cent, of the number of private schools.
+South Australia. —From this State the returns were more satisfactory, 122 schools out of 184, or about
+two-thirds, furnished returns relating to 10,341 children, or 73 per cent., of the average estimated attendance for
+1928.
+tilt are untrained and in any case would be more likely to conceal mental deficiency than expose it.”
+Western Australia.—No returns have been received from private schools in this State.
+Tasmania. —Returns covering 3,995 children, or 77 per cent, of the total average attendance, were received
+and tabulated by Dr. Morris Miller.
+
+
+TABLE A (1).
+Estimated Number of All Children of School Age.
+-—
+New South
+Wales.
+Victoria.
+Queensland.
+South
+Australia.
+Western
+Australia.
+Tasmania.
+Total.
+Males
+Females
+206,931
+202,039
+140,425
+135,231
+79,312
+76,381
+50,648
+46,475
+35,944
+33,925
+18,885
+18,968
+532,145
+513,019
+Total
+408,970
+275,656
+155,693
+97,123
+69,869
+37,853
+1,045,164
+TABLE A (2).
+Estimated Number of All Mental Defectives of School Age in Schools, Mental Hospitals, and
+Institutions, together with Balance Unaccounted for.
+New South
+Wales.
+Victoria.
+t
+Queensland.
+t
+South
+Australia.
+t
+Western
+Australia.
+t
+Tasmania.
+t
+Total.
+Males
+Females
+Total
+Males
+Females
+Total
+Males
+Females
+Total
+Males . •
+Females
+Total
+64
+74
+Class (
+200
+118
+a). — Idiots.
+81
+60
+66
+44
+51
+27
+32
+14
+494
+337
+138
+318
+141
+110
+78
+46
+831
+Class
+725
+559
+—
+(b). —Define
+1,682
+1,102
+rs Mental D
+678
+412
+EFICIENTS.
+592
+336
+293
+175
+410
+252
+4,380
+2,836
+1,284
+2,784
+1,090
+928
+468
+662
+7,216
+1,333
+1,053
+Class (c). —B
+3,356
+| 2,375
+jrdek-Line C
+1,157
+786
+ASES.
+1,190
+743
+583
+386
+676
+532
+8,295
+5,875
+2,386
+5,731
+1,943
+1,933
+969
+1,208
+14,170
+2,122
+1,686
+All
+5,238
+3,595
+Classes.
+1,916
+1,258
+1,848
+1,123
+927
+588
+1,118
+798
+3,808
+8,833
+3,174
+2,971
+1,515
+1,916
+-
+METHOD OF ESTIMATING TOTAL NUMBER OF MENTAL DEFECTIVES.
+In order to ascertain the number of mental defectives between the ages of six and fourteen years in each State
+and for each sex, several methods were tried, but the following method, which has been adopted in this report, appears
+to be the most satisfactory :
+(а) State Schools—The total estimated number of children attending State schools having been ascertained,
+the number of mental defectives in each class has been calculated from the percentages obtained
+from the available returns.
+(б) Private Schools—The same method has been adopted as with State schools in such States in which
+returns from private schools are available.
+(c) High Schools, &c—Where returns are to hand, the same system has been adopted.
+(, d ) Mental Hospitals.' —The figures.for these are complete, and have been adopted as returned.
+(e) Other Institutions.—The figures for these have been treated in the same manner as those for mental
+hospitals.
+From the Federal Census has been ascertained the total number of children of school age ; from this survey
+has been obtained returns showing the total estimated number of children attending schools and in the above types
+of institutions. The difference between these two sets of figures gives the “ balance a body of children who are
+apparently not covered by this survey. It is claimed that there is a portion of mental defectives m this balance,
+in all probability of a similar proportion to that recognized in State schools.
+Figures based on this proportion have been included in the gross totals of mental defectives.
+• Medical Officers’ survey only. t Scholastic survey.
+
+
+TABLE A (3).
+Estimated Percentages of All Mental Defectives op School Age in Schools, Mental Hospitals and
+Institutions, Together with Balance Unaccounted for.
+—
+New South
+Wales.
+*
+Victoria.
+t
+Queensland.
+t
+South
+Australia.
+t
+Western
+Australia.
+t
+Tasmania.
+t
+Total.
+Total excluding
+New South
+Wales.
+Class
+(a). —Idiots.
+Males
+0.03
+0.14
+0.10
+0.13
+0.14
+0.17
+0.09
+0.13
+Females
+0.04
+0.09
+0.08
+0.10
+0.08
+0.07
+0.06
+0.09
+Total
+0.03
+0.11
+0.09
+0.11
+0.11
+0.12
+0.08
+0.11
+Class
+(b). —Definit
+e Mental Di
+FICIENTS.
+Males
+0.35
+1.20
+0.85
+1.17
+0.82
+2.17
+0.82
+1.12
+Females
+0.27
+0.82
+0.54
+0.72
+0.52
+1.33
+0.55
+0.73
+Total
+0.31
+1.01
+0.70
+0.96
+0.67
+1.75
+0.69
+0.93
+Class (c). — Bo
+bdbr-Line Ci
+LSES.
+Males
+0.64
+2.39
+1.46
+2.35
+1.62
+3.58
+1.56
+2.14
+Females ..
+0.52
+1.75
+1.03
+1.60
+1.13
+2.80
+1.15
+1.55
+Total
+0.59
+2.08
+1.25
+1.99
+1.39
+3.19
+1.35
+1.85
+All
+Classes.
+Males
+1.02
+3.73 [
+2.41
+3.65
+2.58
+5.92
+2.47
+3.39
+Females
+0.83
+2.66
+1.65
+2.42
+1.73
+4.20
+1.76
+2.37
+Total
+0.92
+3.20
+2.04
+3.06
+2.17
+5.06
+2.12
+2.89
+Percentages op
+Mental Defectives
+Males
+Females.
+Males and Females.
+City.
+Urban. j Country.
+City.
+Urban.
+Country.
+City
+Urban.
+Country.
+Of
+/o
+% 1 %
+%
+%
+%
+%
+%
+%
+Class (a).
+Victoria
+0.06
+0.13 1 0.21
+0.04
+0.09
+0.10
+0.05
+0.11
+0.16
+Queensland
+0.08
+0.07 1 0.06
+0.03
+0.08
+0.06
+0.05
+0.08
+0.06
+South Australia
+0.07
+0.18
+0.06
+0.08
+0.06
+0.13
+Tasmania
+0.14
+0.15 | 0.20
+0.02
+0.07
+0.08
+0.09
+0.11
+0.14
+Class (6).
+Victoria
+0.87
+1.24 | 1.73
+0.73
+0.86
+1.22
+0.80
+1.05
+1.48
+Queensland
+0.48
+0.57 1 0.94
+0.45
+0.39
+0.66
+0.47
+0.48
+0.81
+South Australia
+0.84
+1.56
+0.52
+0.97
+0.69
+1.28
+Tasmania
+1.77
+1.83 | 2.95
+1.22
+0.81
+1.85
+1.50
+1.36
+2.42
+Class (c).
+Victoria
+1.80
+2.30 1 4.12
+1.49
+1; 78 1
+3.28
+1.65
+2.05 1
+3.71
+Queensland
+0.79
+0.92 1 1.95
+0.56
+0.67 1
+1.38
+0.68
+0.80
+1.68
+South Australia
+1.66
+3.03
+0.97
+2.16
+1.33
+2.62
+Tasmania
+2.53
+2.72 1 5.40
+1.84
+2.04
+4.21
+2.20
+2.46 1
+4.82
+All Classes.
+Victoria
+2.73
+3.67 1 6.06
+2.26
+2.73 1
+4.60
+2.50 |
+3.21 I
+5.35
+Queensland
+1.35
+1.56 1 2.95
+1.04
+1.14 1
+2.10
+1.20
+1.36 1
+2.51
+South Australia
+2.57
+4.77
+1.55
+3.
+21
+2.08
+4.03
+Tasmania
+4.44
+4.70 8.55
+3.08
+2.92 |
+6.14
+3.79
+3.88 |
+7.38
+• Medical Officers’ survey only. t Scholastic survey.
+TABLE A (4).
+Comparison between Percentages of Mental Defectives among State Children of School Age in
+City, Urban, and Country Schools.
+Note. —City Schools include those in the Metropolitan Postal District in Victoria, those in Brisbane and suburbs
+in Queensland, those in the Metropolitan District in South Australia, and those in Hobart and Launceston in
+Tasmania.
+Urban Schools include those with over 200 children in attendance in Victoria and Queensland, and those
+with enrolments of over 100 or more in Tasmania. In South Australia urban schools are included with country
+schools.
+Country Schools include all schools not enumerated in the foregoing.
+Owing to the fact that the numbers from New South Wales and Western Australia were supplied
+undifferentiated, it was impossible to give the information concerning those States in this Table.
+It will be seen that the proportion in the country districts is nearly double that of the city, whilst the urban
+numbers are more or less intermediate.
+
+
+SPECIAL INSTITUTIONS FOR MENTAL DEFECTIVES.
+Elsewhere in this report it has been stated that the majority of the obviously defective that is to say, of
+the idiot and imbecile class, are to be found in the State Hospitals for the Insane. There are, however, a few
+institutions which have been established especially for this class of defective.
+In Queensland, the majority of these cases are in wards in the various State Hospitals, but there are also
+a few young adults in the Benevolent Asylum at Dunwich, as well as a few epileptics. In the Diamentina Hospital
+for Incurables there were six obviously low-grade imbeciles of each sex.
+Queensland has an epileptic colony at Willowburn ; this, although it is not on the reserve of the Hospital for
+the Insane at Toowoomba, is quite close to it and for all practical purposes it might be considered as a ward of the
+Toowoomba Asylum. It contained, on the occasion of the inspection by the writer, 30 male and 45 female patients.
+They are all practically congenitally mentally deficient and there could be no possible objection, other than a
+sentimental one, to the certification under the Lunacy Act of the majority of these patients.
+A visit to the Blind, Deaf and Dumb Institution, which is governed by the State, revealed the fact that,
+although an attempt is made to prevent the admission of a child whose intelligence quotient is below 80, nevertheless
+a few cases are admitted who are really mentally deficient.
+In Queensland it would appear that there is no real appreciation of mental deficiency amongst the prison
+population, although there is a reformatory prison in the neighbourhood of Toowoomba, and it seems practically
+unbelievable that all the inmates are of normal mentality. Furthermore, it would appear that there are no mentally
+deficients amongst the class of women attending the Venereal Diseases Clinic, as has been found to be the case in
+Victoria and, indeed, in most other English speaking countries.
+In New South Wales the subject of mental deficiency has received a very considerable amount of attention,
+not only from the Education Department, but also from the Health Department, the Children’s Welfare Department
+and the Crown Law Department, necessarily also from the Lunacy Department. Indeed, a Bill dealing with this
+subject is receiving the attention of Parliament and the Government officials.
+Quite recently the Education Department has established at Glenfield a residential school, which is capable
+of receiving 120 children. It is intended to run this institution on ordinary residential school lines, i.e., the children
+come in for set terms and return home. Further, it is intended only to take children who show some capacity for
+improvement educationally. Of the numbers in residence at the time of the visit of the writer, 20 per cent, were
+regarded as having an I.Q. of below 50. The majority of the cases, however, showed I.Q.’s of 60 to 80, and two
+approximated to a9O I.Q. A strong scholastic staff attended during the school hours, and during the rest of the time
+the children were taken charge of by a capable staff consisting very largely of trained nurses. The dormitories and
+classrooms are ideal, and good playgrounds are also provided. The boys learn gardening and the girls are instructed
+in cooking. A good deal of manual training goes on —hearth rugs are made and basket work is undertaken. The
+musical education of the children is a striking feature. The parents are asked to pay the very moderate sum of £35
+per annum, but in many cases where they cannot pay, a less amount is accepted. The institution is under the
+direction of a trained psychologist, and practically all the staff are expert in their particular work.
+If Glenfield is to remain as an institution for this class of case, it could easily be established as the ideal
+training school for those teachers who are going to undertake the special care and education of the mentally defective
+child. It is not easy to find teachers with the requisite knowledge, and it would be a wise step to make arrangements
+for other States to send probationers to Glenfield for this purpose. There appears to be no very good reason why
+suitable cases from other States should not be received, even if higher rates be paid.
+The Lunacy Department has established at Newcastle an institution for mentally defective children. There
+is, however, in this institution a small sprinkling of adults. On the occasion of the writer’s inspection, there were
+220 cases in residence ; 70 children go to school, and there is a strong nursing and teaching staff in constant attention.
+Although the institution is an old one, it has been renovated and brought up to date, and the care that is extended
+to the inmates is of the highest order. There are, unfortunately, a very large number of hopelessly idiotic children
+who require constant attention at the hands of the nurses.
+In connexion with the Children’s Welfare Department, there are smaller institutions for various classes of
+mental defectives ; for example, at Brushfarme there were 52 girls in residence, seven of whom were morons, 23 were
+classed as high-grade imbeciles, and 22 low grade. This institution consisted of an old homestead with 11 acres of
+ground. It is admirably situated and has a competent staff, but there is comparatively little done in the way of
+scholastic education; however, the children are made extremely useful in running the institution.
+At May Villa is a similar institution, which consists of two houses grouped together for 22 boys in all; seventeen
+were in school, but the majority were not likely to achieve much advance educationally. The eldest boy was fourteen
+and the youngest eight. They are taught certain handicrafts, and five boys work in the garden. These boys are
+looked after almost entirely by a married couple ; there'is, however, a visiting teacher and a cook.
+At the Mittagong Keformatory Colony, one block is set aside for mentally defective boys.
+There is a private institution in one of the suburbs of Sydney wherein 40 cases are looked after. Considering
+the fact that they are mostly Mongols, the care of these children is commendable, and the house reasonably adequate
+and the training good.
+In South Australia there is one special institution for mentally defective patients, and that is Minda. On
+the occasion of the visit of the writer, there were 209 patients in residence ; 70 were quite elderly mental defectives,
+57 were between the ages of 16 and 21, and there were 82 under the age of sixteen ; of these, 25 were in the babies’
+cottage. Of the total number, 21 were epileptic. From 60 to 70 go to school, and for this purpose, there were two
+teachers, one of whom has had considerable experience in England. There does not appear to be any legislation
+extant which gives the Minda authorities power to legally detain any mentally defective individual.
+
+
+The institution is remarkably well situated, being placed close to the sea, but luckily on good ground. The
+consequence is that the farm and garden showed excellent results, the majority of the work being undertaken by the
+bigger boys. Whilst there were a few good wards, the greater part of the institution was not entirely prepossessing,
+and it would appear that more training and teaching is essential. The sanitary spurs, so absolutely necessary in
+institutions for this class of defective, struck one as being inadequate and badly kept. The training of the children
+as to habits does not start at a sufficiently early age, and for this reason alone better sanitary arrangements are needed.
+There were a very large number of Mongols, who are not, as a rule, capable of any considerable degree of educational
+advancement.
+It would appear that there is a proposition to reconstruct and send to a country farming colony the older
+imbeciles, retaining Minda for younger cases, and especially for those who are capable of education. This would seem
+to be a very sensible step, inasmuch as Minda appears to be over-crowded and considerable renovation is required
+in connexion with the kitchen, laundry, and administrative offices.
+In South Australia, there are certain other smaller institutions, such as the McGill Boys’ Reformatory, which
+shelters 69 boys, seven of whom were definitely morons, and fourteen might be described as dull.
+At the Angus Home, Parrafield, blind, deaf and dumb cases are accommodated, varying in number from
+20 to 30. Those are all returned as mental deficients.
+The State Hospital for the Insane at Parkside shelters a fairly large number of congenital mentally deficient
+cases, but they are all suitably accommodated, although not in special wards.
+Western Australia. —Whilst a very definite advance has been made in the establishment of a State Psychological
+Clinic, as yet there has been comparatively little done to provide special accommodation for mentally defective cases.
+The State Hospital for the Insane at Claremont holds a considerable proportion of mental deficients, the majority
+being unsuitable for special institutions other than Claremont.
+There is an institution, the Seaforth Home, which is run by the Salvation Army a few miles from Perth, and
+in it is a special school for 45 boys. Their ages range from twelve to eighteen years ; after they reach the latter
+age, they are no longer retained and are discharged, but apparently ther } is no definite provision for them when they
+have to leave. The boys are graded in two classes —there are 21 in the top class and these are doing particularly
+good manual work ; carpentry, basketware, and sea grass furniture is undertaken. The lower class is in process of
+some form of education of the kindergarten type. The building generally is not particularly suitable.
+Under the direction of Miss Stoneraan, the Roman Catholic Church is building a special school at Casfcledare.
+It is proposed to erect three cottages, which will contain from fifteen to eighteen, and the patients will range from
+the age of eight to eighteen years.
+There does not appear to be any special accommodation for female defectives at present, although some are
+maintained in certain orphanages and homes.
+The evidence tendered to the writer appears to show that there is necessity for special institutions, inasmuch
+as there are nearly 100 cases accommodated in the homes abovementioned.
+Tasmania— Although this State has led the way in the matter of legislation, and possesses a Mental Deficiency
+Act as well as a Mental Deficiency Board, of which Dr. Morris Miller is the Chairman, it would appear that nothing
+worthy of the name has been provided in the matter of accommodation for mental defectives.
+At the mental hospital at New Norfolk, there is a special cottage for idiot boys, but it is anything but
+satisfactory. A few imbecile girls are in a ward on the female side, but there is urgent need for a special block to-
+be erected to accommodate all these cases.
+At the infirmary at Newtown, which has been declared under the Act as an institution for defectives, there
+are a few imbecile boys and girls, and the Hobart Gaol has been declared as an institution for criminal defectives.
+At Ashley, near Deloraine, there is a school, which has not been proclaimed as a special school for defectives, to
+which a few boys of fairly high grade are sent under the guardianship of the Superintendent.
+Victoria. —In the State Hospitals for the Insane and in the private licensed houses there are approximately
+1,050 cases of congenital mental deficiency, amounting to idiocy or imbecility. Whilst there are many of them
+scattered throughout the institutions in appropriate wards, the Children’s Cottages (Idiot Asylum) atKew are responsible
+for the care and treatment of 420 cases.
+This institution is in process of reconstruction, and recently the Department has recommenced the educational
+training of the high grade cases. There is a very large proportion of idiot cases, and there is practically no limit put
+to the age at which children can be admitted, the consequence is, this institution receives from the Children’s Welfare
+Department and the Children’s Hospital a very large number of idiot babies, quite incapable of benefiting from any
+form of training or treatment. As will be referred to elsewhere in this report, the proportion of these cases, which
+are believed to be due to inherited specific diseases, is very high —probably as much as 50 per cent.
+At Mont Park there is a block which contains accommodation for 40 patients, and this is used for the custody
+of grown up male imbeciles, who are employed very largely on the farm and in the gardens at Mont Park.
+Two outside cottages at Ararat are also used for the same class of patient.
+It is generally found that the grown-up imbecile girls can be made of considerable help in the kitchens and
+laundries of the various institutions, and-this is very markedly the case at Kew, where the main laundry and the
+Children’s Cottages’ kitchen are carried on with patients’ labour, materially diminishing the employment of paid staff.
+2030.—2
+
+
+In the depot of the Children’s Welfare Department at Royal Park there is also invariably to be found a
+number of-congenital mental deficients. A report from the Medical Officer to the institution shows that there are
+77 defective, of whom 42 are male and 35 are female ; 23 are under six years, 23 are between six and fourteen years,
+31 are over fourteen years —of the latter, six are regarded as moral deficients.
+Epileptic Colony.—At Clayton, on the Mason’s Meadows Estate, there is a colony for the care of epileptics, and
+it contains 150 patients, of whom seventeen boys and thirteen girls are adjudged as mentally deficient. This institution
+was founded some twenty years ago, and is called after its founder —Lady Talbot. The institution is extremely well
+conducted and economical, but it would appear that there is an increasing accumulation of very demented patients,
+the majority of whom are certifiable, but there is no legal power to detain them. The colony has a charter empowering
+it to exist, but it has no legislation to control it or endow it with active power.
+Originally it was intended for the admission of those epileptics who were not markedly affected in mind, or
+who were not definitely congenitally mentally deficient; it is not a disparagement of the institution to say that the
+original intention of the founders is impossible of perpetuation. When a case is admitted to such an institution as
+this, it may prove somewhat difficult to obtain removal unless the patient becomes actually dangerous ; the
+consequence is the institution becomes burdened with an increasing number of demented and incurable cases.
+Moreover, it is extremely improbable that sane or intelligent epileptics will seek for shelter in an institution which
+has become notable by the class of demented patient one invariably finds in it.
+A special cottage has been set aside for returned soldiers who have become epileptic, and this cottage more
+closely approximates the ideals of the founders. Accommodation for twelve soldier cases is available, and generally
+that number is to be found in residence. These patients have very considerable liberty given them, and much is
+done by the Red Cross Society for their amusement and occupation.
+In Victoria, beside certain schools belonging to the Education Department, which will be afterwards referred
+to, there are two private schools where defective children are accepted, but at present they do not come under any
+official cognizance.
+SCHOOLS FOR MENTALLY DEFECTIVE CHILDREN.
+Beyond the residential school established by the New South Wales Education Department at Glenfield, there
+are certain other day schools and classes which have been established for the education of mentally defective children.
+The first of these was established in Victoria in the yea; 1913. The Bell-street School, Fitzroy, was the first of these
+day schools, and it now receives from 40 to 50 scholars who come for special training from the neighborhood. The
+second school was established at Montague, and this school receives about the same number, and has exactly the same
+function® as Bell-street. Besidp these two day schools, there are in Victoria a very large number of special classes,
+or as they are called, “ opportunity classes,” wherein backward children receive education of a specialized character
+from trained teachers, and these classes have developed a routine appropriate to the character of the children they
+receive. In Victoria there are actually 38 of these excellent classes ; 33 scattered through the metropolitan area,
+and five in the principal country towns.
+The Education Departments in other States have followed this procedure and there are special classes attached
+to six schools in the metropolitan area of Sydney.
+In South Australia, under the direction of Dr. Davey, these schools have been established, and there are now
+opportunity classes to the number of fifteen, teaching 292 children. In South Australia no teacher takes more than
+twenty cases, and they are all female teachers. Of the children attending these schools, some are retarded or dull,
+but by far the greater majority of them are definitely defective, though not delinquent. From most of these cases,
+the boys go to work in the wood-shops attached to the schools ; music is made of considerable use, and simple
+handicrafts.
+In Queensland, there are five such opportunity classes —one at Buranda for 22 boys, where there is one male
+teacher. In this school they specialize in basket work and carpentry. At the South Brisbane School, there is a special
+class for 75 ; they are mostly little boys and girls, and three teachers are continually engaged. Many of these
+children are retarded and subsequently find their way back to their appropriate class.
+In Tasmania certain schools have been developed for this class of work. One school (Elizabeth-street) has
+special classes, both for boys and girls. The boys attend carpentry classes.
+The writer saw no instance of special classes or special day schools in Western Australia, but although
+opportunity classes have been established in six schools, it does not seem that these classes are quite on the same
+scale as the opportunity or special classes in other States. In Western Australia the classes appear to be more for
+retarded and dull cases, rather than mental deficients.
+To revert to the two special schools in Victoria, namely, Bell-street and Montague —during the sixteen years
+the former has been in operation and fourteen years in the case of Montague, there have passed through Bell-street
+384 boys and 182 girls, making a total of 556, and through Montague, there have passed 216 boys and 88 girls,
+making a total of 304.
+The question arises as to which is the better method —special schools or special classes. It is obvious that
+special classes will be more economical in more sparsely settled districts, but everything appears to point to the
+greater value of the special school from the point of view of efficiency. It should be pointed out that backward and
+defective children vary and require classification just as normal children do, and that teachers will have to deal
+individually wirh children of different grades of understanding. Moreover, in a special school there will be an economy
+in the use of necessary equipment and material, and again, in special schools better opportunities will arise for
+instruction in manual and vocational training.
+
+
+TABLE B (1).
+Number op Mental Defectives in State Mental Hospitals.
+Age Group.
+New South
+Wales.
+Victoria.
+Queensland.
+South
+Australia.
+Western
+Australia.
+Tasmania.
+Total.
+Males.
+Class (a). — Idiots.
+Under six years
+12
+7
+2
+1
+22
+Between six and fourteen years
+46
+23
+9
+2
+16
+3
+99
+Over fourteen years ..
+176
+49
+38
+20
+17
+15
+315
+Total
+234
+79
+47
+22
+35
+19
+436
+I
+Class (6). — Imbeciles.
+Under six years
+8
+2
+10
+Between six and fourteen years
+34
+38
+3
+2
+4
+4
+85
+Over fourteen years . .
+519
+327
+87
+58
+32
+44
+1,067
+Total
+561
+367
+90
+60
+36
+48
+1,162
+Cl
+ass (c).- — Fe
+eble-Minded Persons.
+Under six years
+1
+1
+Between six and fourteen years
+5
+5
+Over fourteen years ..
+121
+36
+42
+5
+204
+Total
+127
+36
+42
+5
+210
+Class (d).-
+—Moral Deficients.
+Between six and fourteen years
+1
+1
+2
+Over fourteen years ..
+46
+17
+3
+3
+1
+4
+74
+Total
+46
+18
+4
+3
+1
+4
+76
+All Classes.
+Under six years
+21
+9
+2
+1
+33
+Between six and fourteen years
+85
+61
+12
+4
+20
+7
+189
+Over fourteen years ..
+862
+429
+170
+81
+55
+63
+1,660
+Total
+968
+499
+182
+85
+77
+71
+1,882
+I
+"emalbs.
+Class (a). — Idiots.
+Under six years
+8
+9
+1
+18
+Between six and fourteen years
+40
+32
+12
+7
+3
+94
+Over fourteen years . .
+155
+59
+9
+ie
+7
+12
+258
+Total
+203
+100
+21
+16
+15
+15
+370
+Class |
+b). — Imbecii
+es .
+Under six years
+8
+3
+11
+Between six and fourteen years
+25
+17
+2
+i
+2
+47
+Over fourteen years .. ...
+355
+272
+40
+44
+31
+53
+795
+Total
+388
+292
+42
+45
+31
+55
+853
+Class ( c ). —Fe
+eble-minded
+Persons.
+Under six years
+2
+2
+Between six and fourteen years
+2
+1
+3
+Over fourteen years ..
+97
+52
+25
+174
+Total
+101
+53
+25
+179
+i
+Hass (d). — Moral Deficients.
+Over fourteen years ..
+21
+5
+1
+i
+••
+10
+37
+All Classes.
+Under six years
+18
+12
+1
+31
+Between six and fourteen years
+67
+50
+14
+1
+7
+5
+144
+Over fourteen years ..
+628
+388
+75
+60
+38
+75
+1,264
+Total
+713
+450
+89
+61
+46
+80
+1,439
+Males
+AND FbMAI
+ES.
+Grand Total
+1,681
+950
+272
+146
+123
+151
+3,323
+
+
+TABLE B (2).
+Number of Mental Defectives in Other Institutions.
+Age Group.
+New South
+Wales.
+Victoria.
+Queensland.
+South
+Australia.
+Western
+Australia.
+Tasmania.
+Total.
+Males.
+Class (a). — Idiots.
+Under six years
+2
+2
+3
+Between six and fourteen years
+14
+7
+21
+Over fourteen years . .
+2
+1
+12
+15
+Total
+18
+3
+22
+43
+Class (
+b). —Imbecil
+ts.
+Under six years
+12
+1
+1
+44
+Between six and fourteen years
+98
+9
+9
+116
+Over fourteen years ..
+1
+24
+6
+23
+5
+1
+60
+Total
+I
+134
+7
+33
+14
+1
+190 •
+C
+1 1
+'ass (c). — Feeble-Minded Persons.
+Under six years
+1
+13
+2
+2
+5
+1
+24
+Between six and fourteen years
+17
+125
+5
+21
+38
+2
+208
+Over fourteen years ..
+34
+86
+32
+47
+22
+7
+228
+Total
+52
+224
+39
+70
+65
+10
+460
+Class ( d).—
+-Moral Defi
+dents.
+Between six and fourteen years
+1
+3
+5
+9
+Over fourteen years ..
+3
+4
+3
+10
+Total
+4
+4
+6
+5
+19
+' Females.
+Class (a). — Idiots.
+Under six years
+1
+2
+3
+Between six and fourteen years
+7
+11
+18
+Over fourteen years ..
+3
+4
+2
+16
+25
+Total
+3
+12
+2
+29
+46
+Class (b ). — Imbeciles.
+Under six years
+3
+2
+5
+Between six and fourteen years
+5
+44
+10
+1
+60
+Over fourteen years . .
+45
+3
+6
+19
+73
+Total
+50
+50
+6
+31
+1
+138
+Cl
+ass (c). — Feeble-Minded
+Persons.
+Under six years
+7
+1
+1
+1
+1
+11
+Between six and fourteen years
+15
+67
+2
+17
+9
+10
+120
+Over fourteen years ..
+160
+80
+14
+51
+7
+3
+315
+Total
+175
+154
+17
+69
+17
+14
+446
+Glass (d).—
+-Moral Defi
+dents.
+Between six and fourteen years
+3
+3
+Over fourteen years ..
+8
+6
+1
+15
+Total
+8
+..
+6
+4
+18
+Males
+ind Females.
+Grand Total
+293
+592 1
+78 1
+266
+105
+26
+1,360
+STATISTICAL CONCLUSION.
+Allowing for the difference in the method of examination between New South Wales and the other States, the
+writer considers he is justified in stating the percentage of mental deficients in the whole of Australia at 2.89 per
+cent. ; this includes all classes from the deeply idiotic to the border-line cases, for whom specialized training and
+education is essential. If, however, the figures are taken as they have been returned, the percentage will be 2.12 per
+cent., and this will give a final estimate of 22,217 persons between the ages of six and fourteen years who are
+mentally deficient.
+
+
+—
+Males.
+Females.
+Total.
+New South Wales
+1,324
+1,071
+2,395
+Victoria
+2,996
+2,183
+5,179
+Queensland . .
+918
+602
+1,520
+South Australia
+1,101
+659
+1,760
+Western Australia
+485
+313
+798
+Tasmania
+672
+432
+1,104
+Total . .
+7,496
+5,260
+12,756
+With regard to school children, if Professor R. J A. Berry’s findings in the cases sent to him for investigation
+can be taken as a guide, then 60 per cent, of the returns by the teachers will be definitely defective, 20 per cent,
+doubtful and 20 per cent, normal, and it would appear reasonable to reduce the total number by 20 per cent, at
+least, and on this calculation the number of mentally defective State school children would be :
+No reduction has been made to the New South Wales figures, as they are based on medical examination and
+not on teachers’ estimates.
+It should be mentioned that these figures are based generally on the average attendance at State schools,
+which, as already stated, differs from the enrolment figures, and that the exact total number of children attending
+State schools is not known, but lies between the enrolment and the average attendance figures, hence the estimate
+for the number of mental defectives in State schools given above is below the mark.
+Note. — That the ratio of male to female mental defectives is as ten to seven, and further that the proportion
+in the country is twice as great as in the city population.
+INVESTIGATIONS IN OTHER COUNTRIES.
+The most important investigation into the subject of mental deficiency is undoubtedly that of the British
+Royal Commission which was commenced in 1904, and which published its findings in 1908. The general result of
+its inquiries showed that there were 0.8 per cent, on an average of mentally defective children throughout England
+and Wales, and 1 .24 per cent, in city areas.
+If one may be permitted to criticize such a monumental wnrk, one might with justice hazard the opinion that
+the percentage of feeble-minded was under-estimated. For example, Dr. Francis Warner, of the Royal Sanitary
+Institute, London, in a six-years’ investigation examined 100,000 children. He concluded that 1.6 of his first series
+and 0.88 of his second series needed special care and training. His inquiries, however, went further, and he
+investigated the question of dullness or retardation and found that this was 6 per cent, higher, and he believed that
+such a degree of dullness warranted special educational provision other than that to be found in an ordinary school.
+Again, in England a Departmental Committee of the Board of Education examined 150,000 children in
+Birmingham, and a similar number in Manchester, and found a percentage of 1.12 in Birmingham and 1.24 in
+Manchester, who could be regarded as definitely mentally deficient.
+In Switzerland, an investigation of 490,252 school children revealed 7,667 cases who w r ere mentally enfeebled,
+that is to say, 1.5, and this figure excluded idiots and low grade imbeciles ; whilst another 6,000 children were
+regarded as dull and in need of special class work.
+These figures are supplied merely to contrast with those presented in this report.
+INQUIRY IN AUSTRALIA.
+Following the meeting of the Australasian Medical Congress in Sydney in the year 1911, a Committee was
+formed to report on the extent of mental deficiency in this country. The object of the campaign was to educate
+the public and various Governments and to attempt something in the shape of a census. This was undertaken in
+each of the States separately and a general report was presented to the Congress meeting in Auckland, New Zealand,
+in 1914.
+The difficulties which have arisen in the present survey were experienced even to a greater extent in that
+undertaking. New South Wales withheld its returns, and none were available from Western Australia and New
+Zealand ; but in Victoria, out of an approximate population of 230,000, 1,162 were regarded as definitely feeble-
+minded, and 3,500 were regarded as dull. In South Australia, out of 55,000 children attending the State schools,
+550 were regarded as definitely feeble-minded and 1,800 as mentally dull. In Tasmania, out of 20,000 attending the
+State schools, 125 were returned as feeble-minded and 547 as undoubtedly dull.
+A subordinate return on the question of the educability of children not attending school showed that there
+were 229 children who were regarded as defective but educable, and 247 who were non-educable.
+The reason given for the defection in the matter of the returns from New South Wales was said to be due to
+the following facts :
+(1) That the number of “ mentally dull ” children in the public school returns was abnormally large as
+compared with other States of the Commonwealth, and was presumed to be exaggerated by the
+■teachers, owing to their minds being perplexed by recent State inquiries relative to retardation.
+(2) When the school classes, in which these alleged “ mentally dull ” and feeble minded children appeared,
+were scrutinized, it was found that in many instances a child was marked mentally dull or even
+feeble-minded when he was actually in a school class whose average age exceeded his.
+
+
+FINAL SUMMARY OF WORK DONE FOR YEAR 1927-1928.
+(1) At Clinic —
+Individuals.
+1927.
+Individual examinations and treatments .. . . .. 350
+1928.
+412
+Medical examinations
+.. 83
+186
+Total attendances (Medical)
+.. 102
+243
+Psychiatric examinations
+.. 60
+50
+Total attendances (Psychiatric)
+.. 72
+75
+Interviews, parents, guardians, &c.
+.. 214
+305
+On the other hand, in Victoria, Dr. Harvey Sutton investigated se\eral schools subsequent to the census taken
+at that time in order to check the figiires. He found in practically every instance that the teachers had under-stated
+the prevalence of intellectual defect, often by 50 per cent.
+This may be taken as a very striking commentary on the figures which the writer has received from New
+South Wales, as contrasted with figures resulting from the more thorough investigations undertaken in all the
+Southern States, particularly in Victoria, South Australia and Tasmania.
+The difference between the returns from New South Wales and the other States is explained by the fact that
+the examiners in New South Wales have classified their cases into —
+(а) Definitely mentally deficient.
+(б) Probably mentally deficient.
+(c) Suspicious cases (very retarded, &c.).
+It is conceivable that these definitions do not accurately coincide with those which' have been selected for
+the purposes of this inquiry, and which are seh out in the form printed in the Appendix attached to this report.
+RECENT INVESTIGATIONS INTO EXTENT OF MENTAL DEFICIENCY IN AUSTRALIA.
+Victoria.— lt is desirable that reference should be made in this report to the inquiry which has been undertaken-
+by the Anatomy Department of the University of Melbourne.
+Professor R. J. A. Berry and his staff, together with Mr. S. D. Porteus of the department of Education,
+commenced in 1917 to examine school children with two objectives :—(1) to ascertain the normal brain growth in
+the living boy and girl from six years of age into the third decade of life, and (2) the association of this physical
+growth with mental deficiency. At that time some 10,000 school boys and girls were examined, and several valuable
+publications have been issued setting out the results of this inquiry. '
+Of more recent years, the actual inquiry into mental deficiency has been assisted by grants of money made by
+the Edward Wilson Trust. A series of tests were devised and carried out by Professor Berry and his colleagues, and
+the following factors were investigated : —the cubic capacity of the brain, the standing and sitting stature, the
+weight, grip, and vital capacity. To these were added the Binet-Simon and Porteus intelligence tests.
+The result of this elaborate research was to create a standard whereby the children and individuals tested could
+be correctly classified with respect to their physical growth, mentality, education, and attainments, and this standard
+proved to be of extreme value in the work subsequently undertaken by Professor Berry and his assistants in the
+examination of a large number of suspected abnormals. No less than 1,541 cases were brought before the investigators,
+and 1,280 of these were submitted to a complete and full examination. The results show that 742 cases were diagnosed
+as mental defectives, 266 cases were placed in a deferred diagnosis group, and 270 cases were returned as normal. It
+may be assumed that 60 per cent, of the cases were feeble-minded, 20 per cent, were border-line cases, and a further
+20 per cent, were of normal intelligence.
+The majority of these examinations were undertaken at a clinic which had been established at the request of
+the Honorary Medical Staff by Professor Berry at the Children’s Hospital, but clinics were also functioning to a less
+extent at the Melbourne Hospital and at the North Melbourne Children’s Court, and for a time at the Children’s
+Welfare Depot, Royal Park.
+The co-operation of the medical man and the educationalist proved to be of the greatest value, and furthermore,
+the appointment of a social worker who could investigate the home conditions of the child was also of value in
+determining what could be done for the case under review.
+The results of this valuable inquiry clearly demonstrated how necessary it is to establish a Psychological Clinic
+in each State ; whether it is to be known as such or under the name of “ Child’s Guidance Clinic ”, does not
+particularly matter ; or whether it should be wholly attached to the Education Department or to the Children’s
+Court, or some other Branch of the Public Service is immaterial, so long as a clinic is established which will have the
+power of co-ordinating the work of the various Departments interested in this subject.
+Western Australia. —The next development in this direction to which it is necessary to make reference is that
+of the State Psychological Clinic of Western Australia. In July, 1926, the Health Department of Western Australia
+established a State Psychological Clinic in the Observatory Buildings, and Miss Ethel T. Stoneman, M.A., who was
+also a lecturer in Psychology in the University, was appointed to the position of Director, who has the advantage of
+collaboration with the Chief Medical Officer of the Children’s Hospital and the Inspector-General of the Insane.
+Cases are sent for examination from the Education Department and various institutions, and quite a considerable
+number of cases come privately to the Clinic. Examination has been made of certain prisoners, and Miss Stoneman
+has re-standardized tests which she considers to be peculiarly adaptable to the needs of the children of Western
+Australia.
+In her report for the year 1927-28 Miss Stoneman summarizes the work which has been done by her in the
+way of examining the children brought before her. It may be as well to give a summary of her work from her report: —
+
+
+(2) Education Department —
+Individuals.
+1927. 1928
+Individuals examined (group tests)
+Additional measurements —
+.567 .. 380
+Thomas Street
+65
+Perth Boys’ and Girls’
+. . 160
+Maylands Senior
+, .. 145
+370
+370
+Heredity. —In Cases Admitted during
+the Past Five Years.
+Insanity.
+Nervous Instability.
+Physical Disability.
+Alcoholic Excess.
+No
+Syphilis.
+hereditary
+Totals.
+—
+disability
+Both
+Father’s
+Mother’s
+Both
+Father’s
+Mother’s
+Both
+Father’s
+Mother’s
+Both
+admitted.
+Side, j Side.
+Sides.
+Side.
+Side.
+Sides.
+Side.
+Side.
+Sides.
+Side.
+Side.
+Sides.
+Males
+5 I 10
+4
+2
+8
+4
+2
+2
+7
+2
+3
+2
+1
+95
+147
+Females ..
+2 I 4
+* 1 4
+3
+4
+7
+2
+1
+2
+3
+1
+1
+57
+87
+As a result, Miss Stoneman recommends the establishment of homes for defectives, farm colonies, &c., and
+special provision for epileptics, inasmuch as the proportion of cases needing special care and attention amongst those
+she has examined is high. In her report, Miss Stoneman states that in a total of 1,229 children in various schools,
+there was a proportion of 2.5 per cent, whose I.Q. was below 70, and that the percentage of mental defect, more
+serious than that indicated by an I.Q. of 70 per cent., was 1.8, but this figure excludes all low grade imbeciles, idiots,
+and all defectives who are still further handicapped by major epilepsy. The number of such cases would probably
+add .58 to the index. Miss Stoneman goes on to say that, as the total school population of Western Australia
+comprises some 52,900 children, the number of defective individuals for whom special education is urgently necessary
+is about 1,500, and she makes the pertinent query —“ How long is the progress of about 50,000 normal boys and girls
+to be delayed and impeded by the attempt to force 1,500 handicapped children to do the impossible ? ”
+New Sout}> Wales. —In this State what virtually amounts to a State Psychological Clinic has been established
+in connexion with the Children’s Court, which is presided over by a Police Magistrate (Mr. Fincham), who devotes
+the whole of his time to this class of work. He has the assistance of the Medical Officers of the Education
+Department, as well as Educationalists who have had psychological training ; he has also at his behest the assistance
+of social workers who belong to the Clinic, which is actually an activity of the Crown Law Department.
+Associated with the Clinic is a shelter, and in the year 1927 there were as many as 2,564 admissions, and it
+appears that the numbers are growing year by year. This shelter finds accommodation for as many as 55 boys who
+are under the observation of the Court. They are detained there whilst their mental and physical condition is
+investigated, as well as their home environment and their past record.
+There is a smaller shelter for girls, but it is at some distance from the Court, which also controls a small farm
+school for truant boys.
+The procedure of this Court seems to be most efficient, and well worthy of re-duplication in the other States.
+Mr, Fincham estimates that 4 per cent, of the children presented at the Court are mentally deficient.
+THE CAUSATION OF FEEBLE-MINDEDNESS.
+This condition rnav be simply described as a failure in brain development, and the causes of such failure are
+many, but the principal of them are :
+(a) An inheritance from neuro-pathic or psycho-pathic progenitors, which would be accentuated by a
+con-sanguineous marriage. The mating of a normal parent with a feeble-minded one will most probably produce
+some degree of feeble-mindedness in some of the offspring, but where two feeble-minded persons mate, it is practically
+certain that all their descendants will also be feeble-minded.
+Tredgold claims to find such an inheritance as a factor in 80 per cent., which denotes a very close and searching
+inquiry into the families of his patients.
+Dr. Eyan, of the Children’s Cottages, Kew, submits the following table of his inquiries recently made into
+this subiect; —
+The column “ Nervous Instability ” is the result of personal contact with the parents ; if one extended it to
+other relatives, the figures would be higher.
+“ Physical Disability ” includes Cancer, Phthisis, Heart Disease, &c., occurring in more than one of the patients’
+antecedents.
+(6) A tubercular history is said to be very common in the genealogical tree of many mentally deficient
+individuals, but there are in Australia no very definite statistics which will demonstrate this statement.
+(c) Alcoholism is frequently stated to be a cause of mental deficiency, and cases are on record showing that
+children pro-created during a period of an alcoholic debauch are likely to be deficient.
+(i d ) The influence of syphilis is probably of more importance from the hygienic stand-point than any other cause
+or factor. An inquiry by the late Dr. W. A. T. Lind, of Victoria, into the causation of epilepsy revealed the fact
+that the lower grade imbeciles who were also epileptic very generally exhibited post mortem changes which were
+almost certainly syphilitic. He further observed that a positive Wasserman reaction was obtainable in almost 50 per
+cent, of the children admitted to the Cottages for mental defectives at Kew, provided that the Wasserman was taken
+sufficiently early in life ; but a report by Dr. Ryan, from the same institution, shows only 48 positive reactions in
+a succession of 2fo cases.
+In connexion with the State Psychological Clinic at Perth, Dr. J. Bentley, Inspector-General of the Insane
+for Western Australia, stresses the necessity for the examination of the blood in the case of all mental defectives sent
+to the Clinic.
+
+
+The Lunacy Department of New South Wales has conducted an inquiry into the blood condition of 1,652
+mentally defective persons scattered through the various institutions in that Department. A plus Wasserman
+reaction was returned in 40 cases who were also epileptic, and 123 cases who were not epileptic ; 27 other cases were
+returned as being indefinite.
+Roughly speaking, it may be stated that 10 per cent, of the cases who are permanently segregated in the
+New South Wales State Hospitals as mental deficients owe their defect to a syphilitic inheritance. Unquestionably
+with the lower grade cases the proportion would be very much higher.
+(e) Encephalitis Lethargica.—Whilst it was extremely unlikely that there would be the same number of cases
+affected in Australia as appears to have been the case in the Old World, it was thought advisable to find out to what
+extent this disease was responsible for admissions to State institutions. It must be remembered that in Great Britain
+so many cases exhibiting mental deterioration and defect occurred as a result of the wide-spread nature of the epidemic,
+that it was necessary to establish special institutions for their reception and care. Indeed, an amendment in Bills
+before the British Parliament of the definition of “ Mental Defective ” was projected, and in the opinion of the
+writer, very unwisely so, in order that cases of weak-mindedness and other mental abnormalities due to this
+infection might be brought within the scope of the Act. It would appear to bring many cases of Dementia Praecox
+into the category of mentally defective persons.
+Inquiries were made in the various States, and in Queensland, South Australia, and Tasmania, there were no
+replies showing that the condition was sufficiently wide spread to merit any special attention ; but in Western Australia
+Dr. Bentley had reported several cases in the Australia Medical Journal, and he gave it as his opinion that there were
+still further cases, but unrecognized. In New South Wales the Metropolitan General Hospitals had knowledge of some
+150 cases diagnosed as due to Encephalitis Lethargica, but there was very little definite information obtainable as to
+what became of these cases. It was considered that some 20 to 30 might have found their way into the mental
+hospitals, but quite a large proportion of the number originally recognized were said to have died. In Victoria the
+same condition of things exists, but possibly to a less extent. There are in the State Hospitals for the Insane at the
+present time not more than half-a-dozen cases whose causation could be said to be due to Encephalitic Lethargica ;
+but the Board of Health reports the notification in 1926 of 18 cases, of 13 cases in 1927, and 23 in 1928 ; 35 were
+notified in the metropolitan area, and 19 from country districts. There is, however, no attempt made to follow up
+these cases by the Department at present, but it is anticipated that this work will be undertaken.
+(/) Hook Worm.—Whilst in Queensland the question was raised as to whether this disease could be regarded
+as one producing mental deficiency, Dr. R. W. Cilento obtained a report on this matter, and from this it would appear
+that, whilst it was certain that hook worm infection would produce retardation, it was also practically certain that
+it would not be the cause of definite mental deficiency. Doubtless many mental defectives have been affected by
+hook worm, but the probability is that their mental deficiency would render them prone to hook worm infection.
+(g) There are other causes of less importance, in so far as they act less frequently, such as mental derangement
+occurring in the pregnancy of the mother, abnormal labour, post natal convulsions, and nutritional defects in early
+infancy.
+If one accepts this very simple statement on causation, the question next arises as to what steps should be
+taken to prevent these causes from continuing to be reproductive in our nation. Very wide and important social
+problems arise, but the following active steps appear to be indicated :
+(1) The detection and segregation of the mentally deficient person, with arrangements for their appropriate
+training and guardianship.
+(2) Sterilization of the unfit.
+(3) Legislation on the marriage problem by which only those individuals who are fit mentally and physically
+to enter into wedlock should be permitted to do so.
+(4) The elimination of syphilis from the community.
+(5) The prohibition of alcohol, or at least, the enforcement of laws providing for its use rather than its
+abuse.
+RECOMMENDATIONS.
+(a) Psychological Clinics.—The writer. desires to recommend that in each State a Psychological Clinic
+should be established for the examination of all mentally defective children and young adults. The Clinic should
+comprise a Medical Practitioner, who is experienced in diseases of children, an Educationalist, who has had
+psychological experience training, and a Medical Practitioner with experience in psychiatry, and a staff of social
+workers. The best way to make the Clinic efficient is to attach it to a Children's Court.
+The establishment of residential schools for high grade mentally defective children, who, on admission, should
+not be more than twelve years of age, or less than five. Such children, if they exhibit possibilities of improvement
+by the special character of education undertaken in such residential schools, could remain until they were seventeen
+or even eighteen years of age. Glenfield, in New South Wales, is a type of school of this character.
+In addition to these residential schools, the special day schools, such as Bell-street and Montague in Victoria,
+should be continued, and where it is impossible to establish such day schools, the special or opportunity classes
+functioning in so many of the ordinary State schools, principally in Victoria and South Australia, should be continued.
+Residential colonies for adults, who are capable of a certain amount of manual, industrial, and domestic training.
+These colonies would necessarily be in the country, and they should be used for the permanent segregation of those
+cases who are not suitable subjects for guardianship outside an institution.
+A system of boarding out, or guardianship, should be undertaken, and it should be worked in conjunction with
+the residential colonies.
+Special blocks for hopeless idiots will require to be provided, as is the case at present in connexion with the
+State Hospitals for the Insane, failing the establishment of special institutions to accommodate all mental defectives.
+(b) The British attitude to the question of sterilization may be considered a conservative one, but it is based
+on a genuine belief that it is not likely to be generally effective, and not infrequently ill results to the individual will
+
+
+follow, and that, although many individuals with mild degrees of defect, and who are not immediately in need of
+preferab] ) e na dang6r in the matter of procreation, segregation and guardianship are infinitely
+In America, however, sterilization has been placed on the statutes of many States, principally in California •
+nut it would seem that in most of the States the practice is being discontinued.
+Quite recently in New Zealand the Department of Health conducted an inquiry into the.question of mental
+detectives and sexual offenders, and sterilization was investigated. A Committee appointed for this purpose advised
+that the information at present available was inadequate to permit of a sound and final judgment as to the value
+of the procedure. •
+The writer considers that sterilization will never be resorted to in any of the countries of the British Empire
+until the economic pressure, arising from the increasing burden of lunacv and mental deficiency, has become very
+much more acute than it is at the present time.
+(c) With regard to the question of the right to marry, it is interesting to note that, as long ago as 1891, the
+Oregon legislature passed a law providing that a marriage licence would not be issued to any one having communciable
+or_ contagious venereal disease, or very low mentality, unless one or both of the couple were rendered sterile. Upon
+is being referred to the voters, the law was disapproved. From that time on, and even to-day there are many
+advocates for such a drastic step. It is hardly likely that, with our present views on the liberty of the subject such
+a law will be passed and put into effect.
+[d) It would appear that the modern treatment of syphilis is having some effect. To show that this may be
+the case, the writer would draw attention to his Annual Report of the Lunacy Department for 1927, in which
+he shows that the incidence of General Paralysis of the Insane has diminished nearly one-half in Victoria during the
+last fourteen years, and the figures of that report seem to show that the fall in the numbers received into the State
+hospitals of V ictona follow the introduction of the treatment of syphilis by salvarsan and its allied remedies. He
+argues that, if this is true of General Paralysis, it will certainly be true of other syphilitic manifestations also.
+• * ! € } \ ltn ard to the United States of America is making an experiment that must be of the greatest
+interest to the whole world. Whether or not the inhibition of alcohol is going to produce a virile race, it is impossible
+to say. Jt may be worth while quoting from the results of an intensive survey which is being made by the State
+Department of Mental Hygiene in New York. Dr. Pollock' says, with regard to a demand for increasing institutional
+accommodation for mental cases, that a turning point has been reached with regard to the first admissions of those
+suffering from alcoholic psychoses. The report, he says, showed a downward trend from 1909 to 1920 • in 1921 the
+percentage began to increase and reached 7 per cent, in 1927, the highest since 1917. In 1928, however’, a significant
+rS e t: Ar r , the admisslons > both absolutely and relatively, showed a decrease, the numbers declining from
+054 to 509 and the percentage from 7to 5.9. This is a very small change about which to be optimistic.
+It would appear from the American statistics, which have been borne out by the Victorian, that during the
+war years and for a short time subsequently, there was an appreciable decrease in intemperance ; that, however
+appears not to be the case in Australia to-day. The numbers admitted to inebriate institutions and the number of
+convictions for drunkenness are increasing year by year, and without going to the length of penalizing the population
+as a whole, it appears desirable that chronic offenders in the matter of inebriety should be dealt with much more
+i nr n appears to be the case at present, and that protracted residence in penal establishments, if necessary
+should be prescribed for those in whose cases medical treatment has proved to be unavailing.
+i ■ °. rder . bat a l ust appreciation of the subject of mental deficiency by the medical profession may be
+achieved and in view of the possibility in future legislation that medical practitioners of experience in Psychology
+and I sychiatry alone may be responsible for certification, it is desirable that greater effect may be given to the teaching
+of these sublets in our various universities, and particularly to the Diploma of Psychological Medicine, which has
+been established by the University of Sydney.
+It is unlikely that such a diploma can be established in all our universities, the number of candidates coming
+vwu 'o 11 ? t 0 be Sllfficient to do more than kee P the one diploma going. Arrangements should be made
+with the Sydney University to receive graduates from Melbourne and Adelaide for an intensive course of study
+which will enable them to present themselves at the former university for this diploma.
+i .•¥ A ? d T al aB9l s tance to the States in this matter is desirable, although it may be difficult to devise a scheme
+by which such help could be given without interfering with the existing methods.
+There are 50,000 invalid pensions in force at the present time in the Commonwealth, and although there is
+no exact knowledge as to what proportion of these pensions are given to mentallv deficient persons, there is reason
+to believe that something like 10 per cent, of the pensions are given for that purpose ; and there is practically no
+method of inspection m order that the Federal Government mav discover whether the pension is being used to the
+best advantage. " °
+One might here instance the condition of things which exists in Great Britain. There, the Central Government
+contributes to the Local Government help both in the matter of mental disorders and mental deficiency. With
+regard to the former, there is an exchequer grant of 4s. per week paid for each patient who is detained in asylums
+such as are maintained by the county and borough rates. The councils of the counties and boroughs are burdened
+with the necessity of providing institutional accommodation and they are assisted by this 4s. grant in the case of
+lunatics, and 50 per cent, of the net approved cost is paid by the Central Government to the local authorities for
+carrying out the statutory duties in connexion with mental deficients.
+tbe appendix of this report is attached a statement concerning the Mental Deficiency Service in England
+and Wales, which sets forth the way in which the Mental Deficiency Acts are conducted in the Old Country.
+MENTAL DEFICIENCY AND CRIME.
+Although this subject is far too large a one to be dealt with exhaustively in this report, it would be improper
+to omit any reference to it. r r
+In the first place, it may be as well to stress the fact that mental deficients are not necessarily bad but that
+owing to their suggestibility, lack of control and foresight, they are undidv influenced by their environment and
+up-bringing.
+
+
+For years it has been realized that in the prison and reformatory population there is a considerable number
+of subnormal individuals, and that a proportion of these are definitely feeble-minded. Of the juvenile offenders at
+Pentonville, England, Dr. Parker Wilson informed the Royal Commission sitting in 1908 that about 100 prisoners
+a year were so far mentally affected as to be quite unfit for prison discipline, and that beside these, no less than
+20 per cent, of the prisoners showed mental inefficiency. Altogether 18 per cent, of the population of the prison were
+regarded as feeble-minded.
+In the Birmingham Prison, Dr. Hamblin Smith investigated 325 inmates, and he came to the conclusion that
+23 per cent, were mentally deficient and another 20 per cent, were subnormal.
+Dr. Healey of Chicago examined 1,000 young repeated offenders, and he found that 419 were below the normal
+mental status of their age, and of these 69 were definitely insane, 8 were imbeciles, and 170, i.e. 17 per cent., were
+definitely feeble-minded.
+Comparatively few systematic investigations have been made in Australia on this subject, but perhaps the
+most satisfactory investigation to demonstrate the importance of this subject will be to quote the results which have
+been arrived at in the investigation conducted by the schoolmaster at the Castlemaine Reformatory, which is as
+follows :
+The number of youths to whom the Binet Intelligence Tests at Castlemaine has been applied, now totals 362,
+and the results are as follow :
+Intelligence quotient under 70 .. .. •• ..14 per cent.
+Intelligence quotient 70to 79 .. .. •• ..21 percent.
+Intelligence quotient 80 to 89 .. .. . • ■ ■ 25 per cent.
+Intelligence quotient 90 to 99 .. . • • • 22 per cent.
+Intelligence quotient 100 to 109 .. ■. • • .. 10 per cent.
+Intelligence quotient 110 and above .. .. 8 per cent.
+This analysis shows that 35 per cent, of the inmates had intelligence quotients below 80, indicating subnormality
+in intelligence. Included in this number are many of border-fine feeble-mindedness, and others who are definitely
+feeble-minded. 14 per cent, are shown to have an intelligence quotient below 70, indicating a very low type of
+mentality. While not certifiable under the Lunacy Act, these low grade defectives constitute a problem in the
+reformatory, and help to present the results of the Board s work in an unfair light. Such a class would be excluded
+from the Borstal Institutions in England, and from reformatories like Elmira in America. They should be treated
+in separate institutions here.
+LEGISLATION IN AUSTRALASIA.
+Until quite recently the management of such cases as were definitely regarded as imbecile has either been
+left to the Lunacy Department of the various States, or else has been carried on without any legislative enactment
+whatsoever.
+Tasmania was the first State to pass an Act dealing with the mentally deficient as distinct from the insane
+person, and at the present time Bills are contemplated in New South Wales, Victoria, and Western Australia. South
+Australia and New Zealand had in operation an Act bringing all cases of mental disorder and defect under its
+provisions, but recently in New Zealand this has been amended by a special Act creating a Department of Mental
+Hygiene.
+An analogous position is found in South Africa, where a Mental Hygiene Department, under the direction of a
+Commissioner, deals with both lunacy and mental deficiency, and the report of this official deals with the question
+as though it was one and indivisible. In his last report, Dr. Dunstan emphasizes the value of the reports supplied
+by the Psychiatrists of the Department to the Education Department, and he has inaugurated surveys to determine
+the areas most retarded mentally and by intensive study to discover the causes of the retardation and suggest remedies;
+and further, to determine what number of children in each town or district requires to be taught and trained in the
+special schools or classes.
+Necessarily this work can be undertaken without any legislation, but the subsequent handling of those children
+who are found to be definitely mentally deficient is one which cannot be divorced from the powers conveyed by an
+Act of Parliament. So far as Australia is concerned, it is essential that whatever legislation is put into effect, it
+should be similar in each State, and that reciprocity between the States and their individual Departments should be
+made possible.
+
+
+APPENDICES.
+APPENDIX A.
+EXTRACT FROM THE VICTORIAN EDUCATION GAZETTE.
+Mental Deficiency.—Return to be Forwarded.
+In connexion with the investigation being carried out by Dr. W Ernest Jones, under the sent
+Commonwealth Government, to ascertain the probable amount of mental deficiency m Australi a om be g
+to every school in the State for completion by the head teacher.. For the guidance of m
+return, the following statement has been prepared. It should be read carefully m conjunction with the directions
+on the printed form :
+Preliminary Description of Mental Deficiency.- By mental deficiency is to be understood the mental <=on«Mjon
+that means that as compared with other individuals of the same age and approximately equal opportunities a given
+indivhiuaHs markedly tacking in ability to conduct h.s affairs efficiently. It is shown
+as lack of ability to master intellectual tasks, especially those of the problem type, in inability to profit by experience,
+in lack of capacity to plan ahead or to assume responsibility or to meet new situations in an mte g _ 7-
+Distinction between Mental Deficiency and other Mental Abnormalities.— Mental deficiency must be distmguishe
+from insanity and milder conditions of the same general type. Though a menta ly deficient person also have
+intellectual and emotional disturbances approaching more or less closely to those typically found in th ,j ,‘" a ■
+the exception rather than the rule to find both types of abnormality present in the one mdividuah The mentally
+deficient individual is often emotionally stable, and is rarely subject to delusions abnormal fears, and so on.
+is eccentric in his behaviour or “ queer ”in his ideas or beliefs. The insane person is often capable
+of quite good intellectual achievement, and has usually developed normally during childhood, whereas the typically
+mentally deficient individual shows marked slowness in development from birth. The msane
+are often limited to particular times and particular subjects, whereas the subnormality of the mentally dehcient
+not relieved by periods of recovery, and affects the performance of all mental tasks which really require g .
+Grades of Mental Deficiency .—lt is incorrect to think of mental deficiency as being separated by a definite
+gap from intellectual normality. It has been established that the number of individuals markedly decreases as we
+pass from normality down to the lowest degrees of mental deficiency. The drawing of the line to mark the upper
+Cts of dSe deficiency is to some extent a matter of arbitrary decision. It seems necessary, however to define
+the limits of the groups so that, for a random selection of the genera population, there will be a majority th
+cases at normal levels of intelligence, a somewhat smaller number of individuals in a group which we can call
+rather than definitely mentally deficient, and a still smaller number of cases which are
+in greater or less degree. Owing to the fact that no means of judging intelligence are infallible, there will always be
+a number of cases about whose classification we cannot feel certain. We thus speak of a group of border-line cas
+lying between dullness and definite deficiency.
+Criteria of Mental Deficiency .—I . Mental Tests—An individual who has had normal school opportunities,
+who is tested by a properly trained examiner, and whose performance on a standard test of intelligence is less tha
+seven-tenths (1.Q.70) of the performance normal for his age may be regarded as definitely mentally deficient if: from
+his general behaviour, school achievement, and so on, there seems reason to doubt his normality. This can be set
+out as follows : , n ,
+q n 7 9 .. 11 .. 14 and older
+Actual age in years .. .. 3 .. 5 .. I •• 9 J to 10
+Approximate mental age .. Z .. o 2 ■ • ° 2 2
+For example, a child of five who is mentally retarded 1 years or more, a child of eleven who is mentally retarded
+3£ years or more, and an adult whose mentality does not pass the ten-year old level, can be regarded as mentally
+deficient.
+2. Educational Achievement.-For various reasons school achievement and grading will be a less certain
+indication of mental status than are mental tests. It is extremely unlikely that a child s educational performance
+will be better than is to be expected from his intelligence, but it frequently happens that it is POOTer lrregu ar
+attendance lack of interest in school work, sensory defects, weakness in one particular subject, difficultly
+behaviour, are all factors tending to make school performance, or estimates based on it, lower than they ought to
+be If however, none of these factors are operative to any serious degree and a child s school grading, when based
+on actual performance and not on age, is two or more grades lower than is normal for his age when he is ten y
+old, or is three or more grades lower by the age of fourteen, then it can be suspected that such a child is mentally
+deficient. ,
+3 Vocational Ability.—For older individuals, failure to learn a trade, even though attempts have been made,
+and marked inability to retain a job for any length of time particularly if associated
+of ability in the conduct of his own affairs, may be regarded as evidence of mental deficiency At the same tim
+ability to give continued satisfaction in quite unskilled and routine work is not inconsistent with mental deficiency.
+I Appearance.—This is one of the least dependable criteria of mentality It is true that more bodily defects
+and peculiarities are found among the subnormal than among the normal, but neither their presence nor their absence
+can L rebed on as sole criterion in any case. Their presence can only be regarded as confirmatory of other lines of
+evidence In the one type of case where appearance is used in the diagnosis, viz., Mongolism, which is marked by
+somewhat Oriental features, short stubby fingers, Ac., the deficiency is always so marked as to be obvious on grounds
+other than appearance.
+5 General Development of Behaviour.—lt is characteristic of the mentally deficient that they are d ehmtely
+retarded in their mastery of the forms of behaviour and control common to human beings. A child who by the ag e
+of 3 1 vears has not acquired clean habits, has not commenced to walk or to talk, can be suspected of mental defect.
+Inrlne oi behaviour miy. however, be retarded by causes other than lack of intelligence, though
+
+
+—
+Below Six
+Years.
+Six to Four-
+teen Years.
+Above
+Fourteen Years
+f Grand Total—
+Male
+Female
+(fi) Number of cases of mental deficiency.
+—
+—
+Below Six
+Years.
+Six to
+Fourteen
+Y cars.
+Above
+Fourteen
+Years.
+Totals.
+(a) Extremely low mentality (idiots and low grade, imbeciles,
+sometimes found in lowest grades of schools but often
+recognized as uneducable)
+Male . .
+Female
+( b ) Definite mental deficiency (according to Criteria, but not as
+low as (a)
+Male . .
+Female
+(r) Borderdine cases (cannot decide whether merely dull or
+definitely deficient according to Criteria)
+Male ..
+Female
+N.B. — In cases where there is a school within an institution guard against overlapping in returning cases.
+very rarely beyond the age of four in cases where the physical organs and senses are normal. In the lowest grades
+of mental deficiency speech is never developed. In many cases of higher, but still quite marked defect the deficiency
+could never be detected from ordinary conversation ; in some cases there may be a glibness which even gives an
+appearance of brightness. It should be noted that good and even remarkable powers of rote memory are not
+inconsistent with recognizable mental defect. On the whole, mental deficiency is accompanied by slightly less than
+average ability with the hands, but marked manual ability in work in which the demands are muscular rather than
+intellectual is at times found in cases of mental deficiency.
+APPENDIX “B.”
+FORM FOR RETURN RELATING TO MENTAL DEFICIENCY (IN STATE SCHOOLS).
+Suggested mode of procedure in compiling return (particularly in schools) :
+(1) Select for consideration children whose educational performance is very definitely below average {see
+para. 2 of Criteria of Mental Deficiency, p. 190, Education Gazette , August, 1928).
+(2) Consider in each such case whether the child’s educational standard may have been adversely affected
+by ill-health, irregular attendance, &c., and if this seems likely and there is no other evidence of
+mental defect, do not include such cases.
+(3) If mental tests results are available, see whether each case to be considered falls below the limits
+suggested in para. 1 of the Criteria.
+(4) In cases where applicable, inquire into vocational efficiency as suggested in para. 3 of the Criteria.
+(5) If mental tests and school records are not available, consider general development as indicated in
+para. 5 of the Criteria.
+(6) “ Problem ” (disciplinary) cases should not be included unless there is sufficient evidence on other
+grounds that mental deficiency is present.
+Any individuals thus retained should be grouped as well as possible under the classifications indicated below :
+(1) Name of school or institution
+(2) Address of same
+(3) Name and status of person supplying information
+(4) Nature of institution (underline appropriate description, or add) —
+School, ordinary, for M.D., for delinquents, for physically defective, for orphans or neglected, for
+deaf, for blind, for epileptic
+Institution for delinquents, for sick, for aged and infirm, for neglected, for deaf, for blind, for
+epileptic.
+(5) Total number of individuals in school or institution (indicating age and sex).
+
+
+Below Six From Six to
+Years. Fourteen Years.
+Above Fourteen
+Years.
+Totals.
+Of Whom were
+Epileptic.
+Male
+Female .. .. .. . . J
+i
+Grand Total
+Total Number of Mentally Deficient Persons.
+—
+Below Six
+Years.
+From Six to
+Fourteen Years.
+Above Fourteen
+Years.
+Totals.
+Of Whom were
+Epileptic.
+(a) Idiots ..
+( b) Imbecile*
+(c) Feeble-minded Per-
+sons
+(d) Moral Deficients ..
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Grand Total
+APPENDIX “C.”
+MENTAL DEFECTIVES.
+VICTORIA.
+On behalf of the Commonwealth Department of Health, and with the sanction of the Ministers concerned in
+this State, a return of the number of mentally deficient persons is asked for from all institutions such as mental
+hospitals, State hospitals (benevolent asylums), orphanages, epileptic homes or colonies, blind, deaf and dumb
+institutions, reformatories, or special homes for young offenders, schools for backward and defective children, &c.,
+in the Department of the Ministers concerned. The return should be completed within fourteen days from receipt
+and forwarded in duplicate to the office of the Inspector-General of Insane, Old Treasury Buildings, Spring-street,
+Melbourne.
+Ofiicers-in-charge making the returns are requested not to include cases of insanity such as dements, but only
+those cases who betray defect of mental development from birth or from a very early age in accordance with the
+definitions set out hereto.
+Name of institution
+Nature of institution
+Address of same
+Name and office of person making the return
+Total Humber of all Inmates, both Normal or Sub-normal, of the Institution, indicating Sex and,
+if possible, Age.
+DEFINITION OF DEFECTIVES.
+The following classes of persons who are mentally defective shall be deemed to be defectives for the purposes
+nis return ;
+(a) Idiots. —That is to say, persons so deeply defective in mind from birth or from early age as to be unable
+to guard themselves against common physical dangers.
+(h ) Imbeciles. —That is to say, persons in whose case there exists from birth or from an early age mental
+defectiveness not amounting to idiocy, yet so pronounced that they are incapable of managing
+themselves or their affairs ; or, in the case of children, of being taught to do so.
+(c) Feeble-minded Persons. —That is to say, persons in whose case, there exists mental defectiveness which,
+though not amounting to imbecility, is yet so pronounced that they require care, supervision and
+control for their own protection or for the protection of others or, in the case of children, that they
+appear to be permanently incapable by reason of such defectiveness of receiving proper benefit
+. from the instruction in ordinary schools.
+(i d) Moral Defectives. —That is to say, persons in whose case there exists mental defectiveness coupled
+with vicious or criminal propensities and who require care, supervision, and control for their own
+protection or for the protection of others.
+
+
+APPENDIX “D.”
+MENTAL DEFICIENCY SERVICE IN ENGLAND AND WALES.
+The statutory basis is the Mental Deficiency Acts, 1913 to 1919. The Act of 1913, which was passed as a
+result of the recommendations of the Royal Commission on the Care and Control of the Feeble-minded, makes
+“ further and better provision for the care of the feeble-minded and other mentally defective persons ”.
+The central authority is the Board of Control, in which the Lunacy Commission (the central authority for
+lunacy) was merged on the passing of the Act of 1913. Subject to the general supervision of the Minister of Health,
+the Board is charged with the general superintendence of matters relating to the supervision, protection, and control
+of defectives, including the administration of the Government Grant, the certification and approval of institutions
+and the management of State institutions for defectives of dangerous or violent propensities.
+The local authorities are County or County Borough Councils (or combinations thereof). They exercise their
+duties and powers either through, or on the report of, committees constituted by themselves under conditions
+prescribed by the Act.
+The local authorities’ duties relate to mentally defective persons who come within section 2 (1) (6) of the Act.
+In brief these persons are defectives :
+(i) found neglected, abandoned or without visible means of support, or cruelly treated ; or
+(ii) found guilty of any criminal offence ; or
+(hi) detained in prisons, reformatory and industrial schools, lunatic asylums, or criminal lunatic asylums ;
+or
+(iv) habitual drunkards ; or
+(v) notified by the Education Authority, viz., ineducable children between the ages of seven and sixteen
+and children about to leave residential special schools at age sixteen who require continued detention ;
+or
+(vi) unmarried mothers in receipt of poor relief at the time of pregnancy or confinement.
+The local authorities are enjoined to “ ascertain ” these defectives and to provide suitable supervision (i.e.
+home visitation or training at centres) ; and to provide institutional care or guardianship (i.e., care by a specially
+appointed person) for defectives in whose cases an order of detention has been made. This order, which can only
+be made if the defective comes within section 2 (1) (6), is made by the Home Secretary, or a Criminal Court, or a
+judicial authority, as the case may be.
+These duties only arise if a Government Grant of not less than one-half the net cost, as approved by the Board,
+is forthcoming.
+In view of the present financial stringency, the provision of institutional care is, by departmental action,
+restricted to such of the above-mentioned classes as come within the Board’s definition of “ urgent ” cases. Moreover,
+the Board are unable, save in every exceptional circumstances, to approve any fresh schemes involving capital
+expenditure for the provision of institutions by local authorities.
+Local authorities also have permissive powers enabling them to pay, or contribute towards, the expenses of
+providing institutional care or guardianship for defectives not coming within section 2 (1) (6). Expenditure in respect
+of the exercise of permissiveppo r ers does not rank for Government Grant.
+The duties of ascertainment and supervision are carried out by local authorities under approved schemes
+either by existing officers or by specially appointed officers. In many instances voluntary societies, aided by grants
+from the local authorities and the Board, give valuable assistance in this work. Institutional care is provided either
+(a) in “ local authority ” institutions, i.e., institutions established and maintained by local authorities alone or in
+combination ; or (6) in “ contract ” institutions, i.e., institutions provided by voluntary bodies or Poor Law
+Institutions in which accommodation for defectives has been specially approved by the Board.
+The extent to which local authorities are carrying out their duties varies considerably owing largely to war
+and post-war conditions, which have restricted the establishment of institutions by local authorities.
+The Central Authority, through the administration of grants, approval of schemes, contracts, plans, and
+estimates, certification of institutions, and local visitation, exercises a close supervision and control over the work
+of local authorities.
+Expenditure is controlled by the submission of schemes and annual estimates. Rates of charge at “ contract ”
+institutions are regulated by contracts which are approved by the Minister of Health on the advice of the Board ; and
+the expenditure in respect of “ local authority ” institutions is closely scrutinized and checked by costings and by local
+visitation.
+Inquiry is made in every case to secure that, wherever practicable, a contribution towards the cost of maintaining
+defectives in institutions or under guardianship is obtained from the defective or from any person liable or willing
+to contribute.
+The Board have established a State Institution for dangerous or violent defectives at Rampton. The institute
+accommodates 368 patients. Pending the provision of additional beds, a block at Warwick Prison, formerly ■
+for inebriates, is being utilized for 42 female patients.
+The approximate total number of defectives in respect of whom local authorities had, or were likely to .
+obligatory duties on the 31st December, last, was :
+Under supervision .. .. .. .. .. .. .. ~ 10,700
+In institutions .. .. .. .. .. .. .. .. 10,100
+Under guardianship .. .. .. .. .. .. .. 350
+21,150
+Action not yet taken .. .. .. .. .. .. .. 3,750
+Under consideration .. .. .. .. .. .. .. 3,350
+Total number “ ascertained ” .. .. .. .. .. .. 28,250
+These figures do not include “ permissive powers ” cases (175) or cases chargeable to Education Authorities,
+Poor Law Authorities, or private persons.
+Although there is no trustworthy information as to the total number of “ defectives ” in the country to-day,
+the Board estimate the number to be not less than 40,000.
+Authority; H. J. Green, Government Printer, Canberra.

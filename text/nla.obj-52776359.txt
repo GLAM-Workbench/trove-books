@@ -1,0 +1,881 @@
+
+
+THE BRITISH ACADEMY
+THE ANNUAL SHAKESPEARE LECTURE
+1924
+The Disintegration of
+Shakespeare
+BY
+E. K. Chambers, C. B., Hon. D.Litt.
+London
+Published for the British Academy
+By Humphrey Milford, Oxford University Press
+Amen House, E.C.
+
+
+
+
+ANNUAL SHAKESPEARE LECTURE, 1924
+THE DISINTEGRATION OF SHAKE-
+SPEARE
+BY E. K. CHAMBERS, C. B., Hon. D.Litt.
+Read May 13, 1924
+The rock of Shakespeare’s reputation stands four-square to the
+winds of Time. But the waves of criticism beat perpetually about
+its base, and at intervals we must stand back and re-affirm our
+vision of the structural outlines. It is perhaps in itself a tribute
+to the wide appeal df the poet that so much of what is written about
+him is ill-informed and ill-balanced. Small minds are caught by,
+and fail to comprehend, that greatness and that variability. Hence
+the scouring of the Dictionary of National Biography for an
+alternative author, preferably aristocratic, of the plays. With these
+paradoxes I do not propose to concern myself. Doubtless they
+should be refuted, that the people be not deceived, but the task
+must be left to some one with a better temper for the patient
+anatomizing of human follies. This is but the spindrift on the face
+of the rock.
+I propose to consider certain critical tendencies which, in their
+extreme manifestations, offer results hardly less perturbing than those
+with which the Baconians and their kin would make our flesh creep.
+This is the argument. Here are thirty-six plays handed down .'is
+Shakespeare’s. You can put them in approximate chronological
+order, and arrive at a conception of the author’s trend of develop-
+ment, both in mental outlook and in habits of diction and versifi-
+cation. But a closer analysis often reveals the co-existence in one
+and the same play of features belonging to different stages of the
+development, and sometimes of features which it is difficult to place
+in the line of development at all. Moreover, an examination of the
+texts shows such eccentricities and dislocations as to raise a doubt
+whether they can have come to us just as Shakespeare left them.
+Tracing these clues, our critics arrive at three results, on which
+xi 1 t
+
+
+varying degrees of stress are laid. Firstly, the extant texts, many
+of them not printed until several years after Shakespeare’s death,
+have often been altered or abbreviated by other hands. Secondly,
+Shakespeare revised his plays, and the extant texts sometimes
+contain fragments of different recensions, in juxtaposition or overlay.
+Thirdly, the process of revision hy Shakespeare was not con lined to
+his own work; he also rehandled the work of other men, and left
+some or much of it standing in the texts. And if you ask how far
+this process of revision went, and whether it seriously qualifies the
+accepted Shakespearian authorship of the plays, you do not get
+reassuring answers. One man will tell you frankly that in many
+plays which you thought characteristically Shakespearian— Richardll,
+Henry V, Julius Caesar, for example—Shakespeare’s part was quite
+subordinate. Another will fence with the issue, and explain that the
+conception of individual authorship is nut altogether applicable to
+Elizabethan plays. The playing companies kept standing texts in
+their repertories, and one man after another brought them up to date,
+often over a long period of years, as theatrical needs required or
+literary fashions changed, so that a drama must really be (.bought of
+as an impersonal or communal affair, like a folk-lyric.
+Well, you cannot brush away these speculations quite so easily as
+you can those of the Baconians. Keen wits are at work; well-
+equipped and painstaking minds have stated their theories—their
+heresies, if you will—and they demand scrutiny. We must follow
+the Logos where it leads. Obviously, one cannot take the matter far
+in an isolated lecture. Each of the impugned plays requires its
+individual examination. This must be based upon a patient analysis
+of the texts available. It must take account of what can be gleaned
+of the literary habits of the time ; of the possibilities of sophistication
+latent in the activities of stage book-keepers and adapters, of copyists,
+of censors, of compositors and correctors of the press. The dis-
+integrating critics give us no less; we owe them no less. I can only
+hope to make some general survey of the ground, and to chart some
+of the avenues of approach.
+The traditional canon of the plays has a live-fold basis. Thirty-six
+plays were ascribed to Shakespeare in the First Folio. Thirteen of
+these had already been printed as his in quarto. Eleven had been
+ascribed to him by Francis Meres in 1598. Five are ascribed to him
+by other contemporaries. 1 This is external evidence. There is also
+such internal evidence as the plays themselves bear to the presence
+1 Romeo and Juliet and Richard IT or ITT, liy John Weaver; Hamlet, by
+Gabriel Harvey ; Julius Caesar and Winter's Tutu , by lieu Jouson.
+4
+ANNUAL SHAKESPEARE LECTURE, 1924
+
+
+of a single ‘ shaping spirit of imagination ’. It is, of course, primarily
+this internal evidence which the disintegrators, at this and that point,
+dispute. The external evidence they have merely to explain away.
+You can always explain away a historical record, with a sufficient
+licence of conjecture as to the mala fides of its origin. The earliest
+whisper against the authenticity of any play in the canon comes,
+I think, from Edward Ravenscroft. Ravenscroft adapted Titus
+Andronicus after the Restoration, and, when he printed it in 1687,
+said that he had been told by ‘ some anciently conversant with the
+stage ’ that the model was not originally Shakespeare’s, ‘ but brought
+by a private author to be acted, and he only gave some master
+touches to one or two of the principal parts or characters’. We do
+not know who were Ravenscroft’s informants. At least one old
+actor, William Beeston, whose father had been a ‘fellow’ of
+Shakespeare, and who may himself have known Shakespeare in his
+boyhood, survived to 1683. A true report is not, therefore, incon-
+ceivable. Eighteenth-century scepticism was not slow to seize upon
+this notion of revisional work by Shakespeare, and to give it a further
+extension. You find the substantial Shakespearian authorship of
+Comedy of Errors , Love’s Labour ’s Lost, and oddly enough Winter’s
+Tale , doubted by Pope (1735), of Henry V by Theobald (1734), of
+Two Gentlemen of Verona by Hanmer (17.43), of Richard II by
+Johnson .(1765), of Taming of the Shrew by Farmer (1767). It
+would be idle to raise the dust of the resultant controversies, in
+which the conservative side was taken by Edward Capell. The
+assailants were confident and impressionist. Ritson tells us that in
+Two Gentlemen , Love’s Labour’s Lost, and Richard 11, ‘ Shake-
+speare’s new work is as apparent as the brightest touches of Titian
+would be on the poorest performance of the veriest canvas spoiler
+that ever handled a brush’. The mutterings were largely silenced
+by the authority of Malone, who accepted Ravenscroft’s account of
+Titus Afidronicus , worked out the relation of 2 and 3 Henry VI to
+the Contention plays, took Shakespeare for their reviser, supposed
+Henry VIII to have undergone revision by a later hand, and beyond
+these only doubted 1 Henry VI, the admission of which to the Folio
+he explained by Shakespeare’s contribution of the Talbot scenes.
+Pope and the rest had been misled by inadequate attention to the
+chronology of the plays, which Malone was himself the first to study
+in detail, and by a consequent failure to distinguish between the
+criteria applicable to Shakespeare’s juvenile and to his mature work.
+Malone’s conclusions determined critical orthodoxy for the best part
+of a century. There were individual dissentients, notably Coleridge,
+5
+THE DISINTEGRATION OE SHAKESPEARE
+
+
+who questioned much of Richard 111 and the ‘low soliloquy’ of the
+Porter in Macbeth, and declared in his table-talk, ‘ I think I could
+point out to half a line what is really Shakespeare’s in Love’s
+Labour’s Lost and some other of the not entirely genuine plays’.
+Coleridge being Coleridge, it is needless to say that he never per-
+formed this task, Charles Knight (c. 1843) suggested that Shakespeare
+was only a reviser of Timon of Athens-, James Spudding and Alfred
+Tennyson (c. 1850) fixed the second hand in Henry VIII as that of
+Fletcher; and William George Clark and William Aldis Wright
+(1874) elaborated Coleridge’s heresy about Macbeth by ascribing
+substantial interpolations in that play to Middleton.
+Modern criticism of the canon, however, mainly owes its origin to
+F. G. Fleay, whose views, after fluttering the dove-cotes of the New
+Shakspere Society, were collected in his Shakespeare Manual (1876),
+thereafter underwent Protean transformations, and took final shape
+in his Life and Work of Shakespeare (1886). Fleay bad read
+widely in dramatic literature, and had made a close study of the
+early texts, the diction, and particularly the versification, of Shake-
+speare. He came to distrust the received chronology, because it
+assigned single dates to plays which seemed to him to bear stylistic
+marks of more than one period. And he arrived at a theory of
+constant rehandling and of the co-existence in the texts of strata
+belonging to different dates. This he applied, at one time or another,
+and with frequent variations in the dates assigned, to thirteen of the
+thirty-six plays; Comedy of Errors, Tioo Gentlemen, Love’s Labour’s
+Lost, Romeo and Juliet, Midsummer-Night’s Dream, Richard 11,
+Much Ado, Hamlet, Merry Wives, Twelfth Night, All’s Well,
+Troilus and Cressida, Cymbeline . As to the occasions of such
+revision he speaks with an uncertain voice. One group of plays
+may have been re-written, either for stage revival or for publication.
+Of another be suggests that fragments left unfinished at an early
+date were completed a decade later. But this notion is abandoned
+in favour of a supposed desire to replace work of an early coadjutor
+by Shakespeare’s own. It is an easy step from Shakespeare as
+a reviser of Shakespeare to Shakespeare as a reviser of predecessors,
+Fleay distributed and redistributed Henry VI, Richard 111, and Titus
+Andronicus among Shakespeare, Marlowe, Greene, Peele, Lodge,
+and Kyd; found much of Lodge and a little of Drayton in Taming
+of the Shrew, traces of Peele in Romeo and Juliet, traces of Kyd in
+Hamlet, debris of Dekker and Chettle in Troilus and Cressida, He
+pressed the doctrine of Middleton in Macbeth, but became doubtful
+about it; thought the second hand in Timon Tourneur’s, and dropped
+
+
+him lightly for Wilkins; supposed the mask in The Tempest an
+interpolation by Beaumont. Perhaps his most revolutionary hypo-
+thesis was upon Jalius Caesar, which he held to have been abridged
+and altered by Ben Jonson, as an appropriate return for an equally
+conjectural contribution by Shakespeare to a lost version of Sejams.
+We approach the point where scholarship merges itself in romance,
+I desire to speak with respect and even kindness of Fleay, from
+whom, in common in many others, I derived an early stimulus to
+these studies. He was a man of fertile and ingenious mind. He
+laid his finger upon many of the bibliographical and stylistic features
+of the plays which loom large in current speculations. But he had
+a demon of inaccuracy, which was unfortunate, as he relied largely
+upon statistics. And he betrayed an imperfect sense of responsibility,
+both in advancing destructive notions without an adequate support
+of argument, and in withholding the explanations and justifications
+required by his own numerous and sometimes disconcerting changes
+of opinion. His self-confidence has hypnotized his successors, and
+many of his improvisations recur in the works of serious students,
+not to speak of those school-books, compiled at starvation wages for
+competitive publishers, which do so much in our day for the dis-
+semination of critical and historical error.
+The mantle of Mr, Fleay has descended upon Mr. J. M. Robertson,
+who disposes its flying skirts into the decent folds of a logical system.
+His method of approach to his problems is uniform. It has three
+stages, upon each of which I shall have a cautionary note later. He
+begins with impressionist judgements. Certain passages do not answer
+to his conception of Shakespeare. Here is braggadocio, there an
+archaic stiffness, or flatness, or hackwork, or clumsy stage-craft, or
+pointless humour, or turgidity of thought, or falsity of moral senti-
+ment. Or a whole play repels him. One reads like e a mosaic of
+disparate parts ’; in another he gets ‘ a strange feeling ’ about the
+general style. Then he proceeds to confirm- his impressions by
+applying what he calls the 'inexorable’ tests of treatment, style,
+and metrics; in particular, tests based upon the chronological phases
+of Shakespeare’s blank verse. Finally, he settles down to look for
+‘ clues ’to the possible presence of alien hands; clues furnished by
+the use of words rare in Shakespeare’s vocabulary, but traceable in
+the writings of other men ; clues derived from characteristic tricks of
+phrase or tendencies in the handling of typical situations. It is all
+logical enough, given certain major premisses, largely disputable.
+First you decide that Shakespeare cannot be present; then you look
+for the intruder. Mr. Robertson has now covered most of his ground.
+
+
+and tells us that, although he still has to dispose of Cymbdine and
+The Tempest, we are at a point where the ‘ idolater 3 —that is to say
+the man who believes in Shakespeare’s authorship of the plays, more
+or less as they stand —‘ has probably heard what he would term cc the
+worst” ’. The worst, however, amounts to an alien invasion. In the
+front of a rather dim background of collaborations and revisions
+stand the two heroic figures, Marlowe and Chapman. I will dis-
+regard the ancient battle-fields of Henry VI and Titus Andronicus,
+for the campaign has now become more serious. If I understand
+Mr. Robertson aright, Marlowe, more than any other man, is pre-
+dominantly the author of Richard 111, Richard 11, Henry V, Julias
+Caesar, and paradoxically enough Comedy of Errors, even in the
+forms in which they have reached us. Peelo and Greene play minor
+parts, but the Two Gentlemen is substantially Greene’s, and work of
+Ids remains embedded in Taming of the. Shrew and All’s Well. I
+gather that Peele is to be similarly revealed in Cymbdine, And
+both men, together with Kyd, Jonson, and the shades of many of
+Philip Henslowe’s hungry troop of hack writers, Chettlo, Dekker,
+Drayton, Heywood, and Munday, arc evoked as possible contributors
+to a series of drafts and recasts, which the Marlovian work has
+undergone. Ultimately, of course, the Marlovian plays passed into
+the hands of Shakespeare, and they show traces of revision by him,
+which however was often limited to a little retouching or the insertion
+of particular speeches or scenes, 'substantially preserved’ the original
+Richard 11, and even in Henry V did not amount to ‘ vital rehandling 3 .
+Chapman, too, was among the intermediate manipulators of the
+earlier plays. But when Marlowe passes out of the chronicle,
+Chapman becomes a protagonist. His unquiet spirit flies like a
+lambent but smoky flame over all the later part of the canon. He
+may have inserted the mask into The Tempest after Shakespeare
+left it. But in the main his work underlies, rather than overlies,
+Shakespeare’s, in the form of drafts or contributions to drafts of
+plays, sometimes themselves mere recasts, which Shakespeare after-
+wards rewrote as Hamlet, Merry Wives , Alt’s Well , Measure for
+Measure, Troths and Cressida, Timon, ami Pericles. To Chapman
+I will return. The complicated nature of Mr. Robertson’s recon-
+structions and their relation to Flcay’s may he illustrated by the
+case of Julius Caesar. Marlowe is conjectured to have written a
+sequence of three plays: a Caesar and Pompey, a Caesar Tragedy,
+a Caesar’s Revenge, These passed to the Admiral’s men at the
+Rose, who revived Caesar and Pompey and Caesar’s 'lVagedy, after
+some revision of the latter by Chapman and Drayton, as their
+
+
+two-part Caesar and Pompey of 1594-5. The first part was now
+laid aside and rewritten later by Chapman as his Caesar and Pompey,
+printed in 1631. Marlowe’s original third play, Caesar’s Revenge,
+was perhaps recast by Dekker, Drayton, Middleton, Munday, and
+Webster, in the Caesar’s Fall or The Two Shapes, which they wrote
+for the Admiral’s in 1602. However this may be, the Tragedy and
+the Revenge, now containing the work of from three to seven hands,
+wex - e transferred by the Admiral’s to the Chamberlain’s company,
+and wore revised for the latter, still in a two-play form, by Shake-
+speare. Finally, perhaps about 1607, the two plays were compressed
+into the one now extant by Ben Jonson, who added some touches of
+his own in a characteristic anti-Caesarian vein. More of the present
+substance is allowed to Shakespeare than in some of the Marlovian
+plays retrieved from the canon by Mr. Robertson; but the primitive
+Marlowe still shows through the overlay, notably in the speeches of
+Antony over the body of Caesar. , It is entertaining to find that
+another recent critic, Mr. William Wells, also traces the origin of
+Julius Caesar to Marlowe. But he ascribes the revision, not to
+Chapman or to Jonson, but to Francis Beaumont, and only allows
+Shakespeare the first 57 lines of the play, lines which Mr. Robertson
+thinks un-Shakespearian. Evidently the disintegration of Shake-
+speare is an open career for talent.
+Looking back over the results of Mr. Robertson’s devastating
+offensive, I am tempted to quote my friend A. H. Bullen’s comment
+upon a more modest raid. ‘lf this goes on,’ he said, ‘ Shakespeare
+will soon, like his own Lord Timon, '
+be left a naked gull,
+Which flashes now a phoenix.’
+Mr. Robertson will certainly reply that, even if witty, this is not
+fair. He is no despoiler of Shakespeare’s authentic plumage. His
+eliminations touch nothing ‘ save inferior or second-rate work’; have
+not ‘ impugned one of the great plays as a whole, or a really great
+speech in any’. On the contrary, it is the sticklers for the canon
+who detract from Shakespeare’s greatness. Battling for quantity, they
+sacrifice quality. c The vin ordinaire of the Elizabethan drama is
+for them indistinguishable from the vintage of the Master.’ In
+particular, if they will not recognize Marlowe in Richard II or
+Greene in the Ttvo Gentlemen, they are driven back on the alternative
+theory of a Shakespeare in bondage to a humiliating trick of mimicry,
+a ‘ parrot ’ Shakespeare, a f sedulous ape ’. This brings me to the first
+of my cautionary notes upon the. successive steps in Mr. Robertson’s
+xi t 3
+
+
+critical progress. They are, you remember, three; the disquieting
+impressions, the ‘inexorable ’ teats, the‘clues’ to other men. lam
+sure that Mr. Robertson desires to exalt and not to depreciate
+Shakespeare. And that is precisely where the mischief lies. Our
+heresiarch, in fact, is himself an idolater. We have all of us, in the
+long run, got to form our conception of the ‘authentic’ Shakespeare
+by means of an abstraction from the whole of the canon; there is
+no other material. Mr. Robertson abstracts through a series of
+rejections. He is repelled by childish work, by imitative work, by
+repetitive work, by conventional work, by unclarified work, by
+clumsy construction, by baldness or bombast. He idealizes. He
+looks for a Shakespeare always at the top of his achievement.
+This seems to me quite an arbitrary process. I cannot so read
+the record. Magic of phrase, lyrical impulse, pervasive humour,
+intuition of character, the clash of drama, a questing philosophy,
+a firm hold on the ultimate values of life; you are never far
+from one or other of these at any turn in Shakespeare. But these
+are not the whole warp and woof of the plays. We cannot be
+blind to the moments of artistic oblivion or carelessness, where the
+brain flags or the insight fails; to the trivial scenes where quibble
+speaks to the boxes or horse-play to the pit; to the exasperating
+scenes where psychological realism makes ugly nonsense of a romantic
+convention; to the perfunctory scenes which amount to no more
+than commonplace Elizabethan dramatic carpentry. We cannot
+leave these out of the account; if we do, we may get an ideal, but
+we lose Shakespeare. Of course I can construct apologies. There
+are inconsistencies of narrative and time-sequence. A practical play-
+wright knows very well that these attract little attention on the stage,
+although they reveal themselves to the student poring over a printed
+text in his study. There are jests and wit-combats which do not
+seem to have the ghost of a laugh left in them. What is there so
+fleeting, so difficult to transmit from one age to another, as that
+phosphoric iridescence upon the surface of social life which we call
+wit? But I am not looking for apologies. I come to accept
+Shakespeare, not to praise him. Obviously there are things in the
+plays which any other Elizabethan could just as well, or just as
+badly, have written. They do not perturb me, as they perturb
+Mr. Robertson, to the point of searching for clues to another man.
+Perhaps Mr. Robertson will reply that I have not fully met his case;
+that it is not so much the passages of unmannered carpenter’s work
+which give him pause, as passages which have a manner, but a
+■'manner which he cannot feel to be Shakespeare’s, and does feel,
+
+
+when he analyses it, to be that of a Marlowe or of a Chapman.
+Here we are on more difficult ground, But it is part of the character
+of Shakespeare, as I read it in the canon, to be an experimentalist in
+style. I cannot regard the many phases through which his writing
+went in the short span of some twenty years as wholly due to a
+growth in which there was nothing deliberate. I discern abrupt
+beginnings and abrupt discontinuances. And he was receptive, as
+well as creative. I can suppose him experimenting in the manner of
+Marlowe, or even of poor Greene. And I can suppose him, much
+later, playing with stylistic elements, which had struck him in the
+work of Chapman, and ultimately dismissing them as, on the whole,
+unprofitable.
+We come now to the f inexorable J tests. These are largely
+metrical, based upon the familiar tables, compiled by Fleay and others,
+which put in statistical form the relative frequencies in each play of
+certain features of Shakespeare’s versification, and notably the per-
+centages of rhymes, double endings, and overflowing lines. Ido not
+undervalue these features as elements in determining the chronology
+of the plays. No doubt there was a period—not, I think, his earliest
+period—in which Shakespeare made free use of rhyme; and there-
+after even occasional rhymes dwindle. Even more important is an
+increasing tendency to escape from the tyranny of the ‘drumming
+decasyllahon ’, and to emphasize the verse paragraph rather than the
+individual line, by the help of such devices as the double ending and
+a varied and subtle distribution of pauses. The tables need to
+be used with great discretion. Fleay’s methods, in particular, were
+never c inexorable His earliest tables were grossly inaccurate. He
+published a revised set, obscurely, in the hook of another man. 1 I have
+spent much time, which might, perhaps, have been better employed,
+iu checking some of these. They are still inaccurate, but less so. It
+is disquieting to find that little handbooks of facts about Shakespeare,
+compiled by distinguished scholars, still reproduce the unrovised
+tables as authoritative. Other tables, due to Goswin Konig, give only
+ratios and not the counts upon which they are based. This does not
+inspire confidence. If statistical precision were material, the calcula-
+tions would probably have to be done afresh. Ido not think that it
+is material. The tests cannot give an exact chronology; in fact,
+different tests do not give the same chronology. They can only
+indicate a tread of development, and the trend maybe diverted in any
+play by accidents of subject-matter, such as refractory personal names
+which have to be coerced into the metre; by the appropriateness of
+1 C, M. lugloby, Shakespeare , the Man and the Book , Part 11 (1HB1).
+
+
+particular rhythms to scenes of particular temper ; above all, by Shake-
+speare’s expcrimentalism, which certainly extends to rhythm. It does
+not therefore trouble me to find a rather high percentage of double
+endings in such early plays as Comedy of Errors and Two Gentlemen
+of Verona, and then to find the curve dropping through Midsummer-
+NighCs Dream, King John, and 1 Henry IV, and then rising again
+with 2 Henry IV and other plays. But it does trouble Mr. Robertson,
+and, as he is debarred from putting Comedy of Errors and Two
+Gentlemen later in the chronological order, because that would throw
+out the overflow curve, he falls back upon a theory that they are
+mainly the work of other writers with metrical habits different from
+Shakespeare’s. This longing for a smoothly progressive curve is only
+one aspect of a general tendency to seek an unimpeded development
+in Shakespeare’s art. There is a philosophical predisposition behind,
+Mr. Robertson dislikes the idea of what he calls a ‘ cerebral cataclysm ’.
+To suppose that Shakespeare passed suddenly from the merely average
+and imitative merit of Two Gentlemen to the ‘supreme poetic com-
+petence ’ of Midsummer-Nighfs Dream is contrary to a doctrine which
+sees in ‘artistic growth as in other organic phenomena a process of
+evolution ’. I do not know whether the latest theories of organic
+evolution have solved that old crux of the emergence of variations.
+But in any case biological analogies do not help us very directly
+in analysing the development of the creative impulse in human
+consciousness. And when Mr. Robertson expresses himself as taken
+aback by the notion of ‘ a literary miracle of genius elicited by some
+sudden supernatural troubling of the waters I can only reply that he
+has given an admirable description of the way in which genius does
+in fact often appear to effloresce.
+I have not quite done with the percentages. Obviously they have
+no value, unless they are worked upon a sufficient number of lines to
+allow a fair average to establish itself. This is common to all
+statistics. The ratio of blue eyes to black ones throughout England
+has a statistical meaning ; the ratio in your house or mine may have
+a meaning, but it is not statistical. Possibly the two of three
+thousand lines of a play leave room for the averaging of double
+endings. But to work the percentage of double endings in a single
+speech or scene leads to nothing. Or rather, it should lead to
+nothing. It does sometimes lead Mr. Robertson to infer that scenes
+in a play which give very different percentages cannot have been
+written by the same hand, or at least by the same hand at the same
+date. Surely this is an illegitimate inference. If a play has twenty-
+five per cent, of double endings, they are not spread evenly at the rate
+
+
+of one double ending in every four lines. 1 They come in nuggets
+here; there are considerable spaces without them. Largely this is
+mere accident; they just fall so. But clearly that adaptation of
+rhythm to subject-matter, which may qualify the general trend of
+metric development in a whole play, is even more potent in single
+passages. Here are two examples. The first scene of King John is
+largely a discussion of the paternity of the Bastard Faulconbridge.
+And the rhetoric requires the emphatic use of the words ‘father’,
+‘ mother’, ‘brother 5 , at the ends of lines. These words account for
+about half the double endings in the scene, and the percentage, which
+for the play as a whole is 6, goes up in this scene to 16. Take again
+Coriolanus, a play which Mr. Robertson has not yet assailed, or
+expressed an intention of assailing. The double ending percentage is
+28. But in v. 3is a passage of twenty-four lines without one double
+ending and another of thirty-five lines with only three. One contains
+the stately interchange of courtesies between Coriolanus and his wife
+and mother on their entry to Corioli; the other the more solemn part
+of Yolumnia’s appeal to her son. Are these, therefore, un-Shake-
+spearian or debris of early Shakespearian work ?
+My third cautionary note is on the final stage of Mr. Robertson’s
+process, the quest for alien hands, with the clues of vocabulary and
+phraseology. Here I will be brief, for the land is unmapped and the
+footing treacherous. Are we really able to ascribe a distinctive diction
+to each of Shakespeare’s predecessors ? Do they not largely, together
+with the young Shakespeare himself, use a common poetic diction,
+much of it ultimately traceable to Spenser and to Sidney ? We could
+tell better, if we knew more clearly what each of them wrote and did
+not write. The problem seems to me one which calls for exploration
+upon a general and disinterested method, rather than along the casual
+lines of advance opened up by the pursuit of an author for this or that
+suspected or anonymous play. The relation of Shakespeare’s maturer
+diction to Chapman’s is a problem of a somewhat different kind.
+There is not much point in a controversy as to which was the greater
+ncologist. They both innovate freely, and apparently in much the
+same manner; and, as far as I know, Shakespeare at least was
+not likely to have had any scruple about using neologisms not of his
+own mintage. If he borrowed his plots, why should he not borrow
+his words ? Nobody would suppose that he could not mint them fast
+' I am told that the term ‘double endings’ puzzled some of my hearers.
+They are also called ‘feminine endings’, and are those in which the stressed
+second syllable of the last foot of a line is followed by an additional unstressed
+syllable.
+
+
+enough, if he wanted to. It certainly does not move me to be told
+that Chapman must have worked over a scene, because it contains
+words not found elsewhere in Shakespeare, but found half a dozen
+times in Chapman. The oftener Chapman used a word, the more
+likely it was to stick in Shakespeare’s memory. But Chapman is the
+recurrent deus ext machina of Mr. Robertson’s speculations upon half
+a dozen plays of the canon. Writing about Hamlet, he formulates
+a theory of
+f A frequent employment of Chapman by Shakespeare’s com-
+pany either as a draftsman or as an adapter of plays, and as
+a “ repairer” or patcher of sqme; and the corollary that Shake-
+speare, often revising Chapman’s work, which he must frequently
+have found trying, might very well let pass, as appealing to
+sections of the audience, genre and other work which he for his
+own part would never have thought of penning.’
+It all seems to have begun with Timon, and here a more intimate
+relation between the poets is revealed. Timon is a play ‘ imperfectly
+drafted’ by Chapman and 'imperfectly revised’ by Shakespeare.
+Mr. Robertson, like some others, thinks that Chapman was the
+' rival poet ’ of the Sonnets and the Holophernes of Love’s Labour's
+Lost. But this was merely a ' humorous quarrel with his testy rival ’,
+and after all the two men ' had a common patron ’, and ' there is no
+difficulty in conceiving that, with or without the patron’s intervention,
+Shakespeare’s company may have bought a play of Chapman’s for
+Shakespeare to adapt’. We are bidden to remember that Chapman
+was poor and that Shakespeare must have seen that he was ' worth
+helping’. The greater poet had 'no artistic jealousy’, and knew that
+' the quality of mercy is not strained ’, and ' even if Chapman had
+ruffled him somewhat by his pedantic asperities, he of all men beat
+knew the human struggle behind the “ paste-board portico ”, the weak-
+ness under the shining armour of literary bravado ’. Mr. Robertson is
+an austere rationalist, but I think that this little fantasy would have
+evoked comment even in the pages of Shakespeare’s more sentimental
+biographers. However this may be, I find it difficult to fit this
+employment of Chapman by Shakespeare’s company into the proba-
+bilities of literary history. We know a good deal about Chapman, at
+any rate from about 1596, when he begins to appear in Henslowc’s
+diary. He wrote, or began to write, seven plays for the Admiral’s
+men during the next three years, of which two were published, and
+one was a considerable financial success. And he is conspicuous in
+Henslowe’s motley crew as the one who held most aloof from anything
+in the way of collaboration. The oidy exception is a play which he
+
+
+undertook, but quite possibly never finished, on a plot by Ben Jonson.
+About 1599 he drops out of Henslowe’s record, and the next decade
+is covered by a long series of nine plays, all of which were published,
+for the boy companies. One of these was written in collaboration
+with Jonson and Marston. Thereafter, so far as we know. Chapman
+abandoned stage-writing, and devoted himself to his translation of
+Homer and to other non-dramatic work. In 1613, however-, he did
+a mask for the Princess Elizabeth’s wedding. He lived to 1634, and
+it is conceivable that in Caroline days be touched up some of his
+early plays, or lent a hand to the younger playwright, Shirley. The
+only trace of any external evidence for a connexion of Chapman with
+the Chamberlain’s or King’s men is the ascription to him by the
+publisher Moseley, in 1654, of Alphonsus Emperor of Germany.
+Hardly any one now believes that lie wrote Alphonsus, which was pro-
+duced at the Blackfriars in 1636, two years after his death, and
+twenty after Shakespeare’s. The Stationers’ Register names the
+author as John Poole. All this is, of course, no proof that Chapman
+did not write for Shakespeare’s company, concurrently with the
+Admiral’s or the boys. A dramatist, who was not himself an actor,
+was not tied to a single paymaster. But Chapman was evidently
+a successful writer from 1596 onwards. He is one of the seven
+lauded by Webster in 1612. And it does not seem to me likely, on
+a priori grounds, that he would have needed Shakespeare’s patronage
+for an introduction to the company; that no work done by him for
+them would have reached publication; that his temper would have
+submitted to constant revision by Shakespeare; or that, if his work
+proved unsatisfactory, the company would have continued the experi-
+ment over half a dozen plays.
+I have slipped from the. internal to the external evidence on the
+canon. Mr. Robertson is rather cavalier with the external evidence.
+Of the Folio editors he says :
+‘We may pardon the players for obstinately specifying as
+Shakespeare's works—in order to maintain their hold on the
+copyrights about which they, are so obviously and so naturally
+anxious—a collection of plays as to which they knew and we
+know that much of the writing is not Shakespeare’s at all.’
+I am not concerned to argue for the literal inspiration of the Folio,
+It is quite conceivable that in some cases a substantial Shakespearian
+contribution, short of full authorship, may have been held to justify
+the inclusion of a play. But it was certainly not an un discriminating
+collection, since it left out, for one reason or another, no less than nine
+plays which had already been printed under Shakespeare’s name or
+
+
+initials. And what has copyright to do with the matter ? Ido not
+know what copyright Mr. Robertson thinks that the players claimed
+in published plays; but, so far as our knowledge goes, no kind
+of printing copyright existed, which could be strengthened by ascrib-
+ing a play to a particular author. As for Francis Meres, be, we are
+told, ‘ simply stated the claim of the theatre company, which the Folio
+enforces Meres was a schoolmaster and divine, with an interest in
+literature, but not, as far as we know, in any relations with the
+players, such as might lead him to act as their catspaw in a com-
+mercial fraud. Even if he went to the players for his list, there is no
+reason to suppose that they told him anything but the truth. The
+facts must have been well enough known in the London of 1598, and
+any false claim for Shakespeare would have been open to the chal-
+lenge of Chapman or another. The testimony of Meres, even if
+it stood alone, would he at least as good evidence for Shakespeare’s
+authorship of the early plays of the canon as we have for Peele’s
+authorship of The Arraignment of Paris in a casual reference by r
+Nashe, or for Kyd’s authorship of The Spanish Tragedy in a casual
+reference by Heywood, or for Marlowe’s authorship of Tamhurlaine,
+of which there is no contemporary record at all. Yet take away these,
+and Mr. Robertson’s whole elaborate edifice of conjectural ascriptions
+falls to the ground,
+I will now leave Mr. Robertson and his Marlowe and Chapman
+complexes. I turn to the parallel speculations started by Professor
+Pollard and pursued by Mr. Dover Wilson in his new edition of the
+plays. Here the problem of the canon is approached from another
+angle. The emphasis is less upon versification and diction than
+upon critical bibliography; the study of printing-house usage in
+handling copy, of the relation which the copy for the plays may have
+borne to Shakespeare’s autograph, of the changes which that copy
+may have undergone before and after it reached his hands. The
+methods of critical bibliography are a notable addition to the equip-
+ment of scholarship. But scepticism may be permitted as to whether
+they really carry the superstructure of theory about the revision of
+the canonical plays, which Mr. Wilson is piling upon them. His work
+is, of course, only beginning. It has now covered seven of the
+comedies, and not one of them is allowed to be an integral and
+untouched product of Shakespeare’s creative energy, in the form in
+which he first conceived and wrought it. Inevitably I throw
+Mr. Wilson’s cautious and modestly expressed hypotheses into more
+categorical statements. Comedy of Errors is ‘of Shakespeare’s
+writing in the main ’, but it is a revision of an older play, perhaps the
+16
+ANNUAL SHAKESPEARE LECTURE, 1924
+
+
+Historie of Error given by a boy company at court in 1577; and of
+this parts have been retained, including the doggerel, none of which
+is Shakespeare s. Moreover, the extant text is an abridgement
+made in the playhouse by two distinct scribes. Two Gentleman is
+also an abridgement, with passages added by the adapter, who
+contributed the whole character of Speed. Love's Labour’s Lost was
+based by Shakespeare upon a play by a writer of the ’eighties. He
+himself gave it a revision, and may then have eliminated bits of the
+original which he at first let stand. Traces of the first Shake-
+spearian version are left, owing to imperfect cancellation in the copy.
+The Folio text shows some further playhouse alteration. Much Ado
+contains two strata of Shakespearian work, and has therefore also been
+revised. There is no obvious indication of a second hand, although
+an earlier play may have served as a source. Here again there are
+playhouse alterations in the Folio text. Merry Wives is a transforma-
+tion by Shakespeare, f perhaps, with help from others ’, of an earlier
+play. The Jealous Comedy, of which parts remain. There may have
+been an intermediate version. I do not understand Mr. Wilson to
+regard The Jealous Comedy as Shakespeare’s own. In Measure for
+Measure, Shakespeare may only have recast an old play, with
+a history going back to Whetstone’s Promos and Cassandra. But
+the text, as we have it, has undergone a double adaptation by later
+hands; firstly an abridgement, secondly an expansion, accompanied
+by the re-writing of Shakespearian verse-scenes as prose. Finally,
+The Tempest has had a pre-history and a post-history. Substantially,
+it is a late recast by Shakespeare of an earlier play, perhaps his own,
+and at this recast, matter originally played in scenes before the
+wreck has been put into narrative form. Then the recast has itself
+been abridged, mainly by Shakespeare, and into the abridgement has
+been inserted the mask, the authorship of which is left undetermined.
+Mr. Wilson does not, it will be seen, extrude Shakespeare from any
+of the seven comedies in as wholesale a fashion as that in which
+Mr. Robertson extrudes him from Richard II or Henry V, But he
+finds much alloy due to earlier versions and much alloy due to later
+adaptations; and these, together with the habit ascribed to Shake-
+speare of revising his own work, produce sufficiently ambiguous results.
+Implicit in it all is the doctrine of continuous copy. The founda-
+tion of this doctrine has, I think, four corner-stones. The first is
+a notion of theatrical precaution and economy; precaution in not
+having too many copies of a play about, lest one should fall into the
+hands of a rival company; economy, in avoiding unnecessary
+expenditure upon copyist’s charges. The second is the actual
+
+
+condition of a particular manuscript which has been preserved, that
+of Sir Thomas More. This has been plausibly'shown by Dr. Greg
+to have been originally written out in a single hand; then altered in
+several other hands, partly by cancellations and marginal insertions
+on the original pages, and partly by tearing off some of the original
+pages and substituting separate slips; then submitted to a censor and
+marked by him ■with directions for the modification of disallowed
+passages; and finally, or at an earlier stage, gone through by a stage-
+manager, who added some technical notes for the production.
+Thirdly, there is the obvious re-writing, scene for scene, of the
+Contention of York and Lancaster as S and 3 Henry VI. And,
+fourthly, there is the courageous attempt of Professor Pollard and
+Mr. Wilson themselves to explain the relation of the ‘bad’ to the
+‘good 5 Quartos of certain Shakespearian plays by a theory which
+entails the progressive revision of lost versions. , And so we arrive at
+the notion of the long-lived manuscript in the tiring-house wardrobe,
+periodically taken out for a revival and as often worked upon by
+fresh hands, abridged and expanded, recast to fit the capabilities of
+new performers, brightened with current topical allusions, written up
+to date to suit new tastes in poetic diction. Additional scenes may
+be inserted. If the old pages will no longer hold the new matter,
+they may be mutilated and replaced by partial transcripts. In the
+end hardly a single line may remain as it was in the beginning. Yet,
+in a sense, it is the same play, even as our human bodies, the cellular
+matter of which is continuously renewed, remain our bodies from the
+cradle to the grave. A perpetual form; an evanescent vXr] ! Who
+is the author of such a play ? We cannot tell. The soul gets
+a ‘ dusty answer 5 , when hot on that particular certainty.
+Again I will attempt one or two general propositions bearing upon
+the issue. I feel some doubt whether the case of Sir Thomas More
+is altogether typical; whether, that is to say, the Master of the
+Revels would as a rule have been willing to accept for reading a play
+in the state of picturesque confusion which characterizes that famous
+document. Professor Pollard, I gather, thinks that he would, and
+explains it by a reference to ‘ the easy temper of English officialdom
+at all periods 5 . Well, Mr. Pollard is an English oiflcial, and so am
+I, and that is the kind of compliment we bandy between ourselves.
+Comments in a different tone sometimes drift in to us from the
+outside world. lam sure, however, that if the Master of the Revels
+had to tackle many manuscripts like Sir Thomas More, that pro-
+gressive increase in his emoluments, which is a feature in the history
+of the office during the seventeenth century, was well justified. And
+
+
+personally I feel that his instinct would have been to call for clean
+transcripts. Clean transcripts would, of course, be fatal to the
+doctrine of continuous copy in its extreme form, and in the prepara*
+tion of them most of the bibliographical evidence, upon which
+Mr. Wilson relies to prove the revision of plays, would disappear.
+That any substantial revision, as distinct perhaps from a mere
+abridgement, would entail a fresh application for the Master’s
+allowance must, I think, be taken for granted. The rule was that
+his hand must be ‘at the latter end of the booke they doe play’; and
+in London, at least, any company seriously departing from the
+allowed book would run a considerable risk. 1
+Whether the manuscript of Sir Thomas More is typical or not,
+Mr. Wilson has, of course, no such direct evidence for any play of
+the canon. He supplies its place by pointing to indications of what
+he calls ‘ bibliographical disturbance’ in the early editions, departures
+from typographical uniformity, such as the use for printer’s copy of
+an analogous revised manuscript might explain. There are passages
+written as blank verse, but set up by the printer as prose. There are
+incomplete lines of verse, taken by Mr. Wilson as signs of ‘cuts’.
+There are passages which duplicate one another and suggest the
+accidental survival of alternative versions. There are variations of
+nomenclature in speech-headings and stage-directions, which may
+betray composition by different hands or at different dates. It may
+be observed that, while bibliography can constitute the existence of
+these phenomena, and can sometimes contribute to an explanation of
+them from a knowledge of printing-house methods, it can by no
+means always give a full explanation. And then the bibliographer,
+like the rest of us, has to fall back upon what he can learn or guess
+of the methods of the tiring-house, or upon his own insight into
+literiuy psychology. Thus the setting up of verse as prose is
+explained, prettily enough, as due to the failure of compositors to
+appreciate the metrical character of insertions written continuously
+in cramped margins. But if you ask why any particular insertion
+was made, bibliography is dumb. Mr. Wilson tends to guess that it
+was made as part of a general revision. I find myself often guessing
+1 This raises a further question. Did the Master himself keep copies of allowed
+hooks for purposes of control ? Certainly Herbert laid down in 1633 that such
+, copies must he furnished to him by the book-keepers, hut it is not clear whether
+he was establishing a new or asserting an old practice. A reference to the
+burning of Sir George Buck's books suggests the latter. But this also is obscure;
+it is possible that these were not books kept by Buck, but licensed by him, and
+burnt at the Fortune in 1621,
+19
+THE DISINTEGRATION OF SHAKESPEARE
+
+
+that it was only an after-thought at the time of original writing.
+Similarly, a broken line may be, and I dare say often is, due to
+a ‘ cut’, but it may also be a mere rhythmical variation and it may
+often indicate a dramatic pause, for reflection or the insertion of
+stage business. And it is not bibliographical knowledge, but a feeling
+for rhythm and dramatic values, that must determine the most likely
+explanation in each case. Mr. Wilson is, of course, just as well
+qualified to apply the literary as the bibliographical criteria. But
+the doctrine of continuous copy seems to have a great fascination
+for him.
+I will draw to a close with some ‘external ’ reasons for thinking
+that the amount of revision in the canon is not likely to be very
+great. The ‘ revival ’ of old plays was familiar to the Elizabethan
+stage. I first note the technical phase in a letter of 1605, which
+states that the King’s men had ‘revived’ Love’s Labour’s Lost.
+‘Revived’ is printed ‘revised’ by a contributor to Mr. Wilson’s
+edition j that is a mere slip, but revival and revision are not
+synonymous. The distinction between a new and a revived play has
+financial implications in Sir Henry Herbert’s office notes of 1622-42.
+In 1628 he secured from the King’s men a ‘benefit’ during each
+summer and winter, ‘to be taken out of the second daye of a revived
+play’. In 1633 he laid down that ‘ ould revived playes’, as well as
+‘ new ’ ones, must he brought for allowance, and fixed or confirmed
+fees of £2 for reading a new play and £1 for an old one. He has
+a significant entry of the £1 on one occasion, as being for allowance
+‘to add scenes to an ould play and to give it out for a new one ’. After
+the Restoration, a dispute, of which we have not the conclusion,
+arose as to whether the Master’s fee ‘for supervising reviv’d plaies’
+was of ancient custom, and as to ‘ how long plaies may he laid
+asyde, ere he shall judge them to be reviv’d ’. All this is late evidence
+and complicated by Herbert’s bureaucratic tendency to magnify his
+office and multiply his emoluments. But the notions involved were
+clearly ancient, and even at the Rose a measure of revision probably
+entitled a ‘revived ’ play to rank as ‘ new ’. When Henslowe marks
+Longshanks in his diary as n.e. we need not suppose that we have to
+do with anything but a recast of Peele’s Edward I, There was
+money in it. Even if the entrance charges for a new play were not
+higher, novelty had its appeal to the Elizabethan temperament.
+Dekker and Jonson have their laugh at the poets employed as ‘play-
+patehers ’ and ‘ play-dressers ’. I dare say the process was often only
+colourable. ‘ New titles warrant not a play for new,’ says a seven-
+teenth-century prologue. On the other hand, a popular stock play,
+
+
+a f get-penny ’, might draw well enough at a revival, without revision.
+Revision then, as well as revival, is a vera causa on the Elizabethan
+stage. It is more difficult to give a quantitative estimate of its
+frequency. But something can be collected from Henslowe’s dealings
+with the Admiral’s men, and something at a later date from Herbert’s
+notes. During the six years from 1597 to 1603 the Admiral’s men
+acquired about 100 new plays, paying fees to the poets which exclude
+any probability that we have only to do with ‘ new titles ’. Of these
+we can trace the actual production of about 50, from the purchase
+for them of new garments and properties; others may, of course,
+have been furnished from the existing tiring-house stock. As against
+the 50 new plays, we can trace on similar evidence about 23 revivals.
+These had probably been exceptionally successful old plays, since 13
+of them have come down to us in print, a quite disproportionate
+number, in view of the oblivion which has overtaken most of the 300
+or so plays named by Henslowe. But most of these revivals do not
+seem to have been accompanied by any substantial payments to poets
+for carrying out the work. There are ten payments. Three are
+small sums for ‘ altering ’ or e mending ’ plays, in one case a new and
+not a revived one, for the court, presumably as a result of the special
+scrutiny which plays selected for court performance underwent from
+the Revels officers. Three others are only for the provision of
+prologues and epilogues, in one case also for the court. There are,
+therefore, during these six years and for these 23 revivals, only four
+cases of substantial revision, carrying substantial fees to the poets. 1
+We have three of the four revised plays, and two of them we have
+both in the revised and the unrevised forms, so that we can see
+exactly what took place. They are Doctor Fausius and The Spanish
+Tragedy ; in each case the revision amounted to the insertion of new
+scenes into an otherwise substantially unaltered text. The third play
+is Old Fortunatns. Here we have only the revised text; the original
+was probably written in two parts, and the revision compressed them
+into one. Henslowe’s record, therefore, bears very little testimony
+to any widespread practice of revising plays upon revival. It bears
+still less to any literary recasting of the whole substance of revived
+plays, such as the theories which I have sketched envisage. Ido
+not overlook the possible difference in methods between Shake-
+speare’s company and the Admiral’s. Two plays belonging to the
+1 The normal payment for a new play was £6. The revision of Dr. Fausius
+and Tasso’s Melancholy cost in each case £4; that of The Spanish Tragedy £2 and
+an unspecified part of £lO ; that of Old Fortunatus £9, including some further
+alterations for the court.
+
+
+former, outside the canon, have undergone alteration of known
+character. One is The Malcontent, the other Muceclorus ; in both
+the revision took the form of inserting scenes, not of stylistic
+rehandling. Jonson, no doubt, re-wrote Every Man in Ms Humour,
+before the folio of 1616, and replaced the work of a collaborator by
+his own in Sejanus, before publication. But Jenson’s literary
+attitude to bis ‘ Works ’ is too personal to be taken as representative.
+I come now to Sir Henry Herbert’s notes. Such extracts from
+these as have been preserved record 130 licences for the production
+of plays between 1632 and 1643. Only fifteen were old plays, and
+in only seven is there any record of revision. One is a play of
+Fletcher’s ‘ corrected ’ by Shirley; one had undergone ‘ renewing ’
+and one ‘alterations’ ; four had had one or more scenes added. We
+cannot be sure that the eighteenth-century scholars took all such
+notices out of Herbert’s office-book, while it was available. And we
+cannot be sure that the Elizabethans and Jacobeans were not fonder
+of re-writing plays than the Carolines. But, for what it is worth,
+Herbert’s evidence tends to confirm Henslowe’s.
+We ought to be very grateful to Mr. Robertson and Mr. Dover
+Wilson. We had come to think that all the critical questions about
+Shakespeare were disposed of; the biographical facts and even a
+little more than the facts chronicled, the canon and the apocrypha
+fixed, the chronological order determined, the text established ; that
+there was not much left to be done with Shakespeare, except perhaps
+to read him. They have shown us that it is not so; and we must
+now go over the ground again, and turn our notional assents, with
+whatever modifications may prove justified, into real assents. We
+have all the spring joy of re-digging a well-tilled garden-

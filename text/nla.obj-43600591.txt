@@ -1,0 +1,309 @@
+
+
+ALBERT’S
+Flute, Piccolo, of Fife
+TUTOR.
+Written, Composed and Arranged by
+CARLO MINASI.
+PRICE ONE SHILLING.
+
+
+TUTOR FOR THE FLUTE.
+INTRODUCTION.
+The flute is probably one of the most ancient of all instruments, in proof of which many ancienl
+basso-relievos in the British and other museums give most distinct and positive testimony.
+Flutes of a primitive kind are represented in the carvings of three and four thousand years ago,
+and the instrument was then, as now, doubtless played for the delight of admiring audiences. The
+ease with which it can be played, the richness and sweetness of its tone, and its smoothness and
+rapidity of execution, in the hands of a competent performer, all assist to make it a general
+favourite; whilst the position it holds in the orchestra proves its musical value as an exponent of
+melody. Flutes can be purchased, at the option of the learner, with from one to eight keys, and
+the diligent study of the simple rides laid down in this book will in a very short time enable the
+pupil, with proper practice, to be a constant source of enjoyment to himself and of pleasure to
+his friends.
+
+
+SIMPLE ELEMENTS OF MUSIC.
+Music is written upon five lines called a Stave; those five lines include four spaces, and form in all nine
+degrees or steps, lioth lines and spaces are numbered from the bottom of the stave upwards, thus:—
+LINES.
+SPACES.
+Those signs which determine the Sounds are called Notes, and are named after the first seven letters ol
+the alphabet, A, B, C, D, E, F, G ; the eighth, called the Octave, is only a repetition of the first. The
+names of notes on the lines, and in the spaces, are as follows: —
+LINES.
+SPACES.
+The spaces and linos of the staff, or stave, are consequently able to admit of the representation of nine
+sounds, or notes, viz : five on the lines and four in the spaces. But as these nine situations are quite
+insufficient, others are provided by means of extra lines above and beneath the stave, and are called
+Leger lines (French Uf/ere or light lines): —
+The Clef used for the Flute is known as the Treble or G clef. It is placed or turned on the second line
+The name of one note thus
+of the stare, and gives every note on that line the name of Gr, thus :
+being plainly marked out, the other notes follow alphabetically and consecutively upward and downward :
+The additional or leger lines for the use of the Flute are as follows ;
+VALUE OF NOTES.
+In listening to any air, we shall easily perceive, that what constitutes melody is not merely a particular
+succession of notes, which alone would oifer but few resources as to variety, but also the relative duration
+(more or less protracted) of the sounds: this relative length is called the Value of Notes, and is indicated
+by the note itself explained by the following table.
+Different kinds of notes :
+which should be thus repeated and learnt:—A Semibreve is equal to 2 Minims, or 4 Crotchets, or 0
+Quavers, or 16 Semiquavers, or 32 Demisemiquavers.
+
+
+A TABLE OF THE RELATIVE VALUE OF THE NOTES
+Wlion several quavers, semiquavers, or demisemiquavers follow each other in succession, they are generally
+lied together in groups of two, three, or four by a thick line drawn through the stems of all the group,
+instead of a hook being attached to each. This is shown in the above table.
+ON THE DOT.
+The Dot placed after a note increases its length by one half; thus, a dotted Semibreve,
+is equal to 3 Minims,
+or 6 Crotchets, &c.
+ON TWO DOTS.
+A second Dot is often placed after the first when the first Dot follows a Minim, Crctchet, or a Quaver j
+in this tasc the second Dot is equal to one half the length of the first.
+Two Dots placed after a note
+ON THE SLUR,
+A Slur * placed over a succession of Notes, signifies that they are to be played in a smooth and flowing
+style.
+
+
+ON THE BIND, OR TIE.
+A Bind, or Tie,
+them into one.
+placed over two notes of the same line, or apace, serves to unit*
+ON RESTS.
+Rests are charao ers which indicate that we must interrupt the melody, and refrain from playing during
+a longer or shorter space of time. They serve to give repose to the voice of the singer, or to the fingers
+of the performer; to avoid confusion between different phrases or portions of phrases; to give prominence
+to one part at the expense of others; and sometimes to produce picturesque effects by sudden and unex-
+pected interruptions. Rests have a value corresponding to that of the notes which they represent.
+Their forms are as follows :
+The Dot and the Double Dot, of which we have treated in the preceding section, may also be placed after
+rests, and serve to increase their value in the same proportion.
+ON THE BARS.
+All the values of which a piece of music is composed are divided into equal portions of time called Bars,
+or measures, and are placed between lines drawn perpendicularly across the stave, thus :
+A double bar |j is always placed at the end of a piece of music, and is invariably used to divide a piece
+into parts or sections. Dots placed at the left side signify that the previous part is to be repeated,
+thus : • If on the right, the succeeding part is repeated jjj . Both parts are repeated if the dots are on
+both sides, ijjj
+ON TIME.
+The Bar in its turn is divided into fractional portions called Parts, or Time. The measures most
+frequently used are those which contain two, three, or four of these fractional parts, as also that indicated
+#y |, or three quaver time, and Compound measure, |, or six quaver time.
+The following signs are used to denote these different measures ; they are always placed at the con
+mencement of a piece, directly after the clef.
+HALL COMMON TIME.
+COMMON TIME.
+Contains 4 Crotchets in a bar, or their value in other notes in each bar. Contains 2 Crotchets in a bai
+
+
+Contains 3 Semibreves, 3 Minims, 3 Crotchets, 3 Quavers in a bar. Contains 9 Crotchets, 9 Quavers in a bar
+Also the following times are seldom used, }|.
+ON SHARPS, FLATS, DOUBLE SHARP, AND DOUBLE FLAT.
+In order to form other scales similar to that of C, three signs have been adopted, called a Sharp Jf, a
+Flat t>, and a Natural tj.
+A Sharp serves to raise a note half a tone higher; a Flat 17 lowers it a semitone: and a Natural
+restores the note to its first state.
+Sharps ascend by fifths, that is to say, from five to five notes, and the distance is of three and a half tones
+Fiats descend by fifths, with the same distance of three and a half tones.
+The Double Sharp x elevates the pitch two semitones, and the double Flat Wl decreases it a tone.
+ON INTERVALS.
+The distance from one sound to another is called an Interval.
+A student with a good ear will readily perceive that, in the Scale, the interval from one note to another
+is not always the same; for example, the interval from Cto D is greater than from E to F, or Bto C; the
+first of these intervals is called a Tone, the next two Semitones.
+MAJOR AND MINOR SCALE
+The word Scale, derived from the Italian Scala, a ladder, indicates a succession of sounds ascending or
+descending by degrees, and may be either Diatonic or Chromatic. The Diatonic, which is the most usodt
+proceeds by two tones and a semitone, then by three tones and another semitone.
+Thr Minor proceeds by one tone and a semitone then by four tones and another semitone.
+
+
+MAJOR SCALE OF C.
+MINOR SCALE OF A.
+OF MODES.
+There are two modes—the Major and the Minor. They differ in their third; the Major third is
+ompound of two whole tones, the Minor of a tone and a half.
+The Chromatic Scale consists of a series of twelve Sounds placed a semitone from each other.
+The following notes are actually the same sound, although they appear otherwise on paper, as shown below.
+Diagram showing how the Notes change their names in three dipfebent ways, excepting the 0,
+A is B Double Flat or G Double Sharp.
+B is ... 0 Flat or A Double Sharp.
+C is D Double Flat or B Sharp.
+D is E Double Flat or C Double Sharp.
+E is ... . F Flat or D Double Sharp.
+F is ... ... G Double Flat or E Sharp.
+G is A Double Flat or F Double Sharp.
+Ajf is B Flat or C Double Flat.
+BJf is C Natural or D Double Flat.
+OJf is D Flat or B Double Sharp,
+Djf is E Flat or F Double Flat.
+EJt is F Natural or G Double Sharp.
+Fjf is G Flat or E Double Sharp,
+GJ is A Flat -
+
+
+HOW TO HOLD THE INSTRUMENT.
+It should he held in a horizontal position, bearing towards the right, the right hand thumb
+holding it in position against the lower lip with a firm pressure; the left hand supporting it
+between the first finger and the thumb. The hands must have room to play freely, and the
+left arm must he kept away from the body in a convenient and easy maimer.
+HOW TO USE THE LIPS.
+The sound is produced by the breath passing through an “ embouchure ” or hole for the lips, and
+upon the way in which the lips are managed depends the quality of each note, and should be the
+first thing practised. The comers of the mouth are drawn inwardly, so that the lips touch the
+teeth, leaving a small aperture in the centre as an air passage. The mouth-hole should then he
+placed to the lips and turned in contrary directions until a good note is produced when the learner
+blows into the instrument. This preliminary lip practice should be tried at first without any
+attempt at fingering or using the keys. When the learner has acquired a good tone, he will
+discover that moderate force produces the best notes.
+HOW TO PUT THE INSTRUMENT TOGETHER.
+The six finger holes must he placed in a direct line with each other, the embouchure being
+slightly turned inwards; the lower joint being so placed that the keys (no matter how many) can
+be used freely by the fourth or little finger of the right hand.
+HOW TO SOUND THE NOTES.
+The little finger of the right hand must press the key; then, by placing the first finger of the
+left hand over the top hole, the note of B natural will he sounded on blowing gently into the
+embouchure; then add the second finger on the next hole, which gives A natural; the third also
+placed down makes G natural. When the learner has practised thus far, by adding the
+first finger of the right hand over the fourth hole, E sharp is produced; the second finger
+of the right hand over the fifth hole will sound E natural; and the third finger covering
+the last hole cause D natural to he sounded, (for this the little finger must release the key). Eor
+the note E the key may be raised or closed.
+FLUTE WITH ONE KEY.
+
+
+EXERCISES ON THE FOLLOWING EIGHT NOTES BELONGING TO THE KEY OF D
+MAJOR, TWO SHARPS, F & D.
+HOW TO FINGER TWELVE NOTES IN THE KEY OF D MAJOR.
+FLUTE WITH ONE KEY.
+(o) hole uncovered. (•) hole covered. (i) key open. (*) key released.
+
+
+EXERCISES ON G, A, B, & C.
+Common Time, Four Crotchets in each bar, (see page 4).
+EXERCISES ON D, E, F, & G.
+
+
+EXERCISES ON G, A. B, C, D, E, F, & G.
+
+
+CHROMATIC SCALE FOR THE FLUTE WITH ONE KEY
+
+
+EXERCISES ON THE FOLLOWING SEVEN NOTES BELONGING TO THE KEY OF
+G MAJOR, ONE SHARP, F.
+
+
+EXTRA FINGERING FOR THE FLUTE WITH ONE KEY.
+The above table is inserted for those who learn upon a one-keyed instrument, but the following notes
+cannot be produced perfectly on an instrument with less than four keys.
+Notes 1,2, and 3 are almost unavailable owing to their weakness and incorrectness.
+Notes 4,5, and 6 are not only weak, but as a rule too sharp, although sometimes used on extra-
+keyed instruments.
+Note 7 (the high F) is also imperfect through over sharpness, consequently extra-keyed instruments are
+far better, even for learners.
+General Scale for the Flute, Showing How to Finger the Notes, and the Use of
+the Additional Keys.
+To produce the lower C natural, C sharp or D flat, the two long keys on the flutes
+with six or more keys are necessarily used, and must be pressed down with the
+right hand little finger. Both keys must be used for C natural; only one for C
+sharp, the 6th finger-hole being covered at the same time. All other notes can be
+produced with accuracy from a four-keyed instrument.
+Four keys are necessary to play in tune (with the above exception); they aie
+used as follows:
+The right hand little finger pnesses the key for D sharp or E flat;
+The right hand third finger presses the key for F natural or E sharp;
+The left hand little finger presses the key for G sharp or A flat;
+The left band thumb presses the key for A sharp or B flat.
+
+
+CHROMATIC SCALE FOR THE FLUTE WITH FOUR KEYS.
+FLUTE WITH FOUR KEYS.
+
+
+
+
+To show the various styles of composition used by various countries, the Author has selected fourteen
+elodies, viz., Circassian, Cashmerian, Arabian, Persian, Indian, (two) Andalusian, Castilian, Swiss, (two)
+Ahenish, Egyptian, Chinese, and Hebrew; these are not to be found in any other book, and form a well
+diversified selection.
+
+
+
+
+
+
+
+
+
+
+
+
+EXTRA FINGERING FOR THE FLUTE WITH FOUR KEYS.
+
+
+THE EIGHT-KEYED FLUTE.
+This is the instrument in general use : those with one, and four keys have been described. One of the
+extra keys is a repetition of F natural, and is pressed by the little finger of the left hand, the object
+being to produce F natural, to succeed D natural, or E flat, or any note marie with the right hand third
+finger covering the hole. For example :
+The other extra key is pressed by the right hand forefinger, and produces C natural on the third space
+and also 0 natural an octave higher. A shake of B natural and 0 natural cannot be made without this
+key. It is also used to make the shake with B flat and 0 natural, and that with A natural and B natural
+For example, these are instances of its use: —
+Flutes have sometimes nine keys, —the ninth being a lever joined to the B flat key. It is pressed by the
+right hand first finger, and is used for the following shakes : A natural and B flat; A flat and B flat; and
+G sharp and A sharp.
+TONGUEING (SINGLE AND DOUBLE).
+Single-tongneing consists of limiting the action of the tongue to repeating one syllable.
+DoMe-toagueing consists in articulating by repeating two different syllables.
+! In single-tongming, the action of the tongue is similar to when the syllable DOO is pronounced ; this
+produces a sonorous and gentle sound; by using the action for the syllable TOO, a more marked and
+distinct articulation is acquired.
+In double-tongueing, the repetition is produced by the action of the tongue as in the syllables
+TOOTLE, thus •*— — *
+’ k-
+ESSENTIAL ADVICE.
+Before a performer begins a piece of music he should never neglect to ask himself the following
+questions: —
+Ist. In what key am I going to play ?—that is, how many sharps or data are placed after the del.
+2nd. What is the time or measure of the piece ? 3rd. What is the degree of movement ?
+
+
+The principal graces used in music are the Appoggiatura, the Turn, and the Shake.
+The Appoggiatura, which is never more distant from the principal note than at one above or a semitone
+below it (unless it be a mere repetition of the preceding note), usually divides the timo with the principal
+note.
+The Turn, marked thus, ~ consists of small notes placed above, or below, the large or essential note.
+The plain, or simple Turn, begins with the note higher than the principal note, two notes then follow
+descending, after which the note itself.
+The small notes forming the Turn must be played quickly, the accent falling on the principal, or large
+note.
+When the Turn has a sharp affixed over it, thus, it applies to the upper note ; when under to the
+lower note. The same rule with regard to flats and naturals.
+The Shake, marked thus, tr, consists of a quick repetition of two notes, played alternately, and continued
+as long as the time of the principal note lasts.
+Written.
+ft
+Small notes generally follow the shake, called the termination. They must be played as quickly as the
+notes forming the shake ; the lowest must always precede the principal note.
+A Bind, or tie, marked ✓ —s , from one note to another of the same sound, indicates that the sound of
+tbe first note is continued, without intermission, the length of time indicated by the second.
+A Slur, also marked —\, over several notes of different sounds, indicates the passage to be played
+smoothly, without interruption. The same mark placed over three notes, with a figure indicates that
+these three notes are to be played in the time of two.
+A Pause prolongs the note or rest over which it is placed beyond its proper value, creating a pause in
+the time at the discretion of the jorfonuer.
+
+
+INSTRUCTION BOOK
+FOR THE
+VIOLIN
+WITHOUT A MASTER.
+WRITTEN, COMPOSED, AND ARRANGED P.V
+CARLO MINASI,
+PRICE ONE SHILLING

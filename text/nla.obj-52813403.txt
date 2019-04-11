@@ -1,0 +1,5513 @@
+
+
+The Fire Underwriters' Association
+of South Australia.
+Pirie Chambers,
+32 Pirie Street, Adelaide.
+ELECTRICAL
+WIRING RULES.
+Revised Issue November 1924.
+Copies may be purchased at the Offices of the Association.
+
+
+
+
+JUNE, 1925 EDITION.
+Electrical Wirin g Rules.
+PREPARED AT INTERSTATE CONFERENCE, MELBOURNE,
+February, isss.
+Adopted by the Institution
+May, toss
+revised after Conferences with
+the Fire and accident Underwriters of Australia
+AND
+The regulations Committee of
+the State Electricity Commission of Victoria.
+September, isxs.
+Sc&n«l):
+F. W. WHITE, Frint«r,_B44 Kent Btre*t.
+|9?s f
+REVISED NOVEMBER, 1924.
+Published by
+institution of Enginrrrs, Australia.
+HEADQUARTERS I
+MACLEAY HOUSE.
+16 COLLEGE STREET, SYDNEY, N.S.W.
+June, isxs.
+
+
+Electrical Wring Rules
+of
+The Institution of Engineers, Australia.
+These Rules are based on the Code in use for many
+years in Australia and which was originally founded
+upon the Wiring Rules of the Institution of Electrical
+Engineers, London. The present issue is the outcome of
+the Conference of the Uniform Wiring Rules Committee
+of the Institution, held in Melbourne in February, 1922;
+also of the Conference between representatives of the
+Institution and of the Council of the Fire and Accident
+Underwriters of Australia, held in Sydney in February,
+1923; and finally of the Conference between the Institu-
+tion’s Committee and the Regulations Committee of the
+State Electricity Commission of Victoria, held in Mel-
+bourne in September, 1923.
+Resulting from these various conferences the Rules
+were issued for general adoption throughout Australia,
+being revised in November, 1924, at an Interstate Con-
+ference held in Sydney.
+CONSTITUTION OF THE WIRING RULES’
+COMMITTEE OF THE I.E.Aust.
+A Committee is attached to the Division in each State.
+These Committees represent all sections of the Elec-
+trical Industry and are constituted as follows:
+Two members representing the Institution.
+One each representing—
+The Supply Authorities.
+The Fire Underwriters’ Association.
+The Electrical Contractors.
+The Electrical Warehouses.
+The appointments to the Committees are made by the
+accredited Trade Associations or Authorities concerned
+at the invitation of the Institution.
+The Committees in the various States are regularly in
+touch through a Federal Secretary, and ail Committees
+meet in conference for a general revision of the Rules
+every second year.
+
+
+THE FOLLOWING AUTHORITIES HAVE
+ADOPTED THESE RULES.
+The Council of the Fire and Accident Underwriters of
+Australia.
+City Electric Light Company, Brisbane.
+City of Perth Electricity and Gas Department.
+City of Sydney Electricity Department.
+Electric Supply Department, Newcastle.
+Fremantle Municipal Tramways and Electric Lighting
+Board.
+The Adelaide Electric Supply Company, Limited.
+The City Electric Supply Department, Melbourne.
+The City of Launceston Corporation.
+The Electric Light & Power Supply Corporation, Ltd.,
+Rozelle.
+The Electric Supply Company of Victoria, Limited,
+Ballarat.
+The Hydro-Electric Department, Hobart.
+The Melbourne Electric Supply Company, Limited.
+INTERPRETATION OF RULES.
+The Rules shall be interpreted by the Fire Under-
+writers’ Associations or other Authorities concerned,
+but should a difference of opinion arise appeal may be
+made to the local Honorary Secretary of the division of
+The Institution of Engineers, Australia, for submission
+of the question to the State Wiring Rules Committee of
+the Institution. A ruling by that Committee will then
+be forwarded direct-to the enquirer.
+The following are the addresses of the Division
+Honorary Secretaries:—
+Hon. Secretary, Adelaide Division, I.E.Aust,
+Austral Chambers, Currie Street, Adelaide.
+Hon Secretary, Brisbane Division, I.E.Aust.,
+Empire Chambers, Wharf Street, Brisbane.
+Hon. Secretary, Melbourne Division, I.E.Aust.,
+Collins Court,
+370 Little Collins Street, Melbourne.
+Hon. Secretary, Newcastle Division, I.E.Aust.,
+Howard Smith’s Building, Watt St., Newcastle.
+
+
+Hon. Secretary, Perth Division, l.E.Aust.,
+Professional Societies’ Rooms,
+333 Murray Street, Perth.
+Hon. Secretary, Sydney Division, l.E.Aust.,
+Macleay House, 16 College Street, Sydney.
+Hon. Secretary, Tasmania Division, l.E.Aust.,
+Hydro-Electric Department, Hobart.
+NOTICES.
+FIRE INSURANCE OFFICES.
+Prior notice of the introduction of wiring should in
+all cases be given by the insured to the Fire Insurance
+Office insuring the risk. The Rules provide for ordinary
+fire and accident risks, but in all cases where such risk
+is of an unusual character, the special precautions or
+more strict requirements of the Fire Insurance Office
+must be adopted.
+SUPPLY AUTHORITY.
+When the supply is to be obtained from an external
+source, notice must. Ije given to the Supply Authorities
+concerned before wiring.
+
+
+General Rules for Wiring
+FOR THE
+Utilisation of Electrical Energy
+Note.— Where applicable, the definitions and regulations
+of the British Engineering Standards Committee
+have been adopted.
+1. The Rules embody the requirements and precautions
+framed to secure satisfactory results with a supply of
+electrical energy at low pressures not exceeding 2SO
+volts, and also with such additional requirements as arc
+indicated therein, for medium pressures exceeding 250
+volts, but not exceeding 650 volts. They include only
+such requirements and precautions as are necessary under
+ordinary conditions, and they are not intended either to
+take the place of a detailed specification, or to instruct
+untrained persons.
+(a) They necessarily deal with existing approved
+materials, appliances and methods, but they are not in-
+tended to discourage invention or exclude other materials,
+appliances and methods which may be developed in the
+future; and -the Rules may be revised from time to
+time, to include those materials, appliances and methods
+which may be considered suitable by The Institution of
+Engineers, Australia, due regard being had to any neces-
+sary modification of rating or loading.
+2. (o) Reference should be made to the State regula-
+tions (if any) for securing the safety of the public.
+Where they apply, the above special regulations should
+be considered to be definite requirements which may be
+additional to the General Wiring Rules, and should be
+considered to be a desirable standard to be adopted where
+corresponding special conditions exist.
+(b) Where .medium pressures are used, adequate
+precautions must be taken either by earthing or other
+suitable means to prevent any metal other than the
+conductor (such as the cases of switches, fuses, starters,
+and the frames of dynamos and motors) from becoming
+electrically charged.
+3. Prior notice of the introduction of wiring should
+in all cases be given by the insured to the Fire |
+Insurance ©ffice insuring the risk. The Rules pro-
+Low and
+Medium
+Pressures.
+Latitude.
+Regulations.
+Factories and
+Workshops,
+Mines,
+Theatres,
+etc.
+Earthing,
+etc.
+a "
+Fire
+Insurance
+Offices.
+
+
+vide for ordinary fire and accident risks, but in all
+cases where such risk is of an unusual character,
+the special precautions or more strict requirements
+of the Fire Insurance Office must be adopted.
+4. When the supply is to be obtained from an ex-
+ternal source, notice must be given to the Supply
+Authorities concerned before wiring.
+Supply
+Authority.
+DEFINITIONS OF CERTAIN TERMS USED IN
+THE RULES.
+The term Inspector means the Inspector of the
+Authorities concerned.
+5. System. —An electrical system in which all the con-
+ductors and apparatus are electrically connected to a
+common source of supply.
+6. Three-wire System—
+(а) Outer Conductors. —Those between which there
+is the greatest difference of potential. This use
+of the word outer must not be confused with the
+use of the word when applied to the external
+conductor of a concentric main.
+(б) Neutral Conductor. —That which is at a poten-
+tial intermediate between the potentials of the
+other conductors.
+7. Earthed. —Connected to the general mass of the
+earth in such a manner as will ensure at all times an
+immediate and safe discharge of electrical energy.
+8. Dielectric. —Any material which offers high resist-
+ance to the passage of an electric current.
+9. Uninsulated Conductor. —A conductor without pro-
+vision, by the interposition of a dielectric or otherwise,
+for its insulation from earth.
+10. Bare. —Not covered with insulating material.
+11. Bunched Conductors. —When more than one con-
+ductor is contained within a single duct or groove, or
+when they are run unenclosed and not spaced apart from
+each other.
+(a) Aerial or Outdoor Conductors. Conductors
+supported on insulators in the open air.
+12. Fuse-switch. —A quick-break switch with fuse
+forming an integral part of the switch,
+13. Point.' —ln wiring. The termination of the wiring
+for attachment to a fitting for one or more lamps or
+other consuming devices.
+14. Single-pole Switch. —A switch controlling one
+conductor only of a circuit.
+
+
+15. Multiple Switches. —Switches linked together me-
+chanically so as to operate simultaneously, or in definite
+sequence whether under one or more covers.
+16. Switchboard. —An assembling of switches, fuses,
+conductors, measuring instruments, and other apparatus,
+mounted on a supporting base for the control of electrical
+machinery and circuits.
+17. Grade of Insulation, 250 volt cable. —Vulcanised
+rubber cable is said to be 250 volt cable when the
+minimum radial thickness of its dielectric is that shown
+in Col. 4 of Table IV., and when its minimum insulation
+resistance is that shown in Cols. 4 and 5 of Table VI.
+after application of a pressure test of 1000 volts for half
+an hour.*
+18. Grade of Insulation, 650 volt cable. —Vulcanised
+rubber cable is said to be 650 volt cable when the
+minimum radial thickness of its dielectric is that shown
+in Col. S of Table IV., and when its minimum insulation
+resistance is that shown in Col. 6 of Table VI. after
+application of a pressure test of 2500 volts for half an
+hour.*
+19. Protected Machine. —One having end shield
+bearings, and in which there is free access to the interior
+without opening doors or removing covers.
+20. Semi-enclosed Machine. —One in which the ven-
+tilating openings in the frame are covered with—
+(a) Grids, expanded metal, or wire gauze, with
+openings of not less than 1 inch so as not to
+obstruct free ventilation.
+(b) Wire gauze in which the openings are less than
+i inch but not less than 3-32 inch, or with
+perforated metal having holes not less than 3-16
+inch (dia. or width).
+(c) Screens with smaller openings than the above.
+21. Totally-enclosed Machine. —One in which the
+enclosing case and bearings are dust-proof, and which
+does not allow circulation of air between the inside and
+outside of the case.
+22. Pipe-ventilated Machine. —An enclosed machine in
+which the frame is so arranged that the ventilating air
+may be conveyed to it through a pipe attached to the
+frame, the ventilation being maintained by the fanning
+action produced by the machine itself.
+23. Forced-draught Machine. —An enclosed machine in
+which the ventilating air supply is maintained by an
+independent fan external to the machine itself.
+* The pressure test and insulation test must be applied as
+specified in Rules 47 and 48.
+
+
+Separate
+control for
+light.
+Interruption
+of current
+in neutral
+conductor.
+GENERAL ARRANGEMENT.
+LOW PRESSURES.
+24. Every system must be protected by main switches,
+and main fuses, or main fuse switches, under the control
+of the Consumer. These switches must be mechanically
+connected so as to ensure a simultaneous break of all
+poles. They must be easily accessible, and placed as
+near the generator or the point of entry of the supply
+as circumstances permit. Where the service fuses are
+placed outside a building, any cable required for the
+connecting lines of the supply authority with the service
+fuses must be of not less cross sectional area than
+7/.036. From the service fuses, leading-in conductors
+shall be run of a size proportioned to the stated maxi-
+mum demand of the installation, but the minimum size
+of such leading-in conductors, which may be run for a
+maximum distance of 20 ft., must be a stranded con-
+ductor of not less cross sectional area than 3/.036.
+Where the length of such run exceeds 20 ft., a minimum
+size conductor of 7/.036 must be installed throughout.
+Where the service fuses are placed inside the building,
+the portion of the service line between the point of
+entry of the supply and the supply authorities’ fuses
+shall not exceed 10 feet in length, and the conductor
+shall have a cross sectional area not less than 7/.036
+(7/20 S.W.G.) copper cable, and shall be protected by
+being drawn into metal tubing. When more than one
+consumer is connected to a single service, the various
+consumers’ main switchboards must be distinctly labelled
+for purposes of identification. In large buildings, such
+as residential and business flats, and connected to under-
+ground services, the whole of the consumers’ main
+switchboards must be controlled by a master switch,
+placed in a position conveniently accessible, and as near
+an entrance or exit door as circumstances permit.
+The master switch must be protected by glass-fronted
+locked case.
+25. Where energy is used for purposes additional to
+illumination, and where failure of light might cause
+panic or be otherwise dangerous, the lighting must be
+controlled by independent service fuses, but in no case
+may any other installation, whatsoever, be connected to
+the supply fuses,
+26. Where the supply is given from the three wires of
+a three-wire system, the neutral conductor, whether
+earthed or not, must never be interrupted unless the
+outer conductors are simultaneously interrupted;* hence
+* In practice a three-wire linked switch should interrupt the
+outer conductors slightly before breaking the neutral.
+
+
+no fuse or unlinked switch may be included in the main
+neutral conductor. No single-pole switch or starter shall
+be placed in the neutral or earth conductor of any
+installation.
+27. Where the supply is given to two-wire circuits
+from a three-wire system with unearthed neutral or from
+a two-wire system with both poles insulated, each main
+two-wire circuit must be controlled by a double-pole
+linked switch with a fuse on each pole.
+28. No fuse may be placed in the neutral conductor of
+a multiple-wire system, but fuses must be placed on both
+conductors of two-wire circuits branching therefrom.
+This does not prevent the use of a disconnecting link in
+the neutral conductor for testing purposes.
+29. In the case of other multiple-wire systems similar
+principles shall be applied as in Rules 26, 27, 28.
+30. Where the pressure between the outer conductors
+of a three-wire system exceeds 2SO volts, and the three
+wires of the systems or two pairs of wires are brought
+into premises, the supply for low pressure must be given
+from two pairs of terminals arranged so as to minimise
+the danger of shock, and the wiring from these terminals,
+including that behind distribution boards, must be kept
+distinct throughout in separated circuits which must no.
+be bunched.
+(a). Where the supply is given from an outside
+source through more ton one pair of terminals, the
+extreme voltage between any set of terminals must be
+distinctly marked.
+31. Where energy is taken from all the conductors of
+a three-phase system, the conductors must be protected on
+each phase i>y an automatic circuit-breaker, or by a fuse
+in conjunction with a multiple pole, linked switch or by a
+fuse-switch.
+32. Conductors must radiate from distributing centres,
+and in large systems feeders will be necessary between
+centres and sub-centres. In sub-circuits for lighting,
+except where otherwise provided (See 32 (/) and ( g ) ),
+the current must not exceed 8 amperes for pressures up
+to 125 volts, nor 4 amperes from 125 to 250 volts, and
+the maximum number of points on any sub-circuit must
+not exceed 10.
+(o) For the purpose of calculating the current of a
+lighting circuit, no Lamp Holder must be rated
+at less than 60 watts, more powerful lamp
+points, if any, being allowed in full.
+(6) Heaters requiring not more than 600 watts, and
+Motors not exceeding 1-3 H.P. capacity, shall
+be permitted to be connected to a lighting sub-
+circuit not having more than 9-60 watt lamps.
+Two and
+Three-wire
+Systems
+Control.
+Multiple-
+wire
+Systems.
+Two and
+Three-
+wire Systems
+Interruption
+of Current.
+Introduction
+of Multiple-
+wire System
+into prexnfees.
+Voltage to be
+marked.
+Protection
+in Polyphase
+Systems.
+Current in
+Circuits and
+Sub-circuits
+for Lighting.
+Calculating
+permissible
+number of
+points.
+Small heaters,
+etc., on light-
+ing circuits.
+
+
+They may be connected by means of a flexible
+direct to a ceiling rose, provided the apparatus
+is fitted with a two-pin plug, or they may other-
+wise be connected by means of an adaptor to a
+flexible fitted with a screw lamp socket of
+approved pattern specially provided for the
+purpose. The flexible conductor supplying the
+same must not be less than 23/36 S.W.G. Only
+one such attachment shall be permitted on any
+installation. Alternatively a heating or similar
+point up to 1000 watts loading may be served
+through a 2-pin wall plug on a mixed lighting
+and power circuit provided the number of light-
+ing points does not exceed six of an aggregate
+loading not exceeding 360 watts. In such case
+the flexible connection to the heater must be
+of 40/36 S.W.G.
+( c ) Sub-circuits for heaters must not carry more
+than 24 amperes up to 125 volts, nor more than
+IS amperes from 125 to 250 volts.
+(d) Excepting in the cases specifically stated herein,
+I’ower Plug points shall each be rated at not
+less than 1000 watts. When installed in Private
+Residences, the number of heaters allowed on
+a Circuit or Sub-Circuit may be as set out in
+Rule 103 (&). In Factories and Workshops the
+full actual rating of the apparatus shall be
+allowed for, but in such cases each point shall
+be rated at not less than 500 watts.
+(e) Every sub-circuit must be protected on each
+pole by a fuse. Every distribution board in
+which each circuit is not controlled by a double-
+pole switch must be fitted with a double-pole
+switch to control all circuits branching there-
+from. Mains and feeders must be protected
+on each pole by a switch and fuse, or circuit-
+breaker, or fuse-switch (Rules 24, 26, 28).
+(/) For electric signwriting, outline and decorative
+wiring, when in use outside a building, the final
+sub-circuits must not exceed 1200 watts, or 25
+amperes at any voltage.
+(g) The number of points and current allowed
+when a circuit is controlled by a multi-way
+switch shall be determined by the maximum that
+can be in use at any one time.
+33. Where protected from mechanical injury by metal
+conduits (Rule 63), or by a covering of tough rubber
+compound (Rule 65), conductors of opposite polarity
+may be bunched. Where the protecting tubing or casing
+is non-metallic, lengths of conductors of the same
+polarity and free from joints, carrying small currents
+Heating
+Circuit.
+Number of
+heating points
+allowed on a
+circuit-
+Control
+Signs and
+Decorative
+Lighting.
+Demonstration
+or effect
+lighting.
+Bunching.
+
+
+for incandescent lighting, from sub-centres, as in Rule
+32, may be bunched. If the supply is alternating, and
+the protection iron or steel, the lead and return con-
+ductors must be bunched.
+34. Earthing conductors (earth-wires) must be of
+stranded copper of a cross-sectional area not less than
+that of a 7/.036 (7/20 S.W.G.) conductor, except that
+for circuits up to 12 amperes, a No. 7/.029 (7/22
+S.W.G.) may be used. Where the cross-sectional area
+of portable leads is less than that of a 7/.036 (7/20
+S.W.G.), the earthing conductor may be equal in cross-
+sectional area to the live conductor. The earth-wires
+must be suitably protected from mechanical injury, and
+they must be efficiently and permanently earthed. In all
+cases the connection of the earthing cable must be visible
+and accessible. The sectional area of the earthing conductor
+in no case shall be less than half of that of tire conduc-
+tor necessary to supply the connected load. Where an
+efficient earth, or earths, such as water-pipe, cannot
+be obtained, a suitable earth plate or pipe shall be
+provided to the satisfaction of the Authorities con-
+cerned. The place selected should be permanently wet.
+or at least damp. Suitable clips must be used to which
+earthing conductors must be connected,
+35. (a) Gas-pipes must not be used to obtain anj
+earth connection.
+(b) Combined gas and electric fittings must not
+be used.
+(c) If disused gas-fittings are adapted for electric
+light, they must be entirely disconnected from
+the gas-pipes. Converted fittings must be
+cleared of metal borings and sharp edges before
+wiring,
+( d ) The minimum distance between conductors
+or their insulating material, metallic sheath-
+ing, or tubing, whether earthed or not,
+and gas-pipes, telephone, bell, or other wires
+not forming part of the system, shall be one
+inch in those cases where the pipes, etc., run
+parallel to conductors. In the cases of crossings,
+a non-conducting distance piece must be securely
+fixed between the two, and this distance piece
+shall be of such a size as to extend at least one
+inch on each side of either pipe.
+36. Fuse-boards, motors, starters, and resistances in i
+situations where highly inflammable materials are stored j
+or worked, such as timber yards, wood-working shops,
+etc., must be provided with covers which, if of wood,
+must be lined with non-inflammable material. In places
+where inflammable or explosive dust or gases are liable
+Earthing.
+Gas-pipes and
+Gas fUtintrs.
+Inflammable
+Gases nod
+Dust.
+
+
+to be present, dynamos, arc lamps, mercury vapour lamps
+and wall plugs and sockets must not be used. In such
+situations incandescent-lamps must, with their holders, be
+enclosed in air-tight fittings of thick glass; switches,
+fuses and resistances should preferably be located outside
+such places, but where this is impracticable they must be
+enclosed in flame-tight incombustible cases strong enough
+to resist internal gas explosions; and motors, with their
+live parts, starters, terminals, and connections, must also
+be similarly enclosed. Circuits within safes and strong-
+rooms must be controlled by multiple switches placed
+outside and adjacent to the door.
+37. Except where completely enclosed in metallic
+casing, no switch, ceiling-rose, fuse, wall plug and
+socket, or other electrical accessory may be mounted
+directly upon any surface liable to become damp, but
+must, in addition to its own mount, be fixed upon a base-
+block impervious to moisture.
+38. In bathrooms and damp or other places where the
+operator may be in connection with earth, special pre-
+cautions must be taken to prevent the possibility of
+personal contact with any metallic part of the system.
+Where flexible drop-lights are used the lamp must be at
+least 8 feet from floor.
+(a) Lighting or power points in chilling or refrigerat-
+ing rooms must be controlled by a double-pole switch
+placed outside the room.
+CONDUCTORS —SIZE AND CONDUCTIVITY.
+39. Except for wiring fittings, the size of any con-
+ductor must not be less than 1/.044. The size of fit-
+ting wires must not be less than 1/.036.
+40. Subject to Rules 39 and 43 being complied with,
+the minimum size of the conductors within a building
+will be determined as follows:
+(a) For lighting circuits, by the permissible drop in
+volts, which, under ordinary conditions, must not
+exceed 2 per cent., plus a constant allowance of
+1 volt (Wire Tables 11. and 111., Col. 7).
+(b) For power and heating circuits, by the rise in
+temperature, in accordance with Wire Tables 11.
+and 111., Cols. 4,5, and 6.
+41. Insulated copper conductors must be of annealed
+copper, and they must have a conductivity not less than
+that laid down by the Engineering Standards Committee
+(Rule 57), and the copper must be protected by tinning,
+or other effective methods (Rule 56), from contact with
+(he insulating material if such contains sulphur.
+Circuits
+within
+safes, etc.
+Damp
+Surfaces
+Bathroom?.
+Chilling
+and
+Refrigerating.
+Size
+Lighting
+Circuits.
+Power and
+Heating
+Circuits
+Conductivity.
+Sulphur.
+
+
+42. All insulated copper conductors, having a greater
+cross-sectional area than 0.003 square inches, must be
+stranded.
+43. The maximum permissible currents for the various
+sizes of conductors up to 1 square inch in cross-sectional
+area are shown in Columns 4, S and 6 of the Tables 11.
+and 111., which allow for a rise of temperature of 20
+deg. F. (11.1 deg. C.) for rubber insulated cable and
+SO deg. F. (27.8 deg. C.) for impregnated paper
+cables. For sizes below 0.005 square inch in rubber and
+0.017 square inch in paper the tables are based on a
+current density of 4000 amperes per square inch.
+The Tables refer to situations where the temperature
+of the air does not exceed 80 deg. F. (26.6 deg. C.), and
+thus the normal maximum running temperature is 100
+deg. F. (37.7 deg. C.) for rubber, and 130 deg. F. (54.4
+deg. C.) for paper cables.
+Rubber insulated cables should not be allowed to attain
+to a permanent temperature higher than 120 deg. F.
+(48.8 deg. C), or for a short period 130 deg. F. (54.4
+deg. C), and impregnated paper to a higher temperature
+than 176 deg. F. (80 deg. C). The figures, therefore,
+in the latter cases, allow of a margin of 30 deg. F. and
+46 deg. F. respectively.
+Where the temperature of the air exceeds 80 deg. F.
+(26.6 deg. C.), or in any case where the dielectric of
+the cable is not suitable for the maximum temperature
+stated above, the permissible current should be reduced
+accordingly.
+The further limitation of the size of conductor by the
+permissible drop in volts is dealt with in Rule 40.
+Note. —The figures given in the Tables apply to single
+cables run in pairs in iron conduits or in wood casing,
+and to single cables sheathed with tough rubber com-
+pound and to concentric, twin, and three-core cables of
+any finish run singly.
+CONDUCTORS—INSULATION.
+44. Conductors, except as provided in Rule 72,
+must be specially insulated with material which does not
+rapidly deteriorate at the highest temperature to which
+it will be subjected; for instance, rubber must not be
+allowed to exceed 130 deg. F. (54.4 deg. C.), and paper
+or fibre 176 deg. F. (80 deg. C). They must also
+comply with the following conditions: —
+i. If the conductors are of a sectional area equivalent
+to No. 37/.072 (37/15 S.W.G.) or smaller, there
+must be applied to each coil in as permanent a
+manner as practicable, a label setting out in
+prominent and legible characters the following
+information: —
+Stranding.
+Wire
+Tables
+Temperature.
+
+
+(a) The manufacturer’s name and address.
+( b ) The length of wire.
+(c) The date of manufacture.
+(d) The gauge of conductors.
+(e) The insulation resistance per statute
+mile after 24 hours’ immersion in water
+at sixty (60) deg. F. and one minute's
+electrification at .... volts (the voltage
+to be plainly marked on the label, or
+details of the test voltage applied, or
+other definite and comprehensive de-
+scription of quality).
+ii. The marks “600 Megohm grade” or “2500 Megohm
+grade,” as the case may be, shall be indelibly and
+legibly applied to the wire at least once every yard; or,
+in the case of wires that are taped, such marks shall be
+indelibly and legibly applied to the tape at least once
+every yard.
+45. The insulating material off any conductor other
+than a flexible must be throughout either; —
+Class A. —A non-hygroscopic dielectric*, such as
+vulcanised rubber of the best quality, which only
+needs mechanical protection (Rules 63 to 66), or
+Class B. —A hygroscopic dielectric*, such as impreg-
+nated paper or fibre, which must be encased in a
+waterproof sheath, generally of soft metal, such
+as lead, drawn closely over the dielectric.
+46. The radial thickness of vulcanised rubber must not
+be less than that given in Cols. 4 and 5 of Table IV.
+The radial thickness of dielectrics of Class B must not
+be less than that given in Col. 4 of Table V., and the
+radial thickness of the lead sheath not less than that
+given in Col. 5. The dielectric must not soften suf-
+ficiently, under working conditions, to allow displace-
+ment of the conductor from the centre.
+Note.— The provisions regarding the radial thickness
+of dielectric as per Col. 5 of Table IV. shall not
+apply where the difference of potential between
+the conductor and earth does not exceed 250
+volts.
+47. The dielectric must be such that when the insulated
+conductor has been immersed in water for 24 hours, it
+will, while still immersed, withstand a pressure test of
+1000 volts for half an hour in the case of 250 volt
+cables (Def. 17) ; and one of 2500 volts for half an
+hour in the case of 650 volt cables (Def. 18). The
+testing pressures must be alternating pressures at a
+frequency of 50 to 100 supplied from an alternator
+capable of giving an output of not less than 5 kilowatts.
+* Dielectric does not include braiding or taping.
+
+
+48. The minimum insulation resistance, when corrected
+to a temperature of 60 deg. F. (15.6 deg. C), must be
+that given in Cols. 4 and S and 6 of Table VI. for
+vulcanised rubber, the test being made after one minute’s
+electrification at not less than 500 volts, and after the
+insulated conductor has been immersed in water for the
+24 hours immediately preceding the test, and while still
+immersed.
+49. Each insulated member of a twin or multiple
+conductor must have the insulation resistance given in
+the table for single conductors of the same size.
+50. Conductors insulated as in Class A must be taped
+and braided if drawn into conduits, and at least braided
+if laid in casing.
+51. Where colours are used to distinguish the con
+doctors, the following are recommended: —
+Continuous current :
++ Red
+Black
+Neutral Yellow or White.
+Alternating current :
+(a) Phase Red
+(bj Phase Yellow or White
+(c) Phase Blue
+Neutral Green
+52. Concentric conductors must, in all respects, con-
+form to the requirements laid down for single conductors ,
+the insulation resistance for the dielectric separating the
+two conductors must be that given in the Table for
+single conductors having the same diameter as the inner
+conductor. The insulation resistance of the dielectric on
+the external conductor, when insulated, must be that
+given in the Table for single conductors having the same
+diameter as the outside diameter of the external
+conductor.
+FLEXIBLE CONDUCTORS.
+53. Flexibles must be made up so that the total cross-
+sectional area is not less than equivalent to 1/.036 (1/20
+S.W.G.), and they must be composed of wires twisted
+together on a short lay, no wire being smaller than a
+1/.0076 inch dia. (36 S.W.G.L The carrying capacities
+of various sizes of flexible conductors are set out in
+the Table.
+54. The insulating material used as the dielectric must
+be pure rubber equal to washed Para rubber or vul-
+canized rubber of the best quality. The pure rubber
+must be laid on in two layers, care being taken that the
+edges of each layer overlap, and the radial thickness of
+the dielectric must not be less than 20 mils. Each coil
+of pure rubber flexible must be tested in air for IS
+Insulation
+Resistance
+Teat
+Twin and
+Multiple
+Conductors.
+Taping and
+Braidir :-g.
+Distinguishing
+Colours for
+Conductors.
+Concentric
+Conductors.
+Size
+Dielectric
+and Tests.
+
+
+minutes with a pressure of 1500 volts alternating between
+the conductors at a frequency of SO to 100.
+Note. —Notwithstanding anything contained in these
+Rules, flexible cord for portable apparatus made to the
+Specification of the National Board of Fire Under-
+writers of the United States of America will, subject to
+the approval of the Authorities concerned, be permitted
+for use with the portable apparatus intended for the
+same pressure as that for which such cord was
+manufactured.
+55. Vulcanised rubber flexible must be insulated with
+one layer of pure rubber and two layers of vulcanised
+rubber; the minimum insulation resistance and radial
+thickness of the dielectric must be those specified in the
+Table for 250 volt or 650 volt cable, having similar
+cross-sectional area of conductor. The pressure tests and
+insulation tests must be applied before braiding, and as
+specified in Rules 47 and 48, with the exception that
+the pressure tests may be applied for 15 minutes only.
+56. Insulating material containing sulphur must not be
+in direct contact with copper wires (Rule 41).
+COPPER CONDUCTORS.
+57. The data for the resistances of copper conductors
+are based on the standard defined by the British En-
+gineering Standards Association.
+JOINTS AND CONNECTIONS.
+58. Joints constitute a source of weakness and must
+be avoided wherever possible. When joints are unavoid-
+able, they must be accessible, and be mechanically or
+electrically sound to prevent heat being generated, and
+must be soldered, except where approved insulated con-
+nectors are used, or wherever flexibles are joined to
+other conductors (Rule 71). Soldering fluids containing
+acid or other corrosive substance must not be used.
+Connections between conductors should preferably be
+made in junction boxes of_ an approved type. Looping
+in must be employed to avoid tee joints.
+59. Junction Boxes must be so constructed that:
+(o) The conductors cannot be readily short-
+circuited.
+(i>) The insulation between opposite poles is rigid
+and durable.
+(c) The connections do not heat,
+(d) If used in damp places they are of water-tight
+pattern.
+
+
+60. In jointing conductors the braid, tape, or lead must
+be carefully removed without damage to the dielectric
+and for a sufficient length to ensure a thorough union
+between the dielectric and material used to insulate the
+joint. If the insulating material is not waterproof, the
+joint must be enclosed in an impervious sleeve or box,
+with water-tight inlet where the conductors enter. Care
+must be taken to exclude moisture during the work of
+jointing.
+61. Where conductors are connected to switches, fuses,
+or other appliances;
+(o) The whole of the separate wires forming the
+stranded or flexible conductor must be contained
+within the terminal, but the dielectric must not
+be bared back further than to allow the con-
+ductor to enter the terminals properly.
+( b ) The braid, lead, or other covering must be cut
+back from the end of the dielectric.
+(c) The exposed ends of the dielectric of Class B
+must be protected from moisture which might
+creep along the insulating material within the
+sheath.
+( d ) In damp places the strands must be soldered
+until solid to prevent moisture creeping along
+the conductor beneath the insulating material.
+62. All conductors, except flexibles and those having
+less than seven strands, must be soldered into proper'
+cable thimbles for connection to terminals. Where the
+type of terminal renders it impracticable to use a thimble,
+it is imperative that the strands be soldered together
+for connection. Where there is any possibility of stress
+on the thimbles the conductors must be secured, in
+addition to the soldering, by some mechanical device such
+as one or more set-screws. Alternatively, approved solder-
+less terminations or tags may be used.
+TUBED WIRING.
+63. Conductors (excepting flexibles), insulated as in]
+Classes A and B (Rule 45), may be cased in steel 1
+conduits with details and accessories in accordance with
+the British Standard Specification, No. 31, for steel
+conduits for electric wiring, or in brass or copper
+conduits. All conduits must comply with the following
+conditions;—
+(a) They must be electrically and mechanically
+continuous throughout. Plain slip sockets do not
+Jointing
+Conductors.
+Connection
+at
+Terminals.
+Cable
+Thimbles.
+Metal
+Conduitt
+The alteration in the design of conduit fittings, necessitated
+by this clause, shall take effect as from the Ist January, 1926.
+
+
+Comply with this Rule, some form of screwed* or
+grip joint being necessary, giving ample and per-
+manent electrical conductivity and mechanical
+rigidity throughout.* Class B Conduit must
+be used when protecting conductors any one of
+which is conveying current at SO amps, or more.
+(6) The conductors must in all cases be mechanically
+protected throughout their entire length, and in
+the case of switch loops run in the cavity be-
+tween lath and plaster, on wooden partitions, pro-
+tected either by steel conduit or by an approved
+flexible tubing of strongly woven non-inflam-
+mable material extending the whole length of
+the switch loops and brought through and fasten-
+ed at each end.
+(c) They must have all open ends bushed to prevent
+abrasion.
+( d ) They must be earthed (Rules 34 and 35). In
+dry places, isolated single lengths of conduit on
+consumer’s side of service fuses need not be
+earthed if adequately enamelled or otherwise
+insulated externally.
+( e ) In damp places, or where exposed to the
+weather, or liable to become wet by hosing, they
+must be water-tight.
+(/) They must be efficiently drained if liable to
+internal condensation. Ventilating outlets must
+be provided at the highest and lowest points of
+each such circuit to allow a circulation of air
+through the conduit.
+( g ) In the event of conduit of the sizes above one
+inch external diameter not being procurable,
+ordinary galvanized or black piping of the same
+internal diameter may be substituted, provided
+care is taken to free it from all internal burrs or
+other projections. Tees, elbows, and other fit-
+tings used therewith must have rounded internal
+surfaces, and be free from roughness or pro-
+jections at angles, or otherwise.
+CASED WIRING.
+64. Conductors (excepting flexibles), insulated as in
+Classes A and B, may be cased in wood in dry places
+under the following conditions: —
+• In no case may the thickness of the metal of the fitting be
+less than that of the Conduit on which it is to be used.
+
+
+(a) Wood casing must not be buried in plaster or
+cement, nor fixed immediately below, nor in
+contact with, water-pipes. Wood casing will not
+be permitted in lift wells, laid under floor, in
+hollow walls, or in places where liable to
+damage by rodents.
+(b) Conductors of the same polarity carrying
+currents from final sub-centres may be bunched
+(Rule 33).
+(c) Wood casing shall be so constructed that the
+width of the fillet between the grooves shall be
+at least half an inch, and the thickness of the
+outside shell shall be at least one quarter of an
+inch.
+Note.— ln all cases where enclosed wiring or armoured
+conductors are used, particular attention is drawn to the
+necessity for enclosing the conductors in their protective
+device close up to all terminals, meters, and the service
+cut-out boxes.
+UNCASED WIRING-TOUGH RUBBER
+COMPOUND CONDUCTORS.
+6S. Insulated conductors, protected by an outer rein-
+forcing cover of tough rubber compound not less than
+50 mils, thick, and capable of resisting abrasion, acids,
+oils and alkalis, may be used without conduits or wood
+casing when not exposed to mechanical injury or damage
+by rodents, provided that—
+(a) The resistance of the covering to fire is equal
+or superior to that of vulcanised rubber.
+(b) The covering encloses the insulated conductors
+as a whole or each insulated conductor,
+separately.
+(c) They are supported by means of clips, saddles-'
+or clamps of such form as will not indent or
+damage the sheathing.
+( d ) They are protected by steel conduit where’
+buried in plaster, cement or brickwork, or where:
+on the face of walls up to a height of 4ft. 6in,
+(e) They do not come into contact with damp brick-
+work or plaster.
+(/) Where laid across the joists at any angle, they
+are attached to the side of soft wood strips of
+not less than 1 inch by 1 inch dimensions.
+Where laid parallel with the joists, they are
+attached to the side of same. Clips or saddles
+must not be spaced more than 18 inches apart.
+In Roofs,
+
+
+between
+floors and
+ceilings.
+( g ) Where not running parallel to the joists, they
+are passed through holes in the joists at approxi-
+mately right angles to the same and a distance
+of not less than 2 inches from the underside of
+the floor. Where run parallel with the joists,
+they may be laid flat on the ceiling. No junction
+or connections will be permitted beneath floors,
+(/i) They are protected by wood or metal casing or
+conduits where exposed to mechanical injury
+such as on walls, up to a distance of 4 feet
+6 inches from the floor. Clips or saddles must
+be spaced not more than 9 inches apart on ceil-
+ings, or more than 12 inches apart on vertical
+runs.*
+Note. —Such conductors laid between floors, and in
+roofs between lath and plaster, or other hollow par-
+titions and walls, need not be protected.
+UNCASED WIRING—ARMOURED
+CONDUCTORS.
+66. Conductors (excepting flexibles), insulated as in
+Classes A and B, and efficiently armoured with steel
+armouring or cased with brass, copper, or equally hard
+metal of substantial thickness may be used without
+conduits or wood casing. The armouring or casing must
+be earthed (Rules 34 and 35).
+UNCASED WIRING—UNARMOURED
+CONDUCTORS.
+67. Conductors, insulated as in Clause (o) (Rule 45)
+may be used without mechanical protection (i.e., without
+conduit, casing, armouring, etc.) in situations where,
+owing to moisture, heat or the presence of fumes, en-
+cased wiring is deemed unsuitable. Cables of 7/.044 and
+upwards may be run likewise in open roofs of works and
+factories.
+(а) In such cases the wiring must be in view, and
+must not be exposed to mechanical injury or
+damage by rodents.
+(б) They must be supported at reasonable intervals
+and also at each end of the run with insulators
+of non-absorbent material in such a manner as
+to secure the permanent spacing of the con-
+ductors from each other, and from walls,
+ceilings, and all structural metal work and metal
+piping. Wires of a sectional area not greater
+than 7/.036 must be supported at intervals not
+exceeding five feet.
+Surface
+work.
+Armouring.
+Wiring to
+meet
+exceptional
+conditions of
+atmosphere,
+etc.
+Spacing.
+• The effect of these additions is to allow Tough Rubber
+Compound Wiring to be installed in the same manner as Lead.
+Alloy Wiring,
+
+
+(c) Where carried lower than 8 feet from the 1
+floor and where passed through walls, partitions
+or under floors, they must be protected by
+conduit.
+68. Unarmoured conductors having a sheathing con-
+taining not less than 95 per cent, pure lead (the
+remainder consisting of rarer metals) and of a thickness
+of not less than that specified in the British Engineering
+Standards Committee report, No. 7 (1922), on “British
+Standard Copper Conductors,” may be used, provided
+that:—
+(а) They are supported by means of clips, saddles
+or clamps of such form as will not indent or
+damage the sheathing, and, if metallic, of some
+metal other than copper.
+(б) Such conductors laid between floors and in
+roofs, between lath and plaster or other hollow
+partitions and walls need not be protected,
+except where liable to damage by rodents.
+( c ) They are protected by steel conduit where
+buried in plaster, cement or brickwork.
+( d ) They do not come into contact with damp
+brickwork or plaster.
+(e) Where laid across the joists at any angle they
+are attached to the side of soft wood strips of
+not less than 1 inch by 1 inch dimensions.
+Where laid parallel with the joists they are
+attached to the side of same. Clips or saddles
+must not be spaced more than 18 inches apart.
+(/) Where not running parallel to the joists they
+are passed through holes in the joists at ap- 1
+proximately right angles to the same and a'
+distance of not less than 2 inches from the
+underside of the floor. Where run parallel with
+the joists they may be laid flat on the ceiling.
+No junctions or connections will be permitted
+beneath floors.
+( g ) They are protected by wood or metal casing i
+or conduit where exposed to mechanical injury ’
+such as on walls, up to a distance of 4 feet 6
+inches from the floor. Clips or saddles must
+be spaced not more than 9 inches apart on
+ceilings or more than 12 inches apart on ver-
+tical runs.
+(h) The metal sheathing of the conductors is
+earthed and made electrically continuous
+throughout by means of wiped joints, or alter-
+natively by bonding clamps specially designed
+for the purpose and forming part of boxes pr
+Protection
+through
+' Walls, etc.
+Lead covered
+Conductors.
+In roofs.
+Between
+floors and
+ceilings.
+Surface
+work.
+
+
+similar fittings entered by the cenductors. The
+continuity of the sheathing shall comply with
+Rule 69, and the earthing with Rules 34 and 35.
+All wiring of this description must be handled
+and installed strictly in accordance with the
+makers’ specifications and instructions, provided
+that such do not in any way conflict with these
+Rules.
+69. The resistance of the metal sheathing between any
+two points of a completed installation shall not exceed
+2 ohms.
+UNCASED WIRING—FLEXIBLE
+CONDUCTORS.
+70. Flexibles (Rules 32 ( b ) and 90 (c) and ( e ) )
+may be used: —
+(a) For connections to lifts, subject to their being
+supported by porcelain insulators, and of such
+length that they will not come into contact with
+the bottom of the lift well when the lift is at
+the lowest point of its run. Flexibles in such
+positions shall be specially covered and must be
+adequately reinforced in such a manner that all
+mechanical strain is taken off the conductor.
+( h ) For pendant and portable appliances when
+suspended from ceiling roses or other approved
+supports, provided that when in positions in
+which there is a liability of the person handling
+flexibles making electrical contact with earth,
+the flexible must be protected with an earthed
+metallic shield, or a vulcanised rubber hose, or
+the like.
+(r) Unarmoured flexible pendants must be hung
+clear of fixtures, fittings, goods, and materials,
+and slack conductors are strictly prohibited. In
+all premises, such as butchers’, confectioners’,
+fish, and fruit shops, stables, hide and tallow
+stores, public dining rooms, public kitchens,
+where flexible conductors are likely to be
+exposed to the action of flies and other insects,
+such conductors must be specially protected.
+Rigid fittings must be used under verandahs,
+doorways, and all places exposed to the weather.
+(<f) No flexible extension shall be taken more than
+9 feet across a ceiling to drop light or other
+fitting.
+(e) Not more than two pairs of flexibles shall be
+connected to a ceiling rose unless the rose be
+specially designed for multiple connections.
+(/) When used for shop windows, flexibles and all
+wiring must be of a permanent character.
+Lifte
+Pendants.
+Protected
+Pendants.
+Flexibie
+Extensions.
+Shop
+Window^
+
+
+71. Connections between flexibles and other con- 1
+doctors must be fitted only by means of screw terminals
+in junction boxes, porcelain or other connecting boxes,
+or ceiling roses, and not by soldering. Where flexibles
+from fittings unavoidably pass into ceilings they may be
+enclosed in conduits, and must terminate in a junction
+box or ceiling rose fixed as near as possible to the point
+of entry into ceiling.
+UNCASED WIRING—BARE CONDUCTORS.
+72. Bare conductors (Def. 10) may be used indoors
+under the following conditions :—•
+(a) As collector wires for travelling cranes and
+similar appliances, but they must be so sup-
+ported upon insulators as to prevent contact
+between the conductors themselves, or between
+the conductors and the walls, or structural or
+other metal work, should a collector wire be
+displaced from any insulator.
+(b) The insulation at each straining point (i.e., at
+the end of each wire) must consist of double
+insulation with proper straining gear.
+(c) The current must be under complete control by
+means of a multiple switch and fuse or multiple
+fuse-switch in all supply conductors.
+( d ) Lightning arresters, if required by the
+authorities concerned, must be fitted on each
+pole if the bare wiring extends to a position
+exposed to lightning.
+( e ) As trolley wires for locomotives, cranes, and
+similar appliances, but they must be insulated
+by means of double insulation with proper
+straining gear between each wire and earth at
+their points of support.
+(/) Wdll rosettes or brackets used as supports for
+span wires must not be fixed within 1 foot of
+any gas-pipe.
+(<?) As accumulator connections, but such con-
+ductors must be well spaced from each other
+and from all structural or other metal work,
+and be rigidly supported on insulators.
+PROTECTION IN SPECIAL POSITIONS.
+73. Where conductors pass between partitions or under
+floors, they must be protected in accordance with Rules
+63, 65, 66 and 68. With low pressures they may alter-
+natively be protected in accordance with Rule 64. Where
+conductors are laid beneath wooden floors, the boards
+covering same must be fastened by screws near the edges.
+Connections.
+Travelling
+Cranes.
+Straining
+Points.
+Control.
+Lightning
+Arresters.
+Locomotive
+Cranes.
+Spacing.
+Accumulator
+connections.
+Partitions
+and Floors.
+
+
+74. Conductors where exposed to injury (e.g, where
+passing out of floors), must be specially protected by
+stout conduits or casing, and where passing through
+walls, partitions, or ceilings, they must be enclosed in
+porcelain or other protecting conduits.
+75. Conductors passing through party walls or fire-
+resisting floors must be provided with special protection,
+such as a close-fitting porcelain or other incombustible
+tube, to prevent the spread of fire. When the end of
+the tube is outside the building, it must be bell-mouthed
+and the openings turned downwards (Rule 117 ( g ) ).
+SWITCH AND DISTRIBUTION BOARDS.
+76. Main and distribution switch and/or fuse boards
+must comply with the following conditions:—
+(a) They must be:—
+1. Fixed in dry situations;
+2. So arranged that a fire thereon cannot spread,
+whether occurring at the front or back, and
+when placed on or within 6 inches of a
+wooden wall or 18 inches of a wooden ceil-
+ing, a thickness of hard, insulating, fire-
+resisting material is to be placed between
+switch or distribution boards and the wall
+or ceiling and must extend at least six inches
+beyond the board all round, except where
+such boards are enclosed as under Rule 85
+( b ). Wires, etc., passing through this
+material must fit the holes through which
+they pass as tightly as possible.
+1(6) Their bases must be of incombustible and in-
+sulating material, and fitted with moisture-
+proof bushes at the point of support if the
+material is hygroscopic;
+(c) The possibility of a permanent arc must be pre-
+vented, either by sufficient spacing of all live
+parts, or by the use of separating partitions.
+((d) For pressures not exceeding 250 volts, the
+minimum clearance between live metal parts of
+fuses of opposite polarities, or between any live
+metal and any earthed metal, must be 21 inches.
+( e ) The minimum clearance between any bare live
+metal at back of the board and the surface of
+the wall, upon which such board is fixed, must
+be 21 inches, provided that not more than four
+pairs of wires, each having a cross-sectional
+area not greater than that of a 7/.036 cable,
+are connected to the back of such board,
+
+
+(/) In those eases where more than four pairs of
+wires are connected to the back of the board,
+or where each cable connected thereto has a
+cross sectional area greater than that of a 7/.036
+cable, the minimum clearance must be increased
+to four inches.
+( g ) In the case of boards with no bare live metal
+at the back thereof, the minimum clearance
+between any such board and the surface of the
+wall upon which it is fixed, shall be 14 inches
+up to and including a two circuit lighting and
+a two circuit small power board. All switch
+boards of this type serving more than two
+circuits shall have a minimum clearance of 2i
+inches, provided that in no case shall there be
+a clearance less than one mghbetween the board
+and anytubingaLthe back thereof.
+(b) Where conductors carrying more than 4
+amperes are connected by other means than
+cable sockets to lift control, switch or distribu-
+tion board terminals or bus bars, a sleeve or
+binding of some approved fire-resisting material
+shall be placed over the bared conductor for a
+distance of at least one inch from such ter-
+minal or bus bar.
+(t) Switches shall be so arranged that their blades
+or moving parts are disconnected from the
+supply in the “off” position.
+O') In every case in which switches and fuses are
+fitted on the same pole, these switches shall be
+so arranged that the fuses are disconnected from
+the supply when their respective switches are in
+the “off” position.
+77. Fibro-cement switch or fuse boards may be used
+provided they comply with the following conditions: —
+(a) Fibro cement with metallic reinforcing will not
+be permitted.
+(b) The front, back edges, and all holes must be
+varnished so that they will not absorb moisture.
+There will be no objection to painting the face
+of such boards after being varnished with a
+non-conducting paint, should it be desired.
+(c) No lever operated switch, other than a tumbler
+switch, shall be mounted on fibro cement of less
+thickness than 4 inch.
+( d ) They must be rigidly supported, but in no case,
+must the area of contact between the board and
+each support, which must be non-hygroscopic,
+be less than i sq. inch.
+Fibre-cement
+panels.
+
+
+(e) They must be supported at points not greater
+than 12 inches apart, if under J inch thick.
+(/) Insulated wires may be taken through without
+bushes, but if bare conductors are used
+the holes must be bushed with some non-hygro-
+scopic insulating material. All holes must be of
+ample size to allow free access for the wire,
+and must in no case be less than I inches
+diameter.
+(g) All apparatus must be held on with bolts and
+nuts.
+(7i) To ensure mechanical strength, the following
+table must be adhered to, viz.:—
+Capacity of Switchboard Minimum Thickness
+in amperes. of Board.
+Up to 50 amperes i inch
+Over SO amperes I inch
+78. Switch and fuse boards must be so constructed
+and placed that all their parts which may have to be
+adjusted or handled are readily accessible.
+(a) No switches or fuses, except those required by
+the operator during a performance, shall be
+allowed within a biograph operating room. Any
+necessary switch or fuse apparatus must be
+placed as far as possible from the projector and
+film.
+79. Connecting conductors on main boards must be:—
+(a) Permanently accessible from either the back or
+front of the board;
+( b ) Symmetrically placed and spaced apart;
+(c) So proportioned that there shall be no ap-
+preciable rise of temperature when the current
+flows through them;
+( d ) So arranged that the course of every conductor
+may, where necessary, be readily traced;
+( e ) So arranged as to prevent the access of acid
+fumes from batteries to the board.
+80. Main switchboard circuits must be labelled for
+identification.
+81. No fuses may be placed at the back of switch-
+boards.
+82. The cases of instruments, if metallic, must be in-
+sulated from the circuits, but they may be earthed if
+desired.
+83. Every voltmeter or pilot lamp with its connecting
+wires must be protected by a fuse on each pole.
+Accesaibil ity.
+Connections.
+Labels.
+Fuses behind
+Switchboard*-
+Metal Cases.
+Voltmeter
+Fuses.
+
+
+84. Combination switch and fuse boxes must be so
+arranged that, if the fuses are of open type, it is not
+possible to operate the switch with the fuses uncovered.
+85. Where fuses are grouped together, the case of
+the distribution board :
+(o) Will, if glass-fronted, be a sufficient protection
+from the fused metal, provided that the dis-
+tance from cover to fuse exceeds one inch.
+(ft) Must, if made of wood, be lined with fire-re-
+resisting material, and a minimum clearance
+of one and a half inches must be provided.
+SWITCHES AND CIRCUIT BREAKERS.
+86. Switches and circuit-breakers (Rules 2 (6), 36 and
+37), whether fixed separately or combined with lamp-
+holders or fittings, must comply with the following re-
+quirements ;
+(a) Overheating must not take place at the point l
+of contact or elsewhere, when the full current
+flows continuously.
+(ft) They must be so constructed or arranged that i
+the contacts cannot accidentally close when left
+open.
+( c ) They must be incapable of forming a perma- 1
+nent arc when breaking circuit, and they must
+be tested with pressures and with currents 50
+per cent, in excess of those which will
+be used on the - circuits for which they are
+intended.
+(d) The bases must be of incombustible, non-con-
+ducting and moisture-proof material.
+(e) Circuit-breakers must be so arranged and
+placed that no combustible material is en-
+dangered by their action. . Where fixed to
+switchboards it is advisable that circuit breakers
+should be as near the top thereof as possible,
+(/) Unless placed in an engine-room or in a com- ,
+partment specially arranged for the purpose,
+they must have their live parts covered. The
+covers must be of incombustible material, and
+must be either non-conducting or of rigid
+metal, and clear of all internal mechanism. For
+more than 6 amperes, at pressures exceeding
+125 volts, metal covers must be lined with in-
+sulating material, which must be securely at-
+tached.
+ig) In positions where thev are liable to injury,
+or to come into contact with goods, they must
+be further protected by an open-fronted box or
+other suitable guard.
+Combination
+B oxe.«.
+Fuse Box
+Covers.
+Overheating,
+Construction
+Size.
+Base:-.
+Locaticr..
+Covers.
+Boxc*,
+
+
+( h ) Handles must be insulated and so arranged
+that the hand cannot touch live metal, or be
+injured through an adjacent fuse blowing.
+(j) Switches having a handle projecting through an
+open slot in the cover may be used, provided
+that a suitable shield is fitted to the satisfaction
+of the Inspector.
+(/) Multi-pole switches having opposite polarities
+under one cover will not be allowed, unless of
+a type approved by the Inspector.
+( k ) On main and distribution boards switches must
+be connected on the live side of the fuse.
+(0 The use of pendant switches is not permitted.
+87. Maximum Automatic Circuit Breakers must be so
+constructed and arranged as to close the circuit without
+risk to the operator and to effectively interrupt the cur-
+rent in the circuit before it so exceeds the working rate
+as to involve danger.
+FUSES*
+88. Fuses (Rules 2b, 36, 37 and 8S) must comply with
+the following requirements :
+(a) No overheating of any part must take place
+when the full current flows continuously.
+( b ) They must effectually interrupt the current
+when a short circuit occurs, and they must be
+so proportioned to the current to be carried
+that no conductor protected by them can be
+raised in temperature above that specified in
+Rule 44. When the working current (Table 11.
+Col. 4) does not exceed 10 amperes, the fuses
+must be proportioned to interrupt the current be-
+fore or when the current through the conductors
+rises to three times the working current; for
+working currents above 10 amperes the fuses
+must be proportioned to interrupt the circuit
+before or when the current through the con-
+ductor rises to twice the working current.
+The use of fuses of the enclosed type is re-
+commended, and in any case each fuse must
+be individually protected. No fuse smaller than
+one having a working capacity of three amps.
+♦NOTE: On or after the Ist January, 1926, the further instal-
+lation will not be permitted of Anchor, Bow, Chamber or other
+types of fuses which require the connecting of the fuse wire to
+terminals mounted on the base block. Fuses of all sizes,
+thereafter installed, must be of the removable and safe-replace-
+jment type of an approved design.
+
+
+to fuse at nine amps., heed be inserted for
+final sub-circuits.
+(e) The terminals must be so spaced apart or'
+screened that an arc cannot be maintained
+when the fuse is blown.
+( d ) The bases must be of incombustible non-con-
+ducting and moisture-proof material.
+(e) Unless placed in a compartment specially ar-
+ranged for the purpose, or in engine-rooms, in
+positions where no danger is likely to arise
+when a fuse operates, fuses must be provided
+with covers to retain the fused metal. These
+covers must be of incombustible material, and
+must either be non-conducting or of rigid metal,
+lined with insulating, incombustible material,
+and clear of all live parts. Small, close-fitting
+covers must be suitably ventilated.
+(/) Fuses must not be placed in wall plugs and
+sockets, ceiling roses or lampholders. i
+89. Branch fuses must be grouped together in acces-:
+sible positions in sight, and they should preferably be :
+symmetrically placed and labelled for each circuit.
+WALL PLUGS AND SOCKETS.
+90. (a) Wall plugs and sockets (Rules 36 and 37)
+must be:
+1. Capable of withstanding a test with pressures ■
+and with current SO per cent, in excess 1
+of that for which they are intended. They
+must be constructed so that they cannot readily
+be short-circuited. The clearances must be
+such that an arc cannot be started if the plug
+is pulled out while the current is flowing.
+2. So arranged that the live end of the coupling :
+is not exposed to accidental short circuiting
+or injury. A hand shield should preferably be
+provided on the plug portion, and the entry of
+the flexible should be at the side (See British
+Standard Specification, Report No. 73, Dec.,
+1919). Wall plug and sockets, where the lat-
+ter are fixed, must have incombustible bases,
+and in damp places they must be water-tight.
+Where the socket is attached to a floor, it must
+be so arranged that no dust or water can ac-
+cumulate, that all contacts are well below the
+floor level, and that any possibility of danger
+from contact of live metal with carpets is
+avoided. Provision should be made to facili-
+tate inspection.
+Terminals.
+Gases.
+Covers.
+Positions
+prohibited.
+Branch
+Fuses.
+Tests and
+Construction.
+Fixed Plugs.
+
+
+3. So arranged that the terminals are relieved ol
+the direct pull of the conductor.
+4. When used for medium and low pressures,
+every wall plug and socket must be inde-
+pendently controlled hy a fixed switch on
+the live side of the plug and adjacent to it,
+A wall plug and socket combined with a switch
+for low pressures, complies with this rule. To
+avoid leaving the flexibles alive, it is prefer-
+able that the portable fittings themselves should
+not be provided with switches, but where such
+switches are used, at least one lamp of a group
+must be controlled only by the fixed switch on
+the live side of the socket. Portable appliances,
+using pressures exceeding 250 volts, must be
+controlled only by wall switches. Woven con-
+tact mats and electric table cloths must be con-
+trolled from wall switches, and have red pilot
+lamps or other approved indicators in circuit.
+(6) The use of bayonet lamp-holder adaptors is
+permitted, provided that the current consumed
+by the apparatus connected thereto does not
+exceed li amperes.
+CEILING ROSES.
+91. Ceiling roses (See British Standard Specification
+Report, No. 67, Aug., 1914), (Rules 37, 70 b, and 88/),
+must be used for low pressures only, and:—
+(a) The bases must be of incombustible, non-con-
+ducting and moisture-proof material;
+( b ) The covers must be of incombustible material,
+and must be either non-conducting, or of rigid
+metal, clear of all live parts;
+(c) The terminals must be relieved of the direct
+pull of the attached conductor and fitting, and
+be so arranged that no short-circuit can take
+place;
+(d) They must not be used for attachment to
+more than two pairs of flexibles, unless speci-
+ally designed for multiple pendants.
+FITTINGS FOR SUPPORTING LAMPS.
+92. Wherever brackets, electroliers, or standards, re-
+quire to have the conductors threaded through tubes or
+channels formed in the metal work, these must be of
+ample size and have no sharp angles or projecting edges,
+which would be liable to damage the insulating material,
+and the open ends should, where possible, be bushed.
+In cases where lamps or fittings are suspended by means
+of flexible conductors, suitable cord-grips must b; used,
+which will not tend to chafe the insulation of the con-
+ductor or to press the cores of the conductor into con
+
+
+tact with one another through the insulation. Wheil
+the weight of a fitting, lamp and shade exceeds 2 lbs.,
+additional support must be provided, independent of the
+flexible conductor.
+93. Where possible, the conductors should preferably
+be carried without joints through the fittings to the
+lamps; but where connections at the fittings are un-
+avoidable, special care must be taken to make the
+joints equal in conductivity and insulation to the rest
+of the work.
+_ 94. Fittings for gas-filled lamps of 200 watts capa-
+city and over must be ventilated.
+LAMPHOLDERS.
+95. Lampholders (Rules 37 and 100) must: —
+(o) Be incombustible;
+(b) Not be hung from flexibles exposed to the
+weather;
+(c) Not contain a switch if they are to be used
+for pressures above 2SO volts;
+( d ) Be fitted with cord grips unless attached to a
+fitting. For large lamps it is advisable that
+the conductors near the lamp terminals be
+spaced apart;
+(e) Be of approved design for lamps taking more
+than li amperes.*
+96. The use of switch holders or key sockets is not
+permitted. (This rule is to take effect as from the 30th
+June, 1925.)
+97. A portable hand-lamp must be provided, with a:
+guard, which must not be in metallic contact with the
+lamp-holder.
+ARC LAMPS.
+98. Arc lamps (Rule 36) must be: —
+(o) Guarded by lanterns or globes arranged to in-1
+tercept falling particles of carbon; '
+Note. —Lanterns or globes may be dispensed
+with where an open arc is essential, as in pho-
+tography, and where no combustible material is
+present, as in a foundry; but the flooring im-
+mediately under the lamp, if of a combustible
+nature, must be protected from falling particles
+of carbon. Open inverted arc lamps, in the
+Joints.
+Gas-filled
+Lamps.
+Key Sockets.
+Hand Lamps.
+Globes and
+Guards.
+•Contractors are warned that on and after the Ist January,
+1926, the capacity of the Bayonet Type Socket and Adapter will
+be limited to 1 ampere.
+
+
+presence of combustible matter, must have
+metal reflectors rigidly attached beneath the
+arc, which at all times must be below the level
+of the upper edge of the reflector. The re-
+flector must project at least 15 inches, and in
+hazardous risks 21 inches, measured horizontally
+beyond the arc on all sides.
+(b) Insulated from their support;
+(c) Fixed so that their cases cannot come into
+contact with any metallic object;
+( d ) Controlled by linked switches and protected
+by a fuse on each pole;
+(e) When arc lamps are suspended from pulleys
+and are lowered for the purpose of cleaning
+and re-carboning, stranded conductors must be
+used for the leads if such leads go direct to
+the lamp. ,
+INCANDESCENT LAMPS.
+99. Incandescent lamps must be:—
+(a) Placed apart from combustible materials un-
+less specially protected: shades made of com-
+bustible materials must be kept free from con-
+tact with the lamps and their holders by suit-
+able guards or supports; the use of celluloid
+or similar material for shades or candle tubes
+is strictly prohibited;
+( b ) Fitted with guards if placed in positions where
+goods are liable to be stacked in contact with
+them;
+( c ) They, with their holders, must be enclosed in
+air-tight fittings of thick glass, if placed in
+positions where they are likely to be exposed
+to:—
+i. Inflammable vapour or gas, such as may be
+found in stores containing volatile spirits
+(benzine, petrol, etc.), cleaning pits of motor
+garages, etc.
+ii. Excessive dust or flyings, such as may be
+found in dust rooms and raising rooms.
+100. The use of cord-grips on portable appliances is
+recommended, and especially for large lamps it is ad-
+visable that the conductors near the lamp terminals be
+spaced apart.
+101. Lamp caps, of which the insulating material is
+hygroscopic, must not be used
+
+
+102. The connections to the terminals of the lamp
+tube of mercury vapour lamps must be so constructed
+that loose contact or overheating cannot occur. The
+resistance and solenoid must be completely enclosed in
+a metal case, and any apertures in the case for ventilat-
+ing purposes must be on the sides only and covered with
+fine wire gauze.
+In the case of gas-filled lamps of 300 watts capacity
+and over, the insulation of the conductors within a dis-
+tance of at least 12 inches of the holder, shall be of
+fire-resisting material. Such lamps shall be placed well
+clear of all inflammable material.
+HEATERS AND COOKING DEVICES.
+103. Heaters (Rule 32) must be:—
+(o) So constructed and mounted that their sup-
+ports and connections cannot become overheated,
+precautions being taken with regard to their
+surroundings, as in the case of non-electrical
+heating appliances. They must not be placed
+in close proximity to combustible material, un-
+less suitably protected.
+( b ) In private residences the capacity of Mains,
+Main Switches and Main Fuses and Sub-mains,
+controlling groups of final circuits of heating
+points, may be calculated according to the fol-
+lowing rating;—
+5 amperes for the first power point;
+2 amperes for each additional point;
+provided that the minimum size cable under the
+above diversity factor rating is 7/.029, and the
+minimum size switch and fuse control is 18 am-
+peres. This rating does not apply to the capa-
+city of the wire required for final circuits, where-
+in each power point must be allowed for at a
+minimum of 1000 watts, with a maximum of 15
+amperes on any final circuit. Each flat or sub-
+let tenement to be treated as a private residence.
+For 100-110 volt systems the above amperage
+shall be doubled. Each point to be controlled by
+double-pole 10 ampere switch if serving appara-
+tus of over 1000 watts.
+( c ) Flexible conductors to all heating and cooking'
+devices using more than 3 amperes, must not be
+of smaller section than that of 40/36 S.W.G.
+{d) Electric irons and all other portable appliances!
+with unearthed frames must not be installed i
+where the operator is in contact with a conduct-
+ing floor, or the appliance is used within touching
+i Mercury
+Vapour
+and
+Gas-filled
+Lamps.
+Mounting
+and
+Location.
+Capacity
+of Mains,
+Switches
+and
+Fuses.
+Conductors.
+Dangerous
+positions.
+
+
+Kitchen
+cooking
+devices,
+bath-heaters,
+domestic
+appliances
+in laundries*
+Ranges,
+Stoves and
+Ovens—Supply
+distance of earthed metal,* unless the frame is
+effectively earthed through a third wire.
+( e ) Where the surroundings are such that it will be
+possible for personal contact to be made between
+any part of the device and earth, the following
+precautions shall be observed: —
+i. Metal-covered switches, if used, must have the
+cover and also the handles (if of metal)
+earthed.
+ii. Fuses shall be of the cartridge plug or other
+similar replacement type, and of such design
+that they can be replaced readily without
+risk of shock.
+iii. Devices shall have all metal work, which does
+not form part of the electrical circuit, per-
+manently connected to earth.
+iv. All metal work forming part of the electrical
+circuit shall be so protected that it is im-
+possible to touch it whilst current is
+switched on.
+if) Supply may be two-wire, three-wire or three
+phase four-wire, and of such maximum balanced
+limitation as the Supply Authority may decide.
+Supply, when brought into consumer’s pre-
+mises, must be taken from separate pairs of ter-
+minals, arranged to minimise danger of shock,
+and the wiring from these terminals, including
+that behind distribution boards, must be kept
+distinct (Rule 30). If more than one pair of
+conductors is required, the separate circuits, each
+consisting of one outer and one neutral conduc-
+tor, may be run in one conduit, but each circuit
+must be switched and fused in pairs at the main
+board, or distribution board, before entering the
+circuit. All “outers” must be coloured red, and
+all wires be easily indentified at each end.
+Manner of connecting the circuits with the
+stove, etc., may either be:—
+* “Earthed metal” is defined as follows:
+(a) In dry surroundings having a wood floor, any metal
+object other than that connected with the electrical
+system.
+(b) Any metal work or piping, including that connected
+with the electrical system, in laundries, bathrooms, lift
+shafts, the immediate neighbourhood of running ma-
+chinery, and all places where even a slight shock might
+lead to a serious accident.
+It is further laid down that the minimum distance to be
+allowed between the Portable Device, when fully extended, and
+any earthed metal shall be 6 feet.
+
+
+i. By terminating the wires (run in conduit) at
+wall switches and 3 pin plugs situated ad-
+jacent to the stove. Connection therefrom to
+stove to be made by means of flexible, pro-
+tected by wire braiding, the braiding to be
+used for earthing, and to be mechanically
+connected to the stove and to the plug, in
+such manner as to obviate the conductors
+and insulation being stressed. The three-pin
+plug to be of such design as to prevent the
+possibility of wrong insertion, and the third
+pin to be used as an earthing connection.
+The earthing to be positively done by means
+of a continuous ground wire as set out in
+Rule 138 (0 in regard to motor frames, etc.
+ii. Alternatively, that conductors and conduit are
+brought directly into the terminal enclosure
+of the stove. In such case, the conduit must
+be securely attached to the stove, which
+must not be capable of movement, or change
+of position.
+ig) Switches.—Except where the design of the
+switches upon the oven makes adequate provision
+otherwise, metal covers and metal switch-knobs
+must be effectively earthed in such way as will
+prevent their being removed unless the earthing
+wire is first disconnected.
+(A) Switching of Elements.—Each element shall be
+controlled by a s.p. quick-break switch of an
+approved form. (Rotary types, in which the
+handle can be readily unscrewed and the cover
+fall off, are not regarded as satisfactory.) It
+must be ensured that all switches shall be on the
+“active” conductor.
+(i) Protection of Elements.—All current carrying
+parts of elements must be efficiently protected so
+as to prevent liability of contact therewith, or
+of short circuiting of same.
+The protecting guards, if of metal, must be
+fixed in position and make efficient contact with
+the earthed framework of the stove. This is
+regarded as the more necessary in that occasion
+arises in some stoves for having more than one
+outer conductor within the oven.
+O') Fuses. —If provided on stoves, must be con-
+veniently located and of the safe replacement
+hand-grip type, having no bare metal exposed.
+Switches.
+Fuses.
+
+
+104. Portable heaters using low pressures must have
+at least one section controlled solely on the live side of
+the connector, and, if using medium pressures, must be
+controlled solely by wall switches. These switches must
+be on the live side of the connector. It must be assumed
+that each heating point may be loaded to at least 1000
+watts.
+105. Electric irons, and similar non-luminous electrical
+appliances, should be protected by some form of auto-
+matic cut-off approved by the Inspector, which will
+operate in the event of the appliance exceeding the
+maximum safe temperature. Where not so protected
+some indicating device, such as a red pilot lamp, or
+audible indicator approved by the Inspector, must be
+connected in circuit therewith.
+RESISTANCES, CHOKING COILS, AND
+ALTERNATING-CURRENT TRANSFORMERS.
+106. (a) The live parts (Rule 36) of the above must
+be; —
+i. Carried on frames or supports, and, unless
+otherwise guarded from approach, enclosed
+in cases. These frames, supports, and cases
+must be of incombustible material efficiently
+insulated from the conductors.
+ii. Amply ventilated or oil-cooled. Where there
+is any danger of inflammable dust or flyings
+entering, apertures in the cases must be pro-
+tected by fine-mesh wire gauzes or by finely
+perforated sheet metal.
+iii. So proportioned that their cases cannot attain
+a temperature exceeding 176 deg. F. (80
+deg. C.).
+iv. So fixed that no unprotected combustible
+material is within 6 inches of the frames or
+cases containing them, or within 24 inches
+measured vertically above them.
+( b ) Auto-transformers for lighting purposes are
+not permitted on circuits operating at more
+than 250 volts.
+(c) Double wound transformers with a secondary
+voltage not exceeding 12 volts may be used in
+connection with ordinary bell installations, pro-
+vided such transformers are capable of with-
+standing a short circuit of the secondary coils,
+through 10 feet of No 20. copper wire for one
+hour, without overheating. Such transformers
+must be protected by a fuse on each pole.
+
+
+MOTORS.
+107. Motors (Rules 2 ( b ) and 36), rated at more
+than one-third of a horse-power, must conform with the
+recommendations of the British Engineering Standards
+Association, Specification 168, and must comply with the
+following requirements-
+(o) They must be protected from damp, dust, and
+mechanical injury.
+( b ) They must be so placed that no unprotected
+woodwork or combustible material is within a
+distance of 12 inches from them, measured hori-
+zontally, or within 4 feet, measured vertically,
+above them, unless they are of the totally en-
+closed type (Def. 21).
+( c ) Where mounted upon wood flooring, they must
+have a sheet of metal inserted between them and
+such flooring. If elevated over wood flooring,
+they must either rest upon a metal plate or have
+a metal tray suspended immediately below them.
+( d ) In positions exposed to inflammable dust or
+flyings, or where inflammable materials arc
+xnanipulated or stored, they must be totally
+enclosed, pipe-ventilated, or semi-enclosed (Def.
+21 and 22). In such situations, any ventilating
+openings in the cases of continuous current
+machines must be protected by fine-mesh wire
+gauze or by finely perforated sheet metal, and all
+slip rings, commutators and brushes must be
+totally enclosed. Inspection openings, fitted with
+plate glass or fine-mesh wire gauze, are allowed.
+Induction motors may be protected machines
+(Def. 19), but slip rings or brushes or any
+sliding contacts must be completely enclosed in
+metal cases.
+(e) They must be controlled by a multi-pole switch
+and protected by a fuse or overload breaker on
+each pole. All motors on lifts, hoists, and con-
+veyors exceeding S h.p. must be protected by an
+automatic circuit-breaker on each conductor, such
+circuit-breakers to be mechanically linked, when
+connected, as in Rule 26.
+(/) Every continuous-current motor must be fitted
+with a starting switch, with a no-volt release
+and a series starting resistance.
+( y ) The shunt circuit of any motor must be so
+connected that the field is excited before the
+starting resistance is cut out.
+Protection.
+Combustible
+Materials.
+Wood Floors.
+Inflammable
+Dust.
+Control.
+Starting
+Gear.
+Shunt
+Circuit.
+
+
+(h) Every 3-phase alternating-current motor of 3
+h.p. and over must be provided with a suitable
+starter. Every installation, having motors of a
+total capacity exceeding 3 h.p., must be provided
+with a main no-volt circuit-breaker which will
+ensure the opening of all phases simultaneously
+in the event of the failure of the supply, or
+alternatively, each motor starter must be pro-
+vided with a no-volt release operating in a
+similar manner.*
+(i) Motors and starters must have their frames
+connected to earth. In no case must the conduj'.
+be used as the earth conductor,
+(;) They must be provided with suitable terminal
+blocks, which must be protected.
+( k ) Every single-phase motor of 1/3 h.p. or over
+must be provided with a suitable starting switch.
+GENERATORS.
+108. Generators (Rule 36), (See British Standard
+Rules for Electrical Machinery, Report No. 168), must —
+(а) Not be placed in positions exposed to inflammable
+dust or flyings, nor where combustible materials
+are manipulated or stored;
+(б) Be protected from damp, dust, and mechanical
+injury.
+( c) Be so placed that no unprotected wood-work, or
+other combustible material, is within a distance
+of 12 inches from them, measured horizontally,
+or wdthin 4 feet, measured vertically, above
+them;
+(//) Have a sheet of metal inserted between them
+and such flooring, where mounted upon or above
+wood-flooring;
+(c) Be controlled by a double-pole switch and pro-
+tected by a fuse or circuit-breaker on each pole,
+except with earthed concentric wiring;
+(/) Be provided with a suitable terminal block
+attached to the djmamo. All terminals must be
+covered.
+ACCUMULATORS AND OTHER BATTERIES.
+109. The room in which the accumulators or primary
+batteries are placed must be well ventilated (Rule 36).
+♦ This Clause relates to installations having individual Motors of
+3 h.p. or over.
+
+
+110. The case of each cell must stand on insulators.
+Glass cells having a base measuring more than 18 inches
+in length or breadth must have intermediate supports.
+111. Bare conductors (Rule 72 ( g ) ) must be used for
+end and regulating cell connections.
+112. The method of control must be as described in
+Rule 107 (e).
+113. Portable accumulators with celluloid cases must
+be so arranged and placed during recharging that if they
+become ignited the fire cannot spread.
+TESTING.
+114. The current must not be switched on until the
+finished work has passed the following tests, which are
+to be made with not less than twice the working
+pressure:—■
+The insulation resistance between conductors and be-
+tween conductors and earth of the whole or any part of ■
+the wiring must not be less in megohms than 30 divided
+by the number of points under test.
+Separate tests must be taken of the insulation of the
+sub-circuits, and these tests must be made on the instal-
+lation as a whole and on its individual sub-circuits.
+Any motor, heating appliance, arc lamp, etc., together
+with its control gear, or other accessory apparatus, must
+have an insulation resistance on the live parts of not less
+than 1 megohm from the frame or case.
+In the case of lighting circuits, the whole of the lamps
+having been connected to the conductors, and all switches
+being on and fuses in circuit, the insulation resistance of
+the whole or any part of the installation must not be less
+in megohms than 25 divided by the number of lamps.
+115. The value of systematically inspecting and testing]
+apparatus and circuits cannot be too strongly urged.
+Records should be kept of all tests, so that any gradual
+deterioration of the system may be detected. Cleanliness
+of all parts of the apparatus and fittings is essential.
+116. Before making any repairs or alterations, the]
+circuits which are to be handled must be entirely discon-
+nected from the supply. All dead and disused wires and
+fittings, which do not conform to these rules, must be
+removed from the buildings wherever possible.
+AERIAL CONDUCTORS.
+117. All aerial conductors fixed to the outside of a j
+building must be stranded, and those other than the
+neutral service wires must be insulated for a distance of
+Insolation.
+Connectors,
+Control.
+Portable
+A ccumulators.
+Insulation
+resistance to
+earth.
+Testing of
+Circuits.
+Inspection.
+Repairs.
+Aerial*.
+
+
+not less than 7 feet from the building. They must be
+supported on suitable insulators and run in an approved
+manner. In places where lightning storms are prevalent,
+external conductors entering, or connected to, or travers-
+ing the building or buildings, must, where required by
+the Authorities concerned, be provided with approved
+lightning arresters.
+(а) An aerial conductor for a span not exceeding
+75 feet between supports shall be not less than
+7/.036 cable, or for greater spans shall not be
+less than 7/.044 cable. The distance between
+points of supports shall in no case exceed 135
+feet. In no case shall the height from the ground
+be less than 10 feet.
+(б) Every support on an aerial line must be of
+durable material and properly stayed against
+forces due to wind pressure and change of
+direction of the line, and all conductors must be
+so spaced that they cannot touch each other,
+(c) The aerial line must be 7 feet above any roof
+which is accessible to traffic, etc., and at least
+2 feet above the highest point of all other roofs
+over which it passes. It must be efficiently sup-
+ported on porcelain insulators; button insulators
+will not be accepted for the purpose.*
+( d ) At point of entry to a building the connection
+of an aerial must be drip looped outside, the
+holes through wall being bushed with incom-
+bustible non-absorbent tubes slanting upward
+towards the inside (Rule 75).
+TEMPORARY WIRING.
+118. Temporary wiring will not be allowed without a
+permit. The Authority concerned may give a permit for
+a temporary installation to be connected for a period of
+not more than one month. In the event of any such
+installation being required for a period exceeding one
+month a fresh permit must be obtained.
+119. At the expiration of the permit period the tem-
+porary installation must be entirely removed.
+120. Each circuit shall be protected by fuses and the
+entire installation controlled by a multi-pole switch.
+Such switches and fuses shall be mounted on incom-
+bustible material, protected from weather and moisture,
+and securely fixed.
+121. Temporary installations, which involve an increase
+of the loading of any existing installation by more than
+Lightning
+Arresters.
+Aerial Span.
+Aerial
+Supports.
+Entry to
+Building-,
+Permit and
+Period.
+Removal.
+Control and
+Protection.
+Temporary
+Additions to
+Existing:
+Installations.
+♦This Rule shall not apply to service wires crossing a
+verandah where such wires are under the constant supervision
+of the Supply Authority.
+
+
+25 per cent., shall be entirely controlled by separate main
+fuses and switches.
+122. All temporary fuses and switches must be readily
+accessible and under the control of a responsible person.
+123. All wire used shall be of the 600 megohm grade.
+124. Where suspended the wires must be supported by
+approved insulators placed not more than 40 feet apart.
+125. No single circuit shall serve more than 60 lamps,
+nor shall the maximum loading of any circuit exceed
+2400 watts.
+126. If the leads are looped into the lamp-holders they
+shall be securely bound together for a distance of at
+least 1 inch above the lamp-holder.
+127. All joints shall be soldered and insulated.
+Installations Supplied from Privately-Owned Gene-
+rating Plants at Pressure Not Exceeding 50 Volts.
+128. Every installation must be protected by a double- 1
+pole main switch, and a main fuse on each pole.
+129. All apparatus must be adequately protected by,
+switches and fuses, which must be fixed in accessible
+positions, free from possibility of mechanical damage.
+The bases and covers of fuses must be of incombustible,
+non-conducting, and moisture-proof material.
+130. Conductors in dry places may be fixed with two'
+insulators or with cleats. Conductors must be fixed at
+least 4 inch clear of all brick, cement, or iron work,
+and all damp surfaces. Wiring, which may be subjected
+to mechanical damage, must be provided with additional
+protection.
+131. All wiring must be fixed clear of gas-pipes and
+fittings.
+132. The carrying capacity of wires and cables must
+not exceed that allowed under Rules 39 to 43.
+133. Conductors must be of tinned copper, and must be
+insulated with at least one coat of cotton, one coat of
+pure indiarubber, one coat of felt tape, then braided and
+compounded,
+134. In special cases additional protection, both as
+regards insulation, protection, and fixing of conductors
+may be required by the Inspector.
+135. The insulation resistance to earth or between con-
+ductors of any installation shall not be allowed to fall
+below 0.25 megohms when tested at a pressure of 100
+volts.
+Accessibility
+of Control.
+Wire.
+Suspension.
+Capacity of
+Circuits.
+Festooning.
+Joints,
+Control.
+Switches
+and Fuses.
+Wires,
+
+
+156. No conductor of less sectional area than a .0015
+(No. 18 S.W.G.) wire shall be used.
+137. All conductors must radiate from distributing
+centres. No final sub-circuit for incandescent lighting
+may carry more than 8 amperes. A single-pole switch
+and fuse, both fitted in the positive conductor, is con-
+sidered suitable protection for sub-circuits.
+Additional Regulations in Reference to Supply at
+Pressures in Excess of 250 Volts, but not
+Exceeding 650 Volts.
+138. The pressure of supply to any consumer shall not
+exceed the limit of low pressure, except for special pur-
+poses, for which a medium-pressure supply may be given,
+upon the consumer undertaking to comply with the con-
+ditions hereinafter prescribed, and upon the undertakers
+forwarding to the Supply Authorities written notice of
+their intention to give such supply, and the undertakers
+shall not give any such supply unless they have found
+that the consumer’s installation complies with the fol-
+lowing conditions, viz.:—
+Where energy is supplied for power purposes, the
+supply to every installation under these Rules shall be
+arranged and controlled as follows;
+(a) From the Supply Authority’s terminals or
+meter, connection must be made either to an
+approved type of combined automatic overload
+and no-volt circuit-breaker, and having a trip on
+each pole, or to an efficient hand-operated main
+switch and to main fuses of the safe-replacement
+type on each pole. Where the full-load supply
+exceeds 2SO amperes, an automatic overload
+switch or circuit breaker must be used.
+Isolating links must be inserted between
+an oil switch or oil circuit-breaker and
+the supply terminals. Bus-bar connections
+must be provided from the circuit-breaker
+or main switch, together with fuses or
+other automatic cut-off devices for protection
+of circuits leading therefrom. Where the switch-
+board appliances are not back connected the
+space between the wall and the back of the
+board need not exceed 2i inches. Where switch-
+board appliances are back-connected a minimum
+spacing of 4 inches must be provided between
+any live metal and a wall. Where the size of
+switchboard exceeds 24 inches x 24 inches, or
+4 square feet, the distance from wall must be
+increased to 12 inches. Boards exceeding 10
+square feet in area must be mounted on standards
+Pressure of
+mpply to
+tonsumers,
+fee.
+insumer’s
+ain Switch
+id Distribu-
+dh.
+oard.
+tance
+ween Wall
+Back of
+tch-boards.
+
+
+supported by the floor, and must have a clear
+space of 2 feet 6 inches between the wall and
+any live metal. All stays and conductors must
+be so arranged as to allow of head room of not
+less than 6 feet. The spacing between live parts
+of opposite polarity of switches or of fuses, un-
+less effectively screened, must not be less than
+3i inches. Every installation must be provided
+either with a main no-volt release attachment,
+which will insure the simultaneous opening of all
+poles of the supply, or, alternatively, each motor
+must be provided with a no-volt attachment
+operating in a similar manner.
+( b ) Each individual motor circuit must originate
+at a distribution board, which is either incor-
+corporated with the main switchboard, or is con-
+nected thereto by means of sub-main circuits.
+(c) The size of the conductors forming the con-
+nections to motors or otherwise in connection
+with the supply on the consumer’s premises shall
+be in accordance with Tables 2 and 3 of these
+Rules.
+All conductors, except flexibles and those hav-
+ing less than seven strands, must be soldered into
+proper cable thimbles for connection to terminals.
+Where the type of terminal renders it imprac-
+ticable to use a thimble, it is imperative that
+the strands be soldered together for connection.
+Where there is any possibility of stress on the
+thimbles, the conductors must be secured in ad-
+dition to the soldering, by some mechanical de-
+vice, such as one or more set screws. Alterna-
+tively, approved solderless terminations or tags
+may be used. (Rule 62, Solderless Termina-
+tions.)
+( d ) The consumer’s wires, and any service lines
+upon the consumer’s premises, must be com-
+pletely enclosed in strong metal tubing, united
+by some form of screwed or grip joint, giving
+ample and permanent electrical conductivity and
+mechanical rigidity throughout, and all free ends
+of such tubing shall be provided with suitable
+bushes firmly fixed therein, or shall have equiva-
+lent approved protection. Where conduit is run
+at the floor level, or where protecting conduc-
+tors carrying SO amperes or over, seamless con-
+duit, Class B, with screw couplers, must be
+used. In butchers’ chopping rooms, dairies,
+
+
+ants, &c.
+lendosed
+nductors.
+otective
+vices for
+•tors, &c.
+trol
+tch.
+ninal
+(ks.
+(ling
+breweries, stables, and places liable to be damp,
+Class B conduit must also be used.
+(e) All moving contacts and bare conductors in con-
+nection with electrically-driven cranes and simi-
+lar appliances must be so placed and guarded as
+to prevent danger so far as is reasonably prac-
+ticable to the satisfaction of the Inspector.
+(/) In special circumstances, and after application
+to and consent by the Supply Authorities, con-
+ductors may be run on insulators inside pre-
+mises.
+(g) Every sub-main circuit or motor circuit must
+be protected at its origin by an efficient fuse or
+other automatic cut-off on each pole, but where
+the rated full-load current of any motor exceeds
+60 amperes, automatic maximum current circuit-
+breakers must be used. All circuit-breakers
+must be provided with an overload trip coil on
+each pole.
+( h ) The design of any fuse must be such that the
+replacement of it will not involve the touching
+of any charged metal parts.
+(i) Motors, switches, starting devices, automatic
+circuit-breakers and fuses must be enclosed and
+protected so that there will be no danger of
+shock being received in the ordinary handling
+thereof, or of a fire being caused by their norma!
+or abnormal action. Where only one motor is
+installed it shall not be necessary to provide a
+separate switch for the motor, if the switch
+controlling the installation be readily accessible
+by the person in charge of the motor.
+(j) Every motor shall be controlled by means of an
+efficient switch placed in such a position as to
+be easily handled by the person in charge of the
+motor, and connected so that by its means all
+pressure can be cut off from any regulating
+switch, resistance, or other device in connection
+therewith.
+( k ) All motors in which the full-load current does
+not exceed 100 amperes must be provided with
+suitable terminal blocks, which must be pro-
+tected.
+(l) The frame of every electric motor, all metal
+tubing, and any metal forming the cover of, or
+enclosing any portion of an electric line, if
+such cover be without an efficient insulating lin-
+ing, must be effectively connected with earth in
+
+
+such manner as not to allow of difference of
+potential between the earthing connections and
+the general mass of the earth being set up. All
+earth connections must be in sight and easily
+accessible. The earthing cable must be stranded,
+continuous from motor and starting frames to
+earthing point, securely fastened to supports, and
+enclosed in metal tubing where liable to mechani-
+cal injury. The carrying capacity of the earth-
+ing conductor must be not less than one-half of
+the carrying capacity of the conductor to be
+protected. Minimum size of earthing conductor
+7/.036 (7/20 S.W.G.).
+( m ) A notice must be fixed in a conspicuous posi-
+tion, at every motor and switchboard in con-
+nection with the supply, forbidding unauthorised
+persons to touch the motor or apparatus, and
+stating that the maintenance of the consumer’s
+lines and apparatus in a safe condition in ac-
+cordance with the regulations under the Electric
+Light and Power Act, is a condition under which
+the supply of electricity is given and continued.
+139. Unless special permission is given in writing by
+the authorities concerned, prior to the commencement of
+work, the circuits of any electric traction system employ-
+ing an earthed return, must under no circumstances be
+taken into, on, or through any building for light or power
+purposes, save in the case of the power and car houses or
+other buildings forming part of the system.
+Warning to
+Unauthori.sec
+Persons.
+Supply fvorr
+Tramway
+Mains.
+
+
+APPENDICES.
+CONDUIT TABLE. Pag
+Extracts from British Standard Specification, No. 31,
+for Steel Conduits for Electrical Wiring (Rule 63) 47
+Standard Dimensions of Steel Conduits before Enamel-
+ling or Galvanizing 48
+Permissible Number of Conductors 49
+ELECTRICAD WIRE TABLES.
+Tablel.—Dimensions, Weight, and Resistance of Solid
+and Stranded Circular Conductors 50
+Table ll.—Current Carrying Capacity and Corres-
+ponding Fall of Pressure —Vulcanized Rubber
+Cables 51
+Table lll.—Current Carrying Capacity and Corres-
+ponding Fall in Pressure—lmpregnated Paper
+and Lead-covered Cables 52
+Table IV.—Dimensiens of Dielectric and Protective
+Covering of Cables—Rubber Insulated 53
+Table V.—Dimensions of Dielectric and Protective
+Covering of Cables—Paper Insulated 54
+Table Vl.—lnsulation Resistance of Cables 55
+Table Vll.—Dimensions and Resistance of Conductors
+for Flexible'Cords 56
+
+
+CONDUIT TABLE.
+Extracts from British Standard Specification, No.
+31, for Steel Conduits for Electrical Wiring
+(Rule 63).
+1. Steel conduits for electrical wiring shall be either
+close joint, brazed, welded, or solid drawn. They shall
+be of mild steel, free from burrs, flaws, or other defects.
+They and their accessories, when these are made of steel
+or iron, shall be stove-enamelled or galvanised inside and
+out by an approved process.
+2. Two classes of steel conduit for electrical wiring
+are recognised as standard;—
+(o) Plain.
+( b ) Screwed.
+Class (a) consists of light-gauge conduit of the
+thickness and dimensions given in the annexed
+Table. The socket joining the lengths of tubing
+is a sleeve, and neither the ends of the conduit
+nor the socket are screwed.
+Class (b) consists of heavy-gauge conduit of the
+thickness and dimensions given in the annexed
+Table. Both ends of the conduit are screwed
+with the Whitworth form of thread.
+The couplers are also screwed inside throughout
+their entire length with a right-handed thread of
+Whitworth form, but having the number of
+threads per inch given in the annexed Table.
+The screwed portions of both conduits and
+couplers are not enamelled.
+3. Both classes of conduit shall be manufactured to
+the respective outside diameters given in the annexed
+Table.
+4. Both classes of conduit shall be manufactured in
+straight lengths of 10, 12, or 14 feet.
+5. Both classes of conduit and accessories shall be
+manufactured to the respective thickness given in the
+annexed Table.
+6. The average thickness of steel conduits should be
+determined by weighing not less than one hundred feet
+(100). The weight shall fall within the margins given
+in the annexed Table.
+
+
+Outside Diameter in
+Inches
+i
+i
+1
+11
+li
+2
+Threads per Inch .. ..
+18
+16
+16
+16
+14
+14
+Depth of Thread in
+Inches
+.0356
+.0400
+.0400
+.0400
+.0457
+.0457
+Minimum Length of
+11/16
+I
+I
+1
+li
+li
+Thread on end of
+Conduit, in Inches
+Norains
+1 Thic
+kness.
+Class “A”—
+S.W.G
+19
+18
+18
+17
+16
+16
+(inches) .. ..
+(.040)
+(.048)
+(.048)
+(.056)
+(.064)
+(.064)
+Class “B”—
+S.W.G
+16
+IS
+IS
+15
+14
+13
+(inches) .. ..
+(.064)
+(.072)
+(.072)
+(.072)
+(.080)
+(.092)
+Weig
+Maximum
+ht per
+28.9
+100ft. i
+40.8
+n lbs.
+55.4
+79.9
+108.7
+146.7
+Class “A”
+Minimum
+23.6
+34.4
+46.6
+68.9
+95.4
+128.
+Maximum
+42.2
+S6.9
+78.1
+99.3
+132.1
+202.4
+Class “B”
+Minimum
+37.4
+51.0
+69.8
+88.5
+119.0
+184.7
+Combined length of re-
+cessed portions of plain
+21
+2i
+3
+3i
+4
+5
+sockets in inches
+Thickness of plain socket
+in inches
+.060
+.072
+.072
+.084
+.096
+.096
+Length of Coupler in
+inches
+li
+li
+li
+li
+2
+2i
+Thickness of Coupler in
+inches
+.128
+.144
+.144
+.144
+.160
+.184
+(before screwing)
+Minimum Radius of
+Bends in inches .. ..
+li |
+2 1
+2i
+31
+51
+8i
+CONDUIT TABLE.
+Standard Dimensions of Steel Conduits Before Enamelling
+or Galvanizing.
+
+
+Size of Conductors.
+External diameter of conduit.
+i”
+«”
+r
+1”
+11”
+li”
+2”
+New
+Standard.
+1/.044
+Old
+Standard.
+1/18 S.W.G.
+3
+5
+7
+12
+20
+30
+SO
+1/.064
+1/16 S.W.G.
+2
+4
+6
+10
+16
+24
+40
+3/.029
+3/22 S.W.G.
+2
+4
+6
+12
+]20
+30
+50
+3/. 036
+3/20 S.W.G.
+2
+3
+4 !
+8
+j 14
+"12
+20
+32 —
+7/. 029
+7/22 S.W.G.
+1
+2
+4!
+8
+16
+24
+7/.036
+7/20 S.W.G.
+1
+1*
+3
+6
+10
+14
+18
+7/.044
+7/18 S.W.G.
+1
+1
+2*
+4
+6
+8
+12
+7/.0S2
+7/17 S.W.G.
+—
+1
+1
+2*
+4
+6
+9
+7/.064
+7/16 S.W.G.
+—
+1
+1
+2*
+4
+6
+9
+19/.052
+19/17 S.W.G.
+—
+—
+1
+2*
+3
+Si
+8
+19/.044
+19/18 S.W.G.
+—
+—
+1
+1*
+3
+5
+8
+19/.064
+19/16 S.W.G.
+—
+—
+—
+1
+1
+2*
+4
+19/.083
+19/14 S.W.G.
+—
+—
+—
+1
+1
+2*
+4
+1/.044
+CONDUI
+1/1& S.W.G.
+T—Cl
+4
+.ASS
+6
+“B”
+10
+16
+26
+46
+1/.064
+1/16 S.W.G.
+3
+4
+8
+14
+20
+36
+3/.029
+3/22 S.W.G.
+3
+S
+10
+16
+26
+46
+3/.036
+3/20 S.W.G.
+2
+4
+6
+12
+16 |
+30
+7/.029
+7/22 S.W.G.
+2
+3
+6
+10
+14
+22
+7/.036
+7/20 S.W.G.
+1
+2*
+S
+8
+12
+16
+7/. 044
+7/18 S.W.G.
+1
+1
+3
+6
+7
+10
+7/. 052
+7/17 S.W.G.
+■
+1
+2*
+4
+5
+8
+7/. 064
+7/16 S.W.G.
+—
+1
+2*
+4
+5
+8
+19/.0S2
+19/17 S.W.G.
+—
+1
+1
+3
+4
+6
+19/.044
+19/18 S.W.G.
+—
+1
+1
+3
+4
+6
+19/.064
+19/16 S.W.G.
+—
+—
+1
+1
+2*
+4
+19/.083
+19/14 S.W.G.
+—
+—
+1
+1
+1
+4
+PERMISSIBLE NUMBER OF CONDUCTORS.
+These Numbers Must Not Be Exceeded.
+CONDUIT—CLASS “A”
+NOTES, —The external diameter is that by which the size of the
+conduit is known.
+For wires having radial dielectric thickness of 62 mils,
+take one size larger up to and including 7/.052.
+In each case the nearest old standard gauge of wire is
+named.
+*ln these cases two additional conductors may be inserted provided
+the external diameter of same does not exceed one half the diameter
+of the conductors mentioned in table.
+
+
+Nominal
+Area.
+1.
+Old
+S.W.G.
+Standard
+(nearest).
+2.
+Effective
+Area.
+3.
+Number
+and
+Diameter
+of Wires
+comprising
+Conductor.
+4.
+Overall
+Diameter*
+5.
+Weight
+per 1000
+Yards.
+6.
+Resistance
+per 1000
+Yards at
+60 deg. F.
+(15.6 deg.
+C.)
+7.
+sq. in.
+sq. in.
+in.
+Sul
+lb.
+i
+ohms.
+0.0010
+1/20
+0.00102
+1/.036
+0.036
+11.77
+23.59
+0.0015
+1/18
+0.00152
+1/.044
+0.044
+17.58
+15.79
+0.0020
+. 3/22
+0.00194
+3/.029
+0.062
+23.37
+12.36
+0.0030
+3/20
+0.00299
+3/.036
+0.078
+36.02
+8.019
+0.0030
+1/16
+0.00322
+1/.064
+0.064
+37.20
+7.463
+0.0045
+7/22
+0.004SS
+7/.029
+0.087
+54.39
+5.281
+0.0070
+7/20
+0.00701
+7/.036
+0.108
+83.81
+3.427
+0.0100
+7/18
+0.01046
+7/.044
+0.132
+125.2
+2.294
+0.0145
+7/17
+0.01462
+7/. 052
+0.156
+174.9
+1.643
+0.0225
+7/16
+0.02214
+7/.064
+0.192
+264.9
+1.084
+0.0285
+7/14
+0.02850
+19/.044
+—
+'
+—
+0.0400
+19/17
+0.03960
+19/.0S2
+0.260
+475.5
+0.6063
+0.0600
+19/16
+0.05999
+19/.064
+0.320
+720.3
+0.4002
+0.0750
+19/15
+0.07592
+19/.072
+0.360
+911.6
+0.3162
+0.1000
+19/14
+0.10090
+19/.083
+0.415
+1211.0
+0.2380
+0.1200
+37/16
+0.11680
+37/.064
+0.448
+1403.0
+0.2056
+0.1500
+37/15
+0.14780
+37/.072
+0.504
+1776.0
+0.1625
+0.2000
+37/14
+0.19640
+37/.083
+0.581
+2360.0
+0.1223
+0.2500
+37/13
+0.24650
+37/.093
+0.651
+2963.0
+0.09738
+0.3000
+37/12
+0.30240
+37/.103
+0.721
+3635.0
+0.07939
+0.4000
+61/13
+0.40640
+61/.093
+0.87
+4886.0
+0.05908
+0.5000
+61/12
+0.49850
+61/.103
+0.927
+5994.0
+0.04816
+0.6000
+61/.112
+0.60620
+91/.093
+1.023
+7290.0
+0.03961
+0.7500
+91/.101
+0.74350
+91/.103
+1.133
+8942.0
+0.03229
+1.0000
+127/.101
+* 1
+1.03760
+127/.103
+1.339
+b I
+12481.0
+0.02314
+BRITISH ENGINEERING STANDARD.
+ELECTRICAL WIRE TABLES, 1922 REVISION.
+TABLE I.
+Dimensions, Weight, and Resistance of Solid and Stranded
+Circular Conductors.
+
+
+Nomina]
+Area of
+Conduc-
+tor.
+1.
+Old
+S.W.G.
+Standard
+(nearest).
+2.
+Num ber and
+Diameter
+of Wires
+comprising
+Condu ctor
+3.
+Single
+Gabies
+run in
+Pairs.
+I
+4.
+Concentric
+or Twin
+Cable.
+1 5.
+Three-
+core
+Cable,
+6.
+Approx.
+Total
+Length in
+Circuit
+(Lead and
+Return) for
+i-volt Drop
+7.
+Sq. in.
+0.0010
+1/20
+1/.036
+amps.
+4.1
+amps.
+3.5
+amps.
+feet
+30
+0.0015
+1/18
+1/.044
+6.1
+5.2
+30
+0.0020
+3/22
+3/.029
+7.8
+6.7
+30 .
+0.0030
+3/20
+3/.036
+12.0*
+10.3
+—
+30 r 4
+0.0030
+1/16
+1/.064
+12.9 —
+11.1
+30 —
+0.0045
+7/22
+7/. 029
+18.2
+15.7
+13.6
+30
+0.0070
+7/20
+7/.036
+24.0
+20.6
+18.0
+33
+0.0100
+7/18
+7/. 044
+31.0
+26.6
+23.2
+39
+0.0145
+7/17
+7/. 052
+37.0
+32.0
+27.8
+46
+0.0225
+7/16
+7/. 064
+46.0
+39.0
+34.0
+55
+0.0285
+7/14
+19/.044
+—
+—
+—
+—
+0.0400
+19/17
+19/.0S2
+64.0
+55.0
+47.0
+71
+0.0600
+19/16
+19/.064
+83.0
+71.0
+59.0
+83
+0.0750
+19/15
+19/.072
+97.0
+83.0
+69.0
+90
+0.1000
+19/14
+19/.083
+118.0
+100.0
+83.0
+98
+0.1200
+37/16
+37/.064
+130.0
+118.0
+90.0
+103
+0.1500
+37/15
+37/.072
+152.0
+126.0
+105.0
+111
+0.2000
+37/14
+37/.083
+184.0
+149.0
+126.0
+122
+0.2S00
+37/13
+37/.093
+214.0
+170.0
+146.0
+132
+0.3000
+37/12
+37/. 103
+240.0
+188.0
+—
+145
+0.4000
+61/13
+61/.093
+288.0
+220.0
+—
+162
+0.5000
+61/12 j
+61/.103 1
+332.0
+249.0
+—
+173
+0.6000
+61/.112
+91/.093
+384.0
+—
+—
+183
+0.7500
+91/.101
+91/.103
+461.0
+—
+186
+1.0000
+127/.101
+127/.103
+595.0
+—
+—
+202
+BRITISH ENGINEERING STANDARD.
+ELECTRICAL WIRE TABLES, 1922 REVISION.
+TABLE II.
+Current Carrying Capacity and Corresponding Fall of Pressure—
+Vulcanized Rubber Cables.
+NOTE. —See Kules 40 and 43, particularly with regard to limitation
+of the capacity of conductors by the permissible drop
+in volts.
+
+
+Nomina)
+Area of
+Con-
+ductor.
+1.
+Old
+S.W.G.
+Standard
+(nearest).
+2.
+Number anc
+Diameter
+of Wires
+comprising'
+Conductor.
+3.
+Single
+Cabins
+run in
+Pairs.
+4.
+Concentric
+or twin
+Cable.
+6.
+Three-core
+Cable,
+6.
+Approx.
+Total
+Length in
+Circuit \
+(Lead and
+Return) for
+1-volt Drop,
+7-
+Sq. in.
+0.0010
+1/20
+1/.036
+amps.
+4.1
+amps. |
+3.5
+amps. |
+feet
+30
+0.0015
+1/18
+1/.044
+6.1
+52
+—
+30
+0.0020
+3/22
+3/.029
+7.8
+6.7
+—
+30
+0.0030
+3/20
+3/. 036
+12.0
+10.3
+—
+30
+0.0032
+1/16
+1/.064
+12.9
+11.1
+—
+30
+0.0045
+7/22
+7/.029
+18.2
+15.7
+13.6
+30
+0.0070
+7/20 *
+7/.036
+28.0
+24.0
+21.0
+27
+0.0100
+7/18
+7/.044
+42.0
+36.0
+31.0
+27
+0.0145
+7/17
+7/. 052
+57.0
+49.0
+43.0
+28
+0.0220
+7/16
+7/.064
+75.0
+65.0
+56.0
+32
+0.0285
+7/14
+19/.044
+—
+—
+—
+—
+0.0400
+19/17
+19/.052
+104.0
+89.0
+76.0
+41
+0.0600
+19/16
+19/.064
+135.0
+116.0
+97.0
+48
+0.0750
+19/15
+19/.072
+157.0
+135.0
+111.0
+S3
+0.1000
+19/14
+19/.083
+191.0
+162.0
+134.0
+57
+0.1200
+37/16
+37/.064
+210.0
+177.0
+146.0
+60
+0.1500
+37/15
+37/.072
+246.0
+204.0
+170.0
+65
+0.2000
+37/14
+37/.083
+296.0
+240.0
+203.0
+72
+0.2500
+37/13
+37/.093
+343.0
+265.0
+233.0
+78
+0.3000
+37/12
+37/.103 |
+385.0
+302.0
+258.0
+85
+0.4000
+61/13 1
+61/.093 |
+464.0
+354.0
+—
+95
+0.5000
+61/12
+61/.103
+S40.0
+405.0
+—
+100
+0.6000
+61/.112
+91/.093 |
+624.0
+—
+—
+105
+0.7500
+91/.101
+91/.103
+738.0
+—
+—
+109
+1.0000
+127/.101
+127/.103 !
+932.0
+—
+—
+121
+BRITISH ENGINEERING STANDARD.
+ELECTRICAL WIRE TABLES, 1922 REVISION.
+TABLE III.
+Current Carrying Capacity and Corresponding Fall in Pressure.
+Impregnated Paper and Lead-covered Cables.
+NOTE.—See Rules 40 and 48 concerning the limitation of capacities
+in certain circumstances.
+
+
+CONDUCTORS.
+DIELECTRIC.
+PROTECTIVE COVERING.
+Thickness of Rubber for
+Pressures.
+Thickness of Lead
+for Pressures.
+Thiokness of Tough Rubber
+Compound for Prenures.
+Nominal
+Area-
+©Id S.W.G-
+Standard
+(nearest).
+2.
+Number and
+Diameter
+of Wires,
+Up to
+250 volts.
+Up to
+650 volts.
+Up to
+250 volte
+Up to
+650 volts.
+Up to
+250 Volts.
+Up to
+250 volts.
+Up to
+650 volts.
+Up to
+250 volts.
+i.
+3.
+4.
+S.
+Single.
+4.
+Single.
+7.
+Twin.
+«.
+Single.
+9.
+Single.
+X9.
+Twin,
+11.
+Sq. in.
+8.0010
+1/20
+1/.036
+in.
+0.034
+in.
+0.055
+in.
+0.040
+in.
+0.050
+in.
+0.040
+in,
+o.oso
+in.
+0.050
+in.
+0.050
+0.001 S
+1/18
+1/.044
+0.034
+o.oss
+0.040
+0.050
+0.040
+0.650
+0.050
+0.050
+0.0020
+3/22
+3/.029
+0.036
+0.056
+0.040
+0.050
+0.040
+0.050
+0.050
+0.060
+0.0030
+3/20
+3/.036
+0.038
+0.0S7
+0.040
+0.050
+0.040
+0.050
+O.OSO
+0.060
+0.0030
+1/16
+1/.064
+0.036
+0.0S7
+0.040
+0.050
+0.040
+0.050
+0.050
+0.060
+0.0045
+7/22
+7/. 029
+0.039
+0.058
+0.040
+O.OSO
+0.050
+O.OSO
+O.OSO
+0.068
+0.0070
+7/20
+7/.036
+0.041
+0.0S9
+o.oso
+0.060
+0.050
+O.OSO
+0.050
+0.060
+0.0100
+7/18
+7/.044
+0.043
+0.060
+0.050
+0.060
+O.OSO
+0.050
+0.060
+0.060
+0.014S
+7/17
+7/. 052
+0.046
+0.061
+0.060
+0.060
+0.060
+o.oso
+0.060
+0.060
+0.0220
+7/16
+7/. 064
+0.049
+0.062
+0.060
+0.060
+0.060
+0.060
+0.060
+0.080
+0.028S
+0.040Q
+7/14
+19/17
+19/.044
+19/.0S2
+0.0S6
+0.063
+0.060
+0.060
+0.080
+0.060
+0.060
+0.100
+8.0600 :
+19/16
+19/.064
+0.062
+0.06S
+0.070
+0.070
+0.080
+0.060
+0.060
+0.100
+0.0750
+19/15
+19/.072
+0.066
+0.066
+0.070
+0.070
+0.080
+0.060
+0.069
+0.100
+0.1000
+19/14
+19/.083
+0.072
+0.072
+0.070
+0.070
+0.090
+0.080
+0.080
+0.120
+0.1200
+37/16
+37/.064
+0.075
+0.075
+0.070
+0.070
+0.090
+0.080
+0.080
+0.120
+0.1580
+37/15
+37/.072
+0.08Q
+0.080
+0.080
+0.080
+0.090
+o.oeo
+0.080
+0.130
+0.2000
+37/14
+37/.083
+0.088
+0.088
+0.080
+0.080
+,0.100
+0.100
+0.100
+0.150
+&2S00
+37/13
+37/.093
+0.095
+0.09S
+0.090
+0.090
+0.110
+0.100
+0.100
+0.150
+0.3000
+37/12
+37/.103
+0.102
+0.102
+0.090
+0.090
+0.120
+0.100
+0.100
+0.175
+0.4000
+61/13
+61/.093
+0.114
+0.114
+0.100
+0.100
+0.130
+0.120
+0.120
+0.200
+0.5000
+61/12
+61/.103
+0.121
+0.121
+0.110
+0.110
+0.140
+0.120
+0.120
+0.225
+0.6000
+61/.112
+91/.093
+0.125
+0.125
+0.110
+0.110
+—
+0.130
+0.130
+0.250
+0.7500
+91/.101
+91/.103
+0.131
+0.131
+0.120
+0.120
+—
+0.130
+0.130
+0.250
+1.0000
+127/.101
+127/.103
+0.141
+0.141
+0.120
+0.120
+0.150
+0.150
+0.2S0
+BRITISH ENGINEERING STANDARD
+ELECTRICAL WIRE TABLES. 1922 REVISION.
+TABLE IV.
+DIMENSIONS OF DIELECTRIC AND PROTECTIVE COVERING OF CABLES.
+RUBBERINSULATED.
+
+
+CONDUCTORS.
+DIELECTRIC.
+LEAD COVERED CABLES.
+Nominal
+Area.
+L
+Old
+S.W.G.
+Standard
+(nearest).
+2.
+Number
+and
+Diameter
+Size of
+Wires.
+3.
+Thickness
+4.
+Single.
+Concentric
+Triple
+Concentric
+Twin
+Three Core.
+Thickness of Lead.
+Thickness
+of Lead.
+5.
+Thickness
+of Lead.
+6.
+Thickness
+of Lead.
+7.
+Thickness of Lead.
+Circular
+Conductors
+8.
+Segmental
+Conductors
+9.
+Circular
+Conductors
+10.
+Segmental
+Conductors
+il.
+Sq. in.
+1
+In.
+In.
+In.
+In.
+In.
+In.
+In.
+In.
+0.0010
+1/20
+1/.036
+0.050
+0.045
+—
+—
+—
+—
+0.0015
+1/18
+1/.044
+0.050
+0.04S
+—
+—
+—
+—
+—
+0.0020
+3/22
+3/.029
+0.050
+0.04S
+—
+—
+—
+—
+0.0030
+3/20
+3/.036
+0.050
+0.045
+—
+—
+—
+—
+—
+0.0030
+1/16
+1/.064
+0.050
+0.045
+—
+—
+—
+—
+—
+—
+0.0045
+7/22
+7/.029
+0.060
+0.050
+—
+—
+—
+—
+—
+0.0070
+7/20
+7/.036
+0.080
+0.060
+0.070
+0.090
+0.070
+0.070
+—
+0.0100
+7/18
+7/. 044
+0.080
+0.060
+0.070
+0.090
+0.070
+0.070
+—
+0.0145
+7/17
+7/.052
+0.080
+0.060
+0.070
+0.090
+0.070
+0.070
+0.080
+—
+0.0225
+7/16
+7/.064
+0.080
+0.060
+0.070
+0.090
+0.070
+0.070
+0.080
+0.070
+0.0285
+7/14
+19/.044
+—
+—
+0.0400
+19/17
+19/.0S2
+0.080
+0.060
+0.080
+0.090
+0.080
+0.080
+0.090
+0.080
+0.0600
+19/16
+19/.064
+0.080
+0.070
+0.080
+0.090
+0.080
+0.080
+0.090
+0.080
+0.0750
+19/15
+19/.072
+0.080
+0.070
+0.080
+0.100
+0.080
+0.080
+0.090
+0.080
+0.1000
+19/14
+19/.083
+0.080
+0.070
+0.080
+0.100
+0.090
+0.080
+0.100
+0.090
+0.1200
+37/16
+37/.064
+0.080
+0.070
+0.080
+0.100
+0.090
+0.080
+0.100
+0.090
+0.1500
+37/15
+37/.072
+0.080
+0.070
+0.080
+0.100
+0.090
+0.080
+0.100
+0.090
+0.2000
+37/14
+37/.083
+0.080
+0.070
+0.090
+0.110
+0.100
+0.090
+0.110
+0.100
+0.2500
+37/13
+37/.093
+0.090
+0.080
+0.100
+0.110
+0.110
+0.100
+0.120
+0.110
+0.3000
+37/12
+37/. 103
+0.090
+0.080
+0.100
+0.120
+0.120
+0.110
+0.130
+0.120
+0.4000
+61/13
+61/.093
+0.100
+0.090
+0.110
+0.130
+0.130
+0.110
+0.140
+0.120
+0.5000
+61/12
+61/.103
+0.100
+0.090
+0.120
+0.140
+0.140
+0.120
+0.150
+0.130
+0.6000
+61/.112
+91/.093
+0.100
+0.100
+0.130
+0.150
+—
+—
+0.7500
+91/.101
+91/.103
+0.110
+0.100
+0.140
+0.160
+—
+1.0000
+127/.101
+127/.103
+0.110
+0.110
+0.150
+0.170
+—
+—
+—
+BRITISH ENGINEERING STANDARD
+ELECTRIC WIRE TABLES. 1922 REVISION.
+TABLE V.
+DIMENSIONS OF DIELECTRIC AND PROTECTIVE COVERING OF CABLES.
+PAPER INSULATED.
+NOTE.—Column 4 gives the thickness of the dielectric between any
+one conductor and the next conductor or the lead sheathing.
+
+
+CONDUCTOR.
+Minimum Insulation Resistance, Megohms
+for a Mile Length at 60 deg. F,
+(16.6 deg. C.).
+Rubber Insulated for
+Pressures.
+Nominal
+Area of
+Cable.
+1.
+Old
+S.W.G
+Standard
+(nearest).
+2.
+Number
+and
+Diameter
+of Wires.
+3.
+Up to 250 Volts.
+Up to 650 Volts.
+600
+Megohm
+Grade.
+4.
+| 2500
+1 Megohm
+Grade.
+1 5.
+650
+Volt
+Grade.
+6.
+7.
+Sq. in.
+Mghms.
+Mghms.
+Mghms.
+Mghms,
+0.0010
+1/20
+1/.036
+2000
+5000
+5000
+0.0015
+1/18
+1/.044
+2000
+5000
+5000
+0.0020
+3/22
+3/.029
+1250
+4500
+4500
+0.0030
+3/20
+3/.036
+1250-
+4500
+4500
+0.0030
+1/16
+1/.064
+2000
+5000
+5000
+0.0045
+7/22
+7/. 029
+2250
+4500
+4500
+0.0070
+7/20
+7/.036
+900
+4000
+4000
+0.0100
+7/18
+7/.044
+900
+4000
+4000
+0.0145
+7/17
+7/. 052
+900
+4000
+4000
+0.0220
+7/16
+7/.064
+900
+3500
+3500
+0.0300
+7/14
+19/.044
+7
+7
+7
+0.0400
+19/17
+19/.0S2
+750
+3000
+3000
+0.0600
+19/16
+19/.064
+750
+3000
+3000
+0.0750
+19/15
+19/.072
+600
+3000
+3000
+0.1000
+19/14
+19/.083
+600
+3000
+3000
+0.1200
+37/16
+37/.064
+600
+3000
+3000
+0.1500
+37/15
+37/.072
+600
+3000
+3000
+0.2000
+37/14
+37/.083
+600
+2500
+2500
+0.2500
+37/13
+37/.093
+600
+2500
+2500
+0.3000
+37/12
+37/. 103
+600
+2500
+2500
+0.4000
+61/13
+61/.093
+600
+2500
+2500
+0.5000
+61/12
+61/.103
+600
+2500
+2500
+0.6000
+61/.112
+91/.093
+600
+2500
+2500
+0.7500
+91/.101
+91/.103
+600 |
+2500 I
+2500
+1.0000 I
+127/. 101
+127/.103
+600
+2500
+2500
+BRITISH ENGINEERING STANDARD.
+ELECTRICAL WIRE TABLES, 1922 REVISION.
+TABLE VI.
+INSULATION RESISTANCE OF CABLES.
+
+
+Number
+Resistance per 1000 yards at 60 deg. F.
+i
+Current
+Carrying
+(16.6 deg. C.)
+Nominal
+Area.
+Diameter
+of Wires
+1
+Maximum
+Maximum
+allowable
+comprising
+1 Capacity.
+Standard j
+allowable
+Conductor.
+1
+for Plain
+Wires.
+Tinned
+Wires.
+1.
+2.
+3.
+4.
+5.
+6.
+Sq. in.
+Amps.
+Ohms.
+Ohms.
+Ohms.
+0.0010
+23/.0076
+4.1
+24.2
+24.6
+25.1
+0.0017
+40/.0076
+6.1
+13.9
+14.2
+14.4
+0.0030
+70/.0076
+12.9
+7.94
+8.10
+8.26
+0.0048
+110/.0076
+18.9
+s.os
+5.15
+5.25
+0.0070
+162/.0076
+24.0
+3.43
+3.50
+3.57
+BRITISH ENGINEERING STANDARD.
+ELECTRICAL WIRE TABLES, 1922 REVISION.
+TABLE VII.
+DIMENSIONS AND RESISTANCE OF CONDUCTORS
+FOR FLEXIBLE CORDS.
+
+
+The Numbers refer to Rules.
+A
+Abrasion 63(c)
+Accessibility—
+connections 79
+flexibles 70
+fuse-switches .. .. 12, 24, 122
+fuses 88, 89, 129
+joints 58
+linked switches 24
+switchboards 76, 77
+temporary wiring 122
+Accumulator rooms, ventilation
+of 109
+Accumulators 109-113
+celluloid cases 113
+control 112
+end connections 11l
+insulation 110
+portable 113
+Accumulator connections —bare
+conductors 72 (g)
+A.C. Motors 107(d)
+Adapters 90(6)
+Aerial conductors .. .. 11(a), 117
+Arcing 76(c), 86(c), 90(a)
+Arc lamps—globes and guards 98
+cases 98(c)
+control 98(d)
+insulation 98(6)
+prohibited 36
+protection 98(a)
+Armoured conductors 66
+Auto-transformers, prohibited 106(6)
+Authorities, supply—notice to 4
+B
+Bare, defined 10
+Bare conductors—
+allowed 72
+preferred 11l
+spacing of 72(a), 72Cff)
+Bases—
+ceiling roses 91(d).
+circuit breakers 86(d)" v
+distribution boards 76(6)
+fuses 88(d)
+sockets 90(2)
+switchboards 76(6)
+switches 86(d)
+Bath heaters—precautions .. 103(c)
+Bathrooms, precautions .. .. 38
+Bell mouths 75
+Bell transformers 106(c)
+Bends, sharp—prohibited .. .. 63(g)
+Biograph operating rooms .. 78(a)
+Braiding-
+required 50
+to be removed 60, 61(6)
+Branch fuses 89
+Brushes, to be enclosed .. .. 107(d)
+Bunched conductors—
+allowed 33, 64(6)
+defined 11
+prohibited 30
+required 33
+Bushed ends 63(c)
+C
+Cable—
+-250 volt, defined 17
+pressure test 47
+650 volt, defined 13
+pressure test 47
+thimbles 62
+Calculating permissible number
+of points 32(a)
+Capacity conduits .. .. Page 43
+Capacity of circuits 125
+Caps of lamps 101
+Cases —
+arc lamps 98(c)
+celluloid 113
+distribution boards .. 85(a), 85(6)
+mercury vapour lamps .. .. 102
+resistances, etc 106(a)
+Cased wiring-
+metal conduit 63(a)
+metal casing 63(6)
+wood casing 64
+Ceiling roses —
+bases 91(a)
+covers .. .. 91(6)
+flexibles 91(d)
+mounting 37
+terminals 91(c)
+Celluloid—
+accumulator cases 118
+prohibited 99
+Centres, distributing 82
+Chilling rooms—precautions .. 38
+Choking coils 106
+Circuit breakers —
+arrangement 86(c)
+bases 86(d)
+boxes, guard 86(g)
+covers 86 (f)
+construction 86(6)
+handles 86(7t)
+location 86(e)
+maximum 87
+overheating 86(a)
+required 107 (h)
+size 86(c)
+Circuits—
+capacity of 126
+inspection 115
+testing 114
+within safes 86
+Colours for conductors .. .. 51
+INDEX.
+
+
+Combination boxes, arrange-
+ment 84
+Combined gas and electric
+fittings—prohibited 85(6)
+Combustible materials .. .. 99(a),
+106(a-n0, 107(6), 108(c)
+Concentric conductors, re-
+quirements 52
+Conductivity—
+conductors 41, 57
+joints 93
+Conductors—
+aerial ll(o), 117
+armoured 66
+bare 72
+bunching 33
+bunched—definition 11
+colours for 51
+concentric 52
+copper—standards 57
+distance between and metal 76(c)
+earthing 34
+flexible 70
+heating and cooking devices 103(c)
+jointing 60
+lead covered 68
+neutral defined 6(6)
+neutral —interruption of cir-
+cuit in 26
+outdoor 11(a)
+private plants .. 133, 136, 137
+protection in special places 73
+74, 75
+size 39, 40, 48 Tables
+temperature 44
+twin and multiple 49
+unarmoured 67
+uninsulated—definition .... 9
+Conduits—
+drainage 63(/)
+metal 63
+porcelain 74
+Connections—
+accessibility 68, 78, 79
+accumulator 72(g)
+in junction boxes 58, 59
+mode of making .. .. 58, 71
+to switches, etc 61
+to terminals 61, 62, 86(fe)
+Connectors 58, 111
+Construction, junction boxes.. 59
+Construction, wall plugs and
+sockets 90 (a-i)
+Contact mats 90A-4
+Control-
+accessibility 122
+accumulators 112
+arc lamps 98(d)
+bare conductors 72(c)
+circuit 82(c)
+dynamos 108(c)
+heating circuits 32(c)
+motors 107(c)
+portable heaters 104
+private plants 128
+separate, for light in large
+buildings 26
+Control-
+temporary wiring 120
+three-phase systems 81
+two and three wire systems 27
+wall plugs 90A-4
+Cooking devices 103
+Copper conductors, standards 67
+Cord grips 90A-3, 91(c), 92, 100
+Covers—
+ceiling roses 91(6^
+circuit breakers 86(/)
+distribution boards 86
+fuse boxes 85
+fuses 88(c)
+switches 86(/)
+Cranes, locomotive —bare
+conductors 72(c)
+Cranes, travelling—bare
+conductors 72(d)
+Current in Circuits for
+Lighting 32
+D
+Damp places—
+dynamos 108(6)
+junction boxes 59(d;
+lead covered conductors .. 68(d)
+metal conduits 63(c)
+motors 107(a)
+precautions .. .. 38, 59(d), 61(d)
+prohibited practices 37
+wood casing 64
+Definitions 5-23
+Demonstration or Effect
+Lighting 32(g)
+Dielectric—
+definition 8
+kinds 45, 54
+not to soften 46
+Distance pieces 35(d)
+Distinguishing colours for con-
+ductors 61
+Distributing centres 32
+Distribution boards—
+bases 76(6)
+cases 85
+location 76(a)
+wiring behind .. 30, 79(a), 141
+Domestic appliances 103
+Double insulation 72(6)
+3ouble-pole—
+fuse switches 27
+linked switches 27, 36, 38(a), 98(d)
+switches, dynamos 108(c)
+motors 107(e)
+Drainage of conduits 6S(/)
+Drop in volts —lighting circuits 40(a)
+Dust, protection from .. 86, 99(c),
+107(d), 108(a)
+Dynamos—
+control 108(e)
+location 108(a)
+protection 108(6)
+terminals 108 (/)
+wood floors .. .. 108(c), 108(d)
+II
+
+
+£
+Earthed defined 7
+Earthed conductors, interrup-
+tion 26
+Earthing—
+armouring 66
+conductors 34
+domestic appliances .. 103(d &e)
+dynamos 2(b)
+lead coverings 68(/t)
+medium pressures .. 2(b), 138 U)
+metal cases 200
+metal conduits 680 0
+motors 2(b), 107(f)
+precautions to be taken .. 2((
+Elements in ranges, etc. —
+switching 103(/i (
+protection 103(i'
+Enclosure—
+fuses 36, 85, 88(6
+joints 60
+motors 107 (d
+slip rings 107 (d
+switches 36, 86(f)
+Entry to building—aerial con-
+ductors 117(d
+Extensions, flexible 70(e !
+F
+Factories, regulations for .... 2
+Feeders 82
+Festooning, temporary wiring 126
+Fibre-insulated cables 45
+Fibro-cement switchboards .. 77
+Fire insurance offices, notice
+to 3
+Fire resisting material—
+behind switchboards .. .. 76(a)
+for gas-filled lamps 102
+Fittings—
+gas-filled lamps 94
+joints 93
+rigid 70(c)
+tubes and channels 92
+ventilation 94
+wires, size of 39
+weight of 92
+Fixed plugs 90(a-2)
+Flexibles—
+accessibility 70(b)
+allowed 70
+ceiling roses .. 32(b), 91(c), 91(d)
+connections 71
+drop-lights in bathrooms .. 88
+extensions 70(d)
+insulation 54, 65, 66
+insulation resistance 55
+joints prohibited 71
+pendants 70(b)
+pressure test 54, 65
+prohibited 70(c), 01(d)
+protection 70(b)
+shop windows 70(f)
+size 53
+uncased wiring 70
+wall plugs and sockets .. 90(a-3)
+Floors, protection .. ..78, 74, 76
+Floors, wood 107(c), 108(d)
+Forced draught machine,
+defined 28
+Fuse boards 76, 77, 78
+Fused metal, protection .. .. 88(c)
+Fuses —
+accessibility .. 2(b), 36, 37, 85,
+88, 89, 129
+bases 88(d)
+behind switchboards 81
+branch 89
+covers 85, 88(e)
+enclosed 88(b)
+enclosure 36, 88(e)
+grouping 85, 89
+in biograph operating rooms 78(a)
+mounting 87
+overheating 88(a)
+positions prohibited .. ..26, 88(f)
+proportioning 88(b)
+protection .. .. 36, 88(b), 129
+ranges, stoves and ovens .. 103())
+required.. .. 25, 27, 72(c), 107(e)
+108(c)
+25
+short circuits 88(b)
+sub-circuits 88(b)
+terminals 88 (c" 4
+voltmeter 83
+Fuse-switches —
+accessibility 24
+defined 12
+required .. 24, 27, 29, 31, 32, 72 (c)
+G
+Gases, Inflammable 36
+Gas and electric fittings com-
+bined 35(b)
+Gas-filled lamps 94, 102
+Gas fitting, converted 35(c)
+Gas pipes—
+distance from conductors .. 35(d)
+prohibited as earth connec-
+tions .. 35(a)
+prohibited from touching
+conductors 35(d)
+spacing from rosettes .. .. 72(/)
+Generators 108
+Grade of insulation —250 volt
+cable 17
+Grade of insulation —650 volt
+cable 18
+Grips, cord 100
+Grouping, fuses 85, 89
+Guards 86(g), 98, 99(a, b
+H
+Hand lamps 97
+Hand shields 86(f), 90 (a-2)
+Handles, switches .. .. 86(fe), 86(f)
+Heaters 103
+conductors 103(c)
+dangerous positions .. .. 108(d)
+location 103(a)
+
+
+Heaters—
+mounting 103(a)
+non-luminous 105
+on lighting circuit 32(6)
+pilot lamps 105
+portable control 104
+precautions 103(e)
+protection 103(a)
+small 32
+Heating circuits (sub-circuits) 32(c)
+Heating circuits—size of con-
+ductors .. 40(6), 103(6 &c), Tables
+Heating points allowed, num-
+ber of 32(d)
+I
+Incandescent lamps 36, 99
+Incombustible material—
+Bases—
+ceiling roses 91(a)
+circuit breakers 86(d)
+distribution boards .. .. 76(6)
+fuses 88(d)
+sockets 90(a-2)
+switchboards 76(6) .
+switches 86(d)|
+Covers— u
+ceiling roses 91(6)1
+circuit breakers 86(/) I
+fuses 88(c)
+switches 86(/)
+frames 106 (a-i)
+lampholders 95(a)
+linings 85(6)
+Induction motors 107(6)
+Inflammable—
+gases and dust precautions 36, 99(c)
+materials, dynamos 36, 108(a) (c)
+motors 107(6) (c) (d)
+resistance 106(a-4)
+Inspection—
+apparatus and circuits .. 115
+elbows 63 (g)
+fixed plugs 90(a-2)
+openings 107 (d)
+Insulation—
+accumulators 110
+arc lamps 98(6)
+conductors 44, 62
+fiexibles 54, 65, 56
+grade of 250 volt cable de-
+fined 17
+grade of 650 volt cable de-
+fined 18
+joints 93
+Insulation —
+materia! 46
+metal cases 82
+to be durable 44
+Insulation resistance—
+fiexibles 66
+paper insulation .. .. 48, Table
+test (concentric conductors) 52
+test (multiple conductors) .. 49
+test (single conductor) .. 48, Table
+to earth .. 114, 135
+Insulation resistance-
+vulcanised rubber insulation
+48, Table
+insulators—
+for accumulators 110
+for bare conductors .. .. 72 (a-g)
+Insurance offices, fire 3
+Interruption of current —
+\ earthed conductors 26
+i neutral conductor 26
+| two and three wire systems 29
+Irons 105
+Isolating links 28
+J
+Joints —
+accessibility 58
+conductivity 93
+enclosure 58, 71
+how effected 60
+prohibited in fiexibles .. .. 71
+soldering 58
+J temporary wiring 127
+Junction boxes—
+-1 construction 59
+required 71
+short circuits 59(a)
+Key sockets—lampholders .... 96
+L
+Labelling, switchboard circuits 80
+Lamp caps 101
+Lampholder adapters 908
+Lampholders 37, 95-100
+approved design 95(a)
+key sockets 96
+material 99(a)
+Lamps, arc 98
+Lamps, gas-filled 94, 102
+Lamps, hand 97
+Lamps, incandescent 99
+I .amps, pilot 105
+Lanterns 98(a)
+Latitude 1
+Lead covering to be earthed 68(/t)
+Lead sheathed conductors .. 68
+Lighting circuits —
+current 32
+drop in volts 40(a)
+maximum current .. .. 27, 28
+separate protection 25
+size of conductors 40 (o)
+Lighting sub-circuits, maxi-
+mum current 82
+Lightning arresters .. 72(d), 117
+Linings to be incombustible 85(b)
+Location—
+arc lamps 36
+dynamos ..36, 108(a)
+metal conduits 68(e)
+motors 107(a) (6) (a)
+switchboards 76(a)
+wall plugs 36
+
+
+Locomotive cranes —bare con-
+ductors 72(c)
+Low pressures—general ar-
+rangement 24
+M
+Machine —
+forced draught—defined .... 23
+pipe ventilated —defined .. 22
+pipe ventilated—required .. 107(d)
+protected—defined 19
+semi-enclosed —defined .. .. 20
+semi-enclosed —required .. 107(d)
+totally enclosed—defined .. 21
+totally enclosed—required
+Main- 107 f 6 >' < d >
+fuse switches required .. .. 24
+linked switches required .. 24
+Mains, protections 82(c)
+Marking terminals 30(a)
+Material-
+combustible .. .. 99(a), 106 (.a)iv
+107(b), 108(c)
+lampholders 95(a)
+switches 86(d)
+Mats, contact 90(a-4)
+Medium pressures .. 1, 2(b), 30,
+90(a-4), 106(b)
+Medium pressures, additional
+regulations for 138
+Mercury vapour lamps—
+cases 102
+overheating 102
+prohibited 36
+use 102
+Metal cases, insulation .. .. 82
+Metal casing 68
+Metal conduits —
+allowed 63
+bunching 33
+earthing 63(d)
+location 63(c)
+protection 68, 67(c)
+required 67(c), 71, 73
+Mines, regulations for 2
+Motors—
+alternating current 107(Jt)
+combustible materials .. .. 107(b)
+control 107(c)
+enclosure 36, 107(d)
+Inflammable dust 107(d)
+location 107(a) (b) (c)
+on lighting circuits 32(b)
+protection 107(a)
+shunt circuits 107(g)
+single phase 107 (fe)
+spacing 107(b) (c)
+starting gear 107(/)
+ventilation 107(d)
+wood floors 107(c)
+Mounting-
+ceiling roses 37
+fuses 37
+heaters 103(a)
+switches 37
+wall plugs .. . . 37
+Multiple conductors, insula-
+tion resistance 49
+Multiple wire systems, 26, 27, 28,
+Multiple switches —
+accessibility 24
+defined 15
+required 24, 27, 31, 32(e)
+36, 98(d)
+voltage to be marked .. .. 30(a)
+N
+Neutral conductor-
+colours 51
+defined 6(b)
+Notice of wiring 3, 4
+Notices, warning 142
+O
+Outer conductor, defined .. .. 6(a)
+Overheating—
+fuses 86(a)
+mercury vapour lamps .. 102
+resistances 106(a)
+switches 86(a)
+P
+Paper insulated cables—
+insulation resistance .. .. 48
+partitions, protection between 78
+protection 45
+temperature rise 43
+thickness 46
+Pendants—
+flexibles for 70(b)
+protected 70(c)
+Permissible number of points 82(a)
+Permits 118
+Pilot lamps, required, 90(a-4), 105
+protection of 83
+Pipe ventilated machine —
+defined 22
+required 107(d)
+Plugs, wall 36, 37, 90
+Point—
+defined 13
+maximum number allowed 82
+maximum number allowed
+for heaters 32(d)
+power plug 32(d)
+Polyphase systems, protection 31
+Porcelain conduits, required, 74, 75
+Portable —
+accumulators 113
+appliances, flexibles 70(a), 90(a-4)
+heaters, control 104
+Potential above earth 46
+Power circuits, size of con-
+ductors in 40(b)
+Power plug points on circuit 32(d)
+Pressure test —
+flexibles 54, 55
+250 volt cable 17, 47
+650 volt cable 18, 47
+Pressures, low and medium .. 1
+Pressures, low —general ar-
+rangement 24
+Pressures, medium .. 138
+
+
+Private plants, rules for, 128-137
+Prohibitions—
+auto-transformers 106(6)
+bunched conductors 80
+celluloid 99(c)
+combined fittings 35(6)
+damp places (see Damp Places)
+flexibles 70(6)
+fuses in neutral 26, 28, 81, 88(/)
+. gas pipes as earth con-
+nections 35(c)
+gas pipes touching con-
+ductors . 35(d)
+joints in flexibles 71
+sharp bends 63(g), 92
+slip sockets 63(c)
+soldering 71
+soldering fluids 58
+sulphur 56
+supply from tramway mains 139
+Switches
+26, 36. 86 (f). 90 (c-4), 95(c)
+switches in neutral 26
+switches unlinked 26
+wood casing 64(c)
+Proportioning fuses 88(6)
+Protected machine, defined .. 19
+Protected pendants 70(c)
+Protection —
+arc lamps 98(c)
+armouring 66
+conductors 63(6)
+dynamos 108(6)
+earthing conductors 34
+elements in ranges, etc 103(»)
+feeders 82
+flexibles 70(6)
+floors 73, 74, 75
+fused metal 85(c)
+fuses .. 86, 88(6'
+heaters 103(c)
+incandescent lamps .. .. 36, 99
+inflammable gases .. 36, 99 (c)t
+lighting circuits (indepen-
+dent control 25
+mains 32
+master switch 24
+metal conduits 63, 67(c)
+motors 107(c)
+of wiring 138(d)
+paper insulated cables ~ .. 45
+partitions 78, 74
+party walls 75
+polyphase systems 31
+private plants 133, 184
+resistances 86
+sulphur 41, 56
+switches 86, 860
+temporary wiring 120
+through walls 67 (c.
+tough rubber Compound .. 65
+2 and 3 wire circuits, 26, 27, 28, 29
+voltmeters 83
+vulcanised rubber cables .. 45
+R
+Radiators, portable 104
+Ranges, stoves and ovens .. 103(/-t)
+Rating of heaters and ap-
+paratus 82(d), 163(6;
+Reflectors, required 98(ci
+Refrigerating rooms, pre-
+cautions 38(a)
+Regulating cells 11l
+Regulations, factories, work-
+shops, mines and theatres .. 2(c)
+Repairs 116
+Resistance of metal sheathing, 69
+Resistances 106
+Resistances protection 36
+Rubber compound protection 65
+Rubber insulated cables,
+temperature, rise in .. 40(6), 43
+S
+Safes, circuits within 36
+Screwed conduits 63(c)
+Semi-enclosed machine—
+defined 20
+required 167(d)
+Service fuse 25
+Service main 25, 117
+Sheathing to be removed 60, 61(6)
+Shieids for arc lamps .. .. 98(c)
+Short circuits—
+ceiling roses 91(c)
+fuses 88(6)
+juiction boxes 59(c)
+wail plugs 90(c-2)
+"hint circuits of motors .. 1070?)
+Signs and decorative lighting 82(7)
+Single-phase meters 107(6)
+Single-pole fuse-switches
+required 24, 27, 81
+Single-pole switches—
+defined 14
+required 24, 27, 36
+Size—
+conductors .. 39, 40, Tables
+fittings, wires 39, Table
+Size—
+flexibles 58
+resistances, etc 106(c)m
+Slip rings, enclosure .. .. 107(d)
+Slip sockets, plain, pro-
+hibited 63(c)
+Small heaters 82(6)
+Sockets 86, 37, 90(c)
+Soldering-
+fluids prohibited .. .. .. .. 68
+joints 58, 61(d)
+prohibited 71
+Spacing—
+bare conductors 72 (/ & g)
+conductors 95(d)
+dynamos 108(c)
+flexibles 70(6), (c), 110
+motors 107(6), (c)
+resistances 106(c)t
+rosettes from gas pipes .. 72(/)
+switchboards 76(c), 88(6)
+terminals 76(6), 88(c)
+three-wire systems 80
+
+
+Spacing—
+XJnannoured conductors
+67(b), 68(a). (g )
+Span, aerial 117(a)
+Special regulations 2
+Stardaros for copper con-
+ductors 57
+Starting switches required
+107(f), (b). (k)
+State regulations 2
+Straining points—bare con-
+ductors 72(b)
+Stranding required 42
+Sub-circuits—
+< urrent 82
+fuses 82, 88(b)
+maximum current 82
+testing 114
+Sulphur, protection .. .. 41, 66
+Supply—
+-3 wire systems 26, 30
+authorities, notice to .. .. 4
+for ranges, stoves and ovens 199(f)
+from tramway mains .. .. 139
+Supports, aerial .. .. .. 117(b), (c)
+Suppoits for resistances, etc. 106(a)
+Surfaces, damp, precautions 88
+Suspens’on—temporary wiring 124
+Switchboard circuits to be
+labelled 80
+Switchboards—
+accessibility 78
+bases 76(6)
+ccmcnt-fibro 77
+clearance between live
+metal 76 (d)» (e)» (/)
+combination boxes 84 _
+connections 79, 86(b) ■
+construction 76 m
+defined 10 r
+distance from wall .. •• 76(g)
+fibro-cement 77
+fuse box covers 85
+fuses behind .. .. 81
+in biograph operating rooms 78(a)
+labels 80 .
+location 76(a)i
+metal cases 82
+spacing 76(c), 79(6
+voltmeter fuses 83
+Switches 86, 140
+bases 86(d)
+boxes .. 86(g)
+connections 61, 86(b)
+construction 86(6)
+contacts 86(6)
+covers ». 86(/), (j)
+double-pole required—
+for bare conductors .. .. 72(c)
+for dynamos 108(e)
+for motors 107(e)
+for ranges, stoves and ovens 103(g)
+for safes 86
+enclosure M
+handles * •• 86(b), (0
+hand shields 86(0
+location 86(e)
+Multfpole—
+defined 15
+required .. 24, 27, 81, 86, 98(d)
+material 86(d)
+main 24
+mounting 37
+overl'eating 86(a)
+pendant .. 86(0
+prohibited
+26, 86(0, 90(a-4), 95(c)
+protection .. 36, 86(g), 129, 140
+single-pole defined 14
+size 86(c)
+spacing 141
+starting, required 107 (/), (h), (k)
+testing 86(c)
+unll. deed—prohibited 26
+wall plugs and sockets .. 90(a-4)
+Switching of elements in ranges,
+etc 103 (JO
+System defined 5
+T
+Tables Pages 42-50
+Taping—
+removal 60
+required 60
+Telephone wires—distance
+frem conductors 35(d)
+Temperature-conductors .. ~ 44
+Temperature rise in cables .. 48
+Temporary wiring .. .. 118-127
+Terminals 107(f), 108(/)
+ceiling roses 91(c)
+connections 80(a)
+marking 80(a), 62
+protected 1070), 108(/)
+spacing 76(c), 88(c)
+Terminations of metal con-
+duits 68(c)
+Testing 114-116
+circuits 114
+dielectrics 64
+finished work 114
+inspection 116
+insulation resistance .. .. 114
+pressures 47, 114
+repairs H 6
+sub-circuits 114
+switches 86(c)
+wall plugs 90(a)*
+Theatres, regulations for «. 2, 26
+Thickness of dielectric—
+cables 46, Table
+flexible* 56
+rubber compound 66
+Thimbles, cable 62
+Three-phase systems, control 81
+Three-wire systems—
+defined 6(a), (6)
+protection 26, 27, 28
+supply 26, 27, 28, 29
+Tinning required 41
+Totally enclosed machine-
+defined 21
+required 107(b), (d)
+
+
+transformers 106
+bell 106(c)
+protection .. 106 (a-2)
+trip coils 87
+Travelling cranes—bare
+conductors 72(a)
+Tubed wiring 68
+Tubes and channels 92
+Twin conductors, insula-
+tion resistance 49
+1 wo-vire circuits, protection 27
+Two and three-wire systems,
+control 27
+U
+Unarmoured conductors .. 67, 68
+Uncased wiring
+65, 66, 67, 68, 69, 70, 71, 72
+between floors and ceilings 65(g)
+in roofs 65(/)
+surface work 65 {h)
+Uninsi lated conductors, defined 9
+Unlinked switches, prohibited 26
+V
+Variations from copper
+standards 67(c), (d), (e)
+Ventilation—
+accumulator rooms 109
+fittings 94
+mercury vapour lamps .. .. 102
+motors 107(d)
+resistances, etc 106(a)«
+Voltage, to be marked .. .. 30(a)
+Voltmeters, protection .. .. 83
+Vulcanised rubber insulation—
+insulation resistance .. 48, 65
+Vulcanised rubber insulation—
+thickness 46
+quality 4B
+W
+Wall plugs 86, 37, 90
+adapters 90(6)
+bases 90(a-2)
+construction 90(a-l)
+contact mats 90(a-4)
+control 90(c-4)
+fixed 90(a-2)
+flexibles 90(a-3)
+location 36
+mounting 37
+required 90(a-4)
+short-circuits 90(a-l)
+switches 90(a-4)
+testing 90(a-l)
+Warning notices 142
+Wire, grade 123
+Wire tables .... 43, Tables 11.-S'II.
+Wires, private plants 130
+Wiring-
+cased 64
+exceptional conditions .. .. 67
+notice of 3, 4
+point, defined 13
+protection of 138(d)
+tubed 63
+uncased .. 65, 66, 67, 70, 71, 72
+Wood casing-
+allowed 64
+prohibited 64(a)
+on brick and plaster .. .. 64(d)
+Wood floors —
+dynamos on .. .. 108(d)
+motors on 107(c)
+Workshops, regulations for ~ 2

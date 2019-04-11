@@ -1,0 +1,2277 @@
+
+
+COMMONWEALTH IMMIGRATION ADVISORY COUNCIL
+REPORT
+ON
+THE INCIDENCE OF
+MENTAL ILLNESS AMONG
+MIGRANTS
+CANBERRA
+1961
+
+
+THE INCIDENCE OF MENTAL
+ILLNESS AMONG MIGRANTS
+Report By
+A COMMITTEE OF THE COMMONWEALTH
+IMMIGRATION ADVISORY COUNCIL
+/
+CANBERRA
+1961
+
+
+
+
+COMMITTEE
+CHAIRMAN
+O. D. A. Oberg, Esquire, C.M.G.
+MEMBERS
+Sir Richard Boyer, K.8.E., Good Neighbour Council of Australia
+Mrs. F. G. Kumra, 0.8. E., Young Women’s Christian Association
+Mrs. J, G. Norris, 0.8. E., National Council of Women.
+H. J. Souter, Esquire, Secretary, Australian Council of Trade Unions.
+The Committee records with regret the death of Sir Richard
+Boyer on sth June, 1961 and acknowledges the great debt it
+owes to this eminent Australian. He brought to this survey
+experience and wisdom arising from a lifetime of distinguished
+service to Australia, the Australian people, and the promotion of
+international understanding.
+9134/61.—2
+
+
+TERMS OF REFERENCE
+1. To investigate and report on the incidence of mental illness among
+migrants who have arrived in Australia since 1945, taking into consideration
+such aspects as —
+(a) The relative incidence of mental illness among migrants, and the
+community generally;
+(b) The influence on admission rates of such characteristics as age,
+sex, and period in Australia before illness;
+(c) Any patterns emerging from the investigations, particularly in
+relation to differerit years of arrival in Australia.
+2. To make such recommendations as the Committee deems fit in the
+light of its findings.
+
+
+TABLE OF CONTENTS
+Chapter Page
+1 Findings .. .. .. .. .. . . . . . . |
+2 Introduction .. .. .. . . . 3
+3 Method of Analysis .. .. . . ~ . . 5
+4 First Admission Rates—l94B-52 Migrant Intakes .. . . 9
+5 Patterns of First Adinissions—Annual Distribution of Cases . . . . 12
+6 Estimated First Admission Rates—l9s3-57 Migrant Intakes .. .. 14
+7 Migrant and Non-migrant Incidence Rates .. .. .. 16
+8 Other Items of Interest .. .. .. .. .. .. 19
+Appendix
+“A” Statistical Tables .. .. .. .. .. ..21
+“ B ” Figures .. .. .. .. .. .. .. 30
+“C” Bibliography .. . .. .. .. ..37
+
+
+CHAPTER 1
+FINDINGS
+1. The Committee defined a migrant as a person who has resided in
+Australia for less than five years. For the purposes of this statistical survey,
+the admission of persons for the first time to a mental institution was accepted
+as a basis for assessing the incidence of mental illness.
+2. It was found that no adequate Australia-wide study of the incidence
+of mental illness among migrants had been made previously. Accordingly,
+with the approval of the State directors of mental health, a survey was
+undertaken of oversea-born persons, who, after reaching Australia between
+1946 and 1957, were admitted to mental hospitals for the first time in that
+period.
+3. Using this criterion, there were 3,869 cases. Applying the concept
+of a “five-year” migrant, there were 2,316 persons, who had been admitted
+within five years of arrival, and had reached Australia between 1948 and
+1952.
+4. An analysis of the data provided the following findings—
+(a) If the first-admission rates for displaced persons are eliminated
+from the pattern, migrant rates in Australia can be accepted
+as being below those of a typical Western community.
+(b) Best authoritative opinion places the annual first-admission rate
+in a typical Western community at 0.7 per 1,000. The
+migrant average annual first-admission rate for arrivals
+between 1948 and 1952, including displaced persons, was also
+0.7 per 1,000. If displaced persons are excluded, the migrant
+figure is 0.46 per 1,000. When account is taken of the
+difference in the age structure of the Australian-born and
+migrant populations, the migrant rate is still further reduced,
+to 0.38 per 1,000.
+(c) There is a connexion between the higher rates found among
+migrants who arrived during 1949 and 1950 and the very
+large intake of displaced persons in those years.
+(d) It is not surprising to find that displaced persons, with their
+unhappy background of war experience, have shown a greater
+tendency than other migrants to suffer from mental illness.
+(e) Age and sex have considerable effects on migrant incidence rates.
+Persons aged 20 to 49 years had the highest rates, while male
+rates were higher than female.
+(f) Among first-admission cases entering hospital during the first five
+years of residence, almost 50 per cent, of both males and
+females aged 20 to 29 years were admitted by the end of
+the second year. Among those aged 30 to 49 *years, this
+trend was not evident, as they were evenly distributed over
+the five-year period,
+9134/61.—3
+
+
+(g) Estimated “five-year” first-admission rates for migrants who
+reached Australia between 1953 and 1957 do not differ
+materially from first-admission rates for migrants (excluding
+displaced persons) who reached Australia between 1948 and
+1952.
+(h) The concept that a migrant is a person who has resided in
+Australia for less than five years could be more widely
+employed in research.
+(i) Australia’s procedures for the screening of migrants generally
+succeed in excluding mentally ill and potentially mentally ill
+applicants for immigration. The findings of the survey vindi-
+cate these procedures.
+(j) Consideration should be given by the appropriate authorities to
+the introduction throughout Australian mental institutions of
+a standard admission card. Future research, in this and other
+fields, would thereby be greatly facilitated.
+
+
+CHAPTER 2
+INTRODUCTION
+5. When this Committee began its investigation, it was soon established
+that no adequate statistical study of the incidence of mental illness among
+migrants had been made. It will be appreciated that a nation-wide survey
+is outside the powers of the individual State governments, in whose province
+mental health lies, and beyond the resources of individual psychiatrists
+and other interested persons. However, despite this lack of data, conflicting
+statements have been made from time to time regarding the numbers of
+migrants suffering from mental disorders. The Committee recognized the
+need to obtain reliable information regarding the incidence of mental
+illness.
+6. This report is based on a statistical, and not on a clinical study.
+The aim has been to find the number of oversea-born persons who, after
+reaching Australia during the years 1946 to 1957, were admitted for the
+first time to mental institutions in that period.
+7. The Committee is particularly conscious of the special function of
+this type of report, which is designed as a guide to immigration policy and
+administration. It should in no way be regarded as a report to, or for,
+the medical profession. The preparation of such a study, obviously, would
+not be the function of this Committee.
+8. This report attempts to uncover any broad problem area that may
+exist. An analysis in great detail is not required. Even within the limits set,
+therefore, this study lays no claim to being definitive.
+9. It was realized that, before a statistical analysis could be com-
+menced, a firm definition should be laid down as to who were to be regarded
+as migrants.
+10. There is wide acceptance of a concept that a migrant is a person
+who has spent less than five years in his new country. This view is to
+some extent supported by official practice. The Commonwealth Migration
+Act 1958 makes such a distinction, and non-British persons may apply for
+naturalization after residing five years in Australia. Sir Harry Wunderly (l)
+informed the Committee that, at the 1958 Conference of the World Federa-
+tion of Mental Health at Vienna/ 2 * most delegates supported the five-year
+definition. On the other hand, some felt that the transition period could
+last as long as ten years.
+11. In their study of migration and mental disease in New York State,
+Malzberg and Lee (1956) wrote —
+“ For the three fiscal years ended June 30, 1941, first admissions were classed by
+number of years of residence in New York State prior to entry into hospitals for
+mental disease. Persons who had lived in the State less than five years before first
+admission were considered migrants, and persons who had lived there all their lives or
+five years or more before first admission were considered non-migrants.” (3)
+(*) Sir Harry reported to the Government in 1950, 1952 and 1956 on procedures for the medical
+screening of migrants, after investigations undertaken at all overseas migration offices
+C) The theme of the Conference was “ Mental Health and Immigration An account of the pro-
+ceedings has been published under the title “ Uprooting and Resettlement” (I 960).
+( 3 ) The full details of texts quoted are listed in the bibliography in Appendix “C”.
+
+
+12. The Committee has used throughout the definition of a migrant as a
+person who has resided in Australia for less than five years.
+First Admission Rates as a Definition of Mental Illness for the Purpose of
+this Report
+13. For statistical purposes, first admissions to mental institutions were
+accepted as a basis for assessing the incidence of mental illness.
+14. It was noted that first-admission rates had been widely used by
+sociologists and statisticians for similar studies. Malzberg (1955), in his
+study of mental-illness statistics for the State of New York, wrote —
+“ Obviously the number of first admissions is less than the true total of new cases,
+for an unknown number of mental cases is treated by private practitioners, and another
+unknown total of such cases never receives any medical treatment. The latter observa-
+tion applies more particularly to the less severe types of mental disease . . . One
+must, therefore, asssume that the relation between the total of first admissions and the
+unknown total of new cases arriving in the State in the same period is constant from
+year to year, or sufficiently constant for practical purposes.”
+15. With these reservations/ 4 ) Malzberg adopted the first-admission
+analysis. Reid (1960) made a further comment —
+“It is clear . . . that first-admission rates are likely to be most useful when
+the whole community is served by the hospital system whose records are available.”
+16. Other investigators in this field, such as Goldhamer and Marshall
+(1955), Wallis and Roberts (1957) and Halevi (1960), also favoured this
+approach.
+( 4 ) The implications of these, and other factors, are more fully discussed in Chapter 6.
+
+
+CHAPTER 3
+METHOD OF ANALYSIS
+17. For the purpose of this study it was necessary to obtain first-
+admission data from all State mental institutions.
+18. The regular statistical returns from State directors of mental health
+to the Commonwealth Department of Health were thoroughly examined.
+It was learned that these statistics were not strictly comparable, because of
+varying methods employed in compilation. More important was the fact
+that there was little information on first admissions, migrant or Australian-
+born.
+19. Sir Harry Wunderly agreed to approach the various State directors
+of mental health, outlining the purpose of the project and seeking their
+advice and co-operation in the task.
+20. He emphasized to the various State directors the necessity of
+obtaining first-admission data on a uniform basis, and gave positive assur-
+ances that information collected on individual cases would be treated con-
+fidentially.
+21. He also pointed out that it was planned to make a case card for
+each first admission to avoid errors likely to arise, for example, from duplica-
+tion caused by interstate movement or from change of name. It was finally
+agreed that the following particulars would be sought—
+(a) full name;
+(b) age on admission;
+(c) sex;
+(d) marital status;
+(e) birthplace;
+(f) date of arrival in Australia;
+(g) date of first admission;
+(h) name of institution;
+(i) subsequent action, for example, transfers, date of discharge, date
+of death.
+22. Sir Harry reported that one aspect of the survey, stemming from
+differing State attitudes towards the commitment of alcoholics, remained
+unresolved. There was no broad area of agreement between State authorities
+on this particular question. On Sir Harry’s recommendation, it was decided
+that these cases would not be covered in the survey. (1 >
+23. All States agreed to co-operate in this important task. However, a
+preliminary survey revealed that the work of extracting information from
+the registers would place an unacceptable strain on State Government clerical
+staff in mental hospitals. The Minister for Immigration assisted by approving
+the part-time secondment of a number of experienced Commonwealth officers
+who were particularly skilled in searching official records. In addition, a
+senior officer of the Department of Immigration in Canberra was appointed
+to co-ordinate the work of his colleagues in the various States.
+I 1) A paper contributed to the “ Report of the Victorian Mental Hygiene Authority for the Year
+ended 31st December, 1958 ”, noted that the incidence of alcoholism among European-born patients
+admitted to Royal Park Hospital, Melbourne, was far lower than among Australian-born patients.
+While this is an important observation, part of the explanation may lie in the differing age structures
+of the two populations. In addition, potential migrants suffering from this illness are deterred from
+entry by medical screening.
+9134/61.—4
+
+
+24. As an intimation of the magnitude of the task, it was discovered that,
+in one State alone, a grand total of 30,000 names of Australian and
+overseas-born persons was entered on institution registers between 1946
+and 1957.
+25. The work of searching these registers was pushed ahead as soon
+as administrative arrangements were made. When the first returns reached
+Canberra it was observed that, through differing systems of registration,
+there were serious gaps in the data. For example, while details of age
+on admission and birth place were easily obtained from the registers, the
+same source gave little, if any, indication of date of arrival in Australia.
+26. To fill such gaps, the scope of the search was broadened to include
+official records held by the Commonwealth Government. Among sources
+consulted were ships’ nominal rolls, aliens’ registers, case records of social
+workers, and deportation and repatriation returns.
+27. After full analysis, it was found that there were 3,869 first admissions
+to mental institutions of migrants who had arrived between 1946 and 1957.
+28. Information on the case cards was coded, and the Commonwealth
+Statistician, after preparing punch-cards, machine-counted the data. From
+the resulting tabulations, statistics were extracted.
+29. To assist their work, the Committee assembled a number of references
+relating to mental-health surveys conducted overseas. It was noted that as
+early as 1848, in the State of Massachusetts, U.S.A., Dr. Pliny Earle (2) not
+only realized the significance of the distinction between first and total
+admissions to mental institutions, but also gave details of the age distribution
+of these first admissions. W. B. Hurd (1937), while discussing the racial
+origins and nativity of the Canadian people, maintained that —
+“the difference in incidence (of mental illness leading to institutional treatment)
+between the Canadian-born and the foreign-born as a group is entirely attributable to
+peculiarities of age and sex distribution. That between the Canadian and British-born
+is more than accounted for by the same causes. It seems to follow that differences
+in age and sex are likely to be of major importance in explaining the differing incidence
+as between the smaller nativity groups as well.”
+30. Later workers such as Malzberg and Lee (1956), Goldhamer and
+Marshall (1953), Frumkin (1953), Kleiner and Parker (1959), and Halevi
+(1960), adopted the method of age- and sex-specific analysis of first
+admissions.
+31. The same method was followed. At this stage, also, a further
+decision was reached. While the survey covers a period of twelve years,
+it would be very misleading to analyse first-admission figures in such a way
+as to give a similar weight to each annual migrant intake. (3) It was obvious
+that few, if any, valid conclusions could be drawn from such overall analysis.
+To eliminate this particular difficulty, it was decided to examine incidence
+rates by year of arrival. If, for example, the numbers of persons from the
+1949 intake, who were admitted to institutions for the first time within a
+period of five years after arrival, were compared with a similar group drawn
+from the 1952 intake, a useful indication of trends could be obtained.
+( 2 ) As quoted by Goldhamer and Marshall (1953).
+( 8 ) For example, persons arriving during 1956 have had less time in which to fall ill than the group
+who reached Australia in 1946.
+
+
+32. Keeping in mind the definition of a migrant as a person in his first
+five years of residence, it was decided to analyse the distribution of male
+and female rates by ten-year age groups, for yearly intakes, over a five-year
+period of residence in Australia,
+33. Finally, the population from which to calculate each year’s age-
+specific rates per 1,000 persons would be based on the annual statistics of
+long-term and permanent arrivals in Australia.
+34. The implications arising from the decision to compare incidence rates
+for individual years of arrival over a five-year period of residence were
+now considered. Table No. 1 (4) was prepared showing first-admission cases
+who were admitted to institutions within five years of arrival, analysing the
+data by year of arrival and by age on admission in ten-year groups.
+35. As the data collected concerned cases up to the end of 1957, arrivals
+after 1952 cannot be included in an analysis of first admissions within five
+years of arrival.
+36. A well-known statistical principle lays down that, if valid inferences
+are to be drawn, sub-groups in a table should include not fewer than 50
+cases, and individual cells in the sub-group not fewer than five. On this
+basis, cases occurring among migrants who arrived during 1946 and 1947
+were discarded. Those cases occurring within two age groups, 0-9 years,
+and 60 years and over, were also eliminated, because of the small numbers
+in each of the cells.
+37. To summarize, it was necessary to restrict the five-year analysis (s)
+to cases drawn from annual migrant intakes between 194,8 and 1952.
+Further, the 0-9 year and 60 years and over age groups were discarded.
+38. It was also desirable to discover, as far as possible, trends in rates
+for migrants who arrived in 1953-57. This necessitated using data for a
+shorter period after arrival than five years. In Table No. 2, first-admission
+cases which occurred within two years of arrival are set out for the annual
+migrant intakes from 1949 to 1955.
+39. It will be seen from this table that, while male sub-groups were
+sufficiently large, female sub-groups remained below the minimum size of
+50 among the groups who arrived between the years 1951 and 1955. It
+appeared, therefore, that an analysis of three-year rates for males and
+females for 1953 and 1954, and two-year male rates for 1953-55, might
+provide a satisfactory basis for an investigation of first-admissions among
+migrants who arrived between 1953 and 1957. This will be the subject
+of a later chapter.
+40. From Table No. 3 it was noted that there were 2,316 cases from the
+1948-52 intakes, who had been admitted for the first time within five years
+of arrival. Of these, 1,601, or 69.1 per cent., were males, and 715, or 30.9
+per cent., were females. Of the 1,601 male cases 98.0 per cent, were
+between the ages of 10 and 59 years on admission, the groups with which
+this study would be primarily concerned. In comparison, of the 715 female
+cases, 93.7 per cent, were between the ages of 10 and 59 years on admission.
+( 4 ) Statistical tables are set out in Appendix “A ”,
+(') The terms “ five-year ”, “ three-year ”, and “ two-year ”, applied to rates, always refer to first*
+admissions within five, three or two years of arrival in Australia. Where rates are prefixed by reference
+to a year, e.g. “ 1951 rates ”, this refers to rates for migrants who arrived in Australia in 1951, and not
+to migrant admissions to mental institutions during that year.
+
+
+41. Table No. 3 shows that 93.9 per cent, of all male cases occurred
+among those aged 20 to 49 years on admission, compared with 69.3 per
+cent, in these age groups on arrival for the overall 1948-52 migrant intake. (6)
+Furthermore, 77.2 per cent, of male cases on admission occurred in the
+20- to 39-year groups as compared with 54.6 per cent, on arrival of all
+male migrants.
+42. The Table also shows that 85.5 per cent, of female first-admission
+cases occurred among those aged 20-49 years on admission. In comparison,
+those aged 20-49 years in the total female migrant intake into Australia
+during this period represented 69.0 per cent, of the total.
+43. This simple study established the importance of the age and sex
+analysis of first-admission cases and prepared the way for a detailed analysis
+of the data.
+( 6 ) This approach has not taken age-shifts into account. However, this element of bias has been
+corrected when calculating incidence rates.
+
+
+CHAPTER 4
+FIRST-ADMISSION RATES—1948-52 MIGRANT INTAKES
+44. The principal aim of this chapter is to measure and compare age-
+specific* 1 > first-admission rates of persons who had arrived in the annual
+migrant intakes between 1948 and 1952, and were admitted to a mental
+hospital for the first time within five years of arrival. Male and female
+rates are compared; in addition, some of the possible effects of the varying
+composition of national groups in the migrant intakes from year to year are
+discussed. Where years are quoted, they refer to the year of arrival in
+Australia.
+45. In order to avoid repetition of certain phrases, the expression
+“ rates ”, unless qualified, is defined as age-specific, first-admission rates of
+oversea-born persons who have resided less than five years in Australia.
+46. Firstly, it was observed that the rates for the years 1949 and 1950,
+set out in Table No. 4, were considerably higher than the average rates for
+the entire period. Large numbers of displaced persons reached Australia in
+those two years. A possible connexion with these rates and the large-scale
+intake of displaced persons will be covered later in this chapter.
+47. A second observation was that the rates for females, particularly
+those in the important 20- to 49-year groups, were significantly lower than
+comparable male rates. This was in line with findings in similar studies
+overseas. (2)
+48. The third and perhaps most important aspect brought out by Table
+No. 4 was the effect of age on incidence rates. The rates for each year
+form most interesting patterns, and can be examined most effectively by
+reference to Figure No. 1.* 3) Here, male and female rates are plotted on
+separate graphs which show a regular pattern, commencing with low rates
+in the 10- to 19-year group, rising to a peak somewhere in the 20- to 49-year
+groups, and then falling sharply in the 50- to 59-year group. Sir Harry
+Wunderly reported that the pattern was explained by these factors—
+(i) mental illness is relatively rare in persons under fifteen years, and
+mental defectives are usually easily excluded by overseas
+medical screening;
+(ii) much of the mental illness which occurs in the later age groups
+is the result of cardio-vascular disease —a degenerative process;
+and
+(iii) it is often difficult and at times impossible to detect the potential
+psychotics—and it is in the 20- to 49-year groups that these
+mental illnesses most usually occur.
+49. The graphs in Figure No. 1 clearly underlined observations made
+earlier of the need for a much closer analysis of the intakes during the
+years 1949 and 1950. In addition, bearing in mind the largely symmetrical
+pattern formed by the incidence rates, the non-symmetrical form of male
+rates for 1952 and of female rates for 1951 called for further analysis.
+(*) “ Age-specific ” signifies that rates have been calculated either for each individual age, or for
+age-groups. In this Report, 10-year age-groups are used.
+( 2 ) After these ages, female rates tend to equal and later exceed male rates.
+( a ) All charts are in Appendix “B ”.
+9134/61.—5
+
+
+50. When first noting the high rates occurring in the 1949 and 1950
+intakes, the Committee decided it would be necessary to see if a connexion
+existed between these rates and the very large intake of displaced persons
+in those years.
+51. Although a formal agreement between Australia and the Interna-
+tional Refugee Organization was signed in July, 1947, it was not until 1949
+that large numbers of displaced persons were able to reach this country.
+The world-wide shortage of shipping forced many thousands, whose migra-
+tion had already been approved, to face a long, dispiriting wait in embarka-
+tion camps.
+52. Australia, aware of the urgency of the problem, agreed to take
+larger numbers as soon as the shipping position improved. The situation
+changed dramatically in 1949, and, in the two years ended December, 1950,
+145,000 displaced persons reached Australia under the International Refugee
+Organization Scheme.
+53. Because of the wide difference in background of this group from that
+of all other migrants, it was decided to make a detailed analysis of first-
+admission rates for the 1949 and 1950 migrant intakes. These are set out
+in Table No. 5.
+54. This table shows considerable differences between the rates for dis-
+placed persons and for all other migrants. These are too great to be
+accounted for by random fluctuations. The weight of this evidence con-
+vinced the Committee that the higher overall rates for the 1949 and 1950
+migrant intakes, compared with the rates for other years, were not typical,
+being primarily a result of the large intake of displaced persons.
+55. On the other hand, it was felt that the higher rates for displaced
+persons, compared with all other migrants, cannot be attributed to inadequate
+medical screening. The procedures used by Australian doctors were
+described by International Refugee Organization officials as more searching
+than those of other countries, as high standards of acceptability were applied.
+56. As was to be expected, the results of this special investigation empha-
+sized that the record of mental ill-health among displaced persons should
+not be regarded as typical for all migrants.
+57. Figure No. 1 reveals that the largely symmetrical form of male rates
+for the earlier years was replaced by a non-symmetrical pattern for the 1952
+migrant intake. The main feature was that the rate for the 20- to 29-year
+group rose sharply in comparison with those aged 30 to 39 years.
+58. The rates shown in Table No. 6 indicate that, when displaced persons
+are excluded, the maximum rate for the combined 1948-52 intake also
+occurred in the 20- to 29-year group, replacing the 30- to 39-year group,
+which had the highest rate for the overall intake.
+59. It was also noted that the proportion of displaced persons in the
+male migrant intake fell from 45.2 per cent, and 39.4 per cent, in 1949 and
+1950 respectively to 8.5 per cent, in 1951 and 1.6 per cent, in 1952. It
+was thus reasonable to expect that 1951 rates were transitional, and that in
+1952 the highest rate would occur among the 20- to 29-year group. This
+rate was unusually high, and that because of the number of cases involved,
+is confirmed by Figure No. 1. However, it was apparent that this latter
+chance factors could not be solely responsible.
+
+
+60. Except for 1952-53, Australia has been fortunate that, in the period
+under consideration, she enjoyed a sustained demand for labour. Accord-
+ingly, the principal task was to recruit suitable workers to take advantage of
+the employment opportunities,
+61. In 1952, however, some migrants arrived when employment was
+difficult to obtain because of temporary economic adjustment.
+62. In order to examine the possible effects of this situation, it was
+decided to study the rates for assisted male Italian migrants. This choice
+was not made through any evidence that Italians might generally be more
+susceptible to mental illness than other national groups. This was the first
+year of assisted Italian migration, and those who arrived were predominantly
+single men, aged 20 to 29 years, frequently without relatives or friends
+in Australia.
+63. It was found that the rate for Italian assisted male migrants (who
+were largely unskilled) was greater (6.3 compared to 5.3 per 1,000) than
+that for all other male migrants in the same age group. On this evidence,
+it was felt that short-term factors may have contributed to the high rate
+experienced among 1952 arrivals aged 20 to 29 years. This was to some
+extent confirmed by later experience with the 1955 intake.
+64. Figure No. 1 also shows a generally symmetrical form for female
+rates. The 1951 rates, however, deviated from the usual pattern, reaching
+a distinct peak in the 40- to 49-year group.
+65. After several possible factors were examined, there appeared to be
+no satisfactory explanation, and it was felt that random fluctuations caused
+this variation.
+66. It should be recognized that females aged 40 to 49 comprised a
+much smaller proportion of the 1951 female migrant intake than did males
+aged 20 to 29 of the 1952 male intake. Furthermore, the number of
+cases involved was very much smaller. Much less significance, therefore,
+can be attached to. these figures.
+
+
+CHAPTER 5
+PATTERNS OF FIRST ADMISSIONS—ANNUAL
+DISTRIBUTION OF CASES
+67. This chapter has two objectives: firstly, to examine the claim
+that a majority of migrant cases were admitted during the first two years
+of residence; secondly, to provide some of the data which will be used
+in estimating probable five-year rates for migrants who arrived after 1952.
+The latter will be the subject of the next chapter.
+68. The task was begun by examining what may be called the
+“ anatomy ” of five-year rates, and then searching for indications of an
+overall yearly pattern in the cumulative build-up of rates.
+69. The years 1948, 1950 and 1952 were selected for this study, and
+the yearly build-up of rates is shown in Table No. 7. It was seen that the
+pattern of male rates established during the first year of residence was
+largely preserved throughout the remainder of the period. This was not
+the case for females.
+70. This pattern is more clearly demonstrated in the graphs in Figure
+No. 2. It was seen that persons in the 20- to 29-year group entered earlier
+rather than later in their period of residence in Australia, and this general
+pattern was maintained regardless of the level of rates. However, it was
+not possible to make similar observations regarding the more mature groups.
+71. The female rates shown in Figure No. 2 underline the very low
+incidence in comparison with males. It is interesting that the symmetry
+in the pattern of female rates at the five-year stage was not a feature
+of the earlier years.
+72. It was evident that a more detailed statistical analysis was required.
+Accordingly, a hypothesis that the annual percentage distribution of cases
+did not vary over the five years was tested. If this were correct, 20 per
+cent, of the total number of cases, in each individual age-group, would
+have been admitted in each year.
+73. The first step was to calculate, for males and females in the three
+main age groups (20-29, 30-39 and 40-49 years), the annual percentage
+distribution of cases by period of residence before first admission. These
+percentages were plotted on graphs, forming “scatter diagrams ”, for each
+male and female age group, from which were calculated trend or “ regres-
+sion ” lines.
+74. These regression lines are shown in Figure No. 3. Also, on each
+graph, a horizontal “ hypothesis ” line has been drawn at the 20 per cent,
+level of the Y-axis.
+75. The significance of this analysis is simply explained. If the regres-
+sion line is parallel or almost parallel to the hypothesis line, it can be
+inferred that admissions are fairly evenly distributed throughout the five-
+year period. On the other hand, if the line slopes from top-left to bottom-
+right of the graph, cases tend to be admitted earlier rather than later.
+Again, if the regression line slopes upward from left to right, there is
+a tendency for such cases to be admitted later rather than earlier.
+
+
+76. Figure No. 3 shows that almost 50 per cent, of both male and
+female admissions from the 20- to 29-year group entered hospital before
+the end of the second year of residence. While random fluctuations of
+nearly 5 per cent, may be expected to occur on either side of the regression
+lines, this analysis supports the contention that admissions in this age
+group are not equally distributed among the five yearly periods.
+77. On the other hand, the regression lines for the two older age groups
+show that an equal annual distribution of each 100 cases over the five-year
+period can be expected.
+
+
+CHAPTER 6
+ESTIMATED FIRST-ADMISSION RATES—1953-57 MIGRANT
+INTAKES
+78. It was pointed out in Chapter 3 that a five-year analysis could
+not be taken past the 1952 migrant intake. Accordingly, it was necessary
+to attempt an estimate of five-year rates for later arrivals. As in previous
+chapters, the terms “ five-year ”, “ three-year ”, and “ two-year ”, applied
+to rates, refer to first admissions within five, three or two years of arrival
+in Australia.
+79. The approach adopted was to examine three-year, and where pos-
+sible, two-year rates, for the 1953, 1954 and 1955 migrant intakes, in
+conjunction with the patterns of admission analysed in the previous chapter.
+The aim was to discover those areas where rates have followed expected
+patterns and, where they have not, to see whether or not the variations
+were the result of random fluctuations.
+80. Three-year rates covering the intakes 1951-54 are set out in Table
+No. 8, and its companion Figure No. 4. The two earlier years were
+valuable guides, since five-year rates for them were known. To aid the
+investigation, Table No. 9 and Figure No. 5, showing the annual build-up
+of three-year rates, were also prepared.
+81. Three features of the male three-year rates deserve comment —
+(a) Figure No. 4 shows that for the 1953 and 1954 intakes, the
+maximum male five-year rate could be expected among the
+20- to 29-year group. This confirmed the pattern established
+in 1952, and for previous years when displaced persons were
+excluded from the analysis.
+(b) It will be noticed that wide fluctuations occurred in the rates
+for the 50- to 59-year group. These fluctuations can be
+dismissed as chance variations, because of the small number
+of cases, and the relative unimportance of this age-group in
+migrant intakes.
+(c) The rates for the 30- to 39-year group, starting from 1951,
+were 3.2, 2.9, 2.8 and lastly 1.4 per 1,000 in 1954. While
+the gradual fall in these rates was to be expected, being part
+of the effect of the ending of the displaced person pro-
+gramme, the sudden drop between 1953 and 1954 was not.
+82. With reference to (c) above, it was interesting to note that, at the
+two-ye||c stage, a somewhat similar situation was apparently developing
+among £e 1953 group, but admissions during the third year of residence
+carried £e rate to a level largely comparable with earlier years.
+83. To seek further information the 1955 two-year rates were examined
+as set oilt in Table No. 10. The 1955 rate for this age group equalled
+the mean two-year rate over 1952-55.
+84. Hence the 1954 three-year rate for the 30- to 39-year group could
+not be regarded as a sign of an important new trend, but was the result
+of a chance variation from the very regular pattern of rates observed at
+two-, three-, and five-year stages.
+
+
+85. The analysis of year-by-year rates in the previous chapter revealed
+that, while male rates maintained a firm pattern, female rates were less
+regular. Rather less reliance can therefore be placed on year-by-year trends
+in female rates than is possible with male rates.
+86. Table No. 8 reveals that female three-year rates for the 40- to 49-year
+group from migrants who arrived in 1951 and 1952 varied widely from the
+1951-54 average three-year rates. The examination in Chapter 4 of the
+high five-year rate in this age-group from among migrants who arrived in
+1951 led to the conclusion that, because of the relatively small number of
+cases involved, too much should not be made of this variation. A similar
+caution should be exercised in interpreting the very low three-year rate for
+1952, which in part reflects the low level of five-year rates for that year’s
+intake, as demonstrated in Figure No. 2.
+87. It was apparent that a fair degree of rate stability had been reached,
+and that the probable five-year patterns, particularly for males, could reason-
+ably be predicted. Data from the previous chapter on year-by-year patterns
+was applied to the three-year rates for 1953-54 and the two-year male rates
+for 1955. The result is shown in Table No. 11. To emphasize that these
+figures are estimates, rates have been rounded.
+88. With male rates, it was expected that the non-symmetrical pattern
+would be repeated, with the maximum level reached among the 20- to
+29-year group. On the other hand, female rates could not be predicted with
+the same degree of confidence. Table No. 11 shows that maximum female
+rates were estimated for the 30- to 49-year groups. In making the estimates,
+reliance was placed on the reasonable degree of symmetry attained by the
+end of the five-year period, as shown in Figure No. 2.
+89. It will be observed that the estimated five-year rates for 1953-57
+compare satisfactorily with actual rates for previous years, implying that a
+stable rate had been established, for other than displaced persons or refugees.
+
+
+CHAPTER 7
+MIGRANT AND NON-MIGRANT INCIDENCE RATES
+90. Before overall differences in rates between migrant and non-migrant
+first-admissions were considered, certain factors were examined affecting
+admissions to mental institutions which may have operated in varying degrees
+on the two groups. This provided a useful background to the comparison
+of migrant and non-migrant patterns,
+91. The influence of age and sex on migrant rates has been seen through-
+out this survey. It was interesting to contrast the patterns of these rates
+with the findings of oversea studies of native-born first-admissions, which
+show a continuing rise in rates with increasing age.
+92. The age-structure of the post-war migrant intake has differed sig-
+nificantly from the age-structure of the Australian population at the Census
+of 1947, taken before large-scale immigration had begun. Obviously, allow-
+ance must be made for this.
+93. There is reason to believe that a number of social features could
+cause differences in admission rates between migrants and native-born
+persons.
+94. In the native-born community, mental illness is in some cases treated
+at home. Those migrants, and in particular single persons, who are far from
+friends and relatives, have less opportunities for home care, and thus may
+be more likely to be admitted to an institution. This may be offset to some
+extent among other migrants by strong family ties.
+95. For non-British migrants, the task of adjusting themselves to their
+new environment is complicated by language difficulties. Inability to com-
+municate can foster a feeling of isolation, and could prevent a migrant from
+discussing his problems adequately with a doctor.
+96. On the other hand, the comprehensive system of initial accommoda-
+tion, job placement and social services, for which Australia is noted, is an
+important factor in aiding migrants to overcome initial problems of
+settlement.
+97. Some overseas investigators have found evidence that rates of admis-
+sion are affected by distance from an institution; thus rural rates will tend
+to be lower than urban rates. The 1954 census revealed that migrants
+were slightly more urbanized (83 per cent.) than Australian-born persons
+(78 per cent.), and this could produce a tendency toward higher rates of
+admission for migrants.
+98. In summary, there was some reason to believe that certain factors
+affecting the rates of admission to mental institutions operate more against
+migrants than native-born. This was offset by the youthful structure of the
+migrant population, and a thorough system of selection and screening of
+migrants.
+99. Age-specific first-admission rates for Australia are not available from
+health statistics, nor from census data. It was not possible, therefore, to
+attempt a direct comparison of migrant and nation-wide Australian rates.
+
+
+100. First-admission rates were discussed by Dr. Alan Stoller, Chief
+Clinical Officer of the Victorian Mental Hygiene Authority, in a recent
+article (1958). He stated that some years ago, in western communities,
+the annual rate of first-admissions to mental hospitals was some 0.7 per 1,000
+population.
+101. It was decided to check Australian migrant rates against the first-
+admission figure quoted by Stoller. Annual average weighted rates for
+migrants were calculated. Table No. 12 shows that the annual average rate
+covering those who arrived in the years 1948-52 was 0.70 per 1,000.
+102. As the rate reached among displaced persons was higher than that
+for all other migrants, Table No. 13 excludes displaced persons and the
+resulting annual average rate was 0.46 per 1,000. The estimated rates for
+the 1953-57 migrant intakes would provide a similar annual weighted rate.
+103. As the migrant group was carefully selected overseas and was
+younger than the Australian population, a rate lower than 0.70 per 1,000
+might be expected. In fact, it was shown to be 0.46 per 1,000.
+104. To take the analysis another step, an annual rate was calculated,
+standardized to the age distribution of the Australian population at the 1947
+census. Age-standardization has been used by United States investigators,
+who sought to present migrant admissions in the fairest manner possible, by
+calculating weighted rates as if the migrants’ age distribution matched that
+of the native-born population. The age-standardized annual first-admission
+rate from the 1948-52 intakes (excluding displaced persons) was 0.38 per
+1,000.
+105. In the absence of comprehensive Australian first-admission statis-
+tics, it was considered that the differences in rates between migrant and non-
+migrant communities could be more easily compared if rates for a similar
+native-born population to that of Australia were examined. In this way it
+could be established how the pattern of first-admission rates for a similar
+native-born community differs from that of Australia’s migrant intake.
+106. Malzberg’s (1955) excellent first-admission statistics from New
+York State were employed for this purpose. Table No. 14, and its com-
+panion Figure No. 6, show New York State five-year rates corrected for
+purposes of comparison with migrant rates in Australia. The rates can be
+seen to have risen sharply to the 20- to 29-year group, thence more gently
+until the 40- to 49-year group. Thereafter, the rates again increased markedly.
+It was interesting to note that female rates remained less than similar male
+rates until the 40- to 49-year group was reached. In spite of the radically
+different patterns, this relationship applied both to migrants in Australia and
+for native-born residents of New York State.
+107. The Committee’s findings may be contrasted with the well-known
+study by Malzberg and Lee (1956), in which rates for oversea-bom persons
+in New York State, 1939-41, with less than five years residence, were found
+to be significantly higher than those for native-born residents. Two factors
+may well account for this widely differing result.
+
+
+108. Firstly, the period selected for the New York study, while largely
+dictated by the availability of data from the 1940 Census, included an eco-
+nomic recession and an influx of refugees from persecution and war in
+Europe. Secondly, Australia has moved increasingly toward family migra-
+tion, while the United States intake during the ’thirties contained few
+children, being largely confined to adults aged 20 to 40 years.
+109. Accordingly, it was established that if displaced-person rates were
+eliminated from the pattern, Australian migrant rates from each annual
+intake could be accepted as being below those of a typical Western
+community.
+
+
+CHAPTER 8
+OTHER ITEMS OF INTEREST
+Period in Hospital
+110. Migrants in the 1948-52 intakes, admitted to a mental hospital
+for the first time within five years of arrival, totalled 1,601 males and 715
+females. Of these, 946 male patients (59 per cent.) and 502 females (70
+per cent.) had been discharged after first admission by 31st December, 1957.
+(a) Of the male cases discharged after first admission—
+-42 per cent, remained in hospital less than 3 months;
+73 per cent, remained in hospital less than 12 months.
+(b) Of female cases discharged after first admission —
+42 per cent, remained in hospital less than 3 months;
+66 per cent, remained in hospital less than 12 months.
+(c) Both males and females, discharged after first admission,
+recorded an average stay of nine months.
+111. Among the male 20- to 29-year group, 75 per cent, remained in
+hospital less than 12 months, compared to 73 per cent, for the 30- to 39-year
+group, and 71 per cent, for the 40- to 49-year group.
+112. Among the female 20- to 29-year group, 67 per cent, remained in
+hospital less than 12 months, compared to 69 per cent, for the 30- to 39-year
+group, and 60 per cent, for the 40- to 49-year group.
+113. In addition, both age and sex seemed to have an influence on the
+chances of being admitted for a second time, as Table No. 15 reveals.
+Female re-admission rates were below those for males.
+Marital Status
+114. While the marital status of migrants on admission to mental
+institutions was known, it was not possible to obtain data on the marital
+status of the whole migrant population in Australia.
+115. However, a comparison of the marital status of migrants on
+arrival in Australia with that upon admission showed that, among all male
+migrants first admitted to a mental institution between 1946 and 1957, 70
+per cent, were single, and 27 per cent, were married. Among male long-
+term and permanent arrivals in the same period, 62 per cent, were single,
+and 37 per cent, were married. For females, the first-admission figures for
+the period show 21 per cent, were single, and 68 per cent, married; among
+long-term and permanent arrivals, 51 per cent, were single, and 44 per cent,
+married.
+116. From these figures it can be seen that, compared with their per-
+centages of the migrant intakes, more single than married males, and more
+married than single females, tended to be admitted to institutions. For
+females, a possible explanation is that many married shortly after arrival in
+Australia, and thus the proportions of single and married among admissions
+was a more accurate indication of the marital status of the female migrant
+community than figures based on arrival statistics.
+
+
+Deportation and Repatriation
+117. Both the Immigration Act 1901-1949 and the Migration Act 1958
+gave the Minister for Immigration the power to order the deportation of an
+immigrant from Australia if, within five years after any entry by him into
+Australia, he becomes an inmate of a mental hospital or public charitable
+institution.
+118. A number of migrants, following their admission to a mental
+hospital, have been deported under this power, while others have been
+repatriated.
+119. In 1956 a Committee of the Commonwealth Immigration Advisory
+Council was established to review policy in this respect. After studying the
+views of State Governments and the Commonwealth Department of Health,
+the Committee recommended that the Commonwealth should retain the
+power to deport, but that, as a matter of policy, deportation should only be
+effected where the disability had existed before arrival in Australia, and
+where the existence of the disability had been knowingly concealed.
+120. The recommendation was accepted by the Minister, who added a
+provision that, where it was clearly in the best interests of the migrant,
+deportation could be effected. This recognizes that some patients may
+improve in the familiar environment of their homeland, and in the care of
+relatives and friends,
+121. The policy, in the opinion of this Committee, is both humane and
+an adequate safeguard of Australia’s interests. A stricter policy does not
+appear to be required, and could possibly achieve an undesirable effect if
+mentally-ill migrants were induced to conceal their condition through fear
+of deportation.
+
+
+TABLE No. 1
+Age-Specific First-Admission Cases
+Admitted Within Five years of Arrival in Australia
+1946-1952 Migrant Intakes
+Year of
+Arrival
+Age on Admission (Years)
+0-9
+10-19
+20-29
+30-39
+40-49
+50-59
+60 and
+over
+Not
+stated
+Total
+Males
+1946
+1
+2
+1
+2
+3
+9
+1947
+2
+7
+6
+5
+2
+1
+23
+1948
+2
+6
+44
+48
+20
+4
+2
+126
+1949
+1
+7
+181
+204
+89
+9
+10
+1
+502
+1950
+3
+6
+160
+196
+98
+11
+3
+477
+1951
+5
+98
+84
+37
+1
+3
+2
+230
+1952
+4
+7
+146
+74
+23
+10
+5
+269
+Females
+1946
+3
+1
+4
+1947
+10
+6
+1
+17
+1948
+17
+16
+12
+2
+6
+5 3
+1949
+3
+70
+88
+45
+14
+11
+231
+1950
+2
+10
+81
+82
+44
+10
+11
+240
+1951
+4
+2
+21
+42
+32
+6
+4
+111
+1952
+6
+22
+28
+11
+6
+7
+80
+APPENDIX "A"
+LIST OF TABLES
+1. Age-specific first-admission cases, within five years of arrival, by year of arrival.
+2. Age-specific first-admission cases, within two years of arrival, by year of arrival.
+3. Age-specific first-admission cases —1948-52 intakes—admitted within five years of
+arrival.
+4. Male and female age-specific first-admission rates for annual intakes 1948-52,
+admitted within five years of arrival.
+5. Male and female age-specific first-admission rates, within five years of arrival, for
+the 1949 and 1950 intakes.
+6. Male age-specific first-admission rates, within five years of arrival—average, 1948-52
+intakes.
+7. Male and female age-specific first-admission rates —1948, 1950, 1952 intakes, by
+period of residence before first admission.
+8. Male and female age-specific first-admission rates for annual intakes 1951-54,
+admitted within three years of arrival.
+9. Male and female age-specific first-admission rates, 1951-54 intakes, within three
+years of arrival.
+10. Male age-specific first-admission rates—l9s2-55 intakes—within two years of arrival.
+11. Estimated five-year male and female age-specific first-admission rates for annual
+intakes 1953-57.
+12. Five-year weighted average first-admission rates—all arrivals, 1948-52 intakes.
+13. Five-year weighted average first-admission rates —excluding displaced persons—
+-1948-52 intakes.
+14. Five-year male and female age-specific first-admission rates —native-born whites,.
+State of New York 1939-41; migrant intake, Australia, 1948-52.
+15. Proportion of age-specific first-admission cases entering hospital for a second time —
+1948-52 intake, first admission within five years of arrival.
+
+
+TABLE No. 2
+Age-Specific
+First-Admission Cases
+Admitted Within Two
+Years of Arrival in Australia
+1949-1955 Migrant Intakes
+Age on Admission (Years)
+Year of
+Arrival
+0-9
+10-19
+20-29
+30-39
+40-49
+50-59
+60 and
+over
+Not
+stated
+Total
+Males
+1949
+4
+80
+79
+33
+4
+4
+204
+1950
+3
+88
+74
+45
+6
+1
+21 7
+1951
+3
+41
+42
+9
+1
+99
+1952
+1
+2
+70
+9
+7
+4
+127
+1953
+1
+4
+24
+6
+2
+1
+49
+1954
+1
+4
+30
+11
+8
+54
+1955
+2
+6
+57
+26
+5
+1
+2
+99
+Females
+1949
+2
+32
+29
+17
+3
+3
+86
+1950
+7
+42
+23
+20
+3
+5
+100
+1951
+2
+I
+12
+15
+10
+1
+2
+43
+1952
+4
+14
+14
+2
+2
+3
+39
+1953
+7
+13
+6
+2
+3
+31
+1954
+2
+7
+10
+9
+2
+1
+31
+1955
+I
+2
+15
+8
+5
+1
+2
+34
+TABLE No. 3
+Age-Specific First-Admission Cases
+Admitted Within Five Years of Arrival in Australia
+1948-1952 Migrant Intakes
+Cases
+Per Cent.
+Age on Admission (Years)
+Male
+Female
+Total
+Male
+Female
+Total
+Cases
+Intakes
+Cases
+Intakes
+Cases
+Intakes
+Per
+Per
+Per
+Per
+Per
+Per
+cent.
+cent.
+cent.
+cent.
+cent.
+cent.
+0-9
+10
+6
+16
+0.6
+12.2
+0.8
+15.9
+0.7
+13.9
+10-19
+31
+21
+52
+1.9
+11.4
+2.9
+12.9
+2.2
+12.0
+20-29
+629
+211
+840
+39.3
+28.9
+29.6
+22.7
+36.3
+26.3
+30-39
+606
+256
+862
+37.9
+25.7
+35.8
+22.7
+37.2
+24.4
+40-49
+267
+144
+411
+16.7
+14.7
+20.1
+13.6
+17.7
+14.2
+50-59
+35
+38
+73
+2.2
+4.5
+5.3
+6.6
+3.2
+5.4
+60 and over ..
+23
+39
+62
+1.4
+2.6
+5.5
+5.6
+2.7
+3.8
+Total
+1,601
+715
+2,316
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+APPENDIX “ A " —continued
+
+
+TABLE No. 4
+Age-Specific First-Admission Rates (1)
+Admissions Within Five Years of Arrival in Australia
+1948-1952 Migrant Intakes
+(Rate per 1,000 arrivals)
+Year of Arrival
+Age on Admission (Years)
+1948
+1949
+1950
+1951
+1952
+1948-52
+Male
+S
+10-19
+1.4
+0.7
+0.6
+0.5
+0.7
+0.7
+20-29
+4.5
+6.8
+5.6
+4.5
+5.5
+5.6
+30-39
+5.3
+7.9
+7.3
+4.4
+3.9
+6.0
+40-49
+3.3
+5.8
+6.5
+3.2
+2.4
+4.7
+50-59
+1.7
+2.1
+2.5
+0.2
+3.1
+2.0
+Females
+10-19
+0.4
+1.2
+0.3
+0.8
+0.6
+20-29
+2.7
+4.1
+4.6
+1.9
+2.1
+3.5
+30-39
+2.5
+5.4
+5.1
+3.3
+2.5
+4.1
+40-49
+2.5
+4.5
+5.0
+4.3
+1.6
+3.8
+50-59
+0.8
+3.2
+2.3
+1.8
+1.7
+2.1
+TABLE No. 5
+Age-Specific First-Admission Rates
+Admissions Within Five Years of Arrival in Australia
+Displaced Persons and Other Migrants
+1949 and 1950 Migrant Intakes
+(Rate per 1,000 Arrivals)
+Displaced Persons
+All Other Migrants
+Total Intake
+A -xl hi A rliiiiEDinn /\ L r nn rn \
+Male
+Female
+Male
+Female
+Male
+Female
+1949 Arr
+IVALS
+10-19
+0.6
+0.3
+0.8
+0.4
+0.7
+0.4
+20-29
+10.5
+5.8
+3.7
+2.1
+6.8
+4.1
+30-39
+12.1
+9.0
+3.6
+2.2
+7.9
+5.4
+40-49
+9.5
+6.6
+2.6
+3.2
+5.8
+4.5
+50-59
+2.8
+5.8
+1.7
+2.2
+2.1
+3.2
+1950 Arrivals
+10-19
+0.9
+1.7
+0.4
+0.9
+0.6
+1.2
+20-29
+10.4
+6.3
+2.8
+3.0
+5.6
+4.6
+30-39
+12.6
+7.5
+3.1
+3.2
+7.3
+5.0
+40-49
+13.0
+9.6
+2.3
+2.8
+6.6
+5.0
+50-59
+3.7
+4.7
+1.9
+1.3
+2.5
+2.3
+(1) Rate per 1,000 long-term and permanent arrivals in Australia, adjusted for time
+elapsed between arrival in Australia and first admission.
+APPENDIX "A" —continued
+
+
+TABLE No. 6
+Male Only Age-Specific First-Admission Rates
+Admissions Within Five Years of Arrival in Australia
+Average, 1948-1952 Migrant Intakes
+(Rates per 1,000 Arrivals)
+Age on Admission Of ears)
+10-19
+20-29
+30-39
+40-49
+50-59
+All long-term and permanent
+arrivals ..
+0.7
+5.6
+6.0
+4.7
+2.0
+Excluding displaced persons. .
+0.7
+4.1
+3.5
+2.3
+1.6
+TABLE No. 7
+Age-Specific First-Admission Rates
+Admissions Within Five Years of Arrival in Australia
+Period of Residence Before First Admission
+1948, 1950 and 1952 Migrant Intakes
+(Rate per 1,000 Arrivals)
+Period of Residence before Admission
+Age on Admission (Years)
+Less Than
+Less Than
+Less Than
+Less Than
+Less Than
+1 Year
+2 Years
+3 Years
+4 Years
+5 Years
+1948
+Arrivals
+Male
+10-19
+0.2
+0.2
+0.7
+0.9
+1.4
+20-29
+0.9
+1.6
+2.4
+3.6
+4.5
+30-39
+0.5
+2.0
+3.1
+3.7
+5.3
+40-49
+0.6
+1.7
+2.2
+2.8
+3.3
+50-59
+0.6
+1.5
+1.5
+1.5
+1.7
+Female
+10-19
+20-29
+0.5
+1.3
+1.9
+2.3
+2.7
+30-39
+0.5
+0.6
+1.0
+1.4
+2.5
+40-49
+1.0
+1.8
+2.2
+2.4
+2.5
+50-59
+0.4
+0.4
+0.8
+1950 Arrivals
+Male
+10-19
+0.3
+0.3
+0.5
+0.6
+0.6
+20-29
+1.3
+2.7
+3.9
+4.8
+5.6
+30-39
+1.8
+3.0
+4.6
+6.1
+7.3
+40-49
+1.5
+3.6
+4.6
+5.2
+6.5
+50-59
+0.6
+1.6
+2.2
+2.6
+2.6
+Female
+10-19
+0.5
+0.8
+1.0
+1.1
+1.2
+20-29
+0.8
+2.1
+2.9
+3.9
+4.6
+30-39
+1.1
+1.6
+2.9
+4.2
+5.1
+40-49
+1.4
+2.5
+4.0
+4.2
+5.0
+50-59
+0.8
+1.2
+1.7
+2.3
+APPENDIX " A " —continued
+
+
+TABLE No. 7—continued
+Age on Admission (Years)
+Period of Residence before Admission
+Less Than
+Less Than
+Less Than
+Less Than
+Less Than
+1 Year
+2 Years
+3 Years
+4 Years
+5 Years
+1952
+Arrivals
+Male
+10-19
+0.1
+0.2
+0.4
+0.5
+0.7
+20-29
+1.1
+2.4
+3.5
+4.7
+5.5
+30-39
+0.9
+2.1
+2.9
+3.3
+3.9
+40-49
+0.3
+1.1
+1.2
+2.1
+2.4
+50-59
+1.7
+2.6
+2.6
+2.6
+3.1
+Female
+10-19
+0.3
+0.6
+0.6
+0.6
+0.8
+20-29
+0.7
+1.2
+1.5
+1.9
+2.1
+30-39
+0.6
+1.3
+1.7
+2.3
+2.5
+40-49
+0.4
+0.4
+0.6
+1.2
+1.6
+50-59
+0.3
+0.6
+0.9
+0.9
+1.7
+TABLE No. 8
+Age-Specific First-Admission Rates
+Admissions Within Three Years of Arrival in Australia
+1951-1954 Migrant Intakes
+(Rate per 1,000 Arrivals)
+Year of Arrival
+A A 1 * * A'jr , \
+1951
+1952
+1953
+1954
+1951-54
+Mv
+\EES.
+10-19
+0.3
+0.4
+0.6
+0.6
+0.5
+20-29
+2.8
+3.5
+3.2
+2.9
+3.1
+30-39
+3.2
+2.9
+2.8
+1.4
+2.7
+40-49
+2.0
+1.2
+1.8
+1.7
+1.7
+50-59
+2.6
+0.6
+0.9
+FEMALES.
+10-19
+0.1
+0.6
+0.3
+0.3
+20-29
+1.3
+1.5
+i.o
+1.3
+1.3
+30-39
+2.0
+1.7
+2.3
+1.8
+1.9
+40-49
+2.8
+0.6
+2.0
+2.3
+1.9
+50-59
+0.3
+0.9
+0.8
+1.3
+0.8
+APPENDIX "A"— continued
+
+
+TABLE No. 9
+Age-Specific First-Admission Rates
+Admissions Within Three Years of Arrival in Australia
+Period of Residence Before Admission
+1951-1954 Migrant Intakes
+(Rate per 1,000 Arrivals)
+Males
+Females
+Age on Admission (Years)
+Period of Residence Before Admission
+Less Than
+Less Than
+Less Than
+Less Than
+Less Than
+Less Than
+1 Year
+2 Years
+3 Years
+1 Year
+2 Years
+3 Years
+1951 Arb
+JVALS
+10-19
+0.3
+0.3
+0. 1
+0.1
+0.1
+20-29
+0.8
+2.0
+2.8
+0.3
+1.0
+1.3
+30-39
+1.4
+2.2
+3.2
+0.5
+1.3
+2.0
+40-49
+0.7
+0.8
+2.0
+0.9
+1.4
+2.8
+50-59
+••
+0.3
+0.3
+0.3
+1952 Arrivals
+10-19
+0.1
+0.2
+0.4
+0.3
+0.6
+0.6
+20-29
+1.1
+2.4
+3.5
+0.7
+1.2
+1.5
+30-39
+0.9
+2.1
+2.9
+0.6
+1.3
+1.7
+40-49
+0.3
+1.1
+1.2
+0.4
+0.4
+0.6
+50-59
+1.7
+2.6
+2.6
+0.3
+0.6
+0.9
+1953 Arrivals
+10-19
+0.5
+0.6
+0.6
+20-29
+1.2
+2.3
+3.2
+0.2
+0.7
+1.0
+30-39
+0.5
+1.6
+2.8
+1.1
+1.7
+2.3
+40-49
+1.4
+1.6
+1.8
+0.5
+1.5
+2.0
+50-59
+0.6
+0.8
+0.8
+0.8
+1954 Arrivals
+10-19
+0.3
+0.4
+0.6
+0.1
+0.3
+0.3
+20-29
+0.8
+1.8
+2.9
+0.4
+0.6
+1.3
+30-39
+0.6
+1.1
+1.4
+0.4
+1.0
+1.8
+40-49
+1.1
+1.6
+1.7
+1.2
+2.0
+2.3
+50-59
+0.5
+0.9
+1.3
+TABLE No. 10
+Male only Age-Specific First-Admission Rates
+Admission Within Two Years of Arrival in Australia
+1952-1955 Migrant Intakes
+(Rate per 1,000 Arrivals)
+Year of Arrival
+Age on Admission (Years)
+1955
+1952-55
+10-19 ..
+0.5
+0.4
+20-29 ..
+2.2
+2.2
+30-39 . .
+1.7
+1.7
+40-49 ..
+0.7
+1.1
+50-59 ..
+0.4
+0.9
+APPENDIX " A " —continued
+
+
+TABLE No. 11
+Estimated Age-Specific First-Admission Rates
+Admission Within Five Years of Arrival in Australia
+1953-1957 Migrant Intakes
+(Rate per 1,000 Arrivals)
+Age on Admission (Years)
+Male
+Female
+10-19
+1.0
+0.5
+20-29 ..
+4.0
+2.0
+30-39 ..
+3.5
+2.5
+40-49
+2.5
+2.5
+50-59 ..
+1.5
+1.5
+TABLE No. 12
+Age-Specific First-Admission Rates, and Percentage Age Distribution
+Admissions Within Five Years of Arrival in Australia
+All Migrants, 1948-1952 Migrant Intakes
+Rate per 1,000 Arrivals
+Corrected Populations Percentage
+Age Distribution
+Age on Admission (Years)
+Males
+Females
+Total
+Males
+Females
+Total
+Per cent.
+Per cent.
+Per cent.
+0-9
+0.2
+0.1
+0.2
+12.2
+15.9
+13.9
+10-19
+0.7
+0.6
+0.7
+11.4
+12.9
+12.0
+20-29
+5.6
+3.4
+4.8
+28.9
+22.7
+26.3
+30-39
+6.0
+4.1
+5.3
+25.7
+22.7
+24.4
+40-49
+4.7
+3.8
+4.3
+14.7
+13.6
+14.2
+50-59
+2.0
+2.1
+2.0
+4.5
+6.6
+5.4
+60 and over ..
+2.2
+2.5
+2.4
+2.6
+5.6
+3.8
+100.0
+100.0
+100.0
+Weighted Average Rates
+Male
+..4.1 per 1,000
+Female
+.. 2.6 per 1,000
+Total
+.. 3.5 per 1,000
+Annual Average Rate ..
+.. 0.70
+per 1,000
+APPENDIX " A " —continued
+
+
+TABLE No. 13
+Age-Specific First-Admission Rates, and Percentage Age Distribution
+Admissions Within Five Years of Arrival in Australia
+Excluding Displaced Persons, 1948-52 Migrant Intakes
+Rate per 1,000 Arrivals
+Corrected Populations Percentage
+Age Distribution
+Age on Admission (Years)
+Males
+Females
+Total
+Males
+Females
+Total
+Per cent.
+Per cent.
+Per cent.
+0-9
+0.2
+0.2
+0.2
+11.5
+15.0
+12.9
+10-19
+0.7
+0.5
+0.6
+12.4
+13.8
+13.0
+20-29
+4.1
+2.1
+3.5
+29.4
+20.4
+25.7
+30-39
+3.5
+2.5
+3.1
+24.3
+22.2
+23.4
+40-49
+2.3
+2.6
+2.5
+14.3
+14.6
+14.4
+50-59
+1.6
+1.6
+1.6
+5.0
+7.4
+6.0
+60 and over
+2.1
+1.8
+1.9
+3.1
+6.6
+4.6
+100.0
+100.0
+100.0
+Weighted Average Rates
+Male
+.. 2.6 per 1,000
+Female
+.. 1.7 per 1,000
+Total
+.. 2.3 per 1,000
+Annual Average Rate..
+.. 0.46
+per 1,000
+TABLE No. 14
+Age-Specific First-Admission Rates
+Five-Year Rates
+, Native-Born Whites, State of New York
+1939-1941*
+AND
+Admissions Within Five Years of Arrival in Australia
+1948-1952 Migrant Intakes
+(Rate per 1,000 population or arrivals)
+Age on Admission (Years)
+10-19
+20-29
+30-39
+40-49
+50-59
+IV
+Iales
+New York State five- year rates
+1.8
+4.7
+5.2
+5.4
+6.6
+Overall 1948-52 Australian
+migrant intake
+0.7
+5.6
+6.0
+4.7
+2.0
+1948-52 Australian intake less
+Displaced Persons
+0.7
+4.1
+3.5
+2.3
+1.6
+Fe
+MALES
+New York State five-year rates
+1.3
+4.3
+4.9
+5.4
+6.6
+Overall 1948-52 Australian
+intake ..
+0.6
+3.4
+4.1
+3.8
+2.1
+1948-52 Australian intake less
+Displaced Persons
+0.5
+2.1
+2.5
+2.6
+1.6
+* Source: Derived from Malzberg (1955)
+APPENDIX " A " —continued
+
+
+TABLE No. 15
+Proportion of Age-Specific First-Admission Cases entering Hospital for a Second
+Time
+1948-1952 Migrant Intakes, First Admission Within Five Years of Arrival in
+Australia
+Proportion of Cases Admitted for a Second
+Age on First Admission (Years)
+Time
+Males
+Females
+Per cent.
+Per cent.
+20-29
+20.8
+16.6
+30-39
+21.8
+16.8
+40-49 ..
+26.9
+19.8
+APPENDIX " A " —continued
+
+
+APPENDIX "B "
+LIST OF FIGURES
+1. Male and female age-specific first-admission rates for annual intakes 1948-52, admitted
+within five years of arrival.
+2. Male and female age-specific first-admission rates, 1948, 1950, 1952 intakes—by period
+of residence before first admission.
+3. Distribution of age-specific first-admission cases by period of residence before
+admission.
+4. Male and female age-specific first-admission rates for annual intakes 1951-54, admitted
+within three years of arrival.
+5. Male and female age-specific first-admission rates, 1951-54 intakes, within three years
+of arrival.
+6. Male and female five-year age-specific first-admission rates —
+(1) White native-born, New York State, 1939-41 (after Malzberg).
+(2) Migrant intake, Australia, 1948-52.
+(3) Migrant intake, less displaced persons, Australia, 1948-52.
+
+
+FIGURE No 1. MALE AND FEMALE AGE-SPECIFIC FIRST-ADMISSION
+RATES FOR ANNUAL INTAKES 1948- 52, ADMITTED
+WITHIN FIVE YEARS OF ARRIVAL.
+
+
+
+
+
+
+FIGURE No 4. MALE AND FEMALE AGE-SPECIFIC FIRST-ADMISSION RATES
+FOR ANNUAL INTAKES 1951-54, ADMITTED WITHIN THREE
+YEARS OF ARRIVAL.
+
+
+
+
+FIGURE No 6. FIVE-YEAR MALE AND FEMALE AGE-SPECIFIC FIRST-ADMISSION RATES—
+(1.) WHITE NATIVE-BORN NEW YORK STATE 1939-41 (After Mdzberg)
+(2.) MIGRANT INTAKE, AUSTRALIA 1948-52. (3 ) MIGRANT INTAKE, LESS
+DISPLACED PERSONS, AUSTRALIA, 1948-52.
+
+
+APPENDIX "C"
+BIBLIOGRAPHY
+Frumkin, R. M., Cohort Studies of First Admissions to Ohio State Mental Hospitals,
+Public Welfare Statistics (1953).
+Goldhamer, H., and Marshall, A. W., Psychosis and Civilisation, The Free Press,
+Glencoe (III.) (1953).
+Halevi, H. S. (Assistant Director-General (Planning), Israel Ministry of Health),
+Mental Illness in Israel: Admission to Mental Hospitals and Institutions for In-
+Patients during 1958, Jerusalem (1960).
+Hall, Marguerite F., Public Health Statistics (2nd ed.), Paul B. Hoeber, Inc., New
+York (1949).
+Hill, A. 8., Principles of Medical Statistics (3rd ed.), The Lancet Ltd., London (1942).
+Holborn, Louise W., The International Refugee Organisation, Oxford University Press,
+London (1956).
+Hurd, W. 8., Racial Origins and Nativity of the Canadian People, Census Monograph
+No. 4, Dominion Bureau of Statistics, Ottawa (1937).
+Kleiner, R. J., and Parker, S., Migration and Mental Illness: A New Look, American
+Sociological Review (1959).
+Malzberg, B. (Director, Bureau of Statistics, New York State Department of Mental
+Hygiene), Statistical Data for the Study of Mental Disease in New York Slate, 1939-
+1941, Albany, N.Y. (1955).
+Malzberg, 8., and Lee, E. S., Migration and Mental Disease, Social Science Research
+Council, New York (1956).
+Oedegaard, 0., Emigration and Insanity, Acta Psychiatrica et Neurologica (1932).
+Redshaw. G. M., Psychiatric Problems amongst Migrants, Medical Journal of Australia
+(1956).
+Reid, D. D., Epidemiological Methods in the Study of Mental Disorders, World Health
+Organisation, Geneva (1960).
+Stoller, A. (Chief Clinical Officer, Mental Hygiene Authority, Victoria), Mental Health
+Aspects of Public Health, Health Bulletin No. 119, Department of Health, Melbourne
+(1958).
+Wallis, W. A., and Roberts, H. V., Statistics: A New Approach, Methuen and Co. Ltd.,
+London (1957).
+Wootton, Barbara, Social Science and Social Pathology, George Allen and Unwin Ltd,
+London (1959).
+World Federation for Mental Health, Uprooting and Resettlement, London (1960).
+By Authority; A. J. Arthur, Commonwealth Government Printer, Canberra.
+
+
+
+
