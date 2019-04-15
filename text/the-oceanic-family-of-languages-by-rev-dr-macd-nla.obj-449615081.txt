@@ -1,0 +1,807 @@
+
+
+1 «
+. AUSTRALASIAN ASSOCIATION FOR THE
+ADVANCEMENT OF SCIENCE.
+SYDNEY SESSION. 1898.
+THE OCEANIC FAMILY OF
+LANGUAGES,
+Rev. Dr. MACDONALD.
+33665 (14)
+itfxf
+Bead before the Australasian Association for the Advancement of Science ,
+January , 1898.
+
+
+
+
+THE OCEANIC FAMILY OF LANGUAGES.
+By the Bev. D. Macdonald, D.D.
+(Read before the Australasian Association for the Advancement of Science,
+Tuesday, llth January, 1898.)
+PHONOLOGY, STRUCTURE, ORIGIN.
+The Insular family of languages, or Oceanic, is spoken by thirty
+or forty millions of the human race, inhabiting islands in the
+Indian and Pacific Oceans and in the intermediate Malay Archi-
+pelago and Peninsula. The numberless languages, or dialects, of
+this family have all sprung from one inflected Oceanic mother-
+tongue, now lost, or existing only in these, its analytic or broken-
+down offspring. They have been divided into four groups, which
+it is convenient to recognise ; —(1) The Tagalan, comprising the
+Tagala, Bisaya, Formosa, Marianne, Malagasy, &c. ; (2) The
+Malayan, comprising the Malay, Java, Battak, Uayak, Bugis,
+*kc.; (3) The Polynesian, comprising the Samoan, Tongan,
+Hawaiian, Maori, tkc. ; and (4) The Melanesian, comprising the
+Fiji, Aneityum, Tanna, Eromanga, Efate, Malikula, Santo,
+Solomon Islands, &c. Taking a general view of all, we find that
+they have a common stock of numerals, pronouns, and other
+words, of formative or word-building suffixes and prefixes, and of
+grammatical or syntactical processes or sounds, which constitutes
+them one family. In order to ascertain the origin of this family,
+or its relationship to some other known family, as the Indo-
+European or the Semitic, these all must be taken into account,
+due regard being had to the principles of dialectic, phonetic, and
+grammatical variation, such as obtains in languages in the
+analytic stage, and due allowance being made for the length of
+time, and the circumstances in which the analytic process has been
+going on—in this case (say) four thousand years—in circumstances
+33665 (14) —A
+
+
+very highly favourable to diversification. If it can be shown that
+the common stock of numerals, pronouns, and other fundamental
+words, of formative suffixes and prefixes, and of grammatical
+processes and words, which constitutes the Oceanic languages a
+perfectly well-defined family, is Semitic, this will establish the
+relationship of these languages to the Semitic languages, and
+prove that the Oceanic mother-tongue was a sister-tongue to the
+Arabic, Phenician, Hebrew, Syriac, Assyrian, Himyaritic, and
+Ethiopic (with their modern dialects, as the Neo-Syriac, Mahri,
+Amharic, and Tigre), sprung, like them, from the no longer
+existing Semitic mother-tongue. The object of this paper is to
+show as briefly as possible that this can be done.
+In treating the phonology of our subject, it is necessary to
+observe that the Semitic languages have certain gutturals peculiar
+to them, and that some of these occur— e.g., in the numeral words—
+for 1,4, 5,7, 10, and 1,000. The Semitic gutturals referred
+to are alif represented in what follows by a or some other vowel
+in italic, and when it has hemza, which indicates that it is to be
+pronounced almost like h l (ain), by a‘ or other vowel with ‘; ha
+by h • hha by h’; the rougher Arabic hha by h”; ain by h‘ ; the
+rougher Arabic ghain by h“. As to their original pronunciation,*
+a ’ was the lightest, softer than h which is represented by our h.
+The guttural h’ is stronger than h, something like ch in Scotch
+loch ; it had a softer and rougher sound, the latter being repre-
+sented in Arabic by h”. The guttural h‘ is unpronounceable by
+Europeans, and peculiar to the Semitic languages, akin to and
+sometimes confounded with h”. It had a softer and a rougher
+sound, the latter being represented in Arabic by h“, and described
+as the sound of a g slightly rattled in the throat, and resembling
+somewhat the Northumbrian r and the French r grasseye. To
+these has to be added the Semitic r, which was sometimes pro-
+nounced as a lingual, and sometimes as a guttural with a hoarse
+guttural sound. For an account of these gutturals, and the
+trills r, I, see Prof. M. Muller’s Lectures on the Science of
+Language, ii, pp. 135-138. It has to be added that the tendency
+of the Semitic languages is, in the course of their analytic
+development, to confound these gutturals, and, finally, to soften
+them all down to a\ or a mere spiritus lenis. Dr. Codrington,
+speaking of the guttural trill, which he calls “ the Melanesian g,”
+says :—“ It may be taken for r, or may be missed altogether.
+It has been written g (hard), r, g ( ngg ), rg, h, rh, and k. That it
+resembles ris shown by the spelling of visitors. . . . Bishop
+Patteson was struck by its resemblance to the Arabic ghain
+( i.e ., h“), and Professor M. Muller’s description of the Hebrew
+* The symbols here used are not to be regarded as at all denoting the true pronounciation
+as to that, in the ancient and modern Semitic dialects the grammars of the various dialect
+must be consulted.
+
+
+ain (i.e., h‘) as a vibration of the fissura laryngea, approaching
+sometimes to a trill, nearly equivalent to a German g in tage,
+closely suits it.” (The Melanesian Languages, pp. 204-206). In
+Oceanic r is sometimes pronounced as a lingual, sometimes as a
+guttural (Crawford, Malay Gram., p. 75 ; F. Muller, G.d.
+Sprache, iii, ii, ii, p. 92ff); hence, as we shall see, we find it
+not only interchanged with t, b, v, &c., but also with h, g, ( k ), or
+spiritus lenis.
+Interchanges with each other of dentals, sibilants, gutturals,
+labials, or of dentals with sibilants are not to be wondered at. But
+the more remarkable interchange in Oceanic between (1) dentals (or
+sibilants) and labials, and vice versa , (2) between dentals (or sibi-
+lants) and gutturals, and vice versa, and (3) between gutturals and
+labials, and vice versa, are not so easily understood. In (Melan.
+Lang., pp. 403-407) Rotuma folu 3, hak 4, hif 7, for the common
+Oceanic tolu,bat,pitu (and generally in the Oceanic numerals every-
+where, as we shall see) all these interchanges are exemplified (1) in
+folu, hif, (2) in hak, and (3) in hak, hif. In Hawaiian, dental and
+guttural are confounded, and k stands for both t and k. In Tangoan
+Santo, dental and labial are confounded, as t and p, m and v.
+(South Sea languages, p. i). The same confusion is found in
+North East Malekula, where it is impossible sometimes to tell
+whether the native speaker utters morn,th or v. In these cases
+one letter might represent both th or v, letter t or p, m or n, as
+Hawaiian k stands for kor t. In Efate kis very often pronounced
+ng and tasr,orr as t. In some cases r and e are confused.
+“It is a question whether the sound made in some localities is
+really an aspirate which may be written h, or not rather to be
+represented by f ... In the greater number of languages
+which have both sibilants and aspirates, h and s are equivalent.”
+(The Melanesian Languages, pp. 193, 216.) Now, these inter-
+changes must have been going on from the earliest times, as we
+find examples of them generally throughout the Oceanic dialects.
+Thus, in Efatese dialects “who?” is fei, sei, and he (Tahitian vai);
+and bea, ‘ first,’ in one dialect, is tiamia, which is certainly for
+miamia or fiamia, Epi beamu, Samoan muamua. Efate finanga,
+food, is in Duke of York winaga, Mota sinaga, Motlav hinag.
+Star in Malay is bintang, in Javanese lintang and wintang, in
+Malagasy kintana and vasiana, in Aneityum moijeuv, In Efatese
+masoei and ngmahe. In Malay nipis, tipis, mipis, ‘ thin,’ there is
+the interchange of n and t, and n and m ; while in tukul, pukul,
+‘strike,’ kilat, kilap , ‘ lightning,’ is that of t and p. (Marsden,
+Malay Gram., p. 113.) In Malagasy, when a formative suffix is
+attached to words having the formative ending -ka, -na or -tra,
+the k is changed to h or f the tr to t, r, or f and the n often to
+m. (Parker, The Malagasy Language, p. 19.) The importance
+of this to the explanation of certain universal facts in Oceanic
+
+
+will appear below. The interchange of labial and guttural is seen
+in Malay in gawa or bawa ‘to Carry,’ in Efatese bui and kui
+1 back,’ majis and makus 1 knife,’ Malay piso, Malagasy dialect
+kiso 1 knife.’ Dr. Codrington has remarked that in the letter-
+changes which do occur in the Melanesian it is generally impossible
+to find a law. (Work cited, p. 201.) Prof. M. Muller, after
+comparing Sanscrit gharma, ‘ heat,’ with Greek thermos , Latin
+formus, says he is strongly inclined to ascribe the phonetic
+diversity which we observe between Sanscrit, Greek, and Latin
+to a previous state of language, in which, as in the Polynesian
+dialects, the two or three points of consonantal contact were not
+yet felt as definitely separated from each other. . . . No
+letter ever becomes. People pronounce letters, and they either
+pronounce them properly or improperly. (Science of Language,
+ii, p. 180-1).
+THE NUMERALS (PHONOLOGY, STRUCTURE, ORIGIN).
+In the Semitic languages the abstract or feminine of the
+numerals 3-10 was formed, as in other nouns, by the formative
+suffix t, or th (pronounced now by some Arabs to), which often
+became either a guttural hor elided. This feminine form of these
+numerals was used with masculine nouns, and has become in
+Modern dialects almost the sole form used and of common gender,
+and it is, therefore, the form to be expected, and which is found
+in Oceanic. This ending is unmistakably seen in the numerals 4
+and 5, with which we begin, only premising that the nouns of the
+Oceanic languages and dialects of the four groups to which the
+following words belong, here omitted for the sake of brevity and
+clearness, may be found given in my paper in the Journal of the
+Polynesian Society, last quarter of 1896, pp. 215-222.
+Four.
+Arabic, a’rhah‘at ; modern, arbaat ; modern Ethiopic dialects,
+arut, übah ; Oceanic, ampat, mbit, evats, ebits, efatra, efutchi,
+apat, hipat, rare, vas, vitu, vier, bate, vavu, fiak, opak, emin, poll,
+fal, awang, kaar, tar, tas, tiak, thdte, thack, hak, hani, the t elided ;
+fa, wha, a in all the others is represented by this final consonant.
+Malagasy efatra is efara in hefarana, etc.
+Seven.
+Arabic, sabh l atu ; Assyrian, sibit; Mahri (Modern Himyaritic),
+ibet; Oceanic, pitu, fito, fiz, fuz, fik, sik, tik, titu, tuju, fiet,
+fiak, ambitu, wontit, awith. The final consonant in all is the
+ending t.
+
+
+Arabic, sittat ; Mahri, iteet (itit) ; Oceanic, enina, anam, anum ,
+innem, toonen, (won), (kon), (fene), (hene), (hono), gurum ;
+Malagasy, enina is enima in enimina, &c. In all, except those in
+brackets, in which it is elided, the final consonant is the ending t.
+Nine.
+Arabic, tisldat ; (Modern, tisd); Mahri, iset; Sokotra, sa'ali) ;
+Oceanic, siam, sivy, hiva, hhepi, iva, sievo, sieva, siyu, tihu, sin,
+sanga, asera, salapan, sambilan, pitan. In salapan we have
+labial for sibilant (as in fene, 6; ivontit, 7; puluh, 10 ; and
+often), and sola —is the initial t reduplicated exactly, as is dala
+(or bala) in Malay, dalapan (also salapan ), 8 ; Lagala dalava, 2.
+Sambihan appears by transposition for saliban ( = salapan). In
+all, the final consonant is the ending t.
+Eight.
+Arabic ,' thamaniyat ; Modern thmani ; Hebrew, shenwnet ;
+(Sokotra, tamani); Oceanic, lapan, dalapan (and salapan), wan,
+wal, panu, valu, varu ; the ending t elided in all.
+Three.
+Hebrew, shiloshah; Arabic, thalathat; Modern, thlata, or
+thelata; Modern Syriac, telaa; Oceanic, telo, tain, tolu, rolu,
+folu, silu, teni, kar, rei, seik, tiga. Seik and tig a are for thelata
+by elision of the middle I and gor k for the final radical t. In
+all, the ending t is elided.
+Two.
+Arabic, thinta (ni); Hebrew, shila; Himyaritic, thita (for
+shinta, thinta); Oceanic, duwa, rua, or tua (that is, ruwa or
+tuwa), roa, duka, riea, ruka, dia, rowah, ua, lua, nuwa, and first
+syllable reduplicated, dalava, darua. The formation ending ta
+in thinta, thita, is a double ending, consisting of the Semitic
+feminine t and the Semitic dual ending a, and is exactly repre-
+sented according to rule in Oceanic by the last syllable of rica,
+ruwa (rua), dalava, duha.
+Arabic, m. a‘h’ad, f. wah’idat; Syrian m. It ad, f. h’ada, h’a ;
+Hebrew m. a’h’ad, f. d’/i’ath; Ethiopic, m. a’k udu, f. alh’ati,
+Ligri, m. ade. In h’a, ah’ath, ah’ati the dis elided. Oceanic/
+aida, aisa, ida, ita, isa, asa (and sa), iray, tas (and rais), rari,
+tasi, taday. In the following the final consonant represents,
+according to rule, the original ending t : — Iraika, isaka, saka, dik,
+san, isara.
+
+
+Five.
+Arabic, ITamsat ; Modern, h”arnsa or h”amse ; Mahri, h”omo ;
+(Sokotra, h”emah) ; Oceanic, hima, himah, ima, yivia, lima, rima,
+tima, kima, sirna, rime, diviy. The ending t and radical s elided
+in all as in Mahri.
+Arabic h l asharat, Modern h l ashra, Ethiopic h c ashartu, Hebrew
+h‘asarah, Oceanic ngahuru, gavula, ahum, ngabulu (sa) chbulu,
+nngaviri , ngatil, abur, folo, puluh, buro, furu, novulu, napulo,
+mapuru , (si) nafulu, (sa) ngpuvu, (sa) nghul. The peculiar
+Semitic guttural h‘ is here represented in Oceanic by g (as some-
+times in the Septuagint version of the Bible, 3d century 8.C,), by
+ng (as now is pronounced among the Jews), and by the guttural
+ch, as well as by n and m. In all, the ending tis elided.
+Hundred.
+Arabic mia‘t’, with nunation miatuv , Modern mayat, Ethiopic
+mdet, Amharic mato (the t is the feminine ending t), Oceanic mari,
+mara, bot, fok, puku, lutcho, ratu, rato, ngut, and, with nunation,
+hutun, utin, natun. For similar changes of m, see below. In
+all, the ending t is the final consonant.
+Thousand.
+Arabic a'lef, with nunation a'lefun, Hebrew a!lef, Assyrian
+alapu, Mahri Ehkili of, Oceanic arivo, libu, livu, ribu, sobu,
+rewu, ewu, afe, and with nunation, ribun, rebun, ruwun.
+The following belong to the common stock of Oceanic words,
+and the letter changes they exhibit are to be compared with those
+we have seen in the numerals. Compare the changes of the
+initial m in the four following words with those seen in the word
+for “ hundred.”
+Water.
+Arabic, maa't, Modern and Ethiopic, mai; Oceanic, vai, fai,
+wai, ai, be, pei, tei, rei ; Gilolo, wayr ; Malay, ayer. The last two
+still retain the ancient feminine ending t as r,
+Banana.
+Arabic, ma’z’; Amharic muz ; Oceanic, muhu,‘ bus, butch, hutshi,
+hotsy, dts or at, muku, loka.
+The two following words are of grammatical importance, being
+used as the analytic substitute for the ancient inflexion of gender
+in nouns.
+
+
+Man (vir ).
+Arabic, mara ; with ruination mara l un ; Aramaic, mare, mar ;
+Oceanic, mera, muera, mane, mani, mano, man, ngane dnui, dne,
+(in tangane, taane) ; (I for m), langai, lacay, laki, lahy, and with
+nunation, burani, muwani, lanan.
+Woman.
+Feminine of preceding word. Arabic, marat, mar-a ( t; Oceanic,
+(see for the same changes of the ending f above under the numerals,
+4, &c.) baluk, pur an, bran, ngaruni; and the middle r elided,
+but, bite, matu, Jid, vek, bine, fine, buan, bien, wien, pain ; ending
+t elided, farri, ngarui, urao; both r and t elided, mua, bai, bayi,
+vy ; I for m, lewa, alewa, Huai, lai, Ho ; re-duplicated parampuan,
+parawan, pilaven, mavek, faifid, fafine, mahine, babayi, bavy,
+babin, &c.
+These foregoing words—hundred, water, banana, man, woman—
+beginning with m, show the m changed to I, r, n, <fcc. The
+following word shows initial I changed to m, n, r.
+Tongue.
+Arabic, lisan ; Hebrew, lishon ; Matori, lesa ; Oceanic, lidah,
+Utah, Ida, rero, lapi, lapu (of the p in Salapan, 9), leme, neme,
+meme, mena.
+The following words, down to that for “ ears,” have as their
+initial letter one of the ox-iginal four peculiar Semitic gutturals
+like the numerals 1,5, and 10, and showing the same phenomena
+of change to r, I, t, k, n, ng, and m, and to a spiritus lines or
+elision.
+Father.
+Arabic, a l bw' ; Hebrew, a’b, a’v ; Aramaic, aba\ Oceanic, rama,
+ro.y, tama, rema, kama, ab.
+Mother.
+Arabic, u'm, and i‘mu (Malay ibu); Aramaic, ima ; Tigre, ena ;
+Oceanic, reny, rena, tina, sina.
+Time.
+Arabic, a‘ny, a'n ; Oceanic, rani, rang, lang, nang, dan.
+House.
+Arabic, h”aimat h”aima; Oceanic, hurna, luma, suma, kom, uma,
+ima, lorn, om.
+Testicles.
+Arabic, h”isy h”usyo ; Oceanic, rass, laso, rasi, dsi, luho.
+Fire.
+Syrian, h’ab to burn (fire); Arabic, re-duplicated, h’ubah’ibu,
+fire; Oceanic, gabu, kabu, api, afiy, habu, rahi, lain, lap, yap,
+sembi.
+
+
+Rain.
+Arabic, h“a’th\ with ruination, h ll a’thurs ; Oceanic, uth, auf
+omo, komah, gefa, usa, bosi, medic, with nunation ujan, udan,
+roana.
+Yam.
+Arabic, h u ayah', roots, wurzel ; Oceanic, yuhi, uwi, übi, uvy ;
+Malekula, rum; Samoan, ufi. With this compare—
+Bury (verb)
+Arabic, h u aba ; Malekula, rum ; Samoan, ufi.
+Tree, stick, wood.
+Hebrew, Rets ; Arabic, h ( assa (stick); Ethiopic, pi. h ( etsu,
+a’Retsu ; Oceanic, hazo, kasu, kayu, kau, yesi, kaan, lakai, la‘au.
+Stone.
+Hebrew, e'ben, or e’ven ; Ethiopic, e’ben, pi. a’e’ban ; Oceanic,
+vet, fat, fatu, veru, batu, vato, kohatu, pohaku kapir, kabil.
+Water (Spring.)
+Arabic, h’anu; Hebrew, Ran (eye, fountain, spring); Oceanic,
+rano, ran, honu, tanu, fame, ranu, lanu (lake). The plural of
+this Semitic word signifies—
+The Eyes.
+Arabic, a l h‘yunat; Ethiopic, ah l gnt; Hebrew, Rayanoth, henoth
+(fountain) ; Oceanic, (final t elided), tano, nana, tun (n to m)
+Kama, rama, lumo (initial guttural elided), nata, nero, mata, meta
+masu. This final t, the tof the Semitic feminine plural, is the
+same t already seen as the feminine or abstract ending.
+Teeth.
+Arabic (Semitic broken plural, or “ pluralis fractus”), a l sunr
+a‘sinnat, or a‘sinne ; Oceanic, kasinga, lesin, nifan, ngipin (final n
+elided), ngidi, bati, ngisi, nisi (s to labial), nify, ribo, livo.
+Hands (the two.)
+Arabic, (dual) yadan, and a l dan; Oceanic, tanana (for tadana ),
+tangan, parian, patay, peni,fahan, pan, march, vira, kanei, karah,
+vara, aru, faru, uada.
+Ear, the Ears.
+Aramaic, ( a’dena ); Arabic, pi. a‘than\ or aHhanu ; Ocean
+iadiny, talinga, taringa, riringa, tiknga, karinga, karin, falian,
+boronga, boro, tananu.
+The Semitic guttural r we have already seen elided, or changed
+to k, h, as in laki, lahy. See word following.
+
+
+Head.
+Hebrew, rosh ; Arabic, raasu ; Oceanic, lori, loha, lova, hulu,
+ru, alu, karu, paru.
+Note the changes here of the s or sh to r, I , h, and a labial, as
+n the following word.
+Hair.
+Arabic, shah l ru ; Oceanic, huru, hili, lulu , Jiri, vili, bulu , volo.
+The following two words show the interchange of guttural and
+labial—
+Swine.
+Arabic, k’abbah ‘; Oceanic, babi, puaka, wak.
+Bow.
+Arabic, k’asu ; Oceanic, hisu, husu , dsu, vus, pasi, pana, fana ,
+vini.
+Moon.
+Ethiopic, wareh’, or varah’; Mahri, wurit , &c.; Oceanic, bulan ,
+volana, bulak, bulet wurah, mohok, mokwa , bughan, vula.
+Lightning.
+Hebrew, barak ; Oceanic, bilak; Malay, kilat or kilap ; others
+hilatra, bila, wila.
+Liver.
+Ethiopic, kabdi or kavde ; Amharic, hode (if arut, 1); Malagasy,
+Malay, Samoan, Efate, ate or dty.
+The following two words are examples showing little change—
+Earth , ground , soil.
+Arabic, tano ; Oceanic, tano, tang, tana.
+A rabic, tas’; Oceanic, tasi, tahi, tai.
+The foregoing words, except the last two, have been given, not
+because of their identity of sound, but because of the striking
+phonetic changes they exhibit. These changes could never be
+accounted for till the manner in which the peculiar Semitic
+gutturals are represented in Oceanic was investigated. The
+obvious error into which one fell was to expect to find these
+gutturals as they are in the most analytic modern Semitic dialects,
+—that is, as a more breathing or spiritus linis so elided ; whereas
+the facts show that in the Oceanic mother-tongue these gutturals
+had the same strong and varying peculiar pronunciation as in the
+other ancient Semitic tongues. This comes out clearly also in
+the pronouns, as we shall now see.
+
+
+THE INTERROGATION PRONOUN,
+Who 1 Which ?
+Arabic, a l yy ; Ethiopic, a’y ; Oceanic, ( i ) sei, (i ) za, ha, me, vai,
+hai, wai, ai, hex, tei, oi, thei ; Efate, he, sei,fei.
+Which ? What ?
+Arabic, a ( yyuma, contracted a‘ma ; Modern, a’ma. This is the
+preceding word joined with the Semitic interrogations ma
+(Himyaritic ma, or ha, what X) ; Oceanic zooy and (ovy), sapa and
+(apa), safa and (sd), naf, ava, aha, a, hava, sav, hav, thava, taha,
+neva.
+THE PERSONAL PRONOUNS.
+Arabic, a l na ; Assyrian, a'naku (original form); Oceanic, hina,
+hanu, kena, kinau (for kinaku), haku, aku (and daku ), aho (and
+zaho), rehu, lau, laku.
+Thou.
+Arabic, m., a‘nta (and a‘nka, a ( ka, as in this pronoun in the
+Semitic mother-tongue t and k were confused as they are often by
+little children); Oceanic, ik, nik, hica, hanta, any, daka, and see
+the first person plural inclusive below.
+Arabic, m., a l ntum (Modern also a ( ntu ), and a l nkum, a‘kum ;
+Amharic, m. and f., s. and ph, a’ntu ; Modern Syriac, m. and f.,
+ah'ton; Oceanic, akam or akamu, kamu (used also for singular)
+dakau, anykau, kanykau, hanao, &c. Owing to this practice of
+using the plural for the singular (you for thou), the Semitic
+demonstrative plural ala, these or those, was joined with this
+personal pronoun, and also that of the third person, to denote
+exclusively the plural, as hanare (hano, thou or you, 're these), so
+in Amharic is used alant (ala these, anta thou.)
+In the pronoun of the third person the ancient Oceanic plural
+is used now for both singular and plural, and generally with this
+plural demonstration to denote the plural exclusively.
+They (and used for singular in Oceanic, and often in modern
+Syriac).
+Masculine, Arabic, hum ; Hebrew, hem; Assyrian, sun; Himya-
+ritic, sum, hum; Aramiac, hinurn, i’num; Modern Syriac, m.
+and f., ani. In the Semitic mother-tongue the initial letter of
+this word was pronounced s and h, which finally became also i’;
+and the final m, the plural ending as in the second person, and as
+in masculine nouns, was in like manner interchanged with n.
+This mor n was also apt to be, and sometimes was, elided. Thus
+
+
+we have in Malay inya and iya (Samoan ia), and diya ; Tagala,
+siya; Malagasy, zy (for zini, as the suffixed pronoun ni also
+proves) ; Malekula hini. To denote the plural exclusively we
+have by the means already explained Tagala, sila; Malagasy,
+zare-o ; Malekula, hiniri.
+It should be observed that as the m in akam, kamu, ye, is the
+m of the Semitic plural ending, so the n of hini, inya, is the same
+ending changed to n as it was from the earliest times in the
+Semitic languages, both in the pronouns and masculine plural
+nouns. The Oceanic mother tongue, therefore, had this plural as
+well as the feminine plural ending seen above in the word mata,
+the eyes. In modern Oceanic as in the nouns, so in the pronouns
+of the second and third persons, the distinction of gender has
+been dropped as in the same (plural) pronouns in modern Syriac.
+Hebrew, a'nah'nu, the prononn'of the first person singular re-
+duplicated—literally, I + I = we. This is the nearest extract
+form of the word to that of the Semitic mother-tongue ; and
+even in Hebrew we have for it the more contracted form a’nu.
+In the Oceanic languages it is the first part of the first person
+plural exclusive and inclusive, the second part being the pronoun
+third plural in the exclusive, and that of the second singular in
+the inclusive; thus Efate, kina-mi, or kini-mi, we + they = we
+exclusive of thou, and kini-ta, or kin-ta, we + thou = we
+inclusive of thou j Malay, ka-mi, ki-ta; Malagasy, zaha-y, and si-ka
+(for zi-ka ). That zaha is for zahna, the suffixed pronoun na
+in na-y proves, and zahna exactly corresponds letter for letter
+to the modern Arabic a'h'na, we.
+GRAMMAR OF THE PRONOUNS.
+The abbreviated suffixed and prefixed pronouns belong to gram-
+mar, and for the sake of brevity it may suffice to point out here,
+as showing the grammatical correspondence, that suffixed to verbs
+they express the nominative, as Ethiopic ku, Malay ku Malagasy
+ho, I ; Ethiopic kemu, Malay kamu, you, suffixed to nouns they
+express the genitive, as Ethiopic kemmu, Malay kamu, your, or of
+you. This is really the Semitic “ construct state,” expressing the
+genitive, seen not only in the suffixing of the pronoun to a noun,
+but also in the placing of one noun immediately after another in
+this genitive construction. It is exactly so in the Oceanic, both
+with pronouns and nouns. In the Semitic languages very abbrev-
+iated forms of the pronouns were used prefixed to the verb to
+denote the nominative ; thus in all of them the pronoun of the first
+person singular was shortened to a\ which in Efate is also a, not
+however prefixed to, but before, the verb, though never used
+except with the verb, and therefore called the verbal pronoun.
+
+
+THE VERB.
+The Semitic finite verb was in its origin a participle (verbal
+adjective) or infinitive (verbal noun of action) with the abbrev-
+iated pronouns prefixed or suffixed to denote persons and number.
+From the finite verb participles and infinitives were again derived.
+In accordance with this, these derived participles and infinitives,
+with the separate pronouns, abbreviates, or not abbreviates, were
+often used for the finite verb. This analytic substitute for the
+finite verb tended to become more commonly used as the language
+became more analytic, as for instance in Aramaic and modern
+Syriac. Thus the Oceanic verb, as we now find it, has originated,
+being generally a derived participle or infinitive. An example
+will show clearly what is meant, or the relation between the modern
+Oceanic and the ancient verb. The verb “to fear ” in Arabic
+is tak’a, from which was divided the infinitive tak’iyat a fearing or
+being feared, the Semitic infinitive having both an active and a
+passive sense. The simplest form of this verb in Oceanic corres-
+ponds, not to taka, but to takiyat, and is seen in Malay takut, Mala-
+gasy tahotra. Tahotra is a noun, fearing or fear, and is made into
+a verb by formative prefixes to be after considered—as matahotra,
+to fear, Efate mataku, Samoan mata’u ; but in Malay takut is
+noun, verb, and adjective, fear, fearing or afraid, and to be fear-
+ing or afraid. Thus akutakut, I fear, or am afraid, is literally, I
+(am) fearing, or I (am) being afraid.
+The formative abstract and adjective endings.
+The simple or shortest form of the Oceanic verb being takut or
+the like, it became necessary to form it verbal nouns (infinitive)
+and verbal adjectives (participles), as takiyat ( e.g ., had been) formed
+from taka, or by suffixed formatives. In the Semitic languages
+there were two abstract and two adjective endings. The adjective
+endings were an, or ana, or na and i, and the abstract endings
+were t (as in takiyat), and an, ana, or on, or na. All these forms
+having n, originally formed adjectives, and these cause to form
+abstract nouns also. They were also combined i and t forming
+abstracts in it, t and n adjectives in ton {e.g. Hebrew from the verb
+h’akal was derived h’akalut a being crooked, crookedness ; then the
+adjective ICakalton, crooked), and tanga forming nouns and adjec-
+tives in Amharic. In Oceanic these are used thus : Malay, takutan
+a fearing, fear; Malagasy, atahorana verbal noun, atahorina verbal
+adjective ; Samoan, mata‘utio. Here ia corresponds to Malagasy
+ina, and as both ia and ina are used alike ; thus in Samoan we
+may infer that the Polynesian verbal adjective ending ia is for ina,
+by elision of the n. Compare for this elision the pronoun, Malay,
+inya, or iya. This ia or ina does not occur in Malay or Efate; but
+ina as an adjective ending is seen in Duke of York, rumaina—
+housey or full of houses—from ruma, house ; and na or ana
+
+
+occurs as an adjective ending in Efate, as rana branchy, branching,
+from ra a branch ; and the Efate adjective ending a, as kod rooty,
+from ako root, seems to be this na or ana by the elision of the
+same n. If so, the Polynesian a differs from ia only in not having
+the i —that is, ia or ina is a combination of the two endings i (the
+Semitic adjective ending i, and this other Semitic adjective ending
+na or ana). The Polynesian ais certainly an adjective ending, as
+it forms adjectives from nouns—thus Samoan, eleetea dirty, from
+eleelea dirt; and the Oceanic ina is no less certainly an adjective
+ending as it does the same, Malagasy ozatra a muscle, ozatina
+muscular, somatra beard, somorina.
+Compare Samoan mala , a calamity, malaia unfortunate, bearded.
+Thus the “ passive participles ” in Malagasy in ina, and in
+Polynesian in ina, ia, and a are verbal adjectives formed from the
+verb by these adjective endings.
+Corresponding to the verbal noun takutan, atahorana, is Efate
+matakudna or matakudn (for matakutan ) ; and in all cases, in
+Samoan this verbal noun formative is anga (Hawaiian ana.) It
+remains now to point out the changes the t, seen in takiyat, has
+undergone in different words or with different combinations of
+letters. As it is the same ending t seen above in the numerals, so
+it has undergone the same changes as those we have ascertained
+there. It commonly occurs in Malagasy tr (as in tahotra), k, n;
+and as has already been mentioned as a commonplace of Mala-
+gasy grammar, when ana, and ina are suffixed to it (as in atahorana,
+atahorina), tr appears as t, r, or f; nasoror m ; and kashor f.
+It appears also as s, and these variations of this ending t are
+found generally in Oceanic, as the following comparative table will
+show :
+s£££ »“*• E, “«-
+Verbal noun— tana tanga tan
+Verbal adjective—tina tia
+~ rana langa ran
+~ rina lia
+~ fana fanga pan
+„ fina fia
+~ nana nan
+~ nina
+„ mana maga man
+~ mina mia
+~ hana ‘anga ban
+~ hina
+~ sana sanga san
+~ sina sia
+„ ana anga an an, ana.
+Thus, Malagasy, taratra; Samoan, tilo; Maori, tiro, to spy,
+look at ; we have Malagasy, tarafana, tarqfina ; Maori, tirohanga ;
+Samoan, tilojia. The change of this <to a labial is seen also in
+Malay, lakat, or lakah; Malagasy, rehitra; Efate, liko, or likot,
+
+
+to adore ; Malagasy, minona ( minomana, minomina); Samoan,
+inu ( inumanga, inumia); Malay, minum (mimiman); Efate,
+minu , or munu (munuan for munutan), to drink. To die, deatli,
+dead: Malagasy, maty (hafatcsand); Malay, Efate, mati (mat i an);
+Mangarura, mate ( materanga ). It is quite clear that matlan is
+for matitan, and that mati corresponds, not to Arabic mata,
+indeed, but to its infinitive matit, a dying or being dead. One or
+two more examples must now suffice. Arabic, “asha, he lived,
+infinitive, —“ aishat , a living or being alive ; Mota, esu ; Malagasy,
+velona ( velomana, velomina); Malay, idup (idwpan); Java, urip ;
+Samoan, ola ( olatanga, ola l angd); Tanna, murif; Efate, moli
+(molian for molitan, like mate for matitan, and matakuan for-
+matakutan, and munuan for munutan). Arabic, a'thdna, a’thina,
+to hear, perceive, infinitive, a’thanat; Malagasy, reny (renesana,
+renesina); Samoan, lotnjo (longoina for lonyolina); Malay, dangar
+(dangaran); Efate, rongo (rongoan for rongotan). See the word
+“ ears,” above, in which the initial guttural of this stem is
+retained in Oceanic. It falls away in the verb, according to a
+Semitic law, owing to the influence of the ending t, as does the
+initial guttural of the word, Arabic, h‘alaka, to adhere; infinitive,
+h'alctkat, lakat (and lakap), rehitra, Hkot , or likut (see above).
+<- FORMS OF THE VERB. FORMATIVE PREFIXES.
+These suffixes formed nouns (infinitives) and adjectives (parti-
+ciples). The prefixes now to be considered formed verbs from
+nouns, or derived verbs from verbs, usually called forms (or
+“ conjugations ”). These were three :
+1. a—Arabic, Ethiopia, Aramaic, originally sha, sa (ta, ii);
+Hebrew, hi ; Himyaritic, sa and ha: Causative.
+2. n , in, i —Arabic, Ethiopia, Assyrian, Hebrew : Reflexive,
+reflexive-passive reciprocal.
+3. ta, it, ith —Arabic, Assyrian, Hebrew, &c. : Reflexive.
+These three were combined thus :
+4. an — Ethiopia,* Amharic, Himyaritic, han (Halevy, p. 41);
+also Amharic, asan (for san) : Causative-reflexive, or simply
+causative, or transitive (1 and 2).
+5. ata, ista (for sata), asta (for sata), satha, hatha, or hath,
+Arabic x. : Causative-reflexive, simple causative, tfec. Tigre,
+Amharic, Ethiopia, Himyaritic (1 and 3).
+6. nith, inta, itta —Assyrian, Himyaritic : Reflexive-passive, or
+reciprocal-reflexive (2 and 3).
+* Dillmann, Or. Eth., §§ 73, 87. He remarks that this is in more frequent use in
+Amharic, referring to I sen berg’s Amharic Grammar, pp. 54 (xxiv, should be xxiii), 56
+(vii-x), 60 (vii, should be vii-x). Isenberg remarks, p. 56, that these verbs ix, x (an-, tan-)
+are very numerous.
+
+
+7. tan Ethiopia, Amharic : Reflexive-passive (3 and 4. See
+note on 4).
+To tlie.se infinitives and participles m was prefixed, and then
+this participle or infinitive came to he used, sometimes for the
+finite verb. Thus we have ma, Syriac (Maphel), causative for the
+common a-, as in 1. Modern Syriac, almost the sole form of the
+causative. (Stoddart’s Grammar, pp. 110-111.)
+8. ethma —Syriac: Refiexive-passive (3 and 1).
+9. ma, m\ prefix to infinitives of ground-form, and to passive
+participles of ground-form and derived-forms. Thus in Mahri
+the common passive participle is expressed through m’-, which
+replaces many lost inner passives. (See Yon Maltzan on the
+Mahri, in Z. D. M. G., vol xxvii).
+With these compare the Oceanic :
+1. Dayak, ma ; Macassar Bugis, pa ; Efate, ha, fa ; Malagasy,
+a, ma ; Mota, va ; Lifu, Mare, a : Causative.
+2. Dayak, in;* Tagala, i ; Malagasy, i, mi ; Efate, hi, ji; Fiji,
+vei ; Samoan, fa: Reflexive passive, reciprocal.
+3. Macassar, Dayak, Fiji, Efate, (fee., ta; Malay, Java, Fiji,
+Efate, &c., ka ; Dayak, ha; Fiji, ra : Reflexive passive.
+4. Malagasy, an, man; Malay, Tagala, Dayak, (fee., man;
+Malay (Malagasy), san. The nis often changed for euphony to
+ng, &c. ; see the grammars : Causative, transitive.
+5. Malagasy, aha, maha ; Tagala, mag, maka ; Macassar, paka ;
+Efate, haka, faka ; Fiji, vaka; Maori, whaka; Samoan, fa 1 a;
+Malay, hdr : Causative-reflexive, causative, reflexive.
+6. Malagasy, iha, miha : Reflexive.
+7. Dyak, tan (Malay, Malagasy, tan) : Reflexive of 4. The n
+changed for euphony as in 4.
+8. Malagasy, tafa; Dayak, tapa; Efate, taba; Oba, tama;
+Mota, tava : Reflexive, or passive, of 1.
+9. Efate, ma, mi, m’; Malagasy, Tagala, ma ; Solomon Islands,
+(fee., ma (The Melanesian Languages, Dr, Codrington, pp. 183-4) :
+Passive.
+To these must be added :
+10. tar, Malay : Reflexive-passive of 5, formed from ( h)ar, as
+tan from an, (m)an.
+Other combinations in Oceanic of these three prefixes (there
+are only three) need not here be noticed, as—
+11. ifa (2 and 1), ifan (2 and 4), Malagasy; Reciprocal.
+* This in is also “infixed” between the first and second radicals of the verb in Javanese,
+Malagasy (The Malagasy Language, Parker), &c. In like manner ta (3) was infixed in
+Himyaritic and Assyrian, and tan (3 and 2) in Assyrian. In Arabic this n was infixed, but
+between the second and third radicals of quadriliterals.
+
+
+In the light of the preceding phonological facts, the letter-
+changes here are not only according to rule, but, in such constantly
+used inflexional particles, very slight, as t to k, h, and to r, y ;
+the elision of n ; and the change of mto h,f v, p. As to signifi-
+cation, the consonance is even more remarkable, of 1 with 1, 2
+with 2, 3 with 3, 4 with 4, 5 with 5, 6 with 6, 7 with 7, 8 with 8,
+9 with 9. The conclusion is that they are identical; and let it
+be observed that these prefixes, together with the before dealt
+with suffixes an, ina, na, ana, ia, a, constitute virtually the whole
+of the Oceanic living inflexional material, these external inflexions
+having, according to the law of the analytical development of the
+Semitic languages, increased in frequency of use so as to replace
+the lost (as living) internal inflexions.
+The object of this paper was stated as to show as briefly as
+possible that the common stock of numerals, pronouns, and other
+fundamental words of word building or formative prefixes and
+suffixes, and of grammatical or syntactrial words and pronouns,
+which constitutes the Oceanic languages one perfectly well-defined
+family, is Semitic, thus establishing the relationship of the Oceanic
+to the Semitic family of languages. I now submit that the
+foregoing being substantially correct, allowing for any possible
+errors of detail, this has been done, or at least it has been shown
+conclusively that it can be done; for it has been shown that
+the Oceanic mother-tongue had the peculiar phonology, the peculiar
+triliteral numerals and other words with, of course, their peculiar
+inflexion of internal vowel change, the peculiar nunation the
+peculiar dual feminine ending, the peculiar plural masculine
+ending, and singular feminine ending, the peculiar formative,
+abstract, or infinitive endings and formative adjective endings,
+the peculiar pronouns with their grammatical use with verbs and
+nouns, and the peculiar formative or verb building prefixes of the
+Semitic family of languages.
+It remains to make a few concluding remarks on the foregoing.
+As to the method, it will be admitted that the numerals,
+pronouns, and other words, the word building or formative
+particles, and the phonology, though set forth in a paper like this
+necessarily in the briefest possible manner, yet even as thus set
+forth, show sufficiently for the purpose in hand the individuality
+of the Oceanic family of languages. Nor will it be disputed that
+the method of taking account of all of these, as stated at the
+outset, and not of a part only, is the right method ; for instance,
+all the twelve numeral words given are certainly and purely
+Oceanic. Therefore, it has to be shown, in order to establish the
+relationship of the Oceanic to some known linguistic family,
+that all of them belong to that family. This method, which has
+been carried out in this paper, was not carried out by Max Muller,
+A. H. Keane, and Bopp, in endeavouring to establish the
+
+
+relationship of the Oceanic to the Siamese, Canobodian, and
+Indo-European respectively; for instance, JVJuller and Kean
+did not find a single Oceanic numeral word in Siamese and
+Cambodian, and after the most careful investigation of these
+twelve Oceanic numeral words, Bopp could find only six which
+he deemed identical with the corresponding Indo-European
+numeral words; of the personal pronouns, only those of the first
+and second persons with the Indo-European of these persons ;
+of the formative suffixes, only possibly and doubtfully one with
+an Indo-European sufiix, and of the formative prefixes none
+he deemed identical in Indo-European. Now, not to mention
+other things, these formative prefixes are a well known distinctive
+feature of the grammatical structure of the Oceanic family, and so
+important that any method that not oidy does not account for all
+of them as is done above, but not even for one of them, is plainly
+inadequate; also, in the method of this paper no use of or reference
+to “ roots ”is made. All the Oceanic words are formed words, and
+as such are compared both as to phonisis and meaning with the
+corresponding formed Semitic words, this being deemed the right
+method. Not so with Bopp. For instance, the Oceanic word tasi,
+the sea, is compared with the Arabic word too or tasu, the sea ;
+but Bopp compares it with the Sanscrit root sie (or sik ), to moisten,
+whence sikta, moisten, sieaka , cloud, in which, to say nothing
+more, the meaning is not the same.
+It is worthy of special notice that the Indo-European pronouns
+of the first and second persons only five of the six numeral words
+compared by Bopp with the Oceanic, namely, those for 2,3, 4,6,
+and 7, are the Indo-European pronouns and numerals, usually
+compared with the corresponding Semitic as remarkably alike,
+while it is admitted that such resemblances, which may be
+casual, do not establish the relationship of the Indo-European to
+the Semitic family. In order to that, the grammatical structure
+of the two families must be taken into account; and as to
+grammatical structure, proof is not found either between the
+Indo-European or the Semitic, or between the Oceanic and the
+Indo-European, but is found, as has been pointed out, between
+the Oceanic and the Semitic. Assuming that the facts sub-
+stantially are as have been set forth in this paper, then it is
+absolutely certain, not only that the Oceanic words and formative
+particles dealt with are purely the words and particles of the
+distinctively Semitic stock, but also that the characteristic
+grammatical structure as a whole of the Oceanic is that which as
+a whole is distinctively and exclusively characteristic of the
+Semitic family of languages. I may here add that the peculiar
+gutturals, or the guttural phonology, of the Semitic family of
+languages is an important part of this whole—that is, of this
+distinctive or exclusively characteristic grammatical structure;
+33665 (14J —li
+
+
+and that this part also is duly represented, as has been shown
+above in the Oceanic. Because of this, special prominence has
+been given to these gutturals, and because otherwise the numeral
+words, pronouns, and other words in which they occur could not
+have been properly dealt with; see the numerals 1,5, and 10,
+and the pronouns, and the other words given, which have one of
+these gutturals as their first letter. Thus we can see the reason
+for, or have the key to the phonology of such forms of the first
+syllable or letter in the word for 10, as we have in gavula,
+chdbulu , ahum, etc. ; for 5, as in tima, rima, hima, kima, ima ,
+etc. ; for 1, as in taday, tasi, tai, rari, tas or rais, ray , aida, aim,
+asa, ida, isa, etc. ; for I, as in haku, laku, daku or aku, zaho or
+aho, hanu, kinau, etc. ; for We, as in haua (-m), kina {-mi),
+kin (-ta), ka (-mi), ki (da), zaha (-y), si ( La), etc. ; for Thou, as
+in Idea, daka, or any, ik, itc. ; for You, as in dakau or auykau
+or kanykan, sicamo, hicamo, akam, etc.; and for who, which, as in
+he, sei,fei, me, vai, ba, hai, vai, wai, ai, hei, tei, fhei, za, itc.
+Nothing has been said in this paper of the race varieties and
+geographical distribution of the Oceanic speakers, as the linguistic
+question must be considered on the principles of linguistic
+science, independently of discussions on those points, important as
+they are ; and the settlement of the linguistic problem will give
+the greatest aid to the settlement of these, and must be settled
+before the discussion as to these can attain to any certainty.
+Sydney: William Applegate Gullick, Government Printer.—lB99.
+■
+
+
+
+

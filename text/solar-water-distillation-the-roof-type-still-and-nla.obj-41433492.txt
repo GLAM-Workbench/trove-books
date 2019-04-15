@@ -1,0 +1,606 @@
+
+
+Solar Water distillation: The roof type still and a
+multiple effect diffusion still
+DUNKLE, R
+
+
+Solar Water Distillation:
+The Roof Type Still and a
+Multiple Effect Diffusion Still
+108
+R. V. Dunkle
+Commonwealth Scientific and Industrial
+Research Organization
+Victoria, Australia
+ABSTRACT
+This paper reviews some of the work on solar
+distillation of water performed at the Engineering
+Section of C.5.1.R.0. in Australia. Heat and mass
+transfer relationships within a conventional roof type
+still are analyzed and discussed. The advantages of
+a multiple effect diffusion still are pointed out and
+an analysis presented to indicate the effects of tem-
+perature, pressure, and diluent gas composition.
+Data are presented for a small five effect diffusion
+still operating with air and hydrogen atmospheres,
+and some of the operating and design problems are
+reviewed.
+NOMENCLATURE
+A = Area, ft 2
+D = Mass diffusivity, ft 2 /hr
+/ =* Ratio of heat transfer by conduction through
+gas layer to that by evaporation
+Gl = Atmospheric (long wave) irradiation, Btu/hr ft 2
+G s = Solar (short wave) irradiation, Btu/hr ft 2
+h c = Unit thermal conductance, Btu/hr ft 2 F
+hf g = Latent heat of vaporization (water), Btu/lb
+k = Thermal conductivity
+M - Molecular weight
+p = Pressure, psi
+p w = Partial pressure of water vapor, psi
+P T = Total pressure, psi
+9 k = Heat loss from still by conduction through
+base, Btu/hr
+q e = Heat transfer by evaporation
+q c - Heat transfer by convection (in narrow space
+becomes conduction)
+<7 r = Heat transfer by radiation
+q D = Mass transfer rate, ib/hr
+T - Temperature, R
+T a = Temperature of ambient air
+T g = Glass temperature
+V = Molecular volume, for air V a - 29.9, water
+V w = 14.8, hydrogen, Vn = 14.3
+x = Distance between surfaces, ft
+OC = Absorptance of still base for solar energy
+C= Absorptance of glass cover for long wave
+radiation
+®-gs = Absorptance of glass cover for solar radiation
+/3 = Volumetric coefficient of expansion, R - '
+jj = Thermal efficiency of roof type still
+fi - Viscosity, lb sec/ft 2
+p = Density of gas, lb sec 2 /ft 4
+a = Stefan-Boltzmann constant
+T = Transmittance of transparent cover plus water
+film for solar energy
+= Reduced diffusion constant for air-water
+system
+1. INTRODUCTION
+Solar distillation for production of potable water
+from saline water has been practiced for many years,
+but little attention has been paid to the basic mech-
+anisms involved and to the possibility of significant
+improvements in water output per unit area of solar
+absorber. It has been demonstrated that it is possi-
+ble to produce fresh water, but the problem is to pro-
+duce large amounts of water at a reasonable capital
+cost of equipment and utilizing a minimum amount of
+land surface.
+
+
+In the “outback” areas of Australia, transporta-
+tion is very expensive, roads are extremely primitive
+where present, electrical power is unavailable, and
+fuels must be imported at high cost. With these facts
+in mind, it would be desirable to have a saline water
+conversion plant which requires no external power
+for operation, other than a windmill for pumping bore
+water into an elevated storage tank. Relatively
+small units are required for stock water: the amount
+of water needed at any given location is fixed by the
+number of animals which can be carried by the avail-
+able feed within grazing distance of the water supply.
+The number of animals per square mile is very small
+in the dry zones of Australia, and consequently the
+stations or ranches cover very large areas.
+This paper covers the early stages of the work
+on solar distillation of water. The conventional roof
+type still and the multiple effect diffusion still are
+analyzed, data on a five effect diffusion still is pre-
+sented, and some of the problems are pointed out. It
+is believed that the multiple effect diffusion still
+shows great promise for production of fresh water
+from saline water in arid isolated regions.
+2. CONVENTIONAL ROOF TYPE STILL
+The conventional roof type still was analyzed to
+see if there was any margin for improvement over the
+reported experimental efficiencies. This type of still
+has been in use for a very long time [l], but the ma-
+jority of publications are of a descriptive rather than
+an analytical nature. The type of still studied at
+C.5.1.R.0. was developed by Bruce Wilson [2, 3] and
+is very similar to those utilized by other experiment-
+ers [4, s]. The still body is 4 ft by 6 ft, approxi-
+mately 6 in. deep, and the glass roof has a slope of
+roughly 10°.
+The still is represented diagrammatically in
+Figure 1. The still is irradiated with direct and
+scattered solar radiation, G s , and long wave atmos-
+pheric radiation, Gl. The longwave radiation is all
+absorbed in the glass, but the major portion of the
+short wave radiation, T G s , passes through the glass
+and condensate film, and strikes the bottom of the
+still, ottG,j, representing the amount of solar radia-
+tion absorbed per sq ft of still area. A value of (XT
+of about 0.80 appears reasonable for usual materials
+and operating conditions.
+FIG. 1-SKETCH OF ROOF TYPE SOLAR STILL.
+Of the energy absorbed at the bottom of the still,
+a portion q k , will be conducted away, part will go
+into heating the water, and the remainder will be
+carried away from the water surface by convection,
+radiation and evaporation. This portion of absorbed
+heat is transferred to the lower surface of the glass,
+passes through the glass by conduction, and is car-
+ried away by convection and radiation from the upper
+surface of the glass.
+The thermal circuit for this system is indicated
+in Figure 2. To obtain the greatest yield of water
+FIG. 2-THERMAL CIRCUIT OF ROOF TYPE SOLAR STILL.
+from the still, the heat transferred by the evaporation
+of water, q , should be made as large as possible.
+Inspection of the circuit indicates that the heat in-
+put, (XXG S , should be as large as possible; that is,
+the bottom of the still must be highly absorbing, the
+solar transmittance of the transparent cover plate and
+water film should be high, and the short wave irradi-
+ation, G s , should be large. The short wave irradia-
+tion, G s , can be increased by the use of suitable re-
+flectors, and an appreciable increase in water out-
+put can be obtained by the use of a simple fixed re-
+flector. The heat loss by conduction from the base
+of the still can be reduced by thermal insulation or
+by mounting the still directly on the ground and using
+dry earth or sand as the insulation. It was found in
+Melbourne that a still mounted directly on the ground
+would average about 85 per cent of the yield of an in-
+sulated still, the output dropping immediately after a
+896
+
+
+rain due to the higher thermal conductivity of the wet
+soil and gradually increasing as the soil dried.
+The equations for the various energy rates are,
+assuming steady state conditions:
+Heat balance on water—
+aiG s A =q k +q e +q r +q c (1)
+Heat balance on glass cover—
++7r+ 7c + a gL G L A + a gs G * A = 7c2 + 7rz
+The radiation exchange within the still between
+the salt water and the glass cover plate is given by:
+q r = 0.9 {aT A - aTp A (3)
+In an enclosed space where heat and mass trans-
+fer occur simultaneously, the natural convection can
+be correlated in terms of special Nusselts and
+Grashof numbers [6]. The buoyancy term in the spe-
+cial Grashof number is modified by the density effect
+due to composition as well as temperature. In a
+horizontal enclosed air space for 3.2 x 10 5 <Gr <
+10 7 the relationship between the Nusselt and Grashof
+numbers is
+h'x rx 3 p 2 fg ßAT'
+H (4)
+Where AT'is an equivalent temperature differ-
+ence which includes the molecular weight difference
+in evaluating the buoyancy effect, and for the air-
+water system is given by:
+A T'= {T-T g ) + ( Pw T (5)
+\39— p w /
+where p w is the partial pressure of water inpsia at
+the temperature, T, of the water surface and p w is
+the vapor pressure of water at the temperature f g of
+the glass. It will be noted that in this range of
+Grashof’s number the size of the space does not af-
+fect the heat transfer coefficient, and over the nor-
+mal range of still temperatures (4) can be approxi-
+mated by:
++ (6)
+The convective heat transfer rate inside the
+still between the water in the base and the glass
+cover becomes:
+q c = h ' A it-t g ) (7)
+From the analogy between heat and mass trans-
+fer, the expression for the mass transfer rate in lb
+per hr is:
+?D = 0.198 h'A (p w - p wg ) (8)
+and the heat transfer due to evaporation is:
+<7 e = 0.198 h'A (p w - p wg ) h {g (9)
+The heat loss through the base of the still is
+given by:
+q k ~U b A(T-T a ) (10)
+The heat balance on the glass cover of the still
+can be written as follows:
+a s G s + V-L G L + <t c + <Jr + <le =
+ae gTg + h cZ (t g - t a ) (ID
+Selecting a water temperature in the still of
+155 F and an ambient air temperature of 76 F, the
+equations are solved by trial for the glass tempera-
+ture, t g , which is found to be 135 F. The following
+heat fluxes are obtained:
+Convection q c /t 1 =lO
+Evaporation q e /A = 158
+Radiation q r /A =2B
+Conduction q k /i 4 =23
+OCTG s = 219
+and G s = 274
+The thermal efficiency of the still is defined as
+the ratio of the heat utilized in evaporation to the
+solar irradiation:
+<7„ 158 , ,
+q = = = 57.7% (12)
+AG S 274
+An inspection of the magnitudes of the various
+heat fluxes indicates that there is small scope for
+improving the thermal efficiency of the conventional
+still. The ratio of the evaporative to the convective
+and radiative heat transfer increases with increasing
+temperature, which indicates the merit of a reflector
+to increase the irradiation and hence the operating
+temperature of the still. The conduction loss should
+be minimized, although a slight loss in performance
+can be tolerated because of the cheaper construction
+cost if the still is mounted directly on the ground
+surface. The remaining factor, OtT, can not be sig-
+nificantly increased, although any increase here
+would result in a proportional increase in efficiency.
+One important factor was omitted from the above
+analysis, namely, the effect of air leakage. The ef-
+fect of air leakage increases rapidly with tempera-
+ture owing to the higher water content of the escap-
+ing air, and would also be expected to increase with
+wind velocity. It is important to minimize the air
+leakage for high still efficiency.
+3. MULTIPLE EFFECT DIFFUSION STILL
+The conventional roof type still has the advan-
+tages of simplicity, reliability, and absence of power
+requirement, but has the disadvantages of a large
+897
+
+
+area requirement per unit of water distilled and a
+relatively high capital cost. The feasibility of using
+solar energy or hot water from wells in connection
+with multiple effect stills is currently under investi-
+gation as an alternate method of producing fresh
+water. The specific still to be discussed here is a
+multiple effect diffusion still which appears very
+promising for saline water distillation. Maria Telkes
+reports a similar still [7], but does not give a theo-
+retical analysis or indicate how improvements in per-
+formance can be obtained.
+The multiple effect still consists of a series of
+closely spaced parallel plates within a gas filled
+enclosure, the first plate being heated and the last
+plate cooled (Fig. 3). The impure water is intro-
+duced at the top of each plate and flows down the
+surface of each plate on the side away from the heat
+source. Due to the temperature drop and resultant
+vapor pressure difference across the gap between ad-
+jacent plates, water will evaporate, diffuse across
+the narrow gas space, and condense on the cooler
+plate. The heat given up by condensation of the
+water vapor is conducted through the plate and sup-
+plies the heat necessary for vaporization in the next
+effect.
+The principal advantages of this still are as
+follows:
+(a) The still can operate at relatively low tem-
+perature on the hot side, 130 to 160 F. This means
+that scale formation is minimized, as scale formation
+is much more rapid at higher temperatures. Corrosion
+is also less rapid at the lower temperature. Further-
+more, solar absorbers are much more efficient at
+these operating temperatures than at higher tempera-
+tures, and heat losses from the system are reduced.
+(b) Use of an inert diluent gas of low molecular
+weight serves to increase the mass transfer rate and
+reduce corrosion in the system. This also greatly
+simplifies the design as no total pressure differences
+occur within the still.
+(c) The system can be arranged so that all flow
+is by gravity or thermal syphon.
+(d) By using a multiple effect system, the size
+of the solar absorber and the heat requirement per lb
+of distillate is reduced.
+(e) By use of a heat storage tank, the still will
+work 24 hours a day and continue to work at reduced
+output during cloudy periods.
+4. MASS AND HEAT TRANSFER RELATIONSHIPS
+As in the roof type still, the heat transfer be-
+tween adjacent plates can be correlated in terms of a
+special Grashof number [6]. For a mean temperature
+of 150 F and an equivalent temperature difference of
+20 F between the plates, the Grashof number for air
+is 1.22 x 10 6 D 3 AT. For Grashof numbers below
+2 x 10 3 , convection is suppressed and conduction
+controls, in this instance corresponding to a spac-
+ing of:
+% = f 2 x IQ3 Y = 0.0434 ft
+\2O x 1.22 x 10 B )
+or 0.52 in.
+This means that pure conduction and diffusion
+will occur when the plates are spaced closer than
+X A in. and the diluent gas is air. With other gases of
+lower molecular weight, the transition from conduc-
+tion will take place at larger spaces.
+LEGtND
+1 SALINE WATER INL£T
+2 HEATING WATER INPUT
+3 - OUTLET
+A HYDROGEN GAS INLET
+5 CONDENSATE. (FRESH WATER)
+6 WASTE, (cone SALINE WATER)
+7 CONDENSER
+A PLATES
+FIG. 3-SKETCH OF MULTIPLE EFFECT DIFFUSION STILL.
+
+
+The mass diffusivity D in ft 2 per hr for a two-
+component system is given by [B]:
+14.6 T ( 1
+Pt [Vj + V}) z + M bJ 3
+The rate of diffusion of component A in lb per
+ft 2 hr is given by:
+w DM W P T dP w ( 14 )
+“ RT P T -P W dx
+or, substituting from (13):
+m 14.6 T V >M W ( 1 1 \ y ’
+W 1 —+ —l x
+” R{vl> + v}Y\M w M b )
+1 dP w
+(15)
+Equation (15) indicates that if a high diffusion
+rate is desired, a diluent gas of a low molecular
+weight should be selected. Since the diffusion rate
+is proportional to the pressure gradient, the plates
+should be spaced as closely as possible. The rate
+of diffusion will also be increased by lowering the
+total pressure in the system, but it may be preferable
+to operate at atmospheric pressure due to the simpler
+design.
+By substitution of the appropriate constants in
+(15), the equation for diffusion of water vapor in air
+can be written:
+(16)
+T t wm
+where
+W w - the rate of diffusion of water vapor in Ib/hr ft 2 .
+P wm = mean partial pressure of water vapor in space,
+psi.
+P £ = total pressure, psi.
+Ax = width of space (pathlength), ft.
+Ap w = partial pressure difference across space for
+water vapor, psi.
+y> A = diffusion constant for water-air system at one
+atmosphere.
+The value of is plotted versus temperature in
+Figure 4. For diffusion of water in hydrogen, simply
+multiply t p A by 3.34.
+The heat transfer coefficient by evaporation is
+defined as:
+T U' kf a
+h = ( 17 )
+c Ar yiu
+The ratio of the heat transfer by conduction to
+that by evaporation, f, is plotted in Figure 5 as a
+function of mean temperature for diffusion of water
+through air or hydrogen for one atmosphere total pres-
+sure. The thermal conductivity is independent of the
+pressure, but the diffusion rate varies with pressure.
+For any other pressure the ratio of heat transfer by
+conduction to the heat transfer by evaporation is
+given by:
+'• - T& f M
+r wm
+The thermal circuit for the multiple effect dif-
+fusion still is sketched in Figure 6 for the nth plate.
+TEMPERATURE, °F.
+FIG. 4-DIFFUSION CONSTANT FOR AIR-WATER SYSTEM AS A FUNCTION OF TEMPERATURE.
+
+
+FIG. 5-RATIO OF HEAT TRANSFER BY CONDUCTION TO
+THAT BY EVAPORATION.
+The temperature at the surface of the condensing
+film on the hot side of the plate is t n and the corre-
+sponding vapor pressure of water is p , The temper-
+ature drops through the condensate film, the plate,
+FIG. 6-THERMAL CIRCUIT FOR DIFFUSION STILL.
+and the salt water film with a final surface tempera-
+ture, t' n , and a corresponding saturation pressure for
+pure water, p'. The actual vapor pressure, p'', of
+the salt solution is less, and p' p " can be visual-
+7rn r n
+ized as an opposed voltage source in the circuit.
+The driving force for diffusion across the gap is
+p''— P n+l > while the driving force for radiation and
+convection (conduction) is t' n t n+l .
+5. COMPUTED PERFORMANCE OF SIX EFFECT
+DIFFUSION STILL
+A six effect still with the sea water feed pre-
+heated to 120 F and the mean temperature of the con-
+densing plate at 100 F has been analyzed. The
+ratio of feed to condensate on each plate has been
+arbitrarily taken as 3.0, and the plate spacing is % in.
+The unit thermal conductance for the plate plus water
+films was estimated to be 270 Btu/hr ft 2 F. The
+computed temperature and partial pressure distribu-
+tions for a hydrogen charged still are shown in
+Figure 7. The small drop in the vapor pressure
+curve at the surface of each plate is due to the low-
+ering of the vapor pressure by the dissolved salt.
+The yield of water per sq ft of still area for each
+plate is computed to be;
+IF, = 0.63, W 2 = 0.54, W 3 = 0.47, = 0.44,
+W s = 0.41, W 6 = 0.38,
+or a total of 2.87 lb. This corresponds to the heat
+requirement of 214 Btu/lb of water produced.
+PLATE NUMBER
+FIG. 7-CALCULATED DISTRIBUTION OF TEMPERATURE
+AND PARTIAL PRESSURE OF WATER VAPOR IN
+SIX EFFECT DIFFUSION STILL.
+
+
+Plate
+num-
+ber
+Plate
+temperature,
+F
+Vapor
+pressure
+of water,
+psi
+Experimental
+yield,
+Ib/hr
+Calcu-
+lated
+yie id,
+Ib/hr
+1
+161
+4.86
+0.88
+0.78
+2
+150
+3.72
+0.65
+0.66
+3
+136
+2.60
+0.52
+0.44
+4
+122
+1.79
+0.39
+0.21
+5
+113
+1.39
+0.33
+0.33
+6
+90
+0.70
+6. EXPERIMENTAL PROGRAM
+A small five effect diffusion still has been con-
+structed and operated for several months using an
+electric heater rather than solar energy. Many prob-
+lems have been encountered, and the reliability of
+the still for long operating periods is not definitely
+established.
+Initially, the still was instrumented with three
+thermocouples on the first and last plates, and one
+each at the midpoint of the other plates. Unfortun-
+ately, only a limited amount of data were obtained
+before it was found necessary to remove the thermo-
+couples from all but the first and last plates, due to
+interference with the water flow at small plate spac-
+ings. The following table gives the experimental
+plate temperatures, water vapor pressures, experi-
+mental yield of water from each plate, and calculated
+yield of water from each plate, based on the meas-
+ured plate temperatures for operation in air with
+% in. spacing;
+The correspondence between calculated and
+measured yields is not good, but does indicate that
+the predicted evaporation rates are adequate for de-
+sign purposes. The differences are probably due
+primarily to inaccurate temperature measurements and
+lack of uniform spacing between adjacent plates. In
+this run, the only spacers were at the two sides of
+the 24 in. wide plates which were definitely not per-
+fectly flat and parallel.
+After removing the thermocouples from the plates,
+a series of runs were made at two plate spacings in
+air, and one plate spacing in hydrogen. The results
+are plotted in Figure 7 in terms of total product as a
+function of the overall vapor pressure difference be-
+tween water on the heated plate and at the tempera-
+ture of the condensing plate. It will be noted that
+the distillation rate increases nearly linearly with
+the vapor pressure difference. This is what would be
+expected for a constant ratio of feed rate to distillate
+rate. It appears that there is a slight increase over
+the linear relationship. This could be due partly to
+the fact that the heat losses increase linearly with
+temperature, whereas the vapor pressure of water in-
+creases much more rapidly with temperature. Also
+the ratio of feed rate to distillation rate tended to
+OVERALL VAPOUR PRESSURE DIFFERENCE, PSL.
+FIG. 8 - TOTAL DISTILLED WATER VERSUS OVERALL
+VAPOR PRESSURE DIFFERENCE.
+decrease with temperature, resulting in lower heat
+losses in the waste water.
+The distillation rate shows the expected in-
+crease with decrease in plate spacing, and again
+when the air is replaced with hydrogen as the dilu-
+ent gas.
+The ultimate utility of the multiple effect dif-
+fusion still depends upon the development of an
+economical unit capable of long periods of trouble-
+free operation. Many problems remain to be solved,
+particularly with regard to the maintenance of proper
+flow conditions over the plates. Problems of cor-
+rosion, sedimentation, scaling, and salt deposition,
+require further study. The necessary close spacing
+of plates without product contamination presents a
+difficult problem. This has been solved by the use
+of cylindrical polyvinyl chloride spacers, but it is
+thought that a microporous hydrophobic film would
+enable closer spacing and hence higher distillation
+rates.
+The laboratory still has operated continuously
+for periods of up to a month, but definitely requires
+further development before it can be considered a
+practical unit. Work is continuing on the problems
+enumerated above. At the same time, the roof type
+still is undergoing further study from the standpoint
+of portability, reliability, and cost.
+
+
+ACKNOWLEDGMENT
+The author wishes to acknowledge the co-opera-
+tion and advice of R. N. Morse in the direction of the
+project, and the assistance of Jack Bannister and
+Mark Dewhurst in the construction and operation of
+the apparatus.
+REFERENCES
+1. “Apparatus for Solar Distillation,” Harding,
+J., Proceedings of The Institution of Civil Engi-
+neers, Vol. 73, Pt. 3, 1883, pp. 284-288.
+2. “Desalting of Bore Water by Solar Distilla-
+tion,” Wilson, B. W., C.5.1.R.0. Division of Indus-
+trial Chemistry Report No. 71, 1954.
+3. “Solar Distillation in Australia,” Wilson,
+B. W., Transactions of the Conference on the Use of
+Solar Energy, University of Arizona Press, Tucson,
+Arizona, 1958.
+4. Solar Energy Research, Telkes, Maria, Uni-
+versity of Wisconsin Press, Madison, Wisconsin, Ist
+Ed., 1955, pp. 111-118.
+5. Solar Energy Research, Howe, E. D., Uni-
+versity of Wisconsin Press, Madison, Wisconsin, Ist
+Ed., 1955, pp. 107-109.
+6. Heat Transmission, McAdams, W. H., McGraw-
+Hill, New York, 3rd Ed., 1954, p. 181.
+7. “Solar Still Construction,” Telkes, Maria.
+U.S. Department of the Interior, Office of Saline
+Water Research and Development, Progress Report
+No. 33, 1959.
+8. Absorption and Extraction, Sherwood, T. K.,
+McGraw-Hill, New York, 1937.
+Commonwealth of Australia
+COMMONWEALTH SCIENTIFIC AND INDUSTRIAL RESEARCH ORGANIZATION
+AUTHORS REPRINT*
+•Presented at the 1961 International Heat Transfer Conference
+held August 28—September 1, 1961, University of Colorado,
+Boulder, Colorado, U.S.A. Papers presented for discussion at
+this meeting have been published in International Developments
+in Heat Transfer by The American Society of Mechanical
+Engineers, 29 West 39th Street, New York 18, N.Y,
+902

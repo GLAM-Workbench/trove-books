@@ -1,0 +1,3525 @@
+
+
+
+
+. \ J;
+
+
+SURVEYORS’ POCKET-BOOK.
+ARTICLES AND TABLES
+Supplementing the information contain!? in the Standard Book,
+on Surveying.
+SURVEYOR GENERAL’S OFFICE, SYDNEY, N.S.W.
+J* ;
+J|
+SYDNEY:
+J RICHARDS, GOVERNMENT PRINTER, P„ IlUP . STRKET .
+1 886. ,f
+MBO S 6 ' % >
+: ’**'v-i V * A
+
+
+s V i; ',
+2
+
+
+PREFACE.
+I *
+In this Colony the surveyor has to depend so entirely upon his
+instrument and his knowledge of its use that a thorough acquaint-
+ance with its principles and with some of the simpler astronomical
+and geodetic problems is essential to the intelligent and accurate
+performance of any large survey that may be entrusted to him.
+In many such matters connected with the practice of Colonial
+surveying the ordinary books of referenfce are either deficient or
+altogether wanting, and the demand upon my time in explaining
+them to beginners was so great, that some years since I determined
+to write and print articles upon the subjects most needed, in a size
+suitable for insertion in the ordinary field-book. Additional matter
+having been supplied by officers of my Department, an edition is
+now issued in pocket-book form. It is intended to distribute new
+editions as often as additional matter presents itself.
+F. ADAMS,
+Surveyor General.
+2i June, 1883.
+V/ &
+
+
+
+
+LINEAL MEASUREMENT.
+Lineal measurement has hitherto been performed with Gunter’s
+chain either of steel or iron of the usual pattern; the general process
+of measurement is well known and needs no description, but as
+there is much liability to error in measuring over undulating and
+broken country it may be well to explain the best mode of ob-
+viating or considerably reducing the error arising from this cause.
+It may be premised that care should be taken to put an even and
+regular strain upon the chain and to insert the arrows upright
+The object being to obtain the horizontal length of a line, in
+practice it is found the more expeditious and satisfactory mode to
+divide the slope of one chain into a series of steps of more or less
+number of links according to the inclination of the ground ; for this
+purpose a plummet is the only available and reliable means, the
+chain being suspended between the hand of one chainman at the
+handle or any other point of the chain held with the plummet over
+the pin or other mark and the hand of the other chainman insert-
+ing a pin. Of course no greater length than thirty links should be
+measured in this manner, unless the services of one or two other
+persons are available to support the chain in a horizontal
+There are plummets with iron points specially designed for this
+purpose which may be readily obtained. The practice frequently
+adopted, superseding the use of the plummet, of dropping a pin
+held suspended against the handle of the chain by the forefinger
+and thumb of the chainman is clumsy and very objectionable for
+obvious reasons. The other mode of reducing the actual surface
+measurement to the horizontal, by observing the angle of inclination,
+although perfect in theory is not found to be satisfactory in practice,
+and is generally abandoned after comparing results obtained by
+both methods. The principal source of error in lineal measure-
+ment arises from defective standard length. From continued use
+the chain gradually stretches and thus measurements are in excess,
+and unless frequent attention is paid to comparing the chain wdth
+a standard length, accurate survey need not be expected. It has
+been customary to appropriate to the purpose of a standard an iron
+or steel chain adjusted to correct length, but even this from fre-
+quent use stretches, and from other causes, such as an uneven
+5
+Lineal Measurement.
+
+
+surface, extraordinary heat, an unusual strain, or the presence of
+grit in the joints or rings, leads to mistakes in the hands of even
+careful men, and has been productive of serious and extended error.
+The most ready, portable, and, under all conditions, most satis-
+factory standard for use is a steel tape, and this instrument is now
+attainable by all surveyors, it is almost rigid and not susceptible
+to perceptible expansion under ordinary temperatures or during
+its use for inserting standard marks, which only occupies a few
+minutes at each camp. In laying down a standard length for
+comparison the surveyor should select a level site and insert suitable
+pegs with flat tops, the centres of the tops of the pegs nearly coin-
+ciding with the index marks of the tape, then, driving two iron or
+copper tacks, the exact length may be marked thereon by means of
+a file, or cut with a hard chisel. The general use of a steel riband
+of the length of a chain, marked with graduations in a suitable
+manner, and with convenient handles for use, is strongly recom-
+mended for the following reasons, —being of extreme lightness, not
+liable to kinks, or very susceptible to alterations of temperature as
+far as practical purposes are concerned, it may be used without the
+many chances of error attendant upon a Gunter’s chain. More-
+over, its chief recommendation consists in the expedition ensured
+by its use, for it can be held at arm’s length retaining its horizontal
+position without effort, and requires no daily comparison with the
+standard. After continued use during a period of twelve months it
+is reported to be a most satisfactory and desirable instrument. It
+may be here noted that in subdivision of land it is desirable that
+the working chain should be from 5 to | of an inch longer than
+standard, as some compensation for loss which must accrue through
+inequalities of surface and minor obstacles; also, that the chain
+pins should not be more than eight inches long, made of one-eighth
+steel wire. E. T.
+6
+Lineal Measurement.
+
+
+HYPOTENUSAL MEASUREMENT
+As applied to surveys in precipitous or undulating country.
+Land Surveying of all-sorts in precipitous country, on the borders
+of the sandstone formations of the colony, has led to the application
+of a method of measurement which has hitherto been seldom
+practised, viz.:—The division of the irregular incline, or precipitous
+contour of the line to be measured, into several portions, the
+inclinations of which are determined by the theodolite, and their
+lengths reduced separately.
+To do this readily, instead of using the ordinary chain, the
+lightest crinoline steel wire, wide, is made available, in
+from 5 to ro lengths of i chain each, united by softening the ends
+by heat, and bending them back to form a loop, the bent ends,
+which should be about 2 inches long, being secured by brazing or
+whipping with fine copper wire or waxed hemp. The number of
+chains is marked by tablets, small tags of leather, or tape ; the
+links or fractional parts thereof are measured by a steel riband, with
+a ring as a handle at one end and a snap hook at the other —as
+shown in drawing—to hook into the end of any one of the several
+wires as required; the length of the line may thus be quickly read,
+the number of chains being shown by the number of tags, the steel
+riband showing the links, and the decimal part of the link estimated
+and entered thus ; 698’3.
+The horizontal distances are then determined by starting each
+hypotenuse from the axis of the telescope of the theodolite, and
+measuring any distance under 10 chains (about 5 is the most
+convenient for stretching the wire) to a mark on the ground or the
+top of a wad-stick, and reading the vertical angle to the point to
+which the distance has been measured. The theodolite is then set
+up vertically over this point, and a second portion measured in the
+same way. Thus, by starting each hypotenuse from the axis of the
+telescope, the correct hypotenusal distances and angles of inclination
+are obtained, and are reduced to the true horizontal lengths required
+for plotting by the traverse tables, or by natural cosines. To facilitate
+calculation, it is desirable, where possible, to measure portions in
+7
+Hypoteiwsal Measurement.
+
+
+even chains, or multiples of ten links, thus : 500, 600, or 540,
+680, &c. The angles of elevation or depression, if less than 12 0 ,
+need only be read to the nearest 15'; between 12 0 and 20°, to the
+nearest s'; and over 20 0 to the nearest minute.
+The steel riband used should weigh about 12 ozs., and it is
+desirable to have it marked in links from 1 to 100, from each end
+on the opposite sides, that there may be no chance of reading the
+wrong end of the riband, and if so marked, there should be a snap-
+hook at each end.
+The wire, if broken, can readily be mended by taking the temper
+out of the broken ends and bending each end back about 1J inches,
+and hooking them together by a short portion (the temper of which
+has been drawn, and the ends bent back) sufficient to compensate
+for the diminution in length caused by the broken ends having
+been bent over. The loose ends are then secured, and the spliced
+joint is protected by another piece of steel wire, about 7 inches long,
+being attached alongside, and the whole whipped with fine copper
+wire or waxed hemp.
+The long wire is readily rolled up and carried on a hoop formed
+of a strip of calico 4 inches wide and 4 feet long, the edges of which
+are sewn on two hoops of a diameter of 15 inches, made of four
+coils of the steel wire, the whole forming a hoop, the wires in the
+edges of which form flanges between which the wire measure and
+steel riband are coiled in convenient shape for carrying across the
+shoulder.
+G. H. S.,
+Bowral, N.S.W.,
+17 August, 1878.
+Note, —Practically speaking the 66 feet tape expands and contracts
+in the ratio of „ inch for every two degrees of temperature
+(Fahr.). P.F.A.
+8
+Measurement.
+
+
+
+
+Steel Riband
+Jp: IM Hi If)
+lOO links
+
+
+It is very generally supposed that the effect of temperature on
+chains and tapes may be disregarded in practice ; how far it should
+be taken into consideration in laying down standards is shown ir.
+the following article : 2T
+COMPARISON OF STANDARD CHAINS. °
+- & s~// 2."
+The co-efficients of expansion of the different kinds of iron and /, /
+steel for a rise of temperature from 32 0 to 212° Fahr., range between s> ' c, ° * V
+•001079 f° r untempered steel, by Lavoisier and Laplace, and
+•001258 for iron, by Smeaton. These figures represent the decimal _ 0/0” /rx.
+fraction of the lineal measurement of a body in any direction, by S
+which that length is increased by the given rise of temperature. 2
+Hence the lengthening of any steel or iron chain of 66 feet length
+for a rise of ioo° Fahr. may be taken at *5O inch or half-an-inch * ;
+without practical error. This quantity is easily remembered and
+is readily applied, being one hundredth of an inch for every 2 0 A
+Fahr. V*.
+In this colony a difference of 40° in the temperature of successive - . *
+days may frequently occur, and supposing a chain to be adjusted to ~ O'OOb
+standard when the thermometer stands at 120°, it will be "20 or sth &
+of an inch short at Bo°, and a square mile laid out by it will then f
+contain only 639 a. 2r. 28’8p., and if laid out in the winter
+at a temperature of 40° its area will be 639 a. ir. ry’bp.,
+the chainage being short roW and 2~000 respectively. It
+is thus evident that while under ordinary circumstances the
+errors introduced into the measurement of portions by the
+daily variation of the temperature of the working chain are
+seldom of importance, yet, when comparisons are made and
+standards are laid down, a careful record of the temperature is
+essential in order to guard against the error of comparison and of
+working temperature both tending the same way and thus pro-
+ducing an error of serious magnitude. Suppose a surveyor, ignorant
+of the effect of temperature, adjusts his tape to the Sydney standard
+at 6o°, lays down his camp standard at 120°, adjusts his working
+chain to this the following morning at 70°, and then works through
+the day at an average of no°, the result would be that his chain
+would be an inch longer than standard. Another surveyor night
+9
+Comparison of Standard Chains.
+
+
+go through the same operations at temperatures of 120°, 50°, 80%
+and 50° respectively, his chain would consequently be \ an inch
+short, and the difference between the work of the two men would
+be 1 link in 8 chains, irrespective of the accidental errors and pecu-
+liarities of their work, which would be just as likely to increase as
+to diminish this difference. Attention to the temperature at the
+times of comparison in Sydney, and of laying down the camp
+standards, would reduce the difference to 1 link in 24 chains, which
+is the sum of the daily variations of temperature experienced. The
+performance of the new steel tapes in good country is better than
+this, but as the examples given are confessedly extreme cases,
+correction for the variation of temperature during the day is very
+seldom needed.
+The steel tape has proved so superior to the Gunter’s chain in
+accuracy and convenience that its use has now become almost uni-
+versal, and the only matter of doubt with some surveyors is whether
+it is not more affected by temperature, and that in this respect it
+may compare unfavourably with the chain as a standard of length.
+To understand this point aright it must be remembered that the
+shape of an object has no effect whatever upon its lineal rate of
+expansion in any direction, provided always that its mass is homo-
+geneous ; thus, each edge of a cube of steel will expand precisely as
+much as the thinnest possible bar of the same material of equal
+length, but when, from the process of manufacture, by bending or
+otherwise, the parts of a body are in different states of tension, its
+expansion in any given direction will probably be irregular from the
+change of temperature affecting the mutual relation of these tensions
+and thus altering the shape of the object. A chain with its bent
+links and rings is peculiarly liable to this, and though these varia-
+tions will probably balance each other, the number of separate parts
+being so large, yet the calculation of its length at a given tempera-
+ture is always a matter of uncertainty. The idea that the heavy iron
+chain is less sensitive to temperature than the tape is true only in
+the sense that it is, from its mass, less speedy in responding to a
+change of temperature ; that it will eventually be as much altered in
+length as the tape lying beside it, is, with the possible irregularity
+above mentioned, a certainty; but until its temperature is uniform
+throughout its mass, its length is uncertain, and any comparison
+made may be erroneous. The thin steel tape on the contrary re-
+quires but a few seconds to acquire the temperature of the ground
+10
+Comparison of Standard Chains.
+
+
+or air, and in fact shows a change of temperature much more quickly
+than an ordinary thermometer. Thus, the advantage is in all points
+on the side of the homogeneous, unjointed tape, because the neces-
+sary time can always be given to the thermometer by laying it on
+the ground before the preparations for the comparison are made,and
+then unrolling the tape and placing it a few inches on one side
+of the comparison pegs it will, by being slowly moved laterally up
+to the pegs, acquire the ground temperature shown by the ther-
+mometer.
+The most favourable conditions for a comparison are secured on
+a calm, and sunless day, the next on a calm, cloudless day ; hot
+sunshine and a cool breeze are objectionable, and so are passing
+clouds and the night time when heavy dew is being deposited. The
+thermometer should be laid on the tape or alongside it in precisely
+similar surroundings, and a metal mounting for it with the bulb
+exposed is preferable ; the ordinary thermometer with the bulb sunk
+in the wood will often give misleading indications. Two or more
+thermometers are always desirable and are really necessary wherever
+there is any variation in the nature of the ground c, g., part
+sand and part grass. The ground should be levelled or brought to a
+uniform slope and carefully smoothed, and the tape stretched to a
+fixed tension by a spring balance. Comparison should be made on
+at least two different occasions with the temperature as widely
+different as possible, the tape being carefully examined and the com-
+parisons repeated if the results are discordant. In operations of
+great delicacy other more minute precautions will be taken, but to
+secure the accuracy with which it is desirable that the length of a
+standard should be known it is essential that the conditions here
+enumerated should be obtained as nearly as time and circum-
+stances will permit.
+The simplest means of recording the length of a tape is to calcu-
+late the temperature at which it would be standard length, and to
+mark this temperature with the tension used upon it. Thus, sup-
+pose a tape proved to be *4B inch long at a temperature of 118 0 ,
+it would be standard length at 48 X 2 or 96° below this, and the
+temperature 22 being marked upon it, its length at any other
+temperature is readily found in hundredths of an inch by halving
+the difference between the two temperatures. Thus, at "8° the
+. 78—22 '
+tape is —- = -28 inch long.
+11
+Comparison qf Standard Chains.
+
+
+Date.
+No. of
+comparison.
+Temperature.
+Tape long
+in Dec. inch.
+Resulting
+standard temp.
+Dec. 30,
+*875
+1
+87
+•IO
+67
+11
+11
+2
+93
+•07
+79
+Jan. 5,
+1876
+3
+85
+’OS
+75
+11
+11
+4
+89
+•04
+81
+M
+11
+5
+88
+•04
+80
+11
+11
+6
+98
+•08
+82
+11
+11
+7
+103
+•08
+87
+Jan. 6,
+1876
+8
+120
+•22
+76
+99
+19
+9
+123
+* 2 S
+73
+99
+99
+10
+119
+•21
+77
+Mean, rejecting comp. 1 and 7
+78
+As an example, the following comparisons of a District Surveyor’s
+tape with the Sydney standard are given :
+Comparisons 1 and 7 are here faulty, and have been rejected from
+the mean. The error in the first is partly accounted for by the
+thermometer not being allowed sufficient time for a correct indica-
+tion, and in the case of No. 7, a cold southerly wind, which sud-
+denly came up and reached one end only of the tape, probably
+masked the effect of temporary sunshine upon the remainder, the
+thermometer, which was placed near the middle, being completely
+protected from the wind by the adjoining building. The other
+comparisons, which range over nearly 40°, agree satisfactorily since
+in this instance the tension was applied by hand, a spring-balance
+not being obtainable.
+L. A. V.
+12
+Comparison of Standard Chains.
+
+
+TELESCOPES.
+In selecting a telescope, whether attached to a theodolite or otherwise,
+care should be taken to observe that an object viewed through it
+comes quickly into focus, the shorter the distance on either side of
+focus that dimness of vision occurs, the better will be the quality of
+the image, and it will consequently bear a higher power of eye-piece.
+When on the contrary perceptible motion may be communicated
+to the pinion screw moving the object-glass without immediate
+effect upon the image of the object viewed, it shows that the object-
+glass has not been entirely corrected for spherical aberration, and
+therefore the rays refracted by it do not converge upon one common
+point or focus.
+A good telescope should show the details of an object viewed
+sharp, clear, and without change of colour, or in other words the
+object viewed should appear the same as one similarly viewed nearer
+at hand by the naked eye.
+A very good test for achromatism is afforded by observing the
+small branches of a dead tree, and the points of the broken limbs-
+thereof against a clear sky, and comparing the appearance with
+similar objects nearer by the naked eye; when no difference,
+especially change of colour, appears, it indicates that the materials
+of the lenses forming the object-glass have been carefully selected,
+and the effects of colour thereby counteracted.
+It does not follow that chromatic error belongs to the object
+glass alone, and before deciding >t may be advisable for the occasion
+to try an eyepiece of known quality.
+TESTING OF 5-INCH TRANSIT THEODOLITE.
+The satisfactory working of this instrument will depend upon the
+amount of accuracy attained by the makers in the axes and gradua-
+tion of the circles, errors of centering belong to the former ; all other
+errors in instruments of moderately good construction are adjustable
+according to the skill and care of the observer.
+13
+Telescopes —Testing of Transit Theodolite.
+
+
+Whilst testing an instrument it should be set up either on the
+earth or upon a stone floor, and the level attached to the telescope
+tested by observing that it is sensitive to the smallest movement of
+the tangent screw of the vertical arc, appreciable on the vernier *
+Being satisfied on this point, clamp the lower plate and level the
+instrument by using the parallel plate screws and tangent screw of
+the vertical limb alternately, and if the bubble keeps its place
+throughout an entire revolution, when turned round slowly, the inner
+azimuthal axis may be judged to be accurate. Next clamp the upper
+horizontal plate and release the lower, and see that the bubble of the
+upper level keeps its position through an entire revolution, and should
+the result of this be satisfactory, the outer azimuthal axis may also
+be approved of. The next test should be applied to the graduation
+and centering, which may be dealt with as a whole, for error in
+either can only be remedied by the maker. To do this set the zero
+of one of the verniers, which may be called A, to any line of the
+graduation, note the reading, and if greater than iBo° subtract that
+amount, and the result should give the reading of the vernier B ; if
+it does not exactly agree note whether the difference is to the right
+( —) or to the left ( + ), then bring vernier B to the position
+occupied by A, and note the reading of A and see that any difference
+that existed before as a -f quantity now appears as —, or vice versa;
+this test should be applied to several parts of the arc, and if no error
+exceeding one minute is observed, the instrument may be considered
+of average accuracy; if the errors are constant, and + and
+alternately, it is caused by one of the verniers being slightly out of
+position, a defect that can be allowed for, and using the allowance
+as an index error is preferable to attempting to shift the vernier ;
+the same test allowing for the graduation being in quadrants, and
+not, as is the case with the lower limb, numbered all round the
+circle, may next be applied to the vertical circle. If the error exceeds
+one minute in any part of the arc, the instrument, if new, should
+be rejected.
+Note. —In the best five-inch Theodolites the displacement of the bubble
+of the level is found to be about | inch for the first minute in elevation
+or depression.
+14
+Testing of Transit Theodolite.
+
+
+ADJUSTMENT OF TRANSIT THEODOLITE.
+Upon the adjustment of the transit theodolite an excellent article
+is given in the 3rd vol. of the 1872 edition of “ Mathematical
+Instruments,” by J. F. Heather, No. 170, Weale’s Series, published
+in London by Lockwood & Co., to which attention is directed.
+The order of the adjustments, as given therein, should be strictly
+adhered to, viz.:—
+I. Adjustment for parallax.
+11. Adjustment of the vertical axis or axis of the horizontal
+limb.
+111. Adjustment of the horizontal axis or axis of the vertical
+limb and telescope.
+IV. Collimation in azimuth, or adjustment of the vertical wire.
+V. Collimation in altitude, or adjustment of the horizontal
+wire.
+The adjustment for parallax is naturally made first to avoid sub-
+sequent disturbance of the instrument. The axes are next rectified—
+the correct movements of the instrument depending upon them—
+and finally, the intersection of the diaphragm wires, i.e., the point
+of reference of the instrument, is brought to agree with the line of
+collimation horizontally, and with the graduation of the vertical arc
+and the telescope-level vertically.
+The following article, which has been contributed, will be found
+a valuable addition to that which is referred to above :
+Adj. 111. Vertical revolution of the telescope, i.e., the horizontal
+axis of the instrument.
+It will occur to most persons that the readiest mode of discovering
+and remedying any error in this respect might be by testing the
+instrument against a fine plumb line, but, in practice, it is so
+difficult to secure perfect stillness and steadiness of the plummet
+that such a method is generally abandoned in despair; a better and
+more practical method is, by means of an artificial horizon reflect-
+ing an elevated point, such as a black dot on a wall or tree. In
+default of an artificial horizon proceed as follows, —Select a point,
+elevated about 40° on an upright tree, or on a wall, and after
+carefully setting up the instrument, mark exactly on the wall, near
+15
+Adjustment of Transit Theodolite.
+
+
+the ground, or on a piece of paper fixed to the tree, the point where*
+the perpendicular, as indicated by the instrument, falls ; and this
+point should be at the same distance from the telescope as thg
+upper point, so that no change of focus is needed. Then reverse the
+instrument in azimuth (thus having the spirit bubble underneath
+the telescope), and repeat the operation. Should there be any
+difference, halve it and make a mark, which will be truly per-
+pendicular to the elevated point; then carefully raising or lowering
+one end of the axis by the means provided, the vertical wire may be
+made to intersect the upper point and the corrected lower point,,
+when the telescope will move in a vertical plane.
+Adj. IV. Set the instrument truly level upon suitable ground,
+bring the vertical wire of the telescope to bear upon a point A, say
+10 chains distant, turn over the telescope and put down another
+point Bby the vertical wire, at the same distance; unclamp the#
+instrument, turn it round iBo° (thus reversing the telescope), bring
+the wire to bear upon the first point A, turn over the telescope, and
+if the collimation be correct the vertical wire will coincide with the
+second point B, if not adjust for one-fourth of the apparent error,,
+and after a few trials the collimation will be perfect.
+It will be obvious that by using a graduated slip of wood for the
+mark B, the collimation may be perfected to the utmost nicety,
+A.point may also be marked midway between the first and second
+positions of B, and as this point must evidently be in a straight
+line with A and the instrument, the vertical wire should, when
+finally adjusted, cut both this point and A in either position of the
+instrument.
+The above should be considered as the best method of collima-
+ting in azimuth, the method given in Heather’s treatise being open ,
+to the objection of the difficulty of performing the operation
+upon a small instrument without disturbing it.
+Adj. V. Collimation of the horizontal wire. The collimation of
+the horizontal wire may, with advantage, be adjusted by the gradua-
+tion of the vertical circle, thus, —After carefully setting up the
+instrument and levelling it, bring the telescope with the vernier of
+the vertical arc carefully set to zero, to bear upon any convenient
+surface ; bring the bubble of the telescope level to the centre of its
+run and mark a point intersected by the horizontal wire, then turn
+round the instrument iBo°, reverse the telescope, and bringing the
+16
+Adjustment of Transit Theodolite.
+
+
+vernier of the vertical arc to zero, the same point should be intersected
+as before; but if not, the wire should be adjusted to cut a potnt
+midway between the two, and the operation repeated to ensure
+accuracy.
+To effect the same thing without interfering with the diaphragm,
+and probably deranging the fourth adjustment, bring the wire by
+means of the twin screws to intersect the middle point, and then
+adjust the level on the telescope by means of its capstan-headed
+screw. E. T.
+A convenient modification of this adjustment is as
+Level the instrument and set the vertical arc and bubble as before,
+select a well defined point at any altitude, intersect it by the
+horizontal wire and read off its altitude; turn round the instrument
+iBo°, turn over the telescope and again read the altitude of the
+object; should the readings differ, half their sum will evidently be
+the true altitude of the point; again turn round the instrument,
+and setting the vernier to this true altitude, bring the wire to inter-
+sect the point by means of the twin screws which clip the stud
+upon the standard of the instrument; depress the telescope till the
+vernier reads zero, and adjust the bubble of the telescope-level to
+the middle of its run, by the capstan-headed screw.
+For the sake of simplicity one vernier only has been referred to
+above, and when only one is used it should be plainly marked to
+prevent mistake. Should there be any difference between the
+verniers it will be well to adjust one of them for ordinary observa-
+tions, and then using the last method of adjustment, and reading
+both verniers in each position of the instrument, take half the
+difference between the means of the verniers as an index error to
+be applied to the mean of the verniers whenever observations of
+great nicety require both verniers to be read. This adjustment may
+be made with objects of different altitudes, and it then becomes a
+good test of the quality of the vertical arc, since the index errors
+obtained by observation of different objects will agree closely if the
+graduation, verniers and centering of the vertical arc are good.
+The sign of the index error is determined by comparing the
+altitude as shown by the vernier with the true altitude of the object,
+thus if the true altitude be the greater, the sign of the index error
+will be +.
+17
+Adjustment of Transit Theodolite .
+
+
+Angles of depression should be preceded. by a minus sign ; the
+index error will then be added algebraically with its original sign.
+In the reversed position of the instrument, the index error changes
+its sign, but angles of elevation and depression being written with
++ and signs, respectively, and the index error added algebraically
+as before, all doubt and chance of mistake will be avoided.
+Should there be occasion to use the instrument for levelling
+operations, the telescope-level should be adjusted to the horizontal
+wire by the aid of the levelling-staff in the same manner as that of
+a dumpy level; the graduation of the vertical arc may then be
+tested by the method given above.
+L. A. V.
+MAGNETIC DEVIATION.
+This subject was treated of at length by the Government Astrono-
+mer, Mr. H. C. Russell, in a paper read before the Royal Society of
+Sydney, on the 12th July, 1871. The paper was illustrated by
+diagrams too large to be reproduced here ; the following extracts
+from the paper will, however, afford valuable information to the
+surveyor:—
+“ From the foundation of the Colony up to 1864, observations
+on the variations of the magnetic needle at Sydney had generally
+shown a gradual increase of easterly variation ; it then appeared
+that the maximum had been reached, and westerly motion had
+begun. Subsequent investigation has shown that such is the case,
+and that the westerly motion is at about the same rate as the easterly
+motion had been.
+“ From what is to be shown presently, it will appear that the
+common practice of taking the average annual variation between
+two periods, and thence calculating the variation at another period,
+is by no means a safe one; and to assume that because the varia-
+tion at Sydney has changed from an easterly to a westerly motion,
+therefore the same change has taken place all over Australia, would
+be contrary to experience in other parts of the world.
+u From the observations which have been made at London and
+Paris, since 1580, it appears that although the variation at the two
+18
+Magnetic Deviation.
+
+
+o /
+#
+Cook
+o
+April zgth
+Lieut. Shutlaud ...
+8 6
+o
+July
+1788
+Brewster
+o
+March
+1793
+Flinders
+Brewster
+34
+*
+February and March..
+1813
+P. P. King
+o
+October ....
+Oxley
+o
+April
+l8l^
+1818
+Roe
+n
+tQaa
+Brewster
+w w
+»
+October
+Io22
+1822
+Rumker
+April ..
+Sir T, Brisbane
+8 45
+o
+1823
+1823
+places was decreasing, and the magnetic coincided with the true
+meridian at London in 1657, the same coincidence did not take
+place at Paris until 1669, or 12 years later. A similar difference is
+noticeable here, for while the easterly increase ceased in Sydney in
+1858-9, it did not cease at Melbourne until 1867 (8 years).
+“At the present time (July, 1871) the variation at Sydney is
+9 0 35' East, and the same variation would be found all along the
+line joining Sydney and Cooma. Lines drawn on the map of the
+Colony parallel to this, represent lines of equal variation throughout
+their length ; approximately places one degree of longitude from
+each other will differ 21' in variation, the variation decreasing to
+the westward.
+“In other words, the variation is 2i' less for every fifty-eight
+miles westward of Sydney.
+“ The greatest diurnal range of the magnet occurs in February, and
+amounts to 13', the magnet pointing 6' West of its mean reading
+at 9 a.m., and 7' East at 2 p.m.
+“ As a general rule, 7 p.m. to 8 p.m. is the best time to take the
+variation, or get the true magnetic medium, because at that time the
+magnet is quieter and deviates less than at any other time in the day.
+"List of Determinations of the Magnetic Variation in
+New South Wales, —1770 to 1871.
+Variation. Month. Year.
+19
+Magnetic Deviation,
+
+
+List, &c— continued.
+'Variation.
+Brewster 8 55 o
+Dunlop 9 3 48
+Dunlop g 21 7
+Sir J. C Ross 9 57
+Blackwood 9 25 o
+Admiral King . H 9 42 52
+Admiral King g 47 56
+Denham 10 o o
+Denham 10 o o
+“Novara” (ship) 9 59 54
+Smalley g 949 4
+Smalley 9 42 54
+Smalley 9 40 40
+Bussell 9 36 36
+Russell 9 35 o
+Month.
+Jan. and Feb.* 1824
+Aprilt 1825
+September 1532
+July 4 1841
+February 1844
+April 1851
+September 1857
+December 1859
+The above table, which is taken from the Diagram No 1, gives
+the results of all the observations that have been published since the
+foundation of the Colony. In explanation thereof Mr. Russell adds: —
+“ Diagram No. 1, was formed by projecting the whole of these
+results, except the two first. It is at once evident that some of the
+observations must have been in error, especially from 1813 to
+1823, and again in 1841 and 1864. Between King and Oxley,
+though only a year apart in time, the difference is 18'; and between
+Roe and Sir Thomas Brisbane, there is a difference of 21', though
+only a year apart; and there are two intermediate results, both of
+which are probably good. In 1841 it is evident that the assumed
+variation is the true one, and the same with 1864.”
+The deviation or variation of the needle since the discovery of
+Australia progressed from the true meridian towards the East,
+it attained its maximum in Sydney in 1858-9, in Melbourne not
+till 1867, and is now returning westerly towards the true North.
+* Noon.
+4 Noon.
+X Probable misprint here 57' for 27'.
+5 First published result 10° 1'38"
+20
+Magnetic Deviation.
+
+
+
+
+Diagram
+illustrating Convergence of Meridians
+
+
+REFERENCE TO DIAGRAM.
+u a ', aa' true meridians, the convergence of which is exaggerated.
+lb', bo' parallels of latitude.
+« d c true east and west line run by theodolite.
+dfg h ij traverse commencing at d, the mean true departure of the
+line/g being 334 chains E., and of h i 800 chains E.
+k d k' magnetic meridian through d.
+I I', 11' lines drawn parallel to kdk' by which the traverse is plotted.
+m m' t mm' lines drawn parallel to a da! the true meridian of the
+point d at distances of 68 chains corresponding to
+each half minute of convergence, the eighth and
+sixteenth lines only being shown. These lines are for
+the purpose of estimating the convergence correction
+at any part of the traverse.
+nn' line of equal magnetic variation, bearing N. 35 0 E.
+The surveyor’s plan of the traverse will be drawn to suit the
+magnetic north line k d k', the diagram being drawn to the true
+north to make the true meridians and parallels of latitude sym-
+metrical.
+21
+Reference.to Diagram.
+
+
+CONVERGENCE OF MERIDIANS.
+(See Table at page 46.)
+The areas and distances with which surveyors employed in the
+alienation of the public lands have to deal are sufficiently small to
+.enable them without error to regard the earth as a plane, and to
+represent their surveys upon paper with the distances and included
+angles which they find upon the ground. Their plans are, therefore,
+drawn or projected upon paper in accordance with rules similar to
+those adhered to by map-constructors when using the conical pro-
+jection ; and this projection is at once the best and most simple
+means of illustrating the influence of the convergence of true
+meridians upon surveyors’ traverses, and of practically dealing with
+its effects upon their work.
+The most valuable properties of the conical projection are, that
+for areas as large as an average county, all distances and included
+angles are sensibly correct upon the paper ; a parallel of latitude, bb'
+in the diagram, is represented by the arc of a circle, the radius of
+which is the cotangent of the latitude multiplied by the length of
+the earth’s radius on the scale of the map; and all great circles of
+the sphere, i.e., straight lines as run by the theodolite upon the
+ground, are represented by straight lines, as cde in the diagram.
+In the southern hemisphere, therefore, meridians will appear as
+straight lines, ad ad, which cross the parallels of latitude at right
+angles and converge towards the bottom or south of the map, just
+as straight lines run out true south upon the ground from
+different points on the tame parallel of latitude approach each other
+as they proceed, the distance between any pair of meridians being
+sensibly equal to the equatorial distance between them multiplied
+by the cosine of the parallel of latitude on which the distance is
+measured, the earth being regarded as a sphere.
+Suppose now a line is started with the theodolite on a true east
+bearing from a point, the latitude of which is 34 0 S., and is con-
+tinued straight, it will make right angles with the meridian through
+22
+Convergence of Meridians.
+
+
+the point of commencement, but this meridian will be the only one
+which it will cross at right angles ; as the line proceeds eastwards,
+the meridians, encroaching upon the north-east quadrant in conse-
+quence of their convergence towards the south, will meet it at a
+constantly lessening angle, so that the true bearing of the line will
+continually decrease ; conversely, when a true west line is run out
+its bearing will increase, and the change of bearing is sensibly pro-
+portionate to the distance of departure made from the initial meri-
+dian. This connection between distance of departure and change
+of bearing holds good with a traverse in any direction, whether in
+a single line or in many, and should the traverse return to the same
+true meridian but further north or south, the departure and con-
+vergence will evidently both be nil.
+The east and west line being a great circle of the sphere, will be
+represented on the conical projection by a straight line cde in the
+diagram, drawn at right angles to the meridian add through the
+starting point d, and this line crosses the meridians to the eastward
+at a constantly lessening angle northwards on the paper, just as is
+the case with the theodolite line and the actual meridians on the
+ground. This most useful property of the projection holding good
+with a traverse or series of lines no matter how complicated, if
+follows that the use of the convergence table will not involve any
+change in the practice which has obtained hitherto in the Surveyor
+General’s Department either in the conduct of the survey in the field,
+in the plot, in the calculation of direct bearing and distance, or in
+the subsequent compilation in the office. Surveys will be run and
+plotted throughout, and all calculations made from the initial meri-
+dian, whether true or magnetic; and the value of the convergence
+table is here apparent, for by its aid alone is the surveyor enabled to
+utilize his azimuth observations, detect and throw out instrumental
+errors and thus keep the meridians of his work throughout parallel
+to the meridian he adopted at the commencement.
+When a number of surveys covering a large area have to be fitted
+together, as in the compilation of a county map, it is necessary to
+lay down the converging meridians upon the paper, to which the
+starting points of the different surveys may be referred ; but in the
+plan of a single survey, even if 100 miles in length east and west,
+it is evident that to apply a correction for convergence to the bear-
+2 3
+Convergence of Meridians.
+
+
+mgs, and then to plot them from meridians converging upon the
+paper, is a useless complication, for the angle of convergence of
+the meridian lines so laid down is precisely the same as the correc-
+tion applied to the bearing of the traverse ; and fuither, it becomes
+practically an impossibility to calculate the direct bearing and
+distance. By adherence to the initial azimuth and the use of
+parallel meridian lines for the protraction of the bearings, the office
+work is performed in the simplest and most accurate manner, the
+direct bearing and distance are calculated in the ordinary way, and
+the corrections for convergency, should the real bearings of the lines
+be required, are afterwards obtained by mere scaling on the plan
+and inspection of the table, as will be shown hereafter. Two
+suiveys starting on the true meridian from points differing in
+longitude and meeting in a common line will differ in the bearing of
+that line by an angle equal to the convergence due to the difference
+of departure, or more accurately, the difference of longitude of their
+starting points; and the reciprocal bearings of two distant hills will
+differ in a similar manner, the table furnishing a good approxima-
+tion to the solution of the problem of the “ back bearing,” which
+is, from the complications introduced by the spheroidal shape of the
+earth, one of the most abstruse that occur in geodetic survey.
+In the field the procedure will be as follows : —At the starting
+point the surveyor will find the true meridian, and consequently the
+variation of the magnetic meridian adopted for his survey, and will
+proceed until it is necessary to observe for meridian again ;he will
+then determine the true bearing of one of his traverse lines and
+having applied the convergence correction and subtracted the
+magnetic variation adopted at the commencement, will compare
+this result with the bearing of the line as shown by the field notes ;
+should there be any difference it is instrumental error either in the
+traverse or the meridian observations; and presuming the observations
+to be trustworthy this error should be corrected, the work being
+thus brought back to its original meridian. To obtain the correc-
+tion for convergence it is necessary to find the true departure of the
+traverse ; its magnetic bearings, therefore, must all be increased by
+the variation and the departure thus calculated, then, selecting the
+proper latitude column in the table, opposite the nearest quantity
+corresponding to the departure, the convergence will be found. If
+the departure is east, this will be added to the real bearing of the
+24
+Convergence of Meridians.
+
+
+line, as determined by observation, to obtain its proper bearing by
+the traverse free from instrumental error, and if west, subtracted.
+{Example* I).
+The original azimuth of the survey is thus adhered to throughout,
+and by it the direct bearings and distances are calculated and the
+work plotted, and these are the bearings that should appear upon
+the plan. If the local true bearings of the lines are required they
+should be given in a second column, and for this purpose it will be
+both accurate and expeditious to rule lines on the plan parallel to
+the true north line through the point of commencement, and at
+distances corresponding to each half minute of convergence in the
+table, mm' m the diagram, and thus obtain the correction by inspec-
+tion ; this will he applied to the instrumental true bearings of the
+lines (i.e., their magnetic bearings by the traverse plus the variation
+adopted at the start) in the opposite way to that in which it was
+used above, or subtracted if the departure is east, and added if west.
+(Example II).
+Finally, should the local magnetic bearing of each line be
+required, the magnetic bearings of the lines by the field-book
+must first be corrected for convergence of the true meridians as
+above, and an additional correction in the ratio of 21' for every 58
+miles of departure (true as in the first instance) must be applied as
+explained in the article on “ Magnetic Deviation ” (Ex. III). This
+quantity, however, is only a mean for the Colony generally. It
+doubtless varies in different localities and may change materially in
+course of time ; the problem is also one that will rarely, if ever,
+occur in connection with a traverse, but as it illustrates the method
+of determining the true bearing of an old boundary run originally
+by the circumferentor, its consideration will not be out of place in
+this article.
+It will now be evident that with the exception of meridians of
+longitude, and the line of the equator itself, a straight line of any
+considerable length on a fixed bearing is an impossibility. If the
+line is straight its bearing will constantly change ; if it keeps its
+bearing it will either run in the curve known to navigators as a
+rhumb-line, or be a parallel of latitude if it runs true east or west.
+The line of the ecliptic as drawn upon a terrestrial globe affords a
+25
+Convergence of Meridians.
+
+
+ready illustration of the subject. This line is a great circle, and is
+therefore straight as a theodolite would trace it on the ground, the
+spheroidal figure of the earth being disregarded throughout this
+article as having no appreciable effect upon ordinary surveys. At
+the southern solstice, where the ecliptic touches the tropic of Capri-
+corn, usually placed on the globe at the meridian of longitude 180°
+E. of Greenwich, its bearing is evidently true east; tracing it
+thence eastwards its bearing will be seen to decrease until at longi-
+tude 270° E. of Greenwich it meets the equator at an angle of
+N. 66° 32' 33" E., or exactly as much to the north of east as the
+latitude 23 0 27' 27" of the starting point, or of the point at which
+the line was running due east. It will be noticed also, that in
+accordance with what is indicated by the eight degrees of latitude
+over which the convergence table extends, the bearing of the line
+has been changing in a ratio steadily diminishing as it proceeds,,
+until at the equator the change ceases, for here the meridians are
+parallel. Crossing the equator the meridians converge on the north
+pole, and the bearing of the line increases in an increasing ratio
+until another quadrant of longitude is traversed, and the line
+crosses the meridian of Greenwich in latitude 23 0 27' 27" N., and
+once more bears due east. Thence its bearing continues to increase,
+but in a diminishing ratio until in longitude 90° E. it crosses the
+equator on a bearing of S, 66° 32' 33" E., and finally arrives at the
+point from which it started, and bearing due east as at first, thus
+completing the circle.
+The approximate formula for convergence is very easily remem-
+bered. It is : — convergence departure in arc X tangent of the mean
+latitude. The departure in arc in seconds is obtained by dividing the
+departure by 1*54 chains (or, approximately chains) that being the
+length of \" of arc at the equator, and this multiplied by the tangent of
+the mean latitude of the line or traverse will give the convergence in
+seconds. Results thus obtained will be found to agree closely with
+the table at the end of this article, which has been calculated by
+the Government Astronomer from a formula of greater precision
+than the above.
+Example I. A traverse dfj (see diagram) 15 miles in length is run
+in a south-easterly direction in latitude 34 0 S., and observations for
+(3~: \"wi
+26
+Convergence of Meridians.
+
+
+true meridian at the commencement make the magnetic variation
+to be 9 0 25' E. Near the middle of the traverse a line which bv
+the field-book bears 74 0 12' is by observation made to be 83° 36' 30"
+true, what is the error of the traverse ?
+The true departure of the traverse is now calculated by adding
+9 0 25' to the bearing of each line by the field-book, and entering the
+traverse table with the nearest degree and chain only, it is found to
+be 334 chains east. The convergence correction is therefore additive,
+and in the table under latitude 34 0 and opposite 342*15 chains, the
+nearest quantity to 334 chains is 2' 30", the correction required.
+Then, — “ 0 > "
+True bearing of line 83 36 30
+Convergence for 334 chains E -f o 2 30
+Bearing of line by initial true meridian ... 83 39 o
+Variation ... ... ... ... ... —'9 *25 o
+Bearing of line by the initial magnetic meridian 74 14 o
+By the traverse the bearing is 74 0 12', an error of 2' has there-
+fore crept in ; this being corrected the survey proceeds with 74®
+14' as the bearing of the reference line, and at the end similar
+observations and calculations are made.
+Example ll.—Required in the above survey the true bearing of
+the line hi, which by the instrument bears 87° 16', the true depar-
+ture of the middle of the line from the starting point, scaled upon
+the plan from the true meridian add, being 800 chains east.
+The correction will now be subtractive, the true bearing of the
+line being required, and its value being found as before, the calcula-
+tion will be— 0 > "
+Magnetic bearing of line by traverse ... 87 16 o
+Magnetic variation ... ... ... 4. 25 o
+Bearing by initial true meridian 96 41 o
+Convergence for 800 chains E o 5 45
+True bearing of line 963515
+Note.—ln long traverses it may sometimes be advisable to inter-
+polate the quantities in the table for intermediate latitudes.
+27
+Convergence of Meridians.
+
+
+2l' X l 6 i = — 6 O
+58
+— o ii 45
+Local magnetic bearing ... ... 87 4 15
+Example 111. Required the local magnetic bearing of the line
+hi, in the last example.
+The change of bearing due to convergence is —s' 45", being calcu-
+lated from the true departure of the line as in the preceding
+example, but the change of magnetic variation in the ratio of 21'
+for every 58 miles must not be reckoned from a true meridian
+through the starting point, but from a line drawn on a bearing of
+S. 35 0 W. through that point; this line being approximately the
+bearing between Sydney and Cooma (see “ Magnetic Deviation ”)
+will, local irregularities excepted, give the line of equal variation in
+the locality, and from it must the distance of the traverse line be
+measured on a true east and west bearing. This line being drawn
+on the plan, nn' in the diagram, the distance of the line hi from it
+is found to be 1320 chains or i6£ miles due east, and the correc-
+tion will be subtractive because the variation increases to the east-
+ward, and the magnetic bearing of a line therefore becomes less.
+The calculation will be made as follows :
+O / //
+Instrumental magnetic bearing by traverse 87 16
+Convergence 800 chains E. ... —5 45
+Change of variation miles E.,
+The magnetic variation at the place in question is evidently
+•q° 25' o" -f 6' o" , or 9 0 31' o" E., the true bearing of the line is
+therefore 87 0 4' 15" -f 9° 31' o", or 96° 35' 15", which agrees
+with the result in Example 11.
+28
+Convergence of Meridians.
+
+
+Sufficient data have not yet been collected to afford the means of
+laying down lines of equal variation in the north and interior of
+this Colony ; but from the general trending of these lines, as shown
+upon nautical charts, it would appear that as the distance from tlie
+coast increases the lines run more nearly north and south, until on
+the western boundary of the Colony a line of equal variation prob-
+ably bears N. 15 0 E.
+To illustrate the retrace of an old magnetic line a recent success-
+ful survey will be an instructive example. The surveyor had to
+re-mark a magnetic west boundary about 8 miles long, surveyed
+towards the close of the year 1827 by circumferentor in the neigh-
+bourhood of Dungog. He was accordingly instructed to start his
+trial line at the eastern extremity of the boundary on a true bear-
+ing 278° 51' 30", and was further informed that as he continued
+this line its bearing would gradually change to 278° 54' at the
+middle, and 278° 56' at the western end. These instructions having
+been carried out, the offset to the corner peg was found to be 1-79
+chains, showing an error of in the direction of the line,, which,
+considering the chances of error from inaccuracy of the needle of
+the circumferentor and from the daily variation of the needle itself,
+was a very satisfactory result.
+The instructions were based upon the following calculations :
+There being another line to be run in the locality, a mean point
+was selected upon the Colony map, and its distance from the pro-
+duction of the line from Cooma to Sydney was 43 miles by scale
+due west, hence the variation was 21' x or 16' less than at
+Sydney. Next by interpolation of the variations given in the
+article on “ Magnetic Deviation,” the variation at Sydney for the
+end of the year 1827 was fixed at 9 0 io', and the local variation at
+the time of the original survey was hence assumed to be 9 0 io' E.
+less 16' or 8° 54' E. This made the true bearing of the boundary
+to be 278° 54' at its middle point, and its bearing at either end was
+found by help of the convergence table, the odd half minute being
+thrown into the eastern end for convenience of the survey.
+Otherwise, the present variation at the middle of the line might
+have been found by observation, and the line run upon a magnetic
+29
+Convergence of Meridians.
+
+
+meridian 20' to the westward, corresponding to the increase of
+variation at Sydney between 1827 and 1876, the date of the re-
+survey, it being, in the absence of fuller information, necessary to
+assume that the yearly change of the variation in all parts of the
+Colony is the same as at Sydney. In this survey the variation at
+the eastern end was observed to be 9 0 17' E. This would give a
+variation of about g° 13' E. at the middle of the line, differing only
+i' from the variation as calculated from Sydney ; but as the needle
+used was not an approved standard, this can only be regarded as a
+fortunate coincidence confirming the general accuracy of the theory
+upon which the calculations were based. L. A. V.
+TAPE CHAIN.
+The question as to who first substituted the steel riband for the
+ordinary chain has often been asked, and in reply I may state that
+my attention was called to it by Mr. F. B. W. Woolrych, District
+Surveyor, in the year 1872, who showed me a length of crinoline
+steel, to which he had fitted the handles of a Surveyor’s chain.
+He stated that he had used it in the alignment of the streets of
+Randwick, and the results were not only far more reliable than tne
+ordinary chain, but the work progressed with greater speed.
+During the year 1873 the steel tape came into general use in this
+Department. P.F.A., 2 March, ’B3.
+In country where there are not many slopes steeper than one in
+five, or say 12 0 , and in measurements requiring great accuracy,
+such as detail work of the general survey, where numerous inter-
+mediate points are to be picked up along main traverse lines, the
+work can be done very expeditiously and with great precision by
+using a chaining level of the pattern, as shown in diagram, together
+with the elongated plummets.
+The level should be made of light wood not likely to crack, and
+consists of a board 4 feet long, by 2 inches deep, to the sides of
+which two other boards i| inch by \ inch, and also 4 feet in
+30
+Convergence of Meridians — Tape Chain.
+
+
+length, are screwed so that the upper edges project i an inch above
+the first board, thus making a groove or trough £ an inch deep.
+On one side of the above, and in the centre, is fixed an 8-inch,
+ordinary carpenter’s level, with sliding brass shutters to preserve
+the glass from breakage. The level should be so adjusted that
+when the bubble is in the centre of its run the groove is perfectly
+horizontal (see diagram). The width of the board, and conse-
+quently of the groove, depends upon that of the steel band used,
+for the groove should be at least a quarter of an inch wider, to
+allow of sufficient play. % The instrument can be neatly finished
+and varnished to preserve it from the weather, or painted in links
+and decimals of a link on one side, and feet and inches on the
+other for short offsetting, and need not weigh more than 2 lbs.
+The plummets should be 1 foot long, and of the shape shown
+in diagram.
+Three men are required in chaining, one at each end, and the
+assistant or third man at the centre to use the level. The surveyor
+in charge of the party can be best employed watching the measure-
+ment generally, especially at whichever end the plummet is being
+used. As soon as the front chainman is put in line, the man at
+the centre slips the level under the steel band so that the 50-link
+mark rests in the groove at the middle. By holding the level
+lightly in the centre with one hand he can ascertain which end of
+the measuring band requires to be raised or depressed, and signals
+accordingly ; he then raises his own hand with the level till he
+feels a slight pressure all along it, so as to get rid of the sag. A
+little practice will enable him to ascertain when his hand is perfectly
+level with each end, arid consequently the whole length of the band
+horizontal.
+The shape of the plummets enables the chainmen to plumb with
+far greater accuracy than with ordinary ones, as they can readily
+hold the handle of the band and the plumb line nearly as high as
+they can reach, and still watch the point of the plummet with ease.
+The most convenient band to use is one of Chesterman’s best steel,
+a quarter of an inch wide, divided to 1,000. As its weight is but
+lb, and it is always supported in the centre, only°very few
+pounds pull is sufficient to get it practically straight. The level
+eliminates sag, places the chain band horizontal, and keeps it from
+31
+Tape Chain.
+
+
+vibration, or any side swing in strong wind, so that the full length
+of 100 links can be safely used under circumstances that would
+be unadvisable without it. Although of course any plummets can
+be used with the level. I find such a very marked increase of
+accuracy is obtained by the employment of the long ones recom-
+mended, that I consider it indispensable that, at any rate, the hind
+chainman should always be supplied with one.
+D. M. M.,
+15th March, 1883.
+The following extract from a paper on the “ Survey of the City of
+Sydney” may be found interesting and perhaps instructive.
+Instructions are then issued to the detail surveyor who is supplied
+with a tracing, on which is given every information with regard to
+the bearings and lengths of lines adjacent to this section, reference-
+bearings, and the adjusted co-ordinates of the stations. These he
+accepts as accurate. The instructions require that one of the lines,,
+length of which is given, be re-chained carefully, in order that the
+standard of length used in the skeleton-survey may be adapted.
+The detail surveyor then makes a surround of his section, traversing
+also any by-ways which intersect it. The field notes are kept in
+ink in the field, and should any correction therein be required, the
+erroneous information is lightly crossed through, and the correction
+made above it. The different surrounds having been found to close
+within reasonable limits (say half a link in a surround of 80 chains),
+a perfect close is made by distribution of that error as the judgment
+of the surveyor may indicate.
+All permanent features are then fixed with reference to the
+traverse lines, preferably by actually observed bearings and distances
+from suitably placed instrument stations. Offsets of more than 5
+links are discountenanced (exception being made in the case of any
+ill-defined features or any dilapidated or worthless building. In
+addition to fixing the corners of buildings by bearings and distances
+a check thereon is obtained by taping the lengths of buildings
+themselves. In order to obtain accuracy arid independent values
+3 2
+Tape Chain.
+
+
+
+
+
+
+for the bearings of such objects the following method is adopted:—
+The theodolite is set to read the back bearing of the last traverse
+line, and with the instrument in that position the directions of the
+forward station and any other object to be fixed, are observed and
+entered in the field-book. These are then approximate bearings.
+Now with the instrument still clamped to the bearing of the last
+object observed, the telescope is brought on to the first station, and
+another round is taken and booked. The two rounds are thus
+completely independent of one another, and risk of clerical or other
+blunders is avoided. A third round is taken in case of differences
+appearing.
+BAROMETRIC MEASUREMENT OF HEIGHTS.
+The sum of the readings is to their difference as 55,000 feet to the
+difference in heights between the stations at which the readings
+were taken.
+TENSION OF STEEL RIBANDS.
+The amount of strain applied to a steel riband or flattened wire is
+an important factor in the length when the sectional area is small.
+The following simple formula gives the increase in length for a
+given tension:—
+1t x I
+28,000,000 s
+Where t is the tension in pounds, I the length, and s the sectional
+area in inches.
+Example:—Let t = 10 lbs., I = 66 feet, breadth £ inch,
+thickness = inch, then
+10 x 66 x 12
+Increase
+28,000,000 x *25 x *oi
+= 0'11314 inches.
+H. S. H
+The sectional area is most accurately found by dividing the
+length of the riband expressed in inches into the cubic content of
+the riband also in inches, which is obtained by a knowledge of its
+weight and the specific gravity of steel.
+Barometric Measurement of Heights—Tension of Steel Ribands.
+
+
+CHAINING WITH LONG STEEL RIBANDS.
+Description of Ribands.
+The ribands now used for chaining under the hypotenusal system
+of measurement are of steel, of uniform area in their transverse,
+and are to be had in sizes from *045 inch wide and *Ol5 inch thick
+upwards, or in weight from about *2 lb. per chain to I*s lb. per
+chain. Riband weighing ’3 lb. per chain, about *075 inch wide, is
+recommended where great accuracy is required.
+Ribands are elastic.
+These ribands are elastic, and if stretched by the application of
+any moderate tension return upon its removal to their original
+lengths. In practice, a tension sufficient to cause a permanent
+change in length is never required; hence frequent comparisons
+with a standard are unnecessary.
+Law of Elasticity.
+The elasticity varies slightly in different kinds of steel; but for
+practical purposes it may be accepted as constant. The change of
+length in any riband varies as the product of the tension and the
+length of the riband. In different ribands of the same length and
+material it varies inversely as the area of their transverse sections,
+or what is equivalent, as their weights.
+Coefficient of Elasticity.
+The change in a steel riband, 1 chain of which weighs 1 lb
+avoirdupois, is *00000779 c h a i n for each pound of tension applied
+and for each chain in its length.
+34
+Chaining with long Steel Ribands.
+
+
+Formula for Elasticity.
+Hence if I original length of riband, unit i chain,
+L stretched length,
+iv =. weight i chain of riband, unit I lb.,
+t = tension applied, unit I lb.,
+k •= "00000779 chain,
+then Z, :z: Z/ i -f —\ , ox L —I = —.
+\w J w
+From this formula the change for a riband of any given weight
+may tye computed.
+Effect of Heat upon Elasticity ignored.
+The effect of heat upon the elasticity of the steel ribands may
+practically be ignored.
+Spring Balance.
+The most convenient instrument at present existing for applying
+the tension is a Salter’s Spring Balance.
+Care in using.
+In applying the tension it is necessary to observe that the bar
+attached to the spring in the balance does not touch the sides of the
+slot through which it passes.
+Effect of Heat thereon.
+The effect of heat upon the spring balance is inconsiderable, and
+may in practice be invariably disregarded. It is approximately
+proportionately to the product of the tension and the temperature,
+and may be taken as -000135 lb. for each degree Fahrenheit and
+each pound avoirdupois.
+Tensions to be applied to Supported Riband.
+The tensions to be applied to the riband should be between 20
+and 45 lbs. for each pound weight in 1 chain of riband. A
+tension of 33J lbs. to each pound weight in 1 chain of riband is
+recommended, and a complete table has been computed with this
+35
+Chaining with long Steel Ribands.
+
+
+as a basis. The table is subjoined. For a riband *3 ib. weight per
+chain, such as was hereinbefore recommended, the tension would
+be 10 lbs., viz., 33! x *3.
+Standard Tension.
+The tension referred to is that to be applied when the riband is
+supported hroughout its entire length upon a smooth plane surface,
+and is hereinafter denominated the Standard Tension.
+Elimination of the Effect of Suspension.
+It frequently happens in practice, more especially in rugged
+country, that it becomes necessary to use the riband suspended.
+In such a case, either a correction must be made for the shorten-
+ing, through its curvature, of the distance between the ends of the
+riband, or the effect of this shortening must be eliminated by a
+sufficient increase of the tension.
+For the computation of this increased tension the following
+formulae are given :
+Formula when Ends are Horizontal.
+When the ends of the riband are in the same horizontal plane,—
+Let h tension to be applied,
+t =. standard tension,
+w weight of 1 chain of riband,
+then ft 3 tti 1
+24 k
+From this equation h may readily be found with the aid of a table
+of squares and cubes.
+Formulce when Ends are inclined to Horizon.
+When the ends of the riband are not in the same horizontal
+plane, —
+Let £ = angle between chord of riband and zenith,
+T' = tension to be applied at upper end,
+T = tension to be applied at lower end.
+T' + T
+T = ,
+2
+3 6
+Chaining with Long Steel Ribands.
+
+
+then t 3 - h* = p * 3Sin \
+24 k
+rp/ 1 Cos
+I=T + ,
+2
+rp CoS £
+Approximate Formulas when Ends are inclined to Horizon.
+The values for T' and T may also be found with sufficient accu-
+racy from the value of h by means of the following equations :
+T = t + {h -t) Sin C + l ™ Cos £,
+2
+T = t + (h -t) Sin C - lwCos C,
+2
+By means of the above formulae tables of tensions may be com-
+puted for use in the field. They may, however, be more rapidly
+constructed from subjoined tables I and 11.
+Formulas for Correction with Constant Tension.
+If it be preferred to apply a correction to the distance recorded on
+riband instead of increasing the tension, it may be found by the
+following formulae: —
+Let r = the correction,
+t the constant tension,
+C = angle between chord of riband and zenith,
+l 3 w*Sin*C
+then r + lw Cos 2, the upper sign in the denominator
+being taken when the tension is applied at the lower end of the
+riband, and the lower sign when the tension is applied at the upper
+end. When the ends are in the same horizontal plane, the equation
+becomes r =
+241 2
+37
+Chaining icith Long Steel Ribands.
+
+
+Reduction of Correction to Horizontal Value.
+This correction is in the direction of the chord of the ribands
+If it be reduced to its horizontal value, the equation becomes
+Pic 2 Sin 3 (
+24 (t+^j^y
+Expansion from Heat.
+The expansion of steel due to heat may be accepted as uniform
+between 32 0 and 212° Fahrenheit, and for the steel ribands used is
+about ‘OOll5 of its length for that variation of temperature. From
+this may be deduced the following simple and accurate formula: —
+Formula for Expansion.
+Let 2 d difference or temperature, unit i° Fahr.,
+I = length of riband, unit 1 chain,
+R correction in hundredths of links,
+, „ dl
+then R =. —.
+8
+Defect in Length Riband upon Uneven Surface.
+The friction upon ordinary ground of a light steel riband under
+mpderate tension may be neglected without appreciable error.
+When the surface is slightly uneven, and the riband lying in a suc-
+cession of little curves, a slight increase in tension will correct the
+defect in length. The amount may readily be determined by a few
+simple experiments, and in practice is applied according to the
+judgment of the surveyor.
+Five-chain Riband marked every 10 links convenient.
+A five-chain riband in one piece, marked at every 10 links, will
+be found exceedingly convenient in rugged country. The terminal
+marks should, in order to permit their accurate adjustment to any
+desired points, be 2 or 3 inches short of the ends of the riband.
+38
+Chaining with Long Steel Ribands.
+
+
+Attachment of Balance .
+The balance end should be as close as possible to the spring
+balance; or the balance may be so attached to the riband that its
+index point will define the end of the chain. The latter method
+has the advantage of indicating together the place to mark at and
+the tension.
+Noting to Hundredth Links.
+Steel ribands marked at hundredth links are now obtainable. By
+means of these, fractions of the chain may be recorded to almost
+any assigned degree of accuracy. For facility of computation, even
+chains should be laid out wherever possible.
+Record in Field Book.
+The record in the Field Book may be made thus.—
+500*00 (links) D 20 0 12' 15" F 72 = 469*357
+30
+22-ios >» E i° 30' oo" F 74 = 22-103
+30
+D signifies depression; E, elevation; F, Fahrenheit; the sub-
+scribed 30, the temperature of the riband when at standard length.
+Degree of Precision , Angles of Altitude.
+The degree of precision required in the observation of the angles of
+elevation and depression will depend upon the rapidity with which
+the cosine of the angle changes and the results required.
+Corrections , how applied.
+The tension correction given is applied irrespective of the cor-
+rection for temperature. The latter is computed subsequently and
+in conjunction with the reduction to horizontal value. The chord
+of the riband is observed for the angle required to effect this reduc-
+tion, the tensions given being those that make the chord of the
+riband equal in length under the increased tension to the riband
+itself at standard tension.
+39
+Chaining with Long Steel Ribands.
+
+
+Mending Ribands.
+The long ribands, though rarely broken by surveyors experienced
+in their use, suffer somewhat in the hands of novices; and after
+the nice adjustment of the marks denoting the ten-link distances,
+it is very desirable that the riband should be mended so as to pre-
+serve exactly its original length. The necessary materials formend-
+ing are bits of spare riband, very thin silver solder, fine iron binding
+wire, a blowpipe, a file, and borax. The parts to be united must
+be filed bright, as also a short length of the spare riband, which is
+then laid upon the riband at the break, with a thin strip of the
+solder and a little borax laid between, and the whole bound with
+the iron wire. The riband must be very firmly fastened on to a
+piece of wood on each side of the joint, so as to be immovable, and
+the soldering may then be effected by means of the blowpipe.
+After soldering the iron wire and fused borax may be removed by
+filing, and all sharp edges should be rounded off. The original
+length is thus preserved, the broken ends being made to meet
+exactly. To prevent breakage, care should be taken not to allow
+the riband to bend sharply round twigs, nor to run down a steep
+hill of its own accord, and thus become entangled.
+Subjoined are tables which enable the computation of tensions to
+be made expeditiously. Examples are also given of the use of the
+second table.
+G. H. K.
+40
+Chaining icith Long Steel Ribands.
+
+
+TABLE I.
+Table of Tensions to be applied to a wire riband, weighing one
+pound per chain, and standard length at a tension of lbs.
+c
+.-2-0 Angle of Chord of Riband from Horizontal Plane.
+6
+a
+|s
+MS 0 ° + io° - + 20° - + 30° - + 40° - + 50° - + 6o° -
+G)
+►J
+lbs. lbs. lbs.
+37-20 37-19 37-0;
+44-26 44-21 43-87
+51-49 51-43 50-9 i
+58-41 58-35 57
+4
+5
+6
+64-99 64-94 64-07
+71-26 71-22 70-1
+77‘ 2 5 77-23 76-02
+7
+8
+83-01 83-02 81-63
+1-5688-6087-04
+93'94 94-0092-27
+lbs. lbs. lbs. lbs. lbs. lbs. lbs. lbs
+(7-oi 36-67 36-62 36-12 36-10 35-46 35-51 34-7,
+•372 43'03 42-80 41-80 41-50 40-21 39-88 38-3
+10-71 49-69 49-36 47-86 47-40 45-47 44-88 42-5:
+57-46 56-09 55'75 53'75 53* 2 3 50-66 49-95 46
+'3"9° 62-19 61-87 59-37 58-87 55-67 54-92 51
+-0-05 68-00 67-74 64-74 64-30 60-45 59-74 55-15
+’5*95 73-55 73-39 69-89 69-65 65-15 64-42 59
+11-63 78-89 73-8374-83 74-61 69-47 68-97 62-8,
+17-11 84-04 84-0979-59 79-52 73-74 73-38 66-4!
+12-43 89-01 89-20 84-20 84-29 77-86 77-68 70-02
+lbs. lbs.
+34-89 34-03
+38-07 36-33
+41-98 39'33
+45-99 42-52
+50-07 45-73
+54-09 48-89
+58-0351-97
+6i-88 54-95
+65-64 57-85
+•32 60'66
+The standard tensions, and the tensions for the different lengths
+suspended for riband of any other iceight may be found by proper
+tion, or by multiplying the quantities in the table by the weight of
+one chain of the riband expressed as the fraction of a pound
+G. H. K.
+41
+Chaining icith Long Steel Ribands.
+
+
+TABLE 11.
+ffizv C
+Table of Value for r in the general equation - t 3 £t 2 - s> =o
+24 k
+Altitude t _ 2Q t _ 25 j t _ 30 t _ 35 t= 40 t _ 45
+Chains. lbs. lbs. lbs. lbs. lbs.
+i 27-22 30-68 34-50 38-59 42-91
+5 5875 60-97 63-34 65-84 68-50
+10 88-42 90-42 92-51 94-67 96-93
+Mt 3 i *" de t = 20. t = 25. t = 30. « = 35- t = 40.
+Chains. lbs. lbs. lbs. lbs. lbs.
+1 26-27 29-59 33-56 37-81 42-24
+5 54-18 56-46 58-90 61-51. 64-28
+10 Bro 6 83-10 85-23 87-46 89-77
+Note.—= 1 lb. ;k = -00000779 chain ;I = 1,5, and 10 ;C =
+t = 25. t = 30. t = 35. t = 40. « = 45.
+90° and 60
+This table may be used for interpolating the tensions with any
+standard tension from 20 to 45 lbs. for riband weighing 1 lb. per
+chain. For riband of any other weight both the supported and the
+suspended tensions will be proportionals, and may be found by
+multiplying the quantities in the table by the weight of one chain
+of riband expressed as a fraction of a pound. See examples
+following.
+The mode of using the table of the values of t, deduced from the
+l 2 w 3 Sin 2 C
+general equation r 3 - tr 2 —= 0, is illustrated by the two
+following examples:—
+Example 1. Required the tensions to be used for 1, 5> and 10
+chains suspended lengths of riband weighing 1*3837 lbs. per chain,
+42
+Chaining with Long Steel Ribands.
+
+
+the standard tension being 40 lbs, that is the tension at which the
+riband is standard length when supported.
+To find the tabular value of t. As 1*3837 is to Isois4o to the
+tabular value of t. That is 1 is the tabular standard tension
+I-3837
+= 28*908. By interpolation in arithmetical progression, which is
+sufficiently accurate, of the quantities in the table between t = 25
+and t = 30, the tabular tensions, t, for 1, 5 ? and 10 chains, are
+respectively 33*67, 62*82, and 92*05 lbs. That is to say, a riband
+weighing 1 lb. per chain would require these tensions for the sus-
+pended lengths mentioned if standard at 28*908 lbs. tension. A
+riband weighing; 1*3837 lbs, would require 1*3837 times these
+amounts ; multiplying therefore the four quantities enumerated,
+viz., 28*908, 33*67, 62*82, and 92*05, by 1*3837 gives t = 40,
+standard tension as above adopted; r = 46*59 lbs., the tension for
+1 chain suspended ;t' 86*92, the tension for 5 chains suspended;
+and r" 127*37, the tension for 10 chains suspended ; and these
+are the tensions which should be used with the riband in example
+of standard at a tension of 40 lbs.
+Example 2. Required the tensions for 1,5, and 10 chains sus-
+pended lengths of a riband weighing *2885 lbs. per chain, and when
+supported standard length at a tension of io lbs.
+To find tabular value of t. As *2885 is to 1, so is 10 to tabular
+value of t. That is ——- = tabular standard tension = 34*662.
+*2085
+Interpolating the values for t for 1,5, and 10 chains as in previous
+example, r = 38*31, r' = 65*67 and r" = 94*52. Multiplying
+these four quantities by *2885, the weight per chain of riband, gives
+10 lbs., the adopted standard tension, and 11*05, 18*95, and
+27*27 lbs., the tensions to be applied to suspended lengths 1,5,
+and 10 chains respectively.
+G. H. K.
+43
+Chaining with Long Steel Ribands.
+
+
+
+
+CONVERGENCE OF MERIDIANS.
+Table referred to in article at page 24, showing the correction to
+be applied to long traverses on account of the difference of
+Azimuth caused by change of Longitude.
+
+
+Departure of Traverse in Chains and Links.
+bC
+t-i
+<D
+c
+o
+o
+Latitude.
+29° | 30° 31° 32° 33° I 34° 35°
+12486
+16648
+208 "10
+249-73
+291 35
+332-97
+374-59
+416-21
+457*83
+499-45
+54i-o7
+582-69
+624-31
+665-93
+707-56
+749-18
+790-80
+832-42
+ngBg
+159-85
+199-81
+239*78
+27974
+31970
+359*66
+399 63
+439-59
+47955
+519-Si
+559*48
+599*44
+639-40
+679*36
+7i9*32
+759-29
+799-25
+115-22
+153*62
+192-03
+230-44
+268-84
+307*25
+345*65
+384-06
+422-46
+460-87
+499-28
+537-68
+576-09
+614-49
+65290
+691-31
+72971
+768-12
+11078
+14771
+18463
+221-56
+258-49
+29542
+332-34
+369-27
+406 20
+443-12
+480-05
+516-98
+553-9 I
+590-83
+627 76
+664-69
+701-61
+738-S4
+io6 - 6o
+142*13
+177-66
+213-20
+248-73
+284-26
+319*79
+355*33
+390*86
+42639
+461-92
+497-46
+532-99
+568-52
+604-05
+639*59
+675-12
+710-65
+102-64
+131-8+
+13686
+i64'80
+171-07
+197-76
+205-29
+23072
+239*50
+263-69
+296-65
+329-61
+362-57
+27372
+307 93
+342-15
+376-36
+410-58
+395*53
+428-49
+46r45
+44479
+479"°i
+494-41
+513-22
+54744 52777
+581-65 560-33
+615-87 593-29
+650-08 626-25
+684-30 659-21
+127-08
+158-85
+190-62
+222-40
+254-I7
+285-94
+31771
+34948
+381-25
+413-02
+444-79
+476-56
+508-33
+54010
+57187
+60365
+635 42
+29° j 30° | 31° 32°
+33° 34° 35° 36°
+k*
+6 “
+0J
+c £
+Latitude.
+46
+Convergence of Meridians,
+
+
+TRAVERSE TABLES,
+To be used in connection with that of Convergence of Meridians.
+
+
+
+
+
+
+
+
+* 19 Deg.
+16 Deg.
+Lat. 1
+Lat. Dep.
+Dep. [ Lat.
+Lat. Dep.
+72 Deg.
+51
+Difference of Latitude and Departure
+
+
+IO
+09-3
+036
+09*3
+037
+09*2
+03-9
+091
+04*1
+09*1
+04*2
+IO 1
+» 20
+187
+07*2
+*6*5
+07*5
+18*4
+07*8
+i8*3
+08*1
+18*1
+08*5
+20 I
+30
+2&X3
+io*8
+27*8
+11*2
+27-6
+xr*7
+27-4
+12*2
+27*2
+127
+30
+40
+373
+143
+37*i
+15-0
+36-8
+15*6
+363
+16*3
+36*3
+16*9
+40
+5o
+467
+17*9
+46*4
+x8-7.
+46*0
+193
+457
+20*3
+. 453
+21*1
+50
+60
+56*0
+21*5
+55*6
+22*5
+55*2
+23*4
+54-8
+24*4
+54-4
+25-4
+60
+70
+65-4
+25*1
+64*9
+26*2
+64-4
+27*4
+63-9
+28*5
+63-4
+29*6
+70
+80
+747
+287
+74*2
+30*0
+73*6
+313
+731
+325
+72-5
+338
+80
+90
+84-0
+323
+83-4
+337
+82*8
+35‘2
+82*2
+366
+81 *6
+38 0
+90
+100
+93’4
+35*8
+927
+37*5
+92*1
+39’i
+91*4
+407
+90*6
+423
+IOO
+200
+1867
+717
+185-4
+74‘9
+164*1
+78*1
+182*7
+81 *3
+181*3
+84-5
+200
+300
+280*1
+1073
+278*2
+112*4
+276*2
+117*2
+274*1
+122*0
+271*9
+126*8
+300
+400
+373*4
+1433
+37o-9
+149*8
+368*2
+1563
+365-4
+1627
+362*5 .
+169*0
+400
+500
+466*8
+179*2
+463*6
+1873
+460*3
+I95-4
+4568
+203*4
+4532
+211 3
+500 '
+600 !
+1 560*1
+215*0
+5563
+224*8
+5523
+234-4
+548*1
+244*0
+543-8
+2536
+600
+7°°
+i 6S3-5
+250*9
+649-0
+262*2
+644-4
+273-5
+6393
+284*7
+634-4
+295*8
+700
+800
+1746-9
+286*7
+7417
+2997
+736-4
+312*6
+730-8
+325-4
+725*0
+338-1
+800
+9°°
+! 840*2
+322*5
+834*5
+337-1
+828*5
+3517
+822*2
+366*1
+8157
+380-4
+900
+Dep.
+Lat.
+Dep.
+Lat
+Dep.
+| Lat.
+Dep.
+Lat. I
+I D ep.
+1 Lat.
+ts>
+D.
+D.
+69 Deg.
+68 Deg.
+67 Deg.
+66 Deg.
+65 Deg.
+25 Deg.
+Lat.
+Lat. ( Dep.
+5 2
+Difference of Latitude and Departure,
+
+
+Difference of Latitude and Departure.
+53
+D.
+26 Deg.
+27 Deg.
+28 Deg.
+29 Deg.
+30 Deg.
+D.
+Lat. } Dep.
+Lat. ,
+Dep.
+Lat.
+Dep.
+Lat.
+Dep.
+Lat.
+Dep.
+i
+00-g
+00-4
+00-9
+00-5
+00-9
+00-5
+00-9
+00-5
+00-9
+00-5
+1
+2
+018
+00-9
+oi-8
+00-9
+oi-8
+00-9
+017
+oi-o
+017
+01-o
+2
+3
+027
+01-3
+027
+01-4
+026
+01-4
+026
+ox -5
+026
+ox-5
+3
+4
+03-6
+01 8
+036
+oi - 8
+03-5
+01-9
+03"5
+01-9
+03-5
+02-0
+4
+5
+04'5
+02*2
+o4'5
+02-3
+04-4
+02-3
+04*4
+02 4
+04-3
+02-5
+5
+6
+o5‘4
+026
+053
+02-7
+05-3
+02-8
+05-2
+02-9
+05-2
+03-0
+6
+7
+063
+031
+06-2
+03-2
+o6"2
+03-3
+061
+03-4
+061
+OS'S
+7
+8
+07-2
+03-5-
+07-1
+036
+07-1
+03-8
+07-0
+039
+069
+O4-O
+8
+9
+081
+039
+08-0
+04-1
+07-9
+04-2
+07-9
+04-4
+07-8
+04-5
+9
+IO
+090
+04-4
+08-9
+04-5
+08-8
+04-7
+087
+04-8
+087
+05 0
+10
+20
+i8 - o
+08-8
+.7-8
+09-1
+177
+09-4
+17-5
+09-7
+17-3
+I0‘0
+20
+30
+270
+13-2
+267
+13-6
+26-5
+141
+26-2
+x 4‘5
+260
+150
+30
+40
+36 - o
+I7-5
+35'6
+18*2
+35-3
+188
+35-o
+19-4
+346
+20‘0
+40
+So
+44'9
+21-9
+44-6
+227
+44-1
+23-5
+437
+24-2
+43’3
+250
+50
+6o
+53-9
+26-3
+53‘5
+27-2
+S3-o
+282
+525
+291
+52-0
+30*0
+60
+7o
+62 9
+30-7
+62-4
+3x8
+6i-8
+32-9
+6i-2
+339
+6o-6
+350
+7o
+8o
+7 J "9
+35i
+713
+36-3
+70-6
+37-6
+700
+38-8
+69-3
+40-0
+80
+9°
+80-9
+39"5
+80*2
+40-9
+79-5
+42-3
+78-7
+43-6
+77'9
+45-o
+9°
+xoo
+89-9
+43"8
+89-1
+45’4
+88-3 ,
+46-9
+87-5
+48-5
+86-6
+500
+100
+200
+179-8
+877
+178-2
+90-8
+1766
+93'9
+I74-9
+97-o
+173-2
+100-0
+200
+300
+2696
+1313
+267-3
+136-2
+264-9
+140-8
+262-4
+145 4
+259-8
+150-0
+300
+400
+359'5
+1753
+356-4
+181-6
+3532
+187-8
+349-8
+193-9
+346-4
+200-0
+400
+500
+449'4
+219-2
+445'5
+227-0
+441-5
+2347
+437'3
+243-4
+433-o
+250-0
+500
+600
+5393
+263-0
+534-6
+2724
+5298
+2817
+524-8
+2909
+519-6
+300-0
+600
+700
+629-2
+306-9
+6237
+317-8
+6181
+328-6
+6X2-2
+339-4
+606-2
+350 0
+700
+800
+7190
+3507
+712-8
+363-2
+706-4
+1 3756
+6997
+3878
+692-8
+400-0
+800
+900
+808-9
+394"5
+801-9
+408-6
+794-7
+422-5
+787-2
+436-3
+779-4
+450-0
+900
+D.
+Dep.
+| Lat.
+Dep.
+Lat.
+Dep.
+| Lat.
+Dep. | Lat.
+| Dep.
+Lat.
+D.
+64 Deg.
+63 Deg.
+62 Deg.
+61 Deg.
+| 60 Deg.
+y
+
+
+Difference of Latitude and Departure .
+31 Deg. 32 Deg. 33 Deg. 34 Deg. 35 Deg.
+Lat. Dep. Lat. Dep. Lat. Dep. Lat Dep. Lat. Dep.
+00-g oo - 5 oo'B oo‘s 00 - 8 003 oo*B 00 - 6 00 - 8 00 - 6
+ox 7 oi*o 017 oi*i 017 01 "i 017 01-i ox-6 ox-x
+g 2 -6 01 - 5 023 ox-6 02-5 or 6 02*5 017 02-5 017
+03-4 02*1 03-4 02*1 03-4 02*2 03-3 02-2 03-3 02'3
+043 02 - 6 04-2 02 - 6 04-2 [ 027 04*1 02*8 04-1 02’9
+05-1 03-1 05-1 G 3 05-0 j 03-3 05-0 03-4 04-9 03-4
+o6'o 03-6 05-9 037 05-9 03-8 05-8 03-9 057 04-0
+06‘9 041 06 - 8 04-2 067 04-4 05 - 6 04-5 06'6 04-6
+077 04-6 07-6 o4'B 07-5 04-9 07-5 05-0 07-4 05-2
+08 - 6 05-2 083 053 08-4 05-4 083 05-6 oB‘2 057
+17*1 103 17-0 xo-6 i 6 -8 xo‘9 x6'6 irz 16-4 113
+257 is's 25-4 15’9 25-2 j 163 24-9 i6'B 24-6 17-2
+343 20-6 33-9 2i-2 333 | 21-8 332 22-4 32-8 22-9
+42-9 25-8 42-4 263 41 - 9 27 ‘2 413 |2B 0 41*0 287
+51-4 30-9 50-9 31’8 503 327 49 7 i 33'6 49" 1 344
+60-o 36-1 59-4 37‘i 587 38-i 58-0 \ 39'i 573 40-2
+68-6 41-2 67 8 I 42 - 4 67-1 43-6 663 ' 447 653 j 45‘9
+77-1 46-4 763 477 753 49"° 74’6 | 503 737 j si’6
+857 513 84-8 53’° 83-9 j 543 82-9 | 55-9 81-9 57 4
+171-4 103-0 169-6 | xo6-o 1677 1108-9 165-8 ; ixx-8 163-8 1147
+257-2 1543 254-4 j 159-0 251-6 ; 163-4 2487 1167-8 2457 i?2-i
+342-9 206*0 339-2; 2X2-0 3353 ; 217-9 33 1 -6 1 2237 3277 229-4
+428-6 2573 424-0 i 265-0 4193 j 2723 4x43 1279-6 409 6 286-8
+514-3 309-0 508-8 j 318-0 503-2 1326-8 497-4 ; 335 5 49 1 3 344" i
+600-o 3603 593’6 13703 587-1 1381-2 5803 1391 -4 573-4 4013
+685-7 4i2-o 678-4 j 423-9 670-9 j 435-7 663-2 447-4 6553 458-9
+7713 4633 763-2 j 4763 754-8 | 490-2 746-1 J 5033 737 2 5x6-2
+Dep. | Lat. Dep. | Lat. Dep. | Lat. Dep. | Lat. Dep. | Lat.
+59 Deg. 58 Deg. 57 Deg. 56 Deg. 55 Deg.
+54
+
+
+36 Deg.
+38 Deg.
+39 Deg.
+Lat. I Dep.
+Lat. j Dep.
+Dep. j
+Lat. Dep.
+| Lat.
+] Lat.
+Dep. |
+Lat. Dep.
+Deg. 51
+50 Deg.
+55
+Difference of Latitude and Departure,
+
+
+42 Deg.
+Deg. 44
+45 Deg.
+
+
+TABLES
+FOR CONVERTING
+FEET AND INCHES INTO LINKS,
+LINKS INTO FEET AND INCHES,
+LINKS INTO FEET.
+
+
+58
+Table for Converting Feet and Inches into Links.
+FEET AND INCHES
+INTO LINKS.
+Feet.
+Links.
+Feet.
+Links.
+Feet.
+Links.
+Feet.
+Links.
+1
+I-SI52
+34
+5I-5I52
+67
+101*5152
+100
+151-5152
+2
+3-0303
+35
+53-0303
+68
+103*0303
+200
+303-0303
+3
+4-5455
+36
+54-5455
+69
+I04-5455
+800
+454-5455
+; 4
+-6*0606
+37
+56*0606
+70
+106*0606
+400
+606*0606
+i 5
+7-5758
+38
+57-5758
+71
+107-5758
+500
+7S7-5758
+6
+■ q'oqoq
+39
+59-0909
+72
+109*0909
+600
+909*0909
+7
+10*6061
+40
+606061
+73
+iio*6o6i
+700
+1060*6061
+8
+12*1212
+41
+62*1212
+74
+112*1212
+800
+1212*1212
+9
+136364
+42
+63*6364
+75
+113*6364
+900
+I363-6364
+10
+151515
+43
+65-1515
+76
+II5-I5I5
+1000
+I5I5-I5I5
+11
+16 6667
+44
+77
+Il6*6667
+12
+18*1818
+45
+68*1818
+78
+Il8l8l8
+13
+19 6970
+46
+69*6970
+79
+II9697O
+14
+1 21*2121
+47
+71*2121
+80
+121*2121
+15
+1 227273 »
+48
+727273
+81
+1227273
+Inches
+Links.
+16
+24*2424
+49
+74*2424
+82
+124*2424
+17
+257576
+50
+757576
+83
+1257576
+0*1263
+18
+27*2727
+51
+77*2727
+84
+127*2727
+1
+19
+287879
+62
+787879
+85
+I287879
+2
+0*2525
+20
+21
+30-3030
+31*8182
+53
+54
+80*3030 3
+81*8182
+86
+87
+I30*3030
+131 8l82
+3
+0*3788
+22
+33-3333
+55
+833333
+88
+I333333
+4
+0*5051
+23
+34-8485
+56
+84^8485
+89
+I34-8485
+5
+0*6313
+24
+363636
+57
+86*3636
+90
+I36 3636
+25
+37-8788
+58
+87*8788
+91
+137*8788
+6
+07576
+26
+39-3939
+59
+893939
+92
+139 3939
+7
+0*8838
+27
+40*9091
+60
+90*9091
+93
+140*9091
+g
+roiox
+28
+42*4242
+61
+92*4242
+94
+142*4242
+1*1364
+29
+43-9394
+62
+93-9394
+95
+I43-9394
+9
+30
+45-4545
+63
+95-4545
+96
+i45-4'545
+10
+1*2626
+31
+46*9697
+64
+96*9697
+97
+146*9697
+11
+1*3869
+32
+48*4848
+65
+98*4848
+98
+148*4848
+33
+50*0000
+66
+100*0000
+99
+150*0000
+12
+1-5152
+
+
+•
+p ' Table for Converting Links into Feet and Inches.
+5'
+9
+LINKS INTO
+FEET AND INCHES.
+Links.
+Ft.
+In.
+Links.
+Ft.
+In.
+Links.
+Ft,
+In.
+Links.
+Feet.
+1
+0
+7-92
+34
+22
+5-28
+67
+44
+2-64
+100
+66
+2
+I
+3-84
+35
+23
+1-20
+68
+44
+10-56
+200
+132
+3
+I
+1176
+36
+23
+9-12
+69
+45
+6-48
+300
+198
+4
+2
+7-68
+37
+24
+5‘°4
+70
+46
+2-40
+400
+264
+5
+3
+360
+38
+25
+0-96
+71
+46
+10-32
+600
+330
+6
+3
+11'52
+39
+25
+8-88
+72
+47
+6-24
+600
+396
+7
+4
+7‘44
+40
+26
+480
+73
+48
+2 - i6
+700
+462
+8
+5
+3-36
+41
+27
+0-72
+74
+48
+10-08
+800
+528
+9
+5
+11-28
+42
+27
+8-64
+75
+49
+6-oo
+900
+594
+10
+6
+7'20
+43
+28
+456
+76
+5°
+1-92
+1000
+660
+H
+44
+20
+0-48
+77
+g*84
+12
+/
+7
+O
+11*04
+45
+29
+8-40
+78
+51
+576
+13
+8
+6-96
+46
+30
+432
+79
+52
+i-68
+14
+9
+2-88
+47
+31
+0-24
+80
+52
+9-60
+15
+9
+io'8o
+48
+31
+8-i6
+81
+S3
+5-52
+16
+IO
+6 72
+49
+32
+4 08
+82
+54
+1-44
+17
+ii
+2-64
+50
+33
+0-00
+83
+54
+9’36
+18
+ii
+10-56
+51
+33
+792
+84
+55
+5-28
+Links.
+Inches.
+19
+12
+648
+52
+34
+384
+85
+56
+1-20
+20
+13
+2-40
+53
+34
+1176
+86
+56
+9-12
+21
+13
+10-32
+54
+35
+768
+87
+57
+5"°4
+0‘1
+0-792
+22
+14
+6-24
+55
+36
+360
+88
+58
+0-96
+0'2
+1384
+23
+15
+2"l6
+56
+36
+11-52
+89
+58
+8-88
+0'3
+2*976
+24
+15
+1008
+57
+37
+744
+90
+59
+4-80
+25
+16
+600
+58
+38
+336
+91
+60
+072
+0'4
+3-168
+26
+17
+I 92
+59
+38
+11-28
+92
+60
+8-64
+0’5
+3-960
+27
+17
+9-84
+60
+39
+7 "20
+93
+61
+4’SO
+28
+18
+576
+61
+40
+312
+94
+62
+0-48
+0*6
+4752
+29
+19
+i-68
+62
+40
+11-04
+95
+62
+8-40
+0’7
+5-544
+30
+19
+960
+63
+4i
+6-96
+96
+63
+432
+OO
+b
+6-336
+31
+20
+5-52
+64
+42
+2-88
+97
+64
+024
+32
+21
+1-44
+65
+42.
+io-8o
+98
+64
+8-i6
+0‘9
+7-128
+33
+21
+9-36
+66
+43
+672
+99
+65
+4’o8
+1*0
+7-920
+
+
+6o
+Table for Converting Links into Feet .
+LINKS INTO FEET.
+Links.
+j Feet,
+Links,
+Feet.
+Links.
+Feet.
+Links.
+Feet.
+1
+o-66
+26
+17-16
+51
+3366
+76
+50-16
+2
+i 32
+27
+17-82
+52
+34-32
+77
+50-82
+3
+1-98
+28
+18-48
+53
+34-98
+78
+Si-48
+4
+2-64
+29
+19-14
+54
+35-64
+79
+52-14
+5
+3'30
+30
+19 80
+55
+36-30
+80
+52-80
+6
+3-96
+31
+20-46
+56
+36-96
+81
+53-46
+7
+4-62
+32
+21-12
+57
+37-62
+82
+54-12
+8
+528
+33
+2178
+58
+38-28
+83
+5478
+9
+5'94
+34
+22-44
+59
+38-94
+84
+55-44
+10
+6"6o
+35
+23-IO
+60
+39-6o
+85
+56-10
+11
+7-26
+36
+23 76
+61
+40-26
+86
+56-76
+12
+7-92
+37
+2442
+62
+40-92
+87
+57-42
+13
+858
+38
+25-08
+63
+4I-53
+88
+58-08
+14
+924
+39
+2 5-74
+64
+42-24
+89
+5874
+15
+9'9°
+40
+26-40
+65
+42-90
+90
+59-4o
+16
+10-56
+41
+27-06
+66
+43-56
+91
+60-06
+17
+11*22
+42
+2772
+67
+44-22
+92
+6072
+18
+ii-88
+43
+2838
+68
+44-88
+93
+61-38
+19
+12 '54
+44
+29-04
+69
+45-54
+94
+62-04
+20
+I3'20
+45
+2970
+70
+46-20
+95
+6270
+21
+I3‘86
+46
+3036
+71
+4686
+96
+63-36
+22
+I4-5 2
+47
+31-02
+72
+47-52
+97
+64-02
+23
+15-18
+48
+31-68
+73
+48-18
+98
+64-68
+24
+15-84
+49
+32-34
+74
+48-84
+99
+6574
+25
+16-50
+50
+33-oo
+75
+49'So
+100
+66-oo
+
+
+UNITS OF ANGLE, PERPENDICULAR AND
+DISTANCE.
+subtending One Minute of Arc.
+Perpendiculars
+Distance or Eadius.
+Perpendicular.
+Exact.
+Approx.
+Approx.
+Exact.
+chains
+chains
+4*3406
+1 inch
+I link
+I foot
+286*48
+2268*91
+3T377S
+52*0871
+I*oo
+•0291 link
+•0291 foot
+2.3271 links
+18*4307 inches
+•03 link
+•03 foot
+£ links
+Bo*oo
+inches
+Perpendiculars
+subtending One
+Second
+Perpendicular.
+Distance or Radius.
+Exact. Approx. Approx.
+miles
+chains
+260*44
+2062*65
+3125*22
+1 inch
+I link
+1 foot
+•004848 link
+*058178 inch
+•038785 lint
+•307178 inch
+•005 link
+•06 inch
+*O4 link
+•3 inch
+10*00
+80*00
+* This is readily remembered by the alliterative approximation, on*
+foot at forty miles.
+61
+Units of Angle.
+
+
+Units of Perpendicular and
+Distance.
+Angles subtended by
+one inch one foot one link
+/ // / // / //
+lain 4. 20-4 52. 5'3 34. 227
+hains o. 26*0 5. 12*5 3. 26*3
+eet 2. 51*9 34. 227 22. 41*3
+eet o. 17*1887 3. 26*2648 2. 16*1
+hie o. 3*2554 o. 39*0653 o. 25*8
+L sin V = log *0002938882 + 10 = 6*4637261
+L sin 1" = log *0000048481368.... + 10 = 4*6855749
+I chain
+10 chains
+100 feet
+1,000 feet
+1 mile
+ADJUSTABLE CHAIN HANDLE.
+Moving the nut A a quarter of a revolution, that is, the distance
+between two of its holes, alters the length 1/100 of an inch, as the
+screw Cis 25 threads to an inch. The pin D prevents the nut A
+shifting until the clamping nut is unscrewed. A small piece of
+steel working in slot cut the length of the screw obviates any lateral
+movement. EE are screw eyelets for attaching a spring balance
+when required.
+62
+Units of Angle.
+
+
+
+
+
+
+Marking of Stations in loose sandy Soil—Method of mending
+Wire Chains in the Field.
+MARKING OF STATIONS IN LOOSE SANDY SOIL.
+As circumstances may arise in which it is required to place a
+permanent mark in a loose sandy soil, where the ordinary post or
+peg on the surface is liable to fall out of position owing to the
+unstable nature of its foundation, it may be useful to surveyors to
+know the practice of the Survey Department of Victoria in such a
+case. The practice there is to bore, by means of a bolt, crow-bar,
+or spud, a hole to some depth in the sand below the place of the
+post or peg, and to fill the hole with a thin mixture of cement and
+sand, placing the post on top in the ordinary way. Thus, should
+the post or peg be displaced, its position is recoverable, and it may
+be re-established in its original situation.
+METHOD OF MENDING WIRE CHAINS IN THE
+FIELD.
+Described by A.1.L., 2nd June , 1886.
+Brighten about half an inch of each of the broken ends with a file,
+emery paper, knife-blade, or even a stone, and do the same with a
+piece of spare wire an inch long similar to that composing the
+chain. Rub the wire thus cleaned with a piece of sal-ammoniac
+slightly moistened. Around the short piece of spare wire wrap
+about four thicknesses of tinfoil, and place this against the chain
+to be mended, at the broken part, taking care that the ends are
+brought together so that the original length of the chain is not
+interfered with. The heat of the flame of a match or small fire-
+stick is then sufficient to effect a moderately strong joint which will
+with care last for months. Take note that no corner of the wire
+projects in such a way as to catch in scrub. A good tinfoil to use
+is that in which the “ Old Judge” tobacco is commonly wrapped.
+8c 136—8(5
+
+
+
+
+
+
+
+
+
+
+
+
+Section of Bar
+
+
+
+
+Diagram of Bead Reflector & Clip
+The above diagram represents a head reflector, for illuminating the wires
+\of a Theodolite, with clip for holding same. This simple contrivance does
+way with the necessity of having the axis of the telescope bored, for, with ao
+> ordinary lantern m almost any position, the light can be adjusted to illuminate
+'the wires so that the smaller magnitude stars can be observed easily.
+A supply of these reflectors and dips has been received and will be
+Supplied to any Surveyor employed by the Department on receipt of application
+inclosing 4/e. for each one required
+sth5 th Oct r 'B3
+
+
+/u/ 1 on o/" tri<xn? r l&f
+Given AC . L a-b ~~ b r
+’• A .Id m c. . Q-i-Qzt&v A +c -
+O-fso <*, - J> -♦- c -2. Jc e«rtf A f ivK f 5 =? " 5 ’
+_ i J - c^f^q
+cx.L.A sine B=
+if 1 -C | there are 2 values Ar B
+•• ol B mush he excite .-. one Kjue
+A I - 3o
+Ca-
+> I A does not
+Z \
+cx i \ / / ‘
+. i- ■ V -
+/4 -~ - X _ _ -
+_jL on base = ,p cx A
+also c zzljcosA t. A
+cl Iso e ~b ca>3 A*tva & 3***?' A
+if cl < ts*Jij4 c l's mpossthle
+a. e
+.. c •■•*«
+.. O. ZiW A (ttrfwre C-
+ol s U r\ iriwr c caw
+s wm^~7n
+Znwiiariy «. f~ cw A- K v~* e -1/
+
+
+Diagram shewing Plumb Level For preserving horizontally
+of chain or other rough levelling.
+Plumb Level
+( Full Size )
+
+
+, ' r
+,
+■f>! (J & vVaSV y 4eV;:
+' -r ' , ' ;: i ■■■'. i.i
+'
+. - v,-.,, ■ v■ * iifw t WMh??wB
+■ ' ;.'■■*• :V>-
+- 1 :;
+-; v„»s sj / i> 'ifi; ~ Mvfewiil' « wsw-iii issw
+■ w < t 1 ~, n,li fv®V* ''VW
+'v', ;-. '■

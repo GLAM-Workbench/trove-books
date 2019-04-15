@@ -1,0 +1,2881 @@
+
+
+1954-55.
+THE PARLIAMENT OF THE COMMONWEALTH OF AUSTRALIA.
+REPORT
+OF THE
+COMMONWEALTH COMMITTEE ON RATES OF
+DEPRECIATION.
+Presented by Command, Ith June, 1955; ordered to be printed, 9th June, 1955.
+[Cost of Paper. —Preparation, not given; 880 copies; approximate cost of printing and publishing, £loo.]
+Printed for the Government of the Commonwealth by A. J. Arthur at the
+Government Printing Office, Canberra.
+(Printed In Australia.)
+No. 83 [Group 8].—F.3061/55.—Prior Is. 6d.
+
+
+COMMONWEALTH COMMITTEE ON RATES OF DEPRECIATION.
+A. S. Hulme, M.P., F.C.A. (Aust.) (Chairman).
+F. E. Hitchins, C.B.E.
+S. B. Holder, 0.8. E., F.C.A. (Aust.).
+B. R. Orr, F.I.C.S.
+A. M. Simpson, B.Sc., A.U.A.
+R. R. Gray, Secretary.
+
+
+CONTENTS.
+Subject. Paragraphs.
+Introduction .. .. .. .. .. .. .. .. .. .. 1-7
+General Considerations .. .. .. .. .. .. .. .. .. 3-6
+Representations Outside Terms of Reference.. .. .. .. .. .. .. 7
+The Present Depreciation Provisions . . . , .. .. . . . . .. .. 8-15
+Term of Reference No. I—Present1 —Present Rates of Depreciation .. .. .. .. .. .. 16-21
+Term of Reference No. 2 . . . . . . . . .. .. .. ■. .. 22- 40
+Proposed Increase in Diminishing Value Rates .. .. .. .. .. .. 22-29
+Option to Change Method of Depreciation . . . . .. .. .. . . .. 30
+Additional Methods of Depreciation .. .. .. .. .. .. .. 31
+Balancing Adjustments .. .. .. .. .. .. .. .. .. 32- 40
+Term of Reference No. 3—Obsolescence Factor .. .. .. .. .. .. .. 41- 55
+Term of Reference No. 4 —Overall Rates of Depreciation . . .. .. .. .. .. 56- 62
+Term of Reference No. 5 .. .. .. .. .. .. .. .. .. 63-155
+Buildings — .. ~ .. .. .. .. .. .. .. 68-134
+Previous History .. .. .. .. .. .. .. .. 69- 71
+Present Considerations .. .. .. .. .. .. .. .. 72- 80
+Possible Bases for Allowance .. .. .. .. .. .. .. .. 81- 97
+Basis Recommended .. .. .. .. .. .. ■. ■. .. 98- 99
+Outline of Proposed Plan .. .. .. .. .. • • • ■ .. 100
+Application .. .. .. .. .. .. .. • • •. .. 101-103
+Basis .. .. .. .. .. .. .. .. .. .. 104—115
+Purchase at less than Depreciated Value .. .. .. .. .. .. 116-117
+Notional Depreciation .. .. . • • • • • .. 118-120
+Alterations and Additions .. .. .. .. • • • • ' • • .. 121-122
+Rates of Depreciation .. .. . • • • • • • • • • •. 123-128
+Balancing Adjustments .. .. . • • • ■ • • • • • .. 129-134
+Wasting Assets — .. .. .. . • • • • • • • .. 135-155
+Patent Rights and Similar Intangible Assets .. .. .. .. .. .. 136-148
+Quarries, Claypits, &o. .. .. . • • • ■ ■ • ■ ■ • .. 149-151
+Buildings and Roads used in the Timber Industry . . .. . . . . .. 152-155
+Summary of Conclusions and Recommendations .. .. • ■ .. .. .. 156
+Schedule of Average Building Costs .. .. . • • • • • • ■ ■ • .. Appendix
+F.3061/55. —2
+
+
+
+
+COMMONWEALTH COMMITTEE ON RATES OF
+DEPRECIATION.
+To the Rt. Hon. Sir Arthur Padden, K.C.M.G., M.P., Treasurer of the Commonwealth of Australia.
+The Committee appointed by you to examine certain aspects of the depreciation allowances for
+Commonwealth income tax purposes has completed its inquiries and presents its report.
+INTRODUCTION.
+1. Following the announcement in your Budget Speech delivered on 18th August, 1954, that a special
+committee would be set up to inquire into the income tax depreciation allowances, we were appointed on
+21st September, 1954, with the following terms of reference:—
+“ To inquire into and report upon—
+(1) whether the effective lives of units of property as estimated by the Commissioner of
+Taxation as required by section 55 (1.) of the Income Tax and Social Services
+Contribution Assessment Act 1936-1953 are fair and reasonable;
+(2) whether the bases of depreciation provided by the said Act ensure that the cost of each
+unit of property is deducted in a reasonable manner over the effective life of that unit;
+(3) whether it is practicable and desirable, in determining annual rates of depreciation, to
+take into account possible obsolescence of a unit of property before the effective useful
+life of that unit is completed;
+(4) whether it would he desirable to provide, by way of an amendment of the law, for an
+option whereby the taxpayer might claim depreciation at a standard rate per annum on
+all units of property in respect of which depreciation is allowable to him, and, if so,
+what rate should be specified as the maximum standard rate of depreciation; and
+(5) whether it would be desirable to extend deductions for depreciation to any classes of
+assets not subject to such allowances under the present law.”
+2. After an initial meeting in Canberra on 11th October, 1954, we issued through the Press a
+statement of our terms of reference and a general invitation to interested persons and organizations to
+make written submissions to us. We also sent a special letter to 46 associations which we thought would
+have a particular interest in our inquiries. In response to our invitations, we received more than 100
+submissions from all States of the Commonwealth and representing a wide range of Australian commercial
+and industrial activity. In addition to written submissions, we invited personal appearances and held
+meetings in Sydney,. Melbourne, Brisbane, Adelaide, Perth and Canberra.
+General Considerations.
+3. From the submissions made to us, it is apparent that the industrial structure of Australia has
+altered considerably over recent years, particularly since World War 11. The secondary industries have
+expanded and have advanced into new spheres. There have been major advances also in the field of
+technological development and many industries have reached a high degree of mechanization. Moreover,
+many industries have come into increasing competition with their counterparts overseas, both on the home
+as well as the export markets. Because labour costs in Australia are relatively high as compared with many
+of the competing countries, this factor in particular has brought about a constant and pressing need for
+greater output and economy of processes.
+4. Inevitably, these changes have led to a need for faster turnover of plant. Not only is this
+necessary to keep abreast of technological changes, but there is also a growing awareness of the loss of
+efficiency which comes from the retention of plant to and beyond the point where heavy maintenance is
+needed to keep it in production.
+5. The greatly increased costs in recent years and the need to keep plant constantly up to date, have
+given rise to difficulties of finance throughout all sections of industry.
+6. These changes in industrial and economic conditions emphasize the need for a review of the
+depreciation allowances.
+
+
+Representations Outside Our Terms of Reference.
+7. Tiie following questions were raised with us, but as they were outside our terms of reference we
+have not discussed them in our report: —
+(а) An allowance by way of depreciation to provide for the estimated cost of replacement of
+an asset, as against the present basis of depreciation calculated on the original cost of the
+asset.
+(б) Special initial depreciation.
+(c) Investment allowance on new plant, similar to that allowed in the United Kingdom.
+(d) Matters relating to section 57aa of the Act —
+(i) Continuance of the present 20 per cent, depreciation allowance for primary
+producers.
+(ii) Granting of an option to take the ordinary rates of depreciation in lieu of the
+special 20 per cent. rate.
+(iii) Increase of the limit of £2,000 allowable in relation to accommodation for employees.
+(e) Extension to other industries of an allowance similar to that provided for primary producers
+in section 57aa of the Act.
+(/) Special allowances for depreciable assets in remote areas.
+( g) Depletion allowance for quarries, claypits, &e.
+Proposals for allowances under (a), (&) and (c) were put to us as partial remedies for what is commonly
+termed “ capital erosion ”, which it was submitted is a major concern of industry at the present time.
+THE PRESENT DEPRECIATION PROVISIONS.
+8. The provisions governing the present depreciation allowances are contained in sections 54 to 62 of
+the Income Tax and Social Services Contribution Assessment Act. Substantially, these provisions have
+remained unchanged for many years.
+9. The classes of assets in respect of which depreciation is allowable are defined in section 54.
+Broadly, these comprise—
+(a) machinery and equipment;
+(5) certain fixtures and fittings provided as amenities for employees; and
+(c) in the case of primary producers—fences, dams and other structural improvements.
+10. The rate of depreciation allowable on each asset is determined by the Commissioner of Taxation
+on the basis of the estimated effective life of the asset, assuming it is maintained in reasonably good order
+and condition, and an annual percentage allowance is fixed accordingly (section 55 (1.)). Thus, the annual
+rate of depreciation on an asset with an estimated life of five years is 20 per cent.
+11. A list of the standard rates of depreciation determined by the Commissioner in respect of
+various types of assets is contained in Income Tax Order No. 1217, which is published for general
+information. These rates, which are based on plant of average type used under normal working conditions,
+may be varied by the Commissioner on the production of evidence of any special circumstances or conditions
+causing depreciation at a rate either higher or lower than the standard rate.
+12. Special concessional rates are fixed by the Act for-
+(a) certain fixtures and fittings provided as amenities for employees (33-J per cent.) —section
+55 (2.) ;
+(b) certain plant and improvements of primary producers (20 per cent.) —sections 57aa and
+57ab;and
+(c) plant used for scientific research (33| per cent.) —section 73a (5.).
+13. Under section 56, depreciation may be calculated either by the “ diminishing value method ”, or,
+at the option of the taxpayer, by the “ prime cost method ”. The percentage rate in either case is the
+same. Under the diminishing value method, the depreciation for each year is calculated on the depreciated
+value of the asset at the beginning of that year, that is, on the original cost less depreciation already
+allowed. Thus, a lower deduction is allowable in each successive year and the cost of the asset is not entirely
+written off until it is disposed of. Under the prime cost method, on the other hand, the depreciation for
+each year is calculated on the original cost of the asset, the effect being that the full cost is written off by
+equal instalments over its estimated life.
+14. Whichever method is adopted, that method must be applied to all of the taxpayer’s depreciable
+assets. Moreover, section 57 provides that, having adopted either of the two methods, that method must not
+be altered by the taxpayer, except by leave of the Commissioner, or in exercise of the option to adopt the
+prime cost method in lieu of diminishing value.
+15. As a complement to the annual allowances, section 59 provides a system of balancing adjustments.
+Thus, where a depreciable asset is disposed of, lost or destroyed, the amount by which the consideration
+
+
+receivable falls short of the written-down value for depreciation purposes becomes an allowable deduction in
+the year concerned. On the other hand, where the consideration exceeds the written-down value, the excess,
+to the extent of the depreciation allowed, is included in the assessable income of that year.
+TERM OF REFERENCE No. 1.
+Whether the effective lives of units of property as estimated by the Commissioner of Taxation as required
+by section 55 (1.) of the Income Tax and Social Services Contribution Assessment Act 1936-1953 are
+fair and reasonable.
+16. Prom the submissions made to us, we are satisfied that the estimates made by the Commissioner
+of the effective lives of assets in terms of section 55 (1.) of the Act are fair and reasonable. The
+opinions expressed to us were that the Commissioner’s estimates have been soundly based and that he has
+dealt fairly with claims made to him for departures from the standard rates in special circumstances.
+17. We are of the opinion that the present system under which the Commissioner, subject to review
+by a Board of Review, is the determining authority for fixing the rates of depreciation, should be continued.
+It was suggested to us that a technical body of referees, with expert knowledge of the industry concerned,
+might be set up to determine cases where a difference of opinion arises between the Commissioner and
+the taxpayer as to the effective life of an asset. Such a system is provided for in the United Kingdom,
+although it was admitted that there was little recourse to it. In Australia, a taxpayer has the right to
+take any such dispute to a Board of Review and it is significant that the references to these Boards are
+almost entirely free from any disputes of this kind. In view of this fact, and the assurances we have had
+that taxpayers generally are satisfied with the present arrangements, we see no justification for setting up a
+special body of referees.
+18. We did have put to us a number of requests for increases in the present rates of depreciation
+on particular items of plant. These requests, however, were based either on new factors of construction
+or usage which have come about since the existing rates were determined, or on abnormal conditions under
+which the plant is - used in individual businesses.
+19. In all except one of the cases concerned, it appeared that no approach had been made to the
+Commissioner for adjustment of the existing rates. This is surprising, since such a course has always
+been available and clearly the Commissioner cannot be aware of any inadequacy in the standard rates
+in particular cases unless the facts are brought to his notice by the persons concerned. In the one case
+which did reach the Commissioner —that of a transport vehicle —an increase from 20 per cent, to 25 per
+cent, was granted, although this fell short of the 33J per cent, sought by the taxpayer.
+20. Although some of the claims appear to us to have merit, we feel that it would require a more
+detailed examination than we could make in the time and with the facilities available, to determine whether
+the increased rates requested are, in fact, justified. In this regard, many of the claims amounted to no
+more than expressions of opinion based on general experience. When we asked for more specific data, the
+information furnished proved to be, in most cases, too incomplete to enable a firm conclusion to be reached
+and in some instances failed to materialize at all.
+21. In the circumstances, we feel that we can do no more than to pass on to you particulars of the
+claims' and the supporting data which have been submitted to us, with the suggestion that they be referred
+to the Commissioner for further inquiry and determination by him. This we are doing by way of a
+separate memorandum. We are also including in the memorandum a number of claims made to us for
+overall rates of depreciation in particular industries.
+TERM OF REFERENCE No. 2.
+Whether the bases of depreciation provided by the said Act ensure that the cost of each unit of property
+is deducted in a reasonable manner over the effective life of that unit.
+Proposed Increase in Diminishing Value Rates.
+22. As already noted, the present law provides alternative bases of calculating the annual
+depreciation allowances, namely, the diminishing value method and the prime cost method. These methods
+are also those most commonly used in overseas countries.
+23. Although the prime cost method has the advantage that the cost of the asset is completely
+written off over the period of its effective life, it appears that the diminishing value method is the one
+most frequently used. This is because it is simpler and requires less detailed plant records than the prime
+cost method. Nevertheless, a considerable number of taxpayers do use the prime cost method, and it should
+be continued as an alternative to the diminishing value method.
+24. The diminishing value method, as it operates at present, is subject to the criticism that it
+permits only about two-thirds of the cost of the asset to be written off over its effective life. Whilst it is
+reasonable to expect that an asset which is disposed of at the end of its effective life would have some
+salvage value, this would be unlikely to amount to one-third of its cost. Indeed, it seems illogical that,
+F.3061/55. —3
+
+
+PLANT WITH ESTIMATED EFFECTIVE LIFE OP 10 YEARS.
+Year.
+Prime Cost Method.
+Diminishing Value Method.
+10 Per cent.
+10 Per cent.
+15 Per cent.
+£
+£
+£
+1st
+90
+90
+85
+2nd
+80
+81
+72
+3rd
+70
+73
+61
+4th
+60
+65
+52
+5th
+50
+59
+44
+6th
+40
+53
+38
+7th
+30
+48
+32
+PLANT WITH ESTIMATED EFFECTIVE LIFE OF 20 YEARS.
+Year.
+Prime Cost Method.
+Diminishing Value Method.
+5 Per cent.
+5 Per cent.
+7i Per cent.
+£
+£
+£
+1st
+95
+95
+93
+2nd
+90
+90
+86
+3rd
+85
+86
+79
+4th
+80
+81
+73
+5th
+75
+77
+68
+6th .. ....
+70
+73
+63
+7th
+65
+70
+58
+8th
+60
+66
+54
+9th
+55
+63
+50
+10th
+50
+60
+46
+11th
+45
+57
+42
+12th
+40
+' 54
+39
+13th
+35
+51
+36
+14th
+30
+49
+34
+after a careful estimate of the effective life of an asset has been made, the calculation of depreciation then
+applied should give such a result, particularly in view of the complete write-off offered by the alternative
+prime cost method.
+25. We received numerous submissions seeking increased rates of depreciation where the diminishing
+value method is used. These submssions drew attention to the inequity to which we have just referred
+and quoted the practices adopted overseas in this regard. In the United Kingdom, the diminishing value
+rates are generally about double those for prime cost. In Canada, where the prime cost method was
+changed to diminishing value in 1949, the present rates are double those formerly provided. In the United
+States of America, the diminishing value rates were originally one and a half times those for prime cost,
+but have recently been increased to double the prime cost rates.
+26. To some extent, we have found this problem inseparable from that of obsolescence, which is
+dealt with more particularly under Term of Reference No. 3. The aspect of obsolscence we feel is' relevant
+here concerns the point of time when plant may be expected to be replaced and our observations in this
+regard assume that a normal re-sale value would be realized at that point. The evidence we received,
+however, indicated that, where plant bcomes obsolete, this is not always so and that in some instances
+there is practically no salvage value. This further aspect will be considered later in our report.
+27. Before the advent of obsolescence as a substantial factor in depreciation considerations, plant
+was generally used for its full effective life. Now, however, the obsolescence factor frequently calls for
+replacement of plant by improved units at an earlier stage. It is desirable, therefore, that both the prime
+cost and diminishing value methods should provide as nearly as possible the same residual value at that
+stage. We discussed this matter at some length with those who appeared before us and we reached the
+conclusion that, as a general rule, it would be recognized as good practice to effect replacement at the
+expiration of approximately two-thirds' of the estimated life. This view was supported by evidence
+that in the later years of its life a machine requires excessive repairs and that a partly worn machine is
+usually incapable of giving the degree of precision required.
+28. From the point of view of bringing the diminishing value rates into accord with the prime cost
+rates on this basis, it seems to us that the desired result would be achieved if the diminishing value rates
+were increased by 50 per cent, and we recommend accordingly. The effect of such an increase will be
+seen from the following tables' of written-down values at the end of successive years of an asset costing
+£lOO
+
+
+29. In our opinion, the increased diminishing value rates should be available in regard to existing
+plant as well as future purchases.
+Option to Change Method op Depreciation.
+•‘lO. If the proposed increase in the diminishing value rates is adopted, we suggest that an option
+should be given to taxpayers at present using the prime cost method to change to the diminishing value
+method if they so desire. This option should be available in regard either to the whole of the taxpayer’s
+plant or only to future purchases, in which case the existing plant will be allowed to work out on the
+prime cost method. Conversely, taxpayers at present using the diminishing value method should be
+permitted an option to change to the prime cost method either in respect of the whole of their plant or
+only future purchases. Such an option is given at present, but is available only in regard to the whole
+of the plant. Our proposal will meet the representations we received from taxpayers who stated that they
+desired to change over to the prime cost method, but were prevented from doing so because of lack of
+records of early plant.
+Additional Methods of Depreciation.
+31. It was suggested to us on several occasions that additional methods of calculating depreciation
+should be permitted. These suggestions followed the principle laid down in the United States of America
+that a taxpayer should be entitled to adopt any accepted basis for writing off depreciation. Such methods
+would include “ sum-of-the-years-digits ”, mileage basis for transport, hours worked and units of production.
+It seems to us, however, that the special factors on which these methods are based can be taken into account
+under the prime cost or diminishing value methods and their inclusion in the income tax law would only add
+unnecessary complications.
+Balancing Adjustments.
+32. Consideration of this term of reference would not be complete without dealing with the
+provisions relating to balancing adjustments. These are contained in section 59 of the Act and are designed
+to bring back as assessable income amounts previously allowed as depreciation which are recovered on the
+disposal of the asset, or to allow as an additional deduction any deficiency of depreciation evidenced on
+disposal or loss.
+33. The provisions are a logical and effective method of ensuring that the actual depreciation incurred
+by the taxpayer over the period during which the asset was held by him is allowed as a deduction and we
+agree with the principles on which they are based.
+34. Because of the inflationary conditions over recent years, however, the incidence of the balancing
+adjustments has assumed a significance which we feel was not envisaged when the provisions were first
+enacted. Whereas it might normally be expected that small “ tidying up ” adjustments would be necessary,
+the tendency in many cases nowadays is for a substantial surplus over the depreciated value to be realized
+on the disposal of an asset. This is due not so much to the allowance of excessive depreciation, but to the
+change in money values.
+35. Since the surplus on disposal is often absorbed in the higher price of the replacement asset, the
+effect of the liability for tax on the amount recovered is to reduce the funds available for replacement at a
+time when they are needed for that purpose. We were told that this has led to real hardship in some cases
+and has militated against the replacement of assets, to the detriment of production.
+36. Another facet of this question is the present tendency amongst taxpayers to insure their plant
+against loss or destruction on the basis of replacement value, which is often as high as three times the
+original cost. In the event of loss or destruction and the recovery of insurance, this leads to the writing
+back as assessable income of most if not all of the depreciation previously allowed, thus partially defeating
+the attempt to provide funds for complete replacement.
+37. In the light of these developments brought about by the changed economic conditions, we feel
+that the provisions should be reviewed.
+38. In this connexion, our attention was repeatedly drawn to the war-time provisions of section
+59 (2a.) to (2c.) of the Act, which modified the balancing adjustment in relation to insurance and other
+recoveries on assets lost or destroyed during the war. Broadly, these provisions permitted the taxpayer,
+instead of being assessed on the recoupment of depreciation in the year of loss, to set off the recoupment
+against the cost of the replacement or against the value of any other assets subject to depreciation.
+
+
+39. We suggest that the principle o± these provisions should be incorporated as a permanent feature
+of the law, suitably widened to cover the proceeds of sales of plant, as well as insurance and other recoveries
+on their loss or destruction.
+40. Whilst this course would afford a reasonable degree of equity in the case of taxpayers engaged in
+a continuing business, it would give no relief to the taxpayer who disposes of his assets for the purpose of
+terminating his business and we think this taxpayer should also receive some consideration. This might be
+effected by applying a principle similar to that provided for abnormal income of authors and inventors—
+Division 16a of the Act. Thus, a proportion of the amount of the recoupment would be deducted from the
+total taxable income to ascertain the rate of tax, which rate would then be applied to the normal income plus
+the full amount of the recoupment.
+TERM OF REFERENCE No. 3.
+Whether it is practicable and desirable, in determining annual rates of depreciation, to take into account
+possible obsolescence of a unit of property before the effective useful life of that unit is completed.
+41. We received many representations that an allowance for obsolescence should be taken into
+account in fixing the annual rates of depreciation.
+42. The present rates are determined on the basis of wear and tear, the term “effective life” in
+section 55 (1.) of the Act being interpreted by its ordinary meaning of “fit for service”. Any further
+depreciation arising through obsolescsence is covered by the system of balancing adjustments provided by
+section 59, which permits any loss on disposal to be taken up at that stage.
+43. We have already referred to the changes which industry has undergone in Australia in recent
+years. The effect of these changes is that it is no longer sufficient to have equipment which will work; now
+it must work efficiently, economically and with the highest possible output. This not only requires that the
+equipment should be kept constantly up to date, but also that it should not be subject to frequent
+breakdowns and consequent loss of production.
+44. Under the old conditions, when obsolescence was not such a significant factor and the rates of
+tax were low, the provision in the balancing adjustment for premature retirement of equipment apparently
+operated satisfactorily. But obsolescence is now so commonly and so consistently encountered, that we are
+satisfied it should be recognized as a substantial element in determining the annual rates of depreciation.
+45. As against this proposition, it was admitted to us that a great deal of plant is still in operation
+beyond the effective life estimated by the Commissioner, but it was stressed that this plant was being
+maintained only at the expense of uneconomical repairs. It was claimed that if greater depreciation
+allowances were provided, much of this plant would be replaced by more modern equipment, thus not only
+increasing productivity, but also saving heavy expenditure for repairs.
+46. Whilst we agree that obsolescence should be taken into account in fixing the annual rates, the
+method of making such an allowance, and the degree of the allowance, have given us some difficulty.
+47. The evidence we received failed to establish any definable cycle of obsolescence in any industry.
+It is largely an unpredictable contingency. Moreover, the incidence of obsolescence varies from time to time
+and is not present in all industries at the same time. For example, in some of the primary industries there
+is a movement towards greater mechanization and because this is in the experimental stage there are frequent
+improvements in the machines being introduced. The same degree of obsolescence may not exist when the
+period of experimentation passes. Again, obsolescence may come about because of a sudden increase of
+public demand for a particular product, rendering the existing plant obsolete because of the need for
+increased output.
+48. The United States of America apparently authorizes an allowance for obsolescence in determining
+the annual rates of depreciation. In the United Kingdom, obsolescence is not taken into account in fixing
+the rates, but a system of investment allowances on new plant and initial depreciation on second-hand plant
+has been adopted. Other countries, such as Sweden amd Western Germany, allow very high optional rates
+of depreciation not related to the actual life of the plant. These measures have the effect of encouraging the
+replacement of obsolete plant by a more rapid write-off.
+49. By its nature, it is impossible to lay down any hard and fast formula for taking the obsolescence
+factor into account. The only method which appears to us to be practicable is to introduce a degree of
+flexibility into the annual rates of depreciation.
+50. It was suggested to us that this might be achieved by authorizing the Commissioner to allow an
+accelerated rate of depreciation upon application by the taxpayer when obsolescence became apparent. This
+would involve actions by both the taxpayer and the Commissioner which we feel to be unnecessary. W©
+favour leaving the matter, within prescribed limits, in the hands of the taxpayer, who should be, with his
+knowledge of his own industry, the best judge of the situation.
+
+
+A.
+Basic Rates—Prime Cost.
+B.
+Proposed Rates —Diminishing
+Value.
+0.
+Proposed Limits—Prime
+Cost.
+D.
+Proposed Limits—‘Diminishing
+Value.
+0/
+/o
+2
+■%
+3
+%
+2-2*
+0/
+/o
+2-4
+2*
+3f
+2*-3
+2*-4*
+3
+4*
+3-4
+3-6
+4
+6
+4-5
+4-7*
+5
+7*
+5-6
+5-9
+6
+9
+6-8
+6-12
+H
+11*
+7*-9
+7*-13
+8
+12
+8-10
+8-15
+10
+15
+10-12
+10-18
+12*
+18|
+12*-15
+12*-22*
+15
+22*
+15-17*
+15-22*
+20
+30
+20
+20-30
+25
+37*
+25
+25-37*
+33*
+50
+33*
+33*-50
+51. We set out hereunder a table showing the limits we suggest, in relation to the basic rates as at
+present fixed and the proposed increased rates for diminishing value: —
+ISTotbs.—
+Column A shows the basic rates for depreciation by the prime cost method determined by the
+Commissioner at present.
+Column B shows the increased rates for depreciation by the diminishing value method in accordance
+with our recommendation in paragraph 28.
+Column C shows the proposed limits within which the taxpayer may select a rate of depreciation
+under the prime cost method.
+Column D shows the proposed limits within which the taxpayer may select a rate of depreciation
+under the diminishing value method.
+52. The above table is intended to apply only to plant. Buildings which are the subject of depreciation
+at present, namely, those which are integral with plant and those which are used for the purposes of
+primary production, are excluded and are dealt with under Term of Reference No. 5. At this point,
+however, we should indicate that it is not any part of our recommendation to exclude such buildings from
+the depreciation provisions.
+53. It will be noted that Columns C and D of the table contain lower as well as upper limits, except
+in the last three categories of Column C. We feel that a lower limit should be provided so that taxpayers
+will claim a reasonable allowance in relation to the life of the plant. The lower limits have been fixed at
+the existing rates so that taxpayers who so desire may continue to use their present rates.
+54. In connexion with plant with an estimated life of five years or less, we have made no provision
+for any additional rates to provide for obsolescence, since we feel that the balancing adjustments sufficiently
+provide for any possible obsolescence in these cases.
+55. It is our opinion that once a rate has been selected by the taxpayer, that rate should be continued
+during the life of the plant unless altered with the permission of the Commissioner.
+TERM OF REFERENCE No. 4.
+Whether it would he desirable to provide, by way of an amendment of the law, for an option whereby the
+taxpayer might claim depreciation at a standard rate per annum on all units of property in respect of
+which depreciation is allowable to him, and, if so, what rate should be specified as the maximum standard
+rate of depreciation.
+56. We interpreted this term of reference to mean that a single rate of depreciation would be
+specified in the law as a maximum and that the taxpayer, regardless of the composition of his plant and the
+type of industry in which he is engaged, would have the option, in lieu of taking the individual schedule
+rates, to select any rate up to the specified maximum as an overall rate for application to his plant as a
+whole.
+57. The reaction to such a proposal was somewhat divided. Some commended the idea as a means of
+simplifying depreciation claims, from the point of view both of taxpayers and of the taxation administration.
+It was pointed out that such a method would be particularly suitable for taxpayers with numerous items of
+plant having varying individual rates of depreciation. Others opposed the idea on the ground that, because
+of its arbitrary nature, it would be contrary to sound accounting principles. Since it would be necessary
+to strike an average rate, one of its effects would be to over-depreciate long life assets, whilst
+under-depreciating those with shorter lives, thus giving rise to disproportionate balancing adjustments on
+disposal.
+
+
+58. This difference of opinion is exemplified in the present practices of taxpayers in relation to the
+overall rates already provided for some industries. In the gas industry, for instance, individual rates
+ranging from 2 per cent, to 20 per cent, are provided in respect of 66 different items of plant, Avith the
+option of taking an overall rate of 4 per cent. Notwithstanding the simplification of their claims offered
+by the overall rate, the evidence before us indicated that most gas companies prefer to take the individual
+rates. On the other hand, it was represented to us on behalf of several industries Avhieh have no overall
+rate at present, including hotels and road contracto. s, that such an option would be welcomed in those
+industries.
+59. The rates of depreciation at present listed in Income Tax Order No. 1217 range from as low as
+1 per cent, to as high as 50 per cent, and it would he impracticable to fix a common rate within this range
+to suit all industries. For example, the evidence put to us by the gas industry indicated that an overall
+rate of 6 per cent, would be appropriate, whereas the representatives of road contractors asked for a rate of
+20 per cent. If there were to be any measure of control over the standard rates adopted (and this would
+appear to be inherent in the proposal in vieAV of the mention of a maximum limit), it would thus seem
+necessary to specify a rate sufficiently high to accommodate the most extreme eases and leave it to the
+Commissioner to determine individual rates within this range to suit particular industries.
+60. This leads us to observe that it is already the practice of the Commissioner to fix overall rates for
+particular taxpayers or particular industries where this is requested. If the suggested provision were
+inserted in the law, it appears to us that the only feature which would be added to the present practice
+Avould be to confer on taxpayers a definite right to take an overall rate, which, however, would still have
+to be fixed by the Commissioner. An alternatiA r e to this course might be to specify in the law separate rates
+for particular industries, but we foresee that this Avould involve practical difficulties. Moreover, the
+comparative rigidity which such a method could be expected to bring about would tend to defeat the
+flexibility which the provision would be designed to afford.
+61. We recommend that no change be made in the law, but that the present practice, under which
+overall rates are fixed by the Commissioner, should be continued.
+62. Representations which have been made to us for overall rates in particular instances have been
+included in the separate memorandum referred to in paragraph 21 of this report.
+TERM OF REFERENCE No. 5.
+Whether it would he desirable to extend deductions for depreciation to any classes of assets not subject to
+such allowances under the present law.
+63. Just as it does not seek to levy tax on capital gains, the income tax law does not, as a general rule,
+permit deductions for capital expenditure. On the other hand, due allowance is given for the various
+day-to-day outgoings of a revenue nature which are expended in the earning of income.
+64. In between these two distinct classes of expenditure there is a third class, which, though
+commonly termed “ capital ” expenditure, is, in reality, long-term revenue expenditure. The most obvious
+example of this class is the cost of working plant, the value of which gradually disappears as the plant is
+worn out in the process of producing goods over a number of years. Although the asset which is created by
+this class of expenditure has a lasting value beyond the year in which the expenditure is incurred, it
+nevertheless has a definite life, which is determined either by exhaustion through usage or depletion, or
+through effluxion of time.
+65. To a large extent, the income tax law recognizes that an allowance should be made of such
+expenditure over a period of years. The depreciation allowances for plant and equipment are an example
+and the deductions for developmental and certain other expenditure incurred in the mining industry
+represent a recent extension of the same principle. lloAvwer, a number of items of this class of expenditure
+still remain outside the scope of the permitted deductions and we received many requests that the law should
+be widened to allow deductions to be taken for them.
+66. As a principle, we agree that all expenditure which is used up in the earning of income should be
+deductible in arriving at the profit on which tax is to be levied. In its broadest sense, however, such a
+principle could go far beyond the bounds of depreciation allowances. To remain within our terms of
+reference, Ave have confined our considerations to assets Avhieh, in the ordinary conception of depreciation,
+are subject to a gradual diminution in value over a measurable period.
+67. The additional classes of assets which we think ought to be brought within the depreciation
+allowances fall into two main groups, namely, buildings and wasting assets, and we propose to deal with
+each of these groups separately.
+Buildings.
+68. In none of the matters which came before us did Ave encounter more widespread representations,
+nor more unanimity of opinion, than that an allowance should be given for depreciation of buildings.
+
+
+Previous History.
+69. With minor exceptions, namely, structures forming an integral part of plant and structural
+improvements on land used for primary production, the Commonwealth income tax law has never allowed
+depreciation on buildings. Since 1946, a special provision has permitted the cost of buildings used for
+scientific research to be written off over a period of three years, but this is more in the nature of a concession
+than an allowance for depreciation. Before the adven + of uniform income tax in 1942, Queensland was the
+only State which granted an allowance for depreciation of buildings.
+70. The reasons which appear to have been held against such an allowance in the past are to be found
+in the following extract from the Report of the Royal Commission on Taxation 1932-34:
+“We received many requests that depreciation should be allowed in all cases. There are
+many buildings, however, which with repairs and maintenance, all of which are of course allowed
+as deductions, will last for hundreds of years. There is the further consideration that many
+substantial buildings in good localities have not depreciated in value —on the contrary the property
+as a whole has appreciated owing to an increase in values of the sites on which the buildings
+stand . . . We recommend that depreciation on buildings be restricted to buildings forming an
+integral part of plant . .
+71. Whilst the reasons given by the Royal Commission for rejecting the allowance in 1934 may to
+some extent be still valid, we are of the opinion that conditions in Australia have so changed in the
+meantime that further considerations have arisen which justify a review of the question.
+Present Considerations.
+72. There can be no doubt that, like any other material thing, a building does physically deteriorate
+over a period of years, although repairs do enable it to be kept usable. In Australia there are many
+buildings which are 100 years old and are still being used, whilst in overseas countries there are many
+which are much older.
+73. Manufacturing industries have become an important part of Australia’s economy and factories
+and other industrial structures represent a substantial proportion of buildings. There has also come
+about a closer commercial relationship with overseas countries, bringing with it increasing problems of
+competition and the need for constant change and improvement to keep abreast of modern -world
+developments. The result has been that obsolescence has become as important a factor for buildings as
+for plant.
+74. Obsolescence affects buildings in various ways. In the manufacturing industry, the development
+of ne-w types of plant and equipment, changes in demand for particular products, relocation of industrial
+areas, provision of improved amenities for employees and the constant need for increased efficiency all
+tend to limit the useful lives of factory buildings. Commercial buildings are hardly less affected. For
+example, the hotel industry is faced at the present time with the need to undertake large-scale rebuilding
+to meet the public demand for improved amenities and more modern standards of accommodation. Theatres
+and broadcasting centres provide further instances of the need for periodical change and reconstruction
+to keep abreast of new developments. In retail stores, warehouses' and office buildings, there is evidence
+in many of our cities and towns to-day of an increasing tendency towards rebuilding and reconstruction
+for reasons of changed commercial methods and the more efficient use of space.
+75. As in the case of plant, the extent to which obsolescence affects the useful life of a building is
+a varying and largely immeasurable factor. It does become evident, however, when the elements of
+wear and tear and obsolescence are brought together, that the amount of real depreciation assumes
+significant proportions.
+76. The argument that the loss in depreciation of a building may be offset by appreciation in the
+value of the site on which it stands can have validity only if the value by which the site has appreciated is
+realized by sale. It can have no validity where a taxpayer erects a new building on the same site.
+77. From a practical stand-point, we consider that a building used for business purposes' should be
+looked at in the same way as plant which is employed in the business, and as an entity separate from the
+land on which it stands. Just as an item of plant becomes worn out through use, so must there come a
+time with every building when its usefulness will have expired through decay or obsolescence, whereas the
+land will endure, indefinitely. We see a clear distincion between funds invested in the land, which is a
+permanent asset, and those invested in the building, which will reduce in value over the course of time.
+To the extent that this loss of value occurs with the use of the building in the earning of income, it follows
+that the loss should be allowed as a deduction from that income in determining the true profit on which
+tax is to be levied.
+78. Our view is reinforced by the precedent so often put to us of the allowances given by overseas
+countries. To-day, Australia and South Africa alone amongst the English-speaking nations do not allow
+depreciation on buildings. In the United States of America, Canada and New Zealand, an allowance is
+given on all classes of buildings used in the production of income. In the United Kingdom, an allowance
+was introduced in 1947 for industrial buildings and it is understood that an extension of the allowance
+to commercial buildings is at present in contemplation.
+
+
+79. Indeed, the fact that such allowances are given in the countries mentioned has a direct bearing
+on whether an allowance should be given in Australia. Australian industries in competition with similar
+industries in those countries are at a disadvantage at present in this respect. In other more general
+ways, it appears that the absence of such an allowance is reacting to the detriment of industry. We
+were told, for example, that efforts to raise capital overseas for rebuilding in the hotel industry had been
+unsuccessful largely because of this factor.
+80. Having regard to all of these considerations, we have found the conclusion inescapable that
+the time has arrived when a depreciation allowance should be given for buildings.
+Possible Bases for Allowance.
+81. Whilst we found ourselves in agreement with the submissions made to us in justification of the
+claim that there should be an allowance for depreciation of buildings, Ave found very real difficulties when
+we came to consider the basis on which the alloAvance should be given.
+82. The first question was AAdiether all classes of buildings used in the production of income should
+qualify for the alloAvance. On the principle already stated that all expenditure incurred in the
+production of income should be an allowable deduction, we believe that all buildings used for this purpose
+should be included.
+83. The next question was Avhether the allowance should be limited to buildings constructed after
+the date of commencement of the allowance, or whether it should apply also to existing buildings. In our
+view, it would be quite inequitable, for example, to exclude a building which had been completed a few
+days before the commencement of the allowance, Avhile giving a full allowance for a building completed a
+feAv days afterwards. In a reducing degree, the same consideration must apply to any building which,
+though constructed many years earlier, has not exhausted its useful life at the commencing date. We have
+concluded, therefore, that the alloAvance should apply to existing as well as future buildings. This' view
+is firmly supported by the opinion of those who made submissions to us. At the same time, it was
+generally agreed that, in commencing the allowance in the case of existing buildings, an adjustment
+should be made to take account of the depreciation which had already occurred over past years.
+84. Having arrived at the eonchision that all buildings used in the production of income should
+be included and that the alloAvance should apply to existing as well as future buildings, it became necessary
+to determine the basis of valuation on which the depreciation allowance should be calculated. In this
+regard, there appeared to be three possible bases. These were—■
+(A) Current replacement value;
+(B) Cost to the present owner; and
+(C) Original cost of construction,
+each of which is discussed in the folloAving paragraphs.
+(a) current replacement value.
+85. The advocates of the current replacement value basis sought to justify their proposal on the
+ground that it would place all taxpayers on an equal footing. It would require that each building
+existing at the date of commencement of the allowance be valued by an approved valuer on the basis of
+estimated current building costs. This figure would then be reduced by the notional depreciation which
+had occurred since the date of construction and the residue would be allowed as depreciation over the
+remainder of the life of the building.
+86. The main objection avc see against this basis is that, because of the changes in money values over
+the years', it would result in the allowance of deductions for much more than the actual expenditure in
+many cases. For example, statistics show that building costs at present are about three times as great as
+they were in 1943. A building which cost £50,000 to erect in 1943 Avould thus be valued on 1955 costs at
+approximately £150,000. Assuming the rate of depreciation to be TJ per cent, per annum, the amount
+which Avould qualify for deduction under the proposal would be £123,000 (i.e., £150,000 less notional
+depreciation*—twelve years at £2,250 per annum = £27,000), as against the actual expenditure of £50,000.
+87. It is plain that such a basis, giving a deduction for amounts not actually expended, would be at
+variance with existing taxation principles'. Moreover, it Avould give rise to an anomaly as between
+buildings of recent construction and those built many years ago when costs Avere much loAver.
+88. There is also the question of practical application. Such a basis would involve an opinion as
+to the current replacement value of each individual building, thus leading to contest between the
+administration and the taxpayer in many instances. It is also very doubtful whether the number of
+skilled valuers available would be equal to the task of valuing the many thousands of buildings which would
+be involved.
+89. If the same basis Avere used for future buidings, the same problems would continue to arise.
+Because of the constant changes in costs, there Avould presumably have to be a fresh valuation for each
+building each year, or at frequent intervals, and the great amount of administrative work Avhich Would
+result appears to us to make the proposal impracticable.
+
+
+90. Inherent in this proposal is the fundamental question whether depreciation allowances should
+be based on original cost, or on some other basis which will reflect changes in money values. If the basis
+of replacement value were adopted for buildings, it would seem difficult to deny the same treatment for
+plant and other assets.
+(b) cost to the present owner.
+91. The second basis, that of cost to the present owner, was the one which found the strongest support
+amongst those who made submissions to us. The chief virtue claimed for this basis was that it would give
+a deduction calculated on the amount actually expended by the taxpayer and would thus be in line with
+existing taxation principles. It was claimed, too, that the present owner would in most cases have a record
+of the amount he had paid for the building and there would be no difficulty, therefore, in establishing the
+figure on which the allowance was to be given.
+92. Examination reveals many objections to this proposal. It seems to us that an anomaly would be
+created as between one taxpayer who had owned a building since its erection and another taxpayer who had
+purchased a building at a price in excess of the cost of construction. In the former instances, the annual
+deduction would be based on the cost of construction, whilst in the latter it would be based on a higher
+figure, even though the two buildings might be almost identical in age and other respects. A further
+anomaly would be the increased deduction allowable where buildings were transferred at written-up current
+values between parties not at arm’s length, as has frequently occurred in company re-organizations over
+recent years.
+93. If the same basis were also applied to future buildings (as some of those who appeared before us
+thought it should), the question must surely arise whether the profit which is realized on the sale of the
+building should be subject to tax. If a deduction were allowed for the full purchase price, we think it
+would be logical to tax such profit. As, however, the income tax law does not seek to tax capital gains, we
+feel that it would be equally inappropriate, on the other hand, to allow the corresponding outgoing as a
+deduction to the purchaser. Moreover, if the allowance were given on the full purchase price without
+taxing the profit in the hands of the vendor, there would undoubtedly be many sales of buildings between
+related parties merely to obtain a higher depreciation allowance.
+94. The claim that the purchase price would be easy to establish would be true to a degree only, since
+the problem would remain in nearly every case of separating the price paid for the building as distinct
+from the land. There would also be the problem of determining the notional depreciation for past years
+where a building had passed through several hands during that period.
+(c) COST OF CONSTRUCTION.
+95. The third basis, that of cost of construction, envisages that, nothwithstanding changes of
+ownership, the depreciation to be allowed in respect of any building shall be no more than the actual
+expenditure incurred in its construction. In the generally accepted sense, a building is erected for a specific
+purpose at a certain cost and on the assumption that it will have a limited effective life. It therefore
+appears reasonable that such cost is the amount which should be regarded as an outgoing spread over its life
+by annual instalments, or by a balancing adjustment on demolition or on sale at less than the depreciated
+value.
+96. This basis has a precedent in the United Kingdom allowance for industrial buildings and we see
+many advantages in its adoption. In the first place, it would be consistent with depreciation allowances for
+plant, which are based primarily on original cost. It would also relate the allowance to an established
+figure, thus avoiding openings for dispute which are inherent in the other bases we have already discussed.
+Moreover, it is the only practicable method we can see which would enable both existing and future buildings
+to be treated on a common basis.
+97. From an administrative point of view, also, this would appear to be the most satisfactory basis.
+In the first determination, it would be necessary only to establish the cost of construction in order to
+calculate the annual allowance. This allowance would then continue during the life of the building, unless
+a sale took place at a price less than the depreciated value, in which event a balancing adjustment would
+be allowed to the vendor and the annual allowance to the purchaser would be reduced accordingly.
+Basis Recommended.
+98. In our opinion, any method adopted would be open to some criticism. We are therefore concerned
+to recommend a basis as satisfactory as possible from the point of view of both the taxpayer and the revenue.
+99. Of the three methods which appear to be available, namely, current replacement value, cost to the
+present owner and original cost of construction, we consider that the original cost of construction is the
+most practicable and involves the least number of inequities. We recommend, therefore, that the allowance
+be granted on that basis.
+
+
+Outline of Proposed Plan.
+100. First in outline, and with the main features amplified later the plan we propose for adoption is
+as set out hereunder. For convenience, we will refer to buildings in existence at the commencement of the
+allowance as “ existing buildings ” and those constructed after that date as “ future buildings ”..
+(a) The allowance will apply to all buildings and structures (other than those for which
+depreciation or other allowances are already given under the law) owned and used by
+the taxpayer in the production of assessable income.
+(&) It will be based on the original cost of construction, or, where this is not known, on the
+deemed cost of construction calculated by reference to a prescribed schedule of building
+costs.
+(c) Where a building is purchased, either before or after the commencement of the allowance,
+for less than the depreciated value, the allowance to the purchaser will be based on such
+lower value.
+( d ) Existing buildings will be treated as though depreciation at the prescribed rate had been
+deducted each year from the date of construction and the allowance will be limited to the
+balance of the cost of construction thus remaining at the commencement of the allowance.
+( e ) Alterations or additions to the original building will be treated for the purpose of the
+allowance as separate buildings.
+(/) The annual rates of depreciation allowable will be 1J per cent, for brick, stone or concrete
+construction and 2| per cent, for timber, fibre or iron construction, calculated on the
+prime cost method.
+( g ) Balancing adjustments will be confined to the amount by which the consideration receivable
+on sale, loss or demolition falls short of the depreciated value. This amount will be
+allowed as additional depreciation in the year in which it arises. There will be no
+recapture provision in respect of depreciation recouped on disposal.
+Application.
+101. The allowance will apply not only to buildings owned and used by the taxpayer for the purposes
+of his own business, but also to buildings let for rent, including fiats and dwellings. It will not apply,
+however, to a building used by the owner as his residence.
+102. There will be some buildings which are occupied by the owner and only partly used in the
+production of income, such as a combined shop and dwelling, or the residence of a doctor which includes his
+surgery. A provision similar to section 61 of the Act in relation to plant would be required to allow a
+proportionate deduction to be determined in such eases.
+103. Some classes of buildings qualify for allowances already provided under the law and these
+should be excluded from the new allowance. They include buildings used for scientific research,
+improvements not subject to tenant rights erected by the lessee on leasehold property and housing and
+amenities for employees in the mining industry. Structures forming an integral part of plant and structural
+improvements on land used for primary production, for which depreciation is already given under the law,
+should also be excluded, but it is suggested that structures of this type erected in future might be brought
+within the general allowance for buildings.
+Basis.
+104. The cost of construction for the purposes of the allowance will include all expenditure incurred in
+the erection of the building and structural improvements, including architect’s fees, excavations and
+levelling of the site and demolition of the previous structure, if any. It will also include installations which
+form an integral part of the building, such as plumbing and electrical wiring. It will not include, however,
+such items as lifts, escalators, fixtures and fittings, which are already depreciable as plant.
+105. In claiming the allowance, the onus will rest upon the taxpayer to satisfy the Commissioner
+as to the original cost of construction of the building. Whilst this should not result in any real difficulties
+in the case of future buildings, we recognize that it might not always be possible to establish the
+construction cost of existing buildings. Particularly will this be so in the case of buildings which were
+erected many years ago and which have changed hands in the meantime.
+106. It would be unfair to deny the allowance in such cases, especially as the inability to produce
+records of the original construction costs would not be due to any fault of the taxpayer in most instances.
+On the other hand, it is important that any arbitrary basis which might be adopted to meet this situation
+should ensure an equitable result, not only from the point of view of the taxpayer, but also from that of the
+revenue.
+107. We have given a great deal of thought to this problem and have come to the conclusion that it
+can reasonably be met by means of a schedule of average building costs of various types of construction
+extending over the years which are relevant. The schedule which we propose for this purpose is set out as
+an appendix attached to this report.
+
+
+108. In our first approach to the schedule, we had the idea that, for completeness, it ought to cover
+the whole period from the commencement of the allowance back to the earliest year which will be relevant.
+We found, however, that, in recent years, many variations of finish and new types of construction have
+developed, which led us into a very extensive range of differing costs. On the other hand, we found that,
+before the war, these elements tended to be much more standardized, thus enabling the range of costs to be
+reduced to more manageable proportions. As we felt that, in any event, the actual construction costs of the
+great majority of buildings erected during the war and post-war years would be capable of ascertainment,
+we adopted 1939 as the base year for the schedule.
+109. Having determined the range of costs for 1939, our next step, was to relate these back to each of
+the preceding years. For this purpose, we used an index maintained by the Rural Bank of New South
+Wales showing the relative levels of building costs since 1926 and an index for the earlier years conforming
+as. nearly as practicable to the basis followed by the Rural Bank.
+110. Although based on cottage construction, the Rural Bank index is, we understand, widely
+recognized and is frequently used in relation to all types of building construction. This is evidenced by
+its acceptance by the High Court in the case of Grace Bros. Pty. Ltd. v. The Commonwealth (72 C.L.R.
+269) as a satisfactory index of the general trend in building costs in determining the probable cost in
+1945 of a large city office building as compared with the actual cost in 1929. It has the special merit
+that the costs on which it is compiled are not based strictly on award rates of wages or list prices of
+materials, but are weighted to take account of prevailing economic conditions, such as periods of over-supply
+or under-supply of labour and materials.
+111. The manner in which it is intended that the schedule should be applied is' that the taxpayer
+will be required to identify the classification into which his building falls and to measure the plan area of
+each floor. The deemed cost of construction will then be calculated by multiplying the rate per square
+foot shown in the schedule for the year of construction by the total number of square feet in the plan
+area.
+112. After having made tests of the schedule against known construction costs of various types of
+buildings, we have confidence in recommending its adoption for the purpose for which it is designed. At
+the same time, it must be emphasized that the schedule has its limitations and is intended for application
+only where it proves impossible to produce satisfactory evidence of the actual construction costs.
+113. In this connexion, it should be explained that the 1939 costs on which the schedule is based
+represent construction standards slightly above the minimum for each classification. No attempt has
+been made to take into account the many variations in finish which distinguish individual buildings.
+Indeed, to do so would so complicate the schedule as to make it virtually unworkable. Further, the
+schedule does not provide for buildings of what might be termed monumental types, such as insurance
+offices, banks and city theatres, for which we would expect that records of the actual construction costs will
+be available.
+114. The fullest measure of equity can be assured only if the actual construction costs can be
+established and we suggest that, in the ease of existing buildings at the outset of the allowance, the
+Commissioner might be authorized to treat with taxpayers on fairly broad lines to enable this to be
+achieved in as many cases as possible. By this, of course, we do not mean that the Commissioner should
+be required to accept a mere estimate by the taxpayer, but rather that he should be satisfied with substantial
+evidence, such as the building account in the taxpayer’s books, or a record by the local building
+authority of the tender price, and not insist on the vouching of each separate item of expenditure. Where,
+however, the information available is insufficient to enable the actual costs to be established with reasonable
+certainty, it can be taken that the schedule will afford the closest measure of justice possible in the
+circumstances and it must be accepted as a final determination on this understanding.
+115. Disputes may arise regarding the amount claimed by the taxpayer as representing cost of
+construction for the purposes of the allowance and we consider that a right of appeal against the decision of
+the Commissioner should be given in such cases. Where the schedule is applied, any right of appeal should
+be limited to the question of the classification into which the building falls. We feel that such appeals
+could be handled by the various taxation tribunals already in existence and that there should be no occasion
+to set up a special body for this purpose.
+Purchase at Less than Depreciated Value.
+116. It is proposed that, where a building is sold for less than its depreciated value, the loss so
+incurred by the vendor will be allowed as additional depreciation in the year of sale. As a corollary, it
+will be necessary to provide that the future annual allowances to be taken by the purchaser for the remainder
+of the term will be based on the amount actually paid by him for the building. The annual allowance
+to the purchaser will be calculated by dividing the purchase price of the building by the number of years
+in the remainder of the term. If this adjustment were not made, the result would he to give the purchaser
+an allowance in excess of his actual expenditure.
+
+
+117. This principle will apply not only to future transactions, but also to buildings purchased
+before the commencement of the allowance. Although in the latter ease the vendor is not concerned, the
+defect of giving the purchaser an allowance greater than his actual expenditure would remain.
+Notional Depreciation.
+118. For existing buildings, the actual depreciation to be allowed will be limited to the written-
+down value at the commencement of the allowance. This' will be ascertained by deducting from the
+original construction cost annual depreciation at the prescribed rates for the period from the date of
+construction. Thus, on a weatherboard building constructed twenty years ago for £4,000, the amount of
+notional depreciation to be deducted would be £2,000, leaving a balance of £2,000 to be allowed over the
+ensuing twenty years.
+119. The same process will be followed after the commencement of the allowance where a building
+is brought into use in the production of income for the first time, the guiding principle being that the cost
+of the building is regarded as being written off by equal instalments over each year of the prescribed term,
+regardless of its use in any year.
+120. So far as concerned existing buildings at the commencement of the allowance, it was put to us
+that the deduction of notional depreciation for past years' would be unfair to persons who had not the
+opportunity in the past of recouping the outlay on their buildings. As we see it, however, acceptance of
+this viewpoint would be tantamount to a retrospective application of the allowance and we consider it
+beyond our province to advance any such proposal.
+Alteration and Additions.
+121. Since it is proposed that the annual allowance is to be calculated on the prime cost method,
+it follows that alterations and additions to the original structure must be treated for the purposes of the
+allowance as separate buildings.
+122. Some problems will arise in this regard where existing buildings have undergone substantial
+alteration. We were given an example of a building which was originally a warehouse and was
+subsequently converted into offices at a considerable cost. Unless complete records are available, difficulty
+will arise in cases of this kind in separating the respective values of the original building and the
+alterations. In such instances, the matter will have to be dealt with by negotiation on the best information
+available. As a principle, we feel that it would be practicable to determine these cases on the general basis
+of separation as proposed for the future. That is to say, the value of the original building would be
+determined on the basis of its actual cost, if known, or alternatively on the basis of the schedule, and this
+would constitute one asset for depreciation purposes. Alterations or additions in any subsequent year
+would be valued separately as far as practicable and would be treated as a further asset for depreciation
+purposes.
+Rates of Depreciation.
+123. From the evidence placed before us and our own researches, we. have found it quite impracticable
+to lay down any reliable scale of annual rates of depreciation based on the estimated lives of buildings.
+Something of this order might be possible by classification according to use, but a very wide range of
+rates would result and there would be many complications of administration, as, for example, changes in
+the use of a building from one purpose to another. We came to the conclusion, therefore, that the problem
+should be resolved on a very broad basis, recognizing only a difference between—
+(a) brick, stone or concrete; and
+(i) timber, fibro or iron.
+124. In considering the rate to apply to brick, stone or concrete buildings, we recognized that
+some -would be used for probably 100 years, but evidence indicated that for others of this type the
+expected life would be no more than 40 to 50 years'. This range of estimated life suggests that a rate
+from 1 per cent, to 2 per cent, would be appropriate. We recommend that it be fixed at 14 per cent.,
+corresponding to a normal life of 67 years.
+125. It is generally accepted that the expected life of a timber, fibro or iron building is less than
+one of brick, stone or concrete and, since again it is impossible to make an accurate determination, we
+believe that a reasonable rate would be 2| per cent., corresponding to a normal life of 40 years.
+126. Where a building is constructed partly of brick, stone or concrete and partly of timber, fibro
+or iron, the predominant material will determine the rate to be applied.
+127. Having recommended that the cost of a building should be written off over a fixed term, it
+follows that the prime cost method should be applied for the calculation of the annual depreciation.
+128. It will be noted that, on the rates we have proposed, the oldest buildings to qualify for the
+allowance, assuming commencement at Ist July, 1955, will be those erected in 1889 if of brick, stone
+or concrete construction and in 1916 if of other construction.
+
+
+Balancing Adjustments.
+129. It might appear at first that the principle of balancing adjustments as applied to plant should
+be followed. However, an examination of the practical application of such a system to buildings shows
+there are a number of unsatisfactory features, particularly in the ease of those sold for more than their
+depreciated value.
+130. Practical difficulties would arise in separating from the total purchase price for the property
+the amount applicable to the building as' distinct from the land. This is already a troublesome problem
+in relation to structural improvements on land used for primary production and would he greatly
+accentuated in the case of buildings in view of the number of transactions and higher values which
+would be concerned, and also the significanse of site values, particularly in regard to commercial and
+industrial buildings.
+131. Such a system could also produce capricious results if taken in conjunction with the principle
+of a fixed term of depreciation, especially where a change of ownership occurred in the later years' of
+the term. To take an extreme illustration—that of a building costing £IO,OOO and carrying a 21- per
+cent, rate of depreciation and sold at the end of the thirty-ninth year for its original cost of £IO,OOO.
+With the normal balancing adjustment, the vendor in such a case would he assessed in the year of sale
+on the past depreciation of £9,750 and the purchaser would be allowed a full deduction of the original
+cost of £IO,OOO in the following year. The result would be that the vendor would find the funds
+he required for purchasing a building in replacement heavily depleted by a liability for tax, while the
+purchaser would receive an unwarranted deduction. y-
+-132. In view of these considerations, we do not recommend balancing adjustments in respect of
+sales of buildings above their depreciated value.
+133. We feel, on the other hand, that, in the event of a building being demolished before the
+end of its term of depreciation, an allowance must be given at that stage for the balance of the con-
+struction cost not already written off. This must apply in order to give equity where buildings prove
+to have a shorter life than the fixed term.
+134. We consider that an adjustment should also be given where a building is sold at a price less
+than the depreciated value, so that the vendor will be allowed a deduction of the difference between
+the depreciated value and the selling price. Correspondingly, the annual amount which the purchaser
+will be allowed as future depreciation will be the price paid by him for the building, divided by the
+number of years in the remainder of the term.
+Wasting Assets.
+135. As previously indicated, we received representations for allowances on a number of “ wasting
+assets ”. These have been considered and we feel that the following items are deserving of some
+allowance:—
+Patents Rights and Similar Intangible Assets.
+136. Under the Commonwealth patent laws, patent rights in Australia are normally for a period
+of sixteen years. There is provision for limited extensions beyond this period on certain conditions,
+but this applies in practice only in relatively few instances. In any event, it does not detract from the
+basic fact that patent rights have a definite and measurable life. To the extent that expenditure in
+relation to such rights is incurred in the production of assessable income, it is thus of a wasting nature
+and a deduction ought to be given for it over the period of its life.
+137. In this connexion, there are two types of cases to be considered. First, where a patent is
+developed and used by the original patentee in his own business; and, secondly, where a lump sum is
+paid for the purchase of patent rights, or for a licence to use such rights for a specified period.
+138. In the former class, there are no doubt instances where, in practice, the costs of developing
+the patent are deducted as part of the working expenses of the business, or as' expenditure on scientific
+research under section 73a of the Act. Where, however, the developmental expenditure is not other-
+wise deductible, we consider it should be allowed in equal instalments over the life of the patent.
+139. The only other expenditure which would be involved in such a case would be the cost of the
+original registration and periodical renewal fees. These expenses are relatively small amounts and, in
+our opinion, should be given as an outright deduction at the time the expenditure is actually incurred.
+140. Those who made the submissions to us, however, were primarily concerned with the second
+class, namely, where patent rights, or a licence to use them, are purchased for a lump sum. We were told
+that, although it would often be much more economical to do so, manufacturers frequently decline the
+opportunity to purchase such rights or licence because the expenditure cannot be taken as a deduction.
+Instead, they prefer to enter into arrangements for the payment of royalties, which are deductible as
+current expenditure. The evidence was to the effect that this practice had added unnecessarily to
+production costs. An example was quoted in which a licence was offered for a certain capital sum. Because
+
+
+this could not be claimed as a deduction, a royalty arrangement was entered into, with the result that the
+total royalties which have since been paid already amount to five times the lump sum originally asked.
+As the patentee in this instance —as in the great majority of instances —is a non-resident of Australia,
+there has been no corresponding recoupment of revenue from the recipient.
+141. In both types of case, it would be necessary to have a recapture provision to enable any part
+of the cost recouped on assignment or surrender of the rights or licence, up to the limit of the deductions
+previously allowed, to be brought back as assessable income in the hands of the recipient.
+142. Whilst we consider that the deductions suggested should be given, we recognize that the
+situation must be looked at also on the side of the person who receives the payments. As the income tax
+law stands at present, it seems that amounts received for the sale of patent rights are taxable only where
+it is shown that the recipient is carrying on business as an inventor. Moreover, the more important
+patents which are used under licence belong to non-residents of Australia, who are beyond the scope of
+the Australian taxing laws.
+143. Unless the allowance is qualified in some way, this position may leave the way open to possible
+abuse of the deduction, such as the sale of rights between related parties at an inflated price to give a
+capital profit to the vendor and a high deduction to the purchaser.
+144. As a means of overcoming this' possibility, it was suggested to us that, where the rights or
+licence are purchased from another party, the deduction should be conditional upon the vendor being
+assessable on the proceeds, either in Australia or overseas. Apart from the practical difficulties which would
+be involved in establishing that payments made to persons overseas were taxable, this does not appeal to
+us as being an equitable solution.
+145. The course we favour is to allow the deduction on the basis of parties at arm’s length. Where,
+in the opinion of the Commissioner, the transaction is between parties not at arm’s length, the deduction
+should be limited to such amount as the Commissioner considers would be the price between parties at arm’s
+length.
+146. We consider that the deduction should be allowed only where the expenditure by the purchaser
+is an outgoing for business purposes and for the production of income from the patent rights. The
+allowance should not be affected by the question as to whether or not the proceeds are taxable in the hands
+of the vendor.
+147. The considerations which apply to patent rights apply also to registered designs, the normal
+period for which is fifteen years, and we recommend that they be treated similarly.
+148. The normal period for copyrights is for the life of the author and 50 years afterwards.
+Although the amounts paid for copyrights are usually relatively small, we think that such expenditure
+should also qualify for deduction. We suggest that this be allowed over a period of 50 years or the
+remaining life of the copyright, whichever is the less. In order to avoid the necessity of carrying forward
+small amounts, the taxpayer might be given the option of writing off any amount under £SO in the year in
+which it is incurred, or if it exceeds £SO, then at the rate of £SO per annum until extinguished.
+Quarries, Claypiis, &c.
+149. Requests were made to us that an allowance should be given for the capital cost of land
+acquired for the purpose of extracting natural deposits of stone, gravel, clay, sand, &c.
+150. This subject was examined in 1950 by the Commonwealth Committee on Taxation and we
+support the principle contained in the recommendations set out in the Committee’s report on Reference
+No. s—Taxation5 —Taxation of the Mining Industries in Australia, as follows:
+(1) That an allowance of the cost of the land, spread over the life of the natural deposit
+extracted from the land for the purpose of sale, be granted for the year ending 30th June,
+1951, and subsequent years.
+(2) That the residual value upon cessation of exploitation, or the amount received on the sale
+of the land, to the extent of the deductions allowed, be brought to account as income.
+151. We suggest that, in determining the period over which the allowance is to be given, the same
+basis be followed as with developmental expenditure in the mining industry, namely, the estimated life
+of the deposit or 25 years, whichever is the less.
+Buildings and Roads Used in the Timber Industry.
+152. We received requests that the timber-getting and saw-milling industry should be accorded
+allowances for capital expenditure similar to those given in the mining industry, namely, that the cost of
+mill buildings, housing and amenities for employees and roads to provide access to the timber stand be
+written off over the estimated life of the stand or twenty-five years, whichever is the less. The requests
+were based on the claim that such capital expenditure is related directly to the stand of timber which is
+being worked and that it becomes useless for any other purpose once the timber has been removed.
+
+
+153. Whilst this is true where the mill and housing site is located in an isolated area near the timber
+stand, the evidence we received indicated that there is a growing tendency in some areas to set up the
+sawmills in established towns away from the timber stands. The result has been that, in these areas,
+the timber is now brought by road transport to a central location.
+154. So far as buildings are concerned, therefore, any direct relationship to the life of a particular
+timber stand has tended to disappear and we feel that these will be adequately covered by the general
+allowance we propose for buildings used in the production of income.
+155. The cost of access roads, however, is clearly related to the particular stand of timber which
+they are designed to serve. As these roads take the place of logging railways on which depreciation is
+allowable, we recommend that a suitable allowance be granted.
+SUMMARY OF CONCLUSIONS AND RECOMMENDATIONS.
+156. The following is a summary of the conclusions and recommendations contained in this report.-
+Term op Reference No. 1.
+We are satisfied that the estimates made by the Commissioner of the effective lives of assets are fair
+and reasonable (paragraph 16).
+Term op Reference No. 2.
+We recommend—
+(a) That the rates of depreciation for the diminishing value method be increased by 50 per cent.,
+such increase to apply to existing plant as well as future purchases (paragraphs 28 and
+29).
+( b) That an option be given to taxpayers using the prime cost method to change to the
+diminishing value method, and those using the diminishing value method to change to the
+prime cost method, in regard either to the whole of their plant or only to future purchases
+(paragraph 30).
+(c) That, in lieu of assessment in the year of receipt, taxpayers be permitted to set off any
+recoupment of depreciation against the value of other assets subject to depreciation
+paragraph 39).
+( d) That taxpayers ceasing business be permitted to apply for assessment of any recoupment
+of depreciation on a principle similar to that provided for authors and inventors in
+Division 16a of the Act (paragraph 40).
+Term op Reference No. 3.
+We recommend that, to provide for obsolescence, taxpayers be given options, within prescribed limits,
+to take rates of depreciation above the standard rates (paragraph 51).
+Term op Reference No. 4.
+We recommend that the present practice, under which overall rates of depreciation for particular
+businesses or industries are fixed by the Commissioner on request, should be continued (paragraph 61).
+Term of Reference No. 5.
+We recommend —
+(a) That an allowance for depreciation, on the basis set out in paragraph 100, be given for all
+buildings used in the production of assessable income.
+( b ) That an allowance, spread over the effective life or a prescribed period, be given for
+expenditure on the following assets where used for business purposes:—
+(i) Patent rights and similar intangible assets (paragraphs 136, 147 and 148).
+(ii) Land acquired for the extraction of natural deposits of stone, gravel, clay, sand,
+&c. (paragraph 150).
+(iii) Access roads used in the timber industry (paragraph 155).
+(Sgd.) A. S. HULME, Chairman.
+F. ERIC HITCHINS, Member.
+S. B. HOLDER, Member.
+BASIL R. ORR, Member.
+A. M. SIMPSON, Member.
+Canberra,
+31st March, 1955.
+
+
+APPENDIX.
+SCHEDULE OF AVERAGE BUILDING COSTS.
+Summary of Classifications of Buildings.
+Type “A”.—Residential Buildings—
+(i) Brick, stone or concrete.
+(ii) Timber frame.
+Type “ B ”,—Office Buildings—
+(i) Brick, stone or concrete —
+(a) Superior.
+( b ) General.
+(ii) Timber frame.
+Type “ C —Retail Shops ( excluding shops with dwellings attached) —
+(i) Three or more stories—
+(a) Superior.
+( b ) General.
+(ii ) One or more stories—
+(a) Brick, stone or concrete.
+(b) Timber frame.
+Type “ D —Hotels—
+(i) Brick, stone or concrete.
+(ii) Timber frame.
+Type “ E ”. — Theatres (Brick, stone or concrete) —
+(i) With dress circle.
+(ii) Without dress circle.
+Type “ F ”■ — Factories, Warehouses, Storage Buildings, Commercial Garages, and other buildings not elsewhere
+included —
+Group I. —Three or more stories.
+Group 11.-—One or two stories—brick, stone or concrete —
+(i) under 10,000 square feet—
+(a) wood or concrete floors,
+(b) dirt floors;
+(ii) over 10,000 square feet—
+(а) wood or concrete floors,
+(б) dirt floors.
+Group 111. —One or two stories —frame construction, walls of wood, asbestos cement or iron—
+(i) under 10,000 square feet—
+(a) wood or concrete floors,
+(b) dirt floors;
+(ii) over 10,000 square feet—
+(a) wood or concrete floors,
+(b) dirt floors.
+Group IY.—One story, frame construction and open sides —
+(i) wood or concrete floors,
+(ii) dirt floors.
+Explanatory Notes.
+The classification of any building depends upon the primary and principal purpose for which it is
+constructed. For example, a building constructed primarily for use as a retail shop will be so classified, even
+though part of the building is used as an office or a warehouse.
+“ Residential buildings ” include dwellings, flats, semi-detached cottages, residentials, private hotels,
+guest houses, rest homes and shops with dwellings attached.
+“ Superior ” means —
+(a) in relation to office buildings —buildings with steel or reinforced concrete frame; concrete
+floors and stairs; stone, terra-cotta or similar facing to street fagade; corridor partitions
+constructed substantially of polished joinery or faced with tiles, terazzo, marble or similar
+material;
+(b) in relation to retail shops —steel or reinforced concrete frame and concrete floors covered with
+wood, tiles, travertine, linoleum, rubber or similar material; stone, terra-cotta or similar
+facing to street fagade.
+References to “brick, stone or concrete ”, “ timber frame ”, &c., mean buildings constructed substantially
+of the specified material.
+The specified rate per square foot is applied to the total number of square feet of fully enclosed areas
+contained within the external walls on each story of the building, together with one-half of the number of
+square feet of—
+(a) windows, balconies, porches and other areas not fully enclosed but which form integral parts
+of the building; and
+(b) basements.
+“ Story ” does not include a basement.
+
+
+TYPE “ A ’’—RESIDENTIAL BUILDINGS.
+Year.
+Brick, Stone or Concrete.
+Timber Frame.
+Rate per sq. ft.
+Rate per sq. ft.
+s. d.
+s. d.
+1939
+16 6
+13 0
+1938
+15 6
+12 0
+1937
+14 6
+11 3
+1936
+13 6
+10 6
+1935
+12 9
+10 0
+1934
+12 3
+9 6
+1933
+11 6
+9 0
+1932
+10 9
+8 6
+K31
+11 9
+9 3
+1930
+14 9
+11 6
+1929
+14 9
+11 6
+1928
+14 9
+11 6
+1927
+13 9
+10 9
+1926
+13 9
+10 9
+1925
+13 9
+10 9
+1924
+13 9
+10 9
+1923
+13 9
+10 9
+1922
+13 9
+10 9
+1921
+13 9
+10 9
+1920
+13 9
+10 9
+1919
+13 0
+10 3
+1918
+12 6
+9 9
+1917
+11 0
+8 6
+1916
+9 6
+7 6
+1915
+9 0
+7 0
+1914
+8 3
+1913
+8 3
+1912
+8 3
+1911
+7 6
+1910
+7 6
+1909
+7 6
+1908
+7 0
+1907 and previous years
+6 3
+TYPE “ B ’’—OFFICE BUILDINGS.
+Brick, Stone or Concrete.
+Year,
+Timber Frame.
+Superior.
+General.
+Bate per sq. ft.
+Rate per sq. ft.
+Rate per sq. ft.
+8.
+d.
+8.
+d.
+8,
+d.
+1939
+30
+0
+22
+0
+16
+6
+1938
+28
+0
+20
+6
+15
+6
+1937
+26
+0
+19
+3
+14
+6
+1936
+24
+3
+17
+9
+13
+6
+1935
+23
+0
+17
+0
+12
+9
+1934
+22
+3
+16
+3
+12
+3
+1933
+20
+9
+15
+3
+11
+6
+1932
+19
+6
+14
+3
+10
+0
+1931
+21
+3
+15
+9
+11
+9
+1930
+26
+9
+19
+6
+14
+9
+1929
+26
+9
+19
+6
+14
+9
+1928
+26
+9
+19
+6
+14
+9
+1927
+25
+0
+18
+3
+13
+9
+1926
+25
+0
+18
+3
+13
+9
+1925
+25
+0
+18
+3
+13
+9
+1924
+25
+0
+18
+3
+13
+9
+1923
+25
+0
+18
+3
+13
+9
+1922
+25
+0
+18
+3
+13
+9
+1921
+25
+0
+18
+3
+13
+9
+1920
+26
+0
+18
+3
+13
+9
+1919
+23
+9
+17
+6
+13
+O
+1918
+22
+6
+16
+6
+12
+6
+1917
+19
+9
+14
+6
+11
+0
+1916
+17
+6
+12
+9
+9
+6
+1915
+16
+3
+12
+0
+9
+O
+1914
+15
+0
+11
+0
+1913
+16
+0
+11
+0
+1912
+15
+0
+11
+0
+1911
+13
+9
+10
+3
+1910
+. „
+13
+9
+10
+3
+1909
+,,
+13
+9
+10
+3
+1908
+12
+6
+9
+3
+1907 and previous years
+11
+6
+8
+6
+Appendix— continued.
+
+
+TYPE “ C ’’—RETAIL SHOPS (EXCLUDING SHOPS WITH DWELLINGS ATTACHED).
+Three or More Stories.
+Year.
+Superior.
+General.
+Rate per sq. ft.
+Rate per pq. ft.
+5. d.
+s. d.
+1939
+27 6
+20 0
+1938
+25 6
+18 6
+1937
+24 0
+17 6
+1936
+22 3
+16 3
+1935
+21 3
+15 6
+1934
+20 3
+14 9
+1933
+19 0
+13 9
+1932
+18 0
+13 0
+1931
+19 6
+14 3
+1930
+24 6
+17 9
+1929
+24 6
+17 9
+1928
+24 6
+17 9
+1927
+23 0
+16 6
+1926
+23 0
+16 6
+1925
+23 0
+16 6
+1924
+23 0
+16 6
+1923
+23 0
+16 6
+1922
+23 0
+16 6
+1921
+23 0
+16 6
+1920
+23 0
+16 6
+1919
+22 0
+15 9
+1918
+20 6
+15 0
+1917
+18 3
+13 3
+1916
+16 0
+11 6
+1915
+15 0
+10 9
+1914
+13 9
+10 0
+■ 1913
+13 9
+10 0
+1912
+13 9
+10 0
+1911
+12 9
+9 3
+1910
+12 9
+9 3
+1909
+12 9
+9 3
+1908
+11 6
+8 6
+1907 and previous years
+10 6
+7 9
+Year.
+One or Two Stories.
+Brick, Stone or Concrete.
+Timber Frame.
+1939
+Rate per sq. ft.
+s. d.
+14 6
+Rate per sq. ft.
+s. d.
+11 6
+1938
+, .
+13
+6
+10
+9
+1937
+12
+6
+10
+0
+1936
+, ,
+11
+9
+9
+3
+1935
+, .
+11
+3
+9
+0
+1934
+, .
+10
+9
+8
+6
+1933
+10
+0
+8
+0
+1932
+9
+6
+7
+6
+1931
+10
+3
+8
+3
+1930
+13
+0
+10
+3
+1929
+13
+0
+10
+3
+1928
+13
+0
+10
+3
+1927
+12
+0
+9
+6
+1926
+12
+0
+9
+6
+1925
+12
+0
+9
+6
+1924
+12
+0
+9
+6
+1923
+12
+0
+9
+6
+1922
+12
+0
+9
+6
+1921
+12
+0
+9
+6
+1920
+.
+12
+0
+9
+6
+1919
+11
+6
+9
+0
+1918
+11
+0
+8
+6
+1917
+9
+6
+7
+6
+1916
+8
+6
+6
+9
+1915
+7
+9
+6
+3
+1914
+7
+3
+1913
+7
+3
+1912
+7
+3
+1911
+6
+9
+1910
+6
+9
+1909
+, ,
+6
+9
+1908
+6
+0
+1907 and previous years
+5
+6
+Appendix— continued.
+
+
+TYPE “D”—HOTELS.
+Year.
+Brick, Stone or Concrete.
+Timber Frame.
+Kate per sq. ft.
+Rate per sq. ft.
+s.
+d.
+6.
+d.
+1939
+25
+0
+20
+0
+1938
+23
+3
+18
+6
+1937
+22
+0
+17
+6
+1936
+20
+3
+16
+3
+1935
+19
+3
+15
+6
+1934
+18
+6
+14
+9
+1933
+17
+3
+13
+9
+1932
+16
+3
+13
+0
+1931
+17
+9
+14
+3
+1930
+22
+3
+17
+9
+1929
+22
+3
+17
+9
+1928
+22
+3
+17
+9
+1927
+20
+9
+16
+6
+1926
+20
+9
+16
+6
+1925
+20
+9
+16
+6
+1924
+20
+9
+16
+6
+1923
+20
+9
+16
+6
+1922
+20
+9
+16
+6
+1921
+20
+9
+16
+6
+1920
+20
+9
+16
+6
+1919
+19
+9
+15
+9
+1918
+18
+9
+15
+0
+1917
+16
+6
+13
+3
+1916
+14
+6
+11
+6
+1915
+13
+6
+10
+9
+1914
+12
+6
+1913
+12
+6
+1912
+12
+6
+1911
+11
+6
+1910
+11
+6
+1909
+11
+6
+1908
+10
+6
+1907 and
+previous years
+9
+6
+TYPE “
+E THEATRES (EXCLUDING OPEN-AIR THEATRES).
+Brick, Stone or Concrete.
+Year.
+With Dress Circle.
+Without Dress Circle.
+Rate per Seat.
+Rate per Seat,
+£
+£
+1939
+, ,
+13.5
+10.0
+1938
+13.6
+9.26
+1937
+11.75
+8.75
+1936
+11
+8
+1936
+10.25
+7.76
+1934
+10
+7.5
+1933
+9.5
+7
+1933
+8.76
+6.6
+1931
+9.6
+7
+1930
+12
+9
+1929
+12
+9
+1928
+12
+9
+1927
+11.25
+8.25
+1926
+11.25
+8.25
+1925
+11.25
+8.25
+1924
+11.25
+8.25
+1923
+11.25
+8.25
+1922
+11.25
+8.26
+1921
+11.25
+8.25
+1920
+11.25
+8.25
+1919
+10.75
+8
+19! 8
+10
+7.5
+1917
+9
+6.6
+1916
+8
+6
+1915
+7.25
+5.5
+1914
+6.75
+5
+1913
+6.75
+6
+1912
+6.75
+6
+1911
+6.25
+4.6
+1910
+6.25
+4.5
+1909
+6.25
+4.5
+1908
+5.5
+4.25
+1907 and previous years
+5
+3.75
+Appendix— continued.
+
+
+TYPE “
+F ’’—FACTORIES, WAREHOUSES, STORAGE BUILDINGS. COMMERCIAL GARAGES AND OTHER BUILDINGS
+NOT ELSEWHERE INCLUDED.
+One or Two Stories—Brick, Stone, Concrete.
+Year.
+Three or More
+Stories.
+Under 10,000 sq. ft.
+Over 10,000 sq. ft.
+Wood or Concrete
+Floors.
+Dirt Floors.
+Wood or Concrete
+Floors.
+Dirt Floors.
+1939
+Rate per sq. ft.
+a. d.
+14 6
+Rate per
+3.
+12
+sq. ft.
+d.
+0
+Rate per sq. ft.
+a. d.
+10 6
+Rate per sq. ft.
+s. d.
+8 6
+Rate per sq. ft.
+a. d.
+7 0
+1938
+13
+6
+11
+3
+9
+9
+8
+0
+6
+6
+1937
+12
+6
+10
+6
+9
+3
+7
+6
+6
+0
+1936
+11
+9
+9
+9
+8
+6
+7
+0
+5
+9
+1935
+11
+3
+[9
+3
+8
+0
+6
+6
+5
+6
+1934
+10
+9
+9
+0
+7
+9
+6
+3
+5
+3
+1933
+10
+0
+8
+3
+7
+3
+6
+0
+4
+9
+1932
+9
+6
+7
+9
+6
+9
+5
+6
+4
+6
+1931
+10
+3
+8
+6
+7
+6
+6
+0
+6
+0
+1930
+13
+0
+10
+9
+9
+3
+7
+6
+6
+3
+1929
+13
+0
+10
+9
+9
+3
+7
+6
+6
+3
+1928
+13
+0
+10
+9
+9
+3
+7
+6
+6
+3
+1927
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1926
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1925
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1924
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1923
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1922
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1921
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1920
+12
+0
+10
+0
+8
+9
+7
+0
+5
+9
+1919
+11
+6
+9
+6
+8
+3
+6
+9
+5
+6
+1918
+11
+0
+9
+0
+8
+0
+6
+6
+5
+3
+1917
+9
+6
+8
+0
+7
+0
+5
+6
+4
+6
+1916
+8
+6
+7
+0
+6
+0
+5
+0
+4
+0
+1915
+7
+9
+6
+6
+6
+9
+4
+6
+3
+9
+1914
+7
+3
+6
+0
+5
+3
+4
+3
+3
+6
+1913
+7
+3
+6
+0
+5
+3
+4
+3
+3
+6
+1912
+7
+3
+6
+0
+5
+3
+4
+3
+3
+6
+1911
+6
+9
+6
+6
+4
+9
+4
+0
+3
+3
+1910
+6
+9
+6
+6
+4
+9
+4
+0
+3
+3
+1909
+6
+9
+5
+6
+4
+9
+4
+0
+3
+3
+1908
+6
+0
+5
+0
+4
+6
+3
+6
+3
+0
+1907 and
+previous years
+5
+6
+4
+6
+4
+0
+3
+3
+2
+9
+Year.
+One or Two Stories—Frame Construction, Walls of Wood, Asbestos Cement, or Iron.
+Under 10,000 sq. ft.
+Over 10,000 sq. ft.
+Wood or Concrete Floors.
+Dirt Floors.
+Wood or Concrete Floors.
+Dirt Floors.
+Rate per aq. ft.
+Rate per sq. ft.
+Rate per sq. ft.
+Rate per sq. ft.
+8,
+d.
+6.
+d.
+8.
+d.
+8.
+d.
+1939
+,
+10
+6
+9
+0
+7
+6
+6
+0
+1938
+9
+9
+8
+6
+7
+0
+5
+6
+1937
+9
+3
+8
+0
+6
+6
+5
+3
+1936
+8
+6
+7
+6
+6
+0
+4
+9
+1935
+8
+0
+7
+0
+0
+9
+4
+6
+1934
+7
+9
+6
+9
+6
+6
+4
+6
+1933
+7
+3
+6
+3
+6
+3
+4
+3
+1932
+6
+9
+6
+9
+5
+0
+4
+0
+1931
+7
+6
+6
+6
+5
+3
+4
+3
+1930
+9
+8
+8
+0
+6
+9
+5
+3
+1929
+9
+8
+8
+0
+6
+9
+6
+3
+1028
+9
+3
+8
+0
+6
+9
+6
+3
+1927
+8
+y
+7
+6
+6
+3
+6
+0
+1926
+8
+9
+7
+6
+6
+3
+5
+0
+1925
+8
+9
+7
+6
+6
+3
+6
+0
+1924
+8
+9
+7
+6
+6
+3
+5
+0
+1923
+8
+9
+7
+6
+6
+3
+5
+0
+1922
+8
+9
+7
+6
+6
+3
+5
+0
+1921
+8
+9
+7
+6
+6
+3
+5
+0
+1920
+8
+9
+7
+6
+6
+3
+6
+0
+1919
+8
+3
+7
+0
+6
+0
+4
+9
+1918
+S
+0
+6
+9
+6
+6
+4
+6
+1917
+7
+0
+6
+0
+6
+0
+4
+0
+1916
+6
+0
+5
+3
+4
+3
+3
+6
+1915
+5
+9
+5
+0
+4
+0
+3
+3
+Appendix— continued.
+
+
+Type “ E ” —Factories, Warehouses, Storage Buildings,
+Commercial Garages
+and Other Buildings Not Elsewhere
+Included — continued .
+One Story, Frame Construction, Open Sides.
+Year.
+Wood or Concrete Floors.
+Dirt Floors.
+Rate per sq. ft.
+Rate per sq. ft.
+s. d.
+s. d.
+1939
+4 6
+3 0
+1938
+4 3
+2 9
+1937
+4 0
+2 6
+1936
+3 9
+2 6
+1935
+3 6
+2 3
+1934
+3 3
+2 3
+1933
+3 0
+2 0
+1932
+3 0
+2 0
+1931
+3 3
+2 3
+1930
+4 0
+2 9
+1929
+4 0
+2 9
+1928
+4 0
+2 9
+1927
+3 9
+2 6
+1926
+3 9
+2 6
+1925
+3 9
+2 6
+1924
+3 9
+2 6
+1923
+3 9
+2 6
+1922
+3 9
+2 6
+1921
+3 9
+2 6
+1920
+3 9
+2 6
+1919
+3 6
+2 6
+1918
+3 6
+2 3
+1917
+3 0
+2 0
+1916
+2 9
+1 9
+1915
+2 6
+1 6
+Printed for the Government of the Commonwealth by A. J. Arthur at the
+Government Printing Office, Canberra.
+Appendix— continued.

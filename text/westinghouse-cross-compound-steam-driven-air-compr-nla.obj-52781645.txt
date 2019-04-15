@@ -1,0 +1,1313 @@
+
+
+INSTRUCTION PAMPHLET
+No. C2
+JANUARY, 1930
+CROSS
+COMPOUND
+STEAM DRIVED
+AIR
+COMPRESSORS
+WESTINGHOUSE BRAKE COMPANY
+OF AUSTRALASIA, LTD.
+CONCORD WEST, N.S.W.
+
+
+This Book is the property of the South
+Australian Railways Commissioner, and
+is loaned to the undersigned, who hereby
+agrees to return it to the Director, Rail-
+ways Institute, when called for, or upon
+leaving the employ of the Commissioner,
+or pay 1 /- for same.
+Name. Position.
+tte. CUL r&Mi
+A:
+ff
+
+
+WESTINGHOUSE
+CROSS COMPOUND
+STEAM DRIVEN
+AIR COMPRESSORS
+INSTRUCT lON TAHITI L IST
+No. C 2
+JANUARY, 1930.
+[COPYRIGHT]
+PRICE: Single Copies, 1/6.
+WESTINGHOUSE BRAKE CO.
+OF AUSTRALASIA, LTD.
+CONCORD WEST, N.S.W.
+
+
+CONTENTS
+TITLE I’AGE '
+BCiucli Cross Compound Air Compressor <•
+Description 8
+Operation 1?
+Air Strainer •• • • 18
+Insinuation and Operating Instructions 21
+Repair Shop and Road Tests
+Disorders 35
+Maintenance! 38
+
+
+Fig. 1. 8½-Inch Cross Compound Compressor From View
+
+
+CROSS COMPOUND AIR COMPRESSORS
+NOTE —The reference numbora shown herein are for convenience
+only and are not to ho used when ordering repair parts. See Part Catalogue
+giving piece numbers, etc.
+It is generally recognized that the duty imposed upon
+the locomotive air compressor has very largely in-
+creased from year to year, but the extent, of this in*
+crease is more fully appreciated when the following
+factors are considered
+(a) The development of locomotives of great
+weight and tractive power and in consequence
+longer trains of heavy, large capacity cars.
+(b) The large brake cylinders and reservoirs
+required for the heavier cars, the longer brake pipe
+due to the longer trains hauled, and the greater
+number of flexible connections and fittings where
+leakage may occur, combine to demand normally a
+larger volume of compressed air than ever before.
+(e) The growing use of many pneumatically
+operated auxiliary appliances, such as boosters,
+automatic ash pans, engine reversing appliances,
+Pullman water raising system, etc., which take,
+their supply from the air compressor.
+(d) The necessity of avoiding delays at termi-
+nals where traffic tends to congest, by a prompt,
+charging of long trains. Present day service con-
+ditions demand a compressor of ample capacity to
+secure maximum brake efficiency.
+
+
+8½-INCH CROSS COMPOUND
+AIR COMPRESSOR
+The great increase in emu pressor capacity called for
+in modern service has resulted in a much more careful
+consideration of the matter of steam consumption than
+formerly, and as a result the Westinghouae B|-inch
+Cross Compound Compressor was developed for the
+specific purpose of combining maximum capacity and
+highest efficiency, by compounding both the steam sup-
+plied and the air compressed to the extent that, while
+this compressor has a capacity nearly three times as
+great as the well known Klin, x lOg-in. single stage
+compressor, the steam consumption per 100 cubic
+feet of air compressed is but one-third.
+The Si-inch compressor is now available in two
+sizes. The 8 J-inch —150, ordinarily used in steam road
+service, has a normal displacement of 150 on, ft, when
+operating on '2OO lbs. steam pressure. The 8-J-ineh—
+-120 was designed to operate on a lower steam pressure,
+and has a normal displacement of 120 cu. ft. when ope-
+rating on 160 lbs. steam pressure.
+
+
+The following table gives the principal dimensions,
+weight, etc., of the Si-inch compressors:
+81" —150 Si"—l2(l
+Diameter of High Pressure Steam Cyl. .. 81 in. 84 in.
+Diameter of Low Pressure Steam Cyl. ... 141 in. 14 in.
+Diameter of High Pressure Air Cyl 9 In. 81 in.
+Diameter of Low Pressure Air Cyl 141 in, 131 in.
+Length of Stroke 12 in. 12 in.
+Diameter of Steam Admission Pipe D in. 11 in.
+Diameter of Steam Exhaust Pipe 11 in. 11 in.
+Diameter of Air Admission Pipe 2 in. 2 in.
+Diameter of Air Delivery Pipe. 11 in. 11 in.
+Designed for Steam Pressure of 200 Ihs. 160 lbs.
+Wnrj ring against an Air Pressure of .... 140 Ihs. 140 Ihs.
+Normal Speed, single strokes per minute,
+under above conditions 131 131
+Displacement, cubic feet per minute, under
+above conditions 150 120
+Overall Dimensions; Height 52 in. 52 in.
+(Approximate) Width 37 in, 37 in.
+Depth 184 in. 181 in.
+Average Net Weight 1500 lbs. 1500 lbs.
+Weight, boxed for shipment 1750 Ihs. 1750 lbs.
+Lift for Air Valves 3-32 in, 3-32 in.
+SIZE OE GOVERNOR, STEAM VALVE AND PIP-
+ING FOR. TWO COMPRESSOR INSTALLATION
+81"—-150 and 81" —120
+Governor 11 in.
+Steam Valve ip,
+Steam Admission Pipe
+Main Pipe 11 in.
+Branch Pipe 1} in.
+Steam Exhaust Pipe
+Main Pipe 21 in.
+Branch Pipe 11 in,
+Air Admission Pipe
+Main Pipe 21 in.
+Branch Pipe 2 in.
+Air Delivery Pipe
+Main Pipe 2 in.
+Brandi Pipe 14 in.
+
+
+DESCRIPTION
+As in the ease of the .standard Westinghouse Single
+Stage Air Compressors, the steam cylinders are placed
+vertically above the air cylinders and connected by a
+common center piece, see exterior view, Fig’. 1.
+The diagrammatic views, Figs. 14 and 15, serve to
+illustrate the simplicity of this design and emphasise the
+fact that the cross compound compressor is a serial
+arrangement ol: two standard single stage compressors,
+actuated by the same controlling mechanism, and with
+pistons moving uniformly in, opposite directions. These
+cuts also show the few moving parts employed, which
+comprise (a), the high pressure steam low pressure air
+pistons, connected by a Nickel-Chrome steel piston rod
+drilled for the reversing valve rod which operates the
+reversing valve, and which in turn moves the main pis-
+ton valve controlling the admission of steam to and the
+exhaust from both, the high and low pressure steam cyl-
+inders and (b), the low pressure steam and high pres-
+sure air pistons connected by a solid Nickel-Ohrome
+steel piston rod having no mechanical connection with
+the valve gear.
+Figs. 12 and 13 are sectional views showing the
+porta and passages, also reference numbers by means
+of which the various parts hereinafter referred to can
+be readily identified.
+Fig. 2 shows partial sectional views of the center
+piece of the compressor, illustrating the provision made
+for draining off from the center piece the water which
+drips from the stuffing boxes. The water which thus
+accumulates is drained through passages a' and o' to b’
+
+
+and thence through the drain pipe connection cm the
+lower flange to .some convenient, point, hs between the
+engine frame.
+The Governor is located in tin? piping to the .steam
+inlet, Fig. 4. Steam entering passes through port, a
+lo the top head, and thence through ports a and k, Figs.
+12 and 12, to the reversing valve chamber (' and main
+valve chamber, Fig. 12 ; e is the exhaust passage leading
+to the steam exhaust pipe. As it is difficult to follow
+the ports in these cuts, we have prepared two diagrams,
+as shown in Figs. 14 and 10, in wliieh the piston valve
+and reversing valve are turned !H) degrees horizontally
+from their actual, position in order to make the ope-
+ration more easily understood, and all ports and pass-
+ages are connected in the simplest possible manner,
+without regard to the actual construction of the com-
+pressor.
+Ilei’erring to Fig. 34,, passage a, communicating with
+cavity ('• and the two chambers b and y, conveys the
+steam from the source of supply to the operating valves,
+of which there are two, namely; the reversing valve and
+the piston valve. The piston valve is a multiple piston
+device, consisting of a large piston at one end, a small
+piston at the other, with three intermediate pistons of
+uniform size, which will he referred to hereinafter as
+numbers 1,2, and li, numbering from the small piston
+end of the piston valve.
+It is evident, that, with five pistons mounted on a
+common rod and working in a cylinder, we have, includ-
+ing the ends, six separate chambers, in this particular
+construction, five of these chambers have permanent
+connections as follows:
+
+
+SECTION TAKEN AT B-a-B-B
+Fig. 2. Partial Sectional Views of Centre Piece, Showing Drainage.
+
+
+The first chamber, e, behind the outer end of the
+.small piston, to the atmosphere.
+The second chamber, b, between the small and No, 1
+intermediate piston to passage a.
+The third chamber, i, between the No. 1 and No. 2
+intermediate pistons, to the lower end of the low pres-
+sure steam cylinder.
+The fonrlli chamber, h, between the No. 2 and No. d
+intermediate! pistons, to the upper end of the low pres-
+sure steam cylinder.
+The fifth chamber, y, between the third intermediate
+and the inner side of large piston, to passage a.
+The reversing valve 22 moving vertically on its seat
+in chamber C, controls the admission and exhaust of
+steam from cavity D, behind the outer end of the large
+piston of the piston valve, causing it to operate hori-
+zontally, the intermediate piston moving as follows:
+Intermediate piston No. 2 crosses a port connecting
+with passage 0 controlling the How of .steam to the up-
+per end of the high pressure steam cylinder, and also
+the exhaust into the upper end of the low pressure
+steam cylinder.
+Intermediate piston No. 2 crosses a port connecting
+with passage e, controlling the exhaust of steam from
+either end of the low pressure steam cylinder.
+Intermediate piston No. 1 crosses a port connecting
+with passage g, causing steam to be admitted to the
+lower end of the high pressure steam cylinder or ex-
+hausting the same from this cylinder into the lower
+end of the low pressure steam cylinder. A. passage, z,
+leading from the upper end of the high pressure steam
+cylinder is the means of supplying pressure to balance
+the reversing valve rod.
+
+
+OPERATION
+'When the high pressure steam piston has nearly com-
+pleted its up stroke, the reversing l valve plate 18 comes
+in contact with the shoulder on the reversing rod, forc-
+ing said red 21 to its uppermost position, carrying with
+it reversing valve 22, the movement of which, in turn,
+not only blanks port to passage m, thereby cutting off
+means of exhausting steam from cavity behind the large
+end of piston valve, but also opens port to passage n,
+filling this chamber, I), with live steam from passage a.
+The pressure, thus exerted on the outer side, of the large
+piston added to the pressure on the inner side of the
+small piston is now greater than the pressure exerted
+against the inner side of the large piston,.and the piston
+valve moves toward the left, or in the direction of
+chamber E. The small piston valve cylinder head 35 is
+provided with a bush having six elongated grooves,
+three of which are shown in Fig. 13. (All of
+these grooves have been considered for the sake of sim-
+plicity as combined into one groove, Figs. 14 and 15.)
+As the piston valve moves toward the left and uncov-
+ers these grooves, live steam from chamber b by-passes
+to chamber E back of the small end of the main valve
+piston. At the instant these grooves are cut off by the
+further movement of the piston, port o leading to the
+exhaust is also blanked which enables the small piston
+to compress the steam in chamber E, thus providing a
+high cushioning pressure. This movement of the main
+valve piston admits steam, to the upper end of the high
+pressure steam cylinder starting the high pressure
+steam piston on its downward stroke. All parts have
+now assumed the position shown in Fig. 13,
+
+
+A direct communication is now established where-
+by live steam is supplied through passage a, chamber y,
+and passage c to tin; upper end of the high pressure
+steam cylinder, forcing downward the high pressure
+steam piston and low pressure air piston to which it is
+rigidly connected by the piston rod, that is free to move
+in the necessary stuffing boxes. Tin; movement of the
+piston valve to the left, as described above, has opened
+passage g to passage f through cavity i, thus permit-
+ting the steam in the lower end of the high pressure
+steam cylinder to expand into the lower end of tin*
+low pressure steam cylinder. The latter being of ma-
+terially larger volume than the former, it will bo seen
+that the steam is thereby made to do its work expan-
+sively in the low pressure steam cylinder. At the same
+time—
+(a) the. low pressure air piston, !), is compress-
+ing air in the lower end of the low pressure air
+cylinder and forcing same through the intermedi-
+ate valves 40, and passage u into the lower end of
+the high pressure air cylinder, and —
+(b) air at atmospheric pressure is being drawn
+into the upper end of the low' pressure cylinder,
+through the air strainer, upper inlet opening, and
+inlet valve 117.
+It will ho observed that the steam exhausted into the
+lower end of the low pressure steam cylinder and the
+low pressure air forced into the lower end of the high
+pressure air cylinder act simultaneously on the lower
+sides of their respective pistons. The force thus exerted
+results in an upward movement of the low pressure
+
+
+steam and high pressure air pistons. The upward move-
+ment causes the high pressure air piston 10 to compress
+the air in the upper end of the high pressure air cylin-
+der to its final pressure, and to discharge it through
+passage v, discharge valve 41, and passage w into the
+main reservoir. Steam is exhausted from the upper end
+of the low pressure steam cylinder through passage d,
+chamber h and passage e to the atmosphere.
+After the low pressure steam (high, pressure air) pis-
+ton has completed its upward stroke, as explained, the
+lower end of the high pressure air cylinder, is of course,
+filled with air compressed from the lower end of the
+low pressure air cylinder, and the lower end of the low
+pressure steam cylinder is filled with steam exhausted
+from the lower end of the high pressure steam cylinder.
+However, just as the low pressure steam (high pressure
+air) piston has completed its upward stroke, steam is
+by-passed through three hy-pass grooves x from the
+lower to the upper side of the low pressure steam pis-
+ton, thereby preventing an accumulation of hack pres-
+sure iu the lower end of the high pressure cylinder.
+At this stage of the cycle, also, the upper end of the
+low pressure air cylinder is tilled with air at atmo-
+spheric pressure and the upper end of the high pressure
+steam cylinder is filled with live steam; hut just before
+the high pressure steam (low pressure air) piston com-
+pletes its downward stroke, reversing valve plate 18 en-
+gages the button end of the reversing valve rod, moving
+it downward and carrying the reversing valve to its
+extreme lower position, thereby closing port leading to
+passage n, cutting off the supply of live steam to chain
+
+
+her D, and connecting passage m, cavity q and passage
+1, thereby exhausting steam from cavity D behind the
+outer end of the large piston of the piston valve. Since
+the pressure against the inner side of the large piston
+is now greater than the pressure exerted against the
+inner side of the small piston, the piston valve moves
+to the right or in the direction of chamber 1), and all
+parts arc in the position shown in Fig. 15.
+Live steam is now supplied from passage a, through
+chamhcr b, and passage g, to the lowin’ end of the high
+pressure steam cylinder, forcing upward the high pres-
+sure steam piston which, as already explained, carries
+with it the low pressure air piston. At this time also,
+steam is exhausted from the upper end of the high pres-
+sure steam cylinder, through passage c, chamber b and
+passage d, into the upper end of the low pressure steam
+cylinder. At. the same time—
+(a) the low pressure air piston is compressing
+the air in the upper end of the low pressure air
+cylinder and forcing same through the intermediate
+valves 7(5, and passage, u, into the upper end of the
+high pressure air cylinder, and-
+(b) air at atmospheric pressure is drawn into
+the lower end of the low pressure air cylinder,
+through the air strainer, lower inlet opening, pas-
+sage r and lower inlet valve 88.
+Again it will be observed that the steam in the low
+pressure steam cylinder and air in the high pressure
+air cylinder act simultaneously against their respective
+pistons, steam being exhausted from the upper end of
+
+
+plate attached to the high pleasure steam piston coming
+in contact with the shoulder of the reversing valve rod,
+which in turn, actuates the reversing valve, and the
+cycle ol: operation already described is repeated,
+
+
+AIR STRAINER
+The “No. 54 Air Strainer’’ is regularly supplied with
+all cross compound air compressors. The largo capacity
+of this strainer permits the air to be drawn through it
+gently and without compelling the compressor to
+“pull" hard to get it. The dust and dirt is thus
+stopped at the miter surface of the strainer proper and
+most of it is Hum jolted out. at the lower speeds with
+the engine moving.
+As will be seen from
+Fig, 8, this is a very large
+double cylindrical strainer
+(overall dimensions ap-
+proximately 10"x.1.4") with
+an inner strainer of per-
+forated sheet steel, galvan-
+ized, and an outer strainer'
+of coarse galvanized wire
+mesh, the intervening
+space being well packed
+with curled hair, A gal-
+vanized iron shell 8 en-
+circles the strainer proper,
+preventing dirt, oil and
+water from striking direct-
+ly against the strainer and
+thereby reducing the pos-
+sibility of trouble, from
+clogging. The strainer
+may be quickly and con-
+veniently taken apart,
+Section AA
+No. 54 Air Strainer.
+Fig. 3. Sectional View
+18
+CROSS COMPOUND AIR COMPRESSORS
+
+
+without disturbing any pipe connections, by removing
+tin' nuts from the four studs. This strainer should be.
+installed vertically with the. large opening downward
+and bolted under the. running hoard at some protected
+point so as to draw the cleanest mul driest air available
+—never when 1 a probable steam leak will saturate the
+intake air.
+Only one No, 54 strainer is required per compressor
+and this should be connected to the two inlet openings
+of the St-inch coin pressor by a manifold specially de-
+signed for this purpose. See Fig, 1.
+In order to facilitate e,leaning of the strainer be-
+tween “shoppings” of the locomotive, some roads use a
+“blow-hack” arrangement. This consists of a f-iucli
+pipe connected to the main reservoir supply (but not
+to the discharge, pipe), in which is placed a f-incli cut-
+out cock having a warning port drilled from the outer
+end of the key into the cored passage so that a small
+amount of air will discharge when the cock is open
+and thereby help to guard against it being left open.
+Tin 1 cock is placed near the. point at which this con-
+nection to the main reservoir supply is made so as to
+reduce the liahilhy of delay in case of pipe breakage
+beyond the cock. A tec is substituted for the ell at the
+strainer, and the blow-hack pipe is connected through
+an, ell to the lee opening which points vertically up-
+ward so that the blast of air will he downward into
+the strainer. To use the blow-back merely requires
+opening the j'-inch cock for a few seconds at. any time
+when main r’eservoir pressure is at maximum and the
+compressor is shut off.
+
+
+Fig. 4. Installation Diagram of 8½-Inch Cross Compound Air Compressor
+
+
+INSTALLATION AND OPERATING
+INSTRUCTIONS
+i he air compressor should ho located on the fireman’s
+side of the boiler, forward of the staybolts, low enough
+to permit a dear vision of the track from the fireman's
+seat box.
+Tiie compressor should he supported by a cast stud
+bracket with the following precautions taken in its
+design and installation. It should be accurately fitted
+to avoid twisting strains which would throw the com-
+pressor hearing out of true. The surfaces against
+which the compressor lugs bear should be finished ami
+suitable projection provided, for supporting the com-
+pressor on its bottom lugs instead of on the bolts. (See
+Fig. .12 for dimensions,) Supporting stud nuts should
+have full bearing on the bracket to avoid stud failures.
+Removal of the compressor top bead should be possible,
+without loosening the compressor on its supporting
+bracket.
+. Piping. All pipes should be hammered to loosen, the
+scale and dirt, have tins removed, and be thoroughly
+blown out with steam before erecting; bunds should be
+used wherever possible instead of ells, and, all sags
+avoided. A suitable compound to make a tight joint
+should he applied on the. male threaded portion only,
+and never in the socket. Do not use red or white load.
+shows the recommended arrangement and sizes
+of piping for one BJ-ineh compressor, The size of pipe,
+
+
+particularly of the steam supply pipe, should never
+he smaller than that indicated in order to obtain maxi-
+mum el'iiciency from the compressor.
+■ Whore that portion of the steam pipe outside of the
+eah is.not under the boiler jacket (the most desirable
+location) it should be completely covered -with a good
+sectional pipe covering ({-inch thick, substantially
+secured by metal bands.
+When it is necessary to install the steam pipe inside
+the locomotive cab, extra strong iron or steel pipe or
+copper tubing of standard iron pipe dimensions should
+be used.
+The steam valve should be located, on driver’s side
+of the steam turret, with handle in convenient posi-
+tion for operating. Use extension handle if necessary
+to accomplish this, bracing same close to handle.
+In a single compressor installation the governor
+should be located in the steam supply pipe between the
+lubricator connection and the compressor in order to
+insure its receiving the necessary lubrication,-The lubri-
+cator connection consists of a toe, the side outlet of
+which connects to the lubricator. In a two-compressor
+installation the governor should be located in the main
+steam supply pipe between the lubricator fitting and
+the steam branch pipe leading to each compressor.
+Starting and .Running. The drain cocks (63, 64 and.
+65, Fig. 14) are placed at the lowest points of the steam.
+
+
+passages, as shown, for flu; purpose of draining con-
+densed steam when the compressor is stopped and when
+starting it. They should always be left open when the
+compressor is to stand idle for any length of time.
+These! drain cocks are provided with suitable union fit-
+ting's, so that drain pipes may he connected if desired.
+In starting the compressor, always run it slowly un-
+til it becomes warm, permitting the condensed steam to
+escape through the drain cocks and the exhaust, until
+there is sufficient pressure in the main reservoir (25 to
+MO Ihs.) to provide an air cushion. Then dose drain
+cocks and open the steam (throttle) valve sufficiently to
+run the compressor at the proper speed, according to
+circumstances. Kacing or running at excessive speeds
+should not he allowed. The compressor governor auto-
+matically controls the starting and stopping of the com-
+pressor.
+To iStou the (ioMURUSsoK. (1) (dose the feed and
+steam valves on the sight-feed lubricator, if the com-
+pressor has a separate one, or the feed, if supplied from
+the locomotive lubricator; (2) then close the steam
+(throttle) valve; (M) and open all the drain cocks on
+the compressor. Keep the steam valve closed and the
+drain cocks open when the compressor is not working.
+The main reservoir drain cocks should also he left open
+when the compressor is stopped for any length of time.
+The compressor should always he stopped while the lo-
+comotive is over the ash pit. If permitted to run, ashes
+and dust will he drawn into the air cylinder and injure
+it, besides clogging up the air strainer.
+
+
+Lubrication. —Ant Cylinders. On account of the
+high temperatures developed by air compression, the
+variation between maximum and minimum delivered
+air pressures, and the necessity of preventing oil from
+passing into the system, one of the vital problems in
+efficient compressor operation is to provide a simple
+means for supplying lubrication to the air cylinders in
+proper quantity and at regular intervals. Non-auto-
+matic methods may he employed and satisfactory re-
+sults obtained as long as care and attention are exer-
+cised to provide just enough lubrication to keep the
+compressor in a properly lubricated condition, hut
+experience has shown that this is very difficult to ob-
+tain. The ideal method is obviously that which involves
+feeding the proper amount of lubricating oil to the air
+cylinders during each cycle of the pistons and causing
+this feeding of oil to cease when the compressor stops
+operating. These “automatic” requirements are fully
+satisfied by the Type B Automatic Air Cylinder Oil Cup,
+with which the only manual operation necessary is that
+of filling the cup with oil at the required intervals.
+The construction and operation of the automatic oil
+cup are very simple, as will be evident from the sec-
+tional illustration, Fig. f). There is an oil chamber a
+which is filled from the top when the cap nut 5 is re-
+moved. The cap nut is provided with vent holes fso
+located that when the seal between the can and body is
+broken the air pressure is vented to the atmosphere,
+thereby permitting the filling operation to be performed
+while the compressor is running. The stem portion 3of
+the body 2 has a central passage b communicating at
+
+
+the bottom with the pipe connection leading to the air
+cylinder, and at the top with chamber a through the
+cavity in the cap nut. This passage has its top outlet
+on the.side so as to penult chamber a to be filled with-
+out possibility of pouring oil directly into the passage,
+which would defeat the very purpose of the lubricator.
+Fig. 5. Sectional View of die Type B
+Automatic Oil Cup.
+An oil. port d of definite .size is located in the stem
+and connects passage b to an annular feeding cavity e
+which is formed by a recess in the stein and the neat
+fitting sleeve, around it. This sleeve has two diametri-
+cally placed notches c at its lower end which connect
+chamber a with cavity e.
+
+
+When the compressor makes its upward stroke, air
+is forced up through passage b and into the apace above
+the oil. in chamber a.
+The lubricant in the cup will flow through the notches
+■‘(J” into the space between the stem and the sleeve 4
+and rise in space e by capillary attraction and will then
+enter opening d to passage b, from which, on the down-
+ward stroke of the compressor, the lubricant is carried
+with the flow of air from the chamber on top of the
+oil, through passage b into the compressor cylinder.
+This small amount of oil supplied regularly and reliably
+is ample to adequately lubricate the air cylinder.
+Due to the ability of this type of lubricator to supply
+minute particles of oil in uniform quantities to the air
+cylinder of the compressor during each cycle of opera-
+tion, one filling of its oil chamber will supply sufficient
+lubrication to the compressor air cylinder for the aver-
+age trip of a locomotive.
+A good grade of standard locomotive valve oil only
+should be used in the air cylinders. (Superheated oil Is
+not recommended for air cylinder lubrication because
+it tends to re,strict the air passages, causing the com-
+pressor to heat unduly and to wear faster than with the
+lighter valve oil recommended.
+Luubication -Steam o yljlnueks. The steam, cyl-
+inder lubricator should not be started until all conden-
+sation has escaped from the compressor and the drain
+cocks dosed. After closing the drain cocks, start the
+
+
+lubricator to feed in ten or fifteen drops of oil as
+rapidly as possible, then regulate the feed to about two
+or four drops per minute for each compressor. No de-
+finite amount can be specified, as the amount of lubri-
+cation required depends on the work the compressor
+has to do, the quality, of the steam, condition of com-
+pressor, and so on. Keep the lubricator feeding while
+the compressor is running.
+A swab, well oiled, is essential on each piston rod.
+
+
+REPAIR SHOP AND ROAD TESTS
+It Is our recommendation that the compressor shall
+be tested for capacity by orifice test as often as con-
+ditions may require, but not less frequently than once
+each three months.
+The test specified is that with a 9-32-iueh orifice to
+atmosphere and main reservoir pressure maintained at
+60 lbs., the 81-incli compressor must make not more
+than 100 single strokes per minute. For altitudes over
+1,000 feet, the speed of the compressor may be in-
+creased five single strokes per minute for each 1,000
+feet increase altitude.*
+We recommend the following method for making the
+above test:
+Before making any test, the main reservoir should
+be drained and it and its connections should be tested
+for leakage as follows: After obtaining the main reser-
+voir pressure corresponding to the governor setting,
+close the throttle to the compressor. Then close the
+brake pipe cut-out cock under the brake valve and the
+cut-out cock in the supply pipe to the distributing valve
+and place the brake valve handle on lap. Bleed down
+reservoir pressure to about 62 or 6H lbs. Allow the
+pressure to leak down to 60 pounds (that is, to settle
+♦NOTE—The above figures are for tire 8(4-lnoh—-IBO compressor only.
+The use of a 15/04" diameter orifice to atmosphere with the gi/,—120
+compressor, other test conditions remaining the same, will provide approxi-
+mately the same relative condemning point tor this machine.
+
+
+down to an equalization of temperatures) and note the
+amount of drop from this pressure during one minute.
+This drop must not exceed 2 lbs. If a greater leakage
+than this exists, it must be reduced to this limit before
+proceeding with the compressor test, otherwise the
+teat would indicate a poorer condition of the compres-
+sor than is the ease, duo to extra labour required to
+maintain this leakage.
+Fig. 6. Disassembled View and Sectional View of Disc Holder
+with Disc.
+Al'tov the main reservoir and its connections have
+been tested I'or lea lea so as above, the compressor should
+bo tested as follows:
+The orifice disc is placed in a special holder, Fig.
+(I, supplied for this purpose which should he connected
+to the main reservoir drain cock, as illustrated in Fig.
+•7, with a test gage inserted between the disc holder
+and drain cock.
+
+
+Close the cut-out cock under the brake valve, and
+also the cut-out cock in the supply pipe to the distri-
+buting valve, and place the brake valve handle on
+lap. Then start the compressor and raise the pressure
+Fig. 7. Showing Orifice Disc Holder and Gauge Connection to
+Main Reservoir Drain Cock.
+in the main reservoir to slightly below 60 lbs. Open
+the drain cock to the orifice and throttle the .steam sup-
+lily to the compressor until the main reservoir pressure
+is maintained at, approximately 60 lbs. Then count
+the strokes of the compressor required to maintain this
+pressure during one minute, This number must not be
+in excess of 100.
+
+
+During the tests it should be assured that boiler pres-
+sure is at all times at least sufficient to obtain the re-
+quired number of strokes against (10 lbs, air pressure
+when the throttle to the compressor is full open.
+TEST OF STEAM END.
+In addition to the test specified for the air end, tests
+should be made to determine whether or not the effici-
+ency of the steam end of the compressor is lower than
+warrants continuing it in service or after having been
+repaired and over-hauled, it is in proper condition to he
+returned to service.
+The test specifications given hereinafter are based
+upon the performance of a number of compressors in
+what may he termed a good average condition. It should
+be understood that the limits specified are neither those
+which should condemn a compressor nor necessarily the
+best performance which should he expected from a com-
+pressor in the best possible, condition. The condemning
+limit should be established by those familiar with exist-
+ing service requirements. The tests specified merely in-
+dicate the method which we would recommend.
+In establishing a minimum passable .performance of
+the compressor, it should he borne in mind that, this
+limit should not he set too low. This is to prevent, the
+compressor getting into such poor condition as to re-
+quire expensive repairs. For this reason, we strongly
+
+
+
+
+recommend that the condemning limit should never ho
+established below 75 per cent for the steam end of the
+tests specified hereinafter, no matter what the service
+may he or the apparent ability of the compressor to
+meet operating requirements, even with a considerably
+lower efficiency Ilian this. 'Where operatin'’’ conditions
+demand a more rigid requirement, the. condemning
+limit should he raised to an amount determined by the
+judgment of those in charge.
+The steam end of the compressor should be tested in
+the following manner:
+The compressor steam throttle should he opened wide
+and the main reservoir pressure should be regulated by
+means of a cock or valve loading to the atmosphere
+until the pressure in the reservoir reaches SJJ lbs. When
+this pressure lias been obtained, the locomotive boiler
+pressure and the compressor speed in single strokes per
+minute should he observed and compared with that
+shown on .Pig. H, which represent Avhat the performance'
+ought to he if its steam end is in good average con-
+dition,
+For example, suppose with the steam throttle opened
+wide and the main reservoir pressure maintained at 53
+His,, by bleeding it to the atmosphere at a given rate,
+observations show that a speed of 100 single strokes per
+minute is attained with a boiler pressure of 122 lbs. The
+curves show that, if the steam end is in good average
+condition, the B£-mch-150 compressor operating against
+a main reservoir pressure of 53 lbs., with 122 lbs. boiler
+
+
+pressure, should make 104 single strokes per minute,
+ami that the B|-lnch-.120 compressor operating against
+a main reservoir pressure of 100 lbs., with 122 lbs,
+boiler pressure, should make 111) single strokes per
+minute. 11 the observed speed is less than, that indi-
+cated on the curves for the given conditions, the judg-
+ment ol those in charge should determine whether the
+compressor should be over-hauled.
+It the combmining limit for the steam end lias been
+set at i o per cent ol the performance of a compressor
+in good average condition, the speed of the compressor
+should not lie less than 7b per cent of the speed called
+lor by tlie curve at a point corresponding: to the par-
+ticular condition of steam pressure under which the
+compressor was tested. For instance, in the case under
+consideration, the compressor should have a speed of
+not less than 7.b per cent of 104 strokes, or 78 single
+strokes per minute.
+
+
+DISORDERS
+Causes and Remedies.
+Compressor Refuses to Htart. Cause :—lnsuffi-
+cient. oil, due to failure of lubricator to feed properly,
+or oil washed out of cylinder by water of condensation;
+leaky piston rings in the small end of the main valve
+piston; or rust having accumulated during time com-
+pressor has lain idle. Remedy:—Shut off steam, take
+off reversing valve cap, pour in a small quantity ot
+valve oil, replace cap, and then turn on steam quickly.
+In many cases when the compressor will not start when
+steam is first turned on, if steam is then turned off and
+allowed to remain off for one or I wo minutes, and then
+turned on quickly, it will start without the use of any
+oil, except that from the lubricator.
+Compressor Groans. Cause 1, ) air cylinder
+needs oil. Remedy:—(l) put some valve oil in air cyl-
+inder. Cause; —(2) piston rod packing dry and bind-
+ing. Remedy:—(2) saturate piston swab with valve
+oil. Cause: —(2) steam cylinder needs oil. Remedy:—
+(11) increase lubricator feed.
+Excessive leakage past the air piston packing rings,
+or past a discharge valve, causes heating, destroys lu-
+brication and results in groaning.
+Uneven Strokes op the Compressor. Cause: —
+probably (1) excessive leakage past air piston packing
+
+
+rings ami sticky air valve; (2) improper lift of air
+valves; (:•}) clogged discharge valve passages; (4)
+clogged strainers under upper intermediate valves; (5)
+leaky air valves; or (8) binding or cutting of the re-
+versing rod. Remedy:—locate cause, if possible, and
+correct it by cleaning out (dogged or dirty passages,
+air valves and strainers, replacing worn or leaky valves
+or rings, or straightening or replacing the reversing
+rod.
+Snow in Compressing Am. Cause :—(1) leakage
+past the air piston packing rings, due to poor fit, or
+wear in cylinder or rings; (2) valves and passages
+dirty; or, (3) air suction strainer clogged. Remedy:
+trouble, obtain about, DO lbs. air pressure, reduce the
+speed to 40 or (id single strokes per minute, then listen
+at the “Suction Openings” and note if air is drawn in
+during only a portion of each stroke, and if any
+blows hack. (Note: —Where both suction openings are
+connected to a common inlet pipe, it is necessary to
+disconnect the suction pipe before making this inves-
+tigation). IT the latter, an inlet valve is leaking, IT
+the suction does not continue until each stroke is near-
+ly completed, then there is leakage past the air piston
+packing rings or hack from the main reservoir past the
+air discharge valves. Remedy;—(,‘i) clean strainer
+thoroughly.
+Compressor Heats. Cause: —(l) air passages are
+cloggedj (2) leakage past air piston packing rings; or
+(2) the discharge valves have insufficient lift. Remedy:
+
+
+(8) regulate lift of discharge valves to 11-82 of an inch.
+A compressor in perfect condition will become exces-
+sively hot and is liable to bo damaged if run very fast
+and continuously for a long time.
+Oomubkhhob Pounds. Cause : —(1) air piston is
+loose; (2) compressor not well secured to boiler, or
+causes some adjacent pipe to vibrate; (8) the reversing
+valve plate 18 is loose; or, (4) the reversing rod or
+plate may be so worn that the motion of compressor is
+not reversed at the proper time. Bemedy:—repair and
+renew worn parts and tighten loose connections.
+Comi'BEssok Erratic in Action. Cause; —ln addi-
+tion to the causes of erratic action described in the pre-
+ceding paragraphs, a worn condition of valve motion,
+or leakage past the steam piston packing rings, may
+also cause erratic action. Bemedy:—renew the worn
+parts,
+
+
+MAINTENANCE
+in connection with the problem of good maintenance
+for steam driven air compressors of this type, the heat-
+ing of the air cylinders incident to air compression is
+perhaps the most, important. The operation of the com-
+pressor continuously at high speed or against excessive
+pressures inevitably results in high temperatures which
+tend to destroy the lubrication, causing the air cylin-
+ders to cut, and the groaning of the air compressor, be-
+sides filling the discharge passages with deposits from
+burnt oil, producing undesirable condensation of mois-
+ture in tlie brake system and in general, reducing the
+overall efficiency of the compressor.
+Under normal conditions, the speed should not ex-
+ceed 140 exhaust per minute, and such a speed should
+not he maintained continuously for any considerable
+time as oven this speed will cause excessive heating.
+Continuous running at high speed will cause excessive
+heating of the air end of the compressor. Overheating
+from this cause is an indication that, a compressor of
+larger capacity is required.
+It is therefore desirable, first, that; the compressor be
+of ample capacity for the service desired (if one com-
+pressor does not have sufficient capacity, the obvious
+remedy is to install two compressors) : second, that it
+he well lubricated and otherwise maintained in good
+condition, and, third, that leakage from any source
+whether within the air compressor itself or in the
+brake system be minimized in every practical way.
+
+
+One of tlio moist serious leaks is through, the air cyl-
+inder stuffing box if the stuffing box packing is not pro-
+perly maintained, as it not only greatly decreases the
+air delivered, and, with the faster speed required, in-
+creases the heating, but it also causes pounding through
+loss of cushion. When tightening the packing, do not
+bind the rod, as to do so will damage both, the packing
+and the rod. Be careful not to cross the gland nut
+threads.
+With two compressors per engine, the separate throt-
+tles should be kept wide open and the speed regulated
+by the main compressor throttle. The purpose is to
+equally divide the work.
+If necessary to replace a broken air valve on the
+road or elsewhere not permitting of proper fitting, at
+the earliest opportunity have the repairman replace the
+temporary valve with another so as to insure the cor-
+rect angle and -width of valve and seat contact, the
+needed ground joint and the proper lift. The stan-
+dard lift for all valves of the S.l-ineh compressor is
+8-32 of an inch. When the combined wear of the
+valve and seat increases this lift more than -tV of an
+inch, the seat is liable to he injured and the valve
+broken, with consequent annoyance and delay. For
+the purpose of readily determining the lift of air
+valves, an Air Valve Lift Gage, as illustrated in Figs.
+9, 10, and 11, may he purchased from us.
+To determine the lift of the upper air valve, the gage
+is first applied to the top flange of the air cylinder, as
+illustrated in Fig. 9, and the sliding arm adjusted until
+its end rests against the top of the stop on the air
+
+
+valve, in which position it, is locked by means of the
+thumb nut. With the arm thus locked, the gage is ap-
+plied to the valve cap, as illustrated in Fig. 10, and if
+the valve has proper lift, the under side of the collar
+of the valve cap will just rest upon the shoulder of the
+sliding arm, as illustrated, if the gage arm fails to
+touch the stop on the valve when the shoulder on the
+sliding bar rests upon the face of the collar, the valve
+Fig. 10
+Fig. 9.
+Fig. 11.
+lias a lift greater than standard by an amount equal to
+the distance between the gage arm and the stop. If this
+lift is greater than the maximum permissible, a repair
+valve having a long stop should be substituted for the
+
+
+old valve and the stop lowered until the standard lift
+is reached, as indicated by the gage.
+To determine the lift of the lower air valve, the gage
+is first applied to the bottom flange of the air cylinder,
+as illustrated in Fig. 9, and. the sliding arm adjusted
+until its end rests against the stop in the cylinder, in
+which position it is locked by means of the thumb nut.
+With the arm thus locked, the gage is applied to the air
+valve cage and air valve, as illustrated in Fig. 11, and
+if the valve has proper lift, the shoulder on the sliding
+arm will just rest upon the upper side of the collar of
+the air valve cage, as illustrated-. If the gage arm fails
+to touch the stop on the valve when the shoulder on the
+sliding bar rests on the collar face on the cage, the
+valve has a lift greater than standard by an amount
+equal to the distance between the stop and the gage
+arm.
+In case the cylinders have been counterbored at the
+entrance for the valve (‘age and valve and valve cham-
+ber cap in such a way as to interfere with the applica-
+tion of the gage, as above described, it will be found
+necessary, in order to use the gage properly, to file
+away the small portion of the ridge so that the cross-bar
+of the gage will rest on the refaced surface of the valve
+chamber. In doing this, care should be taken to avoid
+injury to the refaeed surface.
+When replacing valve cages and bushes, screw
+threads should be coated with an oil and graphite com-
+pound which prevents rusting and facilitates removal.
+■ Never remove or replace the upper steam cylinder
+head with the reversing valve rod in place, as to do so
+
+
+will almost invariably result in bending the rod. A bent
+rod is very liable to cause a “pump failure.”
+'When assembling the sections of the piston valve,
+special care should be taken to insure proper alignment
+and thereby avoid possible trouble from binding of the
+piston in the bushing.
+It is evident that a compressor cannot compress more
+air than it draws in and not that much if there is any
+leakage to the atmosphere about the air cylinder. Bear-
+ing this in mind, practise frequently listening at the
+“Air Inlet” when the compressor is working slowly
+while being controlled,by the governor, and whenever a
+poor suction is noted on either or both strokes, locate
+and report the, fault.
+Any unusual click or pound should bo reported as it
+may indicate either a loose piston or reversing valve
+plate cap screw or other serious fault.
+Any steam leakage that can reach the Air Inlet of
+the compressor should be promptly repaired as such in-
+creases the danger of water entering the brake pipe.
+Keeping the suction strainer clean is of the utmost
+importance, as even a slightly clogged strainer will
+greatly reduce the capacity where the speed is at all
+fast, A seriously or completely obstructed strainer, as
+hy accumulated frost, aggravated by rising steam, will
+increase the compressor speed and will also be indicated
+by inability to raise or maintain the desired pressure.
+It is an aid to good operation to thoroughly clean the
+air cylinder and its passages at least three or four times
+a year, by circulating through them a hot solution of
+lye or potash, in the proportions of 2 lbs, of potash to
+
+
+one gallon of water. This should always be followed
+by sufficient clean, hot water to thoroughly rinse out
+the cylinder and passages, after which a liberal supply
+of valve oil should be given the cylinder. Suitable
+tanks and connections for performing this operation
+can easily be arranged in portable form. Never put
+kerosene oil in the air cylinder to clean it.
+
+
+The Westinghouse Brake Co. of Australasia Ltd.,
+Concord West, N.S.W., Australia
+OFFICES
+THE WESTINGHOUSE BRAKE CO. OF
+AUSTRALASIA, LTD,,
+Chancery House, 48S Bourke Street,
+Melbourne, C.l, Victoria.
+THE WESTINGHOUSE BRAKE CO. OF AUSTRALASIA,
+LTD,,
+93/107 Feathcrston Street,
+Wellington, New Zealand.
+AGENTS
+ELDER, SMITH & CO„ LTD.,
+Currie Street,
+Adelaide, South Australia.
+HOLMES & CHURCH,
+129 Creek Street,
+Brisn a n e, Q uee n sla nn.
+ASSOCIATED COMPANIES
+Westinghouse Brake
+& Saxby Signal
+Company, Ltd.,
+London, England.
+Westinghouse Aik Brake
+Company,
+Pittsburgh, Pennsylvania.
+Westinghouse Traction
+Brake Company,
+Pittsburgh, Pennsylvania.
+Canadian Westinghouse
+Company, Ltd.,
+Hamilton, Ontario, Canada.
+American Brake Company,
+St. Louis, Missouri.
+Westinghouse Bremsen
+Ghsellschaft, m.b.PL,
+Hanover, Germany.
+Westinghouse Pacific Coast
+Brake Company,
+Emeryville, California.
+Compagnia Itai.iana
+Westinghouse dei Freni,
+Turin, Italy.
+CoMPACNIE DES FIiRINS
+Westinghouse,
+Sovran, France.
+National Brake & Electric
+Company,
+Milwaukee, Wisconsin.
+
+
+7"/80 OU. FT. COMPRESSOR
+Publication C-2—Supplement 1
+Operation
+AIR END—
+Same as 8.1 "/.150 Cross Compound Compressor.
+STEAM END—
+When the high pressure si earn piston has nearly
+completed its up stroke, the reversing valve plate 5*2
+comes in contact with the shoulder on the reversing
+rod 61, forcing it to its uppermost position, carrying
+with it reversing valve 18, the movement of which, in
+turn, blanks the port to passage n, and connects port
+m to exhaust passage 1, exhausting steam from cavity
+D behind the outer end of the large piston of the
+piston valve. Since the pressure against the inner
+aide of the large piston is now greater than the
+pressure exerted against the inner side of the small
+piston, the piston valve moves to the left in the direc-
+tion of chamber D and all parts arc in the position
+shown by the upper illustration of figure 16.
+A direct communication is now established from
+steam inlet port a, chamber b and passage c to the
+upper end of the high pressure steam cylinder, forcing
+downward the high pressure steam piston and low
+pressure -air piston to which it is rigidly connected by
+the piston rod. The movement of the piston valve to
+the left, as described above, also opens passage g to
+passage f through cavity h, thus permitting the steam
+in the lower end of the high pressure steam cylinder
+to expand into the lower end of the low pressure steam
+cylinder. The latter being of materially larger volume
+than the former, it will he seen that the steam is
+
+
+thereby made to do its work expensively in Hie .low-
+pressure steam cylinder. At tlio same time—
+(a) The low- pressure air piston attached to the
+high pressure steam piston is compressing
+air in the lower end of the low pressure air
+cylinder and forcing same through the
+intermediate valves into the Jow-er end of
+the high, pressure air cylinder.
+(I)) Air at atmospheric pressure, is being drawn
+into I lie upper end of the low pressure air
+cylinder, through the air strainer and upper
+inlet valves.
+It will he observed that the steam expanded into
+the lower end of the low pressure steam cylinder acts
+upon the haver side of the low' pressure steam piston
+and the force thus exerted, results in an upward move-
+ment of this piston and of the high pressure air piston
+connected thereto. Steam is exhausted from the upper
+end. of tile low pressure steam cylinder through passage
+d, chamber i and passage e to the atmosphere. The
+upward movement of the low pressure steam piston
+causes the high pressure air piston to compress the
+air in the upper end of the high pressure air cylinder
+to its final pressure, delivering same through the dis-
+charge valve into the main reservoir.
+"After tile low pressure steam piston has completed
+its upward stroke, as explained, the lower end of the
+low pressure steam cylinder is tilled with steam
+exhausted from the lower end of the high pressure
+steam cylinder. However, just as the low pressure
+steam piston has completed its upward stroke, steam
+is by-passed through three by-pass grooves x from the
+lower to the. upper side of the low pressure steam
+piston, thereby preventing an accumulation of back
+
+
+pressure in the lower end of the high pressure
+cylinder duo to leakage past the rings of the high
+jiressurc steam piston.
+At this stage, of the cycle, the upper cud ol ! the. high
+pressure ,steam cylinder is tilled with live steam ; but
+just before the high pressure steam piston completes
+its downward stroke, reversing valve plate 52 engages
+the, button end of the reversing valve roil (il, moving
+it downward and carrying the reversing valve 1o its
+extreme lower position, thereby opening the port
+leading to passage n, thus supplying live steam to
+chandler D; at the same time communication is cut
+off' from chamber D to atmosphere via ports m and 1
+as shown in the lower illustration of figure Ki. The
+pressure thus exerted upon the outer side of the large
+piston added to the pressure on the inner side of the
+small piston is now greater than the pressure exerted
+against the inner side of the large piston, and the
+piston valve moves to the right in the direction of
+chamber E. The small head 11 of the piston valve is
+provided with a, bush having elongated grooves p. As
+the piston valve moves to the right and uncovers these
+grooves Jive steam from chamber b hy-passos to
+chamber E at the back of the small end of the main
+valve pislon. At the instant these grooves are cut-off
+by the furl her movement of the piston, port 0 leading
+to Ihe exhaust is also blanked, enabling the small
+piston to compress the steam in chamber E, thus pro-
+viding a high cushioning jiressurc.
+Live steam is now supplied from passage a, through
+chamber y, and passage g, to the lower end of the high
+pressure steam cylinder, forcing upward the high pres-
+sure steam piston which, as already explained, carries
+with it the low pressure air piston. At this time also,
+steam from the upper cud of the high pressure steam
+
+
+cylinder lias communication through passage c,
+chamber i and passage d, into the upper end. of the
+low pressure steam cylinder. At the same time—
+(a) the low pressure air piston attached to the
+high pressure steam piston is compressing
+the air in the upper end of the low pressure
+air cylinder and forcing same through the
+intermediate valves into the upper end of
+the high pressure air cylinder, and—
+(b) air at atmospheric pressure is drawn into
+the lower end of the low pressure air
+cylinder, through the air strainer and lower
+inlet valves.
+Again it will he observed that the steam expanded
+into the upper end of the low pressure steam cylinder
+acts upon the upper side of the low pressure steam
+piston, and the force thus exerted results in a down-
+ward movement of this piston, and of the high pressure
+air piston connected thereto. At the same time steam
+is exhausted from the lower end of the low pressure
+steam cylinder, through passage, f, chamber h and
+passage e, to the atmosphere. The downward move-
+ment of the low pressure steam piston causes the high
+pressure air piston to compress the air in the lower
+end of the high pressure air cylinder, to its final pres-
+sure, delivering same through the discharge valve into
+the main reservoir. When the pistons have moved as
+explained, the low pressure steam piston lias completed
+its downward stroke; the upper end of the high pres-
+sure air cylinder is filled with air compressed from the
+upper end of the low pressure air cylinder; and the
+upper end of the low pressure steam cylinder is tilled
+with steam expanded .from the upper end of the high
+pressure steam cylinder. However, just before the low
+pressure steam piston has completed its downward
+
+
+stroke, steam is by-passed through the three by-pass
+grooves x' from the upper to the lower side of the low
+pressure steam piston, thereby preventing an accumu-
+lation of back pressure in the upper end of the high
+pressure steam cylinder due to leakage past the rings
+of the high pressure steam piston. At this stage of
+the cycle also, the high pressure steam piston has com-
+pleted its upward stroke; the lower end of the low
+pressure air cylinder is filled with air at atmospheric
+pressure; and the lower end of the high pressure steam
+cylinder is filled with live steam. Here again tin?
+compressor is reversed, hy means of the reversing
+valve i)late attached to the high pressure steam piston
+coming in contact with the shoulder of the reversing
+valve rod, which in turn actuates the reversing valve,
+and the cycle of operation already described is
+repeated.
+REPAIR SHOP & ROAD TEST—77BO C.C.
+COMPRESSOR,
+AIR END TEST: Same as for 83,7150 C.C. Compressor
+(Pages 28-31 ) except as follows:
+“The test specified is that with a iV orifice to
+atmosphere and main reservoir pressure maintained
+at (10 lbs., the 7"/80 C.C, Compressor must make not
+more than 100 single strokes per minute. For altitudes
+over 1,000 feet, the speed of the compressor may bo
+increased five single strokes per minute for each 1,000
+feet increase altitude,”
+
+
+STEAM END TEST: (I’agc.s 111-lid)
+The .speed test recoin mended for the 7"/ SO C.C. Coin-
+pressor is the .same as shown on I’iig'e 112 for the
+8i"/l'2() eu. l!t. Compressor,
+Tin* following table gives the principal dimensions
+of the 7"/ SO Cross Compound Compressor:—
+Diameter of High Pressure Steam Cyl 7 in.
+Diatnetcr of Low Pressure Steam Cyl 12 in.
+Diameter of High Pressure Air Cyl 7i in.
+Diameter of Low Pressure Air Cyl 12 in.
+Length of Stroke 12 in.
+Diameter of Steam Admission Pipe 1 in,
+Diameter of Steam Kxhanst Pipe li in.
+Diameter of Air Admission Pipe 2 in.
+Diameter of Air Delivery Pipe li in.
+Designed for Steam Pressure of 200 Hi.
+Working against an Air Pressure of 140 11 >.
+Overall Dimensions (approximate) ;
+Height 53 in.
+Width 32 in.
+Depth 16) in.
+Lift for Air Valves >ik in.
+
+
+70-80 Cross Compound Air Compressor, Outline and Section Views.
+
+
+Fig. 16—70-80 Compressor, Diagrammatic Section.
+
+
+Fig. 12. Horizontal Section of Reversing Valve Chamber.
+
+
+Fig, 14, 8½-Ich Com
+0 high pr
+Fig. 13. 8½-Inch Cross Compound Air Compressor, Outline end Section Views,
+
+
+Fig- 14. 8½-Ich Compressor, Diagammatic Section. Downward stroke
+o high pressure steam (ow pressure air) piston.
+Fig. 15. 8½-Ich Com
+high pres
+and Section Views.
+
+
+Fig. 15. 8½-Inch Compressor, Diagrammatic Section. Upward stroke of
+high pressure steam (low pressure air) piston.
+
+
+' Fig. 12. -Horizontal Section of Reversing Valve Oiamber. ;
+Fig. 13. Bj-InchCross Compound Air Compressor, Outline and Section
+Views.
+Fig. 14. Si-Inch Compressor, Diagrammatic Section. Downward stroke
+of liigli pressure steam (low pressure air) piston.
+Fig., 15. Compressor, Diagrammatic Section. Upward stroke of
+higK- pressure steam (low pressure air) piston.

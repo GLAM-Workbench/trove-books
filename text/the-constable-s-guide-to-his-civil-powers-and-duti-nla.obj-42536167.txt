@@ -1,0 +1,4228 @@
+
+
+THE
+CONSTABLE'S GUIDE
+TO HIS
+CIVIL POWERS AND DUTIES.
+COMPILED BY
+DAVID DUFF, ESQ.,
+RESIDENT MAGISTRATE.
+SECOND EDITION
+DUBLIN:
+HODGES AND SMITH, GRAFTON-STREET.
+1846.
+
+
+From the Steam Press of Alexander Thom, 87, Abbey-street, Dublin.
+
+
+TO
+RICHAED NUN, ESQ., Q.C.,
+ASSISTANT BARRISTER FOR THE COUNTY OF TYRONE.
+Sir,
+A large edition of the following compilation having
+been exhausted, a second is now required, and I heg
+respectfully to dedicate it to you.
+The chief value of the work is, I believe, derived
+from its accuracy ; and I am well aware that this accu-
+racy is chiefly owing to the care with which I endea-
+voured to follow, as far as my limits would admit, the
+clear and simple language of “ The Irish Justice of the
+Peace.”
+Your valuable work is, I presume, in the hands of
+every Magistrate—at least, it ought to be so; but its
+pages were within the reach of few of those by whom
+I rejoice to believe, that the present compilation has
+been found useful.
+I have made several improvements in this edition,
+and the most valuable will probably be found to con-
+sist in the reference to the pages of “ The Irish Justice
+of the Peace,” enabling those who have the oppor-
+tunity, to consult that work, and there learn the full
+details of the law on each important point, from an
+author so competent to afford instruction. The other
+changes will speak for themselves.
+I beg to convey my thanks for your kindness in per-
+mitting me to draw so freely from your learned and
+able work, and also in consenting to receive this com-
+pilation under your protection, and to subscribe myself,
+Your obedient humble servant,
+D. DUFF.
+
+
+
+
+PREFACE.
+As the Legal Powers and Duties of the Constabulary
+Force, amounting now to 9,000 men, are scattered over
+the pages of innumerable Statutes, to which the sub-
+ordinate members have neither time nor opportunity to
+refer, it becomes of the utmost importance that each
+member of it should have clearly and concisely laid
+down for his guidance “ the Power” with which he is
+by Law invested as a Constable or Peace Officer, and that
+“the Duty” which he is sworn to perform, and held
+responsible for, not only by his own superiors, but by
+the Law of the land, should be clearly defined, so as to
+leave no excuse for ignorance or neglect.
+Having observed, in the discharge of my Magisterial
+functions, many instances of a want of the necessary
+knowledge on behalf of the men, and hoping that a
+selection from the Law authorities would not be unac-
+ceptable, I have compiled the following work. I pre-
+tend to no merit as an author; nor have I ventured to
+lay down legal propositions in my own words. I con-
+sulted Hayes’ valuable work on the Criminal Law; and
+
+
+the larger work of “ Hawkins on Pleas of the Grown
+but found most of what was useful in them admirably
+condensed in Nun and Walsh’s “Irish Justice of the
+Peace I thought it better to adopt the phraseology of
+those experienced lawyers in compiling the following
+manual, than to hazard inaccuracy by translating their
+language.
+I hare arranged the duty of a Constable, or Sub-
+Constable, under the following heads :
+His power to arrest without a Warrant, and in what
+cases.
+His power to arrest under a Warrant.
+His power under a Search Warrant.
+His power of enfjy by force, when acting with or
+without a Warrant.
+His power in cases of flight and resistance.
+Also a catalogue, showing the several indictable
+offences, whether Felonies or Misdemeanors—it being
+useless for a Constable to know he has the power of
+arresting without a Warrant in a case of Felony, unless
+he is at the same time aware of what constitutes that
+offence.
+To the Magistrate the catalogue will also be found
+useful, as by it he can at once ascertain what amounts
+to an indictable offence; and for his further informa-
+tion, I have added some remarks with reference to the
+execution of that responsible portion of Magisterial
+
+
+power given under “ The Riot Act ” —in the performance
+Of which, a thorough knowledge of his own and the
+Constable’s duties, will aid him in the former, and better
+enable him to instruct the latter.
+Being anxious that these selections, and the observa-
+tions of my own, resulting from a long Constabulary and
+Magisterial experience, should have the sanction of the
+legal profession, as a guarantee for the correctness of the
+work, I submitted it to an Assistant Barrister of long
+standing, who has most kindly examined and corrected
+it; and I cannot but feel highly gratified at the favour-
+able opinion he has been pleased to pronounce on its
+accuracy and usefulness.
+The situation of Constable or Sub-Constable, is one
+of great responsibility, his every movement closely
+watched by a discerning public; one, in which if he
+outsteps his power, his situation is not alone the forfeit,
+but he may be placed at the Bar of Justice on trial for
+Life or Liberty.* Unless, then, his authority be clearly
+defined, how is it possible to expect he can arrive at a
+perfect knowledge of it, or have that confidence in his
+own acts which is so essential 2
+The efficiency of the Force, so far as relates to the
+execution of their Civil duty, must in a great measure
+depend upon a thorough knowledge of that important
+branch of it. The Peace of the Country must be bene-
+* See Note, p. 13.
+
+
+fited, whilst the Liberty of the Subject will be protected
+from unnecessary restraint or confinement; caused in
+many cases by an oyer-zeal to do what the men conceive
+right, but for which the want of knowledge of their
+duties will seldom be taken as a sufficient excuse by the
+party aggrieved.
+The chief ingredients to constitute a good Policeman
+of any rank, are zeal, intelligence, and discretion, blended
+with good temper and humane feeling —a kind and con-
+ciliatory manner towards all classes in the discharge of
+their many arduous and unpleasant duties, which never
+fails to command respect. The Police should bear in
+mind, that no man is to be considered guilty until de-
+clared so by a Jury; and that although their duty is
+the suppression of crime, and detection of offenders, still
+a paramount one must never be forgotten, namely, to
+hold the shield of protection over the innocent in any
+attempt to implicate them by deep and designing indi-
+viduals. This will not only increase a good feeling
+towards the Constabulary as a body, but give confidence
+to all, in the due and impartial administration of justice.
+D. D.
+Roscommon, February, 1846.
+
+
+THE CONSTABLE’S GUIDE
+TO HIS
+CIVIL POWERS AND DUTY.
+CHAPTER I.
+OF ARREST WITHOUT A WARRANT.
+The authority to arrest without Warrant, in
+Criminal cases, is subject to different rules;—l.
+In ordinary cases of Felony or Misdemeanor, in
+which, however, it is materially affected by the
+degree of the offence, and 2. In the class of offences
+of whatever degree, termed Breaches of the Peace,
+it is, therefore, best to consider these separately;
+and in pursuing this arrangement, as the duty of
+making the arrest chiefly concerns the Constable,-
+to examine first his powers in this respect.
+With respect to the Duty of the Constable, it is
+to be premised, that although it is much better for
+him, in cases not requiring immediate interference,
+to procure a Magistrate’s Warrant if possible, yet
+wherever a Constable, who is the ordinary conser-
+vator of the peace, is permitted to make an arrest,
+he is in general required to do so, and is punishable
+for refusal or neglect.
+:,Tui>, 103-108 •
+Best for Constable
+to have a War-
+rant, but he must
+arrest when neces-
+sary without one.
+* In case of reference from this work, see Second Edition of the
+“ Irish Justice of the Peace/’ where the several authorities are
+given.
+B
+
+
+Felony committ-
+ed within the view
+of a Constable.
+When a Felony is committed within the view of
+a Constable, it is his duty forthwith to arrest the
+party who has committed it, without waiting for a
+Warrant, and to use his utmost exertions for this
+purpose, and he is punishable by Fine and Impri-
+sonment if he neglect to do so.
+A Constable is also authorized to arrest for
+Felony upon the positive charge of another, and it is
+his duty to do so, or even upon the charge of another,
+grounded upon the suspicion of the person making
+the charge, if reasonable grounds for such suspicion
+be laid before him ; but in this case, the Constable
+should be acquainted, by the person making the
+charge, with the circumstances of such suspicion,
+and a discretion is therefore left to him to withhold
+his interference if there be no sufficient grounds
+laid before him to warrant it. If, however, the
+suspicion be reasonable and probable, the Constable
+will be justified in making the arrest, though it
+afterwards appear that no Felony had, in fact, been
+committed, or though the party suspected be inno-
+cent, and the person making the unfounded charge
+will alone be responsible. But when a Constable
+is thus required to arrest upon the charge of an-
+other, the person making the charge is bound to
+accompany him.
+When the Constable acts upon his own suspicion,
+it was formerly held, that he would be obliged to
+prove, in his justification, both the commission of
+the crime, and the reasonableness of his suspicion
+that the party arrested was guilty. But the prin-
+ciple seems established by more recent authorities,
+that the rule is the same in this and the last men-
+Arrest upon
+charge of another.
+Constable not re-
+sponsible if there
+be probable
+grounds for sus-
+picion.
+Arrest by Con-
+stable on his own
+suspicion.
+
+
+tioned class of cases, viz. :—‘That the Constable
+will be justified in making the arrest, though it
+afterwards appear that no felony has been com*
+mittcd, provided he had reasonable grounds to
+suspect the party apprehended.
+It seems, also, to have been always held, that in
+the case of persons met going about at night, whom
+there is reasonable ground to suspect of Felony, the
+Constable is justified in arresting them upon his
+own suspicion, in order that they may be detained
+till morning, for examination, though it should
+afterwards appear that no Felony had been com-
+mitted, provided there be a reasonable and proba-
+ble ground for the arrest, and that it be not a mere
+causeless suspicion.
+The causes of suspicion which are generally al-
+lowed to justify an arrest have been laid down to
+be ; common fame of the country,
+if it have s<m.e probaMe ground; being found in
+such circumstances as to induce a strong suspicion of
+guilt, as coming with a bloody knife from a house
+where murder has been committed : or being found
+in possession of part of goods stolen, and unable to
+give a probable account of them; behaving so as to
+betray a consciousness of guilt, as absconding;
+being in company with a known offender at the
+time of the offence, or generally at other times;
+keeping company with persons of scandalous repu-
+tation ; living an idle, vagrant, and disorderly life,
+without visible means of support ; being pursued by
+hue and cry, &c.
+As the Law authorizes an arrest without War-
+rant, in order to prevent a Breach of the Peace,
+b 2
+Arrest by night
+on suspicion of
+Felony*
+Wl.at a reason-*
+able ground of
+suspicion.
+Arrest in order to
+prevent tho com-
+mission of a
+Felony.
+
+
+In other eases to
+prevent the com-
+mission of a
+crime.
+In case of a dan-
+gerous wound
+given.
+so the Officer is empowered to interpose without
+Warrant, in order to prevent the commission of
+a Treason or Felony; where he sees any person
+on the point of committing either, or of doing any
+act which would manifestly endanger the life of
+another; or even in case of threats of violence, as
+if a man in a passion threatens the life of another,
+the Constable may arrest him, and bring him before
+a Magistrate to be bound in surety of the peace ;
+and he may arrest also upon complaint of the per-
+son threatened, if it be made to him forthwith ; So
+although the mischief immediately apprehended
+may not amount to Felony, such interference is
+authorized under particular circumstances, as in
+the instance of a lunatic or person disordered in
+his mind, who seems disposed to do mischief to
+himself or any other person; and in these cases,
+where the arrest is made in order to prevent the
+commission of a Felony or Crime, the Constable
+may confine the party in some secure place until
+the heat of his passion subsides, or until he can be
+conveniently brought before a magistrate.
+So, also, the Constable is authorized to arrest
+without Warrant in case of a dangerous wound
+given, because, where there is danger of death en-
+suing, the act may become Felony, and, therefore,
+in this case, the Officer may arrest the Offender, not
+merely where the act has been done in his presence,
+as in the case of a common assault or affray, but
+also as in the case of a Felony actually committed,
+upon the charge of the party wounded, or upon that
+of any person present at the fact, in order that the
+accused may be taken before a Magistrate. There
+
+
+are cases in which the mere act of giving the wound
+amounts to Felony, and in these the Constable has
+the same power to arrest as in other cases of
+Felony.*
+ARREST FOR MISDEMEANOR.
+Where the offence amounts only to a Misdemean-
+or, the general rule is, that the Constable cannot
+arrest without the Warrant of a Justice, unless it
+be accompanied by a Breach of the Peace com-
+mitted in the presence of the Constable.
+It has, however, been held, that where the of-
+fence is of a character publicly scandalous, and
+prejudicial to public morals, though but a Misde-
+meanor, an arrest without a Warrant may be jus-
+tifiable.
+There are also several exceptions to this rule,
+created by Statutes authorizing the arrest of
+offenders without a Warrant, for offences below the
+degree of Felony.
+Thus, by Statute 3 and 4 Will. IV., c. 53, s. 53,
+persons making signals to smuggling vessels, at *
+the time therein named in said Act.
+So by the Act for preventing Illicit Distillation, !
+1 and 2 Will. IV., c. 55, s. 30, persons making or ‘
+assisting in making a signal to, or warning any
+person engaged in malting or distilling, may be
+arrested by Officer of Excise, or any other person,
+and brought before Justice of the Peace.
+Generally there
+can be no arrest
+without a War-
+rant for a Misde-
+meanor.
+Nun, 108-113.
+Exceptions
+created by
+Statute.
+Persons making
+signals to
+smuggling
+vessels.
+Or giving warn-
+ing of the
+approach of
+Excise Officers.
+* For what are Felonies and Misdemeanors, see page 40 of
+Classification.
+
+
+Desertion.
+Offenders may be
+arrested under
+the Malicious
+Trespass Acts.
+9 Geo, IV., c. 56,
+s. 35.
+Under the Lar-
+ceny Consolida-
+tion Act.
+9 Geo. IV., c. 55,
+s. 56.
+Goods offered
+for sale under
+suspicious cir-
+cumstances.
+Under Pawn-
+brokers’ Act.
+26 Geo. 111, c. 43,
+8.11,
+The Animal Mutiny Acts also expressly autho-
+rize all Constables, within their respective districts,
+to arrest any person who may reasonably be sus-
+pected to have Deserted.
+By the Act for Prevention of Malicious Injuries,
+any person found committing any offence against
+this Act, whether the same be punishable upon
+indictment or upon summary conviction, may be
+immediately apprehended without a Warrant by
+any Peace Officer, or the owner of the property
+injured, or his servant, or any person authorized
+by him, and forthwith taken before a Justice of the
+Peace, to be dealt with according to Law. For
+Offences, see p. 65.
+By the Larceny Act, any person found committing
+any offence punishable either upon indictment or
+summary conviction thereunder, may be immer
+diately apprehended without a Warrant by any
+Peace Officer, or by the owner of the property, or
+his servant, and such offenders shall and may he
+forthwith taken before some Justice of the Peace,
+to be dealt with according to law. For Offences,
+see p. 66.
+And any person to whom property is offered to
+be sold, pawned, or delivered, if he has reasonable
+cause to suspect that any such offence had been
+committed, on or with respect to such property, is
+thereby authorized, and if in his power required, to
+apprehend and forthwith carry before a Justice of
+the Peace the party offering the same, together with
+such property, to be dealt with according to Law.
+So also by the Pawnbrokers’ Act, persons offering
+goods for sale or pawn who cannot give a satisfac
+
+
+tory account of themselves, or where there shall
+be reason to suspect such goods to have been stolen,
+may be seized by the'person to whom the goods
+shall be so offered, and committed to the charge of
+a Constable, who is required forthwith to convey
+the person so committed to him, and the goods,
+to a Justice of the Peace, to be dealt with according
+to Law.
+To justify an apprehension under the provisions
+of the Malicious Injuries or Larceny Act, it has
+been decided that the offenders must he found in
+the actual commission of the offence, or.be taken
+“in quick pursuit ,” and must be brought directly
+to a Justice of the Peace, otherwise the party
+making the arrest loses the protection of the Sta-
+tute, But this, of course, applies only to offences
+which are hut Misdemeanors or punishable sum-
+marily under them ; for if the offence be a Felony
+under either Statute, the arrest may be made under
+any of the circumstances before-mentioned, which
+authorize an arrest for Felony.
+Many of the Statutes investing Magistrates with i
+power of Summary Conviction, also authorize the !
+arrest, without Warrant, of offenders under them, '
+as per margin; the offences under each will be
+found in p. 31.
+It will he observed that some of the offences, }
+included in the Statutes enumerated, are Felonies,
+in which, therefore, the Constable, independently of
+their provision, has the same power to arrest as in
+other cases of Felony.
+On the other hand, some are punishable on Sum- (
+mary Conviction, but in these the Statute makes a <
+Offenders must
+be actually com-
+mitting the
+offences, and
+taken directly
+before a Justice
+of the Peace-
+Offenders against
+Spirit Licence
+Act, Cruelty Act,
+Grand Jury Act.
+Where Offence
+is Felony;
+Or punishable
+on Summary
+Conviction.
+
+
+most important alteration in the authority of Officers,
+for in this class of cases an offender is not in gene-
+ral liable to arrest, the usual course is to require
+his appearance hy Summons at Petty Sessions.
+What is an
+Affray.
+Nun, 122-130-
+What is a Riot,
+What a Rout.
+What an unlaw-
+ful assembly.
+Any person
+taking part in a
+Riot is a Rioter.
+BREACHES OF THE PEACE.
+Two or more persons fighting in some public
+place, without premeditation, such as from sudden
+impulse at a Fair, to the terror of the Queen’s
+subjects,
+A Biot is said to be a tumultuous disturbance of
+the peace by three persons or more assembling to-
+gether of their own authority, with an intent to
+assist each other against any one who will oppose
+them in the execution of some enterprize of a
+private nature, and afterwards executing the same
+in a violent and turbulent manner, to the terror of
+the people, whether the act intended were of itself
+lawful or unlawful.
+A Rout is a disturbance of the peace by persons
+assembling together with an intention to do a thing,
+which if it be executed will make them Rioters,
+and actually making a motion towards the execu-
+tion of their purpose.
+A disturbance of the peace by persons barely
+assembling to do a thing, which, if executed, would
+make them Rioters.
+It has also been laid down, that if any person
+encourages or promotes, or takes part in a Riot,
+whether by word, sign, or gesture, or by wearing
+the badge and ensign of the Rioters, he is to be con-
+sidered a Rioter, for in this case all are principals.
+
+
+A Constable is not only authorized to interpose
+without the Warrant of a Magistrate, Where an
+actual breach of the peace is committed in his pre-
+sence, whether it he by Assault, Affray, or Riot,
+but he is also hound, at his peril, to use his utmost
+exertions to suppress it, and to apprehend those
+who have committed it; and he may either keep
+them in custody till the affair is over, or carry
+them immediately before a Justice.
+In the ordinary acceptation of the term, and as
+here used, Assault appears synonymous with what
+the law technically terms a Battery; but these
+offences are, in strictness, distinct. An Assault is
+an attempt or offer with force and violence to do a
+corporal hurt to another, though without touching
+the person ; as if one lifts up his cane or his fist
+in a threatening manner at another, who is near
+enough at the time to be struck, or strikes at but
+misses him, if is properly an Assault; and so of
+the doing any other similar act accompanied with
+such circumstances as denote at the time an inten-
+tion, coupled with a present ability, of using actual
+violence against the person of another. Where the
+injury is actually inflicted it amounts to a Battery
+(which includes an Assault), and this, however
+small it may be, as by spitting in a man’s face, or
+in any way touching him in anger without a lawful
+occasion; for the Law cannot draw the line between
+different degrees of violence, and therefore totally
+prohibits the first and lowest stage of it.
+A Constable is authorized to arrest where he
+sees persons are armed, and provided with weapons
+to fight; also where he sees a person in a fury about
+b 3
+Power of Con-
+stable to inter-
+pose.
+Distinction
+between Assault
+and Battery.
+To prevent *
+Breach of the
+Peace.
+
+
+Constable may
+interpose upon
+complaint of
+another, to pre-
+vent violence.
+Not to arrest fur
+more angry
+■words.
+Or after the
+affray i» ended.
+to commit an Assault, or even in case of threats
+of violence ; so he may take into custody a person
+in a Public-house, who is making disturbance and
+alarm in the neighbourhood, if he does so in view
+of the Constable.
+A Constable may arrest upon complaint of ano-
+ther, as where the life or personal safety of any
+one is threatened, and carry the party before a
+Justice to be bound to the Peace. The question in
+such cases is simply whether a breach of the peace
+is likely to ensue.
+But the power of a Constable to arrest docs not
+extend to cases of a mere disturbance by scolding
+or angry words (whether addressed to himself or
+any other); all he can do is, command the persons,
+under pain of imprisonment, to avoid fighting, and
+summon the parties. Nor will a mere threat of
+doing injury to property, as to break a window of a
+house if a light should be seen at them, he sufficient
+to j ustify an arrest.
+So in cases of mere affray or assault, he cannot
+arrest, as he may in cases of Felony, without War-
+rant, upon the charge of another, after the affray is
+ended and peace restored.
+ARMED PARTIES.
+Where parties of numbers of persons assemble in
+arms, under circumstances calculated to excite
+terror, not only Magistrates but, also, Constables are
+bound to use their utmost exertions to disperse and
+apprehend such persons, and although no aet of
+60 Geo. 111.
+Nun, 152.
+2d Hale, 85.
+
+
+violence be committed by those assembled, yet, froln
+the danger to he feared, where they assume such a
+menacing attitude, every Constable is authorized
+and required to act for their suppression, and if
+upon, being required to surrender themselves the
+parties will not yield, the Constable is empowered
+to use such force as may be necessary, and will not
+be held responsible for any fatal consequence,
+caused by their resistance; this duty is more in-
+cumbent upon him when such assemblage takes
+place at night.
+But in this, or in all cases where the Constable is
+empowered to proceed to extremities, great caution
+and forbearance is called for, and he will not be just i-
+fied in so acting, unless in the last necessity. The
+demand to surrender should ho in an audible voice
+and in the name of the Queen.
+Caution.
+SUPPRESSION OF RIOT BY CONSTABLE.
+Cases may occur of sudden and dangerous Riots,
+■where the presence of a Magistrate cannot be had,
+and in which serious consequences are likely to
+ensue if the Constable neglect to, forthwith, inter-
+fere, and is, therefore, armed with full authority to
+suppress the Riot, and apprehend the Rioters; and
+when the Riot is accompanied with great danger
+and violence, he will be justified in proceeding to
+the last extremity, provided the violence and danger
+be such as to render it unavoidable, either for its
+suppression or his protection, or his assistants, in
+the discharge of their duty.
+Power of Con-
+stable for sup-
+pression of Kiots
+Nun, 134.
+1 Hawk. c. 65.
+
+
+The utmost cau-
+tion necessary.
+Nun, 135.
+Whiteboy
+offences.
+15 & 16 Geo. 111.,
+c. 21.
+Persons armed,
+or appearing as
+herein described, ;
+may be appre-
+hended without
+Warrant.
+1 & 2 Wm. IV.,
+c. 44.
+This severity, however, can be justified alone by
+an absolute necessity, and, therefore, the utmost
+coolness and discretion are required on the part of
+the Constable, who, clearly, will not be warranted
+in coming to extremities upon “ a slight resistance ,”
+or in using a degree of violence, in any instance,
+beyond the necessity of the case.
+WHITEBOY ACT.
+The offences are described by the Act called the
+Whiteboy Act, which states, that it has frequently
+happened, that several persons calling themselves
+Whiteboys and others, as well by night as by day,
+have in a riotous, and disorderly, and tumultuous
+manner, assembled together, and have abused and
+injured the persons, habitations, and properties of
+her Majesty’s subjects, and have taken and carried
+away horses and arms, and have compelled them to
+surrender up, quit, and leave their habitations,
+farms, or places of abode, and with threats and
+violence impose oaths or declarations contrary to
+Law, and have also sent threatening Letters, and
+have taken upon themselves to obstruct the im-
+portation of corn, flour, <fec.
+And if any person or persons, being armed with
+any fire arms, or offensive weapons, whatsoever,
+or having their faces blackened, bodies disfigured,
+or wearing any particular badge, dress, or uniform,
+or assuming any particular name not usually assu-
+med—shall rise, assemble, or appear by day or by
+night, to the terror of her Majesty’s subjects, shall
+be guilty of a high Misdemeanor, and so the Ma
+
+
+gistrates aud all Constables are empowered to
+apprehend such persons, and to command the
+assistance of all her Majesty’s subjects; and they
+and such assisting are indemnified, if, in using
+the necessary means for this purpose, the offender
+happens to be killed, maimed, or hurt in the ap-
+prehending or dispersing them, (but in this case,
+the utmost caution, coolness , and discretion must he
+observed.) The following are offences under this
+Act, and#punishable with Transportation; —
+Person or persons armed with fire arms or offen-
+sive weapons, who rise, assemble, or appear by
+day or mght, to the terror of her Majesty's sub-
+jects.
+By force or menace tendering oaths.
+Persons assembling as above, by threats compel-
+ling persons to quit their habitation, farm,
+place, or service.
+Maliciously assaulting any dwelling.
+Breaking into any dwelling or out-house.
+Causing any door to be opened by threats.
+Carrying away any horse, mare, or mule.
+Carrying away any gun, sword, or other wea-
+pon; money, chattels, or goods, without
+the owner’s consent, or by threats causing
+such to be delivered.
+Maliciously to dig up,* level, or otherwise injure
+* I may here properly allude to a very important Trial
+of a Constable and his party, five men, of this district, which took
+place at the last Summer Assizes of Roscommon, arising out of
+an arrest under the above Act, to the particulars of which I have
+to request attention.
+This country was much disturbed from large parties turning
+out by day and night, digging up the land to compel the owner to
+set it out in Con-Acre—The Constable, a very steady man, was
+
+
+the land, or crops growing, or severed, walls
+or fences, cattle or goods of any other per*
+son.
+Printing, posting, circulating, or sending or de-
+livering any notice, letter, or message, to excite
+Riot or tumultuous meeting, or threatening
+informed by the herd of the property near his station, that the
+Mayuiras" were to assemble and turn it up. The Constable,
+accordingly, had his party on the look-out, and came up with a
+number of men in the act of digging it up—Prisoners were made
+and rescued, and on being retaken a scuffle ensued—Vac Police
+tired, when, unfortunately, one man was shot dead. The Coro-
+ner's Jury did not agree to any Verdict, and were discharged, but
+bills of indictment were sent up for Murder against the entire
+partv, and those for manslaughter found, on they were
+tried.
+On the trial the herd stated, that at the time the Police went
+on the lands (I think only two days from his telling the Constable)
+it was actually set to the parties, which placed the Police in the
+position of Trespassers, having nothing, in fact, either to show or
+to prove on what grounds they went. However, on the cross ex-
+amination of the evidence favourable points turned up, and they
+were acquitted. Immediately after the trial was over, the learned
+Judge sent for me, and directed me to caution the Police to be
+careful how they interfered in future—that it would be advisable
+to have the information, on oath, of the owner or herd of the
+land, as to their belief Jf the intention of parties turning up the
+land, and praying protection ; and that if time did not permit such
+being done, either the herd or master should acco//t]xiny the Police;
+but if there was not an information, the safest course would be to
+take down the names of the parties, and identify; in line, that in
+the event of anything unforeseen happening, the Police should
+have a legal support to fall back upon in a Court of Justice, in
+the case alluded to, the Constable, from the disturbed state of the
+country, thought the herd’s word sufficient, without bringing him
+before a Magistrate, but it is to be hoped, others will gam infor-
+mation from the case now stated.
+Where a Constable receives proper authority to protect land,
+under the circumstances stated, he should he particular in having
+the Held pointed out to him, or even the part of it } which the
+owner states in his information he is determined not to set, and
+lor which he prays the protection, it having come under the com-
+piler’s observation, where a party of men were acquitted that were
+taken in the act of turning up land. The herd refused to appear
+on the trial, and the Police were, of course, unable to prove
+whether that part of the Held was set or not. For the safety of
+the men, it is absolutely necessary that the bounds to be protec-
+ted should be dearly defined and pointed out to the Constable,
+
+
+violence, injury, or damage to person or pro-
+perty, or demanding any money, arms, or
+other thing, or requiring persons to do or not
+to do any act. or to quit any employment, or
+to set or give up any land.
+To assist, abet, or succour in committing, any of
+the above offences, or solicit, encourage, ask,
+compel, or induce persons to join in commit-
+ting such, subject to the same punishment as
+for. the last mentioned offence.
+With respect to the conduct to be observed by a
+A * ;
+Constable interposing to prevent or suppress a'
+breach of the peace, it is always expedient that he
+should apprise the parties, or give them notice of
+the intent with which he does so, although in gene-
+ral the same express notification is not necessary,
+as in the instance of private persons interposing;
+for where the Constable acts within his proper dis-
+trict, and is generally acknowledged to bear the
+office he assumes, or where he is distinguished by
+his dress or any known ensign of authority, the Law
+will generally presume that the party had due notice
+of his intention, especially if it be in the day time.
+It is well, however, that he should at all times ap-
+prise the parties by informing them that he is a
+Constable, or commanding the peace, or using
+words of the like import, any of which will be suf-
+ficient; and when his ensigns of authority cannot
+be distinguished, as in the night, such express
+notification of his business and office is necessary.
+The Constable should be careful to keep strictly
+within the line of his duty, in thus interposing:
+between different parties engaged in an affray, and
+Caution to Con-
+stables inter-
+posing.
+Giving notice*
+Should teojr
+strictly
+his duty*
+
+
+Nun, 155.
+Felonies.
+Breaches of the
+Peace.
+Indictable Mis-
+demeanors.
+Offences punish-
+able by Summary
+Conviction at
+Petty Sessions.
+especially to avoid all appearance of partizanship,
+else he will forfeit the protection which the Law
+otherwise affords him.
+RECAPITULATION.
+The subject of arrest without a Warrant being
+now concluded, the Constable’s attention is called
+to the distinction which the Law recognises in re-
+gulating the exercise of this power. Thus it has
+been seen that the powers of the Constable are most
+extensive —
+I. —ln the class of offences termed Felonies,
+whether the offender be arrested in the actual com-
+mission of it, or on the charge of another, or on
+the Constable’s suspicion, or to prevent the com-
+mission of the offence, or where it is likely to be
+committed.
+11. —ln the cases of Breaches of the Peace, the
+same power exists for their suppression when
+committed in view of the Constable, or for their
+prevention, but not generally after the offence is
+over, except where it has been raised to the degree
+of Felony.
+111. —lndictable Misdemeanors, in which, for the
+most part, an arrest without Warrant cannot be
+made, unless under the special provision of Statutes,
+of which several have been passed permitting it.
+IV. —The power to arrest is most limited, in the
+class of minor offences, punishable by Summary
+Conviction, and, in them, only extends to a few
+cases, and where the parties are known, summons
+is the most convenient course.
+
+
+CHAPTER II.
+OF “ARREST AND EXECUTION OF THE WARRANT."
+Having treated of the instances in which an
+arrest may be made, in Criminal cases, without a
+Warrant of a Magistrate, it is proposed to consider
+the proceedings under Warrant.
+It is the duty of the Constable to whom the
+Warrant is directed, if time permit, to have it in-
+dorsed by his Sub-Inspector, and to execute it
+without delay, according to the necessity of the
+case, and strictly according to its direction.
+If the Warrant be directed to the Constables of
+the County, generally, it may be executed by any
+Constable of the County, or if to several, by name,
+by any one of those named.
+If the Constable does not know the party named,
+he should make himself acquainted with his per-
+sonal appearance, or have some one on whom he
+can rely to point him out, as he is hound, at his
+peril, to arrest the proper person; or if a Search
+Warrant, by taking goods or searching places not
+specified therein, he will he answerable to the party
+in an action for the injury.
+EXECUTION OF THE WARRANT.
+The Constable should, in all cases, acquaint the
+party with the substance of the Warrant or cause
+of arrest.
+To remove all excuse for resistance, the Warrant
+should be produced to the party, if demanded; but
+Arrest under
+Warrant.
+Constable bound
+to execute
+Warrant.
+Nun, 199-201.
+Warrant, joint
+or several.
+Precaution to as-
+certain persons to
+be apprehended.
+Notice to the
+party.
+Production of
+Warrant.
+
+
+What constitutes
+an arrest.
+Arrest may be on
+any day, and on
+any person.
+By day or night.
+Limits of juris-
+diction.
+Where a War-
+rant must be
+indorsed.
+Duration of
+Warrant.
+Nun, 203-211.
+in no case is the Constable required to part with it
+out of his possession ; and if the party get it, and
+refuse to return it, he has a right to take it from
+him, and even to coerce his person to regain it, pro-
+vided he uses no unnecessary violence in doing so.
+The party should be actually touched by the
+Constable, when possible.
+It may be made on Sunday, as well as any other
+day, when charged with the commission of a crime,
+and neither Peer, Member of Parliament, Clergy-
+man, married woman, or persons under age, are
+exempt from it, in cases of Felony or Breach of the
+Peace.
+The arrest may also in all cases be made by night
+as well as by day.
+The Warrant cannot be executed out of the
+County or jurisdiction of the Magistrates granting
+it.
+When the offender is in another County, it should
+be backed by a Justice of that County.
+A Warrant remains in force, (unless made re-
+turnable at a particular time, which is objectionable
+and very unusual,) during the life of the Justice who
+granted it, and may be executed whenever oppor-
+tunity offers.
+BREAKING OPEN OUTER DOORS WITHOUT
+WARRANT.
+This power is one of equal delicacy and impor-
+tance, as it concerns the peace and security of
+private dwellings; and as the legality of the mode of
+proceeding by the Constable often becomes a ma-
+terial consideration, in cases of Homicide, it is of the
+
+
+utmost importance that he should know, precisely,
+the limits of his authority in this respect; and it is
+necessary the'Law upon the subject, with regard to
+Criminal cases, should he laid down, to show in
+what instances the Constable is justified in thus
+proceeding; first, when he acts without a Wan'ant,
+and second, when acting under one.
+It may he premised, that in all cases whatever,
+in which doors may he broken open, there should
+be a previous notification of the business, accom-
+panied with a demand to enter on the one hand,
+and a refusal on the other, before the Officer pro-
+ceeds to such extremity ; hut no precise form of
+words is required to be used in giving notice; it is
+sufficient if the party be acquainted by the Con-
+stable with his business and authority, and apprised
+that he comes, not as a mere trespasser, but claim-
+ing to act under a proper authority.
+The authority of the Constable to break open
+outer doors, where he acts without Warrant, may
+be considered, as it applies to the case, Ist, of actual
+Breach of the Peace; and 2ndly, of Felony.
+In some cases of actual Breach of the Peace,
+committed in his presence, the Officer is justified in
+proceeding to this extremity, even where he acts
+without Warrant, as on his immediate pursuit of
+affrayers, where the affray has been made within
+his view, especially if there has been any extra-
+ordinary circumstances of violence attending it,
+and in such Breaches of the Peace as amount to
+Riot.
+So where an affray takes place in a house, with-
+in the view or hearing of the Constable, whereby
+Previous notifi-
+’ cation, demand,
+[ and refusal of
+admission.
+I Without War-
+rant, in •what
+r cases doors may
+. be broken open.
+For Breach of
+the Peace, by
+Affray or Biot.
+
+
+Not for a mere
+Assault or other
+Misdemeanor.
+For Felony, or a
+dangerous wound
+given.
+Nun. 208.
+it is likely that Manslaughter or bloodshed will
+ensue, the necessity of the case authorizes this pro-
+ceeding on the part of the Constable, during the
+Alfray, in order to suppress it, and to prevent fur-
+ther violence; and it is said, that the Constable
+has the like power if there be disorderly drinking,
+or any unwarrantable disturbance at an unseason-
+able time of night, especially in ale-houses, or the
+like places of public resort, which are under the
+peculiar superintendence of the police. But this
+power, the Constable should exercise with caution ■
+and it has been observed, that even in the pursuit
+of Affrayers, when the Affray is not actually going
+on in the house, but where the parties have taken
+refuge in a house after the Affray is ended, the
+Constable will act prudently in not proceeding to
+this extremity without Warrant, unless there has
+been some extraordinary circumstances of violence
+in the Affray; when, therefore, the offence is a
+mere Assault, not committed within his view, and
+followed in fresh pursuit, or other Misdemeanor, the
+Officer should procure the Warrant of a Magistrate,
+authorizing him to arrest the party for such offence,
+before he proceeds to this extremity.
+If either are committed in the Constable’s presence,
+he may without Warrant break open outer doors in
+fresh pursuit, after demand, notification, and refusal;
+also, where a Felony is likely to be committed, as
+on hearing a violent cry of Murder in a house.
+BREAKING OPEN OUTER DOORS, WHEN ACTING UNDER
+WARRANT.
+When the Constable acts under Warrant, he
+
+
+is authorized to break open outer doors, in order
+to effect the arrest, if the party is either in his
+house or takes refuge in a house, in all cases where
+the Warrant has been granted for Treason, Felony,
+or suspicion of Felony, after the usual notification,
+demand, and refusal of admittance; and in such
+cases the Warrant is a complete justification to the
+Constable or person to whom it is directed, acting
+duly under it.
+So outer doors may be broken open, in execu-
+tion of a Warrant, for a Breach of the Peace, or of
+a Warrant to compel a man to find sureties for the
+Peace, or good behaviour.
+After indictment found (Bench Warrant), outer
+doors may he broken open, in order to arrest the
+party.
+Under a Magistrate’s Warrant for levying a
+penalty upon a conviction, which, under any Sta-
+tute, gives any part of such penalty to the Queen,
+doors may be broken.
+Section 23 of the Arms Act empowers any Sub-
+Inspector or Head Constable, with any men of such
+force, under Warrant of two Magistrates, to enter
+any house by force, within a reasonable time after
+demand of admission.
+It will be seen that in the execution of Warrants
+granted to search for stolen goods, and of Search
+Warrants granted under the provisions of several
+Statutes in other instances, this power to break
+open outer doors is also given to the Constable. So
+also, some of the Revenue Acts in various instances
+allow doors to be broken open by the authority
+and in presence of a Constable.
+Under Warrant
+for Felony, or
+suspicion of
+Felony.
+For Breach of
+the Peace.
+Misdemeanor.
+Under Levy
+Warrant for
+Penalty.
+Under Arms
+Act.
+6 & 7 Vic.,c. 74.
+In execution of
+Search Warrant.
+Under Revenue
+Acta.
+
+
+The power of the Constable to break open door£
+is an exception to the legal maxim, “ every man’s
+house is his castle,” and ought never to be resorted
+to unless the arrest cannot he otherwise effected,
+and the precautions above stated have been pre-
+viously taken. It is, however, in many instances,
+absolutely necessary to prevent the ends of justice
+from being frustrated ; and it has been observed,
+. that the above maxim, though founded in the
+anxiety of the law for the peace and security of
+domestic habitations, has been carried as far as the
+true principles of political justice will warrant, and
+that, as it encroaches in some degree upon public
+justice, it will not admit of any extension. Accord-
+ingly, the privilege from arrest afforded by a house
+is to be understood as existing only subject to the
+following restrictions :
+1. This privilege, wherever it exists, is confined
+to arrests in ike first indance. For if a man, being
+legally arrested for any cause or offence, escape
+from the Constable, and shelter himself in a house,
+whether his own or that of a stranger, the Con-
+stable may, upon fresh suit, break open the outer
+door of the house in order to retake him, having
+first given due notice of his business, and demanded
+admission, and been refused. If it be not, how-
+ever, upon fresh pursuit, it seems that the Constable
+should have a Warrant from a Magistrate.
+2. This protection is confined to outer doors and
+windows only, such as are intended for the security
+of the house against persons from without endea-
+vouring to break in. For if the Constable find the
+outer door open, or if it be opened to him from
+In what cases a
+house affords pro-
+tection from
+arrest.
+Applies only to
+arrests in the first
+instance.
+To breach of
+outer doors.
+
+
+within, and he enter that way, he may then break
+open an inner door, if he find that necessary in
+order to effect the arrest, and this even where he
+would not have been warranted in breaking open
+the outer door. So also, the rule extends to the
+dwelling~house only, and a barn or out-house not
+connected with the dwelling-house may be broken
+open.
+3. This personal privilege of an individual, in
+respect to his outer door or window, wherever it
+exists, is confined also to cases where the Breach
+of the Peace is made in order to arrest the occupier
+or any of his family, whose ordinary residence, or,
+as it is termed, domicile, is there; for if a stranger,
+whose ordinary residence is elsewhere, upon pur-
+suit, take refuge in the house of another, such
+house is not what the Law terms the castle' of the
+stranger, and therefore he cannot claim the benefit
+of sanctuary in it. But although the house of a
+stranger is not to he suffered to shelter a party
+under any circumstances, yet, where it is thus
+broken open, upon the supposition of the person
+sought being there, it is at the peril of proving
+that the party is actually in the house at the time.
+Lastly, it is to be observed, that in all cases if
+the Constable, or his assistants, having entered a;
+house in the execution of their duty, be locked in,
+they may justify breaking open the doors to regain
+their liberty.
+DUTY OF POLICE AFTER ARREST.
+If arrested with or without Warrant, to be as :
+’ . ’
+soon as possible brought before Magistrate for dis- ;
+posal.
+Extends only to
+a dwelling-
+house.
+To arrest of
+occupier or any
+of his family.
+Breaking open
+the house of a
+stranger justi-
+fiable in eveniu .
+Constable may
+in all cases break
+doors to regain
+his liberty.
+Prisoner to be
+taken before J. P.
+Nun, 222.
+
+
+of forco
+<>r restraint to
+ho u*o<l.
+Priorich to sie
+Jcqrt separate.
+Detaining Pri-
+soners in case of
+a Breach of the
+Peace,
+Searching the
+Prisoner.
+The Constable should impose no more force or
+restraint than may be necessary to prevent escape— ■
+the state of the country, magnitude of offence, age,
+character, and probability of rescue, or escape, aro
+matters for his consideration ; and, although he is
+bound to treat the prisoner with both kindness and
+humanity, and is not warranted in any harsh or un-
+necessary constraint, yet it is his duty to use such
+reasonable precaution as the case may require, to
+prevent escape, especially in arrest for serious
+offences; and with proper precaution, an attempt
+at rescue or escape will rarely happen.
+If parties arc arrested for the same offence, and
+that it be a serious one, in order to prevent a con-
+certed plan of defence, they should be kept sepa-
+rate from each other, and not permitted to have any
+communication, written or otherwise, before their
+being brought before the Magistrate for exami-
+nation.
+In case of Affray or Assault committed in heat
+of passion, the Constable is empowered to detain a
+prisoner for a few hours, until his passion subsides,
+and may secure him in a house, barrack, or bride-
+well, and may discharge him when he knows the
+party, to be of good character, and may afterwards
+summon him to Petty Sessions ; this arrest applies
+to an arrest without a Warrant.
+It is a common practice for Police Constables,
+immediately after an arrest, to search the prisoner,
+and take from him every thing found upon his per-
+son, but it is improper to deprive him of his money,
+unless it is in some way connected with the charge
+against him, as he is thereby deprived of the means
+of making his defence.
+
+
+POWERS IN CASE OF FLIGHT, PURSUIT, AND
+RESISTANCE.
+The powers? committed to the Constables, in order
+to affect the arrest, in case of the flight or resistance
+of the party, call for most serious consideration, and
+in their exercise, the utmost coolness, caution , and
+discretion are required, in order that, on the one
+hand, justice shall not be defeated, and on the other,
+that life shall not be endangered, unless where the
+safety of the Constable or the heniousness of the
+offence, and circumstances of resistance and violence,
+render it absolutely necessary.
+The first duty of the Constable is to take care
+that the arrest shall be made effectually, and with
+as little injury to the individual and to the public
+as may be.
+Whenever the Constable is authorized to arrest
+for felony, or a dangerous wound given, or when he
+acts for the purpose of suppressing an affray, or
+apprehending affrayers, he is also empowered to
+command the assistance of all persons within his
+reach, and the persons so required, are punisliable
+if they refuse to render it, as they are entitled to
+the same protection with the Constable while
+engaged in bis assistance. This power the Consta-
+ble has, in these instances, whether he proceed to
+arrest under the warrant of a Magistrate, or by
+virtue of his original authority, without a warrant.
+The degree of force the Constable is authorized ]
+to use, in case of flight, depends upon the degree of <
+the offence for which the party is arrested. Where
+the offender is taken without a Warrant for Felony
+or dangerous wound given, in the instance before
+c
+Nun, 213,'
+Arrest
+Assistance.
+Power of Con*
+, stable in case
+of flight.
+
+
+in cases of Aftray
+or other Migdc*
+meaner.
+Power of Con-
+stable upon
+re.sistance.
+AVlint neces-
+sary to justify
+Constable in
+using extreme
+measures.
+stated, or ■where in such cases the Constable is
+acting under a Warrant; if the party fly to avoid
+the arrest when about to be made, of break away
+after being made, and happen to be wounded or
+killed by the Constable in endeavouring to prevent
+his escape, when without such force he could not
+be taken, the Constable will not be responsible.
+But in case of Affray, Assault, or other Misde-
+meanor, where the party does not resist, but merely
+flies to avoid the arrest, if the officer kill him in
+the pursuit, the Law will not protect him, even
+although it appear that the party would otherwise
+have escaped, and whether the Constable act under
+the Warrant of a Magistrate or not, though under
+certain circumstances the offence may be reduced
+to Manslaughter, if it appear that death was not
+intended —so even after arrest, in such cases where
+the party effects his escape without violence, if the
+Constable kill him in pursuit, he would be held
+guilty of Murder or Manslaughter, for in offences
+of this description, where no violence is offered, the
+Law wisely prefers the risk of escape, than that Life
+should he the forfeit.
+The Constable is bound to use the utmost caution
+and forbearance, in case of re.sistance or rescue,
+yet the Law authorizes him to use force, if requisite,
+to overcome resistance.
+The Constable must, in the first instance, be
+acting strictly within his duty, and he should, in all
+of pursuit, give notice to the party, and reason
+of pursuit; and the exercise of severity, where
+resistance cannot otherwise be overcome, or where
+the safety of himself or assistants is endangered,
+
+
+will not be warranted upon slight resistance; severity
+can rarely be called for, where the offence is not
+one of a very serious nature, nor is the Constable
+justified in using force or violence, in any instance,
+exceeding the necessity of the case, and if he proceeds
+after the resistance is over, it will be Murder, or
+Manslaughter, at least ; but in all such cases too
+much caution cannot be used.
+Where Police are kept together, when on escort
+duty, escape or resistance are of rare occurrence.
+EXECUTION OF SEARCH WARRANT.
+In executing the Warrant, the Constable must
+be careful strictly to pursue its directions ; it should
+be executed in the day time, if, as is usual, it be
+so directed, and even if not so directed. It has
+been observed, that occasions rarely occur, which
+will justify the risk incurred in executing such
+process at night; if there be time it should be in-
+dorsed by the Sub-Inspector, in the same manner
+as a Warrant of Arrest.
+As the Warrant should distinctly specify the 1
+goods to be seized, the Constable ought not to take
+any goods but those specified; when the Constable
+having a Warrant to search for specific articles,
+alleged to have been stolen, found and took away
+these and certain others supposed to be also stolen,
+but not mentioned in the Warrant, and not likely
+to be of use in substantiating the charge of stealing
+the goods that were specified, it was held that the
+Constable was a trespasser. Great caution on the
+part of the Constable is necessary, and to avoid
+mistakes the person who lost the goods should
+accompany him and point them out.
+c 2
+Execution of
+Warrant to be
+bv day.
+Nun, 256.
+Goods specified
+only to be seized.
+
+
+I’liifc* specified
+onl\ to bo
+The houses and places to be searched must be
+specified with sufficient certainty, and a Warrant
+directing a search in a particular house, will not
+justify a search in another. If admission be refused
+after the usual demand and notification of his busi-
+ness by the Constable, or person executing the
+Warrant, the outer door of the house maybe broken
+open, and so may boxes after the keys have been
+demanded and refused; and though the goods
+sought be not found there, the Constable will not
+be responsible if he has acted duly in obedience to
+the Warrant.
+A sufficient force should be in attendance to
+watch the doors and windows, in order that nothing
+shall be thrown into yards or passages, nor persons
+allowed to carry off things without a strict search,
+more especially if the parties are had characters ;
+the floors should bo closely examined, walls and
+partitions, chests, trunks, box, closet; and if for
+arms, search the thatch and scraws, beds, backs of
+dressers, false bottoms to tables, large beams which
+support the lofting, and in which hollow places are
+cut regularly out for their reception; this came
+under the compiler’s own view in a search about a
+month back.
+Outside the house, search corn stacks, thatch,
+stables, and under where the hay is placed for
+horses and cows, pig-house, turf, heaps of stones,
+and dry garden ditches, a mall place, will hold a
+pistol, and not unfrequently they are found thrown
+into milk or other vessels.
+No search can be effectual without a supply of
+candles, and the men should take their time.
+Breaking open
+doors.
+Precaution to be
+observed in
+executing a
+Warrant of
+Searoh.
+Search for arms.
+
+
+The Constable is to take the goods, when found,
+and the person in whose custody found, either
+before the Justice of Peace who has granted the
+Warrant, if so directed by him, or before some
+Justice of Peace of the neighbourhood.
+To he deposited with the Police, in order that
+they may be produced at trial, properly marked
+for identification.
+To be sent to liyery, or by order of the Magis-
+trate delivered to owner, on binding him to prose-
+cute, and giving security for their forthcoming when
+required.
+EXECUTION OF DISTRESS WARRANT.
+In executing a Magistrate’s Warrant of Distress,
+every thing that is chattels, excepting the Defen- ■
+dant’s necessary wearing apparel, may be seized, ’
+such as furniture, corn, cattle, shop goods, &c.
+If the offender be a married woman (who is sub- i
+ject to summary conviction), and the Statute autho- (
+rizes the recovery of the penalty by distress and
+sale of the offender's goods, the goods of the hus-
+band are not generally liable to he distrained for
+the penalty of the wife.
+The Constable is justified in breaking open outer i
+doors in execution of the Warrant, under the cir- 1
+cumstance stated in page 21.
+If the Constable seize for the whole penalty, hut s
+mistake the value, he may complete the execution
+by making a further seizure before the return of
+the Warrant.
+The Constable ought to sell for ready money, c
+and it seems, if he sells on credit, it is on his own
+risk, and he will be liable for the produce.
+Goods and party
+to be brought
+before J. P.
+Goods how dis-
+posed of.
+If stolen cattle.
+What may be
+seized under a
+Justice’s War-
+rant.
+Nun, 615.
+Husband’s poods
+when wife is
+convicted.
+Breaking
+Nun, 210.
+Second seizure.
+Giving credit.
+
+
+A ppcaT.
+Where the statute gives the right of appeal, the
+Warrantshouldbe stayed until the appeal is decided,
+the facts then should be laid before the Magistrate
+who granted the Warrant, who, it seems, may issue
+his Warrant without a fresh demand.
+The Constable is bound to make a return to the
+Justice of what he has done under the Warrant,
+hut he is not obliged to return the Warrant itself,
+which may be necessary for his own justification.
+Return.
+CONSTABLE’S POWER UNDER THE FOLLOWING
+ACTS.
+ARMS ACT.
+6 & 7 Wm. IV.,
+0.74.
+Section 15 empowers head or other Constables
+to examine any arms that may be found with per-
+sons carrying them, so as to ascertain the number
+and letters marked thereon; and if the person re-
+fuse to allow such arms to be examined, or refuse
+to tell his Christian or Surname, or place of abode,
+he may he arrested by any Constable, or by any
+person acting by his order, and in his aid, and
+Note.—A most important capture was made, a sliort time
+since, by the Athleague Police, near Roscommon, who took up five
+harvest men when returning from England, having concealed
+amongst them one gun, complete, one pistol, two gun barrels,
+two locks, and four pounds of gunpowder—it may be of service
+mentioning how they were concealed so as to escape the Police
+for a distance of near ninety miles, they having landed in Dublin.
+The pistol, powder, and locks were found in their bundles, the
+stock and barrel so artfully concealed, as to require a most
+vigilant eye to discover them; the stock was inside the coat, up
+the back, the butt resting in a small pocket made for the purpose,
+one barrel tied with a hay rope round a scythe blade, and slung
+carelessly across the back, and the other most ingeniously placed
+in the bark of a sally stick, the barrel done over with pitch, and
+the bark fitted so close, that even in the hand, except from the
+weight, it would not be known from a stick, the breech taken
+out and replaced by a cork, and the bark brought over it.
+Though the Police cannot legally detain such persons to search
+them, still their attention is directed with a view of detection.
+
+
+within twelve hours be conveyed before a Magis-
+trate, who may require him to give security to
+appear at next Petty Sessions.
+This is the only clause in the Act giving a Con-
+stable power to act of himself without Warrant,
+EXTRACTS FROM ACT RELATING TO PUBLIC-
+HOUSES.
+On Sunday, not before two o’clock in the day,
+and to close at nine at night, and not to open be-'
+fore nine on the following morning, Monday,
+On Good Friday, Christmas day, or any day of
+fast or public thanksgiving, same as Sunday, but
+closing at eleven o’clock at night.
+To be closed at eleven o’clock each night, and 1
+not to be opened on Monday before nine in the
+morning, but except Monday to open at seven.*
+A Sub-Inspector is empowered to enter and re- :
+move persons without authority of Justice of the i
+Peace, but a Constable cannot do so; the general I
+practice is, for Magistrates at Petty Sessions to give
+a General Power under hand and seal, to a certain
+number of the men, to enter and examine the
+Public-houses after tho hours prohibited, and it is
+necessary that the name of each man be inserted
+in it.
+Licensed Booths or Tents prohibited from selling :
+spirits, or being open for sale, before nine in the
+morning, and after six in the evening, from Ist
+April to Ist October, or between three, p.m,, and
+nine in the morning, from Ist October to Ist April.
+Prohibited hours
+for Public-houses
+being open.
+3&4 Wm. IV,
+and
+,6*7 Wm. IV.
+Days of fast.
+Other days.
+Power to enter
+and put out per-
+sons tippling or
+gambling at pro-
+hibited hours.
+Booths and Tents.
+* Sale of spirits is however permitted to travellers in those
+hours.
+
+
+Constables must recollect that they have no
+power to take down the Tents; tlfe proper course
+is to give timely notice to the owner, which seldom
+fails in commanding obedience, but if it does, the
+owner should be summoned to Petty Sessions.
+Licensed Booth or Tents permitted to remain up
+on Sundays (during a Eace Meeting) are prohibited
+from having them open at any hour during that
+day for the sale of Spirits, nor on Good Friday,
+Christmas-day, or any day of public fast or thanks-
+giving, which sale applies to travellers as well as all
+other persons.
+Constable empowered to arrest all persons found
+drunk in any street, square, lane, road-way, or
+other public thoroughfare, and bring them before a
+Magistrate.
+s Persons selling, or licensed to sell spirits, <fec.,
+in whose house or place any person shall be found
+to be, or to have been recently drinking, tippling,
+or gaming, at any hour or time at which the sale
+of spirits or beer is prohibited by this Act, shall,
+upon conviction, forfeit any sum not exceeding 10s.
+Two Justices in or out of Petty Sessions may, by
+examination on oath of a credible witness, having
+reasonable ground for suspecting that spirits are
+• sold or kept for sale in an unlicensed house,
+grant a Warrant under hand and seal empowering
+one of such Justices ; or any Sub-Inspector, with
+his assistants, in his presence, to enter such house
+or place at all times in the day between sunrise and
+sun set, and to search for spirits, and if such be found
+without a permit or legal authority, to seize the
+same and deliver it over to the next Eevenue Officer.
+Not to open on
+Sunday.
+Persona found
+drunk in street or
+highway.
+Penalty if persons
+found tippling or
+gaming at pro-
+hibited hours.
+On oath of sus-
+picion that spirits
+are sold without
+a licence, War-
+rant may be
+granted as herein.
+2 & 3 Vie., c. 79.
+
+
+Such Warrant to remain in force for seven days.
+If any Officer or Constable shall make oath in
+writing that he has good reason to believe that
+spirits are sold without a licence, or kept for sale
+in any house or place where no sign or notice is
+posted or written importing that the owner or
+occupier thereof is licensed to sell spirits, a Magis-
+trate may issue his Warrant, to Sub-Inspector of
+Police, to enter, and if any person shall be found
+to be, or have been recently drinking, he or they
+shall be brought before a Magistrate, and upon
+conviction of his being so found in such unlicensed
+house or place, shallforfeit any sum not exceeding 55.,
+and in default of payment, to be committed for
+any term not exceeding twenty-four hours.
+OBSERVANCE OP SUNDAY.
+No person or persons shall play, use, or exercise
+any hurling, commoning, foot-ball playing, cudgels,
+wrestling, or any other game, pastime, or sport on
+the Lord’s day, persons so offending to be sum-
+moned to Petty Sessions, which must be done in
+Seven days; no drover or carrier to travel on
+Sunday.
+CRUELTY TO ANIMALS.
+Persons subject to fine of £5 who shall'keep
+any house, ground, or pit for the purpose of bait-
+ing or fighting bull, bear, badger, dog, or other
+animal, or for cock fighting, or who shall assist in
+such baiting or fighting.
+If any person shall wantonly and cruelly beat,
+1)1 treat, abuse, or torture any horse, mare, gelding,
+c 3
+In force for w'vrn
+days.
+Warrant by J. P.
+to enter unlicen-
+sed prcmiiH'S
+without a sign or
+notice posted
+thereon.
+2 & 3 Vie., and
+7 & 8 Vie., e, 32.
+Persons found
+there may be
+apprehended.
+7 Wm. 111, c, 17.
+Drover or carrier.
+Cock-pit.
+5 & 6 Wm. IV*,,
+c. 59.
+Abusing ani-
+mals.
+
+
+Power of Con-
+stable.
+Constable may
+stop and bring
+b.'fovc J. P.
+persons guilty of
+those offences.
+»; & 7 Win. IV.,
+o. 116.
+To proceed by
+.Summons for all
+the other offences.
+Boasts wandering.
+Burning Bricks,
+Lime.
+Laying dirt,
+(iung, &c.
+Cart without
+horse.
+Winnowing corn,
+bull, ox, heifer, calf, mule, ass, sheep, lamb, dog, or
+any cattle or domestic animal, or if any person who
+shall drive any cattle or other animal, shall by
+negligence or ill usage in the driving thereof, he
+the means whereby any mischief, damage, or injury
+shall he done by any such cattle or animal, every
+offender shall pay (over and above the amount of
+such damage or injury) a sum not exceeding 405.,
+nor less than ss.
+A Constable can, on view, or on the information
+of another person, giving his name and place of
+abode, apprehend offenders, without Warrant, and
+bring them before a Magistrate.
+EXTRACTS FROM THE GRAND JURY OR ROAD ACT.
+Drivers to keep left hand side of the road, name
+and surname and residence of owners to be painted
+in white Roman letters, one inch long, at least, on
+carts and cars; carts or cars drawn by one horse,
+to have a double rein, in default, penalty ss.
+No house to he built nearer than 30 feet of
+centre of road, no lime-kiln nearer than 100 feet
+of centre, penalty £lO, and a further penalty of
+£1 for every week after such conviction.
+Swine or beasts found wandering, penalty 2s.
+Burning bricks, lime, steeping flax within 30
+feet of the centre, penalty not exceeding £l.
+Laying dirt, dung, scouring of ditches or drains,
+within 30 feet of the centre, penalty £l.
+Leaving cart, car, or carriage without the horse
+being harnessed thereto, penalty £l.
+Winnowing corn, or thrashing it, within 30 feet
+of the centre, penalty £l.
+
+
+Leaving any dead, beast within 30 feet of the
+centre, penalty £l.
+Keeping cur dog, hull dog, or mastiff, without
+5 pound log, within 50 yards of a public road,
+penalty £l.
+Timber, boards, or iron projecting beyond two
+feet over the wheels, penalty £l.
+Drawing timber or stones along a road with-
+out the support of wheels, penalty £l.
+Cutting any turf on the side of a road, penalty £l. '
+Taking any clay, stones, or gravel therefrom,
+penalty £l.
+Scouring ditches, deepening or widening drains
+on side of the road, penalty £l.
+Surveyors or Contractors who shall lay, or cause
+to be laid, any heap of stones, gravel, rubbish, or ■
+other matter whatsoever upon any public road, and
+allow such to remain there at night, to the danger
+or personal damage of persons passing thereon, all
+due and reasonable precaution not being taken by
+the said Surveyor or Contractor, penalty 40s.*
+Dead beast.
+Dogs.
+Timber project-
+ing.
+Drawing timber.
+Cutting turf.
+Semiring ditches.
+Surveyors or
+Contractors
+leaving gravel on
+roadduringnighi.
+THE FISHERY AMENDED ACT.
+As each Station is already supplied with a copy
+of this Act, 5 and 6 Yic., and 7 and 8, c. 103, with
+full and explicit instructions from the Inspector-
+* Magistrates have power to mitigate all penalties under
+this Act. Nor does this Act with reference to Swine or beasts
+as above, which imposes a fine of 25., repeal the 4 & 5 Wm. IV.,
+c. 50, which empowers Magistrates to fine any sum not exceeding
+Is., without Costs, in case any horse, ass, pig, cow, or other beast
+be found wandering. Where the owner is not known, the animal
+may be impounded, but where owner is known, he or she may be
+summoned.
+
+
+Additional pow-
+ers to enforce
+observance of the
+weekly and other
+close times.
+8 & 9 Vic., c. IDS.
+General, dated 24th October, 1844, it becomes only
+necessary to add some extracts of amendment by
+the 8 and 9 Vic., c. 108, passed within the last
+Session.
+Cap. X. — Be it enacted, That it shall and may he
+lawful for all Officers and men of the Navy, Coast
+Guard, and of the Constabulary, and for any person
+appointed by, or acting under the authority of the
+said Commissioners, when and as often as they or
+any of them shall, in any fishing weir, net, or
+contrivance, during the weekly or other close time
+or season, (as fixed under the provision of the said
+first recited Act,) find any passage shut, closed, or
+obstructed, or during such close time, in any place
+find any net, or other contrivance, placed or used
+where the same are now by Law or may hereafter be
+prohibited by the said Commissioners, in pursuance
+of the powers in them vested, or shall at any time
+find any obstruction in the Queen’s share, or free
+gap, through or over any fishing or other weir, or
+in the sluice passage appurtenant to any mill or
+factory, at any time when the sluice gate of same
+shall be open; then and so often to open such
+passages, and remove all such obstructions, doing
+no unnecessary damage, and to seize and remove all
+nets, or parts of nets, which may be found, so as
+aforesaid placed or used, contrary to the provisions
+of the said first recited Act, or this Act; provided,
+always, that nothing herein contained or done in
+pursuance of the same, shall exempt any person from
+the penalties and forfeitures, in and by the said
+first recited Act prescribed, in respect to any of the
+
+
+matters aforesaid, and provided also, that none of
+the parties or persons hereby authorized to open
+such passages, or remove such nets or obstructions,
+shall be liable for any damage caused by the open-
+ing of such passages, or removal of such nets or
+obstructions, unless the same shall be unnecessarily,
+wantonly, or maliciously done.
+Section 11 of the 8 and 9 Yic. repeals Section
+66 of the 5 and 6, page 61, as to the size of meshes
+of nets.
+Be it enacted, That being found that the size of
+the meshes of nets (not made of wood, iron, or
+other rigid materials) for the taking of salmon
+and trout in the sea, estuaries, or tideways, or for
+the taking of any fish in the inland and fresh, water
+portions of rivers and lakes, shall be used with a
+mesh of less size than one and three quarter inches
+from knot to knot, to be measured along the side of
+the square, or seven inches, to be measured all
+round each such mesh, such measurements being
+taken in the clear when the net is wet, and that if
+any person shall use any net contrary to this pro-
+vision, such person shall bo liable and subject to
+the penalties and forfeitures by said first recited
+Act mentioned and prescribed; in cases of any
+person using any nets with meshes of less size than
+the size in the said Act prescribed and limited.
+Size of the
+meshes of the
+nets.
+
+
+Pay and allow-
+ances.
+8 & 9 Vic. c. 46.
+Power and
+authority.
+APPOINTMENT OF HEAD AND OTHER
+CONSTABLES, FOR RAILWAYS AND
+PUBLIC WORKS.
+Head and other Constables appointed under
+this Act shall have the same amount of pay
+and allowances, same rights and privileges, power
+and authorities, and subject to the same provisions,
+enactments, rules, regulations, and orders, and he,
+in all respects, in the same situation in the county
+in which they shall be stationed, as far as the cir-
+cumstances of the case will admit, as if appointed
+and formed part of the Constabulary Poroe of such
+county.
+Enacts, that any Special Constable, duly ap-
+pointed, and all such persons as he may call to his
+assistance, may seize and detain any Engine-Driver,
+Waggon-Driver, Guard, Porter, Servant employed
+by the said or by any other Railway Company, or
+person conducting traffic upon the Railway belong-
+ing to the said Company, or in repairing or main-
+taining the works of the said Railway, who shall
+be found drunk while so employed upon the said
+Railway, who shall commit any olfence against any
+of the Bye-Laws, Rules, or Regulations of the
+said Company, or who shall wilfully, maliciously,
+or negligently do or omit to do any act whereby the
+life or limb of any person passing along, or being
+upon such Railway, or the works thereof, shall be,
+or might be injured or endangered, or whereby the
+passage of any engines, carriage, or trains shall be,
+or might bo obstructed or impeded, and to convey
+
+
+such Engine-Driver, Guard, Porter, Servant, or
+other person so offending, or any person counselling,
+aiding, or assisting in such offence, with all con-
+venient despatch, before some Justice of Peace for
+the place within which such offence shall be com-
+mitted, without any other Warrant or authority
+than this Act.
+Penalty on conviction, any sum not exceeding
+£lO, or Imprisonment, with or without hard labour,
+for any period not exceeding Two Calendar Months.
+There is a Special Act for the Dublin and Kings-
+town Railway, 6 & 7 Wm. IV., c. 132.
+SPECIAL CONSTABLES.
+THEIR POWERS.
+Section 5 enacts, that all Special Constables ap-
+pointed under this Act, shall have all powers,
+authorities, rights, privileges, advantages, and be
+liable to all such duties and responsibilities as any
+Constable appointed by virtue of Common Law, or
+any Statute Law.
+Section 11 enacts, that any person assaulting or
+resisting a Special Constable, or who shall encou-
+rage others to do so, shall, on conviction before two
+Justices of the Peace, forfeit any sum not exceeding
+£2O, or liable to such other punishment on any
+indictment or information for such offence, as any
+persons are by Law, liable for assaulting any Con-
+stable in the execution of his duty.
+Power and
+authority.
+2 & 3 Wm. IV.,
+c. 103.
+Assaulting Con*
+stable.
+
+
+Nun, from Payc
+722 to 769.
+Warrant should
+state if Felony or
+Misdemeanor,
+Abduction.
+10 Geo, IV., c. 34,
+8. 22.
+Abortion.
+1 Wm.IV., and
+1 Vic., c. 85, ss.
+6, 8.
+CATALOGUE OF INDICTABLE OFFENCES.
+DEFINITION OF FELONY AND MISDEMEANOR.
+A Felony is described to be sucb a crime as,
+independently of other punishments, occasioned at
+Common Law a total forfeiture of land or goods,
+or both; and a Misdemeanor such a crime as does
+not amount to Felony, but is the subject of indict-
+ment. And, as has been remarked in the preface, it
+is useless a Constable knowing he has power to
+arrest for felony without a warrant, unless ho is
+clearly informed what constitutes the offence.
+The catalogue of offences will be found equally
+useful to the Magistrate and his clerk, and the
+present is taken as a favourable opportunity of
+mentioning the necessity there exists of having the
+class of offence stated in the warrant.
+It is of the utmost importance that the Magis-
+trate should in the warrant state if the offence is
+Felony or Misdemeanor, and care should be taken
+that the warrant shall not impart to be granted for
+Felony, where the first charge does not amount to
+this offence, as consequences the most serious may
+arise to the Police in the execution of it, from an
+error of this kind, in case of flight or escape.
+“WHAT ARE FELONIES.”
+To take or carry away any woman or girl
+against her consent, with intent to marry or defile
+her.
+With intent to procure the miscarriage of any
+woman, any person who shall administer to her
+any poison or other noxious thing.
+
+
+Accessories to any Felony punishable by Com-
+mon Law or under Statute Law.
+Endeavouring to seduce any person serving in
+Her Majesty’s forces, by sea or laud, from his duty.
+Making or assisting in making any pike, dirk,
+dagger, or spear, without licence.
+Resisting or escaping from arrest, wounding
+others to prevent arrest.
+The wilful and malicious burning the house of
+another.
+Assault with intent to rob, or assault with intent
+to maim or murder.
+Unlawfully to break down or cut down any sea
+bank or sea wall, or the bank or wall of any river,
+canal, or marsh, or to undermine, throw down,
+level, or otherwise destroy any lock, sluice, weir,
+tunnel, floodgate, aqueduct, cut, dam, drain, water-
+course, or other work on any navigable river or
+canal.
+Wilfully and maliciously to cut, break down,
+destroy, or damage any bank, dam, tunnel, sluice,
+engine, building, or any other work, made for the
+purpose, under said Act, to promote the drainage
+of lands.
+If any person being married shall marry any
+other person, during the life of the former husband >
+or wife.
+To pull down, or in way destroy any public
+bridge, or to do any injury, so as to render it, or
+any part thereof, dangerous or impassible.
+Committed with mankind, or with any animal.
+To set fire to any dwelling-house, any person
+being therein.
+Accessories.
+Com. Law, Stat. 9.
+Geo. IV., c. 54.
+Allegiance.
+37Ge0.111., c. 40.
+Arms.
+47 Geo. 111.,5. 2,
+c. 54.
+Arrest.
+Arson.
+Com. Law.
+Assault.
+7 Wm. IV., and
+1 Vic., s. C-10.
+Banks, Locks,
+&c.
+9 Geo. IV., c. 56.
+s. 12-34.
+Under Drainage.
+5 & 6 Vic., c. 89,
+s. 33.
+Bigamy.
+10 Geo. IV.j c. 34.
+s. 26.
+Bridge.
+9 Geo. IV., c. 56.
+s. 14-34.
+Buggart.
+10 Geo. 1V.,c.34.
+s. 18.
+Burning
+Houses.
+7 Wra. IV., and
+1 Vic,, e. 89, s. 2.
+
+
+Burning.
+Churches.
+7 Wm, IV., and
+1 Vic. c. 89.
+Other Buildings.
+Ib.
+Coal mine.
+Ib.
+Stacks of corn.
+lb.
+Crops.
+9 Geo. IV,, c. 66,
+a. 18-34.
+Riotous burning.
+Carnal Know,
+ledge.
+10 Geo. IV., c. 34,
+e. 20.
+Cattle.
+Maiming.
+9 Goo. IV., c. 58,
+s. 17.
+Stealing.
+9 Geo. IV., o. 55.
+Amended 2 & 3
+Wm. IV., c, f. 2 ;
+and 7 Wm. IV.,
+and I Vic., c. 90,
+s. 1.
+Child.
+Stealing.
+10 Geo. IV., c. 34,
+». 25.
+Churches and
+Chapels.
+9 Geo. IV., c. 65,
+s. 10.
+Clerks and
+Servants.
+Thefts by.
+9 Geo. IV., 88.
+39-44.
+Embezzlement.
+Ib., as. 40-4.
+To set fire to any church, chapel, or any chapel
+for the religious worship of dissenters.
+Or to any house, stable, court-house, out-house,
+warehouse, office, shop, mill, malt-house, barn, or
+granary.
+To set fire to any mine of coal.
+To set fire to any stack of corn, grain, straw,
+hay, turf, peat, furze, heath, coke, charcoal, or wood.
+To set fire to any crop of com, standing or cut
+down, or to any part of a wood or coppice, or plan-
+tation of trees.
+Riotously setting fire to stores, provisions, en-
+gines, ships, buildings, &c.
+Unlawfully and carnally to know and abuse a
+girl under the age of 10 years.
+To kill, maim, or wound any cattle.
+To steal any horse, mare, gelding, colt, or filly,
+or any bull, cow, ox, steer, bullock, heifer, calf,
+ram, ewe, sheep, or lamb, or to kill any of such
+cattle, with intent to steal the carcase or skin, or
+any part of the cattle so killed.
+Maliciously, by fraud or force, to lead, decoy, or
+entice away, or detain any child under 10 years
+of age, with intent to deprive the parents of such
+child, or with intent to steal any article upon or
+about the person of such child.
+To break and enter any church, meeting-house,
+chapel, or other place of divine worship, and steal
+therein or therefrom any chattel.
+Any Clerk or Servant stealing any chattel,*
+money, or valuable security belonging to, or in the
+possession or power of his master or employer.
+Any Clerk or Servant who fraudulently era
+
+
+bezzles any chattels, money, or valuable security
+from master or employer.
+To falsely make or counterfeit any coin resem-
+bling, or intended to resemble, or pass for the
+King’s current gold or silver coin.
+To gild or silver, or with wash or materials
+capable of producing the colour of gold or silver,
+or to gild, or case over any piece of silver or
+copper, or case gold or silver coin, or metal, or
+mixture of metals, of.a fit size and figure to be
+coined, with intent that the same shall be coined
+into false or counterfeit coin, resembling, or appa-
+rently intended to resemble or pass for any of the
+current gold or silver coin, or to file, or to gild, or
+in any manner alter any of such current coin, or
+of any current copper coin, with intent to make
+the same resemble or pass for any of the current
+gold or silver coin.
+To impair, diminish, or lighten any gold or silver
+coin.
+To buy, sell, receive, pay, import, or put off or
+to offer to buy any false or counterfeit gold or silver
+coin.
+To have in possession or custody any puncheon,
+matrix, stamp, die, pattern, or mould, for making
+any gold or silver counterfeit coin, or any instru-
+ment for marking same round the edge of such.
+To make or counterfeit, or having tools, or buy-
+ing, selling, or putting off counterfeit copper coin.
+See Murder—Riots.
+Persons violently, riotously, or outrageously dis-
+turbingthe court at Elections, or wilfully destroying
+the whole or part of poll book of Returning Officer.
+Coin.
+Counterfeiting
+gold or silver.
+2 Wm. IV., c. 34,
+s. 3-19.
+Colouring, filing,
+or altering gold or
+silver.
+2 Wm. IV., c. 34.
+s. 4.
+Sweating gold or
+silver coin.
+Jb., ss. 6, 19.
+r Buying, selling,
+or importing
+" same.
+Ib., 8. C.
+, Tools for coining
+gold or silver.
+J Ib., 8. 10.
+, Similar offbnro*,
+respecting copper
+coin.
+Ib.y as. 12, 19.
+Conspiracy.
+Elections.
+35 Geo. 111., c.
+? 29, ss. 12-78.
+
+
+Embezzlement.
+By public officer.
+2 Wm. IV., c. 4,
+a. 1.
+By Bank of
+Ireland dorks
+and servants.
+21 & 22 Geo. 111.,
+c. 16, s. 16, and
+5 Vic., c. 2, sa.
+4, 99.
+Escape.
+Com. Law.
+Escapes suffered
+by others.
+Ib.
+Excise and
+Customs.
+4 0 Geo. 111., o.
+106.
+Fixtures.
+9 Geo. IV., c. 55,
+a. 37.
+Forcible entry
+and Detainer.
+26 Geo. 111., c.
+24, 8. »;4.
+Forgery.
+Rills, Notes,
+HeceipU l . &c.
+Persons in the public service of Her Majesty
+embezzling chattels, money, or valuable security
+entrusted to them, and applying any part of same
+to their own use.
+Officers or Servants of the Bank of Ireland who
+shall secrete, embezzle, or run away with, note-
+hill, dividend warrant-bond, or deed, entrusted to
+them.
+Escape is, where one who is arrested gains his
+liberty before delivered by due course of Law.
+If a Constable suffers a prisoner charged with
+Felony to escape, the Constable having connived
+at it, to save the prisoner, the Constable is guilty
+of Felony.
+Shooting at Officer of Excise or Assistant, in
+execution of their duty, is a capital Felony.
+To steal, rip, cut, or break, with intent to steal,
+any glass or wood work belonging to any building
+whatsoever, or any lead, copper, brass, or other
+metal or material, fixed in or to any building, or
+any thing made of metal fixed in any land, being
+private property, or for a fence to any dwelling-
+house, garden, or area, or in any square, street, or
+place dedicated to public use or ornament, punished
+as larceny.
+Persons in numbers and strongly armed, forcibly
+taking the possession of any house, land, or tene-
+ment, and who forcibly hold such, or who shall
+forcibly resist the execution of any power of the
+Law for giving the quiet and peaceable possession
+of such house, land, or tenement.
+Falsely to make, alter, forge, or counterfeit, or
+to cause or assist in the false making of any pro
+
+
+niissory note, bill of exchange or acceptance, or
+any assignment of a note or bill, or any receipt or
+acquittance, or discharge for rent, or other consi-
+deration ; or draft, warrant, or order for payment
+of money, or order for delivery of goods, or for
+procuring or giving credit, or knowingly to utter
+any of the above so forged or altered.
+Forging, or uttering when forged, with intent
+to defraud, any deed, will, bond, writing obligatory,
+or note or receipt to’ the value of £5.
+To forge government debenture words or num-
+bers thereof, or letters of attorney for transferring
+share in stock, or receiving dividends or interest,
+or forging names of proprietors.
+To forge or alter any Bank of Ireland note, bill,
+acceptance, or indorsement thereon, or the number,
+sura, or any part thereof.
+Having any frame, mould, or instrument for
+making paper, with device peculiar to Bank of
+Ireland paper, or knowingly possess without law-
+ful excuse, any plate, stamp, or instrument for
+impressing devices or words used in Bank of Ireland
+notes.
+To purchase, or receive knowingly, any forged
+note or bill of Bank of Ireland, or knowingly have
+same in possession.
+Forging name of Officer of Excise, or to have in |
+possession any mould or instrument for making 1
+excise paper, or paper like that used for permits.
+Counterfeiting the dies or stamp of the Stamp
+Office, or uttering,’'or knowingly having in pos- •
+session, with intent to utter, forged stamps.
+Forging marks or stamps for gold and silver
+• Fobgebt.
+39 Geo. 111.,
+t 63, s. 1.
+Deeds, wills.
+3 Geo. II.; 17
+) Geo. II.; 34 Geo.
+111., c. 22.
+- Dividends or
+stock,
+f 37Geo. 111.,c.54.
+j
+On Bank of
+* Ireland.
+, 21 & 22 Geo. 111.,
+38 Geo- 111.,c.53,
+a. 2.
+• Having instni*
+, ments for forging.
+: 38 Geo. HI., 0.63,
+a. 3-4.
+Purchasing
+forged notes.
+40Ge0.111.,c. 13,
+s. 2.
+Excise or
+Customs.
+7 & 8 Geo. IV.,
+c. 63.
+Stamps.
+56 Geo. 111., c. 56.
+s. 37.
+Gold and silver
+plate.
+
+
+Foboeet,
+9 Goo. IV., c. 18,
+s. 35.
+Forgery of army
+pay and pensions.
+47Ge0.111.,c.26,
+os. 2,7, 8.
+Navy Pay.
+11 Geo. IV., and
+1 Wm. IV.,c. 20,
+ss. 83-87.
+Garden.
+Stealing or
+damaging with
+intent to steal.
+9 Geo. IV., c. 55*
+8. 35.
+Houses.
+Burglary.
+Com. Law.
+9 Goo. IV., c. 55,
+8. 11.
+Burglary with
+wounding.
+7 Wra. IV., and
+] Vio., c. 86, a. 2.
+Stealing and
+putting inmates
+in fear.
+Ih. t ss. 6-7.
+Stealing in out-
+house.
+9 Goo. IV., o. 65,
+a. 14.
+Robbery in shop,
+9 Goo. lV.> o, 65,
+s. IS.
+plate, making, stamping, or transposing same, or
+’ knowingly having in possession such counterfeit
+marks or stamps.
+Personating any person entitled to receive army
+, pay or pension, or forging name or hand-writing,
+or forging name of Justice of the Peace to pen-
+sioner’s document.
+Same applies to navy pay pensioner or prize
+money.
+To steal, or destroy, or damage, with intent to
+steal, any plant, root, fruit, or vegetable production
+growing in garden, orchard, nursery, hot house,
+green house, or conservatory, first offence punish-
+able summarily; and if any one so convicted
+shall again commit any of the said offences, it is a
+Felony, and punishable as Simple Larceny.
+Breaking and entering the mansion-house of
+another in the night, with intent to commit some
+Felony within the same. The breaking may be
+either actual, for which even raising a window or
+opening the fastening of a door is sufficient.
+To break and enter, as above, and assault with
+intent to murder any person being therein, or stab,
+cut, wound, beat, or strike any such person, pun-
+ishment, death.
+To steal any property in any dwelling-house,
+and by menace or threat put any one therein in
+bodily fear.
+To break and enter any building, and steal there-
+from chattels, money, or valuable security, such
+building being within the curtilage of a dwelling-
+house and occupied therewith, but not part thereof.
+To break, and enter any shop, warehouse, or
+
+
+counting-house, and steal therein chattels, money,
+or valuable security.
+With fire arms, swords, bludgeons, sticks, stones,
+or other offensive weapons, to assault, or with force
+or violence obstruct any Officer of Excise, or person 1
+acting in his aid, in searching for, seizing, securing,
+or in destroying any spirits, or any thing belonging
+to a still, or to rescue, or attempt to rescue any
+such seizure, or prisoner made by such Officer of
+Excise or his assistants.
+Is the wrongful taking and carrying away of
+the personal goods of another with a felonious in-
+tent, without the consent of the owner ; the taking .
+may be either actual, when the goods are taken j
+out of the owner’s possession against his will, or s
+constructive, when the owner delivers the goods,
+but either does not thereby divest himself of the
+legal possession, or the possession of the goods has
+been obtained from him by fraud, with a previous
+intent to steal them. If a man find an article,
+and that he either knows the owner, or the pro-
+perty is so marked that it may be traced, the
+conversion of such property is a Felony.
+Larceny is either compound, that is, accompanied i
+by aggravating circumstances, as of taking from '
+the house or person ; or simple, that is, unaccom-
+panied by such aggravating circumstances.
+To shoot at any person, or by drawing a trigger,
+or in any other manner to attempt to discharge I
+any kind of loaded arms at any person, or to stab, ’
+cut, or wound any person, with intent to maim, a
+disfigure, or disable, or to do some other grievous
+bodily harm, or with intent to resist or prevent the
+lawful apprehension of any person.
+Robbery in Shop.
+Illicit Distil-
+lation.
+J & 2 Wm. IV.,
+c. 65, s. 29.
+’ Lartceni.
+For Constable’s
+power under
+Larceny Act,
+see page 6.
+Com. Law.
+9 Geo. IV., c. 65,
+s. 3.
+Simple or
+compound.
+Maiming.
+Attempt to maim
+or resist arrest.
+7 Wm.IV., amt
+1 Vic. c 83,
+s. 4, 8.
+
+
+Maiming.
+By explosive
+substances.
+7 Wm. IV., and
+1 Vic., o 85,
+s. 6, 6.
+To send or deliver, or cause to be taken or
+received by any person, any explosive substance,
+or other dangerous or noxious thing, or to cast or
+throw upon any person any corrosive fluid, with
+intent to burn, maim, disfigure, or disable such
+person.
+To destroy, or damage with intent to destroy,
+any plant, root, &c. in any garden, &c.; first
+offence, punishment, summarily; second offence
+after conviction, Felony.
+The killing of a man by another where the
+malice aforethought, express or implied, necessary
+to constitute the crime of murder is wanting.
+Where an Officer of Justice, or one acting in his
+aid, in the legal exercise of a particular duty, kills
+any person preventing or resisting him ; and when
+the homicide is committed in preventing a crime,
+as one attempting to rob or murder another, be
+killed in tbe attempt.
+, Unlawfully to cut, break, damage, or destroy, or
+to render useless, any goods or articles of silk,
+, woollen, or cotton, or like articles, being in loom,
+or frame, or on any machine, engine, rack, or ten-
+ters ; or by force to enter into any house, shop,
+building, or place, with intent to commit any of
+said offences.
+To cut, break, or destroy, or damage with intent
+to destroy or render useless, any threshing machine,
+or any other machine or engine, or any tool or
+implement, fixed or moveable, prepared for, or em-
+ployed in any manufacture.
+To steal to the value of ss. any linen, hempen,
+or cotton yarn, or any goods of silk, woollen, or cot-
+’’ ton, from any building or field of a manufactory.
+Malicious In.
+juries.
+9 Geo. IV., c. 56.
+Manslaughter.
+Cora. Law.
+Homicides
+justifiable or
+excusable.
+Manufactures.
+Injuring goods or
+machines.
+9 Goo. IV., o. 66,
+s*. 3, 34.
+Destroyirg
+threshing or other
+machinery.
+/*., s. 4.
+Stealing goods in
+process of
+manufacture.
+9 Geo. IV., c. 65,
+as. 10, 4.
+
+
+If any degraded clergyman, or layman pretend-
+ing to be a clergyman of the Church of Ireland,
+celebrate any marriage between two Protestants,
+or between a Protestant and a Roman Catholic.
+Stealing any ore or metal from any mine or bed.
+Maliciously to destroy, damage, or drown any
+mine or bed.
+Murder is when a person of sound memory and
+mind unlawfully kills another with malice afore- '
+thought.
+To conspire, confederate, and agree to murder'
+any person ] punishment, death. i
+To solicit, encourage, persuade, or endeavour to .
+persuade, or to propose to any person to murder '
+any other person •, punishment, death.
+To administer, or cause to be taken, any poison, :
+or to stab, cut, or wound any person with intent, i
+in any of the cases aforesaid, to commit murder; j
+punishment, death.
+To attempt to administer poison, or to shoot at.
+11* • • 1
+any person, or by drawing a trigger, or in any
+other manner to attempt to discharge any kind of
+loaded arms at any person, or to attempt to drown,
+suffocate, or strangle any person with intent, in any
+of the cases aforesaid, to commit murder, though
+no bodily injury is effected.
+To administer, tender, or cause to be adminis-
+tered, or by threat, promise, persuasion, or other un- j
+due means, upon a book or otherwise, any oath or i
+engagement, by any person not lawfully authorized
+to tender same.
+If any person take any such oath, importing to
+bind him, (it also a Felony.)
+z>
+Marriage.
+By degraded
+clergymen.
+12Geo*l.c. 3, s.l*
+5 Vic. s. 2.
+Mime.
+Stealing from.
+Injuring.
+9 Geo. IV. c. 65,
+s. SO.
+Murder.
+Com. Law.
+Conspiring to
+murder.
+10 Geo. IV. o. 34,
+s. 8.
+Soliciting to
+murder.
+Ib., 0. 9.
+Poisoning or
+wounding, with
+intent to murder.
+7 Wm. IV., and
+1 Vic. o. 86,0> 2.
+Attempt to
+murder.
+lb., ss. 3, 8.
+Oaths.
+Administering
+unlawful oaths.
+60 Geo. 111. o.
+102, 99. 1,2, 3.
+Taking «ame.
+
+
+Oaths.
+Compulsion.
+Aiding and abet*
+ting.
+Otste&s.
+Stealing.
+See also Misde-
+meanor, under
+same head.
+6 & 6 Vic. c. 106,
+s. It.
+Plate.
+Altering names <
+or crests.
+28 Geo. 111. c, 49,
+s. 7.
+Post-office.
+Stealing letters.
+7 Wm. IV., and
+1 Vic. o. 36.
+Stealing from
+letter.
+Stealing letter
+bags or stopping
+mail.
+Ib., ss. 28, 41,42.
+Receivers of
+above.
+Ib., ss. 30,41, 42.
+By inevitable necessity to excuse offender in
+taking such, but not unless they give full informa-
+tion, on oath before a Justice of Peace, of the cir-
+cumstances, within ten days, or if prevented by
+force or sickness, within seven days after recovery.
+All persons present aiding and assisting, or
+earning such oath to be administered, though not
+present, are to be deemed as principals.
+To steal any oysters or oyster brood from any
+bed or laying, being the exclusive property of any
+other person, and sufficiently marked out and known
+as such, he is guilty of, and punishable as for lar-
+ceny, provided this shall not extend to cases where
+the party acts under a fair and reasonable supposi-
+tion that either himself or any other person in
+whose right or authority he acted, or the public at
+large, have a right to take the oysters and convert
+them to their use.
+By the Pawnbrokers’ Act, no person shall alter
+or deface name or crest on watches, or on any
+article or piece of family plate, without consent of
+the owner, in writing, or some person duly autho-
+rized to sell the same or give such consent.
+If any person employed under the Post-office
+shall steal, embezzle, secrete, or destroy a postletter.
+To steal from or out of a post letter, any
+chattel, money, or valuable security.
+To steal a post letter-bag, or a post letter from
+such bag, or from an Officer of the Post-office, or
+from a mail, or to stop a mail with intent to rob
+or search the same.
+Persons receiving any of the above, knowing
+the same to have been so feloniously stolen, pun-
+ishable in like manner.
+
+
+Where a party effects Lis own escape by force,
+the offence is prison breaking; and the forcible
+freeing another from imprisonment, is properly
+called rescue.
+If any persons unlawfully, riotously, and tumul-
+tuously assembled, pull down, demolish, set fire to,
+or destroy, or begin to do so, to any store-house,
+mill, granary, corn stack, or other place where
+corn,grain, meal,flour, orpotatoesare usuallystored,
+or kept for exportation or sale, or who shall enter
+and break into such, or attempt to do so, or take,
+carry away, throw abroad, or spoil, or attempt by
+force to take any of the above, or who shall, in
+manner described, enter any ship, vessel, or boat
+so laden, and take, carry away, cast overboard,
+destroy, or damage any of such articles, or cut, in-
+jure, spoil, or take away such ship, vessel, or boat,
+or injure or carry away the rigging or tackle of
+same, or prevent or endeavour to obstruct the
+lading thereof, or to prevent, or endeavour to pre-
+vent her, when so laden, from sailing, or unlaw-
+fully, wilfully, knowingly, and by force, stop, seize,
+detain, take, or drive away any horse, car, cart, or
+boat so laden, on the way to or from any mill,
+store, market, seaport, or place of shipping, with a
+view or intent to prevent the corn, grain, &c. etc.
+from being taken to the place or person whither it
+was intended to be carried, or willfully kill or
+maim any horse or beast laden therewith, or cut,
+break, or destroy any sack, and scatter any of said
+articles wherewith such car, beast, or boat is laden,
+or to take away, or distribute, or compel owner or
+conductor thereof to distribute, sell, or otherwise
+» 2
+Prison Break.
+ING.
+Com. Law.
+Provisions.
+Riotously pre-
+venting export of,
+or destroying.
+23 & 24 Geo. 111.
+c. 20, s. 1 ; and
+9 Geo. IV. o. 66,
+s. 31 ; 6 Vic. c.
+28, as. 2,5, 19.
+Cutting sack*.
+
+
+Provisions.
+Rape.
+Com. Law.
+10 Geo. IV. c. 34,
+8. 19,
+Receivers of
+Stolen Goods,
+9 Oeo. IV. c. 35,
+47, 4,
+Rescue.
+Com. Law.
+1 & 2 Geo. IV.
+c. 88.1.
+ItlOT.
+27 Geo. 111.
+•JO Goo.'lll. c. 06.
+b Vio. c. 28, s. 2.
+Hindering pro*
+oiamation.
+It*
+dispose of such articles, or any part thereof, or to
+destroy weir, sluice, mill dam, drain, or outwork
+of any mill, or aid in committing or attempting
+any such matter.
+Rape is carnally knowing a woman by force,
+and against her will.
+Any person who receives stolen property the
+stealing or taking whereof would amount to a
+Felony, such person knowing the same to have
+been feloniously stolen or taken, is guilty of Felony.
+Rescue is the forcibly freeing another from arrest
+or imprisonment, and whether it be Felony or not
+depends upon the nature of the offence for which
+the party rescued was in custody. If the original
+offence be a Felony the rescue is also one, though
+not punishable as a Felony at Common Law till
+conviction of original offender.
+But now, by 1 and 2 Geo. IV., c. 88, s. 1, if
+any person shall rescue, or aid or assist in rescuing
+from the lawful custody of Constable, Officer, or
+other person whatever, any person charged with,
+or suspected of, or committed for Felony, or sus-
+picion thereof; then if the offender shall be con-
+victed of Felony, not capital, and liable to be
+imprisoned for one year, he is punishable, as dis-
+cretionary with the court, for seven years’ trans-
+portation, or imprisoned from one to three years.
+For what amounts to riot, see page 8,
+Twelve or more riotously remaining together
+| one hour after proclamation or Riot Act being read.
+With threats, messages, or force to hinder the
+proclamation, or to continue together to the num-
+ber of twelve or more one hour after such hindrance.
+
+
+- To demolish, pull down, or begin to demolish
+any church or chapel, or any building used for
+religious worship, or to set fire, or burn same, or
+to maliciously fasten- up any such, or by threats
+or force prevent any clergyman from celebrating
+divine service therein, or maim or hurt any such
+clergyman in performing or about to perform divine
+service.
+To dig, erect, provide or procjire to be dug, &c., :
+any grave, gallows, or gibbet, or any instrument i
+for inflicting bodily pain or punishment, in order
+to deter or prevent any person from giving evi-
+dence in any suit or prosecution, civil or criminal,
+or to prevent the collection of any lawful rates or
+taxes, or to make use of any force, or inflict, or
+threaten to inflict, any bodily pain or punishment,
+or destroy, or threaten to destroy, the property of
+any person, in order to induce or compel any per-
+son to enter into, support, or assist in any com-
+bination or conspiracy, or prevent the collection
+of any such rates or taxes ; or to deter or prevent
+any person from giving evidence in any suit or
+prosecution, or on account of any person having
+declined or refused to enter into any such unlaw-
+ful combination or agreement, or having given
+evidence in any action or prosecution, or to aid,
+abet, or assist in such offences.
+To print, write, post, publish, or knowingly -
+circulate or deliver, cause or procure to be printed,,
+or deliver any notice, message, exciting or tending :
+to excite any riot, tumultuous meeting, or unlawful
+combination or confederacy.
+Any person not lawfully authorized, who shall ;
+Riot.
+Demolishing
+churches, assault-
+ing clergymen.
+27 Geo. 111. c. 15,
+s. 5.
+Intimidation.
+27 Geo. 111. o. 15,
+s. 8.
+Circulating
+writings to excite
+riot.
+27Geo. 111. c. 15,
+s. 9 ; 5 Vic. c. 28.
+Seizing arms, or
+supplying arms.
+
+
+Biot.
+27 Geo. 111. o. 15,
+s, 10 1 5 Vic. c.
+28, m. 8-19./
+Prosecution to be
+in one year.
+Ib. a. 12.
+Robbery.
+Com. Law.
+With wounding.
+7 Wm. IV.; and
+1 Vio. e. 87, s. 2.
+By armed persons
+or numbers.
+3*lo.
+Stealing from
+the person.
+lb., S 3. 5-10.
+Assault with in*
+tent to rob.
+Ib., ea. 6*lo.
+Demanding with
+force or menace.
+2b., €B. 7-10.
+forcibly seize any arms or ammunition, belonging
+to any person, or forcibly by menace or intimida-
+tion exact or levy from any person unwillingly, to
+deliver any arms, or ammunition, or to send suck
+arms, ammunition, money, or goods, to any person or
+place, or knowingly and voluntarily supply horses,
+arms, or ammunition to any persons in the execu-
+tion of any of the offences in this Act mentioned.
+No person is liable to prosecution under this
+Statute, 27 Geo. 111. c. 15, unless prosecuted within
+a year after the offence.
+Robbery is the felonious and violent taking from
+the person of another, goods or money to any
+value, putting him in fear.
+To rob any person, and at the time, or imme-
+diately before or after such robbery, stab, cut, or
+wound any person ; punishment, death.
+Being armed with any offensive weapon or in-
+strument to rob, or assault with intent to rob, or
+together with one or more persons to rob, or assault
+with intent to rob any person, and at the time of
+or immediately before or after such robbery, heat,
+strike, or use any other personal violence to any
+person.
+To rob any person, or steal any property from
+the person of another.
+To assault any person with intent to rob, punish-
+ment (where greater is not provided) imprison-
+ment, not exceeding three years, hard labour and
+solitary confinement.
+With menace, or by force to demand any pro-
+perty from any person with intent to steal the
+same, punishment same as last offence.
+
+
+“ Property” in this Act denotes every thing in-
+cluded under chattel, “ money,” or valuable se-
+curity.
+Unlawfully and maliciously to damage, or other-
+wise than by fire, any ship or vessel, whether
+complete or in an unfinished state, with intent to
+destroy the same or render it useless.
+Unlawfully to set fire to, cast away, or in any-
+wise destroy any ship or vessel, either with intent
+to murder any person, or whereby the life of any
+person shall be endangered; punishment, death.
+To exhibit any false light or signal, with intent
+to bring any ship or vessel into danger, or to do
+any thing tending to the immediate loss or destruc-
+tion of any ship or vessel in distress; punishment,
+death.
+To set fire to or in any way destroy any ship
+or vessel, or cast away, with intent to prejudice
+any owner, or part owner, of any goods on board,
+or any person that hath underwritten or shall
+underwrite any policy of insurance upon such ship
+or vessel, or on any freight or goods on board the
+same.
+To prevent or impede any person endeavouring
+to save his life from any ship or vessel in distress,
+or wrecked, stranded, or cast ashore, whether he
+be on board or have quitted the same.
+To destroy any part of any ship or vessel in
+distress, stranded, or cast on shore, or any goods,
+merchandize, or articles of any kind belonging to
+such ship or vessel.
+Captain, master, mariner, or other officer belong-
+ing to any ship or vessel, wilfully to cast away,
+sink, burn, or destroy the ship of which he is owner.
+Robbery.
+Meaning of
+property.
+Ships.
+Damaging ships.
+9 Geo. IV. c. 53,
+ss. 10-34.
+Destroying, with
+danger of life.
+7Wm.IV. ; and
+1 Vic. c. 89, a. 4.
+Wrecking.
+Ib., s. 5.
+Burning or des-
+troying, to injure
+owners.
+Ib., ss.6-12.
+Opposing ship*
+wrecked persons.
+Ib., ss. 7-12.
+Injuring rossela
+in distress.
+Ib., ss. 8-12.
+Owners, masters,
+destroying.
+11 Geo 11. c. 9,
+s. 2; 5 Vic. a. 2,
+8. 28, as. 2-19.
+
+
+Ships.
+Plundering ships
+In distrees.
+7 Wm. IV.*, and
+I Vic. c. 87, s. 8.
+Shooting at.
+Smuggling.
+B*4 Wm. IV.
+e. 63, 0. 68.
+Being in com-
+pany with other
+armed or dis-
+guised, with for-
+feited goods.
+8 & 4 Wm. IV*
+c. 63, s. CO.
+Stealing.
+Stolen goods
+Tenants and
+Lodgers.
+Stealing.
+9 Geo, IV. c. 65,
+a. 38.
+Theft.
+To plunder or steal any part of any ship or
+vessel which is in distress, or wrecked, stranded
+or cast on shore, or any goods or articles belong-
+ing to same.
+See Murder, Maim, Smuggling, and Illicit Distil-
+lation.
+If three or more persons armed with fire arms,
+or other offensive weapons, shall be assembled in
+order to be aiding and assisting in the illegal land-
+ing, running, or carrying away of any prohibited
+goods, or to rescue such, after seizure, from the
+officer of customs or other officer authorized to
+seize the same, or from any person employed in
+assisting such officer, or in rescuing any person
+who shall have been apprehended for any offence
+made Felony by any Act relating to the customs, or
+in preventing the apprehension of any such person.
+If any person being in company with more than
+four other persons be found with goods liable to
+forfeiture under this Act or any other Act relating
+to the Revenue of Customs or Excise, or in com-
+pany with one other person within five miles of the
+sea coast, or of any navigable river leading there-
+from, with such goods, and carrying offensive arms
+or weapons, or disguised in any way.
+Stealing, see Larceny.
+See Receivers,
+If any person shall steal any chattel, or fixture,
+let to be used by him or her, in or with any house
+or lodging, whether the contract is entered into
+by him or her, or by her husband, or by any per-
+son on behalf of him or her or her husband, it is
+Felony, and punishable as Simple Larceny.
+See Larceny.
+
+
+Any person who shall knowingly send or deliver
+any letter or writing demanding of any person,
+with menaces, and without reasonable or probable
+cause, chattel, money, or valuable security, or with
+a view or intent, or unlawfully gain any of such,
+or knowingly send or deliver, or directly or in-
+directly cause to be received, any letter or writing
+accusing or threatening to accuse any person of
+any crime, punishable with death or transporta-
+tion ; or of assault with intent to, or any attempt
+to commit a rape, or of any infamous crime.
+Any person sentenced, or ordered to be trans-
+ported, who shall afterwards be found at large
+without some lawful cause before the expiration i
+of his term of transportation.
+Unlawfully and maliciously, between sunset and
+sunrise , to cut, break, bark, root up, or otherwise 1
+destroy or damage the whole or any part of any !
+tree, sapling, or shrub, or any underwood, or be-
+tween sunrise and sunset, in case the amount of the
+injury done exceed £5.
+To steal, or cut, break, root up, or otherwise ■
+destroy or damage, with intent to steal, the whole, ‘
+or any part of any tree, sapling, or shrub, or any J
+underwood growing in any park, pleasure ground,
+garden, orchard, or avenue, or in any ground adjoin-
+ing or belonging to any dwelling-house, in case
+the value of the articles stolen, or the amount of
+the injury done, exceeds £l, or the whole or any
+part of any tree growing elsewhere, in case the
+value of the article or articles stolen, or amount of
+the injury done, exceeds £5. Punishable as Sim-
+ple Larceny.
+d 3
+Threat.
+Accusation to
+extort money.
+9 Geo. IV. c. 55,
+88. 6, 4.
+Transport a-
+tion, Return.
+ING FROM.
+9 Geo. IV. o. 64,
+s. 16; 6 Vio. a. 2.
+Trees.
+Injuring.
+9 Geo. IV. c. 56,
+s. 19, 31.
+Stealing, or
+damaging with
+intent to steal.
+Ib., c. 66,8. 31.
+
+
+Trees.
+If after Sum-
+mary Conviction.
+9 Geo. IV. c, 56,
+s. 32.
+Wounding,
+To steal, or cut, and with intent to steal the
+whole or any part of any tree, and wherever grow-
+ing when the stealing or injury amounts to one
+shilling, first and second offences punishable sum-
+marily, and if any person so twice convicted, shall
+afterwards commit any of said offences, it is Felony,
+and punishable as Simple Larceny.
+Wounding, see Murder; to maim, prevent arrest,
+&c., see Maim.
+Abduction.
+Of an heiress.
+10 Geo. IV. c. 34.
+f. 23.
+Of any girl.
+Ib,, s. 24.
+Affray,
+Arks.
+47 Geo. 111. c. 64,
+ss. 2, 12 ; con-
+tinued by 4 & 5
+Vic., c. 25.
+Arrest,
+10 Geo. IV, c, 34,
+9. 27.
+Neglecting to
+make an amst.
+WHAT ARE MISDEMEANORS.
+To fraudulently allure, take or carry away (any
+unmarried girl under eighteen years of age, who
+has any interest, legal or equitable, in any real or
+personal estate, or is an heiress), against the will
+of parents or other person having lawful care or
+charge of her.
+To take, or cause to be taken, any unmarried
+girl under the age of sixteen years, against the
+will of her parents, or any other person having
+lawful charge of her.
+For Affray, see page 8.
+Having pikes, pike-heads, daggers, or dirks, un-
+lawfully in possession, custody, or keeping; first
+offence, twelve months’ confinement; second offence.
+Felony.
+To arrest any Clergyman upon any civil process
+while he is performing Divine service, or is with
+knowledge of the offender going to or returning
+from the performance thereof.
+A Constable neglecting to make an arrest when it
+is his duty, is guilty of a Misdemeanor; and even
+
+
+any private person of full age present when a Felony
+is committed, and who neglects to use his best endea-
+vours to apprehend the Felon ; and so every private
+person is hound to assist any Constable demanding
+his assistance for taking a Felon, or suppressing a
+Breach of the Peace, whether by affray, unlawful
+assembly, or riot, is guilty of a Misdemeanor if he
+neglect to do so; and so it is to resist or obstruct the
+making a legal arrest.
+For common assault and battery see page 9.
+To assault, beat, or wound any person, so as there-
+by to endanger life, or to inflict upon such person
+any grievous bodily harm.
+To assault, strike, or wound any magistrate,
+officer, or other person authorized, in execution of
+his duty concerning the preservation of any vessel
+in distress, wrecked, or stranded.
+Persons convicted of any assault to commit
+Felony, assault upon any peace or revenue officer
+in execution of his duty, or upon any person
+acting in his aid, assault with intent to resist or
+prevent the apprehension or detainer of the person
+so assaulting, or for any other person for any
+offence for which he or they may be liable by law
+to be apprehended or detained.
+Unlawfully to assault and beat or wound any
+person with a stone or brickbat, or any heavy or \
+dangerous missile (whether held or swung by the '
+hand, or flung at such person), or with a stick or
+whip loaded with iron or other metal, or with any
+heavy instrument so loaded.
+Every attempt to commit a Felony or Misde-
+meanor, whether it be an offence by Statute or'
+f Abrebt.
+or refusing
+* assistance.
+Com. Law.
+Assault and
+Battebt.
+Violent assaults.
+10 Geo. IV. c. 29.
+On officer saving
+wrecks.
+Ib., a. 30.
+Assault to com-
+mit Felouy on
+Officer.
+lb. s. 31.
+Battery with
+loaded weapons.
+2 & 3 Vic. c. 77,
+8. 6.
+Attempt.
+Com. Law.
+
+
+Attempt.
+Common Law, is a Misdemeanor; and some, as
+attempt to Murder, Maim, &c., are Felonies.
+Keeping a bawdy house is a Misdemeanor.
+Blasphemy against God or Jesus Christ, pro-
+fane scoffing at Holy Scriptures, <fec. &c.
+Any person concerned in the administration of
+justice taking any undue reward to influence his
+behaviour in his office; and also to those who offer
+the bribe, whether taken or not.
+Obstructing ministers in the discharge of their
+duty at Burial Service.
+To bury a body of one who has died a violent
+death, without sending for Coroner, or before he
+has sat upon it.
+To take up and remove a dead body, also the
+taking a dead body to dispose of it for gain.
+Unlawfully and carnally to know and abuse any
+girl above the age of ten years and under the age
+of twelve years.
+Challenging to duel, or provoking another to
+send a challenge.
+Any person who shall, by any false pretence,
+obtain from any other person any chattel, money,
+or other property, with intent to cheat or defraud.
+Any person delivering themselves up and mak-
+ing a fraudulent confession of desertion, or recruits
+making any false representation of any particular
+in the oaths or certificates before the attesting
+Justice of the Peace, and obtaining enlisting money
+or bounty, are punishable as for obtaining money
+under false pretences.
+Abandoning an infant of tender years, so as to
+expose it to danger, is an offence in the nature of
+Bawdy House.
+Com. Law.
+Blasphemy.
+Ib.
+Bribery.
+Ib.
+Burial.
+Ib.
+Burying without
+inquest.
+Ib.
+Removing or
+selling dead
+bodies.
+lb.
+Carnal Know-
+ledge.
+10 Sc 12 Geo. IV.
+o. 34, 8, 20.
+Challenging.
+Com. Law.
+False Pee-
+tences.
+9 Geo. IV. c. 65,
+s. 46-4.
+Under Mutiny
+Act.
+See last Act, es.
+23-38.
+Children.
+Abandoning.
+Com. Law.
+
+
+an assault, and punishable as Misdemeanor; but
+this offence is only committed when the child is
+exposed to personal danger. The abandonment of
+an infant by a person having the care of it, with
+intent to make it chargeable to the parish, or even,
+it seems, to a particular individual, is, however, a
+Misdemeanor, though there be no personal danger
+to the child.
+Disturbing the public worship of any congrega-
+tion assembled according to Law. ]
+To take and carry away any cattle or goods,
+under colour of a decree obtained on any civil bill, j
+between sunset and sunrise; punishment, imprison-
+ment, whipping, at discretion.
+To tender, utter, or put off, or counterfeit coin,
+knowing same to be false or counterfeit, to resemble .
+or pass for gold or silver current coin; and if the ;
+offender shall at the time of such tendering have
+in his possession one or more pieces of counterfeit
+coin beside that tendered, or shall on the day of
+such tendering, <tc., or within ten dags next ensu-
+ing repeat the offence; punishment, imprisonment;
+second offence, Felony.
+To have in custody or possession three or more i
+pieces of such counterfeit coin, knowing the same .
+to be such, and with intent to utter or pass the
+same; second offence, Felony.
+To tender, utter, or put off any counterfeit J
+copper coin, or to have in possession three or more 1
+pieces, knowing the same to be false or counterfeit, ■
+and with intent to utter or put off the same.
+Compounding is taking a reward for forbearing
+to prosecute a Felony or Misdemeanor, or even an ,
+Children.
+Church.
+Disturbing,
+Com. Law,
+6 Geo. I. c. 6.
+Civil Bill,
+31 Goo. HI. c. 81,
+s. 4.
+Coin.
+Uttering gold
+and silver.
+2 Wm. IV, o. 34,
+ss. 7-19.
+Having in pos-
+session.
+/£>., ss. 8,19,
+Copper coin,
+uttering or '
+haring in pos-
+session.
+12, 19,
+Compounding
+Offences,
+Com. L*w*
+
+
+Compounding
+Offences.
+Concealing
+Birth of Child.
+10 Geo. IV. c. 34.
+a. 17.
+Conspiracies.
+Deeds.
+9 Geo. IV. c. 55,
+s. 23.
+Disorderly
+Houses.
+Com. Law.
+Escape.
+Ib.
+Excise.
+Assault on
+officer.
+7 & 8 Geo. IV.
+c. 53, s. 43.
+Fish and Mill
+Ponds.
+Injuring,
+9 Geo. IV. c. 56,
+as, '6-34.
+Forcible
+Entry.
+Com. Law, and
+5Rich.11.c.7-15.
+Indecency.
+Com. Law.
+Just.
+Ib.
+information on a penal statute, is a Misdemeanor;
+and compounding offences against the Larceny Act
+is now a Felony.
+Any woman delivered of a child, and by secret
+burying or otherwise disposing of the dead body.
+See Murder, Riot.
+To steal any paper or parchment, written or
+printed, or partly written or printed, being or con-
+taining evidence of title to any real estate.
+All disorderly inns or ale-houses, play-houses,
+improperly conducted, and the like, are public
+nuisances, and so is an inn refusing to entertain a
+traveller, without sufficient cause, keeping a dis-
+orderly house.
+See under list of Felonies.
+Violent assault on, or resistance to excise officers.
+See also illicit distillation and smuggling.
+Maliciously to break down or otherwise destroy
+the dam of any fish pond, or of any water which
+is private jiroperty, with intent to take or destroy
+any of the fish in such pond or water, or to put
+any lime or other noxious materials to destroy any
+of the fish therein, or to break down or otherwise
+destroy the dam of any mill pond.
+Forcible entry, or detainer of lands and tene-
+ments.
+Publishing or exhibiting indecent pictures, or
+any scandalous indecency exhibited in the face of
+the public, or indecent exposure of the person. It
+is also a Misdemeanor for a man to undress on the
+beach and bathe in the sea near inhabited houses,
+from which he may he distinctly seen.
+Attempting to influence a Jury corruptly to one
+
+
+side by promises, persuasion, entreaties, money, or
+entertainments,
+To set or place, or cause to be set, &c., any
+spring gun, man trap, or other engine calculated
+to destroy human life, or may inflict grievous
+bodily barm upon a trespasser or other person
+coming in contact therewith; not to extend to any
+engine set from sunset to sunrise in a dwelling-
+house, for the protection thereof.
+That which creates disturbance or danger to the
+neighbourhood, or making great noises in the night
+with a speaking trumpet, or exposing in a public
+thoroughfare a person infected with a contagious
+disease ; the use or sale of fireworks, keeping fero-
+cious animals without proper controul, or a fierce
+bull in a field through which there is a footway, or
+a ferocious dog unmuzzled, bawdy and gaming
+houses.
+See Road Act, page 34. i
+If any person unlawfully and wilfully uses any
+drudge or any net, instrument, or engine whatever,
+within the limits of any oyster bed or laying, being
+the exclusive property of any other person or per-
+sons, and sufficiently marked out and known as such,
+for the purpose of taking oyster, or oyster brood,
+atlbougb none shall he actually taken ; or with any
+net, instrument, or engine dredger, upon the ground
+or soil of any such fishery; punishment, fine, not
+exceeding £lO, or imprisonment, not exceeding
+three calendar months, or both. Proviso, that this
+shall not extend to cases where the party trespass-
+ing acted under a fair and reasonable supposition
+that he or any other person, in whose right, or by
+Jdbt.
+Man Trap.
+Setting.
+7 & B Geo. IV.
+c. l*, SB. 1, 3.
+Nuisance.
+Acts productive
+of disturbance
+or danger.
+Com. Law.
+See Highways.
+Otstebb,
+6 A: 6 Vic-,c. KW,
+b. 12.
+
+
+Oysters.
+Peace.
+Com. Law.
+Perjury.
+Com. Law, and
+3 Geo. 111. c. 4;
+17 & 18 Geo. HI.
+o. 36.
+Post-office.
+7 Wm. IV ; and
+1 Vic. c. 36, ss.
+25, 42.
+Railways.
+Receivers.
+9 Geo. IV. o. 55,
+s. 48.
+Rescue.
+Cattle and inju*
+ring pounds.
+9 Geo. IV. c. 43,
+s. 2.
+Soliciting.
+Turnpike
+Gates.
+9 Geo. IV. c. 56,
+8.15.
+whose authority he acted, or the public at large,
+had a right to do so, or shall prevent persons from
+catching or fishing for any floating fish within the
+limits of any oyster fishery, with any net, instru-
+ment, or engine, adapted for taking floating fish
+only. (See also Felonies, page 50.)
+Not assisting in preserving the peace.
+Any person who being lawfully required to de-
+pose to the truth in any judicial proceeding, .and
+who swear absolutely in a manner material to the
+point in question.
+Persons employed in it who shall open, or pro-
+cure to be opened, a post letter, or wilfully detain
+or delay same.
+See Constable’s power and offences, page 38.
+Any person who shall, knowing same to be stolen
+or taken, receive any chattel, money, or other pro-
+perty.
+To rescue any cattle lawfully seized for the pur-
+pose of being impounded, or break down, injure,
+or destroy any pound legally constituted, whether
+cattle are impounded in it or not, or commit any
+pound breach whereby any cattle of any descrip-
+tion shall escape or be enlarged; rescue of distress
+for rent, is also a misdemeanor.
+Soliciting or inciting another to commit a Felony.
+And it would seem that soliciting another to com-
+mit any indictable offence, though not amounting
+to Felony, would be a Misdemeanor.
+Maliciously to throw down or level, destroy, or
+otherwise injure, in whole or part, any turnpike
+gate, wall, chain, rail, post, bar, or other fence
+belonging to any such gate.
+
+
+Assemblies for training to the use of arms, and
+every person who is present at, or attending for
+the purpose of training and drilling any other *
+person to the use of arms or the practice of military !
+evolutions, or who aids, assists, or attends, such
+meetings for such purpose.
+Tor Constable’s power and offences, see page 12.
+The several offences under the Whiteboy Act.
+are transportable misdemeanors.
+The following offences are enumerated under
+the Malicious Injury Act, as also under the Larceny
+Act, in both of which Acts special provisions are
+made that offenders may be apprehended without
+Warrant, as already stated, page 6; and though most
+of them are indictable offences, and will be found
+in the lists of such, still, in order that they should
+at once come under the eye of the Constable, they
+are inserted under their respective Acts, marked
+thus: —F. are Felonies, M. Misdemeanor, and S. C.
+Punishable by Summary Conviction :
+MALICIOUS INJURIES.
+Setting fire to a house, F.
+Setting fire to corn or hay, F.
+Setting fire to crops or plantations, . . F.
+Obstructing navigation of canal or rivers, . F.
+Injuring public bridges, . . . . F.
+Killing or maiming cattle, . . . F.
+Demolishing houses, . . F.
+Destroying or damaging trees by night, . F.
+Ditto by day, if the value exceed £5, . P.
+Destroying turnpike gates, M.
+Breaking down mill-dams or fishery dams, M.
+Unlawful
+Assemblies.
+Training to arms.
+60 Geo. 111. ; and
+1 Geo. IV. c. 1,
+s. 1.
+Whiteboy Act.
+15 & 16 Geo. 111.
+c. 21.
+9 Geo. IV. c. 55.
+
+
+9 Geo. IV. c. 56.
+Destroying or damaging trees between sun-
+rise and sunset, . . . . S. C.
+Destroying any fruit or vegetable in gardens, S. C.
+Destroying or damaging trees or shrubs of
+any value under £5, . . . . S. C.
+Destroying vegetable production not in
+garden, . . . . . . S. C.
+Destroying any fence, wall, stile, or gate, . S. C.
+LARCENY ACT.
+Robbery from the person, . . . . P.
+Stealing from the person, or assaulting with
+intent to roh, ..... F.
+Stealing in, or from a church, chapel, or
+meeting-house, . . . . . F.
+Stealing horses, cows, or sheep, . . F.
+Stealing from a shop, . . . . M.
+Stealing public or private securities, . F.
+Entering a dwelling-house forcibly, and
+stealing, ...... F.
+Robbery in a shop, ..... M.
+Stealing trees or shrubs from park or garden,
+of £1 va1ue,..;... M.
+Or elsewhere, of £5 value, . . . F.
+Stealing glass or wood works from buildings, P.
+Servants or clerks stealing master’s property, M.
+Stealing deer, . . . . . S. C.
+Stealing dogs or birds, . . . S. 0.
+Stealing or cutting, breaking or rooting up
+timber, . . . . . . S. C.
+Stealing live or dead fences, stile, or gate, . S. C.
+Stealing fruit or vegetables from garden, . S. 0.
+Stealing vegetable production not in garden, S. C.
+
+
+Haying compiled, from the Law authorities, the
+foregoing guide to the Constable, as to his Civil
+Duties, to which the work is strictly confined, I am
+induced to make the following observations, solely
+with a view of aiding him in the strict performance
+of the same, and without venturing to arrogate
+to myself any power of conveying orders to the
+Constabulary force, which I by no means possess,
+and I know they are furnished with a well framed
+Code of Regulations, as to discipline; but, at the
+same time, from long experience and numerous op-
+portunities I have had of judging, I trust it will not
+be considered out of place if I add the following
+remarks for the perusal of those who may find this
+work worthy of attention, with a hope that they
+may be found useful. I can only say, I have found
+them so.
+The great point towards efficiency is, that every
+man should hnow his duty and do it, and should have
+a thorough and perfect knowledge of the neigh-
+bourhood of his station; the men should make them-
+selves not only acquainted with roads and passes,
+but the characters of all, which, with a little
+trouble, could be easily accomplished. A Police-
+CONCLUDING OBSERVATIONS.
+
+
+man cannot be considered perfect in hia civil duty
+as a Constable, who could not, when required,
+inarch direct to any house at night. Inquiring
+from civilians as to “where does mch a man live?”
+is a bad practice, and many failures in arrest are
+the consequence.
+No disturbance can be met as it should be, with-
+out a proper system of patrolling; the following I
+brought out in Tipperary a few years since, and it
+is now, with the approval of the Lord Lieutenant
+and Inspector-General, in force in the County of
+Leitrim and its borders, as also in this County.
+MEMORANDUM.
+Roscommon, 1 Qth February, 1844.
+From the disturbed state of this district, I feel
+it necessary, as the Resident Magistrate, to call
+the attention of the Constabulary to the necessity
+of increased vigilance in their patrols, and in order
+that such should be carried on with system, the
+following will be observed:—
+Ist. Independent of regular night patrols, whose
+hours should vary, men should by day take post
+on hills commanding the houses of persons having
+registered arms, or supposed to be obnoxious. The
+men so posted will, if possible, be within view
+of other parties, so as to co-operate in pursuit of
+offenders.
+2nd. The day system of patrol can be greatly
+assisted, by the Police when conveying reports,
+visiting outrages, attending Petty Sessions, taking
+their course across the fields, and avoiding the
+roads as much as possible.
+Disturbed
+districts.
+Patrols,
+
+
+3rd. No parade of night patrol should he made ;
+the Sergeant of the station should name a rallying
+point to assemble at, and allow the men to drop out
+singly, as silent as possible; in fact, road patrols
+in disturbed districts are worse than useless, as they
+only tend to apprise the ill-disposed of the move-
+ments of the Police, except during assizes and ses-
+sions, when a regular chain should he kept up, to
+protect prosecutors and witnesses.
+4th. Patrols hanging about ditches, plantations,
+and above all, visiting the houses of suspicious cha-
+racters, are most essential.
+sth. Mounted patrols should vary their hours
+every day; some at six in the morning, others not
+until three, P.M., so that their hours could never he
+calculated on.
+6th. Every man at out stations should make
+himself well acquainted with the characters, the
+dwellings, roads, and passes in his district; and
+nothing is of more importance than on hearing of
+outrage, that the houses of the bad characters
+should he at once visited.
+7th. The telescope to be taken always on day
+patrol, and rockets and blue lights used, as pointed
+out in the confidential memorandum.
+Bth. A continuation of outrage must and will
+raise a stigma in the minds of the public on every
+member of the Police, from the Resident Magistrate
+down to the Sub-Constable. The strenuous ex-
+ertions of all must he combined, and brought to
+hear in at once suppressing it, which can be done,
+no matter what state of disturbance a county is in,
+provided the system now laid down is actively en-
+
+
+Map of district.
+Local knowledge.
+Communication
+from station to
+station.
+Information of
+outrage.
+Enquiry at the
+scene of outrage.
+Secrecy.
+forced; and the Resident Magistrate has only to
+add, that every act of zeal and success on the part
+of both Officers and men, shall be promptly brought
+under the notice of the Lord Lieutenant and the
+Inspector-General.
+{Signed,) D. Duff.
+A Constable should be able to take a map of his
+district, and he should see that each of his party
+understands it, so as to act in his absence.
+Local knowledge is of more real benefit than per-
+sonal exertion, and materially so where Police act
+with military.
+In a disturbed district it is of the utmost impor-
+tance that intelligence of outrage should rapidly
+spread from station to station, to put all hands on
+the alert, so that each party knowing the bad and
+suspicious characters in their neighbourhood should
+at once look to them.
+On any information as to an intended outrage,
+it is a good plan to make the Police from distant
+stations take the duty, and to let the party near
+the scene remain quiet, as there are invariably
+watches placed on the barracks nearest the point.
+A searching and patient enquiry should be made
+by the Constable, when visiting a scene of outrage.
+The entire chance of success as to evidence, depends
+upon the prompt steps taken on this most import-
+ant duty; and those assisting him should be men
+of experience and intelligence. A hurried enquiry
+cannot possibly be a successful one.
+The more strictly observed the more certain of
+success, and the shorter the notice given to the
+
+
+men the better, as it is a slight preparation that
+will raise suspicion with those residing near a bar-
+rack. If a Constable in charge do not keep his own
+secret, he cannot blame others in case of failure.
+Too much caution cannot be observed against:
+the practice of asking prisoners questions as to
+their guilt or innocence. It is not only illegal but
+highly improper. If a prisoner begins a conver-
+sation on the subject of his charge, the Constable is
+bound to at once caution him not to say any thing,
+in his (the Constable’s) presence that may criminate
+himself, as he will have to prove to such acknow-
+ledgment or confession on his trial, and if, after this
+caution, the prisoner persists, the Constable should
+commit to paper his exact words, and acquaint his
+Officer and the Magistrate—no promise or threats
+to he held out.
+A Constable’s evidence (as the Code properly ]
+states) should be manly and straightforward, telling 4
+the simple facts, and not endeavouring to conceal
+any thing on the trial which has come to the Con-
+stable’s knowledge, that may he of service to the
+prisoner; his answers should be short and to the
+point, given with great respect and good temper;
+the manner and deportment of a witness are not
+without consideration from a jury, and carry their
+weight accordingly.
+In order to sustain a prosecution for offences
+committed under the “ Whiteboy Act,” the Crown
+must prove the district where such have taken
+place, to be in a disturbed state ; and as the Police
+of the locality are generally brought up as evi-
+dence to prove this fact, it is of the utmost import-
+ance that the Constables in charge of stations
+Prisoners.
+Evidence on
+trial.
+W HITEBOY
+Offences.
+
+
+WIIITEBOY
+Offences.
+Identification.
+Time.
+should at assizes be prepared with a memorandum
+of the outrages committed within their districts,
+and the date of each; I have frequently witness-
+ed great inconvenience from their not being so
+prepared.
+It may be necessary to add, that unless the
+memorandum is in the hand-writing of the witness,
+he will not be permitted to refer to it when under
+examination.
+As to persons taken up under Warrant or on
+suspicion from description given, care should be
+taken that the person to identify does not see the
+accused until he is mixed up with four or five other
+men, nor should any hint be given as to dress or
+appearance, if asked for by the accuser. An iden-
+tification in the above form is but justice to the
+prisoner, while it, on the other hand, strengthens
+the evidence on the trial.
+The Constable, on arrest, should, if possible, note
+the exact hour when made; I have often witnessed
+the entire point of a case turn upon it, and as the
+punishments for many offences vary, as to whether
+committed by day or by night, it is, therefore, of the
+utmost importance to be accurate as to the hour.
+To constitute Burglary, night commences at nine
+o’clock in the evening of each day, and concludes
+at six the following morning.
+A Policeman’s motto should be firmness, forbear-
+ance, and humanity, rendering impartial justice to
+all, bearing in mind that kindness and persuasion
+will often accomplish what force might fail in, and
+never forgetting the words of his oath, to be
+“without favour, without affection, without malice,
+and without ill-will .”
+
+
+THE
+POWERS AND DUTIES OE MAGISTRATES,
+IN CASES OF
+RIOT AND TUMULTUOUS ASSEMBLIES.
+It having been suggested to the Compiler, by
+several Magistrates, the great advantage and con-
+venience that would arise, if the "chapter given in
+“ The Irish Justice of the Peace,” as to their power
+and duty when called upon to act with Military
+and Police for the suppression of riot and tumul-
+tuous assemblies, were attached to the “ Guide,” —
+the following, as laid down in the above invalu-
+able work, is therefore given for the Magistrate’s
+guidance, in support of that most important and
+responsible duty.
+Under the Act quoted, entitled, “An Act for
+indemnifying all such persons as shall be aiding \
+in the dispersing of riots, and apprehending the ■
+rioters,” and which recites that it is the duty of j
+Justices of the Peace, Sheriff, and Under Sheriff of
+the county where any unlawful riot or tumultuous
+assembly shall be, taking with them, if need be,
+the power of the county, to arrest the offenders, so
+as to bring them to justice ; and in doing so, are
+empowered to command all Her Majesty’s subjects
+of age and ability, to assist in seizing and appre-
+£
+Magistrates re-
+quired to disperse
+all unlawful and
+riotous assem-
+blies.
+. Nun, 140.
+3 Geo. 111., c. 19.
+
+
+Magistrate and
+others indemnifi-
+ed, if any of the
+rioters happen to
+he killed.
+27Geo. 111., c. 15.
+Twelve persons or
+more, unlawfully-
+assembled, and
+not dispersing
+after Riot Act
+being read, guilty
+of capital felony.
+How the Procla-
+mation shall be
+made.
+bending the offenders ; and if the prisoners, so
+unlawfully, riotously, and tumultuously assembled,
+or any of them, shall happen to be killed, maimed,
+or hurt, in the dispersing, seizing, or apprehending
+them, then every such Justice of the Peace, Peace
+Officer, and all persons aiding and assisting, shall
+be freed, discharged, and indemnified.
+Enacts, that if persons, to the number of twelve,
+or more, being unlawfully, riotously, and tumul-
+tuously assembled, to the disturbance of the public
+peace, and being required in the King’s name, by
+any one or more Justice of the Peace, or by the
+Sheriff of the County, or his Under Sheriff, or by
+the Mayor, Sheriff, Bailiff, or other head officer,
+or Justice of the Peace of any city or town corpo-
+rate, where any such rising or assembly shall be,
+by proclamation to be made in the King’s name,
+in the form hereinafter directed, to disperse them-
+selves and depart to their habitations, shall, to the
+number of twelve , or more, notwithstanding such
+proclamation made, unlawfully, riotously, and tu-
+multuously remain or continue together as afore-
+said for the space of “one hour’’ after such pro-
+clamation so made, shall be felony without benefit
+of clergy.
+The Justice, or other person authorized by this
+Act to make the proclamation, shall, amongst the
+said rioters, or as near to them as he can safely
+come, with a loud voice, command or cause to be
+commanded silence to be kept while so making it;
+and after that, shall openly and with a lond voice,
+make or cause to be made Proclamation in these
+words, or like in effect: —-
+
+
+OUR Sovereign Lady the Queen,
+chargeth and commandeth all Persons
+being assembled, immediately to dis-
+perse themselves, and peaceably to de-
+part to their habitations, or to their
+lawful business, upon the pains contain-
+ed in the Act made in the 27th Year
+of King George the Third, to prevent
+tumultuous risings and assemblies.
+Magistrates aforesaid are authorized, empower-
+ed, and required, on notice or knowledge of any ,
+unlawful, riotous, and tumultuous rising or assem-
+bly, to resort to the place to be held, and there to
+make or cause to be made Proclamation as afore-
+said.
+Section 3 enacts that any person or persons who '
+shall by threats, messages, or with force, wilfully or .
+knowingly oppose, obstruct, let, or hinder any per- '
+son or persons who shall begin to proclaim, or go
+to proclaim such proclamation, whereby such pro-
+clamation shall not be made, then every such
+threatening, opposing, or hurting any such person
+so beginning, or going to make such proclamation,
+shall be felony without benefit of clergy.
+Person or persons unlawfully, riotously, or tu- 1
+multuously assembled, to the number of twelve or i
+more, to whom proclamation should or ought to i
+have made, if the same had not been so hindered,!
+shall continue together, and not disperse them-
+selves within one hour after such let or hindrance,
+PROCLAMATION.
+Magistrates re-
+quired to execute
+this Act.
+Opposing the
+making of such
+Proclamation a
+capital felony.
+Persons as-
+sembled not dis-
+persing within
+one hour after the
+hindrance of such
+proclamation,
+capital felony,
+
+
+Persons so as-
+sembled, if not
+dispersing within
+one hour, to be
+arrested, and
+carried before a
+Justice.
+And if any killed,
+and upon resist-
+ance, Justice
+indemnified.
+having knowledge of such let or hindrance, be
+adjudged guilty of felony without benefit of clergy.
+Section 4 enacts, that if such persons, so unlaw-
+fully, riotously, and tumultuously assembled, or
+twelve or more of them, shall continue together,
+and not disperse themselves within “ one hour ”
+after proclamation made, or after such let or hind-
+rance as aforesaid, then it shall be lawful for every
+such Justice of the Peace, Sheriff or Under Sheriff
+of the county where such rising or assembly shall
+be, and also for every High or Petty Constable, or
+other Peace Officer within such county, and. also
+every Mayor, Justice of the Peace, Sheriff-Bailiff,
+or other head officer, High or Petty Constable, or
+other Peace Officer of any city or town corporate,
+where such rising or assembly shall be, and for
+such other persons as shall he required to he assist-
+ing unto such Justice, Sheriff, or Under-Sheriff,
+Mayor, Bailiff, or other head officer aforesaid, (who
+are hereby authorized and empowered to command
+all His Majesty’s subjects of age and ability to be
+assisting to them therein,) to seize and apprehcnd ;
+and they are hereby required to seize and appre-
+hend such persons, so unlawfully, riotously, and
+tumultuously continuing together after proclama-
+tion so made, or after such let or hindrance, and
+forthwith to carry them before a Justice of the
+Peace of the county or place where such persons
+shall be so apprehended, in order to their being
+proceeded against for such their offence according
+to law.
+If any person or persons assembled as before-
+mentioned, shall be killed, maimed, or hurt, in the
+
+
+dispersing, seizing, or apprehending, or in the
+endeavour to do so, or by reason of resisting the
+persons so dispersing or apprehending, both Jus-
+tices and Police, and all persons aiding and assist-
+ing, shall he free, discharged, and indemnified.
+The following observations of a learned Judge are
+peculiarly applicable to this subject. “I take this
+opportunity of mentioning a fatal mistake into which
+many persons have fallen. It has been imagined
+that because the law allows an hour for the disper-
+sion of a mob to whom the Riot Act has been read
+by the Magistrate, the better to support the civil
+authority, that during that time the civil power and
+the magistracy are disarmed, and the King's sub-
+jects, whose duty it is at all times to suppress riot,
+are to remain quiet and passive. No such meaning
+was in view of the legislature, nor does the operation
+of the Act warrant any such effect. The Civil
+Magistrates are left in possession of those powers
+which the law had given them before. If the mob
+collectively, or any part of it, or any individual,
+within or before the expiration of the hour, attempts?
+or begins to perpetrate an outrage amounting to a
+felony, to pull down a house, or by any other act to
+violate the law, it is the duly of all present, of what-
+ever description they may be, to endeavour to stop the
+mischief, and to apprehend the offender."*
+Although the actual execution of some delibe-
+rate purpose is generally essential to constitute the ;
+olfence of riot in its strict sense, yet it may he in-
+ferred from the terms of statute 27 Geo. 111., c. 15,
+« By Lord Loughborough, 5 C. and P. 261, in note quoted by
+Richards 8., in his charge at Ennis summer assizes, 1642.
+E 2
+Interference
+before the expira-
+tion of the hour
+after Proclama-
+tion made.
+Nun, 146,
+Actual execution
+of riotous pur-
+pose unnecessary.
+
+
+that it is not necessary, in order to authorize pro-
+ceedings under it, that a riot should have been
+actually committed. If the assembly be such as
+would constitute a riot if their purpose were car-
+ried into execution, it is sufficient.
+Where the proclamation has hern read several
+times, the how is to he computed from the first read-
+ing; hut great care shoidd he taken to read it cor-
+rectly, and if the Magistrate omit part of it, it seems
+that persons remaining an hour together after such
+a defective reading, cannot he capitally convicted.*
+Provides that it shall be lawful for any one Jus-
+tice acting for any county, city, or place, where any
+riot or tumult shall happen, or for two or more
+Justices, when any riot or tumult shall he appre-
+hended and expected to take place, to order or di-
+rect the owners of public houses in or near where
+such riot or tumult shall happen, or be expected to
+take place, to close his house or place at any time,
+and for such length of time, as such Justice or Jus-
+tices shall order or direct.
+, Any person who shall keep his house open, in
+i. violation, shall forfeit the sum of £2.
+For offences connected with the plunder or de-
+struction of provisions, see page 51.
+Note.— The first step a Magistrate should take,
+if time permit, either before proceeding to the
+scene of riot, or on his arrival at the nearest Police
+Hour, how com-
+puted.
+Reading the
+Proclamation.
+3 & 4 Wm. IV.,
+c. 68, s. 21.
+Closing public
+houses.
+23 &24 Geo. 111.,
+c. 20, s. 1, saved
+in force by 9 Geo.
+IV., c. 56, s. 31;
+5 Vic. s., 2, o. 28,
+ss. 5, 19.
+Riots connected
+with Provisions.
+* Rex v. Child, 4C. and P. 442, The words omitted in this
+case were “ God save the King,” which conclude the proclama-
+tion in England, but are not found in the form prescribed by the
+Irish Act.
+
+
+station, is Ixis taking a sworn information, which
+can be made by some of the Police, as to what he,
+the Policeman, heard and believes with reference
+to the anticipated riot or tumultuous assembly;
+and it would expedite the matter, the Constable in
+charge having the Police or other persons who
+could support such information, ready for examina-
+tion on the arrival of the Magistrate.
+There is one thing quite certain, that the Magis-
+trates do not require information on oath in near
+as many cases as is necessary either for our own
+protection, or that of those acting under our orders.
+D. D.
+
+
+INDEX.
+Page
+Arrest without Warrant:
+For Felony.
+Best for Constable to have Warrant, . . I
+Felony committed within Constable’s view, . . 2
+Arrest upon charge of another, . . . ib.
+Constable not responsible if there be probable grounds
+of suspicion, . • . . . ib.
+Arrest on Constable’s own suspicion, . . ib.
+Arrest by night on suspicion of Felony, . . 3
+What a reasonable ground of suspicion, . . ib.
+Arrest to prevent the commission of a Felony, . ib.
+In case of a dangerous wound given, . . .4
+For Misdemeanor.
+Exceptions created by Statute, . . .5
+Persons making signals to smuggling vessels, . ib.
+Giving warning of approach of Excise Officers, . ib.
+Arrest of Deserters, . . . . .6
+Arrest under Malicious Injury Act, . . . ib.
+Arrest under Larceny Act, . . . . ib.
+Goods offered for sale under suspicious circumstances, ib.
+Under Pawnbrokers’ Act, . . . . ib.
+Offenders to be actually committing offence under
+Malicious Injury and Larceny Acts, . . 7
+Other Statutes empowering arrest without Warrant, ib.
+Where offence is Felony, . . . . ib.
+Or punishable on summary conviction, . . ib.
+For Breach of the Peace,
+What is an affray, . . . . .8
+What a riot, . . . . . . ib.
+What a rout, . . . . . . ib.
+What an unlawful assembly, . . . . ib.
+
+
+Pago
+Arrest without Warrant :
+For Breach of the Peace.
+Any person taking part in a riot is a rioter, . . 9
+Power of Constable to interpose, . . . ib.
+What an assault, . . . . . ib.
+To prevent a breach of the peace, . . . ib.
+Constable may interpose on complaint of another, . 10
+Hot to arrest for angry words, . . . ib.
+Or after the aifray is over, . ■ . . ib.
+Armed parties, . . . . . ib.
+Constable’s power for suppression of riots, . .11
+’ Caution to be observed, . . . .12
+Power under Whiteboy Act and oifences, . . ib.
+Note on trial of a party of Police, . . .13
+Caution to Constable interposing to prevent or sup-
+press breach of the peace, . . . .13
+Constable should keep strictly within his duty, . ib.
+Recapitulation, . . . . .1(1
+Arrest by Warrant :
+Arrest under Warrant, . . . .17
+Constable bound to execute Warrant, . . ib.
+Warrant joint or several, . . . . ib.
+Constable to know person to be apprehended, . ib.
+Execution of the Warrant;
+Notice to the party, . . . . . ih.
+Production of Warrant, . . . . ib.
+What constitutes an arrest, . . . .18
+Arrest may be by day or night, or on any person, . ib.
+Limits of jurisdiction, . . . . ib.
+Where a Warrant must be indorsed, . . . ib.
+Duration of Warrant, . . . . . ib.
+Breaking open outer door without Warrant :
+Previous notification, demand, and refusal necessary, 19
+Without Warrant, in what cases doors may be broken, ib.
+For breach of the peace by aifray or riot, . . ib.
+Not for mere assault or other Misdemeanor, . . 20
+For Felony or a dangerous wound given, . . ib.
+
+
+Page
+When acting under Warrant :
+Under Warrant for Felony or suspicion of Felony, . 21
+For Breach of the Peace, . . . . ib.
+Warrant for Misdemeanor or for Bench Warrant, . ib.
+Under Levy Warrant, . . . . ib.
+Under Arms Act, . . • . . ib.
+Under Search Warrant, . . . . ib.
+Under Revenue Acts, . . . . . ib.
+In what cases a house affords protection from arrest, 22
+Applies only to arrest in first instance, . . ib.
+To the breach of outer door, . . . . ib.
+Extends only to a dwelling-house, . . .23
+To arrest of occupier or any of his family, . . ib.
+Breaking open the house of a stranger, . . ib.
+Constable in all cases to regain his liberty, . . ib.
+Duty op Police after Arrest :
+Prisoner to be taken before Justice of the Peace, . ib.
+Degree of force or restraint, . . . .24
+Prisoners to be kept separate, . . . ib.
+Detaining prisoner for Breach of the Peace, . . ib.
+Searching the prisoner, . . . . ib.
+Flight, Pursuit, and Resistance :
+Constable to make arrest effectual, . . .25
+Empowered to command assistance, . . . ib.
+Constable’s power in case of flight, . . . ib.
+Power in case of affray or other Misdemeanor, . 26
+Constable’s power upon resistance, . . . ib.
+What necessary to justify Constable in using extreme
+measure, . . . . . . ib.
+Execution of Search Warrant :
+Warrant to be executed by day, . . .27
+Goods specified only to be seized, . . . ib.
+Places specified only to be searched, . . .28
+Breaking open doors and boxes, . . . ib.
+Precaution necessary in executing Search Warrant, ib.
+Searching for arms, . . . . . ib.
+Goods and party to be brought before Justice of the
+Peace, . . . . . .29
+
+
+Page
+Execution of Search Warrant :
+Goods how disposed of, ... 29
+If stolen cattle, how disposed of, . . ib.
+Execution of Distress Warrant ;
+What may he seized under a Justice’s Warrant, . ib.
+Husband’s goods not to be seized if wife is convicted, ib.
+Breaking open doors, . . . . . ib.
+Second seizure, . . . . . ib.
+Constable not to give credit, . . . . ib.
+In case of appeal being lodged, . . .30
+Eeturn to Warrant, . . . . . ib.
+Constable’s power under the following Acts ;
+Power under Arms Act, . . . . ib.
+Power under Spirit Licence Act, and regulation of
+Public-houses, . . . . .31
+Sabbath Act, . . . . . .33
+Cruelty Act, . . . . . . ib.
+Constable’s Power under Road Act, . . .34
+Late Fishery Amended Act, . . . .35
+Power under Railway Acts, . . . .38
+Power of Special Constables, . . .39
+Catalogue of what crimes are Felony, . . 40
+Catalogue of what are Misdemeanors, . , 58
+Offences under Malicious Injuries Act, . . 65
+Offences under Larceny Act, . . . .66
+Concluding Observations :
+Disturbed Districts, . . . . .68
+Patrols, . . . . . . ib.
+Map of District, . . . . .70
+Local knowledge, . . . . . ib.
+Information of Outrage, . . . . ib.
+Secrecy, . . . . . . ib.
+Caution relative to Prisoners, . . .71
+Evidence on Trial, . . . . . ib.
+Identification, . . . . . .72
+Time, . . . . . . . ib.
+
+
+POWERS AND DUTIES OE MAGISTRATES.
+Page.
+Riots and Tumultuous Assemblies :
+Magistrates required to disperse all unlawful and riot-
+ous assemblies, . . . . .73
+Magistrate and others indemnified, if any of the
+rioters happen to be killed, . . .74
+Twelve persons or more, unlawfully assembled, and
+not dispersing after Riot Act being read, . . ib.
+How the Proclamation shall be made, . . ib.
+Proclamation, . . . . . .75
+Magistrates required to execute this Act, . . ib.
+Opposing the making of such Proclamation, . . ib.
+Persons assembled not dispersing within one hour
+after the hindrance of such proclamation, . . ib.
+Persons so assembled, if not dispersing within one
+hour, to be arrested, and carried before a Justice, . 76
+If any killed, and upon resistance, Justices indemni-
+fied, . . . . . . . ib.
+Interference before the expiration of the hour after
+Proclamation made, . . , . .77
+Actual execution of riotous purpose unnecessary, . ib.
+Hour, how computed, . . . . .78
+Reading the Proclamation, . . . . ib.
+Closing Public houses, . . . . ib.
+Riots connected with Provisions, . . . ib.
+From the Steam Press of Alexander Thom* 87, Abbey-street, Dublin.

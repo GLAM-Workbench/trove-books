@@ -1,0 +1,2727 @@
+
+
+
+
+M. £. a. Series : IRo. 1.
+DEMOCRACY
+AND FREEDOM
+AN ESSAY IN SOCIAL
+LOGIC.
+ELTON MAYO
+Lecturer in Psychology and Ethics in the University
+ot Qyeensland
+Melbourne ;
+MACMILLAN & CO. LTD.,
+HEAD OFFICE : LONDON'
+
+
+MACMILLAN & CO. Limited
+LONDON • BOMBAY • CALCUTTA
+MADRAS • MELBOURNE
+THE MACMILLAN COMPANY
+NEW YORK - BOSTON • CHICAGO
+ATLANTA • SAN FRANCISCO
+DALLAS
+THE MACMILLAN CO. OF CANADA Ltd
+TORONTO
+
+
+CONTENTS.
+Foreword. v.
+CHAPTER I.
+CHAPTER I.
+Introductory 1
+CHAPTER 11.
+The Exploitation of the People’s Will 14
+CHAPTER 111.
+Social Growth and Social Disintegration .... 31
+CHAPTER IV.
+Regulation as a Substitute for Freedom 45
+CHAPTER V.
+Society and the State Gi
+
+
+FOREWORD.
+This book is the first of a series to be published
+under the auspices of the Workers’ Educational
+Association of Australia. Mr. Elton Mayo was good
+enough to give us the first opportunity of making
+his work available to the Australian public. The
+professors, lecturers and tutors who are engaged in
+teaching the University Tutorial Classes organised
+by the W.E.A. throughout the Commonwealth and
+New Zealand, are steadily becoming a community of
+students and writers whose work promises to be of
+the utmost value. The paucity of authoritative
+books dealing with the economic, political and social
+conditions and thought of these British countries in
+the South Seas is as remarkable as it is regrettable.
+Both we and the world at large have everything to
+gain by the issue of careful studies of new' movements
+in new lands. Virgin countries cannot but suffer by
+the lack of analysis of themselves and their institu-
+tions, and other nations naturally look to them for
+vital contributions to the world’s literature. I
+venture to think that the present w'ork reaches that
+high standard, and will win for its author recognition
+throughout the Empire at least. The Workers’
+Educational Association, founded in Great Britain in
+1903, has set itself the high task of promoting the
+education of democracy by co-operation with the
+Universities. It is hoped that this series of publica-
+
+
+tions will fulfil its aim, which is not that of instilling
+particular doctrines into the minds of the students,
+but of stimulating their thought and their zest for
+study.
+MEREDITH ATKINSON,
+General Editor, W. E. A. Series,
+President of the Workers’ Educational
+Association of Australia.
+University of Melbourne,
+December, 1918.
+
+
+Introductory.
+“ Democracy ” and “ Freedom ” are words which,
+in these days, are upon everybody’s tongue. The
+conscriptionist uses them as arguments for compul-
+sory recruiting; the anti-conscriptionist names them
+as the ground of his objection. At least once a day
+the newspapers inform us that the British cause is
+that of “ democratic freedom.” In the issue there
+would seem to be some danger of a general assump-
+tion that social enfranchisement is to be achieved
+only by the methods of democratic “ politics.” That
+the term “ democracy ” is properly applied to describe
+a form of government rather than a social condition
+has been clearly pointed out by Maine (Popular
+Government, Essay II.). Most commonly the two
+are confused, with the result that the achievements
+of popular self-government as such are not dis-
+tinguished from the freedom which society pro-
+gressively achieves quite independently of the
+politician. Such freedom may be truly “ democratic ”
+in the broadest sense, and yet not due to any political
+initiative. The rights which we enjoy, for example,
+under Common Law and Equity have been worked
+out, formulated and tested, socially and not politi-
+cally; governments, whether monarchical or popular,
+have done no more than systematise the exposition
+of such rights in order to record them in a Statute.
+Considered as a form of government, democracy—
+“ the government of the Commonwealth by a
+
+
+numerous but indeterminate portion of the com-
+munity taking the place of the Monarch ” (Popular
+Government, p. 61) —must stand or fall by its
+demonstrated superiority to other forms of govern-
+ment in respect of a capacity for aiding social growth,
+a capacity for eliminating disturbances or inhibitions
+of such growth. That the democratic mechanism of
+government is better calculated to fulfil this purpose
+than other known forms is by no means conclusively
+proved. The individualistic theories that helped the
+nineteenth century to self-expression are not neces-
+sarily best suited to perform that office for the
+twentieth. The precise manner in which party-
+politics, for example, have affected government
+requires examination before we are entitled to
+assume that democracy and freedom are correlative
+expressions.
+This argument must not be supposed to detract
+anything from the genuine achievements of
+democracy. The central excellence of popular
+self-government is its explicit affirmation of the
+direct responsibility of the ruler to those he rules.
+This goes far to prevent the emergence of political
+ideals like those of pre-war Germany, ideals which
+substitute material efficiency and the well-being of
+the State as a whole for personal freedom as the end
+of government. Democracy secures the “ distribu-
+tion," as it were, of political predicates; it ensures, so
+far as may be, that the “ good of the State ” shall not
+be inconsistent with the good of individual citizens.
+The peculiarly British system of government has
+another advantage in that, while the nominal ruler
+is retained unchanged, the actual political leadership
+may be changed as often as the public will requires
+it. This makes it possible for the community to
+
+
+effect reforms of an almost revolutionary character
+without disturbing the continuity of the adminis-
+tration of law and justice.
+All this, however, is by the way; when we turn to
+the question of freedom we open up a broader issue.
+Freedom implies social growth—the acquisition by
+man of new knowledge and new powers. Modern
+democratic theory originated in the notion that the
+art of government, as practised in the eighteenth
+century, was a vexatious and artificial hindrance to
+freedom. “ Man is born free,” said Rousseau, “ and
+everywhere he is in chains.” Ry which he meant
+that man had lost his right to the free exercise of
+reason and will, his right to “ obey himself alone.”
+The Physiocrats developed this into an explicit
+protest against State interference with industry.
+Certain natural laws, they believed, would be found
+to regulate human associations, once governments
+had learned to refrain from imposing restrictions
+on social development. These doctrines exercised
+a most important formative influence upon English
+democratic theories of the nineteenth century.
+English exponents of laisscr fairc taught that the
+chief duty of the State is to reflect “ the general
+will,” and, for the rest, to leave industries to work
+out their own salvation. The most interesting
+feature of these theories, and of the political
+institutions to which they gave rise, is the tacit
+admission that the State is a subsidiary function of
+the society. Beyond the apparent sovereign is the
+real sovereign—“ the people ” or “ the general
+will;” all authority originates ultimately in a
+“ mandate of the public.” Implied in this i° a
+recognition of the fact that the State cannot rightly
+do more than reflect social growth. In practice,
+
+
+however, all this highly interesting aspect of
+democratic theory came to nothing. Having found
+an answer to their initial question—who is the
+sovereign—the exponents of self-government left
+unformulated the other and more cogent question
+as to the nature of sovereignty and government.
+“The will of the people” was made sovereign; its
+existence was assumed, its nature was not
+investigated. Translated into terms of practice,
+this has come to imply an extended franchise, party
+organisation and majority rule. Under the
+conditions of modern democracy the real sovereignty
+vests primarily in Parliament and the administration;
+beyond this, in politicians and political associations.
+The claim that government is “by the people ” or
+in accordance with “ the general will ” is a mere
+fagon de parler. Only at election time is Ihe
+community directly consulted, and, at such times, the
+party system ensures that the politician shall
+dominate public opinion. It is, of course, true that
+laws which prove to be contrary to the good sense
+or customary practice of the community must be
+revoked to save them from being disregarded. But
+this does not make “ the people ” ultimately
+sovereign in any special sense, since even under the
+conditions of monarchy or oligarchy the same
+power of social veto exists.
+Interest in this aspect of democratic theory was
+inhibited by the excessive individualism of the
+nineteenth century. Political writers, from Bentham
+to J. S. Mill, placed the actual sovereignty in a
+purely abstract conception, a self-confessed figment
+of the imagination—“ the people.” Society was
+described as a mere collection of persons, motived
+solely by individual pleasure and pain—a descrip-
+
+
+tion which precludes the possibility of any real
+social unity. This analysis provides no basis
+for a social or political philosophy; it regards a
+civilised community as the merest horde and
+takes no account of the systematic co-operation
+which is the very essence of social organisation.
+As a result of this individualism, even so able a
+philosopher as J. S. Mill was reduced to an
+economic gospel of anarchical competition and a
+political belief in salvation by the ballot box.
+Theories such as these cannot explain social
+growth. Man, considered merely as an individual,
+alters little from age to age; it is in respect of
+knowledge and power to use, of social custom and
+tradition, and of capacity for depth of vision—it is
+in respect of these qualities that man changes; and
+it is these changes which make history. Indi-
+vidualism failed to see that man, socially speaking,
+holds his past and future in his present. And
+individualism consequently, though it gave us an
+economics and a politics, failed to give us a science
+of society and government.
+In its practical applications, democratic theory
+has worked out in a fashion quite contrary to the
+intention of its authors. By opposing society,
+described as a mere formless anarchy of persons, to
+the unity of the State, democracy has made it seem
+that social unity can only come by way of State
+activity. Socialism, without attempting a more
+adequate analysis of social institutions, has come to
+this conclusion; so also have the majority of present-
+day politicians. Much as some of the latter dislike
+to abandon the tenets of laisscr faire, they show by
+their actions that they look to State intervention for
+the cure of social ills. So the political science
+
+
+which sought to place social authority beyond :he
+State, ended by relegating all authority to the State.
+The social philosophy which began by repudiating
+the right of one man to control others, conclude !
+with the inference that “ social reconstruction " will
+make State control and the power of the politician
+absolute.
+But this inference is totally irrelevant; it finds its
+sole justification in an utterly false analysis of
+society. If we admit, as we must, the truth of the
+major premiss of democracy—that governmental
+authority derives from a source beyond itself, in the
+social will—we have still to ask a question as to the
+nature of society and social will. The subsequent
+chapters of this essay are designed to make some
+small contribution to the elucidation of this problem.
+In the meantime, it is enough to say that the State
+and government are devices fashioned by man
+himself to fulfil a social purpose. The State is
+man-made, man himself is not. The social order
+changes as man advances to new powers and wider
+social relationships; the “ State ” represents an
+expedient which civilisation employs to provide for
+“ official ” recognition of such changes and to guard
+against retrogression. Since the special business
+of the State is to record and enforce moral
+relationships, it cannot take the lead in the matter
+of changing them. “ Law, Gierke writes, is the
+result of a common conviction not that a thing shall
+shall be, but that it is." —(Political Thought from
+Spcnccr to To-day: E. Barker.) Social growth
+is the accretion of slow centuries, each one of which
+endows humanity with some new legacy. We live
+and move and have our being in the achievement of
+our predecessors and to such an extent that none
+
+
+can tell precisely where tradition ends and originality
+begins. Our very gestures, our customary gait,
+may, for all we know, be due to the discovery of a
+forgotten ancestor. Civilisation makes itself concrete
+ami actual in social traditions which arc as real a
+heritage as case-law or the Newtonian physics. It is
+these institutions or ways of living which provide
+mankind with motives, and we cannot begin to
+understand the nature of the social will until we
+know something of the manner in which one
+generation communicates its social discoveries to the
+next. The science of government must explain,
+before all else, the relation of the State and politics
+to the complex and purposive activities which hold
+the traditions of civilisation and form its growing
+point. All that is best in democratic theory would
+seem to imply that the first duty of the State is to
+conserve for the community its freedom of growth.
+For the individual, society offers a sphere of
+activity in which ancestral tradition and present
+fellowship combine to aid and stimulate his powders
+of self-development. The function of the State in
+relation to this social process is that of moral control;
+it is an authority which conserves freedom of grow'th
+by ensuring that the communal conception and
+practice of justice shall develop equally with other
+social powers.
+The question as to the right relation between
+governmental authority and social growth has
+ceased to he an academic problem, and has suddenly-
+taken form as an urgent practical issue. The war
+has induced—or, it would be better to say—has
+accelerated the advent of social changes of a novel
+character and a world-wide range. Before the war
+social activities were subsumed, nominally at least,
+
+
+under the various governments of the civilised
+world. After the war this subordination will no
+longer be possible; the various governments may,
+indeed, seem, in the ultimate, something extraneous
+and irrelevant to social activities. The alliance
+between Britain, France and America, for example,
+is now so closely knit by every social and industrial
+bond that its abandonment upon the conclusion of
+the struggle will most probably be quite impossible,
+even should reactionary sentiment demand it.
+Already these allied countries stand committed to
+the supply of a starving Europe with food for years
+to come, the rehabilitation of Belgium, the recon-
+stitution of Russia, and, generally speaking, the
+initiation of a new era of social collaboration.
+During the war the Allies have contributed to the
+general stock such supplies of necessary commodities
+as they possessed; after the war the process cannot
+be discontinued. Commerce has learned to look
+upon supplies as world supplies, to take account or
+moral as of economic obligations. “ Now this is
+nothing short of a new stage-setting for the drama
+of life.” (The New Freedom: Woodrow Wilson.) It
+implies that industries arc learning to regard
+themselves as social functions rather than sources
+of merely national wealth, and are already experi-
+menting in the direction of extra-political or
+world-wide organisation. The effect of the war will
+undoubtedly be to strengthen and accelerate this
+tendency; former methods and conceptions of
+politics and industry will be quite inadequate to the
+task of reconstituting civilisation. If social freedom
+implies an enlargement of human spheres of activity,
+then this war, in spite of military regulation, has
+achieved a notable advance. These are not changes
+
+
+which are to come —they have come; and the problem
+of the relation of the social will to political
+administration consequently demands re-statement.
+Parallel with this change has come a marked
+extension of the sphere of State control. This
+extension is not socialistic, as some would fain
+believe; it is primarily military. The social logic of
+war differs by the whole width of heaven from the
+social logic of peace. In war the military commander
+must be supreme, and the device of State-control is
+simply a “ democratic ” method of recognising this
+necessity. In Great Britain to an extent far greater
+than elsewhere, the urgency of the crisis and the
+condition of industry at the moment of the nation’s
+need, combined to make State intervention iand
+control imperative for purposes of military effective-
+ness. Manufacturers were competing for insufficient
+supplies of raw materials, thereby enhancing the
+cost of munitions, and diminishing the output. The
+industrial arena was characterised by mutual
+suspicion and distrust between masters and men.
+The political State was consequently compelled to
+assume the leadership and to impose an industrial
+system and an artificial unanimity upon the economic
+activities of the nation. This is still the condition of
+affairs; it is difficult to see how the mere cessation
+of the war will materially alter the situation from a
+political point of view. The need for military
+dominance of social activity will pass, but for the
+urgency of war provision there will be substituted
+economic urgencies of another kind; and the need
+of system and social order will be nothing diminished.
+Charges for war pensions, interest on loans,
+repatriation schemes, and the like, will prove
+insupportable where systematic co-operation is
+
+
+unknown. In the absence of adequate understanding
+of the issues involved and a social will to co-operatc,
+the State may therefore be forced into the continued
+imposition of war conditions after the war is over.
+And this, while it may seem to the politician to he
+the will of the community, while it may actually be
+necessary, will please no one, and may, indeed, bring
+governments, whether democratically organised or
+no, into conflict with that expanding social will which
+is the most remarkable feature of the present era.
+This, then, is the problem. A large measure of
+State regulation and control is admittedly a present
+military and industrial necessity, and the necessity
+may continue beyond the conclusion of the war.
+On the other hand. State control would seem to he
+incompatible with that extra-political expansion of
+social activities which is apparently to be the
+outstanding feature of a reconstructed civilisation.
+Democracy, as we know it, provides no sufficient
+safeguard against governmental interference with
+development and freedom. Considered as a form of
+government, democracy is as nationalistic as any
+monarchy. It confines its attenton to the inhabitants
+of a definite geographical area; its individualistic bias
+has prevented it from learning how rightly to
+estimate the social will, even within such area. The
+inadequacy of mere party-politics to the wider social
+problems of the present is already painfully apparent.
+Pritita facie, it would seem that democracy, in the
+existing condition of world affairs, is as liable to
+become tyrannical as any historic monarchy. We
+may yet see democratic governments, in the name of
+social enfranchisement, obstructing the efforts of
+society to overcome the difficulties which racial
+
+
+differences and geographical remoteness place in
+(lie way of social unity.
+The official theories of social regeneration before
+the public contribute little to elucidation of the
+problem. Syndicalism and Guild-Socialism arc
+interesting by reason of their attitude of hostility
+to State interference with industry. Proposals to
+sweep away the State or to confine its domain to
+matters of common "use” and “enjoyment” (vide
+Self-Government in Industry: G. P. H. Cole) are,
+however, beside the point, since they neglect to take
+account of the reality of the moral function which
+the State exercises for society. Beyond this,
+Socialism, Syndicalism, and Guild-Socialism are
+alike in that they are too “ class-conscious ” to be
+practically effective. Their exponents are apt to
+strike blindly at the foundations of society as at
+present organised, and so to incur the distrust and
+hostility of the timid and conservatively minded.
+Their arguments are too often relevant to the past
+rather than the present or future; vengeance for past
+wrongs is assessed too high and present co-operation
+too low. A policy, a cardinal tenet of which is
+“ expropriation,” drastic and undisguised, is hardly
+likely to commend itself to a society struggling for
+its existence. In any case, it is not the ownership
+of property but its social use that is the majot issue
+at the present time. It is more than probable that
+" reconstruction,” whatever form it takes, will
+materially alter existing “ rights" in respect of
+property. But suggestions of reform, if they are to'
+be socially beneficial, must be based upon a critical
+survey of present fact and not upon Marxist
+doctrines of the mid-nineteenth century. The
+existing social order, defective as it undoubtedly is,
+
+
+does at least attach some personal responsibility for
+social use to the privileges of ownership. The one
+cannot be abolished without the other; if property
+be confiscated, all personal responsibility to society
+for its right use will disappear. It may be questioned
+whether reform will not ultimately come rather in the
+direction of increased responsibility than of
+diminished ownership.
+“ Class-conscious ” theories of working-class
+salvation, however anti-social in character, are,
+nevertheless, the direct outcome of modern exten-
+sions of the wage-system. The workers believe
+that democracy has misled them with illusions of
+freedom. Simultaneously with the acquisition of
+nominal political rights, the proletariat has lost all
+semblance of a right to economic self-determination.
+And, indeed, it must be admitted that the nineteenth
+century schooled itself, in the name of “ supply and
+demand ” and of competition, to look unmoved upon
+wholesale exploitation of the working classes and the
+most intolerable abuse of child-labour. Even when
+humanitarian impulses were no longer to be denied,
+laisser faire was unable to relinquish its individualistic
+dogma. that industry cannot continue to prosper
+except as a relentless struggle for survival. The
+remedies that have been applied have consequently
+all been of the nature of political regulation—rules
+to confine the struggle within prescribed bounds.
+This is, of course, a logical enough remedy if it be
+assumed that the State is the only real social unity
+and, therefore, the only source of social unanimity
+and co-operation. But the falsity of this assumption
+is bringing a nemesis to our civilisation. The
+workers have drawn the obvious conclusion that
+political or quasi-political organisation is the only
+
+
+means of securing the adjustment of their grievances;
+they believe their future to depend upon their
+capacity to control the State. Their success in this
+endeavour has led to a marked increase in the
+intensity and bitterness of class-feeling. So the
+democracy which was to reflect “ the general will ”
+and thus to secure social unity, has by its methods
+divided society into two hostile camps—an achieve-
+ment which is the first step downwards to social
+disintegration. The present situation of world affairs
+demands a real, as distinguished from an apparent
+co-operation of all sections of society in a common
+endeavour. The device of State control secures an
+apparent unity, but does nothing to promote real
+unanimity or mutual understanding. The methods
+of “ practical politics ” seem to have for object
+the creation of an aggravated partisan hostility
+which, if it persists, will make united action
+impossible. Democracy, as we at present know it,
+is based upon a misunderstanding of the facts of
+human nature and social organisation. Not until the
+mists have cleared from our social and political
+philosophy can we be certain that democracy moves
+in the direction of human freedom and personal
+autonomy.
+
+
+The Exploitation of the People’s Will.
+During the last two decades the more eminent
+writers upon social topics have given expression to
+a curiously unanimous doubt with regard to the
+value of contemporary democratic institutions.
+Tarde and the crowd-psychologists in France,
+Graham Wallas and Masterman in England, Ellwood
+and Brooks Adams in America, Ostrogorski in
+Russia—in the works of these and many other
+authors one cannot but observe an entire absence of
+“ official ” self-satisfaction and the definite presence
+of a note of apprehension and unease. Brooks
+Adams, indeed, in a book published before the
+outbreak of the war (Theory of Social Revolutions),
+predicted the end of the present social order before
+1930. His prediction is based on observation of
+the widening rift between the various classes which
+together make up society, a rift which extends
+beyond the bounds of political and national divisions
+and across which no one class as such extends the
+hand of fellowship to another. Graham Wallas, in
+the course of a profound and detailed examination
+of the structure of modern society, makes the same
+observation. “Who can be sure,” he asks, “ that
+the forces represented by the ‘ sabotage ’ of the
+French railway servants or the turbulence of the
+vine-growers are declining?” “ More threatening
+still,” he adds, “ to the cohesion of the Great Society
+are the motives openly avowed by some of the
+American and European masters of concentrated
+capital, the men who direct enormous social power
+
+
+without attempting to form a social purpose. . . .
+The ‘ cash nexus ’ has no more than the ‘ voting
+nexus' secured that common membership of the
+Great Society shall mean a common interest in its
+solidarity.” —(The Great Society, />. n.) C. F. G.
+Masterman, writing six years before the outbreak
+of war, summarises a chapter on “ The Illusion of
+Security” thus:—"The warning . . . cannot be
+too strongly emphasised: that with the vertical
+division between nation and nation armed to the
+teeth, and the horizontal division between rich and
+poor which has become a cosmopolitan fissure, the
+future of progress is still doubtful and precarious.
+. . . The wise man will'still go softly all his days;
+working always for greater economic equality on the
+one hand, for understanding between estranged
+peoples on the other: apprehending always how
+slight an effort of stupidity or violence could strike a
+death-blow to twentieth century civilisation and
+elevate the forces of destruction triumphant over the
+ruins of a world.” —(The Condition of England.)
+Utterances such as these serve to show that, even
+before the war, serious students of social tendencies
+went in fear of the future not merely by reason of
+possible external aggression but also because society,
+whether democratically organised or no, possessed
+within itself the germinating seeds of disintegration.
+Inter-racial antagonism beyond the borders of the
+political group found its reflection within the group
+in the form of class-hatred. Since the advent of the
+war, sociology has become more outspoken. C. A.
+Elhvood, in a paper read before the Sociological
+Society in London on 10th Xovember, 1914,
+expressed a profound pessimism with regard to
+democratic tendencies. “ The problem before ns,”
+
+
+he said, “ is not how to avoid political revolution, but
+rather how to avoid the decay and disintegration of
+civilisation itself.” “ The war has come as a shock
+to those who have not studied intimately the
+foundations of nineteenth-century European culture;
+but, in my opinion, it is not an accident of any sort,
+in diplomacy or otherwise. Rather the war has
+merely exposed the rottenness of some of those
+foundations of Western civilisation. We have
+supposed that we could rear a secure social structure
+upon the basis of an egoistic and materialistic social
+philosophy. We have permitted a re-barbarisation
+of the individual’s moral standards without imagining
+that these would actually express themselves in the
+life of nations. We have thought that somehow, out
+of a programme of self-interest, material satisfactions
+and brute force followed by men and nations, a
+settled and harmonious order would result.” —
+(Sociological Review, Vol. 8, pp. i and 2.)
+Skilled criticism of this order is not to be passed
+over lightly. The unease it patently displays comes
+strongly into contrast with the superficial optimism
+of professional politics. Pre-occupation with party
+questions blinded the British nation to the menace
+of European armaments. Are we to follow the
+same road with regard to the organic health of the
+body politic ? For twenty years, the gospel of class-
+hatred has been preached at every street corner in
+Australia; we cannot pretend that the fact is
+unimportant or that the hostile feeling thus
+engendered is a mere passing phase of politics.
+Internal disintegration is as destructive an agency
+as external aggression. With the example of
+Russia before us, we might claim that it is even more
+fatal to social stability and well-being. We
+
+
+sometimes hear it asked what political leadership is
+doing to cure this social ill, but all too rarely do we
+hear it asked whether the ill is not itself due, at
+least in part, to causes that may be termed political.
+The most eminent philosophic exponent of
+nineteenth century democracy was J. S. Mill. In his
+writings one finds all the beliefs and aspirations of
+his time caught up by and reflected from the
+mirror of his genius. His argument that self-
+government is essential to liberty and human
+development is substantially identical with T. H.
+Green’s contention that “ will, not force, is the basis
+of the State.” Mill’s belief, obviously, was that
+“ character and conviction ” —qualities so superior
+to dull assent and subservience—are more likely to
+find a sphere for free development under democratic
+than under other conditions of government. The
+character of “ the ideally best polity ” is that every
+person within it is directly and actively interested in
+the business of the State; the State does but mark the
+outer limit, as it were, of his personality. Mill’s
+commendation of “ completely popular government ”
+was thus justified; and he was, in consequence, bound
+to approve the successive extensions of the
+franchise which chiefly marked the political growth
+of the nineteenth century. But, like Grote and
+many another advocate of democracy “ broad based
+upon the people’s will,” Mill could not regard this
+process of extension with a mind entirely at ease.
+He was fully alive to the dangers which beset the
+practice of government by a “ numerical majority.”
+Under such a system the individual may be oppressed
+rather than free to follow his impulses to self-
+development. “ The power of the majority is
+salutary so far as it is used defensively, not often-
+
+
+sively, as its exertion is tempered by respect for the
+personality of the individual, and deference to
+superiority of cultivated intelligence/' —(Dissertations
+and Discussions.) It was in consequence of his
+perception of this danger that Mill sought to induce
+the House of Commons to accept the principle of
+the proportional representation of minorities. Of
+the need for education, and especially political
+education, as the complement of a widely extended
+franchise, Mill was also aware. “ The natural
+tendency of representative government, as of modern
+civilisation, is towards collective mediocrity; and this
+tendency is increased by all reductions and exten-
+sions of the franchise, their effect being to place the
+principal power in the hands of classes more and
+more below the highest ievel of instruction in the
+community. But though the superior intellects and
+characters will necessarily be out mi mix: red, it makes
+a great difference whether or not they are heard. In
+the false democracy which, instead of giving repre-
+sentation to all, gives it only to (he local majorities,
+the voice of the instructed minority may have no
+organs at all in the representative body."—(Repre-
+sentative Government, Ch. VII.) Not even in the
+representative body itself does Mill repose unqualified
+trust: “. . . a numerous assembly is as little
+fitted for the direct business of legislation as for that
+of administration.” “ Instead of the function of
+governing, for which it is radically unfit, the proper
+office of a representatiye assembly is to watch and
+control the government; to. throw the light ot
+publicity on its acts ... to censure them if
+found coudemnable, and if the men who compose the
+government abuse their trust ... to expel them
+from office.” Later he adds that “ talking and
+
+
+EXPLOITATION OF THE PEOPLE’S WILL. 10
+discussion ” are the “ proper business ” of assemblies
+" while doing, as the result of discussion, is the task
+not of a miscellaneous body, but of individuals
+properly trained to it.” —(Representative Government,
+Ch. V.) Whatever the defects of his political
+philosophy, Mill saw both the excellences and the
+defects of popular government with clear eyes. Like
+Bagehot and, later, Tarde, he believed that a sound
+democratic autonomy cannot be based otherwise
+than upon a wide area of sane and logical public
+discussion.
+This last condition modern democracies, and
+especially Australia, have failed to realise. For
+many years past, our legislators have been accus-
+tomed to regard the excellences of popular
+government and to disregard its dangers. Since
+1867, both in Britain and in the dominions, the
+tendency has been to throw caution to the winds and
+“ trust the people.” This on the surface of things,
+but directly we go below that surface we find that
+mutual confidence, as between representatives and
+people, has steadily diminished. The British House
+of Commons has offered a high resistance to
+“woman’s suffrage;” it has not extended the
+franchise to Egyptian or Indian subjects of the
+Empire. Amongst the rank and file of the electorates
+the case is not otherwise. Graham Wallas asserts
+that “ one finds in England among the most loyal
+democrats, if they have been brought into close
+contact with the details of electoral organisation,
+something of the same disappointment which has
+become more articulate in America.” —(Human
+Nature in Politics, p. 3.) Of Australia a similar
+assertion may be made; the war has served to
+crystallise and make concrete a growing discontent
+
+
+with politicians and political institutions. The
+dissatisfaction shows itself among all classes; the
+conservative thinker, equally with the syndicalist,
+feels that he is excluded from participation in public
+affairs. And in Australia, also, the more closely we
+approach the political arena, the more clearly
+conscious are we of an atmosphere of disillusion
+with the “ party machine ” as an engine of reform
+and progress. “ What is wrong with the Labour
+Movement?” asked a prominent Labour politician
+recently. His own answer to his question was brief
+and to the point: “We live in an atmosphere of
+political mendacity.” This assertion, if not wholly
+true, provides a partial solution of the puzzle.
+Reason and real discussion, the organs, par
+excellence, of enlightened public opinion, are falling
+into disuse. Logical persuasion cannot be made to
+operate easily and quickly over wide areas of
+relatively ignorant people. An appeal to fear or
+hatred produces a more instantaneous effect; if
+successfully employed, it cannot fail to win an
+election. In the last half-century of political
+development, the problem of dealing with large
+numbers of, historically speaking, newly-enfranchised
+electors, has tended increasingly to be solved by the
+latter means. Images that terrify crowds, says
+Le Bon, will issue in immediate action, where logic
+will be without effect.— (The Crowd, p. 67, if.)-, some
+such theory as this is the inspiration of the larger
+part of our political life.
+Mill’s prediction that “ the natural tendency of
+representative government is towards collective
+mediocrity,” has been confirmed in an extraordinary
+degree by Ostrogorski’s Democracy and the Organisa-
+tion of Political Parties, first published in 1902.
+
+
+Ostrogorski was a member of the first Russian Duma
+under Nicholas 11., a member of the Democratic
+Party, and a firm believer in constitutional democracy.
+Not all his fifteen years’ close investigation of the
+workings of English and American party politics
+sufficed to shake his faith in government by “ the
+people.” He begins his work by examining with
+conscientious thoroughness the origins of political
+associations; he then proceeds to examine the effect
+upon such associations of successive extensions of
+the franchise. Especially he considers the effect of
+the English Reform Bill of 1867. A great change,
+he points out, followed the passage of this measure
+into law. Birmingham alone gained 30,000 new
+electors. Owing to the “ minority representation ”
+clause in the new Act, a clause strongly opposed by
+John Bright and the Liberal Party, electors were
+only allowed to vote for two out of three candidates
+required. The Liberal Party nominated candidates
+for all three vacancies, and arranged that the various
+wards of Birmingham should vote for the three
+candidates by twos “in such fashion that each
+candidate would only receive the number of votes
+strictly necessary to obtain the majority at the poll.”
+—(Democracy and the Organisation of Political Parties,
+Vol. 1., p. 162.) “ ‘ Vote as you are told ’ was the
+password.” The device was completely successful,
+and “ the three Liberal candidates were elected in
+spite of the restricted voting clause passed for the
+benefit of minorities.” — (Ibid, p. 163.) So came into
+being the party-system in the modern acceptation
+of that term, parties organised through the medium
+of local and ward committees to keep in touch with
+the elector. Ostrogorski’s endeavour is to trace the
+effect of this organisation upon the course of
+
+
+democratic politics. His first volume is devoted to
+England, his second to America.
+His inquiry, he says, must consider the effect of
+the party-system on “ the improvement of the public
+spirit of the masses,” which is “ the sole criterion of
+genuine democracy.” With respect to England, he
+states his conclusions as follows:—“ At the outset,
+the Party* which professed to appeal to the masses,
+succeeded in arousing, in several places, their interest
+in the public weal; it attracted men who represented
+the best elements of the lower strata of society, and
+it seemed to tend towards really widening the
+borders of the political community. But all this
+lasted but a single moment, just long enough to make
+it clear that the democracy inscribed on the standard
+of the Party was only a painted banner or a coarse
+sign. Independent and thoughtful people saw that
+there was no room for them among the small,
+vulgar leaders brought to the surface of politics, or
+in the meetings and committees where everything
+was cut and dried by a little coterie which monopo-
+lised power by pulling the strings behind the scenes.
+Having repelled these men, the Party has contrived
+to attract only the enthusiasts, the bigots of the
+party, and the busybodies. The great mass remained
+outside, sunk in its apathy and its indifference.”
+“To drag them out of it, the Party could devise
+nothing better than organisation, which it ended
+almost by confounding with political education. For
+this latter it has really done nothing. The Asso-
+ciations have proved radically unfitted for serving as
+* The word which Ostrogorski actually uses is “Caucus.”
+This term is commonly used in Australia with so specialised
+a significance that I have thought it well to substitute
+“ Party ” or “ Party-system ” in order to avoid the
+possibility of giving a wrong impression.—E. M.
+
+
+K.X I’LOITATION OF THK PEOPLE'S WILL. *’•
+an instrument uf political education; they have
+succeeded only in turning out electioneering
+machines. A servant of the Party, engrossed by its
+immediate duties, the central committee was not in
+a position to apply itself to the political culture of
+the masses of a general and disinterested kind. An
+election broker picking up votes right and left, loaded
+with heavy omnibus programmes which promised
+the solution of all kinds of different questions, to
+please everybody, it was no more possible for it to
+make the public mind and conscience grasp all the
+problems raised than to devote itself to each of them
+or concentrate the attention of the masses on one of
+them to the detriment of the others. The Party,
+therefore, was naturally inclined, instead of bringing
+about an agreement of intellects, to resort to
+mechanical modes of rallying its forces and to keep
+its adherents together in an external and conven-
+tional conformity, by appealing, not so much to
+reason, which analyses and. distinguishes, as to
+feeling; by preferring to stir up emotions which
+confuse the judgment and make a prisoner of the
+will.” —(Democracy and the Organisation of Political
+Parties, Vol. 1., pp. 584-5.) Elsewhere Ostrogorski
+adds:—“ By working out autonomy and decentralisa-
+tion in too formal a way, with a multiplicity of
+subdivisions, in accordance with the strict logic of
+the democratic principle, the Party has succeeded
+mainly in bringing forward local mediocrity, and
+then installing it in the counsels of the party.”—
+(Ibid., p. 591.).
+With regard to America, Ostrogorski's observa-
+tions are entirely similar. After considering the
+whole party system in operation, he asserts that
+it has failed to achieve any success in its
+
+
+fundamental duty the giving expression to
+public opinion. It has rather “ deformed ”
+public opinion by “ forcing it into the groove
+of the stereotyped parties.” “ The convention
+of ‘ regular ’ candidatures has made external
+conformity the sole criterion which dispensed
+with private judgment and individual responsibility.”
+—(Democracy and the Party System, p. 391.) His
+final conclusion with respect to the “ strict logic ”
+of democracy, he states as follows:—“ The lesson
+following ... is that, contrary to current
+prejudice, the elective principle in government is a
+spring of limited power; once the limit is exceeded,
+it becomes, like a strained ' mechanical spring,
+incapable of supplying the required impulse, and
+throws the movement out of order. It follows,
+again, that a highly developed electoral system
+produces, in reality, a diminution of the people’s
+strength.”— (lbid., p. 423.)
+So far we have elicited the fact that the
+“ completely popular government ” which is the very
+essence of democracy has, in practice, led to control
+by “ collective mediocrityand the more so, the
+more widely the franchise is extended. But the
+tale of the degradation of democracy is not yet
+complete. “ Lord Rosebery told the Liverpool
+students in 1910 that ‘ Politics at best are a gruesome
+study! We like them much better at eighteen than
+at fifty-eight.’ And Huxley, when at a Royal Society
+dinner it was suggested that he should enter Parlia-
+ment, replied that all his life he had been consumed
+by a passion for the discovery of truth, and not for
+its obscuration.” —(The Great Society, p. 320.)
+Viscount Bryce, in his preface to Ostrogorski’s first
+volume, says:—“l am myself an optimist, almost a
+
+
+professional optimist, as indeed politics would be
+intolerable were not a man grimly resolved to see
+between the clouds all the blue sky he can.” These
+expressions, uttered by eminent men of widely
+different achievement, describe the art of politics
+variously as “ intolerable,” “ a gruesome study,” the
+“ obscuration ” of truth, and postulate a grim
+optimism as the only possible attitude. Obviously
+it is not merely control by “ collective mediocrity ”
+that induces this condemnation, but some more
+sinister feature of modern methods of manipulating
+the people’s will. Once again Ostrogorski supplies
+the clue; “political organisation” has been substi-
+tuted for political education, the “ election broker ”
+for the statesman. The end at which the Party aims
+is not the good of society but victory at the polls.
+A capacity for controlling political opinion by
+appeals to prejudice and suspicion rather than to
+reasoned impartiality has become the solitary
+equipment of the politician. In the vast majority of
+cases the candidate for election is politically as
+uneducated as the masses whose good will he courts.
+He seeks, not to acquire political knowledge, but to
+develop a facility for arousing in his audiences, by
+every art of suggestion, feelings that will ensure
+their support for his candidature.
+In Australia, as in England and the United States,
+there is no real attempt to debate public matters in
+public, no desire to allow the people to play any part
+in the determination of its political destinies. The
+conflicting parties decide, each for itself, the manner
+in which a political issue is to be resolved; this
+accomplished, they go to the country each with a
+cut-and-dried “ policy ” —remarkable chiefly for its
+superficiality and opportunism. Once the campaign
+
+
+has begun, the “ policy ” may be neither questioned
+nor discussed without provoking organised hostility.
+“ Vote as you arc told,” the Birmingham motto, has
+become the fundamental tenet of our freedom. The
+effect is, of course, to stifle political thinking; but
+this is an essential part of the politician’s aim. Every
+citizen is asked to devote himself entirely to the party
+issue, the question as to which of two “ programmes ”
+shall hold the field. Those who, by reason of their
+training, are unable to accept either policy in its
+entirety, are warned to remove themselves and their
+“ unpractical ” ideas from the arena of “ practical
+politics.”
+As the fight develops, accusations of various kinds
+are hurled at the party leaders. Thus one may be
+declared to be the representative of “ profiteers ”
+and ” boodlers;” the other leader is promptly
+described by his opponents as the promoter of
+nefarious schemes for appropriating the savings of
+the middle classes. If it is possible to impute mean
+motives, then such imputations are freely used in
+order to disguise the artificiality and intellectual
+poverty of the whole campaign. Any artifice is
+welcomed which will help to create an atmosphere
+of heightened emotion, such that the individuals’
+judgment and capacity for cool reflection shall be
+reduced to a minimum. In America, the political
+organiser freely confesses that his particular task is
+to ’‘raise enthusiasm;” he does not hesitate to
+employ various mechanical devices in the achieve-
+ment of this end. Bands play everywhere and noise
+abounds; marching parties of electors are formed
+to parade the streets. For those who still harbour
+a belief in the propriety and necessity of “ popular
+control,” this “ Chinese business ” must seem at
+
+
+least undignified. The more important consideration
+is that it is merely part of a wide conspiracy to
+deprive the people as such of all control. The orgy
+of politically-manufactured and irrelevant passion
+which marks an election is a measure of the debase-
+ment of democracy. Our nominal political liberty
+has become an actual servitude to all that is
+intellectually futile and emotionally base.
+“ The vote once recorded, the role of the people
+is completed as well. Lord and sovereign judge,
+they have appeared on the scene at the last moment
+only, having come from afar, as it were from a
+foreign land or from the opposite bank. No sooner
+have they come out than the politicians surround
+and turn the mass of electors by a series of concerted
+movements, and strive to conquer their minds and
+lead their wills captive. The efforts expended are
+formidable, and the apparent results arc admirable;
+but it is the triumph of organisation turning factory
+methods to action on the public mind. In the
+endeavour to mould the human material with the
+minimum of friction and resistance, all efforts are
+concentrated on its most malleable points; the living
+mass is hammered on its most impressionable spot—
+the senses. The emotions of the multitude are
+appealed to; it is excited and worked up into a state
+of hysteria by a set of elaborate methods. The
+extreme nervous tension produced in the electors
+is inevitably followed by a reaction. The artificial
+passion for the public weal at once gives way to
+civic weariness. Exhausted, the great mass of the
+electorate falls or relapses into a state of prostration.
+The ‘ politicians ’ alone are left standing and
+masters of the field.'' —(Democracy and the Party
+System, p. 22$ ) Under such a system, democratic
+
+
+“ autonomy ” has become a byword. It is as though
+we presented a slave with freedom once in every
+three years—and drugged him during his free period
+with opium or alcohol.
+The damning facts which may thus be alleged
+against political organisation as at present under-
+stood, must not be supposed to be the product of
+hasty or unsupported generalisation. We may
+demand the evidence of a particular instance or call
+for psychological analysis of the facts; the results in
+either case will be found to be the same. Psychology
+has advanced greatly of late years in knowledge of
+neurasthenia, hysteria and kindred disorders. By
+means of the psychoanalytic method, Freud and
+Jung are able to show that the intellectual proceses
+of the neurotic individual do not run smoothly.
+His capacity for “ thinking out ” a situation in a
+logical manner is constantly diminished by the
+intrusion of emotional disturbances. Generally
+speaking, neurasthenia may be said to show itself in
+the form of “ phobias ” or unreasoned fears which
+attach themselves, in an individual case, to some
+definite type of object. Jung has perfected an
+experimental method of testing a patient’s “ associa-
+tions ” in order to discover precisely what
+“ emotional complexes ” are disturbing his trains of
+thought. Having instructed the patient to answer
+with the first word which occurs to his mind, Jung
+slowly reads a list of one hundred selected words,
+pausing between each for the reply. Simultaneously
+he notes the time taken by the patient to re-act to
+every successive stimulus. He finds that a “ hang ”
+in the re-action time or a lengthy or unusual reply
+denotes the presence of an emotional condition,
+roused by a stimulus word, which is retarding or
+
+
+EXPLOITATION OF THE PEOPLE’S WILL. 2»
+inhibiting the re-action. For psychology, the
+general interest of these discoveries lies in the fact
+that a means has been found of analysing conscious-
+ness with a view to discovering the manner in which
+actions and fears t apparently irrational, take their
+rise in emotional disturbances of consciousness.
+Now it is to these so-called “ unconscious ” and
+emotional interruptions in thinking that the skilled
+politician specially appeals. Like the advertiser of
+patent medicines, he seeks to take advantage of any
+“ anxiety-neuroses ” or unreasoned fears he may
+discover in the community; by perpetually stimu-
+lating such fears, he endeavours to attach them to
+the social and industrial conditions his own quack
+remedies profess to cure. In this immoral endeavour
+he is ably seconded by the party press. Certain
+obvious topics lie ready to his hand. Fears for the
+safety of relatives in the firing-line, uncertainties
+with respect to the cost of living or the permanency
+of employment—matters such as these are easily
+converted by the politician into quasi-neurotic
+“ anxieties ” which have for subject patriotism,
+loyalty, profiteering, class-consciousness, conscrip-
+tion, and so on. At his public meetings the
+politician does empirically what Jung does scientifi-
+cally; he assembles a number of such topics and
+tries them on his audience. Each topic is introduced
+severally, and the speaker, in proportion to his skill
+in “ handling ” audiences, notes any indication of a
+“ hang ” in the re-action time or of a complex
+re-action. Wherever re-actions of this kind occur,
+he knows he has discovered an emotional
+“ interruption ” in thinking, and he proceeds
+cautiously to develop his topic with the double
+object of intensifying the emotional complex and
+
+
+diverting it to his purpose. In the Queensland
+elections r f March, 1918, the topics which most
+successfully caused emotional complication and
+inhibited clear thinking were conscription, State
+enterprises, State insurance, profiteering, unem-
+ployment, finance and “ retrenchment.” So
+successful was the campaign in arousing “ anxiety-
+neuroses ” that the conclusion of the elections saw
+the commencement of a “ run ” upon the State
+Savings Bank—a run which lasted for more than a
+week and necessitated police supervision of the
+crowd. The run was quite unjustified by anything
+in State finance; it was motived entirely by
+unreasoned fears aroused in the electors by the
+political campaign.
+This wanton misuse of human material in the
+name of democracy has not failed to be productive
+df consequences unanticipated by the politician.
+One of the most notable of such consequences ia Jic
+relation of fear and nascent hatred which obtains
+between suburban drawing-rooms and Trades Halls
+in Australia. This showed itself in the breakdown
+of the first recruiting campaign into mainly personal
+abuse; across the social gulf epithets were hurled,
+“ disloyalist,” “ slacker ” “ militarist,” “ conscrip-
+tionist ” being the least harmful terms employed. All
+this might have been avoided by a little patience and
+sympathy upon the one side, tolerance upon the
+other. But a community which has been stimulated
+by its politicians into a condition of irritability and
+emotional instability cannot be expected to exhibit
+virtues such as these. Nemesis is already overtaking
+our leaders in that with all the will in the world to
+unite the community in the face of threatened
+disaster, they cannot do so.
+
+
+CHAPTER 111.
+Social Growth and Social Disintegration.
+The preceding chapters may seem to have over-
+emphasised the evils of the present method of
+political organisation. In reality it is not so; the
+dangers are so great that they cannot well be
+exaggerated. Between English nineteenth century
+theories of democracy and the Australian twentieth
+century practice of democracy there is a great gulf
+fixed. Mill and his contemporaries specified two
+contributing factors without which “ completely
+popular government ” could not hope to justify its
+claim to be the high road to liberty and the enlarge-
+ment of human powers. These were the continuous
+political education of the masses and enlightened
+leadership. Neither of these conditions has been
+fulfilled. Political organisation has come to depend
+on sectional distrust and the successful exploitation
+of irrational emotions; capable and far-seeing
+leaders are notorious for their absence. “ The old
+leadership has gone,” writes Ostrogorski, and with
+it has disappeared, he claims, political eloquence and
+devotion to ideals of social progress. The
+mechanical aspect of political organisation has been
+perfected, its living inspiration has vanished. Even
+the rank and file of the party supporters arc
+thoroughly disillusioned'with respect to “politics.”
+In Australia the question as to whether our political
+leaders are sincere is no longer considered; we ask
+
+
+only whether they are effective exploiters of the
+unreasoned prejudices of the mob. The mob itself,
+whether suburban or industrial, has to be provided
+with clearly defined hatreds and facile emotions.
+Along this road we shape a political course, idly
+wondering at times why national unanimity should
+be so difficult to achieve. A recruiting conference is
+specially summoned and proves futile. Why? For
+the obvious reason that our political system does
+nothing to promote unity and co-operation, but
+provokes suspicion and dislike between the various
+classes. Our politicians in the very act of deploring
+“ our differences ” are strenuously cultivating such
+differences. It is these social disjunctions which
+carry them into Parliament and office.
+The French crowd-psychologists, having elicited
+these facts, despair of democracy. Indeed, they go
+further and despair of humanity for the reason that,
+as their most popular writer puts it; “ The power-
+lessness of crowds to reason aright .prevents .them
+. . . from being capable of discerning truth from
+error, or of forming a precise judgment on any
+matter.” —(The Crowd: Le Bon tr., p. 74.) This
+doctrine is based on the assumption that non-rational
+factors must predominate in human thinking and
+especially in collective thinking. Le Eon’s funda-
+mental claim is that “ unconscious phenomena play
+an altogether preponderating part ... in the
+operations of the intelligence. The conscious life of
+the mind is of small importance in comparison with
+its unconscious life. 1 ” — (Ibid., pp. 30-1.) He develops
+his argument by asserting that the individuals who
+compose a race all resemble one another in
+respect of these “ unconscious ” mental elements.
+Consequently the “ collective mind ” is determined
+
+
+not by the special achievements of special individuals
+but by the “ unconscious ” mental elements which
+are the common possession of the race. This opens
+the way for Le Don’s pessimistic, and entirely
+unwarranted conclusion that the “ decisions affecting
+matters of general interest come to by an assembly
+of men of distinction, but specialists in different
+walks of life, arc not sensibly superior to the decisions
+that would be adopted by a gathering of imbeciles.” —
+(Ibid., p. 32. Italics mine.—E.M.) A conclusion
+such as this serves at least to show the despair which
+contemporary democratic methods have inspired—
+what though there is nothing in psychology to justify
+it. Le Don’s hasty identification of “ irrationality ”
+and “ unconsciousness ” leads him to believe not
+merely that “ the crowd ” is unreasonable, but also
+that it can never be anything else. Modern psycho-
+logical research all goes to prove the contrary. The
+experiments of Freud and Jung show that the
+original capacities of individual human nature require
+development. If the appropriate development be
+not forthcoming, the neglected capacity is apt to
+intrude itself upon consciousness in a highly
+undesirable manner. To this source, indeed, Freud
+and Jung trace the majority of neurasthenic
+disorders. Normality as a condition of mind is not
+static, but is constantly re-achieved by the right use
+of reason. Normality implies rational development.
+While admitting, therefore, with Le Don that
+“ irrational ” factors are too commonly permitted
+to interfere with “ the operations of the intelligence,”
+we may also quite legitimately maintain that there
+is no evidence to show that humanity is necessarily
+unreasoning. The evidence, indeed, is all the other
+wav, and show’s that reasoning, properly so-called,
+
+
+is deliberately discouraged under the conditions of
+democratic government. Our bitterest controversies
+of the present are due to rival social logics, under
+which special problems are quite differently stated.
+And our method—allegedly democratic —of resolving
+such differences is to harden them into emotional
+antagonisms, instead of developing the rival concep-
+tions, both defective, into mutual understanding.
+“ Irrationalist ” theories of political and social
+organisation entirely neglect the progressive
+rationalisation which marks the growth of civilised
+society. Present-day humanity, in spite of party
+politics, is far more widely capable of reasoned
+processes of thought than preceding generations.
+No one in these days would expect a handful of
+strontium salt thrown upon a fire and a muttered
+incantation to prove an efficacious treatment of
+typhoid fever. It is true that so-called “ quack ”
+medicines still attract the attention of the
+neurasthenic invalid. But even the man who wears
+an iron “ rheumatic ring ” upon his finger justifies
+his action by a facile and pseudo-scientific explana-
+tion of the neutralisation of uric acid by the
+absorption of iron salts. In other words, though
+his action is foolish, his explanation pretends to be
+logical.
+This tendency characterises also current social
+and political theories. Nearly all such theories are
+over-abstract and biassed, very many are foolish,
+but one and all lay claim to logical justification.
+The general question as to the source and signifi-
+cance of these various social logics is unduly
+neglected by political writers. For the politician the
+easiest method of resolving these contradictory
+beliefs is to summon emotional stress to his aid—
+
+
+and count heads. But the actual irrationality of
+political methods does not warrant the conclusion
+that the rival logics which perforce submit themselves
+to such decision are equally irrational. It is not only
+Le Bon who proceeds on this assumption. Graham
+Wallas, for instance, suggests that the “instan-
+taneous howl of indignation ’’ which followed the
+presentation of a Chinaman on a lantern screen
+before a working-class audience during the English
+elections of 1906, was due to “ an immediate hatred
+of the Mongolian racial type ” which was
+“transferred to the Conservative Party.” —(Human
+Nature in Politics, />. 108.) In other words, he
+suggests that the “ hatred ” which inspired the
+indignation had an “ extra-logical ” source in
+consciousness, and was transferred by “ non-rational
+inference ”to the Conservative Party. It is more
+probable that the hatred and indignation alike
+originated in a “ class-conscious ” conception of the
+use made of cheap labour in South Africa by
+“ capitalists.” This notion is not irrational, nor does
+it take its rise in “ unconsciousnessthe Marxian
+doctrine of the “ class-war ” may be inadequate to
+describe the social order, but it is carefully reasoned
+and so far logical enough. The official creed of
+Conservatism suffers from a similar defect; it is
+logically reasoned, but proceeds from insufficient
+major premisses. Neither the Conservative nor the
+Marxist is entitled to stigmatise the other as illogical;
+the general meaning each gives the world is different.
+The source and social importance of these rival
+logics cannot be explained unless account be taken
+of the wider consciousness which in every individual
+surrounds, as it were, the dominant thought of the
+moment. The effect of a pictured representation of
+
+
+a Chinaman or of the assertions of a newspaper
+article upon a perceiving intelligence depends not
+so much on the mere data offered for attentive
+consideration, but on the general meaning such
+intelligence brings with it to the act of perception.
+If a vine-grower and a temperance reformer, for
+example, look simultaneously at a glass of wine, they
+see it very differently. The actual object, considered
+as so much colour and form, is approximately the
+same for both; yet one views it as an ordinary
+commodity of trade, the other as a thing of horror.
+Similarly the attitude of a“ patriotic ” citizen and of
+a “ class-conscious ” worker towards conscription
+is very different. To the one conscription is a
+necessary means of defending civilisation; to the
+other it is an assault upon the very citadel of
+civilisation itself. The determining factor in each
+case is not so much the object itself as the kind of
+“ setting ” in which it is seen. Every individual
+member of society gives some kind of total meaning
+to his world, a total meaning which reflects his past
+experiences, his life and character; and this total
+meaning goes far to determine the meaning of every
+lesser object for him—his attitude to any problem
+which may present itself for consideration.
+This is a fact of primary importance for social
+science. The individual’s political beliefs are not
+actually made by the political party to which he
+-o ninallv belongs. The party undertakes to express
+his views for him, and, in so doing, may give a new
+direction to his thoughts; but the actual source of
+his ideas and the standard by which such beliefs arc
+judged lies beyond politics and political associations.
+The general meaning an individual gives his world,
+(he meaning which gives each lesser object its
+
+
+Social growth and disintegration, a?
+significance, determines also his choice of a political
+party. This meaning is the product of purely social
+as of economic causes; but, for the most part, the
+individual acquires it in his experience of some
+profession or trade. The way in which each of us
+sees the world is determined in the main by the
+occupational group which claims us as a member.
+Educated or uneducated, logical or unreasoning, we
+are all creatures of an occupation; it is the work we
+do for the community that determines the angle
+from which we see society and the world.
+Viewed from the standpoint of social science,
+society is composed of individuals organised in
+occupational groups, each group fulfilling some
+function for the society. Taking this fact into
+account, psychology—the science of human nature
+and human consciousness—is able t 6 make at least
+one general assertion as to the form a given society
+must take if it is to persist as a society. It must be
+possible for the individual to feel, as he works, that
+his work is socially necessary; he must be able to see
+beyond his group to the society. Failure in this
+respect will make disintegration inevitable. Social
+unity must be a conscious unity, known and
+recognised by every group and individual; the
+alternative is disruption. The last century has seen
+immense social expansion, accompanied, especially
+in English-speaking countries, by an increasing
+allegiance to democratic forms of government. The
+question we have to ask is whether democracy has
+enabled a society of enlarged extent and expanded
+powers to preserve its integral unity. With the
+development of society, has its power of internal
+cohesion correspondingly increased? In effect this
+question asks if it is possible for the individual to
+
+
+feel, under the conditions imposed by the present
+social order, that his daily task aids the fulfilment Of
+a social function—it asks if it is possible for him to
+see beyond his group to the society.
+Stated thus, the question serves to make clear the
+effect which “ democratic ” methods of government
+have had upon social growth. A few favoured
+professions, medicine and the law, have managed to
+retain some vestiges of a sense of social function.
+Even in these cases, however, recent years have
+shown that “ political neurasthenia ” and mammon-
+worship have exercised their disintegrating influence
+on the group. And if the question be applied to the
+whole field of social effort, the answer cannot be
+other than that in modern society the sense of social
+function in respect of work done is conspicuously
+absent. Party organisation, especially in Australia,
+has followed its inevitable line of development, and
+from being an opposition between merely political
+opinions has become an opposition between
+economic interests. One “ class ” struggles to obtain
+absolute control of another “ class,” and Aristotle’s
+description of democracy as a degraded form of
+polity is in a fair way to be realised. The conception
+of a community as consisting of castes or classes
+whose interests are naturally opposed is scientifically
+false and politically dangerous. In a democratically
+governed community it can lead only to anarchy and
+disintegration.
+The present social order is largely a result of the
+industrial expansion of the nineteenth century.
+The beginning of the nineteenth century resembled
+the present era in that it was a period of rapid and
+somewhat disorderly growth. In order that the
+civilised world might grow to larger powers—it is
+
+
+SOCIAL GROWTH AND DISINTEGRATION.
+the same problem which faces us to-day—previous
+industrial systems had to be superseded. The
+process of supersession was characterised by an
+extreme industrial chaos, a chaos that was regarded
+as legitimate and right by the social and economic
+theories of the time. The practical need of delivering
+industries from the short-sighted and futile control
+of the politician, as exemplified in eighteenth
+century France (vide Political Economy: J. S. Mill ,
+Ashley ed., p. 950), convinced the leaders of
+commerce of the evil effects and general impossibility
+of State control. A growing belief in the existence
+of “ natural laws ” of an economic variety seemed
+to justify a doubt as to the value of any attempt at
+industrial self-organisation. Competition and the
+survival of the fittest, therefore, became the chief
+article of the ruling economic creed: the politician
+was warned to refrain from interfering with trade
+and commerce. The twentieth century has seen the
+termination of this competitive disorder. From the
+chaos have arisen the twin forces of Capitalism and
+Industrialism armed at all points. And the question
+of the relation of these to the social structure and
+to the State becomes imperative. What is the
+attitude of Capitalism and of Industrialism to
+society? Do these great movements help the
+individual to see the society beyond his group-
+occupation, or is their vision limited by a wrong
+conception of the group-interest?
+The “Industrialist” movement still bears upon it
+the marks of the industrial disorder in which it took
+its rise. In a recently published book (The Town
+Labourer: 1760-1832), J. L. and Barbara Hammond
+show that early in the nineteenth century boys and
+girls from the age of five upwards were employed in
+
+
+mines, working twelve hours at a time. The
+conditions of their employment were unspeakably
+bad, “ chained, belted, harnessed like dogs in a
+go-cart; black, saturated with wet, more than half-
+naked, crawling upon their hands and feet and
+dragging their heavy loads behind them.” Nor was
+this all; the new industrial system “ made a money
+wage earned by women and children, as well as men,
+the basis of the workman’s economic life.” In other
+words, the employment of unfortunate children,
+under conditions such as these, was made a reason
+for paying their fathers less. “In respect of its
+enduring consequences, this was the most important
+fact about the new civilisation.”
+These children, when they grew to man’s, estate,
+were the workers of the next generation; as such
+they were the persons responsible for the formation
+of the social tradition of the present working class.
+What can they have thought of the society that used
+their years of childhood thus? These are the facts
+which have converted practically all the technical
+and manual workers of our civilisation into
+Marxian Socialists. The average worker of the
+present sees industries not as social functions but
+as the scene of a “ class-war ” between the employing
+and the working classes. He believes, and not
+without historic justification, that “ capitalistic ”
+society is altogether careless of his bodily and his
+mental welfare.
+The position of the nineteenth century employer
+was, at least in some respects, almost as unfortunate
+as that of his employees. It was not the average
+master of those days who lived in luxury while his
+workers went in rags. Competition—unrestricted
+and unscrupulous—characterised the industrial field.
+
+
+The prevailing passion was for cheapness, irrespec-
+tive of cost. Scarcities alternated with gluts and
+bankruptcies were frequent. The employer was
+forced by the conditions of trading to consider his
+own interests or to “go under/’ Ile had to have
+absolute control of his business in order to be able
+to adjust it to meet the market fluctuations that
+constantly occurred. Contemporary economic
+theory justified the belief that labour need only be
+taken account of as “ cost of production.” In
+addition to all this, the advent of the joint-stock
+company and the shareholder served still further to
+increase the irresponsibility of proprietorship and
+management. And the conception of industry as
+merely a profit-making mechanism became the
+dominant feature of the employer’s class-tradition.
+In this century conditions of trading for the
+masters, as for the men, have greatly improved.
+Competition is more restricted and less chaotic, the
+organisation of business upon a large scale is more
+common. But the evil legacy remains. In the
+employers’ consciousness of the present the social
+responsibility of owners and managers is greatly
+obscured; the workman is still conceived as a mere
+item in the cost of production, rather than as a
+citizen fulfilling a social function. Until there is a
+radical alteration in respect of these ruling ideas,
+“ social unrest ” may be expected to continue. The
+workman is put on a level with the machine he
+operates. No increase in wages or improvement in
+working conditions can atone for the loss of real
+autonomy and of all sense of social function. Viviani
+meant this when, as Prime Minister of France, he
+said that under the conditions of modern democracy
+
+
+man is half god and half beast, politically free,
+economically bound in servitude.
+So far, this analysis of the social structure might
+be applied to almost any modern industrial com-
+munity. The situation it discloses would seem
+sufficiently serious, but in Australia worse follows.
+The social function of the more important occupa-
+tions having been obscured, an attempt has been
+made to solve the resulting problem by political
+means. For this complication, the party system
+and the politicians’ ignorance of the true function of
+the State must be held responsible. The process is
+more complete in Australia than in other countries;
+industrial grievances have been generalised into a
+political party issue. Society is described as the
+scene of a struggle between a group of masters and
+a group of men—an analysis which totally disregards
+the fundamental facts of human nature and social
+organisation. The social fabric is rent asunder right
+across the majority of the larger occupational
+groups, and every industrial function tends to lose
+sight of its social end and justification. The
+misfortune of this generalisation of the industrial
+problem into a party issue can hardly be exag-
+gerated. State control, in the form of industrial
+arbitration, tends to stereotype and make permanent
+the social fissure between the employing class and
+the majority of those employed. Political
+organisation tends to widen the breach and to make
+differences irreconcilable. In former times the
+party-system implied a mere opposition of political
+opinions, and democratic methods of government
+had much to recommend them. But now that the
+party-system has come to imply an opposition
+between economic interests, good government by
+
+
+either side is unlikely, if not impossible. And the
+advent of such a condition of affairs means that an
+attempt is being made to provide a political solution
+for social problems which are not, properly
+speaking, amenable to such .treatment. ' This is the
+situation in Australia; the democracies-of Britain and
+America would seem to be developing speedily in the
+same direction. The result in Australia is that
+so-called political thinking is, mainly negative in
+character; one party is opposed to socialism, the other
+to “ capitalism.” Each party endeavours to make use
+of all the devices of political; organisation to secure
+strong support. The fact that economic problems
+require economic solutions is disregarded; the
+political and economic activities of society are
+hopelessly confused. To discuss economic problems
+in Australia is practically impossible. Every
+economic difficulty is immediately generalised as a
+political issue; the public takes sides, and thereafter
+public discussion implies emphasis of one aspect and
+suppression of other, equally vital, aspects of the
+problem. This serves only to divert attention from
+real and urgent issues, which often are not even
+placed before the public. Especially the public is not
+warned that all this “ political ” organisation and
+turmoil is not bringing the solution of industrial
+problems any nearer, but is making it more remote.
+The politician does not attend to the real difficulty;
+he endeavours rather to create and accentuate public
+feeling upon the issue. And he is succeeding all too
+well; the recent growth of interest in political
+matters in Australia is by no means a sign of social
+health. The method employed implies increased
+pressure and diminished mutual understanding. In
+the end this must mean, literally and actually, class-
+
+
+war, as certainly as the Prussian “ preparations ”
+meant war for Europe. Revolution or civil war is
+the only logical outcome of the present irrecon-
+cilable attitude of Australian political parties. The
+methods of “ democracy,” far from providing a
+means of solving the industrial problem, have proved
+entirely inadequate to the task. Political organisa-
+tion has been mistaken for political education; the
+party-system has accentuated and added to our
+industrial difficulties. Democracy has done nothing
+to help society to unanimity, nothing to aid the
+individual to a sense of social function. Under its
+tutelage, social development has achieved a condition
+of perilous instability, a condition which democracy
+as such can apparently do little or nothing to cure.
+
+
+CHAPTER IV.
+Regulation as a Substitute for Freedom.
+The effect of democratic individualism upon
+industry has been no less profound than its effect
+upon politics. Laisscr fairc taught the necessity of
+leaving industries to work out their own salvation,
+independently of political and of economic (i.e.,
+monopoly) control. Unfortunately, the evolutionary
+conception of the survival of the fittest proved to
+have little relevance to the sphere of commerce; it
+was not always the fittest, socially speaking, who
+tended to survive. The trader who adulterated his
+goods, the ruthless oppressor of the working class—
+these often succeeded under a competitive regime
+when more reputable traders failed. In this matter,
+indeed, the laisser fairc theorists seem to have fallen
+into their own net. They were quite clear on the
+point that industries are better without political
+interference; but they seem to have concluded that
+the only alternative to a merely political organisa-
+tion of industries is no organisation at all. This was
+a serious defect in their exposition of the economic
+structure of society. Their belief that society is a
+mere collection of individuals led these economists
+to demand, not a distinctively industrial organisation
+of society as a counterpart of the political, but a
+chaotic condition of internecine competition between
+traders for the trade available and between wage-
+earners for employment. This belief was widely
+adopted, and led to a condition of industrial anarchy
+in the business world which was itself a criticism of
+
+
+the theory. Even in the nineteenth century,
+however, this state of affairs began to remedy itself.
+Associations of masters, with the avowed object of
+maintaining prices at a level which covered the
+expenses of production, heralded the advent of
+monopoly-trading and the Trust. Associations of
+employees in trade unions foreshadowed the advent
+of “ the strike ” and methods of “ economic bar-
+gaining” designed to keep wages above the level
+of mere subsistence. Had the commercial world
+been left to itself, it is conceivable that it might
+possibly have been brought by these means to take
+a saner and more humane view of the situation. But
+about the year 1880 socialist and humanitarian
+thought began to influence the public conscience - f the
+consumer suddenly awoke to the fact that the age of
+undue cheapness had passed, rumours of “ trusts ”
+and “ corners ” added to the general uneasiness—
+and the politician intruded himself upon industrial
+affairs.
+Karl Marx’s analysis of the social ills of . the
+mid-nineteenth century had convinced his follpwers
+of the perils of industrial anarchy and.of the need
+for a national organisation of industries. Unfortu-
+nately, Marx’s analysis of social structure added
+nothing to that of laisser faire; he simply .re-stated
+the position from the point of view of the working
+class, and strongly emphasised. the need for
+humanitarian interference. Consequently, in
+declaring, their object to be “ the nationalisation of
+the means of production, distribution and exchange,”
+socialist writers fell into the trap unwittingly
+prepared for them by their laisser faire predecessors.
+As economists, the exponents of laisser faire had
+seen no alternative between the political organisation
+
+
+of industries and a competitive regime. Their
+democratic belief that governmental control hinders
+industrial growth led them to declare unhesitatingly
+for competition. The socialists, on the other hand,
+chose the former alternative, without considering
+the matter further. As a result, socialism, equally
+wilfi individualism, has failed to take account of the
+fact • that civilisation • implies an historic social
+structure. The political and economic functions of
+the community are hopelessly confused; the question
+of their distinction is not even raised. For the
+•socialist “ the nationalisation of industries ” solves
+every economic problem—which, plainly stated,
+means that the only remedy for industrial chaos is to
+place the politician in charge. On this view
+national, or social, control means political control,
+and no more. Socialism, in effect, asks society to
+return to that evil regime from which laisser faire,
+with all its faults, delivered civilisation.
+The advent of syndicalist and guild-socialist
+theories probably means that the working class has
+ceased to believe in the gospel of “ political ”
+salvation. In spite of this change of opinion,
+socialism has, nevertheless, left its mark upon the
+social structure. Socialistic ideas have provided a
+justification .for political methods of dealing with
+industrial.diflfictdties, and most notably for industrial
+arbitration. In Australia high hopes, have centred
+round “ industrial courts;'’ the device is employed
+in Australia, indeed, to an extent far greater than in
+any other country. So far as arbitration encourages
+the mutual discussion of difficulties by masters and
+men, the effect is excellent. Every social writer from
+Bagehot to Tarde has recognised the importance of
+rational discussion as a factor in social progress.
+
+
+But the notion of an Arbitration Court goes far
+beyond this. The court comes upon the scene
+arrayed in all the panoply and armed with all the
+majesty of law and judgment. Its primary assump-
+tion is that the interests of masters and men cannot
+be made identical, that the intervention of an
+intermediary is necessary in the general interest.
+This assumption serves in practice to stereotype the
+breach and to multiply the causes of dispute;
+arbitration courts have the effect of recognising and
+legalising social disintegration.
+But this is not the only defect of arbitration. The
+presiding judge is set the hopeless task of producing
+by regulation that which can only be spontaneous —
+growth. The multiplication of restrictions does not
+aid an industrial function to develop new powers; it
+serves only to hinder it. An arbitration court is a
+subtle form of State control; its decisions are
+inevitably moral rather than technically skilled, from
+a strictly industrial point of view. The State
+possesses, and rightly, a power of social veto, power
+to forbid; but this power does not imply any capacity
+for initiative or leadership. An industrial court is
+limited by its nature to the restraint of unruly
+growth, the prohibition of undesirable development.
+Any attempt to extend the sphere of its operations
+beyond this point is apt to cramp industrial activity
+and to exacerbate class-hostility. If the daily
+routine of an industry is controlled, not by
+agreements between manager and workers, which
+change almost automatically with changing con-
+ditions, but by increasingly complex regulations
+imposed from without, then the task of devising
+satisfactory methods of collaboration becomes daily
+more difficult of achievement. Its official recognition
+
+
+of the “ class- war ” and its endeavour to promote
+industrial growth by a mass of regulations combine
+to make industrial arbitration definitely anti-social
+in character. The real problem is how to set eacii
+industrial function free to do its best for society.
+Certain present defects, due to ignorance of the real
+nature of the social structure, are making it difficult
+for the citizen to see the society beyond the group
+occupation which is his daily work. Arbitration
+does much to perpetuate these ills and nothing to
+remove them.
+The defects of industrial arbitration characterise
+also, though in a manner not so immediately obvious,
+the “ method of collective bargaining ” and the
+“ method of legal enactment.” (lndustrial
+Democracy: S. and B. Webb.) So far as these
+methods are permanently incorporated in the social
+structure, so far the “ class-war ” is perpetuated and
+industries lose sight of their social character and
+function. Even Karl Marx recognised the
+impermanence of the class-war. His teachings all
+imply the necessity of a social synthesis in which the
+contradiction will be reconciled or, if the contradic-
+tion persists, social revolution. Class-hostility
+means decadence, and methods of dealing with
+“ industrial unrest ” which admit and seek to
+perpetuate the fact of class-hostility are no more
+than steps downward on the easy path to destruction.
+The office of rules and regulations is to express a
+static relation; prohibitions can do nothing to bring
+about a condition of whole-hearted and spontaneous
+co-operation. Collaboration in the complex
+purposes of civilisation is the mark of social health;
+any ideal which aims at less than this is dangerous.
+Civilisation has passed beyond nineteenth century
+
+
+individualism, to twentieth century class rivalry. Its
+capacity to survive depends upon its capacity to
+achieve"a-social.condition that will subsume castes
+and' classes under a community of interest and
+purpose. To achieve this, artificial restrictions must
+b : e eliminated and “ common rules ” revoked—
+except where common rules undoubtedly express the
+social mind. Human.nature may be trusted to work
+out a gradual solution once the attempt to find
+political nostrums and ad hoc remedies is abandoned.
+At present, however, it is difficult either for
+managers or for workers tb look squarely at
+technical trade problems. Managers have to consult
+“ two hundred typewritten pages ” of an industrial
+court' award before introducing innovations in a
+factory. However necessary this may seem to be as
+a preventive of industrial abuses, the fact remains
+that it is an opportunist remedy and hampers
+commercial growth. The proprietor of a bacon
+factory in Brisbane asked his night-watchman to
+turn off a brine-tap at two o’clock in the morning;
+the union secretary informed him the next day that
+this act constituted the watchman a skilled worker
+under the award and necessitated a changed rate of
+wages. Instances such as this show how little clastic
+award regulations are; the incident is distinctly
+reminiscent of the condition of affairs in eighteenth
+century France. With regard to its main purpose,
+moreover, this method entirely fails; proprietors and
+managers tend to become not more humane but less
+so. This, not merely because they resent “inter-
+ference,’’ but also because the court deprives them
+of their social responsibility for the way in which
+they treat their employees. The court takes from
+the employer the right to make humane decisions.
+
+
+Trade unions .have been affected by this passion
+for regulation in a way entirely similar. Less and
+less do matters of technical interest or problems
+implying technical skill come up for discussion at
+union meetings. The “ log ”of wages and working
+conditions is critically considered and constantly-
+revised. Both court-work and interpretation of
+awards are required of the union secretary, who
+develops in consequence a species of legal skill. In
+recent years the attempt of the “ industrialists ” to
+capture the Labour political executives has caused
+the unions.to turntheir attention to political, matters.
+All these things tend to magnify the importance of
+“class-consciousness” and the Movement,” and
+to obscure the social function of the industry of
+which the trade union is part. A prominent Labour
+politician, himself formerly an active union secretary
+and organiser, declared recently that in all his
+experience “ class-consciousness ” was inconsistent
+with skill in trade. He added that whenever a skilled
+artisan is roused to keen interest in the Labour
+movement his skill deteriorates and his interest in
+his skill in proportion as his hatred of “ capitalist ”
+oppression mounts higher. Union leadership, it
+may at least be said, is.no longer in the. hands of the
+most highly skilled trade representatives; facile
+eloquence and a partisan hostility to all employers
+have become the appropriate qualifications. The
+misfortune of this condition of affairs is undeniable;
+but it must not be assumed that the trade unions
+themselves are primarily to blame. Democracy,
+having failed to base itself upon the actual historic
+structure of civilised society, has been forced to
+substitute an artificial organisation for such
+
+
+structure. And this artificial substitute for human
+co-operation has brought all kinds. of ills and
+abnormalities in its train.
+Ideas of business organisation which are widely
+current in the commercial world form an excellent
+illustration of this abnormality. The social regime
+which the “ practical man ” or the “ capable
+manager ” would introduce, if he had his way, would
+be at least as dependent upon regulation as socialism
+and far more dully mechanical. All the “ systems,”
+of which so much is said and written at present,
+would appear to be systems which set one man free
+to “ think out ” a restricted range of problems, at the
+cost of depriving some hundreds of his fellows of the
+right to think at all. The public is asked to believe
+that its interest in life depends upon a “ right use
+of leisure ” rather than work actually done for the
+community—a doctrine which amounts to a sugges-
+tion that the bulk of humanity should interest itself
+in amusements rather than social welfare. One
+consequence, but only one amongst many, of this
+foolish amateur philosophising is that too many
+already regard their work merely as a form of
+payment for such pleasure as they are able to find in
+their “ spare ” time. There are, however, conse-
+quences more obviously serious of this endeavour
+on the part of the “captains of industry” to
+concentrate intelligence in the few and to allot tasks
+of dull routine to the many. “ Strikes,” for example,
+as often as not, are due rather to a desire for sonic
+measure of personal autonomy than to the need of
+increased wages. This is especially true in
+Australia, where, even in industries in which wages
+rule high, “ industrial unrest ” is nothing diminished.
+]Human nature is such that work which demands
+
+
+small exercise of intelligence is dull and uninterest-
+ing, and no amount of “ practical common-sense ” or
+“ system ” will make it otherwise. A commercial
+system which . deprives the average member of
+society at one stroke both of a sense of social
+function in his work and of all right to intelligent
+self-direction cannot be expected to prosper. The
+ills which the commercial man bewails—strikes,
+sabotage and the like—are very largely the result of
+his own refusal to take account of the human factor
+in the industrial problem. The nineteenth century,
+disregarding Adam Smith’s warning that economic
+processes are only incidents in a larger moral order,
+conceived labour as no more than a “ cost of
+production.” From that day to this our commercial
+development has headed direct for social disaster.
+The most perfect business mechanisms have been
+elaborated, only to find that the “ intractable ”
+working class refused to adopt them. “ Taylorism ”
+is the latest of these achievements, and its mere
+name was enough to provoke the greatest industrial
+disturbance ever known in Sydney. As a system,
+“ Taylorism ” effects much in the way of economy
+of labour; its chief defect is that workers are not
+asked to collaborate in effecting such economies; a
+method is devised without their knowledge and then
+imposed upon them. What wonder if workers are
+suspicious of such innovations, with the industrial
+history of the last century in their minds. So long
+as commerce specialises in business methods which
+take no account of human nature and social motives,
+so long may we expect strikes and sabotage to be
+the ordinary accompaniment of industry. Sabotage
+is essentially a protest of the human spirit against
+dull mechanism. And the emphasis which democracy
+
+
+places upon political, methods tends to transform
+mere sporadic acts of sabotage into an organised
+conspiracy against society.. But for this sinister
+feature of modern industrial life, our commercial
+leaders cannot be held blameless.
+The question we have to consider is whether fear
+or social purpose provides the better riiotive to social
+collaboration. The industrial anarchy of the' last
+century, masquerading under the style of “ com-
+petition,” implied a belief in fear as the only effective
+spur to work and co-operation. Fear of starvation
+or poverty, with all its attendant ills, was supposed
+to provide an adequate motive for diligence and
+self-development in the worker; fear of competitors
+and of .financial ruin was thought to provide a
+sufficient explanation of the employer’s impulse to
+develop his business. As a result, we have had
+innumerable petty business systems but no real
+system. Industry has drifted into a condition of
+muddled competition between a multiplicity of
+producers, each of whom has tended to develop,
+naturally enough,, a disposition to grasp all that
+offered lest worse befell. So originated “profiteer-
+ing” and the commercial exploitation of producer
+and consumer. In these days, the organisation of
+business upon a large scale is more common, but
+the . evil tradition of a competitive struggle for
+survival persists. So long as -the competitive
+struggle persists, industries will not actually be
+social functions. And until industries actually are
+social functions, a sense of social function is not
+likely to appear in the consciousness either of the
+employer or the worker. Large scale businesses
+in competition with each other are dangerous to
+society as a monopoly is not. Fear of rivals must
+
+
+always go far to determine the policy of a competitive
+concern. A monopoly, upon the other hand, could
+hardly fail to realise, if intelligently handled, that
+social service was its chief duty. And human
+experience would seem to show that intelligence
+manifests itself more readily in response to the
+stimulus of social purpose than of fear. It is this
+fact, indeed, which distinguishes humanity as such
+from the animal creation. Capacity for social vision
+and the inspiration of high purpose—these are the
+motives which have made our civilisation, and not
+the essentially anti-social urge of fear.
+What is mainly required, then, is increased
+intelligence in business organisation—capacity to
+see, for example, that the human factor is as
+important as any other in the matter of industrial
+organisation. When industry is organised upon a
+scale still larger than at present, it will at once
+become evident that the essence of social endeavour
+is co-operation between intelligences, and not one
+super-human intelligence presiding over a Human
+mechanism. G. D. H. Cole, in a recent work
+(Self-government in Industry: G. D. H. Cole) makes it
+abundantly clear that the very foundation of society
+is a will to collaborate amongst its members. This
+will is unlikely to appear in a community which,
+industrially speaking, is guilty of “ Prussianism ” in
+the sense of allowing the apparent welfare of the
+commercial system considered as a whole to tell
+against the welfare of its workers. Cole pleads the
+cause of human autonomy against “ capitalistic ”
+mechanism, and so far he is undoubtedly right. His
+practical suggestions as to the methods by which
+such autonomy may be realised, however, make his
+guild-socialism of doubtful value.
+
+
+In the first place, Cole’s understanding of
+autonomy does not take him far enough from the
+confusions of democratic politics. On his view, the
+sovereignty in an industry vests in the workers; the
+workers should therefore, he believes, elect
+governing committees, who would, in turn, appoint
+foremen and managers. Cole’s assertion that the
+workers in an industry, being more of a kind than
+the electors of a political constituency, would choose
+better representatives, may be so far admitted; it
+still does not follow that they would choose really
+well. The elective method would most probably
+enthrone “ collective mediocrity ” within the industry
+and tend to discount the higher forms of skill. In
+the case of politics this effect is not altogether bad;
+in the case of industry, it would be an unqualified
+social disaster. Every individual member of a
+community fulfils two kinds of social function within
+the community; in respect of the one—his avocation
+—special skill is demanded; in respect of the other
+a capacity for making moral decisions. It is by
+means of his professional skill that the engineer or
+doctor earns a livelihood; he exercises his other
+function when he sits on a jury or votes in an
+election. When Bentham said that politically every-
+one should count as one and no one for more than
+one, he obviously was not referring to matters
+requiring special skill. But although everyone
+realises the transparent absurdity of deciding the
+correct treatment for typhoid fever, for example, by
+means of a referendum, yet “ democratic ” theories
+of popular sovereignty make no distinction between
+moral and technical problems. A question of public
+morality is necessarily determined in a community
+at a given moment by the general level of morality
+
+
+the community, has achieved; and in matters of
+morality every individual must be judged equally.
+But a scientific question can be determined only by
+the most skilled investigation and the most skilled
+investigator; and in this case the opinion of one
+man may outweigh that of all the other members of
+the community. Cole’s suggestion of quasi-
+parliamentary control in industry entirely disregards
+the fact that industries resemble “ professions ” in
+that they are skilled communal functions. In all
+matters of social skill the widest knowledge and the
+highest skill should be sovereign rather than the
+opinion of “ collective mediocrity.” The exercise of
+such authority should, of course, be subject to moral,
+but only moral, limitations imposed by the com-
+munity. Cole’s scheme does not ever, provide for
+the special training of managers, accountants and
+foremen. The committee which appointed a man
+one year might, under pressure of popular disfavour,
+remove him the next. There is nothing to show
+that even a foreman would have time or opportunity
+to acquire knowledge, as we all must, by failure.
+To these considerations must l>c added the fact
+that Cole and Oragc seriously misconceive the social
+structure of industry. The special business of trades,
+as of professions, is to conserve skill for the society.
+Each trade specialises in a particular direction, and
+each trade, therefore, is the concrete embodiment of
+a particular area of the communal knowledge. Bu‘.
+there is no easy argument from the mediaeval guild
+to modern industry. The increase in size in the
+modern business is more than a mere increase in
+size; it is an increase in complexity also. A modern
+industry does not conserve for the society merely a
+single kind of skill, nor is it composed merely of the
+
+
+members of a single profession. Any. one industry
+of the present requires the active collaboration of
+many professions, each of which possesses its own
+special technical logic and tradition. The distinction
+between management, accountancy, publicity and
+trade work in, for instance, a machine-factory, is
+fundamental. Organisation, accountancy and
+publicity-work' require a special training to fit the
+individual'to deal with a special class of problem to
+an extent at least as great as-that required by
+trade-work. Nor can any one of these specialised
+pursuits dictate to another the methods it shall
+pursue. Skilled discussion lies between manager and
+manager, accountant and accountant, fitter and
+fitter; and the there highly developed the business
+the more specialised are the types of -skill which it
+requires. A widespread social movement ‘in--, the
+direction of guild monopolies could only intensify
+this tendency. : The number of skilled professions is
+multiplied with every development in the direction
+of closer integration. Cole’s suggestion- thatthe-
+workers in any industry- should control it- after, the.
+fashion *of “ democratic ” politics would not only
+introduce all the ills of partisan politics' into
+industrial management, but would also place the
+final power in the hands of the least skilled workers.
+In many industries this would give the unskilled
+labourer control over the craftsman properly
+so-called. And, more generally, the effect would be
+to determine problems requiring the highest skill by.
+placing the decisions in the hands of those w'ho were
+unable even to understand the problem? 'The
+principles of full publicity and moral control by v ‘ the
+people” are sound; but there is no good reason for
+confining “sovereignty” conceived tints to the
+
+
+workers in a particular industry. Moral interests are
+communal interests; it was moral and humanitarian
+feeling in other sections of the community than the
+industrial which procured the workers’ release from
+the more intolerable abuses of the nineteenth
+century. It may be said for the “ capitalistic ”
+system that, although managers and business
+organisers generally have unduly neglected to take
+account of the human factor in industrial problems,
+the system has, nevertheless, tended to conserve
+social skill, to protect the specialist worker against
+the assaults of so-called “ democracy.” Guild
+socialists cannot have failed to realise that the
+opposition of the skilled craft unions to industrial
+unionism is due to the reluctance of the crafts to
+place themselves in the hands of the unskilled
+labourer. Where there is no understanding there
+can be no real control. The outstanding failure of
+democracy is its failure to appreciate the social
+importance of knowledge and skill.
+The question for the reformer is not only “ what
+the workers want,” but also what they actually are.
+An individual may want to control a business and be
+incapable of doing so. The only effective want is
+that which is strong enough to drive a man to
+acquire the requisite knowledge and capacity.
+Desires which expend themselves in vapourings and
+idle regrets are futile. Democracy, as we at present
+know it, places too great a reliance upon political
+organisation, legislation and “ systems.” Special
+systems imply special individuals; in the absence of
+individual knowledge and capacity, systems are
+useless. Man can be saved by man alone. Human
+nature as developed by society is good or base,
+mentally clear-sighted or dully obscure; no amount
+
+
+of mere legislation will make the base man noble or
+will give the twilight thinker clear vision. If the
+working class is to cease being a merely working
+class, part at least of the remedy lies in its own
+hands.
+This criticism must not, however, be supposed to
+militate against Cole’s main thesis. No social system
+can be considered satisfactory which deprives the
+great majority of mankind of every vestige of
+autonomy. No society is civilised which exploits
+the many in the interest of the few. When “ work ”
+signifies intelligent collaboration in the achievement
+of a social purpose, “ industrial unrest ” will cease
+to be.
+
+
+CHAPTER V.
+Society and the State.
+Study of the relation of social freedom to
+democratic forms of government has involved us in
+a larger question as to the relation between society
+and the State. The important issue for present-day
+democracies is no longer the location of sovereignty
+—in monarch or people—but the meaning of
+sovereignty and government. What, we may ask,
+is the proper relation between the State and the
+larger social development of which it is part? We
+cannot do more than suggest a tentative answer to
+such a question; in doing so, we have to inquire what
+democracy means by government. For Austin and
+the jurists sovereignty implied primarily an
+authority, a power which lay behind the mandates of
+law and enforced the social observances defined in
+the laws. This conception of sovereignty is
+obviously based upon a generalisation as to the
+nature of legal compulsion. No concrete sovereign,
+whether monarchical or democratic, can claim an
+actual “ power to put compulsion without limit on
+subjects or fellow-subjects;” this power belongs to
+laws alone. Austin’s conception describes the
+socially compulsive power of law, but does not trace
+law to its source in the social will. It was this failure
+to discuss the real source of law which enabled
+jurisprudence to apply its theories of authority,
+developed under the conditions of monarchy, to
+democratic institutions. A well-ordered community,
+
+
+whatever its form of government, must obey the law;
+for Austin the sovereign is merely the logical
+subject of legal predicates. Restrictions designed
+originally to prevent a wilful monarch from inter-
+fering wdth the administration of justice are
+nowadays applied equally to the sovereign parlia-
+ments of modern democracy. The question remains
+as to how far a “ determinate superior,” whether
+king, parliament or a numerical majority, may
+impose its will upon the community.
+Legal theories of sovereignty, since their chief
+concern is to “ personify ” the socially compulsive
+power of law, take no account of the very real
+change in the conception of government which
+marked the transition from monarchy to democracy.
+The inspiration of democracy was a positive belief
+in social autonomy, a negative belief that eighteenth
+century government fettered the free impulses of
+humanity. These ideas show themselves in the
+writings of Rousseau, in the Kantian doctrine of a
+“ kingdom of ends,” every member of which is at
+once legislator and subject, and in laisser fairc
+theories of non-interference by the State. Sover-
+eignty was not merely transferred from the monarch
+to “ the people.” In the process of transfer the
+conception of government was re-stated in terms of
+the individual’s right to personal autonomy—so far
+as consistent with the personal autonomy of all other
+members of the community. The function of " the
+governor ” was no longer, therefore, that ol
+“ governing ” in an absolute or arbitrary manner,
+but was rather that of discovering and interpreting
+the social will. The effect of this was to give society
+a moral, rather than a military or intellectual unity;
+so far the effect was definitely an advance. That
+
+
+“ will, not force, is the basis of the State ” has always
+been the principle which has determined the stability
+of a given community; disregard of the social will,
+under any form of government, has been the shortest
+way to revolution. Hut democracy was the first
+attempt, historically speaking, to place sovereignty
+explicitly in the social will. The failure of democracy
+is due to the fact that it has lost sight of its original
+inspiration. Modern democracies bear some resem-
+blance to the historic tyrannies in their misconception
+of the art of government. All the objections which
+mankind discovered to the “ divine right of kings ”
+might be urged with equal force against the principle
+of State control of social activities. “ State control ”
+implies a reversion to the very condition of things
+which democracy was designed to destroy; and
+especially so, when our political leaders altogether
+misconceive the nature of the social will.
+The social will in any civilised community is
+extraordinarily concrete and very complex. It finds
+expression in moral institutions such as common
+law, equity, marriage and the law of contracts, which
+regulate human relationships by means of law and
+public opinion. It finds expression, also, in the
+various professions and trades, each of which
+conserves some special type of skill in the interest of
+the community. In no other manner can skill be
+conserved; written records are valueless without the
+skilled and experienced interpreter. Over the whole
+field of human activity, inherited tradition supplies
+the material of knowledge; the contribution of each
+successive generation to this common stock is
+relatively small. Civilisation, therefore, depends for
+its maintenance primarily, it might be said, upon the
+ability of a present generation to understand, to
+
+
+apply and to extend its ancestral knowledge. This
+fact is a commonplace of psychological science. Its
+implication is that structure is everything to
+civilisation. Man is civilised only when he functions
+in a social scheme or system which endures through
+successive generations and is continuously developed
+towards the better expression of human capacities of
+thought and will. The art of government cannot be
+held to have approached perfection until it has
+related itself to this age-long effort to realise ideal
+conditions of living for the individual and the
+society.
+To the individual it often seems that his ideas are
+peculiarly original, peculiarly his own. In a merely"
+possessive sense, such ideas are, of course, his own;
+but the briefest analysis will serve to show that they
+all originate in the social and professional tradition
+of the community to which he belongs. Further, any
+discovery he may make possesses relevance only to
+such tradition. The world abounds in ignoramuses
+who have discovered how to square the circle; but
+the mathematical profession very properly disregards
+them. Reforms of, or additions to, knowledge are
+only made by those who understand a tradition
+sufficiently well to be able to perceive its errors and
+shortcomings. To the ignoramus reform is always
+easy—and revolutionary. Since he knows nothing,
+he is bound to begin by sweeping existing know-
+ledge, with a magnificent gesture, into limbo. This
+is all too frequently the attitude of the democratic
+politician to social problems. “ Elect me/’ he says,
+“ and I will deliver you from your bonds of
+servitude.” Stirred by his easy rhetoric, the
+commonalty elects him—only to find, ten years
+
+
+afterwards, its bonds more closely riveted than
+before.
+Democracy has failed in that it has made no
+attempt to base government upon the social will.
+Extensions of the franchise came at a period of
+development—between 1832 and 1867 —when indi-
+vidualism and a sensationalist psychology ran riot
+over the field of political thought. The defects of
+these two theories are entirely similar. Sensa-
+tionalism reduces reality to terms of successive
+sensations and leaves altogether out of account the
+structure which even the sensory world possesses.
+The political philosophy of nineteenth century
+democracy regarded society as consisting of a mere
+collection of individuals, and utterly neglected that
+complex structure of human relationship in work
+and life which constitutes the essence of civilisation.
+Mere extension of the franchise—the numerical
+estimate of opinion—has the inevitable effect of
+discounting high standards of devotion to the cause
+of social advancement and social skill. Not even
+democracy could afford to leave the formulation of
+popular opinion in the hands of demagogues. The
+partisan organisation of opinion, therefore, became
+necessary and was mistaken, as Ostrogorski shows,
+for political education. Democracy, having com-
+mitted itself to the belief that the social will was
+structureless, was forced to bring political
+associations into being in order to give form to
+popular opinion. Hence, having disregarded the
+actual structure of society, democracy has
+endeavoured to impose an artificial “ political ”
+structure upon it—an endeavour which has tended
+to embitter partisan feeling and, in the ultimate, to
+concentrate power in the State. Not by any stretch
+
+
+of the imagination can this concentration of
+authority in the State be deemed admirable. Far
+from expressing a genuine social unanimity, this
+authority can only be understood as a vain attempt
+to counteract or conceal an actual and extensive
+disintegration. Mistaken development cannot be
+cured by the assumption of authority or trumpery
+legal enactments. “ Government,” properly so-called,
+is one aspect only of a wider social co-operation;
+where there is no real co-operation, there can be no
+real government.
+The substitution of an artificiality—" the people ”
+—for the social will is not, however, the only defect
+of contemporary democratic theory and practice.
+The very notion of government is obscured by a
+persistent confusion which uses the term in two quite
+different senses. Civilisation is a gallant experiment
+in the direction of peace, an experiment which has
+behind it a history of war. Jenks describes the State
+in origin as “ a military institution of the simplest
+type,” and traces its development of additional
+functions—“ defender against attack, keeper of
+internal peace, dispenser of Justice, administrator of
+the affairs of the land.” —(Law and Politics in the
+Middle Ages, />. 91.) Maine points out that “in the
+very first place, Democracy, like Monarchy, like
+Aristocracy, like any other government, must
+preserve the national existence. The first necessity
+of a State is that it should be durable.” —(Popular
+Gen'crninent. p. 61.) Originating in the military
+necessity of war and defence, the State has always
+retained its right to military control. Historic
+circumstance has, indeed, necessitated such retention.
+But the fact that military authority in war time
+differs altogether from governmental authority in
+
+
+times of peace, and military organisation for war
+from social organisation for peace, has been too
+little considered and understood even by those
+nominally expert in the art of government. The
+consequences of this very general misunderstanding
+are clearly evident in the present situation of affairs.
+“ Pacifist ” arguments, basing themselves entirely
+upon certain salient features of social organisation
+for peace, endeavour vainly to prove their relevance
+to a condition of war. Effects of a contrary kind are
+also manifest. In Australia, the Federal Government
+is the military authority; constitutional provision for
+defence has enabled it to extend its powers very
+considerably in the last few years. Prevalent
+confusion as to the sphere and significance of
+government has prevented the politicians and the
+public from clearly distinguishing between war
+conditions and peace conditions. There is, in
+consequence, grave danger that the conclusion of
+the war will by no means deter politicians from
+endeavouring to apply their extended, and military,
+powers to the problems of peace. Habit and the
+need for united action may for a time induce the
+public to consent. Democracy is in general so
+vaguely conceived that specious arguments which
+place the remedy of social disintegration in authori-
+tative control will be exceedingly likely to obtain a
+hearing. State Governments have already manifested
+a tendency to imitate the arbitrary methods of the
+Federal authority, without the Federal justification
+of military need; this fact is not without significance.
+The conception of government as applied to a
+community organised for war must, therefore, be
+distinguished from the conception of government in
+times of peace. A democracy may organise itseif
+
+
+effectively for war, but military control cannot be
+“ democratic.” Military organisation calls for
+special skill, just as industrial organisation does.
+War is, in fact, a special craft, a craft which
+necessitates —and especially in these days of large
+scale warfare—an entire re-ordering of the lives of
+communities. Whatever the character of a
+government, monarchical or democratic, upon the
+advent of war, it is bound to arrogate to itself powers
+which it could not easily claim in times of peace.
+Every civilised community has always tacitly recog-
+nised this fact and has made provision for
+re-organisation of the social structure in war time.
+The Declaration of Rights in 1689, for example,
+denied to the king the right of maintaining a
+standing army, except with the consent of Parlia-
+ment, “in times of peace.” The phrasing of the
+passage expressly implies that in time of war the
+military authority must be supreme; all other rights
+must be subordinated to the necessity of defence.
+Until the present era, the history of humanity has
+been a history not so much of civilisation as of
+sporadic civilisations—communities differing in
+tradition and culture, conflict between which was
+always possible, if not inevitable. The human
+impulse to develop has tended to show itself in the
+form of successive efforts to carry a national culture
+into other and less favoured lands. “ Patriotism ”
+has all too often contained within it the seeds of
+aggression. This tendency has not been altogether
+bad; Lilienfeld’s explanation of conquest by analogy
+with sex-fertilisation is not so utterly absurd as it
+would seem. There comes, however, a stage in
+social development when the arbitrament of the
+sword is less helpful than harmful. In the last
+
+
+resort, problems of intellect and will can be solved
+by intellect and will alone, and not by an immediate
+appeal to physical force. The essential question
+which the present world war is determining for
+humanity is that as to the part war is to play in the
+civilisation of the future. Is the social structure of
+peace to be periodically subjected to the inverted
+logic of war, or is it to be allowed to determine its
+own problems by means of its own logic?
+War is, of course, the result of a failure on the
+part of peace to solve its problems logically. War
+is, therefore, in the ultimate not an alternative social
+structure, but a confession of insufficiency and
+inadequacy in the social structure. One excellence
+of democracy, in the modern sense, is that it
+represents the first serious attempt of civilisation to
+discover and make explicit the social logic of peace.
+This is the real significance of the assertion that “ we
+arc fighting for democracy.” We are not fighting
+to maintain the logical excellence of political
+partyism or the sovereignty of unskill; we are
+contending for a principle which will enable society
+to determine its problems in a rational and peaceful
+manner. But although this is true in the abstract,
+yet in the concrete democracy pays little heed to the
+important problem of the social logic of peace. In
+practice, democracy, like the socialistic theories
+which influence it so profoundly, assumes that all
+authority derives from the State. This assumption,
+due in part to jurist conceptions of legal compulsion
+and in part to the fact that the principle, si pacem vis,
+para bcllitrn, is closely woven through the historic
+social texture —this assumption possesses no rele-
+vance to the ideal of an abiding world peace.
+Increased authority in the State, a League of
+
+
+Nations or States—this is the very condition of
+things we are struggling to destroy. Agreements
+between States, and especially if State-authority is
+everywhere extended, imply a statically conceived
+peace which inevitably gives way to increased mutual
+hostility as growth makes the bonds of peace
+irrelevant and irksome. Within the State society-
+moves restlessly in its political fetters; beyond the
+State other social cultures develop a desire to
+proselytise. This desire may in itself be admirable,
+but when the world is marked off by political
+boundary fences, the missionary spirit is compelled
+to ally itself with militarism. A real world peace
+can only become fact when the various societies of
+the world are really co-operating as one in the tasks
+of civilisation.
+Germany’s failure to perceive this is her funda-
+mental error. In Germany the State-authority is
+supreme; every individual, every social activity, is
+merely a subordinate function of the State. Even
+the social Democrats subscribe their names to this
+tyrannical and reactionary theory. Renner, leader
+of the Austrian-German Socialist party, begins a
+recent book (Marxismus, Kricg. nnd Internationale:
+Karl Rainer) by ridiculing the Marxist idea of an
+international working class movement. He holds
+that the era of industrial freedom from State inter-
+ference has passed; the era of State control of
+industry has begun. He believes that the political
+areas of the world are destined to become economic
+areas also—“ closed units internally and externally,
+having not only their own character, but also their
+own life, like organisms.” —(Times Lit. Supplement ,
+11/4/18.) Renner concludes that the ” class-war ”
+cannot, therefore, be stated generally and for ail
+
+
+communities, but must be expressed by each
+community according to the economic conditions
+which obtain locally. In the present context
+Renner’s variation of the “ class-war ” theory is
+unimportant; what is important is his conception of
+the trend of modern civilisation towards a society
+organised in separate States. These disparate
+States, differing in economic structure and tradition,
+imply a potential, if not an actual condition of
+warfare. For all its Socialism, Renner’s gospel of
+“ Kultur ” and the means by which enlightenment
+shall be spread, does not notably differ from the
+doctrines of German militarism.
+The future of civilisation, we have to realise, rests,
+therefore, with democracy, properly so-called, rather
+than with socialism. Is society to be autonomous
+and free or a dull mechanism controlled by a few
+intelligences? In the very heart of socialism we find
+reflected the uncertainty, the antithesis between
+tyranny and democracy. German socialism, in
+effect if not intention,, stands for State authority and
+war as a means of promoting culture; British
+socialism stands for an extended social autonomy
+and the State as a moral, rather than intellectual,
+instrument of the community. Between these two
+socialisms there yawns a gulf as wide as that which
+divides British democracy from German militarism.
+This war decides the future of the world. The issue
+lies between democracy and imperialist autocracy.
+This being so, it behoves democracy to set her
+house in order. Democratic ideals have never
+signified governmental administration of social and
+industrial activities, but freedom from such control.
+Democracy has never implied “ leagues ” between
+States, but co-operation between communities in the
+
+
+achievement of a common social purpose. States
+are national and geographical; society is not. War
+and strife will not cease until social co-operation has
+become an accomplished fact, both within the various
+political communities and beyond their borders.
+This condition and no other is the ideal for
+democracy. To turn aside after a reactionary gospel
+of State-control is to worship the false gods of
+Prussianism. Renner’s ideal of a society composed
+of units politically and economically self-sufficient is
+already “ out of date ” and irrelevant. Australia
+produces wool, meat, wheat and metals, not for
+herself, but for the world; the loss of her foreign
+markets would be nothing short of a calamity for
+Australia. This fact does not give Australians a
+right to “ complete self-determination ” —an ideal
+which, if wrongly applied, leads inevitably, like
+Renner’s social philosophy, to a modified form of
+Prussianism. The Australian Labour Party, at its
+Conference in Perth, June, 1918. has declared itself
+in favour of a “ foreign ” policy which, in conserving
+to Australia the right of self-determination, recog-
+nises the equal right of other communities to
+autonomy of a like kind. This declaration, adapted
+most probably from the social gospel of Bolshevik
+Russia, is, of course, justified as against a policy of
+imperialist aggression. If pushed to an extreme,
+however, it would permit a particular community to
+abandon the exercise of its social functions, and, in
+any case, would tend to bring about the precise
+condition of things which Renner predicts. If every
+community is to determine its own destiny without
+reference to the needs of other communities or of
+society as a whole—and this is the world-system
+implied—then the practical outcome will be a
+
+
+collection of uncoordinated ciyilsations, potentially
+if not actually at war with each other. For all its
+seeming liberality, the ideal of sporadic self-
+determination is reactionary and closely akin to
+militaristic imperialism.
+What, then, is the central thesis of democracy,
+properly so-called? This: that growth or develop-
+ment is a character of social life and not of the State.
+In so far as a State or government, exceeding its
+function of moral control, endeavours to direct and
+order social activities, it is a hindrance to social
+development. Even in a nominal democracy, undue
+concentration of social power in the political leader-
+ship means tyranny and retrogression. Truly
+democratic theory must maintain, first, the supremacy
+of the social will; and, second, must oppose itself,
+and, strongly, to all forms of governmental
+oppression. This thesis does not imply that
+democracies of the future will abandon the existing
+mechanism of government and administration.
+Clearer understanding of the meaning of government
+will enable the rulers of the State to distinguish
+between the task of moral criticism, which is their
+chief duty, and that of social and industrial direction,
+for which they are radically unfitted. The proper
+function of the democratic “ governor ” is to record
+the achievements of society in the form of law, to
+criticise existing social relationships and to forbid
+any contravention of established morality. The
+more serious ills which democracy suffers are due to
+attempts on the part of political leaders, to control
+and direct social and industrial undertakings. This
+attempt is as pernicious as militarism or the worse
+forms of capitalism; progress requires not merely the
+thinking of a few but also the collaboration in
+
+
+thought of many minds. Even in the case of those
+whose thinking is ineffective, the individual stand-
+point is often of the highest social value. If
+progress is not humane, it is Exponents of
+democracy have too often been blind to this
+important truth. The politician’s endeavour to
+‘‘ govern ” where he can neither control nor under-
+stand has imparted into politics problems wh'di
+cannot be solved by political methods, has thereby
+embittered partisan class-feeling and has blinded
+democracy to the fact that a nominal political
+freedom may serve to conceal a developing condition
+of economic servitude.
+Melbourne:
+Printed hy A. H. MASSINA * C<>.

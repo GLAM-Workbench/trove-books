@@ -1,0 +1,549 @@
+
+
+STATEMENT
+ON
+WIRELESS DIRECTION FINDING
+TO THE
+“KYEEMA” ENQUIRY
+BY
+T. H. LABY, F.R.S.
+MELBOURNE, 1938
+Printed by The Herald and Weekly Times Ltd.
+
+
+
+
+WIRELESS DIRECTION FINDING AND ITS
+RELATION TO THE LOSS OF THE “KYEEMA.”
+By T. H. LABY, F.R.S.
+STATEMENT MADE TO THE AIR ACCIDENTS
+INVESTIGATION COMMITTEE, ON NOVEMBER
+14th, 1938.
+I base my statement on the experience which has been
+gained, and the conclusions which have been reached during
+the last ten years in the investigation of wireless direction
+finding by myself and other physicists working in the Natural
+Philosophy Laboratory of the University of Melbourne.
+It is to be explained that in 1928 the Radio Research
+Board of Australia was established, and that its researches are
+carried out in the Universities of Sydney and Melbourne.
+The investigations in Melbourne have been concerned with
+atmospherics, and the methods used in the investigations
+have involved throughout the use of wireless direction find-
+ing. The direction finders used have been:
+(1) The cathode ray direction finder;
+(2) A recording direction finder;
+(3) A cathode ray oscillograph, which determines the
+distance of lightning flashes.
+These investigations have occupied the whole attention of
+several physicists. There have been two physicists and a
+mechanic giving full time, and from two to three physicists
+giving part of their time to the investigation.
+OBSERVATION STATIONS.—The observations have
+been made at:
+Melbourne; Toowoomba, Queensland;
+Mt. Stromlo Observatory, Carnegie Magnetic Observa-
+F.C.T.; tory, Wa'theroo, West Aus-
+Hobart, Tasmania; tralia.
+R.A.F. Aerodrome, Laverton;
+
+
+Thousands of observations have been taken visually and
+recorded, and hundreds of thousands of them have been auto-
+matically recorded. Here is a sheet of 24 hours. The obser-
+vations have extended during 24 hours over half the world’s
+surface, as is shown in this map. I mention these facts in
+Bearings observed from Canberra of regular sources of atmospheres.
+Thunderstorm areas shown shaded. [After Munro. Huxley and Higgs.]
+order that it may not be thought, as is otherwise likely, that
+the following statement is that of a theorist with no know-
+ledge or experience of the facts of wireless.
+PUBLICATIONS.—The conclusions reached in these in-
+vestigations have been published in Bulletins of the Radio
+Research Board and in English scientific journals. It is con-
+ceded by distinguished scientific authorities abroad that
+the Melbourne University researches have a leading position
+
+
+in the investigation of atmospherics. The French Govern-
+ment invited us last year to exhibit at the Paris Exhibition the
+direction finding equipment which is used in these researches.
+PROPOSITIONS FOR THE CONSIDERATION OF THE
+COURT OF ENQUIRY. —I submit for the consideration of
+the Court the following propositions;
+(1) In view of the progress which has been made in
+wireless direction finding, the type of direction finder in
+use at Essendon and at other aerodromes in Australia is
+obsolete for finding the bearing of high-speed aeroplanes;
+(2) That the D.F. at an aerodrome is all important to
+aerial navigation, particularly when the aerodrome is
+obscured by cloud.
+I state these propositions, not in any official capacity, but
+as a scientist, and one who has specialised in wireless direc-
+tion finding.
+ERRORS OF DIRECTION FINDING.—There has been
+a good deal of evidence given on direction finding to this
+enquiry. Certain statements in the evidence relating to the
+Bellini-Tosi and to the Adcock direction finders are not cor-
+rect. A correct understanding of these matters may be most
+relevant to the findings of this enquiry, and I presume the
+Court of Enquiry will desire such errors to be pointed out.
+Wireless direction finding (and its errors) is a branch of
+radio in which very few wireless engineers specialise, and
+there has been a tendency by all concerned to minimise these
+errors and ignore them. I will admit that has been done to
+some extent in the investigations of which I have charge. We
+have realised that the errors cannot be ignored. Similarly
+these errors are being ignored or minimised by those respon-
+sible for direction finding for aviation and with serious prac-
+tical consequences.
+It has been stated in evidence that no direction finding
+system has been devised which is not subject to error at sun-
+set, at night, and at sunrise. That is not correct. The Adcock
+method is free from night error as is any other method which
+uses as it does only vertically polarised *waves in obtaining a
+bearing. The Bellini-Tosi and other loop aerial direction
+finders are subject to night error, but the Adcock is not.
+* There is an exception to this statement. The direction of the source of a sky
+wave, which has been “laterally deflected” is not the true direction of the
+source. If all sources of error are to be eliminated in direction finding, only
+ground waves can be used in D.F. observations,
+
+
+The time taken to obtain a bearing with a Bellini-Tosi
+direction finder has been stated by various witnesses to be
+from a few seconds to 10 minutes. There are conditions
+under which it is impossible to obtain for considerable inter-
+vals of time any bearing with this D.F., as there is no mini-
+mum on the telephones. If there is serious interference due
+to atmospherics, or to a signal such as that caused by another
+aeroplane on the same wavelength or to the Police Station,
+or to 3AR, the operator at Essendon may have to wait till this
+interference ceases before he can get a minimum. There
+cannot be said, then, to be any definite time required to take
+a bearing with the Bellini-Tosi D.F. The minimum time is
+required when there is a well-defined minimum in the signal.
+I am aware that the Bellini-Tosi D.F. is still widely used,
+and I have read a newspaper report of the opinion of
+my distinguished friend, Dr. A. L. Green, that the criticisms
+of that direction finder which have been made at this enquiry
+are, in his opinion, not justified.
+Now I believe all the direction finding specialists who
+have taken part in the Melbourne University investigations
+are of the opinion that the use of a coil aerial at a MINIMUM
+setting as determined by a telephone (and that is done with
+both the Bellini-Tosi and Adcock type of D.F.’s) is an obso-
+lete practice technically which should not be continued.
+In view of these differences in expert opinion, and the im-
+portance of the questions at issue, I desire to state very care-
+fully and in detail the reasons which can be given in support
+of the conclusions I have stated.
+REQUIREMENTS OF WIRELESS DIRECTION FIND-
+ING FOR AVIATION.—The requirements of a wireless
+direction finder, which is to be used to find the bearing of an
+aeroplane with a speed of up to 200 miles per hour are:
+(1) that the time required to obtain a bearing should
+not exceed a few seconds;
+(2) the direction finder must be capable of being used
+at all times of the day or night;
+(3) it should be subject to a minimum of interference
+by atmospherics and by wireless signals;
+(4) the bearings found with it should be subject to a
+minimum error in angle.
+The actual performance of the Bellini-Tosi D.F. may be
+compared with these ideal requirements.
+
+
+DEFECTS OF THE BELLINI-TOSI D.F. Bellini and
+Tosi in 1908 made two important advances in directional
+wireless. The direction finder known by their name uses a
+coil aerial, and its errors have become known and understood
+since about 1920. Its defects for aviation direction finding
+are:
+1. Delay in Obtaining a Bearing. As we have seen, a
+delay of more than some seconds is the most which is per-
+missible for aviation, whereas actually there is a delay of
+varying duration. The pilot is not certain of obtaining his
+bearing immediately after he asks for it.
+2. Interference by Atmospherics and Signals. The D.F.
+officer at Essendon has described in evidence (P. 184) the
+interference with his observations which the Police Station,
+3AR, and planes calling on the 900 m wavelength cause.
+That due to the Police Station and 3AR could be reduced.
+Interference by another plane cannot, and it becomes much
+worse as the D.F. is turned to give a minimum signal. In-
+terference by atmospherics makes this minimum setting
+difficult or impossible. This is discussed later. Interfer-
+ence by snow and ice is mentioned by a pilot; it requires
+investigation.
+3. Errors of Bearing. Evidence to this Enquiry states
+that these errors are in all plus or minus 1 degree at 50 miles,
+and sometimes are 4to 5 degrees. Other evidence puts the
+error as much larger. A witness has stated that aero-
+planes have been given a bearing 180 degrees in error,
+that is, it was given one with the wrong sense. Pilots have
+stated how important it is to have correct bearings.
+The loss in October, 1936, of the “Monospar Croydon”
+when it was proceeding from Darwin to Koepang, and when
+it relied upon a bearing given from a Bellini-Tosi direction
+finder located at Darwin has been alleged to have been
+due to a large D.F. error. It is very important then that it
+should be understood what are the errors of bearing of this
+direction finder.
+
+
+AUTHORITY
+ASPECT TREATED
+Admiralty Hand Book of
+Bellini-Tosi and other aerials
+Wireless Telegraphy, 1931.
+for use in sea and air. Prac-
+tical and authoritative.
+H u n d, “High Frequency
+Mathematical theory of di-
+Systems.”
+rective aerials and their
+errors.
+Smith, Rose and Barfield
+Cause and elimination of night
+(Journ. Institute of Elec-
+errors. Observations of the
+trical Engineers, 1926).
+errors of coil aerials.
+Munro, Webster and Higgs.
+Errors of the Cathode Ray
+(Radio Research Board of
+Direction Finder Using Coil
+Australia Report No. 8,
+Aerials.
+1935.)
+Busignies (“Electrical Com-
+Night error of a Bellini-Tosi
+munication, Jan., 1938.”)
+and an Adcock Direction
+Finder are compared.
+As to some of the bearing errors of a coil aerial, all
+authorities are in agreement. The following authorities may
+be mentioned:
+(An important general reference is Watson Watt, Herd,
+Bainbridge, Bell: the Cathode Ray Oscillograph in Radio
+Research.)
+Bellini-Tosi bearing errors include:
+(1) Faulty adjustment of instrument.
+(2) Site error due to large metal structures, contour
+of ground, etc.
+(3) Error of sense, i.e., of 180 degrees in the bearing.
+(4) Aeroplane error.
+(5) Night error.
+It is necessary to explain the errors (3), (4), and (5)
+above.
+ERROR OF SENSE.—The bearings of a coil aerial do not
+distinguish N from S, E from W. All bearings obtained with
+a coil are subject to an “error of sense” (i.e., of 180 degrees).
+If the bearing is given as N, when it is actually S, this is
+
+
+euphoniously called “giving the reciprocal.” To remove this
+defect a vertical aerial is combined with the coil aerial and
+the combination can be adjusted to have no error of sense.
+There is a practice of providing an electrical key which
+disconnects the vertical aerial and puts it out of use. As the
+adjustment of the “sense device” requires considerable care
+and skill, its adjustment should be made as permanent as
+possible and every precaution should be taken to prevent
+bearings with the wrong sense being given. An aeroplane
+receiving such a bearing would not be informed that it had
+passed the aerodrome to which it was flying.
+AEROPLANE ERROR. This error arises when the
+trailing aerial of the aeroplane is deflected from the vertical
+plane, which passes through the aeroplane and the direction
+finder. The Bellini-Tosi D.F. is subject to this error, but the
+Adcock D. F. is not subject to it. The bearing of an aeroplane,
+which sends signals from a trailing aerial while circling round
+a coil aerial D.F. is at all times in error. This fact is import-
+ant, for it is usually overlooked when direction finders are
+tested for error by means of an aeroplane, which circles round
+the D.F.
+NIGHT ERROR.—At sunset, at night, and at sunrise, the
+Bellini-Tosi and other coil aerial direction finders are subject
+to night error. The D.F. may at times be unworkable.
+Busignies (see paper quoted) found between 7 p.m. and 8
+p.m. (after sunset) three times in one hour that a coil D.F.
+was unworkable, and he found errors of 10 degrees or more
+on five occasions in the hour. (His results are shown in Fig.
+15, P. 228 of his paper). He took simultaneous bearings dur-
+ing this hour with an Adcock aerial, and none of them were
+in error by more than plus or minus 1 degree. For an IN-
+COMING AEROPLANE an error of even 16 degrees possibly
+may not be serious (I should like to know the opinion of pilots),
+for in spite of such an error, if the incoming plane is given
+bearings at frequent intervals, it will certainly come to the
+aerodrome.
+The case of an OUTGOING AEROPLANE is entirely dif-
+ferent. The actual instance of the “Monospar Croydon,” lost
+in October, 1936, when outward bound from Darwin, is worth
+considering. I have been unable to obtain in the Melbourne
+Public Library the official report on this accident. I shall
+give an account from memory which can be corrected as to
+the facts when the official report can be examined.
+
+
+Time
+Time
+from
+leaving
+Darwin
+Changes of Course, etc.
+5.12 a.m.
+25 min.
+2 degrees to south.
+5.32 a.m.
+45 min.
+5 degrees to south.
+5.52 a.m.
+65 min.
+5 degrees to south.
+6.20 a.m.
+93 min.
+last D.F. bearing given just be-
+fore sunrise, interference by at-
+mospherics.
+7.13 a.m.
+9.15 a.m.
+146 min.
+Monospar last heard at Darwin
+D.F. station.
+Monospar lands on reef.
+[The Report of the Air Accidents Investigation Committee,
+dated 15/12/1936, states:
+The “Monospar Croydon” departed from Darwin at 4.47
+a.m. on 7th October, 1936, for Koepang. The navigator of
+the Monospar was aware that the aeroplane’s magnetic compass
+was in error (but he did not know by what amount) and he
+asked for bearings from the Bellini-Tosi direction finder
+located at Darwin. The following table gives the changes of
+course which the pilot made to conform to these D.F. bearings:
+The Bellini-Tosi bearings were given at night and just
+before sunrise, when they are subject to error. The bearing
+relative to Darwin of Koepang is 284 degrees, but the bearing
+of the reef upon which the Monospar landed (and was lost) is
+not stated in the Report.
+The error of the final position of the Monospar was appar-
+ently about 20 degrees. The Air Accidents Investigation
+Committee found that the pilot of the Monospar should not
+have relied for navigation at sunrise upon the D.F. at Darwin,
+and that the personnel of the D.F. station should not have
+consented to give bearings.
+The comment is to be made that a direction finder which
+is set by listening for a minimum sound in a telephone
+is rendered unusable by atmospheric interference. Such in-
+tereference is very frequent and intense at Darwin, as the sea
+and islands to the north and the land to west and south is a
+region of severe and frequent thunderstorm.
+The above, written after the writer had given evidence, is in
+essentials the same as his evidence.]
+
+
+SUGGESTIONS FOR THE IMPROVEMENT OF DIREC-
+TION FINDING FOR AVIATION.—These suggestions are:
+(1) Reduce the time required to give a bearing.
+(2) Eliminate night error (and “aeroplane” error) in
+bearings.
+(3) Reduce signal and atmospheric interference.
+(4) Improve the sense device on direction finders.
+How it would be possible to effect these improvements is
+briefly indicated below.
+(1) and (3) DELAY IN GIVING BEARINGS; INTER-
+FERENCE BY SIGNALS AND ATMOSPHERICS.—The use
+of a cathode ray direction finder would reduce the delay in
+giving a bearing and enable the operator to distinguish be-
+tween the direction of the signal from the aeroplane whose
+direction he wishes to determine, and interference.
+If a C.R.D.F. existed which could use the 900 metre wave-
+length now used by aeroplanes, and use at the same time an
+Adcock aerial, then it would be a great improvement on any
+existing direction finder. There are two difficulties in doing
+this. The first is an Adcock aerial for 900 metres is a large
+and expensive structure, nevertheless it is in commercial use
+in Europe (see the paper by Busignies mentioned above).
+(The Adcock aerial is used for aviation in South Africa, but
+Ido not know with what wavelength). The second difficulty
+is to combine the cathode ray direction finder with an Adcock
+aerial. While it has been tried by the investigators of the
+British Radio Research Board, it is not a commercial direc-
+tion finder, and possibly cannot be made one. (This matter
+is discussed further later).
+The first of these difficulties is discussed later.
+Even though the C.R.D.F. is not commercially available,
+there is every reason to believe that a cathode ray tube could
+replace the telephone now used in setting the direction finder,
+and then it could be set at a maximum instead of a minimum.
+The time required to take a reading of the D.F. could be re-
+duced in this way to a few seconds. (An experiment with a
+cathode ray tube was demonstrated to the committee to show
+that (1) reading the direction is like reading the hand of a
+clock. It can be read at any instant. (2) the distance of the
+signalling aeroplane can be roughly estimated. (3) whether
+
+
+the aeroplane is approaching or receding determined. Using
+a cathode ray tube as indicator and the signal at a maximum
+would mean not only less delay in taking bearings, but also
+the possibility of—
+(1) Discriminating between the desired signal, and in-
+terfering signals (provided they are of different wave-
+length) , and atmospherics;
+(2) Roughly estimating the distance of an aeroplane
+from the direction finder.
+NIGHT ERROR USE OF ADCOCK AERIAL. —-The use
+of the Adcock aerial seems unavoidable if night error (and
+aeroplane error) is to be eliminated. As already stated the
+objection to this aerial is its high cost. Mr Wiggins has men-
+tioned that Pan-American Airways use a wavelength of 200
+metres in the tropics for direction finding. The use of such a
+wavelength has two advantages, namely, it reduces interfer-
+ence by atmospherics which is serious in northern Australia,
+and it reduces the cost of the Adcock aerial. (An Adcock
+aerial for 900 metres not including anything but the aerial
+would cost, I would estimate, possibly ten times one for a 200
+metre wave). The elimination of night error would enable
+bearings correct to a few degrees of angle to be given at any
+time during the day or night, and it would increase the con-
+fidence in reliability of direction finders in all those using
+them, including both pilots and wireless and other officers at
+the aerodrome.
+ERROR OF SENSE. How this uncertainty could be
+eliminated need not be discussed. The problem is not one
+without technical difficulties, but for aviation bearings with
+an error of 180 degrees should not be tolerated. Such an
+error may involve great risk in aerial navigation,
+[When an aerodrome is obscured by low cloud or fog it is
+most important, as the loss of the Kyeema shows, for a pilot
+making for that aerodrome to know at once if he overshoots it.
+28/11/38.]
+OTHER PROBLEMS.—I have not discussed.
+(1) The use of two D.F.’s to locate aeroplanes.
+(2) Thunderstorm warnings.
+(3) Relation of radio research to civil and military
+aviation.
+
+
+IS THE ADCOCK AERIAL C.R.D.F. A COMMERCIAL
+INSTRUMENT?
+The writer was recalled by Dr. Coppel, counsel for the Civil
+Aviation Board. His questions were directed to show that the
+Adcock aerial cathode ray direction finder is a commercial
+direction finder, which the writer would have known if he
+had made adequate enquiries. I replied that I had made full
+enquiries in 1936 at the British Radio Research Board in
+London as to their investigations including those relating to
+direction finding.
+Mr Watson Watt, who was directing these investigations,
+had shown me their research station at Slough, and he, and
+others discussed their investigations with me.
+As a result of these discussions I was invited by the Royal
+Meteorological Society to open before it a discussion on
+“Atmospherics.” Investigators of the British R.R.B. (Mr
+Watson Watt and Mr Lutkin) contributed to it, and although
+Sir George Simpson, F.R.S., criticised, as I did, errors of direc-
+tion finding in atmospheric investigations, no mention of an
+Adcock aerial C.R.D.F. was made in this discussion.
+Further, I said in answer to Dr. Coppel, those associated
+with me in the Australian Radio Research Board investigations
+did not know of an Adcock aerial C.R.D.F. These included
+Mr R. W. Boswell, M.Sc., who recently returned from Eng-
+land, where he had been engaged on radio-research and had
+been in touch with the British R.R.B.
+[We knew of the medium wave length coil aerial C.R.D.F.
+designed by the investigators of the British Board. It is
+a development of their atmospheric C.R.D.F., the one used
+in the Australian atmospheric investigations.
+Enquiries relating to atmospherics and direction finding,
+which I made in 1936 at the New York Office of the U.S.
+Weather Bureau, and at Pan American Airways, and letters
+from scientists and officials in France, the United States, Can-
+ada, and South Africa, mentioned only the original coil aerial
+C.R.D.F. I felt justified on this evidence in questioning that
+an Adcock aerial C.R.D.F. was in commercial use. —28/11/38.]
+The writer, in a written statement to the Air Accidents
+Committee pointed out that Dr. Green, who is a leading
+authority on directional aerials evidently did not know when
+he gave evidence of the existence of an effective Adcock aerial
+C.R.D.F. Further, Squadron-Leader Wiggins could not have
+
+
+known of it, as will be seen from his reply to a question by Mr.
+Gamble (see evidence, p. 236): Mr Gamble: “What was the
+position in Pan American Airways system at the hours of
+sunrise and sunset, at night time; were they subject to inter-
+ference or not?”—Squadron-Leader Wiggins; “I prefer to
+answer that in another way—that no D.F. system has yet been
+devised which is not subject to error during the hours of
+sunset, sunrise and the period of darkness.” As the only
+reason which justifies the use of the Adcock aerial (which is
+much more complicated and expensive than a coil aerial) is its
+freedom from night error, the writer inferred that this witness
+did not know of the existence of an Adcock C.R.D.F.
+Barfield and Ross (Journ. Inst. Elec., Eng., Nov., 1937)
+describe an Adcock D.F., but it is not a cathode ray one.
+Now Barfield is one of the most experienced users of the
+C.R.D.F., and one of the investigators of the British R.R.B.
+Why did he not use a cathode ray indicator? The writer
+stated that there was a 1938 paper by the British R.R.B. work-
+ers.
+The writer stated that it was his considered opinion, based
+on 10 years’ knowledge of the coil aerial C.R.D.F., that before
+it is concluded that an Adcock aerial C.R.D.F. is suitable for
+commercial use and before 17 of these direction finders are
+purchased for use in aerial navigation, the direction finder in
+question should be subject to careful scientific examination.
+A short-wave Adcock C.R.D.F. should be subject to specially
+complete tests as to its reliability and freedom from error.
+The writer then explained in as non-technical a manner as he
+was able the reasons for his scepticism.
+[These reasons are not given here, for the questions at
+issue, namely, the reliability, the difficulties of operating, and
+the errors of an Adcock aerial D.F. are in part brought out by
+some very recently published papers.
+The staff of British Radio Research Station describe a
+short-wave cathode ray direction finding receiver in the “Wire-
+less Engineer” of August, 1938. This is for use over the
+range of wave lengths 30 to 70 metre. Under “performance”
+the paper says “the receiver has been tried out on the short-
+wave Adcock aerial system in use at Slough, and on a some-
+what smaller ‘elevated H’ type of Adcock. On the latter
+system, satisfactory bearings were obtained with pulse trans-
+missions on a 50 metre wavelength from an aircraft flying
+between Cologne and London.”
+
+
+No doubt this is the D.F. which is to be purchased by the
+Civil Aviation Board. I claim that the above extract is fur-
+ther evidence that its reliability when used under adverse
+climatic conditions, and the skill and experience required of
+those operating it has not been tested. Thus the further in-
+formation contained in this paper strengthens the evidence
+that the short-wave Adcock C.R.D.F. is not an instrument
+which has yet passed the test of successful commercial oper-
+ation. Nor has it been proved to possess that degree of
+continuous reliability and freedom from error necessary if it is
+to be safe for use in aerial navigation.
+Our experience with the long-wave coil aerial C.R.D.F.
+shows that considerable wireless experience and knowledge
+is required to operate it.
+A question of great importance is: What wave length
+should be used in direction finding for aerial navigation? At
+present aeroplanes in Australia communicate on a 900 metre
+wave length. A change in wave length for direction finding
+will mean either scrapping this equipment or adding a short-
+wave transmitter to it. The advantage of the 900 metre wave
+length is that the ground wave is transmitted over consider-
+able distances, and when received on an Adcock aerial is
+free from night error of direction. The disadvantage is that
+the aerial is very large and costly.
+A medium wave length (e.g. 200 metre) is more attenuated
+along the ground, and so it will be accurate for D.F. over
+shorter distances. Ultra short waves (e.g., 6to 10 metre)
+have large D.F. errors, even at 20 miles.—24/11/38.]
+
+

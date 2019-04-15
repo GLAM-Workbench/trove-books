@@ -1,0 +1,1363 @@
+
+
+Reprint from
+Queensland Geographical Journal.
+(New Series.)
+VOL. XLVIII.
+Long Range
+Weather Forecasting
+INIGO JONES,
+F.R.A.S., F.R. Met. Soc.,
+M.A.M., Met. Soc.
+
+
+Long Range Weather Forecasting.
+(Papers read to the Royal Geographical Society of Australasia (Queens-
+land) by Inigo Jones, Director of Crohamhurst Observatory and Bureau
+of Seasonal Forecasting under the Land Administration Board, and Re-
+search Director of the Long Range Weather Forecasting Trust of Sydney).
+This Society has been addressed on this subject on previous occasions
+by the late H. C. Russell, of Sydney, by my late friend E. C. Barton, by
+my late revered chief, Clement Lindley Wragge, and by Dr. J. P. Thomson.
+Mr. INIGO JONES, F.R.A.S., F.R. Met. Soc., M. A.M, Met., Soc., Director Crohamhurst Observatory.
+The great importance of long range weather forecasting is quite
+generally admitted, and is the most important aim of modern meteorology,
+although so far very little progress has been made in its solution owing to
+the very difficult nature of the problem.
+Its importance arises from the fact that it would be of the highest
+service to agricultural and pastoral pursuits on whose prosperity the
+health and happiness of mankind depend.
+In the prosecution of the research at Crohamhurst, grateful men-
+tion must be made of the help given by the Queensland Government, the
+Council of Agriculture and the Press in all three eastern States by means
+of which a free service has been possible to primary producers who large-
+ly avail themselves of the forecasts and general advice given from the
+Observatory. In the State of New South Wales the Graziers’ Association
+and the great pastoral companies, notably Dalgety’s, have stood by the
+work and have now formed the Long Range Weather Forecasting Trust
+in Sydney, thus finally ensuring the carrying on of the work until a final
+demonstration is obtained, and this result, I feel sure, will be positive.
+Overseas, the Carnegie and Smithsonian Institutions have been very
+helpful, and with the International Astronomical Union and the Royal Ob-
+servatory at Greenwich, have provided indispensable masses of data. The
+
+
+Commonwealth Weather Bureau has for many years supplied all the
+weather maps and any other data requested, with unfailing courtesy. The
+Divisional offices, too, have been very helpful, and that of Brisbane es-
+pecially so, through the kindness of Mr. Richards and Mr. Hartshorn,
+while Mr. Mares, of the Sydney office, has always shown me very great
+courtesy and assistance.
+In ancient times it was regarded as sacriligious to attempt to divine
+the future weather, but nevertheless, astrologers and diviners constantly
+attempted it, and this is the case to the present day, but it was not till
+the period of the Renaissance that any scientific' processes began to be
+directed towards it.
+Bacon, in his “Novum Organum,” mentions a cycle called the Prime,
+which he heard of in the Low Countries, whereby a repetition of climatic
+characters occurred about every thirty-five years, and advised its study.
+This advice was, unfortunately, disregarded. When Galileo discovered
+the sunspots he thought that they might be used for the purpose of dis-
+covering the causes of the weather, but again no encouragement was
+given to his suggestions, and I firmly believe that had those two sugges-
+tions then been followed up, the problem would be solved, whereas we
+are now just on the threshold of the enquiry. Herschel, the elder, sought
+to connect rainfall, famines, and the price of wheat with the changes in
+the sunspots, and later Norman Lockyer endeavoured to discover a cycle
+in the rainfalls in India connected with the fluctuations of the sunspots.
+The moon has also been tried as a possible factor, and work on this
+phase was done by my late correspondent, Janvrin Browne, of Washing-
+ton, whose work is now being continued by Dr. Helm Clayton, of Canton,
+Massachusettes, formerly head of the Argentina Weather Bureau.
+He also seeks to incorporate the work of Sir Gilbert Walker, once
+head of the Indian Weather Service, which deals with co-relations be-
+tween various factors, and is now being fully tested in India by attempt-
+ing through it to predict the monsoonal rains. Mr. E. T. Quayle, of Mel-
+bourne, has done a great deal of similar work for Australia, and this has
+been published by the Weather Bureau in Melbourne.
+The only serious attempts to issue seasonal forecasts in Australia
+have been first by Charles Egeson, of Sydney Weather Office, in 1891, but
+his work was not favoured by the then Government, although its result
+was very close to truth, and he died shortly afterwards. The other was
+by my late chief, Clement Wragge, who was instructed by the P.M.G.,
+Theodore Unmack, to issue a forecast for the coming year. This was
+done by Unmack because he had seen a reference to the cycle discovered
+by Bruckner in some European journals.
+Bruckner had been instructed to examine the changes in the levels
+of the Caspian Sea, and from this was lead to examine all available weather
+records of Europe, wherein he found an undoubted cyclical repetition at
+about thirty-five years, and in this can be recognised the Prime, whose
+study was advocated by Bacon about three hundred years before. Wragge
+combined this cycle with the sunspot period, and from these issued a fore-
+cast up to 1932, which proved correct in its general trend, but leaving a
+problem of studying and accounting for the anomalies, and in so doing
+to discover their meaning and thus to add new factors of importance.
+My own studies began with Mr. Wragge in 1887, in consequence of
+which I have now available a daily record covering almost fifty-six years.
+By 1923 the cyclical repeat began to be quite apparent, and the first fore-
+cast was issued, as there was then a dry period in progress. Its termina-
+tion was estimated and published under the auspices of the Council of
+Agriculture and the Press. This came very close to reality and attracted
+a great deal of attention in agricultural and pastoral circles, and from
+then on my whole time has been devoted to the research.
+
+
+Mr. Travis Rimmer, of the University of Queensland, devoted softie
+time to the application of the Gilbert Walker system to Queensland, but
+as he died very soon afterwards, no results have been published.
+Other investigators are the Scripps Institute of La Jolla, in Cali-
+fornia, which bases its work on the movements of great masses of oceanic
+waters at different temperatures. Dr. C. G. Abbot believes that changes
+in the solar constant of radiation form the clue to climatic changes but
+recently great controversies have raged round this idea, and with the
+refinements of the instruments, the range of values has been greatly re-
+duced. Dr. Baur, of Bad Homburg, was giving four-day forecasts based
+on a system similar to that of Sir Gilbert Walker.
+At present the workers in the field are very numerous, and there are
+a large number who correspond with Crohamhurst Observatory. Among
+these may be mentioned Lord Dunboyne, who bases his estimates on prev-
+iously observed similar sequences, Sir Gilbert Walker, Professor Henri
+Memery, of Talence Observatory, Dr. Baur, of Bad Homburg, Fritz Bela
+Groissmayr, of Passau (correlations), The Abbe Gabriel, of Caen, in Nor-
+mandy (lunar control), Dr. Douglass, of Tuscon (Tree Rings), Profes-
+sor Ellsworth Huntington, of Yale, the author of the book “Earth and
+Sun,” Mr. Halbert Gillette, of Chicago, Dr. Savur, of Colaba Observatory,
+Dr. Brooks, of Blue Hill Observatory, and M. Gentil Tippenhauer, of
+Haiti, who has independently announced a theory almost precisely identical
+with my own.
+Up to 1923 the paucity of practical results and the importance of a
+foreknowledge, as revealed to me by my work as a pioneer at Croham-
+hurst, induced me to turn my full attention to it, although with so many
+people with so much better and larger outfits, it might easily be deemed
+an act of supererrogation for me to have dared to enter the field at all.
+The way in which this came to pass was that after a year of observations
+while still at school, Mr. Wragge wished me to enter his office, which
+was done in 1888. In 1891, following a change in the affairs of my
+father’s family, he decided to relinquish his profession and take up agri-
+culture. In searching for a farm he was, by a very curious accident, told
+about the land which he soon bought and called “Crohamhurst,” where I
+joined him in 1892, and have lived there ever since, and brought there
+the instruments which I had used in Brisbane, consisting of a telescope
+and a meteorological outfit, and also armed with the knowledge of the
+plan which Mr. Wragge had for the solution of the problem of seasonal
+forecasting. At the end of four months the record fainfall of Australia
+was obtained, but at that time the arduous nature of pioneering prevented
+any investigation of such an important event, and also the then difficult
+nature of the district operated against such being undertaken, but it is at
+this point where one of the important geographical features of the work
+comes in through the extraordinary character of the Stanley River at
+Crohamhurst. The final clues were only obtained when the observatory
+was built in 1935, and these showed the remarkable bearing of Croham-
+hurst on Australian Meteorology. The experiences of the great drought
+of 1902 and later those of 1915 and 1919 showed very forcibly the great
+value that foreknowledge of the season would be so that when, in 1923
+I had in my own observations, a demonstration of the Bruckner cycle,
+there was every urge to go deeply into the question. It was soon apparent
+that the mass of material could not be handled in a private house, and
+the building of an observatory and computing station for the purpose was
+envisaged. From 1927 to 1935 I lived in Brisbane, organising the build-
+ing and sustenance of the new observatory.
+Meanwhile, the observations at Crohamhurst were not neglected, so
+that the record is unbroken, and the Elements for fifty years have lately
+been published by the Brisbane Trust. Finally, the Queensland Govern-
+ment proclaimed the site of the Observatory a Reserve for scientific pur-
+poses, and Messrs. M. S. Herring and P. C. Macnish were appointed
+
+
+Trustees. The Queensland Government has granted a subsidy to enable
+the research to proceed. This was done at first under the auspices of the
+Council of Agriculture, but after the observatory was built the work was
+attached to the Department of Irrigation.
+In 1930 a paper was read to the Australian Association for the Ad-
+vancement of Science in Brisbane. In 1931 a former president of this
+Society, His Grace Archbishop Duhig, did me the honour to preside over
+the annual meeting of the Queensland Astronomical Society, when the
+matter was brought up to that time, and in 1932 I again addressed the
+Science Congress in Sydney. The title of these papers were “Seasonal
+Forecasting” and “Meteorology as a Branch of Astronomy.”
+I did not attend the New Zealand meeting, but took a paper to Can-
+berra in January, 1939, bringing the matter up to date, but a good deal
+of rancour being displayed on that occasion, I later went to Sydney where,
+through the courtesy of Mr. Giblin, the General Manager of Dalgety’s, I
+was able to meet the representatives of the graziers and farmers, and
+put the needs of the case to them, when they agreed to form a Trust for
+the purpose of fully testing mine and any other theories that might be put
+forward. It is realised by them that some years must elapse ere the final
+proof or otherwise can be obtained.
+One of my overseas correspondents, Mr. Halbert P. Gillette, of Chi-
+cago, in a paper read before the Pennsylvania Water Works Association
+in October, 1940, said, “The ultimate goal of meteorology is accurate long
+range forecasting. To be of the greatest economic value, such forecasting
+must relate to rainfall decades ahead, for in many cases water supply
+systems are designed to meet the needs not only of the present, but of the
+next generation.
+“To many people it may seem visionary even to discuss ways of at-
+taining such a goal, because after a century of research, fore-
+casts by Government weather bureaux throughout the world are usually
+limited to a few days in advance. But to reason that a scientific goal is
+not to be attained in the near future because it has defied attainment in
+the past is neither logical nor does it show acquaintance with the history
+of scientific progress. Again and again difficulties that seemed insurmount-
+able have been suddenly overcome by some new attack. Often the suc-
+cessful attack has had less of novelty than of energy in its prosecution.
+Pessimism was never the parent of any discovery. No one has ever sug-
+gested any method of very long range forecasting except by the aid of
+cycles.
+“There are so-called correlation methods of forecasting a few months
+in advance; and such partial successes as have been attained seem to
+me to be due either to cycles of whose existence the forecaster was not
+aware or to opposed seasonal conditions six months apart.
+“An example of this kind of forecasting is the English folklore that
+a moist summer is often followed by a severe winter.
+“There is an abundance of literature on weather cycles, little of which
+goes further back than Schwabe’s announcement in 1842 that he had dis-
+covered a cycle of about ten years between maxima ....
+“Much of the literature on cycles is a rehash. The number of cycle
+researchers has been surprisingly few, and of these few, only a very few
+have extensively investigated cycles longer than about 35 years. Yet it
+is the longer cycles that have been responsible for climatic changes such
+as have produced the ‘dust bowl’ conditions and serious droughts in many
+regions during the last decade or two.
+“Man-kept records of weather seldom go back more than about a cen-
+tury, and since most cycle researchers have only that sort of data, they
+
+
+have seldom attempted to find cycles longer than about a third to half a
+century. Nor were they very successful in finding the exact length of even
+the short cycles that they discovered.
+“What was worse, these cycles seemed to lack stability, and proved
+valueless for forecasting purposes because there was no way of telling
+when ‘the two year cycle,’ for example, would either cease to display it-
+self or would invert its phase, that is, ‘cause a dry spell when a wet spell
+was due or the converse.’ ” I quote Mr. Gillette at this length because quite
+independently he has arrived at the same conclusion as has been reached
+at Crohamhurst, where there have been added to the 35-year cycle of
+Bruckner, cycles of 59, 71, 84, 107, and 165 years, with a possible cycle
+of 330 years which has been located by many independent workers also,
+but which obviously cannot be dealt with for a long time yet.
+We may then turn to another independent worker who was brought
+to my notice by Professor Ellsworth Huntington, of Yale (another friend
+whom I have not yet met). This is the late M. Gentil Tippenhauer, of
+Haiti, who, in a paper published in 1934, stated, “My theory culminates
+in the newly discovered law which says, ‘whenever, under the supposition
+that the cosmic radiation is constant and permeates the interplanetary
+space, the planets return simultaneously together to the same helio and
+geocentric longitudes under the same three positions of the moon;
+the same weather conditions reappear at the same locality.’ This is (ex-
+cepting that I have further simplified the problem by omitting the moon)
+precisely my extension of Mr. Wragge’s own work. I might also add that
+until his death he continued to correspond with Crohamhurst, as his son
+and successor did up to the time of the war.”
+In his paper he goes on to say, “And now I feel justified in announc-
+ing to the world that the exact astronomical precalculation of the coming
+trend of the weather for months and years in advance, day by day, and
+for any station on our globe, is in principle a solved problem to-day.”
+Two further remarkable independent confirmations of the work at
+Crohamhurst have been received. One from Dr. Karl Jansky, of the Bell
+Telephone Laboratories, confirming the supposed magnetic effect of Jupiter
+through wireless research, and again from Captain Staples, author of that
+remarkable book, “Cosmic Machinery,” and in reply to comments upon it
+sent from Crohamhurst, he wrote after discussing my Canberra paper at
+very great length, “I now come to the point for which I wish particularly
+to thank you. I suppose every worker on sunspot periodicities has been
+attracted by the Jovian Period. Hitherto I have been inclined to discount
+this on gravitational or electro magnetic grounds, as the influence of
+Jupiter’s field appeared to be too small to produce the very considerable
+differences between sunspot max. and min. The point of connecting this
+influence with heliocentric longitude had escaped me .... I now see
+that the passage of Jupiter across the heliocentric longitude may influence
+the solar field very considerably and that the passage of the other planets
+would have proportional effects. This poses a new ‘riddle of the universe,’
+that one can now actively attack and I shall always be interested in any-
+thing you may add to the subject.”
+In his covering letter he also writes: “ . . I find we have travelled
+on parallel paths for a considerable time. I have read your paper, not
+only with interest, but with direct advantage for, as you will see in the
+attached remarks, you have given me the key to a problem that previously
+eluded me.”
+THE NATURE OF THE RESEARCH.
+In order to obtain a correct idea of the research which is being at-
+tempted at Crohamhurst Observatory, it is necessary to get a view of the
+conception of the universe as held there, and to do this it is necessary for
+a time to suspend previous ideas on the subject.
+
+
+The universe is regarded as an electro-magnetic entity (See note t
+at the end of Lecture) through which eternally circulates the minute pro-
+jectile known to us as light which is, however, only a small proportion of
+the whole mass. This mass is imperishable in energy and amount, but is
+capable of going through a series of conversions from one form of energy
+to another, but in this process nothing is lost.
+The nature of these projectiles is very little understood, but it is
+fairly clear that in their interstellar progress they possess what may be
+termed a neutral property, and that in this passage light is not light, nor
+heat heat, and so on, but have these properties restored to them when
+they re-enter a suitable environment.
+In this incomprehensible milieu our solar system with the earth and
+its host of planets, is situated and travels through it at an enormous speed,
+which is quite ineffective to our normal consciousness. This sublime fact
+has been built up through ages of unhappy suffering by the martyrs of
+science, and on it the whole research rests. Having through practical ex-
+perience had the importance of long range forecasting deeply impressed
+on me, the work I did under Mr. Wragge began to mature, and an ex-
+amination was made of all the attempts at long range forecasting to see
+what they offered and what factor they had perhaps neglected, as owing
+to their lack of success it was clear that such a factor must exist. It was
+then seen that this important fact of the fundamental nature of the uni-
+verse had been entirely overlooked. A set of trial positions was at once
+worked out, and in this Dr. Baldwin, of Melbourne University, came to
+my assistance, and it was at once seen that the results were fully positive
+and a message was despatched to Brisbane to say that the problem of long
+range weather forecasting was solved in general if assistance could be
+given to work it out in detail. Working on similar methods, my corres-
+pondent, M. Gentil Tippenhauer, made the same announcement very soon
+afterwards, but quite independently and without any knowledge of my
+work. My life long friend, Mr. J. D. Story, then put me in touch with the
+late Professor Priestley, who was much impressed by the brochure which
+was placed in his hands. He, however, reported that it would take three
+hundred years to obtain the proofs. Whereupon I advised my friends that
+work must begin at once, as in such circumstances there was no further
+time to lose, and this was accordingly done. A committee was formed
+at the instance of the lates James Allan, and ultimately the Observatory
+was built and His Excellency Sir Leslie Wilson, did me the honour to de-
+clare it open on 13th August, 1935.
+The hypothesis on which the work is based states that when the
+planets again occupy the same heliocentric position that the same weather
+conditions will be experienced subject, of course, to any modifications pro-
+duced by volcanic or even human agency in the shape of erosion, erection
+of water supply dams, removal of forests, etc. There thus arises a series
+of cycles which are decided in the following manner: The sun, which is a
+vast body existing in a state of incandescence (a condition which is out-
+side any experience on earth) remains in that state eternally, with just a
+slight fluctuation constituiting a tide of about eleven or twelve years’ dura-
+tion and which is indicated in a very easily perceptible way by the sun-
+spots.
+The identity of this period with that of the planet Jupiter has long
+attracted attention, and various reasons for it were advanced, none of
+which were at all convincing, and attached to this was the important de-
+fect in the cyclical theories that there was no method of establishing a
+datum point. Birkeland’s important experiment with the electrified globes
+subsequently magnetised, produced an effect so exactly similar to the
+sunspots that reasoning was applied to it and it was postulated that if
+light was corpuscular, then as the sun moved through space attended by
+the cohort of the planets, each of which was a powerful magnetic field,
+that as each one passed across the heliocentric longitude of the sun’s ad-
+vance through space, its magnetic field acting directly on the corpuscular
+
+
+matter would so deflect it that the sun would for a time receive a very
+small supply, and consequently its energy, which was always being re-
+duced by excessive radiation, amounting to trillions of tons per day, would
+show a marked effect. The positions worked out by Dr. Baldwin were
+then applied and it was found that the assumption was correct at the
+time and thus the required datum point was established. This was then
+applied to the weather records, and a general coincidence was found there
+also. It was also seen that associated with each passage of Jupiter there
+occurred a major drought in eastern Australia, a position which was put
+to the test by predicting a major drought associated with the passage in
+the end of 1936 and this again was confirmed. There was, however, found
+to be great differences in the intensities of these major droughts, and
+these again were found to be due to the presence of another major planet
+besides Jupiter. Saturn was responsible for the great irregularities in
+1865-70, and these were repeated when the same combination took place
+in 1924-29, while in the great drought of 1902 the deciding factor, after
+Jupiter and Saturn, was the passage of Uranus’s magnetic field as well.
+The data for the passage of the four major planets in 1811, 1818 and
+1820, showed the great effect to be expected, and in 1815 Europe had no
+summer. This, however, does not occur again till 1984-1988, and owing
+to the length of our Australian data, cannot begin to be tested till 1953
+165 years after the “Landing.” As the period of Uranus almost evenly div-
+ides the period of Neptune, it is regarded as possibly a very important
+cycle, and has just now begun to have enough data from 84 years ago to
+test it also, and it is giving some very marked positive results.
+As there are certain anomalies in working out the cycle discovered
+by Bruckner, it was seen that these further cycles, due to the other major
+planets, would probably account for them, and it was also realised that
+possibly the sunspot action might be another important and hitherto neg-
+lected factor. Here the lack of observations made it necessary to begin
+almost ab initio. Regular observations were only begun in 1873, and not
+till the co-operating observatories were made use of in 1884 was there a
+continuous set of observations, so that in Mr. Wragge’s day there was not
+sufficient sunspot observations to cover a single short cycle, and even now
+only enough for two, the Bruckner, and that of Saturn. A close study
+was made of the possible immediate connections between earth and sun
+and in this Ellsworth Huntington’s book of that name was most useful. The
+connection between the character of terrestrial cyclones and sunspots was
+clear both in their structure and relative positions. The clear connections
+between sunspots and magnetic storms and the general magnetic hori-
+zontal force, the aurora, the relative growths of trees, frequency of
+thunderstorms, and even with such things as the rate of suicides and
+marriages, are all quite definitely recorded, and here Professor de Lury,
+of the Dominion Observatory, Ottawa, and Dr. Stetson, of the Massa-
+chusetts Institute of Technology, have made important contributions con-
+firming the position in general terms. By his experiments, Zeeman has
+shown that the sunspots are the main seats of the sun’s magnetic force,
+and this is confirmed by the resultant magnetic storms on the earth, re-
+cords of which arrive regularly from Mount Wilson Observatory, in Cali-
+fornia.
+Dobson, by his discovery of ozone in the upper air and the effects
+the sunspots have upon it, has made it clear that the sunspots are the
+media of transmission of the special effects from the sun to the earth
+and has thereby simplified the problem immensely, as the sunspots are
+easily observed, whereas the other solar effects require very elaborate
+and costly apparatus.
+Up to about 1920, very little work had been done on the connection
+between earth and sun, and this was largely due to the failure of the
+previous attempts to get any satisfactory results, and it was even gen-
+erally stated that there was no connection between the sunspots and the
+
+
+weather as had been erroneously claimed. However, there still remain-
+ed in the background of thought the idea that there must be some con-
+nection, and in 1923 Professor Ellsworth Huntington, of Yale, published
+his book “Earth and Sun,” which came into my hands a year later, and of
+which a very close study was made, and this led to the advance in the
+work begun by Mr. Wragge, which I hope will lead to the final solution of
+the problem of long range forecasting, but it remained to add something
+to the matter compiled by Huntington. This was to find a datum point
+for the cycles, and the sunspot period. In order to effect this, all the
+systems proposed were examined and compared, in order to see that as
+they were none of them quite satisfactory, if possibly any factor may
+have been omitted. When this was done it was noticed that the proper
+motion of the sun, discovered by Herschel, and which amounts to some-
+where about 2,000,000 miles a day, had not been made use of. In fact,
+though first announced in 1783, very few books on astronomy mention it.
+It is obvious, however, if any thought is given to the matter that such a
+great motion must have some significance and the following processes
+were adopted:—
+Huntington drew attention to the very obvious similarity in the
+duration of the sunspot period and that of the orbit of Jupiter, and there
+had been many attempts to discern what the cause might be, but so far
+none of the explanations were satisfactory. Huntington, on p. 261 shows
+that if the interval between the visual sunspot maximum recorded by the
+Chinese astronomers in 1372 and the then most recent high maximum in
+1917 were regarded as 46 periods, this would give a mean result of 11.861
+years, the period of Jupiter being 11.862.
+The most generally accepted, but still unconvincing, hypothesis was
+that the variation in the sunspot numbers was due to the tidal pull of
+Jupiter but the difference in this at Jupiter’s aphelia and perihelia were
+quite incompatible with the relative states of the sunspots at the maxima
+and minima. Again turning to “Earth and Sun,” we find on p. 184 the fol-
+lowing experiment performed by K. Birkeland, already famous as the
+deviser of the most practical method of obtaining nitrogen from the air.
+This experiement was described in an article on the Origin of Worlds
+published in the Scientific American Supplement, Vol. 76, 1913. A small
+steel globe was placed in a large vessel, from which the air had been ex-
+hausted and subjected to electrical discharges up to 400 milli-amperes in
+intensity. The larger the globe the more noteworthy the results. The
+main result was a series of small bright spots on the surface of the globe.
+These were due to disruptive electric discharges from the globe itself,
+which succeeded one another rapidly and sometimes actually carried off
+bits of steel. When the globe was not magnetised the spots were dis-
+tributed irregularly, but when it was magnetised, even feebly, the spots
+arranged themselves in two zones parallel to the magnetic equator of the
+globe. The more strongly the globe was magnetised the more closely the
+spots approached the equator. Moreover, many of the spots showed nu-
+merous arms projecting in all directions, and curved so that they appeared
+to indicate vortices. They revolved in opposite directions on the two
+sides of the magnetic equator. In this respect and in their zonal distri-
+bution parallel to the magnetic equator, and also in their tendency to
+locate themselves in high latitudes with a weak degree of magnetisation
+and move toward lower latitudes as the strength of the magnetic field in-
+creased, there seemed to Birkeland to be an analogy between the little
+spots on the steel globe and the sunspots. In all these respects Birke-
+land’s spots seem also to present some analogy to terrestrial cyclonic
+storms. This raises the question whether on a magnetised globe as huge
+as the earth an electrical charge derived from the sun could cause dis-
+charges from the outer air which would set up vortices and help to give
+rise to storms.
+The analogy to the sunspots is very striking as in all particulars this
+is how the sunspots act, and from this was deduced an hypothesis of the?
+
+
+cause of the sunspots, namely, that they are cyclonic eruptions on the
+sun caused by a charge exerted by some source in outer space, and as the
+possibility of an electro-magnetic discharge from the planets seems quite
+inadequate, it must obviously proceed from some source in outer space.
+Here the great controversy as to the nature of light became an important
+link in the argument. Newton had arrived by intuition at the opinion that
+light was corpuscular, or in other words, a projectile, and Clark Maxwell
+had demonstrated its electro-magnetic nature, and also it was known that
+the earth was a great magnet, and, therefore, the other planets must
+possess the same character.
+These various factors are combined, and produce the following hypo-
+thesis. The sun and the other stars are all radiating bodies sending out
+vast streams of energy in the form of light, so that space is full of this
+radiant energy, and the sun, in his passage through space, rushes through
+and is recharged by this electro magnetic matter. In this case there
+would be an almost constant production of sunspots, but this is not so,
+as a distinct tide in these, lasting from the minimum period of al-
+most total absence to the next minimum of between eleven and twelve
+years, with a rapidly increasing period of about five years, followed by a
+slow decline, and the similar period of Jupiter’s orbit has been noted.
+Electric discharges are strongly deflected by a magnetic field, and the
+planets are seen to be such, and of these, Jupiter has the obvious maxi-
+mum field strength as well as being the largest of the major planets and
+the nearer to the sun, and it is assumed that when he passes across the
+heliocentric longitude of the sun’s path through space, that is when he is
+in 18 hours Right Ascension as regards the sun, the spots should be at a
+minimum and an examination of the observations show that this is usually
+the case, and going back to the great Chinese visual maximum in 1372,
+it was found to be in agreement. At times, however, the sunspot mini-
+mum drifts away from this position, but later returns to the normal posi-
+tion as regards Jupiter.
+From this we get several important results; first that the fluctuations
+of the sunspots are due to this action of the magnetic field of Jupiter
+and this was then applied to the weather observations and it was found
+that at every passage of Jupiter there was a major drought in Australia.
+Had Jupiter been the sole cause, then all droughts should resemble one
+another, but this is not the case, as they vary greatly in intensity anl
+duration, and these were further examined, when it was found that the
+more severe droughts had another major planet also in the same position
+as regards the sun.
+In the 1902 drought (the maximum drought so far recorded) the
+three major planets, Jupiter, Saturn and Uranus, were concerned, while
+in 1865-1870, and again in 1924-29, Jupiter and Saturn were concerned
+in similar relative positions. The drought comes either before and at
+the passage of Jupiter, or at and after, so that it should be possible to
+predict Australian droughts years in advance, and in 1933 this was done
+as regards the Jupiter passage and sunspot minimum of 1936 and the
+estimate was fully borne out by the drought which ensued, and the warn-
+ing enabled those who regarded it to modify the effects on their farms
+and stock. It was further postulated that these planetary passages might
+in some way interrupt the weather sequences and that after each passage
+a similar weather sequence would set in so that details of the weather
+might be given in advance, and this is the method pursued. A synchro-
+nous chart is prepared showing the weather recorded at the station con-
+cerned for all the years similarly related to the various major planets,
+and from the combination of these years the new season is developed.
+Till recently there were only two fields with available records, namely,
+those of Jupiter and Saturn, but now the records are available to deal
+with the field of Uranus, whose orbital period is 84 years. This has al-
+ways been thought to be a very important one, as it very nearly halves
+the period of the outer planet, Neptune, whose period is 165 years, but
+
+
+which cannot be employed in Australia til! 1953, or 165 years after the
+“Landing.”
+This also solves what was one of the main difficulties, namely, that no
+year ever came that was quite like a preceding one, and this so greatly
+discouraged the investigators that the possibility of cyclical repetition
+was almost entirely abandoned. It is quite obvious that if a season is the
+result of a new combination of four separate components, then it is a ne-
+cessary result that no season ever can resemble any that went before. An-
+other important result was the assumption of a form of interstellar radia-
+tion, and this was some years later announced as cosmic radiation. It
+also points to a possible solar mechanism whereby the whole planetary sys-
+tem takes on the character of a vast machine, whose function is to regu-
+late the supply of energy to the sun and thereby to maintain the standard
+of life upon the earth and not to permit a regular stage of vital energy,
+which would soon lead to a deterioration of all living things. It is by the
+times of stress acting on the less vital members of the animals and plants
+that the survival of the fittest secures the maintenance of a high standard,
+and later to the development of a higher grade of life. The life of the
+sun seems thus to be interminable and light is thrown on this by a study
+of the rocks of Labrador. These rocks are estimated to be somewhere
+about a billion years old, and consist of metamorphosed fossils of sponges
+and algae, which can only exist at a very limited range of temperature,
+and this shows that the temperature of the earth is now much as it was
+a billion years ago. The inference is that if there is any change of con-
+ditions coming, they are so infinitely removed in that phase which we call
+time, as to be negligible.
+The sun may, therefore, to all intents and purposes, be considered a
+changeless and eternal object. As fast as it gives out its tremendous
+stores of energy, it is recharged by means of similar emanations of cor-
+puscular matter from all the other stars, so that it seems justifiable to
+say poetically, “Light is the blood of the cosmos.”
+CHARACTERS OF THE SUN.
+The sun is a vast body 864,000 miles in diameter, rotating on its
+axis in about 26 days. It consists of incandescent matter with a surface
+temperature of about 14,000 deg. Fahr., and there is no condition on earth
+except, perhaps, an electric furnace, by which we may form the least con-
+ception of its state. At this temperature the elements exist in a state of
+disassociation, as no chemical combinations can take place at such a dis-
+ruptive temperature. The rotation of the sun carries the spots along, but
+they seem to have no proper motion of their own beyond a slight amount
+of sway, probably due to their own state of disturbance. Their structure
+closely resembles that of a tropical cyclone, and they are confined to the
+same relative region of the sun, namely, that corresponding to our tropical
+zone, and also both spots and cyclones are not found on the equator (ab-
+solutely on the earth) and only on very rare occasions on the sun.
+The whole universe in every degree of state of existence consists of
+an electro-magnetic condition, and the rotation of the sun gives it a cer-
+tain magnetic field, but its great heat renders this transitory, but the
+main magnetic strength is concentrated in the sunspots with their tre-
+mendous rotation at the rate of somewhere about 10,000 miles per hour.
+These are of prodigious size, as quite an ordinary spot may be as large as
+the earth, and many are as much as ten times its diameter. They are the
+sites of violent outpourings of electro-magnetic streams which pass out
+into space and a portion of these enter the earth’s upper atmosphere, and
+in striking its out layers automatically create the ozone band which pre-
+vents the ultra-violet light from reaching the earth with destructive ef-
+fects on all life. Phantastic schemes for reaching the moon, etc., seem
+to overlook the serious fact that no apparatus could withstand the dis-
+integrating force of this powerful ray.
+
+
+The magnetic field of the sunspots was revealed by Zeeman by means
+of one of his remarkable experiments. In dealing with the spectrum lines
+of the elements, he was investigating that of iron, which had a vast num-
+ber of lines, and he then caused the rays from the white hot metal to pass
+between the poles of a magnet, when it was seen that the lines were
+doubled, trebled, and quadrupled, and even more. When the spectroscope
+is turned on the sun and pointed to a part of its surface that is without
+spots, a more or less normal set of lines is seen, but when the spectroscope
+is turned on a spot, this doubling, trebling, etc., of the lines is at once
+seen, thus showing that the specially strong magnetic fields on the sun
+are in the sunspots themselves.
+Although the sunspots were discovered by Galileo in 1608, there is
+very little systematic record of them for more than two hundred years,
+as it was considered sacrilegious to aver that the earth’s great luminary
+could have what had some analogy to an eruption of the skin. To such an
+extent was this almost incredible idea carried that the late Professor
+Wolfer, of Zurich, who got out for me the daily sunspot figures, told me
+in his letter that the figures were quite unreliable prior of 1816.
+Further light on this is seen in the discovery of the sunspot period
+itself, which was not initiated till 1823, when Schwabe, of Dessau, an
+apothecary with an interest in astronomy, began a daily series of obser-
+vations, and by 1843 announced that the sunspots appeared to increase
+and die away again in periods of about ten years. Carrington was the
+first to make systematic drawings of the sun, and his first observation was
+dated November Ist, 1853, and this spot is that from which the Green-
+wich catalogue dates, but it was not till 1874 that Christie, the Astronomer
+Royal, began to publish a regular annual volume of sunspot observations
+alone. The climate of Greenwich, however, was such that only about 150
+observations, and often less, were secured each year, and during the win-
+ter months were few indeed, so that in 1884 co-operating observatories
+were made use of in other parts of the world, and since then there has
+been a record of the sunspots for every day in the year. This, however,
+means that there is only a complete record of the spots since 1884, only
+a partial record to 1874, and a very broken record to 1816, before which
+the figures are more or less conjectural.
+The existence of a layer of ozone at a height of about 40 kilometres
+was discovered by Dobson in 1922, and its presence has been generally
+attributed to the action of the ultra violet light from the sun by the oxy-
+gen present there, while radiation of certain wave lengths decomposes
+ozone. Therefore, the amount of ozone is less in the equatorial regions
+where the sunlight is constant than at the poles, where it is much less in
+duration.
+Moreover, the amount of ozone shows a seasonal fluctuation and
+the minimum is found in the northern hemisphere in August and Septem-
+ber, namely, the autumn, and in the southern hemisphere, in April and
+May, which is the autumn in that hemisphere.
+The earth’s axis of rotation is inclined to the ecliptic at an angle of
+23 i degrees, which is the cause of the seasons, and that of the sun at an
+angle of 7i degrees, which, with the period of the sun’s rotation, was
+found when the sunspots were discovered by observing their daily changes
+of positibn. It is, therefore, seen that as the earth revolves round the sun,
+the respective hemispheres are presented to each other at intervals of six
+months, and it so happens that the southern hemispheres are presented to
+each other in early March and the northern hemispheres early in Septem-
+ber, and with the lag that characterises most natural effects, the ozone
+minimum follows this date in both hemispheres, and from this it is pos-
+sible to see that the ozone layer being formed by the general emanation
+of the sunlight is again decomposed to a certain extent by the direct em-
+anations from the sunspots and- therefore, is less in the tropics where
+
+
+the sunspots, being confined to the equatorial regions of the sun, are more
+constantly directly overhead. When the tilt of both bodies is such that
+the southern hemispheres of both are in greater juxtaposition, then the
+minima occurs and this shows that the sunspots give out a special emana-
+tion of a different character to that of the general radiation of the whole
+sun, and we have already seen that they are the sites of the strongest
+magnetic fields on the sun.
+This, moreover, solves a question that has long puzzled geographers,
+namely, the essential difference between spring and autumn. As these are
+determined mainly by the sun’s altitude, which is the same in spring and
+autumn, there should be no difference, but their characters are most
+clearly different, spring being the season of storms of an electrical nature,
+while the autumn is the season of cyclonic disturbances. There is also a
+connection between the ozone and the states of barometric pressure,
+ozone being low in high pressure systems and high on the western side of
+cyclones, and this again may be one of the causes of the difference in sea-
+sonal character of autumn and spring, and Dobson remarks that it is re-
+markable that the ozone situated at so great a height should be so closely
+connected with variations of pressure much lower down.”
+It seems probable that a form of induction is the cause here, and
+when the upper atmosphere is disturbed by strong bombardment from the
+special emanations of the sunspots, action is induced in the surface atmos-
+phere, and that this is enforced by the magnetic effects of the circulation
+of the high and low pressure systems.
+The thunderstorms of spring, being sudden violent reactions occur-
+ring when the ozone layer is greatest, the more prolonged and intense
+cyclonic tropical storms begin at the end of the maximum ozone period
+and die away as the minimum approaches.
+Moreover, the zones of tropical cyclones and sunspots are one of tho
+clear connections between earth and sun, and further demonstrate that
+the sunspots are the special media of communication between sun and
+earth.
+One of the first phenomena to be seen to be connected was terrestrial
+magnetism, and the sunspots, and also the aurorae, and it is thought that
+the ozone being greatest in the polar regions shows that it is in some way
+connected with the aurorae and therefore both are effects of the sun.
+Kullmer has shown that the storm tracks in the United States are related
+in their positions to the sunspot period.
+EFFECT OP SUNSPOTS ON THE WEATHER.
+One of the divisions of the research at Crohamhurst is that into the
+effects of the sunspots which, under the hypothesis, are the final deter-
+minants in the cyclical effect, and therefore also one of the main causes
+of the variations which frequently veil the cyclical sequences and make
+them seem contradictory or even absent. It has been often asserted that
+the sunspots definitely do not affect the weather, and Dr. Norris Russell,
+of Princeton, is quite obdurate on this point. One of the reasons of this
+opinion is that the wrong method has been adopted, namely, that of taking
+the sunspots as a whole, while the explanation is that it is the individual
+spots that are responsible for the effects which then can be plainly and
+easily seen. First, the sun being an electro magnetic object, the north
+and south fields are important, and first the spots must be divided into
+northern and southern spots, and from observation it is found that the
+southern spots affect the weather of the southern hemisphere, and that the
+northern spots do not unless there happens to be a southern disturbance
+present which is invisible to the ordinary telescopic vision but requires
+the high power spectroscopic attachments to divulge.
+Next, the portion of the southern sunspot track must be considered
+so that the whole of the southern sunspots together will not give any good
+
+
+results. The southern spots as a whole seem to build up a gradual cumu-
+lative effect as happened after the great southern sunspot activity in 1889.
+For immediate effects we must look to individual spots, and here again
+their magnetic character must be considered, as well as their general char-
+acter. The sunspots are vortices in the sun’s surface, rotating with im-
+mense velocity, and thus setting up a magnetic field which magnetises the
+electrical discharges as they are driven forth from the sun into space.
+The gamma rays, being neutral and undeflected, strike the earth
+and cause magnetic storms and aurorae when the spots are seen near the
+middle of the disk. By deflection, the other rays are driven outwards
+and do not enter the earth’s atmosphere, when the spots are in that posi-
+tion. When the spots are between the edges and the middle points, the
+weather effects are confined to temperature effects, and at those points
+occur cold spells, such as the snow storm recently reported in Tunisia.
+When the spots are about to appear on the disk, the deflection by the
+magnetic field causes the electron emanations to enter the earth’s upper
+atmosphere, and then, by induction, the lower air is affected, and storms,
+etc., are generated. This effect, however, is not forecastable, as there are
+no means of knowing when a new spot group will come into sight.
+The only spots that can be foretold in this position are those which
+cross the sun several times, and are classed as recurrent spots. Some
+groups have made two or more passages, and one group even crossed again
+and again for over a year, but this, too, is uncertain, as a group may die
+out on the invisible side of the sun at any time.
+The groups whose effects are observable, and also whose effects are
+predictable are those which are seen to pass across, and it is known that
+when they reach the final part of their passage and disappear, that this
+charging of the upper air and subsequent induction, will shortly occur,
+though so far there is no regular interval at which this will occur, or
+knowledge of the duration of the effects. The same, however, is found
+with the magnetic storms as regards interval from the central passage,
+and the storm effect and its duration. The only thing that is known in each
+case is that the effect is nearly always observed, but again in both cases
+there are times when it does not happen, though their proportion is not
+great. There are three more effects to be noticed: First, the sudden col-
+lapse and consequent disappearance of a spot or group when the effect is
+usually a violent and destructive storm. Secondly, the sudden appearance
+of a group, especially when in the final part of the course followed by the
+spots. This, however, is apparent, and not real, as the spot groups do not
+move themselves, but are carried forward by the rotation of the sun. This
+gives rise to a more intense order of disturbance than in the case of a spot
+that traverses the whole course. The third effect is when a group goes
+through violent changes, especially by the addition of further component
+spots, when the intensity of the effects is greatly increased and, in the case
+of violent changes and additional members, an effect on the weather by the
+production of storminess may occur with a central spot. A notable ex-
+ample was the great Sydney rains of March, 1942, which also were a re-
+currence of a 71-year group shifted latitudinally from Newcastle in 1871.
+The extraordinary nature of Crohamhurst itself has been a wonder-
+ful and almost uncanny factor in the research. Lead to it by circumstances
+that almost savour of the supernatural, it soon revealed its importance by
+establishing the record rainfalls of Australia for a day, a rainy period, or
+a month.
+These great rainfalls show that the locality has something of a special
+nature about it and really, in a geographic sense, Crohamhurst is one of
+the most remarkable valleys in the world.
+Crohamhurst is situated at almost the extreme north-eastern corner
+of the Moreton uplands, on high ridges which run down to Crohamhurst
+Creek, itself a tributary of the Stanley River, which is in turn the princi-
+pal tributary of the Brisbane River.
+
+
+It is one of those cases in which the tributary is of more importance
+than the main stream. The blacks were fully cognizant of this, as tney
+had a saying which meant, “No Stanley, no flood.” When the great flood
+of 1893 was being investigated, the Moreton blacks had become so de-
+graded and scattered that their important local knowledge was overlooked,
+and the obvious argument of the far greater area of the Upper Brisbane
+area was given undue importance, with very misleading results.
+The Stanley River rises in Mount Livingstone, due west of Croham-
+hurst, and flows first in a northerly direction towards the Blackall Range.
+It then turns in a southerly direction and flows back towards Mount Liv-
+ingtone, and is then joined by a tributary of some importance, rising from
+the extreme north eastern corner of the watershed and known as Ewen
+Creek. It then flows eastwards till it reaches Peachester, where it is joined
+by another large tributary known as London Creek. To this point the
+river is like most rivers in their upper courses, deeply engorged, but from
+this point there begins a feature that makes this river unique. At Pea-
+chester it is almost on the level of the coast range, which from Peachester
+to Woodford is so depressed that had any severe earth change have taken
+place, the river might easily have flown from thence direct to the sea and
+entered Moreton Bay or the Bribie Passage by one of the many channels
+that the railway crosses between Beerwah and Caboolture. The western
+bank for these twelve miles is high and rugged, but the eastern bank is
+practically level with the summit of the coast range. In this way the river
+reaches Woodford, where it again becomes deeply engorged and reaches
+Kilcoy, and then turns south, flowing through the Somerset dam site, then
+in a southward course, after which it flows westerly till it joins the Bris-
+bane itself at Caboonbah. It can thus be seen what a very unusual stream
+the Stanley is, and this remarkable character has a bearing on the import-
+ance of Crohamhurst as a research station.
+The general trend of the massifs here is, as is well known, a north-
+south one, but owing to the distribution of land masses, the part of the
+Stanley flowing down to Peachester forms a valley with mountain masses
+lying east and west, and thus is found a valley whose mouth points direct
+to the Pacific, and east of which the land steps down to the marshy coast
+flats along the shores of Moreton Bay. Across the Bay are the highest
+sandhills in the world, namely, Moreton Island, which, with Stradbroke,
+form a normal north-south ridge, while just south of the point where the
+eastward course of the upper Stanley turns again south, stand the great
+masses of the Glass House Mountains, with the great Beerwah on the coast
+range itself rising to a height of 1,803 feet. Reference has been made
+to the three tributaries of the Upper Stanley, and these, strange to say,
+all rise out of one great hill, a spur of the Bald Knob, which can be seen
+from the railway standing over Landsborough, and there are reasons to
+believe that in this mountain there may be a vein of radium or other radio-
+active mineral, since extraordinary telephonic effects were encountered
+that can reasonably be attributed to such a cause. It would seem as if
+the coast range between Mellum Mountain and Mount Mee must have sunk
+during the eruptions of the Glass House Mountains. This, and the con-
+tours above described, have a distinct effect on the coastal cyclones that
+reach this province. They are first drawn towards the coast strongly by
+the radio active character of the Bald Knob, and then caught by the More-
+ton-Stradbroke highland and enter Moreton Bay, where they are confront-
+ed by the masses of the Glass House Mountains, which force them to enter
+the Vale of Crohamhurst, where, following the law laid down by Claxton,
+of Hong Kong, in his paper on the Typhoons of the China Sea, they ex-
+haust themselves of their burden of rain and thus is accounted for the
+fact that the record rainfall of Australia fell at Crohamhurst in 1893.
+On one occasion did the cyclone, after entering the Bay, pass to the
+east of the Glass House Mountains. That was in January, 1887, when
+the cyclone passed south to the head waters of the Logan, with such dis-
+astrous results to life and property. Unfortunately, in 1887, the only
+
+
+rainfall station near the Logan was Mundoolun, which recorded a monthly
+total of 28 inches, while Brisbane had 23, and Woodford only 14. In all
+other recorded great cyclones, Crohamhurst has shown a tremendously
+higher rainfall, and this is further exemplified when the rainfall gradient
+of the normal average falls is considered. At Esk, near the junction of
+the two rivers, the annual average is 38.75, and at Kilcoy above the dam
+it is 39.15. Twelve miles east at Woodford it has risen to 52 inches, and
+at Peachester, on about the same level, it has risen to 68 inches, while at
+Crohamhurst, 3 miles further west, it has reached 74 inches.
+These facts illustrate the great importance of Crohamhurst as a
+meteorological station, while its long detailed record gives it further value
+in cyclical research.
+In passing, it is of interest to note the light that the Glass House
+Mountains throw on the antiquity of man. They are the cores of extinot
+volcanoes whose cones have been eroded by centuries of heavy rainfall,
+and have been estimated to have been extinct for about five million years.
+The aboriginies, whose traditions were handed down from father to son,
+and which have been found to be quite reliable when tests are possible,
+used to say that these mountains threw fireballs or firesticks at one an-
+other, and they must, therefore, have witnessed actual eruptions, so that
+there must have been intelligent human life in Australia at that remote
+period.
+As rainfall is the most important matter to the primary industries,
+the research is mainly centred round that element. Temperature and dura-
+tion of sunlight are not important here as in other lands, and the strange
+manner in which human beings have adapted themselves to endure the
+strong sun is a matter for attention by the medical profession as, half a
+century ago there were quite frequent cases of sun-stroke, whereas to-
+day people expose themselves freely to the sun, and even largely go hat-
+less with no apparent ill effects. Rainfall is a definite effect of condensa-
+tion under certain electro-magnetic conditions, which are now being close-
+ly studied, but are not yet very well understood, and in this respect
+Queensland has very clearly marked geographical divisions. The main
+range running north and south more or less parallel to the coast causes a
+heavy rainfall by rarefaction of the air rising in the winds off the ocean
+which are lifted across the range and in so doing lose their moisture as
+rain through the rarefaction due to the lift.
+This is rendered clear by the lesser rain on the Burdekin Delta with
+its absence of high land compared with the Barron and Herbert just to
+the north with their high mountains and the tremendous high steady rain-
+fall at such places as Babinda, Hervey’s Creek, etc. Cape York Peninsula,
+with its lower eminences, shows a lower rainfall. These areas are sub-
+ject to intense tropical cyclones which raise the rainfall immensely where
+the cyclones come ashore as shown by the work of Claxton on the Typhoons
+of the China Sea. The Western country derives its rain from the same
+causes, although there are no mountains, but the same condensation takes
+place when it does rain, but the mountains now are mountains of cooler
+air round which the monsoonal cyclonic systems revolve, though the pro-
+cess is very much obscured by the fact that the air mountains, unlike the
+coastal mountains, have a movement of their own. This movement is af-
+fected by the position they occupy and its relation to the western slopes of
+the main range, and they are further modified in their courses by the
+watersheds and courses of the western river systems, so that the cyclical
+sequences are divided into as many sections as there are river systems.
+Moreover, each province has a cyclical sequence quite its own, though
+there is a general interrelation between them, but with a clear retention
+of individual character. The coast itself has a further distinct portion
+round Crohamhurst of a very special character, but which yet seems to
+have a distinct connection with the changes that occur all over Australia
+so that the graphs of the control stations used in the observatory from
+
+
+material kindly supplied by the Commonwealth Weather Bureau show
+changes to comply with those at Crohamhurst which again are based on
+the cyclical controls to be explained later.
+THE ANTARCTIC INFLUENCE ON CLIMATE.
+A great deal has been written on this subject, and many people hold
+the view that here lies the solution of the problem of seasonal weather
+forecasting, and my friend, Sir Hubert Wilkins, advocates the mainten-
+ance of observatories on the Antarctic continent. I shall now try to show
+what is the true relationship of the Antarctic to the problem, and also to
+show that, though important, its bearing has been overestimated.
+The great ice mass at the pole, as observed by the limits of the pack
+ice, undergoes a fluctuation related at a distance of four or five years to
+the sunspot period. After the minimum it continues to accumulate for
+some years and shows the same lag as most other natural phenomena
+through the decline of a factor or its acceleration being overtaken by
+the opposite force and just as the coldest day is not at the date of the
+shortest day, so the greatest amount of ice is not at the time of lowest
+temperature associated with the sunspot minimum, and the setting in of
+the melting of the surplus ice occurs some four or five years after the
+sunspot energy increases after the minimum. When this happens, then
+vast masses of water at very low temperature are released and enter the
+southern ocean currents in the Antarctic and join in the general flow to
+the east. When this water reaches the eastern side of the South Pacific
+it is prevented from continuing its eastward flow by the long continental
+mass of South America, towards which the northern point of Graham Land
+projects. Thus a large proportion of the resultant cold water is driven
+north and swells the volume of the Humboldt current, which is turned at
+the Equator into the eastward equatorial current, whose temperature is
+thus lowered considerably. This current in its turn gives rise to the New
+South Wales current through the equatorial current being intercepted by
+the long line of New Guinea and Australia. It is along the edges of this
+current that the hurricanes of the Coral Sea are generated, and the cool-
+ing of this current by this means causes it to have two cold periods in each
+sunspot epoch. One at the minimum of sunspots by the direct effect of
+the lowered activity of the sun, and a second some years later through the
+delayed melting of the polar ice as above described, which thus gives rise
+-to a secondary drought phase in each sunspot period.
+The Antarctic factor is made use of in Argentina for long range fore-
+casting by using the observations made at Laurie Island, and although this
+station gives important long range data whereby the seasons in Argentina
+can be estimated in general terms, as much as three years in advance in
+certain districts, yet for short range daily forecasts the position of Laurie
+Island is too far east to be of value, as the systems have passed over Ar-
+gentina before they reach the island station. It was hoped that the Byrd
+Expedition might find a suitable site for a station which would be west
+from the longitude of Argentina, but this was not achieved.
+Sir Hubert Wilkins advocates the establishment of stations on the
+Antarctic continent for use in Australian forecasting, but this seems to
+present very great practical difficulties, and a very useful, and at the same
+Time practicable, scheme, would be the re-opening of the station of Mac-
+quarie Island, and also one on Kerguelen Island, where the observers would
+be capable of certain relief from time to time and the observations could
+be sent by wireless at once. The important observation would be the tem-
+perature of the sea water, from which it would be possible to ascertain
+the state of the continental ice. Periodic observations of the limit of the
+■pack ice should also be made in connection with the two stations.
+The Australian and New Zealand Science Congress have repeatedly
+advised the Commonwealth Government to re-open the station on Mac-
+quarie Island, and I have myself suggested requesting the French Govern
+
+
+ment to either open or allow to be opened a station on Kerguelen, where
+there are a number of buildings and a feasible harbour. I then asked the
+French Academy of Sciences to move in the matter, and this was done and
+just before the war an exploratory air flight was to have been made from
+Madagascar.
+The motion of the solar system towards the north is responsible for
+the preponderance of water in the southern hemisphere, and also for the
+peculiar distribution of land masses at the poles, the north pole being flat
+and generally landless, while the south pole has great land masses with,
+a rugged surface and great elevation. Similar effects are noticeable on
+the moon, and there are distinct differences in the northern and southern
+hemispheres of the planets Jupiter and Saturn, while Mars shows similar
+features to the earth.
+All these show the great importance of the sun’s motion.
+The rainfalls of Australia are derived first from two main sources,
+a northern or equatorial, and a southern or antarctic. The northern source
+is again divided into several geographical parts. The motion of the earth
+in rotation produces the great equatorial current flowing westward from
+South America along the region of the equator and forming what
+Maury so poetically described as a river in the sea with distinct banks of
+water at a distinct temperature and it is along the borders or banks of this-
+current that the fearful tropical hurricanes are generated which cause
+such destruction and heavy rain when they make an impact on our shores.
+Here again there is a division owing to the differences in the mountain
+massifs on the coast, and again in relation to the divisions of the Barrier
+Reef itself.
+A further division is made by the relative strength of the antarctic
+current flowing northwards along our eastern coast, but so far not enough
+study has been devoted to this. I have secured the co-operation of the
+Queensland Branch of the Commonwealth Lighthouse Department, but as
+yet the other States have not consented to have the sea temperature ob-
+servations supplied whereby the relative strength of this current could bo
+gauged. The cyclones strike the coast in three main provinces. On Cape
+York Peninsula itself, next on the Herbert-Barren coast, and thirdly in
+the Mackay area, and there has been some evidence of their cyclical repe-
+tition, but the data is far too scanty and of too little extent in time to be
+used with certainty or any approach to it. Next there are the cyclones
+which evade the Barrier Reef altogether and strike the land in the south-
+east, most of them coming into the Vale of Crohamhurst, but some come
+in to the north near Bundaberg or Maryborough, while others get south to
+the Vale of Tweed and along the northern rivers of New South Wales.
+The next division of rainfall systems which are relatively heavy but
+not to be compared to the coastal cyclones, are the depressions which form
+to the west of the main range. These have several tracks. First, those
+distinctly related to the Gulf of Carpentaria and which form active centres
+at various points there, and to the south. This point of origin gets fur-
+ther south as the winter comes on. Next there are those which are as-
+sociated with the projection of Northern Australia.
+The Queensland coastal cyclones are formed by the detached cur-
+rent known as the New South Wales current, which is driven south by the
+interception of the lands which project south and east from New Guinea,
+but a certain amount of water flows through and this gives rise to the mon-
+soonal eddies which originate in the waters to tl\e north of Australia and
+thence come down over the western pastoral lands. The point of origin
+of these monsoonal impulses varies with the state of the season. Through
+the summer they may originate over the Northern Territory itself, but as
+the season advances the point of origin comes further and further south,
+so that in the winter it is unusual for them to arise north of the tropic,,
+and therein are strongly controlled by the artesian basins. There is a
+
+
+suspicion that the force and course of the western rains have been adverse-
+ly affected by the constant draining of these artesian beds since the dis-
+covery of this source of water and the radio-active content of the water
+may possibly have had an effect on the course and intensity of these storms,
+and it is an undoubted fact that in the last few decades the western rain-
+falls, as well as the flow of the artesian wells, has steadily declined. It is,
+however, not yet possible to state that this is a real decline or just part
+of the long 165 year cycle, as such rain deficiencies have been noticed in
+older lands also. The only recent evidence was afforded this summer
+when the abnormal rains on the Paroo were confined to that area and had
+not the general character as was the case in the wet season of 1890 or
+1870 before the wells were put down. The last rains of a northern origin
+are those of Western Australia where a very violent type of tropical hur-
+ricane arises on the north-western coast of that State, and these are strong-
+ly affected by the massif of Mount Gregory, which elevation decides their
+final course as to whether they come south to the east of it and traverse
+the interior, passing the goldfields, and then joining the antarctic circula-
+tion or passing to the west, die out in their passage down the west coast.
+All the above rains are summer rains, and find their terminal period when
+the southern sunspots reach their most southern altitude in March, al-
+though occasionally under special solar stress a storm may arise somewhat
+out of season.
+The rain storms of the southern part of the continent arise from two
+sources. There are the effects of the extended courses of the tropical
+storms and the direct effect of V depressions arising from the antarctic
+circulation. These pass along the Great Australian Bight and give rains
+from Western Australia travelling eastwards along the whole southern
+litoral. When of great intensity under strong solar stress, they may form
+distinct cyclonic centres over definite areas, and such are essential to
+heavy rains over areas like the Riverina.
+Another cyclonic form are those that frequently arise on the south-
+ern coast of New South Wales, and are generated by the discontinuity at
+the boundary of the New South Wales and antarctic currents at that point.
+The point of the continental impact of these systems varies very much.
+Some begin their contact with the south-western areas of Western Aus-
+tralia, while others come up in the Bight itself and others again begin to
+operate off the coast of Tasmania, thus creating three geographical div-
+isions of this type of rain.
+A great deal of research has been devoted to search for connections
+between one province or area and another with a view of finding sequences
+between them whereby forecasts can be made for these regions, but it
+seems rather uncertain whether this can be done with any certainty owing
+to the fact that really each province has its own sequence derived from a
+cyclical cause associated with the general principles that I have here en-
+deavoured to outline, and that the sequence of each is distinctly its own,
+and may vary considerably from that of a province almost or actually ad-
+joining, so that really each division has its own cyclical sequence.
+Confirmation of the importance of the position of the planets with
+reference to the sun’s path through space was obtained from the Bell
+Telephone Laboratories in New York, where Dr. Carl Jansky was conduct-
+ing experiments in wireless in regard to a special form of static most pro-
+nounced in June, when the 18th hour of Right Ascension is at the meridian
+at midnight, and consequently when the earth is in the longitude of the
+solar apex or path through space. This disturbance was then closely
+studied and was found to progress steadily round through the year till
+it returned to the same position again in June, thus showing that the
+point at the 18th hour was its source, and thus it is seen that the passing
+of Jupiter, with his immense magnetic field through this position, is justi-
+fiably assumed as a datum point for the cyclical periods, and similarly in
+a lesser degree for the other major planets Saturn, Uranus and Neptune.
+These four planets form a group of large bodies revolving round the sun.
+
+
+and it is probable that they are a gigantic mechanism which regulates the
+sun activity and so the cyclical periods into which all activities are sub-
+divided together define a' complete cycle of 165 years, and it can be
+shown that the great epochs in human history are governed and divided
+in the same manner. I made this the subject of my address to the His-
+torical Society in 1932.
+The periods of the planets are non-comensurables, and so never re-
+peat exactly the same combination.
+The most important is the cycle ruled by the magnetic field of Jupiter,
+which is 11.862 years long. Two revolutions take 23.724 years, and Dr.
+Abbot finds a cycle of this length in many American weather figures; the
+third revolution is completed in 35.586 years, and in this we see Idle prob-
+able cause of the famous cycle found by Bruckner and its variability is
+possibly decided by its combinations with that of the orbit of Saturn, whose
+period is 29.548 years.
+The sunspot periods were then tested by making use of what dates
+were available, beginning with the great Chinese sunspot maximum of
+1372, and as the minima are usually about five years previous to the max-
+ima, this would give a minimum at 1367, which was the date of the pas-
+sage of Jupiter through 18 hours R.A. For some reason yet to be dis-
+covered, the minima agree for some epochs with the hypothetical posi-
+tions, and then drift away, but later return to the required position. From
+1688 to 1735, there was a close agreement, then it drifted away till it got
+as much as five years difference in 1818, but then returned to theoretical
+normal, and from 1877 to 1913 showed a very close compliance. It has
+now drifted away again and at last minimum the difference was 3 years.
+The sunspots have opposite magnetic polarities in each solar hemis-
+phere, and these are reversed with each epoch. Thus, if on the northern
+hemisphere the leader of a group is a north seeking polarity, then all the
+other leaders on the northern side will be similar, but the leaders on the
+southern side will be south seeking, and this endures for duration of that
+sunspot period. When the minimum point is reached, then the spots of
+the new epoch are recognised by the polarity of the leaders being reversed.
+In this is seen the reason why the Bruckner cycle shows irregularities,
+since the spots in the second cycle will begin with opposite polarities, thus
+creating different solar conditions in support of the weather changes. For
+this reason, as soon as the data were long enough to include a span of 71
+years, this cycle was tested since the sunspot polarities are then the same
+as the year concerned. This has given very important and mainly posi-
+tive results. The double cycle of Saturn of 58.916 years is close to five
+revolutions of Jupiter of 59.310 years, and also seems at times to give
+practical results. What has always appeared as probably a very import-
+ant cycle is that ruled by the magnetic field of Uranus of 84.015 years,
+and for this the weather records are just becoming available. It almost
+divides the period of Neptune of 164.788 years, which is the complete or
+grand cycle, but will not be available till 1953, when the few records of
+the times of the landing by Captain Phillip will come within its span. So
+far the 84 year period is showing very encouraging results. The double
+period of Neptune would be 329.576 years, and the Abbe Gabriel, of
+Caen, M. Andre Auric, of Paris, and the late Janvrin Browne, of Wash-
+ington, have expressed the belief that a cycle of about that length will
+be found.
+The passages of Jupiter and Saturn across the heliocentric longitude
+of the Solar Apex are alternately close and wide, and this, with the fact
+that their periods are incommensurables, results in a steady separation
+of their times of transit until finally they coincide once more. The period
+of this process is 854 years, and this may be the basis of a very long
+cycle. The times of coincidence of the transits in our Era were A.D. 15,
+A.D. 869, and A.D. 1723. At the passage in 1723 the assumed and actual
+sunspot minima were in agreement.
+
+
+A repeated wide combined passage of Jupiter and Saturn has been
+studied. Those of 1865-70, and 1924-29 with positive results, but there
+will not be a chance to study another close passage until 1959 to 1960.
+The last was in 1900-1901, but here Uranus’s passage in 1904 confused
+the issue and the one before that was in 1841, for which the data is poor.
+The studies of cycles by comparison with past seasons failed partly
+from the uncertainty and scanty nature of the data, and next because it
+was assumed that there was one cycle only, and finally because there was
+no established datum point. Now the datum point is hypothetically fixed,
+the tests become more possible, and now that it is recognised that there is
+more than one cycle and all interactionary, the difficulty of there not being
+any exact repeat found is overcome, but it becomes evident that the only
+way to test the hypothesis is by a forward constructional programme, but
+still using what data there are to check back upon, and also for the pur-
+pose of making test estimates. In 1941 the position of the Uranian cycle
+became evident as the records matured, and it could be seen that the
+1853-57 drought was being repeated, though obscured by the other com-
+bining cycles, and the records of Sydney and a few other stations for
+1858 were obtained, and on that basis a sequence of three events was set
+out, namely, a general rain in May, a fairly dry spring, and a pronounced
+wet period either at the end of September or early in October, and this
+treble sequence was reproduced in full, thus showing to that point that
+the hypothesis was upheld. Unfortunately, the 84 year old data becomes
+obscure again for a time, but in June a general rain, following dry autumn
+should again demonstrate the correctness of the assumption based on this
+line of deduction. In 1860 and 1861 there were unsually heavy rains in
+August in Brisbane, and apparently along the coast down to Sydney, and
+if these are parts of the 84 year old cycle they should again fall in 1944
+and 1945, but if they do not then occur, it must then be concluded that
+they may form part of the complete cycle of 165 years.
+Another example may be given, that is, the great rains of March,
+1870. In 1940 there were given as a test of the 71 years cycle, in which
+case they should have recurred in 1941, but the rains of March, 1941,
+though general and in places heavy, did not come up to the high intensity
+of those of 1870, and the test for that cycle was, therefore, negative, and
+must now be deferred till it is tested as a component of the 84 year cycle,
+when it would recur in 1954.
+The next point that arises is the possibility in time of testing each
+weather group back to its component cycles, which can only be very par-
+tially done as yet. Thus, in the case of the great rains of 1870. Had
+they been 71 year events they would have been seen in the records of
+1799, which do not exist, but in time this will be quite possible, but it
+will not be for some years yet, when the back data are full and reliable.
+Had Bacon’s advice been taken, observations would have been made with
+this in view, and the problem, if it is to be solved along these lines, would
+have been nearer to its end. Finally, the proposition will be as follows.
+Take any rainfall group as an example; it is first to be referred to the
+former seasons at each previous cyclical period, namely, 35, 59, 71, 84
+and 165 years. Each of these is again similarly referred till, when the
+records are available for long enough periods, the exact composition of
+every rain group should be determinable.
+The final determinant is, however, the southern sunspots present at
+the time of the cyclical maturity of a group.
+Observation shows that the southern sunspots are more important
+to us in the southern hemisphere than those on the northern side. They
+appear to have three possible points of action. At their entry onto the
+visible disk, at the meridian passage if greatly disturbed at the time, and
+most strongly at the final passage over the limb, and for some days after-
+wards unless a fresh sunspot group follows or more especially if it bursts
+through in the final quadrant. Such eruptive spots are always more ef-
+fective than groups making a steady transit (see note *) through the sun’s
+
+
+rotation, and it is possible for action to be delayed through a long suc-
+cession of spot groups until the time of the final clearance. By an old
+convention the limb where the spots are seen last is called the west limb,
+but as the sun turns from west to east it is quite evident that this is really
+the east limb and as the earth’s weather systems move mainly from west
+to east, this should be amended in solar observations at least.
+A great deal of sunspot investigation has been done regarding the
+whole spotted surface, as a unity, and this has lead to serious errors, as
+it is to the individual spots that we must look for definite reactions. The
+special importance of the sunspots is seen in the marked change in the
+season that takes place early in June and early in December, at which
+times the passage of the earth in its orbit and the tilt of the sr.n’s axis
+cause the spots in each hemisphere to come into line with the correspond-
+ing hemispheres of the earth, and summer and winter begin to assume
+their special character from those dates.
+The research is now concentrated on the 84 year cycle, whose great
+probable importance I have already referred to, and the method is that
+of the synchronous charts previously mentioned. These show the groups
+of rain and temperature changes in the past cyclical years, and from
+these the estimate of the coming season is prepared, and each event is
+checked as it arrives, and further checked as to its exact date with the
+daily sunspot observations. When the result is positive, the process for
+that event is complete, but there is always the other method of examining
+the cyclical components of each event, especially in case of a negative
+result. For example, the next important test event is that of the June
+rains, which were heavy and general in 1859, and should, therefore, re-
+peat as an 84 year event. To check these they should be examined for
+their presence about 36 years before, that is, in 1822, or 23 or 24. In
+1823 the reports of Sir Thomas Brisbane showed winter rains heaviest
+in July. The Saturnian cycle would show a check in the records of 1800,
+but there is only an account of floods in January; the 71 year period goes
+to the year of the landing, when it is recorded that there were heavy win-
+ter rains. As times goes on, this method of checking can be more and
+more fully resorted to. So far, this cycle has given some important re-
+sults, and last year it was possible to establish three points in sequence
+which seems to put the matter outside the possibility of mere coincidence
+and within the scope of a law.
+These are the main lines on which this research is being attempted,
+and I feel confident that success will be its final achievement, and that it
+will be possible to find the solution of the long vexed question of seasonal
+forecasting.
+Note *.—Since the lecture was delivered a very striking example
+has occurred of the effect of an eruptive southern sunspot (meaning one
+which breaks through in view of the earth). Such came in the middle of
+May, when the rains of the Saturnian cycle were ready for reproduction,
+and the general rains of June, 1859, were very close. The effect was a
+very general rain with some extremely heavy falls, many in excess of 10
+inches, while thirty thousand million gallons of water flowed into Sydney’s
+water supply dams.
+Note t- —Meteorology provides two singular proofs of the electro-
+magnetic constitution of the universe in the cirrus clouds. At sunset the
+horizontal beams strike the earth’s limb and the cirrus streams adjust
+themselves to the beams; secondly, the shape of the cirrus and mares’
+tails, have always been a puzzle, and the analogy is the electric flame,
+that is., a flame subjected to the tension of an electro-magnetic field.
+These phenomena are fully dealt with in “Cosmic Machinery,” by Captain
+Staples.
+
+
+POSTSCRIPTUM.
+Since the delivery of the paper, the following important sequence
+has been established. The heavy winter rains of 1859 were under test
+observation as possible component of the 1943 season, as an 84 year
+cyclical repetition, but this did not happen, and further research showed
+that they were partly the winter rains of 1788 in the Bruckner series,
+which was possibly by the link given by Governor Brisbane’s short 18
+months of rainfall observations at Parramatta, 1822-24, thus 1788 heavy
+winter rains delayed the sailing of the convict transports—interval of 35
+years—heavy winter rains at Parramatta given in rainfall record of Gov-
+ernor Brisbane—interval of 36 years—heavy rains in winter 1859—in-
+terval of 35 years—heavy winter rains in 1894—interval of 36 years—
+heavy winter rains in 1930. This not only establishes a complete se-
+quence, but also shows the 71 year repeats on the double Bruckner cycle.
+Owing to the year 1872 showing similar rain which did not repeat
+this year, it can be surmised that the rain of 1788 had another component
+of the same character on the 84 year series, which gave the rain of 1872.
+The Bruckner series, following 1930, should then recur in 1965, and
+2001, while the 1872 winter rains should recur in the winter of 1956.
+This, of course, involves the hypothesis that each rain group has a per-
+manent individuality.
+Fig. 1.
+Relation between Sunspots and Magnetic Horizontal Intensity at Various
+Stations.
+(International Astronomical Union).
+SEASONAL FORECASTING.
+POSTSCRIPTUM 11.
+The great rain of July, 1872, which, under the hypothesis should be
+repeated as a part of the seventy-one year or double Bruckner cycle, in
+1943, has now been recorded on that cycle in its full period of seventy-
+one years and two months in September with a registration at Croham-
+hurst of three and a half inches.
+23
+
+
+There are always two possibilities for a repeat on the double Bruck-
+ner series; either that it will come seasonally, that is at or very close to
+the same day and month, or that it will come at the full cyclical period of
+six revolutions of the controlling planetary magnetic field, in this case
+11.862 years X 6 or 71.172 years, which is roughly seventy-one years and
+two months. Exactly the period is 71 years and 62.78 days. In this case
+Fig. 2.
+Atmospheric Ozone. This plate is from the Report of the International
+Union, and shows the amount of Ozone at various stations whose latitude
+is given. It can be seen that the minimum occurs in the autumn in both
+hemispheres.
+
+
+Fig. 3.
+The Cyclical Elements in 1942 showing the dry late winter and early
+spring with the four cyclical components.
+Fig. 4.
+The Cyclical Elements of 1942, showing the onset of the rains in October,
+with the four cyclical components in the years given.
+
+
+the rain fell at 7l years and 69 days, and its occurrence was due to &
+sudden sunspot outbreak 28th to 30th August, with its subsequent charg-
+ing of the upper air as explained in the paper.
+POSTSCRIPTUM 111.
+The final disputed point in this theory was confirmed almost as soon
+as the paper was read by the discovery of planetary bodies belonging to
+several other stars, Mu Draconis, Xi Bootis, 61 Cygni, 70 Ophiuchi, by
+Dr. Strand of Sproul Observatory in Pennsylvania, and Dr. Sen of Allaha-
+bad University points out in a letter to The Observatory for December,
+Figs. 5 and 6.
+Test positions of cyclical repetitions.
+On left the floods of 1863 and 64 are seen to be Bruckner components,
+but not Saturnian, and the possibility of their having a Uranian charactei
+is indicated below.
+On right the so far negative results of the tests for the 1870 flood are
+shown. Therefore, the next test for this heavy rainfall must be in 1954.
+on the Uranian cycle.
+
+
+1943, that under Banerji’s Cepheid Theory planetary bodies may be quite
+numerous. This, of course, removes the sun from its allegedly almost
+unique position, and thus the theory of the planetary mechanism advanced
+in this paper now rests on surer ground.
+This material reached Australia as the “Journal” was going to press
+and this revolutionary discovery thus appears first probably in an Aus-
+tralian journal.
+Fig. 7.
+The Cyclical Components of the Pearl Flood and that of 1931 on left.
+On right the cyclical components of the flood of 1893.
+Below the tests for the Century Cycle of Professor Henri Memery, of
+Talence Observatory, Bordeaux, France.
+
+
+R. O. GILLIES & CO. PTY. LTD.

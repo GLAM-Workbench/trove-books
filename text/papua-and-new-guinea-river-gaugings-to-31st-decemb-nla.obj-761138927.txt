@@ -1,0 +1,2920 @@
+
+
+PAPUA AND NEW GUINEA
+RIVER GAUGINGS
+TO
+31ST DECEMBER 1964
+COMMONWEALTH OF AUSTRALIA
+DEPARTMENT OF WORKS
+
+
+
+
+
+
+
+
+PAPUA AND NEW GUINEA
+RIVER GAUGINGS
+TO 31ST DECEMBER, 1964
+Stream gauging and Compilation of
+Information carried out by the Hydrographic
+Section of the Commonwealth Department
+of Works on behalf of the
+Administration of the Territory
+of Papua and New Guinea.
+COMMONWEALTH OF AUSTRALIA
+DEPARTMENT OF WORKS
+1967
+PRINTED BY DEPARTMENT OF SUPPLY, CENTRAL DRAWING OFFICE. MARIBYRNONG. 3032.
+
+
+
+
+CONTENTS
+Page
+INTRODUCTION 3
+WATER RESOURCES OF PAPUA AND NEW GUINEA .. .. .. • • • • 5
+GENERAL NOTES .. ' • •
+INDEX TO GAUGING STATIONS 10
+SCHEDULE OF ALL GAUGING STATIONS .. • •• * 11
+MAPS 13A
+GAUGING STATION DATA AND TABLES .. . 14
+
+
+
+
+INTRODUCTION
+Organised gauging of Papua-New Guinea rivers commenced in 1951 when the Commonwealth Department
+of Works installed a station at Sogeri on the Laloki River.
+The New Guinea Resources Prospecting Company Ltd. (a joint investigating organization of the Common-
+wealth Government and the British Aluminium Company Ltd.) began investigations in Western Papua for a
+large hydro station to generate power for a proposed aluminium refinery and installed their first recorder in
+1952. The Company installed a number of stream gauging stations including stations on the Vanapa, Angabunga,
+Tauri, Oreba and Purari Rivers. In 1956 the Commonwealth Department of Works took oyer the operation
+and maintenance of all the Company’s gauging stations except the Purari which was finally taken over in 1961.
+Where available, all records obtained from these stations while under the control of the Prospecting Company
+have been included in this publication.
+Since those early years a growing network of stream gauging stations has been established in the Territory
+with the installation of automatic water level recorders and daily read staff gauges to provide design data tor
+specific investigation projects such as dams, bridges, hydro electric stations, town water supplies, irrigation,
+etc., and for the long range assessment of the water resources.
+Some of the stations which were installed to investigate early proposals have served their useful purpose and
+have since been discontinued because they were not sufficiently accurate or important to retain in the permanent
+network. Where the records for these stations are sufficiently accurate and flows have been reduced, they have
+been included in this publication.
+Owing to the difficulty in engaging reliable permanent gauge readers and the fact that a single daily stage
+reading on most rivers does not provide enough data, a greater dependence is placed on the use of long term
+recorders which are serviced four to five times per year. At present the Department is operating 39 stream gauging
+stations equipped with automatic recorders of which 24 are regarded as part of the permanent network. In
+addition there are 9 stations equipped with staff gauges.
+A five year expansion programme for the existing network is now in progress providing on completion in
+1970, 51 base stations in the permanent network equipped with automatic water level recorders. The proportion
+of the area of Papua-New Guinea covered by stream gauging stations will then be approximately 50 / Q .
+The establishment, operations and maintenance of the gauging stations is carried out by the Port Moresby
+Office of the Commonwealth Department of Works on behalf of the Administration of the Territory. Processing
+of the stream flow data is carried out by the Head Office of the Department in Melbourne where daily mean
+discharges and other flow statistics as set out in this publication are computed.
+This publication is the first compilation of available data and covers the period from the commencement
+of gauging in 1951 to the 31st December, 1964. Further publications will be issued at five-yearly intervals.
+January, 1967.
+
+
+
+
+WATER RESOURCES OF PAPUA AND NEW GUINEA
+The Territory of Papua and New Guinea lies wholly within the tropics. In addition to the mainland area—
+the eastern part of the large island of New Guinea—it comprises New Britain, New Ireland, Bougainville, and
+a multitude of lesser islands.
+The land area of the mainland is approximately 158,000 sq. miles and the total area of the Territory 183,540
+sq. miles. Practically the whole area, whether mainland or islands, is very mountainous and covered with dense
+jungle or tropical grassland. The mainland is one of contrasting topography consisting of very high mountain
+ranges, the principle peaks rising from 10,000 to 15,000 ft.; deep valleys with very high surface run-off; elevated
+valleys of the Upper Sepik, Upper Ramu and Wahgi, and the flat swampy plains of the Sepik and Fly Rivers
+and lower Ramu.
+The available rainfall data indicates a wide variety of climates and rainfall regimes throughout the Territory.
+The whole area can generally be described as “wet tropical” with a marked seasonal variation in the rainfall with
+some areas receiving summer rainfall and others winter rainfall. Nowhere in New Guinea is there experienced
+two wet seasons and two dry seasons in the one year, although this occurs at some places elsewhere in the tropics.
+The general areal distribution of rain through the Territory is as follows. A belt of very high rainfall extends
+through the central mainland of New Guinea to the south of the southern crests of the main mountain ranges
+and from the Huon Peninsular to New Britain and Bougainville. Annual falls in excess of 270 inches have been
+recorded on the south coast of New Britain. The drier parts include the Markham Valley west of the Huon Gulf
+where annual falls of less than 50 inches are experienced; valleys between the central mountain ranges; dry
+pockets along the north coast and extending inland into the Sepik Valley south of Wewak; and the dry coastal
+belt either side of Port Moresby. This coastal strip is the driest part of New Guinea with an annual average rainfall
+of 40 inches at Port Moresby.
+The rather variable topography contributes to the high degree of climatic variation over relatively short
+distances. An excellent example is the narrow island of New Britain where the area south of the mountain range
+receives a winter rainfall and to the north a summer rainfall. A similar variation may be found on the mainland
+where winter rainfall is experienced along the southern slopes and summits of the main mountain range and
+on the plains for about 100 miles south of the ranges. In contrast dry belts are formed to the north of the ranges
+from June to August when the south-east winds most strongly dominate the circulation. The dry coastal belt
+on either side of Port Moresby is mainly due to the failure of the low coastal land area to present an adequate
+barrier to the south-east winds. However, to the north west of Port Moresby at the head of the Gulf of Papua
+very high rainfall occurs owing to the presence of the mountain barrier. Differential heating of land and sea
+is of considerable importance throughout the whole area, convectional rainfall contributing a large share of the
+total precipitation.
+A general characteristic of the rainfall throughout the Territory is its marked diurnal variation. The pattern
+is shown in the river flow where sharp rises and falls occur at similar times daily. Stations indicating this char-
+acteristic are generally located close to the headwaters where time of run-off from the catchment is fairly uniform.
+The lower reaches of the rivers exhibit smaller and more numerous peaks due to the larger catchment areas and
+lower stream velocities. This diurnal variation in flow limits the usefulness of daily read staff gauges.
+The heavy rainfall gives rise to some very large rivers on the mainland notably the Sepik, the Fly, the Ramu,
+the Purari, the KikOri and the Markham. The Sepik, the Ramu and the Markham drain the northern side of the
+mainland and the Fly, Purari, Kikori and numerous small ones, the southern side. There are no comparable
+rivers in the big islands of New Britain and Bougainville, the drainage of their mountainous interiors being taken
+care of by the many small rapid rivers.
+The many thousands of square miles of high, elevated land, abundant rainfall, and the many large rivers,
+give an indication of the potential available for the development of the Territory’s water resources. For this
+development to take place, it is essential that accurate and continuous records of streamflow and rainfall data
+be available to enable the safe and economical design of works such as dams, bridges, hydro-electric projects,
+town water supplies, irrigation and drainage.
+Because the value of hydrographic records is recognized, the Administration of Papua-New Guinea has
+authorised stream gauging and provided funds for this purpose. A network of stream gauging stations has been
+installed on their behalf by the Commonwealth Department of Works which also operates and maintains the
+stations.
+Rainfall measurement networks are maintained in Papua-New Guinea by two departments of the Australian
+Commonwealth Government, the Bureau of Meteorology and the Commonwealth Department of Works. A
+total network of approximately 300 daily read stations and 42 pluviographs were maintained in April, 1966.
+Catalogues of daily read rain gauge and pluviograph stations showing location, and length of record for each
+station, have been published by the Bureau of Meteorology. A small evaporation measurement network is also
+maintained by the Bureau of Meteorology.
+
+
+The streamflow measuring network comprises mainly automatic water level recorders of the float type or
+pressure type and some daily read staff gauges. The current meter method of measuring discharge is used exclu-
+sively. During high flows discharge measurements are taken from cableways, travellers, bridges or boats. Dis-
+charge measurements or gaugings at each station are carried out four or five times per year for the remoter
+stations and more frequently at closer and more accessible stations. Efforts are made to obtain a wide range of
+gaugings to enable a reliable stage-discharge relationship to be determined. However, with the remoter stations
+which are visited only four or five times a year, it is difficult to obtain gaugings of flood flows which form the
+higher portion of the rating table.
+Many difficulties are encountered in establishing and maintaining the gauging stations, particularly in the
+remoter regions. Roads away from the centres of trade and agriculture are practically non-existent and access
+is only possible by foot, boat, plane, helicopter or a combination of these modes of travel. Materials for the
+construction of new stations have often to be flown to the vicinity and either air dropped, lifted in by helicopter
+or carried along mountain and jungle trails by manpower. Visits to the remoter mainland stations and to stations
+on the outlying islands often involve gauging parties in tours of over 500 miles.
+The recent construction of a station on the upper Strickland River in the Western Highlands District provides
+an illustration of the above. The station is over 400 miles from Port Moresby and is situated 15 miles from Lake
+Kopiago Patrol Post which has a small airstrip and is located 120 miles from the nearest larger settlement at
+Mount Hagen. Access is only by charter aircraft and a two-day walk over fairly rugged terrain. Construction
+involved an engineer, a construction supervisor and approximately 90 local labourers engaged from Kopiago.
+About 6 tons of construction material and gear was required and had to be transported, first by coastal ship
+from Port Moresby to Madang, thence by D.C.3 charter aircraft to Tari, the nearest larger airstrip, by smaller
+aircraft from Tari to Kopiago, and by helicopter from Kopiago to the recorder site. The 250-lb. gauging boat
+was too large to fit into a small aircraft and was transported to Kopiago by a R.A.A.F. Caribou plane. From
+Kopiago the boat was carried on the backs of labourers in relays of 10 for three days and arrived safely at the
+recorder site.
+The hydrographer is confronted with many problems and hazards in performing the duties of servicing the
+recorders and taking gaugings. These include risky river crossings, particularly at high stages; floating and sub-
+merged logs which can overturn boats resulting in loss of valuable equipment and on one occasion in loss of
+life; dysenteric fevers; reliability of return transport particularly in adverse weather conditions; hiring of native
+labour to act as carriers and to do the necessary periodical clearing of encroaching jungle and to assist with the
+crosswire for gauging.
+The task of operating established stations is also complicated by the deleterious effect of tropical climatic
+conditions on recording instruments and the difficulty of maintaining stations in trouble-free condition on the
+steep, unstable and silt-laden streams. These conditions contribute to the gaps in many of the records.
+Despite the many difficulties, efforts are being made to expand the network of stream gauging stations into
+remoter regions, soon after the area becomes accessible through the construction of airfields or other means
+of transport.
+The Commonwealth Bureau of Meteorology has adopted as standard equipment for measuring precipitation,
+the 8-inch diameter Australian standard rain gauge and float type pluviographs. The latter consist of a standard
+rain gauge emptying into a container with a capacity of 60 inches of rain. A float inside the container operates
+a long term (3 to 6 months) recording instrument. The U.S. Class A pan has been adopted as the standard
+evaporimeter in the Territory.
+Although the period of recorded observations of rainfall and streamflow is relatively short compared with
+older and more developed countries, the information obtained has enabled the design and construction of a
+number of small hydro-electric stations supplying small centres of population. The first major investigation
+concerned the development of the Laloki River to supply hydro-power to Port Moresby.
+The full hydro-electric possibilities of the Laloki River and other streams adjacent to Port Moresby were
+investigated in detail and it was established that the Laloki River offered the best potential. The development
+could be conveniently built in stages and it has so far resulted in the construction of Rouna No. 1 power station,
+construction of Sirinumu Dam to provide a continuous regulated flow and construction of Rouna No. 2 power
+station and associated works. Two further power stations may be constructed in the future giving an ultimate
+development of the Laloki River to produce an effective output of 41.5 M.W.
+The need to supply power to the larger centres of New Guinea has resulted in investigations for development
+of the Upper Ramu River. The proposed scheme is concerned with the development of the potential head available
+in the Ramu River gorge, extending from the edge of the eastern highlands down to the lower valley of the Ramu.
+In this section the Ramu River falls about 2500 feet in elevation over a distance of about 5 miles, giving a total
+power potential of about 250 M.W. at 55 % annual load factor. The scheme is well placed to become a central
+generating source supplying electricity to Lae and Madang and large areas in the highlands.
+The investigations for both of the above schemes have required the analysis of available records to obtain
+maximum, minimum and average flow figures to determine whether regulation of the flow is required to satisfy
+specific power requirements and the estimation of possible maximum flood flows for the safe location of the
+works and on which further detail design will be based.
+
+
+Many other rivers such as the Musa, Strickland, Purari and Wahgi offer potential for large hydro-electric
+development.
+Both the Department of Works and the Bureau of Meteorology have programmes for the expansion of the
+measuring networks under their control to give a wider and more representative coverage to the Territory.
+An expansion programme for the existing stream gauging network is now in progress providing a permanent
+base network in which all the major rivers will be gauged. The eventual aim is to develop the stream gauging
+network to the stage where all significant catchments are served by permanent base gauging stations, with lesser
+streams served by short term stations for a sufficient length of time to develop a workable correlation with a
+base station.
+Some of the stream gauging stations installed to obtain information for the investigation of small power
+supplies, bridges and other works have served their useful purpose and have since been discontinued because
+they were not sufficiently accurate or important to retain in the permanent network.
+In the future it is expected that the design of hydraulic works can be based on data obtained over a relatively
+short period of time at the site of the proposed work and extended over a longer period by correlation with a
+base station.
+
+
+
+
+GENERAL NOTES
+An index is given of 3.11 stations for which the records are included in this publication.
+A schedule is given of all stations installed before the end of 1964, including stations which have been dis-
+continued and stations for which records have not been published.
+In the schedule the stations are grouped into the various drainage divisions shown on the map and are listed
+under each division with stations on the main river shown in order upstream to downstream followed by stations
+on tributaries in order of joining the main river upstream to downstream. Stations on small individual rivers
+are listed last.
+The series of maps included show the various drainage divisions and the location of all the gauging stations
+listed in the schedule.
+The records from each station are set out as follows:
+Station Data showing the name, catchment area, location, map reference, geographical co-ordinates,
+station serial number, history and reliability of the records.
+A Table of Maximum Flows for each month of the station years.
+A Table of Minimum Flows for each month of the station years.
+A Table of Monthly and Annual Discharges in calendar years.
+For the daily read gauges the maximum recorded flows correspond to the daily reading except where the
+observer has given maximum flood heights or where they have been obtained from flood marks.
+For continuous water level recorders the maximum flows given are those representing the instantaneous peak.
+For daily read gauges the minimum flows recorded correspond to the daily reading. On streams where there
+is a large diurnal variation in the stream flow, the actual minimum may be less than that recorded.
+
+
+INDEX TO GAUGING STATIONS
+for which records are published
+Stream Station Page
+Aibe .. .. .. .. .. .. .. Mendi .. .. .. .. .. .. 14
+Angabunga .. .. .. .. .. .. Yaifa Bridge .. .. .. .. .. 16
+Asaro Road Bridge 18
+Bena .. .. .. .. .. .. .. Road Bridge .. .. .. •. .. 20
+Brown Karema 22
+Dunantina .. .. .. .. •. .. Road Bridge .. .. .. .. .. 24
+Eilogo .. .. .. .. . • .. .. Aru Bada .. .. .. 26
+Eilogo Eilogo Plantation 28
+Eworogo .. .. .. .. .. .. •. Sogeri .. .. .. .. .. .. .. 30
+Gabensis .. .. .. .. .. .. .. Damsite .. .. .. .. .. .. 32
+Gabensis Road Crossing 34
+Goldie Überi 36
+Goroka .. .. .. .. .. .. .. Race Line .. .. .. .. .. .. 38
+Gum Wopi 40
+Laloki Bomana Pumping Station 42
+/
+Laloki Sirinumu 44
+Laloki Sogeri 46
+Mambare .. .. .. .. .. .. Chirima Junction .. .. .. .. .. 48
+Musa .. .. .. .. .. .. .. Nadi Gabuna .. .. 50
+Musgrave Jawarere 52
+Omahaga Hovei Village 54
+Oomsis Barkers 56
+Oreba Golden Valley 58
+Pondo .. .. Road Crossing 60
+Purari Wabo Dam Site 62
+Ramu Yonki Dome 64
+Snake Road Bridge 66
+Tuma .. .. .. .. .. .. •. Pepeka .. .. .. 68
+Tauri .. .. .. .. •. .. .. Hell’s Gate .. .. .. .. .. .. 70
+Towanokoko Towanokoko 72
+Vanapa .. .. .. .. .. .. .. Peto Island .. .. .. .. .. .. 74
+Wanton Karanka 76
+Warama .. .. .. .. .. .. .. Tapini .. .. .. .. .. •. 78
+Waria .. .. .. .. .. .. .. Garaina .. .. .. .. .. .. 80
+
+
+SCHEDULE OF ALL GAUGING STATIONS
+installed before 31.12.64
+Stream
+Name
+Station
+No.
+Location
+Period of O
+From
+bservation
+To
+Discharge
+Computed
+Type of
+Gauge
+NORTH-WESTERN DRAINAGE DIVISION
+Brandi R.
+29
+At Road Crossing
+Mar. 1957
+July 1959
+No
+Recorder
+29A
+Below Gorge
+Aug. 1963
+No
+Recorder
+Bagiaure Creek
+83
+At Road Bridge
+July 1961
+No
+Staff
+NORTH-CENTRAL DRAINAGE DIVISION
+Ramu R.
+69
+At Kainantu
+Oct. 1962
+No
+Recorder
+Ramu R.
+30
+At Yonki Dome
+May 1957
+Yes
+Recorder
+Ramu R.
+81
+At Power House site
+Oct. 1963
+No
+Recorder
+Akwitana R.
+70
+At Aiyura
+Oct. 1962
+No
+Recorder
+Gum R.
+18
+Below Wopi
+Oct. 1954
+Dec. 1963
+Yes
+Recorder
+HUON DRAINAGE DIVISION
+Markham R.
+26
+At Road Bridge
+Jan. 1957
+Sept. 1958
+No
+Recorder
+26A
+At Road Bridge
+Oct. 1958
+No
+Recorder
+Umi R.
+38
+At Wata-Boong
+Aug. 1957
+Dec. 1957
+No
+Recorder
+Wanton R.
+44
+At Karanka
+Mar. 1958
+Yes
+Recorder
+Leron R.
+41
+At Cliff
+Dec. 1957
+July 1959
+No
+Recorder
+Snake R.
+28
+Above Road Bridge
+Feb. 1957
+Mar. 1964
+Yes
+Recorder
+Erap R.
+25
+At Murrays
+Nov. 1956
+May 1958
+No
+Recorder
+Gabensis Creek
+3
+Wau Labu Rd. Crossing
+Oct. 1952
+July 1955
+Yes
+Staff
+Gabensis Creek
+20
+Below damsite
+Aug. 1955
+Nov. 1963
+Yes
+Recorder
+Oomsis Creek
+4
+Below Barkers
+Nov. 1952
+Nov. 1956
+Yes
+Recorder
+Dec. 1956
+Mar. 1959
+No
+Recorder
+Sankwep R.
+43
+At Angau
+Dec. 1957
+Jan. 1960
+No
+Recorder
+Buka Creek
+76
+Finschhaven
+Mar. 1962
+No
+Staff
+Getung Creek
+77
+Above Waterfalls
+Oct. 1962
+No
+Staff
+Butaweng Creek
+75
+Above Raceline
+Jan. 1961
+No
+Staff
+Pumone Creek
+89
+At Kabwum
+Jan. 1963
+No
+Staff
+NORTH-EAST COAST
+DRAINAGE
+DIVISION
+Waria R.
+49
+At Garaina
+Aug. 1958
+April 1961
+Yes
+Recorder
+49A
+At Garaina
+Oct. 1964
+No
+Recorder
+Goru Creek
+46
+At Garaina
+Mar. 1954
+April 1957
+Incomplete
+Weir
+Mambare R.
+78
+Below Chirima Junction
+Dec. 1961
+Yes
+Recorder
+Musa R.
+45
+At Nadi Gabuna
+Aug. 1958
+Yes
+Recorder
+EAST CAPE DRAINAGE DIVISION
+Esa-Ala Creek
+1 74
+| At Esa-Ala
+| May 1961
+| Aug. 1964
+| No
+| Staff
+SOUTH-EAST COAST DRAINAGE DIVISION
+Musgrave R.
+68
+At Jawarere
+Oct. 1961
+Yes
+Recorder
+Laloki R.
+19
+At Sirinumu
+July 1955
+Yes
+Recorder
+Laloki R.
+1
+At Sogeri
+Sept. 1951
+Yes
+Recorder
+Laloki R.
+15
+At Bomana
+Oct. 1954
+Aug. 1957
+Yes
+Staff
+Sept. 1957
+No
+Staff
+Eilogo Creek
+14
+At Eilogo Plantation
+Sept. 1954
+Sept. 1957
+Yes
+Staff
+Oct. 1957
+Oct. 1964
+No
+Staff
+Eilogo Creek
+42
+At Aru Bada
+Jan. 1958
+Yes
+Recorder
+
+
+SCHEDULE OF ALL GAUGING STATIONS
+installed before 31.12.64
+Period of Observation
+Stream
+Station
+Location
+Discharge
+Type of
+Name
+No.
+From
+To
+Computed
+Gauge
+Eworogo Creek
+17
+At Sogeri
+Sept. 1954
+Feb. 1958
+Aug. 1957
+Yes
+Yes
+Staff
+Recorder
+Goldie R.
+67
+At Uberi
+Dec. 1961
+Yes
+Recorder
+Ebealue Creek
+108
+Above Army Camp
+Dec. 1963
+Incomplete
+Recorder
+Brown R.
+16
+At Karema
+Sept. 1954
+July 1957
+Yes
+Staff
+At Karema
+Aug. 1957
+April 1960
+No
+Staff
+16A
+At Karema
+Dec. 1960
+Yes
+Recorder
+Vanapa R.
+11
+At Peto Island
+July 1953
+Sept. 1954
+Yes
+Staff
+Sept. 1954
+Yes
+Recorder
+Angabunga R.
+5
+At Yaifa Bridge
+July 1952
+Yes
+Recorder
+Warama Creek
+73
+At Tapini
+Oct. 1960
+Aug. 1962
+Yes
+Staff
+Oreba R.
+8
+At Golden Valley
+Oct. 1953
+Yes
+Recorder
+Tauri R.
+2
+At Hell’s Gate
+Sept. 1952
+Oct. 1961
+Yes
+Recorder
+2A
+At Hell’s Gate
+Nov. 1964
+No
+Recorder
+GULF DRAINAGE DIVISION
+Purari R.
+64
+At Wabo Dam Site
+Aug. 1958
+Mar. 1960
+No
+Staff
+April 1960
+Oct. 1961
+No
+Recorder
+Oct. 1961
+Yes
+Recorder
+Gerumba Creek
+6
+At Mt. Hagen
+July 1952
+June 1956
+Incomplete
+Weir
+Kum R.
+40
+At Mt. Hagen
+Feb. 1958
+Nov. 1958
+No
+Recorder
+40A
+At Mt. Hagen
+(at Race Line)
+Mar. 1961
+No
+Recorder
+Minj R.
+34
+At Road Bridge
+July 1957
+Jan. 1960
+No
+Staff
+34A
+At Road Bridge
+Jan. 1961
+No
+Recorder
+Warasena Creek
+39
+At Minj
+Oct. 1957
+Feb. 1958
+No
+Recorder
+39A
+Above Pukamil Village
+Mar. 1961
+No
+Recorder
+Adnagel R.
+33
+Nondugel
+July 1957
+Dec. 1957
+No
+Staff
+Kudmangel R.
+32
+At Kerowagi
+July 1957
+April 1958
+No
+Staff
+Chimbu R.
+72
+At Kundiawa
+Road Bridge
+July 1961
+May 1964
+No
+Recorder
+Taaba Creek
+31
+At Kundiawa
+Nov. 1957
+May 1958
+No
+Recorder
+31A
+Dinga Village
+June 1961
+No
+Recorder
+Asaro R.
+35
+At Road Bridge
+July 1957
+July 1958
+No
+Staff
+35A
+At Road Bridge
+Nov. 1959
+Yes
+Recorder
+Omahaga R.
+58
+At Hovei Village
+Mar. 1959
+Nov. 1963
+Yes
+Recorder
+Goroka Creek
+27
+Above Race Line
+Feb. 1957
+Aug. 1964
+Yes
+Recorder
+Bena R.
+57
+At Road Bridge
+Mar. 1959
+Yes
+Recorder
+Karmanuntina R.
+37
+At Henganofi
+Aug. 1957
+Dec. 1964
+No
+Staff
+Dunantina R.
+36
+At Road Bridge
+Nov. 1957
+Yes
+Recorder
+Tuma R.
+98
+At Pepeka
+May 1963
+Yes
+Recorder
+Aibe Creek
+48
+At Mendi
+Feb. 1956
+Sept. 1957
+No
+Staff
+Mar. 1963
+Yes
+Recorder
+
+
+SCHEDULE OF ALL GAUGING STATIONS
+installed before 31.12.64
+Stream
+Name
+Station
+No.
+Location
+Period of O
+From
+bservation
+To
+Discharge
+Computed
+Type of
+Gauge
+ISLAND DRAINAGE DIVISION
+Lorengau R.
+56
+Above Falls
+Mar. 1964
+Incomplete
+Recorder
+Pondo R.
+(North Arm)
+62
+At Road Crossing
+Nov. 1959
+Sept. 1960
+Sept. 1962
+May 1963
+Dec. 1959
+Nov. 1960
+April 1963
+Incomplete
+Incomplete
+Yes
+No
+Recorder
+Recorder
+Recorder
+Recorder
+Pondo R.
+63
+Below Junction
+Nov. 1959
+Sept. 1960
+Oct. 1962
+Aug. 1963
+Dec. 1959
+Nov. 1960
+July 1963
+May 1964
+Incomplete
+Incomplete
+Incomplete
+No
+Recorder
+Recorder
+Recorder
+Recorder
+Towanokoko R.
+61
+At Towanokoko
+Nov. 1959
+Sept. 1960
+Aug. 1961
+Sept. 1962
+Nov. 1963
+Dec. 1959
+Nov. 1960
+Sept. 1962
+Oct. 1963 .
+Incomplete
+Incomplete
+Incomplete
+Yes
+No
+Recorder
+Recorder
+Recorder
+Recorder
+Recorder
+Batonga R.
+(East Arm)
+23
+Batonga East
+July 1956
+No
+Recorder
+Batonga R.
+24
+Below Junction
+Sept. 1956
+No
+Recorder
+Warangoi R.
+21
+At Kamarere
+Oct. 1955
+Jan. 1960
+No
+Recorder
+Warangoi R.
+111
+Above Dam Site
+June 1964
+Incomplete
+Recorder
+Kavavas R.
+22
+At Hollands
+Feb. 1956
+Oct. 1959
+No
+Recorder
+Bovo R.
+100
+Kupei Rd. Crossing
+Dec. 1964
+No
+Recorder
+
+
+
+
+
+
+
+
+
+
+
+
+AIBE CREEK AT MENDI
+(Gulf Drainage Division)
+Catchment Area =6.5 square miles
+SITE Aibe Creek, at Intake to Mendi Hydro-
+Electric station race line
+Map reference:
+Latitude S. 6° 10'. Longitude E. 143° 41'
+Station 48: L.5.2A35 recorder—March 1963 to date
+GAUGING DATA MARCH 1963 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet—
+Not listed since number of years of records insufficient
+Maximum Annual Discharge )
+Minimum Annual Discharge )
+Not sufficient records
+Maximum Monthly Discharge 6,560 acre feet in September 1963
+Minimum Monthly Discharge 880 acre feet in November 1963
+Maximum Daily Flow 279 cusecs on 10th September 1963
+Minimum Daily Flow 11 cusecs in December 1963 and January 1964
+Peak Flow 1,165 cusecs on Ist August 1963
+Lowest Flow 10 cusecs on 18th January 1964
+CURRENT METER MEASUREMENTS
+Highest: 79.61 cusecs at gauge 48, height 3.89' on 13th May 1964
+Lowest: 24.41 cusecs at gauge 48, height 3.06' on 25th February 1964
+(8.17 cusecs at gauge 48, height 2.45' on 25th July 1965)
+Number of Measurements (1963-64) = 23
+
+
+AIBE CREEK AT MENDI
+Maximum Flow in thousands Cubic Feet per Second
+Gciugc
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1963 0.36 1.06 0.18 0.57 1.17 0.58 0.60 0.04 0.14
+1964 0.30 0.20 0.44 1.07 0.66 0.20 0.48 1.13 0.96 1.05 0.35 0.73 1.13 7.20
+AIBE CREEK AT MENDI
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Aug. Nov. Dec. Year
+1963 20 17 15 18 24 27 17 12 11
+1964 .. 10 14 21 19 30 19 17 40 34 32 32 14 10
+AIBE CREEK AT MENDI
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1963 2.08 2.25 2.11 4.13 3.43 6.56 2.52 0.88 1.18
+1964 .. 1.81 1.54 3.61 3.35 4.08 2.03 3.94 4.90 462 4.19 4.58 206 40.72
+
+
+ANGABUNGA RIVER AT YAIFA BRIDGE
+(South-East Coast Drainage Division)
+Catchment Area = 613 square miles
+SITE Angabunga River, at Yaifa Bridge approximately halfway between Kubuna and Tapani
+Map reference: YULE 1 inch = 4 Miles. Grid (Q) 85535
+Latitude S. 8° 34' 30". Longitude E. 146° 51' 40"
+Station 5: Staff gauge—June 1952 to November 1952
+L.5.A35 recorder —November 1952 to date
+GAUGING DATA JUNE 1952 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 8 8 6 8 8 9 9 9 10 10 11 11
+Mean .. 308.1 357.1 424.9 338.2 230.8 123.5 96.6 111.7 154.0 196.9 207.0 289.5 2838.3
+Maximum Annual Discharge 3,234,110 Acre ft. in 1962
+Minimum Annual Discharge 2,466,360 Acre ft. in 1963
+Maximum Monthly Discharge 600,990 Acre ft. in February 1958
+Minimum Monthly Discharge 50,700 Acre ft. in September 1955
+Maximum Daily Flow 16,140 cusecs on 23rd December 1954
+Minimum Daily Flow 750 cusecs on 30th August 1956
+Peak Flow 19,780 cusecs on 30th January 1964
+Lowest Flow 750 cusecs on 30th August 1956
+CURRENT METER MEASUREMENTS
+Highest: 6071 cusecs at gauge 5, height 7.14' on sth November 1962
+(6936 cusecs at gauge 5, height 7.55' on 30th March 1966)
+Lowest: 1079 cusecs at gauge 5, height I.l' on sth August 1952
+(1060 cusecs at gauge 5, height 3.14' on 29th September 1965)
+Number of Measurements (1952-64) = 57
+
+
+ANGABUNGA RIVER AT YAIFA BRIDGE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1952 ______ 2.86 4.86 6.39 4.56 11.12 8.21
+1953 9.71 9.21 10.89 9.71 7.95 2.85 3.02 3.67 7.24 5.77 8.21 10.89 10.89 11.17
+1954 10.14 8.34 8.01 9.57 8.21 4.08 2.24 2.24 5.11 5.90 4.20 19.20 19.20 15.58
+1955 9.14 12.16 _ 2.36 2.52 2.28 2.36 5.11 9.14
+1956 6.92 10.50 8.07 4.86 - 1.83 1.20 _______
+1957 5.16 9.30 9.04 19.30 15.83
+1958 15.44 18.90 15.50 11.30 7.10 5.28 7.54 9.71 9.23 18.00
+19 60 - -- -- -- -- - 8.37 13.52 - -
+1961 _ _ 14.21 9.71 11.14 8.73 6.08 9.16 10.70 14.30 14.87 10.21
+1962 13.16 17.90 15.50 14.60 10.88 5.52 3.34 6.95 10.93 10.13 10.18 9.11 17.90 11.57
+1963 11 96 11.48 19.03 16.13 7.72 6.64 4.11 6.86 8.54 10.34 7.81 12.43 19.03 11.92
+1964 19.78 12.32 13.75 8.22 7.21 6.12 3.53 12.88 8.92 16.82 6.44
+ANGABUNGA RIVER AT YAIFA BRIDGE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1952 ______ 1200 1060 1435 1680 1910 2280
+1953 " 2200 3870 3020 3920 2090 1330 1200 1200 1200 16,10 1365 2690 1200
+1954 .. 2940 3760 3330 2940 2645 1435 1130 960 900 1295 1435 2690 900
+1955 .. 4310 4080 _ _ 1080 960 870 840 840 960 1830
+1956 .. 1760 3380 2560 1260 930 870
+1957 _______ 1066 1421 1820 2496 3590
+1958 !! 3856 4894 6464 4738 2448 1547 1646 2520 2830 2460
+196 0 _ 2307 2307
+1961 “ _ _ 3440 2664 3665 2120 1664 1610 1655 2230 2021 2817
+1962 ' 2532 4016 5020 4048 3044 1720 1475 1430 1999 2544 1988 2010 1430
+1963 " 2296 2098 2252 3254 1556 1376 1430 1385 1475 1900 1367 1770 1367
+1964 3352 3620 4144 2895 1760 1421 1349 1250 2131 2568 2010
+ANGABUNGA RIVER AT YAIFA BRIDGE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1952 104.4 104.3 151.8 150.4 257.4 242.5
+1953 " 278.7 305.6 340.8 369.6 233.0 98.4 91.8 87.5 125.9 137.6 178.3 263.3 2510.4
+1954 .. 357.1 312.8 314.7 267.3 218.2 122.5 82.3 67.7 79.1 167.7 141.5 421.6 2552.4
+1955 378 8 402 7 86.2 68.3 55.9 50.7 56.9 100.0 202.3
+1956 11 195.3 313.6 283.3 132.9 64.8 60.9
+J 957 95.7 136.6 185.0 272.0 491.4
+1958 385.8 601.0 564.1 394.3 231.6 133.2 172.1 291.9 246.1 341.9
+1960 - - - - - - - - - - 181.7 317.9 -
+1961 _ 421.9 258.3 320.4 202.2 143.1 200.2 134.9 323.1 275.9 256.0
+1962 " 264 1 382.4 510.2 382.5 304.9 148.3 105.1 128.9 312.0 259.6 217.0 219.3 3234.1
+1963 215 7 198.0 397.7 371.8 152.0 113.8 100.6 150.1 207.7 199.9 123.6 235.4 2466.4
+1964 !! 389.3 340.7 378.6 253.4 142.3 113.1 114.9 168.9 197.0 283.4 193.0
+
+
+ASARO RIVER AT ROAD BRIDGE
+(Gulf Drainage Division)
+Catchment Area = 86 square miles
+SITE Asaro River, approximately 200 yards downstream
+of bridge on Chimbu-Goroka Road
+Map reference:
+Latitude S. 6° 00'. Longitude E. 145° 19'
+Station 35A: L.5.A35 recorder —November 1959 to date
+GAUGING DATA DECEMBER 1959 to DECEMBER 1964
+Mean Discharge in thousands of Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 555555555556
+Mean .. 35.68 37.16 40.68 44.05 34.29 26.40 21.00 23.37 24.27 28.55 27.26 29.25 371.96
+Maximum Annual Discharge 446,200 acre feet in 1960
+Minimum Annual Discharge 294,190 acre feet in 1963
+Maximum Monthly Discharge 77,090 acre feet in April 1960
+Minimum Monthly Discharge 16,370 acre feet in January 1962
+Maximum Daily Flow 2,230 cusecs on 9th April 1960
+Minimum Daily Flow 200 cusecs on 7th September 1964
+Peak Flow 7,690 cusecs on 29th April 1960
+Lowest Flow 189 cusecs on 11th September 1964
+CURRENT METER MEASUREMENTS
+Highest: 1,737 cusecs at gauge 35A, height 7.85' on sth February 1961
+Lowest: 199.5 cusecs at gauge 35A, height 5.80' on 10th September 1964
+(179.4 cusecs at gauge 35A, height 5.75' on 29th November 1965)
+Number of Measurements (1958-64) = 97
+
+
+ASARO RIVER AT ROAD BRIDGE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(teet)
+1959 1.12
+1960 586 577 4.99 7.69 4.12 7.14 1.66 5.50 1.26 1.17 5.77 6.14 7.69 11.85
+961 462 320 281 4.31 5.11 3.62 0.92 3.10 4.31 6.98 1.74 2.84 6.98 11.51
+1962 0.90 4.92 4.16 2.73 5.99 2.44 4.03 4.33 1.95 4.78 2.91 6.56 6.56 11.30
+1963 443 215 478 1.91 1.06 0.67 1.02 1.13 3.73 5.45 2.50 4.94 5.45 10.70
+1964 3.11 401 7.12 511 4.46 0.79 0.59 1.89 3.94 1.82 4.46 1.18 7.12 11.58
+ASARO RIVER AT ROAD BRIDGE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1959 207
+1960 .. 232 623 540 655 440 382 329 297 239 249 303 346 232
+1961 .. 436 398 394 402 382 354 275 282 273 300 280 258 258
+1962 .. 232 232 347 326 475 322 294 326 350 319 300 315 232
+1963 .. 309 258 248 315 255 242 232 248 294 390 319 322 232
+1964 362 530 530 565 460 320 245 211 189 226 257 301 189
+ASARO RIVER AT ROAD BRIDGE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1959 18.70
+1960 .. 44.59 54.09 50.40 77.09 34.88 39.45 23.75 23.68 17.09 18.65 24.82 37.71 446.20
+1961 .. 41.88 36.74 36.22 34.10 32.14 27.36 20.13 25.09 22.68 34.06 21.41 20.43 352.24
+1962 16 37 28 35 30 33 34.55 45.24 25.25 25.84 30.26 27.41 34.59 24.71 40.87 363.77
+1963 " 26 61 16! 72 24!75 25! 88 18.41 16.62 17.32 20.90 34.60 37.28 25.21 29.89 294.10
+1964 " 48.95 49.90 61.71 48.63 40.78 23.34 17.94 16.92 19.57 18.17 40.16 27.90 413.97
+
+
+BENA RIVER AT ROAD BRIDGE
+(Gulf Drainage Division)
+Catchment Area = 125 square miles
+SITE Bena River, at Bridge on the road from Kainantu to Goroka
+Map reference: BENA BENA. 1 inch = 1 mile. Gridol9o23
+Latitude S. 6° 08' 40". Longitude E. 145° 30' 05"
+Station 57: Bristol recorder—March 1959 to February 1960
+L.5.A35 recorder —January 1960 to date
+GAUGING DATA APRIL 1959 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 5 55566666666
+Mean .. 42.49 43.99 41.37 40.20 32.50 23.73 17.56 17.33 20.02 25.78 24.69 29.97 359.63
+Maximum Annual Discharge 438,880 acre feet in 1960
+Minimum Annual Discharge 224,130 acre feet in 1963
+Maximum Monthly Discharge 75,350 acre feet in February 1964
+Minimum Monthly Discharge 10,130 acre feet in September 1960
+Maximum Daily Flow 5,280 cusecs on 26th January 1964
+Minimum Daily Flow 128 cusecs on 27th and 28th October 1964
+Peak Flow: 15,160 cusecs on 6th February 1964
+Lowest Flow: 122 cusecs on 27th October 1964
+CURRENT METER MEASUREMENTS
+Highest: 2,049 cusecs at gauge 57, height 6.61' on sth January 1961
+Lowest: 127.7 cusecs at gauge 57, height 2.68' on 15th September 1964
+Number of Measurements (1958-64) = 133
+
+
+BENA RIVER AT ROAD BRIDGE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1959 _ _ _ _ 2.51 4.92 1.81 1.67 1.76 2.11 0.49 3.11
+1960 6.76 5.46 7.63 9.55 3.08 3.65 0.37 0.49 0.55 1.02 4.43 2.78 9.55 15.35
+1961 5.40 5.70 12.40 1.82 4.72 4.41 4.41 3.19 9.22 7.04 3.91 1.90 12.40 17.00
+1962 1.07 6.77 4.50 3.82 2.90 1.07 1.54 3.96 2.04 4.54 5.15 7.60 7.60 12.70
+1963 1.10 0.55 1.05 4.45 0.82 - 0.67 0.66 0.87 4.41 6.65 0.80 1.54 6.65 11.75
+1964 13.78 15.16 3.46 2.73 1.61 0.44 1.98 0.72 0.99 0.90 4.95 1.92 15.16 19.30
+BENA RIVER AT ROAD BRIDGE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1959 309 282 309 205 200 191 191 205
+1960 .. 336 850 466 497 319 366 215 178 142 154 215 380 142
+1961 .. 450 382 319 325 400 400 250 253 283 376 294 289 250
+1962 .. 201 190 370 415 493 292 227 263 257 280 257 282 190
+1963 .. 223 169 174 234 191 165 169 170 202 317 244 246 165
+1964 .. 255 515 459 460 302 178 158 134 126 122 154 226 122
+BENA RIVER AT ROAD BRIDGE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1959 36.88 23.48 23.36 15.74 14.56 17.03 13.91 26.34
+1960 .. 58.38 73.63 51.78 70.00 27.09 32.03 16.84 12.80 10.13 14.64 32.96 38.60 438.88
+1961 .. 50.52 35.00 46.82 27.50 41.48 35.93 21.41 31.41 27.36 55.81 27.34 23.40 423.98
+1962 .. 15.76 24.43 34.57 42.04 47.90 24.25 18.30 21.25 22.39 27.92 28.17 44.30 351.28
+1963 .. 21.68 11.52 15.44 17.91 15.39 12.41 13.13 12.51 35.12 29.14 18.20 21.68 224.13
+1964 .. 66.10 75.35 58.26 43.54 26.23 14.26 12.34 1028 1054 10.15 27.56 25.47 380.08
+
+
+BROWN RIVER AT KAREMA
+(South-East Coast Drainage Division)
+Catchment Area = 828 square miles
+SITE Brown River, at the Brown River Road Bridge
+Map reference: VANAPA. 1 inch = 1 mile. Grid 954661
+Latitude S. 9° 12' 00". Longitude E. 147° 13' 37"
+Station 16: Staff gauge—September 1954 to November 1960
+Station 16A: L.5.2A35 recorder —December 1960 to date
+GAUGING DATA SEPTEMBER 1954 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 6776667667774
+Mean .. 226.0 275.6 293.4 251.9 214.9 113.3 89.6 85.5 101.1 108.3 115.5 163.4 2038.5
+Maximum Annual Discharge 2,450,900 acre feet in 1962
+Minimum Annual Discharge 1,559,770 acre feet in 1956
+Maximum Monthly Discharge 378,240 acre feet in February 1955
+Minimum Monthly Discharge 46,840 acre feet in October 1955
+Maximum Daily Flow 13,380 cusecs on 30th January 1962
+Minimum Daily Flow 495 cusecs in October and November 1955
+Peak Flow 17,634 cusecs on 30th January 1962
+Lowest Flow 495 cusecs in October and November 1955
+CURRENT METER MEASUREMENTS
+Highest: 13,720 cusecs at gauge 16A, height 17.47' on 6th April 1959
+Lowest: 873 cusecs at gauge 16A, height 4.64' on 24th September 1959
+(641 cusecs at gauge 16A, height 7.03' on 13th October 1965)
+Number of Measurements (1959-64) 67
+
+
+BROWN RIVER AT KAREMA
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+j 954 4.56 2.33 8.20
+1955 9.20 12.00 8.51 1.31 1.12 1.47 1.20 3.30 4.47
+1956 3! 66 6.30 6.00 9.40 6.40 2.50 1.20 1.20 2.50 2.07 3.39 9.50 9.50 11.50
+1957 7.20 10.00 10.20 12.20 11.00 1.91 1.75
+1961 Z 6?98 l3 ~A6 5.67 10.27 3.20 3.19 6.61 5.93 11.82
+1962 17.63 12.12 10.63 16.24 10.35 3.29 2.17 3.19 5.94 4.34 5.02 8.47 17.63 20.13
+1963 11 14 10 63 12.48 10.23 5.21 6.91 3.58 4.09 6.25 3.67 4.44 8.24 12.48 18.52
+1964 12!13 11.59 13.53 7.32 4.24 3.84 4.93 2.57 4.52 5.03 7.95 3.94 13.53 18.16
+BROWN RIVER AT KAREMA
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+j 954 _ _ _ _ 740 845 1680
+1955 .. 3480 3390 2360 910 680 680 495 495 1280
+1956 1160 2580 2500 2070 1280 870 740 740 820 870 820 870 740
+1957 .. 1280 2740 3660 4200 1750 1080 740
+1961 ’ * _ 2652 2540 2012 2652 2082 1634 1490 1310 1592 1442 1796
+1962 2264 3225 3594 3279 2860 1844 1544 1418 1700 1706 1640 1826 1418
+1963 ” 2428 2596 2540 2564 1768 1502 1322 1268 1328 1406 1208 1430 1208
+1964 .. 2258 3600 3329 2794 1964 1410 1120 1060 930 1214 1490 960 930
+BROWN RIVER AT KAREMA
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1954 107.0 81.2 259.4
+2955 291.8 378.2 241.9 65.9 50.8 50.7 46.8 78.0 115.8
+1956 133 0 212.0 213.0 245.9 154.1 69.5 51.2 49.0 79.0 80.2 121.3 151.5 1559.8
+1957 .. 122.8 251.5 355.1 295.2 227.8 86.2 66.7
+196? “ Z 291 1 247.3 178.5 312.0 170.5 150.0 110.6 90.9 161.6 138.0 197.8
+1962 268 7 262.0 346.3 328.4 295.2 136.7 104.6 108.1 158.1 140.6 136.1 166.2 2450.9
+1963 ’ 238 0 218.9 343.5 234.3 141.0 112.0 97.1 116.8 140.1 115.1 98.1 152.4 2007.2
+1964 ’’ 301 6 315.2 306.4 229.3 159.0 105.0 91.4 78.0 87.6 106.7 155.8 100.9 2036.8
+
+
+DUNANTINA RIVER AT ROAD BRIDGE
+(Gulf Drainage Division)
+Catchment Area = 108 square miles
+SITE Dunantina River, at bridge on the road from Kainantu to Goroka
+Map reference: BENA BENA. 1 inch = 1 mile. Grid 093928
+Latitude S.6° 13' 55". Longitude E. 145° 33' 55"
+Station 36: Bristol recorder —November 1957 to date
+GAUGING DATA DECEMBER 1958 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 565556566655
+Mean .. 30.85 39.72 39.20 35.20 27.10 19.39 13.95 13.08 14.17 20.17 19.59 24.36 296.78
+Maximum Annual Discharge 332,210 acre feet in 1964
+Minimum Annual Discharge 170,700 acre feet in 1963
+Maximum Monthly Discharge 66,640 acre feet in February 1964
+Minimum Monthly Discharge 9,070 acre feet in August 1964
+Maximum Daily Flow 4,800 cusecs on 26th January 1964
+Minimum Daily Flow 118 cusecs on 12th and 13th June 1963
+Peak Flow 29,000 cusecs on 24th January 1964
+Lowest Flow 118 cusecs in June 1963
+CURRENT METER MEASUREMENTS
+Highest: 1,361 cusecs at gauge 36, height 3.90' on 4th March 1961
+Lowest: 126 cusecs at gauge 36, height 1.05' on 26th October 1964
+Number of Measurements (1957-64) = 102
+
+
+DUNANTINA RIVER AT ROAD BRIDGE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1959 1.96 7.23 9.77 6.02 1.92 3.60 0.82 0.22 1.07 2.00 1.48 4.40 9.77 12.05
+1960 5.55 5.22 2.04 1.72 0.33 0.28 0.33 2.00 2.59 4.25
+1961 _ 4.76 14.22 3.03 8.33 4.76 6.08 6.15
+1962 0.57 4.40 2.58 3.69 15.48 1.07 0.72 1.07 2.94 2.85 13.03 2.90 15.48 13.90
+1963 0.79 0.43 1.07 1.27 0.64 0.47 0.85 0.35 3.92 3.41 1.72 2.63 3.92 6.70
+1964 29.00 15.27 5.14 14.43 2.13 0.22 0.22 0.17 0.43 0.98 3.42 0.79 29.00 19.50
+DUNANTINA RIVER AT ROAD BRIDGE
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1959 .. 274 365 388 560 309 249 209 161 150 150 184 263 150
+1960 .. 325 815 309 309 209 150 139 150 184 278
+1961 .. 446 400 278 309 222 249 372
+1962 .. 150 129 263 196 272 272 182 134 134 182 182 157 129
+1963 .. 132 135 150 173 150 118 139 128 139 193 212 198 118
+1964 .. 255 465 465 333 255 193 151 130 125 125 151 162 125
+DUNANTINA RIVER AT ROAD BRIDGE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1959 .. 25.99 34.14 56.48 58.34 32.49 19.63 16.04 11.42 10.34 12.81 13.58 24.58 315.84
+1960 .. 41.58 64.25 23.66 21.99 15.72 11.64 9.28 13.31 17.66 36.46
+1961 .. 42.72 49.06 26.16 28.67 23.77 19.01 43.66
+1962 .. 11.86 20.72 24.68 36.78 45.06 21.99 15.11 13.50 17.23 19.60 30.64 25.95 283.12
+1963 .. 11.69 9.86 13.41 14.07 11.97 9.76 12.25 9.10 19.67 22.05 17.63 19.24 170.70
+1964 .. 63.14 66.64 52.38 40.64 22.32 14.29 10.65 9.07 9.49 9.59 18.43 15.57 332.21
+
+
+EILOGO CREEK AT ARU BADA
+(South-East Coast Drainage Division)
+Catchment Area 12 square miles
+SITE Eilogo Creek above junction with Laloki River at Road Bridge
+on Sirinumu Dam access road
+Map reference: ÜBERI. 1 inch = 1 mile. Grid 183387
+Latitude S. 9° 27' 00". Longitude E. 147° 26' 00"
+Station 42: L.5.2A35 recorder—January 1958 to date
+GAUGING DATA FEBRUARY 1958 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 677777777777
+Mean 3.16 3.16 3.95 4.48 4.85 2.83 2.61 2.23 3.96 3.37 3.10 2.60 40.30
+Maximum Annual Discharge 52,240 acre feet in 1962
+Minimum Annual Discharge 25,260 acre feet in 1959
+Maximum Monthly Discharge 7,940 acre feet in September 1962
+Minimum Monthly Discharge 1,140 acre feet in July 1958
+Maximum Daily Flow 305 cusecs on 6th September 1958
+Minimum Daily Flow 14 cusecs in October 1959
+Peak Flow 1,090 cusecs on 17th May 1960
+Lowest Flow 14 cusecs on 21st October 1959
+CURRENT METER MEASUREMENTS
+Highest: 219 cusecs at gauge 42, height 2.40' on 13th May 1964
+Lowest: 16.0 cusecs at gauge 42, height 1.15' on 10th September 1959
+Number of Measurements (1957-64) = 93
+
+
+EILOGO CREEK AT ARU BADA
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1958 _ 0.09 0.36 0.61 0.12 0.02 0.02 0.07 0.31 0.19 0.29 0.23
+1959 0.10 0.04 0.04 0.26 0.15 0.04 0.07 0.20 0.07 0.31 0.26 0.25 0.31
+1960 0.25 0.17 0.33 0.17 1.09 0.51 0.07 0.13 0.26 0.11 0.07 0.36 1.09 5.00
+1961 0.70 0.66 0.37 0.28 0.40 0.25 0.26 0.29 0.36 0.32 0.37 0.20 0.70 4.31
+1962 0.57 0.65 0.47 0.78 0.30 0.15 0.07 0.25 0.77 0.45 0.46 0.10 0.78 4.48
+1963 0.20 0.40 0.51 0.29 0.23 0.22 0.35 0.09 0.42 0.17 0.21 0.35 0.51 3.82
+1964 0.25 0.07 0.27 0.70 0.61 0.16 0.39 0.63 0.67 0.57 0.63 0.19 0.70 4.24
+EILOGO CREEK AT ARU BADA
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1958 22 21 23 21 18 18 16 34 36 27 25
+1959 .. 25 21 21 20 32 26 24 19 16 14 17 17 14
+1960 .. 20 27 23 42 39 55 28 23 23 17 22 19 17
+1961 .. 27 33 35 34 58 42 49 42 29 39 34 40 27
+1962 .. 53 45 52 71 53 37 26 24 33 39 30 24 24
+1963 ..24 44 53 46 34 31 31 34 33 33 26 26 24
+1964 .. 29 36 35 33 52 37 37 38 35 44 64 43 29
+EILOGO CREEK AT ARU BADA
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1958 .. 1.55 3.12 3.00 1.93 1.18 1.14 1.21 6.74 3.35 2.17 2.13
+1959 .. 2.03 1.37 2.27 6.01 2.72 1.78 1.78 1.27 1.16 1.29 1.68 1.90 25.26
+1960 .. 1.70 2.47 3.10 4.23 7.44 5.35 2.57 1.73 1.88 1.69 1.72 1.84 35.72
+1961 .. 2.91 6.11 3.87 3.14 6.99 3.48 4.46 3.50 2.45 5.62 4.00 3.48 50.01
+1962 .. 7.15 4.08 5.66 6.72 4.85 2.85 2.04 2.06 7.94 4.01 2.80 2.08 52.24
+1963 .. 2.76 4.08 6.22 4.22 3.29 2.40 2.94 2.51 3.67 2.37 2.02 3.02 39.50
+1964 .. 2.40 2.45 3.42 4.05 6.72 2.79 3.34 3.32 3.89 5.28 7.32 3.72 48.70
+
+
+EILOGO CREEK AT EILOGO PLANTATION
+(South-East Coast Drainage Division)
+Catchment Area =6.1 square miles
+SITE Eilogo Creek, at road crossing in Eilogo plantation
+Map reference: ÜBERI. 1 inch = 1 mile. Grid 228387
+Latitude S. 9° 27' 05". Longitude E. 147° 28' 30".
+Station 14: Staff gauge—September 1954 to date
+GAUGING DATA SEPTEMBER 1954 to SEPTEMBER 1957
+Mean Discharges in thousands Acre Feet
+No. of Year, ’7 F f M f' A f ’T J f A “ 8 ' Se 3 Pt °7 N f' Yoar
+ean •• 1-16 4.55 1.74 5.01 4.28 1.42 1.01 0.90 0.68 2.13 2.02 2.92 28.42
+Maximum Annual Discharge }
+, [Not sufficient records
+Minimum Annual Discharge )
+Maximum Monthly Discharge 7,710 acre feet in May 1956
+Minimum Monthly Discharge 350 acre feet in July 1957
+Maximum Daily Flow 639 cusecs on 10th February 1955
+Minimum Daily Flow 4 cusecs in October 1955
+CURRENT METER MEASUREMENTS
+Highest: 119.4 cusecs at gauge 14, height 3.03' on 23rd February 1961
+Lowest: 5.72 cusecs at gauge 14, height 1.03' on 20th August 1959
+Number of Measurements (1954-64) = 89
+NOTE: 1. From October 1957 to date, gauge height records only are available
+2. From February 1958 continuous records are available from gauge 42 repre-
+senting approximately the same catchment
+
+
+EILOGO CREEK AT EILOGO PLANTATION
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1954 _________ 0.36 0.58 0.32
+1955 016 0.64 0.04 0.38 0.12 0.06 0.06 0.02 0.18 0.02 0.06 0.03 0.64
+1956 0.04 0.06 0.09 0.59 0.88 0.27 0.09 0.22 0.10 0.40 0.10 0.06 0.88
+1957 0.06 0.49 0.07 0.14 0.09 0.01 0.01 0.06 0.10
+EILOGO CREEK AT EILOGO PLANTATION
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1954 11 11 21
+1955 .. 21 42 14 21 21 14 21 11 8 4 8 11 4
+1956 ..8 8 11 31 30 11 6 6 6 17 21 11 6
+1957 8 11 17 30 14 5 5 5 6
+EILOGO CREEK AT EILOGO PLANTATION
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1954 _________ 2.26 1.76 6.49
+1955 .. 3.38 7.35 1.52 6.59 3.24 1.63 1.90 0.86 1.01 0.40 1.37 0.91 30.16
+1956 0.59 0.89 1.47 5.10 7.71 2.20 0.78 1.15 0.62 3.72 2.94 1.37 28.54
+1957 .. 1.32 5.41 2.23 3.34 1.89 0.42 0.35 0.70 0.41
+
+
+EWOROGO CREEK AT SOGERI
+(South-East Coast Drainage Division)
+Catchment Area = 30 square miles
+SITE Eworogo Creek, above the junction with the Laloki River at Sogeri Patrol Post.
+Map reference: ÜBERI. 1 inch = 1 mile. Grid 157417
+Latitude S. 9° 25' 25". Longitude E. 147° 24' 40"
+Station 17: Staff gauge—September 1954 to August 1957
+L.5.2A35 recorder—February 1958 to date
+GAUGING DATA SEPTEMBER 1954 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 9 10 10 10 10 10 10 10 9 10 10 10
+Mean .. 9.97 12.40 11.50 14.62 14.26 6.41 5.30 4.60 9.20 9.69 9.94 9.90 117.79
+Maximum Annual Discharge 140,760 acre feet in 1956
+Minimum Annual Discharge 61,460 acre feet in 1959
+Maximum Monthly Discharge 25,990 acre feet in February 1957
+Minimum Monthly Discharge 1,800 acre feet in August 1959
+Maximum Daily Flow 1,319 cusecs on 12th February 1955
+Minimum Daily Flow 21 cusecs on 18th to 21st October 1959
+Peak Flow 3,650 cusecs on 17th May 1960
+Lowest Flow 21 cusecs on 18th to 21st October 1959
+CURRENT METER MEASUREMENTS
+Highest: 1,199 cusecs at gauge 17, height 6.29' on 16th December 1954
+Lowest: 25.5 cusecs at gauge 17, height 1.87' on 2nd October 1959
+(19.9 cusecs at gauge 17, height 1.78' on 15th September 1965)
+Number of Measurements (1954-64) 139
+
+
+EWOROGO CREEK AT SOGERI
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+1954 0.82 0.58 1.42
+1955 116 153 051 1.10 1.70 0.80 0.64 0.08 0.43 0.58 1.10 0.77 1.53 7.2
+1956 1; 30 0.17 0!74 2.70 1.45 0.47 0.47 0.43 0.54 0.90 1.87 1.77 2.70 -
+1957 0.56 2.92 0.95 2.27 0.59 0.08 0.05 0.34
+1958 _ 0.63 0.86 0.76 1.51 0.24 0.04 0.19 2.38 0.89 1.03 0.49
+1959 0.27 0.35 0.58 1.04 0.36 0.29 0.26 0.04 0.30 0.95 0.71 0.73 1.04 6.57
+1960 0.98 0.60 0.87 0.43 3.65 0.87 0.13 0.13 0.66 0.48 0.82 0.70 3.65 10-72
+1961 0.81 1.67 0.69 0.84 1.34 0.68 0.71 0.74 1.04 1.16 1.08 0.81 1.67 7.91
+1962 147 3.10 0.95 1.09 0.51 0.41 0.23 0.63 1.48 0.89 1.17 0.62 3.10 10.08
+1963 0.96 1.04 1.20 1.15 1.02 0.60 0.65 0.50 1.20 0.29 0.43 0.98 1.20 6.76
+1964 0.61 0.42 0.96 0.97 1.24 0.81 0.92 0.78 1.27 0.77 1.12 0.45 1.27 6.92
+EWOROGO CREEK AT SOGERI
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1954 81 72 90
+1955 .. 81 169 105 134 121 63 55 47 47 59 68 88 47
+1956 .. 59 78 88 109 158 98 78 68 68 87 98 65 59
+1957 ..65 76 30 56 76 47 30 30 ~~ ‘ ~~ ~ ~
+1958 62 50 52 84 42 29 23 49 72 42 42
+1959 .. 44 35 30 122 50 44 40 24 24 21 35 39 21
+1960 .. 35 57 46 96 85 103 50 40 37 31 66 40 31
+1961 67 77 65 70 114 73 83 62 46 63 56 71 46
+1962 .. 134 80 103 122 95 51 35 27 52 84 60 81 27
+1963 . 74 144 127 73 72 59 58 58 52 38 28 35 28
+1964 49 71 80 79 118 71 66 57 59 79 121 60 49
+EWOROGO CREEK AT SOGERI
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+j 954 _ _ _ _ _ _ _ 15.85 8.47 24.38
+1955 .. 11.45 25.87 9.03 23.84 19.73 5.35 7.61 3.51 5.10 5.03 14.88 9.13 140.53
+1956 666 6.55 11.65 18.45 18.97 8.61 7.06 6.02 8.10 17.97 16.95 13.77 140.76
+1957 .. 8.08 25.99 16.50 25.66 9.84 3.25 2.12 4.30
+1958 5.42 8.04 5.13 9.91 4.66 1.97 1.82 17.18 9.92 4.97 5.72
+1959 .. 4.60 3.29 6.51 14.93 5.98 3.83 3.44 1.80 2.36 3.35 4.87 6.50 61.46
+1960 558 829 9.45 11.89 23.47 10.84 5.02 3.02 4.11 5.22 7.57 6.38 100.84
+1961 " 841 16.60 8.58 9.08 19.02 7.19 8.79 7.17 6.28 14.34 12.80 9.92 128.18
+1962 . 25.74 9.80 15.93 15.20 10.20 5.24 3.03 4.42 18.13 9.20 7.93 8.71 133.53
+1963 .. 12.81 16.37 18.48 10.76 9.19 6.28 6.29 7.27 11.44 3.77 2.80 7.64 113.10
+1964 . 6.40 5.80 10.82 11.22 16.24 8.82 7.66 6.62 10.07 12.26 18.14 6.85 120.90
+
+
+GABENSIS CREEK BELOW DAMSITE
+(Huon Drainage Division)
+Catchment Area = 31 square miles
+SITE Gabensis Creek, approximately 1 mile downstream of Gabensis Bridge and upstream of
+Garagos Bridge on Lae-Wau Road
+Map reference: NADZAB 1 inch = 1 mile. Grid 393415
+Latitude S. 6° 42' 25". Longitude E. 146° 44' 15"
+Station 20: L.5.A35 recorder —August 1955 to December 1963
+Discontinued
+GAUGING DATA AUGUST 1955 to NOVEMBER 1963
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 768877877777
+Mean .. 3.54 3.87 5.93 4.72 3.52 4.16 5.26 6.59 5.95 4.27 2.61 3.85 54.27
+Maximum Annual Discharge 68,330 acre feet in 1959
+Minimum Annual Discharge 28,150 acre feet in 1956
+Maximum Monthly Discharge 13,720 acre feet in August 1958
+Minimum Monthly Discharge 1,020 acre feet in November 1956
+Maximum Daily Flow 640 cusecs on 24th August 1958
+Minimum Daily Flow 6 cusecs 22nd-24th November 1956
+Peak Flow 682 cusecs on 24th August 1958
+Lowest Flow 6 cusecs on 23rd November 1956
+CURRENT METER MEASUREMENTS
+Highest: 451 cusecs at gauge 20, height 7.51' on 14th August 1958
+Lowest: 6.5 cusecs at gauge 20, height 1.13' on 27th November 1956
+Number of Measurements (1955-63) = 73
+
+
+GABENSIS CREEK BELOW DAMSITE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1955 ________ 0.1 l 0.08 0.23 0.29
+1956 0.14 0.09 0.15 0.11 0.04 0.06 0.05 0.19 0.07 0.06 0.05 0.12 0.19 4.04
+1957 0.15 0.24 0.34 0.41 0.14 0.27 0.50 _______
+1958 0.33 0.45 0.34 0.68 0.17 0.14 0.06 0.28
+1959 0.18 0.41 0.43 0.10 0.19 0.25 0.16 0.37 0.44 0.15 0.07 0.11 0.43 7.27
+1960 0.22 0.39 0.24 0.10 0.28 0.27 0.36 _ _ 0.38
+1961 0.22 0.11 0.12 0.07 0.41 0.26 0.21 0.31 0.59 0.27 0.10 0.05 0.59 9.21
+1962 0.13 0.12 0.20 0.10 0.09 0.08 0.13 0.19 0.26 0.11 0.12 0.22 0.26 4.78
+1963 0.27 0.03 0.13 0.05 0.04 0.13 0.40 0.24 0.39 0.31 0.10 _ _ _
+GABENSIS CREEK BELOW DAMSITE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1955 _ 52 39 36 43
+1956 .. 40 13 11 37 25 24 21 21 25 21 6 8 6
+1957 34 35 58 70 57 65 87
+1958 _ 67 58 44 63 64 51 27 27
+1959 .. 46 84 63 59 48 60 61 61 80 45 42 23 23
+1960 40 59 59 53 56 50 63 41
+1961 .. 13 41 42 36 31 42 59 50 49 60 22 8 8
+1962 .. 19 34 24 23 28 22 35 53 47 39 35 38 19
+1963 .. 9 24 27 26 19 16 33 42 42 46 31
+GABENSIS CREEK BELOW DAMSITE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1955 .. 4 38 2 99 4 22 5 42
+1956 3.54 1.98 3.56 3.10 1.88 1.83 1.63 3.84 1.99 1.64 LO2 2A4 28.15
+1957 .. 3.74 4.15 8.69 8.33 5.28 6.46 10.03 ______
+1958 11.65 8.92 5.10 13.72 5.91 4.14 2.17 4.52
+1959 .. 4.49 9.24 8.22 4.21 4.26 6.91 5.29 5.67 10.58 4.22 2.84 2.40 68.33
+1960 .. 3.97 5.91 6.04 3.86 5.07 5.27 6.21 _ _ _ 6.43
+1961 .. 4.44 3.19 3.67 2.72 4.87 4.76 5.61 6.38 7.06 7.62 2.97 1.32 54.61
+1962 .. 1.81 3.14 3.28 2.47 2.94 2.29 3.52 5.19 6.08 3.25 2.62 4.73 41.32
+1963 .. 2.77 1.54 2.42 1.94 1.53 1.82 5.66 5.11 5.67 6.02 2.41
+
+
+GABENSIS CREEK AT ROAD CROSSING
+(Huon Drainage Division)
+Catchment Area = 21 square miles
+SITE Gabensis Creek, at the Wau-Lae road crossing
+Map reference: NADZAB. 1 inch = 1 mile. Grid 432405
+Latitude S. 6° 43' 00". Longitude E. 146° 46' 20"
+Station 3: Staff gauge—October 1952 to July 1955
+Discontinued
+GAUGING DATA OCTOBER 1952 to JULY 1955
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 233333322333
+Mean .. 4.83 4.48 7.92 6.52 4.41 6.09 9.80 9.57 8.10 3.67 2.65 4.52 72.56
+Maximum Annual Discharge )
+Minimum Annual Discharge )
+Not sufficient records
+Maximum Monthly Discharge 17,470 acre feet in July 1953
+Minimum Monthly Discharge 1,440 acre feet in April 1955
+Maximum Daily Flow 1,350 cusecs in July and September 1953
+Minimum Daily Flow 15 cusecs on 11th and 27th December 1952
+Peak Flow 1,350 cusecs in July and September 1953
+Lowest Flow 15 cusecs on 11th and 27th December 1952
+CURRENT METER MEASUREMENTS
+Highest: 124.3 cusecs at gauge 3, on 10th October 1952
+Lowest: 22.0 cusecs at gauge 3, on Ist June 1956
+Number of Measurements (1952-56) = 28
+
+
+GABENSIS CREEK AT ROAD CROSSING
+Maximum Flow in thousands Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Gauge
+Height
+(feet)
+1952 0.55 0.23 0.27
+1953 0.11 0.13 0.15 0.27 0.63 0.27 1.35 0.33 1.35 0.09 0.06 0.27 1.35 3.00
+GABENSIS CREEK AT ROAD CROSSING
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1952 35 25 15
+1953 .. 17 62 80 94 35 45 57 120 90 57 57 57 17
+GABENSIS CREEK AT ROAD CROSSING
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1952 .. 3.57 2.42 2.38
+1953 .. 2.79 5.13 6.79 10.39 5.34 6.00 17.47 11.49 10.79 4.29 3.42 4.01 87.91
+1954 .. 4.93 12.20 7.74 6.05 3.18 4.92 7.64 5.41 3.11 2.11 7.17
+1955 .. 6.86 3.37 4.78 1.44 1.85 9.09 7.02
+NOTE: Daily discharges Feb. 1954 to July 1955 obtained by correlation with gauge 4.
+
+
+GOLDIE RIVER AT UBERI
+(South-East Coast Drainage Division)
+Catchment Area = 31 square miles
+SITE Goldie River, above the Kokoda Trail crossing at Überi
+Map reference: ÜBERI. 1 inch = 1 mile. Grid 243485
+Latitude S. 9° 21' 45". Longitude E. 147° 29' 35"
+Station 67: L.5.2A35 recorder —December 1961 to date
+GAUGING DATA DECEMBER 1961 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 222333223333
+Mean .. 22.35 17.87 22.73 16.31 16.13 11.35 11.47 18.66 20.76 14.59 14.56 13.88 200.66
+Maximum Annual Discharge |
+Minimum Annual Discharge )
+Not sufficient records
+Maximum Monthly Discharge 25,840 acre feet in March 1963
+Minimum Monthly Discharge 7,840 acre feet in November 1963
+Maximum Daily Flow 1,330 cusecs on 9th March 1963
+Minimum Daily Flow 71 cusecs on 12th November 1963
+Peak Flow 6,290 cusecs on 2nd December 1963
+Lowest Flow 71 cusecs on 12th November 1963
+CURRENT METER MEASUREMENTS
+Highest: 3,008 cusecs at gauge 67, height 11.27' on 17th May 1962
+Lowest: 93.5 cusecs at gauge 67, height 2.00' on 13th September 1961
+(41 cusecs at gauge 67, height 1.50' on 9th September 1965)
+Number of Measurements (1960-64) = 114
+
+
+GOLDIE RIVER AT ÜBERI
+Maximum Flow in thousands Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Gauge
+Height
+(feet)
+1962 4.96 1.83 1.48 4.86 2.97 1.42 5.12 5.32 3.69 2.02
+1963 6.04 5.36 4.56 2.65 3.15 1.72 1.49 5.13 4.39 1.73 1.25 6.29 629 19 15
+1964 2.56 1.94 3.21 2.08 4.26 2.92 3.70 4.71 1.20
+GOLDIE RIVER AT ÜBERI
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1962 .. 114 99 160 164 148 108 200 127 88 110
+1963 .. 137 173 162 90 88 97 99 101 101 86 71 92 71
+1964 118 148 105 94 104 122 129 176 91
+GOLDIE RIVER AT ÜBERI
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1962 .. 24.23 13.91 19.62 21.48 18.58 11.41 24.51 17.49 16.03 14.86
+1963 .. 20.46 21.83 25.84 11.67 13.07 11.49 11.94 19.54 19.00 9.83 17.84 17.55 19006
+1964 .. 15.79 16.73 11.15 10.99 17.77 18.76 16.45 19.82 9.22
+
+
+GOROKA CREEK ABOVE RACE LINE
+(Gulf Drainage Division)
+Catchment Area = 15 square miles
+SITE Goroka Creek, above the raceline offtake approximately 8 miles from the Asaro River
+Map reference: BENA BENA. 1 inch = 1 mile. Grid 920127
+Latitude S. 6° 03' 00". Longitude E. 145° 24' 45"
+Station 27: Bristol recorder—February 1957 to September 1964
+Discontinued
+GAUGING DATA FEBRUARY 1957 to AUGUST 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 767778887777
+Mean .. 5.88 6.62 7.27 6.93 5.43 4.29 3.50 3.57 4.19 4.85 4.13 5.65 62.31
+Maximum Annual Discharge 68,990 acre feet in 1960
+Minimum Annual Discharge 45,100 acre feet in 1963
+Maximum Monthly Discharge 10,530 acre feet in February, 1964
+Minimum Monthly Discharge 1,610 acre feet in August, 1958
+Maximum Daily Flow 455 cusecs on 26th January, 1964
+Minimum Daily Flow 21 cusecs in August and September 1958
+Peak Flow 2,140 cusecs on 12th April 1959
+Lowest Flow 21 cusecs in August and September 1958
+CURRENT METER MEASUREMENTS
+Highest: 240 cusecs at gauge 27, height 2.26' on 13th April 1959
+Lowest: 38.9 cusecs at gauge 27, height 0.98' on 2nd September 1960
+Number of Measurements (1955-64) = 140
+
+
+GOROKA CREEK ABOVE RACE LINE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1957 _____ 0.19 0.28 0.38 1.49 0.43 0.38 1.60
+1958 021 1.00 0.24 0.10 0.09 0.09 0.18 0.15 1.29 0.43 1.29
+1959 L 39 1.29 0.86 2.14 0.20 0.91 0.18 0.07 0.13 0.31 0.17 0.29 2.14 6.60
+1960 0.60 1.39 1.09 0.58 0.29 0.31 0.08 0.05 0.07 0.23 0.69 1.34 1.39 5.30
+1961 114 0.91 1.00 0.48 0.76 0.16 0.07 0.88 0.55 0.31 0.26 0.23 1.14 4.80
+1962 0.92 0.49 0.34 0.88 0.20 0.22 0.35 0.55 1.34 1.44 0.95 1.44 5.40
+1963 010 005 0.19 0.24 0.07 0.18 0.19 0.10 1.14 0.61 0.11 0.33 1.14 4.80
+1964 2.11 1.42 0.58 0.63 0.23 0.19 0.13 0.10
+GOROKA CREEK ABOVE RACE LINE
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1957 84 72 78 76 48 39 55
+1958 “ 59 74 59 33 29 29 21 21 22 40 84
+1959 .. 67 85 97 77 67 53 41 39 34 35 37 52 34
+1960 .. 56 138 88 101 58 70 47 40 33 33 48 65 33
+1961 74 76 74 52 69 63 41 41 50 60 49 53 41
+1962 39 39 69 65 91 63 48 51 55 59 60 65 39
+1963 50 41 41 57 44 40 39 40 41 62 45 48 39
+1964 .. 60 117 117 90 78 60 50 45
+GOROKA CREEK ABOVE RACE LINE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1957 _____ 5.35 5.28 6.13 6.29 5.25 3.38 6.29
+1958 5.35 7.28 4.87 3.16 2.07 2.33 1.61 1.73 4.29 4.79 7.51
+1959 .. 5.43 6.67 9.22 9.24 6.95 4.45 3.42 2.86 2.76 3.23 2.73 4.35 61.31
+1960 7.52 9.90 8.01 9.72 4.89 6.18 3.38 2.70 2.34 3.13 4.32 6.90 68.99
+1961 701 617 6.98 4.99 6.48 4.66 3.02 4.92 4.63 6.61 5.05 4.22 64.74
+1962 289 400 5.83 7.08 7.61 4.66 4.14 4.46 5.72 5.58 5.25 6.25 63.47
+1963 ' 385 2.47 3.47 4.35 3.22 2.94 2.93 2.77 5.84 5.85 3.41 4.00 45.10
+1964 .. 9.10 10.53 10.09 8.29 5.72 3.99 3.50 3.08 _ _ _
+
+
+GUM RIVER BELOW WOPI
+(North-Central Drainage Division)
+Catchment Area =20.3 square miles
+SITE Gum River below Wopi Village
+Map reference: MADANG. 1 inch = 1 mile. Grid 605280
+Latitude S. 5° 05'. Longitude E. 145° 41'
+Station 18: L.5.A35 recorder —October 1954 to December 1963
+Discontinued
+GAUGING DATA OCTOBER 1954 to DECEMBER 1963
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 346776777664
+Mean .. 2.74 4.42 8.05 9.63 9.00 7.10 6.86 6.43 4.53 5.75 8.74 5.07 78.32
+Maximum and Minimum Discharges and Flows not given due to poor quality of records
+CURRENT METER MEASUREMENTS
+Highest: 688 cusecs at gauge 18, height 4.40' on 12th August 1961
+Lowest: 10.7 cusecs at gauge 18, height 0.76' on 16th October 1954
+Number of Measurements (1954-63) = 99
+
+
+GUM RIVER BELOW WOPI
+Maximum Flow in thousands Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Gauge
+Height
+(feet)
+1956 _ 3.97 0.21 0.24 0.71 1.50 1.51 0.16 2.25 1.20
+1957 2.17 1.66 8.92 8.92 2.22 2.44 2.84 2.68
+1958 ______ 8.50 2.33 0.28 6.88 18.00
+1959 _ 3.01 2.33 3.19 2.09 1.80 1.13 16.09 1.49 0.60 3.39 0.81
+1960 _ _ 7.36 6.03 3.26 18.42 0.87
+1961 _ _ 8.30 1.53 19.04 1.99 1.52 5.62 1.80 5.32 0.70 1.38
+1962 0.36 0.21 13.12 3.39 8.61 1.41 6.58 10.65 1.43 1.01 1.68 1.67 13.12 19.10
+1963 0.56 0.11 8.85 8.85 1.38 3.68 10.10 5.68 6.36 5.02 22.55 _ _
+GUM RIVER BELOW WOPI
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1956 19 14 11 11 12 9 7 7 16
+1957 ..13 19 30 23 30 17 33
+1958 .. 16 19 16 16 18
+1959 .. 39 40 41 21 16 15 16 23 23 21 21
+1960 31 28 25 29 24
+1961 _ _ 26 44 49 44 29 25 30 20 16 16
+1962 .. 10 11 61 24 30 32 25 28 19 15 22 31 10
+1963 .. 16 12 12 17 21 21 23 23 28 25 27
+GUM RIVER BELOW WOPI
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1956 _ _ _ 6.37 1.32 1.25 1.37 2.94 2.32 0.90 3.13 4.88
+1957 .. 4.30 4.76 10.52 8.20 12.96 6.39 6.73
+1953 9.90 3.36 2.06 7.31 13.51
+1959 " 10.33 10.18 11.08 5.85 3.41 2.96 8.75 3.76 3.86 7.60 4.09
+1960 .. 7.45 18.31 5.26 19.27 3.24
+1961 .. 9.35 8.10 22.08 9.73 5.49 6.84 4.08 8.54 2.92 3.64
+1962 127 1.59 6.40 7.89 10.72 4.85 11.85 10.06 3.95 3.61 8.38 7.65 78.22
+1963 264 0.99 4.37 7.43 4.79 4.11 13.19 6.66 8.84 10.27 16.90
+
+
+LALOKI RIVER AT BOMANA PUMPING STATION
+(South-East Coast Drainage Division)
+Catchment Area = 154 square miles
+SITE Laloki River at Bomana Pumping Station
+Map reference: PORT MORESBY. 1 inch = 1 mile. Grid 983450
+Latitude S. 9° 23' 35". Longitude E. 147° 15' 10"
+Station 15: Staff gauge—October 1954 to date
+GAUGING DATA OCTOBER 1954 to AUGUST 1957
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. ofYears 333333332233
+Mean .. 34.98 81.38 49.97 87.49 54.05 17.91 15.39 12.33 14.66 26.83 38.40 63.38 496.77
+Maximum Annual Discharge J
+Minimum Annual Discharge )
+Not sufficient records
+Maximum Monthly Discharge 112,880 acre feet in February 1955
+Minimum Monthly Discharge 8,240 acre feet in July 1957
+Maximum Daily Flow 10,300 cusecs on 17th—18th February 1957
+Minimum Daily Flow 73 cusecs in August 1957
+CURRENT METER MEASUREMENTS
+Highest: 2,636 cusecs at gauge 15, height 79.06' on 29th March 1961
+Lowest: 113.7 cusecs at gauge 15, height 71.75' on 7th August 1957
+Number of Measurements (1955-64) = 30
+NOTE: From September 1957 to date, gauge height records only are available
+
+
+LALOKI RIVER AT BOMANA PUMPING STATION
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1954 1.19 6.30
+1955 182 6.30 2.29 3.16 3.47 0.45 1.21 0.23 0.29 0.51 1.97 3.53 6.30 87.0
+1956 1.89 1.52 1.85 7.45 4.42 0.96 0.77 0.43 0.77 1.40 2.75 5.54 7.45 87.6
+1957 3.27 10.30 3.58 7.76 2.60 0.67 0.24 1.58
+LALOKI RIVER AT BOMANA PUMPING STATION
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1954 143 230
+1955 485 768 200 348 445 215 165 87 87 101 129 230 87
+1956 .! 143 293 329 485 425 245 143 157 157 311 311 200 143
+1957 .. 230 311 485 840 293 143 101 73
+LALOKI RIVER AT BOMANA PUMPING STATION
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1954 - 15.9 99.2 -
+1955 54 6 112.9 34.5 67.0 54.4 17.8 21.1 9.5 11.1 10.7 39.2 35.7 468.5
+1956 " 18 1 25.1 42.3 86.8 57.5 22.3 16.8 12.5 18.2 43.0 60.1 55.2 457.9
+1957 .. 32.2 106.2 73.2 108.7 50.2 13.6 8.2 15.0
+
+
+LALOKI RIVER AT SIRINUMU
+(South-East Coast Drainage Division)
+Catchment Area = 62 square miles
+SITE Laloki River, approximately 200 yards upstream of confluence of Eilogo Creek
+Map reference: ÜBERI. 1 inch = 1 mile. Grid. 181387
+Latitude S. 9° 27' 10". Longitude E. 147° 25' 55"
+Station 19: L.5.A35 recorder —July 1955 to date
+GAUGING DATA JULY 1955 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 9 9 9 9 9 9 9 10 10 10 10 10
+Mean .. 15.32 16.38 16.32 19.18 21.03 9.82 8.67 5.78 13.10 11.81 10.45 11.81 159.67
+Maximum Annual Discharge 268,590 acre feet in 1961
+Minimum Annual Discharge 78,400 acre feet in 1959
+Maximum Monthly Discharge 55,910 acre feet in May 1961
+Minimum Monthly Discharge 1,470 acre feet in May 1963
+Maximum Daily Flow 6,390 cusecs on 7th September 1958
+Minimum Daily Flow 14 cusecs in May, June, July, August 1963
+Peak Flow 13,350 cusecs on 26th February 1962
+Lowest Flow 12 cusecs on 22nd June and 29th August 1963
+CURRENT METER MEASUREMENTS
+Highest: 2,930 cusecs at gauge 19, height 5.865' on 16th May 1961
+Lowest: 19.1 cusecs at gauge 19, height 0.41' on 28th June 1963
+Number of Measurements (1956-64) = 73
+
+
+LALOKI RIVER AT SIRINUMU
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1955 _______ 0.10 0.80 0.17 1.58 3.85
+1956 1.05 0.98 1.39 5.44 4.47 1.14 1.06 0.25 0.60 0.88 2.96 2.50 5.44 8.95
+1957 2.87 7.02 1.60 3.35 2.28 0.10 0.32 0.89 0.63 1.60 1.18 10.13 10.13 13.80
+1958 0.55 2.10 2.78 1.25 0.42 0.11 0.08 0.06 11.99 1.03 0.82 0.89 11.99 15.41
+1959 0.34 0.42 0.58 3.54 0.27 0.11 0.77 0.08 0.10 0.92
+1960 0.57 0.75 3.14 2.90 12.46 3.68 0.27 1.62 3.94 0.60 0.22 4.58 12.46 15.80
+1961 6.47 6.57 5.50 1.07 3.94 1.06 4.90 0.89 1.01 4.16 0.65 1.28 6.57 10.21
+1962 4.24 13.35 1.91 4.86 3.34 0.45 0.59 0.60 2.69 0.68 0.32 0.11 13.35 16.54
+1963 1.42 1.18 1.99 2.83 0.22 1.36 0.53 0.33 1.03 0.48 1.93 1.34 2.83 5.62
+1964 1.71 0.26 0.25 1.37 1.18 0.98 0.27 0.39 0.54 0.50 2.42 0.81 2.42 5.03
+LALOKI RIVER AT SIRINUMU
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1955 26 26 21 21 42
+1956 .. 34 54 83 145 115 70 54 42 48 99 90 64 34
+1957 .. 88 96 156 232 103 56 45 34 45 52 28 29 28
+1958 .. 77 75 131 126 101 62 43 29 46 81 51 46 29
+1959 .. 59 52 44 136 75 60 66 45 27 21 23 22 21
+1960 .. 23 56 46 126 94 162 94 64 94' 64 45 44 23
+1961 .. 91 134 91 120 281 162 185 112 73 112 89 81 73
+1962 .. 206 147 185 228 141 95 81 62 138 62 38 45 38
+1963 .. 37 120 20 17 14 12 15 12 16 246 133 213 12
+1964 .. 130 92 24 23 29 94 79 125 125 119 114 107 23
+LALOKI RIVER AT SIRINUMU
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1955 .. 2.22 2.92 1.62 9.94 11.15
+1956 .. 4.65 9.85 10.89 28.64 15.13 6.87 6.50 3.56 4.94 9.76 17.12 15.89 133.80
+1957 .. 12.89 39.21 22.39 32.45 17.05 4.37 3.51 5.47 4.38 8.03 3.26 22.23 175.24
+1958 .. 8.24 8.48 18.02 12.74 9.78 4.79 3.35 2.15 43.02 10.95 5.21 5.94 132.67
+1959 .. 7.53 4.42 4.85 29.25 6.59 4.60 6.59 3.46 2.48 1.96 2.73 3.94 78.40
+1960 .. 3.28 7.98 14.45 21.87 29.39 25.96 9.39 8.19 12.37 5.78 4.88 12.43 155.97
+1961 .. 27.25 29.01 15.11 14.59 55.91 16.74 32.45 13.97 9.29 32.06 8.64 13.57 268.59
+1962 .. 48.60 28.65 27.68 27.46 18.27 7.79 6.72 7.09 35.60 9.91 4.77 3.44 225.98
+1963 .. 11.20 13.29 30.79 3.33 1.47 1.63 2.44 3.13 5.67 24.69 19.27 14.59 131.50
+1964 .. 14.22 6.54 2.73 2.32 35.69 15.59 7.10 8.55 10.35 13.36 28.66 14.95 160.06
+
+
+LALOKI RIVER AT SOGERI
+(South-East Coast Drainage Division)
+Catchment Area = 120 square miles
+SITE Laloki River, at low level bridge approximately 1 mile above Rouna Falls
+Map reference: ÜBERI. 1 inch = 1 mile. Grid 142416
+Latitude S. 9° 25' 30". Longitude E. 147° 23' 45"
+Station 1 : L.5.A35 recorder—September 1951 to date
+GAUGING DATA SEPTEMBER 1951 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 13 13 13 13 13 13 13 13 13 14 14 14
+Mean .. 35.48 41.12 36.30 41.61 43.86 22.35 17.84 14.27 24.65 23.98 24.82 28.76 355.04
+Maximum Annual Discharge 497,130 acre feet in 1961
+Minimum Annual Discharge 200,070 acre feet in 1959
+Maximum Monthly Discharge 91,950 acre feet in January 1962
+Minimum Monthly Discharge 6,980 acre feet in October 1951
+Maximum Daily Flow 5,290 cusecs on 26th February 1962
+Minimum Daily Flow 68 cusecs on 24th August 1958
+Peak Flow 15,800 cusecs on 26th February 1962
+Lowest Flow 67 cusecs on 24th August 1958
+CURRENT METER MEASUREMENTS
+Highest: 4,474 cusecs at gauge 1, height 8.50' on 30th January 1962
+Lowest: 70.4 cusecs at gauge 1, height -o.lo' on 14th October 1959
+Number of Measurements (1954—64) = 152
+
+
+LALOKI RIVER AT SOGERI
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1951 _________ 0.16 1.88 1.14
+1952 1.98 2.70 1.82 1.44 3.00 1.88 2.93 2.31 1.64 1.25 3.49 1.72 3.49 6.56
+1953 2.55 1.28 3.61 1.66 1.15 1.17 0.31 1.81 0.75 0.86 1.92 2.36 3.61 6.71
+1954 6.02 6.35 2.50 3.01 4.80 0.76 0.21 0.34 1.52 2.00 1.21 7.12 7.12 10.62
+1955 1.59 6.90 1.43 3.68 4.46 1.06 1.06 0.31 0.92 0.50 2.48 2.82 6.90 10.40
+1956 2.01 4.29 1.49 1.48 1.06 1.04 1.39 3.02 3.12 _
+1957 3.66 9.97 2.73 5.67 2.59 0.23 0.35 1.45 1.00 2.05 0.43 9.38 9.97 13.34
+1958 0.70 1.97 2.96 1.69 2.05 0.72 0.15 0.26 11.96 1.94 3.04 1.06 11.96 15.05
+1959 0.80 0.62 0.97 3.94 0.63 0.41 1.00 0.19 0.38 1.47 1.20 2.35 3.94 7.12
+1960 2.04 1.00 4.14 3.00 14.07 3.75 0.51 1.31 1.99 0.81 0.90 4.42 14.07 16.62
+1961 7.52 4.99 5.11 1.76 4.73 1.29 4.97 1.86 2.16 4.48 1.60 2.03 7.52 11.02
+1962 6.34 15.80 2.89 5.66 2.87 0.72 0.81 1.18 4.03 1.18 1.70 0.64 15.80 17.80
+1963 1.70 1.48 3.39 6.00 1.35 2.81 1.30 0.69 1.84 0.96 2.17 1.77 6.00 9.49
+1964 3.22 0.59 1.48 2.59 2.69 1.55 1.36 1.81 2.38 1.51 2.83 1.51 3.22 6.23
+LALOKI RIVER AT SOGERI
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1951 100 90 110
+1952 .. 110 396 451 370 300 370 240 202 263 181 165 256 110
+1953 .. 241 202 178 316 187 137 135 110 133 184 199 205 110
+1954 .. 297 430 314 307 436 175 100 93 93 157 167 205 93
+1955 .. 475 672 262 402 504 238 205 105 99 103 107 202 99
+1956 ..125 412 250 155 135 123 297 232 153
+1957 .. 226 226 433 464 226 117 108 100 128 132 100 107 100
+1958 .. 211 187 281 275 256 129 93 67 104 271 163 154 67
+1959 .. 178 121 120 401 203 170 177 107 86 73 103 102 73
+1960 .. 98 183 140 348 333 443 206 168 194 138 170 133 98
+1961 .. 229 300 238 294 522 343 378 275 194 272 215 262 194
+1962 .. 482 364 454 465 325 199 149 108 255 236 152 173 108
+1963 .. 163 406 242 171 157 135 119 113 141 397 265 318 113
+1964 .. 338 237 155 138 358 230 212 239 227 282 341 236 138
+LALOKI RIVER AT SOGERI
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1951 6.98 12.63 12.93
+1952 .. 46.17 66.23 57.92 33.00 39.78 46.30 28.01 30.64 29.16 21.87 42.13 33.81 475.02
+1953 .. 29.84 24.67 27.04 27.70 23.38 11.55 10.23 14.49 14.91 17.38 24.76 28.39 254.34
+1954 .. 58.57 41.69 32.17 38.34 61.63 19.45 8.93 7.10 12.16 32.48 16.46 64.33 393.31
+1955 .. 43.01 86.79 26.80 54.47 51.73 21.07 21.72 10.10 9.74 8.41 29.74 26.76 390.34
+1956 .. 12.57 25.02 34.38 69.82 44.48 21.51 17.48 11.79 14.05 32.18 38.76 32.44 354.48
+1957 .. 28.49 73.84 42.60 67.11 33.11 8.95 7.50 12.14 10.69 16.13 9.18 45.56 355.30
+1958 .. 19.06 17.78 31.90 23.66 26.19 11.31 7.23 5.09 68.32 31.45 16.76 17.56 276.31
+1959 .. 18.75 10.39 16.27 56.58 18.47 13.27 14.82 8.42 7.59 8.37 11.67 15.47 200.07
+1960 .. 12.44 22.30 30.60 45.41 68.70 44.22 19.94 15.40 20.40 15.17 16.81 21.15 332.54
+1961 .. 42.67 56.97 33.67 30.86 88.31 31.28 48.33 29.21 21.41 54.55 28.64 31.23 497.13
+1962 .. 91.95 52.32 56.87 51.05 35.28 17.31 12.76 14.03 61.95 25.63 17.51 15.91 452.57
+1963 .. 29.63 38.79 60.67 22.41 17.29 13.90 14.14 14.30 23.33 32.80 25.80 29.57 322.63
+1964 .. 28.03 17.80 21.05 20.55 61.81 30.40 20.78 19.91 26.71 32.27 56.60 27.46 363.37
+
+
+MAMBARE RIVER BELOW CHIRIMA JUNCTION
+(North-East Coast Drainage Division)
+Catchment Area = 820 square miles
+SITE Mambare River, approximately £ mile below the junction with Chirima River
+Map reference: BUNA. 1 inch = 4 miles. Grid (Q) C 4131
+Latitude S. 8° 37' 20". Longitude E. 147° 38' 20"
+Station 78: L.5.2A35 recorder —December 1961 to date
+GAUGING DATA DECEMBER 1961 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 3333333333333
+Mean .. 485.5 410.4 586.9 543.8 468.4 297.1 297.2 476.6 514.6 497.9 490.5 426.7 5495.6
+Maximum Annual Discharge 5,974,960 acre feet in 1962
+Minimum Annual Discharge 4,889,950 acre feet in 1963
+Maximum Monthly Discharge 726,760 acre feet in January 1964
+Minimum Monthly Discharge 255,970 acre feet in June 1964
+Maximum Daily Flow 24,320 cusecs on 7th January 1964
+Minimum Daily Flow 2,520 cusecs on 22nd July 1963
+Peak Flow 131,560 cusecs on 30th April 1964
+Lowest Flow 2,468 cusecs on 22nd July, 1963
+CURRENT METER MEASUREMENTS
+Highest: 23,653 cusecs at gauge 78, height 12.00' on 30th April, 1964
+Lowest: 3,201 cusecs at gauge 78, height 3.50' on 17th June 1963
+(2,384 cusecs at gauge 78, height 3.18' on 11th July 1965)
+Number of Measurements (1962-64) = 24
+
+
+MAMBARE RIVER BELOW CHIRIMA JUNCTION
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(leet)
+1962 58 3 37 9 51.5 61.9 67.1 29.1 32.4 34.6 49.0 56.7 40.0 56.5 67.1 24.40
+1963 12 2 30.4 91.9 58.7 14.8 25.0 11.2 63.9 51.9 63.5 59.1 51.6 91.9 30.20
+1964 16.9 45.2 131.6 32.8 24.0 31.5 29.4 76.1 41.1 83.3 21.5 131.6 38.70
+MAMBARE RIVER BELOW CHIRIMA JUNCTION
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1962 3870 4298 5575 5609 4474 3900 3645 4330 5099 4618 3735 4442 3645
+1963 3406 3570 3406 3675 2720 2664 2468 3420 3705 4050 3252 3540 2468
+1964 5252 4186 4394 4170 5065 2622 2608 4035 4650 3990 4378 3126 2608
+MAMBARE RIVER BELOW CHIRIMA JUNCTION
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1962 411 0 461 6 614.6 665.3 593.6 343.2 360.7 479.3 555.7 535.5 477.1 477.3 5974.9
+1963 " 3187 ml!) 594.0 434.9 284.8 292.0 256.5 535.3 433.9 516.2 448.2 463.5 4890.0
+1964 .. 726.8 457.6 551.9 531.3 526.7 256.0 274.3 415.1 554.3 441.9 546.2 339.4 5621.5
+
+
+MUSA RIVER AT NADI GABUNA
+(North-East Coast Drainage Division)
+Catchment Area = 1,625 square miles
+SITE Musa River, one mile below junction with the Adan River
+Map reference: TUFI. 1 inch = 4 miles. Grid (Q) J 5726
+Latitude S. 9° 33'. Longitude E. 148° 42' 30"
+Station 45: L.5.A35 recorder—August 1958 to date
+GAUGING DATA AUGUST 1958 to DECEMBER 1964
+Mean Discharge in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 666666656677
+Mean .. 584.3 628.4 766.6 751.3 637.3 516.2 462.7 482.2 570.1 497.9 381.2 417.0 6695.2
+Maximum Annual Discharge 7,901,830 acre feet in 1962
+Minimum Annual Discharge 5,068,480 acre feet in 1963
+Maximum Monthly Discharge 1,087,140 acre feet in April 1959
+Minimum Monthly Discharge 230,950 acre feet in July 1963
+Maximum Daily Flow 36,630 cusecs on 10th April 1959
+Minimum Daily Flow 2,130 cusecs on 20th August 1958
+Peak Flow 37,700 cusecs on 10th August 1963
+Lowest Flow 2,117 cusecs on 20th August 1958
+CURRENT METER MEASUREMENTS
+Highest: 33,442 cusecs at gauge 45, height 22.15' on 14th August 1963
+(34,200 cusecs at gauge 45, height 23.33' on 21st February 1965)
+Lowest: 2,169 cusecs at gauge 45, height 3.84' on 3rd August 1958
+(2,050 cusecs at gauge 45, height 2.63' on 24th August 1965)
+Number of Measurements (1958-64) = 153
+
+
+MUSA RIVER AT NADI GABUNA
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1958 ________ 28.05 28.85 15.07 28.49
+1959 32.57 25.60 32.92 43.54 21.30 24.22 25.41 18.58 16.43
+1960 33.36 32.68 32.49 33.68 24.15 30.07 16.07 19.76 14.37 20.34 20.53 15.19 33.68 24.24
+1961 18.34 23.05 29.46 22.17 32.38 26.57 25.66 18.41 29.00 25.37 12.70 22.47 32.38 26.85
+1962 26.75 34.20 27.34 37.14 25.97 22.13 22.59 21.21 34.29 12.78 16.84 26.97 37.14 29.90
+1963 25.23 16.20 24.76 20.88 14.52 7.80 13.00 37.70 22.45 26.95 15.49 12.33 37.70 26.25
+1964 25.31 22.90 29.36 25.56 30.83 16.15 26.64 15.55 26.60 12.91 20.85 16.34 30.83 22.75
+MUSA RIVER AT NADI GABUNA
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1958 .. 4286 5804 4308 3780
+1959 .. 3430 4490 7220 9260 5936 6560 5144 2810 3580
+1960 .. 3076 10844 7184 5780 5400 6240 3932 3221 3140 2620 3570 3540 2620
+1961 .. 5140 5900 4140 5740 7472 6470 6100 4770 3850 4880 4350 3570 3570
+1962 .. 5287 7238 10175 8613 8191 6034 5815 5463 8992 4710 3500 3070 3070
+1963 .. 4930 4138 4500 5386 3470 2863 2368 3223 3670 3860 2900 3040 2368
+1964 .. 6570 5650 5870 6080 5990 3576 3300 4490 5850 5155 5070 5490 3300
+MUSA RIVER AT NADI GABUNA
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1958 608 676 413 458
+1959 .. 485 516 864 1087 534 678 576 386 352
+1960 .. 748 966 820 725 556 666 372 307 316 285 422 377 6563
+1961 .. 519 552 494 574 908 672 678 461 460 711 352 490 6872
+1962 .. 541 839 1036 966 856 495 541 552 867 429 364 415 7902
+1963 .. 503 349 733 610 331 246 231 598 462 430 256 318 5068
+1964 .. 708 547 652 546 638 340 377 493 706 456 474 508 6446
+
+
+MUSGRAVE RIVER AT JAWARERE
+(South-East Coast Drainage Division)
+Catchment Area = 34.4 square miles
+SITE Musgrave River at Jawarere Plantation
+Map reference: ÜBERI. 1 inch = 1 mile. Grid 373377
+Latitude S. 9° 27' 40". Longitude E. 147° 36' 25"
+Station 68: L.5.2A35 recorder —October 1961 to date
+GAUGING DATA NOVEMBER 1961 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 333333333343
+Mean .. 22.92 14.29 20.76 20.72 21.24 16.04 16.30 20.32 25.83 15.10 14.29 12.11 219.92
+Maximum Annual Discharge 244,880 acre feet in 1962
+Minimum Annual Discharge 203,180 acre feet in 1964
+Maximum Monthly Discharge 36,170 acre feet in September 1962
+Minimum Monthly Discharge 4,890 acre feet in November 1963
+Maximum Daily Flow 2,120 cusecs on 26th September 1962
+Minimum Daily Flow 58 cusecs on 22nd November 1963
+Peak Flow 14,460 cusecs on 29th August 1962
+Lowest Flow 53 cusecs on 2nd December 1963
+CURRENT METER MEASUREMENTS
+Highest: 433.5 cusecs at gauge 68, height 4.87' on 16th May 1964
+(1,100 cusecs at gauge 68, height 7.02' on 16th March 1965)
+Lowest: 58 cusecs at gauge 68, height 3.58' on 29th October 1963
+(35.1 cusecs at gauge 68, height 2.85' on 16th November 1965)
+Number of Measurements (1960-64) = 41
+
+
+MUSGRAVE RIVER AT JAWARERE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1961 3.74
+1962 6.27 1.54 2.34 7.88 3.97 5.01 1.28 14.46 10.53 8.03 7.01 4.99 14.46 18.20
+1963 8.46 6.57 9.22 4.98 5.08 5.68 4.19 6.70 5.56 2.37 0.82 6.86 9.22 14.90
+1964 1.21 1.84 4.53 4.40 6.99 2.43 4.16 2.77 4.66 6.75 11.23 1.59 11.22 16.26
+MUSGRAVE RIVER AT JAWARERE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1961 104
+1962 .. 229 68 92 186 184 182 156 134 268 159 104 101 68
+1963 .. 108 222 161 127 121 125 138 117 125 86 57 53 53
+1964 .. 82 66 95 95 218 156 127 161 143 142 216 93 66
+MUSGRAVE RIVER AT JAWARERE
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1961 12.31
+1962 35.33 10.73 13.90 26.73 21.91 16.99 14.40 23.05 36.17 17.28 15.04 13.35 244.88
+1963 .. 22.31 25.11 30.19 16.13 16.64 14.23 18.58 20.22 21.72 10.22 4.89 13.41 213.65
+1964 .. 11.11 7.02 18.18 19.31 25.17 16.91 15.91 17.69 19.60 17.79 24.92 9.57 203.18
+
+
+OMAHAGA RIVER AT HOVEI VILLAGE
+(Gulf Drainage Division)
+Catchment Area = 13.4 square miles
+SITE Omahaga River at Hovei Village approximately 3 miles upstream of Goroka-Mt. Hagen
+road crossing
+Map reference: BENA BENA. 1 inch = 1 mile. Grid 893171
+Latitude S. 6° 00' 40". Longitude E. 145° 23' 20"
+Station 58: Bristol recorder—March 1959 to January 1960
+L.5.A35 recorder—November 1959 to November 1963
+Discontinued
+GAUGING DATA MARCH 1959 to NOVEMBER 1963
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+vi n n f Vpars 444545555544
+Mean 5.74 5.48 5.81 6.73 5.01 4.33 3.35 3.53 4.28 4.97 3.53 5.19 57.95
+Maximum Annual Discharge 69,260 acre feet in 1960
+Minimum Annual Discharge 57,540 acre feet in 1962
+Maximum Monthly Discharge 10,000 acre feet in February 1960
+Minimum Monthly Discharge 1,750 acre feet in June 1963
+Maximum Daily Flow 410 cusecs on 27th April 1959
+Minimum Daily Flow 23 cusecs on 13th and 14th August 1963
+Peak Flow 2,230 cusecs on 11th April 1960
+Lowest Flow 22 cusecs on 29th June and 14th August 1963
+CURRENT METER MEASUREMENTS
+Highest: 197 cusecs at gauge 58, height 2.72' on 13th April 1959
+Lowest: 36.0 cusecs at gauge 58, height 3.27' on 14th February 1963
+Number of Measurements (1958-63) = 131
+
+
+OMAHAGA RIVER AT HOVEI VILLAGE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1959 ______ 0.17 0.05 0.69 0.23 0.56 0.34
+1960 0.65 1.02 0.63 2.23 0.39 0.27 0.14 0.07 0.08 0.29 0.39 0.88 2.23 7.53
+1961 1.96 0.42 1.24 0.23 0.85 0.20 0.17 0.69 0.44 0.55 0.21 0.20 1.96 7.30
+1962 0.07 0.48 0.31 0.41 1.09 0.30 0.17 0.18 0.33 0.41 0.15 0.19 1.09 6.36
+1963 0.09 0.06 0.45 0.67 0.10 0.11 0.22 0.65 0.62 1.12 _ _ _ _
+OMAHAGA RIVER AT HOVEI VILLAGE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1959 45 60 38 34 38 35 32 37 49
+1960 .. 55 119 89 95 55 62 42 37 35 35 45 62 35
+1961 .. 89 79 44 44 56 75 51 51 61 71 58 48 44
+1962 .. 37 37 60 71 90 53 53 66 61 46 33 38 33
+1963 .. 44 36 35 44 27 22 25 22 35 69
+OMAHAGA RIVER AT HOVEI VILLAGE
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1959 9.01 4.64 3.54 2.88 2.51 2.34 2.64 4.70
+1960 .. 8.72 10.00 6.46 9.89 4.58 5.70 3.09 2.50 2.24 3.41 4.44 8.23 69.26
+1961 .. 7.99 6.09 7.06 4.86 5.37 5.36 3.89 5.24 5.12 7.12 4.41 3.72 66.23
+1962 .. 2.74 3.57 6.44 6.52 7.75 4.22 4.36 4.92 4.88 5.41 2.64 4.09 57.54
+1963 .. 3.52 2.27 3.28 3.38 2.32 1.75 1.88 2.13 6.64 6.56 _ _ _
+
+
+OOMSIS CREEK BELOW BARKERS
+(Huon Drainage Division)
+Catchment Area = 13.5 square miles
+SITE Oomsis Creek approximately 10 miles above confluence with Wampit River
+Map reference: NADZAB. 1 inch = 1 mile. Grid 459444
+Latitude S. 6° 40' 50". Longitude E. 146° 47' 55"
+Station 4: L.5.A35 recorder —November 1952 to March 1959
+Discontinued
+GAUGING DATA NOVEMBER 1952 to NOVEMBER 1956
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 444444444434
+Mean .. 0.94 0.77 1.35 1.06 0.70 0.95 3.53 2.20 1.15 0.47 0.71 0.83 14.66
+Maximum Annual Discharge 19,460 acre feet in 1953
+Minimum Annual Discharge 14,760 acre feet in 1954
+Maximum Monthly Discharge 8,940 acre feet in July 1953
+Minimum Monthly Discharge 130 acre feet in October 1956
+Maximum Daily Flow 800 cusecs on 7th July 1953
+Minimum Daily Flow 0.2 cusecs in November 1956
+Peak Flow 4,640 cusecs in July 1953
+CURRENT METER MEASUREMENTS
+Highest: 172.9 cusecs at gauge 4, height 1.15' on 25th August 1958
+Lowest: 0.2 cusecs at gauge 4, height 0.79' on 28th November 1956
+Number of Measurements (1952-59) = 38
+
+
+OOMSIS CREEK BELOW BARKERS
+Maximum Flow in thousands Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Gauge
+Height
+(feet)
+1952 0.02
+1953 0.38 0.10 0.26 0.39 0.11 0.15 4.64 1.60 0.02 0.07 0.07
+1954 0.52 0.41 1.50 0.72 0.18 0.06 0.11 0.14 0.07 0.01 0.03 1.22 1.50 3.80
+1955 1.22 0.19 0.64 0.01 0.19 1.40 0.81 0.52 0.06 0.08 0.42 0.22 1.40
+1956 0.02 0.03 0.02 0.04 0.01 3.34 0.37
+OOMSIS CREEK BELOW BARKERS
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1952 3.9
+1953 ..4 6 6 7 8 6.5 19 11 9.5 4.5 4 3.8 3.8
+1954 ..3 6 7 10 10 8 8 4 12 8 4 5 3
+1955 ..12 5 5 4 1 6 6 13 5 5 5 0 0
+1956 ..1 0 0 0.5 1 1 3 1.3
+OOMSIS CREEK BELOW BARKERS
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1952 _ 0.35
+1953 .. 0.99 0.60 1.04 1.62 0.89 0.82 8.94 1.82 1.55 0.52 0.33 0.34 19.46
+1954 .. 0.41 1.10 2.71 1.72 1.34 0.71 1.10 1.70 1.21 0.69 0.47 1.60 14.76
+1955 .. 1.56 0.75 1.07 0.32 0.42 2.02 3.84 3.87 1.13 0.54 1.32 1.03 17.87
+1956 .. 0.80 0.62 0.57 0.57 0.16 0.23 0.25 1.42 0.69 0.13
+
+
+OREBA RIVER AT GOLDEN VALLEY
+(South-East Coast Drainage Division)
+Catchment Area = 390 square miles
+SITE Oreba River, approximately 30 miles upstream of Kunimaipa Junction
+Map reference: WAU. 1 inch = 4 miles. Grid (L) WlBlB
+Latitude S. 7° 48' 30". Longitude E. 146° 33' 20"
+Station 8: L.5.A35 recorder —October 1953 to date
+GAUGING DATA OCTOBER 1953 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 786777776677
+Mean .. 124.3 126.7 145.1 136.9 109.7 71.4 57.1 63.4 74.3 104.2 95.2 137.4 1245.7
+Maximum Annual Discharge 1,529,900 acre feet in 1961
+Minimum Annual Discharge 1,086,760 acre feet in 1959
+Maximum Monthly Discharge 230,358 acre feet in December 1954
+Minimum Monthly Discharge 34,100 acre feet in July 1964
+Maximum Daily Flow 9,032 cusecs on 23rd December 1954
+Minimum Daily Flow 294 cusecs on 24th October 1959
+Peak Flow 14,180 cusecs on 16th October 1963
+Lowest Flow 280 cusecs on 12th October 1959
+CURRENT METER MEASUREMENTS
+Highest: 2,319 cusecs at gauge 8, height 4.75' on 12th July 1963
+(3,822 cusecs at gauge 8, height 5.88' on 15th January 1965)
+Lowest: 925 cusecs at gauge 8, height 3.73' on 15th December 1962
+Number of Measurements (1958-64) = 20
+
+
+OREBA RIVER AT GOLDEN VALLEY
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1953 __________ 6.46 8.52
+1954 2.96 2.76 ________ 7.94 9.77
+1955 _ _ _ 4.55 3.56 1.83 1.02 1.52 ______
+1956 5.19 ____________
+1959 6.26 5.88 3.69 4.56 3.02 1.93 1.74 1.00 1.75 1.45 3.80 8.78 8.78 8.90
+1960 5.04 8.06 8.29 5.10 2.87 5.10 1.95 6.91 3.60 5.15 4.08 7.20 8.29 8.63
+1961 6.83 4.28 9.50 7.47 6.55 4.30 4.64 4.65 4.43 5.12 4.59 5.72 9.50 9.30
+1962 4.12 7.37 6.30 7.97 6.28 2.59 8.46 5.56 5.56 4.01 4.97 6.33 8.46 8.72
+1963 8.04 4.92 5.56 7.46 4.06 2.45 3.03 6.10 5.43 14.18 6.83 6.04 14.18 11.69
+1964 5.94 5.27 6.10 7.20 6.89 2.63 3.68 2.86 4.95 5.46 _ _ _ _
+OREBA RIVER AT GOLDEN VALLEY
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1953 _ 1070 1360
+1954 .. 1410 1550 ________ 700 1870
+1955 .. 1795 1440 665 560 455
+1956 .. 2710 -
+1959 !! 1180 1330 1470 1390 736 532 493 425 425 280 372 925 280
+1960 .. 1400 2180 1840 1630 925 925 685 588 500 644 817 925 500
+1961 .. 1920 1320 1660 1500 1670 1540 925 889 935 1430 1360 1160 889
+1962 .. 790 954 1460 1430 1320 730 610 800 1030 1050 800 840 610
+1963 .. 720 472 440 1190 770 547 840 800 1000 1710 1290 1430 440
+1964 .. 1480 1400 1290 1240 1030 574 400 408 384 574
+OREBA RIVER AT GOLDEN VALLEY
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1953 127.4 139.7
+1954 .. 124.8 104.3 ________ 79.4 230.4
+1955 157.6 115.7 61.3 41.6 38.4 _____
+1956 .. 193.5 ___________
+1959 !! 150.8 167.1 126.7 124.4 87.6 55.0 52.3 39.4 41.9 35.1 53.7 152.8 1086.8
+1960 .. 136.8 182.0 191.4 163.1 75.8 95.2 54.7 44.7 46.3 84.1 76.4 124.5 1274.9
+1961 .. 175.2 97.4 217.2 127.1 154.6 117.8 86.6 97.2 78.6 162.5 117.6 98.2 1529.9
+1962 .. 69.9 94.1 140.0 136.0 149.4 64.5 57.6 84.4 99.9 92.6 87.9 80.5 1156.7
+1963 .. 66.5 38.6 73.4 131.6 76.0 53.7 72.7 92.9 115.1 189.3 124.0 135.4 1169.1
+1964 .. 146.2 136.1 121.8 118.5 108.5 52.1 34.1 46.9 63.8 61.7
+
+
+PONDO RIVER (NORTH) AT ROAD CROSSING
+(Island Drainage Division)
+Catchment Area = 9 square miles
+SITE Pondo River, North Arm above junction with main stream
+Map reference: PONDO. 1 inch = 1 mile. Grid 301025
+Latitude S. 4° 30' 30". Longitude E. 151° 43' 05"
+Station 62: Bristol recorder —November 1959 to November 1960
+L.S. Manometer Servo recorder —September 1962 to date
+GAUGING DATA Maximum, Minimum and Mean Discharges not given due to poor quality of records
+CURRENT METER MEASUREMENTS
+Highest: 160 cusecs at gauge 62, height 3.12' on 26th November 1959
+Lowest: 12.2 cusecs at gauge 62, height 2.00' on 14th November 1963
+Number of Measurements (1959-64) = 85
+
+
+PONDO RIVER (NORTH) AT ROAD CROSSING
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+19 62 0.71 0.44 0.28
+1963 0.03 0.05 0.18 0.31
+PONDO RIVER (NORTH) AT ROAD CROSSING
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1962 23 28 17
+1963 ..13 14 15 26
+PONDO RIVER (NORTH) AT ROAD CROSSING
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1%2 2.55 3.07 2.24
+1963 0.96 0.97 1.62 2.69
+
+
+PURARI RIVER AT WABO DAM SITE
+(Gulf Drainage Division)
+Catchment Area = 11,100 square miles
+SITE Purari River, at Wabo Dam Site 29 miles above junction with the Aure River
+Map reference: KIKORI. 1 inch = 4 miles. Grid (P) U 5307
+Latitude S. 7° 00' 00". Longitude E. 145° 03' 30"
+Station 64: L.S.SDI7S recorder —March 1960 to May 1962
+L.S. Manometer Servo recorder —June 1962 to date
+GAUGING DATA DECEMBER 1961 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 1 1 1 1 13223334
+Mean .. 4737 5707 6725 6113 5028 3956 3689 5827 6988 5697 4274 4199 62940
+Maximum Annual Discharge
+Minimum Annual Discharge )
+Not sufficient records
+Maximum Monthly Discharge 8,997,520 acre feet in September 1962
+Minimum Monthly Discharge 2,362,620 acre feet in November 1963
+Maximum Daily Flow 324,700 cusecs on sth September 1962
+Minimum Daily Flow 27,230 cusecs on 10th November 1963
+Peak Flow 361,600 cusecs on 4th September 1962
+Lowest Flow 26,600 cusecs on 11th November 1963
+CURRENT METER MEASUREMENTS
+Highest: 203,460 cusecs at gauge 64, height 22.30' on 15th May 1964
+Lowest: 32,126 cusecs at gauge 64, height 4.30' on 25th July 1964
+(26,253 cusecs at gauge 64, height 3.44' on 31st July 1965)
+Number of Measurements (1960-64) = 47
+
+
+PURARI RIVER AT WABO DAM SITE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1961 ___________ 149.1
+1962 _____ 160.0 361.6 204.5 119.1 137.0
+1963 121.2 208.5 176.3 222.0 228.1 227.8 96.5 130.0
+1964 200.2 179.6 181.8 196.0 116.3 191.0 148.9 190.4 118.7 118.2 177.3
+PURARI RIVER AT WABO DAM SITE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1961 _____ 37100
+1962 48000 87990 59200 37730 41400
+1963 .. 50800 _ _ 40320 33600 53200 48400 41750 26600 30520
+1964 .. 50560 62900 64600 50480 32900 28280 45280 41750 39620 56000 31220
+PURARI RIVER AT WABO DAM SITE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1961 4754
+1962 4313 8998 7068 3608 5427
+1963 .. 4737 4490 4082 6866 6617 5808 2363 3042
+1964 .. 5707 6725 6113 5028 3065 3296 4788 5349 4214 6852 3574
+
+
+RAMU RIVER AT YONKI DOME
+(North-Central Drainage Division)
+Catchment Area = 343 square miles
+SITE Ramu River below junction with Yonki Creek
+Map reference: FININTEGU. 1 inch = 1 mile. Grid 538923
+Latitude S. 6° 14' 25". Longitude E. 145° 58' 00"
+Station 30: L.5.A35 recorder —May 1957 to date
+GAUGING DATA JUNE 1957 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 667778888888
+Mean .. 86.7 96.7 106.8 96.2 63.3 39.2 32.0 38.9 46.8 67.3 59.9 93.4 827.2
+Maximum Annual Discharge 958,860 acre feet in 1962
+Minimum Annual Discharge 578,808 acre feet in 1963
+Maximum Monthly Discharge 170,080 acre feet in January 1964
+Minimum Monthly Discharge 16,790 acre feet in August 1958
+Maximum Daily Flow 9,610 cusecs on 29th January 1960
+Minimum Daily Flow 210 cusecs on 20th August 1958
+Peak Flow 15,990 cusecs on 29th January 1960
+Lowest Flow 204 cusecs on 11th October 1958
+CURRENT METER MEASUREMENTS
+Highest: 7,027 cusecs at gauge 30, height 11.40' on 2nd May 1962
+(10,273 cusecs at gauge 30, height 13.40' on 2nd March 1966)
+Lowest: 253.6 cusecs at gauge 30, height 0.83' on 15th October 1964
+(232 cusecs at gauge 30, height 0.91' on 9th November 1965)
+Number of Measurements (1957-64) = 106
+
+
+RAMU RIVER AT YONKI DOME
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1957 _____ 3.79 0.45 5.07 9.58 7.19 7.28 9.17
+1958 4.23 9.78 13.30 3.49 1.97 0.90 0.98 1.57 3.13 9.19 4.14 8.84 13.30 18.45
+1959 3.23 6.13 11.56 10.20 3.27 2.55 2.13 1.96 2.13 6.99 6.26 5.60 11.56 16.85
+1960 15.99 10.95 12.16 5.90 3.74 5.10 0.53 0.93 0.65 8.27 7.87 6.09 15.99 20.90
+1961 _ _ 8.34 6.76 9.98 5.16 2.55 7.55 7.45 11.80 8.18 6.26
+1962 8.64 10.06 7.78 9.04 12.06 2.21 4.86 4.32 7.46 7.11 10.40 13.44 13.44 18.58
+1963 3.40 1.48 4.93 3.79 0.94 5.34 5.66 4.24 6.30 12.11 6.99 5.08 12.11 17.31
+1964 11.44 8.97 11.78 14.71 5.08 0.66 0.47 0.60 2.77 1.46 7.46 4.03 14.71 19.74
+RAMU RIVER AT YONKI DOME
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1957 389 312 292 365 393 338 777
+1958 .. 750 755 916 688 375 270 254 208 216 204 338 492 204
+1959 .. 400 449 828 904 555 416 405 317 330 317 317 391 317
+1960 .. 511 1210 920 740 487 506 377 304 253 309 362 539 253
+1961 .. 570 580 655 594 422 401 452 490 546 480
+1962 .. 380 395 594 536 692 471 398 413 434 477 468 519 380
+1963 .. 404 312 312 423 302 260 293 236 426 620 427 412 236
+1964 .. 643 866 830 650 549 370 304 257 249 244 277 346 244
+RAMU RIVER AT YONKI DOME
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1957 33.9 23.0 40.3 76.7 62.4 54.8 141.4
+1958 .. 74.6 117.2 135.0 64.9 36.7 21.5 21.4 16.8 30.4 68.9 44.2 120.1 751.6
+1959 .. 44.2 81.2 123.2 159.6 55.7 34.2 39.5 25.6 30.0 61.6 48.0 88.4 791.3
+1960 .. 146.7 152.4 127.9 111.5 45.0 58.4 26.6 22.7 17.3 66.1 70.7 84.5 929.8
+1961 87.4 71.5 107.1 62.6 38.9 104.7 42.8 109.1 76.6 69.1
+1962 .. 44.1 83.9 100.3 115.7 124.1 42.8 50.5 48.1 72.5 60.2 74.1 142.6 958.9
+1963 .. 40.8 22.2 47.4 51.4 25.4 33.7 35.2 34.3 81.1 89.5 61.2 56.6 578.8
+1964 .. 170.1 123.5 126.4 99.1 48.9 26.3 21.3 18.7 23.9 20.6 49.5 44.7 773.1
+
+
+SNAKE RIVER ABOVE ROAD BRIDGE
+(Huon Drainage Division)
+Catchment Area = 165 square miles
+SITE Snake River, approximately \ mile upstream of bridge on Lae-Bulolo Road
+Map reference: BULOWAT EAST. 1 inch = 1 mile. Grid 244050
+Latitude S. 7° 02' 10". Longitude E. 146° 36' 00"
+Station 28: L.5.A35 recorder —February 1957 to April 1964
+Discontinued
+GAUGING DATA APRIL 1957 to MARCH 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 777677777777
+Mean 25.61 22.98 23.36 24.50 23.42 23.53 28.51 35.03 28.99 26.21 19.15 25.00 306.29
+Maximum Annual Discharge 383,740 acre feet in 1960
+Minimum Annual Discharge 237,130 acre feet in 1963
+Maximum Monthly Discharge 55,620 acre feet in February 1960
+Minimum Monthly Discharge 10,450 acre feet in May 1963
+Maximum Daily Flow 2,340 cusecs on 26th January 1964
+Minimum Daily Flow 139 cusecs on 4th June 1963
+Peak Flow 4,265 cusecs on 22nd September 1959
+Lowest Flow 135 cusecs on 4th June 1963
+CURRENT METER MEASUREMENTS
+Highest: 1,183 cusecs at gauge 28, height 3.23' on 29th January 1960
+Lowest: 183.8 cusecs at gauge 28, height 0.70' on 11th May 1963
+Number of Measurements (1957-63) = 63
+
+
+SNAKE RIVER ABOVE ROAD BRIDGE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1957 1.08 1.44 2.05 1.17 0.90 0.63 0.65 3.45
+1958 0.78 2.11 1.83 0.62 0.96 0.82 2.34 3.10 0.70 0.73 0.64 1.43 3.10 5.21
+1959 0.79 0.96 0.91 1.87 1.60 2.22 1.69 1.31 4.27 0.65 0.64 1.57 4.27 6.01
+1960 2.43 3.26 1.53 1.95 0.60 0.97 1.00 1.91 0.87 2.77 3.48 0.80 3.48 5.48
+1961 1.12 0.68 1.07 0.98 1.29 1.06 1.30 1.89 1.99 2.04 1.13 0.73 2.04 4.31
+1962 0.30 0.71 0.69 1.50 1.01 0.91 1.63 1.69 1.52 0.61 0.88 1.29 1.69 3.36
+1963 0.55 0.53 0.66 0.88 0.24 0.83 1.99 0.62 1.78 3.41 0.73 1.44 3.41 5.07
+1964 2.92 1.16 1.46
+SNAKE RIVER ABOVE ROAD BRIDGE
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1957 195 266 220 372 266 179 136 190
+1958 .. 263 311 352 238 201 174 192 302 239 217 220 236 174
+1959 .. 175 217 250 228 350 361 378 388 455 239 199 207 175
+1960 .. 190 706 324 371 204 289 314 337 280 212 280 250 190
+1961 .. 304 258 219 224 220 250 476 425 315 397 296 262 219
+1962 .. 217 215 219 234 352 260 234 394 318 272 242 257 215
+1963 .. 198 152 157 173 139 135 211 313 290 400 274 283 135
+1964 310 261 252
+SNAKE RIVER ABOVE ROAD BRIDGE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1957 30.38 26.84 32.31 38.85 25.03 17.12 12.09 35.74
+1958 .. 21.50 23.32 38.32 22.35 15.09 15.47 22.71 41.16 20.12 17.75 17.17 25.75 280.71
+1959 .. 15.94 16.20 21.50 22.63 25.89 33.15 32.18 30.84 43.56 20.73 15.83 21.96 300.41
+1960 .. 46.98 55.62 31.92 37.54 16.89 28.60 29.33 31.08 26.39 28.63 25.53 25.23 383.74
+1961 .. 25.53 17.69 18.59 18.93 30.71 28.43 38.57 44.26 32.53 39.80 22.84 19.24 336.94
+1962 .. 14.91 15.03 18.52 30.04 34.50 20.42 21.84 33.81 27.70 21.13 19.82 23.09 280.81
+1963 .. 17.44 10.66 12.83 15.51 10.45 11.81 22.61 25.21 27.57 38.33 20.75 23.96 237.13
+1964 .. 36.97 22.36 21.83
+
+
+TUMA RIVER AT PEPEKA
+(Gulf Drainage Division)
+Catchment Area = 15.1 square miles
+SITE Tuma River approximately 2 miles from junction with Nebelyer River
+Map reference:
+Latitude S. 5° 50' 40". Longitude E. 144° 05' 00"
+Station 98: L.5.2A35 recorder —May 1963 to date
+GAUGING DATA MAY 1963 to DECEMBER 1964
+Maximum, Minimum and Mean Discharges not given due to insufficient records.
+CURRENT METER MEASUREMENTS
+Highest: 138.80 cusecs at gauge 98, height 4.63' on 6th March 1963
+(805.86 cusecs at gauge 98, height 8.60' on 13th March 1966)
+Lowest: 15.52 cusecs at gauge 98, height 3.30' on 19th July 1963
+(14.73 cusecs at gauge 98, height 3.22' on 26th July 1965)
+Number of Measurements (1962-64) = 26
+
+
+TUMA RIVER AT PEPEKA
+Maximum Flow in thousands Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Gauge
+Height
+(feet)
+1963 _____ l.n 0.21 0.19 0.88 0.45 0.66 _
+1964 _____ 0.66 0.34 0.36 1.77 0.91 0.82 0.70
+TUMA RIVER AT PEPEKA
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1963 20.0 16.0 18.0 27.0 23.0 13.2
+1964 i7_6 17.6 26.0 29.0 24.0 45.0 22.0
+TUMA RIVER AT PEPEKA
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1963 4.36 2.10 2.60 6.52 4.91 2.93
+1964 _ 2.44 2.40 4.06 8.81 4.62 8.51 4.38
+
+
+TAURI RIVER AT HELL’S GATE
+(South-East Coast Drainage Division)
+Catchment Area = 1,085 square miles)
+SITE Tauri River at Hell’s Gate, approximately 4 miles above the junction with the Kapan
+River
+Map reference: WAU. 1 inch = 4 miles. Grid (L) V 7218
+Latitude S. 7° 51'. Longitude E. 146° 09'
+Station 2: L.5.A35 recorder —September 1952 to December 1961
+Station 2A: L.S. Manometer Servo recorder —November 1964 to date
+GAUGING DATA SEPTEMBER 1952 to OCTOBER 1961
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 766752444666
+Mean .. 330.4 399.1 378.8 408.0 309.3 276.4 177.2 140.5 201.8 241.6 259.2 363.7 3486.0
+Maximum Annual Discharge 9
+Minimum Annual Discharge )
+Not sufficient records
+Maximum Monthly Discharge 711,650 acre feet in December 1954
+Minimum Monthly Discharge 72,370 acre feet in August 1955
+Maximum Daily Flow 30,240 cusecs on 16th May 1961
+Minimum Daily Flow 815 cusecs on 13th August 1955
+Peak Flow 40,960 cusecs on 16th May, 1961
+Lowest Flow 815 cusecs on 13th August 1955
+CURRENT METER MEASUREMENTS
+Station 2
+Highest: 10,593 cusecs at gauge 2, height 10.69' on 10th July 1959
+Lowest: 2,010 cusecs at gauge 2, height 3.83' on 6th September 1960
+Station 2A
+Highest J
+Lowest )
+Not sufficient gaugings
+Number of Measurements at Station 2 (1958-61) =l5
+Number of Measurements at Station 2A (1962-64) = 2
+
+
+TAURI RIVER AT HELL’S GATE
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1952 15.20 16.13 19.53
+1953 13.87 _____ 16.85 9.54
+1954 13.80 21.13 8.15 18.90 21.05 10.42 6.22 5.68 11.27 10.30 14.43 28.00 28.00 21.63
+1955 18.90 29.18 8.52 27.20 3.36 3.26 9.67 10.42 15.46 8.77
+1956 12.44 12.63 16.07 14.77 7.22
+1958 14.56 26.70 12.40 8.99 12.10 _ _ _ _ 18.66 14.99 8.85
+1959 10.47 22.05 23.07 17.95 8.02 13.08 8.12 14.40 16.61
+1960 _ _ _ 18.25 7.66 _ _ _ _ 13.09 20.15 14.06
+1961 15.52 33.05 23.93 20.00 40.96 21.23 23.81 15.20 _____
+TAURI RIVER AT HELL’S GATE
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1952 .. 2130 2000 2020
+1953 .. 1900 _____ 1370 1440 _____
+1954 .. 2815 3300 2330 1920 3170 1390 1130 1250 1590 1760 1170 6220 1130
+1955 .. 3600 3560 1845 2710 968 815 1628 1340 1480 1880
+1956 .. 1645 2180 2355 2130 1105 ________
+1958 !! 2851 3860 2860 1732 1345 , 2040 2446 1746
+1959 .. 2318 2438 5974 4610 _ _ 1774 1400 984 992 1844
+1960 .. 2550 1879 _ _ _ _ 1140 2078 1734
+1961 .. 2920 3107 3016 3350 3790 3530 2111 1518 -
+TAURI RIVER AT HELL’S GATE
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1952 275.2 391.2 345.5
+1953 .. 248.9 _ _ _ 203.3 168.5
+1954 .. 388.3 402.4 257.4 352.8 467.1 178.2 114.1 136.4 191.7 227.8 186.2 711.7 3614.0
+1955 .. 453.6 504.2 211.2 692.6 76.9 72.4 164.7 165.6 273.9 234.1
+1956 .. 253.8 265.7 418.8 350.9 136.3 _
+1958 !! 318.1 434.7 283.6 181.8 180.8 422.7 293.5 221.4
+1959 .. 307.1 383.8 631.8 501.3 184.6 224.6 117.6 146.9 332.6
+1960 .. 390.5 178.7 240.5 263.7 336.7
+1961 .. 342.8 403.7 469.6 386.3 583.7 374.6 314.4 226.1 _ _ _ _
+
+
+TOWANOKOKO RIVER AT TOWANOKOKO
+(Island Drainage Division)
+Catchment Area = 41 square miles
+SITE Towanokoko River approximately 8 miles from the coast
+Map reference: STOCKHOLM. 1 inch = 1 mile. Grid 307053
+Latitude S. 4° 29' 00". Longitude E. 151° 43' 40"
+Station 61: Bristol recorder—November 1959 to September 1962
+L.S. Manometer Servo recorder—September 1962 to date
+GAUGING DATA Maximum, Minimum and Mean Discharges not given due to poor quality of records
+CURRENT METER MEASUREMENTS
+Highest: 185 cusecs at gauge 61, height 3.60' on 20th September 1963
+Lowest: 42.6 cusecs at gauge 61, height 2.13' on 10th February 1963
+Number of Measurements (1959 —64) = 101
+
+
+TOWANOKOKO RIVER AT TOWANOKOKO
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1962 _________ 0.54 0.79 0.59
+1963 0.13 0.09 0.62 0.21 0.91 0.95 0.90 0.19 _ _ _ _
+TOWANOKOKO RIVER AT TOWANOKOKO
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1962 77 60 64
+1963 ..51 42 55 63 59 92 92 63
+TOWANOKOKO RIVER AT TOWANOKOKO
+Discharge in thousands Acre Feet
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1962 8.75 7.80 6.89
+1963 .. 3.98 2.58 5.73 5.18 7.22 11.71 11.94 4.93
+
+
+VANAPA RIVER AT PETO ISLAND
+(South-East Coast Drainage Division)
+Catchment Area = 750 square miles
+SITE Vanapa River above Peto Island, approximately 7 miles upstream of Brown River Road
+crossing
+Map reference: MORESBY. 1 inch = 4 miles. Grid (Q) G 9082
+Latitude S. 9° 03' 15". Longitude E. 147° 11' 08"
+Station 11: Stalf gauge—July 1953 to September 1954
+L.5.A35 recorder —September 1954 to date
+GAUGING DATA JULY 1953 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 8 10 10 876768999
+Mean .. 400.3 441.6 485.7 461.7 293.3 199.6 144.4 156.7 198.0 200.5 222.6 329.3 3533.7
+Maximum Annual Discharge 4,143,460 acre feet in 1962
+Minimum Annual Discharge 2,992,980 acre feet in 1955
+Maximum Monthly Discharge 659,140 acre feet in April 1959
+Minimum Monthly Discharge 96,420 acre feet in July 1958
+Maximum Daily Flow 22,650 cusecs on 13th March 1964
+Minimum Daily Flow 974 cusecs on 19th August 1958
+Peak Flow 44,750 cusecs on 28th March 1960
+Lowest Flow 974 cusecs on 19th August 1958
+CURRENT METER MEASUREMENTS
+Highest: 8,364 cusecs at gauge 11, height 12.42' on 9th April 1964
+(14,506 cusecs at gauge 11, height 14.85' on 25th March 1966)
+Lowest: 1,736 cusecs at gauge 11, height B.oB' on 10th August 1960
+Number of Measurements (1959-64) = 71
+
+
+VANAPA RIVER AT PETO ISLAND
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1954 _ 19.78 14.56 2.41 2.73 5.09 13.24 6.46 16.66
+1955 36.80 22.20 14.24 12.58 11.26 3.71 11.06 3.98 5.85 4.68 9.09 9.63 36.80 21.79
+1956 10.86 24.16 15.52 10.27
+1957 33.90 17.51 8.13 9.39 15.32
+1958 15.80 21.94 26.12 42.00 9.94 10.02 2.80
+1959 _ _ 15.54 31.20 9.52 11.46 9.52 6.47 36.20
+1960 32.42 21.96 44.75 31.97 19.77 11.51 3.48 5.39 6.77 8.63 12.48 16.64 44.75 21.95
+1961 15.04 35.35 _ " 21.35 17.27 18.43 20.80
+1962 20.05 25.16 29.14 39.55 22.37 9.20 5.30 23.40 32.10 17.61 23.80 39.05 39.55 20.90
+1963 37.60 21.83 27.20 34.80 9.77 21.65 11.29 19.84 26.80 12.88 14.79 15.07 37.60 20.50
+1964 24.60 21.19 38.19 21.55 17.37 14.33 9.44 11.54 29.05 18.96 22.62 17.64 38.19 20.62
+VANAPA RIVER AT PETO ISLAND
+Minimum Flow in Cubic Feet per Second
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1954 .. _ 4480 4280 1600 1673 1420 1760 2010 3030
+1955 .. 4630 4880 3710 3350 3440 1975 1800 1350 1350 1280 1385 2610 1280
+1956 .. 2250 3710 3800 3260
+1957 .. _ 4590 5690 1810 2260 3482
+1958 .. 3780 4750 6610 4920 2576 1756 1248
+1959 .. 4270 5240 3022 1567 1405 1369 1621
+1960 .. 2488 5819 4430 3705 2730 2455 1666 1540 1441 1304 2230 2650 1304
+1961 4410 5010 1846 2300 2080 2874
+1962 1! 3780 4920 5746 4542 4050 2370 1846 1920 3496 2631 2180 2576 1846
+1963 .. 3645 4126 3960 5073 2240 2260 1990 1930 1950 1940 1801 2330 1801
+1964 .. 5368 4750 5386 4590 3286 2230 2030 2070 1783 2160 2719 2510 1783
+VANAPA RIVER AT PETO ISLAND
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1954 .. _ 346.4 366.1 117.8 102.7 121.6 233.6 187.0 441.4
+1955 . 482 1 478.0 317.1 340.9 280.2 152.6 155.2 114.8 119.5 107.9 190.2 254.5 2993.0
+1956 .. 251.6 342.8 377.2 311.8
+1957 .. _ 520.7 568.2 175.2 242.6 396.0
+1958 .. 326.8 518.1 585.3 459.8 254.5 172.6 96.4
+1959 .. 423.9 659.1 273.8 145.6 119.6 132.0 285.7
+1960 .. 370.5 508.4 472.4 478.5 280.4 279.5 132.1 113.2 117.4 168.0 212.9 337.4 3470.6
+1961 418 6 494 6 178.1 308.6 248.2 329.0
+1962 . 392.3 413.8 553.1 554.4 422.3 199.0 146.4 194.3 423.7 267.2 235.2 341.9 4143.5
+1963 .. 406.8 370.0 606.5 454.2 226.0 200.3 189.9 230.3 259.9 214.3 188.7 327.7 3674.7
+1964 .. 553.9 423.2 587.5 434.8 315.7 193.5 173.0 185.0 217.9 210.2 366.3 250.5 3911.3
+
+
+WANTON RIVER AT KARANKA
+(Huon Drainage Division)
+Catchment Area = 50 square miles
+SITE Wanton River, approximately 1,500 ft. north of Karanka airstrip
+Map reference: ANGA. 1 inch = 1 mile. Grid 657810
+Latitude S. 6° 21'. Longitude E. 146° 05'
+Station 44: L.5.A35 recorder—March 1958 to date
+GAUGING DATA MARCH 1958 to DECEMBER 1964
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 666776667777
+Mean .. 22.49 21.48 32.09 27.79 14.52 9.57 9.49 12.72 12.67 19.43 17.40 23.29 222.94
+Maximum Annual Discharge 267,800 acre feet in 1962
+Minimum Annual Discharge 214,680 acre feet in 1964
+Maximum Monthly Discharge 57,330 acre feet in March 1959
+Minimum Monthly Discharge 4,840 acre feet in May 1963
+Maximum Daily Flow 10,700 cusecs on 14th March 1959
+Minimum Daily Flow 56 cusecs on 11th and 12th June 1963
+Peak Flow 37,250 cusecs on 13th March 1959
+Lowest Flow 56 cusecs on 12th June 1963
+CURRENT METER MEASUREMENTS
+Highest: 2,439 cusecs at gauge 44, height 9.50' on 25th March 1960
+Lowest: 82.5 cusecs at gauge 44, height 3.30' on 26th June 1964
+Number of Measurements (1958-64) = 96
+
+
+WANTON RIVER AT KARANKA
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1958 _ _ 1.28 0.15 0.23 1.82 0.64 0.80 12.58 0.66 6.02
+1959 0.48 4.04 37.25 14.66 0.61 0.63 1.13 0.74 3.25 3.00 3.38 2.87 37.25 33.50
+1960 4.95 4.16 6.65 4.12 0.73 0.55 0.39 0.79 2.96 4.15 10.64 3.60 10.64 19.05
+1961 3.12 1.55 1.80 6.24 7.64 1.91 1.34 2.48 2.62 8.61 1.44 2.18 8.61 17.28
+1962 1.67 10.63 2.03 4.15 3.33 0.95 1.25 1.47 4.94 4.98 4.77 7.78 10.63 19.04
+1963 0.80 0.51 2.70 1.73 0.43 2.84 4.53 4.44 1.61
+1964 8.41 3.14 10.64 2.56 2.82 0.16 0.43 0.48 2.90 0.82 5.12 1.11 10.64 19.05
+WANTON RIVER AT KARANKA
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1958 .. 143 78 66 63 85 76 64 112 173
+1959 .. 114 108 233 292 134 123 111 117 126 108 86 96 86
+1960 .. 92 252 161 191 120 100 90 96 67 77 80 134 67
+1961 .. 101 119 111 120 183 143 100 97 99 110 106 92 92
+1962 .. 83 88 159 171 146 99 88 104 99 98 107 144 83
+1963 .. 109 76 70 89 59 93 141 80 82
+1964 .. 156 153 157 148 119 80 62 62 71 67 76 72 62
+WANTON RIVER AT KARANKA
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1958 .. 14.25 6.45 5.23 9.56 10.88 10.12 27.23 10.02 38.10
+1959 .. 10.76 21.75 57.33 54.14 13.61 10.76 12.97 11.60 18.21 16.77 14.16 17.94 260.00
+1960 .. 35.85 39.53 30.93 30.93 9.52 9.05 8.41 8.60 7.31 18.61 25.12 20.21 244.07
+1961 .. 16.59 15.94 16.23 20.45 28.32 17.53 10.78 25.39 10.05 27.34 12.88 15.59 217.09
+1962 .. 9.59 25.31 31.39 39.79 26.79 8.95 10.14 14.34 18.42 13.70 22.15 47.23 267.80
+1963 .. 11.73 5.28 12.37 13.47 4.84 13.67 25.05 18.28 12.54
+1964 .. 50.43 21.05 44.31 21.53 12.13 5.89 5.05 5.50 10.91 7.31 19.18 11.39 214.68
+
+
+WARAMA CREEK AT TAPINI
+(South-East Coast Drainage Division)
+Catchment Area 0.35 square miles
+SITE Warama Creek upstream of culvert underneath Tapini airstrip
+Map reference
+Latitude S. 8° 30' 50". Longitude E. 146° 41' 00"
+Station 73: Staff gauge—October 1960 to September 1962
+Discontinued
+GAUGING DATA OCTOBER 1960 to SEPTEMBER 1962
+Mean Discharges in thousands Acre Feet
+Not listed since number of years of records insufficient
+Maximum Annual Discharge )
+Minimum Annual Discharge )
+Not sufficient records
+CURRENT METER MEASUREMENTS
+Maximum Monthly Discharge 488 acre feet in May 1962
+Minimum Monthly Discharge 292 acre feet in December 1960
+Maximum Daily Flow 10.2 cusecs on 2nd May 1962
+Minimum Daily Flow 4.3 cusecs on 6th December 1960
+Highest: 9.5 cusecs at gauge 73, height 1.05' on 23rd June 1961
+Lowest: 3.7 cusecs at gauge 73, height 0.72' on 6th December 1960
+Number of Measurements (1960-64) = 35
+
+
+WARAMA CREEK AT TAPINI
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1960 0.006 0.005
+1961 0.007 0.006 0.008 0.007 0.008 0.008 0.007 0.007 0.007 0.006 0.007 0.006 0.008
+1962 0.008 0.007 0.007 0.008 0.010 0.008 0.008 0.008 ______
+WARAMA CREEK AT TAPINI
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1960 ____________ 4 4 _
+1961 ..5 6 6 6 6 7 7 6 6 6 6 6 5
+1962 ..6 6 6 6 7 7 7 7
+WARAMA CREEK AT TAPINI
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1960 ____________ 0.31 0.29
+1961 .. 0.34 0.33 0.41 0.39 0.44 0.44 0.41 0.40 0.37 0.37 0.36 0.36 4.62
+1962 .. 0.36 0.36 0.40 0.40 0.49 0.44 0.46 0.45 .
+
+
+WARIA RIVER AT GARAINA
+(North-East Coast Drainage Division)
+Catchment Area = 580 square miles
+SITE Waria River, near Garaina about 2 miles east of airstrip
+Map reference: SALAMOA. 1 inch = 4 miles. Grid (L) W 8912
+Latitude S. 7° 53'. Longitude E. 147° 10' 30"
+Station 49: L.5.A35 recorder —August 1958 to April 1961
+Station 49A: L.S. Manometer Servo recorder —October 1964 to date
+GAUGING DATA AUGUST 1958 to APRIL 1961
+Mean Discharges in thousands Acre Feet
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+No. of Years 333322223333
+Mean .. 191.7 196.8 191.0 236.1 208.4 209.1 178.7 157.0 186.4 218.0 201.2 185.5 2359.9
+Maximum Annual Discharge 2,484,460 acre feet in 1960
+Minimum Annual Discharge 2,219,570 acre feet in 1959
+Maximum Monthly Discharge 289,020 acre feet in February 1960
+Minimum Monthly Discharge 150,740 acre feet in September 1960
+Maximum Daily Flow 8,990 cusecs on 13th February 1960
+Minimum Daily Flow 1,420 cusecs on 28th September 1960
+Peak Flow 12,770 cusecs on 2nd September 1958
+Lowest Flow 1,350 cusecs on 28th September 1960
+CURRENT METER MEASUREMENTS
+Station 49
+Highest: 5,150 cusecs at gauge 49, height 6.46' on 23rd September 1959
+Lowest: 1,805 cusecs at gauge 49, height 2.77' on 9th July 1960
+Station 49A
+Highest |
+Lowest )
+Not sufficient gaugmgs
+Number of Measurements at Station 49 (1958-61) =45
+Number of Measurements at Station 49A (1964) 5
+
+
+WARIA RIVER AT GARAINA
+Maximum Flow in thousands Cubic Feet per Second
+Gauge
+Year Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year Height
+(feet)
+1958 ________ 12.77 10.24 10.42 10.16
+1959 7.07 6.00 5.41 8.28 8.96 8.56 6.98 4.97 8.46 6.44 6.58 6.90 8.96 12.32
+1960 10.62 12.25 9.42 9.70 8.10 8.88 7.78 5.89 8.46 9.79 8.50 8.54 12.25 16.35
+1961 9.70 6.24 6.86 7.74
+WARIA RIVER AT GARAINA
+Minimum Flow in Cubic Feet per Second
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Year
+1958 _ _ 1560 2180 2410 1850
+1959 .. 1930 1690 1760 2630 2340 2650 2220 1510 2200 1560 1490 1710 1490
+1960 .. 1490 2900 2190 2490 2210 2130 1590 1530 1350 1860 1980 1740 1350
+1961 .. 1860 1910 1778 2270 _________
+WARIA RIVER AT GARAINA
+Discharge in thousands Acre Feet
+Year .. Jan. Feb. Mar. Apr. May June July Aug. Sept. Oct. Nov. Dec. Total
+1958 _ _ 193.6 277.1 254.6 178.9
+1959 .. 195.3 149.6 154.9 227.1 226.8 218.6 201.2 149.5 214.9 161.0 154.8 166.0 2219.6
+1960 .. 208.8 289.0 234.7 269.2 190.0 199.6 156.3 164.5 150.7 215.9 194.2 211.5 24845
+1961 .. 171.0 151.6 183.4 212.0 _________
+
+
+
+
+
+

@@ -1,0 +1,1018 @@
+
+
+GRAMMAR
+OF THE
+NARRINYERI TRIBE
+OF
+AUSSTRALIAN ABORIGINES.
+By the late REV.
+G. TAPLIN
+Aborigines’ Missionary, Point MeLeay.
+Adelaide:
+PRINTED BY E. SPILLER, GOVERNMENT PRINTER, NORTH-TERRACE.
+1880.
+
+
+
+
+CONTENTS.
+PAGES.
+Introductory Remarks .. .. .. tm ..5 6
+Letters Used in the Language .. ~ ~ 7
+Nouns .. .. 7^
+Pronouns .. .. ~ ~ 11-13
+Verbs 14-20
+Adjectives .. .. .. ~ m 2i
+Adverbs .. .. .. i( 22 9 3
+Syntactical Notes .. .. ~ ~ it 23 24
+
+
+
+
+THE GRAMMAR
+OF THE
+Language of the "Aarrinyeri" Tribe.
+• ?- IS - an § ua S e is spoken by the tribe of aborigines in South Australia
+inhabiting the country on the shores of Encounter Bay and the Lakes
+Alexandrina, Albert, and Coorong, and twenty miles up the River
+Murray. There are some trifling variations of dialect between the clans
+that compose the tribe, but I do not perceive such a difference as would
+be an impediment to a stranger learning the language.
+My object in Committing to writing the information which I have
+gathered respecting the grammar of this tongue has been to present it
+in such a form as to enable students of Comparative Philology to use it
+or the purpose of rendering a modicum of help towards arriving at
+correct conclusions respecting the Philosophy of Language. The com-
+parison of the grammatical structure of different languages is of the
+greatest importance, and the surest guide to the real relationships of
+language and nations. In saying this, lam almost quoting the remarks
+of that lamented and eminent laborer in this department of Anthropo-
+logical science, the late Dr. Bleek, of Cape Town.
+Any one who has ever undertaken to gather up the grammar of
+ai t-Tl ntten and bartarous language, will appreciate the difficulties
+which have to be encountered. Inquiries are useless when addressed
+to minds upon whom the idea of grammar never dawned. Expressions
+are heard having a certain force, and it is only after years of careful
+observation that those expressions can be analyzed, and their true
+character discerned; and this difficulty is increased when, as in the
+language of the Narrinyeri, ellipsis and abbreviations abound. The
+Rev. H. A. E. Meyer, a Lutheran Missionary, made a brave attempt
+to master the grammar of this language in 1843, and with some success;
+but yet his attempt presents a great number of ludicrous mistakes
+to one better acquainted with it. I found I had to rely on my own
+observations if I was to gain any correct knowledge of the language.
+
+
+It is necessary in pursuing such an inquiry to avoid falling into the
+mistake of supposing and concluding that there are complications and
+difficulties of structure where there are none, and refinements and nice
+distinctions of signification existing when there is nothing of the kind.
+Sentences and expressions, which appear at first to have this character,
+afterwards resolve themselves into simple and understood phrases. It
+has several times been my experience to have what appeared strange and
+unintelligible conglomerations of words resolve themselves into plain and
+forcible expressions.
+I do not presume that in preparing this grammer I have never fallen
+into any mistakes. I know that I am always discovering something in
+the language which I did not know before. And, indeed, it is the case
+with every observant speaker of his native tongue that he is continually
+finding out new capabilities and powers and beauties of expression ; it is
+then much more certain that such will be the case in learning a strange
+and hitherto unwritten language.
+The aborigines speak their language very correctly, that is, they
+dislike to hear what they consider irregular expressions. Although they
+do not understand systematic grammar, they know when one phrase is
+wrong and another right. The principal cause of changes in the
+language is the custom of dropping the use of words which may be
+contained in the name of some person who dies. This often produces
+awkward changes, but more of words than of grammar.
+In giving names to animals I observe that the name often resembles
+the voice or note of the animal; but Ido not see any traces of imitation
+of the sounds made by beasts or birds beyond this.
+The language of the Narrinyeri is lexically very different from the
+languages of the neighboring tribes.
+It is remarkable that the Narrinyeri (like all other nations) in speaking
+English speak it according to the idiom of their own language; the
+English words are arranged according to the aboriginal vernacular.
+
+
+LETTERS.
+In writing native, I have used the “ vowels” according to the following
+table of their sounds :
+a as a in father. o as o in hope.
+e as a in hate. u as oo in moon.
+i as e in mete [to measure.] ai as i in mine.
+" i” at the end of words with u over it [i] asi and y in pity and city.
+The “ consonants” are sounded as follows :
+h as in bed. p as in pet.
+d as in dead. r as in rope.
+dh as in though. t as in top.
+g as in good [always hard]. th as in think.
+h aspirate. w as in wit [always conso-
+le as in king. nantal].
+„ 1 as in long. y as in yet [ditto].
+m as in mat. ng nasal [use as if at the end of a
+n as in new. word, only dropping the vowel].
+The language is without the letters f, v, s, and z.
+NOUNS.
+There is only one declension of nouns in the Narrinyeri language.
+There is no distinction of gender in the use of them. They usually end
+in a vowel, commonly short i (pronounced like short e) in the nominative
+case. The stem of the noun is got by casting away this terminal vowel,
+and the cases are formed by adding to the termination of the stem
+affixes which form the different cases. The only instances where there is a
+difference of declension is where the words express human relationships.
+This we will notice afterwards. In this language the nouns, adjectives,
+and pronouns are declined in the singular, dual, and plural numbers.
+The declension of adjectives is, however, uncommon, defective, and
+irregular.
+The genitive case of nouns is formed by the affix aid. This not only
+means of, but also, in the case of places, at; as, Kornald menake —A
+man’s beard. Lewin itye Tipald —He lives at Tip. Ngape tantir mantald
+—I slept in the wurley.
+The aid is often used by itself, but always with the sense of belonging
+to, or connection with ; as, Pinyatowe tyilyi aldamb —Sugar belonging to
+or for or connected with rice.
+
+
+The dative case is formed by the affixes in the singular of angle and
+ungai. The former as the signification of to and by, the latter of on, or
+by; yet the terminations are used so interchangeably we can only say
+that both are forms of the dative; as, Loru el ap mantangk —l will go
+to the hut, house, or wurley. Tangulun itye ngurlungai —Stands he on
+a hill ? Potungai —On a horse.
+The causative is formed in the singular by the affix il —evidently an
+abbreviation of the pronoun Icili (by him); as, Kornil mempir napangk, or
+inangk nap —The man struck his wife.
+The ablative is formed by the affix anmant; as, Nguk (water), perk
+(well), anmant (from) —Water from the well. This form of the ablative
+is almost confined to places. When it relates to things or persons it is
+formed by nend ; as, Ngungkura (first), ityan (it), pintamin (take away),
+ngarrari ( \\oo(f),umanyirinend(ixom. your), pelinend (eye)—First cast the
+wood out of thine eye. Kinanyirienend (from his), prewirrenend (side),
+yaralin (flows), kreive (blood), barekar (water) —From his side there flows
+blood and water.
+It is really difficult to say how many cases the nouns have, because all
+prepositions are joined as affixes to the nouns to which they relate, but
+only some of them change their form, according as the noun is in the
+singular, dual, or plural number.
+The following is a list of prepositional affixes and prepositions, shewing
+where they change in the dual and plural, and where they do not:
+Singular. DuAl. Plural.
+aid enggal an = of, at, upon.
+, I to, on, in, by, at; sometimes used
+ungaz ungengul ungar = { % lltrumentally.
+angk
+, ( by, through, because of; instru-
+eftgga ar { mentally, or causatively.
+nend nend nend = from, out of.
+nenggulund f
+. _ fof the form of the genitive; in
+an W \ pronominal adjectives, with.
+anmant = from a place.
+No difference from number :
+ungunai ) tunti —in the middle.
+ungunel > in front of. loru— up.
+ungul ) moru — down.
+maremuntunt— beneath. ambe — for.
+tarangk — between. ngurukwar— outside, without.
+tepangk —close to. ngungkura— before.
+tuntangk —between two.
+I have given these prepositions here because of their close, and, indeed,
+peculiarly inseparable relationship to nouns and pronouns.
+
+
+After much consideration, I have come to the conclusion that the fol-
+lowing is the declension of a noun:—
+Porle— (A. Child).
+Singular.
+Nominative .. .. .. porle, a child.
+Genitive .. .. .. porlald, of a child.
+Dative . .. . . .. porlangk j to, with, or on
+“ •• •• .. porlungai ] a child.
+Causative .. .. ~ porlil, by a child.
+Ablative .. porlenend , from a child.
+Vocative .. .. .. porlinda, 0! child.
+Dual.
+Nominative .. ~ .. porlengk, two children.
+Genitive .. .. ~ porlengal, of two children.
+Dative .. .. .. porlungengun, to two children.
+Causative ~ .. ~ porlengul, by two children.
+Ablative .. .. .. porlengulund, from two children.
+“ • • • • .. porlenengulund.
+vocative ~ .. .. porlula, 0 ! two children.
+Plural.
+Nominative .. .. .. po rlar, children.
+Genitive .. ~ .. porlan, of children.
+Dative . .. .. .. porlungar, to with, by, or on
+children.
+Causative ~ .. ~ porlar, by children.
+Ablative .. .. ~ porlenend, from children.
+porlannand.
+vocative .. .. .. porluna, 0 ! children.
+Sometimes compound substantives are formed out of simple nouns by
+the addition of inyeri (belonging to or of), a verb stem or an adjective.
+To such words belong peculiar laws of declension. For instance :
+Kurlinyeri , from Icurle (head), inyeri (belonging to); i.e. a hat or head-
+dress. Turninyeri , from turne (foot), and inyeri (belonging to); i.e. a
+boot. Kurinyinyerengk , from kurrengk (the two shins;, inyerengk
+(belonging to two); i.e. a pair of trousers. Now, in such words as these,
+the prepositional sign would be affixed to the end of the word, as
+Kurlinyerald, of a hat— Kurrinyerenggal, of a pair of trousers.
+Then, again, we have yande orn, from yande (old or useless) and
+korn' (a man) —i.e. an old man; yanae imin, from yande (old) and
+mimmey a woman) —i.e. an old woman In these cases the sign of the
+declension comes between; as yant aid orn—oi an old man; yant aid
+imin —of an old woman.
+The particle urmi is added to some stems of verbs to make it mean an
+instrument to do the verb with; as, kalt urmi —a spade—a digging
+thing ; drek urmi (a tomahawk), from drekm (cutting or chipping) and
+urmi (an instrument). In such words the case endings are added to the
+end of the whole word.
+
+
+The word amalde is added to the stems of some verbs to make them
+signify a person who does that action; as, pelt amalde, from pettin (steal)
+and amalde (an agent)—i.e. a thief; yelpul amalde, from yelpulun (lying)
+and amalde (an agent)—i.e. a liar. These words take also the affix at
+the end.
+Watyeri is a particle used in the same way, and signifies “ full ofas,
+plonggewatyeri —full of, or possessed by sorcery; tuniwatyeri —full of
+sand; merkewatyeri —full of holes.
+The particle urumi means something used for a purpose; as, tyetyurumi
+from tyetyin (anoint) and urumi (a means) —i.e. oil, ointment; muturumi
+(a drink), from muttun (drinking); kunkurumi, from kunkun (swallowing),
+things to swallow—i.e. pills.
+The declension of words signifying human relationships is peculiar.
+There are different forms of the word meaning a relationship, in order
+to express whether it is mine, yours, or his. For instance :
+nanghai— my father. narkowalli— his mother.
+ngaiowe— your father. gelanowe— my elder brother.
+yikowalle— his father. gelauwe— your elder brother.
+nainkowa— my mother. gelauwalle— his elder brother.
+ninkuwe— your mother.
+This word nanghai (my father) is declined thus :
+Nominative ~ .. .. nanghai— my father.
+Accusative .. ~ nanghaiyin— in my father.
+Genitive .. .. nanghaiyin— of my father.
+Dative ~ .. .. nanghaiyinangk— to my father.
+Causative .. .. .. nanghaiyininda— by my father.
+Ablative .. .. .. nanghaiyinanyir— from my father.
+For—nan ghaiyinambe—/or my father.
+Now, in all the words signifying relationships, this form of declension
+is the same. The accusative and the genitive are alike, and are formed
+by adding in or an to the nominative; and every other case is formed by
+affixing a case particle or case ending to the accusative or genitive case.
+This is the method, whether the word he of my, your, or his relations.
+But where the case ending is affixed to the genitive case it is sometimes
+put between the stem of the word and the case ending ; as, Tartaldan—
+of my younger brother.
+
+
+PRONOUNS.
+The personal pronouns are declined in three numbers —singular, dual,
+and plural. After each pronoun in its full form I shall put the abbrevia-
+ted, or euphonized form, commonly used in speaking.
+Ist Person. Ngape (I).
+Singular.
+Nominative .. .. ngape —ap .. .. I.
+Accusative .. .. ngan —an .. .. ~ me.
+Causative ngate at, atte .. by me.
+Dual.
+Nominative .. ~ ngel—angel (pronounced ang'eij we two.
+Accusative .. .. lam alam .. ..us two.
+Causative ~ ngel—angel (pronounced ang'ei) by us two.
+Plural.
+Nominative ~ ~ ngum we.
+Accusative .. .. nam anam .. .. us.
+Causative .. .. .. ngurn .. .. .. by us.
+2nd Person. Nginte (Thou).
+Singular.
+Nominative .. .. nginte ind, inde .. thou.
+Accusative .. .. ngum um, m .. thee.
+Causative .. .. ~ nginte, ind .. .. ..by thee.
+Vocative .. .. nginta inda .. .. 0 thou !
+Dual.
+Nominative ~ .. ngurl ung-url ~ ~ you two.
+Accusative .. .. lorn olom .. ~ you two.
+Causative .. .. .. ngurl ung-url ~ ..by you two.
+Vocative .. .. ngurla ula .. 0 you two!
+Plural.
+Nominative .. .. ngun ung'-un .. .. you.
+Accusative .. .. nom onom .. .. you.
+Causative .. .. .. ngun ung'-un .. ..by you.
+Vocative .. .. nguna una .. .. 0 you !
+3rd Person. Kitye (He).
+Singular.
+Nominative .. kitye itye .. .. he, she, it.
+Accusative .. .. kin, in • him, her, it.
+I by him.
+Causative kil il j by her.
+t by it.
+Dual.
+Nominative ~ ~ kengk engk .. .. they two.
+Accusative .. ~ kenggun eng'gun ~ them two.
+Causative .. .. kenggul eng'gul .. by them two.
+Plural.
+Nominative ~ .. kar —ar .. .. .. they.
+Accusative ~ ~ kan —an .. .. them.
+Causative .. .. ~ kar —ar ~ ~ ..by them.
+
+
+The other cases of pronouns are formed by adding proper case endings
+to the accusative. The following are the case endings :
+auwe \ Genitive.
+auwurle )
+anyir .. becomes Genitive in the case of pronominal adjectives,
+angk .. Dative to, at, in, into, with, on.
+anyir .. from —as a result.
+ambe .. for, instead of, for an object (as “ kak in oura, nak
+“ ambour ityan ” put it here that I may see it.
+Literally, foresee it nak amb).
+The following is a declension of the word Utye (he): —
+Singular.
+Nominative .. .. kitye .. .. he-
+Accusative .. kin.. .. .. him.
+Genitive .. .. kanauwe .. of him.
+Dative .. .. kinangk .. .. to him.
+Causative .. .. kil .. .. by him.
+From kinanyir, from him. | For kinambe, for him.
+Dual.
+Nominative .. kengk .. .. they two.
+Accusative .. .. keng'gun .. them two.
+Genitive .. .. keng'gunauwe .. of them two.
+Dative .. .. keng'gunangk.. to them two.
+Causative .. keng'gul .. .. by them two.
+From —keng'gunanyir, from them two. For —keng'gunambe, for them two.
+Plural.
+Nominative .. .. kar .. .. they.
+Accusative .. kan .. .. them.
+Genitive .. .. kanauwe .. of them.
+Dative .. .. kanangk .. ..to them.
+Causative .. .. kar .. .. by them.
+From kananyir, from them. | For kanambe, for them.
+The possessive or adjective pronouns, my, his, your, &c., change their
+terminations in forming their cases ; the auwe becomes anyir before the
+termination expressing the case. Thus we say kinanyerald, not lcinau-
+weald. This will be best illustrated by the declension of the possessive
+pronouns kinauwe (his), keng'gunanwe (theirs —two), kanauwe (their) : -
+Kin auwe (Sis).
+Singular.
+Nominative .. .. kinauwe .. his (sometimes “ kinauwurle”).
+Accusative .. .. kinauwe.
+Genitive .. .. .. kinanyerald .. of his.
+Dative .. ~ .. kinanyerangk .. to his.
+Causative .. .. .. kinanveril.. ..by his.
+From—kinanyirenend, from his.
+Dual.
+Nominative .. .. keng'gunauwe.. theirs (two).
+Accusative .. .. keng'gunauwe.
+Genitive .. .. keng'gunanyirald of theirs (two).
+Dative keng'gunanyirangk to theirs (two).
+Causative .. .. keng'gunanyeril .. by theirs (two).
+From —keng'gunanvirenend, from theirs (two).
+
+
+Plural.
+Nominative .. .. kanauwe ~ .. their.
+Accusative ~ kanauwe.
+Genitive .. .. kananyirald .. of their.
+Dative .. .. kananyirangk .. to their.
+Causative .. .. kananyiril .. by their.
+Fhom —kananyirenend, from their.
+The pronoun following a transitive verb would be in the dative or
+genitive case ; as, Ngate mempir kinanyirangk kurl —l struck his head ;
+not kinauioe kurle. At the same time there are many instances in which
+the auwe would be used in an objective sense; as, Kil pleppin
+kenggunauwe pillar —He touched the eyes of these two.
+The demonstrative pronouns are hikke (this), hityekatye (this one),
+and naiye (that).
+The following are the forms of the demonstrative pronoun hik :—
+Singular. Dual. Plural.
+Nominative hikkai henggengk harar.
+Accusative .. .. hin henggun haran.
+Ablative hll henggul harar.
+Also —Hityekatye (this onej [emphatic].
+Singular. Dual. Plural.
+Nominative hityekatye hengenekengk hamakar.
+Accusative .. .. hityenekatye.
+The pronoun naiye (that) has the following forms:
+Singular. Dual. Plural.
+Nominative naiye nakak narar.
+Accusative .. .. orne narar.
+Genitive omauwe.
+Dative omangk.
+The interrogative pronouns nganggi (who?) and minye (what?) are
+used in the following forms in the various cases :
+Nganggi (Who?)
+Nominative .. .. nganggi— who.
+y. ( nak — to whom.
+Dative | nak an angk —to whom (plural).
+Genitive j |]auwurli } w^ose or whom.
+Causative .. .. ngandi— by whom.
+Ablative .. .. .. nambi — for whom.
+Minye (What ?)
+Nominative .. .. minyi— what.
+Dative mek — to what.
+Genitive ~ .. mek — of what.
+Ablative mekimbe — for what (what for).
+f mengye by what (huiv).
+] minyandai —what times (how often).
+! minyurti— what sort.
+j minyai munyarai— what number.
+| minde — what reason , why.
+(.murel — with what intention.
+Causative
+
+
+VERBS.
+The verb in native has a close relationship to the adjective, and a
+tendency to assume the form of a participle. Thus, Kaikundun il ityan
+is more nearly expressed by the English “ Calling by him to him” than
+by “He calls him.” Lewin itye is better expressed by “He is sitting”
+than by “ He sits.”
+The Narrinyeri language possesses the property of being able to form
+words out of itself with much facility. Names are generally invented by
+natives for European objects, and words are formed to express actions
+introduced by the colonists. For instance : Taminyun is “to shoot;”
+and it is compounded of the words tamin (to point) and yun (the sound
+of a gun).
+But we see this tendency to build up words in the language itself in
+words built up to express native ideas ; as :
+Pilgeru wallin —“ Being greedy ’ from pulkcri (greedy) and wallin (being).
+Konkuwarrin —“ Sending away ;” from Iconic (apart), u (expressive of impera-
+tive), and warrin (to make).
+Lamatyeri— “ Wood for a fire ;” from laminin (carrying on the back) and atycri
+(belonging to—i.e., that which is carried on the back).
+Anangkwarrin —“Preparing,” “getting ready;” from anangk, or kanangk, or
+ityanungk (the dative of the accusative form of the third personal
+pronoun kityan, kin, or kan), and warrin (making); literally—making
+towards it.
+The four principal classes of verbs are:—(l) The simple verbs; as,
+mempin (striking), takkin (eating), ngoppun (walking), lulun (breaking),
+nampulun (hiding). (2) Verbs with the termination wallin, signifying
+“ existing;” as tunkutcallin (playing), yunfuwallin (crowding). (3) Verbs
+with the termination warrin , meaning “causing, making;” as nunku-
+warrin (doing right), wirrangwarrin (doing wrong), ivurtuwarrin (satura-
+ting with water). (4) Verbs ending in mindin, as kldeimindin (fetching).
+I will now proceed to give the conjugation of the aboriginal native
+transitive verb—
+Lak— (To Steam).
+indicative mood —Present Tense.
+Singular.
+Ngate yan lakkin—l spear him
+Npinto yan lakkin—Thou spearest him
+Kile yan lakkin—lie spears him.
+Dual,
+Ngel yan lakkin—We two spear him
+Ngurl yan lakkin —Ye two spear him
+Kenggul yan lakkin—They two spear him.
+Plural.
+Ngurn yan lakkin —We spear him
+Ngan yan lakkin —Ye spear him
+Kar yan lakkin—They spear him.
+
+
+Past Tense.
+Singular.
+Ngati yan lakkir—l speared him
+Ngmti yan lakkir—Thou spearedst him
+iiile yan lakkir—He speared him.
+Dual.
+Ngel yan lakkir—We two speared him
+.Ngurl yan lakkir—You two speared him
+Kenggul yan lakkir-They two speared him
+Plural.
+Ngum yan lakkir We speared him
+Ngun yan lakkir You two speared him
+Kar yan lakkir They two speared him.
+Remote Past Tense.
+Singular.
+rfgati yan lak emb—l did spear him
+Aginte yan lak emb—Thou didst spear
+him
+Kile yan lak emb—He did spear him.
+Dual.
+Ngel yan lak emh—We two did spear him
+IVguil yan lak emb-You two did spear him
+lienggul yan lak emh—They two did spear
+him.
+Plural.
+Ngurn yan lak emb We did spear him
+.N gun yan lak emb You did spear him
+•h.ar yan lak emb They did spear him.
+First Future (Simple Future).
+Singular.
+Ngati yan lakkani—l will spear him
+Ngmte yanJakkani-Thou wilt spear
+Kile yan lakkani-He wiU spear him.
+Dual.
+yan lakkani— W e two will spear him
+Agurl yan lakkani—Ye two will spear him
+iienggul yan lakkani-They two will spear
+him.
+Plural.
+Ngum yan lakkani We will spear him
+Ngun yan lakkani You will spear him
+Kar yan lakkani They will spear him.
+Second Future (Intentional).
+Singular.
+Ngate lak el ityan—l will [i.e., intend tol
+spear him
+ityan—Thou wilt spear him
+-K-ile lak el ityan—He will spear him.
+Dual.
+Hgeli lak el ityan—We two will spear him
+JNgurle lak el ityan—You two will spear
+him _ [him,
+Kenggul lak el ityan—They two will spear
+Plural.
+ISgurn lak el ityan He will spear him
+hlgun lak el ityan You will spear him
+-har lak el ityan They will spear him.
+Third Future (Predictive),
+Singular.
+Lakkin el atte ityan—l will spear him
+Lakkin el inde ityan You will spear
+him
+Lakkin el il ityan—He will spear him.
+Dual.
+Lakkin eU-ngdityan— We two will spear
+Lakkin el ungurl ityan—Ye two wiffapear
+Lakkm el engul ityan—They two will
+spear him.
+Plural.
+Lakkin el ungum ityan - We will spear him
+Lakkm el ungun ityan You will spear him
+Lakkm el ar ityan They will spear him.
+
+
+Other Forms of the Future.
+Nginte el our ityan lak Thou must spear him.
+Lak amh el ityan P Shall I spear him ?
+Tarno lak amh ityan ? Shall I not spear him ?
+Repetitive Tense.
+Singular.
+Ngati lak unganyi—l spear again
+Nginte lak unganyi—Thou spearest again
+Kile lak unganyi—He spears again.
+Dual.
+Ngel lak unganyi—We two spear again
+Ngurl lak unganyi—You two spear again
+Kenggul lak unganye —They two spear
+again.
+Plural.
+Ngurn lak unganye We spear again
+Ngun lak unganye You spear again
+Kar lak unganye They spear again.
+REFLECTIVE MOOD.
+Singular.
+Ngap an angk laggelir—l speared myself
+Nginte jjmangk laggelir—Thou spearedst
+thyself
+Kitye nangk laggelir —He speared him-
+self.
+Dual.
+Ngele nangk laggelir —We two speared
+ourselves
+Ngurle nangk laggelir—Ye two speared
+yourselves
+Kenggenangk laggelir —They two speared
+themselves.
+Plural.
+Ngurn an angk laggelir We speared ourselves
+Ngun en angk laggelir Ye speared yourselves
+Kan enjangk laggelir They speared themselves.
+RECIPROCAL MOOD.
+Ngele nangk laggel amh Let us two spear each other.
+IMPERATIVE MOOD.
+Singular.
+Lak our inde—Do thou spear
+II oura lak —Let him spear
+Dual.
+Ngel oura lakkin—Let us two spear
+Ngurl our lakkin —Let you two spear
+Kenggul our lakkin —Let them two spear.
+Plural.
+Ngurn our lakkin Let us spear
+Ngun our lakkin Do you spear
+Kar our lakkin Let them spear.
+OPTATIVE MOOD (“ MAY”).
+Singular.
+Ngati in anyura lakkin —I may spear him
+Nginte in anyura lakkin Thou mayest
+spear him
+Kile in anyura lakkin —He may spear him.
+Dual.
+Ngel in anyura lakkin —We two may spear
+him
+Ngurl in anyura lakkin—Ye two may spear
+him
+Kenggul in anyura lakkin—They two may
+spear him.
+Plural.
+Ngurn in anyura lakkin We may spear him
+Ngun in anyura lakking Ye may spear him .
+Kur in anyura lakkin They may spear him.
+
+
+OPTATIVE (“COULD” OR “ WOULD ”).
+Singular.
+Lak ilde atte ityan—l would spear him
+Lak ild inde ityan—Thou wouldest spear
+him
+Lak ild ile ityan—He would spear him.
+Eual.
+Lak ilde ngel ityan—We two would spear
+him
+Lak ilde ngurl ityan—Ye two would
+spear him [spear him.
+Lak ilde engul ityan—They two would
+Plural.
+Lak ilde ngurn ityan—We would spear him
+Lak ilde ungun ityan—Ye would spear him
+Lak ilde ar ityan—They would spear him.
+PROHIBITIVE MOOD.
+Lak e—Spear not. Tauo ityan lak ityan—Don’t spear him.
+(“must ”).
+Laggel el our ap—l must spear
+Laggel el our ind—Thou must spear
+Laggel el our itye—He must spear.
+&c., &e.
+INFINITIVE MOOD (PRESENT).
+Lak—Spear [the idea absolute]
+Lak uramb For the purpose of spearing [of an instrument or weapon].
+PARTICIPLES.
+Laggelin Spearing.
+Laggelir—Speared.
+PASSIVE.
+Singular.
+Kgan lakkir—l am speared
+Ngum lakkir—Thou art speared
+Kin lakkir—He is speared.
+Dual.
+Lam lakkir—two are speared
+Lom lakkir—You two are speared
+Kenggun lakkir—They two are speared.
+Plural.
+Nam lakkir—We are speared
+Nom lakkir—Ye are speared
+Kan lakkir—They are speared.
+NOTES.
+I.—l chose the word lakkin for the paradigm of a native verb because-
+-1 contains all the inflections which I know of. The word lakkin means,
+primarily, “ piercing as, Ngate lakkin itye koye —I pierce a basket
+(i.e., make a basket by the piercing through and through of the rushes
+as it is woven or sewn together). But the word is mostly used for casting
+a spear darting ; and, from that, aiming any missile or throwing a stone
+at any person is lakkin.
+1 have given an “ indicative mood,” yet the peculiarity
+or the participial character of the native verb must not be lost sight of.
+Ihere must necessarily be in every language a form of expressing the
+verb, equivalent to our indicative form—and this I have endeavored to
+3 that is, the inflection of the verb, with the accompanying pronouns
+both causative and objective—which conveys the indicative thought.
+
+
+But yet it must not be supposed that the words Ngate ityan lakkin , for
+instance, mean “By him it spearing;” although that is the nearest to it
+in English. Yet the word lakkin does not mean “ spearing,” but, as the
+aborigines say in broken English, “ spear em.” They say, “ I spear em
+it kangaroo this is the native idiom. In exhibiting the indicative mood
+I have supposed the speaker to say, “ I spear him but of course I
+might have put it, “I spear thee,” or “ I spear you,” and so on. In that
+case the objective form of the second personal pronoun would have to be
+used—as Ngate um lakkin, “ I spear thee or, Ngate onom lakkin, “ I
+spear you;”—and so on, through all the tenses.
+3. —The transitive verbs are distinguished from the intransitive by the
+former using the causative case of the pronoun; whereas the latter uses
+the simple nominative. This will be seen in the following conjugation
+of the verb :
+Ngai (T Come.)
+indicative mood —Present Tense.
+Singular.
+Ngaiin ap—l come
+Ngaiin inda—Thou comest
+Ngaiin itye—He comes.
+Dual.
+Ngaiin ngel—We two come
+Ngaiin ung'url—Ye two come
+Ngaiin engk —They two come.
+Plural.
+Ngaiin ung'um—We come
+Ngaiin ung'une—You come
+Ngaiin ar—They come.
+Past Tense.
+Singular.
+Puntir ap—l came
+Puntir inde—Thou earnest
+Puntir itye—He came.
+Dual.
+Puntir ang'el—We two came
+Puntir ung'url—You two came
+Puntir engk—They two came.
+Plural.
+Puntir am —We came
+Puntir ung'une—You came
+Puntir ar—They came.
+Future Tense.
+Singular.
+Ngai el ap—l will come
+Ngai el inda—Thou wilt come
+Ngai el itye—He will come.
+Dual.
+Ngai el ang'el—We two will come
+Ngai el ung'url—You two will come
+Ngai el engk—They two will come.
+Plural.
+Ngai el am—We will come
+Ngai el ung'une—You will come
+Ngai el ar—They will come.
+IMPERATIVE MOOD.
+Koh Come
+Ngai war.. Do come
+Ngai akhi .. Come here.
+
+
+OPTATIVE OR POTENTIAL MOOD.
+Singular.
+Ngap inanye ngai—l may come
+Ngint inanye ngai—Thou mayest come
+Kity inanye ngai—He may come.
+Dual.
+Ngel inanye ngai—We two may come
+Ngurl inanye ngai—Ye two may come
+Kengk inanye ngai—They two may come.
+Plural.
+Ngum inonye ngai—We may come
+Ngune inanye ngai—Ye may come
+Kar inanye ngai—They may come.
+INFINITIVE MOOD.
+Ngai To come.
+PARTICIPLES.
+Puntin .. .. Coming
+Puntani .. About to come.
+4. There appears to he different classes of verhs in the Narrinyeri
+language. They are distinguished by the variation or non-variation of
+the word which expresses the indicative mood when it expresses the
+present participle. For instance— Ngati yan merippin signifies “I cut
+itln this case the word merippin expresses the indicative present, first
+person. It is also merippin for “ cutting”—that is the present participle.
+Then Ngati yan dreltin is “I chip it;” but it is not drekin in the present
+participle, but dretulun. So that we thus have two classes of verbs—the
+first does not change in assuming the participial form, as mempin (strike),
+pempin (give), morokkun (seize); the second does change in assuming
+the participial form, as pornun (die), pornelin, (dying) ; nampulun (hide),
+nampundelm (hiding); nyrippin (wash), nyribbelin (washing); milipulun
+(speak a foreign language), milipundun (speaking a foreign language).
+Possibly a more exact knowledge of the language might reveal subdivi-
+sions of these classes.
+5. —Some verbs change from the intransitive to the transitive form by
+the addition of undun to the root, instead of ulun —or a“ g” sound instead
+of a “k” sound; as, nampulun ap (I hide), nampundun atte ityan (I hide
+it) ; yelkulun ap (I move), yelkundun atte ityan (I move it) ; pingkin ap (I
+fall), pinggen atte ityan (I throw it down).
+The meaning “ cause to be” is given to adjectives of verbal form by
+the addition of mindin; as, nguldammulun (tired), nquldammulimindin
+(making tired).
+6-—The two auxiliary verbs in most common use are wallin (being),
+and warrin (making, or causing). They are affixed to adjectives; as,
+nunkeri (good), nunkowullin (being good), nunkowarrin (making good);
+piltengi (strong), piltengivallm (being strong), piltengwarrin (making
+strong) ; wirrangwallin (being bad), wirrangwarrin (making bad).
+7 —The word ellin also means “ being— state of being,” and sometimes
+“ doing.” It is very irregular in its use. It is the nearest word in the
+language to our verb “to be,” It is scarcely to be expected that such an
+
+
+abstract verb should be found perfectly developed in a barborous tongue.
+The use of this word ellin, and also of ennin, is very difficult to under-
+stand. El appears to mean “ intention, for or towards,” whether that in-
+tention be for doing, ivishing for, or being : ellin expresses the intention
+satisfied. For instance, take the following table of the words :
+El—l wish to do
+1 Ellin—Doing
+| Ellir—Done
+( Ellani—About to do
+El—l wish for Ellin—Having
+El—l shall be
+( Ellin —Being
+( Ellir—Has been
+En—Do
+/ Ennin—Doing
+< Ennani—Will do
+( Ennir —Done.
+The following native sentences furnish instances of this :—En al yan,
+“ Do with it”—i.e., “do it.’ ’ Luk ap atye ellir, “ Thus I it did,” “ I did
+so.” Ngati yan ennani, “ I will do it.” Ngate yan ellani, “ / will doit,”
+“Byme it will be done.” Kunyitye ellir, “ Enough, he has been” —i.e.,
+“ He is dead.
+8. —The stem of the word warrin is commonly used as the sign of the
+imperative and interrogative. The stem war is used and pronounced
+nearly like the English word “ our.” The following are specimens of its
+use :—Rung war, “Do hear.” Nak our, “Do see.” Ngai war, “Do
+come.” Nginta ivara, or ngint oura, “Do thou” (a phrase meaning
+“ Get out of the way”). Ngint our, or war, “Do thou”—i.e., “Do thou
+do it.” Mant our, “Do slowly.” Murrumil our, and murrunmour,
+“ Make haste —Do hasten.” Yel/cul tear, or our, “Do wove.” Mint
+oura, “Doto me thou” (it is equivalent to “ Give me a bit”). Kahk in
+oura, “ Put it here.” Yang ouri ? “ Where do you go ?”
+9. —ln expressions which mean going and coming , it is very common
+for the words “ go” and “ come” to be omitted. The following are in-
+stances of this practice ,
+} Vp will he ; Lfc, “He will go.”
+Mareelitye .. Down -will he; i.e., “He will come.”
+UUueZt, } rpTdUI; i.e., I win go.”
+Laldan an .. Up it; i.e., “ Fetch it.”
+Lare itye .. Down he; i.e., “He has come.”
+Moru an .. Down him; i.e., “He has gone down.”
+Moru el ap .. Down will I; i.e., I will go dow r n.”
+Loru means up, moru means down ; lolclu also means up, and mare
+down.
+10. —The stem or root of verbs very often consist of one or two vowel
+sounds and two or three consonantal sounds. Thus is the stem of
+the word pettin (to steal); morok is the stem of the verb morokkun (to
+fetch). I have said “ very often”—l might have said “ always,” hut
+that Ido not feel quite certain; but this rule is very common.
+
+
+ADJECTIVES.
+Some adjectives in the native language are declined like nouns ; and
+some of them have such a verbal form as to show they are closely related
+to verbs. Nunkeri (good)'and ivirrangi (bad) are examples of the former
+class; talin (heavy), balpin (white), ldnemin (dirty), kinpin (sweet),prit-
+ym (strong), are examples of the latter class. Sometimes an adjective is
+used in both forms—as balpe and balpin , both of which signify “ white.”
+The following is the declension of the word—
+Nunkeri (Good).
+Singular.
+Nominative .. .. .. nunkeri, good [noun understood!
+Genitive .. .. .. nunggurald, of good.
+Dative .. .. .. nunggurungai, to good.
+Causative .. .. .. nungguril, by good.
+Dual.
+Nominative .. .. .. nunggerengk, two good.
+Genitive .. .. .. nunggerengul, of two good.
+Dative .. .. .. nunggerungengul, to two good.
+Causative .. .. .. nunggerengul, by good.
+Plural.
+Nominative .. .. .. nunkerar, good.
+Genitive .. .. .. nungeran, of good.
+Dative .. .. .. nunggerungar, to good.
+Causative .. .. • nunggerar, by good.
+The following is the declension of the adjective—
+Ngruwar (All).
+Nominative ~ .. .. ~ ngruwar, all.
+Genitive .. .. .. .. ngruntungar , of all.
+JJative .. .. .. .. .. ngruntungar, to all.
+Accusative ngruwar, all.
+Vocative .. .. .. .. .. ngruwun, 0 all!
+Causative ■ • • • • • • • ngruntar, by all.
+-bitOM ngruntenend, from all | With— ngruntungar, with all.
+Adjectives have no degrees of comparison : the only approach to such
+is found in the word muralappi (small), muralappeol (very small). 01 is
+the common diminutive particle for adjectives and substantives.
+, -th e na tives only count to three —Yammalai or yammalaitye, “ one • ”
+ninggengk or ningkaiengk , “two;” neppaldar, “three.” Ngunkur’ is
+“ firstth ere are no words for “ second ” or “ third.” All numbers
+above three are expressed by Ngruwar (many). Some adjectives are
+formed from adverbs; as Jcarloinyem , or lcarloanyeri —from /carlo (to-day)
+and inyeri (belonging), and meaning “now f klauoanyeri, or kaldow-
+anyeri from kaldow (a long time) and inyeri (belonging to), and meaning
+‘ old; ” and konkinyeri (by itself, alone).
+
+
+ADVERBS.
+The various adverbs will be found in a vocabulary of the language. I
+only wish here to refer to some words of this class in which a nice dis-
+tinction in meaning is observed.
+Adverbs of Time.
+Karlo—To-day.
+(Karloanyeri—New.)
+Hik—Now.
+Watanggrau—Yesterday.
+N grekkald—To-morrow.
+Yun—By-and-by.
+Palli—While, by-and-by.
+ltauwul—A long time ago.
+Kaldau—A long time.
+Ngurintand—Often.
+Adverbs of Negation.
+Tamo—No, not.
+Tamalo —No more.
+Tamalo—Never.
+Tauo—Don’t (imperative).
+Tarno el—Don’t do.
+Tarnalin—Not yet.
+Nowaiy—None.
+Nowaiy ellin —No more (i.e., of
+anything).
+Adverbs of Place.
+Yangi—Where? (interrogative).
+Yarnd—Of where ? Whence ?
+Yauo—Yak —Where to ?
+Yangalli—Where is he ?
+Kiuau—Where (relative).
+Aiau—By where.
+[lnstances — Manti kiuau tantani ap, “ The wurley where I shall sleep.”
+Yak al inda tantani ? “ Where will you sleep ?”
+Ngurlung aiau, “ By where the hill is.”]
+Ku-un—Far off. [As, Ngap tangulun ku-un, “ I stand far off.” Nginte
+tangulun ku-un, “Thou standest far off.” Kitye tangulun Jcu-u,
+“He stands far off.” Kengk tangulun ku-u, “ They two stand
+far off.” Kar tangulun kuar-un, “ They stand far off.”]
+Akhe —Here.
+Alyikke—Here.
+Alyenik—This here place.
+Alye —Here.
+Ondu— Over there.
+Yamd inde ?—Whence thou ?
+Yauo ande ?—Whither thou ?
+Adverbs of Time.
+Yaral?—When? (Interrogative).
+Ungunuk—When. (Relative).
+The word wunye (then) is commonly joined, as an affix, to pronouns,
+as —
+Wunyap —Then I.
+Wunyatte —Then by me, i.e., Then
+I (casuative).
+Wunyil—Then by him, i.e., Then
+he (casuative).
+Wunyitve Then he.
+Wunyinde—Then thou.
+Wunyungune—Then you.
+Wunyar—Then they.
+Wunyel—Then will.
+The words uk, ukke, luk, and lun, which have the meaning of similarity
+—“ so,” “ thus,” “ way ” may he illustrated by the following examples —
+Luk, “So.” Lun, “Thus.” Ukke, “Way.”
+Luk it, or lun u —“ So, thus ” —“ He did it thus.” Luk itye yarnin —“ Thus
+he speaks.”
+Lun ellin —“ So being, Like.” Luk ugge —“ Like this one.”
+JBikkai ukke — lt This way.” “ This road.”
+.HU amb uk —“ For this way” (equivalent to ”).
+Lun uk —“ Thus.” Ngo uk ap —“ Igo so.”
+
+
+The word ambe has the force both of a conjunction and preposition;
+it may be rendered both “ instead of” and “ because —as, Kaldowamp
+or amb, “ For a long time:” Hil amb uk , “ For this way, because:” In
+amb at, “ Only for it:” Aid amb anai, “ For my”—as Pinyatowe aid amb
+anai pelberri, Sugar for my tea.”
+The conjunction “ and ” is not known in the language.
+SYNTACTICAL NOTES
+X.
+The form of the verb remains unchanged, whatever be the number and
+person of nominative, in intransitive verb, and causative in transitive
+verbs—as, Ngap lewin, “ I sit Kar lewin, “They sit Kil ityn pettin
+“ He steals it;” Kar ityanpettin, “ They steal it.”
+11.
+The prepositional particle in pronouns is always an affix to the accusa-
+tive case—as, Inangk, “To him Kanangk ,“ To them Pempir il
+umanglt, “He gave to thee.” In all these angk signifies the preposition
+“ to.”
+111.
+Transitive verbs are followed by an accusative pronoun—as kil (by
+him); Ityan “ him,” ngolkir “ was bitten,” i.e., “He bit him.”
+IV.
+Pronominal adjectives are always in the same number and case as the
+nouns with which they are connected —as, Kinanyirangk taldumandangk,
+“ To his house.”
+V.
+The diminutive of nouns is always placed after the case-ending of the
+noun—as, Porlaldol, “Of a little child;” Porlarol, “Of little children.”
+VI.
+Very often, when an adjective and noun come together, the case-ending
+will be attached to the adjpctive, but omitted from the noun—as, Nung-
+garald korn, “Of a good man:” here aid, signifying the genitive, is only
+attached to the adjective, and not to the noun korn (a man).
+
+
+VII.
+The sign of a transitive verb is a noun or pronoun in the causative ;
+and of an intransitive verb a noun or pronoun in the nominative Kil
+ityan drekin, “ He cuts it Kitye tangulun, “ He stands.”
+VIII.
+Demonstrative pronouns agree with the nouns which they point to in
+number and case —as, PLikkai korn, “ This man; ” Harnakar kornar,
+« These men Ornangk nunkungai, “In that day Ornangk koyungai,
+“ In that basket.”
+IX.
+The distinction between transitive and intransitive verbs, where the
+same English word expresses both, must be carefully observed. Thus—
+lulun (breaking) is intransitive, luwun (breaking) is transitive ; nyrangkin
+(burning) is intransitive, kulkun (burning) is transitive.
+X.
+The word “where” (kiuau), which is only used relatively, must be
+carefully distinguished from yangi (where), which is only used interroga-
+tively. Also the word ungunuk, or ungun, which mean “when” —used
+relatively—must be distinguished from yaral, which means “ when” in
+the interrogative sense.
+XI
+Although the stem of the verb may be said to be the infinitive present,
+yet the particle uramb (meaning “for the purpose of”) is always used
+when a verb is governed in the infinitive by another verb;—as, Kil pem-
+pir inangk kaltumi kalturarnb an tuni, “ By him was a giving to him a
+spade for the purpose of digging the ground ”—i.e., He gave him a spade
+to dig the ground. Pempir il an angle nakkari takuramb, “He gave me
+a duck to eat.”

@@ -1,0 +1,3176 @@
+
+
+
+
+
+
+COMMONWEALTH
+OF AUSTRALIA
+Council for Scientific and Industrial Research
+BULLETIN No. 30
+Investigation
+ON THE
+BUNCHY TOP DISEASE
+OF THE
+BANANA
+By
+C. J. P. MAGEE. B.Sc.Agr.
+MELBOURNE. 1927
+By Authority:
+H. J GREEN. GOVERNMENT PRINTER. MELBOURNE
+C.13263.
+
+
+
+
+FOREWORD.
+This Bulletin deals with the scientific aspect of the Bunchy Top
+Disease in bananas, and is the result of an investigation instituted
+by the Governments of the Commonwealth, New South Wales, and
+Queensland. I have considered it fitting and proper that this Bulletin
+should be issued as the work of the Assistant Plant Pathologist, Mr.
+C. J. P. Magee, B.Sc. Agr., since the knowledge of the nature and
+mode of transmission of the disease is mainly the result of investiga-
+tions carried out by that officer. A general report dealing with the
+problem has already boon issued. Further investigations regarding
+certain aspects of the problem arc still in progress.
+E. J. GODDARD,
+Supervisor.
+Dejmrtment of Biology,
+University of Queensland,
+Brisbane.
+
+
+
+
+CONTENTS.
+Page
+1. Introduction .. .. .. .. .. .. .. 7
+2. History of the Disease in Australia .. .. .. ..10
+Economic Effects of the Disease .. .. .. .. ..14
+(1) Destruction of Plantations .. .. .. .. .. 15
+(2) Financial Loss to Individuals, Districts and States .. .. .. 10
+(3) Utilization of Land for other Purposes .. .. .. .. 18
+4. Geograimiical Distribution .. .. .. .. .. ..1!)
+5. Previous Literature and Investigations .. .. .. .. 19
+0. Host Plants ; Varietal Susceptibility .. .. .. 22
+7. Common Names of the Disease .. .. .. .. 23
+S. Symptoms :
+(1) General Habit and Behaviour •• .. .. .. -.24
+(2) Leaf Symptoms .. .. .. .. .. 27
+(3) Below-ground Symptoms .. .. .. .. 29
+(4) Internal Signs of the Disease .. .. .. .. ..31
+9. C\use and Transmission of the Disease;—.
+(1) Parasitic Soil Factors .. .. .. .. .. ..35
+(2) Soil Sterilisation .. .. .. .. .. 37
+(3) Ultra-microscopic Organism or Virus .. .. .. 38
+(4) Juice Transfer Inoculations .. .. .. .. 39
+(5) Preliminary Experiments on the Transmission of Bunchy Top by the
+Banana Aphis .. . . .. .. .. 40
+(li) Final Transmission Experiment by the Banana Aphis .. .. 41
+(7) Systemic Nature of the Disease —Sucker Transmission .. .. 45
+(8) Root Contact of Healthy and Diseased Individuals .. .. .. 4(1
+(9) Transmission by Grafting .. .. .. .. ..40
+(10) Transmission of Bunchy Top to Abaca or Manila Hemp .. .. 48
+10. Observations on the Banana Aphis
+(1) Specificity of the Banana Aphis .. .. .. .. ..50
+(2) Dissemination of Aphides .. .. .. ~ ..51
+(3) Role of Aphides in Transmission of Bunchy Top .. .. .. 51
+11. Ecology of the Disease .. .. .. .. .. ..52
+12. Control Measures —
+(1) Exclusion .. .. .. .. .. .. ..54
+(2) Protection .. .. .. .. .. .. 50
+(3) Eradication .. .. .. .. .. .. .. 57
+(4) Immunization .. .. .. .. .. .. 00
+(5) Remedial Measures .. .. .. .. .. 01
+13. .Summary .. .. .. .. .. .. .. ..01
+14. Literature Cited .. .. .. .. .. ..02
+15. List of Illustrations .. .. .. .. .. ..03
+
+
+
+
+Investigations on the Bunchy Top
+Disease of the Banana.
+1. INTRODUCTION.
+It is the purpose of this paper to record the results obtained during
+the -past eighteen months in the investigation of the Bunchy Top
+disease in the banana. This disease was first reported in Australia
+about 1913, and has since practically wiped out the banana industry in
+many centres in north-eastern Hew South Wales and south-eastern
+Queensland. It is doubtful if there are many other diseases on record
+which have wrought such devastation on a flourishing industry as that
+produced by the ravages of Bunchy Top. The disease has been easily
+the most serious banana malady in Australia, and has also occasioned
+serious losses in Fiji, Ceylon, and Egypt.
+Up till the time of the present investigation, nothing definite was
+known regarding the nature of the cause of this disease or of its means
+of natural transmission. The absence of this knowledge has been the
+indirect cause of the rapid extension of the disease and its calamitous
+effects over such a wide area. Also, until the present time, it has not
+been possible to elaborate any reliable scheme of control measures to
+check the ravages of the disease. Evidence is contained in this paper
+which definitely proves that Bunchy Top is an insect-transmitted disease
+belonging to the class of virus diseases.
+The Bunchy Top Investigation, consisting of Professor E. J.
+Goddard, 8.A., D.Sc. (Supervisor), the writer (Assistant Plant Patho-
+logist), and Mr. 11. Collard (Horticulturist), undertook the responsi-
+bility of researches on Bunchy Top in May, 1924, on the recom-
+mendation of a Board which represented the Commonwealth Institute
+of Science and Industry, the Hew South Wales Department of Agri-
+culture, and the Queensland Department of Agriculture and Stock.
+The funds required for the iiivestigations were contributed by these three
+bodies, and the expenditure of the money was controlled by the Board.
+A considerable amount of work had previously been devoted to the
+problem by scientific workers in Australia, as well as in Fiji (where the
+disease has been present for at least 40 years), Ceylon, Egypt, and the
+The Supervisor of the Bunchy Top Investigation, Professor K. J. Goddard, has graciously
+suggested that I should accept the responsibility of preparing this paper. In doing so J feel that lam
+under a great obligation to him and to the Horticulturist, Mr. 11. Collard. To Professor Goddard lam
+indebted for help in every direction during the course of the Investigation and for criticism, suggestions
+and assistance in the preparation of the manuscript. To Mr. Collard I owe a great deal for bis care
+and thoroughness in field work, for observations and practical suggestions, and constant co-operation
+during the work. I desire to make acknowledgment of the kind assistance received from Mr. W. L,
+Waterhouse, University of Sydney, bv the loan of literature and for helpful suggestions throughout
+the Investigation. ■ Thanks are also due to Mr. A. E. Mee for assistance in photography.
+—C. J. P. Magee.
+
+
+Philippines, but no definite cause could be proved. It had been sug-
+gested by some that the disease was caused by nematodes (in Fiji,
+Fgypt, and the Philippines), while various others had suggested that
+the causal agent was a fungus, chemical deficiency of the soil, deteriora-
+tion of the banana stock, climatic factors, aphides, &c. There was no
+substantive evidence to strengthen the claims of these opinions, and as
+the ravages of the disease along the northern rivers of New South
+Wales, and in south-eastern Queensland, became so intense, it was clear
+that any attempt to solve the problem would have to bo made by scien-
+tific investigators working on the spot.
+A laboratory was founded at Tweed Heads, and experimental plots
+were leased at Cobaki from Messrs. T. Pilgrim and McAlister. The
+investigation work at the laboratory was attended to by the writer, and
+the horticultural work at the plots was under the care of Mr. 11.
+Collard. In the interval, awaiting the planting season, Mr. Collard
+was sent to Fiji to gather first-hand information as to the history of
+the disease in those islands, its present status, and the possibility of
+securing resistant or immune stock.
+Attempts to isolate any constant fungal or bacterial agent from the
+variotis parts of affected plants were unsuccessful, and after a period
+of six months, during which visits were constantly made to various
+parts of the affected area, noting the behaviour of plants in deserted
+plantations as well as the initial and early stages of infection in other
+plantations, it seemed highly probable, in view of discoveries mentioned
+later, that the trouble would not be attributed to any such agent.
+Meanwhile the Investigation was also devoting attention to the
+matter of nematodes or eel worms, since these were found to be
+abundant in all plantations, and their presence readily indicated by the
+almost constant presence of galls on the roots of affected and apparently
+non-affeeted plants. Plants from northern Queensland were planted
+in tanks filled with steam-sterilized soil, and others in tanks of soil
+from an infected plantation, with a view to settling the possible effect of
+soil factors, c.g., nematodes, parasitic fungi, and bacteria, in a purely
+preliminary manner. It soon became apparent that such experiments,
+if they were to be of any scientific value, would have to be carried out
+under such conditions of control as obtain in a properly equipped glass-
+house. This development and the necessity for a glasshouse for the
+purposes of other experiments, which were to be tried out, compelled
+the Supervisor to request the erection of sueli a glasshouse. The cost
+of the erection of this building was considered to be insignificant for
+scientific purposes whore the national loss due to the disease was so
+great.
+Keeping in view the possibility that the disease might bo of the
+mosaic type of virus disease, attempts were made to produce the disease
+in healthy plants from northern Queensland, grown in sterilized soil,
+8
+
+
+and inoculated with the sap of affected plants. There was no evidence
+manifested for the transmission of the disease in the material used in
+these preliminary experiments, hut it was recognized that further
+work along these lines should bo carried out when the glasshouse was
+available. Similarly, no results were obtained by inoculating sterilized
+soil with three species of fungi, which were isolated from the roots of
+some specimens of plants affected with Bunchy Top. "Further, the
+association, over a long period, of diseased and healthy plants in
+sterilized soil, and in the same pot, out-of-doors, so that the roots were
+in intimate association, failed to produce the disease in the healthy
+plants (an experiment which was later repeated with several plants
+under glasshouse conditions with the same results). Meanwhile, con-
+siderable work was accomplished on the experimental plots.
+One of these with excellent soil had previously been affected with
+Bunchy Top, and, after being leased, had been thoroughly ploughed
+(part of it had rested for a period of several months) prior to the
+planting of the same by the Investigation in October, 1921. The plants
+wete selected from various areas —some were plants which appeared to
+have stood out against the disease in affected plantations; some which
+appeared to have shown some signs of healthy constitution, taken from
+a deserted plantation; healthy plants from Brihic Island and Bracalba,
+Queensland; and three species of wild bananas from the neighbourhood
+of Cairns. The objects in this experiment were to determine the possi-
+bilities of resistance in local stocks, the possibilities of recovery from
+the disease, to make an intensive study of the incidence of the disease
+in originally undoubtedly healthy plants, and to determine the possible
+effects of cultural treatment in upholding resistance in healthy plants,
+and the possible resistance of wild stock to tiro disease.
+Another plot of virgin land which had grown lantana for eight years
+was cleared, and planted with healthy stock from Bracalba. It rvas
+considered that, if soil factors such as physical and chemical constitu-
+tion, bacteria, fungi, or nematodes played the major role in the direct
+production of the disease, it was possible that the plants on the plot of
+virgin land would stand out in contrast to those on the other plot which
+had carried Bunchy Top plants.
+The early outbreak of disease in the plot of virgin land in January,
+.1925, and its rapid development throughout that plot within a few
+weeks, contrasted with the very slight development of the disease on
+the other plot, and led to an intensive study of the conditions prevail-
+ing in this plot. It w r as noticed that aphides were particularly
+abundant on this plot, an abundance possibly to bo attributed to the
+topography of this lower plot being responsible for the bringing about
+of conditions more favorable for the aphides.
+C. 13263—2
+9
+
+
+At once aphides were transferred from affected plants to healthy
+plants growing in sterilized soil, under insect cages, in the grounds of
+the laboratory, and the disease made its appearance in these experi-
+mental plants in about three weeks. The experiments were repeated
+by transferring aphides from affected to healthy Bracalha plants, grown
+under insect cages, in the University grounds, at Brisbane, where the
+disease appeared in two plants within a fortnight. Tls,us a definite
+lead was established to the investigation, and at once preparations
+made for following up these results in the glasshouse, arrangements for
+the construction of which had then been completed.
+2. HISTORY OF THE DISEASE IN AUSTRALIA.
+The earliest definite record from Australia of a disease in bananas,
+which can be regarded without doubt as that now known as Bunchy
+Top. is from a centre in tbe Tweed Hirer area about thirteen years ago.
+There are growers who are of the opinion that the disease occurred
+much earlier in Australia, basing their opinion on statements about a
+banana trouble ” in the Clarence River area, or, as more often appears
+to be tbe case, on some malady affecting sugar cane in that region.
+There are no reliable data to support such opinions, and, in fact, the
+knowledge we now possess of the rate and mode of distribution of tbe
+disease detracts from the reliability of such statements. At all events,
+it can be definitely stated that the disease had been detected in the
+Tweed River area in 1913, although its status as a plant malady was
+not then recognized, the first interpretation being that we were concerned
+with a malformation due to non-parasitic agencies such as seasonal or
+climatic factors. It is of interest to note that the disease first made
+its appearance in a certain plantation from which stock was supplied
+to neighbouring jdanters, and tins practice was continued until the
+extension of the disease within the original plantation indicated to
+the owner that he was viewing something more serious than a mere
+malformation of plants.
+When the Advisory Committee, appointed in 1924 to inquire into
+the position in respect of Bunchy Top, visited the affected area in
+February of that year, it was learned from numerous growers who
+gave evidence before the Committee that “it was generally believed
+that the disease had emanated from the neighbourhood of this particular
+plantation.” The reliability of tbis evidence is enhanced when an
+endeavour is made to discover the source of supply for the stocking
+of plantations—quite a large proportion can be traced to tbe neighbour-
+hood of the plantation mentioned above. The fact that the trouble
+was brought under the notice of the Department of Agriculture, Hew
+South Wales, when the disease first appeared, enables the date of the
+earliest occurrence to bo definitely stated. The fact that the history
+10
+
+
+of tlie disease lias a very direct bearing on the results obtained by tbe
+present Investigation and on the recommendations made, renders such
+statements of some importance. The origin of the disease in the
+plantation referred to was, in all probability, Fiji, where the disease
+has been present since about 1885. This statement is based on the
+fact that banana stock was imported from Fiji and planted in the
+neighbourhood of the spot where the disease was first recorded in 1913.
+The identity of the Fijian disease is beyond dispute, since the visit
+of the Horticulturist connected with the present Investigation to Fiji
+in 1924.
+There was a marked extension of banana-planting from 1913 on-
+wards, and in Hew South Wales production reached its maximum in
+1922. As planting progressed over the Tweed area, the disease
+gradually spread, this being facilitated by the distribution of affected
+suckers which, as wo know, would serve to disseminate the virus in
+each locality. During the early years after the first appearance of the
+disease, Cabbage Top or Curly Top, as it was then known, was not
+considered such a dire malady as at present, but it gradually secured
+a thorough grip of the banana area which was still attracting a large
+number to the industry. The distribution of the disease by planters
+eventually led to the acknowledged dominance of the disease, particularly
+in certain spots within the Tweed area. During the past three years
+banana growing within the Tweed area has become a risky proposition,
+and since 1922 the industry has gradually declined. The disease
+became very well established at Terranora, and eventually wiped out
+the industry in that locality. There are to-day very few plantations
+around the Tweed where banana growing is maintained on a profitable
+basis. In a few places attempts have been made during the past three
+years to wrest some profit from banana land by planting on a sufficiently
+extensive basis to ensure some return, but such plantations have during
+the past two years become more and more intensely affected.
+The position in the Tweed area at the present time is such that
+banana growing should bo discouraged. Where the land was of a
+nature that it could be utilized for other purposes, the growers have
+gone over to some other means of livelihood, but in very many cases
+the plantations have been deserted, or are allowed to hold on, yielding
+a slight return, which, however, is becoming smaller each half-year.
+In the Mullumbimby area the disease has become well entrenched,
+and. there is an abundance of deserted plantations. In certain parts
+sj)ecial efforts are made by removing all affected plants to fight the
+disease, with some measure of success. The proximity of deserted
+plantations renders such a task very difficult, but in some cases isolation
+renders considerable assistance. The origin of the disease in this zone
+can be traced to stock from the Tweed area.
+11
+
+
+The disease readied Bangalow' in 1922, despite the institution of a
+regulation forbidding the passage of suckers from the north across a
+natural buffer zone in the neighbourhood of Byron Bay. The disease
+has been known along the Richmond River since 1923. There are
+many plantations along the Richmond where the disease has never
+appeared, others in which only a few plants have shown the disease
+during the past two years. This condition can he seen in such localities
+as Wardell. In the neighbourhood of Alstonville we have seen
+plantations in which comparatively few Bunchy Toji plants have made
+their appearance, and by careful removal of these diseased plants the
+disease has not affected the industry in any way; in other cases there
+is a slight occurrence of Bunchy Top, hut the owners, obsessed with
+the idea that the disease cannot he fought, have allowed the diseased
+plants to remain, thus eventually sealing the fate of the plantation.
+While wo are not in possession of the details, which can he made
+available only as the result of a serious and thorough effort to obtain
+a census which will reflect the state of affairs in all the banana planta-
+tions, it is quite time to state that the area in the Richmond basin, which
+would embrace Wardell, Rousmill, and Alstonville, can be regarded as
+a lightly affected area, and one -which, by the discharge of the recom-
+mendations made later in this report, could be conserved.
+In proceeding from Alstonville to Tintinbar, via Teven, we saw
+plantations which have “gone out” with the disease. It is interesting
+to note that from Teven quite a number of plantations along the
+Richmond River received their stock, hut rve could not succeed in
+obtaining reliable evidence bearing on the ultimate source of affected
+stock at Teven. Occurrences of the disease in varied stages of intensity
+are to he noted between Tintinbar and Bangalow'. Here and there on
+that stretch, as -well as between Byron Bay and Mullumbimby, are to
+be met heavily affected and lightly affected plantations. A r o doubt
+good luck in respect of the original selection of suckers and isolation
+have together played a part, but in no plantation in this tract is the
+disease completely absent.
+There can be little doubt that, wore the details of the history of
+the plants available in the various plantations, the distribution of the
+disease could in every case be readily explained in terms of diseased
+suckers and the migration of aphides. Wo have on record the
+occurrence of the disease in Chatsworth Island, in the Clarence River.
+Reference has been made to the occurrence of the disease in the
+■Mullumbimby region, where it is -widespread. Yet a syndicate is there
+cultivating about 100 acres of bananas, immediately above the deserted
+Soldiers’ Settlements plantations. At Terragon, about 12 miles from
+Murwillumbah, and on the slopes of Mount Warning, the disease w T as
+bait sparsely represented when visited during 1924. Isolation is,
+apparently, responsible for this condition.
+12
+
+
+At Upjier Burringbar plantations are to bo seen in various condi-
+tions. Some are in a hopeless state, some deserted; others are still
+producing. In the latter case attempts are made to cope with the
+disease by spraying with nicotine sulphate, or by digging out affected
+atools. On the whole, it may be stated that the disease is gradually
+increasing, which, under any circumstances, could be expected owing
+to the proximity of deserted plantations, and the fact that early detection
+of the disease and immediate digging out of the plants are not regarded
+as matters of extreme urgency by the growers.
+The Soldier Settlement at Bilainbil has been deserted. It will thus
+be seen that a very large part of the banana-producing area in north-
+eastern New South Wales has passed out of the industry, and that
+practically no portion of the area is free from the disease. Unless
+something is done to arrest the spread of the disease in the more lightly
+affected areas, the industry in those parts must, within a few years,
+suffer the same fate as the Tweed area.
+In Queensland the first record of the disease was made at Currumbin
+in 1916 in several plantations which were stocked with suckers from
+the Tweed area. Bunchy Top was there recognized as a disease
+identical with that responsible for the epidemic which devastated Fijian
+plantations from 1885 onwards. The growers concerned recognized
+that replanting was necessary, and for this purpose obtained suckers
+from Samsonvale, Queensland. It is of interest and significance that
+no sign of Bunchy Top was observed in these plants for three years.
+In the intervening years, however, suckers from the affected areas
+made their way into new jffantations along the Cnrrumbin-Tallebndgera
+.zone, and the disease became firmly established. Towards the end of
+1922 it was recorded that at Currumbin and Tallebudgera 112 jffanta-
+tions, representing 1,250 acres, were affected in varying degree.
+The Queensland Government, towards the end of 1921, attempted
+to stem the advance of the disease by jirohibiting the removal of any
+vegetative jmrts of the banana jffant from the affected South Coast
+fruit district to any other jnart of Queensland. Consideration was
+given to the creation of a buffer area between the affected districts in
+Queensland and the plantations to the north of the Brisbane River,
+but Ibis idea was considered impracticable in view of the heavy com-
+pensation involved and the fact that a natural buffer area had not
+succeeded in checking the spread of the disease in ISTew South Wales.
+(In the present state of our knowledge we are justified in stating that,
+provided no diseased suckers had already jmssed across such a buffer
+area, further spread of the disease northwards would have been pre-
+vented by this procedure.)
+Despite the widening of the area over which the restrictions on
+removal were exercised, the disease was recorded from Brookfield, north
+•of the Brisbane River, in December, 1923. The nearest area of
+13
+
+
+infection previously known was about 40 miles distant. There are now
+but few localities south of the Brisbane River, such as Beeuleigb and
+the neighbourhood of Coomera, from which the disease is absent.
+On 30th December, 1925, the disease was discovered at Rush Creek
+in a plantation at Moorina, just south of the Cabooltnre River, 25 acres
+revealed the presence of the disease in quite a large number of planta-
+tions, the maximum infection in any plantation being about 20 per cent.
+In January, 192 G, it was discovered that the disease was rampant
+in a plantation at Moorinn, just south of the Cabooltnre River, 25 acres
+showing 100 per cent, infection. Immediately a proclamation was
+issued by the Queensland Government prohibiting the shifting of suckers
+from any plantation south of the Cabooltnre River. The state of
+infection of the plantation at Moorina suggested that the disease had
+been present in that locality for several years. As large consignments
+of suckers had been sent northwards from the Dayboro district and
+from Moorina as recently as December, 1925, every effort was made
+to trace the consignments during the period 1923-1925. It was found
+that such suckers had been sent to various centres as far north as
+Innisfail, and the outbreak of Bunchy Top in such centres was
+anticipated.
+It has been found that all plantations so far examined, which
+received suckers from Moorina since October, 1923, are affected, and
+that the presence of the disease at one plantation in the neighbourhood
+of Kilcoy (since completely eradicated), at Beerwah (one plantation),
+Yandina (one plantation), and Innisfail (two plantations), can be
+traced to suckers from the Moorina or Dayboro areas. The consign-
+ments from Moorina have been traced in completeness, and all receiving
+plantations inspected, but the very heavy consignments forwarded by
+agents from tbe Dayboro area necessitate much heavier inspection work.
+Undoubtedly many of these consignments may have consisted of healthy
+suckers, but, nevertheless, it is to be anticipated that further records
+of the disease in previously unaffected areas wil be made in the near
+future. In the meantime, the Queensland Government is prohibiting
+the shifting of suckers in any part of that State, and this will continue
+until a thorough examination enables the Queensland Department of
+Agriculture and Stock to determine areas which can be regarded as
+definitely free from the disease.
+3. ECONOMIC EFFECTS OF THE DISEASE.
+The economic effects of Bunchy Top may be considered from three
+aspects, namely, (1) the actual destruction of banana plantations and
+the loss of a most lucrative primary industry in heavily affected areas;
+(2) direct financial loss to individuals, districts, and States; (3) utiliza-
+tion of heavily capitalized land for the purposes of other primary
+industries.
+14
+
+
+1. Destruction of Plantations. —ln Hew South Wales practically
+the whole of the banana-producing country is comprised within the
+Tweed, Brunswick, and Eichmond Eiver districts. Banana cultivation
+is attenqfied in a small way only in the Clarence Eiver district, namely,
+at Chatsworth and Palmer Islands. In the Tweed and Brunswick
+districts banana growing as a profitable industry has practically dis-
+appeared. There is probably no plantation in any part of these
+districts which is free from Bunchy Top. There are a few profitable
+plantations, but these arc mostly situated in outlying parts of the
+districts, and are more or less isolated.
+A recent survey of the Tweed and Brunswick districts by Mr. 11.
+W. Eastwood, of the Department of Agriculture, Hew South Wales,
+substantiates the general conclusions at which the Investigators had
+arrived as the result of frequent traversing of the affected areas. The
+following figures arc taken from a report furnished by Mr. Eastwood
+to the Department of Agriculture, Hew South Wales: —
+(1) There are about ninety (90) plantations still profitable,
+with an approximate area of five hundred and fifty (550)
+acres, including the Maroomba plantation (100 acres).
+(2) There arc, in addition, about fifty (50) growers who are still
+marketing fruit in varied quantities from the remnants
+of plantations.
+(3) There are at least eight hundred (800) deserted planta-
+tions, with an approximate area of five thousand (5,000)
+acres.
+(4) Fully 90 per cent, of the area producing bananas in 1922
+has gone out of production.
+(5) Every plantation in the Tweed and Brunswick districts is
+infected with Bunchy Top, the percentage in the indivi-
+dual plantation varying from 5 to 90 per cent.
+This represented the condition at the end of December, 1925, since
+which time there has probably been further development of the disease,
+as it becomes more prevalent during January and February.
+The Eichmond Eiver district is generally infected, but, with the
+exception of such places as Tevcn, Tintenbar, and Tuckombil, only
+to a slight extent. The industry is increasing in importance. There
+are a few deserted plantations, but most of those have been deserted
+on account of age. There are many plantations quite free from Bunchy
+Top, and many again that are kept free by the digging out of affected
+stools as soon as the disease appears. In the Warded area many
+plantations have never been affected.
+It is not possible to produce detailed figures for Queensland, but
+the following facts will serve to indicate the losses duo to Bunchy
+Top. In south-eastern Queensland Bunchy Top has produced damage
+15
+
+
+comparable to that in the Tweed and Brunswick districts. In 1922
+there were over 100 growers at Currumbin occupying over 1,000 acres
+of banana land; at the end of 1925 only four (4) plantations were left
+in cultivation, and they are practically done.
+In Tallebudgcra, once a great producing area, the position is much
+the same as at Currumbin, and production has practically ceased.
+Production has fallen by about 50 per cent, at Brookfield; every one
+of the 40 plantations producing bananas is affected with the disease.
+There are a few young plantations recently planted which, when last
+examined, were free from the disease.
+In the Xerang district the disease has not yet brought about the
+same damage, but it is present. The Logan district now produces the
+bulk of the bananas in the area south of the Brisbane Biver.
+2. Financial Loss to Individuals, Districts, and States.—The value
+of the banana industry to Australia is, perhaps, too little known to
+the people of the Commonwealth, and, consequently, the actual financial
+loss occasioned by Bunchy Top to the banana producer, to certain
+districts in Xew South AVfiles and Queensland, as well as to these
+States and the Commonwealth, is hardly appreciated by those who
+have no direct concern in the banana-producing areas. It is necessary
+that the loss so far occasioned should be realized in order that a serious
+effort be made to provide every practical means of conserving this
+important national industry and ensuring the utmost endeavour to save
+unaffected areas.
+The following statement of losses in individual districts will serve
+<o illustrate the extent and nature of the losses. In 1922 there were
+over 1,000 acres under banana cultivation in the Currumbin (Queens-
+land) area, finding employment for approximately 200 men and a good
+living for several carriers; at the present time only five men are
+making a living from this industry in this area.
+The following table* will serve to indicate the losses to the individual
+growers, to the Currumbin district, and to Queensland during the period
+1922-1920:
+1022 1(12,000 cases 4,400 tons Railway freishtf £20,000
+1923 50,000 „ 2,4! 0 „ „ 11,000
+1024 17,700 „ 770 „ ~ „ 3,500
+1925 2 500 „ 110 „ „ „ 500
+t From Currumbin to Melbourne.
+When the Advisory Committee visited this area in February, 1924,
+the examination of the books of one grower showed that ho had pro-
+duced, on a 14-acre plantation, 3,725 cases of bananas in 1921, 3,500
+cases in 1922, and 1,070 cases in 1923. The plantation is now deserted.
+It would be difficult for any one who has not visited those devastated
+areas to visualize the completeness of the destruction ■wrought in such
+• Supplied by Mr. D. McLaurin, late secretary of the Currumbin Fruitgrowers’ Association.
+16
+
+
+short time by a plant disease. The happenings at Tallehudgera are
+comparable to those at Currumhin, and the same results will he attained
+in the Brookfield area within a very short time, since production has
+already been reduced by 50 per cent, during the past two years, and
+the disease is now rampant. There is every danger that a simitar
+fate awaits areas further to the north, such as Dayboro, Moorina, &c.,
+unless there is determined action on the part of growers and the Govern-
+ment.
+The following figures, made available by Mr. E. M. Smith, of the
+Tweed Fruit-growers’ Association, show the estimated increased pro-
+duction during the period 1919-1922 (due to further planting-up), and
+the effects of Bunchy Top during the period 1923-1925, in the banana-
+producing areas of northern New South Wales: —
+1919 . . . . 180,000 cases.
+1920 . . . . 200,000 „
+1921 . . .. 350,000 „
+1922 . . .. 460,000 „
+1923 . . . . 250,000
+1924 .. .. 200,000 „
+1925 . . . . 140,000 „
+Fully 90 per cent, of the area in northern New South Wales which
+was producing bananas in 1922 has gone out of production, hut new
+areas have come into hearing. The effects of Bunchy Top are there-
+fore greater than the figures show.
+The above will serve to indicate the losses in New South Wales
+to the growers and to the Government in respect of railway revenue,
+income tax, &c.
+The jnfice paid for good banana land in the Tweed district during
+the peak years of banana production was exceedingly high. Although
+the lucrative position of the industry may offer some justification, these
+prices would appear to have been excessive. At all events, the original
+cost of land adds further difficulties to the position now created by the
+Bunchy Top epidemic, since much of the land is unsuitable for purjmses
+other than banana growing. The figures obtained by the Advisory
+Committee in 1924 have been substantiated by frequent inquiries when
+visiting various parts of the Tweed area —hearing plantations having
+realized £3OO per acre, and virgin land covered with lantana having
+changed hands at £l5O per acre.
+Bunchy Top has thus been responsible for the ruination of many
+who entered the industry before the disease had gained control of the
+banana plantations in the Tweed and Brunswick districts in New South
+Wales and the Currumhin and Tallehudgera areas in Queensland. A
+case is on record where one man is now maintaining a dairy farm on
+200 acres of land which at one time was divided into banana farms,
+furnishing a very good livelihood for fifteen men. The loss of the
+C. 13263. —3
+17
+
+
+industry lias affected not only those who are actively interested in
+banana growing, but also a large number of labourers and those con-
+cerned in haulage, the production of case timber, &c. The cumulative
+effect of these losses as reflected in the various town centres in the
+affected areas is a subject of common comment by the townsmen.
+3. Utilization of Land for other Purposes.— The losses which accrue
+as the result of the inability to replace banana growing in the devastated
+areas by an equally lucrative industry are exceptionally great. The
+greater portion of the land growing bananas in the Currumbin, Tweed,
+and Brunswick areas in 1922 has gone out of cultivation, and, in many
+cases, has been deserted. There is no alternative industry which, on
+this heavily capitalized land, would give a return equal to that obtained
+from bananas. Owing to the steepness and stony nature of the greater
+part of the land, attempts to wrest some profit from holdings which
+have not been deserted have necessarily been confined to minor crops
+on small areas. Unless measures are taken which will again permit
+of banana growing in the affected areas, these losses will be of a
+permanent nature.
+Some few plantations have been replanted with sugar cane, but
+the area where this has taken place has been limited to those planta-
+tions with frontages to rivers or creeks to enable haulage of the cane
+to the mill by water. Many growers have engaged in bean cultivation,
+in some cases with good success, but the seasonable occurrence of
+Black Spot or Anthracnoso {Collet of rich um Ihidimuthianium ) render's
+bean growing an undertaking which is subject to considerable risk.
+Such cultivation is also limited to land which can be ploughed or
+chipped; quite a large proportion of the banana plantations are on
+boulder-strewn slopes and offer insuperable difficulties in respect of
+cultivation.
+In very many instances abandoned plantations are now covered with
+lantana or grass. The usual practice, when plantations become un-
+profitable, has been to desert them or to turn in stock to cat down the
+stools. Eventually such land reverts to lantana or grass, and in the
+latter case the land is in some parts used for dairying or grazing
+purposes. As the average area of deserted plantations varies from
+10 to 15 acres, it is necessary for several plantations to be grouped
+together to obtain sufficient land for a profitable dairy farm. The
+number of areas in which this can be done is naturally limited, and
+such a dairy farm starts off with an excessive capital outlay.
+Some growers have attempted the cultivation of passion-fruit, pea-
+nuts, pineapples, tomatoes, &c., but for various reasons, except in
+isolated cases, these crops have not proved successful, and could not
+come into cultivation on a district scale.
+The position is, therefore, that unless banana growing can again
+be safely undertaken in the devastated areas, this large tract of country
+will never return to its once flourishing condition.
+18
+
+
+4. GEOGRAPHICAL DISTRIBUTION.
+Bunchy Top has a comparatively wide distribution among banana-
+growing countries. In Australia the disease is well developed in north-
+eastern New South Wales and south-eastern Queensland, and is present
+also in isolated centres of the banana areas of North Queensland. As
+infected suckers were sent from Queensland during 1925 to the North
+Gascoyne district of Western Australia, there is little doubt that the
+disease is also present in that State.
+In Fiji about 40 years ago, Bunchy Top threatened the banana
+industry with extinction. The disease is still present there, but is not
+regarded as a serious menace.
+Bunchy Top has probably been present in Egypt since about 1900.
+Fahmy(fi) reports that tho disease is found in every province, but is
+most ju'evalent in Lower Egypt.
+In Ceylon Bunchy Top made its appearance in 1913, and has since
+spread over a considerable area of the island. Dr. Bryce, who investi-
+gated the outbreak in Ceylon, reports that the disease is also present
+in tho Bonin Islands.
+During 1924 reports were received of a disease which was causing
+damage in abaca or manila hemp in the Philippines. The symptoms
+of this disease closely resemble those of Bunchy Top, and since Bunchy
+Top has been transmitted to manila hemp, it is probable that the two
+diseases are identical iu nature.
+Mr. J. Csimpbell, Mycologist, Department of Agriculture, Fiji, has
+recently reported the occurrence of Bunchy Top in the Ellice Islands,
+where it was introduced some years ago in infected suckers imported
+from Fiji.
+5. PREVIOUS LITERATURE AND INVESTIGATIONS.
+Tho available literature dealing with the Bunchy Top disease is not
+extensive. This disease, although comparatively widespread in its
+distribution among banana countries, has apparently assumed greatest
+potentiality in Australia. In all countries in which it has occurred,
+efforts have been made on tho part of workers to determine the nature
+of its cause and means of transmission, and to devise methods of com-
+bating it. In spite of considerable endeavour, nothing definite regard-
+ing these aspects of the disease had been proved up till the time of tho
+present investigation.
+As far as can be ascertained, Bunchy Top first made its appearance
+and attracted notice in Fiji. Writing in 1912, Knowles and Jepson (1)
+state “ that the earliest record of tho presence of this disease in Fiji
+was in 1891, although, according to certain old residents in the colony,
+it was known ten years prior to this date. About 1894 the banana
+industry was severely threatened, and many planters were compelled
+to abandon their plantations.”
+19
+
+
+Knowles and Jepson considered the disease to be caused by a fungus
+“ the exact systematic position of which has not yet been ascertained.”'
+This fungus was never found except in conjunction with nematodes.
+The disease was most prevalent in low-lying and poorly drained land,
+although it also made its appearance on the higher slopes. The local
+name of “ strangles ” was given to the disease in Fiji. The symptoms
+of the disease are briefly described, a special mention being given to
+the decomposed condition of the roots and conn. It is suggested that
+the disease is possibly identical with the banana disease described by
+Massee (1903) under the title of Banana Disease (Jfarasmius
+snniv.shts. Berk. Curt.)/’ occurring in Trinidad and other West Indian
+islands. Reference is made to the resemblance of the abnormal condi-
+tion of the roots of plants affected with “ strangles ” to the root
+symptoms of a banana disease prevalent in Alexandria, attributed by
+Looss and Foaden (1902) to the agency of nematodes. An indirect
+reference is made to the occurrence of aphides on bananas during the
+1891 outbreak of “ strangles ” in Fiji. Regarding the identity of this
+disease with Bunchy Top, it may bo stated that photographs of the
+condition, received at Kew over 40 years ago from the Governor of
+Fiji, show exact symptoms of Bunchy Top.* This is also proof of
+the fact that Bunchy Top occurred in Fiji prior to 1891.
+Kowell(5) reports that an eelworm (Tylenchus similis), was
+described by IST. A. Cobb as the cause of a serious outbreak of a disease
+of bananas in Fiji in 1890-91. There is little doubt that Bunchy Top
+is the disease referred to.
+In 1921 Bryco(S) in a paper on “ The Bunchy Top Plantain
+Disease,” states that Bunchy Top first appeared in Ceylon in 1913, and
+has since spread over a considerable area of Ceylon. Fiji, Australia,
+Egypt, and the Bonin Islands are listed as countries in which Bunchy
+Top occurs. The cause of the disease was undetermined. Bryce con-
+sidered it improbable that nematodes caused the disease. A species of
+Rhizoclonia was found to be prevalent on both the finer and larger
+roots, and it w r as thought that this was a possible cause of the disease.
+A preliminary experiment to determine whether the disease was caused
+by a filterable virus gave negative results. Bryce attributed the spread
+of the disease to the dissemination of diseased suckers for planting-up
+purposes. He states that it is not known whether any of the Ceylon
+plantains are immune to Bunchy Top, but that in Fiji the Gros Michel
+or Jamaica banana is immune. Observations made by the horticul-
+turist of this Investigation during a visit to Fiji do not bear out this
+statement. Manila hemp (2litsa textilis ) is reported as being
+susceptible to Bunchy Top. Ko mention is made of the occurrence
+of the banana aphis (Pentalonia nigronervosa ) in association with
+Bunchy Top plants.
+• We are, indebted to Dr, E. J Butler, Director of the Imperial Bureau of Mycology, for
+this information. During 1923 Dr. Butler visited the Bunchy Top-infected area of New South
+Wales.
+20
+
+
+Darnell-Smith and Tryon(d), reporting in 1923 on their conjoint
+investigation of the banana Bunchy Top disease, state that their experi-
+ments and observations indicate that theories attributing the cause of
+the disease to soil depletion, loss of vigour in the banana stock, soil
+acidity or climatic factors, cannot receive any measure of support. The
+investigation, so far as it had gone, had failed to reveal the presence
+of a fungus organism capable of causing Bunchy Top. This work
+was still in progress; nematodes, in that they were not invariably found
+to occur in association with the disease, were not considered the ex-
+clusive cause of the malady. The banana aphis (Pentalonia nigro-
+nervosa) is reported as having received notoriety as the communicator,
+or even the prime cause, of the disease. It is stated that “ although
+general observations do not favour this explanation, a remedy involving
+this insect theory is being tested in the Hew South Wales portion of
+the infected area.”
+In a report issued in 1924 on the “Bunchy Top Disease of
+Bananas,” in Australia, Darnell-Smith (I) gives a description of its
+symptoms and occurrence, and the results of his work on the disease.
+He states that his observations suggest that Bunchy Top is the result
+of a fungus or bacterial infection of the roots or corm. He accounts
+for the sporadic occurrence of the disease by the fact that “the infect-
+ing organism may act as a saprophyte or a parasite.” Ho particu-
+larly suspected Fusaria and bacteria attacking the roots as the cause of
+the disease, and reports that several organisms had been isolated. The
+possibility of insects transmitting or causing the disease was considered
+by him. A preliminary experiment to determine whether the banana
+aphis (Pentalonia nigronervosa ) was a vector of the disease is reported
+as having given negative results.
+In view of the fact that the investigation of the Bunchy Top disease
+was undertaken in 1924 by the present workers, Dr. Darnell-Smith’s
+work in connexion with the disease was discontinued.
+A special Advisory Committee, appointed in 1924 to inquire into the
+position in respect of Bunchy Top in Australia, in its report (5) gives
+a description of the disease and its complexities, its history in Australia,
+its economic effects, and recommendations for the future investigation
+of the problem.
+I’ahmy(C), in 1924, in a bulletin on “A Banana Disease caused by
+a species of Heterodera,” described a condition in the banana which we
+consider, from the nature of the symptoms and photographic evidence,
+as identical with Bunchy Top. Communications with the author have
+confirmed this belief. The most reliable symptoms of Bunchy Top, i. 0.,
+dark, broken, green streaks along the midrib and secondary veins of the
+lamina, are present in the diseased plants in Egypt. Eahmy attributed
+the condition to the agency of nematodes (Heterodera radicicola), stat-
+ing that “ when over 30 per cent, of the roots were attacked, the disease
+21
+
+
+was externally apparent, the plant being dwarfed, and growth sluggish.”
+The disease is present in every province of Egypt, but is most prevalent
+in Lower Egypt. It is stated that the disease has probably spread from
+one locality to another through the sale of infected suckers. All varie-
+ties of the banana grown in Egypt are susceptible to the disease, but
+symptoms are most noticeable in the Hindi variety {Musa r.avendishii).
+Fahmy (1921), states the disease was first observed at Alexandria
+over twenty years ago. It had its origin in a few plantations, but soon
+spread, causing considerable damage. According to Fahmy, Dr. Alex.
+Preyor, in 1901, in a contribution to the Khedival Agricultural Society,
+attributed the disease to a parasitic nematode or eelworm.
+6. HOST PLANTS: VARIETAL SUSCEPTIBILITY.
+Investigations carried on thus far have not shown any plant, ether
+than a member of the genus Musa, as a positive host of the Bunchy Top
+disease.
+All varieties of the banana grown in Australia are susceptible to
+Bunchy Top. The chief and only commercial variety of banana grown
+in north-eastern (New South Wales and southern Queensland is the
+Cavendish ( Musa cacendishii). This dwarf variety is very susceptible
+to Bunchy Top, but appears to be the only variety which can be grown
+profitably in these districts on account of climate and windy situations
+of plantations. Other varieties, grown in these areas to a minor extent,
+which succumb to Bunchy Top, are the Gros Michel {Musa sapienlum),
+the Lady’s Linger, and the Sugar variety. Two local varieties —the
+llansonian (?) and the Vernon —also take the disease. In Fiji, the
+Cavendish, Gros Michel, Vi-ma-ma, and the Sawaqa (Musa fehi) are
+reported as Susceptible to Bunchy Top. Three indigenous species of
+banana occur in the dense scrubs of north Queensland. These produce
+an inedible seed-bearing fruit. One of these species {Musa Banhsii )
+has been successfully grown at Tweed Heads, and has been infected with
+Bunchy Top; the other two did not survive transplanting. Bryce (2)
+reports that, in 1918, in Ceylon, a plot of manila hemp {Musa tc.rlilis)
+was attacked by Bunchy Top. Bunchy Top has been transmitted to
+healthy manila hemp plants under glasshouse conditions at Tweed
+Heads.
+A seed-bearing variety of banana from the Philippines (the FI of a
+cross between Musa sp. var. alinsanag and an unknown male parent)
+has also been infected with the disease.
+There is a marked difference in the susceptibility of the Cavendish
+dwarf variety as compared with the tall growing varieties such as tint
+Gros Michel and Lady Finger—the Cavendish being by far the most
+susceptible variety. Owing to its dwarf habit, the abnormal changes
+induced by the disease are more striking in this than in the taller varie-
+ties. Unless otherwise stated, the studies and experiments recorded
+below have been made with the Cavendish variety.
+22
+
+
+Observations do not suggest that Bunchy Top will attack any plant
+outside the genus Musa. Attempts to transmit the disease to the closely
+related genera Strelitzia and Bavenala, and to Canna sp., including the
+arrowroot ( Canna eduhs), the potato ( Solatium luherosum), and
+maize {Zea maps) have failed to give results. Should another sjieeies
+of aphis, less specific in its host relationships than the banana aphis,
+be found capable of acting as a vector of Bunchy Top, an extension of
+the host range of the disease may be made possible.
+On two or three occasions the attention of the Investigation has
+been drawn to a pathological condition shown by maize growing in
+Bunchy Top infected plantations. The maize plants were stunted, and
+their leaves were somewhat upright and contorted. Although a cause
+could not be definitely assigned to this condition in maize, wo do not
+consider, from a study of its symptomatology, that it has any connexion
+with Bunchy Tojt. However, further inquiry into this matter is
+desirable.
+Our attention was drawn during Sejttember, 1924, to the condition
+of a number of individuals of Canna sp. in a pilot of these plants in a
+garden in Hurwillumbah. Quite a percentage of the plants appeared
+to differ in their habit from the other members in the plot, and appeared
+to show symptoms very suggestive of Bunchy Top.
+This impression was kept in mind, and, as stated above, was tested
+out in an attempt to transmit the disease to Canna sp., with unsuccessful
+results.
+Careful study of the occurrence of the disease in various parts of the
+world has not demonstrated that any species or variety of banana is
+immune or highly resistant to Bunchy Top. Reference is made later
+in this paper to the position of the disease, as it now obtains in Fiji,
+with respect to the various varieties of bananas grown in those islands.
+7. COMMON NAMES OF THE DISEASE.
+The name “Strangles” was originally given to this disease of
+bananas in Fiji. Later, it became generally known in that colony as
+“ the banana disease.” In more recent years the names “ Cabbage
+Top,” “ Curly Top,” and “Bunchy Top,” which were originally applied
+to the disease at various times during its progress in Australia, have
+also come into general usage in Fiji. In Ceylon, the disease has
+evidently always been referred to as the “Bunchy Top” plaintain
+disease, while in Egypt no special common name has been given to the
+trouble. Of the various names which have been applied to this malady,
+the name “Bunchy Top,” for the reason of its more general application
+and its descriptive nature, seems to bo the most desirable.
+23
+
+
+8. SYMPTOMS OF THE DISEASE.
+Tlio external symptoms of Bunchy Top have already been described
+in some detail by Darnell-Smith (3), and Bryce (3). A study of the
+symptomatology of the disease has been made during the present investi-
+gation, under varied field conditions, and in the glasshouse. This has
+revealed some points not noted by previous workers. A preliminary
+study has also been made of the internal symptoms of the disease.
+1. General Habit and Behaviour. —The symptoms of Bunchy Top are
+very characteristic, and the condition is easily identified. There is little
+possibility of confusing its symptoms with those of any other banana
+disease.
+A plant may show symptoms of Bunchy Top at any stage of growth,
+from its first emergence from the ground, or as a plant fully grown and
+throwing a bunch. The name aptly describes the disease; the leaves of
+a badly infected plant are bunched together at the apex of the plant to
+form a rosette (Plate 8, Pig. 2). Owing to the failure of the leaf
+stalks to elongate, the leaves stand more erect than normal. Infected
+plants are markedly stunted, there being little growth in height once
+the plant has taken the disease.
+The disease is systematic in nature. Suckers obtained from infected
+stools and replanted are almost invariably diseased. Suckers which
+have received infection from the mother plant, before being removed
+from the parent stool, show symptoms somewhat different from those
+obtaining in plants which have received the inoculum from an external
+sojurco.
+We propose using the terms primary and secondary respectively to
+distinguish these types of infection.
+The difference in symptoms between the primary and secondary con-
+dition is really one of intensity. A plant receiving secondary infection
+in its earliest stages of growth may later exhibit symptoms just as
+marked as those of a primary-infected plant, while a sucker which has
+received infection from the parent plant, and shown the disease while
+growing in situ, rarely differs very much from the secondary-infected
+typo. Plate 9, Fig. 3, depicts the habit of a primary-infected indivi-
+dual. Where primary infection has been acute plants may not grow
+more than 0 inches to 2 feet in height. Growth is very slow, and plants
+never mature or produce fruit. The plants do not die, at least within
+one or two years.
+The habit of a secondary-infected plant will depend on the amount
+of normal growth which has been made before the plant shows symptoms
+of Bunchy Top. An early infected plant will later show symptoms
+indistinguishable from those of a primary-infected individual, due to
+the withering of the older healthy leaves. A plant may exhibit normal
+growth up till the last leaf before bunching, and then in the last leaf
+24
+
+
+show the first symptoms of the disease. Such a plant would mature a
+bunch of fruit —often of marketable quality. All intermediate stages
+are found between these extremes. Plates (J, 7, 8 show stages of the
+development of the disease in a secondary-infected plant.
+When symptoms of the disease are exhibited after the bunch has been
+formed in the interior of the base of the pseudostem, there is evident
+an effort on the part of the plant to throw the bunch. Owing to the
+leaf congestion and constriction at the apex of the pseudostem, the
+bunch may with difficulty get ont, only partly do so, or may fail alto-
+gether to emerge. Plants are thus often seen with partly-emerged
+bunches of small stunted fruit at their apices, standing erect, or jutting
+out at right angles. Where the constriction has prevented the bunch
+from emerging, on splitting open the pseudostem, the true stem support-
+ing the bunch is seen to he contorted, or oven bent hack on itself, duo to
+growth pressure.
+Inspections of plantations in the infected areas of north-eastern Wow
+South Wales and south-eastern Queensland show the disease to be present
+to varying extent. A few plantations arc perfectly free, while many
+others have 9-5 to 100 per cent, of the stools showing infection. At the
+present lime the greater number of the heavily infected plantations are
+abandoned.
+In affected plantations, healthy and diseased stools are often seen
+separated from one another by only a few feet. In other plantations
+every stool may bear one or several Bunchy Top suckers. In its early
+incidence in a plantation, which has made healthy growth for some
+time, the disease occurs sporadically. As a rule, definite centres of
+infection arc not evident at first, but the later spread of the disease can
+often bo accounted for by the proximity of diseased stools. Where
+planting has taken place in a badly infected area, or where infected
+suckers have been used in planting, every plant may exhibit symptoms
+of Bunchy Top within six months of planting. Bunchy Top plants do
+not wilt or die; a well-grown plantation which has become badly
+infected, when viewed from a distance, may look remarkably vigorous.
+It is observed that, even in a stool which can be considered badly
+infected, suckers grow up which, for several months, may appear per-
+fectly normal. Such suckers, however, usually take the disease beforo
+reaching maturity. In isolated cases, such suckers have been observed
+to grow to maturity, remaining healthy, and producing a good bunch.
+A stool of any age, or a sucker at any stage of growth, may become
+infected with the disease. Thus, in any infected plantation, the disease
+is seen in plants of all sizes. Suckers which have been replanted from
+a badly infected stool almost invariably become Bunchy Top, even if they
+are not showing symptoms of the disease at the time of removal from
+the parent.
+C. 13263.—4.—4
+25
+
+
+Tlic set-back received by a sucker in the separation of it from its
+parent, and the replanting of it as a separate individual, appears to
+hasten the manifestation of symptoms of Bunchy Top in that sucker.
+In this connexion it has frequently been claimed by growers that injury
+to healthy stools by runaway boulders has “ caused ” the injured stools
+to throw up diseased suckers. The same has been said of injury induced
+by desuckcring in a Bunchy Top plantation.
+In the case of a comparatively lightly infected plantation which was
+damaged by a severe wind-storm in 1924, it was claimed that the
+uprooting of large plants by the storm was the indirect cause of the
+later appearance of a largo number of suckers showing infection.
+Exactly what factors are concerned here we are not certain. It seems
+possible that, in Bunchy Top, the infective agent in its relationship
+with the host may, in certain cases, arrive at a point of equilibrium
+where other factors are necessary to upset the balance, and cause the
+appearance of symptoms.
+In a large stool which has shown the disease for the first time in only
+one or two suckers, it is often possible to select a sucker from the oppo-
+site side of the stool which, on planting out, will remain healthy. This
+is possibly due to such suckers at the time of removal being outside the
+diffusion range of the virus (and having escaped secondary infection
+from other members of the stool).
+In the normal banana stool the individual plants are in organic
+connexion with one another. Young suckers are, for some time at
+least, physiologically dependent on the parent plants, but it seems
+doubtful, from observations on the spread of the disease in a stool, if
+this relation is maintained altogether among older plants in the stool.
+Also the removal of plants, which have fruited, from a stool may sepa-
+rate it into two or more organic units. This would account for cases
+of the apparent failure of the disease to spread as a primary infection
+to the whole of the stool. However, the practice of the selection of
+suckers for propagating from any part of a stool which has shown
+even minor infection is strongly condemned.
+The period immediately prior to the throwing of the bunch is very
+frequently the time at which the first symptoms of disease become
+evident. This period cannot be correlated with the prevalence of
+aphides. Wo are led to believe that a plant may carry infection for
+some time before showing external symptoms —the physiological activi-
+ties associated with the production and throwing of the bunch
+apparently' causing the plant to react to the infection.
+A Bunchy Top plant does not recover, hut slowly goes on producing
+abnormal leaves over a long period. A few cases have been observed
+where infected suckers arising from a stool, after throwing two or three
+abnormal loaves, again produced a few loaves which were practically
+26
+
+
+normal in character, with almost total absence of green streaks
+(described below as the most reliable symptoms of the disease). Such
+plants, however, always reverted to the Bunchy Top habit. This con-
+dition was observed in the early summer when growth was most rapid.
+(Such behaviour has frequently been construed by growers as evidence
+of the “recovery” of infected plants).
+2. leaf Symptoms. —The first external symptoms of Bunchy Top
+appear in the leaves of the plant. The normal leaf emerges from the
+centre of the pseudostom with the leaf-blade wrapped tightly around
+the midrib in the form of a rod or “ pipe.” The leaf remains tightly
+rolled until it has almost fully emerged, and then commences to unfurl
+more or less evenly along its whole length. While unfurling the leaf
+stands erect, and when fully unrolled the elongation of the leaf stalk
+carries the blade clear of the pseudostem, and the leaf gradually assumes
+a position approaching the horizontal, making room for the next leaf
+which is pushing up through the pseudostem.
+In the case of secondary infection, it is in a leaf which has unfurled
+in this manner that the first symptom of Bunchy Top is usually
+observed. The first definite symptom of the disease is the appearance
+of irregular, nodular, dark green streaks about .75 mm. wide along the
+secondary veins on the underside of the lower portion of the leaf-blade,
+along the leaf-stalk, or along the lower portion of the midrib.
+In the first instance one, two, or several of these streaks may be
+present. Usually others appear later in the same region. In character
+they may vary from a series of small dark green dots to a continuous
+dark green line with a ragged edge, an inch or more in length. (Plate
+3, Fig. 1.)
+The lamina of the normal leaf is of an even rich green colour.
+From the midrib prominent vascular strands run out more or less per-
+pendicularly at intervals as main veins. The area between the main
+veins is lined by secondary veins which are even in colour throughout
+the leaf. The normal midrib and leaf-stalk are of an even pale green
+colour, and arc covered with a whitish waxy bloom.
+Usually the dark-green streaks are first seen in the leaf-blade, but may
+later appear in the midrib and leaf-stalk of the same leaf. In some
+cases of secondary infection, an earlier indication of the later appear-
+ance of green streaks in the lamina is seen. This occurs in the “ pipe ”
+or tightly rolled heart leaf. It takes the form of the appearance of a
+number of irregular pale whitish streaks (Plato 5, Fig. 1) along the
+secondary veins of the tightly rolled lamina when the “pipe” is about
+one-half emerged from the pseudostem. When these pale whitish
+streaks appear as the first symptom, the “ pij)o ” shows a slight trans-
+verse wrinkling along its length. On unfurling, a leaf which has
+shown these early streaks, bears numerous dark-green streaks along
+the secondary veins of the lamina. In other respects this leaf may
+not differ from the normal preceding leaves.
+27
+
+
+When, as usually is the case, the first symptoms take the form of a
+few characteristic green streaks in the lamina, midrib, or petiole, the
+“ first-symptom ” leaf, except for these streaks, appears normal in size,
+shape, and behaviour (Plate 7, Fig. 1). In the following loaf, however,
+while the “ pipe ” is still unfurled, pale whitish streaks are seen along
+the secondary veins of the leaf blade, These vary a groat deal in
+number, depending on the degree of infection. The “pipe” or heart
+leaf now unfurls slightly abnormally, beginning to unroll from the top
+region, giving the partly unfurled leaf a funnel-liko appearance. In
+this leaf, when unfurled, dark green streaks will be found to bo present
+along many of the secondary veins of the lamina, and several dark green
+dots or lines are seen along the midrib and petiole. This loaf will be
+smaller than normal, slightly chlorotic, and the marginal portion of
+the lamina will bo wavy and slightly rolled upwards.
+The presence of the characteristic broken dark-green streaks (Plate
+4, Fig. 1) along the secondary veins of the lamina, or along the midrib
+or petiole, is the most definite and reliable symptom of Bunchy Top.
+These streaks appear as the earliest external indication of the disease,
+and together with all other symptoms are not later retrospective in
+leaves which have been thrown earlier than the “ first-symptom ” leaf.
+The dark green streaks are not apparent when viewing the dorsal sur-
+face of the leaf in reflected light. The leaf should bo inspected from
+the under-side so as to allow light to pass through it.
+Successive loaves as they are thrown become more abnormal. There
+is a slight retardation in the rate of growth. The heart-leaf unfurls
+prematurely, and is slow in completing the process; often another leaf
+has begun to unfurl before the preceding one is fully unrolled. The
+leaves may become progressively smaller in size or successive leaves
+may bo of similar dimensions. (In normal growth each leaf is larger
+than the preceding one.) There is a reduction both in width and
+length of the leaves, this being more noticeable in the case of the
+lamina than in the midrib. The petiole does not elongate normally,
+thus the leaves stand more erect than in the healthy plant. Leaves
+thrown soon after infection are distinctly chlorotic in appearance, but
+this character does not persist except on the margins of the laminae.
+After several abnormal leaves have appeared, extreme congestion is
+apparent at the apex of the psoudostem. The leaves are seen to have
+lost their normal symmetrical arrangement around the psoudostem, and
+to have assumed the “ rosetted ” condition. This characteristic arrange-
+ment of the leaves of a Bunchy Top plant does not result until several
+weeks after infection, and is thus not an early diagnostic symptom.
+In colour the mature leaf of a secondary Bunchy Top plant is of a
+slightly more yellowish hue than that of a healthy plant. In the
+primary Bunchy Top plant the position is often reversed. Owing to
+the dark green streaking being present along the greater number of
+28
+
+
+the secondary veins, the general colour of the leaf is sometimes darker
+than normal. The lamina of such a leaf usually has a light yellowish
+green margin (Plato 9, Figs. 1,2).
+In texture there is a difference between the Bunchy Top and healthy
+leaf. Whereas the latter is elastic and pliable, the petiole, midrib, and
+lamina of the Bunchy Top leaf are harsh and brittle, and snap readily
+when bent or crushed in the hand. There is a distinct rigidity and
+apparent resistance to wilting shown by Bunchy Top leaves. They
+are not nearly so readily shaken by winds as healthy leaves.
+The surface of the lamina of a Bunchy Top leaf becomes markedly
+corrugated as it matures, due to the growth of tissue in the region of the
+main veins producing ridging on the dorsal surface, and troughing on
+the ventral surface. This prominence of the main veins is not a diag-
+nostic symptom of the disease. It is often seen in the leaves of healthy
+plants growing under adverse, or even rank, conditions.
+The margin of the lamina of the young Bunchy Top leaf is wavy
+and slightly upward-rolled at intervals along its length. In the older
+Bunchy Top leaf the lamina is not supported normally by the midrib;
+both sides tend to hang down so as to be nearly parallel with each other,
+the margin, however, remaining up-turned or rolled.
+In primary-infected plants, symptoms of the disease are apparent
+as soon as the first leaf appears above ground. The leaves are small,
+rosetted (Plates 9, Figs. 1,2), and numerous broken dark green streaks
+are seen in the petioles, midribs, and laminae. The margins of the
+leaves are usually highly chlorotic, and arc slightly rolled upwards.
+3. Below-ground Symptoms.—Abnormal changes are seen in the root
+system of a Bunchy Top plant in an advanced stage of the disease.
+These symptoms wo consider to bo of a secondary nature; they are
+apparently due to the loss of immunity on the part of the roots of an
+affected plant, to the attacks of otherwise harmless soil organisms. This
+conclusion has been arrived at after considerable study of the root
+system of Bunchy Top and healthy plants. A good deal of attention
+has been given by previous workers to the presence of decaying roots
+associated with the Bunchy Top condition. The impression has been
+held that the disorganization of the root system by such agents as fungi,
+bacteria, or nematodes, was primarily connected with the causation of
+the disease.
+The root system of the healthy banana consists of wdiite, fleshy
+roots, cord-like in appearance, which spread through the soil in all
+directions. They are often of great length. From those cord roots
+arise large numbers of fine lateral roots which branch profusely. The
+lateral roots function only for a comparatively short time; new laterals
+are continually being produced as the cord roots spread through the soil.
+29
+
+
+In .Bunchy Top plants some time after infection, many of the large
+fleshy roots are decayed and dead, while many others show purple
+patches upon their surface. In an advanced stage of the disease many
+of the roots have rotted back to within a few inches of the corm. All
+the lateral roots are either dead or purple in colour. On apparently
+healthy plants in the Tweed Hirer district, many roots are found that
+are dead and decayed, and the laterals of many roots arc purplish in
+colour. The purpling of the roots in the case of the banana appears
+to be a natural reaction to injury of any type, and to normally precede
+natural decay of laterals which have ceased to function.
+The root system of a Bunchy Top plant, examined soon after the
+appearance of first symptoms of the disease, shows little difference in
+the number of decayed roots present, as compared with a healthy
+plant of the same age. As the disease progresses more and more, decay
+becomes apparent in the root system. However, Bunchy Top plants are
+sometimes seen with comparatively good root systems. Plants growing
+under glasshouse conditions in soil which has boon sterilized, examined
+four months after the development of Bunchy Top, showed a relatively
+small difference in the number of decayed roots present when compared
+with healthy plants of the same age growing under similar conditions.
+(Plate 10 shows the root system of one of these plants.)
+As the roots of a Bunchy Top plant rot back towards the corm,
+now roots, at first healthy in appearance, arise from the corm. On
+these an abnormal number of laterals is borne. After a time these
+laterals become purple in colour, and decay may be set up in these new
+roots. The Bunchy Top plant appeal's to be always endeavouring to
+maintain a scanty root system, but difficulty seems to be experienced
+on account of the attacks of decay-producing organisms in the soil.
+The disorganization of the phloem region of the vascular system, de-
+scribed later, may account for this loss of immunity on the part of
+the roots of Bunchy Top plants.
+Galls caused by nematodes are seen on both the cord roots and
+lateral roots of Bunchy Top plants. The root system of practically
+every plant examined in the field has shown these galls to some extent.
+They may be numerous or only few in number. The surface roots are
+more often attacked than the deeper ones. [Nematode galls appear to
+be just as plentiful in the field on the roots of healthy plants as on
+the roots of diseased individuals. Plate 10 shows a Bunchy Top plant
+grown in sterilized soil under glasshouse conditions, the roots of which
+are entirely free from nematode galls.
+The surface of the cortex of a corm of a Bunchy Top plant in an
+advanced stage of the disease is often decayed. The conns of both
+healthy and Bunchy Top plants are in many plantations tunnelled by
+the beetle borer (Cosmopolites sordidns, Chcv.). Where corms have
+been badly riddled by the beetle borer, decay in the region of the beetle
+30
+
+
+tunnels is common. The nematode-galling of the roots and beetle
+injury to the corm cannot he considered as contributing factors in the
+causation of Bunchy Top, and appear to be in no way connected with
+the disease.
+4. Internal Signs of the Disease. —An internal macroscopic examina-
+tion of lire pseudostem and corm of a Bunchy Top plant reveals no
+pathological changes which, in our opinion, are of diagnostic value. In
+an advanced stage of the disease, extreme congestion of the leaf tissue
+is observed at the distal end of the pseudostem when split open. In
+suckers which have been topped for planting, it is not practicable, by
+inspection, to distinguish diseased from healthy individuals.
+Both Darnell-Smith(3) and Bryce(3), in their descriptions of the
+symptoms of Bunchy Top, make mention of the yellowish or brown
+flecks or lines which run in all directions following the course of the
+vascular bundles in the corm and pseudostem, as symptoms of Bunchy
+Top. Observations made at Landshorough (Queensland), an area free
+from Bunchy Top, and on suckers from Bracalba (Queensland), from
+whence there has been no record of the disease, make it evident that
+the brown ducts cannot be considered as symptoms of Bunchy Top.
+Young healthy suckers arc usually free from them. All healthy plants
+in a fairly advanced stage of growth, which have been examined, have
+shown these coloured ducts. Each vascular strand is accompanied on
+either side, for at least part of its length, by one of these canals, which
+vary in colour with the age of the sucker. They may he of the nature
+of continuous or broken lines, or have a mouil form structure. They
+accompany the vascular bundles from the corm through the pseudostem
+into the midribs of the leaves. The coloured contents of these canals
+give a positive test for tannin with the Ferric chloride method, and
+are apparently solidified. The coloured ducts are particularly prevalent
+in a healthy corm where root decay or rotting of the corm surface has
+taken place. In a Bunchy Top conn which has been infected for any
+length of rime, these coloured ducts are very noticeable, hut young
+plants examined soon after infection may show few or none at all. The
+presence of coloured duets associated with the vascular bundles cannot
+he considered as a symptom of Bunchy Top.
+A microscopic examination of sections of tissue of the leaf system
+of an infected plant reveals a unique pathological condition of extreme
+interest. The following description is of a preliminary nature. It has
+not been possible to make a detailed study of the development of the
+condition, and future work is projected.
+In the Bunchy Top plant disorganization has taken place in the
+phloem regions of the vascular system. Such alterations as are present
+are quite distinct in nature from the necrosis and lignification of
+phloem groups associated with the condition of leafroll of the potato
+(Solatium tuberosum), and are of value as a diagnostic internal
+31
+
+
+symptom of Bunchy Top. Studies made up to the present on this
+condition have been carried out on material fixed in Fleming’s weaker
+solution and stained either in haematoxylin and erythrosin, safranin
+and light green, or in gentian violet and orange G. .Healthy control
+material was obtained from a Bunchy Top-free area in Queensland
+and grown in the glasshouse at Tweed Heads. Comparative studies
+wore made in hand sections and in mierotomed paraffin sections
+12 jx thick, of Bunchy Top and healthy material.
+The external appearance of the broken dark green streaks in the
+lamina, midrib, and petiole of the Bunchy Top plant can be accounted
+for by the internal alteration in the region of the vascular bundles.
+The reliability of the appearance of dark green streaks as first symptoms
+of the disease is therefore evident.
+In the secondary Bunchy Top plant Internal alterations in the
+lamina, midrib, and petiole are only seen in the vascular bundles in
+the region of the dark green streaks, so that, sections through these
+plant parts in the early stages of the disease show relatively few
+altered bundles. As the disease progresses, more and more vascular
+bundles show abnormal changes. In the primary Bunchy Top plant
+where infection is intense, every vascular bundle in the leaf is seen to
+have undergone alteration.
+The vascular tissue of the banana consists of closed collateral
+bundles. From the corm, individual vascular strands run through the
+pseudostem into the midribs, where they branch profusely to form the
+parallel venation of the laminae; by branching and anastomoses the
+individual bundles communicate with one another. In transverse
+section, the normal vascular bundle is seen to be bordered on both phloem
+and xylem ends by a distinct sheath of fibrous elements. The xylem
+region is made up of spiral tracheidcs and xylem parenchyma. The
+phloem consists only of sieve tubes and companion cells.
+A study of the internal pathological condition of the vascular
+system of a Bunchy Top plant is best made by cutting transverse and
+longitudinal sections of the midrib and leaf stalk of the primary
+diseased plant. Iveforence to Plate 19, Figure 2, will demonstrate how
+marked these alterations are. Plates 17-18 show individual healthy
+and Bunchy Top vascular bundles in transverse and longitudinal
+section.
+A comparison of healthy and Bunchy Top bundles reveals the
+following alterations: —
+(1) In the phloem region there is a suppression of development
+of the fibrous sheath. The region in which fibres are
+normally present is occupied by cells which are heavily
+laden with chromatophores.
+32
+
+
+(2) The fundamental tissue in the neighbourhood of the phloem
+has become gorged with chromatophores. In the normal
+plant this region is almost entirely devoid of chlorophyll.
+(3) “ Appositional ” growth has taken place in the fundamental
+cells in contact with the phloem. The original cells have
+been divided up into angular cells by the growth of thin
+cellulose walls. Growth of these cell walls has apparently
+taken place in all planes. The newly formed cells contain
+numerous chromatophores and distinct nuclei.
+(4) “Appositional” growth of cell walls along all planes has
+taken place in the “ sieve lubes ” and companion colls
+of the phloem, giving rise to numerous angular cells
+along their length. These cells are uninucleate and their
+.nuclei are of an abnormal type. The abundance of these
+nuclei in the phloem of a primary affected plant is a
+most noticeable feature in any transverse section and
+longitudinal section.
+There is wide variation in the size and shape of these nuclei.
+Observations suggest that they arc derived from normal nuclei by
+amitotic or direct division rather than by true mitosis. Although a
+binucleate condition of colls has not been definitely seen, numerous
+nuclei which appear to he undergoing division by constriction are
+observed. We recognize the necessity for further investigation of these
+remarkable changes in the phloem region of the vascular bundles of
+plants affected with this particular type of virus disease.
+In general, the above description describes the alterations in the
+phloem region of the vascular bundle of a primary Bunchy Top plant
+as seen in the midrib. Wo alteration has taken place in the xylem
+region. The abnormal development of chlorophyll in the fundamental
+tissue is greatest in the region of the peripheral bundles of the ventral
+surface of the midrib, but is also present in association with the more
+internal bundles.
+In the lamina of the primary Bunchy Top leaf, alterations similar
+to the above have taken place in both the main and secondary vascular
+strands. In some cases a reduction in the amount of sclercnchymatous
+tissue is also seen at the xylem end as well as the phloem end of the
+secondary vascular bundles. In the secondary Bunchy Top plant in
+the early stages of the disease, alterations of the vascular bundles are
+seen only in the region of the green streaks. Abnormal changes arc
+not observed along the whole length of such bundles. This corresponds
+to the external appearance presented by an altered vascular bundle,
+i.c., as a broken dark green streak.
+If a transverse section is made of a midrib which has shown dark
+green streaks as first symptoms of the disease, in the position of the
+streaks one or more vascular bundles in the ventral periphery of the
+C. 13263. —5
+33
+
+
+midrib exhibit abnormal changes. “ Appositional ” growth lias taken
+place in the fundamental tissue in the region of the phloem and for
+some distance! from it. The newly formed cells are gorged with
+chromatophores. At this stage there' is usually little alteration in the
+sclerenchyniatons sheath, but the abnormal cldorophyllor.s tissue' may
+extend as a hand arounel the phloem end of the bundle. At this stage
+little cr no alteration is apparent in the phloem itself, fn a transverse
+section of the veins of the lamina of a leaf which is showing first
+symptoms of the disease, a similar condition is scon in (he region of
+the green streaks. There is a proliferation of the mesophyll cells
+adjoining the phloem, with excessive development of chlorophyll. A.
+strand of fibrous cells usually persists on the outer margin of the phloem
+end, so that a baud of chlorophyll-bearing cells may extend on the
+inside of this fibrous strand, through the bundle from one side of the
+phloem to the oilier.
+The brittleness of the leaf tissue of a Bunchy Tojj plant may. to
+some extent, he due to the suppression of development of fibrous tissue.
+Other factors, however, ju'obably also contribute towards this charac-
+teristic.
+The distribution in the plant of phloem alterations is subject to
+a good deal of variation. This is dependent on the stage of develop-
+ment of the disease. In the early stages of the disease l a cross section
+of the midrib may show only a single altered vascular bundle. At a
+more advanced stage the greater number of the vascular strands are
+abnormal, while in the primary Bunchy Top plant every bundle has
+undergone change. In the primary Bunchy Top plant typical altera-
+tions arc observed in the lamina, midrib, and petiole. In the pseudostem
+proliferation of the phloem and surrounding fundamental tissue, with-
+out the production of chloropyhll, has been observed as far down as the
+base of the pseudostem. The condition has not been observed in the
+conn or roots. "Where a Bunchy Top plant has thrown a bunch, the
+true stem subtending the hunch, on examination exhibits typical altera-
+tions at the distal end. Around the fibres of the phloem region of
+many of the more peripheral vascular bundles, some of the cortical
+cells have undergone “ appositional ” growth to produce angular
+chlorophyll-bearing cells. Often a bundle is seen almost entirely sur-
+rounded by chlorophyll-tissue. Typical alterations are also seen in
+many vascular bundles in the rind of the fruit thrown by a Bunchy
+Top plant. These alterations do not produce an external appearance
+of green streaking in the fruit.
+9. CAUSE AND TRANSMISSION OF THE DISEASE.
+"When the present Investigation commenced operations in May, 1924,
+one of the main problems before it was to determine the cause and
+moans of transmission of Bunchy Top. Regarding this phase of the
+34
+
+
+disease, nothing definite had been proved by previous workers, either
+in Australia or other parts of the world where Bunchy Top occurs.
+Sufficient evidence was available from the work of Darnell-Smith and
+Tryou, as well as from the history of the disease iu Fiji, to provisionally
+negative the suggestions which had been put forward that Bunchy
+Top was due to — (a) climatic factors; (b) “running out” of stock;
+or (c) chemical deficiency of the soil. Other theories relating to the
+cause of the disease which, in our opinion, had to be proved or dis-
+proved, were —•
+(i) That Bunchy Top was due to parasitic bacteria or fungi
+iu the soil.
+(ii) That nematodes were the causal agent of the disease.
+(iii) That Bunchy Top was a virus disease.
+1. Parasitic Soil Factors (Bacteria, Fungi, Nematodes). —This factor
+was given first consideration for the reason that previous workers
+were inclined to give some credence to the idea that a soil parasite
+was the cause of the disease, and because the evidence of root decay
+associated with the Bunchy Top condition seemed to indicate the
+possible association of parasitic fungi and bacteria. Extensive observa-
+tions were made on the root system of diseased and healthy plants in
+the Tweed Diver district of New South Wales, and on healthy plants
+in an area free from Bunchy Top at Landsborougb (Queensland).
+Plantations in every stage of infection were examined, and evidence
+was collected with regard to the incidence of the disease. The early
+observations wore made during the dormant period of growth, but from
+December, 1924, it was possible to study the first incidence of the
+disease in plants which had been brought to the Tweed Diver district
+from a disease-free area in Queensland.
+In every plantation one was struck by the almost universal associa-
+tion of root decay with both healthy and Bunchy Top plants. This
+root decay was most marked iu Bunchy Top plants in an advanced
+stage of the disease. The intense purpling of the surface of young
+roots of both healthy and recently diseased plants was suggestive of
+parasitic action, and received considerable attention.
+Close observations were made of Bunchy Top jdanfs for evidences
+of bacteria or fungi. As soon as facilities permitted, cultural work
+was commenced at the field laboratory at Tweed Heads with a view to
+isolating an organism as a casual agent of the disease. Extensive
+tissue platings were made of leaf, pseudostem, conn, and root tissue
+of diseased plants in every stage of disease on nutrient beef agar, potato
+dextrose agar, malt extract agar, prune juice agar, banana corrn agar,
+banana leaf extract agar, gelatine and potato slopes. Studies were
+also made on inoculation of bouillon with infected tissue. It was
+possible to work on material within one or two hours after removal of
+35
+
+
+the plants under examination from the soil. Internal leaf and
+pseudostern tissues of diseased plants were invariably found to he
+sterile. ]\lieroseopical examination of diseased leaf tissue revealed a
+distinctly abnormal condition of the phloem region of the vascular
+bundles. There was, however, no evidence of the association of fungi
+or bacteria with this condition of the phloem, cither under the micro-
+scope or when material was submitted to a fair range of isolation tests.
+Later, attention was focussed on the decay of the root system and
+the surface of conns of Bunchy Top plants. Large numbers of platings
+on various media were made of decayed roots and conn tissue of plants
+in every stage of the disease, and also of healthy plant parts as controls.
+Isolation work extended over a period of six months, and, in spite of
+every endeavour, no positive results were secured. Two species of
+Fnsarimn were quite commonly isolated from decaying roofs and the
+decaying areas of the cortex of conns of Bunchy 'lop plants. Platings
+of decaying roofs from apparently normal plants also yielded both these
+species of Fnsarimn. Humorous species of bacteria were isolated from
+the decaying margin of conns tend from decaying roots of Bunchy Top
+plants. Ho particular species of bacterium was associate! with any
+degree' of constancy. Their role seems to he that of secondary
+organisms. From the purple lateral roots of.both healthy and recently
+diseased plants, both species of Fnsarimn were frequently isolated.
+When grown on potato dextrose agar, pure cultures of single spore
+strains of one of these species of Fnsarimn produced an intense blue
+colouration of the medium after about ten days’ growth. The relation,
+if any, between this pigment production and the purpling of young roots
+was not determined. In older stools which had taken the disease, a
+species of Rhizoclonia was often found in association with decaying
+roots, both independently or in conjunction with Fnsarimn. In no ca«e
+was the constancy of isolation sufficient to justify a suspicion of any of
+these types as a causal agent. At this stage, in view of results obtained
+from preliminary insect-transmission experiments, isolation work was
+discontinued.
+However, for observational purposes, soil infection experiments with
+two species of Fnsarimn and Rhizoclonia sp. were carried out. A pure
+culture of Rhizoclonia and pure cultures of single-spore strains of both
+species of Fnsarimn, were prepared as soon as possible after isolation
+from decaying roots. Prolific growth of each species of fungus was
+obtained on sterile puffed wheat, and heavy inoculations of each species
+wore made in duplicate into autoclaved soil contained in fourteen-inch
+earthenware pots. Six days after inooulation, on the 12th February,
+1925, young healthy suckers from a disease-free area in Queensland
+were planted in these pots, one to each pot. Before planting, each
+sucker was surface-sterilized in l-in-1200 corrosive sublimate. Two
+pots of autoclaved soil wore planted with similar suckers as controls.
+36
+
+
+All plants in the experiment, as well as the control plants, made only
+poor growth owing to cold weather. When this experiment was termi-
+nated, in October, 1925, both inoculated and control plants were free
+from Bunchy Top. An examination of the root system of all the plants
+was made, but this did not indicate that any of the fungi worked with
+were parasitic towards healthy plants.
+2. Soil Sterilization.—Concurrently with isolation work, and as early
+as the growing season would permit, a pot experiment along the lines
+of soil sterilization was set up during 1924 in the open, at the laboratory
+at Tweed Heads, with a view to throwing some light on the possible
+association of parasitic soil factors with the disease. It was reasonable
+to believe that if the disease was caused by certain typos of parasites,
+soil sterilization should control the trouble. The "rounds of the labora-
+tory at Tweed Heads are situated about 4 miles from the nearest banana
+plantation.
+This experiment was conducted in eight Wo. 24-gauge corrugated
+galvanized iron tanks, 3 feet in diameter and 2 feet deep. These tanks
+were filled with soil from a badly infected plantation, the soil having
+been dug from the neighbourhood of rank Bunchy Top stools. The
+soil in four tanks was sterilized by moans of steam. For this purpose
+use was made of the apjjaratus shown in Plate 11, Fig. 2. Steam at
+a pressure of 30 lb. per square inch was applied through the four-
+pronged pipe attachment, which was inserted in each jmt of soil. The
+lower 10 inches of each prong of this attachment consisted of fine brass
+gauze tubing. "With the apparatus in position, the soil in each pot was
+covered with sterilized corn sacks, and each pot was steamed for two and
+a half to tlin e hours. After steaming for about one and a quarter
+hours a temperature of 100° C. was registered at all points on the sur-
+face of the soil, the lower portion of the soil being first raised to high
+temperature, the rising steam then heating the soil above. At least
+a temperature of 100° C. was maintained throughout the soil for one
+and a quarter hours.
+On the 4th Xovember, 1924, one week after sterilization, healthy
+suckers from a disease-free area in Queensland were planted in both
+sterilized and unsterilized soil —one sucker to each pot. Before plant-
+ing, each sucker was surface sterilized by dipping completely in 1 in
+1200 corrosive sublimate for two hours. The four pots of unsterilized
+soil were arranged as far away from the pots of sterilized soil as the
+grounds of the laboratory would permit, and each pot in each group was
+separated by a distance of G feet. This experiment was conducted in
+the open without insect-cages. It was thought that the isolation of the
+laboratory grounds would, to some extent, control the factor of insect
+transmission. All plants in both sterilized and unsterilized soil made
+vigorous growth from the commencement. From the 14th February,
+1925, till September, 1925, at weekly intervals each plant received a
+thorough spraying with a 1 in 800 solution of Black Leaf 40.
+37
+
+
+In August, 1925, nine months after planting, all plants in both
+sterilized and nnsterilizod soil wore healthy, and had made equal growth.
+On the 26th August, 1925, one of the suckers from a plant growing in
+a pot of sterilized soil showed first symptoms of Bunchy Top. On this
+date, all the remaining plants in the experiment, including those grow-
+ing in the pots of unstorilized soil, were still healthy. This position
+was maintained when this experiment was terminated in October, 1925.
+The behaviour of the plant growing in sterilized soil is intelligible in
+the light of the results of other experiments recorded below. On
+several occasions during spraying operations, banana aphides (Po.nla-
+lonia nigronervosa ) were noticed in this, and later (in September,
+1925) on two of the other plants growing in sterilized soil. These plants
+were in close proximity to caged aphis-infested plants belonging to
+another experiment.
+In view of the fact that healthy plants, growing for eleven months
+in soil obtained from the proximity of Bunchy Top stools, remained free
+from the disease, wo are able to conclude that the soil does not carry
+infection. (The soil used was probably free from, aphides, as there
+was a lapse of ten days from the time of its removal from the plantation
+till suckers were planted in it.) An experiment described later, show-
+ing that the association of Bunchy Top and healthy roots in sterilized
+soil, in the absence of aphides, does not cause transfer of the disease,
+further emphasizes the fact that the soil in which Bunchy Top plants
+are grown docs not serve as a medium for infection. An examination
+of the root system of the four plants growing in unstorilized plantation
+soil showed the presence of large numbers of nematode galls on the cord
+roots and laterals of all plants. Several roots on each plant were also
+showing decay. On the roots of the plant which developed Bunchy Top
+while growing in sterilized soil, no nematode galls were found, although
+several roots were showing decay similar to that of the plants growing
+in unsterilizcd soil.
+This experiment helps to eliminate the possibility of nematodes or
+parasitic fungi or bacteria being concerned in the causation of Bunchy
+Top.
+3. Ultra-microscopic Organism or Virus. —The possibility that
+Bunchy Top is caused by the association with the plant of an ultra-
+microscopic organism or virus received early consideration. The
+general nature of the leaf symptoms was suggestive of such a cause for
+the disease. Both Professor Stakman (Minnesota, United States of
+America), and Dr. E. J. Butler (England), who visited the infected
+area after the Pan-Pacific Congress in 1923, were agreed that Bunchy
+Top had many of the characters of a virus disease. Previous workers
+on the disease in Australia had, for the greater part, confined their
+attention to parasitic soil factors as the probable cause of the trouble.
+The possible virus-nature of the disease therefore called for further
+inquiry.
+38
+
+
+Dr. Bryce (2) records having coiulnetcd an experiment in Ceylon to
+determine if the disease was caused by a filterable virus, but reports
+having secured negative results.
+During 1922, Mr. "W. J. Marks, a banana-grower of Terranora, Xow
+South ales, announced that he had discovered the cause and cure of
+Bunchy Top. He stated that Bunchy Top was duo to aphides, which
+attacked the plants, and that aphides could be kept in check sufficiently
+to prevent Bunchy Top by spraying the plants at intervals with kerosene
+emulsion. Mr. Marks conducted an experiment to demonstrate the
+effectiveness of his treatment. Ho failed to prove that spraying would
+prevent Bunchy Top altogether, hut it is now evident from the results
+after thirteen months’ operation of the experiment, that he was securing
+partial control of the disease.
+In 1923, Dr. Darnell-Smith (J) in a preliminary experiment con-
+ducted in Sydney, attempted to secure transmission of the disease by
+transferring banana aphides from Bunchy Top to healthy plants. This
+experiment gave negative results.
+Evidence is presented below which serves to place Bunchy Top in the
+category of the virus diseases.
+4. Juice Transfer Inoculations. —Two attempts have been made to
+transmit Bunchy Top from diseased to healthy plants by artificial
+inoculation. Juice was expressed from shavings of Bunchy Top conn,
+pscudostem and midrib tissue, and was separated from the pulp by
+straining through muslin. The undiluted juice was applied to healthy
+plants by hypodermic syringe injection, needle pricks, and mutilation
+of leaves along the veins. Endeavours made thus far to transmit the
+disease in this manner have failed to give; positive results.
+Experiment 2\ r o. 1. —On the 4th Xovember, 1921, eight banana
+suckers from a Bunchy Top-free area in Queensland were planted in
+sterilized soil in 3 feet x 2 feet corrugated iron pots —one sucker to each
+pot. On the 9th December, 1924, and again on the 12th January and
+the 24th February, 1925, each of four plants received inoculation of
+juice expressed from the leaves and conns of Bunchy Top plants in
+both early and advanced stages of the disease. Inoculations were made
+by hypodermic syringe injection, needle-pricks, and loaf mutilation into
+the younger leaf tissue and into the pseudostem and conn of each plant.
+The inoculations apparently induced no disturbance in the plants other
+than local necrosis of injured tissue. The growth of inoculated plants
+was equal at all stages to that of the control plants. From the 14th
+February, at weekly intervals, all plants in this experiment were
+thoroughly sprayed with Black Leaf 40 (1 in 800).
+On the 4th June, 1925, one of the inoculated plants in this experi-
+ment showed first symptoms of Bunchy Top. Several individuals of
+Penialonia nigronervosa had been observed on this plant during Feb-
+ruary, 1925, but were at once removed by spraying. During March,
+39
+
+
+aphides were again observed on this plant, and were removed. In
+August, ouo of the control plants showed symptoms of the disease.
+Aphides had been observed on this plant on three occasions. When this
+experiment was terminated in October, 1925, all the remaining plants
+were still healthy. This experiment was repeated later under insect-
+proof glasshouse conditions.
+During April, 1925, an insect-proof glasshouse became available at
+the laboratory at Tweed Heads. The dimensions of this glasshouse
+(Plato 11, Pig. 1) were 42 feet x 22 feet. It was divided by an insect-
+proof glass partition into two sections —one 24 feet x 22 feet, and the
+other 18 feet x 22 feet. These sections are hereafter referred to as
+section A and section B respectively. All ventilators of the glasshouse
+were covered by fine brass gauze (50 meshes to the linear inch). All
+soil used in experiments in the glasshouse was sterilized by steaming.
+Before being used, both sections of the glasshouse were thoroughly fumi-
+gated to remove insects.
+Experiment Xo. 2. —On the 27fli August,- 1925, four healthy Caven-
+dish banana plants, which had been planted on the IGth April, 1925,
+in sterilized soil, in four large corrugated iron pots in section A of the
+glasshouse, each received inoculation of unfiltercd expressed juice of a
+Bunchy Top plant in an advanced stage of the disease. The juice was
+obtained by pressure from shavings of conn, pscudostem, and midrib
+tissue. Juice-transfers were made to each plant by hypodermic syringe
+injection into the midrib and petiole, and by needle-pricks into and
+leaf mutilation of the younger leaves and the unfurled heart leaf.
+Hypodermic injections were also made into the pseudostem of each
+plant. Prom the conn of each, plant a plug of tissue was removed with
+a flamed cork borer and about 2 c.cs. of infected juice were run in, the
+hole then being plugged with sterile cotton wool. Each plant again
+received similar inoculations on the 9th September, 23rd September,
+and the Bth October, 1925. At the time of the first application the
+plants wore about 2 feet high, and had thrown either their tenth or
+eleventh leaf.
+At the termination of this experiment on the 30th January, 1920,
+all inoculated plants and their controls were healthy and rigorous.
+Each plant had produced one or more suckers, which were also healthy.
+Ajiparently no effect on growth was produced by the inoculation. The
+average maximum temperature during the period following inoculation
+was 88° F. We do not consider that the phenomenon of masking would
+account for the absence of symptoms in the inoculated plants; it is
+during the warmer months of the year —December to Warch —that the
+appearance of the disease is most marked in infected plantations.
+5. Preliminary Experiments on the Transmission of Bunchy Top by
+the Banana Aphis (Eenfalonia nigronervosa). —Following on observa-
+tions made early in January, 1925, on the incidence of Bunchy Top in
+40
+
+
+plants obtained from a disease-free area in Queensland, and planted at
+tbo experimental plots at Cobaki, New South Wales, a preliminary
+experiment was conducted to determine whether the dark banana aphis
+(Pentalonia nigronervom) was capable of acting as a vector of Bunchy
+Top.
+A healthy plant from Queensland, which had been growing for two
+months in a tank of sterilized soil in the open at the laboratory, Tweed
+Heads, was netted in with cheese-cloth. A large batch of banana
+aphides from a Bunchy Top plant in the early stages of the disease was
+transferred to this plant. The purpose of the cheese-cloth cage was
+to prevent aphides spreading on to neighbouring plants belonging to
+other experiments. The aphides multiplied rapidly. The date of
+transfer of the aphides to the healthy plant was the 17th January, 1925.
+On the 10th February, 1925, 24 days later, this plant was showing
+definite first symptoms of Bunchy Top. The control plant remained
+healthy till removed in October, 1925. Again, on tbo 15th February,
+1925, aphides obtained from a Bunchy Top plant were transferred to
+another caged healthy Queensland plant, which had been growing in
+sterilized soil for three months. (More plants were not then available.)
+On the 13th March, 1925, 26 days later, this plant also showed symp-
+toms of the disease, while the control plant remained healthy.
+Two experiments conducted by Professor Goddard, Supervisor of
+tins Investigation, furnish further evidence of the ability of the banana
+aphis to transmit Bunchy Top.
+On the 15th February, 1925, aphides from Bunchy Top plants were
+placed on six young healthy plants from Bracalba, Queensland (a
+Bunchy Top-free area), growing in tanks of Tweed and Brisbane soil,
+two plants to each tank, under insect cages, in the grounds of the
+Queensland University. In one tank (Tweed soil) both plants showed
+first symptoms of Bunchy Top on the 28th February; in another tank
+(Brisbane soil), one plant showed symptoms on tbe 4th March, and the
+other on the sth March, while in the remaining tank (Tweed soil), both
+plants wore showing symptoms of the disease on the 16th March, 1925.
+Again, on the 16th March, 1925, aphides from Bunchy Top plants
+were transferred to six young healthy north Queensland plants growing
+under similar conditions to those in the last experiment. All plants in
+this experiment were showing disease symptoms on the 12th April, 1925.
+The control plants to these experiments, including two growing in
+Tweed soil, all remained healthy till removed in November, 1925. The
+caged tanks in which these experiments were conducted were indis-
+criminately arranged, being separated only by 2 feet.
+6. Final Transmission Experiment with the Banana Aphis (Pentalonia
+uiyroncrvosa). —Healthy Cavendish banana suckers obtained from tbo
+0.13203.—S
+41
+
+
+Queensland Government Nursery, Bribie Island—an area where
+Bunchy Top has never occurred, were used in the final transmission
+experiment with aphides in the insect-proof glasshouse at Tweed Heads.
+On the IGth April, 1025, 40 healthy suckers were planted in steam-
+sterilized soil in twenty 3 feet x 2 feet galvanized iron tanks in the glass-
+house. Twenty suckers were planted in ten tanks—two suckers to each
+plant—in section A of the glasshouse. The other twenty suckers were
+planted similarly in section B. On the same date, six healthy suckers
+were planted under muslin cages in two large tanks of sterilized soil —•
+three suckers to each tank —in section B of the glasshouse. All suckers
+were of even size, and were free from the beetle borer (Cosmopolites
+sordidus). Each sucker, before planting, was dipped for one hour in
+l-in-1,200 corrosive sublimate.
+The soil used was a red volcanic loam, and although not of even
+quality in all the pots, was so arranged as to give adequate control of
+this factor. Each pot of soil was sterilized in situ in the glasshouse
+by steam, as described previously.
+Owing to cool weather during the winter, the early growth of all
+plants was slow. On account of aspect the plants in section Aof the
+glasshouse made more rapid growth than those in section B. By
+August, 1925, all plants were making healthy growth. The twenty
+plants in section A were slightly more forward than those in section B.
+On the 29th August, 1925, approximately 150-200 individuals of
+Penlalonia nigvonervosa obtained from two Bunchy Top plants, were
+transferred to each of the twenty plants growing in section B of the
+glasshouse. The method of transfer of the aphides is depicted in Plate
+6, Fig. 1. A portion of leaf tissue of a Bunchy Top plant with a colony
+of aphides attached was placed on a piece of thick blotting-paper, resting
+on one of the leaves of each plant. Actual contact between Bunchy
+Top and healthy tissue was thus prevented. Each portion of tissue was
+carefully examined before transfer to the healthy plants, to make cer-
+tain that no aphides other than Pcnf.alonia nigvonervosa, or any other
+insects, were being transferred. After the lapse of three days, the
+Bunchy Top tissue and blotting-paper were removed from each plant.
+By this time practically all the aphides had migrated to the healthy
+plants, and taken up a position on the sheathing bases of the leaves, or
+on the base of the pseudostem. The aphides multiplied rapidly. After
+a fortnight each plant was carrying a large colony of aphides, as shown
+in Plate 14, Fig. 1. These were clustered around the unfurled heart-
+leaf, the sheathing bases of the leaves, and the base of the pseudosteni.
+Very few aphides were seen on the surface of the leaf-blades.
+42
+
+
+The twenty control plants in section A remained free from aphides
+throughout the experiment.
+An examination of the twenty aphis-infested plants on the 23rd
+September, 1925, revealed three plants showing definite first symptoms
+of Bunchy Top. On the 25th September, eighteen plants were showing
+symptoms of Bunchy Top. By the 29th September, 1925, all the
+infested plants were exhibiting definite symptoms of the disease. An
+examination on the same date of the twenty control plants in section
+A showed every plant to be healthy, and free from aphides. (After the
+appearance of symptoms of Bunchy Top, aphides were removed, or kept
+in check, by spraying the infected plants at intervals with Black Leaf
+40.)
+At the termination of the experiment on the 30th January, 1920, all
+the control plants were still healthy, while the infected plants were in
+a fairly advanced stage of Bunchy Top (Plates 12 and 13). Plates
+0,7, and 8 depict one of the infected plants at different stages in the
+development of the disease. Beferencc to the accompanying table will
+show details of the incidence of first symptoms in the aphis-infested
+plants.
+The period from the time of placing aphides on the plants to the
+appearance of first symptoms varied from 23 to 29 days, with an
+average period of nearly 25 days. There was thus a fairly definite
+incubation period in the development of Bunchy Top in the plants in
+this experiment. Field observations, however, suggest that the incuba-
+tion period may be influenced by a number of factors at present
+unknown. The age of the plant seems to exert some influence—younger
+plants apparently reacting to the disease more quickly than older
+individuals. We are therefore not inclined to believe that the incuba-
+tion period of Bunchy Top, developing in plants of different ages and
+under varying conditions, is at all constant. Low temperature masking
+may have some effect in lengthening the incubation period during cool
+weather.
+On 9th September, 1925, a large number of individuals of Ponta-
+lonia nigronervosa obtained from healthy plants growing at Lands-
+borough, Queensland (a Bunchy Top-free area), was transferred to the
+six healthy plants (mentioned above), growing under insect-cages in
+section Bof the glasshouse. The banana aphis is widespread through
+parts of North Queensland from which there has been no record of
+the disease. The object of this portion of the experiment was to
+demonstrate that non-virulcnt aphides, i.e., aphides which had not fed
+On Bunchy Top plants, were incapable of inducing the disease under
+similar conditions where positive results were secured with the uso of
+local aphides fed on Bunchy Top plants,
+43
+
+
+Xo.
+of
+Plant.
+Xo. of Loaves
+thrown at
+time of
+Infestation.
+Date of
+'Infestation
+Date of
+appearance
+1 of first
+Symptoms
+Incu-
+bation
+Period.
+Xo. of Leaves
+thrown at
+time of
+appearance
+1 of first
+j Symptoms.
+1
+1 Nature and Position of
+, first Symptom*.
+I,
+Five, sixth
+emerging
+20.8.25
+24.0.25
+24 days
+Eighth ..
+Several broken green streaks
+on right and left side ot
+lower portion of lamina of
+eighth leaf
+i s
+Five, sixth
+emerging
+29.8.25
+25.0.25
+25 days
+Eighth ..
+Pale whitish streaks apparent
+in unfurled “ pipe of
+eighth leaf
+I,
+Six, seventh
+just shoeing
+29.8.25
+25.0.25
+25 days
+Eighth ..
+Droken green streaks in petiole
+and on both sides of lower
+portion of lamina of eighth
+leaf
+I 4
+Six, seventh
+emerging
+29.8.25
+25.0.25
+25 days
+Eighth ..
+Eighth leaf unfurling showing
+several green streaks in
+lamina and one green streak
+in midrib
+i s
+Seven, eighth
+emerging
+29.8.25
+25.0.25
+25 clays
+Xinth
+Xinth leaf unfurling showing
+green streaks in midrib and
+several in sides of lajmna
+t b
+Seven, eighth
+showing
+29.8.25
+25.0.25
+25 days
+Ninth
+Faint-green streak in petiole,
+several faint-green streaks
+on left side of lamina of
+ninth leaf
+I-
+Six, seventh
+emerging
+29.8.25
+25.0.25
+25 (lays
+Xinth
+Two faint broken green
+streaks on right side of
+lower portion of lamina of
+ninth leaf
+Lighth. ninth
+emerging
+29.8.25
+25.0.25
+25 days
+Eleventh..
+Long broken green streaks in
+midrib of eleventh leaf, none
+in lamina
+T»
+live, sixth
+emerging
+29.8.25
+25.0.25
+25 days
+Eighth ..
+Eighth leaf unfurling showing
+two green streaks in midrib
+and several on both sides of
+lamina
+ii.
+Six, seventh
+showing
+29.8.25
+2:1.0.25
+23 days
+Eighth ..
+Several broken green streaks
+on right and left side of
+lamina, none in midrib
+l n
+Six, seventh
+emerging
+29.8.25
+25.0.25
+25 days
+Eighth ..
+Three faint-green streaks at
+base of left side of lamina,
+none in midrib or petiole
+I 2 o
+T«
+Seven, eighth
+emerging
+29.8.25
+28.0.25
+28 days
+Tenth . .
+Pale-whitish streaks in un-
+furled “ pipe ” of tenth leaf
+Seven, eighth
+emerging
+29.8.25
+24.0.25
+24 days
+Tenth
+Several green streaks in left
+and right side of lamina of
+tenth leaf, none in midrib or
+petiole
+i»
+Seven, eighth
+emerging
+20.8.25
+25.0.25
+25 days
+Xinth
+Xinth leaf unfurling showing
+pale-geen streaks on both
+sides of lamina, none in
+midrib or petiole
+I I5
+Fight, ninth
+almost un-
+filled
+29.8.25
+24.0.25
+24 days
+Tenth
+.Several broken green streak* in
+petiole, none in lamina or
+midrib
+Light, ninth
+emerging
+29.8.25
+23.0.25
+23 days
+Twelfth ..
+Pale-whitish streaks in un-
+furled “ pipe ” of twelfth
+leaf
+L-
+Light ninth,
+emerging
+29.8.25
+29.9.25
+20 days
+Twelfth ..
+Several pale-whitDh streaks in
+unfurled “ pipe ” of twelfth
+leaf
+La
+Xine, tenth
+emerging
+20.8.25
+24.0.25
+24 days
+Twelfth ..
+Several pale-whitish streaks in
+unfurled “ pipe ” of twelfth
+leaf
+Several broken green streaks in
+both side of lamina, no
+streaks in midrib or petiole
+Tib
+Six, seventh
+emerging
+20.8.25
+24.0.25
+24 days
+Tenth
+I, 0
+Seven, eighth
+showing
+20.8.25
+23.0.25
+23 (lays
+Xinth
+Six broken green streaks in
+lower portion of right side
+of lamina of ninth leaf no
+streaks in midrib or petiole
+Table showing detads of incidence of first symptoms of Bunchy Top
+in plants infested with Pentalonia mtjromrvosa from Bunchy Top plants;—
+Largo colonics of aphides developed on the six plants on 'which
+aphides from healthy plants had been placed. At the end of two
+months all the plants were still free from 'Bunchy Top, but the
+44
+
+
+heavy infestation of aphides was beginning to cause injury to the
+plants. Largo quantities of “ honey-dew ’’ had collected around the
+sheathing bases of the leaves and had fermented, causing a decay of
+the petioles. Three of the plants were therefore lightly sprayed with
+Black Leaf 40 to decrease the number of aphides. During December,
+1925, the three unsprayed plants withered and died as the result of
+the attacks of the aphides. Up till the time of their death no indica-
+tion of Bunchy Top was seen in these plants. Smaller colonics of
+aphides were maintained in the remaining three plants, and up till
+30th January, 1926 —that is. after four and a half months’ infestation —
+they had not developed Bunchy Top.
+This experiment definitely proves that banana aphides which have
+fed on Bunchy Top plants are capable of transmitting the disease to
+healthy plants. During the course of the experiment, no other species
+of aphis, and, with the exception of a few metallic green flies (Psitop'n. <
+pachigyna Macq.), no other insect was found to be present in the glass-
+house. Acarids (Tetranychus sp .) were noticed on the foliage of both
+infected and control plants during the latter part of the experiment.
+7. Systemic Nature of the Disease —Sucker Transmission. —Field
+evidence collected during 1924 seemed to indicate that the incidence
+of the 'disease in many plantations had been due to the introduction
+of suckers from the areas infected with Bunchy Top. During 1924 and
+1925 experiments were conducted to determine whether the disease was
+of a systemic nature.
+Experiment A T o. 1. —On 7th November, 1924, ten small eyes were
+selected from a Bunchy Top stool in an advanced stage of the disease.
+Each eye was cleaned free from soil by scrubbing, and was submerged
+in l-in-1,200 solution of corrosive sublimate for two hours. A plug
+of tissue was removed from each eye by means of a sterile cork borer
+and platings were made on potato dextrose agar and nutrient beef
+agar. The selected eyes were then planted in pots of autoclaved soil—
+one eye to each pot. In every case symptoms of the disease were
+evident as soon as the first leaf had spread out. After three months’
+growth each plant was showing the typical primary-infection symptoms.
+All plants during growth remained free from aphides. The tissue
+platings revealed no organism of interest.
+Experiment No. 2.—On 20th April, 1925, twelve unemerged eyes
+were selected from plants in the field which had exhibited symptoms
+of Bunchy Top for only two to three weeks. It was considered that
+eyes which had not yet broken through would have escaped inoculation
+by aphides. The twelve eyes were surface-sterilized in l-in-1,200
+corrosive sublimate, and were planted in a 3 feet x 2 feet tank of
+sterilized soil in the glasshouse under insect-proof conditions. Eleven
+of the twelve selected eyes made growth. Each plant showed primary-
+infection symptoms from the time of its appearance above ground,
+45
+
+
+It is dear from those experiments that the disease can he spread hy
+the propagation of suckers from infected stools.
+8. Eoot Contact of Diseased and Healthy Individuals.—Pot experi-
+ments conducted to determine whether the contact of roots of healthy
+and Bunchy Top plants would cause transfer of the disease have
+indicated that in itself root contact is not a factor in the natural
+transmission of Bunchy Top.
+On 6th Xovomhcr, 1924, one healthy sucker froiu a disease-free
+area in Queensland was planted in the same large pot of sterilized soil
+with three suckers from an advanced Bunchy Top stool. The experi-
+ment was conducted in the open at the field laboratory at Tweed
+Heads. The diseased suckers gave rise to primary-infected plants.
+Both diseased and healthy suckers were sprayed weekly with 1-in-SOO
+Black Leaf 40. After eight months’ growth under these conditions the
+healthy plant was still normal.
+On 16th April, 1925, one healthy and three primary-infected suckers
+wore planted in each of two largo pots of sterilized soil under insect-proof
+glasshouse conditions. Each healthy sucker was thus surrounded hy
+three infected ones. In January, 1925, the healthy suckers were still
+normal. One of the pots of this experiment is depicted in Plato 15,
+Fig. 1.
+On the same date six healthy and six primary-infected suckers were
+planted in six 14-in. earthenware pots of sterilized soil under insect-
+proof glasshouse conditions. In each pot one diseased and one healthy
+sucker were pressed in actual contact under the soil. In January,
+1926, all the healthy plants were normal. All suckers in these experi-
+ments were surface-sterilized in l-in-1,200 corrosive sublimate previous
+to planting.
+9. Transmission by Grafting.—An attempt to graft eyes from healthy
+plants on to diseased conns was made on 15th October, 1925. Six
+young eyes were removed from healthy plants and were each inserted
+on a diseased sucker in the position from which a similar sized eye
+had just been removed. Contact between the stock and scion was
+established with the aid of cord and adhesive tape. All other eyes
+were removed from the diseased suckers. The grafts were planted
+in a tank of sterilized soil under insect-proof glasshouse conditions.
+All the diseased stocks grew, but none of the inserted eyes appeared
+above ground. A later examination showed that they had rotted with-
+out making any growth.
+The results of the above experiments definitely prove that Bunchy
+Top can be transmitted hy the banana aphis (Pmtalonia nigronervosa).
+There is definite evidence that the disease is systemic in nature. Micro-
+scopic examination and cultural tests have failed to indicate a bacterial.
+46
+
+
+protozoan, or fungal organism as a causal agent. As Pentalonia nigro-
+nervosa is widespread in banana plantations of North Queensland,
+where as yet no Bunchy Top has been reported, there is reason to
+believe that in north-eastern New South Wales and south-eastern
+Queensland this insect is carrying some factor which induces the
+disease. By analogy with other aphis-transmitted diseases, such as
+potato and tobacco mosaic, sugar cane mosaic, &c., it would seen that
+Bunchy Top comes in the category of the virus diseases.
+This class we here consider to be constituted by those transmissible
+or infectious diseases, caused by an ultra-microscopic agent, which arc-
+perpetuated indefinitely by vegetative growth and propagation. Such
+diseases are in general characterized by chlorosis and may manifest
+other symptoms such as foliage distortion, excessive chlorophyll pro-
+duction, blight, stunting, proliferation, and internal lesions. ' Diseases
+caused by infective viruses fall into two divisions —one capable of
+being produced in healthy plants by artificial juice-transfer inoculation,
+as in the typical mosaic diseases, and the other in which juice inocula-
+tion is ineffective in producing the disease, as in the case of Leaf roll
+of the potato. It is in this latter group of virus diseases that Bunchy
+Top should find a place.
+There arc many features of resemblance between Leafroll of the
+potato and Bunchy Top of the banana. Dwarfing, chlorosis, rolling,
+rigidity, and uprightness, the symptoms of Leafroll, are seen also in
+Bunchy Top. The phloem necrosis of Leafroll has a parallel in the
+phloem disorganization associated with the condition of Bunchy Top.
+Leafroll also resembles Bunchy Top in its inability to be transmitted
+from diseased to healthy individuals by artificial juice-transfer inocula-
+tion. This comparison is drawn only to further the evidence obtained
+as to the nature of the cause of Bunchy Top, and not as an inference
+that Leafroll and Bunchy Top are cognate diseases.
+In view of the above, we feel justified in concluding that Bunchy
+Top is a transmissible disease caused by an ultra-microscopic agent.
+Wo are of the opinion that its chief vector is the banana aphis
+{Pentalonia nigronervosa), and that the spread of the disease in north-
+eastern New South Wales and south-eastern Queensland over wide
+areas, has been due first to the propagation of infected suckers, and
+then to natural transmission by aphides. There is evidence available
+that the soil, apart from its harbouring of aphides for a limited period,
+does not become infected. As attempts to transmit the disease by direct
+sap-inoculation have so far met with failure, it would appear that the
+disease cannot be spread by infected tools during cultural and harvest-
+ing operations, such as the pruning of suckers and the cutting of
+bunches.
+It is possible that another species of aphis may be concerned in the
+natural transmission of Bunchy Top. On the lower leaves of young
+47
+
+
+banana plants a green species of aphis (probably Mavrosiphvm solani-
+folii) is sometimes found during the early summer These aphides do
+not remain on plants for any prolonged period. Two unsuccessful
+attempts have been made to arrange an experiment to test out the trans-
+mission capabilities of this species of aphis. These efforts have failed
+because the green aphides were unavailable when required. It is
+desirable that this species of aphis should be experimented with further.
+10. Transmission of Bunchy Top to Abaca or Manila Hemp (Musa
+text His). —Dr. Bryce (3) observed the occurrence of Bunchy Top in a
+plot of manila hemp in Ceylon in 1918. The exact identity of this
+disease with Bunchy Top in the banana was not established.
+During 1924 reports were received from the Philippine Islands
+concerning a disease in abaca, the symptoms of which corresponded
+well with those of Bunchy Top in the banana. In October, 1925,
+definite evidence was secured by this Investigation of the transtnission
+of banana Bunchy Top to manila hemp.
+Through the courtesy of Dr. Darnell-Smith, six healthy manila
+hemp suckers were obtained from the Botanic Gardens, Sydney. Three
+suckers were planted in separate pots of sterilized soil in section A and
+in section Bof the glasshouse. On 29th August, 1925, the three suckers
+in section B were infested with a large number of individuals of Penia-
+lonia nigronervosa obtained from a Bunchy Top banana plant. The
+suckers had then thrown either their fourth or fifth leaf. On fith
+October, 1925, all three suckers were showing definite symptoms of
+Bunchy Top. The incubation periods wore 33, 34, and 38 days. The
+three control plants in section A remained free from aphides, and were
+still healthy at the termination of the experiment in January, 1920.
+Plate 14, Pig. 2, depicts one of the infected and one of the control
+plants.
+The first symptoms appeared in the eighth or ninth leaf as broken
+dark green streaks along the midrib. The “ first-symptom ” leaf was
+otherwise normal in appearance and behaviour. The following leaf
+was slightly reduced in size and showed a distinct diffuse chlorosis;
+dark green streaks were present in the petiole and midrib but not in the
+lamina. All succeeding leaves were much reduced in size, and showed
+uprightness, rigidity, and slight chlorosis. The margins of their
+laminae were crinkled and upward-rolled; dark green streaks were
+present in the midribs and petioles, and faint green streaking was
+apparent along some of the secondary veins of the laminae.
+As growth continued, the leaves assumed the rosetted. condition,
+resembling more that developed by the tall-growing varieties such as
+the Sugar banana, than the dwarf Cavendish variety. The internal
+alterations in the region of the vascular bundles in the positions of
+the green streaks were apparently similar (in hand-sections) to those
+seen in the banana.
+48
+
+
+10. OBSERVATIONS ON THE BANANA APHIS (Pentaloina
+nigronerrosa Coquerel).
+The banana aphis (Pentalonia nigronervosa Coquerel) was first
+described by Coquerel in .1859, and later by Wilson in 1909.
+Froggatt(,9), in 1920, contributed a paper to the Agricultural Gazette
+of Xew South ll T a/c,s giving a description of the banana aphis, and
+mentioning that certain growers in the Tweed Hirer district of Xew
+South Wales claimed that the presence of this insect indicated that the
+infested banana plants would later on be attacked by Bunchy Top.
+Coquerel describes (in translation) the banana aphis as follows: —‘‘ Of
+reddish brown colour, clearer on the head. Antennae, norvures, and
+cornicles blackish; legs yellow, with the base of the femora, tibia, and
+tarsi black.” (After Froggatt.)
+Bakcr(fO), in 1920, gave the following description of the characters
+of the genus Pentalonia: —“Head with prominent antennal tubercles,
+which are, more especially in the apterous form, projected inward,
+gibbous and somewhat Wyzus-like in appearance. Antennae of six
+segments, armed with sub-circular sonsoria, the first segment gibbous
+like the antennal tubercles. Cornicles somewhat constricted near their
+middle, then again somewhat swollen near their distal extremity.
+Cauda rather small but elongate, subconical, slightly constricted about
+the middle. Fore wings with the radial sector extending abruptly
+downward and meeting the upper branch of the media with which it
+fuses but is diverted again towards its natural course near the tip of
+the wing. A closed cell is thus formed by the radial sector and the
+media, but at the margin of the wing there are the same veins as in
+the Aphidini. Hind wings very much reduced, cubitus absent.”
+(Plate 21, Fig. 2.)
+In plantations in north-eastern Xew South Wales the banana aphis
+is found widely distributed on both healthy and diseased plants. They
+are seen around the base of the pseudostem at soil level, and for several
+inches below the soil surface; between the sheath of the outer leaf and
+the pseudostem, and on young suckers just emerging from the ground.
+Often close examination is necessary to demonstrate their presence.
+Where plentiful they are also seen on the apex of the pseudostom,
+clustered in colonics around the heart-leaf and the bases of the petioles
+of the leaves. They may vary in number from a few individuals to
+large colonics. They usually take up a position on the most sheltered
+and inaccessible parts of the plant. Xumcrous examinations both
+during the winter and summer have failed to demonstrate their presence
+on the roots of the banana. When aphides arc transferred to healthy
+plants, the greater number migrates to the basal region of the pseu-
+dostem. As they multiply they spread upwards towards the heart-
+leaf. Aphides are most numerous during wet seasons; their numbers
+decrease rapidly during periods of drought. They flourish throughout
+49
+
+
+tho whole year, but the summer mouths are most favorable to their
+development. A few individuals under optimum conditions for
+development soon produce a dense black colony. When viewed with
+tho unaided eye the banana aphis apipears dark brown or brownish-
+black in colour. Both winged and wingless individuals occur in the
+normal colony, the wingless aphides being by far the most plentiful.
+The adult winged forms have the nervures delicately lined with black,
+which gives them a characteristic appearance.
+Large quantities of “ honey-deware produced by a colony of
+banana aphides. This is often seen on the leaves as fine droplets, and
+accumulates around the pseudostem between tho sheathing bases of the
+leaves. In the sugary solution thus formed, yeasts develop to produce
+a thick slimy white paste. The large quantities of “ honey dew ”
+attract ants, which swarm over the aphid colonics. The presence of
+ants on a banana plant is a good indication of the association of
+aphides.
+1. Specificity of the Eatiana Aphis.—Observations suggest that the
+banana aphis is specific in its host relationships. It is very doubtful
+if Penlalouia nigronervosa will live and flourish on any host other than
+a member of the natural order Musaceae. In heavily infested planta-
+tions the banana aphis has nor been observed on any plant other than
+the banana. Banana aphides have never been seen on weeds or grasses
+growing in close proximity to stools heavily infested with aphides.
+Banana aphides have been transferred to the potato ( SoJunnm
+iuherosnm), maize (Zea mays), arrowroot (Canna ediilis), canna
+(Canna sp.), Slrelilzia sp., manila hemp ( Musa lextilis), and a seed-
+hearing variety of banana (J him banksU) indigenous to the scrubs
+of Worth Queensland, all growing under glasshouse conditions. On
+Musa {cxiilis and M-usa Jxnilsii the aphides flourished well. "When
+transferred to tho potato and maize they remained for only a few
+hours; on the arrowroot and canna the aphides lived for a week to a
+fortnight, but eventually either perished or deserted the plants. On
+Strelitzia the aphides remained for a slightly longer period, but finally
+disappeared. Subsequent attempts to establish colonies of Pcnlalonia
+nigronervosa on these species growing under glasshouse conditions also
+failed.
+During Warch, 1926, Hr. 0. 11. Hardy, Walter and Eliza Hall
+Fellow of the Queensland University, reported having observed colonics
+of Pcnfalonia nigronervosa on StrelUzia sp. and llavenala so. growing
+in the Botanic Gardens, Brisbane, in the neighbourhood of banana
+stools. An aphis closely resembling Pcnlalonia nigronervosa was also
+observed on plants of Calodium sp. growing in a greenhouse in the
+same gardens. It is understood that such plants harbour aphides in
+abundance at least during certain times of the year, and tho gardeners
+intimate that the aphides are of the typo now recorded. It cannot yet
+50
+
+
+bo definitely stated whether these aphides are to he regarded as Penfa-
+lonia nigronerrosa or P. caladii Y. d. Goot., the latter being charac-
+terized by having “ veins not heavily bordered.”
+2. Dissemination of Aphides.— There are a number of ways by which
+aphides may spread through a plantation or a banana district—
+(l) Transfer from plant to plant in the same row or adjacent
+rows by the contact of foliage or the movement of aphides
+over the soil.
+(2) Plight of winged individuals.
+(3) Carriage of aphides, winged and wingless, by strong winds.
+(4) By the transportation of aphis-infested suckers from planta-
+tion to plantation.
+(5) By translocation of aphis-infested soil on tools and the
+hoots of workers.
+(G) On the clothes of workers during cultural and harvesting
+operations.
+3. Role of Aphides in Transmission of Bunchy Top.—The actual
+part played by the banana aphis in the transmission of Bunehv Top
+is not definitely known. By virtue of the possession of certain charac-
+teristics or functions, it is able, after feeding on affected plants, to
+cause transmission of the disease, while artificial juice-transfer inocula-
+tions are unsuccessful. The relationship) between the causal agent of
+the disease or virus, and the vector or carrier, may he purely mechanical
+and incidental, or the virus may pass through a definite stage of its
+life history within the bodies of the aphides. Two preliminary experi-
+ments have been conducted in an endeavour to learn something about
+this relationship.
+Experiment A T o. I.—A largo number of banana aphides wore
+removed with a camel-hair brush from a Bunchy Top banana plant
+and were transferred on to a layer of moist cotton wool in a small
+insect cage. After holding the aphides in this manner for S t hours,
+twenty individuals were, on sth October, 1925, transferred to each of
+two young healthy banana plants (free from aphides) growing in
+separate pots of soil under an insect cage in section B of the glass-
+house. On 2Gth October, twenty days later, both plants were showing
+definite first symptoms of Bunchy Top.
+It is clear from this that aphides can retain their infective capacity
+for some time after removal from the source of inoculum. It was
+not possible to keep aphides alive for a longer period under these
+conditions. An attempt to cultivate infective aphides on young maize
+plants in order to determine if the feeding on a new host would cause
+the aphides to become non-virulent failed on account of their inability
+to adapt themselves to the new host.
+51
+
+
+Experiment So. 2. —On 21st October, 1925, several thousand in-
+fective aphides were crushed up and thoroughly mixed with 00 c.cs
+of sterile water. The mixture was strained through muslin; the fluid
+was then inoculated by fine needle pricks and hypodermic syringe
+injections into the two youngest leaves of four young healthy banana
+plants growing under insect-proof glasshouse conditions. Four control
+plants received similar injuries, but without inoculation.
+The inoculated plants were apparently unaffected by the intro-
+duction of the body juices of infective aphides. On dOtli January,
+1920, all the plants in the experiment were still healthy and vigorous.
+The negative result of this experiment docs not prove anything;
+but at the same time it does not strengthen the possibility of the
+existence of a highly infectious stage of the virus within the bodies of
+the aphides. The failure to secure transmission of the disease in this
+experiment, and also earlier by juice-transfer inoculations, is possibly
+due to the special requirements necessary to jjroduee inoculation not
+being satisfied. The phloem region of the vascular system is probably
+the only region which is susceptible to infection. Erandes(7) has
+shown that Aphis maydis, the vector of sugar cane mosaic, in bringing
+abo'ut inoculation, inserts its setae into the phloem of the vascular
+bundles. The penetration of the tissues by the very fine setae is
+aided by a copious secretion from the salivary glands, and practically
+no structural injury results. The entry of tissues with a minimum
+of injury contrasts with the feeding phenomena of other insects, with
+coarser mouth parts, which have failed in repeated experiments to
+transmit the disease.
+It seems reasonable that an analogous position may exist in the
+ease of the successful inoculation of Bunchy Top by Penialonia ni/jro-
+nerrosa, in contrast to the failure to produce the disease by artificial
+inoculation with needle jmints, which, compared with aphid setae, are
+enormously large.
+11. ECOLOGY OF THE DISEASE.
+Any consideration of tlio influence of environmental factors on tlic
+incidence of Bunchy Top should be made with three aspects in view—
+(a) influence of the various factors on the vector —Penialonia nigro-
+nervosa, (b ) influence on the causative agent or virus, (c) effect on
+the plant in its relation to the virus.
+What is known concerning the climatic range of the disease docs
+not suggest that this factor would exert any effect on its incidence or
+development. In Australia it has been observed under both temperate
+and sub-tropical conditions, while under more tropical conditions in
+Ceylon and Fiji it has done extensive damage. Wo consider that the
+disease would develop under all climatic conditions which will foster
+the growth of bananas.
+52
+
+
+Seasonal variations Lave a marked effect on the amount of develop-
+ment of Bunchy Top in a plantation in Australia. Although the
+disease does make its appearance during the winter months, it is during
+the summer months, January to March, that the incidence of the,
+disease is most manifest. This may he due to three factors—the more
+rapid development of aphides, an increase in the rate of diffusion of
+the virus from infected to healthy suckers in the same stool, or possibly
+to the warmer temperatures favouring the development of symptoms
+in plants which have carried infection for some time without showing
+signs of the disease. At any rate, it is certain that aphides are most
+plentiful during the wanner months of the year. The time of the year
+at which planting takes place in an infected area seems to have a
+hearing on the amount of disease which will show up during the first
+year. There is an earlier and more rapid development of Bunchy Top
+in a young plantation, when planting-up takes place in or
+December, than when it is delayed till the autumn. The prevalence
+of aphides during the summer months is very probably the factor
+concerned in bringing this about.
+Evidence of growers points to the fact that the rapid development
+of the disease is influenced by periods of rain following on a dry
+spell during the sum;mer. Many growers whose plantations had been
+destroyed by the disease have stated that although Bunchy Top was
+present in their plantations, it was only under such weather conditions
+that the disease made rapid headway and rendered their plantations
+unprofitable.
+Topography seems to exert an influence on the prevalence of the
+disease. In north-eastern Xew South Wales and south-eastern Queens-
+land, bananas arc grown almost exclusively on steep hillsides, on
+account of the occurrence of frost on the lowlands during the winter,
+and for the reason that it is in these regions that rich basaltic soil is
+available. In a plantation on a steep hillside in the early stages of
+the development of the disease, it is noticed that Bunchy Top is
+usually most plentiful in the lower, more sheltered portions of the
+plantation than on the exposed brow of the hill. The soil in the
+lower portion is usually of higher moisture content than the higher
+ground, the temperature is usually greater, and the growth of plants
+more vigorous. Aphides are usually most plentiful in such regions,
+the conditions being more favorable to their development than in
+higher exposed situations. The influence of topography on the
+incidence of the disease was well shown in the development of the
+disease in the two experimental plots at Cohaki, an account of which
+is given in the early part of this paper.
+The fertility of the soil, in that it influences the vigour of the plant,
+appears to be a factor in the development of the disease. .field
+observations suggest that the more vigorous a plant is and the more
+53
+
+
+rapid its growth, the more susceptible it is to Bunchy Top. The
+disease seems to spread more rapidly through young vigorous planta-
+tions than in old worn-out plantations where growth is slow. Planta-
+tions on poorer soil do not appear to bo wiped out so quickly as those
+on richer soil. In its earliest incidence in a large plantation where
+there is variation in the vigour of the different sections, Bunchy Top
+is usually seen to make most headway in the best part of the plantation.
+The most favorable conditions for the development of Bunchy Top,
+therefore, appear to be during periods of rain in the summer months,
+on rich soil in a warm well sheltered position.
+12. MEASURES RECOMMENDED FOR THE CONTROL OF BUNCHY
+TOP.
+The present Investigation, in considering the matter of control,
+has kept in view two distinct aspects of the Bunchy- Top problem,
+namely:—•
+(a) That concerned with the conservation, as far as practicable,
+of the industry in the affected areas, and the problem
+of bringing the industry in the same areas hack to its
+original status, as well as the resuscitation of the industry
+in those portions of the area whore it has become
+moribund.
+(b) The protection of the largo area in Queensland which is
+in no way affected with the disease.
+In considering the methods of control, it is proposed to discuss
+them under the headings of—(1) Exclusion, (2) Protection, (3) Eradi-
+cation, (4) Immunization, (5) Remedial Measures.
+1. Exclusion.— The exclusion of the disease from any area can be
+effected, provided that none but healthy suckers are imported into
+that area, and that the area is sufficiently remote from any affected
+plantation to remove the possibility of migration or transportation
+of infective aphides.
+The principle of exclusion should apply primarily to the unaffected
+areas in Queensland north of the affected zone, but should have
+application also to certain districts in the affected areas which occupy
+isolated positions and contain only a few plantations infected to a
+greater or less extent.
+The exclusion of the disease demands, in our opinion, the efficient
+discharge of the following recommendations: —
+(i) Prohibition of the transportation of any vegetative parts
+of any banana plant or of any member of the genus
+Musa from any part of the areas affected with Bunchy
+Top to the north, or to any unaffected or lightly affected
+area.
+54
+
+
+(ii) Prohibition of the shifting of the vegetative parts of any
+species of the genus 21usa from any place within a
+newly affected area to any other place within that area,
+or, otherwise prohibition of any further planting-up
+within the area unless with suckers obtained from a
+certified disease-free area.
+(iii) That no person shall be allowed to trade in suckers or
+to transport suckers from one area in Queensland or
+Xew South Wales to another, unless a special permit
+be granted by a competent Government officer, or by
+such persons as may be responsible for the control of
+Punchy Top.
+(iv) The registration of all plantations in which any species
+of the genus 2lusa is cultivated throughout Queensland
+and Xcw South Wales.
+(v) The destruction immediately of all banana plants or any
+member of the genus Musa in backyard or similar
+gardens, that is, in other than registered banana planta-
+tions, and the growing of such prohibited.
+(vi) Immediate eradication and destruction in lightly affected
+areas of every infected stool in which any portion or
+plant has shown the symptoms of the disease.
+(vii) The systematic examination by growers of all stools in
+plantations within a newly affected area, lightly
+affected area, or unaffected area.
+(viii) Prohibition of the transportation of banana fruit from
+any affected area to the zone north of the affected
+area, or out of any affected zone in which the disease
+may, at any time, appear, to any unaffected banana
+area.
+(ix) Bunchy Top to be made a notifiable disease in all areas
+not so far known to be affected with the disease,
+(x) A complete survey of the banana plantations throughout
+Queensland by competent inspectors; immediate atten-
+tion to be given to that portion of the unaffected area
+which adjoins the limits of the recently discovered
+affected areas.
+(xi) Illustrated lectures and practical demonstrations of an
+educational nature with a view to enabling banana
+growers to identify the disease at its earliest stages;
+also distribution of a clear, concise, and well illustrated
+pamphlet indicating the symptoms of the disease and
+the manner in which it can be disseminated.
+55
+
+
+Wo have every reason for believing, from the study of the history
+of the disease in Australia and the most recent spread of the disease,
+that the extension of Bunchy Top to new areas has been effected
+primarily by the imjiortation of affected suckers, and that the part
+played by aphides in the transmission of the disease concerned is of
+importance rather in spreading the disease throughout an affected
+plantation, or from an affected limitation to a healthy plantation in
+the neighbourhood.
+Efforts have been made over several years, both in Queensland and
+Wow South Wales, to check the spread of Bunchy Top by the estab-
+lishment of buffer areas and the issue of regulations prohibiting the
+transportation of vegetative parts of the banana plant or of any
+species of the genus from the affected zone to unaffected areas.
+These endeavours have so far failed to stem the spread of the disease.
+A study of the recent outbreak in the areas north of the Brisbane River
+suggests the possibility that owing to incomplete data the buffer areas
+and boundaries, when established, did not take in the full extent of the
+infected zone. The failure of the earliest attempts to confine the
+disease to narrow boundaries can probably be explained similarly. The
+need for a complete survey of plantations is thus evident. For this
+purpose and for other reasons, the registration of all banana planta-
+tions is essential to furnish information as to positions of plantations,
+many of which are isolated and inaccessible.
+The presence of Bunchy Top in many backyard and similar gardens
+suggests that definite method of procedure is imperative in dealing
+with the casual cultivator of banana plants. The individual growing
+a few banana plants in his garden will not, generally speaking, exorcise
+that amount of care which, on personal grounds, is necessary in the
+case of the individual attempting to grow bananas on a commercial
+basis. Also, owing to the size of the inspectorate, it would be imprac-
+ticable to carry out inspections of backyard gardens in city and town
+areas.
+The educational aspect should not be lost sight of, when it is
+considered that the greater proportion of growers in the unaffected
+areas arc ignorant of or only slightly acquainted with the charac-
+teristics and early symptoms of the disease. The gazetting of the
+disease as notifiable in areas at present unaffected would materially
+assist in the ultimate control of the disease.
+2. Protection.—Protection against the disease would be effective if
+there were available some means of keeping the plants free from
+aphides. Under such conditions it would bo possible to preserve intact
+a plantation containing healthy plants, despite the proximity of plants
+affected with the disease.
+This Investigation has given special attention to the possibilities
+of protection offered by the use of sprays, dusts, and various specifics.
+56
+
+
+On the experimental plots nicotine sulphate, pyrethrum powder,
+calcium cyanide, and chlorocide have been employed in an endeavour
+to protect plants against the disease. This work has been conducted
+in a very methodical fashion by the Horticulturist, and it may he said
+that the work has been done more efficiently than would bo the case
+in any commercial undertaking, yet the results do not indicate that
+either spraying or dusting are efficient methods of control of the
+aphides. Neither do these operations produce more than partial control
+of the disease. Further, the cost of labour has proved prohibitive—
+about £34 per acre.
+In view of the nature of the disease and the manner in which it
+is conveyed by aphides, it is clear that for any substance to he of
+value in the protection of plants against Bunchy Top it would be
+necessary for that substance to bring about a very high degree of
+control of the aphides, since it is their biological and not their
+mechanical effects that are disastrous. There are serious practical
+difficulties which militate against the effectiveness of spraying in com-
+bating the disease. Owing to the fact that the aphides feed on the
+base of the pseudostem and on young “ peepers ” down to several inches
+beneath the soil surface, and occupy most inaccessible positions between
+the closely adherent old leaf-sheaths of the pseudostem, it is a difficult
+matter to bring the spraying fluids in contact with them. Again,
+spraying fluids have no lasting effect, as has been demonstrated con-
+clusively at the experimental plots. More important still is the fact
+that spraying becomes a really impracticable proposition in banana
+plantations where the rugged nature of the ground and the difficulties
+in the transport of water appear to be insurmountable.
+Wo do not consider that any protective means are of any consider-
+able importance in a serious attempt to control the spread of Bunchy
+Top. Such sprays as Black Leaf 40 and Derrisol may be utilized in
+a minor way, in supporting the scheme of eradication by killing the
+aphides on a diseased stool and thereby preventing their migration
+prior to the digging out and destruction of the stool.
+3. Eradication.—Eradication of all stools affected with Bunchy
+Top, on a most thorough basis, appears to us to bo the real solution
+of the problem, keeping in view the exclusion of the disease from
+unaffected areas, the control of the disease in lightly affected areas,
+and the rehabilitation of the heavily affected areas where banana grow-
+ing has become perilous or moribund.
+It is patent, from the mode of transmission of the disease, that
+eradication of all stools showing any symptoms of Bunchy Top should
+be an ideal towards the attainment of which every possible effort
+should be made if the affected areas are to again offer facilities for
+banana growing, and if the northern areas now free from Bunchy Top
+are to be conserved. The eradication of all diseased plants, in that
+57
+
+
+it removes the source of inoculum, seems to offer greater possibilities
+of success than any scheme which could be elaborated for the control
+of aphides—the carriers of the inoculum.
+The disease is distinctly systemic, and we cannot ovor-emphasize
+this fact when recommending that eradication should be interpreted
+as meaning the removal and destruction of all parts of any stool which
+have developed symptoms of Bunchy Top in any of its parts. We
+mention this fact, since attempts are made by some growers to conserve
+apparently healthy plants in an affected stool by killing out only the
+affected parts. Wo are well aware that in a certain minor percentage
+of cases in which the killing out has happened to be done early enough,
+certain parts of the stool have stood up and remained healthy for a
+long period; that is to say, they have missed the infection from which
+the killed portions of the stool have suffered. The chances of success
+along these lines arc very small, since there is ample opportunity for
+the spreading of the disease by aphides from the portion of the stool
+which first contracted the disease, independent of the possible diffusion
+of the virus from one member of the stool to another member of the
+same stool. Also from the practical standpoint it is not economical
+with respect to time on the part of the grower to reckon on the physio-
+logical independence of certain parts of the stool, which sometimes
+does obtain, and hence the impossibility of diffusion of the virus.
+Further, the adoption of any such procedure would so seriously damage
+the projected plan of eradication on a universal basis as to remove all
+hope of controlling the disease.
+The eradication of Bunchy Tojd in the affected areas demands, in
+qur opinion—
+(i) The cleaning up of all deserted jdantations.
+(ii) The cleaning up of affected plantations still under
+cultivation or not deserted. (This includes heavily
+infected plantations, “ still payable ” plantations, and
+lightly infected plantations.)
+(iii) The destruction of all banana plants growing in backyard
+and similar gardens.
+(iv) Rigid enforcement of regulations rendering the owner of
+any area liable for harbouring affected stools after the
+lapse of a stated period from the adoption of eradi-
+cation measures.
+(v) The discouragement of further planting up within the
+heavily affected areas for an indefinite period, that is,
+until such time as a clean certificate can bo given for
+the whole of the affected area.
+58
+
+
+(vi) That after a period of twelve months from the date of
+the adoption of the eradication measures, the matter
+of the complete destruction of all banana plants
+throughout the affected areas in Now South Wales and
+Queensland, or in certain plantations hearing unfavor-
+able reports, ho considered by the body responsible for
+the control of Bunchy Top,
+(vii) The future replanting in the infected areas to he done
+only with suckers from a certified Bunchy Top-free
+area.
+The basis on which these recommendations are made is the belief,
+held in the present state of our knowledge, that Bunchy Top is a
+spiecific disease confined to species of the genus Mvsa, that the banana
+aphis is the main transmitting agent, and that this aphis is confined
+to members of the natural order Musaccae, which, apart from the
+banana, is not represented in plantations in the affected area. We
+recognize that there are great difficulties in the way of a consummation
+of the scheme of eradication, chief among which is the large labour
+cost of removal of Bunchy Top plants over extensive areas, especially
+where the land is very stony and precipitous or is overgrown with
+weeds and lantana. The complete removal of affected stools growing
+on excessively stony land will demand that subsequent inspections of
+the land must he made, some time after the first digging out, to destroy
+those plants which have grown from the unremoved portion of the
+original stools.
+In the badly infected areas of north-eastern New South Wales and
+south-eastern Queensland the presence of large acreages of abandoned
+plantations, much of which are owned by men who have no further
+interest in the banana industry, will call for special consideration and
+appropriations. Unless the administration and the work of eradication
+are undertaken most seriously, both by the Governments concerned
+and the growers, the period which must elapse before replanting can
+safely take place in the affected areas will ho unduly prolonged, and
+the chances of further spread of the disease increased. For some time
+following the initial attempts to eradicate Bunchy Top from a district,
+the disease will recur, duo to the overhang of infective aphides which
+have migrated from dug-out stools, or to the later development of the
+disease in stools receiving infection some time previous to the com-
+mencement of eradication. Observations suggest that in certain
+instances a period of dormancy may elapse before symptoms of Bunchy
+Top become manifest in infected stools, which would occasion for some
+time a persistence of the disease in a plantation which was being
+cleaned up. Nevertheless, we feel certain that if the scheme of
+eradication, outlined above, can he carried out as a district-measure
+over a period of time, the disease will gradually disappear from the
+area.
+59
+
+
+Attention lias been given to the possibility of providing some means,
+other than the laborious method of digging-out, for the destruction of
+infected banana stools. A series of experiments, with arsenical and
+other poisons, has boon conducted by Mr. IT. Collat'd, Horticulturist
+to this Investigation, to determine whether stools could bo completely
+killed out by this method. These experiments have demonstrated that,
+although poisoning is effective in destroying the above-ground parts of
+stools, the conns are not injured sufficiently to prevent them throwing
+up fresh suckers. Where individual plants in the stool are poisoned
+out, no effect is produced on adjoining or neighbouring suckers. The
+physiological indejiendenco of the various members of a stool, at least
+as far as the effects of poisoning are concerned, therefore defeats this
+method. There seems to he no other way of efficiently eradicating
+diseased stools than by the costly method of uprooting.
+4. Immunization.—There appears to be little hope of obtaining stock
+satisfactorily resistant or immune to Bunchy Top.
+Observations and experiments conducted thus far would indicate
+that all species of the genus ,1/j/sn which could bo grown commercially
+under sub-tropical conditions, including cultivated and wild species of
+the banana and Manilla hemp, contract the disease. Although the.
+various species may differ slightly in respect of their susceptibility to
+Bunchy Top, yet this difference docs not open up the possibility of
+being able to repdace the standard Cavendish variety. The particular
+climatic and topographical conditions obtaining in the affected banana
+areas seems to militate against the successful commercial establishment
+of any variety other than the least tropical of all varieties—the
+Cavendish.
+Bunchy Top, in 1891-95, devastated the plantations in Fiji, and
+mined the industry. The disease still occurs there, but is by no
+means the serious menace that it was. At times it docs happen that
+complete replanting becomes necessary in some plantations, owing
+to all the plants developing Bunchy Top. It would appear from
+observations made by the Horticulturist, on his visit to Fiji, that
+while the disease is prevalent, it affects a comparatively small per-
+centage of plants in most plantations, although it is rampant in
+native gardens. It is hard to discover the cause of this, and it would
+be unscientific to attribute the same to actual immunity or resis-
+tance on the part of the plant. Unfortunately, the carefully selected
+plants which were sent from Fiji for experimental purposes were so
+badly affected with Beetle Borer that very little use could be made
+of them. The result is that the reputed resistant stock present in
+Fiji cannot be definitely reported on.
+It is to bo recognized that, despite the agnostic attitude with
+respect to Fijian plants, such problems as immunity and resistance
+60
+
+
+to Bunchy Top, variations with respect to the virulence of the virus,
+prevalence of the vector, &c., merit further consideration. Never-
+theless the propagation of possibly resistant stock would require so
+long a period for purposes of restocking the large acreage of planta-
+tions that more immediate attention has been necessarily devoted to
+other methods of combating the disease.
+5. Remedial Measures. —At times reports are made by growers and
+enterprising sellers of specifics—fortunately not so frequently now as
+in past years, that they have knowledge of remedies. It may bo defi-
+nitely stated, in the case of Bunchy Top, as in the case of other virus
+diseases of plants, that all reputed remedies are valueless. Once
+Bunchy Top has made its appearance in a plant, nothing will restore
+that plant to health,, and immediate destruction is the only means
+of effecting any good as far as banana-growing is concerned.
+13. SUMMARY.
+1. The Biincliv Top disease in bananas made its appearance in
+Australia in 1913, being introduced very probably in infected banana
+suckers from Fiji. It lias since spread through the banana areas of
+north-eastern New South Wales and south-eastern Queensland, ruin-
+ing the industry in many centres. All attempts made in the past to
+stem the march of the disease have failed. Decently Bunchy Top
+has appeared in isolated areas on the north coast of Queensland. The
+disease has also occasioned extensive damage in Fiji, Ceylon, and
+Egypt.
+2. Thus far, no plant other than a member of the genus Musa has
+been found to bo susceptible to Bunchy Top. No variety of banana
+is known to ho highly resistant or immune to the disease. The
+Cavendish, the standard commercial variety in Australia, is very
+susceptible.
+3. The symptoms of the disease are very characteristic; the leaves
+become shortened, narrow, brittle, upright, wavy, and slightly rolled
+and later take on a typical rosetted habit. The earliest and most
+definite symptom of the disease is the presence of characteristic, broken
+dark green streaks along the secondary veins of the laminae, the mid-
+ribs, and petioles. This streaking is correlated with an interesting
+pathological condition of the phloem region of the vascular bundles.
+The disease induces a disorganization of the root system of infected
+plants.
+4. Microscopic examinations and isolation tests have failed to
+indicate the association of either bacteria, fungi, or protozoa as a causal
+agent. Definite evidence has been secured that Bunchy Top can
+be transmitted from diseased to healthy individuals by the banana
+61
+
+
+aphis Pentalonia nigronervosa Cql. Artificial juice-transfer inocula-
+tions and the contiguity of the roots and conns of diseased and healthy
+plants have not caused transfer of the disease. Bunchy Top is dis-
+tinctly systemic in nature, and has been classified amongst the virus
+diseases of the “ potato-lcafroll ” type.
+5. The spread of the disease in north-eastern Xew South Males
+and south-eastern Queensland has, in our opinion, been due, first to
+the distribution of infected suckers by planters over wide areas, and
+then to the dissemination of the disease to neighbouring plantations
+by the banana aphis.
+6. A consideration of the possibility of controlling the disease
+shows that measures serving for the exclusion of the disease in
+unaffected areas, and from plantations in lightly affected areas, and
+measures for eradication of the disease from heavily and lightly
+affected areas, represent the only' means available for controlling
+Bunchy Top. Xo protectionary measures are of value, and no
+immune or resistant stock is available.
+14. LITERATURE CITED.
+(1) Knowles, C. 11., and Jepson, F. P., 1912. —“ The Banana in Fiji.”
+Fiji Expt. Sta., Bulletin Xo. 4.
+(2) Bryce, G., 1921. —‘‘ The 'Bunchy Top’ Plantain Disease.” Leaflet
+Xo. 18, Dept, of Agrie., Ceylon.
+(3) Darnell-Sjutk, G. P., and Tryon, 11., 1923. —“Banana 'Bunchy
+Top’ Disease.’’ In Queensland Agric. Journal, Yol. XIX., pt. 1.
+(4) Darnell-Sjiitii, G. P., 1924. —-'"Bunchy Top’ Disease in
+Bananas.” In Queensland Agric. Journal, Yol, XXI., pt. 3.
+(5) 1924. —'' Investigation of ‘ Bunchy Top ’ Disease in Bananas.” In
+Queensland Agric. Journal, Yol. XXI., pt. 1.
+(6) Fatijiy, T., 1924. —‘'A Banana Disease Caused by a Species of
+Ileterodera.” Bulletin Xo. 30 (Bot. Section). Ministry of
+Agric., Egypt.
+(7) Brandes, E. M., 1923. —“ Mechanics of Inoculation with Sugar
+Cane Mosaic by Insect Yectors.” In Jour. Agric., lies., Yol.
+XXIII., pt. 3.
+(8) Xowell, M., 1925. —“Diseases of Crop-Plants in the Lesser
+Antilles,” p. 249.
+(9) Froggatt, M. M., 1923. —“ The Banana Aphis.” In Agric. Gazette
+of Xew South Males, Yol. XXXIY., 4, p. 296.
+(10) Baker, A. C., 1920. —“Generic Classification of the Hemipterous
+Family Aphididae” LLS. Dept, of Agric., Bulletin Xo. 826.
+62
+
+
+15. LIST OF ILLUSTRATIONS.
+Plate
+1 Two secondary-infected plants.
+2 Two lioaltliy plants, same age under similar conditions.
+3 Pig. 1. Lamina of young leaf showing along secondary veins dark
+green streaks.
+Pig. 2. Lamina of similar young healthy leaf.
+4 Fig. 1. Lamina of older Bunchy Top leaf showing advanced
+stages of streak.
+Pig. 2. Lamina of similar older healthy leaf.
+5 Pig. 1. Unfurling heart loaf of young plant showing broken
+whitish streaks.
+Fig. 2. Portions of healthy and Bunchy Top leaf midribs.
+G Pig. 1. Young healthy plant, stage at which infective aphides
+transferred.
+Pig. 2. Same plant one month later; showing first symptoms of
+Bunchy Top.
+7 Pig. 1. Same plant as T’late G, Pig. 1, about seven weeks after
+transfer of aphides, showing symptoms of a Bunchy
+Top leaf.
+Fig. 2. Same plant two and a half months after transfer, showing
+several abnormal leaves.
+3 Pig. 1. Same plant as Plate 6, Pig. 1, five months after transfer
+of aphides, showing resetting of leaves.
+Fig. 2. Stool eighteen months old, showing stunted habit and
+resetting.
+0 Fig. 1. Young primary-infected plant about four (4) months old.
+Fig. 2. Leaf of young primary-infected plant.
+10 A secondary-infected plant, grown in sterilized soil under
+glasshouse conditions.
+11 Fig. 1. Insect-proof glasshouse.
+Pig. 2. Apparatus used in sterilizing soil by steam.
+12 Some of the plants which were infected by the aphides
+transferred to them five months previously.
+13 Control plants which remained healthy.
+14 Pig. 1. Young plant infested with aphides in colony formation.
+Pig. 2. Young manila hemp plants, one on left showing Bunchy
+Top condition; control on right, healthy.
+63
+
+
+l.'> Fig. 1. Healthy (1) and Bunchy Top (3) plants which grew
+together without transmission of disease, owing to
+absence of aphides.
+Fig. 2. .Bunchy Top stool, infected at late stage, showing effect
+on bunch.
+IG View in plantation in which every stool is affected with
+Bunchy Top.
+IT Fig. 1. Transverse section of vascular bundle of midrib of young
+healthy plant. X2OG.
+Fig. 2. Similar section of Bunchy Top plant.
+IS Fig. 1. Longitudinal section of phloem region of vascular bundle
+of midrib of young healthy plant. X2OG.
+Fig. 2. Similar section of Bunchy Top plant.
+It) Fig. 1. Transverse section of midrib of young healthy plant,
+showing arrangement of vascular bundles.
+Fig. 2. Similar section of Bunchy Top plant.
+20 Fig. 1. Transverse section of vascular bundle of ventral periphery
+of midrib of leaf of young healthy banana plant.
+Fig. 2. Similar section of Bunchy Top plant.
+21 Fig. 1. Transverse section of phloem region of vascular bundle of
+interior of midrib of young Bunchy Top plant.
+Fig. 2. Wing of banana aphis (Penialonia n'ujrnnrrvosa).
+22 Wap of Queensland and Xew South Wales, showing in-
+fected areas.
+64
+
+
+Two secondary-infected Bunchy Top plants, nine months old, which have shown the disease for four months.
+Plate 1.
+
+
+Two healthy plants of the same age, grown under similar conditions.
+Plate 2;
+
+
+FIG. 1. Portion of the lamina of a young leaf, photographed from the under-. s ide in transmitted light, showing nature of the
+broken dark green strcks along the secondary veins, which appear as the usual first symptoms of the discase. The leaf in which
+these streaks first appear is otherwise normal in size, shape and behaviour. The next leaf thrown by the plant however, shows
+marked alterations.
+FIG. 2. — Portion of the lamina of young healthy leaf photographed from the under-side in transmitted light.
+
+
+Piste 4.
+FIG. 1.—Portion of the lamina of an older Bunchy Top leaf, photographed from the
+under-side in transmitted light, showingadvanced stage of the characteristic dark green
+streaking.
+FIG. 2. —Portion of the lamina of an older healthy leaf photographed from the
+under-side in transmitted light.
+
+
+FIG. 2.
+FIG. 1.
+FIG. 1.—Unfurling heart-leaf of young plant which is showing first symptoms of the disease as broken whitish streaks along the
+secondary veins of the lamina. When such a leaf has unfurled, and is viewed from the under-side with light passing through the leaf,
+it is observed that what were originally whitish streaks are dark green in colour.
+FIG. 2.—Portions of healthy and Bunchy Top leaf midribs. The healthy midrib is of an even pale green colour, while dark green
+streaking and mottling are seen in the Bunchy Top midrib in an advanced stage of the disease.
+Plate 5.
+
+
+Plate 6<
+FIG. 1. —Young healthy plant, 117 of the final transmission experiment by means
+of aphides, showing stage of growth at which infective aphides were transferred to the
+plants and also method of transfer of aphides. 29th August, 1925.
+FIG. 2.— Same plant one month later. First symptoms of Bunchy Top have
+appeared in this plant as whitish streaks along the veins of the tightly rolled lamina
+of the heart-leaf. Note that the heart-leaf is about to unfurl quite normally.
+
+
+Plate 7.
+FIG. 1. —Same plant on 17th October, 1925, eighteen days after the appear-
+ance of first symptoms. The leaf marked with the arrow is the “first-symptom”
+leaf which is seen in the preceding figure as the heart leaf. Apart from the
+occurrence of broken dark green streaks along the secondary veins of the lamina,
+this leaf does not differ markedly from the normal preceding leaves. The
+following leaf, however, is showing all the symptoms of a Bunchy Top leaf. It
+is more narrow and upright than normal; the lamina is ridged along the main
+veins, is wavy and slightly rolled upwards, and showing chlorosis around the
+margin. Note the funnel-shaped heart leaf due to premature unfurling.
+FIG. 2—The same plant on 11th November, 1925, now showing several more
+abnormal leaves.
+
+
+Plate 8.
+FIG. 1. —Same plant on 30th January, 1926, four months after the appearance
+of first symptoms, showing intensive rosetting of the leaves.
+FIG. 2.—Stool eighteen months old, derived from the planting of an
+infected butt, showing the stunted habit and rosetting of the leaves of primary
+infected plants. Plants of this type never produce a bunch.
+
+
+FIG. 2.
+FIG. 1.
+FIG. 1. —Young primary-infected Bunchy Top plant, about four months old. Note rosetting of the leaves, waviness and upward-
+rolling of the laminae, the ridging along the main veins and the chlorosis at the margins of the laminae.
+FIG. 2. — Leaf of young primary Bunchy Top plant. Note the dark green streaking along the midrib and along the secondary veins
+of the lamina, the upward rolling and chlorosis of the margin of the lamina. (Photographed in transmitted and reflected light.)
+
+
+Plate 10.
+PLATE 10. —A secondary-infected Bunchy Top plant, grown in sterilized soil under
+glasshouse conditions. This plant has shown symptoms of the disease for four months
+The amount of decay present in the root system is not greater than that seen in healthy
+plants of the same age grown under similar conditions. The roots of this plant are entirely
+free from nematode galls.
+
+
+Plate 11.
+FIG. 1.—Inseet-proof glasshouse, in which the final transmission experiment
+with Pentalonia nigornervosa, juice-transfer inoculations, and other experiments
+were conuueted
+FIG 2.—Apparatus employed in the sterilization of soil by means of steam.
+
+
+PLATE 12. —Showing some of the twenty piants which were infected with Bunchy Top by the transfer of the
+infective aphides, five months previously.
+Plate 12.
+
+
+
+
+Plate 14.
+FIG 1. —Young banana plants infested with aphides (Penlalonia nigronervosa)
+showing colony formation. Aphides congregate on the pseudostem between
+the sheathing bases of the leaves and may extend on the pseudostem and young
+suckers into the soil for several inches.
+FIG. 2. — L ett. —Young Manilla hemp plant (Musa textilis ), showing
+symptoms of Bunchy Top. Right. —Healthy control plant.
+
+
+FIG 2.
+FIG. 1.
+FIG. 1. Showing one healthy and throe Bunchy Ton plants which have grown together in the same pot, in the absence of
+aphides and other insects, for over nine months without transfer of the disease.
+FIG. 2.— A Bunchy Top stool showing type of hunch thrown by a plant which becomes infected at a late stage of growth. To
+the right of the picture is seen a bunch which is borne normally.
+
+
+PLATE 16. —View in a plantation in which every stool has become affected with Bunchy Top.
+Plate 16.
+
+
+FIG. 1.—Transverse section of a vascular bundle of the midrib
+of a young healthy banana plant. (Drawn with the aid of the
+camera lucida. X206.)
+FIG. 2.—Transverse section of a vascular bundle of the [midrib of a
+young primary Bunchy Top plant. (Drawn with the aid of the camera
+lucida. X206.)
+NOTE.
+(1) The lack of development of fibrous tissue in the phloem region.
+(2) The presence of chlorophyll bearing cells, replacing the fibrous sheath and the
+abnormal development of chromatophores in the fundamental tissue at the phloem end of
+the vascular bundle.
+(3) The abnormally large number of nuclei present in the sieve tubes and companion
+cells.
+(4) Appositional growth in cells of the fundamental tissue adjacent to the phloem and
+the presence of chromatophores and prominent nuclei in these newly formed cells
+(Stained in Gentian Violet and Orange, G.)
+
+
+Plate 18.
+FIG. 1.—Longitudinal section of the phloem region of a vascular bundle
+of the midrib of a young healthy banana plant. (Drawn with the aid of
+the camera lucida. X 206)
+FIG. 2.—Longitudinal section of the phloem region of a vascular bundle
+of the midrib of a young primary Bunchy Top plant showing typical
+alterations induced by the disease. (Drawn with the aid of the camera
+lucida. X206.)
+
+
+Plate 19.
+FIG. 1 —Photomicograph of transverse section of midrib of leaf of
+young healthy banana plant, shoving arrangement of vascular bundles.
+(Hand-section, stained in dilute Gentian Violet.)
+FIG. 2.—Photomicrograph of transverse section of midrib of leaf of
+young primary Bunchy Top plant. Note excessive development of
+chlorophyll tissue and alterations in region of vascular bundles. (Hand-
+section, stained in dilute Gentian Violet.)
+
+
+Plate 20.
+FIG. 1.—Photomicrograph of a vascular bundle of the ventral periphery
+of the midrib of a leaf of a young healthy banana plant.
+FIG. 2.—Photomicrograph of transverse section of a vascular bundle of
+the ventral periphery of the midrib of a leaf of a young primary Bunchy
+Top plant showing nature of alterations induced by the disease.
+
+
+Plate 21.
+FIG. 1. —Photomicrograph of transverse section of the phloem region
+of a vascular bundle of the interior of the midrib of a young primary
+Bunchy Top plant showing appositional growth, the large number of nuclei
+and the absence of fibrous tissue. (Section stained in Gentian Violet and
+Orange G.)
+FIG. 2. Showing wing venation of the banana aphis (Penlalonia nigronervosa).
+(Drawn by I. W. Helmsing.)
+
+
+Plate 22.
+PLATE 22.— Map of Queensland and New South Wales showing infected areas.
+By Authority : H. J. Green, Government Printer, Melbourne.
+
+

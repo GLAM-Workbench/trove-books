@@ -1,0 +1,3662 @@
+
+
+Report on Maternal Mortality and Morbidity in the
+State of Victoria, Australia.
+BY ROBERT MARSHALL ALLAN, M.C., M.D., F.R.C.S.E., F.C.S.A.
+(Late Assistant Master, Rotunda Hospital, Dublin).
+Findings and Recommendations resulting from a Research Investigation for the Period
+November, 1925-April, 1928, throughout the State, as Director of Obstetrical Research
+under the Obstetrical Research Committee and made possible by a benefaction of the
+Edward Wilson (The Argus) Trustees,
+
+
+Report on Maternal Mortality and Morbidity in the
+State of Victoria, Australia.
+BY ROBERT MARSHALL ALLAN, M.C., M.D., F.R.C.S.E., F.C.S.A.
+(Late Assistant Master, Rotunda Hospital, Dublin).
+Findings and Recommendations resulting from a Research Investigation for the Period
+November, 1925-April, 1928, throughout the State, as Director of Obstetrical Research
+under the Obstetrical Research Committee and made possible by a benefaction of the
+Edward Wilson (The Argus) Trustees.
+
+
+
+
+The Chancellor and Council,
+The University of Melbourne.
+Gentlemen,
+In accordance with the terms of my appointment as Director of
+Obstetrical Research under the Edward Wilson {The Argus ) Benefaction I
+have the honour to forward herewith my report on the subject of Maternal
+Mortality and Morbidity in the State of Victoria.
+The information gleaned in the course of my investigations emphasized
+that a survey along the lines indicated by the Obstetrical Research Committee
+was essential.
+An Interim Report was submitted in November, 1926, and this further
+statement, while it does not materially vary the earlier findings, is an extension
+based on fuller investigation.
+I desire to record an expression of my appreciation of the manner in
+which Government Departments and Hospital Executives and Proprietors
+made available all information and particulars necessary for my work.
+The value of this report would have been materially diminished had it
+not been for the whole-hearted support of the individual medical practitioners
+of the State.
+I have the honour to be, Gentlemen,
+Yours faithfully,
+R. Marshall Allan,
+M.C., M.D., F.R.C.S.E., F.C.S.A.
+Melbourne,
+30th April, 1928.
+
+
+THE OBSTETRICAL RESEARCH COMMITTEE.
+Professor R. J. A. Perry, Chairman
+Professor P. McCallum
+Dr. C. H. Kellaway
+Dr. R. H. Morrison
+Dr. Cairns Lloyd
+Nominated by
+the Faculty
+of Medicine,
+University of
+Melbourne.
+Sir George Syme, F.R.C.S "
+The Honourable S. S. Argyll
+Dr. Felix Meyer, Honorary Treasurer
+Dr. R. 11. Fetherston
+Nominated by
+the Victorian
+Branch of the
+British
+Medical
+Association.
+Dr. J. W. Dunbar Hooper, Honorary Secretary and Convener
+Nominated by
+the Edward
+Wilson (The
+Argils) Fund.
+
+
+Contents.
+Page.
+Introduction 7
+Part I.
+Fallacies and Possible Omissions in Statistics .. .. 7
+Primary Causes of Puerperal Mortality 8
+Contributory Causes of Puerperal Mortality 8
+Factors in Puerperal Mortality 9
+Medical Attention at Confinements 11
+Present Incidence Puerperal Mortality in Victoria .. 11
+Incidence of Mortality within the State 12
+International Comparison of Mortality Rates .. .. 13
+Morbidity 13
+Association Maternal and Infant Mortality 14
+Summary Statistical Investigations 15
+Part 11.
+Page.
+Administrative Control of Health Activities 15
+Hospital Accommodation, Classification Hospitals .. 16
+Nursing Associations, Welfare Societies, Allied
+Organizations 17
+The Training of the Student .. 17
+Post Graduate Instruction 18
+Training, Registration and Practice of the Obstetric
+Nurse 18
+Present Status of Obstetric Practice in Victoria .. .. 19
+The Maternity Allowance 22
+Summary 22
+Recommendations 23
+Part HI.
+Bacteriological Investigation Puerperal Infection .. 23
+Chemistry of Blood and Urine in the Toxaemias of
+Pregnancy 24
+INDEX OF TABLES AND GRAPHS.
+Page.
+Table I. —Relative Mortality Males and Females by
+Age Groups 8
+Table II. —Primary Causes Maternal Mortality,
+Victoria 8
+Table 111. —Contributory Causes Puerperal Deaths .. 8
+Table IV, Table IVa. —Detailed Causes of Death by
+Age Groups 9
+Table V. —Incidence Sepsis and other Causes Mortality
+by Age Groups 10
+Table VI. —Time from Child-birth to Death of Mother 10
+Table VII. —Medical Attention at Confinements .. .. 11
+Table VIII. —Deaths all Females 15-45 years 11
+Table IX, Table IXa. —Maternal Mortality, General
+Death Rate, Infant Mortality 11
+Table X. —Puerperal Mortality, Melbourne, Rest of
+State, Victoria, Married and Single Women 12
+Table XI. —Puerperal Mortality, Melbourne, Principal
+Country Towns, Rest of State, Victoria .. 13
+Table XII. —Comparative Trend Puerperal Mortality 13
+Table XIII. —International Mortality Rates 13
+Table XIV. —Infant Mortality under 1 year 14
+Table XV. —Infant Mortality, Rates for Various Age
+Groups, Comparison with Maternal Mortality
+Rate 14
+Page.
+Table XVI. —Infant Mortality under 1 week and 1
+month 14
+Table XVII. —Infant Mortality, Causes Death under 1
+week 14
+Table XVIII. —Infant Mortality under 1 month.
+Causes Death in Melbourne, Rest of State,
+Victoria 15
+Table XIX. —Classification Hospitals, Victoria .. .. 17
+Table XX. —Indications and Results of Caesarean
+Section 20
+Table XXI. —Incidence Forceps Applications according
+to Size of Town 21
+Table XXII. —Incidence Forceps Applications Ex-
+pressed as Percentage of Doctors Inter-
+viewed 21
+Table XXIII. —Incidence Forceps, Melbourne .. .. 21
+Table XXIV. —Comparison Normal and Forceps Cases
+Regarding Laceration and Morbidity .. .. 22
+Graphs.
+Seasonal Variation Puerperal Mortality 9
+Puerperal Mortality, Victoria, 1870-1927 10
+Infant Mortality under One Year, Victoria, 1881-1927 .. 15
+
+
+
+
+REPORT ON MATERNAL MORTALITY AND MORBIDITY
+IN THE STATE OF VICTORIA.
+BY ROBERT MARSHALL ALLAN, M.C., M.D., F.R.C.S.E.,
+F.C.S.A.
+The subject of better protection of the lives and health
+of mothers during childbirth has aroused considerable
+public interest within recent years, especially in English-
+speaking countries. There has been a gradual realization
+that much of the mortality and subsequent sickness is
+preventible and that the health of the mother exercises
+a far-reaching influence on infantile mortality.
+It is to the credit of the medical profession in Victoria
+that persistent efforts have been made by them during the
+last ten years to raise the standards of obstetric practice
+in the State. When the Melbourne Permanent Post-
+Graduate Committee was formed in 1-920, obstetrics was
+given a prominent place in its activities. Post-graduate
+classes and lectures were arranged not only in Melbourne,
+but also at country centres, while the Women’s Hospital
+was the first Australian obstetric hospital to hold an
+annual residential post-graduate course. In 1924 the Vic-
+torian Branch of the British Medical Association appointed
+an Obstetric Inquiry Committee which later published an
+important report. This was followed by an essay com-
+petition. In 1925, by reason of the generosity of the
+Edward Wilson (The Argus) Trust, a Director of Obstetri-
+cal Research was appointed to inquire into the causes of
+maternal mortality and morbidity in Victoria with instruc-
+tions to suggest means to prevent or lessen the same. In-
+-1926 the Federal Royal Commission on Health made the
+following recommendations regarding maternity hygiene:
+1. The establishment of a division of maternity
+hygiene in the Federal Department of Health.
+2. Conditional subsidies to States to provide facilities
+for attention to women before, during and after
+childbirth.
+3. Amendment of the Maternity Allowance Act —
+(a) To provide that application for the allow-
+ance should be made at least five months
+before child-birth. No payment to be made
+unless a medical certificate be produced
+showing that the mother has had antenatal
+supervision;
+(b) No child to be deemed viable which measures
+less than 14 inches in length.
+4. Conditional subsidies to assist in the education
+of medical students and nurses in obstetrics.
+5. The encouragement and development of research.
+From this survey of the work already done in the State
+it will be seen that the medical profession, fully alive to
+the importance of the subject, has therefore been in the
+forefront of the endeavours being made to meet the
+situation.
+Scope of the Investigation.
+The first step taken in this investigation has been an
+attempt to secure accurate and complete statistical informa-
+tion regarding the extent of the problem in Victoria. It
+was also considered essential to obtain first hand know-
+ledge of the manner in which the maternity services of
+the State were working. This involved personal inter-
+views with a large proportion of those medical practitioners
+engaged in the work, as well as an inspection of all hos-
+pitals licensed to admit obstetric patients. In addition,
+attempts were made to investigate various problems con-
+cerned with puerperal sepsis and the toxsemias of preg-
+nancy. This was done by the collaboration of specialists
+attached to the Women’s and Queen Victoria Hospitals
+and expert research workers from the Walter and Eliza
+Hall Research Institute and the Bio-chemical Department
+of the University.
+The final results of this threefold investigation into
+statistics, the practice of obstetrics together with clinical
+and laboratory work are now presented. Although many
+questions have remained unanswered owing to lack of
+time as well as necessary data, the evidence available is
+sufficient to warrant conclusions of practical importance.
+Part I. — Statistical Investigations.
+For the purposes of this report the statistics dealing
+with Victorian results have been compiled from the State
+returns. In some cases the official figures have been sub-
+jected to close scrutiny and alterations made where it was
+clear that causes of death had been entered under incorrect
+headings. The Commonwealth figures have been used for
+all inter-State and international comparisons.
+Fallacies and Possible Omissions in Statistics of
+Puerperal Mortality.
+In no State of the Commonwealth is it obligatory to
+note on the death certificate whether pregnancy or labour
+had occurred within a reasonable period of the death
+or was definitely associated with the cause of death.
+In addition, varying interpretations have been placed on
+certificates showing more than one cause of death. There
+has been a tendency to classify deaths as non-puerperal
+wherever possible or to under-estimate the number of
+deaths due to puerperal sepsis and thus give an erroneous
+value to the puerperal death rate. However, close co-
+operation between Federal and State statisticians during
+recent years has resulted in records as accurate as it is
+possible to make them.
+Faulty Certification.
+The number of deaths due to puerperal causes is
+probably under-estimated owing to faulty certification. A
+detailed inspection of the death certificates for the past
+ten years shows that in some cases no real cause is given
+or else the cause is stated in vague terms which preclude
+correct classification, for example: severe parturition,
+paralysis, collapse, chronic peritonitis, general chill of
+pregnancy, pregnancy jaundice, pio-hydro marasmus.
+Some certificates give the impression that either the
+medical practitioner has not diagnosed the cause of death
+correctly or more likely that he is unwilling to certify to
+the true cause, for example: myocarditis, encephalitis,
+pneumonia, influenza. This applies particularly to cases
+of puerperal septicaemia and is due mainly to the unreason-
+able attitude of the general public, who invariably blame
+the medical attendant for all such deaths.
+It is clearly evident that the Victorian Statistician is
+hampered first by the use of a careless nomenclature by
+some doctors and secondly to a greater extent by his
+inability to refer any dubious certificates to the medical
+practitioner for fuller details. In Great Britain, for
+example, in 1925 the Registrar-General issued 8,800 queries
+and received 7,900 replies regarding doubtful certificates.
+This enabled the records to be clarified to a marked
+degree.
+Estimates of Omissions due to Faulty Certification.
+The Statistician makes use of the register of births to
+note whether childbirth might be regarded as a complica-
+tion of death in all females between fifteen and fifty. Many
+cases are added to the puerperal list which might have
+been otherwise omitted. This method is inapplicable, how-
+ever, to cases where death occurs during pregnancy without
+the birth of a child.
+A small number of deaths in women during the child-
+bearing period are classified as due to ill-defined or un-
+known causes. If these had been properly certified, there
+is no doubt that the puerperal group would have received
+its share. Between 1920 and 1926 the deaths of women
+between fifteen and fifty from these causes was 90. On
+a conservative estimate that the proportion due to puer-
+peral deaths was equal to the percentage of puerperal to
+total deaths from known causes, ten would have to be
+added to the puerperal mortality. This represents an
+increase of 9% c of the puerperal deaths for this period.
+The possible omission of puerperal deaths may also be
+inferred from the sex distribution of deaths from causes
+to which such transfers may be made. If any considerable
+number of puerperal deaths were certified as due to con-
+ditions such as peritonitis, nephritis, appendicitis or pneu-
+monia, such a transfer would result in an undue preponder-
+ance of female deaths during the child-bearing period.
+
+
+Ages.
+Peritonitis.
+- —
+j
+Deaths from
+Acute Nephritis.
+—
+Chronic Nephritis.
+—
+Males.
+Females.
+Ratio. 1
+i Males.
+Females.
+Ratio.
+Males.
+! Females.
+Ratio.
+All ages
+97
+125
+129
+152
+; 152
+100
+2,073
+| 1,754
+85
+0-15
+25
+25
+100
+43
+33
+77
+23
+14
+61
+15-49
+25
+65
+260
+63
+86 :
+136
+334
+407
+122
+50 and over . .
+47
+35
+74
+46
+33 :
+72
+1,716
+1,333
+78
+Causes of Death.
+Si umber
+of
+Cases.
+Percentage
+Total
+Mortality.
+Mortality
+per
+1,000 Births.
+Puerperal sepsis ..
+675
+44
+1-930
+Puerperal albuminuria ..
+281
+18
+0-803
+Puerperal haemorrhage ..
+188
+12
+0-537
+Other accidents of labour
+155
+10
+0-443
+Ectopic pregnancy
+70
+4-5
+0-200
+Abortion
+66
+4-2
+0-188
+Other accidents of pregnancy ..
+51
+3-3
+0-145
+Puerperal phlegmasia, et cetera ..
+48
+3
+0-137
+Following child-birth
+15
+1
+0-042
+Puerperal diseases of breast
+1
+—
+—
+1,550
+100-0
+4-425
+TABLE I.—RELATIVE MORTALITY, MALES AND FEMALES, BY AGE GROUPS, 1922-1926.
+Comparison of the number of deaths from such diseases
+of males and females at different ages would show whether
+this transference could have occurred.
+This comparison of the relative number of male and
+female deaths in age groups shows a marked excess of
+female deaths during the child-bearing period. At ages
+15 to 49 the number of female deaths from peritonitis
+was more than twice that among males, under fifteen
+the numbers were equal and over fifty the male deaths
+predominated. For acute and chronic nephritis the ratio
+of female to male deaths was practically identical for
+ages under fifteen and over fifty, but showed a marked
+increase for the child-bearing age. No such changes were
+noted with appendicitis and pneumonia which are some-
+times considered to be terms used to conceal cases of
+puerperal septicaemia. Although there are grounds for
+assuming that transfers have been made, it is difficult
+to estimate this factor. The increase in female deaths
+from peritonitis, for example, may be due to gynaecological
+operations. In any case the calculation is inapplicable to
+those diseases peculiar to the female sex to which transfers
+from puerperal causes might well have been made. Puer-
+peral deaths may be incorrectly reported and classified as
+due to salpingitis. During the period under review 66
+such deaths were noted, but no definite conclusions can
+be drawn from this figure.
+Summary.
+Improvement in statistical returns cannot be expected
+until (i) the association of pregnancy or child-birth with
+a maternal death is stated on the death certificate (this
+should apply to all deaths within three months of abortion,
+miscarriage or child-birth); (ii) power is granted to the
+Statistician to refer dubious certificates to the medical
+practitioner for fuller details (it would be of material
+assistance if more definite instructions and information
+regarding the correct classification of the causes of death
+were printed on the cover of the official book of death
+certificates): (iii) the present system of open certification
+is supplemented by confidential notification of the cause
+of death; (iv) all puerperal deaths are investigated by
+a special board of inquiry. This should consist of a repre-
+sentative of the Health Department, the professor or
+lecturer in obstetrics and a senior obstetrician. In addi-
+tion to statistical information, much valuable clinical
+data would be obtained for the information and guidance
+of those engaged in obstetrical practice.
+The Primary Causes of Puerperal Mortality.
+The International List of Causes of Death classifies
+puerperal deaths under the following groups:
+1. Accidents of pregnancy. This includes abortion (if
+not criminal), miscarriage, ectopic pregnancy and hyper-
+emesis gravidarum. Criminal abortion is entered in a
+separate non-puerperal group.
+2. Puerperal haemorrhage including both ante and post
+partum haemorrhage.
+3. Other accidents of labour which comprise difficult
+labour, malpresentations, Caesarean section and other
+operative procedures.
+4. Puerperal septicasmia. Septic abortions are included
+under this group.
+5. Puerperal phlegmasia alba dolens, embolism, sudden
+death.
+6. Puerperal albuminuria and convulsions.
+7. Deaths following child-birth not otherwise defined.
+Puerperal insanity is included here.
+8. Puerperal diseases of the breast.
+The relative order of these primary causes of mortality
+is illustrated in Table II.
+Table II. —Primary Causes of Maternal Mortality : Victoria, 1918-1927,
+Puerperal sepsis is, therefore, the most important single
+cause of death and is responsible for over two-fifths of
+the total deaths. In most discussions on statistics sepsis is
+referred to separately and the remainder of the groups
+are combined under the heading “other causes.” Although
+albuminuria, haemorrhage and accidents of labour indi-
+vidually do not cause the loss of so many lives as sepsis,
+collectively they form an important factor in maternal
+mortality.
+Contributory Causes of Puerperal Mortality.
+Statistics showing the contributory causes of maternal
+mortality are not easily obtainable. The majority of death
+certificates give very scanty information on this subject.
+Table 111. —Contributory Causes of Puerperal Deaths :
+Victoria, 1920-1926.
+Total puerperal deaths .. .. .. 1,113
+With contributory causes .. .. 128 (11-5%)
+Organic heart disease .. 30
+Nephritis, pyelo-nephritis .. 29
+Pneumonia .. .. .. 17
+Salpingitis .. .. .. 11
+Anaemia, asthenia . . .. 14
+Intestinal obstruction .. 9
+Influenza .. .. .. 4
+Appendicitis .. .. . . 4
+Miscellaneous causes .. .. 7
+It will be seen that heart affections, renal disease and
+pneumonia were responsible for 60% of the complications
+in the cases reported with contributory causes. Until
+notification is more complete, much useful information will
+not be obtainable.
+1 Females to one hundred males.
+
+
+Age Groups.
+Causes of Death.
+Under
+20.
+20-25.
+25-30.
+30-35.
+35-40.
+40-49.
+All
+Ages.
+Accidentsof pregnancy;
+Abortion ..
+2
+9
+15
+16
+ii
+2
+55
+Ectopic pregnancy
+1
+—
+14
+12
+15
+8
+49
+Other accidents ..
+2
+11
+7
+7
+4
+3
+34
+Puerperal haemorrhage
+1
+17
+23
+31
+33
+24
+129
+Other accidents of
+labour
+2
+10
+26
+35
+30
+10
+113
+Puerperal sepsis
+25
+91
+133
+118
+85
+33
+485
+Puerperal phlegmasia,
+et cetera
+1
+2
+7
+13
+7
+2
+32
+Puerperal albuminuria
+11
+42
+49
+43
+41
+17
+203
+Following child-birth
+—
+—
+—
+4
+5
+3
+12
+All Causes
+45
+182
+274
+279
+231
+102
+1,113
+Age Groups.
+Under
+All
+20.
+20-25.
+25-30.
+30-35.
+35-40.
+40-49.
+Ages.
+Total number of births
+10,019
+54,111
+75,642
+60,914
+36,863
+13,845
+251,394
+Mortality rate per
+3-62
+4-58
+6-27
+1,000 births
+4-49
+3-36
+7-37
+4-42
+Factors in Puerperal Mortality.
+The risk of death from the specific causes mentioned in
+the preceding paragraphs varies with such circumstances
+as the period of pregnancy, whether it terminated with a
+live or still-born child, whether the labour was normal
+or complicated, whether any operative interference was
+necessary and also with such factors as the age of the
+mother or the interval between birth of the child and
+death of the mother. The quality of the medical and
+nursing services also plays an important part and will be
+dealt with later.
+Abortion.
+It is impossible to estimate accurately the prevalence
+of abortion and miscarriage. There are reasonable grounds
+for suspecting that many cases have been self-induced and
+that the incidence of abortion is on the increase, especially
+in the larger cities. Reference to Table II shows that
+abortion was the cause of death in 4-2% of the puerperal
+mortality during the past ten years. In addition one-third
+of the cases of puerperal sepsis were septic abortions.
+Many of these were undoubtedly the result of intentional
+interference. Deaths following such interference can hardly
+be classified as part of the risk to which all mothers are
+exposed, but in statistical returns they are included with
+abortions from natural causes and cannot be separated.
+Under the separate entry “homicide by other means” are
+noted forty cases of death following criminal abortion;
+all these cases were classified after investigation by a
+coroner. For every woman who dies, many others recover,
+although damaged in health. A later pregnancy exposes
+this large section to increased risks from septic infection.
+The prevalence of induced abortion, especially among
+single women, is a social factor beyond the control of the
+medical profession. The risks both immediate and more
+remote following interruption of pregnancy at an early
+stage have not been appreciated by the general public.
+This mortality which is not decreasing, will prevent any
+marked reduction in the total puerperal death rate.
+Ectopic Pregnancy.
+The incidence of ectopic pregnancy remains constant
+both in urban and rural areas. Exception has been taken
+to the inclusion of such cases in estimating the maternal
+mortality rate. They cannot be prevented in the light
+of our present knowledge and constitute grave surgical
+emergencies. But inspection of the death certificates
+show that many women die, not from the effects of loss
+of blood, but from peritonitis following operation, an
+indication that the surgical technique was not faultless
+in some instances. There is room for improvement in
+this respect, even if it be granted that an emergency
+operation must often be performed in unsuitable
+surroundings.
+Still-Births.
+Western Australia is the only State in the Common-
+wealth in which the notification of still-births is required.
+At present it is impossible to obtain data, such as the
+mode of delivery, age of mother et cetera, to make com-
+parisons with countries where such registration is enforced.
+However, as the maternity allowance is paid only on the
+certificate of a registrar of births and deaths, who must
+also issue a certificate for burial, it is probable that the
+majority are already notified, although without any details
+of causation.
+The still-birth rate based on these returns has remained
+constant for some time and averages 30 per thousand live
+births.
+It is regrettable that the maternity allowance returns
+do not give detailed information along these lines. As
+both the Federal Royal Commission on Health and the
+Conference of Australasian Statisticians in 1926 recom-
+mended the compulsory notification of still-births, it is
+to be hoped that this will be accepted by the various
+States in the immediate future.
+The Age of the Mother.
+The relation between the age of the mother and the
+mortality rate is given in Table IV.
+Table IV. —Detailed Causes of Death by Age Groups :
+Victoria, 1920-1926.
+TABLE IVA.
+It will be observed that the rate for ages under twenty
+is higher than those for the next two groups. This is prob-
+ably due to the larger proportion of illegitimate births
+and also to the number of primiparce among whom opera-
+tive interference is likely to be more frequent. The mor-
+tality, after a fall for the second age group, gradually
+rises with each successive period and at ages beyond thirty
+is well above the average for the whole period. This
+result probably reflects the maternal state of health,
+the high rates below twenty and above thirty-five being
+due to physical immaturity in the former group and to
+lessened physical vitality in the latter. As most women
+over thirty have already borne children, this increased
+mortality emphasizes the need for better ante-natal super-
+
+
+Age Groups.
+Puerperal Sepsis.
+Other Causes.
+Under 20..
+2-49
+2 ■ 00
+20-25
+1 • 68
+1-68
+25-30
+4-76
+1 • 80
+30-35
+1-93
+2-64
+35-40
+2-30
+3-97
+40 and over
+2-39
+4-98
+Interval.
+Causes of Deaths.
+Puerperal
+Sepsis.
+Other
+Causes.
+Total.
+Under 1 day
+2
+331
+333 (33 %)
+1-7 days ..
+131
+176
+307 (30 %)
+1-2 weeks ..
+81
+44
+125 (12 %)
+Over 2 weeks
+159
+102
+261 (25 %)
+Total ..
+373
+653
+1,026
+vision of all multiparw. This is a task which medical
+practitioners find very difficult to carry out owing to the
+indifference of such patients.
+The variation in the component parts of the mortality
+by age groups shows that sepsis is highest in ages under
+twenty, whereas other causes of death, while high in the
+first group, rapidly increase at later ages. There is the
+same general trend of both causes of death by age groups,
+but sepsis rises less steeply.
+Table V. —Incidence of Sepsis and Other Causes of Mortality
+by Age Groups, per Thousand Births.
+Nationality of the Mother.
+In countries like the United States of America, where
+there is a mixed population, the nationality of the mother
+plays a considerable part in the risks attached to child-
+birth. As the population of Victoria is 98% British in
+origin this factor is largely eliminated. Recent returns
+show that 88% of the mothers were born in Australia, 11%
+in Great Britain and other British possessions and only
+1% in foreign countries.
+Interval Betiveen Delivery and Death of the Mother.
+Table VI shows that one-third of the total deaths
+occurred during the first day and approximately two-thirds
+within one week. The interval was longer for deaths
+from puerperal sepsis than for those due to other causes.
+Over one-third of the sepsis deaths occurred after the
+end of the second week, as compared with other causes
+of death, where three-fourths of the mothers died within
+the first week after delivery.
+TABLE VI. —TIME FROM CHILD-BIRTH TO DEATH OF MOTHER.
+Seasonal Variation.
+While there is no definite period during the year when
+puerperal mortality is most marked, on the whole the
+late autumn, winter and early spring months (April to
+October) show an increased incidence of deaths. The
+number of births during this period is also above the
+average.
+Order of Birth.
+During the period 1906-1915 the number of deaths per
+thousand married women of all ages in first confinements
+was 5-57 as compared with an average of 4-04 for other
+confinements. Later statistics are not available. Accord-
+ing to Sir T. A. Coghlan, ex-Statistician of New South
+Wales, the risk attending the first birth is greater than
+at any subsequent one up to but not including the ninth.
+The smallest risk was found in the second confinement,
+although that in the third was not much greater. After
+the third the risk increased rapidly.
+Effects of Illegitimacy.
+The illegitimate birth rate in Victoria averages 4-46%
+of the total births. The increased risks experienced by
+the unmarried mother are well illustrated in Table X.
+Besides the unmarried woman there are many others
+whose children have been born within nine months of
+marriage. In both groups ante-natal supervision is largely
+inadequate and complications are more likely to occur.
+
+
+Percentage of Women
+Attended by Medical Practitioners.
+Year. ,
+Metropolitan
+Rest of State. Victoria.
+Area.
+1911
+%
+73
+% %
+65 68
+1918
+81
+77 79
+1926
+89
+91 90
+„ • ....
+_ J. ...
+Causes of Death.
+Number.
+Percentage.
+Tuberculosis (all forms)
+2,545
+25-85
+Puerperal diseases
+1,104
+11-21
+Diseases of the heart and blood vessels ..
+929
+9-43
+Cancer (all forms)
+713
+7-24
+Bronchitis, pneumonia
+643
+6-53
+Nephritis
+546
+5-54
+6,480
+65-80
+Year.
+Birth
+Rate.
+Death
+Rate.
+Infantile
+Mortality.
+Maternal Mortality.
+Puerperal
+Sepsis.
+Other
+Causes.
+Total.
+1900
+25-81
+12-76
+95-39
+1-88
+3-41
+5-29
+1901
+25-77
+13-22
+102-94
+2-29
+4-19
+6-48
+1902
+25-23
+13-40
+108-60
+2-23
+4-30
+6-53
+1903
+24-53
+12-94
+106-40
+1-79
+4-59
+6-39
+1904
+24-74
+11-97
+77-92
+1-54
+3-79
+5-34
+1905
+24-96
+12-17
+83-30
+1-76
+3-95
+5-71
+1906
+25-41
+12-55
+92-92
+1-65
+3-73
+5-38
+1907
+25-59
+11-86
+72-60
+1-37
+3-79
+5-16
+1908
+25-07
+12-71
+86-05
+1-54
+2-57
+4-11
+1909
+25 01
+11-45
+71-36
+1-14
+3-07
+4-21
+1910
+24-51
+11-49
+76-88
+1-71
+2-99
+4-70
+1911
+25-01
+11-52
+68-70
+1-87
+2-60
+4-47
+1912
+26-36
+12-22
+74-48
+1-70
+2-57
+4-27
+1913
+25-77
+11-09
+70-53
+1-80
+3-12
+4-92
+1914
+25-37
+11-56
+78-27
+1-68
+2-67
+4-36
+1915
+24-45
+11-05
+68-78
+1-14
+2-59
+3-74
+1916
+24-20
+11-66
+74-63
+1-60
+2-19
+3-79
+1917
+23-40
+10-31
+56-82
+1-36
+2-69
+4-05
+1918
+22-19
+10-66
+61-75
+1-36
+2-02
+3-38
+1919
+21-47
+13-15
+67-90
+1-23
+3-00
+4-23
+1920
+23-95
+11-13
+73-70
+1-71
+3-64
+5-35
+1921
+23-16
+10-52
+72-55
+1-63
+2-95
+4-58
+1922
+23-10
+9-65
+53-35
+0-85
+2-50
+3-36
+1923
+22-31
+10-71
+65-70
+1-50
+2-59
+409
+1924
+22-01
+10-05
+61-32
+1-55
+3-32
+4-87
+1925
+21-49
+9-47
+56-98
+1-08
+3-25
+4-34
+1926
+20-84
+9-63
+55-60
+1-81
+3-67
+5-48
+1927
+20-31
+9-71
+56 10
+2-22
+3-36
+5-58
+]
+General
+!
+Infantile I
+Maternal Mortality.
+Period.
+; Death
+Rate.
+Mortality.
+Sepsis.
+Other
+Causes.
+All
+Causes.
+1900-1904
+.. ! 12-86
+98-25 j
+1-94
+4-05
+5-99
+1923-1927
+.. ; 9-91
+5914
+i
+1-63
+3-24
+4-81
+The present position in Australia has been well sum-
+marized by the Commonwealth Statistician in the 1927
+Year Book:
+A comparison of the combined total of ex-nuptial
+first births and nuptial first births occurring less
+than nine months after marriage with the total of
+nuptial children born nine months or more was about
+two to three. At all ages up to and including twenty-
+one, however, there was a great preponderance of
+ex-nuptial births and of births following ante-nuptial
+conception.
+Complications of Pregnancy and Labour.
+The effect of complications of pregnancy and labour
+are dealt with in Part II in connexion with the conditions
+of private practice. It may be stated, however, that there
+is great need for much more detailed information on
+death certificates regarding the incidence of Caesarean
+section, forceps application and other operative procedures.
+The Onus of Responsibility.
+In the past much time has been wasted in attempts to
+apportion between the doctor and the nurse the blame for
+the excessive mortality in child-birth. Since the opera-
+tion of the maternity allowance the returns show that in
+Victoria the percentage of cases attended by a doctor has
+steadily risen.
+Table VII.— Medical Attention at Confinements.
+The year 1911 has been chosen to represent the pro-
+portion of cases attended by a doctor prior to the com-
+mencement of the maternity bonus in 1912. It will be
+noted that in recent years the rest of the State has a higher
+percentage of women attended by a doctor than the
+metropolitan area.
+An investigation of the birth certificates for 1926 of
+the metropolitan municipalities shows that in the resi-
+dential suburbs the proportion receiving medical atten-
+tion is over 90%, whereas in the industrial suburbs lower
+percentages (58% to 88%) prevail, especially in Richmond,
+Collingwood, Fitzroy and Port Melbourne. This matter is
+further discussed when dealing with the conditions of
+private practice.
+No statistics are available to enable a comparison to
+be made between the results of cases attended by doctors
+and nurses separately.
+Very few women in the State have had neither a doctor
+nor a nurse present at their confinements.
+The Present Incidence of Puerperal Mortality in
+Victoria.
+During 1927 there were 35,074 births and 196 maternal
+deaths from puerperal causes. The maternal mortality
+rate per thousand live births was 5-58. Looked at from
+another angle every 175 confinements accounted for the
+death of one mother. These figures are slightly better
+than the average for the whole Commonwealth.
+The relative importance of the puerperal group of
+diseases in causing mortality among women between the
+ages of fifteen and forty-five is seen in Table VIII.
+Maternal Mortality and the General Death Rate.
+The relative position of maternal mortality to the
+general death rate and infant mortality in Victoria during
+the present century is summarized in Table IX.
+TABLE VIII.—DEATHS OF ALL FEMALES FROM FIFTEEN TO FORTY-FIVE:
+VICTORIA, 1920-1926—TOTAL DEATHS, 9,843.
+Dame Janet Campbell stated that in Great Britain,
+while the general death rate had been reduced by one-third
+and the infant mortality halved since the beginning of
+the century, the maternal mortality had been but little
+affected.
+The position in Victoria is as follows:
+This represents a decrease of 21% in the general death
+rate and 40% in infantile mortality as compared with one
+of 19% for all puerperal causes. Of the latter, sepsis
+decreased by 16%, while the rate for other causes was
+reduced by 20%.
+Table IX.
+Table IXa.
+The Trend of Maternal Mortality in Victoria.
+Inspection of the graph shows a general improvement
+despite numerous peak periods. Three definite waves can
+be noted, namely, 1870-1889, 1890-1908, 1909-1927. The
+average annual rates for these periods were 62-22, 55-30
+and 44-14 per 10,000 live births and show a decrease of
+29% in the last period as compared with the first.
+
+
+Births.
+Puerperal Septicaemia.
+Other Puerperal Causes.
+Total Puerperal Causes.
+Area.
+Period.
+Married.
+Single.
+Married.
+Single.
+Married.
+Single.
+Legitimate.
+Illegitimate.
+No.
+Rate.
+No.
+Rate.
+No.
+Rate.
+No.
+Rate.
+No.
+Rate.
+No.
+Rate.
+Melbourne and Suburbs
+f 1918-1922
+83,042
+6,780
+192
+2-31
+22
+3-24
+186
+2-24
+17
+2-51
+378
+4-55
+39
+5-75
+1 1923-1927
+87,908
+5,632
+211
+2-42
+27
+4-88
+215 :
+2-44
+27
+4-88
+426
+4-86
+54
+9-76
+Rest of State ..
+C 1918-1922
+79,396
+2,099
+97
+1-22
+7
+3-33
+193
+2-43
+6
+2-86
+290
+3-65
+13
+619
+1 1923-1927
+82,538
+2,395
+123
+1-49
+5
+209
+21B
+2-58
+9
+3-76
+336
+4-07
+14
+5 ■ 85
+Victoria..
+J' 1918-1922
+162,438
+8,879
+289
+1-78
+29
+3-26
+379 |
+2-33
+23
+2’59
+668
+411
+52
+5-85
+L 1923-1927
+170,446
+7,927
+334
+1-96
+32
+403
+428
+2-51
+36
+4'54
+762
+4-47
+68
+8-57
+If the average be taken over consecutive decennial
+periods, the decrease is shown to be progressive except
+during the past eight years:
+1870-1879: 63-81 per 10,000 live births.
+1880-1889: 59-27 per 10,000 live births.
+1890-1899: 54-53 per 10,000 live births.
+1900-1909: 54-54 per 10,000 live births.
+1910-1919: 42-04 per 10,000 live births.
+1920-1927: 47-11 per 10,000 live births.
+The wide variations of the annual figures are probably
+due in part to the relatively small number of deaths and
+a truer appreciation of the general tendency towards
+increase or decrease can be obtained by the use of a
+moving average rate for five yearly periods as is employed
+in the graph.
+Analysis of the Period 1908-1927
+The highest rates during the period 1908-1927 occurred
+in 1910, 1913, 1920, 1924, 1926 and 1927. The rate for
+the latter year was the highest recorded since 1905.
+In 1910 and 1913 there was no associated increase in
+the general death rate nor were there any significant
+epidemics. On the contrary the rates for most diseases
+were well below the average.
+The abnormal rise in 1920 may possibly be related to the
+influenza epidemic of 1919. This coincided with an increase
+in the sepsis rate and in mortality from other causes
+in the latter year. It might be argued that pregnant
+women who were affected in the later waves of the epi-
+demic, more readily became victims to septic infections
+and other complications during the following year.
+In 1923 a milder outbreak of influenza occurred, but
+this had probably little to do with the high rate for the
+next year. No marked increase in other diseases occurred
+during this period.
+Likewise in 1926 and 1927 no extraneous cause of the
+increased rate could be noted. In the opinion of the
+Victorian Statistician the high rate was partly due to
+better certification of puerperal causes of death following
+on the present investigation.
+Similar peak periods have been noted in all the other
+States. They have not been coincident and are due in
+part to the relatively small number of deaths in individual
+States.
+The Incidence of Mortality Within the State.
+An attempt has been made to discover whether all
+parts of the State are equally responsible for the mor-
+tality rate. Experience in other countries varies con-
+siderably. Before making any comparisons a short
+description of the physical features and distribution of the
+population of Victoria will be useful.
+Victoria is approximately the size of England and
+Scotland and is the second smallest State in the Common-
+wealth, although it is exceeded only by New South Wales
+as regards population. The population in 1927 was
+1,727,325, equivalent to 19-65 persons to the square mile.
+Although this is the most densely populated State, it
+compares in a striking fashion with the figure for Great
+Britain, namely 478. The nearest European equivalent is
+Norway. The capital, Melbourne, contains 55% of the
+total population. The principal country towns are twelve
+in number; three have populations around 40,000; the
+others vary from 5,000 to 8,000 and account for 11% of
+the inhabitants of the State. The remainder of the State
+with 34% of the population is mainly rural. The means
+of communication are better and the distance of any
+isolated area from a medical practitioner and hospital
+accommodation is far less than in the larger States.
+In England and Wales the rates are high in very sparsely
+populated rural areas and in industrial and mining dis-
+tricts. Wales, in which such a distribution of the popula-
+tion is well marked, has always shown a higher rate than
+England. London has a lower rate, especially for sepsis,
+than the average for the whole country.
+Rural areas in Scotland show a slightly higher rate than
+urban.
+The same applies to New Zealand and is particularly
+noticeable with regard to haemorrhage, albuminuria and
+accidents of labour and to a less degree with sepsis.
+The New York figures record a higher rate for all
+cases for the State as compared with New York City.
+The sepsis rate is stationary in both areas, but other
+causes of maternal mortality have increased in the State.
+If the total figures for the United States be examined the
+mortality is found to be higher in the cities than the
+rural areas. The highest mortality was obtained not in
+the largest centres, but in cities with populations of 25,000
+to 50,000.
+E. S. Morris has shown that in New South Wales the
+rates for Sydney are uniformly higher than those for
+country towns as well as rural and industrial areas.
+Comparison of Melbourne, Rest of State and Victoria.
+Table X shows that among married women in Melbourne
+and suburbs the rates for septicaemia for both periods are
+greater than those of the rest of the State and Victoria.
+During 1923-1927 an increase was noted in all areas as
+compared with the first period. The mortality from other
+causes shows a greater increase in the second period than
+is noted in the other areas. The rate for all causes has
+increased by 6% and is in marked excess of the figures
+for both Victoria and the rest of the State.
+In the rest of the State the sepsis rate for married
+women is lower than both the other groups, while other
+causes of mortality are well above the figures of these
+areas.
+The combined figures for the State show an increase
+from sepsis and other causes.
+The table also shows the lamentable position of the
+single girl, especially in Melbourne where the combined
+rate is twice as great as that for married women. The
+mortality in the rest of the State shows a reduction in
+TABLE X.—DEATHS FROM PUERPERAL DISEASES IN MELBOURNE, BEST OF STATE, AND TOTAL STATE, OF MARRIED AND SINGLE WOMEN
+PER THOUSAND BIRTHS FOR PERIODS 1918-1922, 1923-1927.
+
+
+Period.
+Area.
+Puerperal
+Sepsis.
+Other
+Causes.
+Total
+Causes.
+1918 r
+Melbourne and Suburbs
+2-38
+2-26
+4-64
+to ■<
+Principal Country Towns ..
+1-25
+3-01
+4-26
+1922
+Rest of State
+1-28
+2-24
+3-52
+I
+Victoria
+1-86
+2-34
+4-20
+1923 f
+Melbourne and Suburbs
+2-54
+2-59
+5 13
+to 4
+Principal Country Towns ..
+1-70
+3 04
+4-74
+1927 I
+Rest of State
+1-43
+2-89
+4-32
+L
+Victoria
+2-05
+2-60
+4-65
+1918 f
+Melbourne and Suburbs
+2-46
+2-42
+4'88
+to -i
+Principal Country Towns ..
+1-48
+3-02
+4-50
+1927
+Rest of State
+1-36
+2-56
+3-92
+I
+Victoria
+1-95
+2-47
+4-42
+Cause
+of Death.
+Victoria.
+Melbourne.
+Country
+Towns.
+Rest
+of State.
+Puerperal sepsis ..
+100
+126
+76
+70
+Other causes
+100
+98
+122
+104
+Total causes
+100
+110
+102
+89
+Country. j
+Year
+Puerperal
+Sepsis.
+Other
+Causes.
+Total.
+Sweden .. .. ..
+1922
+1-06
+1-43
+2-49
+Japan..
+1926
+O'97
+1-75
+2-72
+Italy .. .. .. ..
+1925
+0-99
+1-73
+2-72
+Holland
+1926
+0-90
+1-93
+2-83
+Norway .. .. ..
+1924
+0-62
+2-32
+2-94
+England, Wales .. ..
+1926
+1-60
+2-52
+4-12
+New Zealand . . . .
+1926
+1-37
+2-88
+4-25
+South Australia .. ..
+1927
+1-48
+3-31
+4-79
+Irish Free State . . ..
+1926
+1-88
+301
+4-89
+Germany
+1925
+2-59
+2-38
+4-97
+Belgium .. .. .. ;
+1925
+2-83
+2-18
+5 01
+Tasmania .. .. .. '
+1927
+2-07
+3-52
+5-59
+Victoria :
+1927
+2-22
+3'37
+5-59
+Queensland .. .. ..
+1927
+1-26
+4-34
+5-60
+Northern Ireland ..
+1926
+1-74
+3-87
+5-61
+South Africa (Whites)
+1925
+1-82
+3-80
+5-62
+Canada .. .. .. ,
+1926
+1-86
+3-80
+5-66
+West Australia .. . .
+1927
+212
+3-77
+5-89
+Commonwealth .. ..
+1927
+215
+&-78
+5-93
+Scotland .. .. ..
+1926
+1-69
+4-71
+6-40
+United States of America..
+1925
+2-40
+4-00
+6-40
+New South Wales .. ..
+1927
+2-58
+3-98
+6-56
+Greece .. . . ..
+1922
+3-57
+3-64
+7-21
+TABLE XI.—COMPARISON OP VARIOUS AREAS IN VICTORIA:
+MORTALITY RATE PER THOUSAND LIVE BIRTHS.
+the second period due to a diminution in the sepsis rate.
+This high rate for unmarried mothers is largely due to
+an increase in the number of septic abortions.
+Comparison of Melbourne, Country Towns, Rural Areas,
+Victoria.
+The principal country towns included are those
+mentioned in the Victorian Year Book, namely: Ballarat,
+Bendigo, Geelong, Carrum, Castlemaine, Hamilton, Mary-
+borough, Mildura, Mordialloc, Stawell, Warrnambool,
+Wonthaggi.
+The comparative trend of these figures is more clearly
+illustrated in the following table.
+Table XII. —Comparative Trend op Puerperal Mortality
+prom 1918 to 1927.
+It will be noted that the incidence of sepsis is highest
+for Melbourne for all periods under review. The rural
+rate is approximately half that of Melbourne, while the
+country towns show a rate equal to three-fifths of the
+metropolitan average.
+The highest rate for other causes of mortality over the
+whole period is obtained in the principal country towns.
+Except for 1918-1922 the figures for Melbourne are the
+lowest in the State. The rural areas occupy a position
+midway between those already mentioned. Table X showed
+that the high rate in the rest of the State was largely
+due to the mortality from other causes among unmarried
+women.
+Conclusions.
+1. Melbourne and suburbs show the highest rate for
+sepsis and, except in 1918-1922, the lowest rate for other
+causes of mortality in the State. Owing to the excessive
+sepsis rate the total mortality greatly exceeds the figures
+for the other divisions of the State. The industrial area,
+comprising Melbourne and six of the larger country towns,
+has a rate equal to that of Melbourne.
+2. The principal country towns show a fairly low rate
+for sepsis, but are handicapped by the highest rate for
+other causes. The total figure is above the State average.
+3. The rate for the rural areas is the lowest in the State.
+As is the case with the other divisions, there is a tendency
+for all causes of mortality progressively to increase.
+International Comparison of Mortality Rates.
+An international comparison of mortality rates is
+difficult because of variation in the methods employed in
+the compilation of statistics. In some countries the rate is
+calculated as a percentage of live births, while in others
+still-births are included. In a third group not only still-
+births in the ordinary sense of the word, but also all
+infants who do not survive beyond a certain number of
+days and whose births were not registered before death,
+are excluded. The completeness of registration of births
+and deaths also varies. In this respect the Australian
+standards have been maintained at a high level for many
+years. Finally all countries have not adopted the Inter-
+national List of Causes of Death. Statistics may be
+calculated on a basis which excludes deaths not classed
+as due to pregnancy and child-bearing, but returned as
+associated therewith. If these cases be added, as is done
+in the Commonwealth, the rate is appreciably increased.
+Table XIII. —International Mortality Rates per Thousand Births.
+It has already been mentioned that reliance on statistics
+alone tends to give an erroneous conception of the true
+incidence of maternal mortality in the individual Aus-
+tralian States because of the relatively small number of
+deaths in each case. For this reason New South Wales,
+Victoria and Queensland alone can be reasonably com-
+pared with other countries. A comparatively trivial
+decrease in so small a total number of deaths would
+place these States in a much more favourable position.
+This emphasizes the fact that the slightest lowering of
+the standards necessary for safe delivery of mother and
+child is more heavily penalized in the statistical results
+of Australia than in those of other more densely populated
+areas.
+Such international comparisons are, therefore, rather
+misleading and in any case have little practical bearing
+on the problems facing Victoria. The State cannot afford
+the economic and domestic loss caused by the annual
+deaths of nearly two hundred mothers from causes asso-
+ciated with child-birth. The population is augmented by
+the natural increase due to the excess of births over deaths
+and also by immigration. During the past twenty-five
+years natural increase represents 88% and immigration
+12% of the population. Owing to the low birth rates
+of most countries we cannot look forward indefinitely
+to a sufficient quota from Great Britain to fill our vacant
+spaces. Therefore, it is essential that the rearing of
+children be made safer not only for the mothers, but also
+for the infants themselves. Our attitude must be one
+of profound dissatisfaction with the present losses and
+with the standards which have been deemed sufficient
+heretofore.
+Morbidity.
+The actual number of maternal deaths forms only a
+small though important part of the problem of the total
+amount of damage and disability associated with parturi-
+tion. In the strictest sense this term is used to describe
+
+
+Infantile Death Rate.
+Period.
+Under
+One Month.
+Over One and
+Under
+Twelve Months.
+Total Under
+One Year.
+1881-1890 ..
+37-2
+89-4
+126-0
+1891-1900 ..
+33-8
+77-9
+111-7
+1901-1904 ..
+34-3
+63-7
+98-0
+1905-1909 ..
+32-9
+48-0
+80-9
+1910-1914 ..
+32-6
+41-2
+73-8
+1915-1919 ..
+33-4
+32-7
+66 1
+1920-1924 ..
+33-0
+32-3
+65-3
+1925
+30-9
+26-1
+57-0
+1926
+29-7
+25-9
+55-6
+1927
+31-3
+24-8
+56-1
+_ _ .
+- - — --
+Infantile Mortality.
+Maternal
+Period.
+One
+Total
+One
+Total
+Mortality
+Under
+to
+Under
+to
+Under
+Rate.
+One
+Four
+One
+Twelve
+One
+Week, j
+i
+Weeks.
+Month.
+Months.
+Year.
+1910-1914
+21-5
+11-1
+! 32-6
+41-2
+73-8
+4-54
+1915-1919
+23-3
+101
+, 33-4
+32-7
+66-1
+3-84
+1920-1924
+23-7 -
+9-3
+1 330
+32-3
+65-3
+4-23
+1925
+23-1
+7-8
+30-9
+261
+57-0
+4-34
+1926
+22-6 :
+7-1
+29-7
+25-9
+55-6
+5-48
+1927
+22-6
+8-7
+31-3
+24-8
+56*1
+5 • 58
+Ago.
+! Number of Deaths.
+Under one week
+. . 1 4,100
+One to four weeks..
+. . i 1,497
+Under one month ..
+. . 5,597
+One to three months
+. . ! 2,010
+Three to six months
+1,347
+Six to twelve montiis
+1,562
+Under one year
+... 10,510
+-- - _ . .
+. ' .
+Causes of Death.
+Number
+of
+Deaths.
+i Percentage
+of
+Deaths.
+Premature birth ..
+1,215
+50
+Injury at birth
+303
+13
+Congenital debility
+290
+12
+Diseases of early infancy
+248
+10
+Congenital malformations
+219
+9
+Convulsions..
+38
+2
+Bronchitis, pneumonia
+29
+1
+Other causes
+81
+3
+All Causes
+2,423
+those who experience an abnormal convalescence after
+delivery. It is a valuable indication of the standards of
+work of a medical practitioner or a hospital. If the per-
+centage of morbidity ranges from five to eight, it may be
+considered satisfactory, but rates, say, of twenty would
+mean that the methods employed needed rigid inspection
+and improvement. Further comments on this important
+subject are made in Part II in which puerperal sepsis is
+discussed.
+In the wider sense the term covers all those women who
+have survived child-birth, but who have been more or less
+damaged in health. No exact estimate can be made of the
+number so affected. Many women accept illness after child-
+birth as a matter of course. Some attend their doctor
+for treatment and a large proportion of the work of the
+gynaecological department of all general hospitals is con-
+cerned with the treatment of disabilities directly attribut-
+able to child-birth. The records of the Women’s Hospital
+show that 36% of all the admissions to the gynaecological
+department were due to the effects of a previous con-
+finement. Such estimates necessarily omit the larger
+group who for various reasons do not or cannot seek
+surgical relief for their troubles. Therefore it would not
+be understating the facts to say that 50% of all mothers
+suffer from some weakening of bodily function following
+on child-birth. This general statement emphasizes the
+need not only for the better conduct of labour, but also
+for a wider realization of the value of post-natal examina-
+tion of all cases. The importance of this after-care in the
+prevention of chronic invalidism has not so far been
+sufficiently appreciated by the general public.
+The Association of Maternal and Infant Mortality.
+It has been obvious to infant welfare workers for some
+time that all attempts to obtain a marked reduction in
+the mortality 'under one year have been largely frustrated
+by the persistent refusal of the age group under one month
+to react to the measures found successful at later periods.
+Table XIV. —Infantile Moktality Under One Year
+per Thousand Births.
+Both the table and the graph show that the mortality
+under one month has remained practically stationary over
+a considerable period. Since 1915-1919 the rate between
+one and twelve months has become less than that of the
+group under one month.
+Infantile Mortality under One Month.
+Inspection of Table XV shows clearly that the greatest
+number of deaths under one month occurs during the
+first week. The relationship between these figures and
+the maternal mortality rate is also shown.
+Infant Mortality under One Week.
+Table XVI shows that 54% of the total mortality under
+one year occurs before the end of the first month. Three-
+quarters of this mortality is caused by deaths within
+the first week of life.
+The detailed causes of death under one week for the
+past three years in Victoria are as follows:
+TABLE XV.-INFANTILE MORTALITY BY AGE GROUPS PER THOUSAND BIRTHS.
+TABEL XVI. —INFANTILE MORTALITY UNDER ONE WEEK :
+VICTORIA, 1922-1926.
+TABLE XVII. —CAUSES OF DEATH UNDER ONE WEEK :
+VICTORIA, 1925-1927.
+It will be noted that practically all the causes of early
+infant mortality are directly related to conditions associ-
+ated with pregnancy and labour. Autopsy results tend
+to alter the position of some of these factors. Prematurity
+is displaced from first place, while the toxaemias rise in
+the scale. The importance of syphilis was not noted in
+the post mortem records of the Women’s Hospital as fre-
+quently as was expected. The one factor occupying a high
+place was that of the complications of labour and birth
+trauma. Intracranial injuries were observed in 80% of the
+infantile deaths following breech delivery, in 68% of
+forceps applications and also in 36% of the normal
+deliveries (premature and macerated infants were excluded
+from the series).
+Still-births and neo-natal deaths are, therefore, influenced
+more by the complications of labour and the methods of
+delivery than by the results of ill-health of the mother
+during pregnancy. While in our present state of know-
+ledge we cannot prevent every case of eclampsia or of the
+other toxaemias, nor do we know much about the causation
+of congenital debility and malformations, yet efficient
+ante-natal care will reduce the number of premature
+infants and so improve the still-birth and neo-natal rates.
+The paramount importance of birth injuries makes it
+imperative to learn how to limit the occasions for inter-
+ference with natural birth. As has been already noted
+the compulsory notification of still-births will afford useful
+information which is largely lacking at present in the
+State records.
+An investigation was also made to ascertain whether
+any particular part of the State showed a higher mortality
+
+
+Mortality Bate.
+Cause of Death.
+Melbourne.
+Best
+of
+State.
+Victoria.
+Prematurity
+1616
+13-39
+11-76
+Injury at birth and diseases of
+early infancy
+5 • 86
+5 • 15
+5 ■ 51
+Congenital debility
+4-01
+4 • 58
+4-29
+Congenital malformations
+2-97
+2 ■ 5;>
+2 • 76
+Bronchitis ..
+1-14
+0 ■ 70
+0-92
+Convulsions
+O'69
+0 • 90
+0 • 80
+Diarrhoea ..
+0-45
+0 • 59
+0-52
+Other causes
+1-82
+1-33
+1 ■ 58
+All Causes
+33 ■ 10
+29-19
+31-14
+1
+than other areas. The results prove that Melbourne has a
+higher rate than either the rest of the State or Victoria
+as a whole. This was most noticeable in regard to pre-
+maturity, birth injuries and congenital malformations.
+Deaths from prematurity were more prevalent in the
+industrial suburbs than in the residential areas, while
+the reverse was observed as regards birth injuries.
+TABLE XVIII— INFANT MORTALITY UNDER ONE MONTH:
+VARIOUS AREAS, VICTORIA, 1922-1926, PER THOUSAND BIRTHS.
+Summary of Statistical Investigation.
+1. Under existing conditions there is a sacrifice of one
+mother in every 175 confinements. Although slight im-
+provement has been noted during the past twenty-five years,
+the rate has recently begun to rise and the figure for 1927
+is the highest recorded since 1905. In addition to the
+actual number of deaths, there is a very large amount of
+chronic invalidism which cannot be exactly estimated.
+2. The mortality is greatest in the metropolitan area,
+followed in order by the principal country towns and the
+rural part of the State. Sepsis is excessive in Melbourne,
+whilst other causes of mortality are most marked in the
+country towns. The total rate shows a tendericy to increase
+in all divisions of the State.
+3. Puerperal infection is the most important single cause
+of death and is responsible for over two-fifths of the
+total mortality. The prevalence of abortion and the high
+death rate of unmarried mothers represent factors of
+considerable importance.
+4. Nine-tenths of deliveries had medical supervision and
+the proportion was higher in the country than in Mel-
+bourne. It does not follow from this that all pregnant
+women have been under adequate supervision throughout
+pregnancy and labour. Many women have only sent for
+medical aid because of complications or owing to distances
+have only seen a doctor at the commencement of labour.
+5. The problem of maternal mortality is closely associ-
+ated with that of still-births and early infantile deaths.
+The neo-natal mortality is mainly due to complications
+of labour and intra-cranial birth injuries as well as to
+diseases caused by maternal ill-health during pregnancy.
+As is the case with maternal mortality, the highest neo-
+natal death rate is found in Melbourne rather than in
+the rest of the State.
+Part 11.
+Administrative Control of Health in Victoria.
+There is no central authority controlling the health
+affairs of the State. Two departments are responsible,
+namely the Minister of Health and the Treasurer.
+As far* as obstetrics is concerned the Minister of Health,
+through the Health Department, administers the Health
+Act, Midwives Act, and the Nurses’ Registration Act.
+The Treasurer, by means of the Charities Board, controls
+all public hospitals and allied organizations such as nursing
+societies, refuges and benevolent homes. A commission of
+public health comprising the Chief Health Officer as Chair-
+man and six representatives of the medical profession and
+municipal councils administers the Health Act. Resolu-
+tions of the Commission are carried out as far as possible
+by the Health Department, although the former has no
+control over the officers of the Department and cannot
+expend any funds.
+The Midwives Act is administered by the Health Depart-
+ment and not by the Commission. Inspection and
+registration of private hospitals are controlled by the
+Commission and not as formerly by the local municipalities.
+Public Hospitals.
+The proper distribution of public hospitals throughout
+the State is undertaken by the Charities Board. This
+is an elective and honorary board dealing with the whole
+field of public hospital administration as well as asso-
+ciated philanthropic organizations. The Secretary of the
+Board is also Inspector of Charities and forms the connect-
+ing link between the Board and the Treasurer. He deals
+with details of maintenance, equipment and general service
+and in effect determines whether a proposed hospital is
+an efficient working unit for the convenience of patients,
+medical officers and nurses. Hospitals are approved at
+selected points in order to prevent overlapping and duplica-
+tion of services. Maternity wards have been added *to
+public hospitals at Ballarat, Hamilton, Horsham, Mary-
+borough, Dunolly, Daylesford and M-ldon, while in Geelong
+the ward is not yet opened, intensions are projected
+in the future at many other existing centres.
+Private Hospitals.
+Private hospitals are controlled by the Minister of
+Health through the Health Department. If the hospital
+
+
+desires to be registered as an obstetric training school
+it is supervised by the Midwives Board as regards the
+training regulations. This Board, although under the
+Minister of Health, is separate from the Commission of
+Health.
+Other Organizations.
+Refuges and district nursing associations are solely
+under the control of the Charities Board.
+The Bush Nursing Association, being a private organi-
+zation, is under Government supervision only for the
+approval of building plans of the bush hospitals.
+Infant welfare associations are conducted by two
+societies. A Director of Infant Welfare, responsible to the
+Minister of Health, controls the work throughout the State.
+It will be readily seen that this unsatisfactory division
+of authority between two departments does not conduce to
+efficiency. There are too many loopholes for evasion of
+responsibility or the shelving of important matters. All
+health activities in the State should be under one Minister
+with a central advisory authority to control the adequate
+distribution of hospitals and allied nursing and philan-
+thropic organizations throughout the State.
+Hospital Accommodation in Victoria.
+As approximately two-thirds of all confinements occur
+either in public or private hospitals, the standards
+attained by both classes are of the highest importance.
+Public Hospitals in Melbourne and Suburbs.
+The Women’s Hospital contains 132 beds and in 1927
+the number of deliveries was 2,915, a greater number
+than any other Australian maternity hospital. Attached
+to the hospital is a large ante-natal department from
+which patients requiring hospital treatment are admitted
+to the pre-maternity wards. During the past two years
+the efficiency of the hospital as the premier training-
+school of Victoria has been increased by the addition
+of a theatre for clinical instruction and the performance
+of major obstetrical operations. An after-care department
+insures early correction of any troubles arising from
+parturition. In order to cope with increasing demands
+for laboratory investigation, an assistant to the pathologist
+and a bio-chemist have been added to the staff. Adequate
+laboratory accommodation is, however, lacking and until
+this is remedied there will be no room for the bacteriologist
+necessary to complete the team of scientific workers.
+The Queen Victoria Hospital is staffed by women doctors
+and admits only women and children. There is no instruc-
+tion of students, but nurses receive an excellent obstetric
+training. The present obstetric block contains nineteen
+beds and is too small. A new wing to accommodate ninety
+patients is near completion and will afford better scope
+for the staff. It will then be necessary to consider the
+question of training students. Regular ante-natal attend-
+ance is required of all patients and the value of this is
+seen in the hospital records. Attached to the hospital
+is a venereal diseases department which is doing very
+valuable work.
+The Alfred Hospital has no indoor accommodation at
+present, but there is a rapidly growing ante-natal clinic.
+A complete maternity service should be possible in the
+near future.
+Private Hospitals in Melbourne and Suburbs.
+In the metropolitan area 173 private hospitals have been
+inspected and graded as follows:
+■ Taking obstetric cases only 113
+General hospitals with separate accommoda-
+tion for obstetric cases 4
+General hospitals with no separate accom-
+modation 56
+Conducted by trained nurses 120
+Conducted by practice nurses 53
+Satisfactory according to present standards
+only 11l
+Poor or bad 62
+There was no provision for a labour ward in 56 hos-
+pitals, the operating theatre was used in 32, while a labour
+ward of varying quality was noted in 85.
+It is a matter for regret to note that the regulations
+apply almost exclusively to matters of building and sani-
+tation. There is no authority under the Health Act to
+compel proprietors of private hospitals to conform to a
+reasonable standard of equipment or efficiency.
+The following outstanding defects have been noted:
+1. Many hospitals are poorly furnished and lack proper
+means of sterilizing dressings et cetera. Only 40% could
+be considered to possess a fairly satisfactory system of
+sterilization.
+2. Patients with surgical and medical affections are
+frequently mixed with obstetric patients and the pre-
+cautions taken to avoid infection are not adequate.
+Separate accommodation for obstetric patients was noted
+in only four out of 60 mixed hospitals. This type of
+hospital should be abolished as soon as possible.
+3. Isolation accommodation for suspicious or definitely
+septic cases was absent in practically every hospital. This
+should be provided in all hospitals with more than one
+bed in a room.
+4. In many instances the hospitals were under-staffed
+and no provision was made for a nurse on night duty.
+The worst type of hospital was kept by nurses who
+visited outside patients as well. Patients were left for
+considerable periods without any skilled attention. These
+nurses should be compelled in the event of temporary
+absence from the hospital to leave a trained substitute
+in charge.
+5. Few hospitals had a good nursery, about 5%. Infants
+frequently slept with their mothers or were kept in the
+staff dining-room or kitchen. Artificial feeding was pre-
+valent and apparently resorted to in order to save trouble
+or keep the infants quiet.
+6. Many of the smaller hospitals did not keep good
+records and some of the practice nurses were unable to
+record temperatures. The use of a standard book qf charts
+should be insisted upon. Such books might be made
+available at cost price by the Midwives Board. Their
+use by private nurses should also be made compulsory.
+The contrast between the intermediate type of hos-
+pital, St. George’s and Bethesda, and the average nursing
+home strongly emphasizes the need for modern maternity
+units in selected areas to replace the present unsatis-
+factory private hospitals.
+Country Obstetric Hospitals.
+In all 262 hospitals have been visited and classified
+Satisfactory 181
+Poor or bad 81
+Conducted by trained nurses 181
+Conducted by practice nurses 81
+Provision of labour ward or operating theatre 154
+No separate provision 108
+In the larger country centres conditions were found
+similar to those in the metropolitan area. Some of the
+best private hospitals in the State were established in
+the smaller towns. The gradual extension of maternity
+wards attached to the public hospitals as well as the
+increasing number of bush nursing hospitals is having
+a marked influence on country standards.
+The inspection of private hospitals by the Health
+Department has aroused much hostile criticism. There is
+an apparent discrimination between the hospitals con-
+ducted by trained and untrained nurses. Whilst the former
+are frequently inspected and made to conform with the
+regulations, undoubtedly many smaller homes are allowed
+to continue without obvious defects being remedied. The
+concentration of some inspectors on trivial details has also
+been the source of much irritation. These criticisms apply
+mainly to Melbourne. In the country the district health
+officers have recognized that some latitude is occasionally
+necessary and by such cooperation and commonsense in the
+interpretation of regulations have managed to retain the
+
+
+Classification.
+Number.
+Hospitals inspected..
+435
+Conducted by double certificated nurse
+229
+Conducted by obstetric trained nurse ..
+72
+Conducted by practice nurse
+134
+Hospitals taking obstetric cases only ..
+228
+General hospitals with separate provision obstetric cases ..
+40
+General hospitals without separate provision obstetric cases ..
+167
+Hospitals with separate delivery room
+178
+Hospitals using operating theatre
+93
+Hospitals with no special facilities
+164
+Hospitals with adequate sterilizing plant
+154
+Hospitals with separate accommodation for infants ..
+20
+Good ..
+70 '
+Fair ..
+242 •
+Poor ..
+123
+....
+_
+confidence of both doctors and nurses. Inspection of hos-
+pitals should be frequent and strict and all should be
+made to conform to a high standard.
+A summary of the conditions found after an inspection
+of 435 obstetric hospitals throughout the State is given
+in Table XIX. It should be recorded that every facility
+has been afforded for this survey both by the Health
+Department and by those in charge of hospitals. Questions
+were freely answered and in return constructive criticism
+invited.
+Table XIX. —Classification : Obstetric Hospitals, Victoria.
+Nursing Associations, Welfare Societies and Allied
+Organizations.
+Melbourne District Nursing Association.
+The district nurses are doing valuable work in the
+industrial suburbs. They work in conjunction with the
+local doctors or, if no doctor be engaged, with students
+from the Women’s Hospital and trainees from the Queen
+Victoria Hospital. All complications are immediately
+reported to the Women’s Hospital or seen by a local
+doctor. During the past three years the nurses have
+delivered approximately 1,500 women without a maternal
+death. All medical practitioners who have worked with
+them, are well satisfied with their assistance.
+An after-care home has been opened to accommodate
+semi-convalescent patients from the public hospitals and
+also invalids requiring more attention than they can
+receive at home. As maternity patients have frequently
+to be discharged sooner from hospital than is desirable
+because of lack of beds, this home has proved of great
+value to the Women’s Hospital. The extra rest so afforded
+makes all the difference, not only to the health of the
+mothers, but also to the prospects of successfully feeding
+their infants. Extension of this scheme to other industrial
+suburbs would be most beneficial.
+Refuges.
+The majority of the refuges do not act as obstetric
+hospitals, but care for the inmates before and after
+confinement. In the case of Ballarat, where highly efficient
+obstetric service can be obtained at the public hospital, it
+is most undesirable that the refuge should continue so
+to act. The Salvation Army Home at Fitzroy is a credit
+to the efforts of the matron and her staff.
+Bush Nursing Association.
+The work of the Bush Nursing Association has a very
+definite bearing on maternal mortality in country dis-
+tricts. The nurses must possess a general and an obstetric
+certificate and in addition every encouragement is given
+to qualify for the mothercraft diploma.
+Three stages exist in the organization. First, the centre
+where the nurse boards with a family and attends to
+patients wherever wanted. In addition, medical inspection
+of school children and instruction in hygiene are given
+at the schools. The next stage is the erection of a small
+cottage for the nurse. There may be a ward attached
+to this to accommodate one or two patients. Finally with
+the construction of a properly equipped hospital, the centre
+becomes capable of attending to most patients without
+necessitating their removal from the precincts of their
+homes. With this class of centre the nurse does not
+attend outdoor patients. There are at present sixty centres
+and seventy-two nurses engaged in the work. At seventeen
+centres there is no special accommodation for the nurse,
+in twenty-eight a cottage is provided and fifteen bush hos-
+pitals have been established at more important localities.
+All practitioners in the district are entitled to look after
+their patients in the hospitals. The nurses are selected
+women with special qualifications and in every area visited
+the medical men were enthusiastic in their appreciation
+of the help afforded by them. Ante-natal supervision is
+carried out in a thorough manner and all abnormal cases
+referred to the nearest doctor. From 1922 to 1927 there
+were 2,273 confinements without a single maternal death.
+This fine record has since been maintained. The still-birth
+and neo-natal deaths were also considerably below the
+State averages. These splendid results are due to the
+mutual cooperation of doctors and well trained nurses, the
+insistence on continuous ante-natal care and the removal
+of all complicated cases at the earliest possible moment
+to properly equipped hospitals, if necessary, in larger
+towns where more skilled help is available.
+Ambulance Services.
+It has been estimated that the requirements for transport
+in the country would be met by the establishment of
+thirty-one ambulance centres. This work has been steadily
+progressing until only ten of the towns selected for this
+purpose remain without an ambulance service. It is
+worthy of note that the ambulance services in Victoria
+are almost exclusively confined to transport activities
+with as far as possible trained attendants.
+The Training of the Medical Student.
+A sound knowledge of obstetrics is of fundamental
+importance to the general practitioner. He must know
+how to conduct a labour safely, especially if complications
+be present. In other diseases or illnesses there is usually
+ample time available to seek additional help. This is not
+the case with many obstetrical complications. Decisions
+have often to be made and acted upon single handed and
+any misjudgement affects two lives. Finally the toll of
+death and suffering associated with parturition is formid-
+able, comprising a high maternal mortality, a large
+number of still-births and neo-natal deaths and much
+chronic ill-health among those who survive. Because
+trouble arises principally in the abnormal case, the chief
+requirement is medical skill and this can only be accom-
+plished by adequate training.
+The Present Course.
+The subjects of obstetrics and gynaecology are taught
+at Melbourne University by a part-time lecturer receiving
+£2OO per annum. Associated with him are three demon-
+strators and a clinical tutor. During the fourth year the
+student attends a course of sixty theoretical lectures in
+obstetrics, infant welfare and gynsecology. The demon-
+strators give lectures and conduct a course of operative
+obstetrics for each batch of students. In the following
+year the student enters the Women’s Hospital for his
+practical course. Each student remains in residence for
+five to six weeks, four of which are spent in work in
+the hospital and two in the externe department. During
+this time he receives ante-natal instruction from the honor-
+ary obstetric staff of the hospital and attends patients
+in the labour ward. The medical superintendent who acts
+as clinical tutor, undertakes clinical instruction in the
+wards and additional practical exercises. A refresher
+course consisting of ten to twelve clinical demonstrations
+is held during the sixth year. The lecturer is endeavouring
+to arrange in addition residence in hospital for a period
+of seven to ten days.
+The main defects in this course are as follows: (i) The
+length of the interval is too long between theoretical and
+practical instruction. It is not easy to overcome this owing
+
+
+to the demands of other subjects. (ii) The period of
+residence in hospital is too short and compares poorly
+with the time devoted to other clinical subjects. The
+present term of six weeks should be increased to three
+months in order that the student may live in an obstetric
+atmosphere long enough to enable him to be thoroughly
+taught, (iii) Contrary to the custom in other countries,
+the amount of work done in the externe department is
+rather limited. At present patients are attended under the
+supervision of the district nurses. The Women’s Hospital
+should have complete control of a properly constituted
+externe department with adequate medical and nursing
+supervision. Externe work is of service in making the
+future practitioner observant and self reliant. It promotes
+a feeling of personal responsibility and is a valuable method
+of instruction in the art of handling patients, (iv) Con-
+tinuous supervision of the student by responsible senior
+teachers is impossible under the present system. Much
+has been accomplished, but there are definite limits to the
+value of part-time work.
+Much adverse criticism has been expressed by medical
+practitioners regarding the inadequacy of the course in
+their day. It is recognized that improvements have
+occurred, but as long as the subject is regarded as worthy
+of a part-time appointment only, no real advance can be
+made. The crux of the situation lies in the teacher. He
+must be an experienced man who can devote the whole
+of his life to the work. A limited amount of consultant
+practice is essential for successful teaching, but his
+primary interest must be the thorough and intensive train-
+ing of the student.
+The need for a Chair of Obstetrics was recognized by
+the Obstetric Inquiry Committee in 1924 prior to this
+investigation. A resolution on the subject was submitted
+to the Council of the Victorian Branch of the British
+Medical Association and subsequently passed by that body.
+It would tend to improve the teaching and help to
+standardize the methods employed if there were an inter-
+change of examiners between the Universities of Melbourne,
+Sydney and Adelaide.
+Post-graduate Instruction.
+The best opportunity to gain further experience is
+provided by a house surgeoncy at either the Women’s or
+Queen Victoria Hospitals. Unfortunately there is a limit
+to the number of these appointments and it would not be
+wise to increase them and so lessen the value of the
+instruction. Further opportunities will be afforded when
+the Alfred Hospital opens an obstetric department and
+when more country base hospitals provide maternity wards.
+At the same time, a scheme for establishing resident
+clinical appointments should be considered.
+A winter residential course is conducted at the Women’s
+Hospital and is largely attended. The Post-Graduate Com-
+mittee also arranges for speakers on obstetrical subjects
+to address country meetings. With the formation of a
+proper obstetrical department in the University. it would
+be possible to conduct short demonstrations at various
+centres. Attendance at such meetings would not entail
+the loss of time and financial outlay which is associated
+with the longer Melbourne course. Similar meetings could
+be arranged at suitable hours for metropolitan practi-
+tioners. This would stimulate interest and encourage
+men to practise what had been demonstrated to them.
+The establishment of a higher degree in obstetrics should
+be considered by the combined universities. Its attain-
+ment might be made an essential qualification for hold-
+ing senior staff appointments in obstetric hospitals. Such
+a nucleus of well trained men would gradually exercise a
+powerful influence throughout Australia.
+As the result of many conversations with practitioners
+it is considered that the time is ripe for the recognition
+of obstetrics as a subject of more than equal importance
+than any other branch of clinical medicine to the general
+practitioner. Instruction of students is only one side of
+the work. The head of the department must be in touch
+with the practising members of the profession, stimulating
+interest and making them realize that obstetrics is a
+subject well worth life-long devotion.
+The Training, Registration and Practice of the
+Obstetric Nurse.
+The Midwives Board is concerned with the training and
+practice of all obstetric nurses in the State. It is com-
+posed of public service doctors and has in association a
+board of examiners who are all in private practice. The
+Director was appointed a liaison member of the board in
+order to keep them well informed of the views of the
+examiners and of the obstetrical members of the pro-
+fession generally. For some time the board has recog-
+nized the necessity for the appointment of an inspectress
+of midwives. Owing to the limited funds at its disposal
+this has hitherto not been attainable. In 1927 the appoint-
+ment was made and the results to date have fully
+warranted this action. The inspectress has devoted her
+first year to a thorough inspection of all training schools,
+to the investigation of complaints against nurses and
+hospitals and as far as possible to the inspection of
+visiting nurses. As the result of her tactful methods the
+regulations have been complied with, particularly by the
+untrained type of nurse, more generally than in the past.
+There is, however, too much for one person to do and
+it is recommended that one inspectress be attached to
+each district health officer, with at least two in the metro-
+politan area. The salary and travelling expenses of the
+inspectress have been paid from the funds of the board
+obtained from registration and examination fees of nurses
+and are not a charge on the Treasury. Further extension
+will entail such expenditure.
+Training Schools.
+Victoria is the only State in which private hospitals
+have been registered as training schools. In 1925 there
+were thirty-four hospitals on the list, twenty-eight in Mel-
+bourne, four in the country and two in New South Wales.
+Since then six have ceased to train and it is proposed
+to limit the numbers further to fourteen in Melbourne
+and four in the country. Additions will be made when
+base hospitals in the country establish maternity wards.
+Requirements of a Training School.
+Training schools should comply with the following
+requirements:
+(i) The nurse in charge should possess both general
+and obstetric certificates. One at least of the staff must
+in addition possess a certificate of mothercraft training.
+Two double certificate nurses must be actively engaged in
+the instruction of the trainees.
+(ii) The minimum number of women delivered in the
+hospital should be one hundred per annum and each trainee
+must actually deliver twenty women during her course.
+(iii) If the training school be a mixed hospital, the
+obstetrical unit should be completely separated from the
+other departments.
+(iv) Ante-natal work and mothercraft training must
+form an essential part of the course. A proportion of the
+women must also be attended in the externe department
+of the hospital.
+The main defects of the majority of the private training
+schools are as follows:
+(i) Many of the hospitals have too low an average of
+occupied beds and cases per annum.
+(ii) The number of women actually delivered is too few
+in many schools. Ante-natal experience is non-existent
+and a knowledge of mothercraft seldom imparted to the
+trainees.
+(iii) It is obvious to the board of examiners that
+thorough instruction of trainees is often wanting and
+that no attempt is made to insure a reasonable standard
+before a nurse sits for examination.
+Metropolitan Training Schools.
+At the Women’s Hospital two classes of trainees are
+accepted; a six months’ post-graduate course is given to
+nurses with a general certificate and a twelve months’
+course to others. The value of the course would be in-
+creased by the development of an externe department.
+
+
+The provision of tutor sisters would insure that the
+trainees were supervised throughout their course in a
+manner which is impossible under present conditions.
+The Queen Victoria Hospital admits only six month
+trainees. In addition to the hospital practice, they attend
+externe patients with the district nurses.
+St. George’s and Bethesda Intermediate Hospitals are
+the next most important training schools and possess
+excellent records. The lack of ante-natal instruction and
+externe practice, however, constitutes an omission from
+the ideal.
+The remaining private hospitals vary considerably. In
+only the minority does the nurse receive a fairly adequate
+training.
+Country Training Schools.
+The public hospitals at Ballarat and Hamilton provide
+a course well above average standard. The other centres
+at Colac and Castlemaine suffer from many of the defects
+already noted, although this is minimized by the personal
+interest taken in the trainees by the local practitioners.
+Whenever maternity wards are established at more of the
+larger hospitals, they should prove of equal value to the
+present centre at Ballarat.
+Number of Nurses on Register of Midwives.
+When the Midwives Act became law in 1915 all women
+practising obstetrics were required to register. Three
+classes were formed:
+(i) Those nurses holding a certificate from the Women’s
+Hospital or such other equivalent from other States as
+approved by the board. Registration under this section
+was permitted until the end of 1916.
+(ii) All women who could produce evidence of having
+been in bona fide practice for two years prior to the Act.
+No further registrations under this clause were permitted
+after 1917. This class was termed “practice midwives.”
+(iii) After 1916 it was compulsory for all applicants to
+pass an examination after the prescribed course, six months
+for a nurse with previous general training, twelve months
+for other trainees.
+From the time the Act came into force until December,
+1927, 4,122 midwives have been registered and 1,222 de-
+registered, mainly on account of death, old age, marriage
+and cessation from nursing. At present there are 2,900
+midwives registered; 42% are practice nurses and the
+remainder trained. Some are in other States and many
+are not actively engaged in obstetric work. No exact
+estimate can be given of the proportion in practice.
+Obstetric Nurses in Private Practice.
+As elsewhere the greatest difficulty is experienced in
+attracting the right type of nurse to undertake obstetric
+work. Many are repelled by the conditions of the average
+training centre and later by the inferior status of the
+work, due to the influence of partly trained and untrained
+women who are prepared to do domestic work in addition.
+To encourage the genuine nurse an endeavour must be
+made to make the best training available for her. At pre-
+sent the main training centres are largely staffed with
+nurses who have no intention of undertaking obstetric
+work after registration. The following is suggested as a
+means of overcoming this difficulty.
+A short course of three months should be part of the
+training of every general nurse, so that she can deal with
+possible emergencies in the future. It would not entitle
+her to practise as an obstetric nurse. For those desirous
+of doing such work a further post-graduate course of
+nine months would be essential. In order to afford the
+best instruction all such trainees should be concentrated
+at the Women’s and Queen Victoria Hospitals. Any
+vacancies at these hospitals as well as at other training
+schools would be available for those taking the short
+course. The excellent scheme of the Bush Nursing Asso-
+ciation, whereby nurses are paid a bonus after obstetric
+training and sign a contract to serve for two years, is
+worthy of State consideration in this connexion.
+The problem of the visiting or morning nurse is of
+considerable importance, especially in industrial suburbs.
+Apart from the district nurses the majority engaged in
+the work are practice nurses. Despite the regulations
+many do not visit their patients twice daily. There is,
+therefore, no record of the evening temperature and
+consequently incipient cases of sepsis may be missed. The
+majority work alone and send for medical aid only in
+emergency. In some suburbs such aid is obtained from
+practitioners of doubtful obstetric repute. The number of
+women attended daily should be more limited and the
+keeping of accurate records insisted upon, otherwise a
+potential source of infection will remain untouched.
+The interest of the State at present ceases with the
+registration of the nurse, provided that she does not
+infringe the regulations. No attempt is made to keep her
+abreast of modern developments. Post-graduate refresher
+courses should be given at the main training centres
+throughout the State. All nurses on the active list should
+be compelled to attend a course of one full week every
+three years. Special courses could be employed for dis-
+ciplinary purposes for any careless or ignorant women in
+lieu of suspension or even removal from the register.
+The nurse should receive compensation for a locum tenens
+during her absence unless undergoing a disciplinary
+course. Revision of theoretical and practical work with
+information regarding the latest developments would form
+the basis of the work. In addition any alterations in
+the regulations could be explained and this would remove
+much misunderstanding and hostility.
+It* is also reasonable to expect that after passing an
+act to insure the provision of registered midwives, the
+State should see that it is strictly enforced. Legal evasions
+are all too common. An amendment is required of the
+clause forbidding an unregistered woman to attend a
+patient “for gain.” This would be better expressed
+“whether for gain or not.” In addition the emergency
+clause allows of wide evasion of the regulations. It should
+be insisted upon that in all such cases the unregistered
+woman must immediately send for a medical practitioner
+or a registered midwife to carry on with the case. The
+Act is being further defeated by unregistered women
+making no charge for obstetric attention, but receiving
+money for acting as domestic helps. Unfortunately, these
+evasions of the Act have occurred with the apparent
+connivance and approval of certain practitioners. The
+practice savours of “covering an unregistered person”
+which in Great Britain would render the doctor liable
+to severe professional penalties. The remedy rests largely
+in the hands of the medical profession. Registered nurses
+are discouraged from starting in such areas or, as
+happened recently, may even have to cease work because
+of this unfair competition.
+Nursing, especially obstetric nursing, is an arduous
+profession and the monetary rewards are not commen-
+surate with the hard life. It is impossible for the average
+nurse to earn enough so that after her comparatively brief
+professional career she can look forward to comfort in
+later years. For this reason it is highly satisfactory to
+note that under the stimulus of the Charities Board a
+scheme of pensions for nurses is now being evolved.
+The Present Status of Obstetric Practice in
+Victoria.
+Personal interviews with a large proportion of those
+actively engaged in obstetrical work have formed the most
+important section of this investigation. In all 633 prac-
+titioners were interviewed, 304 in Melbourne and 329
+throughout the State. Information obtained from this
+source forms the basis of the following comments.
+I desire to take this opportunity of thanking my
+colleagues throughout the State for the invariable courtesy
+shown to me personally and the very evident desire to
+assist the investigations.
+Ante-natal Supervision.
+The aim of modern obstetrical practice is the mainten-
+ance of normal health during pregnancy with the elimina-
+tion of any complications, so that healthy infants will
+be born with the least amount of damage to the mothers.
+For too long has it been the custom of the public to
+
+
+Parity.
+Maternal Mortality.
+Infant Mortality
+Total Humber
+Indications.
+of Patients.
+Still-born.
+! Neo-natal.
+Rate.
+Primiparfo
+Multiparae.
+Deaths.
+Bate.
+Contracted pelvis
+161
+133
+28
+8
+%
+4-97
+12
+3
+%
+9-31
+Placenta prsevia ..
+56
+15
+41
+5
+8-92
+6
+2
+14 ■ 28
+Eclampsia..
+29
+28
+1
+5
+17-24
+5
+1
+20-69
+Pre-eclamptic toxaemia . .
+21
+19
+2
+9
+42-85
+10
+—
+4/*(ji
+Tumours ..
+12
+6
+6
+4
+33-33
+1
+1
+16 ■ 66
+Accidental haemorrhage..
+6
+1
+5
+2
+33-33
+5
+—
+83-33
+Miscellaneous
+24
+14
+10
+6
+25-00
+8
+;
+33 ■ 33
+All Indications ..
+309
+216
+93
+39
+12-62
+38
+1 7
+14-56
+!
+, |
+consider that the performance of child-birth demands no
+special preparations. Therefore it is not surprising that
+only 50% of the doctors seen in Melbourne and not more
+than 35% in the country were satisfied with the amount
+of ante-natal care they gave their patients.
+The Federal Royal Commission on Health urged that
+the maternity bonus should be paid only after submission
+of a certificate of adequate ante-natal supervision.
+Political expediency has ignored this wise decision. Despite
+the provision of large ante-natal clinics at the public
+maternity hospitals as well as a certain amount of instruc-
+tion at baby health centres, doctors practising in industrial
+areas find it very difficult to get many women to attend.
+Primiparce are realizing the advantages of such care, but
+multiparce, especially if previous confinements have been
+normal, are largely indifferent. The added risks which
+such mothers run have been referred to in Table IV and
+emphasize the need for supervision of all pregnant women.
+With such attention at least 90% of women can approach
+confinement with confidence. In the remaining group
+many abnormalities can be remedied or an appropriate
+line of treatment determined before labour commences.
+In both instances there will be a lessened risk of sepsis.
+In many industrial suburbs practitioners do not or cannot
+persuade their patients to attend during pregnancy and
+depend upon the nurse who is often untrained, to inform
+them if progress be not made. It is then too late to
+rectify mistakes and this procedure ends in difficult
+deliveries with a high infant death rate and much mor-
+tality and morbidity among the mothers. The public and
+some of the profession have yet to learn that operative
+dexterity during delivery cannot compensate for lack of
+care during pregnancy. In the country, where for various
+reasons ante-natal supervision is more difficult, the doctor
+generally insists on seeing patients whenever they come
+to hospital and even at this stage much preventive work
+can be accomplished. The bush nursing records as well
+as those of many country practitioners amply bear this
+out.
+There is need for the establishment throughout the
+State of ante-natal clinics. Apart from attaching them to
+all public hospitals with maternity accommodation, the
+ideal situation is at the numerous infant welfare centres.
+They should be staffed with nurses trained to take his-
+tories, able to perform palpation and to test urines. No
+further treatment should be allowed. All patients with
+abnormal conditions should be referred to their doctors
+or in suitable circumstances to public hospitals. Such
+clinics would relieve the busy practitioner of the necessity
+of instruction in general hygienic principles and details of
+infant welfare besides assuring him that it had been
+properly done. It would be advisable to alter the booklet
+issued by the Maternity Allowance Department and sub-
+stitute shorter leaflets on different subjects. These could
+be given at intervals to mothers by the clinic nurses and
+would probably be read and acted upon in a more satis-
+factory fashion than is the present pamphlet.
+The Complications of Pregnancy.
+Eclampsia.
+The advantage of ante-natal care of all pregnant women
+is best illustrated by the effects of treatment in cases of
+albuminuria and eclampsia. Although the incidence of
+eclampsia is not more than two per thousand deliveries
+in the records of private practice in Melbourne, there are
+many emergency cases, especially in industrial suburbs.
+As Dr. Green shows in Part 111 of this report, these were
+responsible for 35% of the maternal deaths in the Women’s
+Hospital. The increased liability shown by such patients
+to septic infection following any operative procedure adds
+to the importance of this complication of pregnancy. It
+is an even greater cause of maternal mortality in the rural
+parts of the State, except in centres where careful ante-
+natal supervision is possible.
+Ante Par turn Hemorrhage.
+Ante partum hsemorrhage is likewise more serious in
+the country than in Melbourne. The frequent association
+of one type of haemorrhage with pre-existing renal disease
+emphasizes the importance of ante-natal care. It has not
+been sufficiently recognized that hospital treatment is
+essential for all such patients. In some instances the
+results indicate the need for more conservative methods
+of treatment.
+Contracted Pelvis.
+Although mild degrees of contraction are fairly common
+in Melbourne, contracted pelvis is a rare disability in
+the rest of the State. It is difficult to obtain exact details
+of pelvic measurements and in too many cases sufficient
+time is not allowed for the natural forces to attempt
+delivery. This complication emphasizes the need for
+efficient instruction of students. Too many men are prone
+to ascribe delay in labour to contracted pelvis when some
+other easily recognized and preventible condition is the
+real cause of obstruction. There is a temptation to perform
+Caesarean section regardless of the consequences noted
+in the next paragraph.
+Cwsarean Section.
+The abuse of Caesarean section has assumed serious
+proportions all over the world. On the whole, the incidence
+in the State has decreased considerably, but far too many
+are still being performed. The operation has been done
+without any regard for other methods of delivery, without
+a preliminary trial of labour and without consultation
+with a reputable obstetrician. Owing to defective know-
+ledge many men find it easier to say that a woman cannot
+be delivered in any other way than to try if it be possible.
+Comments. —Trial labour was carried out only thirty-
+three times. There was a history of previous difficult
+labours in sixteen instances. Repeat Caesarean section
+was performed nine times. A central insertion of the
+placenta was encountered in thirty-one women, with five
+deaths. A marginal insertion occurred twenty-five times.
+In the majority the eclampsia was mild and no attempts
+at effective eliminative treatment were made before opera-
+tion. Many patients with severe toxaemia were treated,
+especially in country districts. There were eight fibro-
+myomata and four ovarian tumours. The concealed type
+of accidental haemorrhage took place four times, with two
+deaths. External haemorrhage occurred twice. The mis-
+cellaneous group includes rigid cervix, dystocia follow-
+TABLE XX.—INDICATIONS AND RESULTS OF CESAREAN SECTION FROM RECORDS OF PRIVATE PRATITIONERS IN VICTORIA
+
+
+Population.
+Under
+10 %.
+10-30 %.
+30-50 %.
+Over
+50 %.
+Total
+Doctors
+Inter-
+viewed.
+Under 500
+36
+9
+8
+53
+500-1,000
+38
+23
+9
+5
+75
+1,000-2,000 ..
+21
+38
+7
+5
+71
+2,000-5,000 ..
+2
+36
+26
+10
+74
+Principal Country
+Towns
+4
+15
+18
+19
+50
+Melbourne
+13
+97
+117
+95
+304
+Whole State
+114
+218
+167
+134
+633
+1 1 1
+Percentage.
+Melbourne.
+Rest of State.
+Under 10 %
+4
+31
+10--30 %
+32
+37
+30- 50 %
+33
+20
+Over 50 %
+31
+12
+Total ..
+100 %
+100 %
+Percentage.
+Industrial
+Suburbs.
+Residential
+Suburbs.
+Under 10 %
+!
+O
+4
+10-30 %
+22
+46
+Over 30 %
+76
+50
+Total
+100 %
+j 100%
+,
+i
+ing previous abdominal and vaginal operations, locked
+twins, foetal ascites, congenital malformation of vagina,
+diabetes and cardiac disease.
+A maternal mortality from all causes of nearly 13% does
+not reflect credit on the operators either as regards diag-
+nostic skill or surgical technique. These results have
+been improved upon in many cases by more conservative
+methods of delivery.
+Labour.
+The proportion of patients treated in hospital varies
+from 20% to 90%, depending mainly on the locality and
+the standards of the hospitals. The preparations for
+labour as regards sterile dressings and so forth leave
+much to be desired. It would be of considerable help
+if the Health Department formulated minimum standards
+not only for the preparation of patients, but also for the
+delivery room and its accessories. For the instruction
+of mothers model maternity outfits could be exhibited at
+ante-natal clinics when the sisters would give detailed
+advice. Arrangements could be made to sterilize these
+kits at the local general hospitals and, as has been shown
+in New Zealand, the cost of outfit and sterilization need
+not be excessive. By this means the public would realize
+the importance of preparing for labour as for any surgical
+operation.
+The main difference between city and rural practice is
+seen in the actual conduct of labour. Undoubtedly the
+mental attitude of the public to the subject of labour,
+particularly in regard to their demands on the profession,
+has altered in recent years. Want of confidence in their
+own powers and a knowledge that relief is possible by
+artificial means all tend to prevent child-birth being a
+normal function. These facts operate more in Melbourne
+than in the country and the percentage of artificially
+ended labours is much higher in the metropolis than in
+the rest of the State and so also are the deaths from
+sepsis. The practice of obstetrics is arduous and under-
+paid and often causes much interruption to the routine
+of a busy general practitioner. He is tempted to terminate
+a case as soon as possible with forceps and generally
+such interference is welcomed by the importunate relatives
+demanding immediate relief. The vicious circle is com-
+pleted and the conscientious doctor often suffers defeat
+in the unequal struggle between his obstetrical ideals
+and the conditions of actual practice. Allowing for this
+strong pressure of patients and their relatives to terminate
+labour quickly, the profession is not absolved from blame.
+In far too many instances no correct diagnosis of the
+presentation is made, the rules for the application of
+forceps are ruthlessly broken and if at first unsuccessful
+strength is substituted for an investigation of the cause
+of obstruction. The records of the Women’s Hospital
+amply illustrate the tragedy of the “failed forceps” in the
+causation of maternal and infantile mortality. Those who
+are proud of their manual dexterity, do not realize the
+influence they exercise over the younger men who are
+tempted to cast aside their ideals because the senior breaks
+all the rules with apparent immunity. Much of this
+criticism applies to the industrial suburbs and some of
+the residential areas of Melbourne. The work is mainly
+done in the smaller type of hospital or with poor grades
+of nurses, when the results are not open to professional
+inspection and criticism. The influence of the larger hos-
+pitals in preventing unnecessary interference and bad
+work is a strong argument for the establishment of larger
+units to replace these small alleged hospitals.
+Adequate ante-natal supervision associated with a good
+hospital or a well trained nurse plus the judicious use of
+sedatives will decrease the incidence of artificial delivery.
+This is proved in the records of St. George’s and Bethesda
+Hospitals in Melbourne, by the work of the Bush Nursing
+Association and in the records of many practitioners
+throughout the State.
+No definite figure can be laid down as to what con-
+stitutes a fair percentage of forceps deliveries. The con-
+ditions of hospital and private practice are not comparable.
+In New Zealand, where records must be kept for hospitals,
+the average rate for 1926 was 13-7%. No such estimate
+can be given for Victoria. In private practice under
+present conditions any rate under 30% must be regarded
+as not unreasonable. The incidence varies directly with
+the size of the locality. It is low in the smaller country
+centres, increases rapidly in the larger towns and reaches
+its zenith in Melbourne.
+Table XXI. —Incidence of Forceps Applications according to Size of
+Town.
+If this be expressed as a percentage of the total number
+of doctors interviewed it will be seen that the proportion
+under 30% for Melbourne is approximately only half that
+of the rest of the State.
+Table XXII. —Incidence of Forceps Application expressed as
+Percentage of Doctors Interviewed.
+In Melbourne this increased proportion is noted more
+in the industrial than the residential suburbs.
+Table XXIII. —Incidence of Forceps Application, Melbourne.
+Those who use forceps as a routine, defend their attitude
+mainly on three grounds: (a) That the perineum is pre-
+served and not damaged, (b) that no increased morbidity
+results and (c) that the foetal death rate is unaffected.
+Others are not so sanguine and admit that any inter-
+ference, including low forceps, must carry an added risk.
+This is confirmed by the records of the two intermediate
+hospitals in Melbourne as well as by the autopsy results
+previously quoted.
+Excessive artificial delivery is therefore a most
+important factor in the problem of maternal morbidity,
+especially in the metropolitan area.
+Pituitary extract is not employed as much as formerly
+and 60% of the doctors interviewed reserved its use
+for complications during and after the third stage of
+labour.
+The conduct of the third stage of labour is a valuable
+criterion of the obstetric standards of any practitioner.
+On the whole it is fairly well managed by most men,
+although those who favour rapid delivery, are not inclined
+to adopt different measures during this important stage.
+
+
+Method of Delivery.
+St. George’s.
+Bethesda.
+Total cases
+990
+1,955
+Normal delivery
+764
+1,778
+Forceps delivery .. .. ..
+232
+177
+Normal delivery :
+Percentage with perineall acerations
+38 %
+29 %
+Percentage morbid .. .. ..
+6 %
+4-7 %
+Forceps delivery ; ,
+Percentage with perineal lacerations ;
+65 %
+65 %
+1 7 %
+]
+Percentage morbid .. .. ..
+11 %
+TABLE XXIV. — COMPARISON NORMAL AND FORCEPS CASES REGARDING
+PERINEAL LACERATION AND MORBIDITY.
+Puerperal Sepsis.
+Approximately one woman in five hundred dies from
+puerperal sepsis. It has already been shown to be the
+most important cause of death following child-birth and
+also that the rate is increasing, especially in Melbourne.
+Exception has been taken to the inclusion of septic
+abortions in estimating the rate, but, even if they be
+excluded, this progressive increase is still noted.
+The utter failure of notification of puerperal fever
+in Victoria, either as an index of its prevalence or as
+a means of insuring early treatment, is illustrated by
+the returns of the last five years; 205 cases were notified
+and 266 deaths were registered. This result is due to
+several factors. * In the first place there is no accurate
+definition of the term. Any febrile condition in a puerperal
+woman associated with inflammatory conditions of the
+pelvic organs should be considered to be due to sepsis,
+whether there be other foci in the body or not. Pyrexia
+during the puerperium is not insignificant and it is often
+forgotten that a mild degree of infection, if transmitted to
+other women, is liable to cause a virulent outbreak.
+This was illustrated in recent outbreaks in Melbourne.
+Although the midwives’ regulations require the notification
+of all elevated temperatures, it was not until the inspectress
+began duty, that this regulation was carried out to any
+extent. It is recommended that this regulation be amended
+to include abortions as well as full term labours and also
+that all such temperatures be reported both in hospital
+and private practice. It must be clearly understood that
+this is not the same thing as notifying puerperal sepsis.
+Probably 50% of the pyrexia would be extra-genital in
+origin and the true cases of sepsis will still require further
+notification. But it would insure that all cases were
+investigated at the earliest moment with a consequent
+saving of many extra lives.
+To overcome another difficulty, such notification should
+be made direct to the Health Department in Melbourne
+or to the district health officer in the country and not
+to the local authorities. With the latter procedure discus-
+sions have been known to occur at council meetings and
+be reported in the press. Such publicity and often erroneous
+criticism invariably reacts against the doctor and only
+results in non-notification. The public must adopt a more
+reasonable attitude, for in the present state of our know-
+ledge the medical attendant is not necessarily always to
+blanxe.
+Notification Is useless unless the authorities are prepared
+to assist the - doctor to arrive at a correct diagnosis.
+In the country districts bacteriological examination of
+blood and secretions can be carried out at the Federal
+laboratories or at those attached to base hospitals. In
+Melbourne this could be best accomplished by the pro-
+vision of adequate laboratory facilities at the Women’s
+and Queen Victoria Hospitals. Consultants could be
+appointed at various centres and would be available fox-
+advice at a fixed fee paid by the State for those unable
+to afford full private rates; in most cases such expenditure
+could be recoverable from the patient. Since septic patients
+should be nursed in hospital and not at home, suitable
+isolation accommodation must be rendered available at
+the main centres.
+The district health officer should personally interview
+the doctor in every case of sepsis, but inspection of the
+hospital or nurse could be left to the inspectress.
+The present regulations regarding disinfection of the
+room and isolation of the nurse until certified fit to resume
+duty are sufficient. There is, however, no clause which
+forbids the admission of new patients while a patient with
+sepsis is still under treatment in hospital. There is no
+necessity to close a hospital completely unless the outbreak
+of sepsis is serious.
+From personal investigation of a number of deaths it
+was found that the majority was traceable to some
+obstetric procedure or failure of aseptic technique during
+labour on the part of the doctor. In a few cases the
+nurse was to blame; one such case was due to an infected
+antrum and others to septic fingers. The patient herself
+was responsible only in a few instances.
+Both the public and the profession must realize that
+the solution of the problem involves three main factors:
+(i) More thorough ante-natal supervision and elimination
+of septic foci; (ii) more intensive instruction of students
+so that they will be able to recognize abnormalities in
+time and determine the correct treatment and (iii) more
+time spent over delivery in proper surroundings with
+good nurses. Of these requirements a sound knowledge
+of the fundamentals of obstetrics is of more importance
+even than improved hospital accommodation.
+The Maternity Allowance.
+Whether or not the object of the Maternity Allowance
+Act was to lessen maternal and infant mortality, it is
+certain that it has failed to achieve this result. Stress
+has been laid in this report on the importance of maternal
+care during the pre-natal period, the need for improved
+professional knowledge and better hospital facilities. The
+use of even a portion of the large sums spent annually
+on the baby bonus would materially assist these objectives.
+The recommendation of the Royal Commission on Health,
+namely, that proof of adequate ante-natal supervision
+should be furnished before payment of the allowance, has
+been completely ignored. Maternity benefits form part
+of the proposed scheme of national insurance and will
+be paid in addition to the present allowance. This will
+afford the Government another opportunity of insisting on
+proper medical and nursing attention in a suitable environ-
+ment. There are many problems requiring further re-
+search which cannot be undertaken until funds are avail-
+able. Therefore it is time that both the politician and
+the general public realized that continuance of the present
+scheme does not lead towards any material benefit to the
+nation.
+Summary.
+In Victoria during the past five years 869 mothers have
+died during child-birth and approximately 11,000 still-births
+and deaths of infants under one month have also occurred.
+The maternal mortality is not decreasing and the rate for
+1927 is the highest for the past twenty-two years. The
+still-birth rate remains constant and the infant mortality
+under one month shows no signs of diminution. All
+these losses are excessive in Melbourne as compared with
+the rest of the State.
+Puerperal sepsis is the most important factor in this
+mortality and is largely caused by much unnecessary inter-
+ference with normal delivery.
+Owing to their indifference to the value of ante-natal
+supervision and a proper environment for labour, as well
+as by their insistence on rapid delivery regardless of the
+consequences, the public must bear a share of the
+responsibility.
+The few members of the medical profession who are
+inefficient, are mainly responsible. But the figures quoted
+in this report make it evident that an improvement in
+results can be achieved only when the whole body of the
+profession apply in their obstetric practice the lessons to be
+learnt from the present state of affairs. A contributory
+cause is afforded by the inadequate preliminary training
+of medical students.
+Finally, this investigation is a sign to the public that
+the medical profession is concerned with the situation and
+
+
+is anxious for improvement. Therefore it expects support
+from an aroused public conscience in the initiation of
+future reforms.
+The reason for dwelling upon the tragedy of an
+unnecessarily high maternal mortality rate is not
+for the sake of criticism or censure, but because,
+until it is realized that much of the poignant sorrow
+and suffering caused by misadventure at the time
+of child-birth is not inevitable and can be lessened,
+we shall be slow to find the time, money, effort and
+good will needed to persuade all concerned to combine
+and overcome the practical difficulties of this problem.
+—Dame Janet Campbell.
+Recommendations.
+1. The establishment of a Chair of Obstetrics at the
+University of Melbourne. More prolonged and intensive
+training of the student.
+2. The formation of ante-natal clinics at every centre
+where facilities exist.
+3. The erection of modern maternity units, especially in
+the metropolitan area, to replace the present system of
+nursing homes.
+4. Encouragement of trained nurses to undertake
+obstetric service. Necessary factors in this are the elimin-
+ation of partially trained and untrained women and the
+institution of refresher courses and pensions.
+5. Minimum standards governing the preparations for
+delivery to be published and enforced both in hospital
+and private practice.
+6. Compulsory notification of all cases of puerperal
+pyrexia.
+7. Provision of ample facilities for laboratory diagnosis,
+advice by consultants and hospital accommodation.
+8. Death certificates to show the association of pregnancy
+or child-birth with the cause of death; investigation of all
+maternal deaths; notification of still-births; legal power
+for the Statistician to obtain additional information from
+medical practitioners concerning doubtful certificates.
+9. That immediate steps be taken to give effect to the
+recommendations of the Federal Royal Commission on
+Health (1926) regarding maternity hygiene.
+Part 111.
+Clinical and Laboratory Investigations.
+The clinical and laboratory investigations have been
+directed along two main lines: (i) A study of the prob-
+lems associated with the bacteriology and treatment of
+puerperal sepsis. This was undertaken by Dr. E. R.
+White at the Women’s Hospital in association first with
+Miss F. B. Williams who had to resign owing to ill-health,
+and later with Dr. Lucy Bryce at the Walter and Eliza Hall
+Research Institute. Since 1927 the staff of the Queen
+Victoria Hospital have rendered valuable assistance by
+supplying additional clinical material.
+The value of “Mercurochrome” in the treatment of
+puerperal sepsis was thoroughly investigated by Dr. E. R.
+White. Unfortunately it did not fulfil the expectations
+aroused by some initial successes.
+Dr. Lucy Bryce in addition to the examination of cultures
+from febrile puerperal patients, has made a detailed study
+of the bacteria found in the genital passages during preg-
+nancy in order to note whether the standards accepted
+in other countries are applicable to local conditions. Valu-
+able work was also performed by her in the bacteriological
+investigation of several outbreaks of sepsis in private
+hospitals.
+(ii) A study of the toxaemias of pregnancy was under-
+taken. An attempt was made to correlate the results of
+bio-chemical examination of blood and urine with clinical
+observations. This was carried out by Dr. John S. Green
+and Miss Vera Kreiger, M.Sc., in collaboration with
+Associate Professor J. W. Young, of the Bio-chemical
+Department of the University of Melbourne. They have
+shown that such tests possess a practical value in the
+estimation of permanent damage to the liver and kidneys,
+in the control of treatment and in prognosis. The extent
+of the work which has been accomplished is proof of the
+industry and enthusiasm shown by all concerned. It
+is therefore pleasing to note that the Committee of the
+Women’s Hospital have appointed Miss Krieger to the staff
+of the hospital, thus insuring continuance of the present
+work.
+Brief summaries of the conclusions arrived at in both
+investigations are contained in this section of the report.
+The complete work will be published in The Medical
+Journal oe Australia at an early date.
+It must be recorded that the investigations have been
+conducted under great disabilities owing to the absence of
+sufficient laboratory accommodation at the Women’s Hos-
+pital. Considerable delay and extra work was incurred
+in transporting specimens to two laboratories in different
+parts of the city. The lack of foreign literature for neces-
+sary references has also been a serious drawback.
+Research has not played a prominent part in obstetrical
+work in Australia, mainly owing to lack of funds and
+opportunities. Much good material is being wasted at
+present and will continue to be wasted until provision is
+made for adequate laboratory facilities at the main clinical
+centres.
+I desire to express my appreciation of the efforts of
+those coworkers in this research to whom reference has
+already been made and to the manner in which the com-
+mittees and honorary medical staffs of the Women’s and
+Queen Victoria Hospitals have granted every request for
+assistance. For much helpful criticism and advice I wish
+especially to thank Dr. C. H. Kellaway, Director of the
+Walter and Eliza Hall Research Institute.
+Summary of Bacteriological Investigations in
+Connection with Puerperal Infection.
+By Lucy M. Bryce, M. 8., 8.5., B.Sc.,
+(Walter and Eliza Hall Research Institute,
+Melbourne).
+These investigations are grouped under five headings.
+1. A study of the organisms found in the vagina and
+uterus in fifty cases of fever following abortion or child-
+birth, in patients admitted to, or delivered in, the Women’s
+Hospital. The bacteriological examinations of numbers
+1 to 34 of this series were made by Miss F. E. Williams,
+who unfortunately was subsequently compelled to relin-
+quish the work through ill-health. The swabs were taken
+by Dr. E. R. White. The findings from these patients
+were compared with those from the cervix and uterus in
+twenty-nine afebrile puerperal patients from the second
+series.
+2. An investigation of the bacterial content of the genital
+passages during normal pregnancy, in order to compare
+it with that of the puerperium and to correlate it with
+the clinical course of the puerperium and thus assess
+the importance of the preexisting vaginal flora in relation
+to puerperal sepsis.
+Researches on these lines have been carried out many
+times in other countries, with varying, sometimes conflict-
+ing results, but so far none has been published in Aus-
+tralia. It was felt that differences due to local hygienic
+conditions or variations in immunity might be revealed by
+such an investigation here.
+One hundred and nineteen patients were examined.
+Eighty-six were attending the ante-natal clinic at the
+Women’s Hospital and from these the swabs were taken
+by Dr. E. R. White. Later, thirty-three patients at the
+Queen Victoria Hospital were examined by the author in
+cooperation with the Medical Superintendent, Dr. Isabel
+Ireland, and her successor, Dr. Margaret Ashton. The
+subsequent history of one hundred and three of these
+patients was available and has been considered in relation
+to the bacteriological findings.
+
+
+Thirty patients (fourteen at the Women’s and sixteen at
+the Queen Victoria Hospital) from whom swabs had been
+taken before delivery, were further examined during
+labour and the puerperium. The organisms found at
+these different times were noted and, as mentioned above,
+comparison made between the findings in febrile and
+afebrile cases.
+As the examination of patients in this way is a slow
+process, the numbers in these two series are small and so
+do not permit many definite conclusions to be drawn.
+The first series indicates, however, that a variety of
+organisms, of which streptococci are the most important,
+may be concerned in the production of puerperal fever
+and that therefore the cooperation of the bacteriologist
+with the clinician is essential, especially if specific treat-
+ment is contemplated. The modern trend is to control
+any form of treatment by estimation of changes occurring
+in the patient’s blood which indicate increase or decrease
+of bactericidal power and other forms of resistance to the
+infection. The virulence of potentially pathogenic organ-
+isms is being minutely studied in other countries by
+bacteriological methods such as the Ruge-Phillip and
+similar tests.
+The second Investigation shows that examination of
+the vaginal secretion during pregnancy may be of practical
+value from the following aspects: (1) It gives an indication
+of the personal hygiene of the patient and the influence of
+this on puerperal morbidity may be studied; (ii)
+potentially virulent organisms are occasionally found.
+Further observations may be made on these and know-
+ledge gained of their mode of entry, their subsequent
+behaviour and the clinical course of the puerperium; (iii)
+unsuspected diseases, such as chronic gonorrhoea, may be
+occasionally detected and their consequences averted.
+3. Dr. C. H. Mollison kindly presented a number of
+cultures from blood and other sources obtained from
+patients at the Women’s Hospital. These cultures gave
+further opportunity to study the organisms met with in
+puerperal sepsis.
+Enumeration of the types of organisms found in these
+series and discussion of the bacteriological problems
+encountered will be published later.
+4. Investigations, involving extensive bacteriological
+work, were made into two outbreaks of puerperal sepsis
+occurring in private hospitals. The detection of a carrier
+in one of these is described in The Medical Journal of
+Australia of March 31, 1928.
+5. The production of soluble toxins, analogous to those
+produced by scarlatinal strains, was demonstrated in the
+case of streptococci isolated from patients with puerperal
+sepsis. Filtrates were made with six strains and it was
+found possible to obtain intradermal reactions similar to
+those obtained in the Dick test in a certain proportion of
+all individuals tested, including pregnant and puerperal
+women. Dr. Helen Kelsey kindly made filtrates of two
+of these strains and tested them on patients at the
+Infectious Diseases Hospital. They gave reactions of
+similar type to those which she had previously obtained
+with her scarlatinal strains. Evidence is accumulating
+which demonstrates the high curative value of anti-
+scarlatinal serum containing an antitoxic element. It is
+possible that a similar method of treatment might be of
+value in a streptococcal puerperal infection.
+Difficulties Encountered in These Investigations.
+There is splendid clinical material at the Women’s and
+Queen Victoria Hospitals, but unfortunately both at present
+lack laboratory equipment. All bacteriological work has
+therefore been done at the Walter and Eliza Hall Institute.
+Although excellent facilities were thus made available, this
+procedure caused much waste of time and made close cor-
+relation of clinical and laboratory observations very
+difficult.
+Owing to the dearth of German and Austrian journals
+available in Melbourne, it has been impossible to refer to
+much of the previous work on the vaginal flora which
+has been done in these countries. The publications most
+frequently required were Archiv fiir Gynakologie, Monats-
+scrift fiir Geburtshiilfe und Gynakologie, Wiener Medi-
+zinische W ochenschrift and the Zentralblatt fiir
+Gynakologie.
+Acknowledgements.
+The cooperation of the honorary and resident medical
+staff at the Women’s and Queen Victoria Hospitals has
+been much appreciated. I particularly wish to thank Drs.
+C. H. Mollison, Yoffa and Bearham at the former, and
+Dr. S. Isabel Ireland, Dr. Margaret Ashton and other
+members of the resident staff of the Queen Victoria Hos-
+pital and Dr. Marion Wanliss, who obtained in Vienna
+journals not available in Melbourne.
+Observations on the Chemistry of Blood and Urine in
+the Toxaemias of Pregnancy.
+By John S. Green, M.D. (Melbourne), D.G.O. (Dublin),
+Honorary Obstetric Surgeon, Women's Hospital;
+and
+Vera I. Krieger, M.Sc.,
+Bio-chemical Department, University of Melbourne.
+For a period of nineteen months the chemistry of blood
+and urine in the toxaemias of pregnancy has been investi-
+gated. The importance of this subject is illustrated by
+the statistics of the Women’s Hospital. Of all the deaths
+(214) occurring in the obstetric department of the Hos-
+pital for the period 1920-1925, 74 or 35% were caused by
+the toxaemias of pregnancy.
+This investigation involved the performance of 3,290
+tests, 2,000 of which were quantitative estimations.
+The results have been presented and discussed under
+various headings: tabulation of findings, discussion of
+individual tests, clinical types and their findings, value of
+individual tests, clinical application to treatment and
+prognosis.
+The following conclusions have emerged from the work:
+1. Chemical investigation of the toxaemias of pregnancy
+has a very definite interest for the obstetrician.
+2. From the aetiological point of view every case
+independently of grouping has potentially three factors:
+(i) purely toxic (? hepatic), (ii) renal, (iii) preexisting
+nephritis.
+3. The most satisfactory grouping of cases is a clinical
+one. An elaboration of types is unnecessary and confusing.
+A fairly complete chemical picture has been worked out
+for each type.
+4. Individual cases should be viewed broadly according
+to the grouping, using the chemical findings as a fine
+adjustment. This applies practically as well as
+academically.
+5. For practical purposes renal impairment is more
+significant than hepatic. The most valuable tests are the
+urea concentration, the blood urea, the Fouchet test.
+6. In the treatment of a “new case” chemical findings
+may be overweighed) by clinical judgement, but not lightly
+if the chemical findings are unsatisfactory. When the
+past history of a patient is bad, great deference must be
+paid to the chemical findings.
+7. From the point of view of the subsequent history
+and possible pregnancy, defective responses to renal tests
+are very sinister. This is a consideration in immediate
+treatment.
+THC AUSTRALASIAN MCOiOAL RURUJH«Ni COMPANY iIMITBP

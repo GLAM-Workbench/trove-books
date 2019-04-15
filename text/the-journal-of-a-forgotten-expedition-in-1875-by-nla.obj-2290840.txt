@@ -1,0 +1,2848 @@
+
+
+
+
+A FORGOTTEN EXPEDITION is limited to five
+hundred numbered copies of which the first
+ten are bound in full morocco.
+Copy No: J o
+
+
+
+
+ERNEST GILES
+
+
+THE JOURNAL OF A
+FORGOTTEN
+IN 1875
+BY ERNEST GILES
+EDITED BY JAMES BOSANQUET
+SULLIVAN’S COVE
+1 979
+
+
+Printed and bound at Griffin Press Limited
+Netley, South Australia 5037
+Published by Sullivan’s Cove
+GPO Box 1932, Adelaide
+South Australia 5001
+
+
+This journal of my third exploring expedition
+in Australia I dedicate to The Hon. Sir Thomas
+Elder, of South Australia, the greatest patron
+of exploration that Australia has ever known,
+and under whose auspices and expense this and
+two subsequent exploring expeditions with
+camels were conducted by me.
+Ernest Giles,
+Adelaide.
+
+
+CONTENTS
+Editor’s Note xi
+Giles’s Journal i
+Harry Tietkens’s Account 47
+Jesse Young’s Account 49
+Alec Ross’s Account 53
+VII
+
+
+
+
+PLATES
+1. Ernest Giles frontispiece
+2. First edition title-page facing page xiv
+3. The Expedition Members between pages 38
+and 39
+MAP
+Expedition map by Giles between pages 6
+and 7
+
+
+
+
+EDITOR’S NOTE
+The first edition of Giles’s Journal of a Forgotten Expedition , printed in
+Adelaide in 1880 in mustard coloured wrappers under the imprint
+of W. K. Thomas & Co., is a physically slight work, a mere twenty-six
+pages of double-column, run off from the small type set up for its
+printing in the Adelaide Observer during the first four months of the year,
+with a map added. The earliest located copy of it is the dedication
+one, inscribed to Thomas Elder by Giles at Pt. Augusta on 10 June
+and now in the rich collection of the Royal Geographical Society in
+Adelaide. Other copies were presented by Giles during the ’eighties
+when and where he felt it appropriate: one to the Duke of Manchester
+in July 1884 (now in the National Library of Australia via the Petherick
+Collection), another to his “very excellent friend” Joseph Josephs in
+April 1886 (State Library of Victoria) and two to Henniker Heaton
+as late as June and July 1889 (Mitchell Library), among others:
+almost all known copies have been inscribed by him.
+As the Heaton copies show, Giles himself still had the journal nine
+years after printing —earlier in the same year that his collected journals,
+Australia Twice Traversed ,* were published. But despite this long
+possession by its author, it even then was and ever since has remained
+a rarity; for whereas he had copies at his disposal nobody else did.
+The booksellers were never offered it for sale and it was not advertised
+or even noticed in the newspapers belonging to its putative publisher,
+Thomas. It is significant also that when Giles came to list the earlier
+printings of his various journals for recording in Australia Twice Traversed
+he was to overlook completely that it ever had been issued as a separate
+work, and such an omission could hardly have been accidental.
+It may be wondered how many copies of the journal were likely to
+have been printed. Forty or fifty perhaps? Or as many as a hundred?
+Whatever the number they were all for Giles.
+* The copy of Australia Twice Traversed that Giles presented from London to his sister
+Jane, now in the State Library of South Australia, is dated 5 December 1889, and
+the work was reviewed in the Athenaeum on 14 December, so there is little doubt as
+to the month of its publication.
+XI
+
+
+His earlier book, Geographic Travels in Central Australia , when pub-
+lished in Melbourne in 1875 had been “distributed mostly to the
+patrons” who had subscribed to the fund for his second expedition,
+and a good proportion of the edition was inscribed by either Giles
+or his promoter von Mueller. Relatively few copies of it were offered
+commercially and it has become a scarce volume, but compared to
+the Forgotten Expedition it is a commonplace. Both of them are now
+sought after in the antiquarian book world, with perhaps a few copies
+of the one changing hands each year but the other appearing only
+each decade or each blue moon. The present editor remembers with
+regret his inability to purchase copies of the two works, bound together,
+when offered them for £4O by the Sydney bookseller Tyrrell some
+years ago, and supposes that today he would be asked ten times
+that sum or more.
+The first chapter of the Forgotten Expedition was published in the
+first number of the Adelaide Observer for 1880, on 3 January. Robert
+Kyffin Thomas, that weekly’s editor, and with his father its joint
+proprietor since 1877, late in 1879 had advertised that with this number
+it would be in “an entirely new and greatly improved form”, with
+new and important features and “contributions on political, social,
+literary, and scientific subjects” being specially written. As new
+machinery was to be imported, this decision to refashion the paper
+would need to have been made much earlier, perhaps very early in
+the year, but although Giles could have agreed upon publication
+with Thomas at any time, most likely he did so during the second
+half of 1879, so it is possible that these earliest segments of his 1875
+expedition were written up four years after its event, whereas his
+account of the latter part of it, culminating in the triumphant arrival
+at Perth, had been published so long ago as 1876;* hence, as Giles
+was to say, his use of the term forgotten.
+Any journal kept by him during the expedition seems no longer to
+exist and comparison of it with his Observer narrative therefore cannot
+be made, but from the deserts in 1875 he had sent long and detailed
+accounts to his patron Elder in Adelaide and perhaps these were the
+substance from which his published version was composed. The first
+of these reports had reached Elder by telegraph on 17 April, as is
+shown later, and Giles sent him more during July in the form of
+narrative letters, the last of them being despatched on the twenty-
+sixth from the Youldeh depdt. There were at least two and perhaps
+more such letters,! each of them necessarily reaching Adelaide by
+way of Fowler’s Bay, with Elder receiving them early in September
+and a resume of them appearing in the Register by the courtesy of
+that gentleman.!
+The full 1880 text of the Forgotten Expedition has never been reprinted
+previously but a polished version of it (in which “from here” became
+* S.A. Parliamentary Paper No. 22, 1876.
+t S.A. Parliamentary Paper No. 22, 1876, page 1: “in my last letter”.
+J South Australian Register , 9 September 1875.
+XII
+
+
+“from hence”, “having got” was turned into “having secured”,
+Mr. Elder became Sir Thomas Elder, and the like) was prepared by
+Mrs. Cashel Hoey, the “well-known authoress and Australian corres-
+pondent”, and published in Australia Twice Traversed with Giles’s
+approval. Unfortunately Mrs. Hoey’s work for this London edition
+went even further, substituting, for example, for “the thermometer
+that morning had stood at 28 0 ”, the arch “that morning Herr Gabriel
+Daniel Fahrenheit had fallen to 28 0 ”, making seventeen lines of verse
+into prose (and thus misleading a later poet)*, and so on. Who would
+prefer to read of “the howling waste in which we were almost
+entombed” rather than Giles’s original “the howling wilderness by
+which we were surrounded”, or have him quote “a poet” rather
+than “the deep but witty poet, Bon Gaultier”, or never record in
+any form, of his preliminary excursion from Fowler’s Bay to Beltana,
+that “this journey I suppose I must not entirely consider an explora-
+tion, as many points at which I touched had been visited previously,
+and I only performed this journey to take command of and fit out a
+thorough exploring expedition for Perth; but considering the whole
+three of us nearly perished, I think I may put this trip down as a
+very close approximation to real exploration’ ’ ?
+In his journal Giles ranges from the lyrical to the simply conversa-
+tional, but is always engaging. His text as originally given to Observer
+readers has now been restored, incorporating a dozen or so typo-
+graphical or other minor corrections that he made in manuscript in
+later copies of the journal. With it are given the accounts of the
+expedition, brief though they are, recorded by his companions
+Tietkens, Young and Ross. And his map, prepared for and printed
+with the Forgotten Expedition in its pamphlet form, is also included.
+Both the magnificent portrait of the leader now used as a frontis-
+piece, and the better-known (and perhaps slightly earlier) group
+photograph of the expedition, are given by the courtesy of the
+Archives Department of the State Library of South Australia, as is
+the extract from Tietkens’s reminiscences. For Elder’s letters to Young
+the editor is grateful to the Trustees of the Mitchell Library.
+The editor is grateful also for information given by the librarians
+of the Mitchell Library, the La Trobe Library and the Battye Library.
+J. B.,
+November 1978
+* Geoffrey Dutton: Australia's Last Explorer, Ernest Giles, page 109: “his strange
+mixture of verse and prose’ ’.
+XIII
+
+
+THE JOUR
+THE JOURNAL
+OF A
+Forgotten Expedition.
+By ERNEST GILES,
+KNIGHT CHEVALIER OF THE CROWN OF ITALY j
+F.R.G.S., LONDON; AND GOLD MEDALLIST OF
+THE R.G.S FOR THE YEAR 1880 ;
+AND
+HONORARY F.R.G.S.’s OF VIENNA AND HALLE SAALE.
+ALSO OF THE
+ROYAL GEOGRAPHICAL SOCIETY OF HAMBURG.
+Reprinted from the “ Adelaide Observer,”
+JJ.i*laifce:
+W. K. Thomas & Co., Grenfell Street.
+1880.
+TITLE-PAGE OF THE FIRST EDITION
+
+
+JOURNAL OF A
+FORGOTTEN EXPEDITION
+Having conducted two former exploring expeditions into Central
+Western Australia, and having published in a small volume called
+Geographic Travels in Central Australia * the journals of my two preceding
+expeditions, it will not be very astonishing that I should now become
+the leader of a third. The wild charm and exciting desire that first
+induce an individual to commence the ardous existence of an explorer,
+and the pleasure and delight of visiting new and unknown lands, are
+only whetted the more by his first attempt, the more especially when
+he is constrained to admit that those first attempts had not resulted in
+carrying out the objects for which they were undertaken.
+My two first expeditions were conducted entirely with horses; all my
+subsequent ones —and which have been eminently successful —were
+conducted with camels —those wonderful “ships of the desert,”
+without which the travels and adventures which are here and sub-
+sequently recorded could not possibly have been performed; but before
+I plunge entirely into the occurrences of my travels with camels I will
+give a slight resume of my two former ones with horses.
+In both those expeditions the object I had in view was to push across
+the continent from different starting-points upon the South Australian
+transcontinental telegraph line to the settled districts of Western
+Australia. My first expedition was a very small one, it being fitted-
+out entirely at the expense of Baron von Mueller, my brother-in-law
+(Mr. G. D. Gill), and myself. I was joined in this enterprise by a young
+gentleman I met in Melbourne named Samuel Carmichael, who also
+contributed his share towards the undertaking. When we had been
+in the field a little over three months through the defection of
+Carmichael this first expedition ended all too soon, and the party
+returned to the telegraph line. The furthest point reached on this
+expedition being nearly 500 miles from my starting point. Upon my
+reaching the Charlotte Waters Telegraph Station, in latitude 25 0 55'
+* Melbourne, 1875.
+
+
+and longitude 135 0 , I met Major Warburton and his son (whom I had
+known before), who, to my great astonishment, informed me they were
+about to undertake an exploring expedition to Western Australia for
+two well-known capitalists of South Australia, viz., the Hon. Thomas
+Elder and Captain Hughes. Major Warburton also informed me that
+a South Australian Government expedition was just in advance of him
+for the same purpose under the command of Mr. William C. Gosse.
+This information took me greatly by surprise, as I had just returned
+from an attempt of the same kind —beaten and disappointed. I felt if
+ever I took the field again against two such formidable rivals as were
+now about to attempt what I had failed in—both supplied as they were
+with camels by Mr. Elder —my chances of competing with them would
+be very small, as I could only get horses. I was not then known to Mr.
+Elder at all, who was the only gentleman in Australia who possessed
+such animals as camels.
+The fact of two expeditions starting away simultaneously almost as
+soon as I had turned my back upon civilization showed me at once
+that my attempt —I being considered a Victorian —had roused the
+people and Government of South Australia to the importance of the
+question which I was the first to endeavour to solve, namely, the
+exploration of the unknown interior and the possibility of discovering
+an overland route for stock through Central Australia to the settle-
+ments upon the western coast. And this, I may remark, had been the
+dream of all Australian explorers from the time of Eyre and Leichhardt
+down to my time. It also showed that South Australia had no desire to
+be beaten in her own territory by “worthless Melbourne’s puling
+child,” and hence the two new expeditions under Gosse and Warburton
+started. Immediately my failure and return were made known by
+telegram to my friend Baron Mueller he set to work, and with un-
+wearied exertions on my behalf soon obtained a limited fund from a
+few wealthy gentlemen in the rival colony of Victoria, and which fund,
+in consideration of the information I had afforded by my first effort at
+exploration, the Government of South Australia supplemented by a
+subsidy of £250 provided I again took the field and expended the
+money in fresh exploration, and provided I supplied to the Govern-
+ment at the termination of my projected journey a copy of the map and
+journal of the expedition. As a new though very limited fund of £6OO
+was now placed at my disposal I had no inclination to decline a fresh
+attempt, and thus my second expedition was undertaken, and such
+dispatch was used by Baron Mueller and myself that I was again in the
+field (with horses only) not many weeks later than my two formidable
+rivals —Gosse and Warburton.
+On this expedition I was accompanied and seconded by Mr. William
+Henry Tietkens. He and I had both been scholars at Christ’s Hospital
+in London, though many years apart. Of the adventures and labours of
+that second expedition the readers of my journal can form their own
+opinion, and though I was again unsuccessful in carrying out my
+object, and though the expedition ended in the death of one member,
+
+
+and misfortune to the others, still by a few partial friends I have been
+told that it was really a splendid failure. On that expedition I explored
+a line of nearly 700 miles of previously unknown country in a straight
+line from my starting-point. During my absence upon this expedition,
+which occupied a year, Major Warburton got across to the De Grey
+River, upon the north-west coast, the route of his expedition having
+been mainly along the 20th parallel of latitude, while my last journey
+had been confined to the country intervening between the 24th and
+27th parallels.
+Immediately after Major Warburton’s arrival in Western Australia
+Mr. John Forrest started in command of an exploring expedition from
+that colony, with the intention of travelling eastwards from Mount
+Hale, on the Murchison River, in latitude 26°. On this journey Mr.
+Forrest succeeded in crossing to the end of my southern line, near the
+26th parallel, some little distance to the west of a range of hills I called
+the Warburton Range, which was 600 miles west from the telegraph
+line; and I may here remark that the credit and honour of the explora-
+tion of the whole of this line has somehow or other been given entirely
+to Mr. Forrest, while the reality of the case is that of the whole distance
+across of 1,000 miles I completed 600 miles the year before he com-
+menced his journey. Thus two lines of exploration were completed,
+but neither Forrest nor Warburton traversed a country of any pastoral
+or commercial value, and it was evident there was still a space of
+enormous extent, from the 26th parallel (where my last travels were
+prosecuted, and where Forrest’s track joined on to mine) to the shores
+of the Great Australian Bight, averaging over 400 miles in width, that
+might repay the toils, dangers, and expense of exploration by the
+discovery of some new and valuable tracts of watered pastoral lands.
+In both my former expeditions I had been most fortunate in the
+discovery of large areas of mountain country, permanently watered
+and beautifully grassed.*
+* These preliminary recollections mostly comprehend those made by Giles on a
+former occasion, the banquet given for his expedition at Perth in December 1875,
+as reported in the Perth Enquirer and the South Australian Register. Because the earlier
+account gives further biographical detail, in his own words, and because it perhaps
+was the more spontaneously made, it is now quoted from.
+Many years ago I was an outside bushman, taking up runs in New South Wales and Queensland,
+making a few hundred pounds now and then by anything I could sell. While thus engaged, I
+naturally acquired a desire to push into more remote and unknown regions. This desire so worked
+upon my imagination and feelings that for many years I attempted to organize an expedition to
+cross over to Western Australia. I was a long time before I succeeded in bringing the smallest of
+parties into the field, and my desire was at last accomplished by the united efforts of my brother-in-
+law, and Baron Mueller. I was on that occasion only supported by the most slender means, and
+our party consisting of myself, my brother-in-law, and another, only penetrated some 250 miles
+from the Transcontinental Telegraph line. The whole affair collapsed in consequence of dis-
+affection among the party, and we returned to South Australia. In the meantime, the enthusiastic
+ardour periodically manifested for territorial explorations —but which at the time I started on my
+first expedition (that just alluded to) seemed to have faded away —was kindled anew, for, in my
+[Continues overleaf]
+
+
+As my late travels had been almost in the centre of the continent, I
+now turned my eyes to that unknown portion above mentioned lying
+back from the south coast, and which it was reasonable to suppose
+might prove to be of a useful and valuable pastoral nature. On my
+return from my second expedition I first met the Hon. Thomas Elder,
+who had already done so much for Australian exploration by sending
+out Warburton’s expedition, furnishing Gosse’s expedition with
+camels, and also dispatching another under Mr. [John] Ross, which
+ended very abruptly, Mr. Ross returning without having penetrated
+any distance from civilization. From my first interview with Mr. Elder
+he appeared most willing to send me into the field again, and it was
+soon decided that he would equip me with camels and send me in
+command of a thoroughly efficient expedition. Upon this occasion I was
+to traverse the country lying under the 29th parallel of lattitude as near
+as possible, and I was to force my way through the southern interior to
+the city of Perth, in Western Australia, by a new and unknown route.
+But previous to commencing the new expedition Mr. Elder desired me
+to execute a commission for a gentleman in England of a squatting
+absence, ere I had regained the settlements, some colonists —notably Messrs. Elder and Hughes—
+had organized two other exploring parties, both provided with camels, with the object of proceeding
+from central stations on the Overland Telegraph line in a westerly direction. I was somewhat sur-
+prised at this sudden manifestation of ardourfor exploration, looking at the great want of sympathy I
+had experienced a few months previously when endeavouring to organize an expedition. However,
+the journal of my trip met with a very favourable reception in South Australia, to which colony,
+by-the-by, I do not belong. I and other members of our family emigrated to Melbourne many years
+ago, and at present reside there. Perhaps for that very reason I, a Victorian, did not meet with
+more ready sympathy in the sister colony when first endeavouring to organize an exploring
+expedition. I being first in the field, they may then have been jealous of my wresting the laurels
+from their own explorers. Be that as it may, I was anxious to re-enter the arena, and though the
+two other exploring parties were on their way —that of the South Australian Government, under
+Mr. Gosse, and that of Messrs. Elder and Hughes, under Colonel Warburton —I was enabled
+through the instrumentality of my friend Baron Mueller, and the aid of a number of generous
+Victorians, whose assistance was supplemented by a grant from the Government of South Australia
+—within whose territories all my first discoveries were made —to start more amply equipped on a
+second expedition. I should here mention that my friend Mr. Tietkens was with me on that
+occasion, as on many a previous unreported trip in South Australia. We have often suffered
+hardships together, but never such as we did on that occasion. Our last journey was a pleasure trip
+compared to that. On one occasion I and another member of the party left the camp on an excursion
+to attempt to penetrate some sandhills to the west, when my companion, to whom I had given my
+horse, was lost, and I had to walk back with an empty water-keg on my back a distance of some-
+thing over a hundred miles, in the heat of summer, during which all I had to eat was eleven sticks
+of smoked horseflesh, averaging about an ounce and a half each, and which I ate raw, having no
+water to boil them. My position at that time was certainly a precarious one. I was sixty miles
+from water and eighty from food, with the thermometer at go° in the shade. What made matters
+worse, the ground I had to travel over was all stones, and as my feet were very sore, I could only
+go at a snail’s pace over them. On that occasion I picked up a small dying wallaby, whose mother
+had thrown it from her pouch. It weighed about two ounces, and was scarcely furnished yet with
+fur. The instant I saw it I pounced upon it like an eagle, and ate it raw, dying as it was, fur,
+skin, and all. At last, owing to a combination of adverse circumstances, our party was compelled
+to retreat, and at that time your own explorer Mr. Forrest was in the field, and almost on the
+identical spot whence we had been obliged to retreat —at least, on the longitude of that spot.
+4
+
+
+nature in the neighbourhood of Fowler’s Bay, on the western coast of
+South Australia, and near the head of the Great Australian Bight. This
+work was done entirely with horses, though I had two camels, or rather
+dromedaries —a bull, a cow, and a young calf. There being no pack-
+saddle for the bull, and the cow being very poor, I had not yet made
+use of them. After I had completed my surveys near Fowler’s Bay and
+visited the remote locality of Eucla harbour, at the boundary of the
+two colonies of South and Western Australia, I had to proceed to
+Mr. Elder’s station and camel depot , at Beltana to fit-out for the new
+expedition for Perth. Beltana station lies about 300 miles nearly north
+from the City of Adelaide, while Fowler’s Bay lies nearly 450 miles
+about west-north-west from that city; and though Beltana is only 370
+or 380 miles in a straight line from Fowler’s Bay upon the map, yet the
+intervening country being unknown, and the great salt depression
+Lake Torrens lying in the way, I had to travel 700 miles to reach it,
+and as this was my first attempt with camels I shall now give an
+account of my journey there with them and three horses.
+Two of the three horses were the pick of a mob I had with me at the
+Bay, and were most excellent and favourite animals. While at Fowler’s
+Bay I had heard of a native watering place called Youldeh that was
+known to one or two white people, and I found that it lay about
+130 miles inland from the Bay in a north-north-westerly direction. On
+leaving Fowler’s Bay on Saturday, March 13, 1875, I had a strong
+party with me as far as Youldeh —my second in command Mr. Ghas.
+Roberts, Mr. Thomas Richards, police-trooper stationed at Fowler’s
+Bay, who having previously visited Youldeh was going, by permission
+of Geo. Hamilton, Esq., Commissioner of Police, to show me its
+whereabouts, and Mr. George Murray; I had also with me another
+white man, Peter Nicholls who was my cook, one old blackfellow and
+three young ones. Two of them led the camels, as they knew where
+Youldeh was. I sent them on one day in advance of the party, as we all
+rode horses, and had several pack-horses to carry our provisions and
+other camp necessaries. The weather was exceedingly hot, and though
+the previous summer months had been remarkably cool Nature
+seemed inclined to concentrate all the usual heat of an Australian
+summer into the two remaining months that were left to her. The
+thermometer usually stood for several hours of each day at 104°, 105°,
+and 106 0 in the shade.
+After leaving Colona, an out sheep station belonging to Fowler’s Bay,
+and lying some thirty-five miles about north-west from it, and where
+Mr. Murray, mentioned above, resided, we traversed a country
+alternating between belts of scrub and open grassy flats or small plains,
+until at twenty miles from Colona we reached the edge of a plain that
+stretched away to the north, and being evidently of a very great extent.
+The soil was very loose and yielding, and of a very poor quality.
+Although this plain was covered with vegetation there was no grass
+whatever upon it but a growth of a kind of broom, two to three feet
+high, waving in the heated breezes as far as the eye could reach, which
+5
+
+
+gave it a billowy and extraordinary appearance.* At fifty miles from
+Colona, and eighty-five from the Bay, we reached a salt kind of lagoon,
+and which, though several miles long, and perhaps a mile wide, Mr.
+Murray’s black boy informed us was the footmark (or track) of a
+monstrous animal or snake that used to haunt the neighbourhood of
+the big plain, and which had once been driven by the Cockata blacks
+out of the mountains to the north (the Musgrave Ranges of my last
+expedition), and that the creature had crawled down to the coast, and
+now lived in the sea. We had often heard tales from the blacks about
+this wonderful animal when sitting round the camp-fires at night, and
+whenever any native spoke of it it was always in a mysterious under-
+tone. What the name of this monster was I cannot now remember, but
+there were syllables enough in it to make a word as long as the lagoon
+itself. The tales that were told of it, the number of natives it had
+devoured, how such and such a blackfellow’s father had encountered
+and speared it, and how it had occasionally created floods all over the
+country when it was angry, would have made an excellent novel,
+which might be produced under the title of a “Black Romance.”
+When we laughed at or joked this young blackfellow, who now
+accompanied us, on the absurdity of his notions, he became very
+serious, as to him and his co-religionists it was evidently no laughing
+matter. Another thing was rather strange, and that was how these
+coast natives should know there were any mountains to the north of
+them. I knew it because I had been there and found them, but that
+they should know it was rather curious, for they have no intercourse
+with the tribes of natives that exist in the country to the north of them.
+Indeed, it required a good deal of persuasion to induce the young
+blacks who accompanied my party to go out to Youldeh at all; and if it
+had not been that an old man called Jimmy had been induced by
+Mr. Richards to go with the camels in advance, I am quite sure the
+young ones would not have gone at all.
+After crossing the salt lagoon (or animal’s track) and going five miles
+further about north-north-east, we arrived at some granite rocks
+amongst some low hills which rose up out of the plain, and where some
+rock waterholes existed, at which we found the two blacks that had
+preceded us, encamped with the camels. This place was called Pidinga,
+and was rather a pretty little place. The eye was charmed with
+flowering shrubs about the rocks and green grass. As the day was very
+hot we erected tarpaulins with sticks, which was the only shade we
+could get to sit under. There were a few hundred acres of good country
+round about these rocks, though the supply of water was limited to
+perhaps a couple of thousand gallons altogether.
+From Pidinga our route to Youldeh lay about north-north-west,
+distant 33 miles. For 25 or 26 miles we traversed an entirely open plain,
+similar to that just described, it being mostly covered with waving
+broom-bushes; but now upon our right hand and to the north of us,
+* Later identified by Giles as Eremophila Scoparia.
+6
+
+
+EXPEDITION MAP
+
+
+GILES’S MAP PUBLISHED 1880
+
+
+and stretching also to the west, was a dark line of higher ground
+formed of sandhills and fringed with low scrub and timber of various
+kinds, such as cypress pines (Callistris), black oak (Casuarina), stunted
+mallee (Eucalyptus) and a kind of myall (Acacia). This new feature (of
+higher ground) formed the edge of the plain, and is the southern bank
+of a vast bed of sandhill country that lies between here and the
+Musgrave Ranges, which lie nearly 300 miles to the north.
+Having reached the northern edge of the plain we had been traversing,
+we now entered the bed of sandhills and scrub which lay before us, and
+following the tracks of the two blackfellows with the camels (as there
+was no road whatever from Colona to Youldeh) we came in five miles
+to a spot where without the slightest indication to point out such a thing,
+except that we descended into lower ground, there existed a shallow
+native well in the sandy ground of a small hollow between the red sand-
+hills, and this spot the blacks said was Youldeh. The whole region was
+glowing with intense heat, and the sand was so hot that neither the
+camels nor horses could endure to remain standing in the sun, but as
+soon as they were unpacked and unsaddled sought the shade of the
+large and numerous leguminous bushes which grow all around the
+place. As there were five whites and four blacks, we had plenty of hands
+to set about the different kinds of work which had to be performed. In
+the first place we had to dig out the old well, which some volunteered
+to do while others erected an awning with tarpaulins, got firewood, and
+otherwise turned the wild and bushy spot into a locality suitable for a
+white man’s encampment. Water was easily procured at a depth of
+between three and four feet, and all the animals being watered with
+buckets drank as much as they desired, the camels appearing as
+though they never would be satisfied.
+With regard to the horses, it was only their parching thirst that
+induced them to remain anywhere near the camels, and immediately
+they got sufficient water, though short-hobbled, they decamped at a
+gallop over the high red sandhills from whence we had come, my riding
+horse —Chester —being the worst in the mob, always going nearly mad
+at the approach of the camels. There was not a sign of a blade of grass
+or anything else that horses could eat, except a few yellow immortelles
+of a large coarse description, and which they did not care very much
+for, while the camels, on the contrary, could take large and evidently
+agreeable mouthfuls of the leaves of the great bushes of the Leguminosae,
+which grew all round us. The conduct of the two kinds of animals was
+so distinctly different as to engage the curiosity of all of us, as the
+camels fed in peaceful content in the shade of the great bushes from
+which they ate, and never went out of sight, seeming to take great
+interest in all we did and evidently thoroughly enjoying themselves,
+while the horses were plunging about in hobbles over the sandhills,
+snorting and fretting nearly to death with fright and exertion, and
+neither having nor apparently desiring to get anything to eat. All they
+seemed desirous of doing was to get away as far as possible from the
+camels. The supply of water here seemed to be unlimited, but the
+
+
+sandy sides of the well kept falling in; therefore we had to get some
+stakes of mallee and native poplar (Godonocarpus, Cotinifolius, of the
+order of Phytolaccoe) saplings, and thoroughly slabbed it, at least
+sufficiently so for our time.
+This place, as I said before, was exceedingly hot, it lying at the
+bottom of a hollow amongst the sandhills, and all we could see from the
+tops of any of them near us was a mass of higher, darker, and more
+forbidding undulations of a similar kind to those we were amongst.
+These undulations existed to the east, north, and west, while to the
+south we could but dimly see the mirage upon the plain we had but
+lately traversed. The water we got here was fresh and sweet, and if the
+temperature had not been quite so hot we might have enjoyed our en-
+campment here; but there was no air, and we seemed to be at the
+bottom of a funnel. The old blackfellow, Jimmy, that Mr. Richards
+had obtained as a guide for me to show me some waters in the country
+to the eastwards from here, through the interpretation of Mr. Murray,
+informed us that he knew of only one water in any direction towards
+the west, and which he said was a small rock-waterhole, called Paring.
+The day following Mr. Murray and I rode there with old Jimmy, and
+found it to be a wretched little hole, lying nearly west-north-west, and
+about fourteen miles away. It contained only a few gallons of water,
+which was almost putrid from the number of dead and decaying birds,
+rats, lizards, and rotten leaves and sticks that were in it. Had the hole
+been full it would have been of no earthly use to me.
+Old Jimmy was not accustomed to riding, and got out of his latitude
+once or twice before we reached the place. He was, however, rather
+proud of finding himself in the novel position (albeit rather late in life)
+of riding on horse-back, and, if I remember rightly, did not tumble off
+more than three or four times during the whole day. This old black-
+fellow was a very agreeable old chap, though I could not keep up a
+conversation with him, as I knew so few words of his language, and he
+knew only about twenty of mine; but it was quite evident he was a
+man of very superior abilities to most of his race; indeed, he looked
+like a thoroughbred, and had always been known to Mr. Richards as
+a proud and honourable old fellow. He was, moreover, the father of a
+large family, all of whom he had left behind, as well as his wife, to
+oblige me, and many a time he regretted it before he saw them again,
+not from any unkindness on my part, as my readers will see we were
+the best of friends the whole time we were together. On this little
+excursion it was very amusing to watch old Jimmy on horseback, and to
+notice the look of blank amazement on his face when he found himself
+at fault amongst the sandhills, and the way in which he excused him-
+self for not going straight to this little spot was very ingenuous. In the
+first place, he would say —“jVo/ mine young fellow now. Not mine like um
+pony (the name for horses at Fowler’s Bay). Not mine see um Paring long
+time , only when lam boyf which being interpreted meant —“I am not
+able to manage a horse like a young fellow; and not having been
+accustomed to horses when I was young, I am not quite so fond of
+8
+
+
+them, as I might otherwise be; and I have not been at this place,
+Paring, since I was a child.” So some allowance must be made for my
+not going perfectly straight to the place.
+However, we got there all right, and as I said before a very poor
+place it was. Old Jimmy knew of no other water or watering-place
+anywhere else about here. When asked concerning the country to the
+north, he declared it was Cockata —the country to the west was also
+Cockata , the dreaded name of Cockata always appearing to carry a
+kind of nameless undefined horror with it. The term Cockata Blacks is
+applied by the Fowler’s Bay tribe to all the other tribes of natives which
+exist in the country inland from the coast, and it seems (although when
+Fowler’s Bay country was first settled by whites these natives attacked
+and killed several white people) they always lived in terror of the other
+tribes that resided to the north of them, and any atrocity that was
+committed, either cannibalism, theft, or murder, was always put down
+to the account of the Cockatas. Occasionally a mob of these wilder
+aboriginals would make a descent upon the quieter coast blacks, and
+carry off women and other spoils, such as opossum rugs, spears, shields,
+coolamins (vessels of wood like small canoes for carrying water), after a
+fight, when they usually killed several of the conquered nation.
+After having remained at this Paring for about an hour, we re-
+mounted our horses, and returned to the camp at Youldeh. The party
+remained at this place for a few days, hoping for a change in the
+weather, as the heat was now very great, and the country in the
+neighbourhood of the most forbidding and formidable nature to
+penetrate. It consisted of very high and scrubby red sandhills, and it
+was altogether so unpleasing a locality that I abandoned the idea for
+the present of pushing to the north to discover if any other waters could
+be found in that direction, and postponed the attempt until I should
+return to this depot en route for Perth with the whole of my new
+expedition, intending now to make my way to the eastwards, to reach
+Beltana by a route previously untravelled. Upon the morning after I
+returned from Paring all the horses were away; indeed, as I said
+before, there was nothing whatever for horses to eat at this place, and
+they always rambled as far as they could possibly go from the camp, to
+get away from the camels, though those more sensible animals were, so
+to say, in clover. We had three young blackfellows and old Jimmy, and
+it was the young ones’ duty to look after and get the horses, while old
+Jimmy had the easier employment of taking care of the camels. On
+this morning two of the young blacks were sent out very early in the
+morning to get the horses, whilst the other and old Jimmy remained to
+do anything that might be required at the camp. The morning was very
+hot and oppressive, and by twelve o’clock no sign of black boys or
+horses had made their appearance. About one o’clock we had some
+dinner, and gave old Jimmy and his mate theirs, and I noticed the
+younger black left the camp with a bit of a bundle under his shirt, and
+a canvas water-bag, so I and some of the others watched where he
+went, and to our surprise we found that he was taking food and water
+9
+
+
+to the two other black boys, who should have been away after the
+horses, but who were quietly encamped under a big bush within a
+quarter of a mile of us, and who had never been away after the horses
+at all. Of course we were very indignant, and were going to punish
+them with a good thrashing, when one of them informed us that it was
+no use our hammering them, as they could not go for the horses,
+because they were too much frightened of the Cockata Blacks, and unless
+we sent old Jimmy or a whitefellow they wouldn’t go out of sight of the
+camp. This showed the state of superstition and fear in which these
+people live. Indeed, I believe if the whole Fowler Bay tribes were all
+encamped together in one mob round their own fires, in their own
+country, and any one ran into the camp and shouted Cockata , it would
+cause a stampede amongst them immediately. It was very annoying to
+think that the horses had got so many hours’ start away from the camp,
+and the only thing I could do was to send a white man and old Jimmy
+with these boys to get the absent animals. Mr. Roberts volunteered to
+go, and had to camp out away from water, not returning until late the
+following day, with only about a third of the mob. The next day they
+were all got but three, one of which was a police horse of Mr. Richards’,
+which was never seen after, and two colts of mine, which found their
+way back to, and were eventually recovered at, Fowler’s Bay by Mr.
+Roberts.
+While encamped here we found Youldeh to be a most fearful place,
+the flies, ants, and heat being each intolerable. We were at the bottom
+of a sandy funnel, into which the fiery beams of the sun were poured in
+burning rays, and the radiation of heat from the sandy country around
+made it all the hotter. Not a breath of air could be got as we lay or sat
+panting in the shade we had erected with our tarpaulins. No view
+could be got for more than a hundred yards anywhere, unless one
+climbed to the top of a sandhill, and then all that could be seen were
+other sandhills all round. The position of this place I found to be in
+latitude 30° 24' 10", and approximate longitude 13 1 0 46' o". On the
+23rd March Mr. Murray, old Jimmy, and I went to the top of a sand-
+hill overlooking the camp, and had a long confabulation with old
+Jimmy —at least Mr. Murray had —and he interpreted the old fellow’s
+remarks to me. It appeared that this old gentleman knew the country,
+and some watering-places in it, for some little distance to the eastwards,
+and on making a kind of map on the sand he put down several places,
+which he called by the following names, viz.—Chimpering, Mowling,
+Pylebung, Whitegin, and Wynbring, of which he said Pylebung and
+Wynbring were the best waters. By his account they all lay due east
+from here, and appeared to be the most wonderful places in the world.
+He said he had not visited any of these places since he was a little boy
+with his mother, and it appeared his mother was a widow, and that
+these places belonged to her country, but that she had subsequently
+become the wife of a Fowler’s Bay native, who had taken her and her
+little Jimmy away out of that part of the country; therefore he had not
+been there since. He said that Pylebung was a water that stood up high ,
+10
+
+
+and that Cockata blackfellows had made it with wooden shovels. This
+certainly excited my curiosity, as I had never seen anything which
+could approximate to old Jimmy’s description. He also said it was
+mucka piccaninny water, only big one, which meant that it was by no means
+a small water, but a large one. Chimpering and Whitegin, he said,
+were rock-holes, but Wynbring, the furthest place, he knew, according
+to his account was something astounding. He said it was a mountain , a
+water hole, a lake , a spring, and a well, all in one, and that it was distant
+about six sleeps from Youldeh, which, according to our rendering (as
+Jimmy declared also that it was mucka close up, only long way), we
+considered to be about 120 miles. Beyond Wynbring Jimmy knew
+nothing whatever of the country, and I think he had a latent idea in
+his mind that there really was nothing beyond it.
+The result of our interview was that I determined to send back to
+Fowler’s Bay all the party except one white man and old Jimmy, and
+all the horses except three, and to start with this small party and the
+camels on the following day to the eastward. I selected Peter Nicholls
+to accompany me. I found the boiling-point of water at the camp was
+211 0 , making its altitude above the sea 509 feet; the sandhills were
+about 100 feet high on the average.
+The two camels and the calf were sent to me whilst at Fowler’s Bay
+by Mr. Elder from Adelaide. There was only a riding saddle for the
+cow, the bull not having one at all, and he came to me barebacked. I
+therefore had to set to work to invent a pack or baggage saddle for him,
+and I will venture to assert that nine hundred and ninety-nine thousand
+nine hundred and ninety-nine people out of every million would rather
+be excused the honour. Mr. Armstrong, one of the owners and manager
+of the Fowler’s Bay Station, supplied me with every requisite I required;
+but unfortunately the iron of which I made the saddletrees was not
+stout enough, and though in other respects the saddle was a brilliant
+success (though made upon a totally different principal to that of an
+Afghan’s saddle), yet when the animal was loaded, through the weak-
+ness of the iron it kept continually widening, and in consequence the
+iron pressed down on the much-enduring creature’s body and hurt him
+severely. We continually had to stop, take his load and saddle off, and
+bend the iron closer together again so as to preserve some semblance
+of an arch or rather two arches over his back, one before and one
+behind his hump. Every time Nicholls and I went through this
+operation we were afraid the iron would give and snap in half with our
+pressure, and so it would only the fiery rays of the sun kept it almost at
+a glowing heat. This and the nose-ropes getting continually broken,
+together with making new buttons with pieces of stick, caused us many
+harassing delays.
+On the 24th March, 1875, we bade good-by to the friends that had
+accompanied us to this place, and who all started to return to Fowler’s
+Bay the same day. With Peter Nicholls, old Jimmy as guide, and the
+two camels and three horses, late in the day I turned my back upon
+the Youldeh camp. We carried as much water as we could upon one
+11
+
+
+camel and one horse, Nicholls riding the cow camel and old Jimmy and
+I riding a horse each. The horses were still terribly frightened at the
+camels, and it was almost impossible to sit my horse Chester when the
+camels came near him behind; the horse carrying the load of water
+followed the two riding horses, but towards dusk he got frightened and
+bolted away into the scrub, load of water and all. We had only come
+seven miles that afternoon, and it was our first real practical acquaint-
+ance with camels. Jimmy and I had continually to wait till Nicholls and
+the camels made their appearance, and whenever Nicholls came up to
+us he was in a most fearful rage with them. The old cow that he was
+riding would scarcely budge for him at all. If he beat her she would lie
+down and yell and squall and spit and roll over on her saddle, and
+behave in such an extraordinary manner that, neither of us knowing
+anything about camels, thought she was going to die. The sandhills
+were most oppressively steep, and the old wretch perspired to such a
+degree, and altogether became such an unmanageable nuisance, that I
+began to think camels were not half the wonderful animals I had
+fondly imagined them to be. The bull camel, Mustara, behaved much
+better. He had a good heavy load, but he followed the cow without
+being fastened in any way. The calf, with great cunning, not relishing
+the idea of leaving Youldeh, would persistently stay behind and try
+and induce its mother not to go on, in which it partially succeeded, for
+by dusk, just as I found I had lost the packhorse with the water —and
+waited till Nicholls, who was following our horsetracks, came up to
+us —we had only come about seven miles, having travelled at no greater
+speed than about a mile an hour since we left the camp. The two
+remaining horses were so restless that I was compelled to stand and
+hold them while waiting for Nicholls, and old Jimmy walked off in the
+darkness to try and find the missing one. By the time Nicholls arrived
+(guided by the glare of a large fire) with the camels, the horse had
+been gone about two hours. Thus our first night’s bivouac was not a
+very pleasant one. There was nothing whatever for the two horses to
+eat, and if they had been let go even in hobbles in all probability we
+should never have seen them again. Old Jimmy returned after a
+useless search for the absent horse. The camels wouldn’t feed, but lay
+down in a sulky fit, the two horses continually snorting and endeavour-
+ing to break away; and thus the night was passing away, when we
+heard the tinkle of a bell (the horse we had lost having a bell on his
+neck), and Jimmy and Nicholls went away through the darkness and
+scrubs and sandhills in the direction it appeared to proceed from. I
+kept up a large fire to guide them, and in about an hour they returned
+with the missing horse. When this animal took it into his head to bolt
+off he was out of earshot in no time, but it seems he must have thought
+better of his proceedings and returned of his own accord to where he
+had left his mates. We were glad enough to get him again, and the
+water he carried.
+The next morning we were under weigh very early, and following
+the old guide Jimmy we went in a south-east direction towards the first
+12
+
+
+watering-place that he knew, and which he said was called Chimpering.
+Many times before we reached it the old fellow seemed very uncertain
+of his whereabouts; but by dodging about amongst the sandhills (for
+the country was all rolling hummocks of red sand, covered with dense
+scrubs and spinifex) he managed to drop down upon it after we had
+travelled about thirty miles from Youldeh. Chimpering consisted of a
+small acacia hollow —or, as we say, a mulga hollow, the mulga being
+the acacia aneura —in which a few bare red granite rocks were exposed
+to view; and in a crevice between two of these Jimmy showed us a
+small orifice which, upon baling out, we found to contain only three
+buckets of a most filthy black fluid that old Jimmy declared was water,
+and we annoyed him fearfully by pretending we did not know what it
+was. Poor old chap, he couldn’t explain how angry he was at us, but
+he managed to stammer out, “Whitefellow —fool; pony drink ’em.”
+The day was excessively hot —the thermometer stood at io6° in the
+shade —the horses, or ponies as Jimmy and all the Fowler’s Bay
+natives call them, drank the dirty water with avidity. It was early in the
+day when we arrived here, and as soon as the water was drunk we pushed
+on towards the next place, which was Pylebung, and which our guide
+had at Youldeh so excited our curiosity about that I was most anxious
+to reach it. Jimmy said it was not very far off.
+On the night of the 26th March, just as it was getting dark, and
+having left Chimpering about twenty-five miles behind us, we entered
+a piece of bushy mulga country, the bushes being so thick that we had
+very great difficulty in forcing our way through it in the dark. Our
+guide seemed very much in the dark also, as his movements were
+exceedingly uncertain, and I could see by the stars that we were
+winding about to all points of the compass. At last old Jimmy stopped,
+and said we had reached the place where Pylebung ought to be, but
+it was not; and here he said, pointing to the ground, was to be our
+wurley (or camp) for the night. But when I questioned him, and asked
+him which way water, he only replied —which way? This question I
+was altogether unable to answer, and was not in a very amiable frame
+of mind, for we had been traversing the most frightful country all day,
+in dense scrub, in parching thirst, and unpitying heat, so I told
+Nicholls to unpack the camels while I unsaddled the horses. All the
+animals seemed overpowered with lassitude and exhaustion. The
+camels immediately lay down, and the horses stood disconsolately,
+standing close to them, now no longer terrified at their proximity.
+Nicholls and I extended our rugs upon the ground, and lay down on
+them, and then we discovered that old Jimmy had left the camp, and
+we thought he had given us the slip in the dark. We had been lying
+down some time when the old chap returned, and in the most voluble
+and excited language told us he had found the water —it was (he said)
+big one waiter , mucka piccaninny , and in his delight at his success he began
+to describe it, or try to do so in the firelight on the ground; he kept
+saying —big one waiter , big one waiter —watter go that way —watter go
+this way —watter go that way and watter go that way —turning him-
+13
+
+
+self round and round, so that I thought it must be a lake or a swamp
+he was trying to describe. However, we got the horses and camels
+resaddled and packed, and took them down where old Jimmy led us.
+The moon had now risen above the high sandhills which surrounded
+us, and we soon emerged upon a piece of open ground, where there was
+a large white clay-pan (a bare patch of white clay soil) glistening in the
+moon’s rays, and upon which there appeared a most astonishing object,
+something like the wall of an old house or a ruined chimney. On
+arriving at it we saw that it was a circular wall or dam of clay, nearly
+five feet high, with a segment open to the south, to admit and retain
+the rain water that occasionally flows over the flat into this artificial
+receptacle. In spite of old Jimmy’s asseverations there was only
+sufficient water to last one or two days, and what there was, was very
+thick and whitish-coloured. The six animals being excessively thirsty,
+we could see the volume of the fluid gradually diminishing in the
+moonlight before our eyes. This wall or dam, constructed by the
+aboriginals, is the first piece of work of art or usefulness that I had ever
+seen in all my travels in Australia, and if I had only heard of it, I should
+seriously have reflected upon the credibility of my informant, because
+attempts of skill or ingenuity on the part of Australian natives in any
+way applied to building or the storing of water have previously never
+been met with, and I was very much astonished at beholding it now.
+This piece of work was two feet thick on the top of the wall; twenty
+yards in the length of its sweep, and at the bottom, where the water
+lodged, the embankment was nearly five feet thick. The clay of which
+this dam was built had been dug out of the hole in which the water
+lay, with small native wooden shovels, and piled up to its present
+dimensions. Immediately around this singular monument of native
+industry there are a few hundred acres of very pretty country, beauti-
+fully grassed and ornamented with a few mulga acacia trees, standing
+picturesquely apart. The spot lies in a basin or hollow, and is sur-
+rounded by scrubs and rolling sandhills in all directions. How we got
+to it I can scarcely tell, as our guide kept constantly changing his
+course, so that the compass was of little or no use, and it was only by
+the sextant I could discover our whereabouts; by it I found we had
+come 58 miles from Youldeh on a bearing of south 68° east, being now
+in latitude 30° 43', and longitude 132 0 44'.
+There being so little water here I was unable to remain more than
+one day, the thermometer during which indicated 104° in the shade.
+To the eastward of this dam there was a sandhill with a few black oaks
+(or casuarinas) growing upon it, about a quarter of a mile away. It had
+a number of stones of a calcareous nature scattered about on it. On
+going up this hill the day we rested the animals here, I was surprised
+to find a broad path had been cleared amongst the stones for some
+dozens of yards, an oaktree at each end being the terminal points. At
+the foot of each tree, at the end of the path, the largest stones were
+heaped. The path was indented by the tramplings of many natives’
+feet, and I felt sure it was one of those places where the men of this
+14
+
+
+region perform inhuman mutilations upon the youths and maidens
+of their tribe. I questioned old Jimmy about these matters, but like all
+others of his race, who, while admitting the facts, protest that they
+individually have never officiated at such doings.
+Upon leaving this place (Pylebung) Jimmy informed me that
+Mowling was the next watering-place, and he said it lay nearly east
+from here; but I found we went nearly north-east to reach it —which
+we did in 17 miles, the country through which we passed being as usual
+all sandhills and scrub. Mowling consisted of a small acacia hollow,
+where there were a few boulders of granite, in which were found two
+small holes, both being as dry as the surface of the rocks in their
+vicinity. On our route from Pylebung, we had seen the tracks of a
+single bullock, he also had found his way to Mowling; but it must have
+been some time since his visit. From here old Jimmy led us a good deal
+to the south of east, and we arrived at another exposure of granite
+rocks in the dense scrub. This place Jimmy called Whitegin. It was ten
+or eleven miles from Mowling. There was a small crevice between the
+rounded boulders of rock, which held barely sufficient water for the
+three horses, the camels getting none, though they persisted in bother-
+ing us all the afternoon, and they appeared very thirsty. They kept
+coming up to the camp perpetually, pulling our canvas bucket and
+tin utensils about with their lips, and I found the cunning of a camel
+in endeavouring to get water at the camp far exceeded that of any
+horse. There were a few dozen acres of pretty ground here, with good
+grass and herbage on it. We had a great deal of trouble today in getting
+the camels along, and the foal or calf belonging to the old riding cow
+got itself entangled in its mother’s nose-rope, and we, not then under-
+standing the management of camels, and how their nose-ropes and
+saddles ought to be adjusted (particulars of which I shall mention by
+and by) could not prevent the little brute from tearing the nose-
+button clean through the cartilage of the poor old cow’s nose, which
+not only caused the animal frightful pain, but made her more obstinate
+and stubborn, and worse to get along than before. The agony this poor
+animal suffered from flies must have been excruciating, as after this
+accident they would get into her nostrils in such numbers that we often
+saw her hang back, and cough and snort until she would eject nearly
+half a pint of blood and flies out of her nose.
+For the last few miles we had not been annoyed by quite so much
+spinifex as usual, but the vast amount of dead wood and underbush
+that existed was very detrimental to the progress of the camels, who
+are not by nature formed for continually lifting their feet; therefore
+their toes got constantly entangled with the dead sticks, and became
+very sore.
+The scrub here —at Youldeh —and all the way we had come,
+consisted mostly of mallee (eucalyptus dumosa), mulga (acacia aneura),
+prickly bushes (hakea), grevillea trees, and a few oaks (casuarinas).
+This place (Whitegin) was 85 miles straight from Youldeh, though we
+had travelled about 100 to reach it, as Jimmy kept always turning and
+15
+
+
+twisting about in the scrub in all directions. On leaving Whitegin we
+travelled a good deal to the north of east, the thermometer in the shade,
+while we rested there, going up to 103°. Jimmy said the next place
+we should get water at was Wynbring, and from what we could make
+out of his jargon, he seemed to imply that Wynbring was a large water-
+course, descending from a mountain, and having a stony bed. He also
+said that we were now close to it, and that it was only a piccaninny
+way (meaning only a small or short distance). However the shades of
+night descended upon us once more in the scrubs of this desert, and we
+were again compelled to encamp in a place lonely and without water,
+amidst the desolations of this scrub-enthroned tract. Choking with
+thirst and sleepless with anxiety the hours of night pass on; no dews
+descend upon this heated place, and though towards dawn a slightly
+cooler temperature is felt, it is so near the reappearance of the sun that
+there has been no time for either earth or man to be benefitted by it,
+as long before the sun itself appears, the avant couriers of his fiery might
+in the form of heated glow and feverish breeze come rustling through
+the foliage of the mallee trees, giving out the semblance of a mournful
+sigh, as if they too suffered from the intensity of the heat and thirst of
+this desolate region, in which they are doomed by fate to dwell, and as
+if they wished to let the wanderers that were passing amongst them
+know that they also felt and were sorry for their woes.
+The morning of March 3 1 was exceedingly hot, the thermometer at
+dawn standing at 86°. We were up and after the camels and horses
+long before daylight, tracking them by the light of burning torches of
+great bunches and boughs of the mallee trees (which burn almost as
+well green as dry, from the quantity of the aromatic eucalyptic oil
+which is contained in them), and enormous bushes of spinifex, which
+we lighted as we passed. Having got all the animals we started early,
+and were moving onwards again before sunrise. From Whitegin I
+found we had come on a nearly north-east course, and at 28 miles from
+there, the scrub fell off a trifle in height and density. This morning old
+Jimmy travelled much straighter than was usual with him, and it was
+evident he had now no doubt that he was going in the right direction.
+At about 10 o’clock in the morning, after we had travelled about 13 or
+14 miles, Jimmy made an exclamation, and pointed out something to
+us, and declared that it was Wynbring, when I could at once perceive
+how excessively inaccurate the old gentleman’s account of Wynbring
+had been, for instead of its being a mountain , I could see that it was
+simply a round bare mass of stone, standing in the centre of an open
+piece of country, surrounded on all sides by the dense scrub as usual.
+When we arrived at the rock we found the large creek channel promised
+by Jimmy had microscopicated itself down to a mere rock hole, whose
+dimensions were not very great. The rock itself was a bare expanse of
+granite, an acre or two in extent, and was, perhaps, 50 feet high, while
+the only receptacle for water upon it was a crevice 40 feet long by
+4 feet wide, with a depth of about 6 feet in its deepest part. It was not
+full, but it held an ample supply for all our present requirements.
+16
+
+
+There were a few low sandhills near, which were ornamented with
+occasional mulga trees, and they made the place look very pretty and
+picturesque. There were several old and new native gunyahs (or
+houses, if such a term can be applied to such insignificant structures)
+constructed of branches and boughs of trees. Australian aborigines are
+a race of people who do not live in houses at all; but still the common
+instincts of humanity induces all men to try and secure some spot of
+earth for a time at least we may call our home, and though the
+nomadic inhabitants or owners of these Australian wilds do not, as a
+rule, remain for long in any one particular place (in consequence of
+the game becoming for the time either too wild or else all destroyed,
+or the water being used up or evaporated), yet wherever they are
+located every man or head of a family has his home and his house, to
+which in after seasons he returns. The natives in this, as in most other
+parts of Australia, seldom hunt without making perpetual grass or
+spinifex fires, and the traveller in these wilds may be always sure that
+natives are in the neighbourhood when he can see the smokes, but it
+by no means follows that because there are smokes there must be water.
+An inversion of the terms might be considered far more correct, and
+you might safely declare that because there is water there are sure to
+be smokes, and because there are smokes there are sure to be fires, and
+because there are fires there are sure to be natives; and the present
+case was no exception to the rule, as several columns of smoke appeared
+in various directions. Old Jimmy’s native name, by-the-way, was
+Nanthona, on account of which most white people at Fowler’s Bay
+called him Anthony, which annoyed him horridly. I at first also called
+him Anthony, but one day at Youldeh he said to me —“Master,
+nothing, you call em mine Anthony —nothing Nanthona. Nanthona no
+good; you call em mine Jimmy. Jimmy all right —Jimmy whitefellow
+name.” So, of course, I always called him Jimmy after that. When at
+Youldeh the old fellow had mentioned this spot (Wynbring) as the
+furthest water he knew of to the eastwards, and now that we had
+arrived at it he declared that beyond it there was nothing —nothing.
+It was the ultima thule of all his geographical ideas —he had never seen,
+or heard, or thought of anything beyond it. I must say that it was a
+most agreeable little oasis, and an excellent spot for an explorer to
+come to in such a frightful region as that which surrounds it, as here
+were the three requisites that constitute an explorer’s happiness —that
+is to say, there were wood, water, and grass, there being splendid
+green-feed and herbage on the few thousand acres of the open ground
+around. The old black guide had certainly brought us to this romantic
+and peculiar spot with, I suppose I may say, unerring precision;
+albeit, he wound about so much in the scrubs and made the distance
+far greater than it really should have been; but when I came to
+consider the matter I was certainly struck with admiration at his
+having done it at all, and how he or any other human being (not having
+the advantages of science at his command to teach him by the uses of
+the heavenly bodies how to find the position of any locality) could
+17
+
+
+possibly return to any of the places we had visited in such a wilderness
+as this, especially as it was done by the recollection of spots which have
+no special features and no guiding points, was really very marvellous.*
+We had travelled at least 120 miles eastward from Youldeh, and when
+there this old fellow had told us that he had not visited any of the
+places he was going to take me to since his boyhood, which at the very
+least calculation must have been over forty years ago, for Jimmy was
+at least fifty, if not seventy, years old. The knowledge possessed by
+these children of the desert is preserved owing to the fact that they have
+their imaginations untrammelled, the denizens of the wilderness having
+their mental faculties put to but few uses, and all are concentrated to
+the object of obtaining food for themselves and their offspring. What-
+ever ideas they possess (and they are by no means dull or backward in
+learning new ones) are ever keen and young, and nature has endowed
+them —in whatever intellectual gifts she has afforded them —with an
+undying mental youth until their career on earth is ended. As says the
+deep but witty poet, Bon Gaultier, speaking of savages or men in a
+state of nature —
+“ There the passions may revel unfettered,
+And the heart never speak but in truth:
+And the intellect, wholly unlettered,
+Be bright with the freedom of youth.”
+Assuredly man in a savage state is by no means the unhappiest of
+mortals. Old Jimmy’s faculties of memory were several times put to the
+test during the eight days we were travelling from Youldeh to this
+place. Sometimes when leading us through the scrubs, and perhaps for
+some miles having travelled nearly east, he would notice a tree or a
+sandhill, or something that he remembered, and would from that point
+turn suddenly in a direction entirely different, towards some high and
+severe sandhill, where he would perhaps climb a tree, when, after a
+few minutes’ gazing about, he would descend, mount his horse, and go
+off on some new line, and in the course of a mile or so he would stop at
+some tree and tell us that when a little boy he got a ’possum out of a
+hole which existed in the tree. At another place he said his mother was
+4
+* In May 1875, after news of the murder at the Herbert River of an old bushman,
+Conn, had reached Adelaide, an unnamed correspondent in the South Australian
+Register stated the following.
+The first journey into the bush made by Mr. Giles was under Mr. W. G. Conn's guidance, who
+was considered in his day to have been a brave and clever bushman and explorer ... At an
+interview at an office which took place a short time since in this city, there were present Mr. W. G.
+Conn, Mr. Giles, and his fellow-explorer Mr. Tietkens. A gentleman who formed one of the
+party [Elder?] recollects Mr. Conn addressing himself to Mr. Giles in the following words : —
+“ Now, my boy Ernest, whatever part of the country you go to, treat the blacks kindly; you will
+find in cases of extreme need they can render you great service .”
+It is irrelevant to Giles’s history, but Conn had in fact been killed (and partly eaten)
+by those whose kind treatment he had urged, and the Register added, “What a
+melancholy termination for a man with such humane ideas, for he was one of
+nature’s gentlemen . .
+18
+
+
+bitten by a wild dog which she was digging out of a hole in the ground.
+And thus we came to Wynbring at last.
+A conspicuous mountain —indeed, the only object upon which the
+eye could rest above the dense scrub that surrounded us —bore south
+52 ° east from Wynbring Rock, and I supposed it was Mount Finke.
+Our advent here disturbed a number of natives, as their fresh foot-
+prints were everywhere about the place; and our guide, not being at
+all easy in his mind as to what sort of reception he might get from the
+owners of this demesne, told me if I would let him have a gun he would
+go and hunt them up, and try and induce some of them to come to the
+camp. The old chap had but a very limited experience with firearms,
+so I gave him a gun unloaded, as he might have shot himself or any
+other of the natives he might meet, without intending to do any harm.
+Away he went, and eventually returned with five captives, namely an
+antiquated one-eyed gentleman, with his three wives and one baby,
+which belonged to the second eldest wife, who had been a woman of
+considerable beauty, but now was rather past her prime, and had been
+somewhat rudely touched by the hand of that inexorable tyrant Time,
+that delves the parallels upon fair beauty’s brow. What the oldest wife
+could have ever been like, it was impossible to guess, as now she
+seemed more like an old she-monkey than anything else. The youngest
+was in the first flush of youth and grace. The new old man was very
+tall, and had been very big and powerful, but he now was shrunk and
+grey with age. He ordered his wives to sit down in the shade of a bush
+near our camp, which they did. I walked towards the old man, when
+he immediately threw his aged arms round me, and clasped me
+rapturously to his ebony breast. Then his most ancient wife followed
+his example, clasping me in the same manner. The second wife was
+rather incommoded in her embrace by the baby she had in her arms,
+and which squalled horribly the nearer its mother put it to me. The
+third and youngest wife, who was really very pretty, appeared most
+enchantingly bashful; but what was her bashfulness compared to mine
+when compelled to enfold in my arms a beautiful and naked young
+woman? It was really a most distressing ordeal. She showed her
+appreciation of our company by the glances of her black and flashing
+eyes, and the exposure of two rows of most beautifully even and pearly
+teeth. However charming woman may look in a nude and native state,
+with all her natural and youthful graces about her, still, the poetic
+line, that beauty unadorned adorned the most, is not entirely true.
+Woman never appears so thoroughly charming as when her graces are
+enveloped in a becoming dress. These natives all seemed anxious that
+I should give them names, and I took upon myself the responsibility of
+christening them. The young beauty I called Polly, the mother Mary,
+the baby Kitty, the oldest woman Judy, and to the old man I gave the
+name of Wynbring Tommy, it being an easy one for him to pronounce
+and remember. There exists amongst the natives of this part of the
+continent an ancient and Oriental custom which either compels or
+induces the wife or wives of a man, if he is in any way disfigured in
+19
+
+
+form or feature, to show their love or esteem by similarly disfiguring
+themselves, on the same principle that Sindbad the Sailor was buried
+with his wife. In this case the two elder wives of this old man had each
+relinquished an eye, and no doubt the time was soon approaching when
+the youngest should also show her conjugal fidelity and love by
+becoming similarly deprived, unless the old heathen should happen to
+die shortly, and she become espoused to some other rejoicing in the
+possession of a full complement of eyes. A consummation devoutly to be
+wished.
+The position of this rock and watering-place I found to be in latitude
+30° 31' o", and longitude 133 0 30' o". The heat still continued very
+great, as the thermometer at its highest reading never indicated less
+than 104° in the shade while we were here. The flies at this place, and
+indeed for weeks before we reached it, were terribly numerous, and
+we were troubled also with myriads of the large March flies —those
+horrid pests, about twice the size of the blowfly, and which bite men
+and horses indiscriminately. These wretches would not allow either
+the camels, horses, or ourselves a moment’s respite during the whole
+day, from dawn to dusk. They almost ate the poor animals alive, and
+the poor creatures were kept in a state of perpetual motion in their
+hobbles all the while we were here. In the daytime it was only by
+continued use of our hands in waving a handkerchief or bough that we
+partially kept them off ourselves, for with all our efforts to drive them
+away we were continually bitten and almost stung to madness by them.
+I have often been troubled and bitten by these flies in other parts of
+Australia during my many wanderings, but I never experienced so
+much pain and annoyance from them as at this place. The hideous
+droning noise which a multitude of these insects make is quite enough
+to destroy one’s peace, but when their incessant bites are added it
+makes existence a burden.
+Since leaving Youldeh (and while there also) the days had been
+frightfully hot, and the nights had been close, cloudy and sultry. The
+only currents of air that ever stirred the foliage of the trees in the day-
+time were like the breath from a furnace, while at night there was, so to
+say none at all. The first of April, the last day we remained here, was
+the worst and hottest day we had felt. Life was almost insupportable,
+and I determined to depart upon the morrow. There had evidently
+been some rain at this rock lately, as the grass and herbage were green
+and luxuriant. It was most fortunate for us —as my subsequent
+narrative will show —that we had some one to guide us to this spot,
+which by observation I found lay almost east of Youldeh, and that it
+was distant from that depot no miles in a straight line. Old Jimmy
+now knew nothing whatever of the region which lay beyond, and
+though I endeavoured to get him to ask the old man and his
+wives where any other waters existed, all the information we could
+gather from these persons amounted to this: that there was a big
+mountain and no water at it. The old man at last found enough
+English to say “Big fellow, Poonta,” (stones or hills or mountains), and
+20
+
+
+“mucka carpee,” which means no water. I gave these poor people a
+little damper each, and towards night they departed. Old Jimmy now
+seemed very unwilling to go any further eastwards, giving me to
+understand that it was a far better plan to return to Fowler’s Bay by a
+new route, and he would show me some new watering-places if I
+would only follow him. To this, of course, I turned a deaf ear. The
+nearest permanent water on the route I desired to travel was at Mr.
+Elder’s cattle station at the Finniss Springs, which was distant from
+this Wynbring Rock about 250 miles in a straight line; but as the
+mountain to the south-east looked so conspicuous and inviting from
+here I determined to visit it (in spite of what the old blackfellow had
+said about there being no water), though it lay considerably out of a
+straight road to where I wanted to go. It looked high and rugged, and
+I thought to find water in some rock-hole or crevice about it.
+On the 2nd of April we departed from this friendly depot at Wynbring
+Rock, taking our three horses and the two camels and the calf. The
+morning was as hot as fire. At midday we got and watered all our
+animals, and having saddled and packed them we left the place
+behind. We carried as much water as we had vessels to hold it in, the
+quantity being nearly fifty gallons, which we put on the two camels.
+The horses now having got on more friendly terms with them, they
+could be led by a person riding one of the horses, the three horses
+being now ridden. Old Jimmy, no longer a guide, was not now
+permitted to take the lead, but rode behind to see that nothing fell off
+the camels’ saddles. I rode in advance on my best horse Chester, a
+fine well-set chestnut cob —a horse I was very fond of, for he had
+proved himself so good. Nicholls rode a strong young grey horse called
+Formby, that had also proved himself to my satisfaction to be a good
+one. Jimmy was mounted on an old black horse that was a fine ambler,
+but he had not stood the journey from Youldeh at all well. He did not
+look the thing, but the other two were quite fresh and hearty when we
+left Wynbring. By the evening of the 2nd we had got only twenty-two
+miles. We found the country to be really terrific; the ground rose into
+sandhills so steep and high that all our animals were in a perfect lather
+of sweat. The camels could hardly be forced along at all. At night
+where we were compelled by darkness to encamp there was nothing
+whatever for horses to eat, so that the poor brutes had to be tied up for
+fear they would ramble back to Wynbring. There was plenty of food
+for the camels, as they could eat the leaves of some of the bushes, but
+they were too sulky to eat, as they were tied up. The bull continually
+bit his nose-rope through, and made several attempts to get away, the
+calf always going in front of him, and leaving his mother, which made
+her frantic to get away too. The horses got frightened, and were
+snorting and jumping about, trying to get loose, all night. The spot
+we were in was a hollow between two high sandhills, and not a breath
+of air relieved us from the oppression of the atmosphere. Peter Nicholls
+and I were in a state of constant perspiration the whole night running
+about after the camels, and keeping the horses from breaking away. I
+21
+
+
+was never more gratified at the appearance of daydawn the next
+morning, as it enabled us to move out of this dreadful place. It was
+impossible to travel through this region at night, even by moonlight,
+as we should have lost our eyes upon the sticks and branches of the
+direful scrubs if we had attempted it, besides tearing our clothes and
+skin to pieces also. Starting at earliest dawn the following morning, and
+traversing the most formidably steep and rolling sandhills, we at length
+got to the foot of the mountain we had been striving for in about
+twenty-three miles, it being forty-five from Wynbring. On reaching it
+I could not help thinking it was the most desolate heap on the face of
+the earth, having no water or places that could hold it anywhere about
+it. The elevation of this eminence was over 1,000 feet above the
+surrounding country and 2,000 feet above the sea. The country visible
+from its summit was still enveloped in dense scrubs in every direction,
+except on a bearing a few degrees north of east, where some low ridges
+appeared. I rode my horse Chester many miles over the wretched stony
+slopes at the foot of this mountain and tied him up to trees while I
+walked to its summit and into gullies and crevices innumerable. But no
+water rewarded my efforts, and it was evident that what the old black-
+fellow, Wynbring Tommy, had said about its being waterless was
+quite true. After wasting several hours in a fruitless search for water,
+we left the wretched mount and steered away for the ridges I had seen
+from its summit. They appeared to be about forty-five miles away, but
+as it was so late in the day when we left the mountain we got only seven
+miles from it before darkness again overtook us, and we had to encamp.
+On the following day the old horse Jimmy was riding, through the
+heat and thirst and fearful nature of the country we were in, completely
+gave in, having come only sixty-five miles from Wynbring. We could
+neither lead, ride, nor drive him any further. We had given each
+horse some water from the supply the camels carried when we reached
+the mountain, and likewise some on the night previous, as the heavy
+sandhills had so exhausted them, and this horse had received rather
+more than the others. Now he lay down and stretched out his limbs in
+the agony of thirst and exhaustion. I was loth to shoot the poor old
+creature, and I also did not like the idea of leaving him to die slowly
+of thirst; but I thought perhaps if I left him he might sufficiently
+recover to travel at night at his own pace, and thus return to Wynbring,
+though I also knew from former sad experiences in Gibson’s Desert
+that, like Badger and Darkie, it was more than probable he could
+never escape. His saddle was hung in the fork of a sandalwood tree
+(not the sandalwood of commerce), and leaving him stretched dying
+upon the burning sand we moved away, and of course he was never
+seen or heard of afterwards.
+That night we camped only a few miles from the ridges at a place
+where there was a little dry grass, and where both camels and horses
+were let go in hobbles. Long before daylight on the following morning
+old Jimmy and I were tracking the camels by torchlight, the horse-
+bells indicating that those animals were not far off. The camel-bells
+22
+
+
+had gone out of hearing early in the night. Old Jimmy was a splendid
+tracker; indeed, no human being in the world but an Australian
+aboriginal, and that a half or wholly wild one, could track a camel on
+some surfaces, as where there is any clayey soil the creature leaves no
+more mark on the ground than an ant, and to follow such marks as
+they do leave by firelight seemed to me quite marvellous. Occasionally
+where they passed over sandy ground, they would leave some marks
+that no one could mistake; but for many hundreds of yards beyond it
+would appear as though they must have flown over the ground and
+had never put their feet to the earth at all. By the time daylight
+appeared old Jimmy had tracked them about three miles; then he
+went off apparently quite regardless of any tracks at all, walking at
+such a pace that I could not keep up with him without occasionally
+running. We came upon the camels at last at about six miles from the
+camp, amongst some dry claypans, and they were evidently looking
+for water. The old cow, which was the only riding camel, was so poor
+and bony that it was too excruciating to ride her without a saddle or
+pad of some sort, which now we had not got; so we took it in turns to
+ride the bull, and he made many attempts to shake us off, only as he
+had so much hair on his hump we could cling on by it as we sat behind
+it. It was, however, necessary for whoever was walking to lead him by
+his nose-rope, or he would have bolted away and rubbed his en-
+cumbrance off against a tree or else rolled on it. In consequence of the
+camels having strayed so far, it was late in the day when we again
+started, the two horses looking fearfully hollow and bad. The morning,
+as usual, was very hot. We had not now a horse apiece to ride, and the
+water which one camel had carried had all been drank amongst the
+animals. Peter Nicholls now rode the old cow again, both she and the
+bull being much more easy to manage and get along now than when
+we first started from Youldeh. Our great difficulty was with the
+camels’ nose-ropes. The calf persisted in continually getting in front of
+its mother and twisting her nose-rope round his neck, also in placing
+itself right in between the forelegs of the bull, which would make him
+stop, pull back, and break his nose-rope, and cause detention a dozen
+times a day; and, as I said before, not understanding how these things
+ought to be arranged (though I have had ample experience since), I
+was so annoyed with the young animal I could scarcely keep from
+shooting it many times. The young creature was evidently suffering
+greatly from thirst.
+We reached the ridges in seven miles from where we had camped,
+and had now come ninety miles from the water at Wynbring. We could
+find no water at these rises, as there were no places that could hold it.
+Here we may be said to have entered on a piece of open country, and,
+as it was a change for the better from the scrubs we had hitherto been
+traversing, I was very glad to see it, especially as we hoped to obtain
+water in it. Our horses were now in a terrible state of thirst, for the
+heat was excessive, and the region we had traversed was dreadfully
+severe, and though they had each been given some of the water we
+23
+
+
+brought with us, yet we could not afford them nearly enough to
+satisfy them. From the top of the ridge we had ascended, a low mount
+or hill bore 20° north of east. Mount Finke, now behind us, bore 20°
+south of west. I now pushed on for the low mount in advance of us, as
+it was nearly on the route I desired to travel. The country now being
+open, we made good progress, and though we could not reach the hill
+that night, we were upon its summit early the next morning, it being
+about thirty miles from the ridges we had left, a number of dry salt
+white lagoons intervening. This hill was as dry and waterless as the
+mount and ridges we had left behind us in the scrubs. Dry salt lagoons
+lay scattered about in nearly all directions, glittering with their saline
+incrustations as the sun’s rays flashed upon them. To the southward
+two somewhat inviting isolated hills were seen; in all other directions
+the horizon appeared gloomy in the extreme. We had now come 120
+miles from water, and the supply we had started with was almost
+exhausted. The country we were in could give us none, and we had
+but one of two courses to pursue —that is to say, we were compelled
+either to advance still further into this terrible region or endeavour to
+retreat to Wynbring. It is possible the camels might get back there
+alive, but ourselves and the horses could never have recrossed that
+frightful bed of rolling sandhills that intervened between us and the
+water we had left. My poor old black companion, Jimmy, was aghast
+at such a region, and also at what he considered such utter foolery on
+my part to penetrate into it all. Peter Nicholls, I was glad to find, was
+in good spirits, and was now very gradually changing his opinions with
+regard to the powers and value of the camels, as they had received no
+water themselves, though they had laboured over the hideous sand-
+hills laden with the priceless fluid for the benefit of the horses, and it
+was quite evident the latter could not much longer live in such a
+region, whilst the former were now far more docile and obedient to us
+than when we started. Whenever the horses were given any water we
+had to tie the camels up at some distance. The expression in these
+animals’ eyes when they saw the horses drinking was so extraordinary
+that they seemed as though they were going to speak; and had they
+spoken I know well they would have said, “You give those useless httle
+pigmies the water that cannot save them, and you deny it to us, who
+have carried it, and will yet be your only saviours in the end.” After
+we had fruitlessly searched here for water, having wasted several
+hours in the effort, we left this wretched hill, and I continued steering
+upon the same course we had come on, viz., 20° north of east, as that
+bearing would bring me to the north-western extremity of Lake
+Torrens, which, however, was yet distant over 120 miles from us. It
+was very probable we might get no water when we arrived there, as
+no permanent water was known upon its shores where we should touch
+upon it. Thus we were, after coming 120 miles from Wynbring, still
+nearly 200 miles from the Finniss Springs, the nearest water that I
+knew. It was now a matter of life and death. We could neither remain
+here, nor should we survive if we attempted a retreat; therefore to
+24
+
+
+advance was our only chance of escape from the howling wilderness by
+which we were surrounded. We therefore moved on as fast and as far
+as we could.
+On the morning following, before dawn, I was lying wakefully
+listening for the sounds of the bells upon the animals’ necks, and had
+just brightened up the camp fire with fresh wood, when the strange
+sound of the quacking of a wild duck smote upon the tympanum of
+my ear. The blaze of firelight had evidently attracted the creature,
+which probably thought it was the flashing of water, as it flew down
+close to my face, and almost precipitated itself into the flames; but,
+discovering its error, it wheeled away upon its unimpeded wings, and
+left me wondering why this denizen of the air and water should be
+sojourning around the waterless encampment of such hapless travellers
+as we. The appearance of such a bird raised my hopes, and forced me
+to believe that we must be in the neighbourhood of some water, and
+that the coming daylight would reveal to us the element which alone
+could save us and our unfortunate animals from death. But, alas! how
+many human hopes and aspirations are continually doomed to perish
+unfulfilled; and were it not that “hope springs eternal in the human
+breast,” all faith, all energy, all life, and all success would be at an
+end, as then we should know that most of our efforts are futile, whereas
+now we hope they may attain complete fruition. We were now again
+in a region of scrubs as bad and as dense as those I thought and hoped
+I had left behind me. Leaving our waterless encampment we con-
+tinued our journey a melancholy, thirsty, silent trio. At 150 miles from
+Wynbring my poor horse Chester gave-in and could go no further. For
+some miles I had walked, and we had had the greatest difficulty in
+forcing him along; but now he was completely exhausted, and rolled
+upon the ground in the death agony of thirst and exhaustion. It was
+useless to waste time over the unfortunate creature —it was quite
+impossible for him ever to rise again from the ground, so in mercy I
+fired a revolver bullet at his forehead as he gasped spasmodically on
+the desert sand. A shiver only passed throughout his frame, and we left
+him dead upon the lonely spot. We had now no object but to keep
+pushing on. Our supply of water was all but gone, and we were all in
+the last stage of thirst and wretchedness. By the night of that day we
+had reached a place 168 miles from Wynbring, and in all that distance
+not a drop of water had been found. We had one unfortunate horse
+left —the grey, called Formby, and that poor creature held out as long
+and on as little water as I am sure it is possible for any horse to do in
+such a heated and horrid region. This was the last night poor Formby
+lived. On the following morning the poor beast came up to Nicholls
+and myself —old Jimmy being after the camels, which were close by —
+and commenced smelling us, then stood gazing vacantly at the fire. A
+thought then seemed to strike him that it was water, and he put his
+mouth down into the flames. This idea seems to actuate all animals
+when in the last stage of thirst. We were choking with thirst ourselves,
+but we agreed to sacrifice a small billyful of our remaining stock of
+25
+
+
+water for this unfortunate last victim to our enterprise. We gave him
+about two quarts —and bitterly we regretted it after —hoping he might
+still be able to stagger on to where water might be found; but vain was
+the hope and vain was the gift, for the creature that had held up so
+long and so well, as he swallowed up the last little draught that we
+gave, fell down and rolled and shivered in agony the same as Chester
+had done. A singular thing about this horse was that his eyes had sunk
+into his head until they were all but hidden. In a few minutes, no
+doubt he would have died, but I fired a revolver-bullet into his skull,
+and his pains and life were both at an end. Thus had died three fine
+horses that under favourable circumstances, and in a country that
+could supply them with grass and water, might have carried their
+masters for years to come. For my own part, in such a region and in
+such a predicament as we were placed, I would not unwillingly have
+followed them into the future. The celebrated Sir Thomas Mitchell,
+one of Australia’s early explorers, in one of his journeys, after finding a
+magnificent country watered by large rivers (and now the long-
+settled abodes of civilization), mounted on a splendid horse, bursts into
+an old cavalier song which says:
+“A steede, a steede of matchless speede,
+A sworde of metal keane;
+All else to noble minds is drosse;
+All else on earthe is meane.”
+I don’t know what he would have thought had he been in my case —
+with his matchless steed dead, and in the pangs of thirst himself, his
+sword of “metal keane” a useless encumbrance, being 168 miles from
+the last water, and not knowing where the next might be. He would
+have been compelled to admit that the wonderful beasts which now
+alone remained to us were not by any means to be accounted “meane,”
+for these patient and enduring things, which were still alive, had tasted
+no water since leaving Wynbring, and, though the horses were dead
+and gone, stood up with undiminished powers, and appeared as able
+now to continue on and traverse this wide-spread desert as when they
+left the last oasis behind. We had nothing now to depend on but our
+two “ships of the desert,” which we were now only just beginning to
+understand —not but what I was a firm believer in them from the first
+and had many an argument with Nicholls about them. His opinion
+of them had now considerably altered. At Youldeh he had called them
+ugly, useless, lazy brutes, that were not to be compared to horses for a
+moment; but now that the horses were dead they seemed more
+agreeable and companionable than ever the horses had been. When
+Jimmy brought them to the camp they looked most knowingly at the
+prostrate form of the dead horse. They kneeled down close beside it,
+and received their loads, which now indeed were light enough, and
+we went off again into the scrubs, riding and walking by turns, our
+lives now entirely depending upon the camels. Jimmy had informed us
+he had found them all calmly feeding upon some of the trees and
+26
+
+
+bushes in the neighbourhood. That they felt the pangs of thirst there
+can be no doubt, as whenever they were brought to the camp they
+endeavoured to fumble about the empty water-bags, pannikins, and
+any other vessel that ever did contain water.
+The days of toil and thirst, the nights of agony and feverish unrest
+that I spent upon this journey I can never forget. After struggling
+through dense scrubs all day we would be compelled perforce to remain
+in them all night. It was seldom we now spoke to one another. We
+were too thirsty and worn with lassitude to converse, and my reflections
+the night after the last horse died, when we had come nearly 200 miles
+without water, of a necessity at first assumed a gloomy tinge, as we
+know that the tone of the mind is in a great measure sympathetic with
+the physical condition of the body. If the body is weak from exhaustion
+and fatigue, the brain and mind become dull and sad, and the thoughts
+of a wanderer in such a desolate region as this, weary with a march
+in heat and thirst from daylight until dark, who at last sinks upon the
+heated ground to watch and wait until the blazing sunlight of another
+day shall perhaps bring him to some place of rest, cannot be otherwise
+than of a mournful kind. The mind is forced, as it were, back upon
+itself, and becomes filled with an endless chain of thoughts which
+wander through the vastness of the star-bespangled spheres; for here
+the only things to see, the only things to love, and upon which the eye
+may gaze, and from which the beating heart gathers some feelings of
+repose, are the glittering bands of brilliant stars shining in the azure
+vault of heaven above. From my heated couch of sandy earth I gazed
+helplessly but rapturously upon them, wondering at the enormity of
+occupied and unoccupied space —revolving thoughts of past, present,
+and future existences, and of how “all that is earthly fadeth away.”
+But can that be the case with our world itself; with the sun, from which
+it obtains its light; or with the starry splendours of the worlds beyond
+the sun ? Will they, can they ever fade ? They are not spiritual. Celestial
+still we call them, but they are material all in form and nature. We are
+both; yet we must fade and they remain. How is the understanding to
+discriminate which can hold the mainspring and thread of life?
+Certainly we know that the body decays, and that even “the paths of
+glory lead but to the grave;” but we also know the mind as well
+becomes enfeebled with the body, and that the aged become almost
+idiotic in their second childhood; and if the body is to rise again, how
+is poor humanity to distinguish which is the germ of immortality ? The
+philosophies and speculations upon the future have been subjects of the
+deepest thought for the highest minds of every generation of mankind;
+and though creeds have risen and sunk, and old religions and philoso-
+phies have passed away, the dubious minds of mortal men still hang
+and harp upon the theme of what can be the Great Beyond. The
+various creeds of the many different nations of the earth induce them
+to believe in as many differing notions of heaven, but all and each
+appear agreed upon the point that up into the stars alone their hoped-
+for heaven is to be found; and if all do not in this agree, still there are
+27
+
+
+some aspiring minds, high soaring above sublunary things —above the
+petty disputes of differing creeds and the vague promises they hold out
+to their votaries —who behold in the firmament above, mighty and
+mysterious objects for veneration and love. The gorgeous constellations
+set thick with starry gems, the revolving orbs of densely crowded
+spheres, the systems beyond systems, clusters beyond clusters, and
+universes beyond universes, all brilliant and glittering with various-
+coloured light, all wheeling and swaying and floating and circling
+around some distant unknown motive centre-point in the pauseless
+measures of a perpetual dance of joy, keeping time and tune with most
+ecstatic harmony, and producing upon the enthralled mind the not
+imaginary music of the spheres. Then comes the burning wish to know
+how come these mighty, mysterious, and material things about. We
+are led to suppose, as with our own minds and bodies from a state of
+infancy we progressively improve to a certain point, so it is with all
+the things we see in nature; but the method of original production of
+life and matter is beyond the powers of man to discover. It is therefore
+with feelings of anxiety and suspense, of hope and love and fear, we
+look forward to a future time when, having passed through the portals
+of the valley of death from this existence, we shall enjoy life, after life
+in new body, after new body passing through new sphere, after new
+sphere continually arriving nearer and nearer to the fountain-head of
+all perfection —the divinely great Almighty source of light and life, of
+hope and love. These were some of my reflections throughout that
+weary night —the stars that in their constellations occupied the zenith
+had passed below the horizon’s verge. Other and fresh glittering bands
+now occupied their former places, at last the dawn began to glimmer
+in the east, and just as I could now perhaps have fallen into the trance
+of sleep, it is time for the race for life, again to wander on as soon as our
+animals can be found.
+This day was the eighth of continued travel from Wynbring; our
+water was now all gone and we were yet more than ioo miles from the
+Finniss Springs. I had been compelled to enforce a most rigid and
+inadequate economy with our water during the whole march. When
+we left the camp where the last horse died, there was very little over
+three pints. We were all very bad, and old Jimmy was nearly dead. At
+about 4 o’clock in the afternoon we came to a place where there was a
+considerable fall into a hollow, where there existed some bare clay —in
+fact, it was an enormous claypan or miniature lake bed —but the
+surface was perfectly dry, though in a small drain or channel, down
+which in times of rain, water would descend to it, by the blessing of
+Providence we stumbled on a supply of yellow water. Nicholls had
+previously got strangely excited, and at one place where there was no
+water threw up his hat and yelled out, “Water, water,” he walking a
+little in advance of us. We had really passed by the spot where the
+water was, and when Nicholls gave the false information, I, who was
+riding, jumped down off the camel I was on, and ran up to him, only to
+be grievously disappointed; but as I went along I caught sight of a kind
+28
+
+
+of whitish light through the mulga trees partially behind me, and
+without saying a word, for fear of a fresh disappointment, I walked
+towards what I had seen, Nicholls and Jimmy in the meantime still
+going on with the camels. I could not resist the temptation to drink
+before I went after them, and by the time I had drunk they had gone
+on several hundred yards; but even when I called to them and flung
+up my hat they were now so stupid with thirst and disappointment
+that they never moved towards me, but stood staring until I went up
+and took the camels’ nose-rope in my hand and pointed to my knees,
+which were covered with yellow mud, and simply said, “Water.” Then
+when I led the camels to the place, down they fell on their knees in the
+mud and water, and drank and drank, and I again joined them and
+also drank, and drank, and drank. Ah! dear reader, if you have never
+suffered thirst you can form no conception what agony it is. But, talk
+about drinking, I couldn’t have believed that even thirsty camels
+could have swallowed such enormous quantities of fluid. It was
+delightful to watch the poor creatures visibly swelling before our eyes
+with the quantities they imbibed. I am sure the big bull camel Mustara
+must have taken down fifty gallons of water, for even after the first
+drink, when we took their saddles off at the camp, they all three went
+back to the claypan and kept drinking for nearly an hour.
+We had made an average travelling of twenty-eight miles a day
+from Wynbring, until this eighth day we came to the claypan in
+twenty-four miles, thus making it 220 miles in all. I could not sufficiently
+admire and praise the wonderful powers of these extraordinary and to
+me entirely new animals. During the eight days we had been travelling
+the weather had kept unceasingly hot and oppressive, the thermometer
+usually rising to 104° in the shade when we rested for an hour in the
+middle of the day; but that was not the hottest time, from 2.40 to 3 p.m.
+being the culminating period. The country we had traversed was the
+most frightful desert, yet day after day these noble animals with
+undiminished powers kept moving slowly but surely on. Having carried
+water on their backs for their unfortunate companions, the horses, and
+seeing them drop one by one exhausted and dying of thirst by their
+sides, they still marched contentedly on, carrying us by turns and all
+the remaining gear of the dead horses, and finally brought us to water
+at last. We had yet over eighty miles to travel to reach the Finniss
+Springs, and had we not found this water I am sure that the three
+human beings of the party could never have got there. The walking in
+turns over this dreadful country made us suffer all the more, and it was
+dangerous to allow old Jimmy to put his baking lips to a waterbag, for
+he would have drunk a couple of gallons at any time with the greatest
+ease.
+For some miles before we found the water the country had become
+of much better quality, the sandhills being much lower and well
+grassed, having clay flats between. We also passed a number with
+pinetrees growing on them. Rains had evidently visited this region, as
+before we found the water we noticed that many of the deeper clay
+29
+
+
+channels (when I say deeper I mean from i to 2 feet, the usual depth
+of a claypan channel being generally about as many inches) were only
+recently dry. The grass and herbage round the claypan where we
+found the water were beautifully green. Our course from the last hill
+had been about north 75 0 east. The weather, which for so many weeks
+had been oppressive, now culminated in a thunderstorm of dust (or
+sand) and wind, while dark nimbus clouds completely eclipsed the sun
+and reduced the temperature to an agreeable and bearable state. No
+rain fell, but from this change the heats of summer departed, though
+the change did not occur until after we had found the water. Thus the
+old proverb of it never rains but it pours was partially exemplified, as
+in our case all our good things came together —viz., an escape from
+death by thirst, a watered and better travelling country, and cooler
+weather. Having found this life-restoring water and rested a day at it,
+we proceeded again on our journey with all our water vessels re-
+plenished. We now found several other places on our route where rain-
+water was lying, and it seemed like being translated to a brighter
+sphere to be able to indulge in as much waterdrinking as we pleased.
+At one place we passed, and where we encamped, there was a cane-
+grass flat over a mile long, 50 to 100 yards wide, and having about
+4 feet of water in it. It was covered with waterfowl, amongst which a
+few swans were gracefully disporting their elegant forms upon the fluid.
+Peter Nicholls made some frantic efforts to shoot one, and some ducks,
+but only brought into camp one wretchedly small teal. We continued
+on our former course until we touched upon and rounded the north-
+western extremity of Lake Torrens. I then changed my course for the
+Hermit Hill, at the foot of which the Finniss Springs and Mr. Elder’s
+cattle station lies. Our course was now nearly north. On the evening
+of the third day after leaving the claypan, which had saved us, we fell
+in with two blackfellows and their lubras or wives shepherding two
+flocks of Mr. Angas’s sheep, and which belonged to his Stuart’s Creek
+Station. As they were at a water we encamped with them. They were
+very hospitable to us. Our old Jimmy went up to and shook hands with
+them, and they became very great friends. These blackfellows could
+not comprehend where we and Jimmy could possibly have come from,
+Fowler’s Bay being an unknown quantity to them. We had still a good
+day’s stage before us to reach the Finniss, but at dusk we arrived, and
+were very kindly received and entertained by Mr. Coulthard, who was
+in charge, and whose father, it must be remembered, had been an
+unfortunate explorer, and who had lost his life by thirst upon the
+western shores of the Lake Torrens I have mentioned, and whose tin
+pannikin or pint pot was afterwards found with his name and the date
+of the last day he lived scratched upon it. Many an unrecorded grave,
+many a high and noble mind, many a gallant victim to temerity and
+thirst, to murder by relentless native tribes, or else to sad mischance,
+are hidden in the wilds of Australia, and not only in the wilds, but in
+places also less remote, where the whistle of the shepherd, and the bark
+of his dog, the crack of the stockman’s whip, or the gay or grumbling
+30
+
+
+voice of the teamster may now be heard, some unfortunate wanderer
+may have died. What says Gray —
+“Perhaps in this neglected spot is laid,
+Some heart once pregnant with celestial fire;
+Hands that the rod of empire might have swayed,
+Or waked to ecstacy the living lyre.”
+And if it is with a thought of pity, if it is with a sigh of lament that
+we ponder over the fate of the lost, over the deaths, in the long cata-
+logue of the victims to the Australian bush, from Cunningham and
+Leichhardt, Kennedy and Gilbert, Burke, Wills, Poole, Gurlewis and
+Conn down to Coulthard, Panter, and Gibson, it must always be
+remembered that they died in a noble cause, and they sleep in an
+honourable grave. Nor must it be forgotten that those who return from
+confronting the dangers by which these others fell have been tried and
+suffered enough to make them often wish that they too, could escape
+through the grave from the horrors of the circumstances surrounding
+them. I also have often been in such predicaments that I have longed
+for death. But having returned alive as yet from deserts and their
+thirsts, from hostile natives and their deadly spears, and feeling still —
+“The wild pulsation, which in manhood’s dawn I knew,
+When my days were all before me, and my years were twenty-two.”
+so long as there are new regions to explore, the burning charm to seek
+for something new will still possess me, and I am also actuated to aspire
+and endeavour, if I cannot make my life sublime, at least to leave
+behind me some everlasting “footprints on the sands of time.”*
+At the Finniss Springs I also met young Alec Ross,f the son of
+another explorer who was to join my party for the new expedition to
+Perth. My destination now was Beltana, which was yet 140 miles from
+* At Finniss Springs on 15 April Giles composed a long telegram to Elder in Adelaide,
+outlining his journey from Fowler’s Bay. This was wired to Elder two days later
+from Strangways Springs, when that gentleman “courteously favoured” the Register
+with the text of it. Giles had stressed the value of his camels: “They are wonderful,
+awe-inspiring, and marvellous creatures. I never praised God so much for anything
+before, and for such creatures I thank you and praise Him”: he then concluded
+his telegram as follows.
+I just touched upon the edge of Lake Torrens. From what I have seen I judge that there exists a
+vast desert of scrub of a triangular form, the base of which is at or near the western shores of
+Lake Torrens, and the sides running north-westerly from the southern foot, and most probably
+west from the northern cone to an apex of no great distance from my starting point Youldeh, and
+I think a line north from Youldeh would pass through it in but a short distance. The way I
+came was nearly along its greatest length. It consists of two deserts, divided by a strip of open
+country about 30 miles broad. The western and denser one I have named Richards’ Desert, in
+gratitude to Mr. Richards for his own and his native’s guidance; and the eastern one I have
+called Ross’s Desert, as it was that that baffled Mr. John Ross, who got through the eastern
+but never entered the larger western one. The mail has just arrived. lam much pleased to hear
+of Tietkens joining me. I shall hasten to Beltana, and am quite confident of the successful issue
+of the expedition.
+t See page 53.
+31
+
+
+here. I got a couple of horses for Nicholls and myself from Mr.
+Coulthard, old Jimmy being stuck up on top of the old riding cow
+camel, who could travel splendidly on a road. When I reached Beltana
+I had travelled 700 miles from Fowler’s Bay. This journey I suppose I
+must not entirely consider an exploration, as many points at which I
+touched had been visited previously, and I only performed this journey
+to take command of and fit out a thorough exploring expedition for
+Perth; but, considering the whole three of us nearly perished, I think
+I may put this trip down as a very close approximation to real
+exploration.
+Mr. Elder was desirous that the new expedition for Perth should
+start from Beltana by the Ist of May. Camels were to be the only
+animals taken; I was detained a few days beyond that time, but was
+enabled to leave it on Thursday, May 6. The members of the party
+were six in number, namely myself, Mr. William Henry Tietkens*
+(who had previously been with me as second on my last expedition
+with horses), who had been secured from Melbourne and appointed
+second in command for this expedition by Mr. Elder; Mr. Jesse
+Young,t a friend of Mr. Elder’s, and lately arrived from England;
+Alexander Ross, mentioned above; Peter Nicholls, who had just come
+from Fowler’s Bay with me, and who now came as cook; and Saleh,
+an Afghan camel man, who had already been with Major Warburton.f
+I also took (for a short distance until Alec Ross overtook me) another
+Afghan called Coogee Mahomet, and the old guide Jimmy, who was
+to return to the bosom of his family as soon as we arrived anywhere
+sufficiently near the neighbourhood of his country again. Poor old
+Jimmy had been very ill at Beltana, and suffered greatly from colds
+and influenza. The Beltana blacks did not treat him quite as well as
+he expected, and some of them threatened to kill him for poking his
+nose into their country, consequently he did not like the place at all,
+and was mighty glad to be taken away from it once more. Thus, as I
+said, on the 6th May, 1875, the caravan departed from Beltana but
+we did not immediately leave civilization or the settled districts, as I
+had to travel 150 miles down the country nearly south to Port Augusta,
+at the head of Spencer’s Gulf, where I intended to take in my stores
+and loading for the inland voyage, as most of my equipment was to be
+forwarded to me by Mr. Elder from Adelaide. Nothing very particular
+occurred on the road from Beltana to Port Augusta, except some
+continual squabbles between myself and the Afghans, Saleh and
+Mahomet, on account of the extraordinary and absurd manner in
+which these two men wanted to load and work the camels. In the first
+place, we had several young camels or colts in the mob. Some were
+bulls and some bullocks. The Afghans have a way when travelling of
+* See page 47.
+t See page 49.
+{ Saleh was with Warburton in 1873, when scorpion poisoning had prompted the
+dictation of his will, in Hindustani, to Warburton and the later amputation of a
+finger.
+32
+
+
+bringing the camels up to the camp, and making them lay down by
+their loads all night, whether they had filled themselves or not. This
+system was so revolting to my notions of fair play that I determined to
+alter it at once. Another thing that annoyed me was their absurd and
+stupid custom of hobbling and unhobbling the animals while they are
+lying down. This may be necessary for the first few days that the
+creatures are handled, but if they are never accustomed to have their
+legs and feet touched while they are standing up of course, like a young
+horse, they may paw or strike and kick; and if a camel is known as a
+striker he is rather an awkward sort of a brute, but that is only the
+case with one in a thousand. The Afghans not only persist in hobbling
+and unhobbling while they are lying down, but never think of taking
+the hobbles off their legs at all, as they unfasten the hobble from one
+foot and put both hobbles on one leg, so that the poor brutes always
+have to carry them for ever on one leg. I quickly put a stop to that
+system; but Googee Mahomet exclaimed, “Oh, master, you musn’t
+take off a hobble! Camel, he keek —he keek —you musn’t!” To which I
+replied, “Let him kick, and I hope he will kick you to death first, so
+that there’ll be one Afghan less in the world; but every hobble shall
+come off every animal every day.” This Googee was a most amusing
+though lazy and indolent beggar. He never ceased to brag about what
+he could make camels do (as he wished to ingratiate himself with me,
+in the hope I would take him with me, but I had already determined
+to have only one of his countrymen). He said if he came with me he
+could make the camels go two, three, four, five hundred miles with
+heavy loads without water by just talking to them in his language. He
+used to say, “You know, master, camel he know me, and my country-
+men —camel he un’stand my language —he no like Englishman, English-
+man he no un’stand riding camel, he no un’stand loading camel, only my
+countryman he know camel,” &c., &c., but it so happened with all his
+bragging about the camels going so long without water, &c., that when
+we had been only four days gone from Beltana, Saleh and Googee had
+held a council and decided that I must be remonstrated with in
+consequence of my utter ignorance, stupidity, and reckless treatment of
+the camels, so on the fourth morning (the weather having been
+beautifully cool and the camels not requiring any water), Googee
+came to me and said, “Master, when you water camel?” “What,” I
+said in feigned astonishment, “water the camels. I never heard of such
+a thing; they’ll get no water till they reach Port Augusta.” This
+completely upset Mr. Googee, and he replied, “What, no water till
+Port Gusta ? Camel he can’t go. Camel he always get water three four
+time from Beltana to Port Gusta.” “Well,” I said, “Googee, they’ll get
+none now with me till they walk to Port Augusta for it.” So then
+Googee said, “Ah, Mr. Gile, you very smart master, you very clever
+man, only you don’t know camel; you see, you’ll kill all Mr. Elder
+camel; you’ll no get Perth, you and all you party and all you camel
+die, you’ll see, you’ll see, you’ll see. You no give poor camel water
+camel he die, then where you be ?” I was rather annoyed at him and said,
+33
+
+
+“You stupid ass, it was only yesterday you said you could take camels
+three, four, five hundred miles without water with heavy loads, and
+now they have no loads, and we have only come about seventy miles,
+you say they will die if I don’t give them water. How is it that all your
+countrymen continually brag of what camels can do, and yet when
+they have been only three days without water you begin to cry out that
+they want it? To which he only condescended to reply, “Ah, ah, you
+very clever; you’ll see, you’ll see.” Of course, the camels went to Port
+Augusta just as well without water as with it. I got rid of Mr. Coogee
+just before we arrived at Port Augusta. We remained at the Port a
+little over a week, as all the loads had to be arranged for proper
+carriage, and all the camels’ packsaddles required rearranging. Saleh
+and another of his countrymen, who happened to be at Port Augusta,
+worked hard at this while the rest of the party arranged the loads.
+While at Port Augusta, Mr. Charles Roberts who had been with me,
+and whom I left with all the horses at Youldeh, arrived out (by the
+usual road from Fowler’s Bay to Port Augusta), and brought me a
+young black boy —Master Tommy Oldham —with whom I had while
+at Fowler’s Bay travelled to Eucla with the three horses that had died
+on my journey to Beltana. He was very sorry to hear of the loss of
+Chester and Formby, the latter having been his riding horse. Old
+Jimmy was immensely delighted to meet with one of his own tribe in
+a place he considered such a howling wilderness as Port Augusta or
+Beltana. Tommy was a great acquisition to the camp, as he was a very
+nice little chap, and soon became a general favourite. Everything being
+at length ready, we made a final start from Port Augusta. The equip-
+ment of the expedition was most excellent and capable. Mr. Elder had
+sent me from Adelaide several pairs of enormous leather bags—one
+being slung upon each side of a camel; all our minor, breakable, and
+perishable articles were thus secure from wet or damp. In several of
+these large bags I had wooden boxes placed at the bottom, so that ail
+books, papers, instruments, glass, &c., were safe. At starting the
+camel-loads were enormously heavy, the lightest weighted camels
+carrying two bags of flour encased in raw hide covers, the two bags
+weighing about 450 lb., and a large tarpaulin; about 60 lb. in weight,
+on top, or else a couple of empty casks or other gear, which did not
+require to be placed inside the leather bags. The way the camels’
+loads are placed by the Afghan camelmen is rather different from, and
+at first surprising to persons accustomed to packhorse loads. For
+instance, the two bags of flour are carried as perpendicularly as
+possible. As a general rule, it struck me the way they arranged the
+loads was absurd, as the whole weight of the loads comes down on the
+unfortunate animal’s loins. They use neither bags nor trunks, but tie
+up almost every individual article with pieces of rope. My Afghan
+Saleh was horrified at the fearful innovations I made upon his method.
+I furnished the leather bags with broad straps to sustain them, and
+having large rings and buckles to pass them through and fasten in the
+ordinary way of buckle and strap. This had the effect of making
+34
+
+
+whatever loads were carried in the leather trunks lie as horizontally as
+possible along the sides of the pads of the camels’ packsaddles. Saleh
+still wanted to encumber them with ropes, so that they could not be
+opened without untying about a thousand knots. I would not permit
+such a violation of my ideas, and told him the loads should be carried
+as they stood upon the ground; his argument always was (a la Coogee
+Mahomet) “Camel he can’t carry them that way,” to which I in-
+variably replied, “Camel he must, and camel he shall;” and the
+consequence was that camel he did.
+When we left Port Augusta I had fifteen pack or baggage camels and
+seven riding ones —the two blacks, old Jimmy, and our new accessory
+Tommy Oldham both riding on one animal, while all the others of the
+party had a riding camel each. The weight of the loads of the baggage
+camels on leaving Port Augusta averaged 550 lb. all round. All the
+equipment and loads being in a proper state, and all the men and
+camels belonging to the new expedition for Perth being ready, we left
+Port Augusta on the 23rd May, 1875; but only travelled about six
+miles nearly north-west to a place called Bowman’s Dam, where there
+was plenty of surface water and good bushes for the camels. A few
+ducks which incautiously floated too near fell victims to our sportsmen,
+and here we encamped the first night. The following day we passed
+Mr. Bowman’s station and had some dinner with him, and got a fat
+sheep from one of his paddocks. On the 25th we encamped close to a
+station in the neighbourhood of Euro Bluff —a hill that exists near the
+south-western extremity of Lake Torrens. We now travelled up Lake
+Torrens upon the opposite or western side to that on which we had
+lately travelled down it to Port Augusta, as I wished to reach a water-
+course (the Elizabeth), where I heard there was water. On the 28th
+May we encamped upon the banks of Pernatty Greek, where we
+obtained a few wild ducks. The country here was very good, being open
+saltbush country. The next morning we met and passed a Government
+survey party, under the command of Mr. Brooks, who was engaged in
+a very extensive trigonometrical survey; in an hour or two after we
+passed Mr. Bowman’s Pernatty cattle station. There was no one at
+home but a dog, and he did not say much to us, the appearance of the
+camels seemed to strike him dumb. There were some nice little sheets
+of water in the creek bed, but scarcely large enough to be permanent I
+fancy. The country now was a sort of stony plateau, having low flat-
+topped, tent-shaped tablelands occurring at intervals all over it. The
+country was all open, and no timber existed except on the banks of
+the watercourses. On the 30th May we reached the Elizabeth. There
+was an old hut or two, but no people were now living there. The water
+was at a rather low ebb; we got a few ducks the first day we arrived.
+As some work had to be done to the watercasks, to enable us to carry
+them better, we remained here until the 2nd June. The Elizabeth
+comes from the tablelands near the shores of Lake Torrens to the
+north-eastward, and runs into the northern end of Pernatty Lagoon.
+Here we were almost as far north as when at Beltana, our latitude being
+
+
+3i° io' 30". The weather was now (and had been for several weeks,
+indeed ever since the thunderstorm which occurred the day we
+stumbled upon our claypan) very agreeable, but the nights cold though
+dewless. At Port Augusta we heard that a Mr. Moseley was out
+somewhere to the west of the Elizabeth well-sinking on a piece of
+country he had lately taken up, and that he was camped at or near
+some rain water, so I was anxious to find out, if possible, where he was.
+On the 3 1 st of May I sent Alec Ross on the only track that went west
+from here to endeavour to find out if any water existed at a place I had
+heard of about twenty-five miles to the west, and towards which the
+only road from here led. Alec had not been gone long when he returned
+with Mr. Moseley, who just happened to be coming in to the Elizabeth;
+he camped with us that night. He informed me his men obtained
+water at some claypans called Coondambo, near the edge of Lake
+Gairdner (another large salt depression similar to Lake Torrens), and
+that by following his horses’ tracks they would lead me first to a well,
+where he had just succeeded in obtaining water at a depth of 85 feet,
+and thence in seven miles further to the Coondambo claypans. I was
+very glad to get this information, as even from Coondambo the only
+water to the west beyond it that I knew was Wynbring, and that would
+be 160 or 170 miles.
+Leaving the Elizabeth, on June 2, we went sixteen miles nearly west
+to a small clay water-hole, where we encamped. On the 3rd we went
+twenty-five miles nearly west, passing a deserted sheep station belonging
+to Mr. Litchfield, about the middle of the day. The country was very
+poor, being open, bare, stony ground, with occasional low flat-topped
+tablelands covered with very sparse salsolaceous vegetation. We next
+arrived at the north-east corner of Lake Hart, and proceeded nearly
+west along its northern shore, thence by the south shore of Lakes
+Hanson and Younghusband (all salt lakes), where one of the party
+must have been taken ill, for he suddenly broke out into a kind of
+doggerel rhyme, remarking that —
+We went by Lake Hart, which is laid on the chart,
+And by the Lake Younghusband too,
+We next got a glance on, the little Lake Hanson,
+And wished . . .
+Goodness only knows what he wished, but all the others conveyed to
+him their wish that he should discontinue such an infliction on them.
+We arrived, on June 6, at the place where Mr. Moseley had just
+finished his well; but his men had deserted the spot, and had gone
+somewhere else to put down another shaft a little to the north-east. The
+well was between 80 and 90 feet deep, the water whitish but good.
+Here we encamped for the night. The next morning we followed some
+horse tracks about south-west, and they took us to the claypans called
+Coondambo. The water was somewhat yellow and very thick; but
+there was plenty of it for all our purposes, though I imagined it would
+not last Mr. Moseley or his men very long. Two or three of his horses
+
+
+were running at the claypans; there were several large shallow cane-
+grass clay flats, which are also occasionally filled with rain water, they
+and Goondambo being situated very close to the northern shore of
+Lake Gairdner. We left Goondambo on the Bth June. On the gth rain
+pretended to fall, and we were kept in camp during that day; as a slight
+spitting fell, but did no earthly use. On the 11 th we encamped again
+near the shore of Lake Gairdner, it being the last we should see of it;
+our latitude here was 31 0 5' and long. 135 0 30' 10". We had seen no
+water since leaving Goondambo, from which place, we carried a
+quantity of the thick yellow fluid, which curdled disagreeably when
+made into tea, the sugar having the chemical property of precipitating
+the sediment. We were now again in a scrubby country, and had been,
+directly after leaving Goondambo. Our course from here was nearly
+north-north-west for sixteen or seventeen miles, where we again
+camped in scrubs. The following day we got to a low rocky hill, or
+rather several hills enveloped in the scrub. There were numerous
+small indentations upon the face of the rocks, and we got some water
+for the camels, though they had to climb about all over the rocks to
+get it, as there was seldom more than three or four gallons in any
+indent. We got some pure water for ourselves, and were enabled to
+dispense with the yellow clayey fluid we had brought with us from
+Goondambo. From these hills we travelled nearly west-north-west,
+until, on the 15th, we fell in with my former tracks in April, when
+going from Wynbring. Old Jimmy was quite delighted to be again in
+country he knew something about. We could now again see the summit
+of Mount Finke. The only water I knew in this wretched country was
+at Wynbring, and I determined to follow my old tracks to it. On the
+1 Gth we passed a place where on formerly coming along this way we
+had seen a small portion of a bare rock, and now, in consequence of the
+late sprinkling showers on the 9th and 1 oth, there were a few thimblesful
+of water on it. This seemed to set old Jimmy into a great state of
+excitement, as he gesticulated greatly and talked to Tommy in their
+language at a great rate; and Tommy said, “Ah, if you found water
+here when you come before, Chester and Formby wouldn’t die.” I
+said, “Well, Tommy, I don’t see much water here to keep anything
+alive, even if it had been here then.” He only sapiently shook his head
+and said, “but if you got plenty water then that’s all right.” I found
+Tommy’s arguments were exactly similar to all other black boys I have
+ever known —exceedingly comical, but all to their own way of thinking.
+Soon after this I was riding in advance along the old track, when old
+Jimmy came running up behind my camel in a most excited state, and
+said, “Hi, master, me find em, big one watter, plenty watter; mucka
+(not) piccaninny (little) this way; watter go this way,” pointing to a
+place on our left. So I waited till the caravan appeared through the
+scrub; then old Jimmy led us to the spot he had found. There was a
+small area of bare rock, but it was too flat to hold any quantity of
+water, though some of the fluid was shining on it; there was only a
+sufficiency for about two camels, but I decided to encamp there
+
+
+nevertheless. What little water there was was licked up by some of the
+camels in no time, and they went away to feed; they seemed to be
+particularly partial to a low pale green foliaged tree, with fringe-like
+leaves (something like fennel). I have often gathered specimens of it
+in former journeys, generally in the most desert places that I have
+explored. The botanical name of this tree is Gyrostemon ramulosus.
+After hobbling out the camels and sitting down to dinner we became
+aware of the absence of Mr. Jesse Young, and I was rather anxious
+as to what had become of him, as a new arrival from England adrift in
+these scrubs would be very liable to lose himself, though I had not so
+much fear for Mr. Young, as, having been a sailor and carrying a
+compass, he might be able to recover us. Immediately after our meal I
+was going after him, but before it was finished he came, without his
+camel, and said he couldn’t get her on, and so had tied her up to a
+tree and walked back, as he had gone a long way along my old track,
+not thinking we were likely to stop so early in the day. I sent Tommy
+and another riding camel, on which Mr. Young and he rode away,
+and in the course of a couple of hours they returned with the other
+camel.
+The following morning, 17th, much to my distress, one of our young
+bull camels was found to be poisoned and could not move. We made
+him sick with hot butter and gave him a strong clyster, and both
+operations produced the same substance, namely a quantity of the
+chewed and digested leaves of the gyrostemon; indeed the animal
+apparently had nothing else in his inside. He got a trifle better by
+night, but the following morning another camel, my best bull, Old
+Mustara, that had brought me through this region before, was
+poisoned and couldn’t move. I was now really very sorry I had camped
+at this rocky place. We dosed Mustara with butter as an emetic, and
+he also threw up nothing but the chewed gyrostemon, and the clyster
+produced the same. It was quite evident to me that this plant has a
+poisonous effect on the camels, and I was afraid that some of them
+might die. I was compelled to remain here another day. The first
+camel poisoned had got a little better, and I hoped the other would
+escape, but as they all seemed to relish the poison plant so much, and
+as they ate nothing else, and as there were great quantities of it growing
+on the sandhills, I was in great anxiety during the whole of the day.
+The next morning, the 19th, I was glad to find no fresh cases of
+poisoning, though the two camels that had suffered were very weak,
+and afflicted with spasmodic staggerings. We got them away, though
+they were hardly able to carry their loads. We lightened them as much
+as possible. Anything was better than remaining here as others might
+get affected. On this day’s march we passed the spot where I had put
+the horse’s pack saddle in the sandalwood tree, and where my first
+horse had given in. The saddle was now of very little use, except that
+the two pads being stuffed with horsehair made cushions for parts of
+camels’ riding saddles. These we took with us, but left the saddle-frame
+up in the tree again. That night we camped about five miles from
+
+
+THE 1875 EXPEDITION
+
+
+Giles’s 1875 Expedition
+Peter Nicholls, Alec Ross, Saleh
+Jesse Young, Giles Harry Tietkens
+Tommy Oldham
+
+
+Mount Finke, and I was glad to find that the two poisoned camels had
+greatly recovered. The following day Mr. Young and I ascended
+Mount Finke, and put up a small pile of stones upon its highest point.
+The weather was now cool and agreeable, so different to that which I
+experienced when upon this dreadful mount previously. Upon that
+visit the whole region was in an intense glow of heat, but now the
+summer heats were past, the desolate region around was enjoying a
+slight respite from the usual fiery temperature of the climate of this
+part of the world; but even now the nature of the country was so
+terrible and severe, the sandhills so high and the scrub so thick, that
+all the new members of my party expressed their astonishment at my
+ever having got out of it alive. This mountain, as I said before, is 45
+miles from Wynbring, and on the 22nd June, just as we got in sight of
+Wynbring Rock some heavy showers of rain descended. The rain came
+down so fast that the camels could drink the water right at their feet,
+and they all got huddled up together in a mob, breaking their nose-
+ropes, and some lying down to enable them to drink the easier, as
+loaded camels, having a breast-rope from their saddles, cannot always
+put their heads down to the ground without hurting themselves. The
+rain ceased for a bit, and we made off to my old camp, and got every-
+thing under canvas just as another heavy shower came down. Of course
+the Rockhole was full to overflowing, and water was lying about in all
+directions. During the 23rd several smart showers fell, and we were
+confined to our canvas habitations for nearly the whole of the day. As
+this spot was so excellent for all kinds of animals, it being suitable alike
+for horses or camels, I gave my friends a couple of day’s rest —in the
+first place, because they had had but poor feeding-places for several
+nights before our arrival here, and I also wished, if possible, to meet
+again with the Wynbring natives, and endeavour to find out from
+them if any other waters existed in their country. Old Jimmy, when he
+discovered through Tommy Oldham, what I wanted the natives for,
+seemed rather surprised and annoyed that I should attempt to get
+information from them while he was with me, and in his own territories —
+so he said —he could take me to several waters between here and
+Youldeh by an entirely different route to that we had followed in
+coming first to this place. He now said he could take me by a more
+northerly route, and that water existed at several places, which he
+enumerated on his fingers, their names were —Taloreh, Edoldeh,
+Cudyeh, Mobing, Bring, Poothraba, Pondoothy, and Youldeh. I was
+very glad to hear of all these places, and I hoped we should find that
+they were situated in a more hospitable country than that which
+existed the way we had formerly come. On the 25th Mr. Young shot
+an emu, and we had fried steaks, which we all relished. Saleh, being a
+good Musselman, was only just in time to run up and cut the bird’s
+throat before it died, otherwise his religious scruples would have
+prevented him from eating any of it. All the food he did eat, which was
+smoked beef, had been killed in the orthodox Mohammedan style,
+either by himself or one of his co-religionists at Beltana, and we had
+
+
+cured and carried it with us on purpose. None of the natives I had
+formerly seen when here before, or any others, made their appearance,
+and the party were disappointed in seeing the charming young Polly,
+my description of whom had greatly raised their curiosity.
+On the 26th, we departed from the pretty little oasis of Wynbring,
+leaving its isolated and water-giving rock in the silence and solitude of
+its enveloping scrubs, once again abandoning it to the occupation of
+primeval man, a fertile little gem in a desolate waste, where the foot-
+steps of the white man had never (until I came) previously been seen,
+where the wild emu and the wilder black man, continually return to
+its life-sustaining rock, where the aboriginal inhabitants will again and
+again indulge in the wild revelries of the midnight corroborree dance,
+and where, in an existence totally distinct from ours of civilization —
+men and women live and love, and eat and drink, and sleep and die.
+But the passions are the same in all phases of the life of the human
+family, the two great master motives of love and hunger being the
+mainspring of all the actions of mankind.
+Wynbring was now behind us, and old Jimmy was once more our
+guide, philosopher, and friend. He seemed much gratified at again
+becoming an important member of the expedition and he and Tommy
+both upon the same riding cow camel, led the way for us to follow
+through the scrubs in the direction of about west-north-west. In about
+seven or eight miles we came to a little opening in the scrubs, where
+old Jimmy showed us some bare flat rocks wherein was a nearly
+circular rock hole brimful of water. It was, however, nearly full also
+of the debris of ages, as a stick could be poked into the mud or dirt for
+several feet below the water, and it was impossible to say what depth
+it really was. But at the best it could not contain more than two
+hundred gallons of water. This was Taloreh. Proceeding onwards
+towards the next watering-place, which old Jimmy said was close up, in
+a direction a little more northerly. We found it was getting somewhat
+late in the day, as we had not left Wynbring till nearly midday,
+therefore we encamped in the scrubs, having come about fifteen miles.
+I was annoyed the next morning to find that had we come on a couple
+of miles further we should have reached Edoldeh, where there was
+more rock water, but not a very great quantity. It is next to impossible
+to make an old fool of a blackfellow understand the value of the
+economy of time. I wanted to come on to Edoldeh, and so did old
+Jimmy, but he made out that Edoldeh was close to Taloreh, and every
+mile we went, it was still close up, till, it getting late, I ordered the
+party to camp, where there was little or nothing that the camels could
+eat. Of course it was useless to try and make Jimmy understand that
+having thousands of miles to travel with the camels, it was a great
+object with me to endeavour to get them some bushes or other food that
+they could eat, so as to keep them in condition for the long and dreary
+journey before them. Camels, although exceedingly ravenous animals,
+will only eat what they like, and if they can’t get that, will lie down all
+night and starve (if they are too short-hobbled to allow them to
+
+
+wander). It was, therefore, annoying the next morning to find plenty
+of good bushes at Edoldeh, two miles and a half from where we had
+camped, and where we might have come so easily the night before,
+and to think that we had camped so near it in such a wretched place.
+However, to-day I determined to keep on until we actually did reach
+the next oasis, which Jimmy said was Gudyeh, and which of course
+was still close up. We travelled two and a half miles to Edoldeh, and
+continued eighteen miles beyond it, and reached Gudyeh early in the
+afternoon; this place was like most other of these little oases in the
+desert. There were plenty of good bushes for the camels, and it was
+a very good place for a camp —one singular feature about it being that
+it consisted of a flat bare rock of some area, upon which were several
+circular and eliptical holes in various places all over the rock. The rock
+lay in the lowest part of the open hollow, and whatever rain fell in the
+neighbourhood the water all ran down to it. In consequence of the
+recent rains the whole area of rock was nearly two feet under water,
+and the extraordinary holes or wells that existed there looked like
+antidiluvian cisterns. Getting a long stick and wading through the
+water to the mouths of these cisterns, we found that, like most other
+reservoirs in a neglected native state, they were almost full of soil and
+debris , and the deepest had only about three feet of water below the
+surface of the rock. Some of these holes might be very deep, or
+they might even be found to be permanent wells if they were cleaned
+out.
+The following day we passed another little spot and rock water
+called Yanderby at ten miles; thence in three more we came to Mobing
+—a much better place than any of the others —indeed I thought it
+superior to Wynbring. It lies about north, 62° west from Wynbring, and
+is fifty miles from it; the latitide of Mobing is 30° 10' 30". At this place
+there was a large bare rounded rock very similar to Wynbring, except
+here no rock holes existed to hold any surface water; what was obtain-
+able here being in large native wells sunk at the foot of the rock, and
+which were brimful of water. I believe a good supply might be obtained
+here. There were plenty of good bushes in the neighbourhood for the
+camels, and we had an excellent camp at Mobing. As usual, it consisted
+merely of an open space timbered with the mulga acacia amongst the
+sandhills and the scrubs. The following day we were led by old Jimmy
+to a small salt-lake bed, which was dry, the direction we had travelled
+to it from Mobing being nearly south-west. Round at the southern
+shore of this little lake Jimmy showed us a small rock-hole, with a few
+dozen gallons of water in it. We had only come nine or ten miles, but
+in consequence of Mr. Young not being well we encamped, it being a
+very excellent and pretty little camp. Towards evening some light
+showers of rain fell, and we had to erect our tarpaulins, tents, &c.,
+which we only do in times of rain. More showers fell the next day, and
+we did not move our quarters. A very shallow sheet of water now
+appeared upon the surface of the lake bed, but it was quite salt. We
+made one or two little dams with clay where the water ran down into
+
+
+the lake, and saved enough water to indulge in a sort of bath, with
+the aid of buckets and some waterproof sheeting. This was on the last
+day of June. The ist of July broke with a fine and beautiful morning,
+and we left Lake Bring none the worse for our compulsory delay at it.
+I was now anxious to reach Youldeh with as little delay as possible, as
+I had a great deal of work in hand to do when I arrived there. Today
+we travelled nearly west seventeen or eighteen miles, and encamped
+in the scrubs without an oasis. On the 2nd we passed two rocky hills,
+called respectively Pondoothy and Poothraba. Pondoothy was an
+indented rock-crowned hill in the scrubs. Standing near its summit I
+descried an extraordinary line cut through the scrubs, which ran in
+the direction of east by north, probably intended by the natives for a
+due-east line. The timber of the scrubs was all cut away, and it looked
+like a survey line. Upon asking old Jimmy what it was done for, and
+what it meant, he replied as usual —“Cockata blackfellow make em” It
+was somewhat similar to the path I had seen cleared at Pylebung in
+March last, previously mentioned, and no doubt it is used for a
+similar purpose. Leaving this hill and passing Poothraba, which is in
+sight of it, we continued our nearly west course, and camped once
+more in the scrubs. The country was very difficult for the camels, it
+rising into such high ridges or hills of sand that we could only get over
+it at a snail’s pace. The country was still covered with scrubs, which
+consisted here, as well as all over this region, mostly of the Eucalyptus
+dumosa, or mallee-tree, of a stunted habit; occasionally some oaks,
+as we call them (properly casuarinas); with patches of mulga in the
+hollows between the sandhills, with here and there a stunted cypress
+pine (callistris) or two, some hakea bushes, and an occasional so-called
+native poplar (Codonocarpus cotinifolius), which is a sister or brother
+tree to the poisonous gyrostemon. The native poplar is a favourite and
+harmless food for camels, and it being of the same family as the
+gyrostemon, my kind friend Baron Mueller argues that I must be
+mistaken in the poison plant which affected the camels, he thinking
+it must be a plant of the poisonous family of the euphorbiaceae. We
+were now nearly in the latitude of Youldeh, and all we had to do was
+to push west to reach it; but one of our cow camels, the one old Jimmy
+and Tommy rode, was very near calving, and for some days had not
+travelled well, and gave a good deal of trouble to find her of a morning.
+I wished to get her to Youldeh before she calved, as I intended to form
+a depot there for a few weeks, during which time I hoped the calf
+would become strong enough to travel afterwards. On the morning of
+the sth July only about half the camels were brought up to the camp,
+and as Mr. Tietkens and my riding camels were amongst them, we
+rode off to Youldeh, which was only seven or eight miles away, telling
+the others to come on along our tracks as soon as the remaining camels
+were got, Mr. Young, Saleh, and Tommy being all away after them.
+On arriving we found Youldeh much the same as when I left it, only
+now the weather was cool, and the red sandhills that had formerly
+almost burnt the feet of both men and animals were in the shaded
+
+
+places under the big leguminous bushes slightly encrusted with a
+light glittering mantle of hoar frost, for the thermometer that morning
+had stood at 28°. My old slabbed well had got filled-up with sand, and
+it was evident many natives had visited the place since I left it on the
+24th March, 103 days ago. We managed to water our camels, as they
+lay down on the top of the well, and stretched their long necks down
+into it. We then quietly waited till long past midday for the caravan to
+come up. We had nothing to eat and nothing to do —we couldn’t dig
+out the well, as we had no shovel. At last Mr. Tietkens got alarmed at
+the non-arrival of the party, so he and old Jimmy went back to the
+camp, and took my riding camel with them, as she would not remain
+quiet by herself. I remained there mighty hungry, and wandered
+about on the top of all the high sandhills, to see if I could perceive any
+dust of the approaching caravan, but no such thing was to be seen.
+Darkness began to creep over this solitary place and its more solitary
+occupant. I thought I had better try and go to sleep (though I had no
+bedding) to pass the time away till morning. I coiled myself up under
+a bush, and fell into one of those extraordinary waking dreams which
+occasionally descend upon imaginative mortals: when we know that
+we are alive, and yet think we are dead; when a confused jumble of
+ideas sets the mind “peering back into the vistas of the memories of
+yore,” and yet also foreshadowing the images of future things upon the
+quivering curtains of the mental eye; and at such a time the imagina-
+tion can revel only in the marvellous, the mysterious, and the mythical.
+The forms of those we love, idealized and spiritualized into angelic
+shapes; the faces of those we have forgotten long, or else perchance
+have lost, once more return seraphic from the realms of light; the
+lovely forms and winning graces of children gone, the witching eyes
+and alluring smiles of women we have loved, the beautiful countenances
+of beloved and admired youth once more we seem to see; the youthful
+hands we have clasped in love and friendship so often in our own once
+more we seem to press, unchanged by time, unchanged by fate,
+beckoning to us lovingly to follow them, still trying with loving caress
+and youthful smiles to lead us to their shadowy world beyond.
+O! youth, beautiful and undying! the sage’s dream, the poet’s song —
+all that is loving and lovely is centred still in thee. O! lovely youth!
+with thine arrowy form and slender hands —thy pearly teeth and
+saintly smile —thy pleading eyes and radiant hair —all, all must
+worship thee; and if in waking hours and daily toil we cannot always
+greet thee, yet in our dreams thou art our own. As the poet says —
+“In dreams you come as things of light and lightness;
+We hear your voice in still small accents tell
+Of realms of bliss and never-fading brightness,
+Where those who loved on earth together dwell.”
+Then while lying asleep, engrossed by these mysterious influences and
+impressions, I thought I heard —
+
+
+Celestial sounds upon mine ear,
+Vibrating music’s rapturous strain,
+As though an heavenly choir were near,
+Dispensing melody and pain.
+As though some angels swept the strings
+Of harps ethereal o’er me hung,
+And fann’d me as with seraphs’ wings,
+While thus the voices sweetly sung: —
+Be bold of heart, be strong of will,
+For unto thee by God is given
+To roam the desert paths of earth,
+And thence explore the fields of heaven.
+Be bold of heart, be strong of will,
+And nought on earth shall lay thee low.
+Be e’er aspiring higher still,
+From step to step still onward go;
+Be thine the task!
+When, lo! —I woke, and found the party with all the camels had
+arrived, the fire relit, and the whole place, but lately so silent, was now
+in a bustle. I got up, and looked about me in the most utter astonish-
+ment, as I could not at first remember where I was. But I soon dis-
+covered that the musical sounds I had heard were the tintinabulations
+of my camels’ bells, tinkling in the evening air, as they came closer
+and closer over the sandhills to the place where I lay dreaming, and
+my senses returned at length to their ordinary groove. Tommy and
+Jimmy’s old cow calved that night. I was glad to find she had delayed
+doing so until she arrived here. Now the calf would be allowed to live,
+as some of my party would remain here for a few weeks. It appears
+the camels that were absent this morning were not found till late in
+the afternoon. We were now, however, safely landed at the Youldeh
+depot once more, and upon the whole we might say we had had an
+agreeable journey from Port Augusta to it. On the following morning
+I christened the calf Youldeh, after the name of her birthplace. On
+the 6th, 7th, and Bth we all remained in depot , doing various kinds
+of work, as redigging and reslabbing the well, making a large canvas
+trough for the camels to drink out of, making some covers and altera-
+tions to some water-beds I had for carrying water, and many other
+things. I had some camels to deliver at Fowler’s Bay, and some letters
+to dispatch, as well as some other business necessary to be done before
+a Magistrate, which compelled me personally to return there —
+otherwise I should have gone away to the north, to look for another
+watered depot in that direction. But now I committed this piece of
+work to my two officers, Messrs. Tietkens and Young, while I and
+Alec Ross went south to the bay. Both parties started from Youldeh
+the same day, namely, on the gth. I took old Jimmy with me, to
+return him (with thanks) to his family, and Tietkens and Young took
+
+
+Tommy with them, as that young gentleman had no desire whatever
+to return or to leave me.* Between ourselves, I had caused him when
+I first got him in February to commit some very serious breaches of
+aboriginal law, for he was then on probation, and not allowed to
+come near the blacks’ camp or near women. He also was compelled
+to wear a great chignon, which made him look far more like a girl
+than a boy. This I took off and threw away, much to the horror of
+the elders of his tribe, who, if they now caught him, would have
+given him condign punishment. When he and old Jimmy met at
+Port Augusta, and old Jimmy saw him without his chignon and other
+emblems of novicehood, that old gentleman commenced to talk to
+him like a father; but Tommy being a bit of a pet in the camp, and
+knowing he had my sanction for what he had done, quietly told old
+Jimmy in plain English to go to blazes. The expression of old Jimmy’s
+face at thus being flouted by a boy was inexpressible; he thought it
+his duty to persecute Tommy still further; but now Tommy only
+laughed at him, and said I made him do it; so old Jimmy gave it up
+at last as a bad job.
+Alec Ross, Jimmy, and I reached the bay on the 14th; but at
+Golona, on the 12 th, we heard there had been a sad epidemic amongst
+the natives since I left, and poor old Jimmy had lost two of his children.
+When he heard it, poor old fellow, he cried, and looked at me as
+much as to say if I had not taken him away he might have saved them.
+It was but a poor consolation to tell him (and which he did not
+understand) that those whom the gods love die young. I also suffered
+a loss, as a bright little black boy called Fry, a great favourite of mine,
+with eyes like tea saucers, and whom I had intended to bring with me,
+as a companion for Tommy, was also dead. I parted with old Jimmy
+the best of friends, having given him presents and clothes and a dress
+for his wife —indeed everything he asked for, which was not very much.
+Our stay at Fowler’s Bay was not extended longer than I could help.
+Mr. Armstrong, the manager, made me a present of a case of brandy,
+and as I was going to take some stores from there, he allowed me to
+take back the camels I was to leave there, and sent a man of his,
+Richard Dorey, to accompany me back to Youldeh, and there take
+delivery of them. On the 17th we left the bay. We stayed at Golona
+a couple of days, and left it on the 21 st, arriving with Richard Dorey
+again at Youldeh on the 25th.
+Tommy Oldham’s father had also died of the epidemic at Fowler’s
+Bay. When Tommy heard of it, he said to me, my (adjective blooming)
+old father is dead too. I said, “Is that how you speak of your poor old
+father, Tommy, now that he is dead?” to which he replied, much in
+* Alec Ross in his reminiscences records that “Mr, Giles carried a small leather bag
+containing cheap necklaces, pocket knives, and fancy coloured handkerchiefs. His
+intentions were to make small presents to any wild blacks” and that “Tommy Oldham
+always had a covetous eye on this bag ...”
+
+
+the same way as some civilized sons may often have done —“Well,
+I couldn’t help it.”*
+* The Journal of a Forgotten Expedition ends here. In at least several of the printed
+copies of it, Giles later added the manuscript explanation that his expeditions “in
+continuation of these Travels” had been published as parliamentary papers well
+before it was printed, and that, “hence the name”.
+Tietkens and Young had returned to Youldeh on the twenty-fourth, and in his
+later account to Elder Giles gave “a condensation of Mr. Tietkens’ report of his
+journey”, as follows.
+On leaving Touldeh, which is situated in latitude go° 24' 10", and longitude 13T 46', they
+went first to a small rock waterhole I had visited when here previously in the summer; it was
+fifteen miles away, and lay about N. J4° W., and called Paring. The blackboy Tommy followed
+my old horsetracks to it, but on reaching it they found it dry. The following day they travelled
+north, and passed through a country of heavy sandhills and thick scrubs, with occasional open
+patches with limestone, and camped at twenty-four miles. Continuing their journey the next day
+they went over better country and more open, and made twenty-four or twenty-five miles of
+northing. Some more good country was seen the following day, but no water, though they saw
+native huts and native tracks. On the following day they sighted two small flat-topped hills,
+and found a native well in their neighbourhood, which, however, did not promise a very great
+supply of water. The views obtainable from the little hills were not very inviting in any direction,
+as scrubs appeared to exist nearly everywhere. This little well was eighty-two miles from
+Touldeh, and laying nearly north io° west from it. They continued on further north for twenty-
+five miles to latitude 28° 52' 10", and longitude 13T 31' 8", when they turned to the south-west,
+and continued on that course for eighteen miles, finding a small native dam with water in it;
+then turning a little to the north of west they found some claypans with a little more water. They
+went forty-four miles nearly west from the little dam, and though the country seemed improving
+they could discover no more water. From their farthest westerly point in latitude 28° yf, and
+longitude 130° 2g', they turned upon a bearing of S. 55°E., direct for the native well found
+near the two little flat-topped hills mentioned previously. In their progress upon this line, at
+forty-five miles, and right before them, they came upon a small open, flat space, very well grassed
+and very pretty, and upon it they found another native well, and saw some natives, with whom
+they held a sort of running conversation. There were several wells, all of which had water in.
+Their blackboy managed to elicit from the natives the name of the place, which they said was
+Ooldabinna [Ouldabinna on Giles’s map ]. This seemed a very fortunate discovery indeed, as
+the first well found near the flat-tops was by no means a good one. Here they encamped, being
+quite delighted with their successful journey, as they now had found a new depot ninety-two
+miles, lying north 20° west from Touldeh, the position of this spot being in latitude 2g° f 4",
+and longitude igT if 4". From here they departed in a straight line for Touldeh, where they
+arrived the day before I returned from Fowler’s Bay.
+That resume was later printed as part of Giles’s Explorations, 1875 (S.A. Parliament-
+ary Paper No. 22, 1876), which gave his account of the expedition from 27 July
+onwards. The previous December had seen printed a brief reference to Ooldabinna
+and the other native well, as described by Jesse Young: “two permanent drainage
+holes in the middle of the most beautiful country imaginable, covered by a carpet
+of emerald grass, dotted with myriads of immortelles” {South Australian Register,
+9 September 1875).
+In the same parliamentary printing Giles recalls that once reunited with Tietkens
+and Young he wasted no time before departing from Youldeh, “giving my letters
+to Richard Dorey, who had accompanied me back from Fowler’s Bay”.
+
+
+HARRY TIETKENS’S ACCOUNT *
+At this time, August 1874, and while in Adelaide I made up my
+mind to devote my energies to some particular calling and for many
+reasons I decided to adopt that of land surveying and for that purpose
+went to Melbourne to study for the Licensed Surveyors Examination
+and for six months I took very humble lodgings with an old Jewess.
+No one knew of my whereabouts, I never saw my old and esteemed
+friends the Fagans; every copper I had was devoted to this one object,
+not until every penny was gone and my Mothers watch in pawn did
+I appeal to Giles’ people for assistance, Mr. Gill his Brother in Law
+lent me £lO which satisfied the demands of my old landlady and
+redeemed my watch. As good fortune does sometimes visit those in a
+dilemma, Giles sent Gill a Telegram from Adelaide asking my where-
+abouts and soon after I got a letter from Giles asking me if I would
+join him in another Exploring Expedition that was being fitted out by
+Sir Thomas Elder, an expedition in which Camels were to be used
+instead of horses. Necessity knows no law, I was compelled to accept,
+so in due course I took my passage by steamer to Adelaide. It will be
+seen that I was compelled to leave my Studies from sheer necessity
+but I considered I had made very satisfactory progress and had fully
+made up my mind to continue them at some future time. I had an
+interview with the Baron Sir Ferd von Mueller before I left Melbourne
+and from him I received a large packet of various kinds of seeds
+which were to be planted at favorable places on the proposed line
+of march. Taking passage in a coasting Steamer I arrived after a
+two days rough passage in Adelaide! where Giles introduced me to
+Sir Thomas Elder; in a few days we started for Beltana. Arriving
+there 24 suitable camels were selected & I had my first experience of
+riding one of these creatures. It seemed very pleasant at first but oh
+so wearying after the first few miles; fortunately the first days stage
+was a short one and I was glad when the halt for the night was
+sounded. We journeyed Southwards from Beltana to Port Augusta
+* From Tietkens’s Reminiscences , saa 82/379.
+| On 22 April, in the Aldinga.
+47
+
+
+where we took in the whole supplies for the Overland journey of
+nearly two thousand miles, through an entirely unknown country to
+Perth the Capital of the Colony of West Australia; the party consisted
+of Mr. Giles as Leader, myself as Second in Command and observer,
+Mr. Jesse Young Collector, two men, an Afghan Camel driver and
+a Fowlers Bay black boy of about 15 years of age. Leaving Port Augusta
+on the 23rd May 1875 with heavily loaded camels we took a westerly
+& N Westerly [course] through good pastoral country to the N end
+of the Warburton Range. At this point we entered upon an extensive
+desert country which continued uninterruptedly until we reached
+Youldeh* which is 120 miles North of Fowlers Bay.
+At this point we stayed a few days to give the Camels a rest for
+they were all carrying very heavy loads, after which it was arranged
+that Mr. Young and the black boy should accompany me on a journey
+to the Northward for a week or two to find if possible a depot where
+water existed from whence we could make a final start for the West
+Coast. We travelled for two hundred miles & were successful in finding
+water, the weather was cool and the nights cold and frosty and
+travelling was pleasant. Upon our arrival at Youldeh the whole party
+packed up and started for Ooldabinna, the new water discovered by
+Mr. Young and myself; it was only a small soakage . . .
+* Tietkens uses the later “Oldea”, that is, Ooldea.
+
+
+JESSE YOUNG’S ACCOUNT*
+In 1874 Mr. Elder determined on sending an expedition across on
+the thirtieth parallel, about 400 miles south of Forrest’s course, to the
+city of Perth, and so set at rest the conflictive surmises of what really
+was in that much dreaded country. Mr. Giles was selected to be the
+leader, and he made his old associate, W. H. Tietkens, second in
+command, while I had the honor of acting as observer and naturalist,
+under instructions from Mr. Elder to go up to his large station north
+at Beltana, and get arms, ammunition, and camels ready for our
+departure, and await the arrival of Mr. Giles and the other members
+of the party. One hundred miles by rail brought me to Burra-Burra;
+I then had 180 miles to ride in the most springless, rickety coach
+imaginable, and as it generally went at a foot pace, and made frequent
+stops, I preferred to walk —excellent training, but rather tiresome.
+From Blinman, where there are copper mines, I rode on horseback
+to my destination. My baggage, including the blankets and clothing,
+only weighed thirty-two pounds, and consisted of two flannel shirts,
+two pairs of socks, two pairs of leather inexpressibles, and two pairs
+of boots, besides the things I then wore. I got all our provisions ready
+sewn up in green-hide bags, as a protection against the scrub.
+The latter end of April [1875] Mr. Giles arrived, having come up
+from the south coast, where he had been exploring near Fowler’s Bay.
+He lost all his horses coming through; two camels carried his party
+220 miles without water, besides carrying enough to supply the horses
+while they lived with a bucket of water each day. They passed through
+a horrible country, and suffered greatly.
+When all was in readiness, we left Beltana with five white men,
+two black boys, two camel-drivers, and eight months’ provisions.
+One camel-driver became exhausted the first day, and was sent back.
+These camel-drivers have religious observances that sometimes are
+annoying. It is their custom to pray five times a day, and although
+we did not object to their worshipping, we disliked to have them wait
+so long; so, to make them quick, we took the camels on, so it was with
+* American Geographical Society Bulletin, Vol. 10, 1878.
+
+
+difficulty they could catch up with the party again. Their zeal for
+prayer generally exhibited itself at times when we were obliged to
+stop on account of a broken nose-line, or some other mishap. We
+had three kinds of camels —bulls, cows, and bullocks. The idea of
+using bullocks had always before been scouted, but we risked taking
+them, and found them to have very superior qualities of endurance,
+better than either bull or cow. The latter we used for riding, and the
+others for beasts of burden. They carry great weights. Our average
+was 500 pounds at starting, and I have seen one old fellow we had
+laden with half a ton. We stopped at Port Augusta a day or two,
+and then made our way northward to the west of Lake Torrens, a
+dry salt lake, to Elizabeth Creek.
+Shortly after our arrival at Lake Gairdner, we crossed the tracks
+of Mr. John Ross ... As we left Mount Finke with only ninety gallons
+of water, we could not afford the extravagance of making tea, since
+too much of it would be wasted in the shape of steam. On the second
+day it commenced raining, and we had to stop on account of the
+saddles getting wet. A damp saddle on a camel’s back is not comfort-
+able, and the camels do not like it any more than the riders. Camel-
+riding is generally as safe as the rider chooses to make it. The ordinary
+saddle consists of three wooden crutches, fixed at a distance of eighteen
+inches apart, on two bolsters, which fit along the camel’s side, the
+hump being immediately under the second crutch. This arrangement
+keeps the saddle off the camel’s loins and shoulders. Between the
+crutches the traveller puts his blankets, and other scanty luggage.
+On the sixth day out, we had our first experience in eating the grub,
+a chrysalis found in the roots of trees. It is about as long as one’s
+finger, soft and juicy, but with a hard head, crushing of which is
+objectionable. The taste is peculiar, but one can acquire a strong
+liking for it, if hungry. The natives cook it, but we did not.
+From Lake Gairdner our way was over the highest of sandhills
+and prickliest of spinifex, the densest of abominable scrub, and the
+most yielding of soft white sand.
+From Mount Finke to Youldeh our journey was not difficult.
+Though sandhills were plentiful, the waterholes too were frequently
+found, and we arrived without mishap. Mr. Giles left Youldeh, and
+went south to Fowler’s Bay, taking with him one black boy and three
+worn-out camels. Mr. Tietkens, the second in command, and myself,
+with four camels and provisions for one month, started north mainly
+to find water for a future depot. We intended to push to the Musgrave
+Ranges, previously discovered by Mr. Giles, and after recruiting
+there make our way back. We were fortunate enough to find in the
+course of 100 miles’ travelling, a small waterhole containing a few
+gallons. We returned to the depot, and brought up the party. Mr.
+Giles having returned from Fowler’s Bay, our party now consisted
+of seven men instead of nine, as at starting from Beltana.
+
+
+The following letters are transcribed from the originals by Elder and illustrate the
+circumstances under which Young went with the expedition.
+Adelaide yth Feby 1875
+Jesse Young Esq
+Oulnina
+My Dear Sir
+I have had two letters from you from Oulnina, the last suggested by a communication you
+had received from Jack Bakewell touching your proposal to join Ernest Giles' expedition to
+Western Australia.
+lam quite willing to sanction you joining the party, and have written to Giles (who is now at
+Fowlers Bay ) to that effect. He will be employed for another month in surveying some country
+for Price Maurice in that locality, and will then proceed to Beltana, where the expedition will
+be fitted out, and from whence it will take its departure for Perth as soon as possible.
+I see you would like a day or two in Adelaide before starting for the Interior and I see no
+objection to that—you had better come down soon for that purpose, and afterwards proceed to
+Beltana to get things prepared against Mr Giles's arrival.
+Mr Giles writes me he wishes to take nothing but camels for the journey, and I think he is
+right as camels and horses don' t do well together. I have a sufficient number of these animals to
+select from at Beltana and Mr Phillipson the manager has instructions from me to provide the
+requisite supplies: it will take about a month to prepare everything required for the outfit at
+Beltana and if that is completed in all March it will suit Mr Giles' arrangements for starting
+at once into the Interior; he is anxious to lose no time as he desires to make use of the whole
+of the coming winter for exploration.
+I hope you have fully and deliberately counted the cost of the proposed expedition and after
+putting your hand to the plough will not think of drawing back? You say you know full well
+the hardship of the undertaking, but your love of adventure will carry you through: I think you
+have a wonderfully cool and determined leader in Ernest Giles but then he understands his
+business well, and is quite competent to steer you safely to your journey's end. I have nothing
+particular in the way of news to relate . . .
+I am training Tricotrin, Lorenzo, & Jessica for the May races but am not very sanguine
+about them. My new stables are roofing in. The house at the Bay will be finished & made
+habitable next week and I mean to spend a month or two in it before the yachting season closes.
+I have been away cruising in the other gulf for the last ten days which was the reason for my
+not replying earlier to your last letter.
+Make my respects acceptable to Walter Duncan & believe me
+My Dear Sir
+Faithfully Yours
+Thos Elder
+[Birksgate, Adelaide ]
+26th March 1875
+My Dear Sir
+I received your letter last week, but have been so busy with the English mail that I could not
+find time to reply to it; even now it is not easy as the mail does not leave till tomorrow, but
+this is Good Friday, and a holiday in town, so that I am not so completely tied down to time.
+Mr Phillipson tells me you are busy getting necessaries ready for the journey pending Mr
+Giles' arrival —I doubt if you will see him at Beltana for another month, but that will make no
+difference to you as you can employ your time pleasantly, if not usefully in seeing the country and
+in preparing for a start.
+I am in hopes Mr Tietkens, Mr Giles' former associate, will go as Second in Command for
+Mr Giles writes me it is indispensable that the 2nd in command should be a man who could
+and would traverse independent lines if required. I am afraid that would be a stretch beyond
+
+
+your powers on your first journey, I expect you of course to enter my service as one of the party,
+and you will be paid by me same as another would doing the same duty —“Honor & Glory”
+are all very well in their way, but the labourer is worthy of his hire . . .
+I hope you find yourself happy and comfortable at Beltana.
+Believe me
+Tours faithfully
+Thos Elder
+Jesse Toung Esq
+Beltana
+The following passages in Elder’s letter to Young of 15 June 1876 are also relevant:
+I am favored with your letter of igth April, and note all that you say.
+You seem to have met with a cordial reception from the Geographical Society, and your modesty
+seems to have restrained you from recording your adventures in the form of a book . . .
+I am glad to see Forrest has got the gold medal for he deserves it, and let us not begrudge
+him & Giles the C.M.G. if they are fortunate enough to get it. Explorers have a hard and risky
+work to perform, and when successful are well entitled to public recognition! I wish you had come
+in for a share of these honors for you had no easy task to perform on your journey to Perth.
+Console yourself with the reflection that the best performers are generally overlooked and the
+worst rewarded, & publicly acknowledged . . .
+What a pity you did not take out a slice of pastoral country in the Far North —almost the
+whole country has been appropriated since, and the character of the country is well spoken of.
+I have iy,ooo sq. miles under lease now, and that ought to be enough —for one man.
+
+
+ALEC ROSS’S ACCOUNT*
+We arrived in Adelaide at the latter end of July, 1874, and after a
+few weeks’ spell I again made my way back to Beltana, as I had
+promised Mr. Phillipson, and took my job as a hand on the station.
+Before leaving Adelaide I had an interview with Sir Thomas Elder,
+and he promised me that should he send out another expedition he
+would hold a position for me.
+My work on Beltana was mostly taken up mustering stray stock of
+the well-known T. E. brand. One of my journeys was as far north-west
+as Mount Hamilton with the late Frank Booth as companion. While
+we were mustering I had the pleasure of meeting Mr. Ernest Giles,
+the explorer, who had just arrived at the Finniss. He had two camels,
+a white man, and a blackfellow. He reported that all his horses had
+perished on the trip from Fowler’s Bay, having gone one stage —from
+water to water —200 miles. I remember his saying what a different
+tale he would have had to tell, if he had only had camels in Gibson’s
+Desert, during his trip of 1873. He also said that he was going to
+Beltana to organize another expedition for Sir Thomas Elder, and
+that Sir Thomas had given my name to be included as a member
+of the party.
+I forgot to mention that I met John Forrest about two months
+before, at Beltana, then on his way to Adelaide, with party and plant.
+This was after his wonderful trip from the head of the Murchison
+* Alec Ross’s “Pastoral Pioneering” reminiscences were published in the Adelaide
+Register during July, August and September of 1928 and presumably were written
+at about that time. When he joined Giles he was only 18, but even so had been a
+member of the expedition led by his father, John Ross, that had set out to explore
+the country west of the Peake and to Perth, in 1874. He recorded that Giles was
+“a man of undaunted courage, and a born leader, and his old second, W, H. Tietkens,
+was the same”. In later years Ross became “manager of a succession of cattle stations,
+among them Finniss Springs, for the Beltana Pastoral Co., Undoolya, for the late
+Mr. Andrew Tennant, Grown Point, for the James Cowan Estate, and Dalhousie
+for the late Mr. John Lewis . . .” He died at Adelaide in 1938.
+Who can but warm to a man who fifty-four years after the event recalled his delight
+at being invited to join Giles, and who simply said of such arduous exploration,
+“I dearly loved the work”?
+
+
+River, in Western Australia, to the Peake Station, on the overland
+telegraph line. Forrest’s expedition was more wonderful at the time,
+as it was all done with horses, and the honours bestowed on him were
+well earned.
+After having finished the horse muster with Frank Booth, at
+Mundowdna, I received an urgent letter to hurry back to Beltana as
+the Giles expedition was about to leave, and it was arranged that I
+was to accompany him. I was delighted, as I dearly loved the work,
+and was grateful to Sir Thomas Elder for having kept his promise.
+Frank Booth and I arrived at Beltana on May 28, 1875, and were
+informed by Mr. Phillipson that Giles and party had left for Port
+Augusta. He had given instructions that I was to overtake him so
+soon as possible, and had left a splendid little camel named Reechy.
+On May 29 Booth and I delivered about 150 head of horses to Mr,
+Phillipson —all that we had mustered during my two months’ journey
+north.
+At 2 o’clock the same afternoon I caught little Reechy, and after a
+hurried farewell to my friends on the station, I started to overtake
+Mr. Giles, and met him on the fifth day, at Freshwater Well, 20 miles
+east of Port Augusta. Mr. Giles was glad to see me, as he was anxious
+to send one of the Afghans (Coogee Mahomet) back to Beltana. He
+was a big, lazy scamp of a fellow, and had been giving Mr. Giles a
+lot of trouble. He was very much annoyed at my arrival, knowing
+that he would lose his position. He cheekily wanted to know, “What
+the devil you leaving father for?” Before I could give him one back
+Mr. Giles took a hand, and said, “Why the devil did you leave your
+father?” Coogee said, “Oh, Mr. Giles, my father he dead.” Mr. Giles
+replied, “And why the devil did he leave you?” However, in the
+morning Coogee was packed off back to Beltana. Every one in the
+party was glad to see the last of him. The other Afghan, Saleh, whom
+Mr. Giles decided to take with him, turned out a splendid man. The
+party now consisted of W. H. Tietkens, Jesse Young (who was to
+assist Mr. Giles in the navigating, and who, I am told, had been a
+navigating lieutenant in the Spanish Navy), Peter Nicholls (cook),
+Saleh (camel driver), myself (as bushman), two aborigines (Neutinna,
+usually called Jimmy, and Tommy Oldham, a young native about
+18 years of age). Both these natives had been with Mr. Giles during
+his survey work at Fowler’s Bay. We had 16 pack camels, and six
+riding camels. We arrived at Chinaman’s Dam on May 14, and formed
+a camp, getting all our equipment together, as well as stores.
+It will be needless for me to describe that long and hard journey
+across to Western Australia, as Ernest Giles has given a detailed
+description of everything that happened from May 23, 1875, to March
+4, 1876 . . .
+
+

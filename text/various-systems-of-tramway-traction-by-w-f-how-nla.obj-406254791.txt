@@ -1,0 +1,1277 @@
+
+
+limiiiiiiiiiiiiiiiniiiiiiniiiiiiiiiinriiiiiiiiiiiiituiiiiiiiniiimiiiiilMniiuiiiiiinniniiiiiiiiiiiliiljl^^
+For Members Only.
+VARIOUS SYSTEMS
+TRAMWAY TRACTION
+By W. F. HOW.
+\Jdead before the Civil and Mechanical Engineering Section of the
+Royal Society of N. S. Wales , 17th August, 1892.~\
+
+
+
+
+For Members Only.
+VARIOUS SYSTEMS
+TRAMWAY TRACTION
+By W. F. HOW.
+[Read before the Civil and Mechanical Engineering Section oj the
+Royal Society oj F. S. Wales, 17th August, 1892. ]
+Discussion 19th October, 1892.
+Samuel E. Lees, Printer and Stationer. 83 York Street.
+
+
+
+
+VARIOUS SYSTEMS OF TRAMWAY TRACTION .
+Mr. E. B. Price
+Said he had been asked by the President to take part in the
+discussion on Mr. How’s paper. He proposed to confine his
+remarks to the Portrush Electric Tramway in Ireland, on which
+he was Resident Engineer, as he thought a short account of some
+of the difficulties overcome in the construction of the first Electric
+Tramway in the United Kingdom—and the first constructed for
+commercial purposes in the whole world—would prove interesting
+to the members of the Society. By some oversight Mr, How had
+omitted to mention this Tramway, but had given a short account
+of the Newry and Bessbrook, which was not half as long, and
+was not commenced till after the public opening of the Portrush
+line, to which it formed a sort of sequel, having been constructed
+by Dr. Edwd. Hopkinson, who, as Messrs, Siemens’ Electrician,
+was his (Mr. Price’s) associate at Portrush,
+The Portrush line was commenced in 1881, and formally
+opened by the Lord-Lieutenant in 1883, although Electric cars
+had been running constantly for a year previously. The
+line is eight miles long, having been extended two miles since
+first opened. It was originated by the Messrs Traill Bros., of
+Co. Antrim, who obtained the Act of Parliament for working by
+steam or any mechanical power, and invited the late Sir Wm.
+Siemens to join the undertaking, and work it by electricity. This
+was just after the successful trial of the Berlin Electric
+Tramway.
+Although no more difficult line could have been selected for
+experimental purposes, Siemens joined heart and soul in the
+work. At first it was tried to work by insulating the permanent
+way with asphalt, but this proved a total failure, owing to the
+Act compelling the Company to ballast the “ tram path ” with
+the top of the rails ; then a 3rd. rail, raised 4 inches on pitch-
+pine posts, was adopted, with success. This it was possible to do,
+as the tram was laid at one side of the country road. This 3rd
+rail was T section, 191bs. per yard, set in “ insulite ” caps, and
+fished together. It, as well as the permanent way (401 b. steel
+rails), were joined by copper expansion loops, rivetted and
+soldered. This was a troublesome operation, in which vast
+quantities of spirits of wine were used to heat the rails. When
+passing gates and side roads the current was carried underground
+
+
+by an insulated cable. The car, having two gathering brushes,
+■was long enough to over-ride all gates without breaking contact,
+and the momentum carried across wider openings. The line being
+single, passing-places were provided, always on an incline, the
+ascending car taking the inside line so as not to lose its current.
+For experimental purposes a 15 h.* p. agricultural engine was
+used to drive a 15 h. p. Dynamo, and this sufficed till the whole
+line was completed. Then a waterfall was purchased, and a pair
+of 50 h. p. turbines and a large Dynamo erected. This entailed
+the blowing up of an old mill and the construction of expensive
+works, which delayed the formal opening of the line. In fact,
+work was carried on night and day, and a complete trial
+by water power was only run on the evening previous. Sir
+Frederick Bramwell, Sir Wm. Siemens, Sir Wm. Thompson,
+Professor Fitzgerald, and other scientists, anxiously watching the
+result late into the night. The generating station was three-
+quarters of a mile from the Bushmills end of the line, and was
+connected by an underground cable. The opening ceremony
+proved a great success, and was attended by the scientific men of
+the United Kingdom, few of whom knew how nearly it proved a
+total failure. Although everything worked beautifully the
+previous night, and again at daylight next morning, when the
+four cars to be used in the procession passed over the whole line
+at 12 miles an hour, yet just half-an-hour before the arrival of
+the Lord-Lieutenant one of the underground cables crossing a
+gateway about 2 miles from Bushmills broke down, causing a
+leak of 15 h. p. even when no cars were running. There was
+just time to despatch a telegram to Portrush to start only one car
+at a time up the steep hill at the commencement, and luckily the
+cable did not break down entirely. It was with a sigh of relief
+that the speaker saw the first car load arrive at the generating
+station. During luncheon the leak was found, cut out, and steam
+got up in the experimental engine at the other end, and the leturn
+journey successfully accomplished, half by water and half by
+steam-produced electricity, without anyone being the wiser.
+These were the sort of failures which had to be contended against
+—the principle was sound, but the details were often faulty.
+Electricians have since learned to construct dynamos with good
+bearings, and to use proper insulation. Many a time our field
+magnets fused, from oil splashing in and destroying the insulat-
+ing rubber. Everything was exposed to dust and dirt, while much
+of the work was as fine and delicate as clockwork j now all is
+changed for the better.
+The motor dynamo was carried on a bracket beneath the
+floor of the car, from which, after reduction of speed, power was
+conveyed to the driving wheels by means of a steel link chain,
+similar to what is now used in cycles, but then it had to be
+
+
+specially designed. At first steel spiral cords were tried, running
+in grooves ; they worked beautifully on a level, but failed to grip
+on a 1 iu 30 grade.
+With such a simple matter as the gathering brush much
+difficulty was experienced, as in those days electricity was sup-
+posed to have such a preference for copper that nothing else could
+be used. After knocking many forms of copper brushes to
+pieces, a spring steel collector was used, made like an ordinary
+double car spring. Great elasticity was required, owing to the
+pitching of the 4-wheeled cars and the number of openings to be
+passed; here the ends of the 3rd. rail were bent down, forming
+slopes up which the collectors glided.
+It was only after most exhaustive trials that the Board of
+Trade Inspectors would pass the line as safe. Automatic
+brakes were required to be fitted, to prevent the speed exceeding
+12 miles per hour, and electricity was not allowed to be applied
+to this purpose. The difficulty was overcome by the adoption of
+the brake invented by him. These when tried down an incline
+of 1 in 30, with current full on, stopped the car immediately, and
+almost threw General Hutchinson, Government Inspector, over-
+board. Then the strength of the current used (250 volts) had
+to be proved not dangerous to life, even to a naked person sitting
+on the 3rd. rail. This stringent test was carried out, the volun-
+teers being the Engineer-in-Chief (Mr. W. A. Traill) and Dr.
+Hopkinson, neither of whom were nearjy so susceptible to
+electricity as himself. Some notes of this point may be of inte-
+rest. Though hundreds of shocks were rec-ived, no one was
+injured with currents up to 300 volts, yet this same current
+killed two horses when the riders used the 3rd. rail for a mount-
+ing step; the instant each placed his hand on his horse's neck
+the horse fell dead. Yet a horse’s fore-foot had been placed on
+the 3rd. rail, and no injury resulted. Dogs at first often placed
+their noses against the rail with astonishing results. In a short
+time, however, the dogs learned to keep to the other side of the
+road. He had seen a sparrow receive a shock in an amusing
+way. The bird lit on the raised rail, and of course received
+no shock, as it did not form contact with the earth. In reaching
+out to pick a drop of dew off a tall blade of grass it completed
+the circuit, and was tumbled in a heap; it recovered, however, in
+about five seconds. The doctor at Portrush used to prescribe so
+many minutes current for rheumatic patients, one great advan-
+tage of the continuous current being that it does not cramp, and
+therefore the recipient can let go at pleasure. Seeing the severe
+effects of even 300 volts, one should be very careful in adopting
+the overhead, or any system in which high tension electricity is
+used.
+
+
+With regard to working expenses, comparisons made between
+different Tramways may be very misleading, owing to the charac-
+ter of the roads. The Portrush line had heavy grades and sharp
+curves. In one place a curve of 40 feet radius on alin 25
+grade. The summit level was 180 feet over the starting place,
+and many intervening depressions had to be crossed, and, being a
+Tramway, the level of the road could not be departed from to any
+extent. The Newry and Bessbrook line, on the other hand, was
+a Railway on private land, and although the grade was steep, the
+curves were very easy. The restrictions placed by the Board of
+Trade and the Grand Juries had done more to prevent the exten-
+sion of Tramways in the old country than any other cause. Even
+on country lines the showing of steam or smoke could be followed
+by a heavy fine, and the speed was limited by automatic brakes.
+On the Portrush line a good opportunity was afforded of
+comparing the cost of working a Tram motor with an electric
+car when the electricity was generated by steam power, using the
+same fuel—coke—in each case. In full working, the locomotive
+weighed 7 tons and drew 12 tons behind it. The electric car weighed
+3 tons 5 cwt. empty, carried 20 passengers, and drew a waggon
+behind weighing 6 tons. The engines generally used 11 cwt.
+coke per day of 10 hours, and ran 60 miles, drawing 1 car.
+To drive the same car 30 miles by electricity required 3 cwt. of
+coke to be burnt in the stationary engine, the trips being taken
+once an hour for 5 hours. When using the water power it was
+impossible to compare the cost, as the water power cost only £25
+per year, and he (Mr. Price) left before the item of wear and tear
+could be estimated. The following notes may be of interest to
+electricians —Resistance of line, ‘23 o.h.m.s. per mile; E.M.F., 225
+volts; insulation 500 to 1000 0.h.m.5., according to moisture in
+atmosphere; loss due resistance 4 per cent, with 4 cars running,
+each using 4h. p.; leakage total 2 - 5 amperes.
+Mr. Price, in conclusion, hoped he had not occupied too much
+time in relating some of the difficulties which had to be overcome
+in the construction of the Tramway. He was glad to say that
+electricity had proved a great success, and was annually convey-
+ing thousands of tourists to the far-famed Giant’s Causeway.
+
+
+Mr. R. E. Jones.
+The subject of Tramway Traction is one of more than passing
+importance to Engineers, although in this country, owing to the
+want of concentration of population, there are but few towns
+where any system of tramroacl other than that worked by horse
+power, can hope to become a commercial success. Mr. Grimshaw
+.asks what is a tramway, and how is it to be distinguished from a
+railway 1 One authority states the former to be “ any two smooth
+parallel tracks upon which wheels without flanges may run.”
+Another terms it “ a street railway for cars.” The latter appears
+to be the more reasonable definition. I think, however, the chief
+difference between the two “ ways ” is that a railway carries
+freight of all kinds and weights for all distances; whereas a
+trarnroad is more confined in its action, never of long length, and
+with much more limited capacity as to haulage power, &c.
+Although the subject of Tramway Traction is one of con-
+siderable interest, yet I think the question of the cheapest mode
+of constructing and working light railways is at the present
+time of far greater importance to this country, in which large
+districts exist without even reasonable access to market, and
+where the usual type of line cannot be provided, owing not only
+to its great initial cost, but also to the further charges for mainte-
+nance and working. Such a subject, h jwever, is I think, distinct
+from that at present under review, although the line of demarca-
+tion between Tramways and Railways is, as Mr. Grimshaw states,
+not very clearly defined.
+The question before us is a large one, if we take into con-
+sideration all kinds of Passenger and Mineral Tramways. So far
+the discussion has been confined to the former, and I think
+rightly so, as the latter are constructed and worked in various
+ways, each case being adapted to its own locality and peculiar
+conditions ; it is, therefore, well nigh impossible to devise any
+type of motive power capable of being universally and economic-
+ally applied to such works.
+Dealing, therefore, with Passenger Tram locomotion, we com-
+mence with Horse power, which, in England, on the Continent,
+and even in the States and Canada, still holds its own with the
+later developments of traction. According to Mr. How, the
+initial cost of horse tramways with their equipment is far less than
+that of any other system ; but he gives the working expenditure
+at a much higher rate than either steam or electricity. No doubt
+this would be so in England and on the Continent, but in this
+colony, where horses and feed are generally cheap, I feel sure the
+
+
+cost of working will compare favorably with any other kind of
+Tram traction. Unfortunately, I have no statistics upon this
+point. At Adelaide the horse tramways appear to be worked
+cheaply and well. We live, however, in times when each minute
+saved in a journey is considered of value, hence the desire for
+quick locomotion. This has been obtained by
+Steam power, of which no better example exists than our
+own City and Suburban Tramways. That, in narrow streets with
+steam engines moving along same, there is a certain amount of
+danger to life, will be admitted ; also the great inconvenience to
+traffic ; but it must be acknowledged our network of Tramways,
+giving speedy and constant access, as they do, to almost every
+part of the city and suburbs, would be much missed were they to
+disappear. And when we find, with all their costly construction
+and maintenance, they pay a dividend of per cent., we should
+be careful before advocating any change which, although scienti-
+fically progressive, might be far less remunerative to the State.
+Respecting Compressed Air, which Mr. Selfe so manfully
+champions for Tramway Traction, I think it must be confessed
+that little progress has been made to bring this force into practical
+use, although attempts have been made to do so. I remember,
+some years ago, seeing in London, a model for a tunnel under the
+English Channel, through which the trains were to be propelled
+by compressed air. No doubt it is not now proposed to apply it
+in the same manner. What is to be studied, is not its power—
+which cannot be denied—but its economic application compared
+with other systems of traction, and so far tliis comparison has
+been unfavorable with either steam or electricity, although I hope
+the future which Mr. Selfe predicts for it will be realized.
+Coming now to Electricity, it must be admitted America is far
+ahead of any other country; and when we read of the waters of the
+mighty Niagara being made to play their part in supplying elec-
+trical power for the working of many industries, we cannot fail to
+admire the spirit of enterprise and love of scientific investigation
+which so largely prevails in the great country across the Atlantic.
+So far in the discussion there is a preponderance of opinion in
+favor of the Overhead Electrical System ; what is known as the
+Storage Battery System being condemned. An interesting paper
+was furnished very recently to the Institute of Civil Engineers
+by Mr. Ruttan, M.1.C.E., city engineer of Winnipeg :—“ In
+Boston,” he states, “ there is a gradual change from horse to
+electrical traction, the advantages of the latter being greater speed
+and cleanliness. Regarding the Overhead and Storage Systems r
+the first cost appears about the same for both—engine power also
+—but it is probable in future less will be required for Storage
+Tramways. On the Overhead System the power required is very
+variable, as the engine loading changes suddenly, necessitating
+
+
+full steam-pressure to be kept at its maximum, whereas the
+Storage Cars are independent units, and the engines at the central
+station may therefore be run at a constant rate, developing the-
+average power to move the cars on the line. Taking the electrical
+efficiency of the storage battery at 80 per cent, and of the over-
+head wire 90, we have the total E.H.P. required for the former
+187-5 against 333 for the latter.” The conclusions arrived at by
+Mr. Ruttan are : That a road which is not too long, and upon
+which there is heavy traffic, affords the best opportunity for
+economically working the overhead system, while a straggling
+road with comparatively light traffic affords the most favorable
+conditions for the storage batteries. He further adds that the
+overhead system has probably reached its maximum efficiency,
+while the storage battery has not yet done so. At Washington
+the same company works both systems, the batteries being charged
+from wires of the overhead lines. I tind from the latest return
+of our Railway Commissioners that on the Randwick and
+Waverley tramway, 1J- miles is reported to have cost £II,OOO for
+its electrical construction and equipment on the Thomson-Houston
+principle. The sum of £2459 was expended in working for ten
+months as against £1915 by steam for a similar period, the latter
+showing a saving of 21 per cent., which seems to prove the
+change in the mode of traction which was here determined upon
+lias borne good results, at any rate from a commercial point of
+view. The North Shore Cable line, also 1| miles in length, cost
+£7902 to work for the year, or times as much as steam on the
+Randwick tramroad. This comparison, however, is scarcely fair,,
+as the traffic-earnings of the latter were much less than the former.
+A more even comparison may probably be made with the city and
+suburban system, which we find cost 16 per cent, less to work
+than its cable neighbour at North Shore, whilst the latter also
+expended nearly four times as much in working as the Newcastle
+and Plattsburg steam tramway, which earned 27‘88d. per train
+mile, and gives a profit of 4'82 per cent, compared with 4-27 on
+the North Shore cable. According to Mr. Thow, the working
+expenses of the Electrical and Cable systems are nearly equal.
+Mr. How puts the latter at 50 per cent, more than overhead
+tramways. Taking, however, a mean, a tolerably fair comparison
+can be made with steam. In a recent cablegram it was stated
+The Mersey Docks and Harbour Trust had decided to erect six
+miles of overhead electric tramways, thus shewing the favor in
+which the system is there held. The City of Hobart too, is, lam
+informed, about to adopt electricity as a motive power for its
+tram roads. It must be acknowledged the Cable System , as in
+vogue both in Melbourne and North Sydney, is most attractive,
+works over heavy grades with cleanliness and ease, and in these
+respects is much to be preferred to either steam or horse power.
+
+
+But when we find that at North Shore the initial cost, including
+equipment, is £50,245 per mile, as against about £IO,OOO for
+either electric and steam tramways, there must be a great saving
+in working expenses to compensate for the extra interest on con-
+struction. We, however, do not find this to be the case. On a
+revenue basis the North Shore Cable cost 71 per cent, to work, as
+against 82 on the City Tramways and 73 on the Plattsburg line.
+It must, I think, be admitted that with so many different condi-
+tions, both as to locality, grades, traffic, cost of labor, life of road
+and rolling stock, a proper comparison between the different
+systems is almost impossible. Both the Electric and Cable
+systems admit of working over heavier and steeper grades than
+steam.
+The conclusions I have arrived at are, whereas in Sydney we
+have a system of steam tramways, doing excellent and successful
+work, a greater gain should be shewn than is now apparent before
+any change can be recommended. And, as already pointed out,
+there are very few towns, in this colony at any rate, where any
+but horse tramways can be expected to commercially succeed.
+With respect, however, to the general question, I think that for
+heavy, continuous traffic, overhead electrical system is both
+economical and effective, although, no doubt, its beauty is not
+quite clear to Mr. Buskin ; but, then, he objects to many works
+that do not harmonise well with nature. For light traffic I prefer
+the Electric Battery System, as being cheap to construct, with
+less loss of power in working.
+I append a few statistics relating to various Systems of
+Traction in New South Wales :
+
+
+be
+Tramway.
+Design
+Cost per
+mile
+Earnings
+per
+mile.
+*2
+O <n
+> o>
+c S
+Analysis of Working Expexsbs, giving
+PER CENT AGE OF CHIEF ITEMS.
+Remarks.
+C3
+s
+System.
+including
+equipment
+Per cent
+ing ex{
+date.
+Perma-
+nent
+Way.
+Cars,
+&c.
+Loco.
+Power.
+Traffic
+Exn’u’s.
+General
+Charges
+Total.
+*37
+City and Suburban
+Steam...
+£
+25,213
+£
+7,549
+82
+22-70
+4-68
+4804
+20-37
+4-21
+100
+£
+Pays 554 dividend
+7i
+Newcastle and Plattsburg ...
+Do. ...
+10,120
+1.826
+73
+1107
+6
+o
+54-78
+24-78
+2-37
+100
+Pays 4 82 dividend
+14
+Rand wick and Waverley
+Do. ...
+7.683
+25 53
+2-77
+55-46
+15-25
+•99
+100
+U
+Do. Do.
+Electric
+7 683
+t
+15-41
+•33
+7137
+11-87
+1-02
+100
+li
+Norlh Shore
+Cable ...
+50,2-15
+7,415
+71
+11 52
+7-86
+57-63
+20-94
+205
+100
+Pays 4-27 dividend
+* This includes 1
+S miles from Bridge Street to Railway Station, carrying
+an immense traffic.
+
+
+Mr. G. E. Cowdery.
+Ix considering a matter of this kind, the question that naturally
+presents itself to us is, What is the best system of Tramway
+Traction for Sydney. That the suburbs of Sydney require a
+satisfactory system of Suburban Railways is generally admitted,
+but it appears, until that is satisfied, the public will hold to the
+steam they have until they get the steam they desire. That
+granted, they will quickly fall into line for abolishing stenm
+tramways and substituting a more suitable system of Tramway
+Traction, where steam and smoke will not be required, and where
+the noise will be reduced to a minimum.
+Should it be decided to abolish steam and substitute cable,
+the whole of the existing track must be removed, and, further,
+the miles of single line must be duplicated in order to allow
+the cable being worked over the whole of the existing track, a
+total distance of 38 miles of double track. This would cost at
+least £1,500,000.
+I also estimate, to carry a similar amount of traffic to that
+hauled by the present steam lines, a number of subsidiary lines
+would be required in the city proper, which would probably in-
+crease the capital expenditure required for cable tramways to
+£2,000,000. It also means that the existing capital for steam
+tramways, which amounts to £1,000,000, would be practically
+thrown away. We would therefore require a capital of £3,000,000
+to supersede steam by cable.
+On the other hand, if the overhead electric system (and this
+must admittedly be the only other rival) be adopted, there would
+not be the slightest necessity to remove the existing track as it
+is well adapted for electrical working. It must also be remem-
+bered our lines extend some distance into the suburbs—to Botany,
+miles; Five Dock, 7 miles; and Dulwich Hill, 6 miles, thus
+favouring electric construction.
+The cost of converting our 63 miles of single track into
+electric installation I estimate at £630,000. I would therefore
+favour electric traction, not only for its low first cost, but its
+easy adaptability to our requirements.
+Few electrical engineers will hold that the overhead wires
+are not objectionable, and would be pleased if they could be dis-
+pensed with. The greatest difficulty, however, is to familiarise
+the public with them, but this should not be harder than to make
+them used to steam and its attendant noises. I should therefore
+like to see a line constructed in a thickly populated district with
+steep grades, where not only the public would become familiar
+
+
+with the wires, but would be enabled to test its load-hauling
+■capacities up steep inclines and more‘clearly demonstrate its
+commercial value. One of the greatest difficulties, to my mind,
+in comparing the commercial advantage of electric over steam
+traction, is to ascertain fairly accurately the maintenance charges
+in each case. It is well known that invariably when a new line
+is first made, whatever be the traction, the maintenance charge is
+necessarily light, often leading investors to a too sanguine view
+of their investment, forgetting that each year the material
+becomes more worn and the cost of labour increasing proportion-
+ately. Of course it generally follows the earnings yearly increase
+as the population grows, but this is not always proportionate, and
+is subject to many disturbing influences.
+To what extent the maintenance of an overhead electric
+line, with its motive power and electrical connections, would in-
+crease at the end of six or seven years, it is difficult to es imate;
+and it appears to me that here caution must be exercised in com-
+paring the maintenance cost of electric with either steam or
+cable tramways, for it must be remembered that electric overhead
+lines are little more than four years old.
+It therefore appears to be a fair question to ask in reference
+to the extract from the Census Bulletin , No. 55, on Transporta-
+tion, quoted by Mr. Thow—How long have the nine electric lines
+been in operation as compared with the ten cable ? Do they run
+through as populous districts in each case ? Is the amount of
+vehicular traffic similar? And are the grades and curves very
+much the same ? Such questions as these have a very important
+bearing on the question, and no comparison is complete unless all
+the local conditions are fairly stated.
+I would add that these figures, given in the Census Bulletin
+5)5, have already, owing to their careless compilation, caused a
+large amount of irritation and correspondence. It has been
+pointed out, for instance, that the cost given for an electric line
+as £lO,OOO a mile is a single line unpaved, and £70,000 for cable
+a mile of double track well paved.
+Taking the yearly permanent-way maintenance of our city
+and suburban lines at £52,000, I calculate that, were they
+worked under the electrical conditions, ths cost would not exceed
+£40,000, a yearly saving of £12,000. I arrive at this by care-
+fully watching the cost of maintenance under the two conditions
+on the Waverley to Randwick line, and also by estimating that
+by the removal of the heavy motors from the streets the life of
+the road would be increased from nine years to twelve years.
+With reference to the comparatively heavy maintenance on
+the North Shore Cable line, I would point out it is worked under
+very severe conditions. The trams run to meet the boats, and
+naturally the traffic at the busy parts of the day is in one direc-
+
+
+tion, so that, especially in the evening when ascending the steep
+inclines and when a dummy and two loaded cars are attached to
+the rope and stop and start on the inclines, a very severe strain
+is thrown on to the cable, causing a short life for the rope and
+consequent heavy maintenance. It is only fair to add, with refer-
+ence to the cost of cable tramways, the tendency has lately been
+to greatly reduce the first cost by the construction of shallower
+tunnels. The maintenance has also been reduced by using better
+constructed cables and increasing their life by the adoption of
+tangential pulleys on sharp curves.
+It is also interesting to note the great difference in the life
+of cables, even of the same makers, some lasting two or three
+months, others twelve, under apparently similar conditions.
+Even in the same rope half the rope may wear badly while the
+other half remain fairly good.
+This, as far as I can learn, has never been satisfactorily ex-
+plained.
+
+
+Mr. P. B Elwell
+Having been honoured by an invitation to join in the discussion
+upon this subject, I feel bound to contribute any information or
+suggestions that I may be able to do, although it is doubtful
+whether my contribution will not prove both stale and valueless.
+Mr. How has thoughtfully protected himself fro n criticism
+to a great extent by giving his object as mainly that of promoting
+a discussion, and it is in that respect more especially that he
+deserves our thanks.
+Amongst other proposed methods of traction, one gentleman
+has referred to a continuously revolving shaft, an idea that I can
+recall as having occurred to me some twenty years ago, when the
+question of superseding locomotives on the Metropolitan Railway
+was first raised, and I explained my idea in a letter to, I think,
+The Engineer, but, on going into details, I arrived at the conclu-
+sion that it was not good enough. The facility with which the
+cars could be started, stopped, reversed, or shunted was very
+attractive.
+Mr. How states that the Chicago Railway Co. in 1889 had
+600 cars running on a line 20 miles long at a speed of 10 to 12
+miles an hour. This is a marvellous instance, if correct, and
+presents the perfection of a cable line, namely, an almost con-
+tinuous string of cars. But I can hardly believe that a2O
+seconds service—that is, a car every 20 seconds—could possibly
+be maintained at any speed approaching 10 miles an hour. It
+only allows 110 yards between the cars, on a double track, and
+would be about three times the traffic of the Melbourne Tram-
+ways.
+If such conditions were practicable, there is not the least
+doubt but that the line would prove highly economical, and, if
+passengers were sufficiently numerous, extremely remunerative.
+The efficiency of such a line, i.e., the power actually applied to
+the cars as compared with the indicated horse power of the
+engines, would probably reach nearly 50 per cent.
+And now, if I am not proving tedious, I would say a few
+words about this all-important subject of Efficiency. It is for
+the public to say whether they will have Steam Trams, Cable
+Trams, Overhead-wire Electric, Conduit Electric Trams, Accu-
+mulator Trams, or any other sort of Trams, or no Trams at
+all; and I would not for a m ment try to persuade them that
+Steam was unobjectionable, or that the Cable was the imper-
+sonation of safety, or that over-head wires interfered in no way
+with the aesthetic aspect of the streets. I would prefer that the
+public formed their own opinions upon such points.
+
+
+But it is for engineers to point out the various technical
+advantages and disadvantages of each system as affecting the
+cost of working or general convenience, and this question of
+efficiency is one of the greatest weight.
+The bare statement that the Cable is only capable of showing
+an efficiency of 25 per cent, whilst the directly driven Electric—
+either by overhead wire or underground conductor— gives us 50
+per cent., is of little value although perfectly correct under certain
+circumstances ; on the contrary, it may prove very misleading,
+because it is quite possible for a Cable line to show 30 per cent,
+efficiency, whilst an Electric one only gives 20 per cent., and
+examples may be given of this in practice.
+The characteristic conditions —length of the line, density of
+traffic, grades, curves, description of roadway, climate, prevailing
+rates of wages, etc., not to mention fiscal policy of existing
+Government must first be obtained. The comparative efficiency
+of the different methods of traction can then, and not until then,
+be calculated with accuracy.
+For instance, let us imagine a practically straight route on
+a continually ascending grade of 1 in 10, and a traffic demanding
+a one-minute service of cars. Under such conditions there could
+be no question as to the advisability of adopting the Cable as
+the most efficient and remunerative system.
+On the other hand, take a line with many grades and curves,
+the former not exceeding 1 in 15, with a 2|- or 3-minute service
+of cars. In this case Electricity would carry the day, and leave
+the Cable far behind as a paying concern.
+Again, take an outlying line connecting two or three suburbs
+or a township with the nearest Railway Station, where a service
+of one car per hour, or even less, meets all requirements. Neithei
+Cable or directly driven Electric systems would answer in such
+an instance. The most efficient and economical service, not con-
+sidering horse traction, would be between Steam and Electric
+Accumulators, with advantage to the latter if local rates of wages
+are very high, and to the former if especially low.
+Of the three cases I ha ve suggested above, the first is rarely
+met, and, consequently, the Cable can seldom compete favourably
+•either with Steam or Electricity. The second case is more or less
+that of most tramways, and that is why the overhead Electric
+has made such prodigious strides in America, where it has gener-
+ally superseded animal power on existing lines ; and here I would
+■draw attention to the general impression—correct under certain
+conditions, but quite erroneous under others—viz., that, of the
+two methods of direct Electric traction, the Overhead wire and
+the Conduit as used at Blackpool and Buda Pesth, the cost of the
+latter is very much greater than that of the former.
+
+
+mately as follows :—
+OVERHEAD WIRE.
+CONDUIT.
+Way...
+£ 10,0D0
+Permanent Way and Con-
+£14.000
+Overhead wires, poles, feed-
+duit, etc.
+ers, and either under-
+Motive power, etc.
+2,000
+ground return wire or
+Rolling stock
+2,500
+connections between rails
+2 000
+Various
+500
+Motive power, etc.
+Rolling stock
+Various
+2,000
+2.500
+500
+£17,000
+£19,000
+Balance being about 11
+per cent....
+2.000
+£19,000
+Take, for instance, the following very probable case :
+A line has to be constructed through a populous city, over one of
+its main streets, which is wood paved, and the traffic is expected
+to be very heavy, say a 21-minute service of large cars. The
+comparative cost per mild of the two systems would be approxi-
+Thus, under the above conditions, the Conduit lino only costs
+about 11 per cent more than the Overhead wire, and with a
+newly-invented Conduit it would be even less - ; and it is, as I
+said before, for the public to say whether it is not worth this
+extra 11 per cent, of initial cost in order to dispense with all
+poles and wires. The efficiency of either arrangement is practi-
+cally the same, the advantage being slightly in favour of the
+Conduit.
+Of course, if we take an instance under totally different con-
+ditions, say the conversion of an existing line from Steam to
+Electricity, and where a 10-minutes service will answer all
+purposes, it will be found that the Conduit will cost two or three
+times as much as the Overhead wire. But if the conversion can
+be carried on simultaneously with the relaying of the road, the
+cost will again be brought down to a similar ratio to that in the
+case of a new line.
+Whilst on the question of the Direct Electric system, I
+would draw attention to the great improvement recently brought
+into use in the States for the purpose of controlling the motors,
+viz., of commutating the current delivered to the car motors
+instead of merely introducing more or less dead resistance as was
+formerly the practice, and is still on most lines. The principle
+involved is an old one—electrically speaking—having been used
+in connection with Accumulators for the last ten years or so, but
+it has only lately been carried out in a thoroughly practical
+manner in connection with directly driven cars, mainly on account
+* This estimate (Permanent Way) is probably too low, in which case the net difference
+would be still less.
+
+
+of the want of a suitable commutator that will stand the severe
+action caused by the breaking of the high pressure current used
+in direct electric traction and consequent arcs at the commutators.
+But, by aii ingenious arrangement of magnets these arcs have
+been rendered harmless, and it is said that one of these commu-
+tators has been worked backwards and forwards as many as fifty
+thousand time-t, at the rate of two hundred and fifty times a
+minute, without damage to the wearing surfaces.
+Mr. How gives a few, somewhat ancient, cases of Secondary
+Batteries, or Accumulators, being tried for Tramway traction,
+but he does not tell us that the Birmingham Tramways Company
+have been using them for the last three years ; that the North
+Metropolitan Company of London have been working a section
+of their lines for about four years ; or that the line between
+Schevening and the Hague has been working for two or three
+years—all fairly satisfactorily—and, as the Batteries are likely
+to become cheaper in consequence of the expiration of the main
+patents, this method of traction will probably extend. But if I
+were to describe the various forms of Secondary Battery with
+which I have experimented during the past ten years I should
+keep you here a I’night, or I should soon find myself speaking to
+an empty room ; but I may mention that there are three forms,
+of the “ Plante,” “ Faure,” and “ Demazures ” types respectively,
+which show great capabilities, and the two first may be considered
+thoroughly practical. One has just given me a discharge corres-
+ponding with 25,000 foot pounds of energy to one pound of
+battery, with promise of durability.
+Let us for a moment consider the advantages of the Accumu-
+lator system. First, from the public point of view, we have—
+1. Complete absence of Overhead wires or Conduits.
+2. No alteration required in existing lines.
+3. Absolute independence of each car or tram. And, from
+the Engineer’s point of view, more particularly—
+4. No risks of imperfect contacts, either overhead or on the
+rails, causing arcs, and, consequently, waste of energy.
+5. No risk of a temporary break in the current, caused
+either by the trolley missing the wire or by very dirty rails.
+6. The advantages that, even if a car were to leave the rails,
+it could be driven over the wood blocking and on to the rails
+again.
+7. The advantage that the Shunt-wound motor can be used,
+and a higher average efficiency obtained (Shunt motors cannot be
+used either with the Overhead wire or Conduit, on account of
+the uncertain contacts above-mentioned).
+8. That the Generating Plant can be worked at a uniformly
+full power, and it is well known that Steam engines—especially
+compound engines—work very inefficiently at powers much below
+
+
+Cable
+... 12 tons.
+Electric (direct-driven)
+... 18 „
+Electric (Accumulators)
+... 23 „
+Steam
+... 25 „
+full load. The variations in total load—even when a large num-
+ber of cars are in use on one line—are great in either of the
+direct-driving systems.
+The disadvantages are principally in extra weight of rolling
+stock, about 20 per cent, under the best circumstances, and the
+hitherto heavy wear and tear in the Accumulators.
+Whilst on the question of weight, I would draw attention to
+a comparison, highly in favour of the Cable system, to which I
+have not seen any allusion made up to the present —the wonder
+being that, with such advantages, the Cable should still prove so
+costly. It all tends to show that the principle of traction by
+Cable is bad under ordinary conditions of street tramway work-
+ing, and should only be used under exceptional circumstances.
+Now, let us take for this comparison four cars, one Cable,
+one direct driven Electric, one worked by Accumulators, and one
+by a Steam motor, each carrying 150 passengers—l am obliged
+to lix upon a rather large size in order to give steam a fair
+“ show.”
+The total working weight of each without passengers will be
+found approximately as follows :
+Allowance is made in each case for strength to bear overloading
+to the extent of 25 per cent, to 50 per cent., and for mounting
+grades up to lin 16.
+Steam is weighted with the special disadvantage over all the
+others, in that as much as six tons have to be carried on a single
+pair of wheels, whereas, in the other types, there need never be
+more than three tons to one pair of wheels, and, in the case of
+the Cable, considerably less.
+By this comparison we see that the Cable can well afford to
+be of low efficiency, because the dead-weight to be propelled by it
+is only two-thirds that of the direct-driven Electric, to carry the
+same passengers.
+Consequently a Cable line giving the average efficiency of
+25 per cent, is practically equal to an Overhead wire road show-
+ing 38 per cent., to an Accumulator system showing 48 per cent.,
+and to a Steam tramway giving 52 per cent, commercial
+efficiency.
+Notes on the Discussion of September 21, 1892.
+Mr. Selfe remarks how “ very simple ” a compressed air
+engine would be as compared with an electric motor car, but it
+appears to me that, when one considers that an electric engine
+
+
+need have but one moving part, viz., the driving ax'e, and but
+one pair of journals to keep in order, and that there are no
+cylinders to be re bored, piston rings to be renewed, valves to be
+faced up, connecting rods to be taken up, eccentrics to be looked
+after, etc., etc., and all of them grinding away with the dust and
+mud, one can hardly arrive at anything but the contrary conclu-
+sion. As an instance of what modern electric motors will stand,
+I might cite a case where one of these motors combined with a
+mining drill was thrown down an embankment some fifty feet
+high into a pool of water. It was shortly afterwards picked out,
+and immediately started to work without repairs or re-adjust-
+ments.
+Mr, Grimshaw makes a rather startling statement as regards
+efficiency of Gearless, Single Reduction, and Double Reduction
+motors respectively, viz., 70, 60, and 50 per cent., and I presume
+he alludes to the mechanical efficiency, because it would be quite
+as correct to state that they were of 70, 80, and 90 per cent,
+efficiency respectively. That would be electrical efficiency, and
+3 7 ou see that the one tells against the other, so that, taking the
+commercial efficiency, there is not much difference. The
+practical point is that the Gearless motor is the heaviest and
+most costly, but least expensive in wear and tear ; the Double
+Reduction motor being cheapest and lightest, whilst most costly
+in wear and tear.
+Mr. How has referred to the experimental trial of the
+Overhead wire system at Randwick. This was discontinued
+because there was no further object to be gained by continuing
+it on that section of line, and I might mention that the whole of
+the material will probably be brought into use again very shortly.
+Mr. Grimshaw has apparently confused the terms “ series ”
+and “parallel” with motors and accumulators where he states
+that, “in starting, it is usual to work the motors in series
+, . but sometimes exactly the reverse is done.” The fact being
+that, in the case of motors, they are started in series and then
+thrown into parallel ; whilst, in the case of driving by Accumu-
+lators, the BATTERIES are usually started in “ parallel ” and after-
+wards thrown into “ series.” The effect is precisely the same in
+either instance.
+Mr. Thow’s information is most interesting and valuable,
+and it is with the ulterior object of confirming its value that I
+would draw attention to his remark regarding the cost of steam
+traction as in Sydney being more expensive than any other
+systems. He appears to have overlooked the point of car
+capacity. In Sydney (City and Suburban) this is 70 seats,
+whilst in Boston it is, I think (or was), only 26 seats, and at
+Korth Shore (Cable) about 10 seats. Consequently, to make a
+fair comparison, Mr. Thow’s figures require considerable revision,
+
+
+and it will be found that the cost per seat comes out remarkably
+low in the case of the Sydney Steam Trams—the North Shore
+Cable costing about twice as much.
+The term “ car-mile ” may be very misleading, and I would
+suggest that of “ seat-mile ” as a more accurate unit for calcula-
+tions. I think Mr. Grimshaw has anticipated me in drawing
+attention to this point.
+Finally, I am hardly prepared to admit as Mr, Thow
+expresses it, “our relation, as English engineers to electricity, as
+a motive power, is a very long way indeed behind that of the
+Americans,” in spite of the gigantic progress made by the latter
+in the simplest form of electric traction, viz.—by the overhead
+wire.
+How about the Blackpool Tramway, with its traffic of ten
+50-passenger cars over only two miles of line, doing about 800
+car-miles per day in the summer season. Where has the Conduit
+system been so successfully worked in the States? And we must
+remember that this line has been working for six or seven years.
+Again, where in the States is there a traffic anything
+approaching that which the City and South London Electric
+Bailway can deal with ?
+And far more progress has been made in the still more
+difficult problem of traction by accumulators in England than
+in America.
+And where in America have they had the enterprise to
+construct an elevated electric railway equal to that now being
+built at Liverpool ?
+Finally, as regards size of engines and dynamos, the
+Americans are again all behind, for where can you see engines of
+10,000 I.H.P. each, driving dynamos fifty feet in diameter, such
+as those erected by the London Electric Co. at Deptford ?
+The Americans have had the exceptional chance of going
+ahead with the Overhead wire, and—they have gone.
+I have to apologise for occupying so much of your time, and
+beg to thank you for your kind attention.
+
+
+Mr. J. I. Haycroft, M.E., Q.U.L
+Mr. How in his paper reviews very concisely the several means
+used fur the purposes of Tramway Traction, and states his principal
+object was to promote discussion on such an interesting subject.
+Taking a broad view of the question, which is the best system
+to adopt, 1 do not think any hard and fast rule can be laid down
+as a guide, Ihe most suitable traction to be used in a particular
+district should, I consider, be guided by local circumstances—such
+as grades, fuel, probable traffic, &c.
+I am not surprised at Mr. How marvelling at the existence
+of steam tramways in Sydney. I cannot see, however, in the face
+of the tabular statement furnished by Mr. Thow, how he (the
+author) considers them cheap.
+In comparing, from a broad point of view, the systems of
+traction in use at the present day-—such as steam, cable, horse and
+electrical—the first, steam, may be put on one side as not likely
+to make headway for several reasons. It brings additional noise,
+dirt and smoke into city streets, and in point of economy is far
+below the stationary engines used in cable and electric systems,
+also the great weight of the motors causes rapid deterioration of
+the track.
+Comparing electric traction with the cable and horse traction,
+the first embodies all the advantages of the others and is wanting
+in those features which are objectionable in them.
+In deciding the question of traction, the chief points are :
+cost, operating, expenses, safety, reliability and durability. Even
+granting that the operating expenses of the three systems are
+equal, there are many advantages offered by the use of electricity
+over horse or cable traction. As to its reliability, there can be
+little question ; the experience of existing roads is the best proof
+on this point. Experience has also shown that as regards durability
+all that could be expected from machines subjected to such treat-
+ment has been arrived at. Among the many advantages of electric
+over cable or horse traction is increased speed. In the horse and
+cable systems there is a limit to the speed attained ; the speed in
+the cable system cannot be varied without great wear on the cable;
+in crowded streets and in open suburbs the same speed approxi-
+mately must be maintained.
+With the electric system, the rate of speed can be varied at
+will to suit requirements. Increased speed means an increased
+car mileage and receipts ; also an important item is the ability of
+the electric motor to haul one or two cars, and thereby render it
+possible to double the carrying capacity of the road.
+
+
+Unlike the cable system, whose existence depends on an
+unbroken cable, in the electric system every car is a separate
+locomotive.
+As an example of economy in cost of equipment, on five cable
+roads in America the cost was 350,000 dollars per mile of road ;
+horse traction, 41,000 dollars per mile ; and electric traction,
+36.000 dollars per mile. The victory of electric over cable trac-
+tion has been most marked in the West end system of Boston,
+and the nearly equally large institution in Minniapolis and St.
+Paul, referred to by Mr Tliow.
+On the lines followed by the Sprague Electric Railway and
+Motor Company’s overhead trolly system in Richmond, in 1888,
+there are at the present day no less than 325 roads in the United
+States, England, Germany, Italy and Japan, using 7,000 motors,
+4.000 cars, and 2,000 miles of track, and carrying three-quarters of
+a billion of passengers per annum. Nearly a quarter of the street
+railways in America are electric, about two-thirds horse, and only
+one-twentieth cable. Grades of 13 to 14 per cent, (about lin7) ;
+distances up to six miles from central station; speed as high as
+thirty miles per hour for single cats ; and trains of from one to
+four cars are in use on the electric roads.
+Another point in favour of the electric system is the immunity
+from accidents observed in the case of employees. Not less than
+10,000 operatives are employed, yet not even one life has ever
+been lost by contact with the standard potential adopted.
+The City and South London Electric Railway is a type of
+what I consider would be the best solution for a city railway in
+Sydney. This line is 6| miles in length. The rails are laid in iron
+tubular tunnels, 10 feet 6 inch diameter, up and down tracks being
+separate, thereby ensuring good ventilation. The generating
+plant is at the Stockwell or southern end. The trains consist of
+three cars and electric locomotive. The locomotives weigh ten
+tons each, and the armatures are attached direct to the driving
+axles of the engines, thus doing away with the necessity of gearing;
+this, of course, is only possible where high speeds are allowable.
+Each locomotive has two electric motors, the current being
+obtained from an insulated conductor of steel laid between the
+track rails, the latter acting as return portion of circuit. Though
+the cars are lit electrically, the stations derive their light from gas.
+A fixed fare is charged for any distance, the passengers paying on
+entering through a turnstile. The cars are all one class like our
+trams. Trains are run every five minutes, at an average speed
+of twenty-five miles per hour.
+An underground road of this description is peculiarly suitable
+for Sydney \ it can be constructed quickly without damaging or
+defacing property, and is secure from interruptions or accidents
+to which surface lines are liable, and much higher speed is
+
+
+permissible. It also does away with the objection, fanciful or
+otherwise, levelled at the overhead system of electric traction
+with its standards and net-work of wires.
+In New York several schemes are proposed at present to
+substitute some means of transit for the elevated railway, called
+by several names, such as “ Arcade Railway,” “ District Railway,”
+“ City Railway,” and “ Underground Railway,” having one feature
+in common, viz., traversing the city, either wholly or in part, by
+means of its avenues, directly under its surface. The motive
+power proposed is electricity, with provision made in the tunnels
+for accommodation of gas, steam, and water pipes, with telegraph,
+telephone and electric power cables. The cost of the city railway,
+partly four tracks and rest two tracks, is estimated at tifty-seven
+millions dollars.
+Electric traction, by storage batteries, is being tried in
+Philadelphia on the Waddell Entz system. The storage
+battery is undoubtedly the ideal system of electric traction ; each
+car is a unit in itself, and no out door construction nor special
+track are necessary. The threespecial features of the system, which
+distinguish it from other storage battery systems, are as follow :
+an alkaline accumulator, with plates of iron and copper is used,
+instead of an acid accumulator with lead plates. The motor is
+very light, running at low speed, and with single gearing, and
+the batteries and motor are so arranged that, when running down
+hill, the motor acts as a dynamo, and partially re-charges the
+accumulators. The battery is a development of the accumulator
+brought out by Desmazures ; it consists of a plate of iron and one
+of copper, with a specially porous surface, immersed in a solution
+of potassium zincate. When the cells are being charged, metallic
+zinc is deposited on the iron electorode, and the copper is oxidized ;
+on discharge, the zinc is dissolved and the oxide of copper reduced,
+potassium zincate being formed.
+For one car, 100 cells are used, placed under the seats, these
+giving froth seventy to eighty volts, and can deliver as much as
+300 ampheres of current without evolving gas or serious heating.
+The weight of the cells is about 60°/ e of lead accumulators of
+same capacity. The armature in the motor is a gramme ring, and
+the field magnets are inclosed by it, the armature and brush
+holders being supported by a non-magnetic frame. The armature
+makes 450 revolutions per minute, when cars travel at the rate
+of ten miles per hour. The length of the track is three miles, and
+the results, up to date, are most satisfactory.
+H, B. Prindle, in Engineering, says, “ that the already exten-
+sive and rapidly increasing use of electricity for street car propul-
+sion is due to the fact that it possesses, in a marked degree,
+advantages over its competitors —steam, animal power and the
+cable.” This belief is strengthened by the fact, that among the
+
+
+street railway companies who have adopted it are to be found
+some of the largest, and at the same time, the most conservative
+companies in the country (America).
+Its permanency is unquestionable, and whatever changes
+may take place in the next few years will be in the nature of
+improved apparatus, the result of time and experience, rather
+than changes in the underlying principles of electric d propulsion.
+Mr. F. J. Sprague, President of the American Electrical
+Institute, in his annual address last June at Chicago, said,
+“ There will probably be in operation within twelve months in
+the United States, five electric locomotives, varying from 700
+to 1200 H.P., and from forty-five to eighty tons in weight.”
+The 700 H.P. engine will be required to haul a train of 450
+tons at thirty miles an hour up a grade of 26 feet to the mile, and
+if there is sufficient track room they wil be driven at a speed of
+at least seventy-five miles, and, perhaps, 100 miles per hour for
+short distances.
+A?S-ESx
+V
+. ✓ j/
+A s W
+
+
+Mr. W. F. How in reply.
+I have a few words to say in reply to the remarks which have
+been made upon this subject of “ Tramway Traction.” It will be
+understood that I do not advocate any particular system of Tram-
+way Traction or any special manufacturer, but from the investi-
+gations I have made I feel sure that traction by cable and
+electricity are the only two efficient systems at present in opera-
+tion to any extent. I have therefore referred to those systems to
+a greater extent than to other schemes that have been devised.
+Mr. Norman Selfe has written about motors driven by com-
+pressed air, and has referred to an invention for which he claims
+great advantages. I heard that Mr. Selfe had had experience in
+tramway motors before I left England, but could obtain no par-
+ticulars about the invention or results obtained from it, and as it
+appeared that there was not a compressed air motor running here,
+I naturally assumed that it had not proved an efficient or economical
+machine. Hence my remarks that cars driven by compressed
+air had never to my knowledge been adopted by a tramway com-
+pany.
+In the communication Mr. Selfe sent to our honorary
+secretary, he explained that very little had been done with com-
+pressed air, although “ marvellous strides had been made in its
+practical use ”; but he qualified his statements by mentioning
+that the improvements have been made “ in a small way.”
+Many improvements in a fairly large way have been made
+since compressed air was first used for driving machinery. The
+principal ones relate to the efficiency of the compressors and
+heating the air before using it in the motors.
+When high pressures are required, there is economy in using
+compressors having two or three cylinders, and cooling the com-
+pressed air as it passes from one cylinder to another, thus redu-
+cing the useless resistance due to the generation of heat during the
+compression.
+Diagrams taken from such compressors show' that the other-
+wise adiabatic curve is greatly modified and the isothermal line
+is approached; but notwithstanding this improvement, if the air
+is used in the motor without heating, the efficiency of the motor
+rarely exceeds 30 per cent, of the brake power of the engines
+driving the compressors.
+The principle of all dry air refrigerating machinery is to
+first compress the air, subtracting the heat due to compression,
+and then allow the cold compressed air to do work in the air
+expansion cylinders. As heat is required for the performance
+of work, the air is cooled, and the result is that a very low
+
+
+temperature is obtained, and if the air is not first dried by some
+process, considerable inconvenience is caused by the formation of
+snow and ice in the exhaust passages.
+This same action occurs in all cases where compressed air is
+used without heating it before it enters the motor to be driven,
+and this has long been known, and therefore Mr. Selfe’s remarks
+respecting the heating of air being a great improvement is not at
+-all new.
+It has been stated by a high authority that the efficiency of
+.a motor driven by compressed air in Birmingham amounted to
+73 per cent, and I see no reason why this statement should be
+doubted, if fuel is employed for reheating the air before use; but
+I take it that for tramway, air at high pressure would have to
+be employed, or some plan like that of the Hughe’s and Lan-
+caster’s system of frequently charging the reservoirs adopted.
+Air is different in its character to steam, as the latter
+requires so much latent heat to convert water into its gaseous
+form, and the sensible, as compared to the latent, heat is very
+small; but having converted the water into steam, a very small
+proportion of additional heat increases its pressure, and it is
+therefore economical to work with steam at high pressure. The
+case is different with air, and it has been proved that there is a
+loss of efficiency in using air at high pressure.
+Again, when very high pressure air is used, there is invari-
+ably trouble with the joints and loss of air by leakage through
+the piston.
+In the system I have referred to as having been tried
+between Stratford and Leytanstene, in England, a compressor
+having three cylinders was employed to obtain the pressure of
+1000 lbs. per square inch.
+The station was at the terminus of the line, and, when I saw
+the plant, a car was being charged with air ; but before the maxi-
+mum pressure had been reached a connection on the motor burst
+and that was the last I saw of the plant. Some of the
+cars, however, ran for a short time afterwards, and many very
+favorable newspaper reports were published upon the subject, but
+the cars ceased running after the experiments had been carried
+out a short time. Sir Frederick Bramwell was Consulting Engi-
+neer to the Company, and no expense was spared in obtaining as
+perfect a plant as possible. The London Tramway Co. was most
+anxious that the scheme should be a success, but it proved a
+failure.
+Driving by compressed air is still largely used for mining
+purposes, but in many cases, in America and England, electricity
+has been adopted for driving pumps, coal cutters, fans, &c., in
+mines, when an efficiency of over 65 per cent, is claimed when
+driving through a conductor two miles long.
+
+
+By efficiency I mean the effective brake horse power of the
+steam engine driving the dynamos as compared with the effective
+horse power of the work done by the motor driven.
+This driving of mining machinery by electricity would be
+largely adopted in coal mines charged with explosive gases, if it
+were not for the fear mining managers have of explosions being
+caused by sparks from the dynamos.
+With regard to Mr. Grimshaw’s remarks relating to the
+underground railways in London; the separate motors would not
+have been used had there been sufficient head room to enable the
+dynamos to have been fixed on the cars. It is obvious that the
+weighted dummy, whose sole duty it is to draw the cars, is much
+more severe upon the road than if the dynamos were fixed on the
+axles of the cars themselves, when the adhesion of the wheels
+would be in proportion to the passengers riding in the cars.
+Mr. Grimshaw was, I think, under a wrong impression when
+he mentioned that I explained that it was not necessary for over-
+head wires to be unsightly.
+All overhead wires in a populous city, and the poles carrying
+them, are to my mind unsightly, whether they be for telegraphs,
+electric lighting, or other purposes; and although there is not
+so much danger to be apprehended from them here as there is in
+colder climates during the snowy seasons, still there is some
+trouble occasionally through them, and I recently saw a telegraph
+pole with its wires attached that had been blown down during
+the recent gale in Sydney.
+That Sydney people consider the numerous telegraph wires
+along the streets objectionable is obvious from the fact that some
+attempts have been made to hide them in George Street behind
+cast-iron ornamental work, and I think nearly everyone would be
+pleased if the Telegraph Department were to continue the work
+they have commenced and place all wires in the city below ground.
+I can make but few remarks respecting the information Mr.
+Thow has given.
+A short time back I met Mr. Thow, who had a copy of the
+paper I prepared, and he then pointed out a clerical error in the
+spelling of the name “Van Depoele.” lof course thanked him,
+but at the same time wondered what he knew about tramway
+traction. I have since learned that he had made a study of the
+subject when in the States, and was consequently far better posted
+up with the latest developments of the cable and electric systems
+of tramways than I had been.
+The only matter in which I do not agree with Mr. Thow re-
+lates to the overhead conductors in the streets of large cities.
+He does not see much objection to them, but they are to my
+mind very objectionable, and although Melbourne and Sydney are
+strung in all directions with telegraph wires, and in Melbourne
+
+
+overhead wires are largely used for carrying electricity for arc
+lighting, having a potential of over 2000 volts, which is far more
+dangerous than tramway cables which work with 500 volts, I do
+not think any additions should be made to the existing wires and
+poles, and therefore for cities I think that at the present time
+some other than the overhead electric system should be adopted.
+I fully believe, from my own enquiries and from Mr. Thow’s
+valuable information, that the overhead electric system is, at the
+present time, the most economical and effective, and it can be
+adopted with great advantage in country towns and suburban
+districts.
+Great strides are constantly being made in electrical inven-
+tions, Several gentlemen have referred to improved secondary
+batteries, and we may yet hear of the discovery of a light and
+efficient storage battery which can be universally applied to
+tramway traction.
+T thank you, Sir, and the gentlemen who have taken part in
+the discussion upon this paper, for the kind manner in which it
+has been received, and I hope the subject will have justified its
+introduction.
+S. E. LEES, PRINTER AND STATIONER, 83 YORK STREET, SYDNEY.
+
+
+f tOS'7 $
+
+
+
+

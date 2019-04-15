@@ -1,0 +1,1949 @@
+
+
+THE
+TOTAL ECLIPSE
+OF THE SUN
+21st SEPTEMBER, 1922
+AUSTRALIA
+Issued under the Authority of the
+Minister of State for Home and Territories
+by
+H. A. HUNT.
+Commonwealth Meteorologist,
+Melbourne.
+1922
+PRICE: ONE SHILLING
+WHOLLY SET UP AND PRINTED IN AUSTRALIA
+By Authority:
+Albert J. Mullett, Government Printer, Melbourne
+[Registered by the Postmaster-General for transmission through the post as a book
+SECOND IMPRESSION.
+
+
+SOLAR CORONA. SUNSPOT MINIMUM TYPE, 1889.
+SOLAR CORONA. SUNSPOT MAXIMUM TYPE, 1905.
+
+
+THE
+TOTAL ECLIPSE
+OF THE SUN
+21st SEPTEMBER, 1922
+AUSTRALIA
+Issued under the Authority of the
+Minister of State (or Home and Territories
+by
+H. A. HUNT.
+Commonwealth Meteorologist,
+Melbourne.
+1922
+PRICE: ONE SHILLING
+WHOLLY SET UP AND PRINTED IN AUSTRALIA
+By Authority:
+Albert j. Mullett. Government Printer, Melbourne.
+tfteptsfrrcd by the Potimagter-General for tranemission through the poet as a book
+SECOND IMPRESSION.
+
+
+WARNING !.
+Protect Your Eyes.
+Serious and permanent injury to the sight may be incurred by
+continued staring at the sun during the partial eclipse, even with the
+unaided eye if it is insufficiently protected.
+Much more probable are ill effects if optical instruments such as
+binoculars or telescopes are used.
+Very dark green or neutral tinted glass is suitable, or glass
+heavily smoked over a lamp or candle. For naked eye observations a
+dense portion of a photographic negative is sometimes suitable, but for
+use with optical instruments it is advisable to have the proper solar eye-
+piece material, or black glass such as is used by electricians as a
+protection against the glare from arc lamps.
+If the only glass obtainable is not sufficiently dark, it is an
+advantage to attach a larger piece of it to the objective instead of the
+eyepiece of the instrument.
+During the toted phase of the eclipse, no protection is needed,
+and detail is better seen without. Provision should therefore be made
+to have the dark glass readily removable.
+
+
+PREFACE.
+Early in the year 1920 inquiries from astronomers led to the issue
+of a circular letter, accompanied by climatological data, from the Central
+Weather Bureau to the principal observatories of the world.
+When it became apparent that several parties wished to visit the
+rather inaccessible but otherwise ideal site on the north-west coast at
+Wallal, co-ordination of arrangements became necessary. At the instance
+of the Meteorological Department, the Prime Minister, in January, 1922,
+appointed a committee representative of the Department of Home and
+Territories (Meteorological Branch), the Treasury and the Navy to
+advise regarding further procedure. A sum of money was allocated to
+meet expenses, and the Naval Board undertook the responsibility of
+transport and camping details, while the Commonwealth Meteorologist
+continued to make all other arrangements for the Government’s guests.
+The contents of this brochure consist largely of notes, diagrams and
+charts promised by Dr. J. M. Baldwin, Government Astronomer, Vic-
+toria, prior to his trip abroad, and supplied in his absence by the Acting
+Government Astronomer, C. J. Merfield, Esq., P.R.A.S., who is respon-
+sible for both calculation and format of all the illustrations. In
+presenting such a wealth of useful data the Government Astronomer
+has laid all amateur astronomers under a debt of gratitude.
+Enhanced interest also is due to the kindness of Dr. E. J. Trumpler,
+the first arrival of the Crocker Expedition of the Lick Observatory, who,
+with the concurrence of the Director, Dr. W. W. Campbell, has con-
+tributed a note on the eclipse programme of that famous institution.
+For a valuable record of the radio-telegraphic signal strength
+designed to test the change in the ionization of the atmosphere with the
+passage of the moon’s shadow we shall be indebted to Mr. L. A. Hooke,
+Melbourne Manager of Amalgamated Wireless (Australasia) Limited,
+who is most enthusiastically co-operating in the experiments.
+The interesting notes on the eastern eclipse observation site are ex-
+tracted from Professor W. E. Cooke’s careful summary of conditions.
+The compilation of the remaining portions of the booklet and the
+duty of seeing it through the press have been intrusted to Mr. H. Barkley,
+Meteorologist in the Central Weather Bureau.
+H. A. HUNT,
+Commonwealth Meteorologist.
+Central Weather Bureau,
+Melbourne, August, 1922.
+
+
+HISTORICAL.
+B.C.
+3102. First recorded total eclipse of the sun in the Brahmin Surra Siddhanta.
+2940. First total solar eclipse recorded by the Babylonians.
+2226. First total solar eclipse recorded by the Chinese.
+2159. Partial eclipse, for the failure to predict which Hi and Ho, the Chinese
+Astronomers Royal, lost their lives.
+1069. Total eclipse recorded in Babylon by the Chaldseans.
+1062 and 762. Total eclipses recorded in Babylon by the Chaldseans, the cunei-
+form accounts of which were used by Dr. Cowell to correct modern lunar
+tables.
+585. Eclipse predicted by Thales of Miletus: apparently first application of the
+“ Saros ” by the Greek astronomers.
+A.D.
+71. Apparently first reference to corona, but winged images of the sun occur
+on Egyptian, Hittite, Assyrian, Babylonian, and Persian monuments.
+334. Firmicus alluded to the prominences.
+418. Comet first noted near eclipsed sun.
+538. First total eclipse recorded in Britain, ( Anglo-Saxon Chronicle.)
+1140. Last total solar eclipse in Britain for several centuries, only two in 1715
+and 1724 having occurred since.
+1598. Jessensky remarks on the corona.
+1605. Red flames of the chromosphere recorded by Kepler.
+1608. First refracting telescope made in Holland.
+1609. Galileo constructed a telescope and noted the rotation of the sun as in-
+dicated by the sunspots.
+1612. First eclipse (partial) viewed through a telescope.
+1652. First detailed account of the corona, by Dr. Wyhord.
+1666. Newton’s observation of prismatic refraction laid the foundation of
+spectroscopy (see 1802). Newton made the first reflecting telescope.
+1706. Chromosphere recorded by Capt. Stannyan at Berne, and described by de
+Duiller at Geneva.
+1715. Halley published in advance a map of the eclipse track over England, and
+observed the corona, chromosphere and “ Baily’s Beads.”-
+1724. Last total eclipse in Great Britain (the next will be in 1927).
+1802. Absorption lines in the solar spectrum were noted by Wollaston, but in-
+correctly interpreted as arbitrary boundaries of. the colours.
+1817. Fraunhofer used the absorption lines as landmarks in the solar spectrum.
+1820. Goldschmidt recorded the observation of the “ shadow-bands.”
+1821. Fraunhofer made his first wire diffraction grating.
+1836. Baily described the beads (Baily’s Beads) due to irregularities on the
+moon’s limb.
+1842. First total eclipse to stimulate modern scientific investigation. The track
+crossed Southern Europe. Spectrum of helium was detected by Magrini.
+Doppler proved the shift of the spectral lines towards the red for recession
+and towards the violet for advance of the source of light (see 1868, 1873,
+1893, 1898).
+1845. First daguerrotype of the sun taken by Foucault.
+Faraday observed the magnetic rotation of the plane of polarization (1896,
+1908).
+1851. Eclipsed sun first photographed by Berkowski at Konigsberg.
+1857. Photo-heliograph erected at Kew Observatory by De la Rue.
+Kirchhoff demonstrated the Fraunhofer lines to be due to absorption.
+1860. First systematic photography of an eclipse by De la Rue and Seechi.
+De la Rue used successive photographs of the eclipsed sun as stereoscopic
+pairs, and demonstrated that the chromosphere and the prominences
+were solar -appendages, and not due to any atmospheric effects on the
+moon, which occulted these luminous masses in the same manner as it
+did the solar disc.
+1861. Sun’s rotation periods determined by Carrington from observation of sun-
+spots.
+
+
+IS6B. Photography of eclipse spectra begun in India. J. Herschell’s observation
+ot the helium spectrum m the prominences proved them to be gaseous.
+Hydrogen spectrum identified in prominences by Lockyer without an
+eclipse. Helium yellow line observed in the sun by Lockyer. (Identified
+in terrestrial samples of cleveite by Ramsay, 189 b.)
+1868. Huggins first measured motion in the line of sight (see 1842, 1873, 1893
+1898). 5
+1809. Green line of coronium 5303 noted by Young and Harkness, who also saw
+the reversal of the absorption spectrum to bright lines —the “ flash
+spectrum.”
+1871. Polarization of coronal light proved it to tie partly reflected from' solid
+or liquid particles as suggested by Tennant in 1860 (see 1898).
+1872. Young noted incomplete nature of chromospheric (flash) spectrum.
+Hie enhanced lines have since been shown to be due probably to ioniza-
+tion of the elements at higher temperatures (Fowler, Saunders, &e.).
+1873. Vogel at Zollner’s suggestion first proved the sun's rotation by the Doppler
+effect.
+1878. Corona perceptible for some minutes after totality in clear atmosphere
+t °f Pike’s Peak at an altitude of 14,000 feet,
+Newcomb and Langley described the extensions of the outer corona.
+Watson and Swift report the observation of an intra-mercurial planet.
+1882. Unknown comet observed near eclipsed sun, and photographed by Schuster.
+Langley invented the bolometer.
+1883. Fruitless search for the hypothetical intra-Morcurial planet “ Vulcan.”
+Einstein’s Theory of Relativity has apparently disposed of the neces-
+sity of presuming the existence of such a planet to account for the
+precession of the perihelion of Mercury (see 1919).
+Janssen adduced reflected light as the source of the Fraunhofer spectrum
+in the outer corona.
+1887. Miohelson and Morley obtained negative results when attempting to detect
+the earth’s movement through the ether.
+1889. Boys invented the radiomicrometer.
+1891. Spectroheliographs first erected by Hale and Dcslandres.
+1893. Deslandres first tested the rotation of the corona with the sun.
+1896. The ‘‘flash spectrum”, first photographed by Shackleton.
+Zeeman discovered the magnetic resolution of the Fraunhofer lines pre-
+dicted by Lorentz.
+1898. Coronium identified as an element by Masini. Proves the inner corona
+to be partly gaseous (see 1869, 1S71).
+Campbell secured evidence of the rotation of the corona but does not
+■consider it conclusive.
+1905. ‘‘The great sunspot” lasted from 18th January to 12th February.
+Einstein formulated the Special Theory of Relativity.
+Newall failed to confirm rotation otf corona.
+1907. Eambaut observed prominences 324,600 miles in height.
+1908. Hale discovered solar, vortices in hydrogen floeculi with speotro-heliograph,
+and proved the existence of magnetic fields in the sunspots (1845-1896).
+1910. Total eclipse observed from Mt. Lyell, Tasmania. Astronomical expedi-
+tion to Bruni Island met with adverse weather-
+-1911. Total eclipse over Pacific Ocean observed at Tonga, The shadow cone
+passed at considerable altitude over Melbourne after daylight, but before
+sunrise, and most of the stars reappeared. The shadow was also viewed
+to the southward from Daylesford.
+1914. The red line 6374 in the spectrum of coronium first discovered by Carrasco.
+1915. Einstein propounded the General Principle of Relativity and three tests,
+one of which is the deflection of a star’s light passing close to the sun
+and visible during a total eclipse.
+1919. 29th May, first satisfactory test for “Einstein effect” by photography ot
+stars near the eclipsed sun. Greenwich observers obtained confirma ory
+evidence. Variation in ionization of upper atmosphere tested with
+reference to the strength of radio-telegraphic signals. „
+1922. Present eclipse on 21st September. Further test for Einstein effec .
+This eclipse is a “Saros” return of the eclipse of the 9th September,
+1904, over the Pacific Ocean in the same latitudes.
+1927. Next total eclipse in Great Britain; duration 0.7 minute. This will De
+the third since 1140, the others being 1715 and 1724 nroaent
+1976. Next total eclipse in Australia. The third Saros return of the present
+eclipse —1922.
+
+
+Solar Eclipse Expeditions, September, 1922.
+PERSONNEL.
+Wallal, Western Australia.
+Crocker Eclipse Expedition of the Lick Observatory —
+Dr. W. W. Campbell, Director of the Lick Observatory.
+Mrs. W. W. Campbell.
+Dr. J. H. Moore, Assistant Astronomer, Lick Observatory.
+Dr. E. J. Trumpler, Astronomer, Lick Observatory.
+Dr. C. E. Adams, Government Astronomer, Wellington, UST.Z.
+Mrs. C. E. Adams.
+J. B. O. Hosking, Esq., 8.M.E., Melbourne Observatory.
+• Professor A. D. Ross, M.A., E.E.S.E., Perth University.
+Toronto University Expedition—
+Professor C. A. Chant, Toronto University, Canada.
+Mrs. C. A. Chant.
+Miss Chant, B.Sc.
+Dr. R. K. Young, Dominion Astrophysical Observatory,
+Victoria, B.C.
+7 •
+Indian Expedition—
+J. Evershed, Esq., F.E.S., Kodaikanal Observatory, Madras.
+Mrs. J. Evershed,
+British Expedition (Private) —
+‘ J. Hargreaves, Esq., “ Eoyston,” Herts., England.
+G. S. Clerk-Maxwell, Esq.
+Perth Observatory Expedition—
+C. Nossiter, Esq., Perth Observatory.
+Messrs. Dwyer, Nunn, and Matthews.
+C. S. Yeates, Esq., Perth Observatory.
+Royal Australian Wavy—Lieut.-i’Com. H. L. Quick, R.A.H.
+Goondiwindi, Queensland.
+Melbourne Observatory Expedition. (Funds provided by private
+donor) —
+Dr. J. M. Baldwin, M.A., Government Astronomer, Melbourne.
+W. Russell Grimwade, Esq., B.Sc.
+Capt. E. Kidson, 0.8. E., M.A., M.Sc., Central Weather Bureau,
+Melbourne.
+W. M. Holmes, Esq., M.A., B.Sc., Melbourne University.
+Professor T. Parnell, Brisbane University.
+E. M. Wellish, Esq., M.A-, Sydney University,
+J. G. Mann, Esq.
+Z. A. Merfield, Esq;, Melbourne University.
+Sydney Observatory Expedition—
+Professor W. E. Cooke, M.A., Government Astronomer, Sydney.
+Messrs. Raymond, Graham, Cranny, Trigg, Short, Wynne, Shaw,
+and B. Cooke.
+Messrs. Middleton and Davies (at Grafton).
+Mr. Stanley (at Beaudesert).
+
+
+Sydney University Expedition—•
+Professor O. U. Vonwiller, Sydney University.
+Rev. Dr. Pigot, S. J., Riverview College Observatory.
+Messrs. Booth, Briggs, Esserman, Nangel, Swain, and Rancloud.
+Central Weather Bureau, Melbourne—H. Barkley, Esq., Meteorologist.
+Coongoola, Queensland.
+Carnegie Institution, of Washington—
+D- G. Coleman, Esq., Magnetic Observer, Department of
+Terrestrial Magnetism.
+Stanthorpe, Queensland.
+British Astronomical Association (New South Wales Branch) —
+Messrs. W. F. Gale, G. H. Hoskins, E. Gardiner, H. Brown,
+A. McKerras, L. Melville, R. W. Schuch, H. Rose, A. W.
+Britton, E. R. Morris, E. Esdaile, R. H. Bulkeley,
+Andrew, E. H. Beattie, and A. W. W. Gale.
+Cordillo Downs , South Australia.
+South Australian Expedition—
+G. F. Dodwell, Esq., BA., Government Astronomer, Adelaide.
+A. L. Kennedy, Esq., 8.E., Adelaide Observatory.
+Professor Kerr Grant, M.Sc., Adelaide University. '
+A. G. Appelby, Esq., Adelaide University.
+E. A. Thrum, Esq., Adelaide University.
+Data Obtainable during Total Solar Eclipses.
+(1) Observation of times of contacts and limits of shadow on the
+earth’s surface.
+(2) Spectrum of chromosphere—the “flash spectrum.”
+(3) Photographs of (a) inner corona, prominences, and flocculi;
+( b ) outer oorona.
+(4) Drawings of corona, simple and composite.
+(5) Spectrum of corona, for composition and rate of rotation.
+(6) Polarization of coronal light.
+(7) Photographs of comet or intra-Mercurial planet.
+(8) “Einstein effect’’—the apparent outward displacement of stare
+where light passes close to the sun to twice the extent pre-
+dicted in the Newtonian law of gravity.
+(9) Variation of actinic value of sun’s light.
+(10) Variation of the total insolation at the earth’s surface.
+(11) Variation of air temperature.
+(12) Variation of air pressure.
+(13) Variation of humidity of the atmosphere.
+(14) Variation of wind direction and force. (Eclipse cyclone?)
+(15) Formation or disappearance of cloud.
+(16) Rate and direction of movement of “shadow hands” and their
+dimensions.
+(17) Variation of magnetic elements.
+(18) Psychological and phonological results —effects on men, animals,
+birds, insects, and plants.
+(19) Coloration of clouds, sky, land, and sea.
+(20) Variation of signal strength, atmospherics, and direction ot wave
+front in radiotelegraphy;
+
+
+Definitions.
+Limb. —The apparent edge of the sun’s or moon’s disc.
+Corona. —Silvery white luminous appendages of considerable extent
+around the sun. At periods of sunspot maxima they form an almost
+complete circle around the sun, but during sunspot minima very exten-
+sive, wing-like streamers project from low latitudes on either side of
+solar equator. The inner corona is partly gaseous, having a charac-
+teristic bright-line spectrum, but the outer corona shines by reflected
+(polarized) light.
+Chromosphere. —The ruddy belt, several thousands of miles deep,
+surrounding the bright disc of the sun. It consists of helium, hydrogen,
+calcium, and other gases, some of which are condensed to form great
+clouds or flocculi. Those gases, which are cooler than the bright photo-
+sphere below, absorb some of the light of the continuous spectrum
+(reversing layer), causing the characteristic Fraunhofer absorption
+lines, but when the photospheric light is cut off during a total eclipse
+these elevated gases momentarily give their own characteristic bright-
+line spectra, collectively known as the chromospheric or “ flash
+spectrum.”
+Prominences. —Flame-like projections of metallic and other vapours,
+which often form beautiful aigrettes above the sun’s polar regions and
+elsewhere.
+Umbra. —The eonc of shadow within which the solar disc is com-
+pletely hidden and the eclipse is total.
+Penumbra. —The reg’on of diminished light within which the solar
+disc is not all hidden and the eclipse is partial.
+Saros. —The Chahhean eclipse cycle of 18 years 111 days after which
+.eclipses (41 of the sun and 29 of the moon) recur in the same order hut
+fall 120° further west on the earth’s surface. About ten total eclipses
+of minutes average duration occur in each period.
+Notes on the Programmes of Observations.
+The Crocker Eclipse Expedition oe the Lick Observatory.
+By Dr. R. J. Trnmpler.
+The Lick Observatory, founded by a gift from Mr. James Lick, of
+San Francisco, was erected 34 years ago on the summit of Mount
+Hamilton (4,200 feet above sea-level), in California, about 70 miles
+south-east of San Francisco. This institution, which forms a part of
+the University of California, has made a special study of total eclipses
+of the sun, and during the last 30 years it has sent numerous expeditions
+to all parts of the globe for observing these phenomena. Such expensive
+expeditions were made possible by generous gifts from various donors
+interested in such researches, especially from W. H. Crocker, of San
+Francisco, Regent of the University of California, who also supports
+the present expedition for the total eclipse of the sun on 21st September.
+1922.
+Wallal, a telegraph station on the Ninety-Mile Beach, on the north-
+west coast of Western Australia, was selected as observing site. This
+place, which is situated about 200 miles south-west of Broome, offers
+
+
+a very good 'chance for clear sky in September, according to the
+meteorological records of the past. The eclipse will be total at Wallal
+at 1 hour 30 minutes in the afternoon, when the sun is high up in the
+sky, and the totality will last 5 minutes 19 seconds, the longest deration
+of any of the observing stations. To these favorable factors has to be
+added only one difficulty, that of transportation and the lack of accom-
+modation for living at such an isolated place.
+The Lick Observatory Expedition is equipped with a photographic
+camera 40 feet long, containing an objective of 5 inches aperture, giving
+an image of the sun 44 inches in diameter. With this instrument large-
+scale photographs of the corona will be secured during totality, following
+a programme that has been pursued on numerous former eclipses. -It
+is also the intention to photograph the crescent of the sun during the
+partial eclipse, shortly before and after totality, and to have the moments
+of these exposures recorded on a chronograph, so that they may serve to
+obtain the relative positions of the moon and the sun with great accuracy,
+and to chock the correctness of the calculated motions of these two
+bodies. The 40-foot camera has a square tube covered with canvas,
+and it is erected in such a position that, according to calculations, it will
+point to the sun during the eclipse. Its upper end, containing the
+objective, is supported by a wooden tower. The frame carrying the
+photographic plate is movable on rails, and a clockwork makes it follow
+the apparent daily motion of the sun.
+Several spectrographs will be used for studying the spectrum of
+the corona, and numerous minor observations are planned; the most
+important part of the eclipse programme, however, is the testing of
+Einstein’s theory of relativity. According to this theory, a ray of
+light passing near a heavy body like the sun should be deviated from its
+normal straight path to a slight curve by the gravitational action of the
+sun. Stars situated in the sky close to the sun’s disc should then
+appear shifted from their normal places by certain amounts predicted
+by the theory. It is, however, only possible to observe or photograph
+stars close to the sun’s edge during a total eclipse, when the intense
+sunlight is shut off by the moon, and the coming eclipse offers a precious
+opportunity for testing this far-reaching theory.
+Two twin cameras were specially constructed at the workshop of
+the Lick Observatory for the purpose of photographing during totality
+the eclipsed sun and the stars around it. One of these instruments is
+15 feet long, and has two 5-in. Lfastings-Brashear doublet objectives,
+giving good definition over a large field (5 degrees square) ; it is mounted
+on a polar axis and provided with a clockwork, which makes the camera
+follow the daily motion of the stars. A visual guiding telescope of the
+same length is attached to the rectangular tube containing the two
+cameras; it will be pointed during the eclipse on the bright star Beta
+Virginis, and the observer will have to correct the motion of the clock-
+work during the exposures, so that this star remains accurately on the
+cross wire of the guiding telescope. A canvas house has to be built
+at Wallal around each of the two instruments to protect it against
+wind and from the heat of the sun. The photographic plates used are
+17 x 17 inches, made of selected plate glass, so as to be perfectly
+plane, and i inch thick, so as to have sufficient rigidity. Two plates will
+be exposed for 2 4 minutes during the first half of totality, the plate-
+holders will then be changed rapidly, and another pair of photographs
+
+
+of the same exposure time secured. The advantage of a twin camera
+is to obtain two photographs at the same time. It is expected that
+these photographs will show at least. 70 stars surrounding the sun, some
+of them thirty times fainter than the faintest stars visible to the eye on a
+clear night.
+The second twin camera is only 5 feet long, and has two 4-in.
+Ross-Brashear quadruplet objectives of excellent quality; it is quite
+similar in construction to the 15-ft. camera, and the same observing
+method will be followed. The 17 xl7 inch plates used with this instru-
+ment cover a much larger part of the sky (16 degrees square) than
+with the longer camera, but the smaller scale will not allow such a high
+accuracy of measurement. The combined results of both instruments
+should not only give information about the deflection of light for the
+stars nearest to the sun!s edge, but they should also indicate at what
+rate the deflection is diminished when the stars are situated at larger
+angular distances from the sun, and a comparison of this rate with
+that predicted by Einstein will form another rigorous test of the theory.
+To measure the deflection of light near the sun it is necessary to
+compare the photographs taken during the eclipse (on which the star
+images are slightly shifted from their normal positions) with photo-
+graphs of these same stars taken at a time when the sun was in a different
+part of the sky and could not have any influence on the light of these
+stars. Such comparison photographs were obtained with the same
+instruments in May and June, 1922, on the Island of Tahiti, where the
+geographical latitude and meteorological conditions are similar to those
+at Wallah
+The photographs taken during the eclipse at Wallal will be compared
+with those previously taken at Tahiti by very accurate measures made
+with the aid of a microscope. Eor none of the stars the shift predicted
+by Einstein amounts to more than one-thousandth of an inch. In order
+to detect such a small quantity, greatest care must be taken in the
+adjustment of the telescopes. The Tahiti plates, as well as those of
+the eclipse, are also exposed on another region of the sky, so selected
+that it remains practically unchanged at both epochs, and serves for
+detecting and eliminating any possible instrumental errors.
+The photographs obtained with the 5-ft. camera will at the same
+time be used to search for a planet or a comet that might possibly be
+situated close to the sun. It is the intention to measure some of the
+photographs at Broome or Perth immediately after the eclipse, so as
+to get the principal results as rapidly as possible.
+The spectrographic work will include the determination of the wave
+lengths of the green and red coronium lines with a grating and the dis-
+tribution of coronium with an objective-grating spectrograph. The
+spectra of the inner and outer portions of the corona will be photo-
+graphed with prism spectrographs-
+Toronto University.
+(2) Professor C. A. Chant, of the University of Toronto, with whom
+is associated Dr. E. K. Young, of the Dominion Astrophysical Observa-
+tory, Victoria, 8.C., intends to duplicate the test for the “Einstein
+effect ” with a camera of 6-in. aperture and 11 feet focal length, with
+
+
+which lie will make three short and two long exposures. With the shorter
+exposures the coronal, detail should not he fogged, and the plates will
+possess this additional value. Dr. Campbell courteously arranged for
+Dr. Trumpler to expose Professor Chant’s comparison plates with the
+Toronto camera at Tahiti, while those for the Lick Observatory were
+being made. Professor Chant will also teat the degree of polarization
+of the solar corona with a twin camera having lenses of 36 inches and 34
+inches focal length. Behind the first lens a Nicol prism will cut out
+a portion of the polarized light, while the second lens will transmit the
+full illumination. Immediately before the eclipse a photometric scale
+will be imprinted upon the sensitive plates. An attempt will also be
+made to photograph the shadow bands observable at the beginning and
+end of totality.
+(3) Mr. J. Evershed, of Kodaikanal Observatory, Madras, will test
+for the “ Einstein effect ” with a 12-in. triple lens of 21 feet focal length,
+and will endeavour to measure the rotation of the, corona with two
+spectrographs of special design photographing the spectra on both limbs
+simultaneously. The instruments will bo fed by ccelostats.
+Perth Observatory.
+(4) Mr. C. Nossiter, of the Perth Observatory, will determine the
+longitude of the Wallal site from nadio-telegraphic signals from inter-
+national and Australian stations. In addition to photographing the
+corona with a camera of 5-in. aperture and 40 feet focal length, he will
+photograph the sun during the minute before and after totality as a
+check on the relative positions and diameters of the sun and moon.
+British Expedition (Private).
+(5) Mr. J. Hargreaves, a British amateur, will photograph the
+corona with a camera of 19 feet focal length, fed by an 8-in. ccelostat,
+and will also obtain a continuous photographic record of the magnetic
+declination throughout the eclipse.
+Adelaide Observatory.
+(6) Mr. G-. F. Dodwell, of the Adelaide Observatory, will photograph
+the corona with a duplicate of the Lick Observatory tower telescope, lent
+by Dr. Campbell, and will also test for the “ Einstein effect ” and
+record magnetic variation on the lines of the Carnegie Institution pro-
+gramme. Professor Kerr Grant will measure the actinic value of the sun-
+light and corona by photo-electric methods, and will undertake spectro-
+scopic determinations.
+Melbourne Observatory.
+(7) Dr. J. M. Baldwin, of Melbourne Observatory, will confine
+his attention chiefly to the investigation of the distr'-bution and intensity
+of the light of the solar corona, using photographs on three different
+scales, the largest being a 4-in. diameter of the lunar disc given by the
+standard photo-heliograph fed from a coelostat. A diffraction grating
+is also being prepared for use with a coelostat in photographing the
+green and higher regions of the coronal spectrum. The programme of
+observations of magnetic declination proposed by the Department of
+Terrestrial Magnetism of the Carnegie Institution will be carried out.
+
+
+Sydney Observatory.
+(8) Professor W. E. Cooke, of Sydney Observatory, mil test for
+the “Einstein effect,” and also photograph the corona with a photo-
+heliograph, in addition to obtaining a nill positional history of the
+eclipse. Observations of the shadow bands and photographic record
+of the intensity of light during totality will be taken, and the width
+of the moon’s shadow along the 153rd meridian determined.
+Sydney University.
+(9) Professor 0. U. Yonwiller will photograph the “ flash spectrum ”
+with a cinematograph camera, in order to obtain the fullest possible data
+of this evanescent phenomenon. He_ will also obtain a spectrum of the
+corona with a high dispersion. Two types of photo-electric measure-
+ments of the total intensity of light during the partial and total phases
+will be made. Special attempts will be made to photograph the outer
+corona.
+Carnegie Institution, Washington D.C., U.S.A.
+(10) Mr. D. G. Coleman will observe the magnetic elements at
+Coongoola according to the programme of the Carnegie Institution,
+Department of Terrestrial Magnetism.
+British Astronomical Association (Sydney).
+(11) Mr. W. F. Gale and members of the British Astronomical
+Association will photograph the “ fhash spectrum ” and corona, and will
+observe the shadow bands and coloration of stars near the sun. Two
+12-in. mirrors of 10 feet focal length are included in the equipment.
+Amalgamated Wireless (Australasia) Limited.
+(12) Mr. L. A. Hooke, Melbourne Manager of Amalgamated Wire-
+less (Australasia) Ltd., will, on behalf of the Commonwealth
+Meteorologist, arrange for a programme of signalling from Perth and
+Sydney to determine the effect on signal strength of the deionization
+of the atmosphere due to the passage of the eclipse shadow. All other
+stations will listen for the variation in signals, and the large experi-
+mental plant receiving from Bordeaux will measure the strength of tin-
+current induced on the aerial in addition to determining any change of
+wave front due to the eclipse.
+Commonwealth Meteorological Department.
+(13) The Commonwealth Meteorologist has supplied the Walla I
+and Goondiwindi Expeditions with all necessary meteorological instru-
+ments, including special “ quick-run ” barographs and thermographs.
+Meteorological observers along the limits of the shadow band will be
+asked to report the actual boundary of the umbral cone within which
+totality is observed, and to record any meteorological phenomena. At
+Goondiwindi, Mr. H. Barkley will measure the total radiation from the
+sun and the corona with a pyrometer (lent by Professor T. 11. Laby).
+and will photograph the corona in limited red and green regions of the
+spectrum.
+Notes on the Total Eclipse of the Sun, 21st September, 1922.
+By G. J. Merfield, F.R.A.S., Chief Assistant Astronomer, Victoria.
+During the afternoon of Thursday, 21st September, a total eclipse
+of the sun will take place. The elements of this eclipse are tabulated in
+Oppolzer’s Canon der Finsternisse, and numbered 7458.
+
+
+The eclipse begins on 20th September, at 14 hrs. 4 min. Greenwich
+Mean Time, and ends at 19 hrs. 16 mins, for the earth generally.
+It will be visible as a partial eclipse for the whole of Australia, Tas-
+mania, and many of the islands to the north and for countries bordering
+on the Indian Ocean.
+The axis of the moon’s shadow first touches the earth’s surface at
+15 hrs. Greenwich mean time at a point in longitude 43° 17' east and lati-
+tude 5° 13' north. It passes over the northern part of the Indian Ocean,
+just to the south of India and the island of Sumatra until it arrives at
+Wallal, on the north-west coast of Western Australia, thence towards
+Ballina, in New South Wales, on the east coast, ending in longitude 172°
+36' east and south latitude 30° 15', just to the north of New Zealand.
+Chart 1 shows the position of the line marked out by the axis of the
+moon’s shadow as it passes over Australia. This eclipse will he total
+as seen from places situated within a zone which extends to a distance
+of -66 miles on each side of the centre line, at Wallal, diminishing
+gradually to 60 miles at Ballina.
+Wallal will be the most important observing station in Australia. At
+this station the duration of totality will he 5 m. 19 s., the altitude of the
+sun at mid-totality being about 57° 50'.
+It is not intended here to outline any programme for the professional
+astronomers, who will be well equipped in most cases with instruments
+suitable for the several problems for which they desire data.
+The information provided in this booklet is intended for the most
+part for the amateur astronomer and others who take. an interest in
+science. Nevertheless, there is certain information that will be of use
+and interest to the professional also.
+WoEK WITH ORDINARY CAMERAS.
+An ordinary camera provided with a lens of the auastigmatic or
+rectilinear type, not less than three-quarters of an inch in aperture, and
+of focal length 9 inches or greater, may be successfully used, provided
+the back lens of the combination be removed. This procedure gives a
+lens of about 16 to 18 inches focal length, and forms an image of the
+moon nearly two-tenths of an inch in diameter. The camera, if used
+under certain conditions, will give useful negatives of the corona and
+streamers that become valuable records. Photographs of the partial
+phase are of little scientific value. Lenses of greater focal length are, of
+course, much to he preferred. The Bistellar, the Adon, and all telephoto
+combinations are useful. It is quite possible to obtain good definition
+with this type of lens; the Adon, for example, can be used with an equi-
+valent focal length of 40 to 50 inches, giving images of the moon of about
+four to five-tenths of an inch. These lenses are highly recommended to
+those who desire to obtain negatives of the corona and extensions. The
+results from this type of lens are certainly of scientific value if the
+camera be mounted on an equatorial stand as used by astronomers, and if
+clockwork be provided, to compensate for the motion of the earth on its
+axis when exposures of considerable length can be made.
+The lens may with advantage be stopped down to an aperture of, say,
+F.ll to F. 16, and exposures of half-a-second to a maximum of about two
+or three seconds given if the camera is fixed. If the_ camera can be
+mounted as explained above, then exposures of any duration can be made
+as desired.
+
+
+Many of the ordinary stands supplied with cameras are almost use-
+less; some can, however, be made available. It is better to clamp the
+camera to a strong piece of timber about 12 inches wide and 1 inch
+thick of the length necessary, so arranged that it can be elevated
+to the altitude of the sun at the time of totality. The
+direction and altitude of the camera can bo determined the
+day prior to the eclipse by arranging the camera to get an image
+of the sun on the ground glass screen at the time calculated for
+totality on the day, of the eclipse; the camera should then be
+carefully protected over night with some suitable waterproof covering.
+Such precaution can be avoided, however, if the camera is provided
+with a finder which is accurate enough to use with a long focus lens.
+The focussing must be carefully done by getting the image of some
+very distant object on the viewing screen, and using a magnifying glass
+to examine the image to see that it is quite sharp. A more scientific
+method is to make several observations some days prior to the eclipse.
+If we take several negatives of the moon or other bright object, it is
+possible to secure them on the same plate by a small alteration in the
+direction towards which the camera is facing between each exposure.
+At the same time, we vary the distance between the plate and lens,
+making notes and marks on the bedplate of the camera at each exposure,
+which can be recovered without difficulty. After the plate has been
+developed, fixed, washed, and dried, we carefully examine the several
+images of the object adopted for the experiment. Having selected the
+image that is sharp and clear we set the camera to the mark correspond-
+ing to the exposure. The exposures for this operation may be about
+three seconds duration if the moon is photographed.
+Another accurate method of determining the focus can be applied
+when a box is used in place of the ordinary camera. At the approximate
+focal distance insert a plate making an angle of 45° with the axis of
+the camera and expose it at night on the south polar region of the sky.
+The resulting star trails will be sharply defined only along one line across
+the plate, and that position marks the focal plane.
+The usual photographic plates on the market may be used; special
+plates are not required. The trade emulsions have been tested on many
+occasions and found to be, quite good enough. Special rapid, orthochro-
+matic, or panchromatic plates will be found quite suitable with speeds,
+say, 250 to 400 H &D. An excellent developer can be prepared by
+using 240 grains sodium sulphite anhydrous, or twice the weight if in
+crystals, 24 grains of amidol dissolved in 20 oz. of water in the order
+given. Potassium bromide is not to be used; it is unnecessary, and
+tends to delete fine detail and gradation.
+Develop for a period of about six to eight minutes, keeping the
+plate in the dish covered with a piece of cardboard or any opaque
+substance, and avoid handling the negative. The time for development
+may be reduced to a period of between four to six minutes if the tempera-
+ture exceeds 70° F. If the temperature of the developer much exceeds
+70°, it will be wiser to await cooler conditions, or use ice in the
+several operations, in order to avoid frilling and other troubles due to
+varying temperatures of the liquids necessary for completing the nega-
+tive. Fix in hypo. 2 oz. to 10 of water, then wash thoroughly.
+
+
+The following conditions are important: —
+1. The camera should be firmly supported. Ordinary stands as
+usually supplied with cameras are generally useless.
+2. It may be desirable to have some form of finder attached to the
+camera, if it is not already provided with a reliable one,
+so that the image, formed by the lens, may be correctly placed
+within the area of the plate used. This is especially im-
+portant where long focal lengths are used.
+3. The correct focus may be obtained (a) by carefully viewing the
+image of a distant object on the ground glass; (6) by taking
+a series of photographs of some celestial object at varying
+distances between plate and lens and marking the camera
+base accordingly; or (c) by the sloping plate and star-trail
+method.
+4. It is important that the true vertical should be known, so that
+the orientation of the solar axis may be determined from a
+perpendicular line through the image. This may be accom-
+plished by taking on a separate plate a photograph of a
+plumb line placed some 15 or 20 feet distant without moving
+the camera from its position when the negatives of the
+eclipsed sun were taken, the lens being stopped down to T 32.
+Or the top side of the camera back may be made horizontal
+by using a small spirit level.
+5. When placing the photographic plates in the carriers, make a
+pencil mark on the emulsion side in the top right hand
+corner. When the plate is in the carrier this ifiark will be at
+the top left-hand corner of the carrier when the emulsion
+side of the plate faces the lens. This mark will be readily
+seen on the plate after development, and gives an important
+piece of information regarding the orientation of the sun’s
+image. Holes should be made of the actual time that each
+exposure was made, or it should be referred to the duration of
+time from the beginning of totality.
+Use or a Telescopic Object Glass foe Photogkaphio Pueposes.
+An ordinary telescope may be used for obtaining photographs. Tele-
+scopes or objectives with 3 to 4 inches and larger apertures, having
+focal lengths of from twelve to fifteen times the aperture may be used
+if a light box be made and attached to the ocular or eye-piece end in
+the case of a telescope, the box to be so constructed that it will support
+in position a plate carrier.
+Prom a photographic point of view the object glass may be_ taken
+as an uncorrected lens, that is, one in which the visual and actinic foci
+are not 'coincident. An allowance has to be made after visual focussing
+so as to bring the sensitive plate into the plane of the actinic focus. The
+amount of this correction varies with the refractive index of the glass
+that forms the object glass. As an approximation the plate may be
+placed, at a distance of l-30th to l-40th of the focal length of the lens,
+nearer to the object glass than the visual focus is. A series of photo-
+graphs of sorrle celestial object will now be necessary, as already
+explained, using an aperture of F. 16 or less, the telescope tube being
+permanently marked to correspond with the sharpest image shown on
+the negative.
+
+
+Another method is to place a weak lens in front of the working lens
+while focussing by visual means, and removing it before the exposure.
+This correcting lens must temporarily shorten the focal length to the
+necessary degree. It is much better and easier, however, to obtain the
+actinic focus by the trial and error method explained above. Alter-
+natively, if the image on the ground glass is focussed with the object glass
+at full aperture and then stopped down to, say, F. 45 or F. 64 when used
+to take a photograph, satisfactory results may be obtained; but this
+method is not so strongly recommended.
+Visual Observations with Small Telescopes.
+It is stated by Mr. Maunder, an astronomer of considerable eclipse
+experience, “ that valuable work can be done with portable telescopes,
+of moderate aperture, on tripods, or with the naked eye.”
+Providing the observers haye had some preliminary training or
+experience in rapidly delineating natural objects, this may be correct,
+but the results obtained at many eclipses seem to be of doubtful value.
+However, the instructions and methods of Mr. Maunder are here quoted
+(Journal of the British Astronomical Association, vol. XV., Xo. 8,
+p. 317+). . .
+“ Distinctly the most important observation which the worker with
+such a telescope (from 2 to 4 inches aperture) can make is to draw, with
+a moderately high power, the structure of the corona in some small and
+definite region. He should perfectly prepare himself from the first
+to entirely leave on one side the idea of a general delineation of the whole
+corona. The attempt to do so would be doomed to failure, and if any
+sketch were it would be perfectly valueless. The observer should
+have fully made up his mind before the eclipse as to the region in which
+he proposes to work. The regions most likely to be fruitful are (1)
+round either of the solar poles; (2) in the neighbourhood of a bright
+prominence; or (3) at the root of some principal coronal streamer.
+“ For the better performance of this kind of work, the eye should not
+be fatigued by observing the progress of the eclipse before totality,
+through the telescope. This may be , done, if desired, by an assistant
+using a proper dark glass before the ocular, and he may also undertake
+to announce the time of approaching totality. It is very important
+to preserve the sensitiveness of the eye for the observation of the
+eclipsed sun.
+“ If several observers provided with telescopes could arrange to work
+together according to a preconcerted plan, different parts of the corona
+could be apportioned among themselves in such a manner as to give,
+by their aggregate results, a complete representation of it.”
+A suitable subdivision may be effected for this purpose by reference
+to the diagram Xo. 4. The sun’s vertex may be determined by observ-
+ing a plumb line, and is necessary in order that the drawing may be
+properly oriented, i.e., may be subsequently viewed with the true vertical
+in the correct position.
+Visual Observations with the Unaided Eye.
+The observations which can be made without optical instruments may
+be grouped in the following divisions;—
+(1) Sketches of the “corona.”
+(2) Observations of “shadow bands.”
+(3) Observations of planets and stars.
+(4) Miscellaneous observations.
+
+
+Sketches of the Cokona.
+“ The sketching party should consist of about five persons—four to
+draw details of single quadrants, and one to sketch rapidly the general
+features.
+A convenient scale is a disc 2 inches in diameter, to represent
+the black disc of the moon. Observers should be provided with a stiff
+piece of bluish-coloured paper about the size of foolscap, with a circle
+2 inches in diameter in the middle, the fiducial lines, as shown jn
+diagram Xo. 4, being faintly marked thereon for reference if desired.”
+On the diagram shown the concentric circles are at a distance from each
+other of one-fifth of the moon’s radius, and are intended to be used as
+a scale for the drawing. Intervals' of one-quarter the moon’s radius
+might be used if that fraction is more readily appreciated by the eye.
+The vertical and horizontal lines define the quadrants, so that the top of
+the vertical line agrees with the actual apex of the sun as defined by a
+plumb lino projected upon it.
+A convenient outfit for sketching the corona would be a piece of
+white chalk and one of the small blackboards commonly used by school
+children, on which the black disc of the moon might be represented by a
+C. 13322.—2
+
+
+circle 4 inches in diameter. These articles give an advantage over
+paper and pencil in that the white chalk is a direct and not a reversed
+(or negative) indication of the luminous corona. Moreover, a little
+manipulation with the fingers easily produces fine gradations of light
+and shade. A piece of dark-red chalk might prove handy for marking
+in any prominent parts of the chromosphere. The board should be sup-
+ported with the greater length vertical.
+Observations or Shadow Bauds.
+During the progress of the partial phase there is nothing of very
+special interest until the sun is almost covered by the moon, although
+before that time arrives the shadows cast by foliage begin to have a
+peculiar appearance. The sunlight, shining through every small space
+among the leaves, instead of forming a little circle of illumination on the
+surface of the ground, shows a small crescent, an image of the partly
+covered sun.
+Some ten minutes or a quarter-of-an-hour prior to totality the
+darkness begins to become evident, the remaining light, coming as it
+does from the edge of the sun only, appears to be much altered in
+quality, producing an effect very like that of calcium light, rather
+than sunshine, as stated by Professor Young in his treatise on general
+astronomy. Animals become perplexed and unsettled, birds seek a
+resting place as if it were nightfall. The temperature of the air falls a
+few degrees, and a slight dew has been noted. ■
+If the observer has a clear view of the western horizon, he may note
+the arrival of the moon’s shadow. It may be seen approaching, much
+like a heavy thunderstorm. It advances with great rapidity until it
+completely envelops him. The axis of the shadow will approach the
+observer situated in Eastern Queensland from a point about 9 degrees
+to the northwards of the due west point. Under favorable circumstances
+the upper and lower edges of the shadow cone may be seen by an
+observer outside the area of total eclipse, and the angular distance of
+these boundaries from the zenith and horizon should be noted. Stars
+may appear in the shadowed portion of the sky. The sharpness of
+the shadow’s edge is wmrthy of comment.
+On every white surface bands or fringes appear, alternately light
+and dark; these bands are wave-like pulsations of light and shade, and
+may be observed for a few seconds, not exceeding about thirty, just before
+and after totality; at some eclipses they have not been in evidence.
+These bands have been compared to the appearance of sunlight reflected
+from the rippled surface of a pond of water on to the surface of a
+white wall; they are a few inches wide, and from 1 to 3 feet apart.
+They seem to be generally parallel to the edge of the moon’s shadow,
+and the rate of movement is something like 12 miles per hour. The
+phenomenon has not yet been fully explained; they may be due to
+atmospheric refraction of the light coming from the very .narrow strip
+of the sun’s limb just at the time of its disappearance, or possibly a
+diffraction effect at the edge of the lunar disc.
+
+
+A convenient method of determining the direet’oll of motion of the
+bands consists in placing a white sheet evenly stretched on the ground
+and securing it to wooden pegs placed at convenient places. The
+observations consist in placing a long straight rod or lath of wood
+parallel to the direction of the hands; the azimuths of the rods or
+laths (i.e., their relation to the points of the compass) may be deter-
+mined after the eclipse. Several rods should be provided and marked
+differently, so that they may be identified. The direction of the bands
+changes after the time of totality. A foot-rule should be placed on
+the sheet at right angles to the bands, so that the distance between
+them may be more readily estimated. Further, the number of bands
+that cross a fixed point on the sheet in a given time, say ten seconds,
+should be counted. Two persons m’ght combine their efforts in this
+observation. It is quite worth while looking for these bands a few
+minutes before and again after totality.
+Even larger parties of four or more may with advantage work
+together, each having a single definite duty to perform. In connexion
+with these observations of shadow bands, it is important to ascertain
+very carefully the direction and force of the wind. An attempt might
+be made to photograph the bands, as this has not yet been successfully
+achieved.
+Observations op Planets and Stars.
+During the interval of totality stars of third magnitude and brighter
+usually become visible to the naked eye. It is desirable to watch the
+sky in the vicinity of the eclipsed sun for the detection of any unknown
+object which might be within the region. It may be mentioned that
+comets have been seen on such occasions, for instance, in the years 418
+and 1882. If an unknown object be seen, the observer should estimate
+its position in relation to known objects that are also visible, using the
+diameter of the moon as a unit of distance.
+Chart 3, which will be found loose in the pocket on the back cover,
+has been prepared to assist in this class of observation. Observers
+should make themselves well acquainted with the positions of known
+bodies which will be visible above the western horizon in the neighbour-
+hood of the sun. At Goondiwindi, the altitude of the eclipsed sun will
+be about 21° ; at Stanthorjie and Tenterfield, about 20°.
+The chart, which should be pinned up before the observer,
+shows the positions of Jupiter (7i), Saturn ( h ), Mercury (£), also
+the second magnitude star Beta (/?) Leonis, Gamma (y) Virginis of
+the third magnitude, and Theta (#) Leonis, a little less in brightness;
+other stars are indicated, of about the fourth magnitude, within a con-
+siderable area of the sky surrounding the position of the sun. Any of
+these stars visible may be marked on the chart during totality. There
+can be no doubt that the three planets shown will be readily detected, as
+also Beta (/3) Leonis, and probably Gamma (y) Virginis-
+Miscellaneous Vaked-eye Observations.
+Observers within the zone of totality might watch the approach
+and departure of the lunar shadow, making notes of any circumstance
+that may appeal to them at the time.
+
+
+Those situated at elevated stations, and having an extensive view
+of the country to the westward and eastward, will have the best oppor-
+tunities in this connexion.
+It is comparatively easy to detect the approach of the moon’s shadow
+in the sky. Many observers speak of its terrible menacing aspect, like
+a hurricane rushing onward at a speed really frightful. The detection
+of the approach of the shadow on the earth’s surface is more difficult.
+The time at which the shadow reaches the observing station, and
+again leaves it, should be noted. Even observers outside the zone
+of totality may note the shadow cone in the sky as. the withdrawal of
+all scattered light renders the stars visible. Suck an observation was
+made at Melbourne in April, 1911, immediately prior to the shadow
+striking the earth fully 200 , miles further east, on the coast of Hew
+South Wales.
+Colours also may he looked for on the clouds, possibly due to the
+diffraction of light at the edge of the moon.
+The colours of the sky, land, or sea furnish another class of obser-
+vation especially suitable for those who have had an artistic training.
+These observers, and those who are watching the-shadow, will find it to
+their advantage to adopt the same precaution; they should mark out
+the north-south and east-west lines, further dividing the quadrants into
+several equal parts. If many observers are available, they should divide
+the horizon according to their number. Three observers to each
+quadrant would he a convenient arrangement.
+Each observer should record his observations under the three time
+divisions—before totality, during totality, and after totality —and under
+the four heads—land, sea, sky at horizon, and sky overhead.
+Another observation that can he carried out by a party of observers
+situated near the boundaries of the zone of totality is to distribute them-
+selves about half-a-mile apart on a line approximately at right angles
+to the direction of the boundary, and note if the sun is completely
+obscured for a few moments or if a thin line of sunlight is visible along
+the limb of the sun. From this data it is possible to compare the
+calculated position of the boundary with that observed. The position of
+the observer should be noted in relation to the land boundaries in the
+vicinity, the corner, for instance, of some surveyed block of land or
+road. A railway station or post office would also be an easily identified
+locality.
+Grafton is a suitable place for these operations on the southern
+limit. Observers might distribute themselves to the southward at
+varying distances. At this town, totality begins at 4 hours 14 minutes
+55 seconds, and the calculated duration of totality is about 21 seconds.
+Each observer should note the duration in seconds of time if the total
+phase be visible. On the northern boundary, some 7 miles to the north
+of Clifton, similar observations could be made.
+Observations of this nature, if conducted in a systematic manner,
+would be of some considerable scientific value, and may be readily
+carried out by any one having a timepiece that keeps a fair rate without
+
+
+a knowledge of accurate time, as it is only necessary to note the duration
+of the time of totality, if visible, which can he done very well without
+optical means, as the phe'nomena of the beginning and ending of totality
+are almost instantaneous.
+Photography of the Landscape, Etc.
+A series of photographs of the landscape before and after totality
+and one at mid-eclipse may be taken, and will serve a useful purpose.
+They could be used to test the question as to the difference in rapidity
+of the coming on and going off of the darkness before and after totality.
+Any ordinary camera will do, provided that the exposure shutter can be
+trusted to work accurately at the same speed for each plate. With a
+series of exposures of a portion of the landscape, taken at equal and
+carefully timed intervals, and subsequently developed under exactly
+similar conditions, the difference of density could be measured with a
+photometer and any difference readily detected. The more exposures
+made the better. It is specially recommended' that two, at least, be
+taken in the five minutes immediately preceding and following totality,
+say, at five minutes and at three minutes before and after respectively.
+It is essential that the plates or films be of the same kind and emulsion
+number, and carefully marked in some convenient way for identification.
+Those taken at corresponding intervals prior to and after totality should
+be developed in pairs in one dish, in order to make the conditions pre-
+cisely similar; use fresh developer for each pair for a period of about
+six minutes, provided the exposure is just sufficient for a normal
+negative with the plate or film and aperture used. A stock of developer
+should be prepared sufficient for the batch of plates, and exactly the same
+amount taken for each pair. Fix for ten minutes in hypo., 2 ozs. in
+10 ozs., then wash in the usual way for about one hour.
+The portion of the landscape selected should be in a south-easterly
+direction, or away from the sun. It is desirable, if possible, to select
+a scene where foliage is projected against the sky, as the negatives
+will better indicate the relative density of the plates.
+A still more accurate method of testing the varying actinic value
+of the light with gn ordinary camera is as follows: —Facing the sun,
+place in a vertical position a small square (6 inches x 6 inches) of white
+card or paper against a dull black background—a black apron, a photo-
+grapher’s head cloth or a piece of velvet would serve the purpose. How,
+with the camera focussed on the white square and only a short distance
+away, take a series of photographs at regular intervals. In the partial
+phase before and after totality give 1-lOOth second exposure with suit-
+able small aperture, and during totality the longest exposure for which
+the shutter is rated, say, one second, with the most open aperture, as
+the coronal light will be of the order of 1-30,000 th part of the intensity
+of full sunlight. Data for the comparison of these two series is obtained
+by exposing plates alternately for the shorter and longer intervals in
+full sunlight with the smaller aperture previously used. Under uniform
+conditions of development the relative density of these images
+shows the correction necessary to make the complete eclipse series com-
+parable.
+
+
+Observing the Times of the Several Circumstances of the Eclipse.
+The best method of doing this is to projecj the sun’s image on to a
+white screen attached to the ocular or eyepiece end of a telescope of
+3 or 4 inches aperture. '
+FIDUCIAL LINES FOR ECLIPSE AT GOONDIWINDI.
+The screen will be conveniently placed at such a distance behind
+the ocular as to give an image of about 3or 4 inches diameter. The
+angle of position at the beginning of the partial phase, as well as that
+of the ending of totality, should be marked on the circle of illumination,
+so that the attention can be directed to these points at the proper time.
+The time should be noted by counting the beats of a chronometer, com-
+mencing from some full minute, or by a stopwatch that has been
+thoroughly tested and found reliable.
+Great accuracy in these observations can be obtained by making
+many observations of the tips of the crescent at stated times during
+the partial phase; two observers are required, who at stated times mark
+on the screen the tips of the crescent at the same instant. These
+points, combined with the times, can be used and so arranged as to get
+the several times of the circumstances with much greater accuracy'than
+can be yione by a single observation.
+
+
+General Remarks.
+BEWARE OF INJURING YOUR EYES. See special warning
+opposite the preface.
+All persons taking part in the observations should carefully compare
+their watches and obtain a good knowledge of the accurate time, in order
+to be able to give the correct time of any observed phenomena.
+It is recommended that glass coloured green be used in conjunction
+with telescopes, opera glasses, or the naked eye for observing the progress
+of the partial phase. Neutral tints come next in value.
+Reddish tints are unsuitable for eclipse observations. Those who
+are unable to obtain coloured glass may prepare a piece of clear glass
+by darkening it to any degree of density required by the smoke of an
+oil lamp.
+It is well to emphasize here again the uselessness of gazing at the
+sun during the partial phase of the eclipse. Such action only destroys
+the sensitivity of the retina and unfits the eye for observing the total
+phase, in addition to incurring the risk of serious injury.
+It is interesting to compare the general illumination at mid-totality
+with that of twilight at a given time. Observers may obtain suitable
+information in this respect by carrying out some simple and easy
+experiments. For example, they could determine on the two or three
+evenings prior to eclipse day the latest time when they can read certain
+sizes of printed matter held at a fixed distance from the eyes, such type
+as is found in one of the local newspapers. On the day of the ecl’pse use
+the same issue of the journal fixed at the same distance from the eyes.
+The diminution of temperature, personal sensations, behaviour of
+animals, wild and domestic, and various other phenomena known or
+unexpected may attract attention.
+In conclusion, I cannot do better than repeat the words quoted by
+Mr. P. Baracchi in 1910: —“ It should be borne in mind.by those who
+will be favoured by a sight of the eclipse, the grandest of all celestial
+phenomena, how extremely rare are such opportunities. It is only
+fair to expect that they so favoured should make notes and record at
+least something that may be of interest or value to those less fortunate
+than themselves.”
+For the preparation of these notes I have been much indebted to a
+previous writer. I desire to express my appreciation for the help I
+have received from consulting the pamphlet issued on the occasion of
+the Tasmanian eclipse of 9th May, 1910, by Mr. P. Baracchi, who
+was at the time Government. Astronomer of Victoria and in charge
+of the operations at Bruni Island.
+Explanation of Charts and Diagrams.
+Charts 1 and 2 have been prepared for the purpose of assisting
+observers and others wdio desire to obtain the times of the several
+circumstances and other data of the eclipse without calculation. For
+ordinary work, the times can be found with all the accuracy necessary,
+and, in general, to within less than ten seconds of time. For a rigorous
+computation of the times it will be necessary to solve a system o
+equations that may be found in many works on practical astronomy
+and in some National Ephemerides. To assist the computer, tne so-
+called Besselian Elements will be found in any of the National
+
+
+Ephemerides. These elements save a large amount of calculation in
+the preparation of eclipse data.
+Chart I.—This chart gives the outlines of the moon’s shadow on
+the surface of Australia at the beginning and ending of the partial phase.
+The curves given in full lines indicate the time of the beginning, those
+in dotted lines give the ending.
+This chart is very easy to use, and to illustrate its application we
+take, as an example, the times of beginning and ending of the partial
+phase at Sydney. The time of beginning will be at some time between
+3 hours 5 minutes and 3 hours 10 minutes, to be exact it will be
+3 hours 5 minutes plus (0.4 X 5 minutes) or 3 hours 7 minutes; the
+interval of time between the full lines being 5 minutes and the position
+of Sydney is 0.4 of the distance from the 3 hours 5 minutes curve, the
+fraction being obtained, with any scale at hand. In the same manner,
+by using the dotted curves it will be found that the eclipse will end
+at 5 hours 10 minutes -f- (0.35 X 5 minutes), equals, say, 5 hours
+12 minutes. These times agree with those published in the British
+Nautical Almanac. It will be noticed that along the full lines numbers
+are shown, these refer to the position angle of the point of contact from
+the north point of the sun’s disc at the commencement of the partial
+phase. For Sydney it can, by estimation, be determined as 302° between
+the positions given for the points.3os° and 300°. It is to be noted
+that the times indicated are zone times referred to the meridian 10 hours
+east of Greenwich, i.e., standard time for the Eastern States. As a
+second example, take Southern Cross, in Western Australia, Ho. 112
+on chart, and to the east of Perth. Eclipse begins at 2 hours 18 minutes
+and ends at 4 hours 47 minutes, for zone time 10 hours east. To obtain
+the times corresponding to 8 hours zone time, we subtract 2 hours
+from the above times. For Southern Cross the eclipse will begin at
+12 hours 18 minutes and end at 2 hours 47 minutes for the time used
+in Western Australia, the angle at first contact being 318°.
+If the times of the partial phase are desired for South Australia,
+it will be necessary to subtract half-an-hour from the times obtained
+from the chart to conform with the zone time adopted in South Australia.
+To avoid crowding the chart with the names of towns, they are
+tabulated below; they may readily be found by the numbers. It is to
+be noted that small crosses indicate the intersection of certain meridians
+and parallels of latitude; by means of these points other towns may be
+located that are not given in the list.
+Names of Towns Cobbesponding to Numbers on Charts.
+Town. K, ™ be , r
+on Charts.
+Albany . . . . 118
+Albury . . . . 82a
+Ararat . . . . 72
+Ardoch . . . . 32
+Armidale (N.S.W.) . . 41
+Bairnsdale . . . . 89
+Ballarat . . . .■ 78
+Ballina . . . . . 24
+Barraba . . . . 39
+Bathurst . . . . 54
+Town Number
+iown ' on Charts
+Bega .. .. 64
+Benalla . . . . 81
+Blayney . . . . 53
+Bourke . . . . 34
+Bowen .. . . 8b
+Branxholme . . . . 74
+Brewarrina . . . . 35
+Brinkworth . . . . 99
+Broken Hill . , . . 99a
+Broome . . . . 103
+
+
+rp Number
+• Lo " a * on Charts.
+Bunbury .. .. 115
+Bundaberg .. .. 11
+Burrundie . . . . 101
+Byroek . . . ■ 36
+Cairns . . ■ • 8a
+Caniperdown . . . . 76
+Canberra . . . . 63c
+Canbroo . . .• 117
+Carnarvon . . . . 103 c
+Casino . . . • 19
+Casterton . . . . 74a
+Charleville . . . . 13c
+Chinchilla . . . . 13
+Cloncurry . . . . 3
+Cobar .. .. 44
+Colac . . . . 77
+Condobolin . . . . 51
+Coolgardie . . . . 113
+Coonamble . . . . 37
+Coongoola , . . 15
+Cootamundra . . . . 57
+Cunnamulla . . . . 14
+Dareel . . . . 18
+Dartmoor . . . . 74b
+Darwin .. .. 100
+Deniliquin . . . . 60a
+Dimboola . . . . 70a
+Dirranbandi . . . . 16
+Dongarra . . . . 104
+Eden . . . . 65
+Edillilie . . . . 96
+Forbes . . . . 52
+Foster . . . . 84
+Garah .. . . 30
+Geelong . . . . 78a
+Gingin . . . . 110
+Gladstone (Q.) . . 10
+Gladstone (W.A.) . . 103 d
+Glen Innes . . ... 40
+Glen Thompson . . 73
+Grafton , . . . 29
+Gundagai . . . . 63b
+Gympie . . . . 12a
+Heathcote . . .. 79
+Hey wood .. . . 75
+Hi list on . . . . 50
+Hopetoun . . . . 69
+Horsham . . . . 70b
+Hughenden . . . . 5
+Humula . . . . 63
+Terilderie . . • . 60
+Julia Creek . . . . 4
+Kalgoorlie . . . . 114
+Town Number
+10wn ' on Charts.
+Karara . . . . 25
+Katanning . . . . 116 a
+Katherine . . • ■ 102
+Kiniba . . . . 97
+Kingston (K.S.W.) . . 62
+Kingston (S.A.) . . 93
+Kondinin . . . . 116
+Korumburra . . . . 83
+Laverton (W.A.) . . 106
+Lismore . . . . 23
+Lithgow . . ... 55
+Mackay . . . . 8c
+Maitland . . . . 49
+Malcolm . . . . 107
+Marble Bar . . . . 103 b
+Maryborough . . . . 12
+Menzies . . . . 108
+Merredin . . . . 11l
+Mingenew . . .. 105
+Mitchell . . . . 13b
+Morwell . . . . 86
+Mt. Gambier . . . . 94
+Murrayville . . . . 67
+Murrurundi . . . . 46
+Murtoa . . . . 70
+Murwillumbah . . 22
+Muswellbrook . . . . 47
+ATaracoorte . . . . 92
+Karrabri . . . . 38a
+Karrung . . . . 59
+Kerang . . . . 21
+Newcastle . . . . 49a
+Kyngan . . . . 45
+Orbost . . . . 90
+Ouyen . . . . 68
+Parramatta . . . . 55a
+Peebinga .. . . 66
+Port Augusta . . . . 98
+Port 'Hedland . . . . 103 a
+Port Lincoln . . . . 95
+Port Macquarie . . 46a
+Quilpie . . . . 33
+Quirindi . . • • 43
+Rockhampton . . . . 9
+Roma . . • • 13a
+Sale . . ■ • 88
+Serviceton . . • • 91
+Seymour . . ■ • 80
+Singleton . . • • 48
+Southern Cross . ■ H 2
+Stamford ■ • ■ ■ ®
+Stanthorpe .. •• 27
+Stawell . . • • 71
+
+
+Town Number
+iown - on Charts.
+Tamworth . . . . 42
+Taree . . . . 46b
+Tenterfield . . . . 28
+Thallon . . . . 17
+Toobeah . . .. 31
+Toowoomba . . . . 20
+Townsville . . . . 8
+Traralgon . . . . 87
+Tumut . . . . 63a
+Tirana . . . . 61
+Wangaratta . . . . 82
+Town Number
+‘ on Charts.
+Warragul . . . . 85
+Warrnambool . . . . 76a
+Warwick . . . . 26
+Watheroo . . . . 109
+Wee Waa . . . . 38
+Weiniby . . . . 59
+Wentworth . . . . 58
+Winton . . . . 7
+Wollongong . . . . 56
+Woodford . . . . 12b
+Chart 2. —This chart shows that portion of the zone of totality of
+particular interest to those in the eastern States of Australia. The times
+of mid-totality are indicated by sloping lines across the zone, the time
+being given on the boundaries of the shadow belt. The duration of
+totality at these points is indicated by figures on the centre line. The
+dotted curved lines give the outline of the shadow at the beginning
+of the partial phase on this chart.
+Take an example to illustrate the use of this chart: It is desired
+to find the circumstances of the eclipse at Goondiwindi. This town is
+situated between the curves 3 hrs. 5 min. and 3 hrs. 10 min., being one-
+tenth of the distance between them from the 3 hrs. 5 min. line, the time
+of the beginning of the partial phase will therefore be 3 hrs. 5 min. plus
+(0.1 X 5 min.) equals 3 hrs. 5 min. 30 sec; this agrees with the calcu-
+lated value, using the Besselian elements.
+Mid-eclipse will take place between 4 hrs. 13 min. and 4 hrs.
+14 min., or more exactly at 4 hrs. 13.42 min., say 4 hrs.
+13 min. 25 sec. The duration of totality at the line 4 hrs.
+13 min. will be 3 min. 33.5 sec., and at 4 hrs. 14 min. it is 3 min. 29.4
+sec., the difference, 4.1 secs, multiplied by 0.4 and subtracted from 3 min.
+33.5 sec., gives 3 min. 31.9 sec. as the duration of totality if Goondi-
+windi were on the centre line, this duration of time requires to be multi-
+plied by a factor which depends on its distance from the centre line, and
+which can be found from the following table. Let the distance of the
+place from this line be represented by the letter “ b,” and the semi-
+width of the zone by “ a,” then the argument to the table is “ b ” divided
+by “ a,” in our example it is 0.10 and the factor from the table 0.99,
+which, multiplied by 3 min. 31.9 sec., gives 209.8 sec., half this quantity
+subtracted from and added to 4 hrs. 13 min. 25 sec. gives the beginning
+of totality as 4 hrs. 11 min. 40 sec. and the end 4 hrs. 15 min. 10 sec.,
+which agree within a few seconds with the times obtained by a precise
+calculation.
+As a second example, take Tentorfield (28). Mid-eclipse at 4 hrs.
+14 min. 32 sec.; duration, 3 min. 29.4 sec. minus (4.3 -f- 0.53),, then
+multiplied by the factor corresponding to 0.5, namely 0.87, gives 3 min.
+0.2 sec.
+Totality, therefore, commences at 4 hrs. 13 min. 2 sec., and ends at
+4 hrs. 16 min. 2 sec. at Tenterfield.
+
+
+Factors
+TABLE.
+for Correcting the Duration of Totality when the Place
+is within the Zone, but not on the Centre Line.
+h/a
+0
+•01
+•02
+•03
+•04
+•05
+■06
+•07
+•08
+•09
+o-o
+1-00
+1-00
+1-00
+1-00
+1-00
+1-00
+1-00
+1-00
+1-00
+1-00
+0'1
+0-99
+0-99
+0-99
+0-99
+0-99
+0-99
+0-99
+0-99
+0-98
+0-98
+0-2
+0-98
+0-98
+0-98
+0-97
+0-97
+0-97
+0-97
+0-96
+0-96
+0-96
+0-3
+095
+0-95
+0-95
+0-94
+0-94
+0-94
+0-93
+0-93
+0-92
+0-92
+0-4
+0-92
+0-91
+0-91
+0-90
+0-90
+0-89
+0-89
+0-88
+0-88
+0-87
+0-5
+0-87
+0-86
+0-85
+0-85
+0-84
+0-84
+0-83
+0-82
+0-81
+0-81
+0-6
+0-80
+0-79
+0-78
+0-78
+0-77
+0-76
+0-75
+0-74
+0-73
+0-72
+0-7
+0-71
+0-70
+0-69
+0-68
+0'67
+0-66
+0-65
+0-64
+0-63
+0-61
+0-8
+0-60
+0-59
+0-57
+0-56
+0-54
+0-53
+0-51
+0-49
+0-47
+0-46
+0-
+1-
+0-44
+0-00
+0-41
+0-39
+0-37
+0-34
+0-31
+0-28
+0-24
+0-20
+0-14
+Place.
+Partial Phase.
+Total Phase.
+Begins.
+Ends.
+Angle
+of First
+Contact.
+Begins.
+Ends.
+h.
+m.
+h
+m.
+h
+m. s.
+h. m.
+s.
+Goondiwindi
+3
+5-5
+o
+15-0
+293°
+4
+11 40
+4 15
+10
+Stanthorpe
+3
+7-5
+5
+15-2
+292°
+4
+12 57
+4 16
+24
+Grafton
+3
+8-5
+5
+15-0
+293°
+4
+14 55
+4 15
+16
+Wallal
+12
+3-4
+2
+49-9
+299°
+1
+27 30
+1 32
+49
+Coongoola..
+2
+59-5
+5
+13-6
+294°
+4
+8 20
+4 12
+4
+Toobeah ..
+3
+5-0
+5
+14-8
+294°
+4
+11 33
+4 15
+6
+Melbourne
+3
+2
+5
+6
+312°
+'I -
+Sydney ..
+3
+7
+5
+12
+302°
+1
+Brisbane ..
+3
+•8-7
+5
+15-5
+290°
+> Eclipse not total.
+Adelaide ..
+2
+22
+4
+36
+31(5°
+1
+Perth
+12
+14
+2
+40
+322°
+I
+Hobart
+3
+7
+5
+1
+320°
+j
+Chart 3 gives the position of the stars and planets which surround the
+sun on the date of the eclipse.
+By hanging the chart at arms’ length by the top right-hand corner the
+orientation will be approximately correct. The horizon line for Goondi-
+windi is shown at the left and lower corner for the time, 18 hours
+G.M.T., or 4 p.m. standard time, and should be horizontal when the chart
+is held as indicated above. This chart is approximately correct for any
+place in the eastern States.
+Diagram (1) shows the several lines of position used by astronomers
+to orient the eclipsed sun at mid-totality. This diagram applies to
+Goondiwindi.
+Diagram (2) shows the circumstances of the partial eclipse for Mel-
+bourne, and indicates by a shaded area that part of the sun obscured
+at mid-eclipse. The moon’s apparent path in the. sky is divided into a
+scale of times. If it be desired to find the portion of the sun obscured at
+any moment, it is only necessary to place one leg of a pair of dividers
+on to the time and describe an arc of a circle with a radius equal to that
+of the moon; this radius can be found from the diagram.
+Diagram (3) is similar to (2), but for Goondiwindi it is used in
+a similar way. The hatched disc shows the moon at mid-totality.
+Diagram (4) is for use in connexion with sketches of the corona,
+and has already been referred to.
+The following information has been obtained by direct calculation
+for certain places within the zone of totality. The particulars for the
+capital cities of the States of Australia are included: —
+The times given in this table are standard or zone times, The angles
+are measured, from the north point of u sun’s limb, through the east.
+
+
+CIRCUMSTANCES OF THE ECLIPSE AT MELBOURNE.
+
+
+CIRCUMSTANCES. OF THE ECLIPSE AT GOONDIWINDI.
+
+
+Climatological Conditions along the Eclipse Track.
+At Wallal, Western Australia, where the eclipse path strikes the
+north-west coast there will be the happy combination of the best
+astronomical and meteorological conditions; the longest duration of
+totality and greatest altitude of the sun coinciding with the clearest
+skies and the lowest rainfall. Thence eastward for 2,000 miles across
+the continent there is but slight increase in normal cloudiness till the
+shadow reaches Goondiwindi, on the lower inland plains of the Darling
+Downs, in south-eastern Queensland, the whole belt averaging 20 per
+cent, of possible cloud. Over the tablelands the cloud increases slightly,
+but falls again on the coast. The incidence of the wet season is not
+synchronous throughout, but the eclipse track passes through territory
+having the minimum of the annual rainfall curve just about the time of
+the event. The wet season opens earliest in the eastern tablelands
+between Goondiwindi and Stanthorpe towards the end of October and in
+November between Goondiwindi and Bollon; westward right through
+to Wallal the season opens in December, except for a slightly earlier
+incidence on the higher ground of the central region between Alice
+Springs and Charlotte Waters. , Nowhere, however, is the probable
+rainfall a serious hindrance except on the highlands and coast from
+Goondiwindi eastward. The mean diurnal range of temperature is
+everywhere considerable, and varies only from 31° in the heart of the
+continent to 28° at the extreme coastal termini, with a further fall to
+26° on the eastern tablelands about Stanthorpe; on the north-west coast
+and in the centre the extreme ranges may be 50 per cent, higher, and
+over the eastern half of the track may be nearly double the mean range.
+The absolute humidity remains nearly constant, and the relative per-
+centage displays the normal diurnal fluctuations with a minimum in the
+afternoon except on the north-west coast. Condon is the nearest climato-
+logical station to Wallal, and is similarly situated with regard to land
+and sea areas. Here the humidity range is abnormal, the dry offshore
+wind of the morning keeping the 9 a.m. values, both absolute and relative,
+below the 3 p.m., which are raised apparently by the sea breeze.
+Christmas Island, the only possible station with a greater altitude
+of the sun — : 78^° —compared with 58° at Wallal, suffers in shorter dura-
+tion of totality—3| minutes —compared with 5J minutes at Wallal.
+The island has also the very serious disadvantage of a heavy and variable
+rainfall, ranging in September up to 14.06 inches in 1909, and in October
+up to 22.91 inches in 1910, with a 24-hour fall of 6.47 inches in Septem-
+ber, 1909. At Wallal, however, rain has only exceeded 0.10 inch twice
+in September and once in October in 23 years. Christmas Island, more-
+over, exhibits a curious inversion of the absolute humidity lapse rate
+even at low altitudes—an unstable condition associated with cloud and
+rain—throughout the last six months of the year.
+In Central Australia, where the sun’s altitude is 39°, the centre of
+the path crosses the overland telegraph line, 90 miles N.N.W. of the
+Charlotte Waters telegraph station, but the centre could be more directly
+reached about 60 miles N.N.E. from Charlotte Waters, which is on the
+southern edge of the belt of totality. In both places, however, a suitable
+water supply would have to be determined. Charlotte Waters is about
+110 miles from the head of the rail at Oodnadatta.
+In Western Queensland the railway is available as far west as Coon-
+goola, on the centre of the path where the sun’s altitude will be 26°, and
+the duration of totality about 3m. 455. Coongoola is 32 miles north of
+Cunnamulla, a town of 3,000 inhabitants.
+
+
+Notes on Observation Sites.
+Wallal, North-west Coast, Western Australia.
+Wallal is a telegraph station situated near a Government well and
+reserve on the stock route between Roebourne and Broome. It is about
+200 miles from the latter port by road, but somewhat less by sea, and
+150 miles from Port Hedland. Although these routes have been traversed
+by motor cars, they are rather heavy, particularly that to Port Hedland,
+which includes long sandy stretches. The usual method of travelling
+is by schooner, which in fine weather makes a landing on the open sandy
+beach by running in on the high tide and remaining high and dry while
+being unloaded by the aid of donkey teams. The spring tide range is
+about 20 to 24 feet on this coast, and the water runs out more than 200
+yards at low tide.
+Mr. J. J. Airey, District Officer, Lighthouse Service, Fremantle,
+says :—“ There would be no difficulty in landing anywhere along this
+coast during the south-easterly season, April to October, but during the
+westerly season, owing to the heavy swell, it is only rarely possible.”
+The prevailing winds on this coast vary from morning to afternoon
+with the advent of the sea breeze. In August and September, 69 per cent,
+blow from the east and south-east (off shore) at 9 a.m., and 68 per cent,
+from the west and north-west (sea breeze) at 3 p.m. These data, derived
+from the five years 1915-19, indicate the suitability of the morning hours
+for unloading. Winds other than south-east cause heavy surf, which
+hinders unloading per dinghy and aboriginal carrier, and for this reason
+all ordinary stores should be put up in packages of not more than 50 lbs.
+The south-east trade wind, the prevailing winter wind, usually blows
+itself out early in August, and the north-west monsoon winds take its place
+later. In September, light airs and calms may be expected in the early
+morning, and westerly breeze usually coming in from seaward about
+11 a.m., and freshening in the early afternoon, but dying away after
+sunset. Moderate winds may be expected, but from seaward, and the
+chance of dust storms is remote.
+The Postmaster at Condon writes: —“ Climatic conditions, except for
+heavy dew at night, can hardly be improved on from May to September,
+inclusive. October is usually very warm, but the cyclone and wet season
+does not commence until November or later.”
+The month of September is generally fine; light fog may occur in the
+early morning, but by 9 a.m. this has usually evaporated, and the Sep-
+tember day is fine and cloudless.
+Only Mr. E. Hannett, Postmaster, with his wife and child and a
+lineman, live at the telegraph station, which is near the well, but about
+3 miles distant from the “Wallal ” sheep station.
+The country in the Wallal district is undulating, sandhill and plain,
+running parallel with the coast, with patches of stunted timber; no
+marshy land exists in this vicinity.
+Although somewhat inaccessible by ordinary means of transport,
+Wallal enjoys a weekly passenger and mail service by aeroplane to Perth,
+1,200 miles distant, which can be reached in 334 hours, including a stop
+over of 14 hours at night and 34 hours in other breaks of journey.
+
+
+Local Time of
+Duration of
+Local Time of
+Mid Kclipse.
+Totality.
+Sunset.
+h. in. s.
+m. s.
+h. - m.
+Coongoola ..
+3 53 54
+3 49
+5 58
+Goondiwindi
+4 15 14
+3 30
+5 58
+Stanthorpe
+4 22 26
+3 28
+5 58
+Casino
+4 27 32
+3 23
+5 58
+Cobdillo Downs, South Australia.
+Cordillo Downs (approx, long. 140° 40' E., latitude 26° 43' S.)
+is the site of the proposed South Australian Eclipse Expedition. Il
+lies in the north-east of that State, near the borders of Queensland,
+about 280 miles W.W.E. from Farina, on the Great Worthern j-ailway.
+The journey from the railway occupies four days by motor, or six
+weeks by camel waggon.
+Cordillo Downs lies about midway between Charlotte Waters in the
+east and Thargomindah on the west, and as the climatological data for
+these two stations about 570 miles apart are almost identical as regards
+temperature, humidity, and cloud, the mean of the values for the two
+places, which are entirely favorable, will be a reliable estimate of the
+conditions at the eclipse camp site.
+Extracts from Local Wotes on Selection of Sites in Australia.
+By Prof. IT. K. Cooke, M.A., Government Astronomer, New South
+Wales.
+The eastern end of the track intersects four railway lines, thus
+indicating four localities of comparatively easy access. These are, in
+order, west to east —
+(1) Coongoola, on the Western railway of Queensland.
+(2) Goondiwindi, on the South-western railway.
+(3) Stauthorpe, on the main Brisbane-Syduey line.
+(4) Casino, on the local Worth Coast railway of Wew South
+W ales.
+Wos. (1), (2), and (3) are west of the main coastal range (the
+Dividing Range), and Casino is between the range and the sea.
+Speaking generally, the conditions improve, both meteorologically
+and astronomically, from east to west, so at first sight one would
+naturally select Coongoola. Other conditions must, however, be taken
+into consideration.
+As to the astronomical conditions, the differences are not very great.
+The following shows them at a glance:—
+* N.B. —The above are not standard or zone times.
+COONGOOLA.
+Wear the terminus (Ounnamulla) of the Western Railway of Queens-
+land. There are two trains per week, leaving Brisbane on Tuesday and
+Friday at 2.5 p.m., and reaching Coongoola on Wednesday and Satur-
+day at 7 p.m. Journeying from Sydney one would leave a day earlier,
+
+
+at 3.30 p.m., change trains at the border station (Wallangarra) and
+reach Toowoomba at 2.20 p.m. Thence join the Western Mail as
+above, leaving Toowoomba at 7.5 p.m. In this case one should secure
+sleepers from Toowoomba to Charleville well in advance, booking by
+post from Brisbane to make certain.
+Doongoola itself consists of a very small galvanized-iron railway
+station, and a small galvanized-iron hotel. Hothing else is in view
+except the Longlands homestead, over 2 miles back along the rails.
+Living accommodation of a homely character would be provided by
+Mrs. Kruck, landlady of the hotel, if reasonable notice is given. There
+are several bedrooms, and other rooms which can be temporarily con-
+verted. Altogether, arrangements can be made for 20 to 30 guests.
+Goondiwindi.
+Can be conveniently reached from Brisbane or Sydney, the former
+being the easier journey. , There is only one passenger train weekly.
+Leaving Brisbane on Wednesday at 5.5 p.m., Goondiwindi is reached at
+7.30 a.m. on Thursday. On the return one leaves Goondiwindi at
+11.5 p.m. on Friday, and reaches Brisbane at 12.25 p.m. on Saturday.
+This line, called the South-western, branches from the main Sydney-
+Brisbane line at Warwick. There are several slow mixed trains
+between Warwick and Goodiwindi during the week, and a daily mail
+service between either Brisbane or Sydney and Warwick. Journeying
+from Sydney one reaches Warwick at 11.55 a.m., and then must either
+catch the night train to Goondiwindi at 2.5 a.m. on Thursday or go
+on by one of the slow mixed trains. As there is no public warming
+place, and the nights are very cold, the latter alternative is recom-
+mended.
+With regard to this town it should be noted that there is no special
+advantage accruing to visitors crowding the locations of scientific parties.
+The total eclipse will be visible for 60 miles both north and south of
+Goondiwindi.
+The environment of Goondiwindi resembles that of Coongoola,
+it is not so remarkably flat.
+Stanthorpe.
+This is on the main line between Brisbane and Sydney, and so is
+the most accessible of all four places. It is on a plateau on the western
+side of the Dividing Range. The height of the railway station is
+2,656 feet. Leaving Sydney on any day except Saturday, at 3.30 p.m.,
+one reaches Stanthorpe at 10.27 a.m. next day, changing trains at
+Wallangarra at breakfast time. Or leaving Brisbane at 8.5 a.m. one
+reaches Stanthorpe at 4.55 p.m. the same day.
+The neighbourhood is slightly hilly, and the town itself is very
+straggling, the roads running anyhow. It mostly lies on a slope facing
+west, the hotels being on a loiver level than the railway. Immediate y
+above the railway, and within the town boundary is a rocky knoll w ic i
+would afford a few excellent sites for small parties.
+
+
+Stanthorpe is a favorite summer resort for Queenslanders. Accom-
+modation is good at several hotels.. Stanthorpe is a larger town than
+Goondiwindi, but not by any means large.
+In September, it will be considerably colder than Goondiwindi or
+Cunnamulla. The climate during that month is said to be delicious.
+Under normal conditions the town is singularly clean and free from
+dust or mud, and this, combined with its altitude, ‘gives it an advantage
+over the other sites.
+On the outskirts of the town is a hill, about 300 feet high, called
+Mount Marley. Its summit can be reached easily in 20 to 30 minutes
+from the centre of the town. Facing west is an undisturbed view to
+a low range of hills about 10 miles distant, which forms the western
+horizon. Although difficult of access for heavy instruments, it will be
+an ideal spot from which to view the approach of the moon’s shadow
+across the tree tops and see the eclipse with the naked eye or field-glasses.
+The sight will be truly magnificent, and the professionals hampered
+with instruments will doubtless envy those who go to Stanthorpe simply
+to “ see ” the eclipse and are able to view the phenomenon from Mount
+Marley.
+There is another hill, higher than this, on the north-west side of the
+town, known as Mount Banca. One would naturally expect- an even finer
+view from there, but after climbing both I doubt whether the superiority
+is sufficient to warrant the extra climb. There will probably be fewer
+people, and hence a greater choice of vantage points on Mount Banca,
+so probably the more active ones will select that spot. I wish I could
+be there myself.
+Casino.
+This is in Hew South Wales, and not connected with the main trunk
+lino of railway. Two routes are available —either by sea to Byron Bay
+or Lisrnore and then a short journey by rail, or by main line from either
+Brisbane or Sydney to Tenterfield, thence by motor ’bus. For large
+instruments the former route is preferable, for passengers the latter,
+though some may prefer the sea trip. Starting from Sydney at 3 hours
+30 minutes p.m., Tenterfield is reached at 8 hours 43 minutes a.m.
+next day. The station is over half-a-mile outside the town, but numerous
+’buses are waiting to convey passengers. Choose the most comfortable
+motor ’bus which is going direct to Casino. You will be driven first to
+the booking office, and then can obtain breakfast. The ’bus starts about
+9.30 or 10 a.m. —time has now ceased to be important. A very beautiful
+drive through undulating country will bring you to Casino about 3 or
+4 p.m. Casino is a charming township, nestling in a semi-circular
+bend of the Richmond River. It is situated on a plain, surrounded
+by hills from 3 to 5 miles distant. The streets are straight, wide, and
+at right angles, apparently laid out by compass, magnetic north and
+south, and bordered by trees. More compact and probably not quite
+so large at Stanthorpe.
+I suggest that special arrangements be made in advance with one
+of the motor ’bus companies, so as to secure places. On my trip, for
+instance, two extra passengers would have been impossible, or would
+have entailed a re-organization of coaches.
+
+
+Casino is in the heart of a favorite tourist district. The roads in
+every direction are fair to good, and the scenery and climate (in Sep-
+tember especially) delightful. Unfortunately, the probability of a clear
+day seems to me less than at the other places. This trip, however, is
+the most pleasant of all, and for those who want a delightful outing with
+a very fair chance of the eclipse can be heartily recommended.
+Summary.
+Goongoola.
+Advantages. —Quietude and freedom from all interference. Longest
+duration of totality and best position for sun, hut these are not greatly
+different from the others. Slightly better chance of fine day.
+Disadvantages. —Long monotonous journey, isolation, no stores,
+labour doubtful, two trains per week, swampy if wet, dusty if very dry.
+Accommodation doubtful, but probably good, though homely.
+Goondiwindi.
+Advantages. —ln small town, good accommodation, stores, electric
+power, moderately expert and casual assistance, excellent observing site,
+second-best astronomical conditions, good chance of fine weather.
+Disadvantages. —Poor train service, possible dust.
+Sianthorpe.
+Advantages. —Height of 2,656 feet, almost certain absence of dust or
+mud, granite foundations, township, stores, and assistance, electric power,
+good sites for observers, main trunk line, therefore easy access, and
+procuring stores or experts from Sydney or Brisbane, excellent view-
+point for approach of shadow, delightful climate, picturesque neighbour-
+hood, favorite summer health resort.
+Disadvantages. —-Very cold in July and August, astronom’cal and
+meteorological conditions slightly inferior to those at Goondiwundi and
+Goongoola.
+Casino.
+Advantages. —Interesting trip, centre of tourist region, with drives
+in every direction, excellent observing site. Strongly recommended for
+those who are only moderately keen on the eclipse itself.
+Disadvantages. —Slightly less favorable astronomical and meteoro-
+logical conditions.
+By Authority: Albert J. Mullett, Government Printer, Melbourne.

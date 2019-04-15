@@ -1,0 +1,271 @@
+
+
+INSTRUCTIONS
+FOR
+INSTALLING
+AND
+OPERATING
+Radiolette
+■ Jr 71
+
+
+Alteration of Station Positions
+SEPTEMBER 1st, 1935
+ON SEPTEMBER Ist, 1935, the wavelengths of all
+Broadcast Stations are to be changed.
+On the permanent ''Rotovisor” scale of this A.W.A.
+Receiver the new station positions are marked.
+In addition, a temporary "ring scale” marked with the old
+station positions is fitted immediately under the glass of the
+"Rotovisor” dial. After September Ist remove this scale.
+BEFORE SEPTEMBER Ist, tune to the station names
+on the front scale.
+AFTER SEPTEMBER Ist, tune to the station names
+on the rear scale.
+HOW TO REMOVE TEMPORARY SCALE
+ALL WAVE RADIOLAS (Models R 241, R 242, R 243).
+With a small screwdriver release the binding screws and
+remove the two knobs on bezel; also the four screws fixing the
+bezel to the cabinet. The temporary ring scale can then be
+removed from the bezel and the bezel and knobs replaced.
+MEDIUM WAVE RADIOLAS (Models R 146, R 147, Rl4B, Rl5),
+R 152).
+With a small screwdriver remove the four screws fixing
+the bezel to the cabinet. The temporary ring scale can then
+be removed from the bezel, and the bezel replaced,
+RADIOLETTE CONSOLE (Models R7O, R7l, R 72).
+With small screwdriver loosen off the four screws fixing
+the plated bezel in position. The temporary scale can then be
+slipped out and the screws tightened up again.
+RADIOLETTE TABLE (Model R 29).
+With small screwdriver release the binding screws and
+remove the two knobs from bezel. Next lay cabinet on its
+back and remove the four wood screws from the bottom of
+cabinet, enabling the chassis to be removed.
+This will allow the small brass nuts inside the cabinet to
+be held while the four bezel retaining screws are loosened off
+and the temporary scale removed. The bezel chassis and knobs
+can now be replaced.
+IMPORTANT: Do not interfere with Permanent Rotovisor Scale or
+Pointer.
+
+
+Instructions for Installing
+and Operating
+RADIOLETTE
+MODELS 29 AND 71
+Read the instructions before proceeding with the in-
+stallation of the Radiolette. This instrument operates
+from 240 volts supply; therefore, it is not safe to inter-
+fere with any of the internal wiring or apparatus unless
+the current is switched off at the power point switch
+controlling the circuit to which the attachment plug is
+connected, and the plug has been removed from the
+power point.
+VALVES. Installation.
+The Radiolette has been designed for the use of Radiotrons
+therefore, to ensure consistent good results and to safeguard the
+instrument against damage, valves other than those specified be-
+low should not be used.
+1 Radiotron 6D6 1 Radiotron 6A7
+1 Radiotron 42 1 Radiotron 687
+1 Radiotron 80
+To replace or inspect valves remove the plug from the power
+point; also from the underside of the base two screws holding the
+chassis in the cabinet. Loosen the grub screws holding the knobs
+on the controls.
+The chassis may now be removed from the cabinet by
+sliding back and lifting out.
+When replacing valves be sure to see that they are inserted
+in the sockets in the order shown in the diagram.
+To replace or inspect the screen grid valves, remove the
+valve screen cover, held on by the two screws. See that the grid
+lead of the 687 valve is suspended over and the grid lead of the
+6A7 valve is taken around the side of the partitions in the valve
+screen (through the appropriate notches) as indicated in the
+diagram. Be sure that the grid clips are firmly connected to the
+top terminals of their proper valves.
+
+
+Fig. 1.—Showing position of Valves and location of Grid Leads.
+LOCATION.
+Locate the Radiolette in a convenient position within ten
+feet of the power point to which it is to be connected.
+AERIAL AND EARTH.
+The Radiolette will operate without an earth wire and with
+an indoor aerial of about 1 5 feet of wire connected to the aerial
+terminal marked “A” located on the back of the chassis. In cer-
+tain localities where reception conditions are difficult it may be
+necessary to use an earth wire and an outdoor aerial.
+If an earth wire is required it should be short and direct, of
+not less than 7/22 cable, and efficiently earthed. If an outdoor
+aerial is necessary it is recommended that it be 25 to 50 feet in
+length.
+The aerial and earth wire should be installed and protected
+in accordance with the wiring rules of the Standards Association
+of Australia.
+CONNECTION TO POWER SUPPLY.
+The instrument should not be connected to any circuit
+supplying other than alternating current within the limits of 190
+to 260 volts and 50 to 60 cycles.
+This instrument is wired for the voltages of 230 or above.
+Should the supply be always less than 230 volts it will be neces-
+sary to rewire the power cord connection. Remove the chassis
+from the cabinet; turn it upside-down and unsolder the conductor
+
+
+of the power cord connected to the tag on the power supply
+terminal board, marked 230-260, and connect it to the tag
+marked 200-230. If there is any doubt regarding the supply
+voltage consult the Electric Light Department or Company before
+connecting the Radiolette.
+OPERATION.
+The Radiolette has two operating controls located on the
+front of the instrument and one on the back of the chassis.
+(1) STATION SELECTOR (right hand knob). By turning this
+knob the pointer is seen to move around the calibrated dial indi-
+cating the tuning of the instrument between 200 and 550 metres.
+(2) VOLUME CONTROL (left hand knob). When the Radio-
+lette is tuned to a station the volume will be increased as this
+knob is rotated clockwise.
+(3) SENSITIVITY SWITCH (the switch on the back of the
+chassis). When listening to strong local stations set this switch
+to Local (L) to the right, otherwise use the Distant position (D)
+to the left.
+To operate the Radiolette proceed as follows :
+1. Connect the Radiolette to the power point and turn on the
+switch controlling the circuit. The station selector should
+now be illuminated. An interval of 30 seconds is required
+for the valves to heat up before satisfactory operation is ob-
+tained.
+2. Set the sensitivity switch to Distant (D).
+3. Turn the station selector knob with the right hand so that the
+pointer indicates the wavelength of the station it is desired
+to receive and rotate it through a few degrees on either side
+of this setting.
+4. At the same time turn the volume control knob with the left
+hand so that the station is heard at low volume.
+5. Now adjust the station selector to a position midway between
+the points where the quality becomes poor, or the signal
+disappears.
+This adjustment ensures the best quality of reproduction.
+6. Finally advance the volume control (clockwise) until the
+desired level is obtained. If the volume control does not allow
+a sufficiently low minimum volume from a strong local station,
+set the sensitivity switch to Local (L).
+7. When ceasing listening-in, open the power switch controlling
+the circuit to which the Radiolette is connected.
+If your Radiolette will not operate, and you have no immediate
+success in locating the trouble, enlist the services of the authorised
+dealer from whom the set was purchased.
+
+
+Radiolette Service Data
+MODELS 29 AND 71
+ELECTRICAL SPECIFICATIONS.
+Voltage Rating 190-260 Volts.
+Frequency Rating 50-60 Cycles.
+Power Consumption 50 watts.
+Tuning Range 200-550 Metres.
+Intermediate Frequency 175 K.C.
+This receiver is a five-valve Superheterodyne designed to be
+of compact construction and give good performance.
+The Table Model incorporates a Dynamic Speaker as part of
+the chassis, while the Console Model includes a larger speaker
+connected to the chassis by a plug and cord.
+CIRCUITS.
+The circuit consists of an R.F. stage using Radiotron 6D6,
+a combined oscillator and detector using Radiotron 6A7, a 6,87
+operating as I.F. amplifier, detector, A.V.C. and audio frequency
+amplifier combined, and a Radiotron 42 pentode output.
+The rectifier valve is a Radiotron 80 supplying loudspeaker
+field excitation and plate supply for all valves.
+CONSTRUCTION.
+LOUDSPEAKER MOUNTING. —To remove the loudspeaker
+from the chassis disconnect the loudspeaker leads
+Red Lead from Filament 80 Rectifier.
+Yellow Lead from Screen Grid 42 Pentode.
+Blue Lead from Plate 42 Pentode.
+and remove the screws holding the loudspeaker mounting straps
+to the front of the chassis and loosen the two screws (accessible
+from the back of the chassis) holding the speaker on the mounting
+bracket,
+
+
+240
+Volts, 50
+Cycles
+A.C. Supply.
+VALVE.
+Cath. to Cathode to
+Chassis Screen Grid
+Volts. Volts.
+Cathode
+to Plate
+Volts.
+Plate
+Current
+M.A.
+Heater
+Volts.
+6D6 R.F.
+6.0
+45
+245
+1.0
+6.25
+6A7 1st Detector
+6.0
+45
+245
+0.5
+6.25
+Oscillator
+—
+—
+170
+3.0
+—
+6B7 2nd Detector
+2.5
+48
+100
+1.2
+6.25
+42 Pentode
+14.0
+230
+215
+30.0
+6.25
+80 Rectifier—600/300 volts,
+45 m.a.
+total current
+4.9
+Voltage across Loudspeaker
+Field —
+72 volts,
+VARIABLE CONDENSER AND VOLUME CONTROL
+UNIT.
+The variable condenser and volume control unit is removed
+as follows :
+1. Remove the strap across the front of the chassis by taking out
+the screws.
+2. Disconnect all leads connected to the variable condenser and
+volume control.
+3. Remove three nuts and washers on the top of the chassis
+holding the unit to the chassis.
+NOTE.—It is important that the variable condenser unit be
+mounted by means of the rubber bushes and kept insulated from
+the chassis except for the decoupling resistor of about 2 megohms.
+ACCESS TO CHASSIS PARTS.
+All parts on the chassis may be made conveniently accessible
+by making use of the hinging feature of the chassis ends. To
+hinge, remove the two screws nearest the foot and loosen the
+other two screws. Unsolder the two or three connecting leads
+and hinge the chassis end back. Treat the other chassis end in a
+similar manner and all parts on the chassis will then be accessible
+VALVE SOCKET VOLTAGES.
+
+
+Fig. 2.—Circuit Diagram, Radiolette 29 and 71.

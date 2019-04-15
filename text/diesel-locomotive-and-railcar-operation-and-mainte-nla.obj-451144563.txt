@@ -1,0 +1,1600 @@
+
+
+DIESEL LOCOMOTIVE AND RAILCAR OPERATION
+AND MAINTENANCE (IN COMPARISON WITH STEAM TRACTION)
+ON THE TRANS-AUSTRALIAN RAILWAY
+For presentation to the Seventh Session
+of the Railway Sub “-Committee of E.C.A.F.E.
+Commonwealth Railways,
+623 Collins Street,
+MELBOURNE.
+
+
+COMPARISON OF STEAM AND DIESEL LOCOMOTIVE TRACTION.
+INDEX
+Page
+Average speed, steam and diesel 14
+"Atlas” wheel profile truing machine 27
+Boiler feed water 6
+Coal 6
+Coal - cost per locomotive unit/mile 7
+Changing oil 29
+Cost ~ locomotive operating 37, 38
+(Tables 4 & 5)
+" water 6
+" fuel 7,8
+Distillate 7
+Diesel traction 8-14
+Earnings and working expenses 33
+(Table 2)
+Fuel testing 27
+" cost 7,8
+Gradients 5
+Graphs of train services comparing
+steam powered and diesel powered 16-19
+"Hegenscheidt" Semi automatic wheel lathe 27
+Locomotive power - steam, standard gauge 8
+steam, 3’6" gauge 11
+Diesel, standard gauge 11
+Diesel, 3 ! 6" gauge 12
+Length of trains 14
+Layout of diesel shop 20
+Laboratory work 2 7
+
+
+Page
+Manpower - savings in enginemen 14
+do. for maintenance 20
+Maintenance* steam locos. 2o
+diesel-electric locos. 20
+Oil testing 27
+Oil change 29
+Operating costs - Locomotives 37 ( 33
+(Tables 4 & 5)
+Rail Cars XI
+Steam traction 8 X 4
+Semi-automatic heavy duty wheel lathe 27
+Statistics* train running: steam & diesel 31
+(Table 1)
+Train running graphs 16-19
+Times ; elapsed* running* servicing and
+standing for steam and diesel-
+electric operation 14
+Train lengths 14
+Testing* adjusting and cleaning of components 25
+Testing engine-generator sets 27
+Testing* fuels* lubricants* coolants 27
+Water resources for steam operation 0
+Water* diesel engine cooling g
+Wheel profile truing machine 27
+Wheel lathe* semi-automatic 27
+Wear rates* cylinder liners 29
+Working expenses & earnings 33
+(Table 2)
+Working expenses. Locomotive power only 35
+(Table 3)
+
+
+COMPARISON OF STEAM AND DIESEL LOCOMOTIVE TRACTION.
+INTRODUCTION.
+Diesel locomotives were first introduced onto the Commonwealth
+Railways in 1951 and in dealing with steam traction the position as it applied
+on the Trans-Australian Railway during the period July 1950 to June 1951 will
+be considered in this comparison.
+WATER;
+Not any surface water exists within some hundreds of miles along
+the T.A.R. During 1950/51 137 million gallons of water was used on this
+(T.A.R.) railway for locomotive purposes at an average cost of 23.58 6
+pence per locomotive unit/mile including the cost of distribution by special
+water trains. By comparison water requirements for diesel traction cost
+only 0.004 pence per locomotive unit/mile.
+FUEL:
+Under steam, coal was the standard fuel used. Experience with
+various oils for furnace use showed that coal was the cheapest steam
+locomotive fuel. The closest source of suitable coal was in N.S. W. In
+1950/51 34,100 tons of coal was issued for locomotive use on the T.A.R.,
+and the cost was 8 7.4 pence per locomotive unit/mile including the cost of
+distributing it throughout the length of the T.A.R.
+Distillate for diesel locomotives is taken from ships at Port Pirie
+and stored in the Department's 1 million gallon bulk storage at Port Pirie.
+The cost for 1960/61 including distribution was 17. 722 pence per locomotive
+unit/mile.
+LOCOMOTIVE POWER:
+Typical examples of both steam and diesel locomotive power are
+given. In 1950/51, 1, 156, 657 miles of standard gauge locomotive running
+was performed with 41 steam locomotives of various classes whereas with
+21 main line diesel electric locomotives, 2, 623,225 miles of running was
+achieved during the year 1960/61.
+A similar trend in savings was effected on the Central Australia
+Railway following the introduction of diesel-electric locomotives on that
+railway in 1954/55.
+TRAIN RUNNING:
+Train running graphs (Diagrams I, II) illustrate the advantages of
+diesel-electric over steam locomotive traction in actual train operations.
+For passenger trains, the total elapsed time between Port Pirie and
+Kalgoorlie under steam operation was 43 hours 35 minutes whereas
+
+
+with diesel locomotive power the elapsed time for the journey was reduced to
+28 hrs. 30 mins. Similar figures for goods train operation were 44 hrs. 33
+mins, and 38 hrs. 45 mins, respectively. Although maximum permitted
+speeds were the same for both means of traction the average running speed
+for passenger trains over various sections increased from between 14% and
+46%, with a mean of approx. 30%.
+Other significant savings derived from the introduction of diesel
+traction are ; the increase in permissable train length (from 40 bogie
+equivalent vehicles to 50 in length in the case of the T. A.R.) and the reduced
+number of locomotive crews required.
+LOCOMOTIVE MAINTENANCE :
+Steam locomotive maintenance was done at the main depot at Port
+Augusta (major overhauls) and at running sheds at five other locations on the
+T.A.R. Approximately 250 employees were engaged full time on the
+servicing and maintenance of steam locomotives.
+For diesel traction all servicing maintenance and overhaul of
+standard gauge locos and the heavy overhaul of the narrow gauge locomotives
+is carried out exclusively at the Port Augusta workshops. This is done with
+a staff of approximately 55 employees.
+The Port Augusta diesel locomotive and rail car maintenance and
+servicing shop is designed to provide the latest developments in servicing
+facilities and the adoption of modern trade practices. Features include
+special lighting for night servicing; all floors and platforms sealed to prevent
+oil penetration; axial flow exhaust fans installed to remove engine fumes;
+pressurising fans installed for the quick cooling of the engine room, and before
+admission to the servicing pit locomotives are cleaned and washed down at
+the entrance to the shop on concrete aprons provided for the purpose.
+Special test and repair equipment is installed for the maintenance of
+injectors, fuel pumps, governors and speed recorders. Special attention is
+also given to the cleaning of the locomotive air filters.
+LABORATORY ;
+Laboratory testing of fuels, lubricants and coolants is an important
+feature in maintenance and assures the best mechanical results in the operation
+of diesel engines. This work constitutes a substantial portion of the work of
+
+
+the laboratory, and as a result of this close control it has been possible to
+extend the intervals between oil changes of GM diesel locomotives beyond
+the recommendation of the engine manufacturers, and at the same time
+maintain a lower liner wear rate.
+STATISTICS :
+Statistics given in the attached Tables illustrate the effect of
+diesel locomotives in the operation of the railway. The component of
+working expenses accounted for by locomotive power is less in 1960/61
+than in 1950/51 despite the rising trend in costs and the increased traffic
+requirements.
+
+
+MAP SHOWING ROUTES OF COMMONWEALTH RAILWAYS
+FIGURES REPRESENT MILEAGE
+FROM PORT PIRIE.
+
+
+COMPARISON OF STEAM AND DIESEL LOCOMOTIVE TRACTION
+COMMONWEALTH RAILWAYS
+The branch administration of Commonwealth Railways and the main
+workshops are located at Port Augusta at the head of Spencer Gulf in South
+Australia. The Commissioner's office is in Melbourne.
+RAILWAYS OPERATED.
+Trans Australian Railway.
+1108 Miles of standard gauge (4'B|") track from Port Pirie Junction
+in South Australia to Kalgoorlie in Western Australia.
+Central Australia Railway.
+217 Miles of standard gauge (4* 8-|")track from Stirling North (52
+Miles from Port Pirie and 4 Miles from Port Augusta) to Marree in the North
+of South Australia, 540 Miles of narrow gauge (3'6") track Marree to Alice
+Springs in the Northern Territory and 65 Miles of narrow gauge (3'6") line
+Port Augusta to Hawker.
+North Australia Railway.
+316 Miles of narrow gauge track (3'6") from Darwin south to Birdum
+the Northern Territory of Australia.
+Australian Capital Territory Railway.
+5 Miles from Queanbeyan in New South Wales to Canberra- standard
+gauge (4’B^"). The New South Wales Government Railways provide the
+rolling stock, locomotive power and train crews for the operation of this
+railway.
+For the purpose of this review, it will suffice to deal only with
+the Trans-Australian Railway as the disadvantages of steam locomotion
+and the advantages and savings which accrue from diesel traction also exist
+on the Central Australia Railway and North Australia Railway and follow the
+same trend.
+Ruling Grades.
+Trans Australian Railway - 1 in 80 in both directions.
+Stirling North to Marree ~ 1 in 120 in Down direction.
+1 in 180 in Up direction.
+Marree to Alice Springs - linBo in both directions.
+
+
+Boiler Feed Water.
+Steam Traction.
+The Trans-Australian and Central Australia Railways traverse
+desert and semi-desert country having an average rainfall of from 5 to 12
+inches per annum dependent upon the particular area, and evaporation of
+17 to 100 inches using Waite formula.
+Not any surface water exists within a radius of hundreds of
+miles of either railway and whilst sub-artesian water is procurable from
+bores and wells, the quality is such that it must be treated before being used
+for boiler feed water. However, in some areas the quantity of sub-artesian
+water is not sufficient to justify the expenditure on treatment facilities whilst
+in other cases the total dissolved solids in the water render it unsuitable for
+treatment. Consequently, treated boiler feed water is only available at
+irregular locations, considerable distances apart.
+Numerous reservoirs were constructed but owing to the low
+rainfall and high evaporation, the benefit derived from them was limited
+but they did however, have a beneficial effect on water haulage in good
+seasons.
+It was necessary to haul boiler feed water in railway tankers
+up to 300 miles.
+During the year 1950/51, an estimated quantity of 137, 000, 000
+gallons of water was used for locomotive purposes on the Trans-Australian
+Railway at an average cost of production of 8.572 pence per locomotive
+unit mile. In addition, 49, 034 train miles were run in the working of water
+trains at a cost of 354. 16 pence per train mile. Relating this latter cost to
+the total of 1, 156, 657 steam locomotive unit miles for the year, we find that
+it cost 15 pence per locomotive unit mile to distribute water by special water
+trains.
+Circulating Water.
+Diesel Traction.
+Diesel engine cooling water is treated by a base exchange
+softening plant. The cost of such water including anl;i-corrosive additive
+was only .004 pence per locomotive unit mile for the financial year 1960/61.
+Fuel.
+Steam Traction.
+Coal was the standard fuel in use for steam locomotives although
+from time to time owing to the uncertainty of supply and unsatisfactory quality
+
+
+of the coal, it was necessary to temporarily convert some steam locomotives
+to oil burners. However experience proved that coal was the cheapest steam
+locomotive fuel based on experiments with various oils such as heavy marine
+furnace oil, mixed diesel and marine furnace oil, etc.
+The closest source of suitable coal was from the Newcastle area
+in New South Wales and over the years immediately preceding ' the cessation
+of steam traction, this coal gradually deteriorated in quality.
+This Newcastle coal was shipped by sea - the cheapest means
+of transport - to Port Augusta where it was stockpiled for despatch by rail
+throughout the System. It was, therefore, necessary to rail coal as far as
+the western terminal of the Trans-Australian Railway, 1049 Miles.
+In addition to the fuelling facilities at the terminals and Port
+Augusta - the main locomotive servicing depot- it was necessary to provide
+for regular fuelling at seven other locations throughout the Trans-Australian
+Railway, together with four emergency fuelling depots. These facilities
+comprise coal stages through which the coal was handled manually or by
+mechanical Grabs for filling overhead bins from railway trucks.
+During the year 1950/51, approximately 34, 100 tons of coal was
+issued to locomotives on the Trans-Australian Railway at an average purchase
+price of 77 pence per locomotive unit mile. In addition, 33, 902 train miles
+were worked by special trains in the distribution of coal on the Trans
+Australian Railway at a cost of 354.164 pence per train mile. Relating this
+latter cost to the total of 1, 156, 657 steam locomotive unit miles for the year,
+it cost 10.4 pence per locomotive unit mile to distribute coal plus the average
+purchase price of 77 pence per locomotive unit mile.
+Fuel.
+Diesel Traction.
+Distillate for Diesel Electric Locomotives is discharged in bulk
+from ships at Port Pirie to storage tanks from whence it is distributed in
+9, 750 gallon rail tankers to Diesel Locomotive fuelling installations at Port
+Augusta, Cook- approximately half way between Port Pirie and Kalgoorlie-
+and Parkeston, the Locomotive Depot 2 Miles east of Kalgoorlie.
+
+
+Main Line Diesel
+Trans-
+Australian
+Railway
+Stirling North-
+Marree
+Total
+Electric Locomotives
+Diesel Shunting
+2,231,312
+391,913
+2, 623,225
+Locomotives.
+98,031
+1, 151
+99, 182
+Railcars.
+151,739
+21, 123
+172,862
+Steam
+-
+-
+2,481,082
+414,187
+2, 895,269
+The bulk storage capacity at Port Pirie is 1, 044, 000 gallons whilst
+storage of 20, 000 gallons is provided at Port Augusta, 88, 000 gallons at Cook
+and 20,000 gallons at Parkeston.
+It is not necessary to work special trains for fuel for Diesel Electric
+Locomotives as adequate delivery can conveniently be arranged by normal train
+services.
+On the west bound trip, locomotive fuel tanks are replenished to
+capacity at Cook but at Parkeston on the east bound trip, only sufficient fuel
+is taken to ensure passage to Cook where supplies are replenished for the
+journey to Port Pirie Junction.
+During the year 1960/61, the cost per locomotive unit mile for
+2, 329, 343 engine miles was 17,722 d.
+Fuelling of Diesel Electric Locomotives is carried out by the
+locomotive crew.
+Locomotive Power.
+Steam Traction.
+The standard gauge locomotive mileage run during the financial
+year 1950/51 was
+Steam 1,156,657
+Diesel Electric Shunt Locomotives .. . .. .. 18, 363
+Diesel Hydraulic Budd Railcars 39, 276
+1, 214, 296
+To achieve this mileage, it was necessary to utilise a total of
+41 Steam Locomotives of various classes, together with 2 No. Diesel Electric
+Shunting Locomotives and 3 No. Diesel Hydraulic Budd Railcars.
+Locomotive Power.
+Diesel Traction.
+During the year 1960/61, the following standard gauge locomotive
+mileage was operated.
+
+
+8 No. Class - Superheated. Boiler pressure 180 lbs.
+per sq. inch. Grate area 30.5 sq.ft. Total
+heating surface 2605 sq.ft. Tractive effort
+30, 500 lbs. at 85%. Roadworthy weight
+207 tons. Tender capacity - Water 12, 180
+galls., coal 17-1/2 tons.
+9 No. 'KA' Class- Superheated. Boiler pressure 150 lbs.
+per sq. inch. Grate area 29.8 sq. ft. Total
+heating surface 2008.9 sq. ft. Tractive effort
+31,460 lbs. at 85%. Roadworthy weight
+119 tons. Tender capacity - Water 4, 850
+galls., coal 10 tons.
+
+
+2 No. 'DE' Class- 380 H.P. Diesel Electric Shunt Locomotives.
+Axle load 10 tons : Weight 40 tons : Max.
+speed 35 M.P.H. Maximum engine speed
+1000 R.P.M. Tractive effort at 5 M.P.H.
+-18,000 lbs.
+3 No. 'CB' Class- Budd Diesel Hydraulic Railcars powered by
+2 No. GM Series 110 2 stroke engines each
+275 H.P. at 1500 R.P.M. Transmission
+Allison Torque converter. Fuel capacity
+250 gallons with fuel consumption of approx.
+2.165 miles per gallon. 7 ton Frigidaire
+air conditioning unit. Tare weight 49 tons.
+Max. speed 85 M.P,H. Max. permissible
+speed on Commonwealth Railways 70 M.P.H
+Capacity 90 passengers.
+
+
+It should be noted in making a comparison of locomotive and railcar
+mileage that in 1950/51, standard gauge track extended from Port Pirie Junction
+to Kalgoorlie whereas with the opening to traffic of the 217 Mile standard gauge
+section Stirling North to Marree in 195 7, this section became an integral part
+of standard gauge for locomotive and rollingstock working.
+To achieve the locomotive unit mileage quoted above, 21 No. Main
+Line Diesel Electric Locomotives and 6 No. Diesel Hydraulic and 2 No. Diesel
+Electric Shunt Locomotives were utilised. These locomotives averaged
+93, 876 miles per unit whereas the 41 Steam Locomotives in use in 1950/51
+only averaged 28, 211 locomotive unit/miles.
+It is not possible to differentiate between steam locomotives
+Utilised for main line work and shunting operations during or prior to 1950/51
+and the above comparison has been based on both main line and shunting
+locomotive mileage. However, notice must be drawn to the fact that the 2.1 No.
+Main Line Diesel Electric Locomotives averaged 124, 915 locomotive unit
+miles during the financial year 1960/61.
+This improvement in diesel as against steam in locomotive
+availability is quite obviously due to greater reliability and time saved in shed
+duty and servicing and better average train running time.
+Whilst it is not the purpose of this report to particularly examine
+the position in relation to railcars, it is of interest to note an increase in
+mileage in this category for the financial year 1960/61 (172, 862 Miles) for
+three Diesel Hydraulic Budd Railcars and two DH. Class Diesel Hydraulic
+Railcars as against 128, 258 Miles for the three Budd Railcars during 1951/52,
+this period being the first complete year of operation for the Budd Railcars
+which were acquired in March 1951.
+Railcars are utilised on services between Port Pirie Junction,
+Port Augusta, Pimba and Marree.
+Whilst dealing with standard gauge locomotive power, it would
+perhaps be appropriate to make passing mention of the narrow gauge locomotives
+The narrow gauge steam locomotive fleet comprised 22 NM. class
+locomotives and dependent upon traffic offering additional power was provided
+by the hire of steam locomotives from the neighbouring South Australian
+Railways. With the completion of the standard gauge railway from Stirling
+
+
+Year 1950/51
+Year 1960/61.
+Steam
+Diesel Electric
+Only
+Total Locomotive Mileage
+1, 124, 762
+680,780
+Total Gross Ton Mileage
+296, 700, 295
+231, 754, 828
+North to Marree in 1957, the narrow gauge section of the Central Australia
+Railway was reduced to 605 Miles (540 Miles Marree to Alice Springs and
+65 Miles Port Augusta to Hawker.) It was then possible to handle all narrow
+gauge traffic with 12 No, NSU Class Diesel Electric Locomotives which had
+been placed in service during 1954/55.
+Train Services.
+Diagram I shows the normal train service which applied with
+steam traction during the financial year 1950/51 between Port Pirie and
+Kalgoorlie and this service varied only to the extent of one or perhaps
+two additional passenger trains during approximately three months of the
+year.
+Diagrams II and 111 depict the train service operated during the
+year 1960/61 between Port Pirie and Kalgoorlie also. Diagram II showing
+what can be regarded as normal service whilst Diagram 111 includes peak
+period traffic applying during Christmas and Easter Holiday periods.
+The maximum permissible speeds for passenger and fast goods
+trains hauled by either Steam or Diesel Electric Locomotives are 60 M.P.H,
+and 50 M.P.H. respectively.
+However, the statistics hereunder adequately reveal the
+advantages of Diesel Electric over Steam Locomotive traction in actual
+train operations.
+Whilst there has not been any substantial saving in other than
+actual running time with goods trains hauled by Diesel Electric Locomotives,
+this is explained by the facts that under steam traction, special efforts were
+made to effect train crossings at stations where steam locomotive servicing
+operations were being performed at the same time and the steam locomotive
+consequently bore the debit for the standing time of the train. Further, with
+the considerable increase in train services, more standing time is incurred
+by the consequent increase in train crossings.
+
+
+10 No. Main Line Diesel Electric Locomotives. Type Co-Co.
+1750 H.P. GM. 567C diesel Engine. Starting tractive
+effort 63, 500 lbs. at 25% adhesion. Continuous tractive
+effort 49, 500 lbs. at 9 M.P.H. Fuel oil capacity 1500
+gallons. Lubricating oil capacity 165 gallons. Cooling
+water capacity 175 galls. Roadworthy weight 114 tons.
+Maximum speed 89 M.P.H. Maximum permissible speed
+on Commonwealth Railways 60 M.P.H.
+6 No. Clyde Maybach Diesel Hydraulic Shunting Locomotives.
+625 H.P. Maximum speed 30 M.P.H. Tractive effort
+at starting 29, 700 lbs. at 25% adhesion. Tractive effort
+at 5 M.P.H. 28,800 lbs. Roadworthy weight 53 tons.
+
+
+Total
+elapsed
+time
+for trip.
+Running
+Time
+Time
+occupied
+for Loco.
+Servicing
+Standing time
+for crossing
+and other
+purposes
+Hrs. Min.
+Hrs. Mins.
+Hrs .Mins.
+Hrs. Mins.
+Steam Passenger
+Train
+43 35
+33
+17
+5
+52
+4
+26
+Diesel Passenger
+Train
+28 30
+25
+29
+20
+2
+41
+Steam Goods Train
+44 33
+36
+29
+6
+04
+2
+00
+Diesel Goods Train
+38 45
+32
+06
+20
+6
+19
+Details of a passenger and goods train trip between Port Pirie and
+Kalgoorlie hauled by steam locomotive during 1950/51 as compared with
+Diesel Electric Locomotive during 1960/61.
+The relative merits of Diesel Electric Locomotives as against steam
+are further amplified in Diagrams IV and V.
+The maximum permissible length of a steam powered train on the
+Trans-Australian Railway was the equivalent of 40 bogie vehicles whilst with
+the introduction of diesel traction, the limit has been raised to 50 bogies. It
+is also worthy of mention that trains conveying coal from the Leigh Creek
+Coalfields at Telford on the Stirling North-Marree Standard Gauge Railway,
+to the Power Station adjacent to Stirling North, have a limit of 81 bogies in
+length. These trains are hauled by double unit type Co-Co 1750 H P. G.M.
+Diesel Electric Locomotives, the gross trailing tonnage being 5,220 tons.
+Another significant saving derived from the introduction of diesel
+traction is in the number of enginemen required, as apart from the fact that
+the Diesel Electric Locomotives can be worked in multiple, thus saving a
+locomotive crew for double headed trains, greater distances are covered within
+the engineman's recognised shift by reason of increased average speed and
+locomotive servicing time not being required enroute. This is illustrated
+by the following in relation to the Trans-Australian Railway.
+Section worked in one shift by Enginemen.
+On Steam Locomotives.
+Port Pirie-Port Augusta
+(56 £ Miles)
+Port Augusta-Pimba (113-Miles)
+Pimba-Tarcoola (144 Miles)
+Tarcoola -Barton Miles)
+Barton - Cook (137 Miles)
+Cook - Loongana Miles)
+Loongana -Rawlinna (101
+Rawlinna - Zanthus (104 J Miles)
+Zanthus - Kalgoorlie (130*Miles)
+On Diesel Electric Locomotives
+Port Pirie-Port Augusta
+Miles)
+Port Augusta-Tarcoola (257 j Miles)
+Tarcoola-Cook Miles)
+Cook- Rawlinna (303fMiles)
+Rawlinna - Kalgoorlie (2 35 Miles)
+
+
+12 No. NSU. Type 3'6" Gauge Main Line Diesel Electric Locomotives.
+Type A-1-A - A-1-A. 850 H.P. Sulzer 6LDA28 diesel engine.
+Starting Tractive effort 24, 400 lbs. at 25% adhesion. Continuous
+tractive effort 15, 300 lbs., at 15 M.P.H. Fuel oil capacity
+750 galls. Lubricating oil capacity 106 galls. Circulating
+water capacity 103 galls. Roadworthy weight 61 tons. Maximum
+speed 50 M.P.H. Maximum permissible speed Commonwealth
+Railways track 35 M.P.H.
+22 No, NM. Class- Superheated. Boiler pressure 160 lbs. per
+Sq. inch. Grate area 18.5 sq. ft. Total heating
+surface 940 sq.ft. Tractive effort 19.250 lbs.
+at 85%. Roadworthy weight 81 tons. Tender
+capacity coal 8 tons, water 3,000 gallons.
+
+
+
+
+
+
+
+
+
+
+The short section. Port Pirie - Port Augusta is worked for convenience
+of crew working and shift is made up with shunting at Port Pirie before departure
+and after arrival.
+Locomotive Maintenance.
+Steam Traction.
+The principal Maintenance and Servicing Depot was located at Port
+Augusta whilst Running Sheds were established at Port Pirie Junction, Tarcoola,
+Cook, Rawlinna and Parkeston on the Trans Australian Railway.
+Major overhauls were carried out in the Port Augusta Workshops.
+Whilst accurate figures are not available, it is estimated that a
+total of 250 employees in the category of Tradesmen, their Helpers and other
+classifications employed full time on Steam Locomotive Servicing and
+Maintenance.
+Locomotive Maintenance
+Diesel Traction.
+All servicing, maintenance and overhaul of standard gauge Diesel
+Electric Locomotives and Railcars and the heavy overhaul of the fleet of 12 No.
+narrow gauge Diesel Electric Locomotives is carried out exclusively at the
+Diesel Servicing Depot at the Port Augusta Workshops by a Staff of only
+approximately 55 employees - Tradesmen, Helpers, Cleaners, etc.
+The Port Augusta Diesel Electric Locomotive and Rail-car
+Maintenance and Servicing Shop has been designed to provide for the latest
+servicing facilities and adoption of modern trade practices.
+The shop has three pits, each 12 5 feet in length, two of which are of
+the elevated rail type with inside pits four feet deep. The floor surfaces
+outside the rail being three feet below rail level thus eliminating the necessity
+for workmen to work in a cramped position. This also enables work being
+undertaken speedily and permits of maximum inspection of undergear. Concrete
+platforms afford easy access to cab and engineroom of locomotives stabled on
+roads each side of the elevated platform.
+Four locomotives can be accommodated for servicing and overhaul
+at the one time.
+
+
+
+
+General view of Diesel Electric Locomotive and Railcar Servicing Shop.
+Withdrawal of Power Assembly from GM. Diesel Electric Locomotive.
+View of GM. Diesel Locomotive Flexicoil Bogies and Budd Railcar on
+elevated inspection track in Diesel Servicing Shop taken from below
+the concrete servicing platform.
+
+
+The lifting of locomotives required for replacing bogies and other
+heavy lifts such as traction motors etc., is performed by two 60-ton overhead
+travelling cranes.
+Special lighting is provided for night servicing Enclosed light
+fittings are mounted on the track studs to illuminate the space between the
+rails and locomotive undergear as also is lighting provided beneath the
+platforms. High bay incandescent lighting is installed for general shop
+illumination and low voltage outlets are available for extension and inspection
+lamps.
+All floors and platforms are sealed to prevent oil penetration
+and surfaces painted with grey sealing paint giving maximum light reflection.
+Floors are regularly cleaned with detergent solutions and ramps are treated
+with a ’non-skid' compound.
+Engine fumes are removed from the shop by six 36" axial flow
+exhaust fans installed in roof sections immediately above the stabled
+locomotives.
+A 30 K. V, A. step down transformer together with contactor,
+protective equipment, and extension leads is employed for locomotive
+pressurising fans for quick cooling of the engineroom to provide improved
+working conditions.
+Before admission to the servicing pits, locomotive car bodies
+are cleaned with detergent solution and washed down on a concrete apron at
+the entrance to the shop. Bogies are cleaned with de-greasing oil to prevent
+accumulation of oil soaked debris which could present a fire hazard.
+At the rear of the servicing roads an area is set aside for
+repair of shunting locomotive and railcar diesel engines and power generating
+sets whilst in an adjacent section, heavy engine and component parts are
+dis-assembled for easy transport and handling to the parts cleaning shed in
+the immediate vicinity.
+The shop layout also provides for a section in which repair and
+assembly of cylinder heads, piston and liner assemblies, blowers and other
+components is undertaken as well as the overhaul and testing of air compressor
+and air brake equipment whilst space is set aside for the overhaul of mechanics
+and hydraulic transmissions.
+Space is also available for locomotive bogie, main generator,
+traction motor and heavy engine overhaul and assembly.
+
+
+Test Bench, Injector Room.
+"Merlin" Servicemaster Injector Servicing Machine.
+"Hartridge" Fuel Pump Test Stand and "Woodward" Governor
+Test Stand.
+
+
+The repair, overhaul and testing of injectors, fuel pumps,
+governors and speed recording instruments is carried out in an enclosed room,
+this room being supplied with filtered air to eliminate dust.
+In addition to the injector test stands for the various types
+of injectors in use, a "Merlin Servicemaster" is utilised for the reconditioning
+of injector nozzle valves and grinding of valve tips.
+A Hartbridge" fuel pump test stand and "Woodward" governor
+test stand are also available.
+Attachments are provided to permit the use of the variable speed
+take off drive, of the fuel pump tester for the testing and adjustment of lock
+up governors and speed recorders.
+In the parts cleaning shed mechanical and air operated agitated
+tanks are available for cleaning with the use of chemical solutions together
+with steam spraying equipment. A hand operated gantry chain pulley block
+is available for easy placement of components into the tanks.
+Locomotive air filters are cleaned by means of a Paxton-Mitchell
+Filter washing machine. The machine is fitted with a basket into which the
+filters are loaded and then rotated. Whilst in motion, the filters are sprayed with
+jets of hot water following which a detergent solution is used then recirculated
+back to its reservoir. The filters are finally sprayed with hot water, blown
+with air and then a mist of oil containing a tackiness compound is deposited
+on the filter medium.
+A Clayton 30 H.P, steam generator provides steam for filter
+cleaning, steam cleaning of locomotive bogies, engine components and the
+heating of a caustic tank for cleaning axle boxes and brake rigging.
+Three 1, 000 gallon elevated tanks are utilised for the storage
+of engine lubricating oil, used sump oil and treated diesel engine cooling
+water. Electric pumps are employed for the addition to or removal from
+the locomotive of oil and water, Two of the storage tanks referred to can
+be seen in the background of the photo depicting the Clayton Steam Generator.
+In addition to machine tools which include a No. 6 Black and Decker
+valve and tool grinder, drill stands, grinding and buffing wheels, etc., a shock
+absorber test stand for checking shock absorbers and stabilisers fitted to
+locomotive bogies, a 300 Amp. welding machine and a multi-range battery
+charger capable of handling all types of engine starting batteries, are installed.
+
+
+Clayton 30 H.P. Steam Generator.
+Atlas Wheel Profile Truing Machine
+
+
+Within the Diesel Shop, a small store is provided for the safe
+custody of all hand tools and special application tools required for servicing
+which include a large range of electric measuring and test equipment as well
+as electric and air operated impact wrenches which have assisted in reducing
+'down-time' on engines.
+A material store is established adjacent to the Diesel Shop and
+accommodates all materials and component parts required for main line and
+shunting locomotives and railcars. Transport of the heavier components to
+and from the Store is effected with a 1-ton mobile hydraulic crane.
+To assist with the speedy, efficient and accurate repair and
+overhaul of locomotives and railcars, other modern equipment available
+includes :-
+An Atlas Wheel Profile Truing Machine which is capable of
+profiling the wheels in situ on a Co-Co diesel electric locomotive in
+approximately 8 hours as compared with having the locomotive out of
+service for approximately 5 days should it be necessary to remove the
+wheels from the bogies for turning.
+A Hegenscheidt" Model 161. H Semi-automatic Heavy Duty
+Wheel Lathe is available for quick and accurate work should wheel turns
+be undertaken during bogie overhaul.
+A General Electric" Model 17 EMSSD2 engine loading resistor
+capable of testing outputs from 380 H.P. to 2500 H.P. greatly facilitates
+testing of engine - generator sets for Diesel Electric Locomotives after
+overhaul.
+Oil Sleuth.
+Testing of fuels, lubricants and coolants assures best mechanical
+results in operation of Diesel Engines.
+The analysis of Diesel engine fuel, crankcase oil and coolant
+of locomotives and other units has constituted a substantial portion of the
+work in the Departmental Laboratory.
+Photo-electric absorptiometric methods are being used for the
+determination of wear elements in used Diesel Locomotive crankcase oils.
+The actual evaluation of analytical results from crankcase oil analyses
+is of greatest importance and is quite involved. Correct interpretation of
+these data has greatly assisted maintenance operations by giving indications
+of approaching troubles. Operating costs can be reduced if excessive wear
+
+
+GM. Diesel Electric Locomotive undergoing wheel turn on the
+Atlas Wheel Profile Truing Machine.
+"Hegenscheidt" Model 161. H. Semi-automatic Heavy
+Duty Wheel Lathe.
+
+
+can be determined at its inception before breakdown occurs. A systematic
+and continuous record of oil conditions is maintained, thus any significant
+change is noted.
+The sole criterion of oil drain on this system is based on oil
+conditions as indicated by Laboratory analyses.
+Resulting from this work it has been possible to extend the
+intervals between oil changes of the G.M. Diesel Locomotives beyond the
+recommendation of the engine makers viz. from 27, 000 miles to over
+400, 000 miles and at the same time maintaining a low liner wear rate of
+0.0002 inches per Ij 000 hours of operation.
+The photographs show Laboratory Assistants conducting the
+vital tests that pay off in better performance and minimum wear of
+Diesel Engines.
+
+
+Viscosity tests being run on samples of lubricating oils.
+Photo-electric absorptiometric methods are being used for
+the determination of wear metals in Diesel engine crankcase oils.
+
+
+Trans.
+Aust, Rly.
+Cent. Aust
+. Rly.
+Year Ended 30th June
+Year Ended 30th June
+1951
+1961
+1951
+1961
+Traffic Train Mileage.
+Passenger - Steam
+408,916
+_
+266
+_
+Diesel
+-
+637,908
+_
+Rail Motor Service
+27, 903
+122,673
+-
+17,657
+TOTAL
+436, 819
+760,581
+266
+17,657
+Goods ~ Steam
+419, 983
+-
+649, 174
+2, 692
+Diesel
+56
+794,810
+-
+460,732
+Mixed - Steam
+128,135
+-
+126, 739
+2, 170
+Diesel
+~
+115, 532
+-
+112,191
+Total Traffic Train Miles.
+984,993
+1,670,923
+776 179
+595,442
+Assistant Mileage.
+Passenger - Steam
+686
+—
+Diesel
+-
+133,745
+—
+—
+Goods - Steam
+3,235
+-
+211,707
+21
+Diesel
+-
+422,632
+-
+303,672
+Mixed - Steam
+357
+-
+78
+Diesel
+-
+39,663
+-
+66, 034
+Total Assistant Mileage
+4, 278
+596,040
+211, 785
+369, 727
+Coupled Mileage.
+Passenger - Rail Motor
+3, 759
+22,236
+-
+2, 652
+Total Coupled Mileage
+3, 759
+22,236
+-
+2, 652
+Departmental Mileage.
+Light - Steam
+15, 632
+-
+8, 536
+128
+Diesel
+115
+15, 772
+_
+8, 517
+Rail Motor Service
+6, 531
+2, 384
+535
+Ballast ~ Steam
+1, 602
+-
+880
+Diesel
+-
+25, 504
+_
+5, 764
+Water - Steam
+49, 034
+-
+99
+Diesel
+-
+—
+Coal - Steam
+33,902
+_
+25, 675
+Diesel
+—
+Casualty and Doubling - Steam
+59
+-
+72
+Diesel
+-
+_
+Miscellaneous - Steam
+1, 773
+-
+390
+_
+Diesel
+-
+174
+-
+665
+Total Departmental Mileage
+108,648
+43, 834
+35, 652
+15, 609
+Shunting.
+Steam
+93, 343
+_
+101, 146
+1, 580
+Diesel
+18,192
+143, 603
+_
+118,235
+Rail Motor
+1, 083
+4, 446
+-
+279
+Total Shunting.
+112,618
+148,049
+101,146
+120,094
+TABLE NO. 1.
+STATEMENT OF TRAIN, LOCOMOTIVE, VEHICLES AND GROSS TON MILEAGES
+
+
+Trans Aust.
+Riy.
+Central Aust. Riy.
+Year Ended 30th June
+Year Ended 30th June.
+1951
+1961
+1951
+1961
+Locomotive Mileage.
+Steam
+Diesel
+Rail Motor
+1, 156, 657
+18,363
+39, 276
+2, 329, 343
+151,739
+1, 124, 762
+6, 591
+1, 075, 810
+21, 123
+Total Locomotive &
+Motor Mileage
+1, 214, 296
+2,481,082
+1, 124, 762
+1, 103, 524
+Total Vehicle Mileage
+18,481,955
+38, 259, 608
+15, 949, 429
+22,886,571
+Gross Ton Mileage
+Passenger Trains
+Steam
+Diesel
+Rail Motors
+Mixed Trains
+212,443,143
+1, 891, 600
+363, 298, 610
+7, 908, 805
+37,847
+1, 557, 784
+Steam
+Diesel
+G#ods Trains
+64, 692, 832
+93, 099, 261
+42,348,039
+672,743
+64,490,655
+Steam
+Diesel
+242,081, 561
+840, 453, 338
+254, 314, 409
+640,153
+590,454,065
+Total Gross Ton
+Mileage
+521,109,136.
+1, 304, 760, 014
+296,700, 295
+657, 815, 400
+
+
+Trans Australian Railway
+Central Australia Railway
+Year Ended 30th June
+Year Ended 30th June.
+1951
+1961
+1951
+1961
+£ . s. d.
+£ . s. d.
+£ . s. d.
+£ . s. d.
+To Maintenance of Way and Works
+To Rollingstock
+324,060-16-11
+1, 183, 809-19- 3
+200,586-15- 3
+417,848- 0- 1
+General Superintendence etc.
+7,572- 9- 3
+14,189-18- 4
+5,767- 4- 1
+15,347-16- 3
+Maintenance of Rolling stock
+203, 964-15- 1
+594,838-14-10
+166,408-17- 1
+271,446-14- 2
+Locomotive Power
+Examination and Lubrication of Coaching
+578, 967- 8-11
+427,072-12- 9
+341,186- 6- 6
+219,499- 5- 4 w
+cc
+and Goods Vehicles
+10,294-16- 2
+23,293- 9- 4
+3,468-15- 8
+12,844- 4- 8
+To Transportation and Traffic
+213,340-13-11
+566,531- 6-11
+140,449- 0- 2
+' 286,822- 1- 9
+To Miscellaneous Operations
+85, 729-18- 6
+202,762-12- 9
+11,984- 7- 3
+29,962-11- 2
+To Stores Expenses
+4,087- 7- 7
+20,120-11- 7
+1,283- 9- 8
+CD
+CD
+1
+1
+CO
+To General Charges
+25, 508- 4-11
+58,152-18- 2
+14,035-12-11
+48,520-11- 4
+TOTAL WORKING EXPENSES
+1, 453, 526-11- 3
+3,090, 772- 3-11
+885,170- 8- 7
+1,311, 470- 8-11
+BALANCE NET EARNINGS.
+Dr. 262,031- 5- 7
+887,907- 3- 0
+21,840- 7- 3
+563,347-13- 6
+TOTAL
+1,191, 495- 5- 8
+3, 978, 679- 6-11
+907,010-15-10
+1,874,818- 2- 5
+EARNINGS
+£ . s. d.
+£ . s. d.
+£. s. d.
+£ . s. d.
+By Passengers
+354,788-11- 9
+733,894- 7- 1
+52,712-16- 6
+99, 591- 3- 9
+By Parcels
+50,843-10- 2
+77,575-11- 7
+12,606- 5- 5
+18,919-13- 7
+By Mails
+79, 320- 7- 0
+87,777-11- 6
+8,164-19- 5
+14,090-13- 3
+By Miscellaneous
+50-11-11
+274- 4- 6
+1 - n- 4
+44-15- 0
+TOTAL COACHING.
+485,003- 0-10
+899,521-14- 8
+73,485- 1- 8
+132,646- 5- 7
+TABLE NO. 2.
+STATEMENT OF WORKING EXPENSES AND EARNINGS FOR THE TRANS AUSTRALIAN AND CENTRAL AUSTRALIA RAILWAYS ONLY
+FOR THE YEARS ENDED 30th JUNE 1951 and 1961
+
+
+Trans Australian Railway
+Central Australia Railway
+EARNINGS.
+Year Ended 30th June.
+Year Ended 30th June.
+1951
+1961
+1951
+1961.
+£ . s. d
+£ « s. d.
+£ . s. d.
+£ . s. d.
+By Goods and Livestock
+559,299- 8- 3
+2,690,361-17- 6
+812,145-11- 7
+1, 689, 263- 0- 0
+By Rents and Miscellaneous
+58,606-11- 3
+184,596- 8- 1
+9,151- 9- 8
+21,331-10-10
+By Dining Car and Refreshment Room Services
+71,405- 1- 1
+192,876-11- 2
+12,228-12-11
+26,942-19- 3
+By Electricity
+17,181- 4- 3
+11,322-15- 6
+-
+4,634- 6- 9
+TOTAL EARNINGS .
+1, 191, 495- 5- 8
+3,978, 679- 6-11
+907,010-15-10
+1,874,818- 2- 5
+Total Locomotive Miles
+1,214,296
+2, 481, 082
+1, 124, 762
+1, 103, 524
+Total Vehicle Miles
+18, 481, 955
+38, 259, 608
+15, 949, 429
+22, 886, 571
+Total Gross Ton Miles
+521, 109, 136
+1, 304, 760, 014
+296, 700, 295
+657, 815, 400
+
+
+Trans Australian Railway
+Central Australia Railway
+Year Ended 30th June.
+Year Ended 30th June.
+1951
+1961
+1951
+1961
+ROLLING STOCK
+Maintenance of Rolling-stock
+Locomotives -
+Steam
+Diesel Electric
+Rail Motor
+TOTAL.
+Locomotive Power.
+Superintendence
+Running Sheds ; Labour and Supplies
+Drivers and Firemen
+Coal, Wood, Fuel Oil and Kindlers for Locos.
+including Handling, Inspection etc.
+Water
+Oil, Tallow, Waste and other Running Supplies
+Other Expenses
+Diesel Electric Locomotives.
+Motormen's wages, fuel, supplies, etc.
+Rail Motor Operations
+TOTAL
+120,292-16-11
+1,555-12- 8
+396- 2-10
+98,279-10-11
+18,748-14- 2
+130,881-14- 0
+CO
+cn
+80,360-13- 2
+1, 603- 9- 8
+122,244-12- 5
+117,028- 5- 1
+130,881-14- 0
+81,964- 2-10
+9, 771- 5-11
+33,493- 1- 7
+84,727-14- 7
+392,205- 7- 3
+43,368- 5- 2
+5,009- 4- 9
+4, 186- 6- 5
+3,735* 3-10 )
+)
+2,470-19- 5 )
+12,974-11- 2
+9,' 981-17- 4
+194,626- 9- 5
+174,239-17- 3
+38-16- 5
+13,719-19- 0
+7, 783- 4-10
+13,707-17- 4
+5,222-14- 3
+17,165- 5- 2
+112,745- 6- 0
+185,910-12- 2
+13,778- 9- 0
+3,068- 8- 2
+3, 295-11- 9
+)
+)
+)
+11, 830- 7- 6
+3,864-19- 4
+120,671- 3- 3
+70,814- 6-11
+39-15- 4
+5,196-16- 2
+5,876-17- 9
+1,204-19- 1
+578,967- 8-11
+427,072-12- 9
+341,186- 6- 6
+219,499- 5- 4
+TABLE NO. 3.
+ABSTRACT OF WORKING EXPENSES HAVING DIRECT RELATION TO LOCOMOTIVE POWER
+FOR THE YEARS ENDED 30th JUNE 1951 and 1961.
+
+
+Trans Australian Railway
+Central Australia Railway
+Year Ended 30th June
+Year Ended 30th June.
+1951
+1961
+1951
+1961
+Total Locomotive Miles
+Total Vehicle Miles
+Total Gross Ton Miles
+1, 214, 296
+18,481, 955
+521, 109, 136
+2, 481, 082
+38, 259, 608
+1, 304, 760, 014
+, 1, 124, 762
+15, 949, 429
+296, 700, 295
+1, 103, 524
+22,886, 571
+657,815,400 co
+OJ
+In examination of the above statistics, it should be borne in mind that over the period 1951 to 1961
+the basic wage has increased approximately 66% whilst the rate for Tradesmen by reason of this increase and marginal
+increase has risen approximately 87%. Enginemen's weekly wage rate has also increased by approximately 74%. There
+has also been a very substantial rise in material costs over the same period.
+
+
+Six Years to 30.6.57
+Three Years to 30
+.6.67
+Six Years to 30.6.57.
+Standard Gauge Railway
+Narrow Gauge Railway.
+Narrow Gauge Railway
+Diesel Electric Locos.
+Diesel Electric Locos.
+Steam Locos.
+A
+Unit Engine Miles
+7.
+506, 735
+2
+,172, 972
+5,
+226, 495
+Gross Ton Miles inc.Loco.
+4, 555,
+533, 977
+772
+039, 131
+1,611,
+967, 286
+Gross Ton Miles exc.Loco.
+3, 774, 699, 659
+644,653, 450
+1, 256,
+169, 181
+Cost per 1,
+000 Gross Ton Mile and per Unit Engine Mile in Pence.
+Per 1, 000 Gross
+Per
+Per 1, 000 Gross
+Per
+Per 1, 000 Gross
+Per
+Ton Miles
+Unit
+Ton Miles
+Unit
+Ton Miles
+Unit
+Inc.
+Exc.
+Engine
+Inc.
+Exc.
+Engine
+Inc.
+Exc.
+Engine
+Loco.
+Loco.
+Mile
+Loco.
+Loco.
+Mile
+Loco.
+Loco.
+Mile.
+Maintenance of Locos.
+10.216
+12.330
+6~ 200
+24.426
+29.253
+8* 678
+118.122
+151. 579
+36.431
+Depot Superintendence.
+2. 481
+2.994
+1, 506
+6.324
+7.574
+2.247
+4. 996
+6.411
+1.541
+Running Shed Attention.
+1.664
+2.009
+1,01.0
+3.558
+4.261
+1.264
+18.553
+23.808
+5.722
+Drivers Wages, etc.
+25.740
+31.064
+15.621
+84.561
+101.271
+30.044
+100.261
+128.659
+30.923
+Fuel including handling.
+28.589
+34.503
+17.350
+31.484
+37.705
+11.186
+183. 627
+235.638
+56.635
+Oils and Grease.
+2.266
+2.735
+1.375
+3.117
+3.733
+1.107
+2.545
+3.266
+.785
+General Superintendence.
+1.754
+2.117
+1.064
+3.610
+4. 324
+1.283
+4. 523
+5.804
+1.395
+Stationery.
+. 110
+. 132
+.066
+. 189
+.227
+..067
+.519
+. 667
+. 160
+Water.
+.008
+.009
+.005
+.008
+.010
+.003
+14.231
+18.261
+4.389
+Other Expenses.
+1.451
+1.751
+.880
+4.042
+4. 841
+1.436
+4. 518
+5.798
+1.394
+TOTALS.
+74.279
+89. 644
+45.077
+161.319
+193.199
+57.315
+451.895
+579.891
+139.375
+LOCOMOTIVE OPERATING COSTS. TABLE '4'
+
+
+Ten Years to 30-6-61.
+Standard Gauge Railway.
+GM. Diesel Electric Locomotives.
+Seven Years to 30.6.61.
+Narrow Gauge Railway.
+NSU. Diesel Electric Locomotives.
+Unit Engine Miles
+16, 536, 587
+4, 676, 992
+Gross Ton Miles including Locomotive
+11,136, 297, 771
+1, 773, 144, 771
+Gross Ton Miles excluding Locomotive
+9,410, 051, 287
+1, 500, 714, 966
+Cost per 1, 000 Gross Ton Miles and per Unit Engine Mile in Pence.
+GO
+00
+Standard Gauge
+Narrow Gauge
+Per 1, 000 Gi
+;oss Ton Miles.
+Per Unit
+Per 1, 000 Gross Ton Miles
+Per Unit
+Including
+Excluding
+Engine
+Including
+Excluding
+Engine
+Loco.
+Loco.
+Mile
+Loco.
+Loco.
+Mile
+d.
+d.
+d.
+d.
+d.
+d.
+Maintenance of Locomotives
+10.457
+12.375
+7.042
+30.274
+35.770
+11.478
+Depot Superintendence
+2.197
+2,600
+1,479
+5* 272
+6.228
+1.998
+Running Shed Attention
+1.353
+1.601
+. 911
+2.455
+2.901
+. 931
+Drivers Wages, etc.
+25.786
+30.516
+17.365
+75.788
+89.545
+28.733
+Fuel including Handling
+28.074
+33.224
+18.906
+31.176
+36.835
+11.819
+Lubricating Oils and Grease
+2.181
+2.581
+1.469
+2.712
+3.205
+1.028
+General Superintendence
+1.586
+1.877
+1.068
+3.695
+4. 366
+1.401
+Stationery
+.092
+. 109
+.062
+.203
+L240
+.077
+Water
+.008
+.009
+.005
+.017
+.020
+.007
+Other Expenses
+1.326
+1.570
+.893
+3.890
+4. 596
+1.475
+TOTALS
+73.060
+86.462
+49.200
+155.482
+183.706
+58.947
+COMMONWEALTH RAILWAYS. TABLE 5.
+LOCOMOTIVE OPERATING COSTS
+
+

@@ -1,0 +1,1259 @@
+
+
+VINDICLÆ GEOLOGICIÆ ;
+OR THE
+CONNEXION OF GEOLOGY WITH RELIGION
+EXPLAINED.
+
+
+VINDICIÆ GEOLOGICÆ;
+OR THE
+CONNEXION OF GEOLOGY WITH RELIGION
+EXPLAINED,
+IN
+AN INAUGURAL LECTURE
+DELIVERED
+BEFORE THE UNIVERSITY OF OXFORD, MAY 15, 1819,
+OK THE
+ENDOWMENT OF A READERSHIP IN GEOLOGY
+BY
+HIS ROYAL HIGHNESS THE PRINCE REGENT.
+BY THE
+REV. WILLIAM BUCKLAND, B.D. F.R.S. M.G.S.
+FELLOW OP THE IMPERIAL SOCIETIES OF MINERALOGY AND NATURAL HISTORY AT
+PETERSBURG AND MOSCOW, FELLOW OF CORPUS CHRISTI COLLEGE, OXFORD,
+AND READER IN MINERALOGY AND GEOLOGY IN THE SAME UNIVERSITY.
+Tantura ahcst, ut cauaas physical homines a Deo et providentift ahdncant, nt contra pothia philosophl illi qui in
+iisiiem eruendis ocmipati fuerunt, nullum critum rci reperiant, nisi postremo ad Deum et providcntlam confu-
+giaut. Bac. dc jtupn, Sdent. ill. 6.
+OXFORD,
+AT THE UNIVERSITY PRESS FOR THE AUTHOR ;
+SOLD BV R. BLISS, OXFORD; lOXOXAS, HUE ST, FEES, OEMS, AND BROWN!
+AND MESSRS. WHITTAKERS, LONDON.
+1820.
+
+
+TO THE RIGHT HONOURABLE
+WILLIAM WYNDHAM, BARON GRENVILLE,
+F.R.S.
+CHANCELLOR OF TOE UNIVERSITY OF OXFORD,
+ETC. ETC. ETC.
+KROM a FIRM CONVICTION OF MRS SINCERE R.HOARD POE THE
+INSEPARABLE INTERESTS OP SCIENCE AND REUNION ;
+AND FROM PEELINGS op
+GRATITUDE AND HIGH PERSONAL RESPECT 5
+THIS ATTEMPT TO SHEW THAT THE .STUDY OP GEOLOGY
+HAS A TENDENCY TO CONFIRM THE EVIDENCES OP
+NATURAE RELIGION ;
+AND
+THAT THE PACTS DEVELOPED BY IT ARE CONSISTENT WITH
+THE ACCOUNTS OP THE CREATION AND DELUGE
+RECORDED IN
+THE MOSAIC! WRITINGS,
+IS,
+WITH PERMISSION, HUMBLY DEDICATED
+BY HIS LORDSHIP’S
+MOST OBEDIENT AND FAITHFUL SERVANT,
+WILLIAM BUCKLAND.
+
+
+PREFACE.
+If it should appear that, in the present Lecture, reference is
+made to many facts and phenomena of Geology which presuppose
+a knowledge of this subject; it may be sufficient to state, that
+although this inaugural Lecture was delivered subsequently to the
+endowment of the office of Reader in Geology in 1819, yet that
+Lectures had been annually given on this subject since the year
+1814 by myself, and, prior to that period, by my friend and pre-
+decessor in the office of Reader in Mineralogy, Dr. Kidd, a
+gentleman whose scientific and classical labours in these sub-
+jects have been long known to the public through the medium
+of his works, and to whom we owe the foundation of that valu-
+able collection of specimens in Geology which the University now
+possesses.
+
+
+VINDICLÆ GEOLOGICÆ;
+OR
+THE CONNEXION OF GEOLOGY WITH RELIGION
+EXPLAINED.
+Having recently received from the hands of the Vice-Chad-
+cellor an appointment to the office of Reader in Geology in this
+University, I should consider myself deficient in one of my first
+duties, were I to enter on the present Lecture without a public ac-
+knowledgment of that gracious encouragement which Hxs Royal
+Highness the Pxiince Regent has been pleased to extend to this
+infant establishment in our University, by the grant of a stipend
+from His Majesty’s Treasury, for the delivery of an annual Course
+of Lectures in Geology: or were Ito forget, that the office of
+Reader in its kindred science, Mineralogy, had, on my appointment
+to it five years since, been favoured with a similar exercise of Regal
+Munificence, demonstrative on these, as on all other occasions, of
+the enlightened regard entertained by Hxs Royal Highness or
+the interests of our Academical Institutions.
+Nor should I do justice to my own feelings, were I to omit to
+mention the ardent zeal with which my applications to the Crown
+rS L occasions ware furthered and.upported by the
+Chancellor of the University, a Nobleman whose paternal so i-
+-15
+
+
+citude for the interests of every species of good learning in this
+place, it is impossible for us too highly to appreciate, and to whose
+active exertions in advancing the cause of science, the metropolis
+owes one of its most useful and splendid establishments a .
+Of the kind and flattering approbation also with which my re-
+cent proposals for establishing a Lecture in Geology were received
+by the highest authorities in this place, it is impossible for me to
+speak with too much gratitude and respect.
+Under such auspices have the foundations of geological know-
+ledge been laid in Oxford; and from the general favour and ap-
+probation with which it is now regarded, from its intimate alliance
+with Physical Geography, and its national importance as con-
+nected-with Statistics and Political Economy, we may hencefor-
+ward consider Geology as exalted to the rank of sciences, the
+teaching of which forms a part of our established system of educa-
+tion.
+This ingrafting (if I may so call it) of the study of the new and
+. curious sciences of Geology and Mineralogy, on that ancient and
+venerable stock of classical literature from which the English
+tern of education has imparted to its followers a refinement of
+Lord Gvetiville was, placed gt the head of His Majesty’s gQveramsnt ip the
+year 1806, he procured from. Parliament a grant of money for building tire Museum of
+the Hoyal College of Surgeons in Lincoln’s Inn Fields, which, by its rich collections in
+Human and Comparative Anatomy, has contributed largely to advance die study of these
+subjects in our own country, and to raise the character and reputation of the nation in
+the eyes of men of science over the continent: it has also assisted in promoting the
+science of Geology, not only by its collection of Extraneous Fossils, but by the facilities
+it affords of comparing the structure of the Organic Remains of a former world with that
+of its present inhabitants; and of which I cannot quote a more convincing example
+than that of the highly interesting papers on the Fossil Remains of extinct animals lately
+published in,-the Philosophical Transactions, by my friend Sir Fverard Home..
+
+
+taste peculiarly their own, has obviously resulted from the rapid
+improvements in Physics, that during the last half century have
+dignified with the name Sciences many subjects, which had per-
+haps too long been considered only as Experimental Arts : and
+information on these and similar sciences of modern growth, that
+are intimately connected with them, has been now so generally
+diffused, even amongst the imperfectly educated classes of society,
+that if they had not been for their own sakes deserving our atten-
+tion, it might to a certain degree have been imperative on us to
+admit them to a place in our Academical Establishments,’in de-
+ference to the general feeling in their favour that now prevails,
+and to that knowledge of them which is so very rapidly diffusing
+itself through the scientific world.
+For some years past, these newly created sciences have formed a
+leading subject of education in most Universities on the continent,
+and a competent knowledge of them is now possessed by the ma-
+jority of intelligent persons in our own country; and though it
+might on no account be desirable to surrender a single particle of
+our own peculiar, and, as we think, better system of Classical Edu-
+cation, there seems to be no necessity for making that system an
+exclusive one; nor can any evil be anticipated from their being
+admitted to serve at least a subordinate ministry in the temple of
+our Academical Institutions.
+Of the many subjects to which the attention of Modern Philo-
+sophy has been directed, Geology is perhaps the last which has
+been advanced to that perfection, which may entitle it to be called
+a Science: its elements have indeed been long accumulating, and
+in the accurate but limited observations of a few strong-minded
+individuals its seeds have been scattered irregularly on the field of
+knowledge ; but it is not till lately that the germ has quickened,
+and begun to advance towards maturity: nor can its full develope-
+b 2
+
+
+ment be traced back to a later period than that at which it first
+received its name.
+The establishment in the Metropolis of a distinct society, the
+object of whose labours is exclusively directed to its advancement,
+affords an important era in the history of Geology, and has diffused
+a general taste and communication of knowledge on subjects con-
+nected with it, equal at least to what has yet been accomplished in
+any other country. The Trustees also of that magnificent public
+repository the British Museum have shewn themselves anxious to
+keep pace with the progressive improvements that have been made
+in this science, and have added an extensive series of llock Speci-
+mens and Fossil Organic Remains to their inestimable collection of
+Simple Minerals. County collections are forming and private ca-
+binets accumulating by the zeal and industry of individuals in all
+parts of the country, whence a mass of valuable information has
+been brought together into a grand and useful common stock of
+national :knowledge. Accurate physical maps bave been con-
+structed, expressing the nature and extent of the different strata
+of which our island is composed, and illustrating the history of
+many of its most important repositories of mineral treasure : Eng-
+land is considered as classic; ground by the best Geologists of the
+continent, and the transactions of the Geological Society of Lon-
+don are quoted as standard authority, wherever this science has
+been admitted.
+But notwithstanding this general expression of public opinion,
+it may be fairly demanded of the advocate for the admission of
+Geology to a place in our academical studies, what are its preten-
+sions to this honor, and what its utility.
+Now if by utility is meant subserviency to the common purposes
+of life, (though it may easily be shewn that Geology need shrink
+
+
+from a comparison with few other sciences ie'veri in this respect,)
+yet such views should be altogether objected to in limine as un-
+worthy and unphilosophical. The claims of Geology may be made
+to rest on a much higher basis. The utility of science is founded
+upon other and nobler views than those of mere pecuniary profit
+and tangible advantage. The human mind has an appetite for
+truth of every kind, Physical as well as Moral; and the real utility
+of Science is to afford gratification to this appetite. The real
+question then, more especially in'this place, ought surely to be,
+how far the objects of Geology are of sufficient interest and im-
+portance to be worthy of this large and rational species of curio-
+sity, and how far its investigations are calculated to call into action
+the higher powers of the mind.
+Now when it is recollected that the field of the Geologist’s in-
+quiry is the Globe itself, that it is his study to decipher the monu-
+ments of the mighty revolutions and convulsions it has suffered,
+convulsions of which the most terrible catastrophes presented by
+the actual state of things (Earthquakes, Tempests, and Volcanos)
+afford only a faint image, (the last expiring efforts of those mighty
+disturbing forces which once operated ;) these surely will be ad-
+mitted to be objects of sufficient magnitude and grandeur, to
+create an adequate interest to engage us in their investigation.
+Nor can it be considered as a slight recommendation to these
+pursuits, that they necessarily lead us abroad amidst the most sub-
+lime scenery of nature, and that they lend even to that scenery an
+additional source of sublimity in the magnificence of the specula-
+tions which they associate with it. It is surely gratifying to be-
+hold Science, compelling the primeval mountains of the Globe to
+unfold the hidden records of their origin ; and it has been well de-
+scribed by one of the most enlightened Philosophers, and the
+greatest Anatomist of this or any other 1 age, to be a rational oh
+
+
+ject of ambition in the mind of man, “to whom only a short
+“ space,of time is allotted upon earth, to-have the glory of restor-
+“ ing the history of thousands of ages which preceded the exist-
+ence of his race, and of thousands of animals that never were
+“ contemporaneous with his species V’
+The human mind has a natural tendency to explore what has
+passed in distant ages in scenes with which it is familiar: hence
+the taste for National and Local Antiquities. Geology gratifies a
+larger taste of this kind; it inquires into what may appropriately
+be termed the Antiquities of the Globe itself, and collects and de-
+ciphers what may be considered as the monuments and medals
+of its remoter eras.
+There are few exercises of our reason more interesting than
+the examination of those cases, which, at their first view present-
+ing to us the appearance only of disorder and confusion, terminate
+at length by the aid of scientific inquiry in a conspicuous display
+of the order and harmony of nature.
+Now Geology abounds with, or rather is entirely composed of
+cases of this kind: it sets out with placing before us a certain
+order and arrangement in the disposition of the mineral masses
+forming the earth s surface, which at first appear to be huddled
+together in inexplicable confusion; and it constantly presents to
+us examples of regularity developed in the midst of all this
+seeming irregularity, of complicated phenomena reduced by the
+application of a few principles to a simple solution, of analogies
+unexpectedly extended, and of generalizations happily and suc-
+cessfully pursued. Now it is evident that a science of such a
+character is capable of affording employment to faculties of mind
+Conclusion of Cuvier’s Essay on the Theory of the Earth.
+
+
+of no mean order;, it calls, forth habits of minute and: patient
+investigation in the collection of the phenomena on which it de-
+pends, and it requires the large grasp and the embodying powers
+of comprehensive genius to combine and generalize the details
+thus obtained.
+Geology holds the keys of one of the kingdoms of nature; find
+it cannot be said that a science which extends our Knowledge, and
+by consequence our Power, over a third part of nature, holds a low
+place among intellectual employments^
+And not only has it an entire kingdom of nature to itself, but it
+also furnishes what must be considered as necessary appendices to
+the knowledge of the vegetable and animal kingdoms, from the
+various species originally belonging to these kingdoms, which by
+inhumation have passed over to the mineral world, particularly
+Animal Remains. As these fossil species often differ entirely from
+any now known to exist, and are in many cases highly important
+and curious in their structure, the sciences relating to them must
+he considered as imperfect until this deficiency can be supplied!
+and it is quite obvious that a knowledge of these species is only
+attainable through the medium of geological researches. The
+following summary of the results of the labours of a single indi-
+vidual in that branch of this subject, which relates only to the
+fossil remains of quadrupeds, will give some idea of theirnportance
+of Geology to the science of Anatomy.
+“In this manner,” says Cuvier, we have ascertained, and
+“ classified the fossil remains of seventy-eight different qnadru-
+“ peds. Of these, forty-nine are distinct species, hitherto entirely
+“ unknown. Eleven or twelve others have such entire resemblance
+“ to species already known, as to leave no doubts whatever of their
+“ identity; and the remaining sixteen or eighteen have consider
+
+
+“ able traits
+... m** mk °TJ£. while the other twenty-two new
+intesligatea are “ "
+“ thirty-six'”
+~ vitiihltnrlcs of fossil shells, zoophytes,
+Jf we add to these ie i accumulated in such quan-
+and vegetables, which “ m composed almost wholly of the
+tides as to form entire before us a vast field of
+organic remains of a formerwholly unexplored. But of
+inquiry, the limits of p to pronounce the sciences
+lffl thcy shaU
+of Zoology and Bota y varieties of organized matter
+have arranged f t ttir InmttgaLn, at .hall have
+which Geolog? f ttae „ seM MM» and goncrahaa-
+extracted from them < combined and com-
+ta which are the never- ..hag •«*£*" kingdom tl f
+prehensive view of the snbordmate pa,l. ol ere.y h
+nature.
+"t‘"ii,:
+a change in the species of plants that “™"
+a.±:sss£a z^rssi
+S hXr o f°Le dolt chalk announces with no less
+0 Cuvier's Theory of the Earth, sort, xsviti. p. 10». East uht.
+
+
+certainty the poverty of the soil it covers, than the rank luxuriance
+of the widely different plants which occupy the marsh lands of al-
+luvial districts bespeaks the richness of the matrix in which their
+roots are fixed. A change also of the subjacent strata from arid
+lime-stone to tenacious clay is no less strongly marked by the dis-
+tribution of the native vegetables on each.
+Geology is likewise inseparably allied to an extensive branch of
+Chemistry, inasmuch as the latter science derives exclusively from
+the mineral kingdom no small proportion of the materials which
+form the basis of its experiments : and on the other hand, it is
+itself so largely indebted to the results of chemical analysis, that
+without them its fundamental science Mineralogy could scarcely
+ever have existed. So close indeed is the alliance between them,
+that it may be fairly stated, that no person can understand the
+elements of Mineralogy without a knowledge of Chemistry at least
+more than superficial; nor can any man be considered a philo-
+sophical chemist who does not possess a certain acquaintance with
+Mineralogy.
+Of the application of Pure Mathematics to this same science, it
+is impossible to quote a more convincing example than the Abbd
+Haiiy’s arrangement of minerals founded on the principles of
+Crystallography. Prom this it appears, that the results of the most
+accurate abstract reasonings are completely verified by the absolute
+identity in the form and measure of the minutest angles of every
+variety of crystallized mineral with those which had been obtained
+from the most exact mathematical calculations.
+The consideration of the important phenomena of rivers, lakes,
+and seas, which continually requires the aid of Hydrostatics, esta-
+blishes an intimate connexion between Geology and that branch
+of science; whilst the regard it pays to the distribution of land
+c
+
+
+and water over the surface of the earth, and to the form, extent,
+elevation, and depression of mountains, plains, and valleys, makes
+it nearly-coextensive with Physical Geography,
+And by its connexion with such subjects as the origin of Aero-
+lites, calculations on the depth of the sea and mean density of the
+earth, and the investigation of the second causes that were em-
+ployed in the gradual arrangement of the matter of which our
+planet is composed, and in producing the overwhelming' con-
+vulsions that appear at distant intervals to have affected it,
+Geology becomes associated with Astronomical speculations, So
+that while she herself receives assistance from many sciences, she
+on the other hand imparts her light to others; and by means of
+this constant and extensive reciprocation becomes intimately con-
+nected with them all.
+But it is now admitted on all hands, that no man can be qualified
+to enter any of the highest walks of science, who is acquainted only
+with one branch of natural knowledge; and the mutual depen-
+dence of them all is now so positively demonstrated, that the philo-
+sopher of our days can no longer be allowed to remain satisfied
+with those inquiries which belong exclusively to any single branch,
+but must extend his investigations over the whole range of sci-
+ences and illuminate his path by the varied combinations of them
+all. Newton was perhaps the first who carried his eye over this
+extensive and almost unbounded prospect; he has been since fol-'
+Jowed by D Alembert, La Place, Biot, Playfair, Leslie, Brewster,
+and Wollaston. Of whom it may be said, that they have added to
+the highest attainments in Pure Mathematics such an extensive
+knowledge of the whole circle of the sister arts and sciences, as has
+len to the most important practical advantages to mankind.
+But I pa?s on from these more general observations to the ini
+
+
+mediate subject of this Lecture. In this place it belongs pecu-
+liarly to the excellent course of studies which we pursue, to unite
+the highest attainments of abstract science and literature with the
+much more important purposes of Religious Truth. And as any
+investigation of Natural Philosophy which shall not terminate in
+the Great First Cause will be justly deemed unsatisfactory, I feel no
+apology to be necessary for opening these Lectures with an illus-
+tration of the religious application of Geological science. “Hsec,”
+«ays,tbeimmortal Newton, “ Haecde Deo; de quomtique ex phe-
+“ nomenis disserere ad Philosophiam Naturalem pertinet.”
+In being introduced then to a new kingdom of nature, we can
+scarce fail to inquire, whether we shall here also find the same
+proofs of subserviency to final causes, which are so strikingly exhi-
+bited in the animal and.vegetable creation. And the answer will be
+found in the affirmative. Such proofs, though, from the nature of
+the,subject, less obvious than in the two former instances, are
+nevertheless plainly discernible and capable of demonstration. To
+enter at lajge into these proofs would require more ample space
+than can now bo devoted to it, and presupposes a knowledge of
+the subject of which we are but beginning to treat; but some few
+may be briefly alluded to.
+A great majority of ,the strata having been formed under water,
+and from materials evidently in such a state as to subject their
+arrangemept ,to; the operation of the laws of gravitation; had no
+disturbing forces interposed; they must have formed layers almost
+regularly horizontal,, and therefore investing in concentric coats
+the nucleus of the earth. Rut the actual position of these beds is
+generally more or less inclined to the horizontal plane, though often
+undei an apgle almost imperceptible. By this arrangement many
+strata affording, numerous varieties of mineral productions are
+made to emerge in succession on the surface of the earth; whereas
+c 2
+
+
+the inferior must have been buried for ever beneath the highest,
+had their position been strictly horizontal; and in such case we
+should have wanted that variety of useful minerals almost indis-
+pensable to the existence of man in a state of civil society, which
+this succession of different strata now presents to us.
+Moreover, in the original formation and dispersion of the reposi-
+tories of these minerals, and the relative quantities in which they
+are distributed; in the provisions that are made to render them
+accessible at a certain expense of human skill and industry, and at
+the same time secure from wanton destruction or natural decay;
+in the more general dispersion of those metals which are most im-
+portant, and the comparatively rare occurrence of others which are
+less so; and still further in affording the means whereby their
+compound ores may be reduced to a state of purity; in the bene-
+volent provision of almost inexhaustible stores of salt and fuel to
+supply the wants and reward the industry of man in these latter
+ages of the world; and in causing the vast repositories of coal to
+be accumulated from the wreck and ruins of disturbances that
+affected our planet long before the existence of the human race;
+in creating also a large proportion of the most valuable metallic
+ores at periods coeval with the most ancient revolutions that have
+affected the surface of the globe; in all these and a thousand
+other examples that might be specified of design and benevolent
+contrivance, we trace the finger of an Omnipotent Architect
+providing for the daily wants of its rational inhabitants, not only ■
+at the moment in which he laid the first foundations of the earth,
+but also through the long series of shocks and destructive con-
+vulsions which he has caused subsequently to pass over it.
+In the whole machinery also of springs and rivers, and the
+apparatus that is kept in action for their duration, through the
+instrumentality of a system of curiously constructed hills and val
+
+
+leys, receiving their supply occasionally from the rains of heaven',
+and treasuring it up in their everlasting storehouses to be dispensed
+perpetually by thousands of never-failing fountains; we see a pro-
+vision not Jess striking or less important. So also in the adjust-
+ment of the relative quantities of sea and land in such due pro-
+portions as to supply the earth by constant evaporation, without
+diminishing the waters of the ocean; and in the appointment of the
+atmosphere to be the vehicle of this wonderful and unceasing cir-
+culation ; in thus separating these waters from their native salt,
+(which, though of the highest utility to preserve the purity of the
+sea, renders them unfit for the support of terrestrial animals or
+vegetables,) and transmitting them in genial showers to scatter
+fertility over the earth, and maintain the never-failing reservoirs of
+those springs and rivers, by which it is again returned to mix with
+its parent ocean : in all these we find such undeniable proofs of a
+nicely balanced adaptation of means to ends, of wise foresight and
+benevolent intention and infinite power, that he must be blind
+indeed, who refuses to recognize in them proofs of the most exalted
+attributes of the Creator I *.
+Nor is the unity of the Great First Cause less demonstrable from
+the structure of the earth, than the wisdom, power, and goodness
+of the Deity. That identity of design which has regulated the or-
+ganization of animals and vegetables, and established in each link 1
+of the boundless chain of living beings a system of delicately pro-
+portioned laws of coexistence pervading its minutest parts, is
+equally discernible in the subserviency of the earth’s structure to
+the necessities and comforts of the various millions of inhabitants
+which the Creator has placed upon it. It is the-same hand-writing*
+d For a good account of the mechanical structure employed by nature in the pro-_
+duotion and supply of springs in those portions of die eardi’s strata which are called
+secondary, I beg to refer to the chapter on springs, in the late Mr. Townsend’s History
+of Moses. '
+
+
+that we read, the same system and contrivance' that we trace, the
+same unity of object,, and relation to final causes; which we see
+maintained throughout, and constantly proclaiming, the Unity of
+the great divine Original. .i . , -
+It is thus that Newton in his celebrated Scholium at the end of
+the Pnncipia infers, from his researches into the regions of bound-
+less space, similar proofs of the Wisdom, Power, and Unity of the
+great Creator ; “ Elegantissima hsecce Solis, Planetarum, ef Co-
+“■ metarum non nisi consilio et dominio Entis intelli-
+gentis et potentis onri potuit—et si Stellse fixae sint centra simi-
+mm systematum, haec omnia simili consilio constructa suberunt
+“ nnius dominio.”
+And in a similar tone of spontaneous and heartfelt piety the
+acute and learned Paley sums up in the following beautiful’and
+energetic language the results of the minute and elegant investiga-
+tions pursued in his invaluable volume on Natural Theology :
+If one tram of thinking be more desirable than another, it is that
+“ W llch re S ards phenomena of nature with a constant refe-
+J rence to a supreme intelligent Author. To have made this the
+ruling, the habitual feeling of our mind, is to have laid the
+IC 5° U " datlon of ever >’ thin § wll ich is religious: the world thence-
+forth becomes a temple, and life itself one continued act of
+‘ adoratlon ' The change is no less than this, that whereas formerly
+“ God was seldom in our thoughts, we can now scarcely look
+“ upon any thing without perceiving its relation to him. Qf the
+“ vast scale of operation through which our discoveries carry us,
+“ at ° n< l end we see an intelligent power arranging planetary sys-
+“ terns, fixing for instance the trajectory of Saturn, or construct-
+“ mg a ring of two hundred thousand miles diameter to surround
+“ his body, and be suspended like a magnificent arch over the
+“ heads of his inhabitants; and at the other bending a hooked
+
+
+“ tooth, Concerting and providing appropriate meGbahisrir for the
+“ clasping and reclasping of the filaments of the feathers of the
+“ humming bird. We have proof not only of both these works
+“ proceeding from an intelligent agent, but of their proceeding
+“ from the same agent; for in the first place we can trace an iden-
+“ tity of plan, a connexion of system from ' Saturn to bur own
+“ Globe - and when arrived upon our Globe, we can in the second
+“place pursue the connexion through all the.organized, espe-
+“ dally the animated bodies which-it supports: we can observe
+“marks of a common relation as well to one another as to the
+“ elements of which their habitation is composed: therefore owe
+“ Mind hath planned, or at least hath prescribed a general plan
+“ for all these productions; one Being hath been concerned in
+“all.”
+Similar proofs in support of Natural Theology derived from a
+review of the physical structure of the earth, were not unobserved
+by the learned physician and naturalist, Dr. Woodward, more
+than a hundred years ago; whose conviction of the high import-
+ance of the study of Geology induced him to establish a professor-
+ship for teaching'it in bur sister University, and who thus piously
+expresses the result of his own observations on the phenomena
+which it developes, and the origin of which he erroneously at-
+tributes to the exclusive operations of the Mosaic Deluge.
+“ Though the whole series .of this extraordinary catastrophe'
+“ may seem at first view to exhibit nothing but tumult and dis-.
+“ order, and'nothing but hurry, jarring, and distraction of things ;
+“ yet if wG draw somewhat hearer, and take a closer prospect of it,
+“ if we look into its retired movements arid latent springs, we may
+“ there trace out a steady hand producing good out of evil, the
+“ most consummate order and beauty out of confusion and de-
+“ formity,' acting with the most excellent contrivance and wisdom
+
+
+“ throughout the whole course of this grand affair, and directing all
+“ the several steps and periods to. an end, and that a most noble
+“ and excellent one, no less than the happiness of the whole race
+“ of mankind ; the benefit and universal good of all the many
+“ generations of men which were to come after; which were to
+“ inhabit this earth, thus modelled anew, thus suited to their pre-
+“ sent condition and necessities.” Woodward’s Nat. Hist, of the
+Earth, p. 95. 3d edit, part ,2.
+Mr. De Luc also in his recent admirable work on the passage of
+Hannibal over the Alps, in which he has completely settled the
+long disputed question on this subject, concludes his examination
+of those mountains with observations on the escape of many rivers
+in Switzerland from their native valleys by vast chasms or gorges,
+the production of which is not referable to any causes now in ac-
+tion, and which indicate a series of different operations conducted
+at an ancient period of time, with a view to the welfare of the pre-
+sent inhabitants of the earth. He specifies cases of many consi-
+derable Alpine valleys; the valley of Geneva also ; the great basin
+of Bohemia; and that of the Diarbekir, from which proceed the
+upper branches of the Tigris: in all of which the waters escape
+from fertile regions, that would inevitably have been buried under
+extensive lakes, but for the operation of forces which have ceased
+to exist since the earth received its last touch from the moulding
+finger of its Creator. Many of these valleys and basins are drained
+by chasms and precipitous gorges of enormous depth, which could
+not have been produced by the most violent torrents that now
+flow through them, but must be, referred to the disruption of
+mountain masses at the epoch of ancient revolutions that have
+overturned the globe, not to establish thereon the kingdom of dis-
+order and confusion, but to produce that variety of surface which
+should be most pleasant to the eye, and best adapted to the sup-
+port of animal and vegetable life, and that disposition which is best
+
+
+calculated to supply the various wants of those multitudes of be-
+ings that were destined to become its future inhabitants. He con-
+cludes his considerations on these striking marks of design and be-
+nevolence in the structure of the earth, with the following appro-
+priate reflections.
+“ Qni ne voit ici la main de Dieu, preparant d’avance, dans le
+“ sein de la mer, les nouvelles habitations des hommes ? Sa toute-
+“ prevoyance n’attendit pas que les torrens eussent creuse les
+“ vallees, que les fleuves eussent creuse leurs fits; mais il traga
+u il chacun d eux la route qu’il devoit suivre dans ses moindres
+“ detours. 11 dit an Rhin, il dit au Danube, ‘ Voila les contrees
+“ que tu arroseras de tes eaux, et auquelles tu serviras de limites.
+“ Voila les montagnes ou tu prendras tes sources, et les vallees qui
+,£ te fourneront des eaux abondantes. Le canal qui doit les rece-
+“ voir et les conduire ala mer, est prepare: tu if auras qu’a le
+“ suivre.’ c Les montagnes se dresserent,’ dit le prophete David I’, 1 ’,
+“ et les vallees s’abaisserent au me me lieu que I’Eternel leur avoit
+“ etabli. C’est I’Eternel qui conduit les fontaines par les vallees:
+“■ c’est par lui qu’elles se promenent entre les raonts.”
+Another valuable contrivance in the structure of the globe is,
+that nearly all its materials are suck as to afford by their decom-
+position a soil fit for the support of vegetable fife; and that they
+are calculated-to undergo and have undergone a superficial de-
+composition. Here is an instance of relation between the vegetable
+and mineral kingdoms, and of the adaptation of one to the other,
+which always implies design in the surest manner: for had not the
+surface of the earth been thus prepared for their reception, where
+would have been the use of all that admirable system of organi-
+zation bestowed upon vegetables? And it is no small proof of
+c Pseaume civ. 8, 10.
+
+
+design in the arrangement of the materials that compose the sur-
+face of our earth, that whereas the primitive and granitic rocks are
+least calculated to afford a fertile soil, they are for the most part
+made to constitute the mountain districts of the world, which, from
+their elevation and irregularities, would otherwise be but ill adapted
+for human habitation; whilst the lower and more temperate regions
+are usually composed of derivative or secondary strata, in which
+the compound nature of their ingredients qualifies them to be of the
+greatest utility to mankind by their subserviency to the purposes of
+luxuriant vegetation.
+Thus Geology contributes proofs to Natural Theology strictly in
+harmony with those derived from other branches of natural his-
+tory ; and if it be allowed, on the one hand, that these proofs are
+in this science less numerous and obvious, it may be contended, on
+the other, that they are calculated to lead us a step farther in our
+inferences. The evidences afforded by the sister sciences exhibit
+indeed the most admirable proofs of design and intelligence ori-
+ginally exerted at the Creation : but many who admit these proofs
+still doubt the continued superintendance of that intelligence,
+maintaining that the system of the Universe is carried on by the
+force of the laws originally impressed on matter, without the neces-
+sity of fresh interference or continued supervision on tile part ot
+the Creator, Such an opinion is indeed founded only on a ver-
+bal fallacy; for “ laws impressed on matter” is an expression,
+which can only denote the continued exertion of the will of the
+Lawgiver, the prime Agent, the first Mover: still however the
+opinion has been entertained, and perhaps it nowhere meets with
+a more direct and palpable refutation, than is afforded by the sub-
+serviency of the present structure of the earth’s surface to final
+causes; for that structure is evidently the result ot many and vio-
+lent convulsions subsequent to its original formation. When there-
+fore we perceive that the, secondary causes producing these con
+
+
+vulsions have operated at successive periods, not blindly and at
+random, but with a direction to beneficial ends, we see at once the
+proofs of an overruling Intelligence continuing to superintend, di-
+rect, modify, and control the operations of the agents, which he
+originally ordained f .
+f Examples of this kind are perhaps nowhere more strikingly afforded than in the in-
+stance of those fractures or disturbances called faults, which occur in the alternating
+beds of coal, slaty clay, and sand stone, which are usually associated under the name of
+Coal Measures.
+The occurrence of such faults, and the inclined position in which the strata com-
+posing „the Coal measures are usually laid out, are facts of the highest importance as
+connected with the accessibility of their mineral contents. From their inclined position
+the thin strata of coal are worked with greater facility than if they had been horizontal;
+but as this Inclination has a tendency to plunge, their lower extremities to a depth that
+would be inaccessible, a series of faults, or traps, is interposed, by which the, com-
+ponent portions of the same formation are arranged in a series of successive tables, or
+stages, rising one behind another, and elevated continually upwards towards the surface
+from their lowest points of depression. A similar effect is often produced by undula-
+tions of the strata, which give the united advantage of inclined position and of keeping
+them near the surface. The basin-shaped structure, which so frequently occurs in coal
+fields, has a similar tendency to produce the some beneficial effect,
+But a still more important benefit results from the occurrence oifmdts , or fractures ,
+.without which the contents of no deep coal mine would be accessible. Had the strata of
+shale and grit atone that alternate with the beds of coal been continuously united without
+fracture, the quantity of water that would have penetrated from the surrounding country
+into any considerable excavations that might have been made in the porous grit beds,
+would have been insuperable by the powers of the most improved machinery: whereas
+by the simple arrangement of a system of faults, the water is admitted only in such
+quantities as are within control. Thus the component strata of a coal field are .divided
+into numberless insulated masses, or sheets of rock of irregular form and area, not one of
+which is continuous in tire same plane over any very large district, but each is separated
+from its next adjacent mass, or sheet, by a dam of clay impenetrable to water, and fill-
+ing tire harrow cavity produced by the fracture which caused die fault.
+If we suppose a thick sheet of ice to he broken into fragments of irregular area,
+and these fragments again united after receiving a slight degree of irregular inclination
+to the plane of the original sheet, the reunited fragments of ice will represent the ap-
+pearance of the component portions of the broken masses, or sheets, of coal measures we
+are describing, whilst those intervening portions of more recent ice by which they, are
+X> 2
+
+
+The consideration also of the evidences afforded bj Geological
+phenomena may enable us to lay more securely the very founda-
+tions of Natural Theology, inasmuch as they clearly point out to
+hold together represent the clay and rubbish that fill the faults, and form the partition
+walls that insulate those adjacent portions of strata, which were originally formed like
+the sheet of ice in one continuous plane. Thus each sheet dr Inclined table of coal
+measures is inclosed by a system of more or less vertical walls of broken clay, derivative
+from its argillaceous shale beds at the moment in which the fracture and dislocation
+took place; and lienee have resulted those joints and separations, which, though they oc-
+casionally interrupt at inconvenient positions, and cut off suddenly the progress of the
+collier, and often shatter those portions of the strata that are in immediate contact with
+them, yet are in the main Ids greatest safeguard, and Indeed essential to his operations..
+These same faults also, whilst they prevent the water from flowing in excessive quan-
+tities in situations where it would be detrimental, are at the same time of the greatest
+service in converting it to purposes of utility, by creating on the surface' a series of
+springs along the line of fault, which often give notice of the fracture that has taken
+place beneath.
+A similar interruption of continuity in the masses of the primitive rooks, and rocks of
+intermediate age between these and the coal formation, is found to occur extensively in
+the working of metallic veins. The vein is often cut off suddenly by a fault or fracture
+crossing it transversely, and its once continuous portions'are thrown to a considerable
+distance from each other. This line of fracture is usually marked by a wall of clay con-
+sisting of the abraded fragments of the rock, whose adjacent portions have been thus dis-
+located. Such faults are universally known in the mines of Cornwall by the term Jlulmti,
+and they produce a similar advantage to those that traverse die coal measures in
+guarding the miner from inundation, by a series of natural dams traversing the rocks in
+various directions, and intercepting all communication between that mass in which ho is
+conducting Ins operations, and the adjacent masses on the other side of the flukan
+or dam.
+It is probable that the greater number of springs, that issue from those rocks which
+are unstratified, are kept in action through the instrumentality of the faults by which
+they are intersected.
+It may be added also, that the faults of a coal field, by interrupting the continuity of
+the respective beds of coal, and causing their truncated edges to abut against those of
+uninflammable strata of shale or grit, afford n preservative which prevents the ravages
+of accidental fire from extending beyond the area of that sheet in which it may take its
+beginning, but which, without the intervention of such a provision, might lead to the
+destruction of entire coal fields. It
+
+
+us a period antecedent to the habitable state of the earth, and
+consequently antecedent to the existence of its inhabitants. When
+our minds become thus familiarized with the idea of a beginning
+and first creation of the beings we see around us, the proofs of de-
+sign, which the structure of those beings affords, carry with them a
+more forcible conviction of an intelligent Creator, and the hypo-
+thesis of an eternal succession of causes is thus at once removed.
+We argue thus—it is demonstrable from Geology that there was a
+period when no organic beings had existence: these organic be-
+ings must therefore have had a beginning subsequently to this pe-
+riod ; and where is that beginning to be found, but in the will and
+fiat of an intelligent and all-wise Creator ?
+With what acuteness of argument, and what obstinacy of perse-
+verance, the extraordinary notion of an eternal succession was
+maintained in ancient times, even by some of the greatest philoso-
+phers, it is quite unnecessary here to state: and if some writers
+on Geology in later times have professed to see in the earth no-
+thing but the marks of an infinite series of revolutions, without the
+It Is impossible to contemplate a disposition of tilings so well accommodated, and in-
+deed so essential to the vaiious uses which the materials of the earth are calculated to
+afford to the industry of its inhabitants, and even to the supply of some of their first
+wants, and entirely to attribute sucb a system to the blind operation of fortuitous causes.
+Although it be ; indeed dangerous hastily to introduce final causes, yet since it is evident
+that in many branches of physical knowledge, more especially those which relate to all
+organized matter, the final causes of the subjects with which they are conversant, form
+perhaps that part of them which lies most obviously open to our cognizance, it would
+surely be as unphilosophical to scruple at the admission of these causes when the gene-
+ral tenor and evidence of the phenomena naturally suggest them, as it would be to in-
+troduce them gratuitously unsupported by such evidence; We may surely therefore
+feel ourselves authorized to view, in the Geological arrangement above described, a
+system of wise and benevolent contrivances prospectively subsidiary to die wants and
+comforts of the future inhabitants of the globe, and extending itself onwards, from its
+first formation dirough all the subsequent revolutions and convulsions that have affected
+the surface of our planet.
+
+
+traces of a beginning; it will be quite sufficient to answer, that
+such views are confined to those writers who have presumed to
+compose theories of the earth, in the infancy of the science, before
+a sufficient number of facts had been collected; and, that if pos-
+sible, they are still more at variance with the conclusions of Geo-
+l°gy (as a science founded on observation,) than they are with
+those of Theology.
+Let us now proceed to the second part of our inquiry, and exa-
+mine in what degree the results of Geological investigations appear
+to have affected the evidences of revelation, by bringing to notice
+facts, which may seem at first sight to be inconsistent with the
+literal interpretation of the Mosaic records.
+Unfortunately for the interests of philosophy, it has happened
+that a minute examination of the structure and composition of the
+earth has given rise to a difficulty from an apparent nonconformity
+of certain Geological phenomena with the literal and popular ac-
+count of the creation, as it is presented to us in the book of Gene-
+sis, and in which the truth of that record seems at first sight to be
+implicated.
+If the fact I now allude to were not so generally notorious, that
+a recent Author *in one of our northern Universities has thought
+the subject of sufficient importance to devote a chapter of his
+work on the Evidences of Christianity to what he calls the scepti-
+csm of Geologists; it might have been superfluous to introduce
+the mention of this subject before those who know the strength of
+the irrefragable moral evidence, on which the general authority of
+the sacred writings is established, and which cannot be invalidated
+by occasional differences touching minute details of historical
+s The Rev. Dr. Chalmers.
+
+
+events, or by objections on grounds so hypothetical and uncertain,
+as those afforded by the yet imperfect science of Geology. But to
+many who have not examined the detail of these evidences,, and
+who look only to natural phenomena, an apparent inconsistency
+of tangible facts with the popular and literal interpretation of
+Scripture history presents difficulties, which have been supposed,
+however inconsiderately, to invalidate the truth of the Mosaic re-
+cords.
+Though it cannot be denied that some slight difficulties may
+exist, it is satisfactory to find that the evidence of facts unequivo-
+cally confirms the statement of these records in all points of most
+essential importance; and that our, science stands on the same
+ground which astronomy occupied on the first publication of the
+system of Copernicus. 3t has added largely to the evidences of
+natural religion in that kingdom of nature, where proofs of design
+and order are most obscurely developed to the ordinary observer,
+and have been most frequently overlooked, and even denied; and
+with respect to those points, on which the declaration of. Scripture
+is positive and decisive, as, for instance, in asserting the low an-
+tiquity of the human race; the evidence of all facts that have yet
+been established in Geology coincides with the records of Sacred
+History and Profane Tradition to confirm the conclusion, that the
+existence of mankind can on no account be supposed to have taken
+its beginning before that time which is assigned to it in the Mosaic
+writings.
+Again, the grand fact of ammiversal deluge at no very remote
+period is proved on grounds so decisive and incontrovertible, that,
+had we never heard of such an event from Scripture, or any other
+authority, Geology of itself must have called in the assistance of
+some such catastrophe, to explain the phenomena of diluvian action
+
+
+which are universally presented to us, and which are unintelligible
+without recourse to a deluge exerting its ravages at a period not
+more ancient than that announced in the Book of Genesis.
+It is highly satisfactory to find the following strong statement on
+this subject, published by one.who deservedly ranks in the very first
+class of natural observers, and in the very centre of continental
+philosophy. “It may be seen,” says Cuvier, “ that nature every
+“ where distinctly informs us that the commencement of the present
+“ order of things cannot he dated at a very remote period; and it is
+“ remarkable that mankind every where speak the same language
+“ with nature.” And in another place he adds, “ l am of opinion
+“ with M. Deluc and M. Dolomieu, that if there is any eircum-
+“ stance thoroughly established in Geology, it is that the crust of
+“ our globe has been subjected to a great and sudden revolution,
+“ the. epoch of which cannot be dated much farther back than five
+“ or six thousand years ago; and that this revolution had buried all
+“ the countries tvhich were before inhabited by men and by the other
+“ animals that are notv best known” Theory of the Earth, §. 34.
+The two great points then of the low antiquity of the human
+race, and the universality of a recent deluge, are most satisfactorily
+confirmed by every thing that has yet been brought to light by
+Geological investigations;,arid as far as it goes, the Mosaic account
+is in perfect Harmony with the discoveries of modem science. If
+Geology goes farther, and shews that the present system of this
+planet is built on the wreck and ruins of one more ancient, there
+is nothing in this inconsistent with the Mosaic declaration, that
+the whole material universe was created in the beginning by the
+Almighty: and though Moses confines the detail of his history to
+the preparation of this globe for the reception of the human race,
+he does not deny the prior existence of another system of things,
+
+
+of which it was quite foreign to his purpose to make mention, as
+having no reference to the destiny or to the moral conduct of
+created man.
+The true state of the question respecting the difficulties that
+arise from the periods of time in which the creation is said to have
+taken place, has been set forth with much ability and fairness, by
+Mr. Sumner, a divine whose rational and sober piety no person
+will venture to dispute, and whose admirable work on the Records
+of Creation, from its originality of sentiment, accuracy of argu-
+ment, and elegance of writing, ranks amongst the most able pro-
+ductions of the present day.
+“ Any curious information as to the structure of the earth
+“ ought not,” he says, “ to be expected by any one acquainted
+“ with the general character of the Mosaic records. There is no-
+“ thing in them to gratify the curiosity or repress the researches
+“ of mankind, when brought in the progress of cultivation to cal-
+“ culate the motions of the heavenly bodies, or speculate on the
+“ formation of the globe. The expressions of Moses are evidently
+“ accommodated to the first and familiar notions derived from the
+“ sensible appearances of the earth and heavens; and the absurdity
+“ of supposing that the literal interpretation of terms in Scripture
+“ ought to interfere with philosophical inquiry would have been as
+£ < generally forgotten as renounced, if the oppressors of Galileo
+“ had not found a place in history. The concessions, if they may
+<< be so called, of believers in Revelation on this point have been
+“ amply remunerated by the sublime discoveries as to the pro-
+e< spective wisdom of the Creator, which have been gradually
+“unfolded by the progressive improvements in astronomical
+“ knowledge. We may trust with the same confidence as to any
+“ future results from Geology, if this science should ever find its
+“ Newton, and break through the various obstacles peculiar to
+E
+
+
+“ that study, which have hitherto precluded any general solution
+“ of its numerous and opposite phenomena,”
+After following up these general remarks with a more detailed
+exposition of the harmony which subsists between the facts ob-
+servable in the structure of the earth, and a fair and liberal inter-
+pretation of the Mosaic account of the creation, Mr. Sumner con-
+cludes his statement with the following satisfactory result of his in-
+vestigations.
+“ All that I am concerned to establish is the unreasonableness
+“ of supposing that Geological discoveries, as far as they have
+“ hitherto proceeded, are hostile to the Mosaic account of the
+“ creation. No rational naturalist would attempt to describe, either
+“ from the brief narration in Genesis or otherwise, the process by
+“which our system was brought from confusion into a regular
+“ and habitable state. No rational theologian will direct his hos-
+“ tility against any theory, which, acknowledging the agency of
+“ the Creator, only attempts to point out the secondary instru-
+“ ments he has employed. It may be safely affirmed, that no
+“ Geological theory has yet been proposed, which is not less re-
+“ concileable to ascertained facts and conflicting phenomena, than
+“ to the Mosaic history.
+“ According to that history, we are bound to admit, that only
+“ one general destruction or revolution of the globe has taken
+place since the period of that creation which IMoses records,
+“ and of which Adam and Eve were the first inhabitants. The
+“ certainty of one event of that kind would appear from the dis-
+“ coveries of geologers, even if it were not declared by the sacred
+“ historian. But we are not called upon to deny the possible ex-
+“ istence of previous worlds, from the -wreck of which our globe
+“ was or g an ized, and the ruins of which are now furnishing matter
+
+
+“to our curiosity. The belief of their existence is indeed con-
+“ sistent with rational probability, and somewhat confirmed by
+“ the discoveries of Astronomy, as to the plurality of worlds I '.”
+A similar exposition of the acceptation in which we ought to re-
+ceive the opinions expressed or implied in the sacred writings on
+subjects connected with the discoveries of modern Physics, has
+been still more strongly given by the illustrious Bishop Hors-
+ley in many of his sermons, and more especially in that preached
+before the Humane Society
+Buffon also, in the results which were continually arising from
+his endless investigations into natural history, declares that he
+discovered no inconsistency between these phenomena and the
+statements of the Mosaic records k .
+It cannot however be denied, that examples of its abuse have for
+a long time caused the study of the Physical sciences, and in later
+days more particularly the pursuit of inquiries into Geology, to lie
+under the imputation of being dangerous to Religion.
+When it was attempted to explain every thing by the sole
+agency of second causes, without any reference whatever to the
+first; when nature was set up as an original source of being, dis-
+tinct and independent of the Almighty; when it was taught that
+matter possessed an existence which he never gave it, and that the
+elements had differences and qualities independent of him: these
+surely were grounds sufficient to excite alarm in all persons who
+were zealous for the cause' of religion, and the preservation of the
+h Vid. Records of Creation, vol. 3. p. 356.
+i Horsley’s Sermons, Bvo. 1816, vol. 3. Serm. 39.
+k ■ Histoire Naturelle, tom. 12. Des Epoques de la Nature;
+E 2
+
+
+best interests of mankind. But the doctrines which gave Philo-
+sophy its formidable aspect have now been almost utterly aban-
+doned: and if we will calmly allow reason to subdue the first
+alarm which excessive zeal excites in good and pious minds, it will
+teach us, that nothing can be more unjust than the apprehension
+lest the study of nature, when rightly pursued, or in other
+words, the contemplation of the attributes of the Creator, as they
+are displayed through the medium of his works, should in any
+way be destructive of the credibility of those things, which he has
+disclosed to us in the revelation of his will.
+The existence of this feeling of unnecessary alarm, and the in-
+justice and unreasonableness of entertaining it, have been admir-
+ably marked out by the great master of modem science, where he
+is describing the obstacles which in his time were opposed to its
+advancement, and shewing the absurdity, if not impiety of dissolv-
+ing that union, by which Philosophy becomes associated in its na-
+tural and just office, as the faithful auxiliary and handmaid of Reli-
+gion. “ Naturalem enim Philosophiam, (post verbum Dei cer-
+tissimam superstitionis raedicinam,) eandem probatissimum fidei
+“ alunenLmn esse - Itaque merito religioni, tanquam fidissimam
+“ et acceptissimam ancillam, attribui, cum altera voluntalem Dei
+“ altera potestatem manifestet.”
+• It was seen distinctly, and felt experimentally by that great Phi-
+losopher whose words I have now quoted, that the illustration of
+the divine attributes, and the advancement of Religion, are the
+great objects which stamp value upon natural knowledge, and that
+it is something very different from fair investigation that will con-
+duct its Mowers to infidelity; and I cannot better conclude this
+part o my subject, than in his own impressive words: “ Let no
+“ man upon a weak conceit of sobriety or ill applied moderation
+think or maintain that a man can search too far, or be too well
+
+
+“ studied ‘ in the Book of God’s Word,’ or the ‘ Book of God’s
+“ Works;’ but rather let men endeavour an endless progress
+“ and proficiency in both: only let them beware that they apply
+“ both to charity, and not to swelling; to use, and not to ostenta-
+“ tion ; and again, that they do not unwisely mingle or confound
+“ these learnings together 1 .”
+Having premised thus much as to the general state of the ques-
+tion, let us proceed to view the case before us, and examine how
+far the phenomena developed by Geological investigations can.be
+shewn to be in no way inconsistent with the true spirit of the Mo-
+saic cosmogony.
+We find the primitive rocks on the greater portion of the
+earth’s surface, (i. e. rocks which contain no remains of animal
+or vegetable life, or fragments of other rocks,) covered by an
+accumulation of derivative or secondary strata, the greatest per-
+pendicular thickness of which cannot be estimated at less than
+two miles.
+These strata do not appear to have been deposited hastily and
+suddenly ; on the contrary, the phenomena attendant on them are
+such as prove that their formation was slow and gradual, going, on
+during successive periods of tranquillity and great disturbance; and
+being in some cases entirely produced from the destruction of
+more ancient rocks, which had been consolidated, and again
+broken up by violent convulsions antecedent to the deposition of
+those more modern or secondary strata which are sometimes in
+great measure derivative from their exuviae.
+The differences also of the organic remains both of animals and
+1 Advancement of Learning, lib. 1.
+
+
+vegetables, contained in the different strata successively deposited
+upon each other, and again their non-agreement with now exist-
+ing species, seem to indicate that great changes have taken place
+in animated nature, and that new races of organized beings have
+successively arisen and become extinct during the periods at which
+these strata were formed; and thus to point out a series of revolu-
+tions, to the last of which the present system of the earth and its
+inhabitants belongs "b
+It seems therefore impossible to ascribe the formation of these
+strata to a period so short as the single year occupied by the Mo-
+saic deluge; which was an opinion at first naturally adopted by
+those who observed the occurrence of marine shells in inland
+countries at great elevations above the present ocean, but who
+were ignorant of the enormous masses, and subdivisions of distinct
+secondary strata, above alluded to, and of the facts which prove
+their slow, gradual, and successive deposition. The deluge has
+indeed left traces of its operation deeply sculptured on every stra-
+tum of the earth, but they are such as differ most essentially from
+those we are now considering; and prove the deposition of these
+strata to have been antecedent to that catastrophe; which as it is
+recorded in Scripture merely as a work of destruction, so has it left
+behind it undeniable evidences that its tendency was only to de-
+stroy. But the strata we have been considering, although they
+bear on their surface unequivocal marks of the agency of that con-
+vulsion, were evidently not produced, but partially destroyed by it,
+and must be referred for their origin to periods of much higher
+antiquity.
+m For a concise and able statement of the leading phenomena as yet observed, which
+prove that numerous; revolutions have, affected the surface of the earth, both before
+and since the creation of living beings; and of the successive changes that have taken
+place in animal nature, during the progress of these revolutions; see Cuvier’s admirable
+Essay on die Theory of the Earth.
+
+
+It has been supposed therefore by others, with greater plausi-
+bility, that these strata have been formed at the bottom of the ante-
+diluvian ocean during the interval between the Mosaic Creation
+and the Deluge; and. that, at the time of that deluge, portions of
+the globe, which had been previously elevated above the level of
+the sea, and formed the antediluvian continents, were suddenly
+submerged with their inhabitants, while the ancient bed of the
+ocean rose to supply their place. This hypothesis, it has been
+said, has the advantage of explaining the cause why the remains
+imbedded in the strata are principally those of marine animals:
+but it labours under considerable objections. It should rather ap-
+pear from the little that is said in Scripture, that the antediluvian
+continents were the same with the present: and a similar con-
+clusion is to be derived from the universal diffusion of the bones
+of land animals in those superficial depositions of gravel, which
+seem to have resulted from the deluge, in almost every valley of
+the earth that has been made the subject of geological investi-
+gations. As these bones are remarkably perfect, and seldom have
+signs of having been much rolled, or transported from a distance,
+they appear to have belonged to animals that lived and died
+near the spots where they are now found: those places conse-
+quently must have formed parts not of the ocean of the antedilu-
+vian world, but of its continents.
+A third hypothesis may be suggested, which supposes the word
+“ beginning” as applied by Moses in the first verse of the Book
+of Genesis, to express an undefined period of time which was
+antecedent to the last great change that affected the surface of the
+earth, and to the creation of its present animal and vegetable in-
+habitants; during which period a long series of operations and
+revolutions may have been going on, which, as they are wholly
+unconnected with the history of the human race, are passed over
+in silence by the sacred historian, whose only concern with them
+
+
+was barely to state, that the matter of the universe is not eternal
+and sell-existent, but was originally created by the power of the
+Almighty.
+A fourth hypothesis is that which follows the opinion previously
+adopted by many learned and pious men, on grounds very different
+from those of Geology, that the days of the Mosaic creation arc
+not to be strictly construed as implying the same length of time
+w iic i is at present occupied by a single revolution of our globe,
+but Peeiods of a much longer extent. And Bishop Horsley, while
+he insists that the day in the Mosaic account could only signify a
+revolution of the earth round its axis, still adds these remarkable
+words, winch do, in fact, admit the whole of this hypothesis • - Tint
+this revolution was performed in the same space of t arn in he
+.. a b r:"™ g of 11,5 ' sorw and 1 «*■ i- ove r -co„ fi( ,:4
+I | T ° and second of these solutions there seem to lie „
+I have already stated, some considerable objections '
+The first is both at variance with the Sacred i
+ln ° re incons, ' st ent with the phenomena of Natule
+- it has received the
+support from the Sacrfd l' ° d ° nm assi,ret %
+appearances, liable to objections nW yet *
+rssitr of t tw ° (“«' poh..i«
+to rem °’ e tL
+Ot Greology as yet can-
+n VoLii. Sernas. On the Sabbath.
+
+
+not but present to us ; if from these conjectures no detriment can
+be shewn to arise to the faith of the most pious individual; it they
+have, in fact, been maintained by some of the ablest divines and
+writers of the English Church, men uninterested in Geology, but
+interested in Religion; no danger surely can be apprehended
+from their admission: nor shall we think it necessary to discard
+them, until some stronger reason shall be brought for their rejec-
+tion, or until some happier Genius shall have arisen to shed new
+light upon our inquiries.
+Difficulties indeed will still present themselves, but difficulties
+by which neither will the ardor of science be discouraged, nor the
+full confidence of religious faith be shaken; difficulties such as
+those of which the whole moral and material world is lull, and
+without the existence of which, in the opinion of the celebrated
+Pascal, it were not easy to believe that this world which we inhabit
+is the production of that mysterious Being, £f whose ways aie
+“ unsearchable, and his works past finding out.
+3?
+
+
+APPENDIX,
+Containing a brief Summary of the Proofs afforded by Geology, of
+the Mosaic Deluge.
+I HAVE been induced to draw up the following Appendix in consequence
+of an article which appeared in the Quarterly Review of May 1819, on
+Mr. Gisborne’s Testimony of Natural Theology to Christianity.
+With the learned writer of this Review I fully coincide in every senti-
+ment of the highest respect for the character of Mr. Gisborne, and in every
+opinion which he has expressed with so much ability on the Geological
+errors which his work contains.
+There is, however, one point of vital importance, on which it is suf-
+ficiently apparent, from the preceding Lecture, that I entirely differ from
+the writer of this Review, namely, in the belief he entertains, on the autho-
+rity of Linnteus, that Geology affords no proofs of the Mosaic Deluge! and
+this difference may be the more securely stated, as the general attachment
+of the Quarterly Review to the cause of Revelation is so decided; and as the
+very paper in question contains the strongest assertions of the truth of the
+Mosaic History: it is simply therefore a matter of science, on which our
+opinions are at variance.
+That Linntcus himself should have held such opinions at a period when
+Geology was in its first infancy, and many of its most important pheno-
+mena were totally unknown; and when it was impossible for him to
+distinguish those effects which are attributable simply to the action of the
+Mosaic Deluge, from the more numerous cases of analogous disturbances
+F 3
+
+
+which the earth appears to have undergone before the creation of man; is
+a circumstance which can excite in us no surprise. But I am at a loss to
+conceive how any person who has evidently read the works of Cuvier with
+so much attention as the writer of this Review, and who reproaches Mr.
+Gisborne for want of knowledge of this author, could have been induced to
+revert to the premature opinion of so infantine a Geologist as Linnaeus,
+and have overlooked that most important conclusion which I have before
+quoted, in which Cuvier himself suras up the results of his own valuable
+observations \
+In every thing that 1 have been able to observe myself, or to collect from
+others whose opinions on such subjects 1 most highly respect. I find a
+series of numerous and widely varied facts ; a certain class of which bears as
+unequivocal evidence to the existence of a Deluge, at or near the period
+assigned to it by Moses; as the phenomena of stratification afford, on the
+other hand, of a succession of different and more ancient revolutions affect-
+ing our planet before the existence of the human race. And it is from want
+of accuracy in distinguishing between these facts, that errors have prevailed,
+such ns those into which Linnajus fell.
+On the detail of those evidences of a recent diluvian action which are
+afforded in the neighbourhood of Oxford, and in some of the central parts
+of I have recently spoken more at large in another place, to which
+it seems more peculiarly adapted b . It may be sufficient here to state very
+summarily the main reasons which confirm me in the opinion which I have
+always entertained.
+The proofs then of the Mosaic Deluge presented by natural phenomena
+are in my opinion these.
+0 See p. 24. of the above Lecture, and Sect. 34. of Jameson's translations of Cuvier’s Theory
+of the Earth.
+b See paper on the evidences of a recent Deluge afforded by the gravel beds and state of the
+plains and valleys of the central parts of England, presented to the Geological Society by myself
+in November 1819 ; and also another memoir laid before the same Society by the Rev. W. D.
+Conybeare and myself, on the coal districts', of Somerset and S. Gloucestershire, in which the
+decisive evidences of diluvian action presented in those counties are given in considerable detail.
+
+
+1. The general shape and position of hills and valleys;' the former having
+their sides and surfaces universally modified by the action of violent waters,
+and presenting often the same alternation of salient and retiring angles that
+mark the course of a common river. And the latter, in those cases, which
+arc called valleys of denudation, being attended with such phenomena as
+shew them to owe their existence entirely to excavation under the action of
+a retiring flood of waters.
+2. The almost universal confluence and successive inosculations of minor
+valleys with each other, and final termination of them all in some main
+trunk which conducts them to the sea; apd the .rare interruption of theii
+courses by transverse barriers producing lakes.
+3. The occurrence of detached insulated masses of horizontal strata called
+outliers, vi considerable distances from the beds of which they once evi-
+dently formed a continuous part, and from which they have been at a recent
+period separated by deep and precipitous valleys of denudation.
+4. The immense deposits of gravel that occur occasionally on the sum-
+mits of hills, and almost universally in valley s*over the whole world; m si-
+tuations to which no torrents or rivers such as are now in action could ever
+have drifted them.
+6. The nature of this gravel, being in part composed of the wreck of the
+neighbouring hills, and partly of fragments and blocks that have been trans-
+ported from very distant regions.
+6 The nature and condition of the organic remains deposited in this gra-
+vel many, though not all of them, being identical with species that now
+exist, and very few having undergone the smallest process of mineralization.
+Their condition resembles rather that of common grave bones, than of those
+fossil bones which arc found imbedded in the regular strata being in so
+recent a state, and having undergone so little decay, that if the recor s o
+history, and the circumstances that attend them, did not absolutely forbid
+such a supposition, we should be inclined to attribute them even to a much
+later period than the Mosaic Deluge: and certainly there is, m my opinion,
+
+
+no single fact connected with them, that fflHpnead us to date their origin
+from any more ancient era.
+f. The total impossibility of referring any one of these appearances to the
+action of ancient or modem rivers, or any other causes, that are now, or
+appear ever to have been in action since the last retreat of the diluvian
+waters.
+8. The analogous occurrence of similar phenomena in almost all the re-
+gions of the world, that have hitherto been scientifically investigated, pre-
+senting a Series of facts that are uniformly consistent with the hypothesis of
+a contemporaneous and diluvian origin.
+9. The perfect harmony and consistency in the circumstances of those
+few changes that now go on, (e. g. the formation of ravines and gravel by
+mountain torrents; the depth and continual growth of peat bogs; the form-
+ation of tufa, sand-banks, and deltas; and the filling up of lakes, estuaries,
+and marshes,) with the hypothesis which dates the commencement of all
+such operations at a period not more ancient than the Mosaic Deluge.
+All these, whether considered collectively or separately, present such a
+general conformity of facts, tending to establish the universality of a recent
+Deluge, as no difficulties or objections that have hitherto arisen are in any
+way sufficient to overrule.
+In the full confidence that these difficulties will at length be removed,
+however slowly, by the gradual progress and extension of science, we may
+for the present rest satisfied with the argument, that numberless phenomena
+have been already ascertained, which, without the admission of a recent and
+universal Deluge, it seems not easy, nay, utterly impossible to explain.

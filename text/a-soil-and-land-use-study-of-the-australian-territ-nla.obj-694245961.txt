@@ -1,0 +1,1619 @@
+
+
+A Soil and Land-use Study of the
+Australian Territory of
+Norfolk Island, South Pacific Ocean
+By C. G. Stephens and J. T. Hutton
+Soils and Land Use Series No. 12
+Division of Soils
+Commonwealth Scientific and Industrial
+Research Organization, Australia
+Melbourne 1954
+A
+
+
+Printed by Morris & Walker Pty. Ltd., Melbourne
+
+
+CONTENTS
+PAGE
+I. Introduction 5
+11. General 5
+(a) Location and Size 5
+( b ) Settlement, Population, and Administration 6
+111. Geology and Topography 6
+IV. Vegetation and Fauna 10
+V. Climate 10
+VI. Ground-water and Drainage 12
+VII. The Soils 13
+(a) Soil Series and their Relationships 13
+( b ) The Soil Map 13
+(c) Morphological, Chemical, and Physical Characteristics of
+the Soils 13
+( d ) Soil Fertility General 20
+VIII. Soil Erosion 21
+IX. Land Use . 23
+(a) The General State of Primary Production 23
+( b ) Early Settlement and Land Tenure 23
+(c) Pastures and Livestock 24
+(d) Horticulture 24
+( e ) Forestry 25
+(/) Fertilizers 25
+( g ) Transport and Market Limitations 26
+( h) Social Limitations 27
+( i ) Recommendations 27
+X. Acknowledgments 27
+XI. References 28
+
+
+
+
+A SOIL AND LAND-USE STUDY OF THE AUSTRALIAN TERRITORY
+OF NORFOLK ISLAND, SOUTH PACIFIC OCEAN
+By C. G. STEPHENS* and J. T. HUTTON*
+(Manuscript received January 13, 1954)
+I. INTRODUCTION
+Following a request from His Honour the Administrator, Brigadier
+H. B. Norman, a soil and land-use study of Norfolk Island, a Territory of
+the Commonwealth of Australia in the South Pacific, was undertaken
+during 1953. The necessary soil mapping, and associated field work were
+done during July and the laboratory examination of the soil samples was
+completed subsequently at the headquarters of the Division of Soils at
+the Waite Agricultural Research Institute, Adelaide, S.A.
+It is intended that this investigation, as well as providing a basis
+foi experimental work and the rectification of land-use problems on
+Norfolk Island, should exemplify what appear to be appropriate techniques
+in the examination of such problems in other Pacific islands. To that
+end this report was presented to the Eighth Pacific Science Congress held
+in Quezon City, Philippine Islands, in November 1953.
+Because of the lack of appropriately organized authorities dealing
+constantly and in detail with technical, economic, social, and advisory
+aspects of primary production on Norfolk Island, it has been found
+necessary to discuss in some detail factors controlling land use normally
+beyond the range of such an investigation as this, particularly when under-
+taken on the mainland of Australia where State Departments of Agricul-
+ture and other bodies would normally be concerned. As so many features
+of a diverse character are interwoven with and govern present land use
+on the island, any discussion which neglected them would be pointless,
+especially as similar factors will certainly be involved in any future
+attempts to put primary production on a generally sounder basis.
+II. GENERAL
+(a) Location and Size
+Norfolk Island lies about 900 miles ENE. of Sydney on latitude
+29° 3' 45" S. and longitude 167° 56' 29" E. It is a volcanic island about
+8500 acres in area and one of a group of three islands in this locality.
+Nepean Island, about half a mile to the south, is a limestone islet about
+10 acies in extent, and Phillip Island, about three miles to the south, is a
+very rugged and precipitous volcanic island less than two miles long and
+narrower than one mile.
+* Division of Soils, C.5.1.R.0., Adelaide, S.A.
+
+
+( b) Settlement, Population, and Administration
+When discovered and named by Captain Cook in 1774, Norfolk Island
+was uninhabited. A penal settlement was established there in 1788 but
+was abandoned in 1813. The island, however, continued to be used by
+whalers and warships until 1826, when it was again established as a penal
+settlement, this phase lasting until 1855 when the penal settlement was
+abandoned.
+Following the mutiny of the Bounty in 1789 a few British sailors
+and some Tahitian women fled to and settled on Pitcairn Island. Theii
+descendants, however, grew too numerous for its small size and limited
+resources and were transferred to Norfolk Island in 1856. This com-
+munity numbered 194 persons and, except for 46 who returned to Pitcairn
+Island in two groups in 1858 and 1863, it is from these and subsequent
+settlers mainly from Australia and New Zealand that the piesent popula-
+tion is derived. On June 30, 1951 the population was estimated as 1126.
+Before 1913 Norfolk Island was under the jurisdiction of the State
+of New South Wales but since that date it has been administered as a
+Territory of the Commonwealth of Australia. An Administrator is
+appointed by the Governor-General, who governs by Ordinances. An
+elected Advisory Council advises the Administrator.
+II I. GEOLOGYAND TOPOGRAPHY
+Norfolk, Phillip, and Nepean Islands form a small group which com-
+prises the only exposed land masses on the Norfolk Ridge (Marshall 1910,
+Brodie 1952), a submarine elevation stretching from New Caledonia and
+its attendant islands to New Zealand. Both Norfolk and Phillip Islands
+are extinct remnants of volcanic cones which appear to have been paitly
+destroyed by volcanic explosions and which certainly have been con-
+siderably modified by weathering and stream dissection. A very small
+portion of Norfolk Island at Kingston and all of Nepean Island directly
+opposite are composed of calcarenite, a limestone formed of consolidated
+current-bedded calcareous sand* in the lower beds of which water-worn
+basalt boulders are embedded.
+Carne (1885) reported on the chemical composition of the basalt,
+tuff, and limestone, the latter containing in the specimen analysed over
+95 per cent, of the carbonates of calcium and magnesium. Laing (1912)
+and Speight (1912) also described the general physiography and the
+nature of the rocks of the island.
+* An examination of this calcarenite was made by M. F. Glaessner and Mary J.
+Wade of the Geology Department of the University of Adelaide. They reported: “The
+organic material consists of worn fragments of calcareous algae (Corallineae and a
+few Halimeda), bryozoa, foraminifera ( Marginopora , Cibicules, Eponides, Amphi-
+stegina, Sigmoidellu, Tviloculinu, etc.) and molluscan shell fragments. It is a shallow -
+water deposit in which terrigenous material is represented only by a few well-rounded
+grains of a weathered vesicular basaltic rock.”
+
+
+Nepean Island is flat-topped and has an elevation of about 100 feet.
+The exposure of the limestone at Kingston consists not only of an undulat-
+Fig. 1.—Characteristic topography of the greater portion of Norfolk
+Island. The gently sloping skyline 300-400 ft above sea-level indicates the
+general elevation of the island away from the crater remnants of Mt. Pitt
+and Mt. Bates, which rise to just over 1000 ft.
+ing surface up to 50 feet above sea-level, in places broken down to drifting
+sand, but also of wave-cut platforms on the coastline and a reef sheltering
+Fig. 2.—A view of the north coast of Norfolk Island, showing superimposed
+flows of basalt and typical cliff structures.
+Emily Bay from the sea. Nearly all the streams of Norfolk Island enter
+the sea by rapids and falls over the cliffs, on which there are elevated
+c
+
+
+benches and off which there are numerous sea stacks, some with rather
+flat tops. All these features point to a significant elevation of the islands
+in Pleistocene and Recent times.
+Fig. 3.—The cliff face at Cascades on the north
+coast, showing the alternate flows of basalt and
+layers of tuff.
+Uplift, dissection, and coastal erosion have resulted in Norfolk
+Island’s being a virtually cliff-girt island with a general elevation of about
+400 feet falling away to cliffs which undulate between 100 and 250 feet
+above sea-level. In the north-west the interior of the island is dominated
+by an abrupt fragment of the crater rim which in Mt. Pitt and Mt. Bates
+rises to 1044 and 1028 feet respectively. Ball Bay on the east coast
+appears to be the remains of a .subsidiary crater breached by the sea.
+The island is drained by both permanent and seasonal streams which lie
+in steeply to moderately graded beds located between interlocking spurs
+(Fig. 1). These spurs, with slopes consistently convex and pitching
+steeply, sometimes at an angle of 30°, into narrow, steep to moderately
+Cl
+
+
+graded stream courses, indicate a juvenile stage of dissection. With only
+one exception the streams reach the sea either by falling precipitously
+over the low points in the markedly undulating edge of the cliffs or by a
+series of rapids and steeply sloping inclines. The exception is Watermill
+Creek, which enters the sea near Kingston. This, in its lower course, is a
+mature, gently-graded stream for about one mile characterized by a
+significant accumulation of alluvial soils and swamps, and traverses the
+limestone area for about one-third of that distance.
+Fig. 4.—In most road-cuttings and near the tops of cliffs, characteristic
+spheroidal weathering of the basalt is evident and occurs to considerable
+depths.
+The predominant rock is basalt, which, within its minor variations,
+appears to be the essential parent material of the soils of the island.
+However, in many places in the cliffs, particularly at Anson Bay and at
+Cascades on the north coast, frequent exposures of tuff are found between
+the various basalt flows (Figs. 2 and 3). In a few road-cuttings there
+is also some evidence of this material as well as of old soil profiles covered
+by subsequent lava flows. Because of the prevailing steep dissection it
+must be presumed that the tuff has contributed somewhat to soil parent
+materials, although this was never clearly evident in soil profile examina-
+tion in pit excavations and auger borings, which most often ended in
+obviously weathered basalt. The weathered basalt as seen in road-cuts
+and cliff-tops has the characteristic spheroidal form (Fig. 4). It is possible
+that the tuff is the intrinsic parent material of some of the soils of the
+
+
+Steel’s Point, Duncombe Bay, and Rocky Point areas, which are less
+dissected and have very deep profiles, with structure and consistence
+qualities differing in a subtle way from the other soils of the island.
+IV. VEGETATION AND FAUNA
+The earliest descriptions of the native vegetation and the present-day
+modified forest on the slopes of Mt. Pitt and Mt. Bates make it evident
+that the island was originally clothed by a subtropical rain-forest
+dominated by Norfolk Island pine ( Araucaria excelsa R.Br.), which grows
+up to 100 feet taller than any other indigenous tree. Beneath the pine,
+Lane-Poole (1926) listed the dominant forest components as follows:
+ironwood ( Olea apetala Vahl.), maple ( Elaeodendron curtipendulum
+Endl.), small yellow-wood ( Zanthoxylum blackburnia Benth.), big
+yellow-wood ( Acronychia endlicheri Schott), whitewood ( Celtis
+paniculata Planch.), bloodwood ( Baloghia lucida Endl.), Siah’s backbone
+(Pseudomorus brunoniana Bur.), palm ( Rhopalostylis baueri H. Wendl.
+& Drude), screw pine ( Freycinetia baueriana Endl.), tree ferns ( Alsophila
+excelsa R.Br. and A. australis R.Br.), and tree lily ( Cordyline obtecta
+J. G. Baker).
+These support an array of lianas including species of Jasminum,
+Melodinus, Ipomaea, Millettia, and Capparis. In addition, white oak
+(Lagunaria patersoni G. Don) is quite common in the park-like grazing
+and agricultural land where, with the pine, it forms a very attractive
+artificial savannah woodland which unfortunately is much infested by
+lantana ( Lantana camara L.), wild tobacco ( Solarium sp.), and Cape
+tulip ( Homeria sp.).
+Of the native fauna, sea birds may have been responsible for some
+effect on soil, particularly near the coast. On the tops of the cliffs and
+for a short distance inland the burrows of mutton-birds (sooty petrels,
+Puffinus sp.) are quite common in some localities. It is just possible that
+their breeding and feeding habits in burrows may be responsible for the
+lack of differentiation of horizons in one of the soils mapped, the Selwyn
+clay, which is found only adjacent to the cliff-tops.
+There are no rabbits on Norfolk Island but they were liberated on
+Phillip Island, which today, in striking contrast to Norfolk Island, bears
+a highly colourful but extremely eroded and sterile aspect undoubtedly
+caused by these rodents. There are numerous small field rats on Norfolk
+Island.
+V. CLIMATE
+Climatic data for Norfolk Island are given in Table 1. The annual
+average rainfall of over 50 inches is well distributed but has a marked
+winter maximum. According to the criterion of Prescott, Collins, and
+Shirpurkar (1952) (P > O.4PV- 75 ) it is effective for plant growth for all
+
+
+Table 1
+/ • CLIMATIC CHARACTERISTICS OF NORFOLK ISLAND
+Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July
+Aug.
+Sept.
+Oct.
+Nov.
+Dec.
+Year
+Average rainfall* (in.) (P)
+3.29
+4.33
+4.04
+4.97
+5.70
+5.49
+6.15
+5.45
+3.64
+3.76
+2.61
+3.46
+52.89
+Relative humidity* (%)
+80
+81
+82
+82
+81
+81
+80
+79
+79
+79
+77
+79
+80
+Average min. temperature* (°F)
+66.9
+67.7
+66.7
+64.6
+60.6
+58.8
+56.8
+55.9
+56.9
+59.4
+61.2
+64.6
+61.7
+Average max. temperature* (°F)
+77.4
+76.9
+75.6
+73.2
+69.3
+66.3
+65.2
+65.2
+66.4
+69.1
+72.0
+75.2
+71.0
+Mean temperature* (°F)
+72.1
+72.3
+71.1
+68.9
+64.9
+62.5
+61.0
+60.5
+61.7
+64.3
+66.6
+69.9
+66.3
+Saturation deficit (in. Hg) (s.d.)
+0.16
+0.15
+0.14
+0.13
+0.11
+0.11
+0.11
+0.11
+0.12
+0.13
+0.15
+0.15
+Calculated evaporation from a free
+water surface {E w ■=. 21 (s.d.))
+3.36
+3.15
+2.94
+2.73
+2.31
+2.31
+2.31
+2.31
+2.52
+2.73
+3.15
+3.15
+E 0.75
+10
+2.48
+2.36
+2.25
+2.12
+1.87
+1.87
+1.87
+1.87
+2.00
+2.12
+2.36
+2.36
+P/E w 0-75
+1.33
+1.84
+1.80
+2.34
+3.05
+2.94
+3.29
+2.92
+1.82
+1.77
+1.11
+1.47
+E tr =l.& P t( , 0 - 75 (for rain-forest)
+3.97
+3.78
+3.60
+3.39
+2.99
+2.99
+2.99
+2.99
+3.20
+3.39
+3.78
+3.78
+40.85
+E tr = 1.2 F^ 0 - 75 (for pasture)
+2.98
+2.83
+2.70
+2.54
+2.24
+2.24
+2.24
+2.24
+2.40
+2.54
+2.83
+2.83
+30.61
+* Data supplied by the Commonwealth Meteorological Bureau.
+
+
+12 months of the year. However, the mean data are somewhat misleading
+as the annual rainfall has varied from about 33 inches to 77 inches with
+corresponding variations in the monthly figures. Droughts of some weeks’
+duration are not infrequent and are referred to in the early records of
+the island.
+However, on the whole the well-distributed and effective rainfall,
+the moderate relative humidity, and the equable and mild temperatures
+all provide a particularly favourable climatic environment for plants and
+animals.
+In only November, December, and January is rainfall on the average
+less than the calculated potential evapotranspiration of moisture from
+rain-forest cover ( E tr I.GEw 0 - 75 ) and for the year there is an excess
+(52.89 40.85) of about 12 inches of moisture for run-off or transfer to
+ground-water. Since under the soil and forest conditions of the island,
+surface run-off is negligible, this water must normally pass through the
+soil to the ground-water.
+In only one month, November, is there on the average a deficit of
+rainfall, and that a negligible one, for calculated potential evapotranspira-
+tion of pasture ( E tr = 1.2 E w 0 For the year there is an excess of water
+(52.89 30.61) of about 22 inches for run-off and transfer to ground-
+water. Again because of soil and pasture conditions there is negligible
+surface run-off, so practically all this moisture passes to the ground-water.
+As indicated in Section VIII, this additional 10 inches of moisture passing
+annually to the ground-water where the soil is under pasture as compared
+to forest is a factor in the development of a form of soil erosion found
+on steeply sloping sites on the grassland of the island.
+VI. GROUND-WATER AND DRAINAGE
+As might be expected from the climatic and topographical conditions,
+springs are relatively common on Norfolk Island and are found at eleva-
+tions ranging from near sea-level to about 400 feet. Water is also
+commonly obtained in wells and bores situated not only in valley bottoms
+but also on hill slopes and crests. These range from 20 to over 200 feet
+in depth. From the information available and from an examination of
+some available spoil they appear to be confined to weathered basalt and
+tuff, thus confirming the evidence of the cliff-faces that weathering has
+proceeded to considerable depths. The disposition of the springs and the
+level of water in the wells considered in respect to the topography indicate
+an irregular surface to the aquifer, which on the whole approaches the
+land surface most commonly on and near the foot of steep slopes. Under
+such topographical conditions the ground-water is a potent factor in the
+development of a form of soil erosion discussed later.
+Because of their highly structured condition and porous nature the
+soils of the island may be considered to be, if anything, somewhat over
+
+
+drained. However, occasionally near the foot of steep slopes and generally
+near springs small areas of soil with drab but mottled and moist plastic
+subsoils are encountered. It was not possible at the scale of working
+to delineate these on the soil map.
+Occasionally a swampy condition is found in the stream beds. This
+is partly due to sections of their courses being of a flatter grade, and
+partly to choking of the streams by beds of rushes, water hyacinth, and
+other growth, and by fallen logs. The largest areas of such swamps are
+on the lower mature course of Watermill Creek at Kingston and on the
+lower middle course of the stream which drains the country north of
+the aerodrome. In the latter case this represents stream maturity
+inherited from the period prior to uplift, and at the present time the
+stream is being regraded by vigorous headward erosion from where it is
+incised in the cliffs, as are all the streams in some degree except Watermill
+Creek.
+VII. THE SOILE
+(a) Soil Series and their Relationships
+The soils mapped on Norfolk Island are listed in Table 2, which
+shows their classification in terms of great soil groups, their topographic
+and drainage relationships, and their parent materials.
+( b) The Soil Map
+The occurrence and morphological features of the different soils are
+described below. Reference is also made to analytical data of agronomic
+significance for each soil. The colours of all soils are described for the
+moist state and the coordinates given refer to the Munsell* system of
+notation. The boundaries of all horizons of all profiles are diffuse. The
+boundaries between soil types are likewise ill defined and therefore difficult
+to locate with any real precision. However, there is a strong correlation
+with topography, and they have been interpolated between observed points
+by stereoscopic interpretation of aerial photographs. The diffuse nature
+of the soil boundaries and the limits of the technique of mapping employed
+should be borne in mind when using the soil map in the field.
+(c) Morphological, Chemical, and Physical Characteristics of the Soils
+(i) Palm Glen Clay. —This soil is located on the upper and middle
+slopes of Mt. Pitt and Mt. Bates and along Stockyard Road to the north-
+west of Ball Bay. It lies on moderate to steep slopes and for the most
+part is still under forest, being generally regarded as an inferior soil.
+It is easily recognized by the rather striking red colour of the profile,
+which has the following morphological features.
+* “The Munsell Soil Color Chart.” (Munsell Color Co.: Baltimore.)
+
+
+Table 2
+SOILS MAPPED ON NORFOLK ISLAND
+Great Soil
+Group
+Soil Series and Type
+Parent
+Topography and Drainage Material
+Krasnozems
+Palm Glen clay
+Steep to moderate slopes.
+Basalt
+Mt. Pitt clay
+Unrestricted drainage
+Moderate slopes. Unre-
+Basalt
+Rooty Hill clay
+stricted drainage
+Steep to moderate convex
+Basalt
+Steel’s Point clay
+slopes and ridge tops.
+Unrestricted drainage
+Gently undulating to flat.
+Probably tuff
+Unrestricted drainage
+Middlegate gravelly clay Gently undulating
+Basalt
+Selwyn clay
+drainage divide. Un-
+restricted drainage
+Gently undulating areas
+Basalt
+Skeletal soils
+Emily Bay calcareous
+on cliff tops. Unre-
+stricted drainage
+Undulating. Unre-
+Calcarenite
+sand
+stricted drainage
+Unnamed shallow stony
+Steep slopes. Unre-
+Basalt
+soils
+Cliff formation
+stricted drainage
+Very steep slopes. Ex-
+Basalt and tuff
+Alluvial soils
+Unnamed alluvial soils
+cessive drainage
+Gently sloping to flat.
+Basaltic alluvium
+Acid swamp
+Unnamed swamp soils
+Unrestricted drainage
+Valley floors with re-
+Basaltic alluvium
+soils
+stricted drainage
+Table 3
+PALM GLEN CLAY: ANALYTICAL DATA
+Sample
+No.
+Depth
+(in.)
+Sand
+(%)
+Silt
+(%)
+Clay
+(%)
+Organic
+Carbon
+(%)
+Total
+Nitrogen
+(%)
+Total
+Phosphorus
+(%)
+18883
+0-7
+3
+16
+69
+5.1
+0.49
+0.20
+18885
+12-30
+2
+15
+77
+1.7
+0.12
+—
+18887
+56-66
+17
+26
+55
+0.7
+0.04
+0.09
+The surface soil consists of a dark red (2.5YR4/4), friable clay
+with organic matter and a pronounced granular to crumb structure. At
+less than 12 inches depth this is underlain by a deep subsoil of red
+(10R 4/5-4/6), somewhat compact but friable, granular clay in which
+decomposing basalt appears at a depth of about 60 inches and increases
+in quantity with depth.
+Tables 3 and 4 give the results of laboratory examination of samples
+from a pit at sample site No. 5 (see map). The relatively low agricultural
+reputation of the Palm Glen clay is probably connected with the small
+amount of exchangeable calcium in the surface soil and the low pH values
+of the subsoil horizons.
+
+
+Table 4
+PALM GLEN CLAY: CATION STUDIES (M-EQUIV./100 (
+J OF SOIL)
+Sample
+No.
+pH
+Water-soluble
+(Total)
+Exchangeable
+A
+Total to
+pH 7
+Ca
+Mg
+K
+18883
+6.0
+0.4
+17
+6.1
+4.4
+1.0
+18885
+4.9
+0.3
+14
+2.0
+0.2
+0.2
+18887
+4.7
+0.4
+—
+—
+—
+—
+• Table 5
+MT. PITT clay: analytical data
+Sample
+No.
+Depth
+(in.)
+Sand
+(%)
+Silt
+(%)
+Clay
+(%)
+Organic
+Carbon
+(%)
+Total
+Nitrogen •
+(%)
+Total
+Phosphorus
+(%)
+18878
+0-7
+7
+20
+62
+5.1
+0.51
+0.09
+18880
+14-27
+2
+11
+82
+1.8
+0.08
+—
+18882
+50-72
+9
+24
+64
+1.1
+0.05
+0.06
+Table 6
+MT. PITT CLAY: CATION STUDIES (M-EQUIV./100 G OF SOIL)
+Sample
+No.
+pH
+Water-soluble
+(Total)
+Exchangeable
+A
+Total to
+pH 7
+Ca
+Mg
+\
+K
+18878
+6.7
+0.5
+19
+13.3
+4.3
+1.1
+18880
+6.4
+0.3
+8
+4.0
+3.4
+1.4
+18882
+6.0
+0.3
+—
+—
+—
+—
+(ii) Mt. Pitt Clay. —This chocolate-coloured soil is located on the
+middle and lower gentle to moderate slopes of Mt. Pitt and Mt. Bates and
+north of Ball Bay. Generally it has been cleared for pasture and is also
+used for horticultural purposes. It is regarded as a moderately good soil.
+The chocolate colour of the profile makes it rather easy to identify, as
+shown in the following morphological description.
+The surface soil consists of about 12 inches of dark red-brown
+(2.5YR3/3), friable clay containing organic matter and with a nutty
+structure. This passes into a deep, friable clay, red-brown (2.5YR4/4)
+in colour and with a granular structure. At about 48 inches slight cherty
+material occurs in the profile and this is followed by increasing amounts
+of decomposing basalt.
+Laboratory examination of some of the samples taken from site
+No. 4 gave the results in Tables 5 and 6. The better results from
+the Mt. Pitt clay as compared with the Palm Glen clay are probably
+correlated with the higher value for exchangeable calcium and the generally
+higher pH values throughout the profile.
+
+
+ROOTY
+Table 7
+hill clay: analytical data
+>
+Sample
+Depth
+Sand
+Silt
+Clay
+Organic
+Carbon
+Total
+Nitrogen
+Total
+Phosphorus
+No.
+(in.)
+(%)
+(%)
+(%)
+(%)
+(%)
+(%)
+18860
+0-5
+9
+15
+64
+6.6
+0.58
+0.15
+18862
+10-17
+11
+13
+71
+2.8
+0.24
+—
+18863
+17-27
+23
+12
+63
+2.3
+0.12
+0.12
+18900
+0-10
+13
+19
+58
+5.3
+0.47
+0.15
+18902
+19-30
+8
+7
+80
+2.3
+0.14
+0.12
+ROOTY HILL CLAY: CATION
+Table 8
+STUDIES (M-EQUIV./100
+G OF SOIL)
+Sample
+No.
+pH
+Water-soluble
+(Total)
+Exchangeable
+X
+r
+Total to
+pH 7
+Ca
+Mg
+K
+18860
+6.0
+0.5
+19
+9.4
+4.4
+0.6
+18862
+6.2
+0.2
+—
+—
+—
+—
+18863
+6.1
+0.3
+7
+2.9
+1.4
+0.3
+18900
+6.9
+0.5
+16
+10.0
+4.8
+0.4
+18902
+5.6
+0.5
+8
+2.4
+0.7
+0.2
+(iii) Rooty Hill Clay. —This soil occurs most intensively on the
+dissected slopes and spurs of the eastern and central part of the island.
+It is also found wherever the streams cut deeply into the land in the
+vicinity of the cliffs. The slopes on which it occurs are characteristically
+convex and frequently approach angles of 30°. It is largely under pasture,
+being generally too steep to cultivate except on ridge-tops, and is subject
+to slumping on the steeper slopes. Except for the shallow stony skeletal
+soil on basalt it is the shallowest of the soils formed on volcanic material,
+being commonly less than three feet deep to the weathered basalt. Its
+morphology is given below.
+The surface soil is a dark brown (7.5YR-10YR 3/2), friable, nutty
+to granular clay generally less than 12 inches deep. It rests on a subsoil
+of red-brown (SYR4/5), friable, granular to crumb-structured clay
+generally with cherty material in the lower portion. At depths ranging
+up to four feet weathered basalt appears and rapidly increases with depth.
+Samples were collected from two sites (Nos. 1 and 8) of Rooty Hill
+clay, and Tables 7 and 8 give the results of laboratory examinations.
+From these data it will be seen that Rooty Hill clay is intermediate in
+character between Palm Glen and Mt. Pitt clays.
+(iv) Steel’s Point Clay. —This soil, regarded as the most fertile arable
+soil on Norfolk Island, occurs most extensively near Steel’s Point, not so
+extensively near Duncombe Bay, and in a broken area near Rocky Point
+where there is also rather more variation in soil profile features. It
+
+
+steel’s
+Table 9
+point clay: analytical data
+Sample
+No.
+Depth
+(in.)
+Sand
+(%)
+Silt
+(%)
+Clay
+(%)
+Organic
+Carbon
+(%)
+Total
+Nitrogen
+(%)
+Total
+Phosphorus
+(%)
+18872
+0-7
+8
+14 .
+70
+3.7
+0.37
+0.30
+18874
+18-31
+7
+12
+79
+1.6
+0.15
+—
+18876
+44-58
+4
+.8
+86
+1.7
+0.09
+0.12
+18889
+0-6
+10
+11
+68
+4.4
+0.48
+0.32
+18891
+12-29
+10
+11
+74
+1.4
+0.15
+0.20
+steel’s
+Table 10
+point clay: cation studies
+( M-EQUIV./100
+G OF SOIL)
+Sample
+No.
+pH
+Water-soluble
+(Total)
+Exchangeable
+A
+Total to
+pH 7
+Ca
+Mg
+K
+18872
+7.1
+0.3
+21
+15.4
+5.2
+0.5
+18874
+7.5
+0.5
+8
+7.5
+4.2
+0.1
+18876
+5.9
+0.7
+7
+2.1
+2.7
+0.1
+18889
+7.4
+1.6
+26
+21.6
+7.1
+1.5
+18891
+7.9
+0.7
+9
+7.4
+4.0
+0.5
+occupies nearly flat to gently undulating sites and is favoured for all
+horticultural crops, especially bean seed production. It is an attractive
+dark-coloured soil with deep penetration of organic matter. The charac-
+teristic profile morphology is given below.
+The surface soil is a dark brown (10YR3/2), friable, crumb- to
+granular-structured clay with organic matter; it gradually changes to a
+dark yellow-brown colour (10YR-7.5YR 4/3) with depth. At about 30
+inches there is a gradual change to a reddish to yellowish brown
+(SYR 4/5-7.5YR 5/5), friable, indefinite crumb- to granular-structured
+clay. From about 60 inches the soil has the appearance of being a C or
+weathering horizon, but no obviously weathering basalt was encountered,
+whence it is suspected that the parent material of the soil is the tuff
+to be seen in several places along the cliffs.
+Laboratory data (Tables 9 and 10) are available for two profiles
+sampled at sites Nos. 3 and 6 and confirm the fertile nature of the soil.
+This favoured soil is characterized by significantly higher exchangeable
+calcium and higher pH values. Phosphorus, at 0.8 per cent., is remarkably
+high.
+(v) Middlegate Clay. —This soil occupies the least dissected central
+portion of the island in the Middlegate and Burnt Pine areas. It occurs
+on gently sloping to flat sites on what appear to be remnants of an
+elevated tableland. This topographic position and the occurrence of fine
+
+
+Table 11
+MIDDLEGATE CLAY: ANALYTICAL DATA
+Sample
+No.
+Depth
+(in.)
+Sand
+(%)
+Silt
+(%)
+Clay
+(%)
+Organic
+Carbon
+(%)
+Total
+Nitrogen
+(%)
+Total
+Phosphorus
+(%)
+18865
+0-4
+15
+36
+39
+4.9
+0.41
+0.08
+18867
+10-23
+3
+5
+85
+3.6
+0.i5
+—
+18869
+32-38
+2
+9
+86
+2.5
+0.08
+0.07
+Table 12
+MIDDLEGATE CLAY: CATION STUDIES (M-EQUIV./100 1
+G OF SOIL)
+Sample
+No.
+pH
+Water-soluble
+(Total)
+Exchangeable
+A
+Total to *
+pH 7
+Ca •
+Mg
+K
+18865
+5.9
+0.2
+13
+6.2
+1.8
+0.5
+18867
+5.8
+0.2
+10
+4.6
+1.3
+0.1
+18869
+5.1
+0.3
+—
+—
+—
+—
+pisolitic ironstone gravel in the surface horizons of the soil indicate
+a probably greater age and degree of maturity for this soil than for other
+soils of the island. Because of its favourable topography it was almost
+certainly the principal soil cultivated in the times of the penal settlements,
+but its fertility is regarded as low by present landowners, who largely
+use it for pastures. However, where mixed fertilizers are used, horticul-
+tural crops are quite successfully grown. The morphology of its profile
+is given below.
+The surface soil is a nearly black (2.5Y-10YR 3/1), friable, nutty
+clay containing slight to moderate amounts of a fine, rounded, ironstone
+gravel which increases with depth to about 10 inches. Below is a red-
+brown (SYR 4/4), friable, crumb-structured clay to a depth of about
+24 inches, below which a darker red-brown (SYR 3/2-3/4), friable,
+crumb-structured clay occurs with some cherty material in the lower
+portion. This persists to depths of about 50 inches, below which
+weathered basalt increasingly occurs.
+The greater age of this soil is reflected in the results of the laboratory
+examination of samples from site No. 2 (Tables 11 and 12). Exchangeable
+calcium is low and the profile is significantly acid in reaction in both the
+surface soil and the subsoil. Phosphorus is also lower than in the other
+soils.
+(vi) Selwyn Clay. —This soil is found on gently undulating areas on
+the top of the cliffs on the west coast of the island. It is not extensive
+and persists for only a few chains inland. There is an association of
+sooty petrel burrows with this soil and the birds’ habits in burrows may
+
+
+Table 13
+SELWYN CLAY: ANALYTICAL DATA
+Sample
+No.
+Depth
+(in.)
+Sand
+(%)
+Silt
+(%)
+Clay
+(%)
+Organic
+Carbon
+(%)
+Total
+Nitrogen
+(%)
+Total
+Phosphorus
+(%)
+18894
+0-7
+13
+17
+56
+5.5
+0.47
+0.43
+18896
+22-36
+7
+16
+71
+2.1
+0.17
+18898
+50-64
+4
+11
+80
+1.5
+0.09
+0.13
+SELWYN
+clay: cation
+Table 14
+STUDIES (M-EQUIV./100 G
+OF SOIL)
+Sample
+No.
+pH
+Water-soluble
+(Total)
+Exchangeable
+A.
+Total to
+pH 7
+Ca
+Mg
+\
+K
+18894
+7.0
+1.7
+27
+12.8
+12.8
+1.0
+18896
+7.5
+1.4
+12
+7.1
+5.6
+0.3
+18898
+7.5
+2.5
+6
+4.0
+4.0
+0.1
+be responsible for the remarkably uniform and dark colour of the whole
+profile of this soil. It is regarded as a very fertile soil but occurs in
+rather badly exposed situations. The morphology of the profile is given
+below.
+The whole profile to the C horizon is a dark brown (7.5YR3/2),
+friable clay, nutty to granular in structure for a depth of about 20 inches,
+then becoming indefinite crumb-structured. At about 60 inches slight
+decomposing basalt occurs and increases with depth. Some cherty material
+also occurs deep in the profile.
+The laboratory results on the samples collected at site No. 7 (Tables
+13 and 14) show the fertile nature of the soil and the greater accession
+of water-soluble salts from the sea. The high fertility is reflected in the
+very large figure for phosphorus, the relatively high exchangeable calcium,
+and the uniform neutral reaction throughout the profile.
+(vii) Emily Bay Calcareous Sand. —This soil, confined to the Kingston
+area, has an undulating, stony landscape and is very variable in depth.
+In two places the surface has become broken and sand drift has ensued.
+The rest of the soil is covered by pasture and is largely occupied by the
+common. The soil has the following morphology in its deeper phase.
+The surface soil about three inches deep is a speckled dark brown
+(SYR3/2) sandy loam with much organic matter. Below is a similarly
+speckled brownish yellow (10YR7/4) sand. Both horizons are highly
+calcareous and the profile, of very variable depth, rests on calcarenite.
+Laboratory examination of this soil from site No. 9 shows that the
+subsoil (3-42 in.) has only 3 per cent, of material insoluble in acid. The
+surface is rich in organic matter (0.68 per cent, total nitrogen) and has
+16 per cent, of acid-insoluble material, mainly clay.
+
+
+(viii) Unnamed Shallow Stony Soils. —On many of the very steep
+slopes of the island, shallow soils with basalt stones close to and in the
+surface soil occur. They are generally dark brown in colour and occur
+most extensively on the upper portion of Mt. Pitt and Mt. Bates and on
+their northern slopes, but also in minor areas in other parts of the island.
+(ix) Unnamed Alluvial and Swamp Soils. —In some of the valleys,
+particularly in the lower part of Watermill Creek, some alluvium of
+basaltic origin has been deposited. For the most part drainage is
+unrestricted and there has been no significant profile differentiation, the
+soils being dark in colour and a friable clay in texture. However, in
+places where drainage is restricted, swamps with heavy-textured organic
+soils have developed.
+No samples of the last two soils were collected, hence no laboratory
+data are available.
+(d) Soil Fertility—General
+The high total-nitrogen values for all surface soils are noteworthy
+and there is a remarkably consistent carbon: nitrogen- ratio of about
+10 to 1. However, these data do not exclude the possibility of temporary
+deficiency of available nitrogen. The excess of rainfall, particularly in
+the winter months as shown in Table 1, must be responsible at times for
+considerable losses of nitrate nitrogen.
+It is doubtful if those soils with pH values greater than 6.5 in the
+surface horizons would respond to lime. However, experiments are
+justified on the Palm Glen, Rooty Hill, and Middlegate soils.
+The position with regard to potassium and magnesium is obscure
+on all soils and can be clarified only by a series of plot experiments.
+Phosphorus varies greatly up to very high values but its availability
+in krasnozem soils is always a matter of uncertainty. A comprehensive
+series of experiments to test this for Norfolk Island soils, some of which
+are apparently unique, is required.
+The status of the soils with respect to trace elements is quite obscure.
+There is some evidence from both plants and animals that there may be
+incipient deficiencies and this needs checking by suitably designed field
+experiments.
+A small-scale and unreplicated observational trial laid down on Rooty
+Hill clay late in July already shows some evidence of responses to phos-
+phorus and sulphur, which elements although present in considerable
+quantities may not be readily available owing to the high content of
+organic matter. The use of a molybdenum salt on portion of a crop of
+beans is also reported to show beneficial effects.
+
+
+VIII. SOIL EROSION
+At various places on the island, but most commonly on the steep
+slopes behind Kingston, there occurs a particular form of soil erosion
+characterized in the final stages by soil slumping. The initial and complete
+forms in the development of this damage are shown in Figures 5 and 6.
+Fig. 5.—Critically poised soil on a hillside above Watermill Creek. The
+fence crossing the toe of the spur leans outward and the large bush nearby
+marks the site of a spring at the foot of the slope.
+Figure 5 illustrates the characteristic “cat-step” formation due to a
+combination of soil creep and stock padding. Circumstances which con-
+tribute to this phenomenon are: (1) The soil is at its critical angle of
+rest under pasture cover as opposed to its former stable condition under
+rain-forest. (2) Ground-water is sufficiently close to the surface in some
+localities to assist slipping, particularly after prolonged soaking rains.
+The damage is caused by man’s disturbance of a natural equilibrium
+established between soil, slope, vegetation, rainfall, and ground-water.
+Under natural rain-forest cover, the soils which rest somewhat
+precariously on the steep slopes have a stability due not only to the deep
+binding effect of the tree roots but also to the minimal accession of
+moisture to the ground-water. This small addition results from a marked
+interception of rain by the forest canopy and ground litter and from the
+removal of water from both the soil and the deeply weathered zone beneath
+by forest transpiration.
+
+
+Under pastures of introduced species the root-binding effect is reduced
+to a shallower depth and the roots are weaker. There is also, as shown
+in Table 1, a reduction in the interception of rain and a decline in the
+transpiration of deeper soil moisture. Since infiltration on these very
+permeable soils is high, more water thus reaches the deeper soil and
+weathered zone. Where the ground-water is sufficiently close the additional
+moisture saturates the soil mass lying at its critical angle of rest on the
+steeper slopes. The lubricated soil, being free of strong reinforcing roots,
+slumps down the hillside.
+Grazing animals may be of some consequence in the development of
+this phenomenon. As the soil starts to slip and wrinkle on the steep
+slopes they take advantage of the improved foothold to form pads which
+accentuate the wrinkles into a terrace-like form. Where previously there
+may have been some run-off this reduces or eliminates it and, by increasing
+infiltration, accentuates the phenomenon.
+Fig. 6.—Final stage in the development of soil erosion due to soil creep
+and slumping on steep, convex slopes. A dense pasture sward is not
+effective in preventing this form of erosion where soil lies at its critical
+angle of rest. Reclamation and stabilization of such sites by planting back
+to Norfolk Island pine forest is clearly indicated.
+However, overgrazing to increase run-off and reduce infiltration is
+not a desirable method of control as inevitably sheet and gully erosion
+would result. Control obviously lies in the return of both incipiently and
+seriously affected areas to forest. Fencing eroded sites and planting to
+Norfolk Island pine, which is so easy to establish even in very steep and
+rough situations, is a practical measure and easily carried out. Because
+of the ultimate value of the timber it is also possibly an economic procedure
+
+
+in harmony with the forest policy already proposed for the island by
+Lane-Poole (1926), Cromer (1949), and Hall (unpublished data).
+As indicated above, the erosion is most prevalent on the slopes above
+Kingston and, in addition to loss of soil, there will certainly be a repetition
+of the damage done on past occasions to buildings and roads, and an
+accumulation of earth behind the walls of the administration offices and
+other structures, unless control measures are adopted.
+IX. LAND USE
+(a) The General State of Primary Production
+Despite favourable soil and climatic conditions, primary production
+on Norfolk Island is in a depressed and uneconomic state. The reasons
+for this are numerous—some non-agricultural—and rather involved.
+Previous investigations of different aspects of primary production have
+been made and have resulted in factual and valuable reports by McDonald
+(1935) on general agricultural conditions, by Savage (1935) and Barnard
+(1949) on horticulture, by Wilson (1952) on bean seed production, by
+Kent (1952) on the incidence of tuberculosis and other diseases amongst
+cattle, and by Lane-Poole (1926), Cromer (1949), and Hall (unpublished
+data) on forestry. These reports deal in detail with the shortcomings
+and potentialities of each industry and some of them recognize the opera-
+tion of non-agricultural factors in curtailing the potential productivity of
+the island. An attempt is made below to show the dependence of primary
+production on all the factors concerned.
+(h) Early Settlement and Land Tenure
+The early penal settlements were responsible for the initial develop-
+ment of agriculture on the island. During one period approximately 3000
+soldiers and convicts were there and a considerable area of land was
+cleared, particularly in the eastern and central portions. Twelve hundred
+acres were under cultivation and amongst other crops wheat was grown
+and milled on the island. Cattle, sheep, and pigs were kept and at the
+end of 1843 reached a total of about 6000 head, the great majority being
+sheep.
+Following the complete evacuation of the penal colony in 1855, the
+settlement by the Pitcairn islanders in 1856 was founded on the land
+already cleared and cultivated and the livestock left behind. Each family
+was granted an area of 40-50 acres, the remainder of the island being
+retained by the Crown. Since then, with increasing population, the land
+grants have been repeatedly subdivided until now a large number of them
+are long, narrow tracts of only a few acres, many of which cannot be
+used efficiently as units. The Crown land, except the forest reserves
+around Mt. Pitt and at places on the coast, has been issued to subsequent
+settlers on a leasehold basis.
+
+
+(c) Pastures and Livestock
+Pastures are dominated by paspalum, kikuyu, buffalo, and couch
+grasses and have a variable but generally minor amount of clover. The
+weakness of the clover may be due in part at least to the lack of phosphate
+fertilizer, which freight and handling charges raise to a prohibitive price
+level, about three times that in Australia. Carrying capacity of the
+pastures is particularly difficult to estimate because of lack of systematic
+grazing management and because of the 12-month growing season, which
+produces a green pasture even when overgrazed. Without phosphate the
+capacity under good topographic conditions and without noxious plants is
+probably equivalent to 2-3 dry sheep to the acre.
+The productivity of the pastures is seriously reduced and sometimes
+almost eliminated by the prevalence of lantana, tobacco bush, and Cape
+tulip, which have been generally allowed to get out of hand. Because of
+the small size of the properties the eradication of the first two by hand or
+mechanical means is not impracticable, and there are now known methods
+of pasture establishment and management (Walker and Trumble, personal
+communication) which give some control of Cape tulip.
+The last livestock census showed an aggregate of about 2500 horses,
+cattle, sheep, and pigs, and of this number approximately 1000 were horses,
+mostly unused. These have contributed largely to the overgrazing of
+pastures and many animals are now being destroyed. A large proportion
+of the sheep and cattle, especially in the Kingston and Ball Bay areas, are
+in very poor condition. The report by Kent (1952) on the livestock
+industry shows that there is no undue incidence of bovine tuberculosis,
+but points to the probable incidence of deficiency diseases. Some of the
+sheep show broken wool, poor tucked-up condition, and scouring even on
+short pastures, and there are occasional deaths. Bone chewing by cattle
+and other evidence of depraved appetite is common. These symptoms
+suggest the possibility of coast disease, copper and/or cobalt deficiency,
+or phosphorus deficiency.
+At the present time both meat and dairy products are produced in
+insufficient quantity for the requirements of the island’s population, and a
+butter factory operated until 1950 has been closed and dismantled. For
+this situation to be rectified there needs to be a concerted policy of
+pasture improvement and management, livestock husbandry, fodder con-
+servation, and, if possible, the production of protein concentrates for
+supplementary feeding of dairy cows. It is certain that areas of at
+least 70 acres of topographically suitable land are required for the
+efficient operation of worth-while dairy units, and phosphate fertilizers
+also may be highly desirable.
+( d ) Horticulture
+During the past 30 years attempts have been made to develop horticul-
+ture as a major export enterprise. Although citrus, bananas, passion-fruit,
+
+
+guavas, and other fruit, and coffee and other products can be grown with
+ease, difficulties with transport, plant diseases, plant quarantine and
+health regulations, unreliable markets, and lack of technical skills have
+precluded any prolonged period of success with these fruits or their
+canned products. At the present time a small-scale but worth-while
+sea-borne trade in bean seed, palm seed, and citrus seed for tree stocks,
+and in air-freighted flowers, avocado pears, and a small quantity of peas
+and beans is all that is left of export horticulture. It is notable that these
+are either relatively non-perishable products capable of awaiting sea
+transport or high-value though perishable products suitable for air trans-
+port. However, the income from these products is woefully small in view
+of the potential productivity of the island, and is clearly reflected in the
+very adverse trade balance of the island shown in the Commonwealth
+Yearbook (Commonwealth of Australia 1953).
+As well as the fruit mentioned above, now surplus for island needs,
+there is sufficient production of vegetables to meet local requirements.
+Potatoes, kumeras, peas, beans, carrots, etc. grow well but occasionally
+nitrogen deficiency symptoms can be seen in the non-legumes.
+( e ) Forestry
+From the early years of the penal settlements Norfolk Island pine
+was extensively exploited both for local use and for export markets.
+This overcutting quickly led to the depletion of the commercial forest
+and now necessitates a period of reafforestation to regain a sustained
+yield basis in production and utilization. The reports on the forest needs
+of the island referred to in Section IX (a) have clearly laid down such a
+plan involving not only the indigenous pine but also species of Eucalyptus
+and Pinus. There should be no obstacle whatever to the implementing of
+this .plan, as it is entirely a matter for action by the Administration and
+does not involve any large portion of the island otherwise suitable for
+agriculture; rather, in fact, should forestry be extended if possible to the
+steeper slopes of the grazing land, to minimize soil erosion there as
+described in Section VIII.
+The seed of Norfolk Island pine is collected in the intermittent good
+seed years and together with the seed of Lord Howe Island palm (Kentia
+belmoreana Bacc.), which grows well on the island, constitutes a small
+export product.
+(/) Fertilizers
+The supply and use of fertilizers on Norfolk Island are entirely
+unsatisfactory. Even if their use had been properly assessed, supply
+would still present a major problem because of the great additional cost
+of transport and freight.
+
+
+Beyond some experience with a mixed NPK fertilizer on beans and
+other garden crops there has been no systematic assessment of the fertilizer
+requirements of the different soils and crops of the island. There is,
+therefore, urgent need of fertilizer trials on both pastures and vegetables
+with phosphorus, calcium, nitrogen, potassium, magnesium, sulphur, and
+the trace elements, and of a trial with phosphorus, calcium, copper, and
+cobalt on livestock.
+Normally lime is required by krasnozem soils, but pH values shown
+by field tests and in the laboratory suggest that in some of the soils
+adequate exchangeable calcium may be present. Proximity to the sea and
+a high accession of oceanic salt may be responsible for this. The analytical
+data indicate the concentration of metal ions generally in the surface soil
+by organic matter accumulation.
+The obvious requirement of phosphorus merits special attention to
+the most suitable form of fertilizer. Triple superphosphate would have
+great advantages over ordinary superphosphate because of the trebling
+effect of freights on costs as compared with those on the Australian main-
+land. Some form of concentrated phosphatic fertilizer would greatly
+mitigate this impost. If such a fertilizer cannot be made readily in
+Australia it may pay to import up to 200 tons annually and tranship
+in Sydney for Norfolk Island.
+(g) Transport and Market Limitations
+As indicated above, definite limitations on production for export are
+imposed by the infrequent and irregular shipping service to the island.
+Further, heavy freight and handling costs not only treble the costs of
+fertilizers but impose similar burdens to some degree on all forms of trade
+connected with agriculture, whether it is the export of products or the
+importing of agricultural machinery. Because of the small size of the
+island, its isolation, and the need for shipping services to touch at other
+places it would be unrealistic to expect an improvement in shipping-
+services.
+Air freight to Australia and New Zealand provides some release from
+the restrictions imposed by the shipping service on perishable products,
+but for air freight such products must be valuable, e.g. flowers, avocado
+pears, and out-of-season vegetables such as peas and beans.
+Markets for fresh fruit such as oranges and bananas are not
+necessarily available in Australia and New Zealand, as in both cases the
+requirements of plant health regulations have to be met, and in New
+Zealand the market may be subject to trade barriers. In Australia local
+oranges and bananas have great advantages in pi to the mai ket,
+frequent transport facilities, and large-scale organization.
+
+
+(h) Social Limitations
+Norfolk Island agriculture suffers from a lack of skilled extension
+work amongst a rural population of rather unusual characteristics. The
+people, of mixed English and Tahitian stock, have become somewhat
+disillusioned and bewildered by the outcome of their ventures in export
+agriculture. This has led to an acceptance of subsistence agriculture
+which makes little use of the real potentialities of the island. Earlier
+reports mention the indolent attitude of the islanders in deprecatory
+terms but their interest in all new ventures and better than average results
+lead one to believe that higher standards of education, to secondary and
+tertiary levels where appropriate, will provide the community not only
+with capable leaders but also with an incentive to attain higher living
+standards. In the meantime skilled technical extension work in all aspects
+of agriculture is required. This can be met only by the appointment of
+an officer for at least five years. Primarily he should devote himself to
+experimental and advisory work.
+( i) Recommendations
+(1) The appointment of an agricultural experimental and advisory
+officer with the highest possible qualifications.
+(2) A comprehensive set of fertilizer trials and animal nutrition
+experiments to be carried out.
+(3) Implementation of the forest policy already recommended and
+its extension to control erosion on active and vulnerable sites.
+(4) Agricultural production to be raised to meet all the food needs
+of the island except for wheat and flour and similar products.
+(5) Investigation of coffee production, which the changed market
+situation should greatly favour.
+<6) Clearing of noxious weeds and thinning out of hedges, which
+are frequently too close and too thick for the small fields they shelter.
+(7) Full use to be made of the obvious advantages of the island in
+climate and scenic attractions as a health and holiday resort. Tourists
+to be increased from 1000 to 5000-10,000 a year and the production of
+the island raised commensurably. This implies a policy of bringing people
+to the food rather than sending food to the people.
+X. ACKNOWLEDGMENTS
+His Honour the Administrator, Brigadier H. B. Norman, D. 5.0., M.C.,
+who made the request for the investigation reported here, made every
+possible contribution in the way of staff and equipment to its success.
+He also, in discussions, provided an insight into the rather unusual
+problems of the island.
+
+
+The surveyor, Mr. R. Regnault, provided a comprehensive introduction
+to the geography of the island, also office accommodation. Mr. W. Quintal
+cheerfully assisted with soil profile examination and sampling and his
+intimate knowledge of the island proved a great asset.
+Dr. M. F. Glaessner and Miss Mary J. Wade, of the Geology Depart-
+ment of the University of Adelaide, examined specimens of calcarenite
+and Dr. R. Segnit, of the same Department, examined specimens of
+basalt and tuff.
+Mr. M. Coulls, of the Drawing Office, Division of Soils, C.5.1.R.0.,
+was responsible for the drafting of the soil map and Miss F. J. A. Doe,
+of the Soil Chemistry Section, assisted with some of the analytical work.
+To all these people the authors are greatly indebted for their willing
+and valuable assistance.
+XI. REFERENCES
+Barnard, C. (1949). —Report on the horticultural industry of Norfolk Island. Ann.
+Rep. for the Year Ended 30th June, 1948, Territory of Norfolk Island, pp. 14-20.
+(Commonw. Govt. Printer: Canberra.)
+Brodie, J. W. (1952). —Features of the sea-floor west of New Zealand. N.Z. J. Sci.
+Tech. 833 (5): 373-84.
+Carne, J. E. (1885).—In Ann. Rep., N.S.W. Dep. Mines, pp. 145-8. (Govt. Printer:
+Sydney.) ( .
+Commonwealth of Australia (1953). —Official Yearbook, pp. 341-4. (Commonw.
+Govt. Printer: Canberra.)
+Cromer, D. A. N. (1949). —Report on forestry on Norfolk Island, and Supplementary
+report on forestry on Norfolk Island. Ann. Rep. for the Year Ended 30th June,
+1948, Territory of Norfolk Island, pp. 21-8. (Commonw. Govt. Printer: Canberra.)
+Kent, R. K. (1952). —Tuberculosis survey of cattle on Norfolk Island. Ann. Rep. for
+the Year Ended 30th June, 1951, Territory of Norfolk Island, p. 16. (Commonw.
+Govt. Printer: Canberra.)
+Laing, R. M. (1912).—Notes on the chief physiographic features of Norfolk Island.
+Trans. N.Z. Inst. 45: 323-6.
+Lane-Poole, C. E. (1926). —Report on the forests of Norfolk Island (by Commonw.
+Forestry Adviser). Commonw. Pari. Paper (unnumbered). (Govt. Printer:
+Melbourne.)
+Marshall, P. (1910). —Ocean contours and earth movements in the south west
+Pacific. Rep. Aust. Ass. Adv. Sci. 12: 432-50.
+McDonald, A. H. E. (1935). —Territory of Norfolk Island: report on agricultural
+conditions generally. (Commonw. Govt. Printer: Canberra.)
+Prescott, J. A., Collins, J. A., and Shirpurkar, G,. R. (1952). —The comparative
+climatology of Australia and Argentina. Geogr. Rev. 42 (1) : 118-33.
+Savage, C. G. (1935). —Territory of Norfolk Island: fruit industry. (Commonw. Govt.
+Printer: Canberra.)
+Speight, R. (1912). —On a collection of rocks from Norfolk Island. Trans. N.Z. Inst.
+45: 326-31.
+Wilson, R. D. (1952). —Inspection of bean seed crops and the bean seed certification
+scheme. Ann. Rep. for the Year Ended 30th June, 1951, Territory of Norfolk
+Island, pp. 12-14. (Commonw. Govt. Printer: Canberra.)
+
+
+SOIL MAP
+THE AUSTRALIAN TERRITORY OF
+NORFOLK ISLAND
+
+

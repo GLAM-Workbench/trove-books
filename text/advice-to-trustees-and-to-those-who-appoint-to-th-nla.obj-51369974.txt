@@ -1,0 +1,3865 @@
+
+
+ADVICE
+TO
+TRUSTEES,
+AND TO
+Those who Appoint to that Office:
+INCLUDING:
+TRUSTS AND TRUSTEESHIPS,
+CHOICE AND APPOINTMENT,
+ACCEPTANCE AND DUTIES,
+POWERS AND DISABILITIES,
+LIABILITIES AND REMOVAL,
+DANGERS AND RELEASE,
+INDEMNITY AND PROTECTION,
+SUITS AND COSTS.
+BY HARDING GRANT,
+AUTHOR OF “ CHANCERY PRACTICE.”
+1830.
+Price Six Shillings , boards.
+[BRADBURY AND EVANS, PRINTERS.]
+LONDON:
+A. MAXWELL, 32, BELL YARD, LINCOLN’S INN,
+Law and Bookeseller and Publisher;
+R. MILLIKEN AND SON, GRAFTON STREET, DUBLIN.
+
+
+
+
+ADVICE
+TO
+TRUSTEES,
+AND TO
+Those who Appoint to that Office:
+INCLUDING :
+TRUSTS AND TRUSTEESHIPS,
+CHOICE AND APPOINTMENT,
+ACCEPTANCE AND DUTIES,
+POWERS AND DISABILITIES,
+LIABILITIES AND REMOVAL,
+DANGERS AND RELEASE,
+INDEMNITY AND PROTECTION,
+SUITS AND COSTS.
+BY HARDING GRANT,
+AUTHOR OF “ CHANCERY PRACTICE.”
+LONDON:
+A. MAXWELL, 32, BELL YARD, LINCOLN’S INN,
+ILafo 33ffnfcMler a vto |3ufrttsjTr;
+R. MILLIKEN AND SON, GRAFTON STREET, DUBLIN.
+1830.
+
+
+
+
+BRADDBURY AND EVANS, PRINTERS, BOUVtRIE STREET.
+
+
+
+
+PREFACE.
+The following treatise is meant to be, strictly,
+what the title page expresses, 'practical; and more
+particularly intended for the unprofessional public,
+than for the profession; who, however, it is
+hoped, may not deem it altogether unworthy of
+their notice.
+So far as the author has met with any book
+of this kind extant, there appears to him to be
+quite room for the present undertaking. The
+works of Mr. Willis and of Sir George Hampson,
+have each their appropriate and well known re-
+spectability. But it is no disrespect to those
+gentlemen to say, that their works (to which,
+however, the author acknowledges his obligations,)
+
+
+do not answer the specific purposes of this. They
+are not by any means adapted, peculiarly, to the
+use of, and therefore of little comparative service
+to, unprofessional readers. Yet this does not de-
+rogate from the esteem in which they may be
+held by the profession, not only from the weight
+of the names of their respective and respectable
+authors; but, as being, on that ground, what is
+technically meant by books of authority for pro-
+fessional purposes more exclusively. There are,
+however, other occasions on which the unprofessional
+public need advice or guidance. The present
+attempt, therefore, is not anticipated by the re-
+spectable works before mentioned, or either of
+them.
+These explanations will serve to account for the
+plain and more familiar style which the author
+has adopted, rather than the more professional.
+He has also foreborne going into the abstruse
+learning of trusts, in the way of tracing their
+legal or equitable origin, or otherwise; all which
+he deemed foreign to his immediate purpose, which
+was to be practically useful. And for the same
+reasons he has avoided entering into some other
+
+
+remoter points of legal nicety of rare occurrence,
+or perhaps more speculative than practical, and
+respecting which, should they arise, they must
+necessarily be subjects, pro re nata, of professional,
+and, probably, of counsel's directions. The more
+every day, and prominent subjects of information,
+therefore, and such as may reasonably be supposed
+to come within a trustee’s personal cognizance
+and judgment, and on which he must personally
+act in his unprofessional character, and of which it
+behoves him to be aware, are what have, in these
+pages, been kept chiefly in fiew.
+
+
+
+
+INDEX TO CASES.
+PAOK.
+Allen v. Impett .... 105
+Braybrooke (Lord) v. Inskip - - - -5, 9
+Burgess v. Wheat - - - - 10
+Caffrey v. Darby - - - 115
+Chalmer v. Bradley - 04,108
+Cole v. Wade - 7
+Coltnan v. Sarrel - « - - 115
+Dawson v. Clarke - - - - 99
+Gretton v. Diggles - , - 66
+Griffin v. Griffin - - - 19
+Hall v, Hallett - - - 46 •
+Hughes v. Hughes - - 60
+Lacey, Exparte - - - - 62
+Lambton v. Bainton - - 64
+Littlehales v. Gascoigne - - - 46
+
+
+Pack.
+Mansell (Sir Edward) v. Mansell - - - 102
+Marshall v. Holloway - -41
+Middleton v. Lord Kenyon - - - 107
+Montford (Lord) v. Cadogan (Lord) - - 19
+Morgan, Exparte - - - - 9
+Moody v. Walters - - 102
+Pye v. George - - - - 17
+Pethward v. Prescott - - - 108
+Randall v. Bell - 106
+Rex v. Emery - - - - 67
+Smith v. Snow - - - - 107
+Soames v. Rickman - - - - 116
+Stevens v. Bailey - - - - 12
+Tranes v. Tranes - - - - 196
+■Walker v. Symonds - - 107, 109
+Watson, Exparte - - - - 107
+Worral v. Harford - - - - 99
+■Wilkinson v. Parry - - - 120
+York Buildings Company v. Mackenzie 62
+
+
+ADVERTISEMENT.
+In the following pages, 12, 13, 14, 15, will be found
+a short notice of the act of 6 Geo. IV. c. 74, relating to
+trustees who may be infants, lunatics, &c. It is to be
+observed, that in respect of trustees so circumstanced,
+the act 1 Wm. IV. c. 60, repeals the former, and some-
+what varies its provisions. In lieu, therefore, of the
+before mentioned notice of the first named act, the reader
+will be pleased to substitute the following notice of the
+latter ; which enacts—
+Sect. 3. That the Committee of the estate of
+trustees found to be lunatic, idiot, or of unsound
+mind, shall, by the direction of the Lord Chancellor,
+convey the trust estate in such manner as the Lord
+Chancellor shall think proper. And by
+Sect. 4. Stock standing in the name of lunatic
+trustees, either alone or jointly with others, shall,
+by the Lord Chancellor’s direction, be transferred
+
+
+by the Committee of such lunatic trustees, to such
+person, &c., as the Lord Chancellor shall direct.
+And by
+Sect. 5, Where the lunatic trustee shall not have
+been found lunatic by inquisition, the Lord Chan-
+cellor may direct any person, in the place of such
+lunatic trustee, to convey or join in conveying land,
+or transferring stock; but where money may be
+payable to such lunatic, this authority is not to
+extend to any sum exceeding 700 Z. And by
+Sect. 6. Infant trustees are empowered by the
+direction of the Court of Chancery, to convey the
+trust estate to such person, and in such manner,
+as the Court shall think proper. And
+Sect. 7. Extends the power to the Court of the
+Duchy Chamber of Lancaster, the Court of Ex-
+chequer in the County Palatine of Chester, the
+Court of Chancery in the County Palatine of
+Lancaster, the Court of Chancery in the County
+Palatine of Durham, and the several Courts of
+Great Session in Wales, as to premises within
+the jurisdiction of the same Courts respectively.
+And by
+Sect. 8,9, 10. The provisions of the act are
+extended to persons out of the jurisdiction of the
+court, viz. abroad, or refusing to convey or transfer;
+or of whom it is not known whether they be alive
+or dead, or who may be their representative. And
+
+
+Sect. 11. Enacts that all the directions to be
+given by the Lord Chancellor, &c., under this act,
+shall be on petition. [Not on filing a bill as here-
+tofore.]
+Sect. 15. Extends the provisions of the act to
+persons either having some beneficial estate or
+interest, or having some duty, as trustee, to per-
+form.
+The foregoing concise abstract of this act, is meant
+only as general information. For the purpose of acting
+under it, recourse must necessarily be had to the act
+itself.
+
+
+
+
+CONTENTS.
+CHAPTER I.
+IMCE.
+OF TRUSTS AND TRUSTEESHIPS GENERALLY; THEIR
+NATURE AND IMPORTANCE. EXPLANATION OF
+TERMS - - - - - - 1
+CHAPTER 11.
+OF THE CHOICE AND APPOINTMENT OF TRUSTEES - 22
+CHAPTER 111.
+OF THE ACCEPTANCE OF TRUSTS; INCLUDING CONSI-
+DERATIONS PREVIOUS THERETO - , - 32
+CHAPTER IV.
+OF THE DUTIES OF TRUSTEES - - 43
+CHAPTER V.
+OF THE POWERS OF TRUSTEES; AND THEIR DISA-
+DILUTES - - - - - 49
+
+
+IMOF.
+CHAPTER VI.
+OF THE LIABILITIES OF TRUSTEES - - - G 5
+CHAPTER VII.
+OF THE REMOVAL OF TRUSTEES; RELEASE FROM THEIR
+TRUSTS, &c. - - - - - 87
+CHAPTER VIII.
+OF CLAUSES IN DEEDS AND WILLS FOR THE INDEMNITY
+OF TRUSTEES, AND OTHER PURPOSES - - 92
+CHAPTER IX.
+OF THE EXPRESS INDEMNITY AND PROTECTION OF
+TRUSTEES BY THE COURTS OF EQUITY - - 98
+CHAPTER X.
+OF SUITS RELATING TO TRUSTEES - - - ' - 103
+CHAPTER XI.
+OF COSTS AND ALLOWANCES - - - 110
+
+
+Advice to Trustees &c.
+CHAPTER I.
+OF TRUSTS AND TRUSTEESHIPS GENERALLY; THEIR
+NATURE AND IMPORTANCE ; EXPLANATION OF
+TERMS.
+Among the various friendly offices which the
+necessities of civilized society have created, and
+induced mankind to perform for one another, and
+wherein property forms so principal an ingredient
+as in England, that of Trustee is well known, as
+to its general nature and peculiar importance.
+Trusteeship subsists, as must be supposed, in as
+great variety as trusts, from which it takes its rise
+and name ; and trusts are numerously diversified.
+In all trusts and trusteeships, there are necessarily
+n
+
+
+two parties,—those who confide in, or trust; and
+those, in whom trust or confidence is placed. The
+former, when a single person, is (in legal phrase-
+ology and old law-Frcnch) termed a cestnique trust;
+or, if more than one, cestuisque trusts (or cestuisque
+trust), in the plural. As to the latter, the term
+trustee, or trustees, is sufficiently familiar to English
+ears.
+With regard to the diversity of trusts, some arc
+of a public nature: such as charities, or other
+similar institutions; roads, bridges, or the like.
+Others, of more private description; among which
+latter, some are not, and some are, family trusts ,
+comprising the management, care, and distribution,
+of private property under family arrangements.
+The latter are the more immediate objects of
+this work.
+Public trusts, and those private trusts which are
+not “ family trusts ” of the description just men-
+tioned, are more directly the subjects of pro-
+fessional intervention, when the occasion to act
+in them occurs, as well as of less frequent occur-
+rence, and less pervading the different classes of
+society than the family trusts, which are the
+principal objects of the present treatise. The other
+species of trusts may be occasionally noticed.
+
+
+Of the trusts, then, here intended to be promi-
+nently considered, some are created by marriage
+settlement, and some by will ; under either of
+which instruments, property of various descriptions,
+real, personal, or both together, is committed to
+trustees for the purpose of protecting, and of apply-
+ing it for the benefit of such parties, and in such
+manner, as the settlement, or the will, may direct.
+These, therefore, which are thus, on the present
+occasion, denominated family trusts, are what the
+author deems to be the proper subjects of consider-
+ation, as being the most general and frequent, most
+essential and interesting; and in which, unprofes-
+sional persons most need explanatory cautions and
+guidance for regulating- their conduct. For these
+purposes he proposes to offer some information, in
+as plain (as well as practical and useful) a method,
+as is compatible with the subject.
+Trustees may be distinguished into two general
+kinds; or, they become trustees in two ways, viz. one
+by express appointment; the other by implication.
+This distinction is indeed principally made here
+by way of caution, and because persons may un-
+wittingly become such “trustees by .implication,”
+contrary to their intention and wishes, if not
+guarded against the circumstances which lead to
+n 2
+
+
+it ; and because that becoming such trustees by
+implication, however unintentionally, they thereby
+become exposed also to many of the rules and
+liabilities, which apply to express trustees. But
+express trustees, i. e. trustees by express appoint-
+ment, and not those by implication, or implied
+trustees, are the more immediate objects of this
+work. But the distinctive character of each des-
+cription of trustees may be appropriately given;
+and first of express trustees.
+When a person is originally constituted a trustee
+by deed or will, he becomes an express, not an
+implied trustee; or, in other words, such persons are
+said to be trustees by creation, arid their trusts
+expressly created and expressly vested in them, in
+contradistinction to their being called implied trusts.
+Thus also, as it may be further said, these trustees
+become such, expressly, by appointment.
+Express trustees also become such by devolution,
+viz. either by the means of descent, or by represen-
+tation (the former relating to real property, the latter
+to personal) derivatively from a trustee expressly
+and originally created; and such devolution, whe-
+ther by descent or representation, continues or carries
+on the original and express trust in the person upon
+whom it so devolves, except as after mentioned.
+
+
+Thus a trusteeship by devolution takes place, when-
+ever an express and originally-created trustee dies.
+For if the trust, whether by deed or will, were of
+real estate, such trust, on the death of the first
+trustee, would devolve (subject to the observation
+shortly to be made) upon the heir at law of the
+deceased trustee, (a) if such deceased trustee left no
+effectual will of his real estate, passing it to a
+devisee. Otherwise, that is, if the original trustee of
+such real estate did leave an effectual will whereby
+his real property was transmitted to his devisee;
+then the trust (subject to the observation just
+above alluded to) would, along with the trust pro-
+perty included in the general devise, supposing the
+testator not to have excepted his trust estates, devolve
+upon such devisee; ( b ) by one of which means (descent
+or devise) the original trust would thus devolve
+upon such heir at law or. devisee, as the case might
+be; in the first instance by descent, in the other by
+devise. If the original trust were of money, or
+other chattel, or personal property, then (subject to
+the observation before alluded to, and to be presently
+made) the trust would still accompany the property
+by representation, either in the case of the trustee
+(«) 1 P. Wins. 713,736. (b) Ld. Drajbrokc r. Inskip, 8 Vcs. 417.
+
+
+leaving a will, and then his Executor would take
+both the property and the trust; or in the case of
+his leaving no will, when both would devolve upon
+his administrator . (n)
+The observation before referred to, and now to
+be made, is this; that the foregoing statements
+must be understood, with the restriction or qualifi-
+cation following, viz.—that the original trust was
+not, in point of personal confidence, expressly con-
+fined or restricted to the first trustee personally; for
+if it was, the trust would not descend, or pass with
+the property to the representative, by devolution, in
+the way before stated; but only the legal interest
+in the property would pass; not the confidence
+attached to it. The transmission of that confidence
+into other hands in lieu of the deceased, must, in
+such case, be effected by other means, viz., by
+application to a Court of Equity, as afterwards more
+particularly mentioned. For the trust attaches
+itself to the land;(Z») and the law in this case
+only intervenes where the original creator of the
+trust shews no intention that the trust should not
+(a) 1 P. Wms. 554, 575; 2 527; 1 Ves. 16; 4 Ves. 607;
+Ca. in Cha. 95; 1 Vern. 134; 7 Ves. 197, 452.
+3 P. Wms. 161, 212; 1 Atk. (i) 1 Pro. C. C. 81.
+
+
+accompany the property. But the law will not
+allow a confidence to pass to any accidental hands
+whenever the creator of the trusts has manifested
+a contrary wish, by making his confidence clearly
+personal,. Thus arises the necessity for the interven-
+tion of a Court of Equity, which then assumes the
+place of the original creator of the trust, and acts
+as they imagine he would have done, (a)
+In all cases of trusteeships, however, whether
+under deeds or wills, it is most usual, and generally
+advisable, that co-trustees (that is, a plurality of
+trustees,) are appointed; who are then, in law,
+joint tenants; on which account, and as resulting
+from that relation, when one of them dies, the
+original trusts, unless particularly confined or limited
+as above noticed, do, along with the property, con-
+tinue in the survivor, or in other words, survive to
+the longest liver, ( h ) and that in the same manner as
+he received them in his original creation : because,
+as has been said, such trustees are joint tenants,
+and all things held in joint tenancy survive and
+go to the survivor or longest liver.
+(a) Cole c. Wade, 10 Ves. (6) Jeremy on Eq. Jurisd.
+27. of Cha. 104.
+
+
+It is to be remembered, that all trustees by
+devolution .(and that, whether through descent or
+devise, in the case of real estate, or bequest or re-
+presentation in the case of personal property,) are
+deemed express trustees, or trustees by express crea-
+tion, (and not trustees by implication), as much
+and as fully as those they represent, who were
+originally constituted trustees by the original instru-
+ment, whether deed or will. For the representative
+is said to be “impressed,” or, in other words, in-
+vested with the character and office of his ancestor,
+or testator, in either case.
+Every person has by law an inherent right of dis-
+posing of whatever interest may be vested in him.
+Hence trust property is liable, in point of law,
+to alienation by the trustee. But equity interferes,
+and prevents the alienee from taking any other estate
+or interest than the trustee himself had therein,
+unless such alienee were ignorant of the trust, (a)
+This, therefore, though a possible case of unfaith-
+fulness in a trustee, is not a probable one; as it
+can scarcely happen that any man will purchase
+property, the title to which should be so negli-
+(«) 1 P. Wms. 278 ; 2 P. Wins. 081 ; 2 Fonbl. on Eq. 167;
+1 Madd. Rep. 455.
+
+
+gently investigated, as not to lead to the discovery
+of the intended vender’s want of right to dispose
+of it.
+Generally also, if a trustee devise his whole
+estate by will, his interest in the trust property will
+pass by it ; but it will not, if manifestly contrary to
+bis intention that it should, (a) If the trustee do
+not devise or dispose of it, we have seen above
+that it vests, according to its nature, in his heir, or
+executor.
+A trustee of real estate is, prima facie and osten-
+sibly, deemed the legal owner; and, as such, is
+entitled to the actual possession of the property ; but
+the Courts of Equity will not allow him to retain
+possession against his cestuique trust , nor disturb
+the possession of the latter if he have entered and
+is competent to sustain it, and the trust be not
+affected. (6) Even actual possession by the trustee
+is considered but as possession of the person be-
+neficially entitled, (by whom is always meant the
+cestuique trust), so long as the relation between
+them subsists ; nor, during such subsistence of the
+trust, can the right of the cestuique trust be barred
+(a) -Braybrookc (Lord) v. Inskip, 8 Vcs. 417; ex parte Morgan,
+10 Vcs. 101. ( b ) Barn. Rep. 354,
+
+
+by any length of time he may have been out of
+possession. In fact, the estate of the trustee exists
+entirely for the benefit of the cestuique trust.(a)
+Yet it is not a matter of course to divest a trustee
+of the management of trust property, and to de-
+liver the possession to the cestuique trust for life,
+unless it appears to be the intention of the party
+by whom the trust was created ; otherwise, and
+if it be plain from the continuing nature of the
+trust that the actual possession was intended by the
+testator to remain with the trustees, the Court of
+Chancery refuses to let the person beneficially in-
+terested as cestuique trust for life, into possession. (6)
+And, it is to be added, that the transmutation of
+possession to a trustee conveys to him the legal
+burthens, and invests him with the legal privileges
+which belong to the trust estate, (c)
+Bankruptcy, generally speaking, does not affect
+trust property; for the property which is held in
+trust by a trader who becomes bankrupt, is not
+within those provisions of the bankrupt law which
+empower the Commissioners to sell any goods or
+chattels which, by the permission of the true owner,
+(a) Willis, 86. (c) Burgess v. Wheat, 1
+(J) 5 Made!. Rep. 429. Eden, 251.
+
+
+he may have in his possession, order and disposition,
+as reputed owner, or whereof he had taken upon
+himself the sale, alteration or disposition, as owner. ( a)
+Neither will the trust estate or effects, if distin-
+guishable from the general, mass of the bankrupt’s
+property,' be affected by the assignment of the
+Commissioners. Therefore, trust money kept in a
+bag by the bankrupt, or otherwise kept apart from
+other money; or guineas, or other coin marked
+for the purpose of being distinguished; plate,
+leases, or personal estate for discharging the debts
+of his cestuique trust; will be sufficiently separa-
+ted from the bankrupt’s property, and will not pass
+under the commission.
+In like manner, though stock be purchased by
+the bankrupt in his own name, yet if it appear by
+his books that it was purchased for, and with the
+money of another, (in which case he would be a
+trustee by implication) it will not be affected by
+the bankruptcy of the purchaser. (If)
+But if the trust property be so mixed with that
+of the bankrupt that it cannot be ascertained or
+distinguished from his own, it will become vested in
+the assignees, and the amount may be proved under
+(«) 1 Sch. & Lef. 328. (A) 3P. Wms. Ed. Cox, 186.
+
+
+the Commission, in which case the cestuique trust
+will obtain the same relief as the ordinary cre-
+ditors, (a)
+The legal estate in lands vested,in a trustee, as
+well as all personal property held by a trustee, is
+forfeited by his treason or felony: ( b ) chattels on
+conviction; lands on attainder. And if a trustee of
+lands die without heirs, the lands escheat to the
+lord, (c) But under recent statutes, when freehold
+or copyhold estates, held in trust, escheat to the
+Crown, the king may direct the execution of the
+trusts. If a trustee of a term commit treason, the
+king, though entitled to it, usually grants it to the
+cestuique trust. And the Crown seldom, if ever,
+takes advantage of its right to trust estates forfeited
+for treason.
+With respect to trustees who take the benefit of
+the insolvent act, it is presumed that the doctrine
+respecting the insolvency of a trustee, is analogous
+to the case of his bankruptcy; although the In-
+solvent Debtor’s Act appears to be obscure in this
+respect.
+It not unfrequently happens that a trustee is an
+(«) Espinasse, 222. (<') 1 Ilarg. Jur. Excr. .390
+( b) Vin. Abr. title. Uses. Stevens v. Bailey, Ncls. 107.
+
+
+infant, or of unsound mind, or absent from the
+kingdom. The act of 6 Geo. IV. c. 74, being
+intended as remedial of the inconveniences arising
+from those circumstances, requires notice. Its title
+is, “An Act for consolidating and amending the
+“Taws relating to conveyances and transfers of
+“ estates and funds vested in trustees who are
+“ infants, idiots, lunatics, or trustees of unsound
+“ mind, or who cannot be compelled, or who
+“ refuse to act; and also the laws relating to
+“ stocks and securities belonging to infants, idiots,
+“ lunatics, and persons of unsound mind.” This
+act repeals all former acts on the same subjects,
+and then enacts, That all infant trustees shall,
+under the direction of the Courts of Equity, con-
+vey their trust estates to such persons as the Court
+shall direct. And that in case of trustees, idiot,
+lunatic, or of unsound mind, their committees (in
+cases where an inquisition has been had and com-
+mittees appointed) shall, by similar direction of a
+Court of Equity, convey the trust estate in the same
+manner as in the case of infancy. And that where
+no such inquisition shall have been found, nor com-
+mittee appointed, the Lord Chancellor shall appoint
+persons to convey. As to persons out of the juris-
+diction, or not known to be either living or dead,
+
+
+or refusing to convey their trust estates to the
+persons entitled to them as may be required ; it
+is enacted, that in such cases the Court shall ap-
+point persons so to convey on behalf and in the
+names, of the persons so out of the jurisdiction, or
+not known to be living or dead, or refusing.
+And with respect to any public stocks or funds,
+annuities, or securities standing in the name or
+names of such absent, or lunatic, or idiot trustees,
+or trustees of unsound mind, or their represen-
+tatives ; the Lord Chancellor may appoint any
+officer belonging to such stock or funds, to transfer
+or join in transferring the same to such persons as
+the Lord Chancellor shall direct; which persons
+are to pay over the produce of such stocks or
+funds, in such manner as the Lord Chancellor
+shall also direct: and a similar enactment is also
+made in respect of such stocks or funds standing
+in the names of persons out of the jurisdiction (viz.
+abroad) or refusing to transfer. These remedies are to
+be obtained, not by filing a bill in Chancery, as here-
+tofore, but on the petition of the, parties interested.
+The benefits of this act are also extended to per-
+sons who have some beneficial estate or interest in
+the trust property; and also to persons who have
+some trust duty or duties to perform, so as to obtain
+
+
+a conveyance to new trustees, capable of performing
+them. Until this act, that also could only be ac-
+complished by filing a bill.
+The benefit of this act is also extended to the
+guardians or next friends of infants, entitled to
+public stocks, funds, or annuities; under which’the
+Court may direct any portion of the interest or
+dividends to be paid to such guardians, or other
+persons directed by the Court on petition, for the
+maintenance or benefit of the infant.
+Its benefits are also extended to the case of idiots,
+lunatics, or persons of unsound mind; or the com-
+mittees of such, when out of the jurisdiction of an
+English Court of Equity ; or when such committee
+shall have died intestate, or become lunatic, or of
+unsound mind, or are not known to be living or
+dead. In such cases, where the property consists of
+public stocks, or funds, or annuities, the Lord Chan-
+cellor may, on petition, make similar orders as in
+the other cases.
+And where it may happen that such public stocks,
+funds, or annuities, belong to persons abroad, who
+have been declared lunatic or of unsound mind, and
+their property vested in curators, according, to the
+laws of the country where such persons reside, the
+Lord Chancellor is empowered to order such stocks,
+funds, or annuities, to be transferred by the proper
+
+
+officers into the names of such curators, and to
+direct the payment of the dividends to such per-
+sons, and in such manner as he shall deem fit.
+It may not be amiss, before we close this chapter,
+to advert to trustees of other descriptions than those
+we have been considering (but which we before
+alluded to), in order to give a more complete view
+of trusteeship in its various shapes, though confining
+our chief attention, to that portion of the subject,
+which is of the more practical and usual nature.
+These trusteeships now to be noticed are those
+which concern land, but are rather of a formal
+description, and are derived from, or invented in
+analogy to the ancient uses ; and in which the
+trustee is more quiescent than active. These
+trusteeships may be confined to three: viz. to
+bar dower; to preserve contingent remainders; to
+hold a term or terms of years.
+There are various ways wherein a trusteeship to
+bar dower is created. In some the trustee is, and
+in others he is not, required to be a party to, and
+execute deeds in respect of the estate with which
+he is invested. But these cases are always and
+necessarily under professional direction, therefore
+need not be enlarged upon here.
+Trustees to preserve contingent remainders in
+wills or marriage settlements, are of considerable
+
+
+importance, inasmuch as, by the rules of law,
+when one estate is limited to take effect upon
+a contingency after a preceding estate, if that
+preceding estate be destroyed, the estate first
+mentioned could not take effect as intended, on
+the happening of the contingency on which it
+should have taken effect: therefore these trustee-
+ships to preserve contingent remainders, were in-
+vented to supply the place of the preceding estate
+(called also the particular estate) so destroyed, in
+order that, by such intervention, the estate in re-
+mainder may still take effect on the happening of
+the contingency. These trustees to preserve such
+contingent remainders, therefore, should be careful
+not to part with their estate, to the prejudice of
+those for whom they are trustees ; as, by so doing,
+they would make themselves liable to make good
+all loss, (a) Hence the importance of their under-
+standing the nature of any instrument or deed, in
+which they may be required to join, relative to their
+trust; and not to do it without the sanction of a
+professional adviser in whom they confide.
+The character of trustees for terms of years is
+also important, and such trusts expose the trustees
+(a) By committing such breach of trust. See Pye r. Gorge,
+1 P. Wins. 128.
+c
+
+
+to liabilities, if they act improperly in regard to
+their trust; the same caution is therefore necessary
+for them, as for the trustees, to preserve contingent
+remainders, just noticed. They should never sign
+any deed in respect of their trusteeship, without
+being well assured of the legality of their act, under
+the advice and sanction of a professional person in
+whom they repose confidence.
+We now pass to a few remarks on the other
+general class of trustees, viz, trustees by implication,
+of whom it was said they are not the principal
+objects of this work, because of more rare occur-
+rence ; but still convenient to be incidentally no-
+ticed, as being liable to many of the same rules as
+apply to express trustees. But as such trustees by
+implication are not the immediate objects of this
+treatise ; and as the circumstances from which they
+derive their character are of far less ordinary occur-
+rence, than those which constitute trustees by ex-
+press creation as before noticed; and as such
+trusteeship by implication must ever involve pro-
+fessional interference and guidance, it is too remote
+from the object of this work to enumerate the many
+and nice ' predicaments from which such implied
+(otherwise termed resulting or constructive) trusts
+arise, and which constitute trusteeship by implica-
+tion. Suffice it here to state, therefore, by way of
+
+
+definition, that these last named trusts must origi-
+nate from circumstances of peculiar description, in
+which it would be considered to be against the
+rules and principles of Equity, that the person
+holding such property should hold it otherwise than
+as a trustee.
+But it may be useful to state a few leading
+instances of this species of trusts and trusteeship.
+If, then, a trustee renew in his own name a lease of
+property he holds in trust, whatever legal claim he
+may gain to that renewed lease, still, in equity, it
+will be subject to the trust; and he who renewed it
+becomes, therefore, in the view of equity, a trustee
+by implication : he holds the new lease on an im-
+plied trust for his original cestuique trust; equity
+considering all benefit that can arise from, or by
+means of, the trust property, as belonging to the
+party for whom it is held, (a) And if a person
+having a limited interest in leasehold property re-
+news it for his own benefit, he is, by like implica-
+tion, a trustee for the benefit of all other persons
+associated with him in that interest. ( b ) So also,
+if a person jointly interested with an infant in a
+lease, obtain a renewal to himself alone, and the
+(«) Griffin v. Griffin, 1 Sch. Ambl. 719; 3 Meriv. 197.
+& Lefr. 352; Lord Montford (h) 1 Cruise Dig. 471.
+r. Lord Cadogan, 17 Ves. 485 ;
+c 2
+
+
+lease prove beneficial, he will be held to have
+acted as trustee, and the infant may claim his
+share of the benefit; but if the lease do not prove
+beneficial, the trustee must take it upon himself, (a)
+In every other case of fraud or undue advantage
+in obtaining a conveyance, the grantee will be con-
+sidered in equity, as a trustee for him who has
+been defrauded, or ought in justice to participate
+of the benefit. (6) A mortgagee in fee and his
+heirs, hold the mortgaged property in trust for
+himself and his executors; which seems to be the
+only exception to the general rule, that a man
+cannot be a trustee for himself, but that in all
+trusts there must be‘a cestuique trust, distinct from
+the trustee, capable of enjoying the use or trust, (c)
+But when the mortgage debt is paid, the mortgagee
+and his heirs are trustees for the mortgagor. ( d )
+The acts of parliament creating ■ stock, contain ex-
+press clauses that it cannot be bequeathed, as stock,
+except by will attested by two witnesses; but if
+stock do not pass by the will, yet by virtue of the
+statutes it goes to the executor, who takes it subject
+to the trusts of the will;. and thus becomes a
+trustee for the legatee, in whom, had the bequest
+(a) 1 Cruise Dig. 471; Sand. (tj Bam. Rep. 50; Willis, 68.
+335; Bos. & Pull. 376. (d) Powell on Mortgages,
+(5) Cruise 437. vol. 1, p. 10.9.
+
+
+been made according to the statutes, the stock
+would have immediately vested, («) With respect
+to partnerships, when one partner dies, the debts
+and effects survive to the remaining partner or
+partners, unless there were some express provision
+or agreement to the contrary; but if there were no
+such provision, then the surviving partner or part-
+ners are merely trustees for the representatives of
+the deceased partner, for his share. ( b )
+No person can be a trustee unless he accept the
+trust, and take a vested interest in the subject of
+it: or unless he so far interfere with the trust pro-
+perty as can be construed into an acceptance of the
+trust. The law will not, force a man to take an
+estate aginst his will.
+If a trustee refuse to accept a trust, a court of
+equity will either appoint new trustees or take upon
+itself the execution of the trust, (c)
+Perhaps the most prominent feature of all others
+in trusteeships, is its honorary or gratuitous cha-
+racter, as will be afterwards more fully noticed.
+(a) 13 Ves. 369. (i) 2 Mad. Clta. 94.
+(c) 2 Fonbl. 171.
+
+
+
+
+CHAPTER II.
+OF THE CHOICE AND APPOINTMENT OF TRUSTEES,
+From what has been said at the commencement
+of the preceding chapter, it is easily deducible, that
+there is a mutuality of interest between those who
+have occasion for the friendly intervention of trus-
+tees, and those who from friendly motives accept
+the office; the one is interested in the character
+and capacity of his trustee; the other in his own
+safety from injurious responsibilities, as will after-
+wards appear.
+The present short chapter is devoted to the former
+of these considerations, and to other considerations
+in near connexion with it; viz, the attention and
+care which ought to be bestowed by persons con-
+templating the appointment of trustees.
+Individuals possessed of property, and wishing to
+secure its right distribution, for those who are the
+
+
+objects of their care, either by settlement or will,
+must be supposed to be acquainted with the general
+nature of the course of conduct required for the
+attainment of those objects in the execution of the
+trusts which such property, and its disposition,
+render necessary. By this, however, is not meant
+that the intelligence of unprofessional persons can
+always, if ever, serve as a substitute for professional
+assistance, in their arrangements ; the want of which
+assistance often leads to the greatest evils, even the
+very evils wished to be avoided; expence for one.
+It is here only meant, that the individuals in ques-
+tion should exercise their discretion in selecting,
+as far as possible, for trustees, men possessed of
+the qualifications required by the nature of the
+property, and. the circumstances of the proposed
+trusts. Marriage settlements and wills, as has been
+observed, are the instruments by which family trus-
+teeships are usually created; and nothing need be
+said on their more usual objects, viz, the party’s wife
+and children, among the most interesting, doubtless,
+of all human relations. Nor should the trustees of
+a marriage settlement be deemed to require less
+care in their selection than those of a will, merely
+from the idea that the husband is in being in the
+former case, and not in the latter, himself to super-
+intend or watch over his own and family’s interests ;
+
+
+for even that circumstance may be evaded by deter-
+mined dishonesty, aided by equal artifice. There
+are more instances of delinquent trustees than meet
+the ear, or are generally known. The difficulty of
+bringing them before the proper tribunal, and when
+there, sometimes, of obtaining effectual remedy;
+and the little notoriety, and opportunity for disguise,
+to wilfully corrupt characters, which attend those
+proceedings; these circumstances, in some instances,
+favour their escape. Some peculiar explanation of
+this observation may be given in another chapter,
+respecting trustees themselves.
+As great and little, generally speaking, are com-
+parative terms, so trusts differ certainly in magni-
+tude ; but all are of comparative importance to the
+parties. We shall, however, for the present purpose,
+conceive of all trusts as important, and of magni-
+tude ; those of my readers whose concerns may
+have least of the latter, viz., of magnitude, will
+receive no injury from that assumption ; while
+those whose concerns and property are larger, will
+be proportionably interested in the subject. In this
+view of the matter, therefore, it may safely be said,
+that “ zeal, probity, and ability,” are qualifications
+which ought to be an object of solicitude and
+enquiry in persons who contemplate the choice of
+trustees. Neither should the party proposing to
+
+
+appoint, consider the matter in the light merely of
+borrowing the formal use of their friends’ names.
+We grant that, as men on these occasions seldom,
+if ever, resort to any persons whom they do not,
+in greater or lesser degree, account their friends, it
+may seem absurd not to take for granted their
+sufficient cognizance of their friends’ character and
+qualifications. For who can be expected to admit
+that he has rogues or incompetent persons in the
+list of his friendly associations; at least, among
+those from whom he would look for such offices as
+we are now contemplating. Nevertheless, care and
+attention in these respects are still essential. Nor
+should it be considered as a compliment paid to,
+but rather as a favour asked of, such as may be
+deemed competent, from the qualifications above
+adverted to, to undertake gratuitously, and from
+purely friendly motives, an office from which all
+profit is precluded, and which sometimes proves
+an office of some anxiety, as well as trouble and
+difficulty.
+Connected with this part of the subject, is the
+propriety there seems to be in (what is often not
+thought of being done) communicating with pro-
+posed trustees on the appointment contemplated,
+including such a general explanation of the circum-
+stances, as may elicit the fitness and willingness, or
+
+
+the reverse, of the party thought of for undertaking
+the proposed trust. This certainly may be less
+necessary in some cases than in others. The possi-
+ble evil to arise from the neglect or omission of it is,
+that it may lead to inconveniences, and expence, too,
+from its being discovered, when too late, that the
+trust implicated some peculiarities, of which, had
+the trustee been apprised, he would have declined
+it. And in such cases the fault seems chiefly to
+rest on the party appointing, since he is assuredly
+the most concerned, and the other might from
+delicacy, have abstained from making enquiries
+necessary for his information. Neither, in case of
+several trustees, does it seem superfluous to recom-
+mend, with a view to avoiding future inconveniences
+also, their being informed of each other’s appoint-
+ment, unless in cases where there can be no doubt
+at all of their acting harmoniously together. But
+this becomes more important to be ascertained, if
+what is suggested above be correct, viz. that trustees
+should not be named for the formality of their
+names merely, but on account of qualifications
+which would fit each of them for taking an active
+part in the trust concerns.
+It has been observed in a preceding chapter, that
+trust property, and the confidence also, if not ex-
+pressly hindered, survives to the surviving trustees
+
+
+on the death of any of them ; but that if all die, the
+property and trust devolves (if not otherwise limited)
+upon the representatives of the party dying. Thus
+do trusts frequently fall into the hands of persons
+whom the party originally nominating, would not
+have chosen. The uncertainty of human life renders
+it impossible to guard wholly against this incon-
+venience, but it may be provided for as far as
+possible. There are two points to be attended to for
+this purpose. One is to appoint as many concur-
+rent trustees, in the first instance, as the circum-
+stances admit of, so that although, as it is said, all
+the candles are lighted at once, there may be a
+greater probability of the extension of the life of
+some ; and the other expedient (so far as its efficacy
+can be supposed to extend) is, to give directions for
+the remaining trustees, as any drop, to fill up their
+number by the appointment of new ones; and this
+provision may be extended to a single trustee, in
+case, at any time, the number should be reduced to
+one. This, indeed, is a usual provision in deeds and
+settlements, but it may by possibility be omitted,
+and therefore it behoves parties concerned to guard
+against such omission. For although by this means
+the new trustees thus introduced, are not of the
+immediate appointment of the original creator of the
+trust, yet being chosen by those whom he did
+
+
+appoint, it comes as near the intention as human
+affairs will admit.
+A question of some weight, viz., what is the
+motive of appointing several trustees? arises here.
+Is it, that in case of death, there may be some to
+supply the place of the deceased ? Or is it that
+there may be a mutual watchfulness among the
+trustees, over each other? Or is it that amonf a
+' O
+multitude of counsellors there may be wisdom,
+and that therefore they may all be actively assist-
+ant in the execution of the trusts? Or is it that
+the more trustees there are, the more security there
+is for the cestuisque trusts in case of misfeasances,
+by having more persons liable to answer for the
+misconduct of a co-trustee ? It is possible there
+may be some discrepancy of opinions, even among
+the highest authorities, on these questions. But
+perhaps an intelligent person contemplating the
+creation of trustees, ought, himself, to decide
+upon a solution of his own, of these questions,
+and to nominate trustees accordingly. If he wished
+that none should take the lead, (a pre-eminence
+which sometimes is hazardous to the trust), but
+that all his trustees should be equally important
+in the trusts, and equally attentive to their practical
+execution, he should not only chusc persons com-
+petent in themselves, but such as would be likely
+
+
+to draw amicably together; the reverse of which
+is possible to he the case, and where it happens
+is productive of injury; and hence the necessity
+of circumspection in the appointment, in that re-
+spect. These, however, are merely hints, to be
+acted upon, with professional advice, as the exi-
+gency may occur.
+The frequency and the expensiveness of Chancery
+suits in trust affairs are well known: and the en-
+tering into, or abstaining from such suits, may be
+considered as a kind of Scylla and Charyhdis.
+Error may be committed by being too forward and
+too tardy, too ready or too reluctant. Sir George
+Hampson, in his treatise, observes, that “ the
+practice now too commonly adopted by trustees, of
+obtaining a decree of the Court of Chancery for
+their direction, is, in almost every instance,
+attended with so much delay and expence, as to
+be a serious injury to trust property. ” That
+the power of resorting to Chancery has been car-
+ried too far, may readily be admitted, although often
+to be truly accounted for, by the circumstance of
+the trustees finding themselves involved in trusts
+not communicated to them by the testator, or other
+creator of the trusts, and which trusts, had they been
+made acquainted with and declined, others might
+have been found to have undertaken them. On
+
+
+the other hand, there are not wanting, in the records
+of official transactions, some testators of great pro-
+perty, and good judgment, who have deemed it
+advisable, and perhaps to save to their trustees
+all dilemma or uncertainty, and to the estate ex-
+pence, to direct, that the trustees should file a bill,
+make the testator’s children wards of court, and act
+under the court’s direction. The old adage, of the
+longest way about being the shortest way home,
+may be applicable to many, if not all instances of
+this nature ; and at any rate, in affairs of material
+magnitude and complexity, may be a wise one in
+reference to this subject. We often view objects
+which have acquired an evil name, with instinctive
+aversion; while a nearer approach and closer view
+may discover our error in imagining mischief where
+lay our greatest benefit. The danger of deferring
+some concerns proper for the oversight of a Court
+of Equity, consists in their becoming so much
+(more or less) involved, as to cause considerable
+and expensive investigations in the court; which
+would have been avoided by an early reference to
+its guidance and protection; which though expen-
+sive (and what is not expensive?) is safe, and
+perhaps even less expensive upon the whole, if
+early applied to, than carrying on the trusts un-
+advisedly for some time, and then resorting to the
+
+
+court, as is frequently the case. All this, however,
+can only be decided upon from the peculiar cha-
+racter of every case, and from a combined view
+of the property, its intended disposition, and per-
+sons appointed to execute that disposition. It must
+again be admitted, that active and intelligent men,
+as trustees, may go far, at all times, to prevent the
+necessity of thus recurring to the aid of Chancery,
+at least in ordinary cases.
+
+
+CHAPTER III.
+THE ACCEPTANCE OF TRUSTS, AND CONSIDERATIONS
+PREVIOUS THERETO.
+It has already been observed, that the importance
+of trusteeships is mutual, as between the appointer
+to, and the acceptor of, a trust; and the last
+chapter was occupied in considering the leading
+points wherein individuals, proposing to appoint,
+should be attentive and cautious. Trustees them-
+selves will from thence easily gather somewhat which
+may concern them more immediately; but besides
+what is there stated, to trustees belong other con-
+siderations peculiar to themselves, which I propose
+making the subject of the present chapter. I mean
+here the points they should advert to, previously to
+their accepting the office of trustee.
+The prominent feature of this subject of attention
+is, what is not always in the contemplation either
+
+
+of those constituting, or those who are constituted
+trustees, that (as before observed) the office, although
+strictly gratuitous and studiously excluded from
+profit both at law and in equity, may, nevertheless,
+and often does, involve serious responsibility, as
+well as considerable trouble, and sometimes diffi-
+culty. It is by no means intended, by recommend-
+ing chnsideration to persons before they accept a
+trust, to deter them from that very essential and
+valuable friendly service; but only to prevent, as
+far as may be, their engaging in what they may
+afterwards regret having done, and not find it per-
+fectly easy to recede from. It is to be understood
+that what may be here said on the subject, is
+intended as applying to private, not public trustee-
+ships as distinguished in Chapter I.; and indeed
+to those private trusts exclusively which we call
+family trusts under settlements, or under wills,
+and not to those other private trusts which are
+rather of a formal and quiescent and less active
+nature, as before explained, and which require, there-
+fore, the less caution; such as trustees to bar dower;
+to preserve contingent remainders; and trustees of
+terms; of which some explanation was given in
+the preceding chapter.
+Persons liable, from their station in society, to
+be requested to become trustees, should, therefore,
+n
+
+
+ask themselves whether they stand prepared to
+accede to every such request without consideration
+or discrimination. If they do, no circumstances
+for, consideration need of course be proposed to
+them. But if few will be found who do not con-
+sider it right to use consideration and discrimination
+on the subject, it then becomes of some consequence
+to determine what are the points to which their
+attention should be turned, when deliberating whe-
+ther to accept the office or not, and what they
+ought to advert to previously to their accepting it.
+■lt is, repeated, because important, that the office
+of trustee ought, as well on the part of those who
+impose or rather perhaps confide the office, as on
+their parts who accept it, to be considered as any
+thing rather than merely nominal or honorary, or
+unhazardous, although, generally speaking, strictly
+gratuitous. This is meant of family trusts in mat-
+ters of property where the trustees are expected to
+be called upon to, act, on important occasions. It
+seems obvious, therefore, to enquire what the
+points are of which a person ought to be consider-
+ative, previous to his accepting the office of trustee,
+in addition to those which will naturally suggest
+themselves to the reader of the ensuing chapters,
+on a trustee’s duty and responsibility.
+It is not then a person’s own future. acts, con
+
+
+corning which he is to deliberate previously to his
+accepting a proposed trust, because those acts will
+demand his attention as the occasions for them may
+arise; but it is the general nature and probable
+circumstances of his undertaking. How then can
+he know those particulars unless by voluntary com-
+munication from the party, or his own enquiry ?
+When he has therefore ascertained the description
+of property which is to be the subject of his
+management, and how it is situated; whether it
+is in a complicated or involved state, or consists
+simply of property, whether real or personal, which
+will be of easy management, such as the receipt of
+rents or of dividends, or other regular income; or
+whether the property is of various description, and
+will involve considerable attention and care, and
+knowledge of business and the affairs of life gene-
+rally; he will then be the better able to judge of
+his own capability, in all respects, for undertaking
+such an office. He must remember, too, in con-
+nection with these considerations, that although the
+office of trustee is wholly a matter of gratuitous
+friendship, and, as will be more fully seen after-
+wards, entirely excluded from all permitted gain and
+profit in any shape; yet that it involves, as has been
+hinted, more liability and responsibility than attach
+to a man in reference to his own concerns. For
+n 2
+
+
+that want of due diligence and caution which people
+may allow to themselves in their own concerns,
+without animadversion, or censure, or penalty, the
+law does not allow in the case of trustees of the pro-
+perty of others, and of which they having undertaken
+the voluntary care and oversight, thelaw charges them
+with all the assiduity and prudent conduct which the
+matter in itself requires: so that it is not enough
+simply for a trustee to say he has paid the same
+attention to his friend’s concerns that he would, or
+ever has done, to his own. More than that is re-
+quired of him, if, of his own, he has been negligent,
+or less circumspect than a wise and prudent man
+ought to have been. , And for this jealousy in the
+law there seems good reason. For the law does not
+pretend to the impossible task of diving into men’s
+hearts, or motives of action, farther than their deeds
+furnish them with the means of so doing: it must
+therefore act upon that general principle, and it
+must protect all and relieve all who seek its protec-
+tion and relief. And in the present state of human
+nature, the difficulty (which a court of justice cannot
+be expected to undertake) of distinguishing, in all
+cases at least, between men’s actions and their
+motives or principles, is well known. Besides,
+could the motive or principle even be ascertained to
+have been free from guilt or turpitude, still in many
+
+
+cases of laches, or want of due care and caution, the
+law will not suffer that consideration to operate to
+the prejudice of the parties on whose account a trust
+has been voluntarily undertaken. His own suffi-
+ciency, therefore, in point of knowledge, skill, and
+habits, ought to be a primary object, of consideration
+with every one contemplating the acceptance of a
+trust. A man should not undertake a thing—for
+others at any rate —to which he is conscious of being
+unequal in point either of skill or activity.
+■ Another enquiry to which it seems obviously proper
+for a .proposed trustee to direct his attention, pre-
+viously to his acceptance of a trust, relates to the
+person or persons with whom he is to be associated,
+in it. Trusts ought not to be considered as trivial,
+or formal, or nominal matters. It may lead a person
+into situations of pecuniary hazard and injury of
+which he is little aware, arising, not merely from his
+own deficiencies, but from the bad (though to his
+friend, who seeks his assistance, unknown) princi-
+ples, though fair external character or characters, of
+the person or persons with whom he may be asso-
+ciated. This is a very proper hint to be thus gene-
+rally thrown out here, but some illustration of it will
+be given in its proper place afterwards. So that a
+trustee’s dangers are not confined to himself or his
+own conduct, but depend much upon that of others;
+
+
+dangers which have, in practice, been realized
+where least expected, or suspected. Surely then it
+is more than pardonable in a proposed trustee to feel,
+and to evince, some solicitude, as to whom he is
+to be joined with in a trusteeship. This feeling
+indeed has been so predominant, that in one instance
+a proposed trustee would only consent to the nomi-
+nation, upon condition that, another person being
+joined with him, the trust money should be divided
+between them for the purpose of making each liable
+for a moiety only. This being done, the trust money
+divided accordingly, and a deed prepared in the
+common form, each trustee was held to be liable
+for a moiety of the trust fund only, (a) Besides,
+the trust may be of a nature, either as to the
+property itself, or as to the objects of the trust,
+whether children or others, to induce a probability
+of conflicting opinions as to its management; in
+which case the mutual characters of the trustees
+must be very material in reference to their acting
+harmoniously together ; and without harmony in
+this as well as in many other things, what but
+mischief, in some form or other, can accrue ; or if
+no mischief to the trustee, yet perplexity and incon-
+veniences.
+(a) 6 Madd. 90.
+
+
+It is not intended, as before observed, by these
+remarks to create unnecessary difficulties, or throw
+impediments in the way of friendly offices or general
+usefulness in society; and in most cases too great
+fearfulness or scrupulosity should be as much avoided
+as too little caution or consideration. The niedium
+line therefore is the line of safety, and to which
+these hints are meant to subserve, in aid of indi-
+vidual discretion. More points will present them-
+selves (which are here omitted to avoid repetition)
+on the perusal of the chapter before referred to with
+that intent.
+One other prominent consideration, however, should
+not be overlooked by a person contemplating the
+acceptance of the office of trustee, and that is, that
+his responsibilities and liabilities, and the conse-
+quences of them, serious as they some times are, do
+not die with himself. They survive him, and fall
+upon his representatives, whoever they may be; and
+in some instances have done so, and in all are liable
+to do so, to any imaginable extent of injury, to say
+nothing of trouble or inconvenience to the family or
+friends of the deceased trustee. This surely is no
+small additional reason for caution in accepting the
+confidence proposed.
+It has been, in a preceding page or pages, and it may
+be repeatedly said, (for it is of importance to be
+
+
+remembered), that the office of trustee, of the descrip-
+tion we are considering, is wholly and strictly gratui-
+tous. This, though a universal and established prin-
+ciple, is, nevertheless, like others of the same nature,
+capable of, and in fact requires, some modification.
+For although the law is, that the office of trustee is
+purely honorary, and that he is not entitled to any
+allowance for his care and trouble in the execution
+of the trust, (not meaning here, the allowance and
+reimbursement of all costs, charges, and expences,
+as will be mentioned in a succeeding chapter), yet
+should the proposed trustee, from his exercise of the
+preceding cautions, conceive, that there was a pro-
+bability of the intended trust proving particularly
+and materially troublesome, and yet of such a
+nature as to require the intervention of such friend-
+ship as can alone take a principal’s interest in its
+concerns—in such case of extraordinary claim, an
+exception to the general rule has been entertained,
+and the courts of equity have deemed it reasonable
+and right, to establish the doctrine and practice of
+remuneration or compensation to a trustee. There
+are two ways in which a contemplated trustee may
+avail himself of this regulation. The one is, after
+a satisfactory consideration of the facts and circum-
+stances of the trust, to such extent as he may be able
+]tp ascertain them, and before he accepts the trust.
+
+
+to stipulate with the party requesting him to become
+a trustee, (whether under a marriage settlement or
+other instrument, or will), for such pecuniary remu-
+neration or compensation, and in such a form or
+mode, as may be deemed fair and reasonable by
+all parties. In this case the instrument creating the
+trust should contain an express clause for that pur-
+pose, under which the arrangement would be carried
+into effect as a component part of the trusteeship
+without further trouble, uncertainty, or dissatis-
+faction. Should this mode be deemed objection-
+able, the only other method of effecting the object
+would be by a special case, to be made to the court,
+shewing that the proposed trustee ought to have
+compensation for his personal trouble and loss of
+time. Thus where a trustee acted in a trust, re-
+quiring great trouble and attention, under the
+express stipulation that application should be made
+to the court, to authorise the allowance of a rea-
+sonable compensation out of the testator’s estate
+for such time and labour, and refused to continue
+to act therein without such allowance, he was
+decreed to be entitled to prospective as well as
+retrospective compensation, (a)
+The foregoing, in conjunction with the information
+(it) Vid. Marshall v. Holloway, 2 Swanst. 453.
+
+
+to be derived from the following chapter, will furnish
+a proposed trustee deliberating on the acceptance of
+a trust, with such instructions for his consideration
+previous to such acceptance, as may he essentially
+useful. And although these circumstances may
+hot apply to all intended trustees, that does not
+hinder their evident and material applicability to
+many, and perhaps most who take upon them that
+office.
+One more object of consideration, before accepting
+the office of trustee should be, whether the indivi-
+dual has himself any claim upon any part of the
+property for which he may be proposed to be a
+trustee; because if he have, that circumstance
+should induce him to decline it; inasmuch as the
+jealousy of the courts of equity against trustees
+being subjected to any possible influence unfavour-
+able to the proper discharge of their duty, has been
+carried so far, as to have produced a decision, that a
+person accepting this office, is precluded from setting
+up such claim, when, if allowed, it would defeat the
+trusts he had undertaken to execute. Either such
+claim, therefore, must be abandoned, or the trustee-
+ship should be declined, (a)
+(a) Jac. & Walk. 112.
+
+
+
+
+CHAPTER IV.
+OF THE DUTIES OF TRUSTEES.
+The purpose of the present chapter is to assist
+persons, who have accepted the office of trustee, in
+obtaining such knowledge of its duties, as may enable
+them to execute those duties with advantage to their
+cestuique trust , and with safety and satisfaction to
+themselves; and the various capacities in which they
+may be required to act, shall be stated as succinctly
+and clearly as possible.
+In the first place, it must be again brought to
+remembrance that the office is so entirely of a gra-
+tuitous and honorary nature, (with the exception
+stated in the last chapter), and so far from being
+deemed to be undertaken from mercenary motives,
+that a trustee is required by courts of equity, and it
+therefore becomes his duty, to execute the trusts
+reposed' in him without any direct or indirect, imme-
+diate or remote, benefit or advantage whatever, to
+
+
+himself. The express provision to the contrary, ad-
+verted to in the preceding chapter, is the only excep-
+tion to that otherwise universal and fundamental
+rule; a rule which is carried to the extent of even
+not permitting a trustee to be appointed receiver of
+the trust estate, except upon the condition of his
+performing the duties of that situation without any
+emolument. On that stipulation trustees have been
+permitted to receive the rents, contrary to the
+general practice, when apparently advantageous to
+the property, (a) So jealous indeed is the law upon
+this point, that a donation from a cestuique trust to
+his trustee, very soon after the former came of age,
+and the trusteeship was of course dissolved, but
+before the trust property was delivered up or ac-
+counted for, has been set aside, with costs against
+the trustee. (6)
+The duty, in general, of trustees, is to execute
+with care and fidelity the trusts committed to them,
+according to their terras as expressed in the instru-
+ment, and intended by the party, creating them.
+This indeed will be always presumed by the court
+to have been done, until the contrary be shewn.
+Should a trustee entertain any well grounded doubt,
+or meet with any serious difficulty, a court of equity
+is always open to him; and to it in such cases it is
+(a) 8 Vcs. 72; 11 Ves. 361. (b) 2 Vc5.549.
+
+
+his duty to apply, and to execute his trust under the
+superintendence and protection of the court, (a) And
+trustees are competent to file a bill for this purpose.
+The rule, that a trustee is bound to manage and
+employ the trust property for the benefit of the party
+entitled, the cestuique trust, with the care and
+diligence which a provident owner would exercise
+in respect of the same property, has before been
+noticed. And it may now be added, that this rule
+extends to make it the trustee’s duty not to omit
+doing what would be manifestly advantageous to
+the property, although a discretionary power may
+have been given him. A plain proof that improvi-
+dence or neglect, or laches, will not be excused in
+a trustee, as such, though in his own affairs un-
+amenable to any authority on that account. He
+must therefore be more careful for his cestuique
+trust than he might be for himself. Himself he
+may injure by negligence or inattention; his ces-
+tuique trust he may not. Generally, also, it is
+imperative on trustees to be careful that no loss of
+interest accrue to the trust funds of infants. As
+soon, therefore, as they are possessed of any sum or
+sums of money to any competent amount for invest-
+ing, beyond necessary current expences, they should
+invest it, for the purpose of accumulation. This
+(a) Fonb. on Equity.
+
+
+should be done even when the trust is under the
+care and direction of a court of equity. And trustees
+should carefully avoid keeping balances in their
+own hands, which exposes them to great liabilities
+in point of paying interest for such balances, whether
+they have been productive to the trustees or not ;
+but more especially if they have. A surplus to the
+amount of 100/. in court, will be invested by the
+Accountant General. But trustees themselves may
+invest smaller sums, (a)
+In trusteeships wherein the cestuique trusts are
+adult, as well as in cases where infants are the
+parties interested, it is a duty strictly required of
+trustees, carefully to keep all necessary accounts
+with the utmost regularity and precision, so as to
+be ready to be at any time produced to any party
+entitled to their inspection. And it is equally their
+duty (i) to possess themselves of all necessary
+information respecting the disposition of the trust
+property, and to communicate such information to
+their cestuique trust (in cases, requiring it) without
+reserve. It is evident that a contrary course is open
+to every unfavourable interpretation. This duty ex-
+tends to the production also of all the books wherein
+(«) 3 Bro. C. C. 431; Lit- Cox Rep. 134. Jeremy 140.
+tleliales v. Gascoigne, 3 Bro. (b) 3 Swanst. 61, 64.
+C. C. 74; Hall r. Hallett, 1
+
+
+the accounts may have been kept; and more espe-
+cially so, should it happen that the trust property is
+mixed either with the trustee’s own, or with other
+property he may have in trade with partners; and in
+which case the partnership books should be exhibited,
+particularly if the property have been lent by him
+to his partners, and they dealt with it in their
+business, (a) This, however, is rather an extreme
+case, though too possible to happen.
+But so contrary to that use of trust property just
+mentioned is the duty of trustees, where money
+constitutes such property, and comes into the trus-
+tee’s hands, that they are bound by numerous
+decisions in equity, to invest such monies on good
+security; by which is meant, either proper mort-
+gage, or the government funds, to the exclusion
+of all personal security whatever; and those govern-
+ment funds are required by the Court of Chancery
+to be three per cents, as the acknowledged stock
+adopted by the Court, and sanctioned by it for such
+occasions. ( b)
+Another duty of trustees, though of somewhat
+more remote nature, is this, that, .in case of suits
+instituted by them respecting the trust property, and
+(a) 3 Mer. Rep. 44; Jac. & wards, that bonds and notes
+Walk. 135, 140. are not security.
+(b) It will be seen aftcr-
+
+
+wherein, they, the trustees, may be made parties,
+they do not permit the interests of their cestuique
+trusts to suffer from their neglecting to take the
+usual advantages in pleading, (a)
+In case also of trusts of real property, and in
+analogy to the old law of uses, it is the duty of
+trustees, in whom the legal estate is vested, and
+who are considered in courts of law as the legal
+owners, to permit the person beneficially interested,
+to take possession where he is competent to sustain it,
+and where it is not inconsistent with the trust, and to
+receive the rents and profits of the land. And in
+those cases where the whole beneficial interest
+belongs to the cestuique trust, to execute such
+conveyances as he shall direct ; and also to defend
+the title of the trust estate, in any court of law or
+equity, as well as to preserve the estate for the
+benefit of cestuique trusts, by preventing decay or
+waste. (b).
+The further duties of trustees, will be more con-
+veniently gathered from a consideration of the powers
+with which they are invested by the deed or instru-
+ment of their creation, and which form the subject
+of the next chapter ; as well as from their liabilities,
+as stated in chapter VI.
+(a) 1 Atk. 450. (i) 2 Mudd. Cli. 1 Sand.
+
+
+CHAPTER V.
+OF THE POWERS OF TRUSTEES; AND THEIR
+DISABILITIES.
+It has been observed in a preceding chapter, that
+trusteeships are of various, and very often of mixed
+kinds ; that is, either concerning real property only,
+or personal property only, or otherwise of real and
+personal both ; and in either of the cases, the duties
+and the powers of the trustees, of course take their
+complexions from these several circumstances.
+In trusts comprising real property, therefore, it is
+observed by Mr. Willis, (p. 126) that in a right con-
+veyed simply on trust, all questions relating to the
+extent of the trustee’s power depend upon the nature
+and purposes of the trust, and that if a trustee
+cannot properly discharge his trust without having
+ample powers over the subject entrusted to him, he
+may remove tenants, and exercise every other power
+except alienation, which is never presumed, and
+E
+
+
+requires a special clause; but that if the trust he
+created for one purpose only, not requiring such
+extensive powers, then the trustee’s powers extend
+no further than is necessary for the special purposes
+of the trust. This exposition of the powers of trus-
+tees, is according to the law of Scotland; hut the
+laws of England also, as administered in courts of
+equity, invest trustees with sufficient powers, with-
+out any particular declaration of them for such
+management of the trust property as a provident
+owner would have used; and going still further
+than the Scotch law, in order that the trusts may
+be duly executed, will infer a power of sale, although
+such disposition is not authorized in express terms.
+In this management of trust estates, when the trus-
+tees have, as they usually have, the legal fee, they
+are authorized to make leases which may endure as
+long as their interest in the subject of the lease
+subsists, (a) Where lands are devised upon trust
+out of the rents and profits, to pay debts and lega-
+cies ; or if a trust be created to pay portions out of
+the rents and profits at a prefixed time within which
+the same cannot be raised out of the annual profits ;
+in such cases trustees may sell or mortgage lands so
+devised for those purposes. The same, if in aid of
+(a) 4 Cruise Dip;.
+
+
+a creditor; or if the object of the trust necessarily
+requires it, as in case of fines and fees of renewal
+being directed to be raised out of the rents and
+profits, (a) And where trustees may raise money by
+sale or mortgage for payment of debts, it may be
+done without waiting for a decree of a court of
+equity for that purpose. (6)
+The power, interest, and authority of trustees is
+equal and undivided; and in that respect trustees
+differ from mere executors, and cannot, like them,
+act separately; they must all join both in receipts
+and conveyances. One of two trustees cannot alone
+sign a bankrupt’s certificate, as in the case of execu-
+tors. If an estate be given to two trustees for
+several purposes, and in case of one dying the other
+to execute the same, the refusal of one prevents the
+other from acting during their joint lives, (c) And
+if a power of sale be given to three trustees and
+their heirs, reserving to them also a power to
+change trustees; if one die, the survivors are in-
+competent to act before a new appointment, (d)
+But if one of three trustees renounce and give
+a release to the others, he is considered as having
+disclaimed; and the others may act alone, and give
+(a) 2 Ves. & Ilea. (c) 2 Eq. Ca. Abr.
+(h) 2 Ves. (<7) 1 Bam. V Aid. Rep.
+K 2
+
+
+a sufficient discharge to a purchaser. («) So if
+estates be devised to trustees, and two of such trus-
+tees, with two other persons were appointed execu-
+tors, and those who were merely executors and
+one of the trustees who was also an executor re-
+nounced probate, and such trustee refused to act;
+a contract for the purchase of the property which
+had been entered into by one of the parties who
+so renounced being found advantageous to the
+cestuique trust, the acting trustee and executor was
+held competent to convey the legal estate to him as
+the purchaser. (6)
+In some particular instances trustees have the
+power of retaining, out of the produce of the trust
+funds, any debt due to the trust estate. One example
+may be given in the case of a marriage settlement.
+In this case the intended husband had covenanted
+with the trustees to pay them a certain sum within
+a limited period, for specific purposes of the settle-
+ment. He afterwards assigned over to annuitants
+the dividends to which he was entitled under the
+same settlement. It was held that the trustees had
+a right to stop such dividends, after the sum co-
+venanted to be paid to them had become due, and
+was not paid, to make good the same for the pur-
+poses intended, (c)
+(d)2 Swanst. Rep. (h) Willis, 1.18. (c) 3 Mcr. licp.
+
+
+The powers which, as has been mentioned, trus-
+tees have inherently, by virtue of their office, of
+alienating, whether by lease, sale, or exchange, are,
+notwithstanding such inherent power, usually given
+them expressly by the provisions of the deed or will
+by which they are created; and in such case it is
+required of them to pay accurate attention to the
+terms of those powers in the execution of them. In
+the instance, for example, of leasing under such
+power, if the circumstances required by the power
+be not exactly and fully complied with, the execu-
+tion of the power is deemed unexecuted, and con-
+sequently inoperative. The power then should be
+rigidly pursued, and no covenant or other clause
+either added, inserted, or omitted, which the power
+does not warrant. There is one rather prominent
+feature in this part of the subject, which is, that
+even a power of leasing will not sanction the granting
+of reversionary leases, unless the trust estate itself
+be reversionary ■ otherwise the power can only
+warrant leases in possession; viz. leases granted to
+take effect at the time they are granted. Concur-
+rent leases, however, are legal; and to them the
+power will give effect. ( a )
+If to the powers before noticed, any conditions
+should be annexed, unless a compliance with them
+(«) Willis, Ml.
+
+
+have become impossible from any circumstances,
+such conditions should be scrupulously complied
+with, or they would not he enforced or sustained
+by a court of equity. ( a ) This rule does not seem
+to extend to an unavoidable transgression of the
+time within which a sale has been directed.
+Where a power of sale is given for the payment
+of debts, and after such payment the residue given
+over; in such case the trustees may sell the whole
+estate, and not confine themselves to the sale of so
+much only as may produce the money required. (6)
+Trustees have no power, either alone, or in con-
+junction with the cestuique trust, to appoint new
+trustees in cases of emergency, and to whom the
+property may be conveyed jointly with themselves,
+in the cases of death, or refusal, or incapacity of
+acting of any of the original trustees, unless there
+be an express clause, empowering them so to do
+in the deed or will. If there be not, recourse must
+be had to the Court of Chancery, to supply by its
+authority, the want of such a clause* (c)
+The power of trustees does not extend to change
+any securities upon which the trust fund may be
+invested, when it comes into their hands, unless
+(a) 8 Price, Rep. 417. ( b ) Cru. Dig. 529.
+(c) 2 Madd. Cha. 161; 1 Cru. Dig. 540.
+
+
+there be in the trust instrument a clause, authorising
+them so to do; but where it is so given, a court
+of equity will not control it, unless improperly
+exercised, (a)
+Another power, in which the discretion of trustees
+is often and importantly called upon for their guid-
+ance, is the raising portions for children, whether
+under a settlement or will. There are, however,
+few, if any, cases of this species of trust, that are
+not of so nice and difficult construction (unless the
+words of the deed or will are decidedly plain and
+unequivocal) that trustees can seldom with prudence
+act upon their own opinion. This, therefore, is an
+eminent instance wherein it would, generally speak-
+ing, be quite proper for trustees, as their safest
+cause, and consequently most beneficial to the trust
+property, to place themselves under the direction
+of a court of equity. (6)
+One or two instances may be noticed. If, there-
+fore, a term of years or other estate is limited to
+trustees for raising portions for children, payable
+at a certain time, which, by the children’s living to
+that time, have become a vested interest, they shall
+not stay till the death of the father or mother for
+their portions, but they shall be raised forthwith,
+(<t) 1 Vcs. & B. 354. (b) Fonbl. Eq.
+
+
+unless some intention appear in the settlement,
+to the contrary, (a) But if portions he directed
+to be paid when the party attains the age of
+twenty-one years, or in case of a daughter when
+she is married, and that if these events happen in
+the life time of the father, the portions shall not
+be paid till after his death ; although the actual
+payment must be postponed until the father’s death,
+yet the clause requiring such postponement does
+not hinder the portions vesting in the life time of
+the father. ( b) But generally, at least frequently,
+legal advice is necessary on these points as they arise.
+The subject of conditions, in settlements or wills,
+in restraint of marriage, is another fruitful source
+of consideration and caution for trustees in the
+execution of their powers. It frequently occurs,
+in the creation of trusts, that the consent of trus-
+tees to the marriage of a party beneficially entitled
+to the whole, or a part, of the trust funds, is made
+necessary, before such party, in case of marriage,
+is permitted to receive the provision made for her.
+These conditions are not favourably regarded in
+equity, and therefore, are construed strictly in favour
+of the party affected by the intended restraint. But
+this unfriendly aspect towards such conditions does
+(a) 1 Madd. Cli. (6) 1 Eden. Rep,
+
+
+not seem to be extended to a devise of land, or of any
+interest arising out of land, upon the terms of not
+marrying without consent: such condition is good, (a)
+This leads to the doctrine of conditions precedent,
+and conditions subsequent. A condition precedent
+is where the performance of a certain condition is
+required before the benefit is permitted to vest in or
+be enjoyed by the party required to fulfil the con-
+dition. A condition subsequent is considered to be
+in cases where, after an interest is suffered to vest,
+the same interest is made liable to cease and be
+devested, if the party enjoying it either do not
+comply, or cease to comply with a certain condition,
+or do any act contrary to it. The circumstances
+which are deemed to involve in them either the one
+or the other of these species of conditions, are fre-
+quently of nice and difficult construction ; but
+although in many instances it may be right for
+trustees to resort, on such occasions, to legal advice,
+yet it is presumed that as the matter is interesting,
+and not seldom occurring, some explanatory state-
+ments and examples may be useful for the general
+guidance of trustees, so that although they may
+consult others, they may nevertheless have a well
+founded opinion of their own.
+It may just be observed then, that a condition
+(a) 9 East’s Rep. 170.
+
+
+annexed to a devise of lands, or of any interest
+arising out of land, not to marry without consent, is
+good, and will be established ; and that where such
+a condition is precedent, the estate does not vest
+until the condition is performed; but if it be sub-
+sequent, the estate will be devested by a breach or
+non-performance of the condition. This may be
+illustrated by the following instance. An estate was
+devised to the testator’s wife for life, and after her
+death to H. L. for life, in case she should continue
+single; and after her decease, to such person as she
+should by deed or will appoint; and for default of
+such appointment, to A. L.,and M. L., their heirs,
+&c., as tenants in common; but in case H. L. should
+marry in the life time of the testator’s wife, and
+with her consent, and after her death w’ith the
+consent of two trustees named in the will, then
+H, L. was to have had the estate as. she would have
+done had she continued single. The testator’s wife
+died, and the trustees also died; and H. L, took
+possession of her estate, and married. It was held
+that the condition in the will as to the marriage of
+H. L. was a condition subsequent, and became im-
+possible by the act of God, and therefore her estate
+for life became absolute, and she might exercise the
+power of appointment as directed by the will. («)
+(a) 3 Moore’s Rep. 358.
+
+
+In the case of legacies it is different; for where the
+condition of marrying with consent is a subsequent
+condition, the legatee will keep the legacy though the
+marriage be without the consent required, (a) With
+respect to conditions in restraint of marriage in cases
+involving personal property, courts of equity afford
+a latitude in performing such conditions precedent
+as it enforces. Therefore, if a bond be given to a
+trustee to pay a sum of money, in case a third party
+should marry with consent of the trustee if living at
+the time of the marriage, the trustee has all his life
+to consent ; and although such trustee should in the
+first instance dissent from such marriage, yet if he
+live on friendly terms with the party afterwards,
+that is deemed good evidence of his consent. (6)
+Constructive consent, indeed, is now established as
+sufficient without express consent, unless when the
+trust instrument expressly requires such consent to
+be in writing, (c) In case of consent being fraudu-
+lently withholden or refused by one or more trus-
+tees, the assent of the other acting trustee or trus-
+tees will be sufficient; and a court of equity will
+supply such consent so improperly withholden.
+There are many nice distinctions and complex cases
+which may arise on this subject, which must be the
+(«) 2 Madd. Cli. 05. (6) Willis, 157. (e) Ibid.
+
+
+subject of superior opinions to those of the trustees,
+should they arise: what has been said is deemed
+sufficient for the purpose of this treatise, in exhibit-
+ing the general outline and grounds upon which
+trustees should act, and exercise their powers herein.
+The maintenance of, as well as (what is before
+alluded to) raising portions for children, is also an
+important object in the powers which belong to
+trustees. A few leading rudimental observations
+will be useful, and as much as may be requisite for
+the purpose of this treatise. Considerable caution
+and discretion are required in the execution of powers
+given to trustees, or directions laid upon them, to
+apply such portion of the trust funds as may be
+needful for infants during their minority. The rule
+heretofore was very strict against permitting trustees
+to make any expenditures for such purposes in cases
+where the parent was of ability to maintain the
+children, (a) But the practice of the courts of equity
+is now so far altered in this matter, that every case
+must be viewed so as to meet its exigencies in a more
+liberal and equitable manner. Therefore even al-
+though the author of the trust bounty to infants,
+may not have expressly directed maintenance to be
+allowed ; yet the court will now not only direct it in
+(n) Hughes v. Hughes, 1 Bro. C. C. 368, Kd. Belt.
+
+
+such case, but will go so far as to order the reim-
+bursement of a trustee who may have advanced or
+applied such maintenance out of the trust fund for
+the time past, where deemed necessary. Nor will
+the court insist upon a reference to the master to
+enquire into the father’s ability, when the circum-
+stances are strongly indicative that, the child’s
+fortune being large, and the father having other
+children, he would be inconvenienced by the burthen
+of supporting the child adequately to a fortune in
+which the father could not share, (a) But the break-
+ing in upon the capital of a child’s fortune is neither
+practised by the court itself, unless in the extremest
+cases of want, and is absolutely forbidden to trustees
+to do on their own authority in any case whatever. ( h )
+The powers, which are frequently given to trustees,
+in reference to the distribution of a fund amongst
+several objects, will not be interfered with by the
+court, where those powers are, as they should be,
+exercised with equity and impartiality, without
+undue preference of one above another. A power
+similar to these, is that which trustees have of dis-
+charging the debts of their cestuique trusts, if done
+with the consent of the person by whom they are
+entrusted, and if for the benefit of the trust estate, (c)
+(a) 1 Bro. C. C. 380. (J) r. Vcs. 474. (c) 3P. Wms. 381.
+
+
+But it may be usefully repeated, that in numerous
+cases of discretionary powers committed to trustees,
+and in all doubtful instances at least, trustees,
+instead of relying on their own judgment or on
+the opinion of either solicitors or counsel, will
+best consult their own interest, and that of those
+beneficially interested in the subject of the trust,
+even though at some additional expence, by sub-
+mitting the exercise of their discretion to the con-
+trol of a court of equity.
+As to the disabilities of trustees; these, if few,
+are of a prominent nature, and arise out of the
+express character of their office, before mentioned,
+viz., that of being wholly gratuitous ; intended ex-
+clusively for the benefit of the cestuique trusts,
+and as being wholly excluded from deriving any
+advantage from it whatever. Hence, therefore, the
+general and influential rule, that a trustee shall
+not be permitted to raise in himself an interest,
+opposite to that of his cestuique trust. This
+gives rise to another and subordinate maxim, that
+a trustee, or particular agent, shall not be allow-
+ed to become the purchaser of that which he
+holds in trust, (a) If the connection be dissolved, the
+(n) York Buildings Company v. Mackenzie, 8 Br. P. C. 42;
+Ex parte Lacey, 6 Vcs. 64r).
+
+
+case then appears to be altered, (a) The jealousy of
+the courts of equity, lest there may have been
+improper management on the part of the trustee,
+in obtaining a knowledge of the property, supports
+this rule. But as in other matters there is scarcely
+a general rule \vhich has no exception, so in this
+there are cases wherein the rigour, of this maxim
+relaxes. Therefore where there has been a clear
+distinct contract, without fraud, concealment, or
+advantage taken by the trustee, and he have pre-
+viously agreed with the person beneficially inter-
+ested, that he shall no longer be considered a
+trustee with reference to the purchase; or obtained
+leave of a court of equity; he may then become a
+purchaser from his cestuigue trust, {b) Neither will a
+purchase by a trustee, if found to be beneficial to an
+infant cestuigue trust, be set aside; nor in other cases
+where more than the trustee has given cannot other-
+wise be obtained, (c) So also where a trustee, in whom
+land was vested in trust to sell for the payment of
+debts, pays more money in discharging such debts
+than the value of the land, he becomes the pur-
+chaser; and in case of personal property, if he indi-
+vidually advance to creditors more than its value, he
+(n) 2 Fonbl. on Eq. 49; 1 Sand. 162. ( b ) 1 Madd. Clia. 113.
+(c) 6 Ves. 625.
+
+
+would acquire an absolute right to it by operation
+of law, although a court of equity will always
+direct an enquiry into such transactions, (a) But in
+cases analogous to these, where the trustee makes
+any advantage to himself, it will not be allowed. (6)
+The rules respecting the not permitting trustees to
+act as receivers, have been before noticed, p. 44,
+(a) Lambton r. Bainton, I ley, 1 Jac. and Walk. 64.
+Cha. Ca. 199; Calmer v. Brad- (b) 2 Fonbl. 189.
+
+
+CHAPTER VI.
+OF THE LIABILITIES OF TRUSTEES.
+The liabilities of trustees spring out of that respon-
+sible character which, it has been seen, the law
+attaches to those who spontaneously undertake the
+office; for, as has been observed before, more dis-'
+cretion and care and diligence are required of a
+trustee for the concerns and interests of others than
+for his own : that is, in cases where negligence has
+been discovered; which, although not visited upon a
+man by legal animadversions in his own affairs, will
+not be allowed or overlooked in him, as a trustee.
+These liabilities also are produced by breach of
+trust, which often consist not only of grossly negli-
+gent or erroneous conduct, but also (which is worse)
+of fraudulent or dishonest conduct. In short,
+F
+
+
+“ wherever (as remarked by Mr. Willis) trustees
+fail in the performance of their duty, or exceed, or
+pervert the powers with which they are invested,
+they and their representatives, (unless it be a per-
+sonal confidence limited to the original trustees, and
+then it dies with them), 'whether deriving any benefit
+from it or not, become responsible to those for whom
+the trust property may be held, and are chargeable
+in equity for breach of trust.” So long, therefore, as
+trustees retain possession of the trust property, they
+are bound to act respecting it with the care and
+diligence of provident owners. A trustee will incur
+peculiar liabilities by assuming the ostensible owner-
+ship of the trust property so far as to make it appear
+that he alone is beneficially entitled to it; for he
+will not only be liable to his cestuique trust, but will
+also be subject to all the responsibilities which would
+otherwise attach to the party beneficially entitled:
+as where a trustee to whom two leases-were assigned
+in trust, represented himself as the actual landlord
+to a tenant of the leasehold estate, the trustee so
+acting was held personally liable to the original
+lessor, for want of repairs and subsequent rent, (a)
+Trustees merely acting as such, cannot discharge
+(a) 4 Taunt, Rep. 7G6.
+
+
+themselves, or those claiming under them, of the
+legal liabilities which would have attached to them
+as individuals placed in a similar situation. Wherever
+trustees violate their duty either by fraudulent aliena-
+tion ; by refusing to give possession to the cestuique
+trust , where he is competent to maintain it, and it
+does not militate against the trust; or by endeavour-
+ing improperly to eject him from possession of the
+trust estate; or by neglecting to receive and pay over
+the rents and profits of lands where the trust is for
+that purpose; or by refusing to convey at the request
+of the party to whom the beneficial interest belongs;
+or if guilty of fraud or negligence, want of caution,
+misrepresentation, mistake, or concealment; these
+will be deemed breaches of trust, for which a remedy
+may be had against them in a court of equity*
+Other instances will presently be noticed, but the
+foregoing may first be somewhat exemplified.
+As to want of caution : it has been decided, where
+a loss would have fallen upon trust property through
+the negligence of the trustees, that the trustees them-
+selves should make it good, although not acting
+from any improper motive, (a) And in a case where
+trustees had joined in a transfer of stock and
+(a) Rex v. Emery, 5 Ves. 141; Hainpson, 47.
+F 2
+
+
+entrusted the same to their co-trustee, upon his repre-
+sentation that it was required to pay debts, the truth
+of which they omitted to ascertain, those trustees
+were charged with the loss occasioned to their ces~
+tuique trust by that transaction, (a)
+The renewal of leases also is a matter wherein
+a trustee may easily incur censure, if not a more
+serious visitation, for want of due attention. Some
+leases, whether from the church, or from corporate
+bodies, or otherwise, and which are designated by
+the well known term of beneficial leases, require
+to be renewed at certain periods and before the
+expiration of the term originally granted. These
+renewals, though generally deemed desirable, yet
+sometimes are inconvenient where the trust funds
+happen to be inadequate to that demand upon them.
+It is, however, required of trustees to use every
+means in their power for enabling themselves to
+effect such renewals. Absolute incompetency or
+great inexpediency would, of course, have its due
+weight in exonerating them from blame for not
+renewing. But it should be added, that should the
+omission to renew actually occur, if without flagrant
+culpability, then, although the trustees would still be
+(a) 11 Ves. 335; 1 Mer. 712.
+
+
+liable to make good all loss in the first instance, yet
+they may, it is presumed, have a remedy over, against
+those who may have enjoyed the rents and profits of
+the trust estate, out of which the fine and other
+expences of renewal ought to have been paid, (a)
+The selling of stock is another matter always
+requiring care, in order to avoid liability to which a
+trustee may be exposed from various sources. There-
+fore, if a trustee, mistaking his power, should sell
+stock which he was not authorised to do, he would
+be decreed to replace it immediately. (6) And if
+acting even under a forged power in disposing of trust
+money, he must reimburse his cestuique trust, (c)
+Even gross ignorance will not excuse trustees from
+liability for mistakes, because the courts of equity
+are considered to be always open for their direction,
+under whose authority they may act securely.
+Trustees selling stock and entrusting the produce
+to any speculation in business or trade, however
+specious, are, as is reasonable they should be,
+responsible for all losses. They are also responsible
+for all losses arising from their adoption of any
+modes of investment considered improvident by the
+courts of equity, as before noticed, (the three per
+(a) Lord Montford v. Lord (b) 1 Vcs. 297.
+Cadogan, 17 Vcs. 485. (c) 2 Eden Rep.
+
+
+cents being the only stock approved of by the
+court), and which the instrument creating the trust
+did not distinctly authorise; or in any merely per-
+sonal security; or for even continuing to re-invest
+stock in any objectionable fund wherein it stood
+when it first came into their hands, (a) These rules
+have fallen hard upon some trustees who have been
+ignorant of them, and acted to the best of their
+judgment for the benefit of their cestuique trusts.
+But the importance of observing the rules, when
+known, is sufficiently obvious.
+With respect to erroneous payment of children’s
+portions, somewhat has been said in a former chapter,
+to put trustees upon their guard in that respect, and
+to shew that, generally speaking, it is a part of their
+trust on which they are peculiarly required to act
+under the authority of the court, unless in cases too
+clear to admit of doubt. One instance of this kind
+was, where, under a direction to pay portions to
+children as they came of age, a trustee paid one of
+them in full, after which the estate decayed, and was
+insufficient to satisfy the rest. The trustee was
+compelled, personally, to bear the loss; it being
+said he should have taken security in case of the
+estate decaying. (6)
+(a) 5 Vcs. 844 ; Hampson, 50. (4) 2 Ca. in Cha. 132.
+
+
+Another misfeasance in a trustee, and which
+would make him liable to its consequences, is con-
+cealment. Many cases may arise in which the with-
+holding of information, possessed by the trustee,
+from his cestuique trust, either during the con-
+tinuance of the trust or afterwards, would be in-
+jurious to the interests of the cestuique trust. In all
+such cases (of which trustees are supposed to be
+cognizant) trustees will be visited with appropriate
+penalties for such breach of trust, in violation of
+their avowed duty. If such concealment arose from
+corrupt motives of advantage to a trustee himself,
+the animadversions of the court would be still more
+severe against him.
+All misconduct incurs a breach of trust, as the
+word itself imports; and it may be made a cause of
+liability even in cases where the trustee has acted
+under legal advice; for a great authority (Lord
+Redesdale) has said, (although he admitted that the
+party meant to act honestly), “the court must pro-
+ceed, not upon the improper advice under which the
+party .may have acted, but upon the acts he has
+done. If, under the best advice he could procure, he
+acts wrong, it is his misfortune ; but public policy
+requires that he should be the person to suffer.”
+There may be an apparent hardship in a case of this
+nature. But at least it shews the caution a trustee
+
+
+ought to use in regulating his conduct by the highest
+authority he can obtain in momentous cases, if he
+do not choose to put himself wholly under the
+superior guidance and the indemnity of the court.
+It is not, however, meant that every instance of
+error in a trustee’s proceedings will be visited with
+severity by the court. But is it one thing to punish, and
+another to allow an innocent person to suffer through
+the error of one who ought to have been more cir-
+cumspect. The case, I apprehend, must be pecu-
+liarly strong in which the court would suffer loss to
+fall upon the cestuigue trust. The following incident
+will throw light upon this subject. In a settlement
+before marriage, it was agreed that £2OOO in the
+hands of a trustee should be laid out in land, the
+trusts of which were, that the husband should
+receive the rents during his life, and in case the
+wife should survive him, then that she should receive
+the rents for her life, and after the death of the
+survivor of them, the estate was limited to the
+children of the marriage equally ; but in case of the
+husband’s dying without issue of the marriage, then
+the land was limited to the widow absolutely ; but
+if he survived her, then to him in fee. The husband
+and wife were necessitous ; on which account the
+trustee was induced to pay them a part of the fund,
+which should have been so laid out in land, taking
+
+
+their release and joint bond of indemnity; and after-
+wards paid them more, amounting together to one
+half of the trust fund, on similar indemnity, and with
+a new agreement, that the remainder of the fund
+should be laid out for the separate use of the wife as
+long as she and the husband should live, and the
+whole to go to the survivor. The trustee moreover
+paid afterwards the remainder of the fund to the
+husband, who died without issue, and left his wife
+destitute. This certainly was a case of misconduct,
+and perhaps as favourable a one to the trustee as
+could well be imagined. Yet on a bill filed against
+the representative of the trustee, he was decreed to
+make good to the wife what was due in respect of
+the whole fund, out of the trustee’s personal estate
+in the course of administration, (a) Cases of this
+description are numerous; but one example is suffi-
+cient to shew the general rule, and the general
+necessity for trustees to avoid liability to themselves
+and their representatives, by adhering closely and
+carefully to the terms of the instrument creating
+them, and the trusts committed to them; if they do
+not deem it absolutely necessary to put themselves
+under the protection- and indemnity of a court of.
+equity. With respect to any extraordinary divisions,
+(a) 1 Atk. 615.
+
+
+in the shape of bonus, amongst any proprietors of
+stock, such bonus is considered not as interest but
+capital, and as such not to be paid to a tenant for
+life of the dividends, (a)
+The compulsory payment of interest by trustees,
+is another liability to which trustees- are exposed,
+and which they ought to use all care to avoid.
+Generally speaking, the court will not allow the
+property of infants to remain unproductive; and
+there are two predicaments under which it sometimes
+does, and in consequence of which trustees are
+visited penally by the court. One of those predica-
+ments is, where the non-production of interest by the
+trust fund has not, and the other where it has, been
+advantageous to the trustee. In other words, the
+difference is between the trust property being
+suffered to be idle instead of diligently employing
+it for the benefit of the party interested; and the
+trustee’s using it for his own profit. If indulgence
+be sometimes shewn to the defaults of the first
+class, it never is to those of the other class. Trus-
+tees, therefore, should not keep balances (beyond
+necessary current expenditures) in their own hands,
+unless they mean themselves to be responsible, not
+only for its safety, (instead of paying it into court.
+(a) 4 Ves. 800.
+
+
+or investing in the funds, or on secure mortgage),
+but also for legal interest. Sometimes the court will
+consider such legal interest to be four, sometimes
+five per cent., and will sometimes require even
+higher interest than this, according to the circum-
+stances, and the conduct, more or less culpable, and
+more or less profitable to the trustee, as the case
+may be. To guard against these liabilities (which
+dishonest trustees often incur, though, perhaps, they
+often escape also) a trustee should not forget, not
+only that he is bound to do the best in his power,
+or that circumstances will admit, for the benefit of
+his cestuique trust; but that the law absolutely
+forbids his turning his office of trustee to any advan-
+tage at all to himself, by using for his own benefit, the
+trust property, in any way whatever; guided by which
+simple rules, a trustee cannot err in this quarter, (a)
+The carrying on of trade or business also for the
+objects of a trust estate, is a very hazardous expe-
+dient ; for the trustee may easily make himself
+responsible for various losses. He ought, therefore,
+to abstain from such measures, unless under the
+most explicit and clear direction of the party by
+whom the trust was created, and by the instrument
+of'creation itself, and even then, perhaps, seldom,
+(n) 2 Madd. Ch. 135, 137; 2 548 ; Hilliard v. George, 2 Ca,
+Foubl. 186; Lee e. Lee, 2 Vern. in Cha. 235; Willis, 178, 179.
+
+
+unless in very clear and satisfactory cases indeed,
+without the sanction of the court, (a)
+The principal, if not only, source of justification to
+trustees in dealing with trust property out of the
+ordinary and approved way, sanctioned hy courts of
+equity, is where cestuigue trusts legally competent, and
+fully informed, nevertheless acquiesce in the trustee’s
+proceedings. In such cases they are held to preclude
+themselves from making claims they otherwise might
+have done, where losses have occurred. But in all
+such instances the trustee must distinctly shew that
+those for whom he was trustee were completely in-
+formed and aware of their rights in all respects
+whatever, without any concealment or misrepresen-
+tation at all on the part of the trustee. ( h ) Added
+to'which must be, as before noticed, the terms and
+directions of the trust instrument itself, whether
+deed or will, to which, if trustees strictly conform,
+they will not be deemed to fall under the charge of
+grossly negligent, mistaken, or improper conduct.
+But it must be remembered that doubts and diffi-
+culties are not seldom found even in pursuing, inten-
+tionally, at least, the directions of the authority
+under which they act. In such cases to resort to
+the' direction and consequent indemnity of a court
+of equity, is the only safe course.
+(a) Willis, 180. (6) 1 Russell, 297.
+
+
+As an instance wherein it may be somewhat diffi-
+cult to know the precise boundary to be set to the
+meaning of the trust deed or instrument, the follow-
+ing case may be selected as an intimation to trustees
+to exercise not only the greatest caution, but even to
+use the utmost discretion in estimating their very
+powers. It is this: that where trustees are expressly
+authorised to lend the trust property on real or per-
+sonal security, they will not be justified in lending
+it to a trader on his bond, (a) Here is to be observed
+first, the jealousy which the courts of equity en-
+tertain of trade as an investment of trust property, on
+which there seems little occasion to animadvert,
+considering trade in all its aspects ; and then, that
+neither promissory notes, nor bonds, seem to consti-
+tute that personal security which the court intends,
+when the term is used with reference to the employ-
+ment or investment of trust property. Notes and
+bonds, in this point of view, appear to be looked
+upon rather as evidence of debt, than as security. ( b )
+Personal security therefore, for these purposes, must
+mean something tangible, and convertible into
+money; suppose chattel interests in land for houses,
+but inferior to freehold or real property. Loans,
+therefore, in any shape, or to any person whatever,
+(a) Langston t. Ollivant, Coop. Rep. 33. (/>) 3 Swansf.
+
+
+whether to any of the trustees themselves, though all
+responsible, or to others, yet if not secured by actual
+and valuable property, will be deemed improvident,
+and subject a trustee to all consequences in case of
+loss. With respect to public funds wherein to invest
+the trust property, it has been already observed that
+the three per cents are the only fund that will afford
+trustees full indemnity. But South Sea, or other
+similar stock, is not acknowledged by the court,
+either for original investment, or wherein even to
+suffer the trust property to remain, unless when they
+have no authority given them, by the trust instru-
+ment, to change securities. In such case it should
+seem they are justified in allowing their continu-
+ance; and would even change them at their own
+risk in point of any loss]that may happen ultimately
+to the fund. And where a trustee had unnecessarily
+and without authority sold trust property, which
+afterwards increased considerably in value, he was
+decreed to account for the value which it bore, at
+the time when he actually did obtain the authority
+for its sale, (a)
+It may have been gathered. from the preceding
+statements, but is now expressly stated, that corrupt
+motive is not essential for charging a trustee with
+loss. Gross negligence, or even confidence mis-
+(a) Pro. in Cha. 205; Hampson, 52.
+
+
+placed, will make them liable: but this does not
+extend to confidence placed in those Jin whom, as
+well known and universally trusted, a trustee may
+commit the trust property, under proper circum-
+stances. This applies to bankers of acknowledged.re-
+putation, and, perhaps, other public persons of similar
+description. In these instances, however, care must
+be taken to keep the account distinct, so that the
+property be not mixed up with that of the trustee’s
+own. (a)
+Instances of co-trustees trusting each other inju-
+riously to the trust property, are not wanting: but
+even the circumstance of one trustee confiding in an
+attorney, a co-trustee, will .not excuse a solvent
+trustee so confiding, in case of loss through the
+dishonesty of the trustee so confided in. Inactivity
+will, in some cases, form a ground for charging one
+trustee for the fault of another, where, by common
+activity, that fault might have been prevented. For
+if one trustee consent to the trust property remaining
+in the hands of another trustee to whom it was con-
+fided for a particular purpose, and that trustee do
+not, in proper time, apply the money to the pur-
+pose intended, it behoves the co-trustee to inform
+(a) 4 Madd. Hep.
+
+
+himself of its safety. At least he runs the hazard of
+being charged for any misapplication if he do not.
+Shades of difference in circumstances will, in all
+cases, as may be supposed, vary the effect. One
+remarkable instance may be of service for elucida-
+tion. There were three trustees of money in the
+funds under a marriage settlement, one of whom
+was the confidential solicitor of the husband, and
+a man of reputed great respectability. The settle-
+ment authorized the trustees to sell out the funded
+property with the consent of the husband and wife,
+and to invest it in mortgage. The husband being
+desirous of so doing, applied to his trustee and
+friend, the solicitor, who acted for him also in that
+professional capacity independently of the trustee-
+ship. He communicated the matter to his co-
+trustees, who confided in him unreservedly as a
+professional man, and the friend of the husband ;
+and at his suggestion they joined him in a power
+of attorney, under which he sold out the stock then
+standing (by having been previously transferred to
+them) in their joint names in the books of the bank
+of England. This they did under his information
+that he had a mortgage ready wherein to invest the
+money. Having received the money, however, the
+trustee, the solicitor, instead of lending it on the
+proposed security, applied it to his own uses, and
+
+
+then absconded. The other two trustees were per-
+fectly ignorant, but it may be said ought not to
+have been so, of the non-application of this money by
+their co-trustee, as intended. It may be considered
+a difficult case, whether, under all the circumstances,
+the innocent trustees ought to be burthened with
+the loss thus occasioned by their too great confi-
+dence in a co-trustee; yet there seems to be equal
+difficulty in permitting, perhaps, a ruinous loss, hot
+to the husband and wife alone, but to infant children,
+the objects of the trust. But the trustees were
+certainly remiss : they had not even obtained the
+express consent or authority of the wife, even if
+they had of the husband, to this change of the
+security : and they should perhaps not have suffered
+the produce of the stock (which never came to their
+hands at all) to have been out of their custody
+jointly with their co-trustee the solicitor. They
+should have secured it either by placing it in the
+hands of bankers or otherwise, until they had paid
+it to the mortgagor and seen the mortgage deeds
+executed. But it must be confessed this would have
+involved milch contrariety to the usual course of
+business in similar cases. Few trustees are so jealous
+of each other as to have their separate solicitors, nor
+in general, where a solicitor is a trustee, is he an
+object of distrust. The consequence of these trans-
+o
+
+
+actions was a suit instituted by the husband, and
+wife, and children, against the solvent trustees.
+The peculiar hardship of the case on all sides, and
+the peculiarity of the .circumstances (the leading
+ones alone being here noticed) seems to have pre-
+vented a speedy decision of, the court against the
+trustees ; which, with some difficulties with which
+the plaintiffs were encumbered in their case, appears
+to have left the matter in an undetermined state, (a)
+But it is a case much calculated to induce the utmost
+circumspection in trustees, in all similar predicaments.
+And in a case somewhat less strong in favour of the
+trustees, it has been determined, that where they
+voluntarily permit a co-trustee to receive purchase
+money and retain it a considerable time without
+calling for it, contrary to the trust, they are charge-
+able with the loss occasioned by their co-trustee.
+Nor in either of the last mentioned cases were thq
+innocent trustees at all helped by the express clause
+in the trust deed, that the trustees respectively should
+not be answerable for more than what they should
+individually receive, nor for the acts or defaults of
+each other, but each for himself and his own acts
+(«) This case occurred when evinced evident difficulty in
+Lord Eldon was on the point balancing the various consi-
+of retiring, and his lordship derations due to each party,
+
+
+only. That clause is not considered as extending to
+cases where trustees can be shewn to have been
+deficient in due diligence and care. Another re-
+markable instance of this nature was, where stock
+belonging to a single woman Was settled, on her
+marriage, upon trust, to pay the dividends to her for
+her separate use; after her decease to the husband,
+and after his decease to divide the principal among
+the children. The trustees, with the wife’s privity,
+sold the stock and paid the produce to the husband,
+who died insolvent. The trustees not only replaced the
+fund, but were decreed to pay the dividends to the
+widow from the death of the husband with costs, (a)
+And if money be given to a trustee upon trust to
+be invested in the funds, and he retain it in his own
+possession, paying the interest to the cestuique trust,
+as if it had been, and representing it to have actually
+been invested, he will be compelled to purchase the
+same amount of stock' as the original sum would
+have purchased, when he first possessed assets of
+the testator sufficient for investment. ( b )
+Executors and trustees differ in this, that, as to the
+latter, it is considered that whoever pays money to the
+credit of a trust estate may require all the trustees to
+(n) 4 Ves. 129. (h) f! Madd. 235.
+G 2
+
+
+join in giving him a receipt. All trustees joining in
+a receipt ar eprimd facie deemed to have received the
+amount, and are answerable for it, unless they can
+shew that the money was in fact received by only
+some or one of the trustees, and that the rest joined
+merely for conformity. Trustees should not there-
+fore invest a co-trustee with unnecessary powers; as
+one trustee is answerable for another with whom he
+has concurred in acts not required for the manage-
+ment of the trust estate, whether beneficial to the
+rest or not. So that a trustee who suffers another
+to hold trust money in his -hands upon the security
+of his promissory note, is considered as equally
+responsible for the loss with him who had the
+money.(«) And if all trustees so join in a receipt
+that it cannot be distinguished what they have sepa-
+rately received, they will all be charged with the
+whole. This consideration should induce correspond-
+ing caution in those who thus make themselves
+responsible for monies which never came into their
+own 'custody, but only into that of a co-trustee.
+Concealment has been already noticed as a means
+of liability ; nearly connected with which is conniv-
+ance. A trustee, therefore, besides being liable for
+(a) 3 Bio. Cha. Ca. 111.
+
+
+improper confidence placed in a co-trustee, is ,ame-
+nable for concealment or connivance also, if he knows
+of a breach of trust by a co-trustee, in misapplying
+the trust property, and does not take proper steps
+for bringing it back' into the joint power of those
+to whose care it was entrusted, (a)
+The foregoing statements do not apply to the
+confidence reposed by trustees in bankers or other
+accredited agents in whom confidence is usually
+placed in the ordinary course of business. To
+create liability to loss in such cases there must be
+manifest negligence or want of due attention and
+care.
+There are also cases wherein a trustee may be
+liable to others than those immediately interested in
+the trust property. For, in case of a trusteeship of
+real estate, if the property be to be sold, and the
+trustee be cognizant of an incumbrance on it, mis-
+representing the fact to a purchaser, he will be com-
+pelled in equity primarily to make good the loss
+sustained by the purchaser in consequence of such
+fraudulent misrepresentation. ( b ) And so too if a
+trustee enter into a contract for sale of the trust
+(a) 11 Vcs. 327.
+(b) 10 Vcs. jun. 470; Sugd. Vend. He Purch. 11.
+
+
+estate, and is afterwards unable to make a good title,
+be will be compelled to pay the purchaser his costs.
+A trustee should in all cases consider how far he
+may be making himself personally liable. There-
+fore, in drawing or accepting a bill or note, he
+should use express words to exempt himself from
+such personal responsibility, by explicitly stipu-
+lating that payment should be made out of the
+trust funds; for a general indorsement would bind
+him personally, («)
+(n) Willis, 197.
+
+
+CHAPTER VII.
+OF THE REMOVAL AND THE RELEASE OF TRUSTEES.
+The removal of trustees from their trusts on account
+of their own misconduct; and their release from them
+by their own desire, are subjects, especially the first,
+of some interest.
+Misconduct, inability, or a perverse refusal to act,
+constitute the general or most usual causes for which
+a court of equity will interpose for the benefit and
+defence of trust property and the persons interested
+in it, by removing trustees from their office. And
+this is done by various accompanying circumstances,
+according to the exact nature of the case; that is,
+whether the removal be attended with the penal
+visitation of the court in the way of costs or other-
+wise, or not. The proceeding is rather a delicate
+one ; and unjust or unreasonable complaints against
+trustees will not be listened to; nor will the court
+
+
+presume delinquency in them; it must be clearly
+shewn. While dishonest trustees, therefore, should
+remember they are exposed to every required animad-
+version, those of a contrary character have nothing
+to apprehend from fair investigation and exposure.
+Justice will always be done to them. It may be
+useful to advert cursorily to some of the more or-
+dinary cases wherein the removal of trustees becomes
+requisite, and will be effected by the court on the filing
+of a bill for that purpose. Breach of trust where it is
+apparently wilful and corrupt, and not merely con-
+structive, arising from nice or difficult circumstances,
+seems to be the first and leading cause of removal.
+Though what amounts to breach of trust may be
+gathered from the preceding pages, it seems right
+for this purpose, and that trustees may have the
+subject clearly before them, to mention some prin-
+cipal instances. The court then, it should seem, will
+remove trustees, and appoint others in their room,
+in cases of gross misapplication of the income of the
+trust estate, and especially where the trustee may be
+incapable of making good the sums he has so mis-
+applied. On such occasions it appears that the court
+will direct the trust estate to be conveyed by the
+delinquent trustees to other persons. ( a ) Also where
+(n) 2 Bro. P. C.
+
+
+trustees have actually been invested with a legal in-
+terest, but refuse to undertake the trusts; in such case,
+the court will appoint other persons to perform them.
+The refusal to render just accounts when reasonably
+required, is a plain instance of such misconduct as
+would not he tolerated by the court; as well as
+undue partialities in the exercise of the trust office;
+the improper and corrupt lending of the trust money
+upon personal security; or forbearing, from dis-
+honest motives, to call money in at proper times;
+refusing to join in conveyances for the benefit of the
+trust estate, or of the parties interested in it; general
+want of such care and attention, as a person would,
+at least, pay to his own affairs and property; the
+neglect of renewing leases, when the benefit of the
+trust evidently requires it; the improper assign-
+ment of terms of years, and improper execution of
+deeds to destroy contingent remainders; the not
+bringing trust property to sale, when the exigencies
+of the trust require it; or injurious and corrupt pro-
+ceedings on such occasions; general and obstinate
+mismanagement from whatever cause. So also if a
+trustee abscond for a criminal act, as forgery; or if
+a female trustee marry a foreigner; or a trustee goes
+abroad for permanent residence; or if the colleagues
+of a trustee refuse to act with him. Bankruptcy
+also is a ground for removal. The foregoing arc
+
+
+some, leading instances wherein the court will re-
+move a trustee. Analogy, and the foregoing chap-
+ters on duty and liability, will supply all other
+needful information..
+The release of trustees from the burthen of their
+trusteeship is yet another matter. Generally speak-
+ing, the court will attend to a trustee’s wishes in
+this respect, whether arising from incapacity, infir-
+mity, or any other lawful; cause, rendering a con-
+tinuance in the office either painful or injurious to
+the trustee, or detrimental to the objects, of the
+trust. In these cases, however, the court generally
+directs enquiry to be made before the master (for
+these applications must be by bill filed) whether the
+trustee so desiring to be released and discharged,
+remain accountable for any act done by him as
+trustee. Yet in some cases.it is presumed, especially
+where all the cestuique trusts are adult, and com-
+petent, such applications by suit may be made, and
+perhaps at the trustee’s instance often, merely to
+obtain the decree of removal by the court, and
+perhaps the appointment of new trustees and trans-
+fers and conveyances to them, without the elaborate
+and expensive process of taking the retiring trustees
+accounts, where the cestuique trusts are perfectly
+satisfied of their correctness. And so of other enqui-
+ries. And it may be useful to add that where the
+
+
+office expires by the completion of the trusts on the
+coming of age of the cestuique trust, the trustee is
+both entitled to, and ought in prudence to have, an
+effectual release from all the trust concerns, and all
+liabilities on account of them. But this had better
+not be done until after a reasonable lapse of time,
+in which their conduct might be investigated, which
+would afford a greater protection against future
+questions, and so add to the validity of the discharge
+given. But a trustee, it is said, cannot, by any act
+of his own, without communication with his cestuique
+trust, denude himself of that character, till he has
+performed his trust, (a)
+(«) IJ. W. 08.
+
+
+
+
+CHAPTER VIII.
+OF CLAUSES IN DEEDS OR WILLS FOR THE INDEM-
+NITY OF TRUSTEES AND OTHER PURPOSES.
+Marriage settlements, wills, or other instruments
+creating trusts, should, and usually do, contain
+various clauses, as well for the indemnity of trustees
+in the cases about to be mentioned, as for other
+purposes of the trust. The prominent clauses of
+the first description are, first, those which declare
+that each trustee shall not be accountable for the
+acts or defaults of his co-trustee or co-trustees, but
+each for his own acts only. It is true indeed that
+generally speaking, the courts of equity will imply
+this protective clause in favor of all trustees, and act
+upon such implication; but the express insertion of
+the clause shuts the door against all doubt or possi-
+bility of misconstruction or mistake, and trustees have
+
+
+a right to its benefit. Similar to this clause is that
+for exempting trustees individually from being re-
+sponsible for any greater or other suras of money, or
+personal property, than shall actually come to their
+respective hands. This clause, though, like the for-
+mer, it is in general presumed and acted upon by
+the court, still ought not to be omitted in the instru-
+ment creating the trust, because it expressly shews
+the parties’ intentions, a matter which is sometimes of
+great importance; and no one can tell when it may
+not be of importance. At the same time, as has
+been before remarked, the insertion of this defensive
+clause is not permitted to operate to the prejudice
+of the trust property merely by the force of the
+terms of the clause itself, in cases where one or
+more trustees have either corruptly or negligently,
+or with too little care, though otherwise innocently,
+permitted a co-trustee to alienate or make away
+with, or convert to his own use any part of the trust
+property, to the detriment of the cestuique trusts.
+In such cases, unless, as has been seen, under very
+peculiar circumstances, the innocent trustee or
+trustees will be made to sustain the losses occasioned
+by the malversation of their co-trustee. Still, a trust
+deed would be defective without the clause accord-
+ing to established usage, and for the beforementioned
+
+
+purpose of at least shewing the intentions of the
+parties. And this clause is usually intended pro-
+tectively to the trustees against all losses not arising
+from their own misconduct personally. Another
+clause intimately connected with these and equally
+requiring insertion in the instrument of trust, is that
+which authorizes the trustees to reimburse them-
+selves out of the money they may receive, all the
+costs, charges and expences which may be justly
+incurred by them in the execution of the trusts. The
+strict propriety of this clause is easily deducible
+from the perfectly gratuitous nature of the office of
+trustee, and his not being entitled, as before stated,
+to any allowance for his care and trouble in the
+execution of the trust. The least return, therefore,
+that can be made to a trustee is, to guarantee the
+re-payment of all monies properly laid out by him,
+and all expences properly incurred. The preceding
+clauses are intended to obviate all doubts of any
+liability attaching to a trustee who has joined in
+receipts for the sake of conformity, or unavoidably
+sustained any loss in the execution of the trust.
+But with respect to the' clause of reimbursement,
+it may be added, that independently of it, if casually
+omitted, and nothing appear to the contrary, a
+trustee is, by established rules in equity, entitled to
+
+
+those allowances, in all cases not affected by mis-
+management or breach of trust, (a) Such allowances
+also, if requisite, are extended to the expences of
+employing a. bailiff, accountant, or attorney, (b)
+It has already been stated in what cases com-
+pensation for trouble may, against the general
+rule, be claimed by a trustee, and the modes of
+obtaining it.
+In trustinstruments also, a power is very generally
+inserted, enabling the trustees to change the securi-
+ties on which the trust funds may be invested.
+Without such express authority trustees have not
+authority to change those securities, however bene-
+ficial or desirable to the trust estate. The want of
+this power is sometimes severely felt, though some
+more cautious persons have abstained from giving it,
+especially where the funds have been of a satisfactory
+description. The principal desideratum of such au-
+thority is to enable trustees to sell government
+securities when it may be done advantageously, and
+to enable them to invest the produce in other securi-
+ties (real securities in the way of mortgage for
+instance) at better interest. But individuals have
+(a) 2 Fonbl. on Eq. 176. (6) lb. and 2 Madd. Clia. 158.
+
+
+in their own case often, it must be confessed, suf-
+fered by so doing, from the depreciation of their
+mortgage securities in value. One instance in illus-
+tration of this subject may be noticed. A testator
+gave to his wife a life interest in all his funded pro-
+perty, and authorised the trustees at their own dis-
+cretion to alter and vary the securities wherein the
+trust property was invested. Part of the trust
+property consisted of long annuities. The residuary
+legatees, wishing for their own benefit to have these
+annuities changed into three per cent consols, filed a
+bill for the purpose of directing and authorising the
+trustees so to do. But although it was contended
+that the long annuities were a perishable fund, yet
+the court refused to compel the trustees to change
+them into consols for the benefit of the residuary
+legatees, holding that the power was not given to
+alter the relative rights of the legatees, but with a
+view to the security of the property, (a)
+On this subject it may be not amiss to add, that
+where the ground of a power is personal confidence,
+it is apparently limited to the original trustees, and
+does not, without express words, pass to others, to
+whom, by legal transmission, the same character may
+(a) 4 Madd. Rep. 455.
+
+
+happen to belong. Such power, therefore, cannot
+for that specific purpose be executed by the devisees
+and executors of the surviving trustee, (a) The
+clauses in deeds and wills, however, do, most usually,
+extend the powers expressly not only to the survivor
+and survivors of the trustees first appointed, but the
+heirs, or executors, or administrators (according to
+the nature of the property whether real or personal)
+of the last surviving trustee.
+(a) 1C Ves.
+
+
+CHAPTER IX.
+OF THE INDEMNITY AND PROTECTION OF TRUSTEES
+BY COURTS OF EQUITY.
+The legal exclusion of trustees from all remuneration,
+profit, and advantage whatever to arise from the
+gratuitous office confided to them, has been often
+noticed in the foregoing pages. But their exemp-
+tion from all loss, expence, and risk, so long as they
+perform their duties properly, is no less an object
+which equity keeps in view on their behalf.
+On one occasion Lord Eldon is reported to have
+thus expressed himself on this subject. “Itis in the
+nature of the office of a trustee, whether expressed
+in the instrument or not, that the trust property shall
+reimburse him all the charges and expences incurred
+in the execution of the trust. That is implied in
+
+
+every trust deed” (a) Upon another occasion his
+lordship is reported to have said ( b ) “ The Court of
+Chancery infuses a clause of indemnity to trustees
+in every will, though not directed.” The following
+positions have also been laid down from high autho-
+rity, viz., “ Trustees are entitled to the protection and
+direction of the Court of Chancery in the execution
+of their trusts, whenever their conduct may otherwise
+lead them to incur responsibility, and their motives
+are not obviously vexatious ; ” and “ that they are
+equally entitled to such assistance as plaintiffs or
+defendants in a suit; and must have their costs out
+of the trust fund, whether it be large or small.” (c)
+The mutuality of interests which subsists between
+the party confiding and the party confided in, in all
+trusts, has been before noticed; and a similar obser-
+vation may be made as to the anxiety of a court of
+equity to extend its power and protection indiffer-
+ently, and with an equal hand to both parties. The
+one it will not suffer to be injured or defrauded by
+the unfair, or iniquitous, or mercenary views of a
+trustee; nor the latter to be damnified by his zealous
+and faithful execution of trusts committed to him,
+and from which he was to derive only trouble. It
+(a) Worrall v. Harford, 8 Vcs. 8. (i) Dawson v. Clarke, 18 Ves. 251.
+(<•) 3 Madd. 178; (i Madd. 123.
+ii 2
+
+
+seems, therefore, to he the least that can be done for
+such persons, to secure them from damage. To
+honest trustees, therefore, the courts of equity are
+ever open for their guidance, protection, and indem-
+nity, which they may resort to with freedom and with
+confidence. Still this is not meant to oppose what
+has been before said, of the equal propriety of
+trustees abstaining from that course otherwise than
+in cases fairly and reasonably calling for it.
+Cases do, sometimes, occur in the execution of
+trusts, when not under the superintendence of the
+court, wherein trustees are under a kind of necessity
+of going somewhat beyond the strict rule of their
+authority, in order to prevent injury to the trust
+estate for want of timely expenditure. There are
+instances in which, although trustees exceed their
+powers, they will nevertheless not only be exempt
+from imputation of misconduct, but will come under
+those principles which induce courts of equity to
+protect trustees from loss or prejudice ; but this is
+doubtless to be understood of those. cases in which
+trustees, without having applied to a court of equity,
+have done that which the court, on their application,
+would have approved, (a)
+(a) A Ves. 309; 7 Ves. 150.
+
+
+But although the courts of equity are thus dis-
+posed to protect and indemnify trustees against all
+loss or damage ; that protection will not be extended
+to cases wherein expences have been either impro-
+perly, erroneously, or uselessly incurred, (a) These
+distinctions are sometimes rather nice, and require
+proportionate consideration • for it has often hap-
+pened that the Court of Chancery has refused to
+allow trustees to be reimbursed out of the trust pro-
+perty, those monies which they have expended, even
+beneficially, for their infant cestuique trust in their
+maintenance and education, when such expenditure
+has amounted to more than the interest of the trust
+fund. This severity arises from the general rule
+laid down by the court, that the capital of infants’
+property shall not be broken in upon for any other
+purposes than those of apprenticing or putting them
+out in life. (6)
+There is one instance of peculiar description in
+which the protection of the court will be extended
+to trustees, in the case of trustees to preserve con-
+tingent remainders; of which it has in a former page
+been said, that trustees should be very cautious in
+their proceedings. Although, therefore, it has been
+declared by Lord Eldon to be the safest rule of
+(a) Barnard, 37; 1 Jacob. (i) Freeman, 77; 6 Vcs.
+
+
+conduct for trustees of this description, never to join
+in destroying contingent remainders they were ap-
+pointed to preserve, without the direction of a court
+of equity, (and there are some circumstances under
+which courts of equity have directed them so to do),
+yet where trustees had joined in a recovery after
+the tenant in tail in remainder was of age, even in
+a case in which they would not have been directed to
+join in destroying the remainders; his lordship has
+stated that no judge in equity had ever held that he
+would punish such trustees as for a breach of trust, (a)
+The case, however, would appear to be different if
+such an act by the trustees had occurred before the
+first tenant in tail in remainder was of age. ( b ) If
+then, in the case here noticed, a trustee should act
+inadvertently, but incorrectly, and a suit should be
+instituted against him on that account, and to compel
+him to make restitution by purchasing and settling
+other lands, the court, it should seem, would protect
+and indemnify him therefrom. But the cases are too
+hazardous to justify trustees acting on their own
+authority.
+(a) Moody r. Walters, 16 128; Sir, E. Mansell v. Man-
+Vcs. 283. sell, 2 P. Wins. 678.
+(i) Pye v. Gorge, 1 P. Wins.
+
+
+
+
+CHAPTER X.
+OF SUITS.
+A few remarks,, by- way .of general information,
+respecting -the suits to which trustees, either as
+plaintiffs or defendants, are liable, though not of
+frequent occurrence, may yet be useful. Such suits
+respect either real or personal property according to
+the description of.the trust.
+In case of trusteeship , respecting real property,
+although, as has been seen, the cestuique trust, i. e.
+the person beneficially interested in the trust property,
+has an estate, in equity equivalent to the legal owner-
+ship ; yet all suits at law, should occasion arise for
+the institution of .any, must be instituted in the
+trustee’s name as being the ostensible owner, and the
+person actually in the legal seizin, (a) And it is
+(a) 1 Sand.
+
+
+also the province of a trustee to be the plaintiff at
+law in suits to recover debts for the use of his ces-
+tuique trust. Even bankruptcy will not divest a
+person of this duty; for if (as the law now stands)
+a bankrupt assigns his interest in a debt to another
+person, such bankrupt may still bring his action for
+the benefit of his assignee: the bankrupt in this case
+being merely a trustee (by implication) for the person
+to whom the assignment was made. On which Mr.
+Willis observes, (a) “ that a legislative enactment to
+enable the assignee of a chose in action” (which this
+debt so assigned was) to sue at law in his own name,
+might perhaps be productive of great public utility.”
+Where, however, trustees have only a civil remedy,
+it will not be converted into a criminal one for them.
+With respect to suits which trustees are exposed
+to have instituted against them, they may arise as
+well to public trustees as private. The latter we are
+particularly engaged with. Where trustees, there-
+fore, hold lands for a cestuique trust for a term of
+years, or other limited periods, it is enacted by the
+statute 6 Anne, c. 18, that trustees holding even after
+the determination of their interests, shall be con-
+sidered as trespassers, and in that character be liable
+to be sued. But as to cestuique trusts themselves.
+(a) p. 20(3, n. 11.
+
+
+and their trustees, it appears to be now considered
+as a general rule, that no action at law by the
+former will hold against their trustees. Their remedy
+is in equity. This rule, however, is subject to mo-
+dification ; for if a trustee receive money on account
+of his cestuique trust, in such case it should seem
+that an action of assumpsit lies for the cestuique trust
+against such trustee for money had and received.
+An instance or two may be pertinent. One is in the
+case of trustees of stock under the marriage settle-
+ment of a bankrupt. The trustees, for the purpose
+of paying the dividends to the bankrupt during his
+life, gave him a power of attorney to receive them.
+This he did until his bankruptcy, and the trustees
+then executed a power of attorney to another person,
+who received three half yearly dividends, two of
+which were paid over to the bankrupt’s wife, and the
+third was retained. On an action being brought for
+money had and received, it was adjudged that the
+whole was recoverable. ( a ) The other case was, where
+the holder of a bill of exchange, who held it in trust
+for one who sued the drawer, and, pending the suit,
+became bankrupt; and his assignee afterwards brought
+an action against the drawer in the bankrupt’s name ;
+(a) Alien v. Irnpctt, 8 Taunt. 263; S. C. 2 Moore, p. 240;
+Willis, 210.
+
+
+in which action the sheriff having suffered an escape
+on mesne process, the assignees of the original holder
+of the bill recovered against the sheriff in an action for
+such escape, damages to the amount of the bill; it
+was held that the party beneficially entitled to the
+bill, might maintain an action for money had and
+received, against the assignees of the bankrupt, for
+the damages recovered, allowing them the costs and
+expences. (a)
+Courts of equity are the tribunals which almost
+exclusively exercise jurisdiction in matters of trust;
+over which the ecclesiastical courts have no jurisdic-
+tion ; and if a trustee be arrested and committed by
+ecclesiastical process for not exhibiting an inventory
+and account of the goods of a testator, he will be
+discharged out of custody upon habeas corpus.
+Trustees may have relief in equity against their
+co-trustees for breach.of trust; consequently all trus-
+tees are liable to be so sued. (6) But as to the parti-
+cular circumstances under which it may or may not
+be requisite, in conformity to the rules of practice,
+to make trustees parties defendants' to many suits,
+that is a matter for the determination of the profes-
+sional advisers of trustees rather than for that of trus-
+( n ) Randall r. Bel], IM. &S. (6) Tranes v. Tranes, 3 Ves.
+Rep. 714. . 75.
+
+
+tees themselves. Any bill filed against trustees not
+guilty of misbehaviour will be dismissed with costs, (a)
+Whether trustees can be called upon to act in the
+execution of their trusts, by parts, seems doubtful, (b)
+But in cases where several trustees are involved in
+one common breach of trust, they may be proceeded
+against either jointly, or separately; (c) and even
+persons participating •of the wrong may be so pro-
+ceeded against,having become trustees by implication.
+This may happen in the case of partnerships, where
+one or more of several partners are trustees, and
+apply the money arising by sale of the trust property
+to the purposes of the partnership with the knowledge
+of the others ; the latter are implied trustees, who, as
+well as the actual trustees, may be proceeded against
+at the option of the cestuique trust. And in case of
+bankruptcy the debt may also be proved against
+their joint estate, {d)
+By way of limiting, within a reasonable period,
+the liability of trustees and their representatives to
+suits, it is laid down, that where there have been
+laches on the part of the cestuique trust, in not
+(a) Middleton v. Lord Ken- (c) Walker v. Symonds, 3
+yon, 2 Ves. 391. Swanst. Rep. 77.
+(b) Smith v. Snow, 3 Madd. (d) Expartc Watson, 2 Ves.
+Rep. 11. 5c Rea. 414.
+
+
+asserting his right; an account of the rents and
+profits of the trust estates which have been mis-
+applied, will be confined to the time of the filing of
+the bill, (a) And the courts of equity much dis-
+courage the calling for accounts from the representa-
+tives of an accounting party deceased, if he lived
+long enough to have accounted in his life time. On
+a similar principle, claims made after considerable
+lapse of time have always been unfavourably received,
+in courts of equity. (Z») What such lapse of time
+would be held to be, as a bar to or discouragement of
+suits, may depend upon the peculiar circumstances
+of each case. Few cases perhaps would be counte-
+nanced beyond the period of eighteen or twenty
+years, (c) In cases of suits, however, against
+trustees for breaches of trust, wherein there may
+have existed any circumstances of concurrence or
+acquaintance on the part of the cestuique trust, the
+court will always enquire strictly into those circum-
+stances ; but although the party beneficially inter-
+ested may have done an act which places the trustee
+in a different situation in regard to relief against
+third persons ; yet, if under the circumstances, the
+(a) Pctliward v. Prescott, 7 Jac. and Walk. 62, 63.
+Ves. 340. (c) Ibid.
+(A) Chalmer r. Bradley, 1
+
+
+act may be considered as that of the trustee rather
+than of the cestuique trust, it will not preclude the
+latter from relief, (a) And, as between the trustee
+and the cestuique trust, the statute of limitations is
+not a good plea in bar to an equitable charge ; and
+even interest on a debt will be decreed after a great
+length of time, if there be not sufficient grounds for
+presuming a release. ( b )
+(a) Walker v. Symonds, 3 (i) Beames on Pleas, 168.
+Swanst. 61, 64.
+
+
+
+
+CHAPTER XI.
+OF COSTS AND ALLOWANCES.
+It is the usual course of the Court of Chancery
+to allow to trustees appointed by an instrument which
+legally passes the property to them, their just and
+necessary costs, charges and expences, whenever such
+trustees have, without any default of their own, been
+involved in proceedings either at law or in equity
+respecting the trust estate. These costs are intended
+to indemnify them entirely from expence ; not being
+merely the taxed costs between ordinary parties
+to suits, but costs as between solicitor and client,
+which extend to the allowance of many charges
+not allowed in the taxed costs between party and
+party. Indeed, without these latter costs, trustees
+never could receive that full indemnification and
+
+
+exemption from loss, which the courts of equity
+ever intend they shall receive. This rule is perhaps
+departed from, and costs as between party and party
+only given, where a bill is dismissed against a
+trustee, (a) It not unfrequently happens, that trus-
+tees expend money by reasonably and properly
+taking counsel’s opinions for their directions in the
+necessary execution of their trusts. These expences,
+therefore, when cautiously incurred, are not usually
+refused to be granted to the trustee by the court,
+under the description, not of costs strictly, but of
+“ just allowances.” (6) It is impossible, accurately,
+to enumerate the species of disbursements, charges
+and expences, which will be allowed to a trustee
+under the head of just allowances. But generally
+speaking, whatever the trustee can shew to have
+been reasonably, judiciously, beneficially, and bond
+fide expended by him out of the trust funds, for the
+benefit and advantage of the trust estate, and the
+parties interested in it, and which could not have
+been avoided or withholden without detriment to
+them, will be allowed. Still, in cases where any
+very considerable expenditure is contemplated, the
+(a) 2 Russell, 112. (h) 19 Ves. 205
+
+
+safer course would certainly be, to act under the
+direction of the court, procured through a reference
+to the master. Much expence and trouble may be
+saved by this proceeding. Ordinary and reasonable
+sums actually paid to solicitors, bailiffs, or others in
+managing the trust property, are among those which
+are allowed to trustees without difficulty ; even
+payments to accountants are not refused in cases
+appearing to require their assistance, (a) There
+seems to be some uncertainty however, as to the
+allowance to trustees of the expences they may have
+been at in employing agents in the receipt of rents,
+instead of receiving the rents themselves : although
+it appears, that in some cases trustees have been
+allowed by the court the expence of employing a
+collector to receive the rents of a trust estate,
+notwithstanding their testator had bequeathed a
+small annuity to them expressly for the care and
+trouble they might have in the execution of the
+trusts, (i) But upon the whole there appears little
+ground to doubt of such allowances being granted
+by the court ultimately, even should they be dis-
+allowed by the master in passing a trustee’s accounts
+comprising such charges, in the first instance ;
+(a) 3 Macld. (A) 2 Bro. C. C. (i(i3-2; 2 Simons and Stuart, 237.
+
+
+because the-court..is well aware that the expence
+of employing an agent to collect rents (which
+trustees are not expected to do personally if too
+troublesome or burthensome), is much less than that
+of obtaining the appointment of a receiver’ by the
+court, through the expensive, medium of a suit, in
+addition to the greater allowances that would be
+made to such receiver, • than to an ordinary agent
+or collector.
+On' the other hand, the court holds the reins in
+allowing trustees . their costs, and exercises its dis-
+cretion in judging both of the justness and expe-
+diency of such costs, before allowing them. As to
+their expediency, one case may be noticed which
+may serve as a general rule or guide on this branch
+of the subject. It is a case wherein, in one instance,
+the court allowed the costs incurred, and in another
+instance refused them: but in both instances the
+trustees, though acting fairly and with integrity
+for the benefit of the parties* had,, in a case of
+magnitude, incurred large expences without such a
+sanction from the court as is just above recoirimended.
+The instances now adverted to' are those of two
+distinct applications to Parliament. In one, the
+court alloived the costs of the application, though
+made without its previous sanction, but which had
+succeeded. In the other instance of a similar kind,
+i
+
+
+but in which the application was unsuccessful, the
+court refused the costs, although the failure had
+arisen from accidental circumstances, and the trustees
+had acted from proper motives. The fault in the
+trustees was, having ventured, on their own autho-
+rity and without the sanction of the court, to institute
+so expensive a process as an application to Parlia-
+ment, without a previous application for a reference
+to the Master to enquire if such proceeding was
+a proper one . under the circumstances. Had that
+sanction been obtained, a failure in the application
+to Parliament would not have been thrown upon
+the trustees. And the reason why Lord Eldon gave
+their-costs to the successful applicants, is stated to
+have been, as declared by his lordship, in making a
+distinction between the two cases, “ that he con-
+sidered the Court of Chancery could not, with any
+propriety, dispute the prudence of measures, although
+taken without, its sanction, which the legislature
+itself had enacted as prudent.” (a)
+Some few instances may be added in which trus-
+tees have been either denied full costs, or all their
+costs. Thus, in what appears to have been a flagrant
+case on the part of a trustee, and where the contract,
+in question in the suit, was by no means meritorious;
+(a) 2 Russ. 51U.
+
+
+Lord Thurlow on being asked for the costs of the
+trustee in that deed, is reported to have said with
+some warmth, “ I shall not give him his costs. Let
+those who manufactured the deed give them to
+him.” (ay The circumstance of trustees acting with
+obstinacy or caprice will also induce the court either
+to deny or abridge their costs ; and still more so if
+they have acted from self-interest, and from a view
+to the determination of questions respecting their
+own rights or claims in the institution of any suit.
+Trustees also have been deprived of their costs where
+the suit was occasioned by their mistake or negli-
+gence, though without any corrupt motive, (b) Also
+where they have set up a trust different from the
+real one ; also where the character of the trust was
+suspicious ; also where the trustees had overcharged
+the trust estate. And in one case, though without
+any imputation on the trustee, but from consideration
+of the hardship of the circumstances upon the plain-
+tiff, (the trustees being defendants), and the court
+thought he, the plaintiff, ought not to pay costs, the
+trustees were left to their remedy against their ces-
+tuique trust. (c )
+Not only are trustees, however, sometimes deprived
+(a) Colman v. Sand, 1 Ves.ss. (A) Caffrcy v. Darby, OVcs. 488.
+(e) Beanies on Costs, 149, 150.
+i 2
+
+
+of all, or abridged of their own full costs, but in cases
+of peculiar misconduct they have been made to pay the
+costs of others also: though where the misconduct
+has been slight, and the trustees have been charged
+with payment of interest by way of compensation,
+the payment of costs, and even the abridgement of
+their own has not been insisted upon, (a) An instance
+of gross misconduct may be, where a trustee forces
+his cestuique trust into court, by the filing of a bill,
+to settle some point relative to the trustee’s private
+interest, unconnected with the trust. Here the trus-
+tee has been visited in the severest manner in regard
+to costs. In this class of delinquency may also be
+comprised the case of a trustee’s admitting, by his
+answer to a bill filed against him, that he had in
+his possession certain deeds to which his cestuique
+trust was entitled, but which the trustee, that Jie
+might continue to withhold them, did not particu-
+larize in his answer. A trustee’s refusing to join in
+a conveyance; or selling trust property with a stipu-
+lation for his own private interest; or being guilty
+of improper concealments; or attempting to purchase
+the trust property; in such and similar instances,
+it appears that trustees will be charged with the
+payment of costs, (b) And in general it may be
+(a) Sonnies r. Hickman,2 Ves. jun.3G. ( b) Bcaraes, passim, on Costs.
+
+
+concluded, that, with all the favour, indulgence, and
+protection shewn to trustees by a court of equity,
+still there is required of them both unimpeachable
+integrity, and all reasonable care and circumspection,
+when thus voluntarily undertaking, in a trust capa-
+city, the care, and protection, and management, of
+the property and interests of others. More especially
+are all these qualities required of trustees when
+married women or infants are the subjects of the
+trust. But upon the whole it may be said, that the
+courts of equity, though thus regardful of the conduct
+of trustees, yet appreciating the importance of their
+office to society, and being, therefore, unwilling to
+infuse a general dread of undertaking it, are anxious
+so far as possible with justice to others, not to inflict
+upon them the consequences of their mismanage-
+ment. ( a )
+(a) 3 Atk. 444; Jeremy, Eq. Juris, of Ch. 145.
+
+
+ADDENDUM.
+In farther illustration of the necessity there is for
+trustees acting with the utmost caution in con-
+formity to their trusts, as noticed in page 44, the
+following instance may be adduced. On the mar-
+riage of a plaintiff in a suit against a trustee, a
+sum, of stock, was invested in the names of two
+trustees, in trust as to the dividends, to pay them
+to the wife (this plaintiff) for her life, and after
+her death the principal to her children, as therein
+mentioned. The settlement contained a power to
+the wife during her life, and after her death to the
+guardians of the children, to appoint a new trustee
+in the place of any trustee who should die or desire
+to retire from the trust; and in case any trustee
+should decline the trust, the settlement directed
+that such retiring trustee should assign the trust
+property to the new trustee so to be appointed in
+his place, and the continuing trustee, jointly. This,
+in fact, is the usual practice. One of the trustees
+became desirous of retiring from the trust, and
+another trustee was appointed in his stead; to
+which new trustee the stock was not assigned, in
+
+
+conjunction with the continuing trustee, as it ought
+to have been, according to the abovementioned direc-
+tion of the settlement. This new trustee accepted the
+trust by signing the deed of appointment; but, be-
+fore he had acted in the trust, became also desirous
+of retiring from it; and a deed appointing the con-
+tinuing trustee to be sole trustee, was prepared ac-
+cordingly, to which the wife, and the present retiring
+trustee, were made parties , though he did not execute
+it. After this, the trustee, who had first retired,
+transferred the trust stock into the name of the con-
+tinuing sole trustee alone; which was certainly a
+departure from his duty under the settlement, and
+in which he was therefore ill advised, though inno-
+cent of ill intention. The continuing sole trustee,
+in whom the stock was thus solely vested, afterwards
+sold it at the request of the wife and of such of the
+children as had attained the age of twenty-one, and
+took their indemnity for what he did. There were
+other infant children of the marriage, who were
+interested in the funds under the settlement. It was
+alleged that the stock was thus sold to purchase an
+annuity for the life of the widow', to increase her
+income. The widow, and one of the children who
+had joined in the indemnity, together with one of
+the infant children, then filed a bill against both the
+original trustees, viz. he who first retired, and had
+transferred the stock so improperly into the sole
+
+
+name of the remaining trustee, as well as. against
+that remaining trustee also, praying, that for this
+abuse, or breach of trust, both might be responsible
+for the stock so parted with, though at the instance
+of the widow and children themselves. This was
+deemed by the court a very hard case on the first
+retiring trustee, who had so ill advisedly, though
+innocently, transferred-the'stock, not indeed into
+the joint names of the new and continuing trustee,
+as he should have done, but into that of the latter
+alone, which gave the latter the power he so wrong-
+fully exercised,.of parting with .the trust property
+directly against the trusts of the settlementbut as
+that trustee made default at the hearing, the court
+determined, on the ground of .all the authorities,
+that the trustee who first retired, and so imprudently
+transferred the stock to the remaining trustee alone,
+was himself liable to the whole responsibility, and
+decreed against him accordingly (a).
+The above. is a striking proof of the propriety
+of trustees not suffering themselves, to be ever ad-
+vised to deviate from, the plain requisition of the
+instrument creating their authority, and pointing
+out their duty.'
+(«) Wilkinson v. Parry, 4 Russ. Rep. 272.
+
+
+
+
+INDEX.
+ABSENT TRUSTEES— PA ° E '
+Act respecting Trustees abroad, see Advertisement
+ACCEPTANCE—
+of trust, considerations on . . . . 32
+when refused . . . . . 21, 89
+ACCIDENTAL LOSS—
+from bankers, or accredited persons . . . 79,85
+ACCOUNTS—
+trustees’ duty in regard of . ■ . 40
+ACCOUNTANT—
+as to employment of, by trustees . . .112
+ACCUMULATION—
+of trust property by trustees, in case of infants espe-
+cially, as to . . . . . 45
+ADMINISTRATORS- *
+when they become trustees .... 0
+AGENTS—
+accredited, losses by . . • . . . 85
+ALIENATION—
+by trustee, of trust property, how far operative . . 8
+ALLOWANCE—
+to trustees for their trouble, when permitted . . 40
+ALLOWANCES, Just—
+to trustees, instances of . . . . 11l
+
+
+Pace.
+APPOINTMENT—
+of trustees, considerations on . . . 22
+of new trustees, as to .... 51,90,129
+ATTAINDER—See Treason.
+BALANCES—
+as to trustees retaining ..... 46, 74
+BANKRUPTCY—
+of trustee, how trust property affected by . . 10,11
+BENEFIT—
+as to trustees deriving, from trust property . . . 43, 62
+BONDS—
+how to he regarded by trustees in point of security . 77
+BONUS—
+on stock, how considered . . . . . 73
+BOOKS—
+as to production of to cestuique trust ... 46
+BREACH OF TRUST—
+acts constituting ..... 67, 129
+different visitations of, in point of costs . . 114, 115, 116
+BURTHENS—
+IegaI, how trustees affected by . . . .10
+BUSINESS—
+as to carrying on with trust property . . . 69, 75
+CAPITAL—
+of infants’ fortune, how regarded by the Court . . 61, 101
+CESTUIQUE TRUST—
+when entitled to possession, and whten not . . . 9, 48
+acquiescence of, in regard to trustees' proceedings . 76
+CHANCERY SUITS—
+as to expediency of instituting by trustees . . 29
+CHANGING SECURITIES—
+power or duty of trustees therein . . . . 54, 78
+CHILDREN—
+as to mortgaging for portions of . . . 50
+as to the time of raising portions for ... 55
+as to maintenance of . . . .60
+
+
+Page.
+CLAIM—
+of trustees on trust property, how inconsistent with the
+office . . . . . . . 42 •
+COMMITTEES—
+of lunatic trustees, act respecting—See Advertisement.
+COMPENSATION—
+to trustees for trouble, in what cases given . . 39, 40
+CONCEALMENT—
+of information from cestuique trust, how regarded . . 71
+CONCURRENT Leases—
+may be granted by trustees . . . . '53
+CONDITIONS—
+when annexed to trustees’ powers, as to . . . 53
+when in restraint of marriage, as to . . 56
+precedent or subsequent, what . . . . 57
+CONFIDENCE—
+when limited to original trustees . . . . 6, 96
+CONSENT—
+of trustees, in what cases necessary to vesting of
+estates or legacies . . . . . 58, 59
+constructive, what ..... 69
+CONTINGENT REMAINDERS—
+. trustees to preserve, as to . . .16
+when breach of trust incurred by them or not . . 101
+CONTRACT—
+when to be made good by trustee (See Purchase ) . 85
+CONVEYANCES—
+trustees’ duty as to, for cestuique trust’s benefit . 48
+COSTS—
+of trustees, expediency as to . . . . 113
+fully given, or withheld, or trustees liable to those of
+others 114,116
+CO-TRUSTEES—
+as to their acting amicably together . . . 26,29
+as to their joint power . . . . . 51
+mutual confidence ..... 79
+institution of suits against each other . . . 106
+
+
+Pace.
+COURT—
+application to by trustees, when sanctioned, . . 44, 55
+COUNSEL—
+as to resorting to the advice and assistance of, hy
+trustees . . . . . . C 2, 111
+CREDITOR—
+trust property, how amenable in aid of . .50
+CROWN—
+the rights of, on attainder of trustee . . . 12
+DEBTS—
+as to raising and paying, hy trustees . . . 50,01
+retaining out of trust property . . . 52
+DEFENCE OF TITLE—
+of cestuique trust, the trustee’s duty . . . 48
+DESCENT —See devolution of trusts.
+DEVISE—See devolution of trusts.
+DEVOLUTION OF TRUSTS—
+by descent . . . . . . 4, 5
+by devise . . . . . Ib.
+by personal representation . . . 5
+DISABILITIES—
+of trustees, instances of . . . . ... 02
+DISBURSEMENTS—
+of trustees, how considered . . - 94,112
+DISTRIBUTION—
+of funds, hy trustees . . . . 01
+DONATION—
+by cestuique trust to trustees, how regarded . . 44
+DOWER—
+trustees to bar, as to . . . . 10
+DUTIES—
+of trustees —See Chap. IV. and . . . 129
+ECCLESIASTICAL COURT—
+has no jurisdiction, where ' ... . 100
+EXPENCES—
+of trustees ..... 94,112
+
+
+Paob.
+EXPENDITURE—
+for maintenance of children . . . (iO
+improvident ..... 100, 101
+EXPEDIENCY—
+as to costs . . . . . .113
+EXECUTORS—
+distinction between, and trustees . . . 83
+FATHER—
+his inability to maintain his children, how regarded . CO
+FELONY—
+■ of trustees, its effects on trust property . . 12
+FEME COVERTE—
+express consent of, when necessary . . 80,81,117
+FINES—
+on renewal, as to advancement of . . . 61
+FUNDS—
+as to application of . . . .61
+public, which most eligible for trust purposes . .GO, 78
+GRANTEE—
+fraudulent, considered a trustee by implication . 20
+HElR—
+when trustee by devolution . . . . 5
+IDlOT—
+trustee, act respecting—See Adi'ertisement.
+IMPLIED TRUSTS—
+what circumstances constitute . . 18,19
+IMPLICATION—
+trusts by . . . • .18,19
+IMPROVIDENCE—
+of trustee, how regarded . . . . .45, 101
+INDEMNITY—
+of trustees, by deed ... . . . 92
+express, by the court . . . . 98
+
+
+Page.
+INFANT—
+trustees, act respecting—See Advertisement
+INFORMATION—
+necessary to be obtained by trustees, and rendered to
+cestuique trusts ..... 40
+INSOLVENT TRUSTEE 12
+INSOLVENT ACT Ih.
+INSANITY—
+of trustee —See Lunatic.
+INVESTMENT—
+of trust monies, as to . • . . . 45
+on what security ..... 47
+improvident . . . . 09
+INTEREST—
+of trust property . . . . .45
+as to charging trustees with . . . . 74,75
+JURISDICTION—
+trustees, when out of, act respecting—See Advertisement.
+KlNG—
+his rights on attainder of a trustee ... 12
+LACHES—
+of trustee, as to . . . . 30
+LEASES—
+as to trustees granting . ... 63
+and renewing . . . . . . 08
+when implied trusts . ... 18
+reversionary or concurrent . . . . 63
+LIABILITIES—
+of trustees —See Chap. VI.
+LOANS—
+as to, hy trustees .... 77
+LUNATlC—
+trustee, act respecting—Sec Advertisement.
+
+
+Pace.
+MAINTENANCE—
+of infants, as to . . . . . . GO, 101
+MANAGEMENT—
+of trust property, as to . . . . . 45
+when to be given to cestuiqne trust or not . . 10, 48
+MARRIAGE SETTLEMENT—
+as a trust instrument, observations on . . . 23
+MISCONDUCT—
+of trustees, as to . . . .71, 87, 89,129
+corrupt motive not essential to . . 78, 129
+costs respecting . . . . . . 11G
+MORTGAGES—
+in what cases trustees may make ... 50
+MORTGAGEES—
+when trustees by implication . . . . 20
+NEW TRUSTEES—
+as to appointment of ... 54, 129
+NEGLIGENCE—
+in trustees . . . . . . 3C, 129
+NOTES OF HAND—
+not to be taken by trustees as security . . 77
+PARTNER—
+surviving, is trustee for representatives of deceased
+partner . . . . . . 21
+PARTNERSHIP—
+as to investing trust property in, by trustees . . 47
+PORTIONS—
+for children, as to the raising, hy trustees . . 50, 55
+trustees’, liability respecting .... 70
+POSSESSION—
+of trust property by cesluique trust, as to . . 9, 10, 48
+POWERS—
+of trustees, generally ..... 49
+must be closely pursued . . . . 53, 129
+PRESERVATION—
+of trust estate, the duty of trustees ... 48
+
+
+Page.
+PRIVILEGES—
+IegaI, of trust property, transferred to trustees . 10
+PROFIT—
+from trust estate, as to . . . 33, 43
+PURCHASE—
+by trustees of trust property, as to . . 02, 63
+PUBLIC FUNDS—
+what ones preferably countenanced by the court, for
+trust investments . . . . . 69,78
+REAL ESTATE—
+as to trusts respecting, in point of devolution . . 5
+RECEIPTS—
+as to trustees joining in .... 51
+and for conformity . . . 83
+how trustees answerable for each other . . 83, 84
+RECEIVER
+in what case trustee may be appointed . . . 44
+RELEASE—
+from trusteeship, as to . . . . . 90
+general, when to be obtained by a trustee . . 91
+REMOVAL—
+of trustees, general causes for . . . .89
+REMUNERATION—
+in what cases trustees may claim - 39
+RENEWAL OF LEASES—
+how incumbent on trustees .... 68
+when creating implied trust . . . . 19
+RENUNCIATION—
+of trusts, as to . . . . 01
+RENT—
+receipt of, as to . . . . . .112
+REPRESENTATION—
+when it transmits the confidence with the estate . 6
+REPRESENTATIVES—
+when they succeed to trusts and when not . 6, 96
+their liabilities, as to . . 39
+
+
+Page.
+REVERSIONARY LEASES—
+not generally to be granted by trustees . . 53
+SALE OF TRUST PROPERTY—
+by trustees, as to . . . . . 50,54
+unadvisedly ...... 78
+SECURITY—
+what so deemed or not, in respect of trust property . 77
+SECURITIES—
+changing, by trustees, when to be done or not . . 54, 78
+STOCK—
+unauthorised sale of . . . . C 7, G 9
+SUITS—
+as to trustees’ attention to .... 47
+by and against trustees ..... 103
+SURVIVORSHIP—
+between trustees, trusts how affected by . . . 7
+TERM OF YEARS—
+trustees of, their duty concerning ... 17
+TRADE—
+as to the carrying on of, by trustees . . . GO, 75
+TREASON—
+of trustee, trust estate how affected by 12
+TRUSTS—
+considerations as to accepting . . . . 32
+by implication . . . . . .'lB
+TRUSTEES— -
+considerations as to appointing . . 22
+refusing to act, its effect .... 21
+distinction of ...... 4
+express, or implied . . . 4, 18
+by devolution . . . . 5, 8
+of real estate . . . . . . 5, 6
+of personal . . . . . . Ib.
+as to alienation by . . . .10
+as to making themselves ostensible owners . . 0
+invested with legal burthens and privileges . . 12
+K
+
+
+PAGE.
+TRUSTEES
+to preserve contingent remainders . 17
+to bar dower . .... 17
+for terms of years . . . . lb,
+powers of—duties—liabilities—See those heads.
+UNSOUND MlND—
+persons of, act respecting—See Advertisement.
+WILLS—
+of trustees, their effect ..... G
+THE END.
+BH. A .l)liUtlY AND EVANS, I'IUNTEES, DOUVEniE STHFET,
+
+
+ilato 2soo&>,
+PUBLISHED BY A. MAXWELL,
+S 3, BELL YARD, LINCOLN’S INN.
+1. GRANT’S CHANCERY PRACTICE. The PRACTICE of t
+COURT of CHANCERY under the New Orders, with Tables, of Costs,
+Orders, &c. &c. 2d edit. By Harding Grant, Solicitor of the said Cou
+12mo, 11. 12s. boards,
+2. KING’S BENCH PRACTICE. Die PRACTICE of the SU
+COURTS at Westminster, so far as the same is varied by the Act 1 Wm
+for the more effectual administration of Justice in England and Wales, with
+Essoigns and Returns as altered. Also, a full Abstract of the Act, and an
+Thomas Chapman, Esq., Assistant Master of the Court of King’s Ber
+• price 3s. 6 d., boards.
+3. THE EXECUTOR’S ACCOUNT BOOK; exhibiting a safe
+Method of keeping Executorship Accounts; with an adequate number of R
+so arranged as to be adapted to the circumstances of every Estate ; and a
+Win., comprising a variety of Bequests of Personal Property, and the Acc
+which, from the death of the supposed Testator to the termination of the Ei
+are accurately arranged and posted on the plat proposed, as an illustration
+plicity and comprehensiveness of the System, and an infallible guidance ti
+under any other estate. By John H. Brady, late of the Legacy-E
+Somerset House. 4to, price 12s. extra boards.
+Latest and Best Work on the Law of Elections.
+4. THE LAW and PRACTICE of ELECTIONS in England, See
+Ireland, and of the Trial of Controverted Elections, with an Appendix of
+and all the existing Statutes analytically arranged. By William Fist
+of the Middle Temple, Barrister at Law. In a close printed volume,
+price 14s. boards.
+a. THE STATUTES and ORDERS of the COURT of CHA
+and the Statute Law of Real Property of the State of New Y ork, recently
+amended, with a brief account of Equity Jurisdiction, and Law of Ret
+and Registration in the United States, North America. By Joseph Pab
+price 12 s. boards, *
+0. CRIMINAL LAW. A Short Analysis of the Criminal Law of En(
+of the New Forgery Act, giving a general and comprehensive view of C
+Punishments, and the Statutes that create them, with a few remarks on th
+and other observations. By Charles Penruodocke, Esq. of the Midi
+Barrister at Law. 12mo, ss. boards.
+7. FORGERY ACT. A collection of all Statutes, and parts of Stati
+in the Reign of King George IV., and now in force, relating to Indictab
+in England, viz., from 60 Geo 111., 1 Geo. IV. to 11 Geo. IV., and i
+1820 to 1830 inclusive, with Notes and Recent Decisions thereon ; ti
+prefixed, The Statutes Relating to Treason. By JohnßeswiceeGreenv
+of Lincoln’s Inn Barrister at Law. 12mo, Bs. boards.
+8. BOROUGH of EAST LOOE. Shortly will be published, RE
+the CASE of EAST LOOE, in the County of Cornwall, as tried before a
+of the House of Commons, in March, 1827, with some Observations.
+Scarlett, Esq., of the Middle Temple, Barrister at Law.
+9. WOODFALL’S LAW OF LANDLORD AND TENANT.
+Harrison, Esq. A PRACTICAL TREATISE on the LAW of LA
+and TENANT, with an Appendix of Precedents, by William Wooi
+The Eighth Edition, very considerably enlarged and greatly improved
+Harrison, Esq., of the Middle Temple,'Barrister at Law, Author of the
+Index to all the Reports.” In one thick volume, royal Bvo, price board
+Shnrtlu will be mihlished .
+
+

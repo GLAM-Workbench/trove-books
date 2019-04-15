@@ -1,0 +1,1425 @@
+
+
+NOTES
+OS' THE
+REDUCTION OF GOLD ORES,
+H. A. THOMPSON,
+MINING ENGINEER.
+MELBOURNE :
+GEORGE ROBERTSON, 69, ELIZABETH STREET. (l
+n
+MDCCCLXVII.
+0 GE
+o g
+PRICE TWO SHILLINGS.
+
+
+
+
+'
+
+
+
+
+NOTES
+ON TUB
+REDUCTION OF GOLD ORES,
+H. A. THOMPSON,
+MINING ENGINEER.
+MELBOURNE :
+GEORGE ROBERTSON, 69, ELIZABETH STREET.
+MDCCCLXVII.
+
+
+
+
+INTRODUCTION.
+In laying these notes before the public, the writer
+may state that he has for some time past been
+engaged in calling attention to the great loss sus-
+tained in the reduction of gold ores, and the extent
+to which this loss may be diminished by means
+already known and in practical operation. The
+interest thus aroused has entailed on the writer an
+extensive correspondence with inquirers on most
+of the gold-fields, and, as the supply of full par-
+ticulars to each person was impracticable, it
+appeared to be desirable that these details should
+be put in such a form as to bring them within the
+reach of all concerned. These pages have no
+pretension to the character of a treatise, being
+simply rough notes thrown together, principally
+bearing on the practical points where diversity of
+opinion might be expected, and addressed to those
+having some acquaintance with the business of
+quartz-crushing.
+Many readers may not be prepared to concur
+in all the views advanced; hut with the main
+object of these notes?the advocacy of a searching
+and systematic enquiry into the processes in use ?
+
+
+the form and extent of the loss at present sus-
+tained, and such improved methods of operating
+as may reduce that loss within reasonable
+bounds ?few will disagree.
+Careful experiments, extending over many years,
+have shown that where the undecomposed sul-
+phides exist in any considerable quantity in the
+quartz?as they do in most of our mines?the loss
+in reduction varies from twenty-five to seventy per
+cent, of the total gold contents, or, at a low
+estimate, .�1,000,000 per annum, for this colony
+alone; and, so far as reliable statistics can be
+obtained, the gold mining districts of Europe and
+America are in the same position.
+It is needless to dilate on the advantage that
+would result from the retention of only such
+portion of the gold now lost as it is known with
+certainty can be effected, or the stimulus it would
+give to our great industry. This must be obvious
+to everyone, and the writer trusts that the import-
+ance of the subject will excuse the imperfections
+necessarily attending a production of this kind in
+so condensed a form.
+68, Temple Court, Melbourne,
+1 5th April , 1867.
+
+
+NOTES
+OK THE
+REDUCTION OF GOLD ORES.
+In considering 1 the methods in use for the extraction of
+gold from the minerals with which it is usually associated,
+it should be borne in mind, that the treatment must vary
+both with the peculiar conditions of the gold itself, and
+also with the character of the other metallic bodies aggre-
+gated with it in the quartz. To enter into all the modifica-
+tions that would be required in each part of the treatment
+to meet the different descriptions of gold-bearing quartz,
+would extend these notes to too great a length, without
+adding much to their usefulness, ?the mineral character of
+the great majority of our quartz mines being nearly the
+same, and only varying in degree. The following notes
+are, therefore, only intended to point out the principles on
+which our reduction processes should be based, as regards
+the greater part of our quartz mines, without reference to
+the exceptional cases, where the presence of rarer minerals
+requires a change, or modification of the system pursued.
+The subject may, for convenience, be divided into three
+parts ?first, the reducing machinery; second, the extraction
+of the free gold; and third, the means best calculated to
+save the pyritous gold, now passing away with the waste
+tailings.
+The reducing machinery may he divided into two classes,
+first, machines depending on impact for their crushing
+
+
+power, such as stamping mills, ?and inventions on a similar
+principle to Balfour?s crushers ; ?second, grinding machines,
+such as the Chilian mill, arrastra, <fec. #
+The force gained by impact will be readily understood
+when we consider the simple action of driving a nail into
+a beam. If we place the hammer on the head of the nail,
+and endeavour to thrust it in by pressure alone, an enormous
+amount of power is required to effect the purpose. But use the
+hammer in the ordinary way, and the nail is driven home with
+great ease. This is what is meant by the force of impact, and
+its degree is ascertained by multiplying the velocity with
+which the blow is given, into the weight of the hammer.
+A stamper might rest on a piece of quartz, and be loaded
+with many tons of weight without crushing it; but let the
+same stamper acquire the force of impact by falling only a
+few inches, and the piece of quartz will be crushed to a
+powder. In the ordinary stamping mill, the velocity is that
+of a body falling under the well-known law of gravitation,
+and is, therefore, only capable of increase by increasing the
+weight of the stamper on the lift, ?that is, the distance the
+stamper has to fall. It has been proposed to use stampers
+working on the principle of the steam hammer, and the
+increase of the velocity would no doubt give increased
+crushing power; but whether this plan would not be attended
+by inconveniences more than counterbalancing the advan-
+tages gained can only be settled by actual trials, and those
+hitherto made have not been successful.
+* Two other mills are used for crushing ores. One the roller mill,
+where the ore passes between two revolving horizontal rollers, kept in
+close contact by a weighted lever. This mill is employed for the coarse
+crushing given to lead ores, but it is useless where fine crushing is
+required. The other is the common flour-mill, or modifications of it,
+only applicable to further reducing the tailings to any required degree
+of fineness.
+
+
+Balfour?s Crusher is simply a strongly-made fan, similar
+to those used for the fan blast, the arms being faced with
+flat hammers, and driven at from fifteen hundred to two
+thousand revolutions per minute. The great velocity is
+necessary to compensate for the want of resistance?this
+being only the inertia of the pieces of quartz, A number
+of machines on this principle have been patented in the
+United States, but the speed at which they have to be
+driven causes such an amount of wear and tear, and liability
+to accident, that after repeated trials they have been
+abandoned. Another fatal defect in these machines is the
+action on the gold, which is broken up into infinitesimally
+small particles, rendering it very difficult to collect without
+passing all the sand through an expensive process. In a
+trial made at Clunes of one of these machines, where the
+crushed material was carried by the blast into a chamber
+fifteen feet in length, and there allowed to settle on the
+floor, ?it was found that the sand at the far end of the
+chamber contained as much gold as that close to the
+machine,? thus indicating that the gold had been broken
+into particles so small as to allow of its floating fifteen feet
+in the atmosphere of the chamber.
+The action of the grinding machine will be best illustrated
+by considering the effect of a pestle pressing on a piece of
+stone. So long as this pressure is downward only, it will
+require great force to break the stone � but if, while the
+downward pressure is continued, a lateral twist is given to
+the pestle, the disintegration of the stone is effected at once.
+This is the principle of the Chilian mill, where the rollers
+make one complete revolution on the vertical line of their
+diameter, for each revolution in the basin, thus obtaining the
+twist which really gives the grinding power, and but for
+which the action and effect would be similar to that of a
+garden roller on a gravel walk. The arrastra partakes in a
+
+
+minor degree of the same principle, the crushing power
+being mainly derived from the grinding action caused by
+the stones dragging over the quartz ; but it must be evident
+that the grinding action in this machine is less than in the
+Chilian mill, and its disintegrating effect is in proportion.
+In consequence, the arrastra is seldom used, except for
+reducing sand to a fine powder, and even for this purpose
+machines on a similar principle to the flour mill are more
+effective.
+The disintegrating power of a crushing mill must then
+depend either on the grinding action or the force gained by
+impact; and if this principle had been kept in view,
+inventors would have saved much time and money, which
+have been thrown away in the manufacture of machines the
+educated engineer could at once see were useless.
+The Chilian mill was much used in the early days of
+quartz mining in this colony, when the rich surface deposits
+of gold were opened; hut when the poorer quartz had to be
+treated, it was found too slow and costly for operating on
+the large quantities of material required to make the mines
+pay. As the quartz was raised from a greater depth,
+another objection was found to attend the use of this mill.
+The grinding of the undecomposed sulphides in mercury
+with heavy rollers, has a great tendency to promote a combi-
+nation of these sulphides with the mercury, forming what is
+known to crushers as black amalgam, and causing a great
+loss, both of time, mercury, and gold.*
+The Chilian mill is now seldom used, expept as a second
+process after the stamps, or for grinding and amalgamating
+rich concentrated sand after the latter has been roasted.
+* In working a Chilian mill with heavy rollers, the writer has seen
+seventy pounds weight of mercury sickened by the sulphides, so as to
+form into this black amalgam, in the course of a few minutes after the
+action on the mercury first begun.
+
+
+For ordinary quartz crushing 1 and amalgamating, even when
+worked with great care, it does not save a larger percentage
+of gold than well-arranged stamping machinery will do, and
+is far inferior in other respects.
+The stamping mill is the machine now used almost uni-
+versally for the reduction of gold ores, and is so well known
+that a description of it would he superfluous for those to
+whom these notes are addressed. Many modifications of the
+details of construction are in use, and it will only he neces-
+sary to consider the principles on which the more important
+of these are based. The old Cornish stamps have rectangular
+heads, the provision for raising the stamper being by means
+of a tongue projecting from the lifter, which tongue is
+caught by a cam keyed into a large cam barrel, and the
+openings for the escape of the crushed material are of small
+area. The faults of this arrangement are, that the stamper
+being lifted from a point some six or seven inches in front of
+the centre of gravity, a strain is brought on the lower front
+brace, and the back top brace, which greatly adds to the
+wear and tear ; while the centre of the cam barrel being a
+long distance from the lifter, the leverage is increased in
+proportion, and a considerable amount of driving power is
+thus wasted. The introduction of round heads has remedied
+many of the defects of the old Cornish stamps. A disc on
+the lifter supersedes the projecting tongue, and the cam
+barrel is replaced with a shaft set close up to the lifters. On
+this shaft are keyed the wipers, which catch the discs at the
+side of the lifters. By this means the lifting point is
+brought much nearer the centre of gravity, and the leverage
+is reduced to a minimum, while a partial revolution of the
+stamp occurs at each blow, so as to equalise the wear of the
+head. The screw disc, a plan introduced by Mr. John
+Martin, to whom the mining? interest is indebted for many
+improvements in the details of mining machinery, is a great
+
+
+advance on the old plan of keying the disc to the lifter, as it
+allows of exact adjustment without stopping the stamps.
+Doubts have been expressed as to whether round heads
+would crush so well as square heads, but an effectual trial
+made, where the conditions were exactly the same, proved
+that there was little, if any, difference between them in
+crushing power.
+Round stamps are usually worked at a lower rate of speed
+than square ones. This has arisen from a desire to make
+the lift with as little jar as is possible, and for this purpose
+using long curved wipers. It would, however, be more
+economical to use shorter wipers, even at the cost of a little
+extra power and jar, for the purpose of allowing more speed.
+With from eight to nine inches lift, stamps should be driven
+at the rate of eighty blows per minute.
+The advantage attending increased speed is not that
+derived from the extra number of blows per minute
+alone, for the water in the stamp coffers being kept
+in a greater state of agitation, the sand is cleared away
+more rapidly through the escapes, thus preventing that
+choking of the coffers which impedes the effective action
+of the stampers, and the increase of quartz crushed will
+he found to he greater than the extra number of blows
+per minute will account for. With a similar view of getting
+the sand out of the coffers as soon as it is crushed small
+enough to pass through the gratings, it is always advisable
+to have the escapes cut as large as they conveniently can he,
+occupying the jwbolje front and back of the coffers. The
+quantity of water used may be from five to eight gallons per
+head per minute, the exact amount being regulated by the
+character of the material to be crushed and the weight of the
+stampers.
+The most serious objection to the use of the stamping
+mill for gold ores, of the character common in this colony,
+
+
+was the large proportion of gold beaten up under the
+stampers, into such small particles that they could not be
+retained by the ordinary processes, thus causing a great
+loss of gold. This, in Germany, is called ? beating the
+gold dead,? and was, no doubt, one of the reasons why
+stamping machinery was at first held in such disfavour. The
+objection has been in a great measure, if not entirely, over-
+come, by the introduction of false beds~into the coffers,
+although, in several parts of the colony, these are still only
+viewed as a means of saving the coffers from wearing out,
+while the great advantage derived from them is overlooked.
+When properly arranged, they allow a large proportion of
+the gold to remain in the coffers, and for this purpose the
+false beds should have a layer of broken quartz, from two to
+three inches thick, between them and the bottom of the
+coffer. The area of the bed should be the same as that of
+the head, so as to allow sufficient space around them for the
+gold to get down below the level of the false beds, among
+the loose quartz, where it will be protected from the action
+of the stampers. When the false beds have a larger area
+than the face of the heads, a hollow is formed in them, in
+which the gold is liable to collect, and there get beaten up.
+The false beds are cheaper when made of wrought, instead
+of cast iron, from the greater durability of the former.
+Shoes are now in general use, both for round and square
+heads, and have a decided advantage in keeping up the
+weight of the stamper, and in the facility with which the
+worn-out shoe can be replaced.
+All stamps should be made self-feeding, to save labour,
+which can be much better expended in attending to the
+means adopted for saving gold. Wire gauze or perforated
+plates are used for covering the escapes, but the plates are
+generally preferred. The gauze may run from twelve to
+sixteen wires to the linear inch, and the perforated plates
+
+
+may be of a corresponding gauge. This gauge should be
+suited to the character of the gold in the quartz; where this
+is fine, the crushing must be fine also; where coarse, the
+crushing may be coarse. Cases may even occur where it
+would be advantageous to lose a portion of the free gold
+through coarse crushing, for the sake of saving a larger
+per-centage of the rich auriferous sulphides.
+Outside the coffers, the appliances used for amalgamating
+have been so numerous as to render it impossible to describe
+them all within the limits to which these notes are
+confined. They have each been tried?had their day?and
+been thrown aside for simpler and more effective plans;
+although modifications of old amalgamating machines are
+still from time to time brought forward only to be aban-
+doned. It is almost impossible to induce inventors to
+believe that the old South American plan of concentrating
+on properly constructed blanket strakes will retain nearly all
+the free gold, and that to introduce complicated and expen-
+sive machines to do the work, which can be done as well by
+simpler appliances, is a change for the worse instead of for
+the better. The error is in supposing that the loss now
+sustained on our crushing works is all in the form of free
+gold, which it is possible to secure by improved methods of
+amalgamating.
+The means in general use in this colony for retaining the
+gold are ?amalgamation in the stamp coffers, mercury
+ripples, copper plates coated with mercury, and blanket
+strakes. But before examining each of these processes, it
+may be well to consider the character of the material to be
+treated.
+Besides gold, most of our quartz veins contain the
+sulphides of iron, lead and antimony, in greater or less
+quantities. Other ores are found in the veins, but not
+usually to such an extent as to affect the extraction of the
+
+
+gold; and it is, therefore, not necessary to dwell on their
+character in this short sketch.
+The sulphides of iron (iron and arsenical pyrites) are the
+ores most frequently met with, and which carry enclosed in
+them the most gold. The galena, or lead ore, also contains
+gold, hut it is not usually rich, and antimony ore is found
+in small quantities in nearly all our veins. In some districts
+we have veins of antimony mixed with quartz and gold, in
+which case the treatment for separating the gold, and
+rendering the antimony available, must he a distinct one,
+and is not entered on in these notes.
+Most persons engaged in crushing operations will have
+noticed that when the sulphides of iron (pyrites or mundic)
+are exposed to the action of air or moisture, natural decom-
+position takes place, and they are slowly converted into
+oxides; hut if kept under water, this decomposition is so
+retarded as to be hardly perceptible. In the quartz veins a
+similar operation has been going on. Near the surface, and
+above the water level, the sulphides are usually decomposed,
+the oxide of iron thus formed giving to the quartz and
+adjoining rocks a red or brown tinge. As the depth of the
+mine increases this decomposition gradually becomes less
+perfect, until at a distance from the surface, varying
+according to the close or open nature of the rock traversed,
+the sulphides are unaltered. In all cases it will be found
+that below the permanent water level, little, if any, decom-
+position has taken place. The gold thus liberated near the
+surface has probably helped to form the rich deposits found
+at the outburst of so many of our quartz veins, and the
+locking up of a large proportion of the gold in the unde-
+composed sulphides found at a greater depth would tend to
+decrease the yield of gold obtained from the veins below a
+certain point.
+
+
+In considering'this subject, we may divide the gold found
+in the quartz veins into two kinds, ?first, the free gold, or
+such as is deposited in the quartz or slate in a form render-
+ing it capable of being liberated by the ordinary reducing
+process; and second, the pyiitous gold, meaning that depo-
+sited with, and enveloped by, the ores of the baser metals?
+in our case principally with iron in the form of iron and
+arsenical pyrites. The greater part of the free gold is
+deposited in particles large enough to be separated from its
+matrix by ordinary crushing, although the degree of fineness
+to which the quartz should be reduced must be regulated
+by the character of the gold. Some portion of the gold
+will still remain embedded in particles of quartz sand, but
+with well adjusted arrangements the amount so lost will not
+be great, considering the character of the majority of our
+veins. Exceptional cases, where the gold is in very fine
+particles,?and the loss of it in this state is heavier, ?will be
+met with, when the treatment must be modified to suit each
+case; but any effective plan of concentrating the sulphides
+from the waste tailings, would at the same time save most
+of the free gold lost in this form.
+The pyritous gold is so closely incorporated with the iron
+ores that it is not liberated in ordinary crushing; and even
+if it could be so, it is in such a minute state of division
+that the greater part of it would be lost, were it subjected
+to the treatment found to be the best for obtaining the
+coarser gold. Under the microscope, gold may be seen on
+the broken faces of particles of sulphide, when the latter are
+so small as to be nearly invisible to the naked eye, and much
+of the pyritous gold is in this minute state of division. No
+effectual plan has yet been discovered of extracting this gold
+directly by amalgamation, on account of the injurious action of
+
+
+the sulphur and arsenic in combining with and breaking up
+the mercury.*
+Such being the condition of the gold and metallic ores in
+the quartz, we may now proceed to examine the plans most
+in favour for extracting the free gold from the crushed
+material.
+The first of these is the use of mercury in the coffers, a
+plan all but universally followed in this colony, although in
+cases where the sulphides are in large quantities it is deci-
+dedly injurious, and frequently causes a great loss of gold.
+Where the quartz contains a large percentage of these
+sulphides, they gradually accumulate in the beds or coffers,
+until they are in sufficient quantity to sicken the amalgam
+already formed. This has then a tendency to break up, and
+passes away in minute globules, or else it adheres to the
+particles of pyrites, and is carried away with them.
+Instances are known where nearly all the free gold in the
+quartz has been carried away in this form and lost. These
+results are not confined to this colony alone. Kiistel, in
+describing the processes used in California, says, when
+mercury is used in the coffers, u a great many fine particles
+of amalgam adhere together, and form small spongy
+blackish lumps, which are so light as to float, and on
+account of being coated with foreign matters, will not unite
+with the accumulated amalgam. Of this amalgam very
+little can be saved ; it floats over blankets, copper plates, or
+ripples. It is, therefore, an error to use mercury in the
+battery, if concentration is in use, and the tailings are not
+saved. The finest gold is easier retained by concentration
+than this floating amalgam.? He further states, that where
+mercury is used in the coffers, and the gold is heavy, they
+* This desideratum may yet be found; but the chance of at some
+time finding it ought not to delay the adoption of the good practical
+system already established.
+
+
+retain from sixty to seventy-five per cent, of the gold
+obtained, and where the gold is light, they get a less
+favourable result.
+Now this proportion is nearly the same as that we obtain
+here from the coffers, without using mercury in them; and
+so far the use of mercury in the battery does not show any
+advantage.
+The experience, therefore, both of this colony and
+California indicates that the benefit derived from the use of
+mercury in the coffers is not so great as is usually supposed,
+and that in many cases it is injurious, as compared with the
+system of using no mercury in the battery, but having an
+effective concentrating process outside. Unless the latter
+is present, no changes should be made without careful
+experiment.
+The ripples, or troughs filled with mercury, made use of
+in this colony, are all based on the same principle ?the fall
+of sand and water on to the surface of the mercury, when
+the coarser particles of gold are taken up and remain in the
+ripple. They are simple, inexpensive, and should retain
+from twenty to twenty-five per cent, of the total yield,
+where the gold is of average fineness.
+The copper platforms are tables covered with sheets of
+copper coated with mercury, and part of the gold or amalgam
+in the sand and water from the battery, passing over them,
+adheres to the mercury on the plate. These copper tables
+are used in the great majority of our crushing plants, as
+they are readily cleaned, and require little expenditure of
+labour in attending to them. The strong hold they have
+obtained here in practical working would seem to indicate
+that they are the best known means of saving the gold.
+But such is far from being the case, and the general favour
+in which they are held has arisen more from the small cost
+at which they are worked than from their intrinsic value, the
+
+
+former property being rendered indispensable by the compe-
+tition among the machine owners crushing for hire. When
+the gold or amalgam adheres to the plate, the surface is
+roughened, and the sand sweeping rapidly over it, is apt to
+pick up minute particles of amalgam and carry them av\ aj.
+This is so well known that few crushers would care to leave
+the plates covered with amalgam while crushing an additional
+poor lot of quartz, although the poor sand will not cany oft
+more amalgam than the rich; only in the former case more is
+carried away than is added; in the latter, the balance is on
+the other side. This loss may be easily tested by cleaning
+half of a copper plate well and equally charged with
+amalgam, and then passing waste sand over the other part,
+(in imitation of the conditions when the battery is at work,)
+for a few days, when it will be found that a considerable
+per-centage of the amalgam has been carried off. Without
+the use of mercury in the coffers, these tables would be
+very ineffective; and even with all the advantages that can
+be given to them, the writer has met with no instance where
+blanket strakes, placed at the end of coppered tables, have
+not retained more or less gold, while the trials of copper
+plates at the end of well-laid and worked blanket strakes
+have hardly shown a trace of gold. In one experiment of
+the latter kind, where the mercury was kept in a ripple box
+at the bottom of the plates, and these brushed over with it
+at short intervals to keep them sensitive, the mercury was
+found to have lost some of the gold with which it was
+charged when the trial began, and no gold was found on the
+plates. As these tables were in such general use, great care
+was exercised in testing their capabilities, but the result in
+every case indicated that they had been far over-i ated.
+The above views are supported by the experience of the
+Californian miners. Under the heading ? Amalgamation
+with copper-plated platforms and other copper fixings,
+
+
+Kiistel only thinks it necessary to remark ? u Very imperfect
+and mostly abandoned. ?
+It would be well for our quartz crushers to weigh these
+facts, and if they prefer still to retain the copper tables, at
+least let them not neglect to take the precaution of laying
+down blanket strakes at the end of them.
+Blanket strakes have long been used for the concentration
+of the gold in the South American mines, and even in the
+pyritous mines where the gold is so fine as to be rarely seen
+with the naked eye, they trust entirely to fine crushing, and
+long ranges of strakes. That this trust is not misplaced the
+trials made here, extending over a period of ten years, have
+proved. One amalgamating machine after another has
+succumbed before the efficiency of this simple plan, and it
+will in time even replace the copper plates.
+The principle of working strakes is to run the water and
+sand over a long table, covered with woollen cloth, or tanned
+skins?the fall of the table, and the quantity of material
+running over it, being so arranged as to allow the heavier
+particles to be retained by the rough surface, while the
+lighter material is swept away with the water. These
+tables should be built on a stout well-braced frame,
+arranged so that the inclination can be altered at pleasure to
+suit the varying quantity of water available. This frame is
+planked over with stout Scotch flooring, and then divided
+longitudinally into strakes from fifteen to eighteen inches
+wide, by strips of wood two inches wide, nailed down to the
+table. It is usually made plain; but a better plan is to
+break it every three feet, with a drop of two inches on to the
+next strake, as by this means the current of water is broken
+at every three feet, and its velocity equalized. Great care
+should be used in making the floor of the table smooth and
+level ; and the blankets, when laid down, should adhere
+closely to the wood, without wrinkling. In South America,
+
+
+tanned skins, cut to the proper size, are made use of for
+covering the strakes, those skins being chosen which have
+fine short hair.
+Trials made with similar skins prepared here, and close-
+wove green baize, showed no perceptible difference in the
+results, and therefore the latter article has been used. The
+inclination of the table, and the amount of water and sand
+passing over it, should be so proportioned just as to keep the
+blankets clear, and any wrinkle or inequality should cause
+them to choke with sand.
+By this means every facility the system will allow is given
+for the gold, and other metals or ores, to be retained on the
+blankets.
+The width of table allowed may be from twelve to fifteen
+inches per stamp-head, and the length from eighteen to
+thirty feet, this varying with the character of the gold,
+quantity and quality of water, &c. The same conditions
+must regulate the inclination of the table; but if there is
+sufficient water, a fall of one in sixteen is considered tfye best
+working arrangement.
+The frequency with which the blankets are changed must
+also depend on the character of the material operated on.
+When this is of the ordinary description, the upper row may
+be changed every hour, the second row every two hours.
+On the remaining portion of the table, the blankets on the
+upper half may be changed every six hours, those of the
+lower half every twelve hours. Some quartz is so charged
+with sulphides as to require the blankets to be changed
+much more frequently, or there is occasionally a carbon-
+aceous slate or clay mixed with it, which forms a slimy
+covering on the blankets, soon destroying their effectiveness
+as concentrators. In this respect, as in most others con-
+nected with the extraction of gold, no fixed rule can be laid
+downj the working details must be modified to suit
+
+
+the conditions, and each establishment should ascertain
+the best arrangement for the material they have to treat,
+not copy their neighbours plans, whether suitable or other-
+wise.
+When the blankets are removed from the table they are
+washed in a cistern, and the sand thus accumulated should
+be barrelled to extract the free gold. The barrels are best
+made of cast iron, and may be about four feet long by two
+feet in diameter. This size will take a charge of from eight
+to ten cwt. of sand, and from two hundred to three hundred
+pounds of mercury, the quantity of the latter used depend-
+ing in part on the amount of gold expected; but it is better
+to have a large charge of mercury, there being more chance
+of securing all the free gold, and less chance of losing
+the mercury itself.
+The barrel should be charged with damp sand, the mer-
+cury added, and then be set to work for eight hours, at the
+rate of from fourteen to sixteen revolutions per minute. The
+mercury will break up and be distributed through the sand
+in minute globules, thus bringing it in contact with the
+particles of gold. The barrel should then be filled up with hot
+water, and worked for some four hours more, the speed being-
+reduced to five or six revolutions per minute, for the purpose
+of collecting the mercury again.
+When the process is finished the mercury is first drawn
+off, and the contents of the barrel are then emptied into a
+cistern. A large proportion of broken mercury and amalgam
+will still remain in the sand, and the whole should therefore
+be passed through some good concentrating machine to
+separate the mercury and amalgam. On some works pieces
+of iron are mixed with the sand, or an iron roller is placed
+inside the barrel for the purpose of grinding the sand finer,
+but the amount of benefit to be derived from this will depend
+on the character of the sand. Where this contains a large
+
+
+per-centage of the sulphides, the ruhhing or grinding action
+assists them to sicken the mercury and amalgam, breaking
+these up, and rendering it difficult to collect them together
+again, when a large proportion is lost. Cases have occurred
+where half the mercury used has been lost from this cause,
+and no doubt a large proportion of the gold was lost at the same
+time. Various means have been used to restore this sickened
+mercury, sulphuric acid and iron filings, cyanide of potassium,
+and sodium amalgam; and when there is any suspicion of
+the mercury in the barrel being affected, it should be
+examined, and, if necessary, some one of the above plans
+should be used to restore it. Where the blanket sand is
+heavily charged with sulphides, and the plant for extracting
+the pyritous gold has been erected, it would be better to send
+the sand direct to the furnace, either without or with further
+concentration, according as the sands may be rich or other-
+wise.
+The relative proportions of gold obtained in each part of
+the processes described will vary with its character; with
+coarse gold a very large portion will remain in the coffers,
+and when the gold is fine the proportion retained there
+decreases, while that obtained outside the battery increases.
+With quartz having the gold of average fineness, and where
+mercury is not used in the coffers, the latter may give sixty-
+six per cent., the ripple boxes twenty-three per cent., and
+the blankets eleven per cent, of the total yield of gold.
+The loss of mercury on a crushing establishment is a matter
+of great importance, not from the value of the mercury only,
+but because it usually indicates a corresponding loss of gold.
+The greater part of the mercury passing away has been
+ground to a fine grey slime; and when placed under the
+microscope, it is found to consist of innumerable minute
+globules of mercury, which will not coalesce. In many
+cases this floured mercury is heavily charged with gold, so
+
+
+much so as to be more correctly designated floured amalgam;
+and sometimes, through ignorance or carelessness, a consi-
+derable per-centage of the gold is lost in this way. It will
+be seen, therefore, how necessary it is that the loss of
+mercury from each part of the process should be ascertained
+weekly or fortnightly, the cause and form of this loss deter-
+mined, and a record kept of the results.
+In the reduction works of California, the loss of gold
+appears to be quite as great in amount, and to arise from the
+same causes as that sustained here; but the system they
+have adopted for its extraction is somewhat different. Their
+most approved plan is to crush coarsely in the stamping mill,
+and then to complete the reduction and amalgamate in
+circular pans, with mullers revolving on the bottom, which
+grind the coarse sand from the battery to a fine powder,
+along with mercury. Numerous contrivances for this
+purpose have been patented, but Wheeler?s pans, lately
+introduced into this colony, are considered the most effective.
+From the extensive use of these pans in the treatment of
+mixed gold and silver ores, it is probable they are well
+adapted for that purpose, although no statistics have yet
+reached us that would allow of an exact comparison between
+the results obtained from them and those obtained by means
+of the longer-known processes. But I doubt if they would
+be any improvement on the best plans now in use here for
+the treatment of our auriferous quartz. Kiistel (who is
+evidently a strong advocate for them) states that with these
+pans, ninety-five per cent, of the total gold contents can be
+extracted, provided the quartz is free from auriferous
+sulphides, that is, if it is all free gold they have to deal with.
+But with quartz of this kind, we could obtain nearly the
+same result from the cheaper plans we now use; and as
+well nigh all our veins yield sulphides in greater or less
+quantities, we must face the problem as it is, not as it might
+
+
+be. Judging from the trials already made, and the
+established principles on which all our operations must be
+founded, these pans are not likely to work satisfactorily on
+our pyritous ores, and where the sulphides are in larg?e
+quantities, much gold w'ould be lost. Some improvement
+has been made in this respect, by first grinding the sand to
+the degree of fineness required, and then liaising the muller
+before the mercury is added, so as to have only a rubbing
+action while they are used for amalgamating. How this
+pan may answer for extracting the gold from the roasted
+sulphides has yet to be proved, but for ordinary tailings it will
+probably be equal to the arrastra, that is, it may retain
+about one-third of the total gold contents of the sand.
+The roasting of the quartz previous to crushing was, at
+one time, an almost universal practice in this colony; but
+this plan has been gradually abandoned on most of our
+mining fields, indicating that increased experience has
+proved the advantage gained was not equivalent to the extra
+cost incurred. Roasting is still in use on some of our gold-
+fields, where the sulphides are plentiful, and mercury is used
+in the coffers. Under these circumstances, the partial
+decomposition of the sulphides will decrease their tendency
+to act on the mercury. But it is probable that a still better
+result would be obtained by crushing the raw quartz without
+mercury in the coffers, using a concentrating process outside;
+and the settling of this point well deserves the attention of
+the companies interested. Where it is intended to extract the
+pyritous gold, after the free gold has been obtained, roasting
+of the quartz before crushing is inadmissible, on account of
+the partial decomposition of the sulphide increasing the
+difficulty of separating them from the worthless sand.
+In the course of experiments made at Clunes, it was
+found that the greater the heat to which the quartz was
+subjected, the greater was the loss of gold sustained. When
+
+
+St. John del Eey (Brazils) ...
+���
+... loss 80
+per cent.
+Brazils generally
+(��
+??? ))
+80 to 85 do.
+Piedmont ,,,
+??? )>
+35
+do,
+Zell ;
+? ??
+??? �
+35 to 40 do.
+Hungary and the Tyrol
+in
+??? )}
+50
+do.
+Chili
+??? n
+66
+do.
+the sulphides were on the outside of the pieces of quartz
+subjected to the roasting process, a glazed slag (mixed
+silicates of iron and alumina) was formed, and throughout
+this slag part of the gold was distributed in minute
+particles, invisible to the naked eye. In the interior joints,
+?where only partial decomposition had taken place?black
+veins of melted sulphides were formed, with which the gold
+appeared to be intimately intermixed, instead of collecting
+together. The affinity of the mercury for the free gold was
+greatly affected, and this has generally been ascribed to the
+coating of the gold with a fine film of sulphur, although
+careful microscopic examination, with high powers, failed
+to detect any trace of this film. Lately, Mr. Latta has
+discovered that bringing gold up to a red heat produces the
+same effect,?the change being evidently confined to the
+exposed surface, as it disappears on this surface being broken.
+When antimony is present in the quartz in quantities that
+will affect the mercury, it might be advisable to roast before
+crushing, for the purpose of volatilising the antimony. But
+even in these cases, it has yet to be seen whether still better
+results would not be obtained by depending on the concen-
+trating process, and treating all the concentrated material in
+the same way as is used for the extraction of the pyritous gold.
+Keeping before us the great loss inevitably sustained in
+the redaction of gold ores, even with the best appliances
+known, * it will be readily seen how greatly that loss may be
+* The losses sustained in other gold-mining countries are very heavy,
+as the appended return, extracted from the Journal of the Society of
+Arts, will show: ?
+
+
+increased by any carelessness or want of knowledge on the
+part of those in charge of the works. In nearly all the
+crushing establishments of this colony the work is carried
+on from day to day without an attempt being made to dis-
+cover what is the amount lost, and in what form that loss
+occurs. Yet it will be seen from the above details, that any
+person having the control of these operations, should not
+only be acquainted with the principles on which they ought
+to be founded, but that he should be prepared to enter into
+the investigations required to enable him to ascertain the
+comparative efficiency of each part of the process.
+For this purpose the mercury used should be carefully
+weighed at short intervals, to ascertain what the loss is,
+and in what part of the process it occurs. The tailings
+should also be sampled as they leave the crushing-house
+several times during the day, and the accumulated samples
+tested at the end of each week or fortnight, to ascertain
+what amount of gold is being lost. These samples may be
+sent to any competent assayer, where exact returns are
+required; but for ordinary work, rough assays by amal-
+gamation, on the plan described in the Appendix, will be
+sufficiently accurate for general use; as these will come
+within fifteen per cent, of the actual gold contents, provided
+they are made with due care. Records should be kept of
+all these assays, and regular returns made, not only of the
+amount of gold obtained, but also of the gold and mercury
+lost, with full information as to how and where that loss
+occurs. The rough and ready system of dealing with the
+nice question of the extraction of gold, has been so long in
+use in this colony, that many will be surprised at the pro-
+posal that they should require such returns from the
+managers of mines, yet they are made regularly in the gold
+mines of Europe and South America, and in at least one of
+our large mines. Without them, companies are working
+
+
+entirely in the dark, and that in conducting operations
+where the loss at the best is very great. It might he
+supposed that there are not many companies in this colony
+so apathetic as to prefer remaining in ignorance of the
+extent of their loss, rather than enter on the active
+endeavour to reduce it, such knowledge would force them
+into. The outlay of a few shillings per week for material,
+and a little extra work for the manager, can hardly be
+considered a sufficient excuse for not prosecuting these
+investigations, and there can be no doubt they would result
+in a largely increased yield of gold.
+The above notes refer to the extraction of the free gold
+only, and the treatment required to obtain the pyritous gold,
+the form in which probably eighty per cent, of the loss now
+sustained occurs, has yet to be considered.
+The ores with which great part of the gold now lost, is
+incorporated, are the iron and arsenial pyrites, the former
+being usually the richest in gold. They are found in greater
+or less quantities in all our quartz veins, the proportion in
+some cases reaching as high as ten per cent, of the vein stone,
+and varying in gold contents from a trace up to fifty ounces
+per ton.
+Instances have been known where the sulphides have
+yielded over one thousand ounces of gold per ton, but these
+were no doubt exceptional cases. As a general rule, the value
+of the sulphides will be in proportion to their per-centage in
+the quartz, and the amount of free gold obtainable by the
+ordinary process. While the sulphides in the heart of the
+Vein may be rich, those in the slate immediately adjoining it
+are usually poor; and even in the vein itself there is great
+difference in their value. No trial .of a single sample will,
+therefore, be any criterion of the average yield of the sulphides
+in a vein; any more than such trial would be of the average
+yield of the quartz.
+
+
+The best test is to take a fair sample of the ordinary waste
+tailings, or the waste blanket sand, after the free gold has
+been extracted by the methods in nse for that purpose, wash
+out the sulphides, and take a sample for assay. If this is
+done with due care, some trust may be placed in the results
+obtained; but the necessity for this care cannot be too
+strongly enforced, lest companies should be led into unwar-
+ranted expenditure in the endeavour to obtain gold which may
+not exist.
+It may not be out of place to note here the principal
+characteristics of the iron ores to be treated.
+The iron pyrites is a bisulphide of iron, crystallizing in the
+form of the cube. The colour varies from bronze yellow to
+nearly silver white.
+Faces of the crystals frequently striated. Brittle, but does
+not yield to the knife, and by this property it may be distin-
+guished from copper pyrites, which it readily scratches
+(Specific gravity, from 4'6 to 5.
+Chemical composition?lron, 45 to 48 parts.
+Sulphur, 52 to 54 parts.
+Arsenical pyrites crystallizes in the form of the rhomboid ;
+the colour is usually whiter than the iron pyrites. Specific
+quartz, 5-7 to 6-2.
+Chemical composition?lron, 34 to 36 parts.
+Sulphur, 20 to 21 parts
+Arsenic, 43 to 45 parts,
+These ores are usually found together in the veins, some-
+times one, sometimes the other, predominating. Galena is
+frequently associated with them ; the chemical composition of
+this ore being?
+Lead, 85 parts.
+Sulphur, 13 parts.
+A trace of gold in chemical combination has been found in
+the iron ores, but the quantity was so little that it may be
+
+
+left out of the calculation, nearly all the gold being deposited
+mechanically, in minute particles in the sulphides, great part
+of them so small as to be invisible to the naked eye, and some
+of them requiring a good microscope to determine whether
+they are gold or not.
+In all mining countries where attention has been given to
+the saving of this gold, the plans tried were first directed
+towards treating the tailings in bulk, by re-grinding and
+amalgamating, or some analogous plan ; but from the fineness
+of the gold it must be evident that the reduction of all the
+tailings to such a gauge as would allow the pyritous gold to
+be liberated, could only be effected at an expense greater than
+the value of the gold that would be obtained. Such grinding
+as can be practically given to it by the best machines known,
+has extracted about one-third of the gold contents, and this at
+such a cost as to leave only a small margin for profit, unless
+the tailings were exceptionally rich. Even in the latter case,
+they will probably contain such a per-centage of sulphides as
+would materially affect the amalgamation, and thus bring up
+another objection. As, however, it appears that with good
+arrangements for extracting the free gold, the bulk of the gold
+lost is only that enveloped in the sulphides, by separating the
+latter from the worthless sand (and in doing this most of the
+free gold escaping would be retained also), we obtain the gold
+in a small quantity of rich material that will pay for the
+more costly processes required to extract it. By this means,
+probably nine-tenths of the worthless sand, and the cost of
+operating on it, will be got rid of, and the one-tenth retained
+will consist of sulphides, and particles of quartz sand envelop-
+ing gold, of a small proportion of free gold, and more or less
+sand not containing any gold,?the quantity of the latter
+depending on the efficiency of the concentrating process used,
+and the extent to which it is carried.
+The greatest advance which has hitherto been made towards
+
+
+the saving of the pyritons gold has resulted from the follow-
+ing up of this system, although before bringing it to perfec-
+tion there ?'re still some difficulties to be surmounted. The
+principal of these is the complete concentration of the
+sulphides from the worthless sand.
+The specific gravity of the quartz is about 2'6, and that of
+iron pyrites (our great gold bearing ore) is about 4 ?7, this
+small difference offering great obstructions to their perfect
+separation, as all persons acquainted with practical ore-dress-
+ing will at once perceive. But this difficulty is increased
+through the pyrites being so much more friable than the
+quartz, great part of it being in consequence crushed into
+a fine powder, which cannot be separated from the sand by
+any of the common ore-dressing machines now in use.
+The sulphides hitherto operated on consist of the larger
+particles retained on the blanket strakes, or separated from
+the waste tailings by means of Mr. Munday?s patent buddle.
+But even this amount of saving is well worthy the attention
+of mining companies, as the results obtained at the Clunes
+works for some years past prove" beyond a doubt, seeing it
+would add at least �300,000 per annum to the returns from
+our quartz mines, and by doing so, double the profits derived
+from them. There is now, however, a certainty that the con-
+centration may be carried much further than it has hitherto
+been, by means of the improved percussion table.f
+* The returns from the Clunes works, of the working of the pyritous
+ores from their waste tailings, for the year ending September, 1867, were
+as follows:
+268 tons of concentrated material operated on, containing, by assay,
+3 oz. 9 dwt. 3 grs. of gold per ton.
+Amount of gold extracted, 796 ozs. 8 dwts., or 2 ozs. 19 dwts. 10 grs-
+per ton, being 86 per cent, of the total gold contents.
+Cost of operation, �BOO 45., nearly �3 per ton, or �1 Os. Id. per oz.
+of gold obtained. Profit, �2,369 3s. 9d.
+t Since these notes were written further improvements have been
+made in the working of the patent buddle.
+
+
+The system adopted for the treatment of the sulphides is
+simple and easily understood, being merely the elimination of
+the sulphur and arsenic, and the conversion of the iron into
+an oxide, so as to liberate the gold, and allow mercury to be
+used for its extraction.
+A plan based on the same principle was long used for
+dealing with the pyritous ores of North Carolina and South
+America. The ores were first crushed, and the gold thus
+liberated taken out; they were then exposed to the action of
+the atmosphere for a year, to allow of natural decomposition
+and oxidation, when they were again re-treated; the gold
+obtained in the second operation being nearly the same
+amount as in the first; and this was repeated for four or five
+years, by which time the gold was exhausted.
+By the plan now followed, instead of waiting for four or
+five years for the oxidation of the sulphides, the process is
+completed in two hours in an oxidating furnace.
+If the pyrites is brought up to a dull red heat, in an open
+vessel or furnac�, the oxygen of the air will combine with the
+sulphur, arsenic, and iron, forming the pyrites; the two first
+constituents pass off in the form of sulphurous and arsenious
+acids, and the iron will be converted into a brown or red
+oxide. This change can be effected in the ordinary reverbe-
+ratory furnace, but the time and labour expended in raking
+over the material until every portion of it has been exposed
+to the action of the air for a sufficient time to ensure its
+decomposition, renders this a slow and costly process. The
+oxidating furnace now in use at Chines (designed by Mr.
+Latta) remedies these defects. In this, the fire is applied in
+a similar way to that of the ordinary reverberatory furnace,
+but provision is made for throwing in a superabundance of
+heated air. The bed is from thirty to forty feet long, and
+from five to six feet wide, set at an angle of about twenty
+degrees, and there is an opening for the discharge of the
+
+
+roasted sand, between tlie lower end of the bed and the
+bridge of the furnace. It is fed at the upper end, and the
+material is gradually raked down the inclined bed, which is
+thus kept covered with a thin layer of sand. In travelling
+down the bed, every portion of the sand is exposed to the
+action of the air, and it is found that about two hours
+exposure in the furnace is sufficient to allow of the complete
+oxidation of the pyrites. The action is continuous, small
+charges of the raw material being fed in at the upper end, to
+supply the vacancy caused by the drawing off from the
+bottom. A dull red heat is found to be the most effective,
+and the sand is quenched with water as it leaves the furnace.
+The gold is still for the most part enclosed in the particles
+of oxide of iron, and a grinding process is required to
+liberate it, and facilitate its absorption by the mercury. The
+plan hitherto used is to grind the moistened sand under
+broad-faced Chilian rollers, in charges of two hundred pounds
+weight each, with one hundred pounds of mercury. The
+latter is broken up, and distributed through the moist sand
+in myriads of small globules, thus bringing it into contact
+with the minute particles of gold. After this grinding and
+amalgamating has been carried on for half-an-hour, water is
+admitted, and the mercury collects together again. The sand
+is then flushed into a cistern, and the mill re-charged. From
+the cistern the sand is run through concentrators, for the
+purpose of collecting the finely-ground mercury which passes
+off with the sand from the mill.
+Taking the average of the last twelve months? work at
+Clunes, eighty-six per cent, of the total gold contents of the
+pyrites treated was obtained by this means, and it is probable
+that considerable improvements will yet be made. One of
+these would be the grinding of the roasted sand to a fine
+powder previous to amalgamation. In this way a more
+thorough disintegration of the sand would be effected than is
+
+
+practicable in the mill, and the surface of the gold would be
+burnished, so as to restore its affinity for the mercury, injured
+by the heat to which it had been subjected. This plan will
+shortly be tested.
+The system of extracting gold known as Plattner?s process,
+from its having first been brought into practical operation by
+him at Reichenstein, in Germany, is founded on the affinity
+of chlorine for gold. The ground ores are first roasted, and
+then put into shallow vessels with a false bottom. The
+chlorine gas is obtained by putting the proper equivalents of
+manganese, common salt, and sulphuric acid, into a generator,
+and w'hen heat is applied, the gas is evolved and conducted
+under the false bottoms of the cisterns. When the latter are
+fully charged with gas (which may be known from its rising
+through and resting on the sand), they are closed up for from
+twelve to thirty-six hours, to allow time for the combination
+of the* chlorine and gold. The chloride of gold formed being
+soluble in water, it is dissolved out of the sand, and the gold is
+then precipitated from the solution by the addition of sulphate
+of iron. If this process is carefully conducted, nearly all the
+gold will be obtained. The labour attending it is not great,
+but the cost in this colony of the chemicals required has
+hitherto been the great objection. This cost would be much
+reduced if the manufacture of sulphuric acid from the
+sulphides were combined with the extraction of the gold,
+and the formation of an establishment for this purpose, in a
+central position, would be attended with great benefit to the
+quartz miners.
+Many attempts have been made to extract the gold from
+the sulphides in their raw state, for the purpose of avoiding
+the cost of eliminating the sulphur and arsenic by roasting.
+But even with the use of sodium amalgam and other
+chemicals, the trials hitherto made have not been attended
+with satisfactory results up to the present time. Fine
+
+
+grinding in mills or barrels with mercury alone will not
+extract a fair proportion of the pyritous gold. Still, many
+of our crushers keep trying this plan ; and having extracted a
+part of the gold, at once jump to the conclusion that they
+have obtained it all, or nearly all. Unless these trials are
+properly conducted, they may lead to much useless expen-
+diture, and to the formation of opinions having no sound
+basis to rest upon, but which may have a most injurious
+effect in delaying substantial progress. Before any trust can
+be placed in such experiments, the character of the gold to
+be saved, and the per-centage that can be extracted by the
+processes now in use, should be known. The exact amount
+that can be obtained by the new plan, and that still left in
+the sand, will then give the data requisite for making a fair
+comparison, and show if any advance has been made. It
+might be supposed that to advocate such an obviously neces-
+sary precaution is hardly required; yet through neglect of it
+large sums of money have been thrown away, and the false
+opinions and prejudices it has fostered offer no trifling
+obstacles to the dissemination of correct views.
+In most instances the gold obtained in these trials is free
+gold, which ought to have been extracted by the ordinary
+appliances already considered, had these been efficient and
+suited to the work. Let our crushers try any method of
+saving the gold they are now losing, which their experience
+may suggest, but no conclusions should be drawn from such
+trials until it has been ascertained by exact assay what gold
+is left in the sand after it has been operated on.* Any one
+* This caution is applicable to other places besides this colony. One
+of the largest gold mining companies of South America for years took
+great credit to themselves for the large returns obtained in re-treating a
+portion of their tailings. When the work came to be closely looked
+into, it was found that out of 45 ozs. of gold contained in the 50 tons
+re-treated daily, they obtained about VI ozs., a result anything but
+satisfactory.
+
+
+entering on the path of experimental research should hold his
+opinions and theories loosely, prepared to abandon or change
+them as each addition to his experience may direct; and unless
+he is imbued with this spirit, it would be almost better to fall
+back into the ranks of those who hold that ignorance is bliss.
+Taking the question as it now stands, it has certainly been
+proved in the most convincing way?viz., by practical
+working on a large scale, carried on for several years?that
+the coarser particles of the sulphides in the waste tailings,
+may be separated, and the gold extracted by a process which
+even now shows a profit of over seventy per cent, of the value
+of the gold obtained, and that in dealing with sulphides con-
+taining under three and a half ounces of gold per ton, thus
+showing that even one ounce of gold per ton would do more
+than pay the cost of operating. With the richer sulphides
+present on most of our gold fields, the profits would be propor-
+tionally larger.
+These facts are incontrovertible, and they have been open
+to any one who would have enquired for the last three years;
+yet, strange to say, they have attracted little attention, and
+even when pressed upon the notice of mining companies, it is
+difficult to overcome the indifference which exists in all
+matters connected with the improvement of the great interest
+of the colony.
+When the erection of a plant for the extraction of the
+pyritous gold would be inconvenient, the richer sulphides
+might be shipped to England, where an unlimited market
+will be found for them. One parcel sent there was sold by
+its gold contents, at the rate of �3 10s. per ounce, and the
+agents reported ? that as the working of these ores becomes
+? better understood in England (a result immediately conse-
+? quent on a steady supply) so a keen competition will arise,
+? and an extreme value be realized.?
+A very large proportion of the sulphides are crushed so fine
+that they cannot be separated from the waste sand by the
+
+
+plans hitherto used; and, for several years past, experiments
+have been carried on, with the view of discovering some
+dressing machine that would effect this object. A percussion
+table, so modified as to remedy the defects of that ore dresser,
+has been designed and worked for some time past by the
+writer; the trials hitherto made indicating that it will save
+a very large proportion of the fine pyrites, which has, up to
+this time, escaped from all other machines tried. The object
+of these notes, however, is not to press on the notice of the
+mining community an invention in which the writer is per-
+sonally interested, and where doubts might be felt as to the
+accuracy of results obtained by him in working these tables.
+But the question of a more intelligent application of the
+principles on which the methods adopted for the reduction of
+gold ores should be based, and of the saving of the pyritous
+gold, is in a different position. Here we have facts and
+statistics to rely on, over which the writer has no control, and
+such as no reasonable man can doubt. To the enquiry, if on
+one mine where the sulphides are comparatively poor, and in
+small quantities, over �2,000 per annum can be realized by
+operating on them, what would be the effect of the general
+adoption of the system on the mining interest and the
+colony ] Only one reply can be given. It is for those inte-
+rested to determine how long they can afford to throw away
+gold needlessly, and neglect the profits that might be derived
+from this source; but in no other pursuit than gold mining
+would a matter of such importance to its successful prose-
+cution be passed over, even for an hour. The market for
+gold is practically an unlimited one, so that the price is
+uniform; and there can hardly be a stronger illustration of the
+beneficial action of competition on human progress, and the
+apathy and want of enterprise attending its absence, _than the
+present state of this question.
+Both in the mechanical and metallurgical operations
+
+
+attending the treatment of gold ores, the plan followed
+should depend on the character of the gold and the minerals
+associated with it in the vein, instead of one system being
+employed for all, whether it is adapted to the material to
+be operated on or not. The loss with the best arrange-
+ments must be a large one, considering the great value of
+the metal obtained, and therefore every separate part of
+the work should be carefully watched, and its action and
+results investigated; for little improvement can be expected
+unless the degree of efficiency attained, and the extent and
+character of the difficulties to be overcome, are first known.
+For this purpose some metallurgical knowledge is no
+doubt required; but that necessary in the present case is
+of such a simple character as to be within the reach of
+every man possessed of ordinary ability, and there is no
+excuse for anyone accepting the responsibility attending
+the conducting of a crushing establishment, without making
+himself acquainted with the principles on which the opera-
+tions must be based, if they have to be carried on creditably
+to himself, or with the greatest amount of profit to the
+company, who have entrusted their business to him.
+We are inclined to look back to the days when the rich
+surface quartz was broken up by hand, or by some roughly
+constructed machine, with mixed feelings of wonder aud
+pity for the ignorance which then prevailed. In a few
+years we shall probably regard the waste of the present
+time in a similar light, and the sooner we set about
+providing a remedy for the existing evils, the better will it
+be for all parties concerned.
+
+
+APPENDIX.
+The following description of a plan used for testing the
+value of the waste, may be of some use to those not
+already acquainted with it.
+Sampling from Stamps.? When the object is to
+ascertain the value of the tailings after leaving the ordinary
+process for extracting the gold, the plan adopted may be
+as follows:
+Take a new bucket (to be kept solely for this purpose),
+and place it under the spout carrying otf the tailings from
+the mills, until it is full of sand and water, not allowing
+it to run over. This should then be emptied into a filter,
+?the process being repeated six or eight times in the
+twenty-four hours.
+To form the filter, take an ordinary cask with one end
+out, and a hole at the bottom to allow the water to run off.
+This cask is set on end, and a piece of canvas or strong
+calico is thrown over it, and thrust down so as to form a
+bag in the cask, ?a hoop being slipped on to keep it in its
+place, and a loose lid fitted to the cask to prevent dust or
+gold from getting into it. The water gradually filters
+through the canvas or calico, leaving the solid matter
+behind. After the process has been continued for a few
+days, the contents may be emptied into a clean tub, well
+mixed together, and the quantity required for assay taken
+out.
+
+
+Sampling from Heaps. ?Sections should be opened on
+different parts of the heap, and a cut taken from the top
+to the bottom of each, so as to get about an equal quantity
+from each section, and the sand so obtained should be well
+mixed together.
+In sampling both from the mill and heap great care
+should be taken to use enamelled dishes, clean tubs, &c.,
+to make sure that the gold obtained belongs to the sample,
+and has not come from any other source. Unless this is
+attended to, the result of the assays cannot be depended on.
+Amount op Sulphides, ?This may be roughly deter-
+mined by taking, say fifty-six pounds from the sample
+when dry, and washing it several times over with great
+care, to separate the sulphides. The latter may then be
+dried and weighed, and the amount per ton easily calculated.
+Amount of Gold. ?The assay for this should be first
+from the general sample of tailings, and second from the
+clean sulphides obtained as described above. If an exact
+assay is required, one or two pounds weight of each
+(taking care that these are fair specimens of the bulk),
+may be sent to some assayer of standing, who will make
+a return of the total gold contents that can be depended on.
+Or rough assays may be made on the spot, which,
+although not giving the full amount of gold in the sample,
+will yet come within fifteen per cent, of it, if carefully
+carried out in the following way :
+Assay by Amalgamation. ?The sample to be tested
+must be dried and weighed. If it is a rich sulphide, one
+pound weight will give a sufficient trial, ?if poorer material,
+from two to five pounds may be used. The first point is to
+roast the sand, and this may be done over an ordinary fire,
+in an iron frying-pan, or on an iron plate. The sand should
+be spread thinly on this, brought up to a red heat, and
+frequently raked to expose every part of it to the action of
+
+
+the air. The roasting should be continued until no smell
+of sulphur can be felt on bringing a portion of the sand
+close to the face; and to finish it a smart heat should then
+be kept up for half-an-hour. If in the amalgamation the
+mercury is affected, this will probably arise from imperfect
+roasting.
+When the sand is taken off the fire, it should be left to
+cool for a short time, and then be rubbed to a fine powder
+in a wedgwood mortar; an iron one might have gold
+adhering to it. A convenient quantity (say from half a
+pound to a pound) of this may then be taken, and sufficient
+water added to clamp the sand, and make the particles
+adhere together. This is placed in the wedgwood mortar,
+with from two to three ounces of mercury, and the whole
+ground together for twenty minutes. The mercury will
+break up into globules, and be distributed throughout the
+damp sand. Water must then be added, and the pestle
+worked slowly round, when the mercury will collect again.
+The sand should then be washed off, and the process
+repeated (using the same mercury) until the sample has
+all been operated on. The mercury must then be carefully
+washed, to free it from every particle of quartz or iron, as
+these would otherwise remain with the gold, and render the
+assay incorrect.
+The easiest way of thoroughly cleaning the mercury is to
+pour it from one saucer into another several times, washing
+the saucers each time they are emptied to get rid of the
+particles adhering to them. The water should then be taken
+off with a clean sponge, or piece of rag, and the mercury
+covered with nitric acid. The acid will first be coloured
+green, then orange fumes will be given off, and as it becomes
+saturated with nitrate of mercury, it will clear again, when
+the acid should be poured off, and a fresh charge added. As
+soon as the mercury is all dissolved the gold will be seen in
+
+
+the cup or glass vessel used, in the form of a dark brown
+powder. The acid should then he poured off, and clean
+water added several times to wash out any acid that may still
+be adhering to the gold. The latter may then be dried and
+weighed. Before using mercury for an assay, a small por-
+tion should be dissolved in nitric acid to make sure that it
+does not contain gold.
+If, from any carelessness, the white nitrate of mercury is
+deposited, it is better to stop, and wash the mercury clean,
+as described above, before going on with the process. The
+sample of gold obtained should also be examined with a
+magnifying glass, and if there are any particles of quartz, or
+other extraneous matter still mixed with it, an allowance
+should be made for these in weighing. Fine scales that
+will weigh to the twentieth part of a grain should be used for
+weighing, and this should be done as soon as the sample is
+dried, for the gold is in such a fine state of division, that a
+portion is almost certain to be lost in handling it.
+With care and a little experience the assay by amalgama-
+tion will be found sufficiently accurate to guide ordinary
+work, although the return will always be less than the
+actual gold contents of the sample; but it should not be
+entirely relied on ; as the presence of some minerals might
+seriously affect the result. Occasionally, therefore, correct
+assays should be obtained, both as a check on the rough
+assays, and also in cases where great exactness is required.
+HEATH AND CORDELL, PRINTERS, 30, FLINDERS LANE WEST, MELBOURNE.
+
+
+'
+? * .
+.
+?
+
+
+.
+
+
+M
+/
+
+
+WORKS FOR MINERS, MINING ENGINEERS & METALLURGISTS,
+Budge?s Practical Miner?s Guide ;
+Comprising Trigonometrical Tables for all purposes of Dialling,
+the Art and Practice of Assaying, and Rules, Tables, and
+Illustrations, exclusively applicable to Mining Business. 15s.
+Overman?s Metallurgy and Mining :
+A Practical Treatise. Sixth, edition. 38s. 6d.
+Kiistel?s Gold and Silver Extraction ;
+The Nevada and California Processes, for general use, with
+Directions for all Metallurgical Operations. 345.
+Merchant?s Manual of Mining ;
+Comprising a Brief Sketch of Geology and Metallic Veins,
+Sinking and Timbering of Shafts, Mining Engineering and
+Surveying, Amalgamation, Assaying, &c. Is. 6d.
+Percy?s Metallurgy :
+Eihst Division.? Fuel, Fire Clays, Copper, Zinc & Brass. 245.
+Div. II. ?Iron and Steel. 475. 6d.
+Div. lll.?Lead, Silver, Gold, &c. In the press.
+The Useful Metals and their Alloys ;
+Including Mining Ventilation and Jurisprudence, and Metal-
+lurgy Chemistry. By Scolfern, Fairbairn, and others. Bs. 6d.
+Mitchell?s Manual of Practical Assaying ;
+With copious Tables, &c. New and enlarged edition. 265. 6d.
+Kecords of Mining and Metallurgy;
+By Phillips and Darlington. 4s.
+Arundell?s Law of Mines and Mining Companies.
+A Practical Treatise. ss.
+Bourne on the Steam Engine.
+The ? Artizan Club?s ? Treatise on the Steam Engine. 425.
+Bourne?s Catechism of the Steam Engine. New edition. 11s. 6d.
+Bourne?s Hand-Book of the Steam Engine, lls. 6d.
+Notes on the Management of Mining Companies.
+By H. A. Thompson, M.E. One Shilling.
+Melbourne; George Robertson, 69, Elizabeth Street.

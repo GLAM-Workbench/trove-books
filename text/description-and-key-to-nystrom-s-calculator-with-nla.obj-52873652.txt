@@ -1,0 +1,1835 @@
+
+
+
+
+NYSTROM’S
+CALCULATOR.
+GEORGE THORSTED.
+MANUFACTURER,
+No. 23 HAMMERSLY STREET, NEW YORK.
+PHILADELPHIA:
+BARNARD & JONES, PRINTERS,
+No. 10 DECATUR STREET.
+1854.
+
+
+DESCRIPTION AND KEY
+TO
+NYSTROM’S ALCULATOR,
+WITH
+practical Rules and Examples
+FOR
+USING THE SAME.
+BY
+J. W. NYSTROM.
+PHILADELPHIA:
+BARNARD & JONES, PRINTERS,
+No, 10 DECATUR STREET.
+1854.
+
+
+ADVERTISEMENT.
+«*
+The inventor of the Machine designed to accompany this book
+being a practical engineer, and having multiplied calculations to
+make, felt the necessity of some simple instrument to aid in calcu-
+lation. After much thought and labor, he has succeeded in pro-
+ducing such an instrument—simple in construction, and portable in
+®c, yet so complete that every variety of calculation may be com-
+puted by it, from the school-boy’s easy sum to the most intricate
+computation. Its operations are so simple, that it does not require
+great power of mind to comprehend them ; they can be applied by
+>ny one to the common business purposes of life.
+For Engineers, Constructors, Ship-builders, and for Navigation,
+4is Calculator will be found the most valuable assistant in figuring.
+For trigonometrical calculations, it is so arranged that it is not ne-
+cessary to notice the trigonometrical lines as sin. cos., &c., operating
+ol >ly by the angles themselves. This makes triognometrical calcula-
+llo ns so simple, that any one that can read figures, will be able to
+solve trigonometrical questions. Its great recommendation is, the-
+rapidity with which calculations can be made; —what, by the ordi-
+“ury method, is the work of hours, filling pages with figures, can be
+®ns in a f ew seconds, without figures. Many important calculations
+u e dispensed with, and often thrown aside before completion, owing
+*° 4e length of time required to compute them.
+, For Teachers it will be found to be a valuable assistant, furnish-
+a test of the real acquirements of the pupil, without taxing the
+'■®e of the teacher. Teachers are generally dependent upon text
+°°ks for examples, and it is easy for the pupil, knowing where the
+'tample comes from, to be furnished with an answer ; but an inge-
+|! ,0 «3 teacher, furnished with one of these Calculators, may vary
+Samples ad infinitum, and have the answer almost in an instant
+i°re him. The pupil is thrown on his own resources for the proper
+**®tion of the problem.
+All the calculations in Nystrom’s Pocket-Book of Mechanics and
+ln Smeering, have been computed by this instrument,
+h Was invented in 1848, received a First Premium at the Franklin
+Sst >tute Exhibition in 1849, and Patented March 4, 1851.
+
+
+NYSTROM’S
+CALCULATOR.
+
+
+
+
+DESCRIPTION AND KEY
+TO THE
+CALCULATOR.
+The Calculator consists of a round disk of brass, silvered white.
+Ithas two graduated arms A and B, extending from the centre C to
+the periphery. On the outer end of each arm is a screw e, for the
+purpose of fastening the arms in any particular place on the disk.
+In the centre is a screw C, to clamp the two arms together; when
+clamped they can be moved freely around the centre C.
+The operation of calculation is performed by moving these arms
+together and independently; for each operation the arm B must be
+set in one particular place on the disk called Zero. In order to be
+correct, and facilitate the setting of the arm B on Zero, there is placed
+aspring E, which is to be operated when the arm approaches it; this
+is done by pinching the spring with the fore-finger, and the arm
+stops at Zero. A little practice, and this is done with great facility.
+The Calculator has four different scales, marked on the arms thus :
+a, log, sin, cos, and points.
+THE FIRST SCALE a.
+The outer scale a is for multiplication, division, involution and
+solution. It has two sizes of figures, of which the larger ones repre-
+sents the first figure in a number, and the smaller ones the second;
+for instance, 28 is a number composed of two figures; 2is the first
+figure, 8 the second.
+Example. To set the arm Aon number 28 (circle a). Set the
+>na A on the large 2, (circle a), move the arm further until it comes
+10 the small 8, (the eighth curved line from the large 2;) fasten the
+Mm A with the screw e ; the arm is then set on 28. But this 28
+'an represent any multiple or divisor of 10; as
+0-0028, 0-28, 2-8, 28, 280, 28000, &c. -
+If the number contains more than two figures, as 2835, the third
+and fourth figures are to be found on the arm where it intersects the
+curved line; the third figure is the small figure on the arms, (counted
+from a,) and the fourth figure the small divisions between the figures
+cu the arms.
+
+
+OPERATION.
+Place the instrument in a position as represented by the accompa-
+nying figure, manoeuvre the arm A and screw e by the left hand,
+and the arm B with the right.
+MULTIPLICATION.
+Rule I. Set the arm Aon the first factor, fasten A 6 ;* set the arm
+B on Zero, clamp C f loose Ac, and move the arms until the atm B
+comes to the second factor; then the arm A shows the product.
+Example 1. Multiply 3by 2. Set the arm Aon 3, (circle o,) and
+B on Zero, clamp C, move them until the arm B comes to 2; then
+the arm A shows the product = 6.
+Example 2. Multiply 4by 2. Set the arm Aon 4, fasten A®, set
+tlie arm B on Zero, clamp C, loose A®, move the arms until B comes
+to 2 ; the arm A will show the product = 8.
+Example 3. Multiply 6 by 4. Set A on 6, fasten A®, set B on Zen,
+clamp C, loose A®, move the arms until B comes to 4, then A shows
+the product = 24.
+Example 4. Multiply 9 by 7. Set A on 9, fasten A®, set B on Zero.
+clamp C, loose A®, move the arms until B comes to 7 ; then A shows
+the product = 63.
+Example 5. Multiply 12 by 3. Set Aon 12, (the second curved
+line from the large 1,) fasten A®, set B on Zero, clamp C, loose A e ,
+move the arms until B comes to 3; then the arm A shows the pro-
+duct = 36.
+Example 6. Multiply 36 by 6. Set Aon 36, fasten A®, set Bon
+Zero, clamp C, loose A®, move the arms until B comes to 6 ; then the
+arm A shows the product = 216. The third figure, 6, will be found
+on the arm where the curved line 1 intersects the same at figure 6
+on the arm A, counted from a.
+Example 7. Multiply 216 by 16. 216x16=3225. The fourth
+figure, 5, is the fifth division between 2 and 3 on the arm, counted
+from a.
+Example 8. What is the area of a rectangle in square feet, when
+one side is 3 feet 6 inches, and the other 1 foot 9 inches 1 Set Aon
+3-5, Bon Zero, clamp B, move the arms until B comes to 1-75; then
+the arm A shows the answer, 61-25 square feet.
+Example 9. A pine board is 16 feet 3 inches long, and 9 inches
+wide; how many square feet are there in it 1 Set Aon 16-25, Bon
+Zero, clamp C, move the arms until B comes to 0-75, (9 inches = O' 7 ®
+jeet;) then A shows the answer = 12-19 square feet.
+* The arm A with the screw e.
+t The arms A and B with the screw C.
+
+
+Example 10. How much will the same board cost at 4 cents per
+square foot 1 Set Aon IS-19, Bop Zero, clamp C, move the arms
+until B comes to 4 ; then A shows the answer = 48-75 cents.
+Example 11. How long is the periphery of a circle 15 inches in
+Jiimeter 1 Set Aon 15, Bon Zero, clamp C, move the arms until B
+comes to 3-14; then A shows the answer = 47-13 inches.
+Example 12. The driving wheel on a locomotive is 5 feet 6 inches;
+in diameter how long is the periphery 1 Set Aon 5-5, Bon Zero,
+clamp C, move the arms until B comes to 3-14; then A shows the
+answer = 17-27 feet.
+Example 13. How much for 39 yards of ribbon, at 5 cents per
+yard? 39 x 5 = $l-95. Set Aon 39, Bon Zero, clamp C, move
+the arms until B comes to 5; then A will show the answer = s'l-95.
+Example 14. How many square yards are there in a piece of cloth
+37 yards and 29 inches long, and 2 yards and 18 inches wide ? 29
+inches = 0-75 yds., 18 in. =? 0-5 yds. 37-75 X 3-5 = 94-37 square
+yards.
+Example 15. When butter costs 23 cents per pound, how much
+hr 23 pounds 1 23 X 33 = $5-29.
+Example 16. What will be the cost of a fly-wheel weighing 768
+pounds, at 5 cents per pound 3 768 X 5 = $3B-40.
+When there are more than two factors to be multiplied together,
+consider the product of the two factors as one factor, and continue
+the multiplication with the next factor as before described. It mat-
+ters not how many factors there may be, the multiplication can be
+continued to any extent, but a correct account of the index of the
+factors must be kept, as described on page 14. The products which
+come between the operations need not be observed, only the last
+product.
+A calculating machine of only nine inches in diameter, cannot
+give more than the four first figures correct; the rest must be filled
+op with ciphers (0). In common calculations, a result in four figures
+will generally suffice. For higher numbers, the remainder of the fig-
+ares are commonly ciphers; these the machine tells to any extent.
+But if the. calculation is an important one, requiring a dozen or more
+figures in the result, make the calculation by hand, but do not trust
+to the first result being correct. The second time proves the calcula-
+tion by the machine ; by it you are sure of obtaining the four first
+figures correct, which are always most important; for the last figures
+the operation by hand can be trustedi,
+We will see by the following, that this instrument easily manoeu-
+T tes numbers with 10 or 20 figures, but in such examples there is
+more or less divisions or extraction of roots, which considerably re-
+duces the number of figures before the result is obtained.
+
+
+Example 17. 2x3x4=24. Set the arm A on 2, B on Zero, clamp
+C, move the arms until B comes to 3, fasten A®, loose C, set B on Zen
+clamp C, loose A®, move the arms until B comes to 4; the arm A will
+show the product=24.
+It will be seen in this example, that the product of 2 and 3 was
+not noticed; the multiplication was continued by 4, and the product
+first noticed was 24.
+Example 18. What will be the cost of a lot of ground 135 feel
+long and 73 feet wide, at 6 cents per square foot? 135x73x0-06
+= $591-30. Set A on 135, B on Zero, clamp C, move the arms until
+B comes to 73, fasten A®, loose C, set B on Zero, clamp C, loose As,
+move the arms until B comes to 6 ; then the arm A will show the
+price= $591-30.
+Example 19. What will be the cost of a piece of cloth, 63 yards
+long and 2J yards wide, at $l-56 per square yard? 63x2-sxl-56
+=5236-25. Set A on 63, B on Zero, clamp C, move the arms until
+B comes to 2-5, fasten A®, loose C, set B on Zero, clamp C, loose
+A®, move the arms until B comes to 1-56 ; the arm A will show the
+cost=s236-25.
+Example 20. What is the area of a circle 7 inches in diameter!
+7X7XO-785=38-48. Set Aon7, B on Zero, clamp C, move the
+arms until B comes to 7, fasten A®, loose C, set B on Zero, clamp C,
+loose A®, move the arms until B comes to 0-785; then B shows the
+area=3B.4B square inches.
+Example 21. What is the area of a circle with a radius of 11 feet!
+11X11X3-14=95 square feet.
+When a number is to be multiplied by itself, it will be marked
+with an exponent of the power, as llXll=H 2 > 12x 12X 12=12 ! .
+Example 22. How many cubic inches are contained in an iron
+bar 3 inches square and 3 feet long? 3 2 X 12x3=324.
+Example 23. How many cubic inches are contained in an iron
+bar 27 inches long, 3 inches wide, and 2 inches thick ?
+27x3x2=162 cubic inches.
+Example 24. How many cubic inches are contained in an iron
+bar 2 inches in diameter and 5 feet long ? 2 2 X0-7SSX 12x5= 188-4.
+Example 25. What will be the weight of an iron bar 3 inches in
+diameter and 7 feet 6 inches long, if one cubic inch weighs 0-28
+pounds? 3 2 X0-785X12X7-sxo-28= 178 pounds.
+Example 26. What will be the price of an iron bar 9 feet 3 inches
+long, 3 J inches wide, and f inches thick, at 7 cents per pound!
+9-25 X 3-5 X Q-75X 0-28 X 7=so-47-5.
+Example 27. What will be the weight of a propeller shaft of
+wrought iron 61 feet long and 1 foot in diameter, when a cubic foot of
+wrought iron weighs 486-6 pounds.
+1 2 X 0-785 X 61X 486-6 =23,3oopounds.
+
+
+DIVISION.
+Division is the reverse of Multiplication, as the dividend is the
+product of the divisor and quotient.
+Rule 11. Set the arm A on the dividend, and B on the divisor,
+(circle a,) clamp C, move the arms until B comes to Zero ; then the
+tm A shows the quotient.
+Example 1. Divide Sby 2. Set A0n6,8 on 2, clamp C, move
+the arms until B comes to Zero ; then A shows the product= 3.
+Example 2. Divide Bby 4. Set AonB, B on 4, clamp C, move
+lie arms until B comes to Zero ; then A shows the product=2.
+Example 3. Divide]! 2 by 4. Set Aon 12, Bon 4, clamp C, move
+tie arms until B comes to Zero ; then A shows the product=3.
+Example 4. Divide 24 by 6. 24: 6 = 4.
+“ 5. “ 36 “4. 36: 4 = 9.
+“ 6. “ 48 “ 6. 48: 6 = 8.
+“ 7. “ 63 “9. 63; 9 = 7.
+8. “ 72 “9, 72: 9 = 8.
+“ 9. “ 125 “ 5. 125: 5 = 25.
+“ 10. “ 266 “ 7. 266: 7 = 38.
+“ 11. “ 378 “ 9. ' 378: 9 = 42.
+“ 12. “ 864 “ 27. 864: 27 = 32.
+“ 13. “ 5032 “ 68. 5033: 68 = 74.
+Example 14. A piece of ribbon containing 12 yards, was sold for
+$3. What was the price per yard 1 Set Aon 3, Bon 12, clamp
+C, move the arms until B comes to Zero ; then A shows the an-
+swer=-25 cents.
+Example 15. If 23 yards of cloth cost -$l6l, what will be the price
+peryard 1 Set Aon 161, Bon 23, clamp C, move the arms until B
+comes to Zero ; A will show the answer=s7.
+Example 16. A cog wheel weighing 4750 pounds cost $l9O.
+Required the price per pound? Set Aon 190,8 on 4750, clamp
+c, move the arms until B comes to Zero ; A will show the an-
+swer, = 4 cents.
+Example 17. A screw propeller of cast iron, weighing 6950
+pounds cost $417. Required the price per pound?
+417: 6950=0-06 cents.
+When the dividend contains more than one factor, multiply the
+lectors by Rule 1., and divide by the divisor according to Rule 11.
+9
+nystrom’s calculator.
+
+
+Example 18. If 27 men can do a certain amount of work in 7
+days, how many days will it take for 21 men to do the same work!
+27*7
+' 27 i 21=* : 7. —=9
+21
+Set A on 27, B on Zero, clamp C, move the arms until B comes to
+7, fasten A e , loose C, set B on 27, clamp C, loose A®, move the arms
+until B comes to Zero ,- then the arm A shows the result™ 9 days.
+Example 19. What is the area of a triangle 7 feet in height, the
+base being 12 feet 1
+a 7X12 .„ - ,
+Area™—-—=42 square teet.
+Set A on 7, B on Zero, clamp C, move the arms Until B comes to
+12, fasten A®, loose C, set B on 2, clamp C, loose A®, move the arms
+until B comes to Zero ,- then A shows the area™ 42 square feet.
+Example 20. How many revolutions does the driving wheel of a
+locomotive make between Philadelphia and Baltimore, the distance
+being 99 miles, and the circumference of the wheel 27 feet 1
+99X5280 , .
+=19,360 revolutions.
+27
+This example can be computed in a single operation, as follows;
+Set A on 99, B on 27, clamp C, move the arms until B comes to 5280;
+then A shows the revolutions™ 19,360.
+Example 21. What is the distance between Baltimore and Wash-
+ington, a locomotive’s driving wheel of 18 feet circumference mak-
+ing 11,733 revolutions on the road;
+i!*lHL 3 =40 miles.
+5280
+Set A on 18, B on 5280, clamp C, move the arms until B comes to
+11,733; then A shows 40 miles.
+Example Vi. How'many cubic inches are there in a sphere 4
+inches in diameter 1
+niP 3*14x41* v
+—= - =33*5 cubic inches.
+6 6
+Set A on 3-14, B on 6, clamp C, move the arms until B comes to
+4, fasten A®, loose C, set B on Zero, clamp C, loose A®, move the
+arms until B comes to 4; then A shows the cubic inches™ 33*5.
+When the divisor contains more than one factor, divide by the
+first factor, as aforesaid, consider the quotient as a new dividend,
+and continue the division by the next factor.
+
+
+Example 23. Divide 348 by 3 and 4.
+348-
+-—-=29.
+3X4
+Set A on 348, B on 3, clamp’d, move the arms until B comes to
+Zero, fasten A e , loose C, set B, on 4, clamp C, loose Ac, move the
+jtms until B comes to Zero then. A shows, the quotient=29.
+Example 24. How many days will it take for a steamboat to run
+from New York to Liverpool, running 12 miles per hour, the distance
+being 3100 miles I
+' 3100 „ . ,
+———=lo-74. days,
+12X84 J
+Set A on 3100, B on 12, clamp C, move the arms until B comes
+to Zero, fasten A c , loose C, set B on 24, clamp C, move the arms
+until B comes to Zero ,- then A shows= 10-74. Set Aon 74, B on
+Zero, clamp O, move the arms until B comes to 24, A shows 17-76;
+then the answer is 10 days 17} hours.
+PROPORTION.
+Rule 111. The manoeuvring of proportions, is the most valuable
+faculty of this instrument. Suppose we have the proportion as 3: 2.
+Set Aon 3, and B on 2, clamp B. Now, wherever the arms will
+be placed on the disk, the numbers at A and B will always be in the
+proportion as 3: 2. Set Aon 6, tho arm B will show 4. Set Bon
+24, the arm A will show 36. Set A on 19-93, and B will show 13-29,
+4c., &c., &c.
+In whatever proportion the arms are once clamped, it will remain
+M in any other position on the disk.
+Constructors, Draughtsmen, Ship-builders, &c., &c., will find this
+»most valuable assistance; when changing a machine, or drawing
+from one scale to another, any scales are instantly at hand on the
+calculator; by once placing the arms in the proportion of reduction,
+any measure ip feet and inches on one arm will shory the reduced
+»increased measure at the other arm,
+To Ship-builders particularly, it will meet the highest, approbation,
+"hen enlarging and reducing lines of vessels ; and at the same time,
+the Calculator covers all the Ship-builder’s calculations. '
+Example 1. 8 : 14’= 24 : ap. Set the arm B on 8, and, A on
+14, clamp O, move the prma until B comes to 24, tlien A shows the
+fourth term a:=42.
+Example 2. 1-35 : 97-6 =x : 49,-63. Set" Aop 1-35, Bop 976,
+damp C, move the arms until B comes to 49-53, the arm A will
+show the third term a:=o-6864.
+
+
+FRACTIONS.
+To reduce a vulgar fraction to a decimal, or to another vulgar
+fraction.
+Rule IV. Set the arm Aon the numerator, and B on the denomi-
+nator, clamp C, move the arms until B comes to Zero,- then A shows
+the decimal. '
+Example 1. Reduce Jto a decimal. Set Aon 1, Bon 2, clamp
+C, move the arms until B comes to Zero ,- then A shows the deci-
+mal =O-5.
+Example 2. Reduce } to a decimal. Set A0n3,8 on 4, clamp
+C, move the arms until B comes to Zero ,- then A shows the deci-
+mal=o-75.
+Example 3. Reduce fto a decimal. Set A0n5,8 on 9, clamp
+C, move the arras until B comes to Zero; then A shows the deci-
+mal = 0-5555.
+Example 4. Reduce ts • ’ = 0-5384.
+“ 5. “ T 95 . . . = 0-6000.
+“ 6. “ |f . . = 0-6368.
+“ 7. “ M • . . = 0-5925.
+“ 8. “ || . , . = 0-4810.
+“ 9. “ -if! .-•• . . = 0-3387.
+“ 10. “ - . = 0-1338.
+50 34
+To reduce a vulgar fraction to another vulgar fraction.
+Example 11. Reduce }to 12ths. Set the arm Aon 3, Bon 4,
+clamp C, move the arms until B comes to 12; then A shows 9or
+9-12=}. In whatever position the arms are placed on the disk, the
+numbers will always remain in the same proportion as 3 :4. In
+this consists the great convenience of the machine for working vulgar
+fractions.
+Example 12. Reduce ||| to Bths. Set A on 135, B on 216,
+clamp C, move the arms until B comes to 8 ; then A shows=s or S-
+Example 13. Reduce |f to 3ds. = 1 6 -
+To multiply a whole number by a vulgar fraction.
+Example 14. Multiply 24 by }. }X24= 18. Set Aon3, B on
+4, clamp C, move the arms until B comes to 24, then A shows the
+product = 18.
+Example 15. || *365 =177-8... ;
+Example 16. 2 2 3 jX|g= 5 0'05235,
+
+
+INVOLUTION.
+The power of a number is only a multiplication by the number
+itself, and is marked by a small figure called exponent, on the
+right of the number.
+Example 1. What is the square of 3 1 3 2 =9. Set Aon3, B
+tnZero, clamp C, move the arms until B comes to 3; then A shows
+tiepower=9. To obtain the third power of 3, continue the multi-
+plication by 3; but the fourth power of 3, or
+34=92=81.
+36=93=729.
+3>=9 4 =B1 2 =6561.
+3 8 =9 4 x3=B1 2 x36561x3= 19683.
+Example 2. Compute the 9th power of 3. Set A on 3, B on
+Im, clamp C, move the arms until B comes to 3; then A shows
+!=3 J ; fasten A e , loose C, set Bon Zero, clamp C, loose A®, move
+the arms until B comes to 9; then A shows 81 = 9 2 =3 4 ; fasten A®,
+loose C, set B on Zero, clamp C, loose A®, move the arms until B
+tomes to 81; then A shows 6561=81 2 =9 4 =3 8 ; fasten A®, loose C,
+set B on Zero, clamp C, loose A®, move the arms until B comes to
+3; then A shows the 9th power of 3, or 19683=3 9 .
+INTEREST.
+Example 1. What is the interest on 765 dollars at 6 per cent.
+I«i annum 1
+Set A on 6, (circle a,) B on Zero, clamp C, move the arms until
+8 comes to $765, then A shows the interest=s4s-90.
+On whatever number of dollars the arm B is set, the arm A will
+the interest for one year; or if the arm A be set on any interest
+per annum, B will show the capital. If the interest is to be found
+" >ny number of years, months, or days, let the arm A remain on
+®c interest for one year,
+{Zero if number of years, T
+365 “ “ days, J
+Now for any number of years, months, weeks, or days on the arm
+" “ e interest will be found on the arm A.
+2
+
+
+Example 2. Require the interest of 34,770 dollars for 13 mentis at
+6 per cent, per annum 1
+Set A on $34,770, B on Zero; clamp C, move the arms until B
+comes to 6 per cent., fasten A®, set B on 12, clamp C, move the armi
+until B comes to 13 months, then A shows the interest, $2250.
+Example 3. A,capital $05,680 gave an interest $10,840 in 3ycati
+and 5 months. Required the per centage per annum ?
+Three years and 5 months is 41 months.
+Set A on the interest $10,840, and B on the capital $65,660;
+clamp C, move the arms until B comes to 12 months, fasten A', set
+B on 41 months, clamp C, move the arms until B comes to Zero:
+A shows the annual per centage 4 y per cent.
+Example 4. What capital is required to give an interest 1500
+dollars per year, at 6 per cent, per annum 1
+Set A on the interest $l5OO, and B on 6 per cent., clamp C,
+move the arm until B comes to Zero, then A shows the capital re-
+quircd»=s2s,ooo.
+LOGARITHMS.
+The second scale log. is for addition and subtraction; and also,
+the logarithm for the number in the circle a.
+Example 1. Find the logarithm of 47211
+Set the arm A on 4721, (circle o,) and the logarithm wilt be
+found where the curved line 6 intersects the arm, which is 3-6740.
+The index of the logarithm is always one less than the number
+of figurcsin the number ; it is not to be found on the calculator, only
+the decimal part 6740, of which the first figure 6 is the 6th curw
+line in circle log. The second figure 7is on the arm, countedftom
+log:, and the third figure 4 is the fourth division between 7 asd 8,
+where the curved line intersects the, arm. The decimal, part of*
+logarithm is called mantissa. It is well known that in the system
+of logarithms, the index is always one less than the number of fig-
+ures in the number for which the logarithm is to be found; as. I°?'
+7000=3-845. Here the number is four figures, and the index 4—*
+=3; but the mantissa is the same as for 7.
+In calculations, where the number of figures in the result isM'
+certain, a correct account must be kept of the indices. For to*
+purpose, there is a small hand on the screw C, which is to be raon
+by the hand for each operation with the arms; as, for multipliM ll^
+
+
+tdd the factors’ indices, the sum is the index for the product; and
+for division, subtract the index for the divisor from the index for the
+dividend, the remainder is tho index for the quotient. When the
+(perations are finished, the small hand shows the index; add one to
+iq gives the number of figures in tho result. If the index becomes
+negative, the result is a corresponding decimal fraction, and the hand
+(lows how many oit is before the figures included the unity 0. If
+ihearm shows 28, (circle a,) and the hand show's tho
+Index —3 the decimal fraction is 0-0028
+Index —2 “ “ 0-028
+Index —•! “ “ 0-28
+Index 0 the number is 2-8
+Index +1 “ 28
+Index +3 “ 2800
+Index -f 6 “ 2800000
+If it is made a rule to move the arms with the arrow for multipli-
+tation, and opposite the arrow for division, it follows that when, for
+multiplication, the arm A moves over Zero, add 1 to the index, and
+for division subtract I from the index; but as it is more convenient
+to move the arm to the nearest factor, these rules will not be follow-
+ed, and the arms will be moved in every direction for any operation.
+Then it must be observed that, for multiplication or division, when
+the arm A moves over Zero with the arrow, add 1 to the index; and
+subtract 1 if it moves over Zero opposite the arrow.
+Example 1. Multiply 36800 by 2250.
+Set Aon 36800, and the small band on the index 4. Set B on
+Sro, clamp C, move the arms until B comes to 2250, add the index
+3t04, which will be 7, and indicates that there arc eight figures in
+the product, which will be found on A 82800000.
+Example 2. Multiply 582500 by 88000.
+Set Aon 88000, and the small hand on the index 4. Set B on
+hn, damp C, move the arms until B comes to 582500, add the
+mdei 5 to 4, which will be 9 ; if the arms were moved with the ar-
+rows, the arm A moved over Zero, and one more is to be added to
+4e index, 9 or 10 is the index for the product, which indicates that
+4ere are 11 figures in the product on A 51260000000.
+The account of the index is but trifling after a little practice. If
+™re is a supposition as to what the number of figures in the result
+be, the account of the index need not be kept.
+
+
+Example 3. A ship’s crew of 300 men were so supplied with pro-
+visions for 12 months, that each man was allowed 30 ounces per
+day, but after being out 6 months, they found it would require 9
+months more to finish it, and 50 of their number were lost. It is
+required to find the daily allowance of each man during the last
+nine months.
+300X30 (12—6) 300 30 6 ..
+i L— — x X =24 ounces.
+9 (300 —5O) 9 250
+Set A on 300, B on 9, clamp C, move the arms until B comes to
+30, fasten A°, loose C, set B on 250, clamp C, loose A®, move the
+arms until B comes to 6; then A shows the answer, 24 ounces.
+Here is five factors computed in two operations.
+When complicated questions are to be solved, it is best to set it
+up in the form of equation, and it will be managed by the calculator
+almost instantly.
+For complicated examples we refer to Nystrom’s Pocket-Book of
+Mechanics and Engineering, which are all calculated by this instru-
+ment. Operators will find that Pocket-Book excellent for practising
+intricate examples. From pages 206 and 207 we extract the fol-
+lowing example:
+A hand pump is to throw up 25 cubic
+feet of water 17 feet high, in a time of 9
+minutes and 16 seconds. The lever on
+which the force F is applied is I =36
+inches, and the lever e =9 inches. The
+stroke of the piston A is 0-65 feet, and
+the force F =23 pounds.
+Required how many double strokes the hand pump must male
+perminutcl 9x60-}-16=556 seconds.
+3630 25 17 9
+Number of strokes =—— X -.,X —X =46 J per minute.
+550 0*65 23 oo
+Set A on 3630, B on 556, clamp C, move the arms until B comes
+to 25; fasten A®, loose C, set B on 65, clamp C, move the arms
+until B comes to 17, fasten A°, loose C, set B on 23, clamp C,move
+the arms until B comes to 9, fasten Ae, loose C, set B on 36, clamp
+C,movc the arms until B comes to Zero, then A shows 46-35 which
+are the number of strokes per minute required. The product and
+quotients in the operation need not be noticed, only notice the re-
+sult you want to know. You will here also discover the rules njr
+which the operation is performed.
+
+
+EVOLUTION.
+Extraction of Roofs is the reverse of Powers; as, the root of a
+number taken to the same power as the index for the root is coequal
+to the number. This is to be computed by the circle log. which
+contains the logarithms for the number in circle a.
+Example 1. What is the square root of 9, or \/ 9 1 Set Aon 9,
+the mantissa on circle b is 9542; say 2 in 9 four times, set B on 4,
+(circle log) 2 in 15 7, move the arm until the curved line 4 crosses
+the division 7, (circle log,) 2 in 14 seven times, move the arm B a
+little further, until the curved line crosses the seventh division be-
+tween 7 and 8, counted from log i then fasten B c , and you will find
+encircle a the answer 3=^/9.
+Example 2. What is the square root of 16, or \/l6 1 Set the
+irm A on 16, the mantissa on circle log, is 2041, but 16 has an
+index 1, which is to be added to mantissan, 1-2041 : 2=o-602 ; set
+the ana B on 602, (circle log,) on circle a we have the answer
+4 = v^Tfb
+Example 3. What is the cube root of 216, or 4/2161 Set Aon
+216, the mantissan on circle log is 3344, index=2 ; 2-3344 : 3 =
+0- ; set the arm Bon 7781, (circle log,) on circle ais the an-
+swer 6 = v/2H!.
+Example 4. What is the fourth root of 4/69350 1 Set A on
+69350, the mantissan on circle log is 841,indcx=4; 4-841 : 4 =
+1- set B on 2102, (circle log,) the index for the answer is 1,
+and on circle a is the answer, 16-23.
+Example 5. 4/8926000. Set Aon 8926000, the mantissan on
+fejis 9506, index=6 ; 6-9506 : 7=o-9929, which corresponds with
+9'338, the answer on circle a.
+Example 6. What time will it take a ball to fall vertical 231 feet!
+time I 2 =3-79 seconds.
+\ 32-17
+Set A on 231, B on 32-17, clamp C, move the arms until B comes
+1,1 2, fasten A®, loose C, the index for the number on a is 1, and
+nantissan on the circle log. is 157 ; 1-157 : 2=578, set B on 578 -
+tnclc log, and the answer will be on circle a 3-79 seconds.
+V
+
+
+To extract Roots of Decimals.
+Example 1. 0-349. The given index is—1, which is to be
+subtracted from the root index=3 —l=2, which will be the index
+for the mantissan. Set Aon 349, fasten A°; on circle log. is the
+mantissa 5428, and 2-5428 : 3=o-8476. Set Aon 8470, circle log,
+then on the circle a will be found the root=o-7041.
+When the given index exceeds the root index, it will be as many
+ciphers before the figures in the root as the root index contains in
+the given index, (excepting the unity cipher.)
+Example 2. The given indcx= —lO, and
+10 : 4=2 ; the remainder, 2, will be the index for the mantissa. Set
+A on 8945, the mamtissan on circle log. is 9515, and 2-9515 : 4=
+0-7379. Set Aon 7379, circle log. on circle awe have the root
+=O-005469.
+Example 3. The given index = —l3,
+and 13 : 5=2, which shows there must be two ciphers before the
+figures, (excepting the unity 0,) and the remaining 3 is the index
+for the mantissa. Set Aon 7528, the mantissan on circle his 8766,
+and 3-8766 : s=o-7773. Set Aon 77733, circle b/ on circle awe
+have the root =O-005989.
+TRIGONOMETRY.
+The scale between sin. and cos., marked on the arms, is for trigo-
+nometrical calculations. The numbers in the circles sin. and cos.,
+are angles in degrees, and the divisions between sin. and cos., shows
+the exceeding minutes where the lino intersects the arm.
+When the arm is set on an angle circle, sin., the circle a shows
+the length of its sinus ,- when set on an angle circle, cos., the circle
+a shows the length of its cosine.
+Example 1. Required the length of sin. 30° 1
+Set the arm A on 30° circle sin., and the circle a shows the an-
+swer sin.3o° = 0-5.
+Example 2. Required the length of cos. 63° 30' 1
+Set A on 63° circle cos., move the arm a little further towards 61
+until the 63d line intersects 30' on the arm, then the circle A shows
+the length of c<m.63° 3O' = 0-4463.
+
+
+To find the Tangent.
+Example 3. Find the length of the tan. s4° 25' 1
+Set the arm Aon sin. s4° 25', Bon cos. 54° 25', clamp C, move
+arms until B comes to Zero; then A shows the
+<an.s4° 25' = 1-397.
+To find the Cotangent;
+Example 4. Find the cotangent of 25° 35 '1
+Set A on 25° 35', B on sin. 25° 35', clamp C, move the arms until
+B comes to Zero ,- then A shows the length of the
+cotan. 25° 35' = 3.088.
+Eight Angled Triangles.
+Given the side A and the angle C, to find the sides b and c.
+Example 5. The side a= 34 feet 8 ins., and the angle C 38°
+IS 1 . Required the sides b and c 1
+Set the arm A on 34-66 feet, B on Zero, clamp C, move the arms
+•util B comes to sin, 3B° 46'; then A shows the length of the side,
+c=3l-7 feet. Move the arms until B comes to c0.5.38° 46', then
+the arm A shows the length of the sfde, b = 27-02 feet.
+Given the sides a and b to find the angle C and the side c.
+Example 6. The side o=ll3-6 feet, and i=74-31. Required
+the angle Cl
+Set the arm B on 74-31 feet, A on 113.6, clamp C, move the arms
+ttntil A comes to Zero; then B shows the angle cos.49°B' Set A
+w 113-6, B on Zero, clamp C, move the arms until B comes to
+Jm.49° 8'; then A shows the length of the side, c=Bs-91 feet.
+Example 7. An inclined plane is to be built for a railroad, the
+highest point of which is to be 364-5 feet above the base, and to form
+
+
+an angle with the horizon of not more than 10° 25'. What will be
+the length of the inclined plane 1
+t t 264-5
+Lcngth = —; ——7 = 1463 feet.
+sm.lO° 25'
+Set A on 264-5, B on sift. 10° 2', clamp C, move the arms until
+B comes to Zero; then A shows the length 1403 feet.
+Oblique Angled Triangles.
+Given the angle B, and the two sides a and b, to fine the angle .1
+and side c.
+Example 8. The side a= 86 feet 3 inches, b= 5 8 feet 6 inches,
+and the angle li = 35° 51'. Required the angle A, and side cl
+„ . 86-25 X «tra.3s° 51' „ ,
+-Sin. A - = 59° 43'.
+58-5
+Set the arm A on 86-25, B on 58-5, clamp C, move the arms until
+B comes to si‘n.3s° 51'; then A shows the angle sin. A= 69° 43'.
+The angle C= 180—(35° 51'+59° 43') = 84° 26'.
+~ 86-25 X sin. B4° 26'
+The side c = : —— 5 - —— = 99-41 feet.
+sen. s9° 43'
+Set A on 84° 26', B on 59° 43', clamp C, move the arms until
+U comes to 86-25 feet; then A shows the side c 99-41 feet on the
+circle a.
+Given the tide c, and the angles A and C to find the side a.
+Example 7. The side c 27-6 feet, the angle A = 47° 40', an!
+C 34° 10'. Required the side a= 7
+27-6x«ra.47° 40'
+a = ■■ „. 0 ~ = 36-33 feet.
+sin.34° 10'
+Set the arm Aon 27-6, Bon sin.34° 10', clamp C, move the anus
+until B comes to sin. 47° 40'; then A shows the side a= 36-33 ft.
+
+
+Given the sides b and c, and the including angle A, to find the
+side a.
+Example 8. b = 360 feet, c = 866, and the including angle
+53° 45'. Required the side a— t
+v/360 2 + 860 2 —2 X 360 X 806 x cos7s3° 45' =714-7 feet.
+Set Aon 360, Bon Zero, clamp 360 2 = 129600
+C, move the arms until B comes to 866 2 = 749950
+360 ; then A shows the square 129000;
+in the same manner square 866 ; set +879556
+up these squares and add them to- —368600
+jethcr. v^510956=714-70.
+Set A on 2, B on Zero, clamp C, move the arms until B comes to
+360, fasten A®, loose C, set B on Zero, clamp C, loose A e , move the
+arms until B comes to 860, fasten Ae, loose C, set B on Zero, clamp
+C, loose Ae, move the arms until B comes to cos. 53° 45'; then A
+shows the product, 368600. Subtract this from the sums of the two
+squares, and set Aon the difference, 510956. The index for this
+number is 5, added to the mantissa in the circle log., will be 5-708,
+divided by 2 = 2-854. Set the arm Aon the mantissa, 854, and the
+length of the side a 714-7 feet will be found on the circle a.
+Example 9. In a triangle, the side h 350 feet 3 inches, and
+(=257 feet 9 inches; the angle A = 25° 13'. Required the area
+of the triangle 1
+. b c sin.K 356-25 x2s7‘7sxsf«-25° 13' -
+= = = square feet.
+2 2
+Example 10. What will be the length of the side c in the triangle,
+»hen the area is Q = 12677000 square feet, and the angles
+A =4B° 55', C = 56° 30'1
+A+C=los°2s'.
+2 Q sinTc _ >2 X 12677000 X5in. 56°~30' _
+>tn.Asii!.(AxC) 48° 55 'y.sin. 105° 55'
+Set A on 2, B on sin. 48° 55', clamp C, move the arras until B
+tomes to 12677000, fasten A c , loose C, set Bon sin. 105° 55', clamp
+C, loose Ac, move the arms until B comes to sin. 56° 30', fasten A e ,
+the index is 7, the mantissan =46374 ; 7-40374 :2 = 3-73187; set
+Bon 73187, circle log.; the circle a shows the length of the side
+t = 5533 feet.
+21
+kystkom’s calculator.
+
+
+NAVIGATION. PLANE SAILING.
+Plane Sailing is when navigating a ship with the supposition
+that the earth is a level plane, on which the meridians are drawn
+north and south, parallel with each other ; and the parallels cast and
+west, at right angles to the former.
+The line NS, represents a meridian north and south. The line E
+W, represents a parallel, cast and west.
+A ship in /, sailing in the direction I and having reached f, it
+is required to know her position to the point /, which is measured
+by the line / /', and the angle N, I and imagined by the lines la,
+and a l\
+These four quantities bear the following names :
+I l' f distance from / to
+JV / course or points from the meridian.
+I a, departure or difference in longitude.
+a difference in latitude.
+The calculations for plane sailing arc to be operated by the inner
+scale points, in connexion with the outer scales. The points repre-
+sent the courses on the mariner’s compass,.and arc laid out from
+the trigonometrical scale, so that when the arm is set on a point
+numbered in the circle dep.sin . shows the corresponding angle in
+degrees and minutes. Set the arm Aon dep. 3J points, an
+will show the corresponding angle, 39° 22', Set Aon sin. s3° 20,
+and dep . shows the corresponding course, 4j points nearly.
+
+
+To Pind the Departure and Difference in
+Latitude.
+Given the course and distance.
+Example 1. A vessel sails cast north-east, (6 points), 34-5 miles.
+Required her departure and difference in latitude?
+Set the arm A on the distance, 34-5 miles (circle a), B on Zero,
+damp C, move the arms until B comes to the course dtp. 0 points,
+then A shows the departure --- 31-87 miles circle a. Move the arms
+until B comes to the course, lat. 6 points, and A shows the difference
+in latitude = 13 - 2 miles.
+Example 2. A ship sails N.N.E.JE, (2} points,) 266 miles. Re-
+quired her departure and difference in latitude ?
+Set the arm A on the distance, 266 miles, (circle a), B on Zero,
+clamp C, move the arms until B comes to the course dep., 2} points,
+then A shows the departure 113-7 miles, circle a. Move the arms
+until B comes to the coiTrse, lat. 2J points, and A shows the differ-
+ence in latitude = 244 miles.
+Given the course and difference in latitude.
+Example 3. A ship sailing S. E. by S., (3 points,) and makes a
+difference in latitude of 87 miles. Required her departure ?
+Set the arm Aon the diff. lat. 87, Bon lat. 3 points; clamp C,
+move the arms until A comes to the course dep. 3 points, then B
+ilows the departure, 58-1 miles.
+Given the course, latitude, and difference in longitude.
+Example 4. A ship sails B.N. E. JE., (6J points,) from latitude
+18° 45', made a difference in longitude of 2° 20' = 140 miles at the
+equator. Required her departure and difference in latitude?
+Set the arm A on the difference in longitude, 140 miles, (circle a),
+Bon Zero ,- clamp C, move the arms until B comes to the latitude,
+eoj. 48° 45', then A shows the departure = 92-31 miles.
+Let the arm A remain on the departure, 92-31; loose C, set Bon
+tie course, dep. 6J points; clamp C, move the arms until B comes
+to the course, lat. 6 J points, then A shows the difference in lati-
+tude = 28-02 miles.
+Note. If the arm A covers 6} points, move it to 92-31 miles on
+tie opposite side.
+
+
+To Find the Distance.
+Given the departure and difference in latitude.
+Example 5. A vessel sailed between N. and W., and made 13
+miles departure, and 32 in difference of latitude. Required her
+course and distance sailed 1
+Set the arm A on the difference in latitude, 32 miles, and Bon
+the departure, 13; clamp C, move the arms until the arm B shows
+the same number of points on dep. as the arm A shows on lat.\ it
+will be found to be nearly 2 points, or the course sailed wasN.N.W.
+Let the arm B remain on this course; loose C, and set Aon
+Zero ; clamp C, move the arms until B comes to the departure, 13
+miles, then A shows the distance = 34-25 miles.
+Given the course and difference in latitude.
+Example 6. A ship sails S. W. by S. (3 points), and made a dif-
+ference in latitude of 69 miles. Required?he distance sailed!
+Set the arm A on the diff. lat. 69 miles, and B on the course
+lat. 3 points, clamp C, move the arms until B comes to Zero, then
+A shows the distance— S 3 miles. Move the arm until B comes to
+dep. 3 points, and A shows the departurc=46.l miles.
+Given the course, latitude, and difference in longitude.
+Example 7. A vessel sails S. E. 4 E. (44 points) from latitude 41°
+36', and made a difference in longitude of 2° 15=135 miles at the
+equator. Required her distance sailed !
+Set the arm A on 135 miles (circle a), and B on the course dep.
+4J points, clamp C, move the arms until B comes to the latitude
+cos. 41° 36', then A shows the distancc=l3o-5 miles.
+Given the Course and Departure.
+Example 8. A vessel sailing S. W. by W. i W., (5J points), aud
+makes a departure of 52-6 miles. Required the distance sailed!
+Set A on the departure 52-6 (circle a), and B on the course
+dep. sJ points, clamp C, move the arms until B comes to Zero ,
+then A shows the distance =5B-2 miles.
+
+
+To Find the Latitude.
+Given the Departure and difference in Longitude.
+Example 8. A ship sails due West 214 miles departure, and found
+tie difference in longitude to be 5° 25'. Required the latitude in 1
+Multiply 5° by 60, and add 25'=325'.
+Set the arm A on 214, B on 325, clamp C, move the arms until
+A comes to Zero, then B shows the latitude cosAB° 4V.
+Given the Course, Distance, and Difference in Longitude.
+Example 9.* A vessel sails N. E. E. (4J points), a distance of
+158 miles in north latitude, and made a difference in longitude of
+■;» 67'. Required the middle latitude, and latitude in 1 2° 57'=177'.
+Set A on 177, B on the distance 168, clamp C, move the arms
+until A comes to the course dep.4% points, then B shows the mid-
+dle latitude cos. 4o° 20'. Set A on the distance 168 miles, B on
+Zero, clamp C, move the arms until B comes to the course latAl
+points, then A shows the difference in latitude=loo-4 miles, of which
+one-half added to the middle latitude gives 41° 10' the latitude in.
+ffitea the Course, difference in Latitude, and difference in Longi-
+tude.
+Example 10. A ship sailing S. W. by W. J W. (5J points) in
+north latitude, makes a difference in latitude of 98 miles, and differ-
+ence in longitude 3° 42'=222'. Required the middle latitude and
+latitude in 1
+Set the arm A on 222, B on difference in latitude 98, clamp C, move
+the arms until A comes to the course dep. s j points, fasten B», loose
+C, set A on the course lat.sJ points, fasten C, move the arms until
+A comes to Zero, then B shows
+the middle latitude cos.34° 21'.
+Sub. half diff. lat. 98', 49
+Latitude in 33 32
+To Find the Course.
+Given the distance and difference in Latitude.
+Example 11. The distance between two places is 378 miles, and
+“fence in latitude 231. Required the course from one to the
+other? ■ -
+Set Aon 378, B on 231, clamp C, move the arms until A comes
+10 Eero, then B shows the course, lat.4| points nearly.
+3
+
+
+Given the distance and departure.
+Example 12. The distance between two places is 726 miles, and
+the departure 248-5 miles. Required the course from one to the
+other 1
+Set A on the distance 725, B on the departure 248.5, clamp 0,
+move the arms until A comes to Zero, then B shows the course
+lat. dcp.lJ points nearly. 1
+Given the difference in Latitude and Departure.
+Example 13. Departure=63 miles, and difference in latitudc=
+29.5. Required the course 1 «
+Set Aon 63, Bon 29-5, clamp C, move the arms until dep. on the
+arm A shows the same course as lat. on B; it will be found to be 5j
+points nearly.
+Given the Middle Latitude, difference in Longitude and Distance,
+Example 14. The distance between two places is 722 miles, dif-
+ference in longitude 10° 35'=635', and middle latitude 54°. Re-
+quired the course from the one place to the other 1
+Set_A on the difference in longitude 635', B on the distance 722
+miles, clamp C, move the arms until A comes to the middle latitude
+cos. 54°, then B shows the course dep.3s points nearly.
+Given the Middle Latitude, difference in Latitude, and difference
+in Longitude.
+Example 15. Required the course and distance from Havana to
+New Orleans 1
+Latitude 29° 57' of New Orleans.
+“ 23 9 of Havana.
+Diff. in latitude, 6° 48'=408 miles.
+Middle latitude, 26 33
+Longitude, 90° 00' of New Orleans.
+“ 82 22 of Havana,
+Diff. in longitude. "7° 38'=458'
+Set the arm A on the diff. in longitude 458', B on different lati-
+tude 408 miles, clamp C, move the arms until B comes to the mid-
+dle latitude cos. 26° 33', then A shows the tangent for the course=b
+or the course is 4 points N. W. from New Orleans. Set Aon dif-
+ference in latitude 408, B on lat. 4 points, clamp C, move the’arras
+until B comesTo Zero, then A shows the distance, 577 miles ft<®
+Havana to New Orleans.
+
+
+Example 16. A ship in north latitude 48° 46', and longitude 39°
+IS*, is bound for New York. Required her course and distance to
+the latter place 1
+[latitude in 48° 46' of the ship.
+“ 40 42 of New York.
+Ditf. in latitude, 8° 4'=484 miles.
+Middle latitude, 44 44
+Longitude, 74 0 of New York.
+“ in 39 18 of the ship.
+Did. in longitude, 34°42 / =2082 /
+Set A on 2082, B on difference in latitude 484, clamp C, move the
+arms until B comes to the middle latitude cos. 44° 44', fasten Ac,
+loose C, set B on Zero, clamp C, move the arms until dep. on the
+arm A shows the same course as lat. on B, it will be found to be
+6j points nearly, or W. S. W. W. the course required.
+Set Aon difference in latitude 484, Bon the course lat.6s points,
+clamp C, move the arms until B comes to Zero, then A shows the
+ilist,mce=ls3s miles.
+To Find the Difference in Longitude.
+Given the Departure and Latitude.
+Example 17. Departure =204 miles, and latitude 61° 35'. Re-
+quired the difference in longitude 1
+Set Aon the departure 204, Bon the latitude co.s.Gl 0 35', clamp
+C, move the arms until B comes to Zero, then A shows the differ-
+ence in longitude=42B.B minutes, divided by 60 gives the difference
+in longitude=7° B.B'.
+Given the Course, Distance, and Middle Latitude.
+Example 18. A ship sailing S. W. by S. (5 points), 115 miles in
+a middle latitude 47° 39'. Required her difference in longitude 1
+Set Aon the distance 115 miles, B on the middle latitude cos.il 0
+OS', clamp C, move the arms until B comes to the course dep. s
+points, then A shows the difference in longitude=l42-s', divided by
+60 is 2° 22-5' the difference in longitude required.
+In working traverse sailing, it is more convenient to find the dif-
+ference in latitude and departure by this calculator, than by the or-
+dinary method with tables. Instead of setting down the departure
+m the transverse table, the difference in longitude can be set down
+27
+nystrom’s calculator.
+
+
+at once, by dividing the departure by cos. for the middle latitude
+which is only to place the arm B on cos. for the middle latitude
+while A remains on the departure; clamp C, and move the arms
+until B comes to Zero, then A shows the difference in longitude in
+minutes. This method is more correct than the ordinary one.
+To Find how many Miles per Degrees of Lon-
+gitude in different Latitudes.
+Set the arm A on 60, B on Zero, clamp C, move the arms until
+B comes to the given latitude in the circle cos., then A shows the
+length of one degree in longitude.
+Examples. Latitude 6° 27'? 59-62 miles.
+“ 13 41 1 58-31 “
+“ 27 331 53-20 “
+“ 45 01 42-42 “
+“ 67 52 1 22-6 . “
+“ 71 131 18-32 “
+Spherical Distances.
+In high latitudes and very long distances, the preceding rules
+will not give such correct results as may be desired, owing to the
+spheroidal form of the earth; but by the aid of spherical trigo-
+nometry, we are enabled to ascertain courses and distances correctly
+from and between any known points on the earth.
+To Find the true Course and Distance be-
+tween two Places in the same Latitude.
+Example . Boston (North America), and Cape Crcaux (South
+Spain), are in the same latitude, about 42° 20', and difference in
+longitude 74° 20'. Required the course and distance from Boston
+to Cape Creaux?
+Set the arm A on Zero, B on half the difference in longitude
+sin* 37° 10', clamp C, move the arms until A comes to the latitude
+cos.42° 20', then B shows half the distance sin* 26° 32', multiplied
+by 2=53° 4', the true distance.
+Set A on the difference in longitude sin* 74° 20', B on the dis-
+tance sin.s3° 4', clamp C, move the arms until B comes to the lati-
+tude cos . 42° 20', then A shows the course 5J points, or more correctly
+on the trigonometrical scale s*n.62° 66' y the true course.
+
+
+To Find the True Course and Distance be-
+tween two Places in different Latitudes.
+Example. Required the course and distance from latitude 52° 28'
+ImsjituJe 27° 18', to New York in latitude 40° 42', longitude 74° 1
+Difference in longitude 46° 42'.
+„. ... , cos. 52° 28' X cos. 46° 42'
+Find the angle tan. m = : =27° 47'.
+sin. 52° 28'
+Set the arm A on the latitude sin. s2° 28', B on c0.5.58° 28',
+lamp C, move the arms until A comes to the difference in longitude
+m. 46° 42', fasten B«, loose C, set A on Zero, clamp C, move the
+urns until cos. on A shows the same angle as sin. on B, it will be
+found to be 27° 47'
+Latitude of New York add 40 42
+Subtract this 68° 29'
+from 90° 0
+n=2l° 31'
+.pi . ... sin. 52° 28'xcos. 21° 31' „. 0
+The true distance cos.— =33° 30'.
+cos. 27° 47'
+Set A on cos. 27° 47', B on sin. 52° 28', clamp. C, move the arms
+until A comes to cos. 33° 30'=2010 miles.
+r rl , sin. 46° 42'xc<w- 40° 42' .
+the true course dep.— ■ =8 points.
+. sin.33° 30' r
+Set the arm Aon sin. 46° 42', Bon sin. 33° 30', clamp C, move
+4e arms until B comes to cos. 40° 42', then A shows the course,
+itp. 3 points, or W. This course will vary continually southwards,
+until the approach of New York, it will be
+, sw.46° 42'Xcos.52° 28' , . -
+kh= = H P ° mtS> ° r Sl W - J W-
+w.more correctly, on the trigonometrical scale, sin. s3° 27' from
+Mridian.
+i In connexion with the preceding example, it is required to find
+latitude, longitude, and courses, at four points, in the track, say
+11 distances 10°, 16°, and 25° from New York!
+Calculation for the point 25°.
+sin. 26°X cos. 53° 27' ,
+tan. m = —— 15° 31'.
+cos. 25°
+3»
+29
+nvstrom’s calculator.
+
+
+Distance
+from
+New York.
+Latitude
+in
+Longitude
+in
+Course.
+Points.
+33° 30'
+52° 38'
+27° 18'
+West.
+8
+25
+51 29
+40 58
+W. by S.
+6 i
+16
+48 44
+54 23
+w. s. w.
+6
+. 10
+46 9
+62 23
+S,W. by W. i W.
+5}
+Set the arm A on cos. 2s°, D on sin. 25°, clamp C, move the arms
+until A comes to the course from New York, cos.s3° 27', fasten
+Be, loose C, set A on Zero, clamp C, move the arms until cos. on A
+shows the same angle as sin. on B, it will be found to be 15° 31'.
+Latitude of New York, . . add, 40 42
+56 13
+Subtract this angle from . . . 90 00
+n = 33° 47'
+, swi.ls° 31'x«n.53° 27'
+tan., diff., long., = = 33= B '.
+Set the arm Aon sin. 33° 47', Bon sin.ls° 31', clamp C, move
+the arms until A comes to sin.s3° 27'. fasten B e , loose C, set Aon
+cos. s3° 27', clamp C, move the arms until cos. on A shows the same
+angle as sin. on B, is the difference in longitude from
+New York, =33° 2', and
+, . , sin.2s°Xsin.s3°27'
+latitude cos. = =sl° 29'.
+sin. 33° 2'
+Set the arm Bon the distance, sin,2s°, Aon diff., long., sin.,
+33° 2', clamp C, move the arms until A comes to the course from
+New York, sin. s3° 27', then B shows the latitude cos.sl° 29'.
+The course in this point will be, • . '
+. sin.s3° 27' Xcos. 4o° 42'
+stn. = - = 65 points.
+cos.s1 0 29' a 1
+W. by S. nearly, or 78° from the meridian.
+In a similar manner, calculate the latitude, longitude, and courses
+in the points 16° and 10° from New York, the answer will be fount)
+in the accompanying track-table :
+Sailing Track to New York.
+30
+ntstrom’s calculator.
+
+
+North.
+South.
+Points.
+Degrees.
+sineC.
+Cos.C.
+tan.C
+K.
+s. \
+1
+J
+oo /
+5 37
+8 20
+•0491
+•0979
+•1544
+•99r8
+•9952
+•9880
+•0402
+•0083
+•1082
+N. by E.
+and
+N. by W.
+s ' a v- i
+S. by W. (
+1 11 35
+Jf 14 4
+U 10 52
+If 1 10 41
+• 1936
+•2430
+•2901
+•3308
+•9811
+•9700
+•9570
+•9410
+•1989
+•2505
+•3032
+•3577
+K. N. E. S. S. K (
+and and !
+N.N. W. | S.S.W. || -i
+22 30
+25 19
+23 7
+30 50
+•3-27
+*4270
+•4713
+•5140
+*92'J9
+•9039
+•8820
+•8577
+•4142
+•4730
+•5343
+•5093
+N. E. by N.
+and
+N. W. by N.
+S. E. by S. (
+and J
+S. W. by S. (
+3
+3f
+3*
+3f
+33 45
+36 44
+39 22
+42 11
+•5555
+•5981
+0343
+•0715
+■8314
+-8014
+•7731
+•7410
+•6883
+•7463
+•8204
+•90G2
+N. E.
+and
+N. W.
+S. E. j‘
+and 1
+S. VT I
+4
+4 f
+4*
+4}
+45 0
+47 49
+50 37
+53 20
+•7071
+•7410
+•7731
+•8014
+•7071
+•6715
+•6345
+•5081
+1*000
+1-103
+1-218
+1-348
+X. E. by E.
+and
+N. W. by W.
+S. E. by E. (
+and ■<
+S. W. by W. (
+5
+5^
+5f
+5*
+56 15
+59 4
+01 52
+04 41
+•8314
+•8577
+•8820
+•9039
+•5555
+•5140
+•4713
+4276
+1-406
+1-668
+1-870
+2114
+E. N. E.
+and
+W. N. W.
+E. S. E. (
+and •{
+W. S, W. (
+6
+Of
+Gh
+0}
+07 30
+70 19
+73 7
+75 50
+•9239
+•9416
+•9570
+•9700
+•3827
+•3368
+•2901
+•2430
+2414
+2-
+3205
+3-
+E. by N.
+and
+W. by N.
+E. by S. (
+and i
+W. by S. (
+7
+71
+7f
+7#
+78 45
+81 34
+84 22
+87 11
+•9811
+•9880
+•9952
+•998a
+•1936
+•1544
+•0979
+•0491
+5027
+6-744
+1114
+20-32
+East or
+West . *
+8
+900
+1000
+0.000
+.
+00
+31
+Mariners 9 Compass*
+
+
+To Find the Apparent Time by an Altitude
+of the Sun.
+Given the sun’s centre, altitude and declination, and latitude of
+the place of observation.
+Example. Latitude and declination of equal names.
+On the 21st day of July, 1854, at 4h. 30m. P. M. per watch, was
+taken an altitude of the sun’s lower limb by a force observation 28°
+18', the correction for semidiameter, parallax, and dep., add 12';
+for refraction subtract 4'; correct centre altitude 28° 26. Latitude of
+the place 48° 31' N. Longitude by account 36° 42' W. from Green-
+wich. The sun’s declination 20° 27' (corrected). Required the
+apparent time of observation 1
+To 90°
+Add declination, N. 20 27'
+From this 110° 27'
+Subtract latitude N. 48 31
+Meridian altitude, 61° 56'
+Set the arm A on the decl. co*.2o° 27', B on sira.2o° 27', clamp
+C, move the arms until A comes to the lat. sin. 4B° 31', fasten B e ,
+loose C, set A on cos.4B° 31', clamp C, loose B e , move the arms
+until A comes to Zero, then B shows 4217, circle a, note this. Set
+A on 1-4217, B on the meridian altitude sin.dl 0 56', clamp C,
+move the arms until B comes to the altitude sin. 2B° 26', then A
+shows 7671
+Subtract the noted number 4217*
+Set the arm Bon 3454 which then shows the hour,
+angle eos.69° 47' divided by 15 is the apparent time 4h. 39m. Bs.
+15) 69° (=4h.
+60
+9X 60=540
+47'
+15) 587=39m.
+45
+137
+135
+2x60—120=8 s.
+Perform this division by the calculator.
+- Add if latitude and declination are of equal names.
+4
+
+
+Example. Latitude and declination of different names.
+On the 16th day of May, 1854, at Bh. 10m. A. M. per watch, was
+taker, an altitude 12° 18'of the sun’s lower limb. For corrections add
+S', centre altitude 12° 26', latitude of the place 31° 42' S. Longi-
+tude by account 150° W. from Greenwich. Suns declination, 19° 9'
+S. (corrected). Required the apparent time of observation 1
+Declination N., 19° 9'
+Latitude S. add 31 42
+Subtract this 50° 51'
+from 90 00
+Meridian altitude, 39° 9'
+Set the arm A on the decl. cos., B on sin. 19° 9', clamp C, move
+the arms until A comes to the latitude sin. 31° 42', fasten B e , loose
+C, set A on cos. 31° 42', clamp C, loose B», move the arms until A
+tomes to Zero, then B shows 2146, note this.
+from 10000
+Snbtract 2146*
+Set the arm A on 7854, B on the merd. alt. sin.
+39° 9', clamp C, move the arms until B comes to the alt. sin. 12° 26’,
+then A shows 2678 circle a.
+add the noted number 2146 f
+Set the arm B on 4824, which then shows the hour angle
+m. 61° 9', divided by 15 and the quotient subtracted from 12 hours
+is the apparent time 7h. 55m. 245.
+15) 61 (=4h.
+50
+1 X6o=6o=4m.
+4x9=36 s.
+from llh. 59m. 60'
+subtract 4h. 4m. 365.
+7h. 55m. 245. the apparent time of observation.
+By the same rules, the apparent time can be calculated by an alti-
+lude of any heavenly body, whose declination and right ascension
+Me known.
+If the moon is used, it is best to find the time when the moon
+fusses the meridian at Greenwich, from the Nautical Almanac, and
+Proceed as the following example:
+* Aeld if latitude and declination are of equal names,
+f Subtract if latitude and declination are of different names.
+
+
+Example. On the 25th day of September, 1852, in north lati-
+tude 22° 35', and west longitude about 53° 9', at 7h. Ism. o’clock
+by watch, was taken an altitude
+Of the moon’s lower limb, . . 33° 42'
+Correction semd. parlx. refn. add . . 45
+Moon’s correct centre altitude, . 34 27
+Moon’s declination corrected, . . 13 53 S.
+Passes the meridian at Greenwich, . lOh. 21 m.
+Correction add . . 53x0.14= 0 7
+Passes the meridian, at lOh. 29m.
+Required the mean time and longitude from Greenwich 1
+Declination S. . , . . . 13° 53'
+Latitude N. add . . . 22 35
+Subtract this . . . . 36 23
+From . . . . 90 00
+Meridian altitude, . . . 53 32
+sin.l3° 53' sin.22° 35'
+Note = = o -1027 5-
+sin.34° 27' (I—o-102751 „ ,
+0 .10275 = 0-73385 = 42° 47',
+42° 47'
+—= 2h. 51 m. 8 sec. apparent moon time.
+Divided by 0-965 will be 2h. 57' 20".
+Moon passes the meridian at . . lOh. 29'
+Subtract, .... 2 57 20''
+Mean time of observation, . . 7h. 31' 40"
+Watch too slow, ... 16 40
+Time of observation by chronometer, 11 13 15
+Subtract mean time of obs. . 7 31 40
+3h. 41' 35"
+Multiply by ... 15
+West longitude, . . . 55° 23' 45"
+
+
+MECHANICS.
+Lever of the first kind.
+Example 1. The lever L = 158 inches;
+/sSj inches, and W = 48,230 pounds.
+Required the force F = I
+„ „ 45230X8-5
+lorce F = = 2092 pounds.
+Set A on 48,230, B on 158; clamp C, move the arms until B
+wines to 8-5, then A shows the force F = 2592 pounds.
+Example 2. The weight W = 868 pounds; 1 = 5-5 inches, and
+ike force F= 50 pounds. Required the length of the lever L= ?
+T T 868X5-5
+Lever L = 00-48 inches.
+50
+Lever of the second kind.
+Example 3. The force F = 880 pounds;
+I=lo feet, and W = 16260 pounds.
+Required the lever 1 = 1
+T , 890X10X12 „ . ,
+Lever I = = 0494 inches.
+16260
+Set A on 88, B on 16260 ; clamp C, move the arms until B comes
+toI2, then A shows the lever/ = 6-494 inches.
+Example 4. The lever L= 12 feet 3 inches; /= 6 inches, and
+k force F = 362 pounds. How much can it lift W= 1
+362 V 12*25
+The weight W = = 8870 pounds.
+Set the arm A on 362, B on 5 ; clamp C, move the arms until B
+»mcs to 12-25, then A shows the weight, W == 8870 pounds nearly
+
+
+Lever of third kind.
+Example 5. The lever /=8 feet. How
+far from the fulcrum c shall a force F =47
+pounds be applied to lift a weight W = 165
+pounds 1
+h = — 5 - 8 = 2-81 feet.
+47
+Set the arm Aon 165, B on 47; clamp C, move the arms until B
+comes to 8, then A shows the lever L = 2*Bl feet.
+Example G. The lever / = 6*B feet, and L = 1*42 feet. What
+force F is required to lift the weight W = 27*5 pounds 1
+27*5 V 6*B
+Force F= =131'5 pounds.
+1-42 1
+An oblique fixed pulley.
+Example 7. The weight W = 3840 pounds;
+angle v = 34° 25', and x = 43° 35'. Required
+the forces that acts in F and f%
+43° 35'
+34 25 3840X5(h.48° 35' „„„„
+F = =2709 pounds.
+77 0 50 / stn.77° 50'
+Set the arm A on 3840, B on sin.77° 55'; clamp C, move the
+arms until B comes to sin. 43° 35', then A shows the force F=2709
+pounds. Move the arms until B comes to sin 34° 25', then A shows
+the force
+, 3840x«m.34° 25' „„„„
+f = : = 2220 pounds.
+J sin.77° 50' F
+
+
+Example 8. A force F=l3B pounds is
+applied on a radius r=36 inches. The
+pitch of the screw is P=l*2s inch, Be-
+ared the actuated power of the screw I
+138X6‘28x3r»
+Power= —: —j =24960 pounds.
+1*25 inch r
+Set the arm A on 138, C on 1*25, clamp C, move the arms until
+B comes to 6*28, fasten A*, loose C, set B on Zero, clamp C, move
+the arms until B comes to 3G, then A shows the power of the
+screw=2496o pounds. This is the theoretical power of the screw,
+when taking the friction and diameter of the screw into considera-
+tion, it will he, if the diameter of the screw is<s inches, and lubricat-
+ed with oik
+138x6*28x36
+P ° WCr= l-25+0-2-5 X 5- =mBo I’° Umß
+Multiply 5 by 0*25=1*25
+Add 1*25
+Denominator 2*5
+Set A on 138, B on 2*5, clamp C, move the arms until B comes
+to 6*28, fasten A®, loose C, set B on Zero, clamp C, move the arms
+uatil B comes to 36, then A shows the power=l2lBo pounds.
+Power of Steam Engines.
+Example 9. The piston in a steam engine moves a space of 90
+feet in 25 seconds, with a steam pressure 25000 pounds. Required
+*!ie horse power of the engine ?
+25000V90
+- = IG3-G horses,
+550x25
+Wucting J for friction will be actual power 163-6x0'75 = 122-8
+horses.
+Set the arm A on 25000, B on 550, clamp C, move the arms until
+8 comes to 90, fasten A®, loose C, set B on 25, clamp O, loose A®,
+®ove the arms until B comes to Zero, then A shows the horse power
+163*6, move the arms until B comes to 0*75. then A shows the actual
+We power 122-8.
+4
+
+
+Example 10. Area of steam piston 1018 square feet,
+Stroke of piston, 4 feet,
+Pressure in the boiler, 35 pounds per sq. inch.
+Vacuum in the condenser, 11 “ “ <■
+Effectual pressure, 46 “ “ “
+To make 45 revolutions per minute. Required the horse power of
+the engine 1
+1018X4X46X45
+—347-5 actual horses.
+24250
+Example 11. Required the power of a high pressure engine of
+the following dimensions: area of piston 572-5 square inches, stroke
+3 feet, pressure of steam 42 pounds per square inch 1 to make 38
+revolutions per minute.
+572-5X3X42X38
+l9OOO =220 actual horses.
+Nominal Horse Power.
+Example 12. Diameter of cylinder 24 inches, stroke of piston
+9 feet. Required the nominal horse power 1
+horses. .
+47
+Lateral Strength.
+Example I. A rectangular beam of oak
+5 inches thick by 3 inches deep, projects
+out from its support 10 feet 6 inches. Re-
+quired how much weight W, it can boar
+on the end with safety 1
+w _4oxsx8 2 _ ni3 pounds.
+11*5
+38
+nvstrom’s calculator.
+
+
+Example 2. A rectangular beam of pine
+8 inches thick by 12 inches deep, is sup-
+ported at both ends 1= 16-5 feet. Requir-
+ed how much weight it can bear on the
+middle, and how much at 5 feet from one
+end ?
+W= 4x32xBx 122 =4462 pounds on the middle.
+16-5 1
+4462 V 16-5 2
+W'=- =5270 lbs. at 5 feet from one end.
+4XSXH-5
+Example 3. A cast-iron beam 2-75 inch-
+es thick by 10| inches, is fast supported at
+both ends; the distance between supports
+is /=2O feet. Required how much weight
+it can bear on the middle ?
+w 8X150X2-75X10-5*
+W= =lBl5O pounds.
+Hydraulics-
+Example 4. The area of a piston in a
+hydraulic press is A=23B square inches,
+«ea of the pump a =2-3 square inches,
+the lever /=42 inches, e=s inches. Re-
+quired the pressure P=? when the force
+f=3G pounds.
+36X42X238
+pressure = ————=3l2so pounds.
+5X2'3
+
+
+Example 5. The weight P = 158 lbs.
+and the area A=o-96 square feet. Re-
+quired the height of the jet /i/=! and
+how many gallons of water will be dis-
+charged per minute through the orifice
+o—o-0003 square feet 1
+158 - ’
+‘ ~60-sxo-96 =2 ' 72 fCet '
+60x0*0003 gallons per minute.
+■\o-96
+Set the arm A on 158, 15 on 0-96, clamp C, move the arms until
+B comes to Zero, then A shows the mantissa 216 (circle log.) the
+index is 2, and 2-16 divided by the index of the root 2 is I'loB. Set
+A on the mantissa 108, (circle log.), B on Zero, clamp C, move the
+arms until B comes to 3, fasten A c , loose C, set Bon Zero, clamp
+C, loose A O , move the arms until B comes to 60, then A shows 0-231
+gallons.
+In this example the indexes must bo carefully operated by the
+small band.
+
+
+Names of substracts.
+Capacity ani
+i Weig
+lit.
+Ilia
+- 1
+j
+fJM
+F F F
+Fit
+i i
+F F*
+FF
+i / 2
+F 3
+P
+Cubic inches,
+• • •5787
+0-0833
+i.
+■■ • 7374
+0-1001
+1-273
+• 1100
+1-912
+Cubic feet,
+1
+144
+1728
+1-273
+182-1
+2272
+1-912
+4125
+Gallons,
+0 1337
+19-23
+230-9
+0-1704
+2-451
+294-5
+0-2557
+442-4
+Water, fresh,
+0-0 10
+2-31
+27-7
+0-0204
+2-94
+36-33
+0-0305
+52-03
+Water, salt,
+0-0155
+2-247
+2G-5
+0-0198
+2*85
+34-48
+0-0297
+50-
+Oil,
+0-0174
+2-5
+30-3
+0-0222
+3-2
+38-3
+0-033
+58-8
+Cast iron,
+0-0023
+0-32
+3-83
+0-00283
+0-488
+4-9
+0-00425
+7-35
+Wrought iron,
+0-00205
+0-29G
+3-557
+0-002G
+0-3773
+4-52 *
+0-00392
+G-8
+Brass,
+0-00188
+0-2717
+3-257
+0-0024
+0-3448
+4-15
+0-003G
+0-21
+Copper,
+0-0018
+0-2511
+3-115
+0-00229
+0-330
+3-968
+0-003430
+5-95
+Zinc,
+0-00227
+0-327
+3-937
+0-0029
+0-4100
+ir
+0-00434
+7-51
+Lead,
+0-00141
+0-2032
+2-439
+0-00179
+0-2584
+3-105
+0 00209
+4-05
+Tin,
+0-00219
+0-3104
+3-802
+0-00279
+0-4032
+4-83
+0-00418
+7-246
+Stones common,
+0-00G41
+0-92G
+11-11
+0*0082
+1-170
+14-08
+0-0122
+2 1 -27
+Coal, stone,
+0-0185
+2-C6
+32-25
+0-0238
+3-40 1
+41-16
+0-0351
+62-5
+Oak, dry, .
+0-0172
+2-5
+30-
+0-0227
+3-10
+38-4
+0-0333
+58-8
+
+
+Example 1. A rectangular basin is 16 feet long, 27 inches wide,
+and 13 inches deep. Required how many cubic feet, and how many
+gallons it contains 1
+, 16x27x13 „„
+cubic feet= =39
+144
+Set the arm A on the length 16 feet, B on the coefficient 144 (see
+column Fii and cubic feet), clamp C,move the arms until B comes
+to 27, fasten A e , loose e set Bon Zero, clamp C, loose A e , move the
+arms until B comes to the dept 13 inches, then A shows 39 cubic
+feet.
+Gallons= 291-5
+19-23
+Example 2. A cylindrical vessel is 33 inches in diameter and 45
+inches high. Required how many gallons of water it can contain!
+45X33X33 „
+294-5 =166 gal,onS '
+Proceed as in the preceding example, but find the coefficient
+294-5 in the column ii 2 and gallons.
+Example 3. A cast iron ball is 8J inches in diameter. Required
+the weight of it 1
+. , 8-SXB-SXB-5
+weight= -- =834 pounds.
+Find the coefficient 7-35 in the column i 3 and cast-iron, and op-
+perate as before.
+Example 4. A flat rolled bar of iron is 4 inch by 2}, and 13 feet
+6 inches long. Required the weight of the bar ?
+0-5x2-75x13-5 „„
+weight= —— =62-7 pounds.
+b 0-296 F
+Example 5. A round bar of wrought iron is 5 inches diameter,
+and 11 feet long. Required the weight of it 1
+weight =sj—~ =728 pounds.
+Example 6. A lead ball is 5J inches diameter. Required the
+weight of it 1
+5-753
+pounds.
+
+

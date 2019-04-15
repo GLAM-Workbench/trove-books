@@ -1,0 +1,7919 @@
+
+
+EASY NUMERICAL
+TRIGONOMETRY
+OF THE RIGHT-ANGLED TRIANGLE
+BY
+H. S. CARSLAW
+D.Sc. GLASGOW, Sc.D. CAMBRIDGE.
+PROFESSOR OF MATHEMATICS IN THE UNIVERSITY OF SYDNEY
+SYDNEY
+ANGUS & ROBERTSON LTD.
+
+
+
+
+EASY NUMERICAL TRIGONOMETRY OF THE
+RIGHT-ANGLED TRIANGLE
+
+
+BY THE SAME AUTHOR.
+PLANE TRIGONOMETRY: An Elementary Textbook for
+the Higher Classes of Secondary Schools and for Colleges.
+Pp. xviii + 293 + xi. (London, Macmillan and Co. Ltd.)
+First Edition, 1909. Second Edition (Revised), 1915.
+Price, 4s. 6d. complete ; or, in two parts, 2s. 6d. each.
+
+
+EASY
+NUMERICAL TRIGONOMETRY
+OF THE
+RIGHT-ANGLED TRIANGLE
+BY
+H. S. CARSLAW
+D.Sc. GLASGOW. Sc.D. CAMBRIDGE.
+PROFESSOR OF MATHEMATICS IN THE UNIVERSITY OF SYDNEY
+
+
+W. C. Penfold & Co. Ltd., Printers, Sydney.
+
+
+PREFACE.
+One of the changes recently made in the mathematical
+work of the schools in England and Australia is the intro-
+duction of simple numerical trigonometry of the right-
+angled triangle quite early in the course.
+It is true that this numerical trigonometry can be learnt
+in conjunction with geometry, and that no special textbook
+is necessary. And the teaching of the different parts of
+school mathematics is no longer carried out, so to speak,
+in separate compartments. But the subject is of such im-
+portance and interest that it seems to deserve some more
+careful treatment.
+In this little book only the Sine, Cosine, and Tangent
+of an acute angle are used. A separate chapter and many
+examples are devoted to each. The importance of graph-
+ical solutions by means of squared paper is not forgotten.
+In most of the worked examples in the text figures drawn
+to scale, and with the scale clearly indicated, are given.
+A final chapter deals with some applications of these
+ratios, chiefly in field work. A feature of this chapter is
+the attention given to simple experimental work.
+Those who proceed to a fuller study of trigonometry in the
+higher forms of the school, will find that much of the
+arithmetical work in these pages is unnecessary when log-
+arithmic calculation is available. From pupils at this early
+
+
+stage of their course a knowledge of logarithms is not ex-
+pected, and the examples throughout the book are supposed
+to be worked without their aid.
+. Tables of Natural Sines, Cosines and Tangents have
+been inserted and they are used throughout the book.
+I have purposely refrained from carrying the work
+past the simplest trigonometry of the right-angled triangle.
+In my opinion those who devote more time to the subject
+should do so later in their course and on more general lines.
+Perhaps I should add that it is far from the view of the
+author that all the work given in these pages should be
+covered in such an introductory course as is referred to in
+the first sentence of the preface.
+In the preparation of this book and in the correction of
+the proofs I have received much help from Mr. R. J.
+Middleton and Mr. H. J. Meldrum, Lecturers in Mathematics
+at the Teachers’ College, Sydney. To them both I desire to
+express my hearty thanks.
+H. S. CAR SLAW.
+The University,
+Sydney,
+April , 1916.
+
+
+CONTENTS.
+CHAPTER I.
+Page.
+Introductory.
+§ 1 The Elements of a Triangle .. .. .. 11
+§ 2 The Measurement of Angles .. .. .. .. 11
+§ 3 The Points of the Compass .. .. .. . . 12
+§ 4 Latitude .. .. .. .. .. .. • 13
+Examples I. . . . . .. .. .. .. 15
+CHAPTER 11.
+The Trigonometrical Ratios of an Acute Angle.
+§§ 5-6 Definitions of the Ratios .. .. . . . . 16-17
+§§ 7-9 The Ratios are definite Numbers for each Angle 18-20
+§§ 10-11 Other Expresions for the Ratios . . . . . . 20-21
+Examples 11. .. . . .. .. .. .. 22
+CHAPTER HI.
+The Sine of an Acute Angle.
+§l2 Introductory . . .. . . . . . . 23
+§§ 13-15 The Change in the Sine as the Angle increases
+from 0° to 90° . . . . . . . . 23-25
+§l6 Approximate Sines shown graphically . . . . 25
+§l7 Approximate Determination of Sines from a
+Geometrical Construction .. .. .. 26
+§lB Geometrical Construction for the Acute Angle
+with a given Sine .. .. .. .. 27
+Examples 111. . . . . . . . . .. 28
+
+
+Page.
+§§ 19-20 The Table of Sines . , .. .. .. . . 28
+§2l Worked Examples .. .. .. .. .. 29
+Examples IV. . . . . .. . . .. 32
+§22 The Table of Sines (continued) ✓. .. 32
+§23 Worked Examples . . .. . . .. . . 33
+Examples V. . . . . . . .. . . 34
+Examples VI. .. .. .. .. .. 35
+CHAPTER IV.
+The Cosine of an Acute Angle.
+§24 Introductory . . . . . . . . . . 37
+§§ 25-27 The Change in the Cosine as the Angle increases
+from 0° to 90° . . .. . . . . 38-39
+§2B Approximate Cosines shown graphically . . 39
+§29 Approximate Determination of Cosines from a
+Geometrical Construction . . . . . . 40
+§3O Geometrical Construction for the Acute Angle
+with a given Cosine . . . . . . . . 42
+Examples VII. . . . . . . . . . . 42
+§§3l-32 The Table of Cosines 42-43
+§33 Worked Examples . . . . .... . . 43
+Examples VIII. . . .. .. .. .. 45
+§34 The Table of Cosines (continued) .. .. 46
+§35 Worked Examples . . . . . . . . . . 47
+Examples IX. .. .. . . .. .. 48
+Examples X. .. .. .. .. .. 49
+CHAPTER V.
+The Tangent of an Acute Angle
+§36 Introductory . . . . . . . . . . 51
+§§ 37-39 The Change in the Tangent as the Angle in-
+creases from 0° to 90° . . .. . . 51-53
+
+
+Page.
+§4O Approximate Tangents shown graphically . . 53
+§4l Approximate Determination of Tangents from a
+Geometrical Construction . . . . .. 55
+§42 Geometrical Construction for the Acute Angle
+with a given Tangent .. .. .. 55
+Examples XL . . . . .. . . , , 56
+§§ 43-44 The Table of Tangents . . . . . . 56
+§45 Worked Examples . . . . .. . . . . 56
+Examples XII. .. .. . # # gg
+§46 The Table of Tangents (continued) .. .. 59
+§47 Worked Examples . . . . . . . . . . 60
+Examples XIII. . . . . ~ .. .. 61
+Examples XIY. . , .. 62
+CHAPTER VI.
+Some Applications of Trigonometry.
+§4B Introductory . . . . . . 64
+§49 Angle of Elevation and Depression . . . . 64
+§5O The Clinometer and Plane-Table . . . . . . 65
+§5l Worked Examples . . . . . . . . . . 70
+Examples XV. . . . . . . . . .. 72
+§52 The Determination of Areas .. .. .. 74
+§53 The Field-Book . . .. .. .. .. 76
+§54 The Area of a Triangle . . . . . . , . 77
+Examples XVI. .. .. .. .. .. 79
+§§ 55-57 The Area of a Field with Straight Boundaries . . 79-81
+§5B Worked Examples .. . . .. . . . . 81
+Examples XVII. . . . , 84
+Tables 86-91
+Answers . . . . . . ~ .. , , 93
+
+
+
+
+CHAPTER I.
+INTRODUCTORY.
+§ 1. Trigonometry, as its name implies, has to do with the
+measurement of triangles. In this little book we shall deal
+only with right-angled triangles.
+The sides and angles of a triangle are called its elements
+or parts. The angles of the triangle ABC are denoted by A,
+B and C; the sides opposite these angles by a, b and c.
+Fig. 1.
+If we are given a sufficient number of the elements of a
+triangle, we can determine the remainder with the aid of what
+are called the Trigonometrical Ratios. What these are, and
+how they are to be used, will be explained in the following
+chapters.
+The Measurement of Angles.
+§ “• Angles are usually measured in degrees, minutes and
+seconds.
+
+
+A degree is the 90th part of a right-angle.
+A minute is the 60th part of a degree.
+A second is the 60th part of a minute.
+Thus—6o seconds (60") =1 minute (I'),
+60 minutes (60' ) =1 degree (1°),
+90 degrees (90°) =1 right-angle.
+The terms minutes and seconds are derived from the Latin
+words partes minutae primae and partes minutae secundae,
+originally applied to these quantities.
+§ 3.—Directions are conveniently given by reference to
+the points of the compass. The circle on which the com-
+pass needle moves is divided into 32 equal parts, each part
+being thus the eighth of a right-angle, or 11° 15 . fhe names
+of these points of division are given in Fig. 2.
+Fig. 2.
+The points are named with reference to the cardinal points,
+N., S., E., and W.
+Directions may also be indicated by saying that the position
+in question bears so many degrees East of North, or TV est of
+
+
+Fig. 3.
+South, etc. Thus when it is said that a place B lies N. 15° E.
+of a place A, it is meant that the angle between AB and
+the line due N. is 15° and lies towards the East (Fig. 3).
+In this notation N.N.E. would be written N. 22° 30' E.,
+or E. 67° 30' N.
+§ 4.—The meridians are semicircles on the surface of the
+earth, the poles being the ends of their diameters. Places on
+the same meridian have the same longitude.
+A ship sailing due N. or S. is moving along a meridian.
+Again, points which have the same latitude lie on circles;
+the planes of these circles are perpendicular to the line join-
+ing the poles. The equator is the circle, or parallel, of lati-
+tude zero. As we go 90° to the N. and S. of the equator
+these circles get smaller and smaller, till at the poles, whose
+latitudes are 90° N. and 90° S., they vanish.
+The position of a ship is marked by its latitude and
+longitude. The sailor uses a nautical mile, different from an
+ordinary or statute mile of 1760 yds., so that he can more
+easily obtain his new position from the distance run and the
+direction of the course.* Theoretically the nautical mile is the
+* The position of a ship is, of course, determined very exactly by observation
+of the sun, moon and stars. But this can only be done in clear weather. The log
+and the compass are used for what the sailor calls his “ dead reckoning.”
+
+
+distance along a meridian corresponding to a change of V in
+latitude.
+Taking the earth as a sphere of radius 3960 miles, the
+length of a meridian from pole to pole is
+7 r X 3960 miles.
+„ , n 3960 .
+Therefore the are for 1 tt X mi * es 7
+= 22 7r miles,
+484 .. . 22
+= -~y~ miles, taking tt = —,
+= 691 miles.
+5280
+And the arc for 1 k ~ ft-
+-60
+= 6085 ft. nearly.
+As the earth is not a true sphere, the nautical mile, as thus*
+defined, would vary, being greater near the poles than near
+the equator. It has, therefore, been found convenient to
+assign a standard value for nautical use, namely 6080 ft.
+It will be seen that 60 nautical miles are roughly equal to
+69 ordinary miles, and that a speed of 30 nautical miles per
+hour (what a sailor would call 30 knots) is roughly equal to
+a speed of 34J ordinary miles per hour. A knot is not a
+nautical mile; it is a speed of 1 nautical mile per hour. The
+connection of the name with the knots on the old form of
+log-line is familiar.
+If a sailor knows that on a certain run he has made 10
+nautical miles North or South, then he can say that he has
+changed his latitude by 10'. If he has made 60 nautical miles
+North or South, then he has changed his latitude by I°.
+The question of the difference in longitude produced by a
+journey of a certain number of miles East or West is not so
+simple.
+
+
+In the metric system the fundamental unit, the metre, is
+intended to represent one ten-millionth of the arc of a
+meridian from the equator to a pole.
+If one place is 1 kilometre North or South of another, the
+9
+difference in their latitude is degrees or 0-54 minutes.
+EXAMPLES I.
+1. Express in degrees, to the nearest thousandth of a degree,
+(a) 15° 30' 30", (b) 45° 32' 40", (c) J of a minute.
+2. Express in degrees, minutes and seconds, to the nearest
+second, (a) 12-4635 degrees, (b) 428-6 minutes, (c) 5476
+seconds.
+3. Find the number of degrees, minutes and seconds in each
+of the following angles l, £, i, j>, £, $ and T \th of a right-
+angle.
+4. Find the number of degrees in each of the following
+angles:—(a) the angle of a regular pentagon, (b) the angle
+of a regular hexagon, (c) the angle of a regular octagon.
+5. A wheel rotates at the rate of 100 revolutions per second.
+How long will it take to turn through 30° ?
+6. A wheel turns through 40° per second. How many
+revolutions will it make in an hour 1 ?
+7. Draw diagrams showing the following directions:
+(i.) N. 25° W. (ii.) S. 20° E. (iii.) E. 26° N.
+(iv.) E. 26° S. (v.) W. 40° N. (vi.) S. 11° 15' E.
+8. How many nautical miles is each of the following
+places from the equator, measuring along the meridian?
+Also how many kilometres?
+(i.) Edinburgh, lat. 55° 57' N.
+(ii.) London, lat. 51° 30' N.
+(iii.) Suez, lat. 30° 0' N.
+(iv.) Bombay, lat. 19° 8' N.
+(v.) Sydney, lat. 33° 51' S.
+(vi.) Melbourne, lat. 37° 49' S.
+
+
+1st Position.
+2nd Position.
+3rd Position. 1
+4th Position.
+OP
+MP
+OM
+MP
+OP~
+OM
+OP
+CHAPTER II.
+THE TRIGONOMETRICAL RATIOS OF AN ACUTE
+ANGLE.
+8 s—Let AOR be any acute angle (Fig. 4). Let
+P be any point upon the arm OR, and PM the perpendicular
+to the arm OA. Measure OP, MP and OM; then work ou.
+MP OM J 1
+the ratios and to two decimal places.
+Fig. 4.
+Do this for several positions of P.
+Collect the results and arrange them in tabular form;
+
+
+„ , , MP
+If the measurements are carefully made the ratio
+. OM
+should be the same for the different points, and the ratio
+should be the same for the different points, the angle remain-
+ing the same.
+. MP . . MP /OM
+If this is true, the ratio ——since it is equal to ;r-=r/
+OM OP' OP
+would be the same for the different points.
+Whatever acute angle we take, we should get a similar
+•result; these ratios should be independent of the position of
+Cthe point P upon the arm of the angle.
+f The work could be divided among the members of the class.
+•Each could be told to draw with his protractor an angle AOR of
+;a definite size—say, 25°; then to take a point P upon the arm
+lOR and draw PM perpendicular to the arm OA. Different dis-
+tances should be assigned to each pupil for the point P.
+If the work is carefully done, the ratios should be very nearly
+the same for each drawing.
+§6. —The three ratios we have named, and their reciprocals,
+are.called the Trigonometrical Ratios of the angle.
+MP
+The ratio is called the sine of the angle.
+The ratio is called the cosine of the angle.
+MP
+The ratio , is called the tangent of the angle.
+OM
+r OM
+The ratio is called the cotangent of the angle.
+OP .
+The ratio is called the secant of the angle.
+OM
+OP
+The ratio is called the cosecant of the angle.
+MP
+The reasons for these names will be referred to later. The
+first three ratios are the most important. The others are
+simply their reciprocals. It is only with the sine, cosine,
+and tangent that we shall be concerned in this course.
+B
+
+
+§ 7.—We have not yet proved that these ratios are
+independent of the position of the point P upon the arm of
+the angle. The drawing and measurement carried out, as
+suggested in § 5, can make it seem extremely likely that this
+is so. But we cannot be quite sure that this is the case, if
+we rely only upon such work. When we measure the length
+of a line, we are only getting an approximate result. The
+closeness of the approximation depends upon the instrument
+used. But in every case the result is to be regarded as true
+only within the limits cf experimental error. And, of course,
+we cannot take every point on the line, nor every angle.
+In Trigonometry, as in Geometry, this experimental method
+does not give a proof.
+In the next section this fundamental, theorem, that these
+ratios are independent of the position of the point P upon
+the arm of the angle, is proved.
+§ B.—Let P and P' be any two points upon the arm OR of
+the angle AOB (Pig. 5).
+Fig. 5.
+Let us assume* that OP and OP' have a common measure
+OQ, so that OP = m X OQ and OP' =m ' X OQ, m and
+m' being two positive integers.
+* This assumption follows the now generally recognised principle that an
+ordinary school course should not he required to include incommensurahles ; in
+other words, that in such a course all magnitudes of the same kind should be
+treated as commensurable. — \_Cf. Report on the Teaching of Geometry (The Mathe-
+matical Association) , § 48.]
+
+
+Let OB be perpendicular to OA.
+Draw the perpendiculars PM, P'M' and QH to OA, and
+PN, P'N' and QK to 08.
+Then QH, PM and P'M' are parallel, and QK, PN and
+P'N' are parallel.
+Also OK = HQ, ON = MP and ON' = M'P'.
+But we are given that OP = m X OQ, so that OP is made
+up of m parts each equal to OQ.
+Therefore OM is made up of m parts each equal to OH and
+OM = m X OIL*
+Similarly ON = m X OK, OM' = m X OH, and
+ON' = m' X OK.
+ON m OP
+i heretore ■ —=—7 = ,•
+ON' m OP'
+MP M'P'
+Therefore OP Qp' "
+OM m OP
+Also we have . = —7
+OM' mJ OP'
+OM OM
+Therefore OP OP''
+Thus no matter where the point P is taken upon OR, the
+~ MP . , , . OM .
+ratio remains the same, and the ratio remains the
+same. MP MP ,OM
+But OM OP/ Ol 3 '
+Therefore no matter where the point P is taken upon OR,
+’ . MP
+the ratio —— remains the same.
+OM
+Also the reciprocals of these ratios are independent of the
+position of the point P on OR.
+Thus the six trigonometrical ratios of an acute angle are
+definite positive numbers associated with the angle.
+* This follows from the theorem enunciated below —given in all modern
+elementary textbooks of Geometry :
+“ If there are three or more parallel straight lines, and the intercepts made by
+them on any straight line that outs them are equal, then the corresponding inter-
+cepts on any other straight line that cuts them are also equal.”
+
+
+§ 9.—ln the preceding section it has been convenient
+to take the point P upon the bounding line OR. We would
+obtain the same values for the ratios, if P were taken on
+the initial line OA and the perpendicular PM drawn to the
+arm OR.
+Fig. 6.
+For, if P is taken upon OA, cut off OP' from OR so that
+OP' = OP (Fig. 6), and draw P'M' perpendicular to OA.
+Then the triangles MOP and M'OP' are congruent.
+Therefore the corresponding ratios are equal.
+§ 10.—Denote the angle AOR by the symbol 6. Instead
+of writing sine AOR, cosine AOR, tangent AOR, we write
+sin 6 , cos 9 , and tan 0.
+Fig. 7.
+Fig. 8.
+Also MP is the side opposite the angle 0 in the triangle
+MOP, both in Fig. 7 and Fig. 8; OM is the side adjacent to
+9, and OP is the Jiypothenuse.
+
+
+The definitions of the ratios can
+therefore be stated afresh, for an
+acute angle in a right-angled
+triangle :
+. opposite side
+hypothenuse
+„ adjacent side
+cos 0 . j
+hypothenuse
+opposite side
+adjacent side
+Fig. 9.
+This is a very useful form in which to remember these
+ratios. We have shown that, they are definite positive
+numbers associated with the angle.
+It follows at once from the definitions of the sine and
+cosine of an acute angle that—
+-0 •< sin 6 1,
+O<C cos 6 1,
+and sin 12 6 cos 2 6= 1.
+§ 11.—In the right-angled triangle ABC, let C be the
+right-angle (Fig. 10).
+Then we have
+• a a
+sin A =-,
+c
+and cos A = —.
+c
+It follows that
+a = c sin A,
+and h = c cos A.
+Fig. 10.
+Thus the sine of an acute angle in a right-angled triangle
+is the factor by which the hypothenuse must be multiplied to
+give the side opposite to this angle; the cosine is the factor
+for calculating the side adjacent to this angle.
+
+
+EXAMPLES 11.
+1. If a, b are the two sides of a right-angled triangle, and c
+is the hypothennse, draw triangles, to a suitable scale, in which
+(i.) a = 3 ft., 6 = 4 ft., c = 5 ft.
+(ii.) a = 12 ft., b = 5 ft., c = 13 ft.
+Also write down the values of sin A, cos A, tan A, and of
+sin B, cos B, tan B, in these triangles.
+2. ABC is a right-angled triangle, C being the right-angle.
+The sides a and b are equal. What is the size of the angle A
+and what are the values of sin A, cos A, and tan A?
+3. ABC is an equilateral triangle, the sides being 2 in.
+long. Dis the middle point of BC. Prove that the angles of
+the triangle ABB are 30°, 60° and 90°. Also find the values
+of sin 30°, cos 30°, tan 30°, and sin 60°, cos 60°, tan 60°.
+4. ABCD is a rectangle in which the side AB is double the
+side BC. Find the sine, cosine and tangent of the angles
+BAG and BBC.
+5. ABCB is a rhombus in which the diagonal AC is twice
+the diagonal 88. Find the sine, cosine and tangent of the
+angle ABB.
+6. ABC is an acute-angled triangle; AB, BE and CF are
+the perpendiculars from the angular points to the opposite
+sides. Prove that
+AB = c sin B b sin C,
+and obtain corresponding results for BE and CF. What
+follows from these results'?
+
+
+CHAPTER III.
+THE SINE OF AN ACUTE ANGLE.
+§ 12.—We have seen that the ratio
+MP opposite side ......
+or —— (Fig 1 . 11)
+0 P hypothenuse v
+is called the sine* of the angle AOR.
+Also we have shown
+that this fraction has
+the same value, no mat-
+ter where P is taken
+upon either arm of the
+angle.
+In the next sections
+it will be convenient-to
+take P at unit distance
+from 0 on the arm
+OR.t
+Fig. 11.
+g 13_We shall now examine how the sine changes as the
+angle increases from 0° to 90°.
+Take a quadrant of a circle of unit radius bounded by the
+radii OA and OB (Fig. 12).
+* The word used by the Arabs for the line MP (Of. Pig. 12) was literally
+translated into Latin in the 12th century hy the word sinus (bosom, or gulf). At
+that time, and till a much later date, the sine, cosine, etc., ref erred to lines in a
+circle, the radius of which had to be stated. The sine of the angle AOP (or more
+correctly the sine of the arc AP) was the line MP, and the cosine the line OM or
+the line NP.
+t The length taken as unit is, of course, at our disposal. In Fig. 12 the length
+of OA is 2 inches, so that the unit of length on this scale is 2 inches. The figure
+would have been too small for our purpose if 1 inch had been chosen as the unit.
+Similarly, 10 cm., or 1 dm., would be a convenient unit on squared paper ruled in
+millimetres.
+
+
+Let AOP be an angle 0 in this quadrant.
+Let PM and PN be the perpendiculars from P to OA and
+08.
+. „ MP
+Then sin 6 = p
+MP, since OP is unity,
+= ON.
+Thus the number which gives the length of ON in the scale
+on which OP is unity will be equal to sin 6.
+Fig. 12.
+As the angle increases from 0° to 90°, the point N con-
+tinually moves out along 08.
+It follows that as the angle increases, the sine increases.
+And, as we have already seen, the sine is never greater
+than 1.
+
+
+Angle
+0°
+10°
+20°
+30°
+40°
+50°
+60°
+70°
+80°
+90°
+Sine
+§ 14. —If we have a very small angle, the point N will be
+very near the point 0 ( Cf. Fig. 12).
+When OP moves still nearer to OA, the point N moves still
+nearer to the point 0, and when OP ultimately coincides with
+OA, the point N coincides with the point 0.
+Thus the length of ON becomes zero, when 6 becomes o°.
+Therefore we say that sin 0° = 0.
+Again when the angle is very nearly a right-angle, the point
+N will be very near the point B, the end of the radius.
+When OP moves still nearer to 08, the point N moves still
+nearer to the point B, and when OP ultimately coincides
+with 08, the point N coincides with the point B.
+Thus the length of ON becomes unity, when 0 becomes 90°.
+Therefore we say that sin 90° = 1.
+§ 15. —As 0 increases from 0° to 90°, sin 6 continually
+increases from 0 to 1.
+Every angle between 0° and 90° has its own sine, a positive
+proper fraction, which belongs to it and to no other acute
+angle.
+And we shall see below that, if we are given the sine, we
+can identify the acute angle to which it belongs.
+Approximate Sines Shown Graphically.
+§ 16. —From Fig. 13 we can read off approximately the
+sine of any angle from nearly 0° to nearly 90°.
+The pupil should draw this figure for himself to a suitable
+scale on squared paper. He should then construct a Table
+of Sines:
+
+
+Fig. 13.
+Approximate Determination of Sines from
+a Geometrical Construction.
+§ 17.—When an angle is given, the value of its sine can be
+determined approximately, as in the preceding section, by the
+aid of a circle of unit radius.
+But it is not necessary to take OP of length unity. All that
+we have to do is to mark off any convenient length OP upon
+one arm of the angle. Then we draw the perpendicular PM
+MP
+to the other arm, measure MP, and calculate the ratio
+To find sin 25° by this method:
+With the protractor draw the angle AOR (Fig. 14) equal
+to 25°.
+Mark off OP = 5 cm.
+
+
+Fig. 14.
+Draw the perpendicular PM.
+On measuring MP we find that it is, as nearly as we can
+tell, 2-1 cm.
+Hence sin 25° = 0-42 approximately.
+Geometrical Construction for the Acute Angle
+whose Sine is a Given Positive Proper Fraction.
+§ 18.—We have seen that as 6 increases from 0° to 90°,
+the point N (Fig. 12) continually moves out from 0 to B.
+Thus ON takes all the values between 0 and 1 as 6 passes
+from 0° to 90°.
+It follows that to construct the acute angle whose sine is
+a given positive proper fraction, we have only to determine
+the point N which corresponds to this fraction.
+When N is known, the angle AOP follows immediately.
+But it is not necessary to use the circle of unit radius. All
+that we have to do is to construct a right-angled triangle in
+which the length of one side is given by the numerator of the
+given fraction, and the length of the hypothenuse is given by
+the denominator.
+The angle opposite the side referred to is the required
+angle.
+
+
+O'
+6'
+12'
+18'
+24'
+30'
+36'
+42'
+48'
+54'
+1'2'
+3'
+4'
+5'
+19°
+3256
+3272
+3289
+3305
+3322
+3338
+3355
+3371
+3387
+3404
+3 5
+8
+11
+14
+EXAMPLES 111.
+1. Construct the acute angle whose sine is i. What is the
+actual size of this angle?
+2. Construct the acute angle whose sine is
+The Table of Sines.
+§ 19.—1 t is possible to calculate the values of the Trigo-
+nometrical Ratios of an angle to any required degree of
+accuracy. The way in which this has been done need not be
+known by the beginner. The results are given in the Trigo-
+nometrical Tables under the headings Natural Sines, Natural
+Cosines, Natural Tangents, etc.
+The word “Natural” is added to distinguish these Tables
+from others which contain the logarithms of the sines, cosines,
+tangents, etc., sometimes with 10 added to each logarithm.
+The Tables at the end of this book are Four-Figure Tables.
+The results are given to four decimal places. If greater
+accuracy is required, others are available, calculated to a
+larger number of places.
+The Table of Sines will now be used in the following
+problems:
+(a) To find the sine, when the acute angle is given.
+( Cf . §§ 20-21).
+(b) To find the acute angle, when the sine is given,
+(Cf. §§ 22-23).
+The Table of Sines ( continued).
+To find the sine, when the angle is given.
+8 20.—1 n the Table we have the following figures:—
+
+
+Supposing we wish to find sin 19° 14'—
+Thus we have sin 19° 18' = -3305
+sin 19° 12' = -3289.
+And we know that sin 19° 14' lies between these two numbers.
+We look along to the column at the right-hand of the page.
+This gives the amount to be added for 1, 2, 3, 4 or 5 minutes.
+(As the angle increases from 0° to 90°, the sine continually
+increases).
+tu i • mo (-3289
+thus we have sin 19° 14 | .QOO5
+= -3294.
+Worked Examples.
+§ 21. —Example I.—A road is inclined at 10° to the
+horizontal. How many yards does a man rise vertically for
+every 100 yds’, progress straight up the road? (Fig. 15.)
+Fig. 15. Scale, 50 yds. = 1 in.
+Let the vertical ascent be x yds. in 100 yds.
+Then we have x = 100 sin 10°
+= 17-36.
+Therefore the vertical ascent in 100 yds. is 17 yds. to the
+nearest yard.
+
+
+Example 2.—ln a rectangle the diagonal is 24 ft. and it
+makes an angle of 22° with the longer side. Find the lengths
+of the sides. (Fig. 16.)
+Fig. 16. Scale, 10 ft. = 1 in.
+Since the diagonal makes an angle of 22° with one side, it
+makes 68° with the other.
+Let the lengths of the longer and shorter sides be x ft. and
+y ft.
+Then we have x = 24 sin 68°
+= 24 X -9272
+= 22-2528.
+And y r— 24 sin 22°
+= 24 X -3746
+= 8-9904.
+Thus the sides are 9 ft. and 22 ft. 3 in. to the nearest inch.
+
+
+Example 3. —A ship’s course is N. 26° E. The distance run
+is 18 miles. How far does she go East on this run? (Fig.
+17.)
+Fig. 17.
+Scale, 10 miles = 1 in.
+Let the distance travelled to the East be x miles.
+Then we have x = 18 sin 26°
+= 18 X -4384
+= 7-89 • • •
+Therefore this distance = 7-9 miles to the nearest tenth
+of a mile.
+
+
+EXAMPLES IV.
+1. Write down the approximate values (using Four-Figure
+tables) of—
+(a) sin 18° 10', sin 28° 10', sin 38° 10'.
+(b) sin 45°, sin 45° 30', sin 45° 52 .
+(c) sin 60°, sin 60° 15', sin 60° 25'.
+What are the actual values of sin 45° and sin 60° ?
+2. If A = 35° and B = 30°, find sin (A + B) and
+sin A + sin B. (Notice that sin (A +B) is different from
+sin A + sin B.)
+3. If A = 60° and B = 45°, find sin (A B) and
+sin A sin B. (Notice that sin (A —B) is different from
+sin A sin B.)
+4. In a right-angled triangle A 42°, C 90° and
+c = 125 ft. Find a and h to the nearest foot.
+5. In a right-angled triangle A = 90°, B = 32° 12' and
+a = 100 ft. Find b and cto the nearest foot.
+6. In a right-angled triangle A = 40°, C = 90° and
+a= 60 ft. Find cto the nearest foot.
+7. A road is inclined at 15° to the horizontal. How many
+yards does a man rise vertically for every 100 yards he walks
+straight up the road 1 ?
+8. A ship’s course is S. 42° W. The distance run is 12
+miles. How far does she go West on this run?
+9. From diagrams drawn to scale obtain approximate
+solutions to Ex. 4-8.
+The Table of Sines ( continued ).
+To find the angle when the sine is given.
+§ 22.—For example, if sin 0 = ‘3305, what is the value of 6 ?
+Here we have at once from the Tables ( Cf • § 20)
+e = 19° is'.
+But suppose we had been given the problem
+If sin 6 = -3333, what is the value of 6 P
+The Table of Sines tells us that
+sin 19° 30' -3338
+sin 19° 24' = -3322.
+
+
+Thus 0 lies between 19° 24' and 19° 30'.
+The difference between -3333 and -3322 is -0011.
+We look along to the column at the right-hand of the page,
+and find that this difference corresponds to 4' added to 19° 24'.
+Thus 6 = 19° 28'.
+We work out another example in fewer words:
+If sin 0 = -3379, what is the value of 9 ?
+We have sin 19° 42' = -3371.
+Difference = 8 (corresponds to an increase
+Therefore 6 = 19° 45'. 3 ).
+It is convenient always to work from the figures in the Table
+next helow the given ratio. If the “difference” lies between two
+of the numbers in the column on the right-hand of the page, we
+agree to take that to which it is the nearer. If it is half-way
+between two, we'take the larger.
+The right-hand column on these pages is really obtained from a
+Simple Proportion sum. The differences in the ratios (in this
+case the sines) are taken as proportional to the differences in
+the angles, these differences being small compared to the angles.
+This assumption can be justified, but its truth must be taken for
+granted now.
+Worked Examples.
+§ 23.—Example I.—A ladder 30 ft. long stands against a
+vertical wall. If it touches the wall 20 ft. from the foot of
+the wall, what is its inclination to the horizontal 1 ? (Fig. 18.)
+Fig. 18.
+Scale, 20 ft. = 1 in.
+c
+
+
+Let the inclination to the horizontal be i .
+Then sin f) = $ = -6667.
+But sin 41° 48' = -6665.
+Difference = 2 (corresponds to an in-
+crease of I').
+Therefore 6 = 41° 49'.
+Example 2. —The equal sides of an isosceles triangle are
+each 16 ft. Its height is 12 ft. What are its equal angles'?
+(Fig. 19.)
+Fig. 19.
+Scale, 10 ft. = 1 in.
+Let the equal angles be B and C.
+Then sin B = | = -75.
+Therefore B = 48° 35'.
+EXAMPLES V.
+1. Find from the Table of Natural Sines the acute angles
+whose sines are: —
+(i-) h 4, I and
+(ii.) -4482, -5673, -8831, and -9.
+
+
+2. Find the acute angle 6 satisfying the equation-
+sin 0 = sin 20° + sin 10°.
+3. Find the acute angle $ satisfying the equation-
+sin 0 = sin 20° sin 10°.
+4. In a right-angled triangle C = 90°, a 26 ft., and
+c 100 ft. Find A.
+5. In a right-angled triangle A = 90°, h 23 ft., and
+a— 42 ft. Find B.
+6. Work Ex. 4 and 5 graphically from figures drawn to
+eeale.
+EXAMPLES VI.
+Problems on the Sine.
+In Ex. 1-3 and 5-7 diagrams should he drawn to scale, and the
+answers obtained by calculation compared with those given by the
+diagrams.
+1. A ladder 36 ft. long rests against the wall of a house
+so that it just reaches a window 30 ft. from the ground. At
+what angle is it inclined to the horizontal?
+2. A ladder 36 ft. long rests against a vertical wall at an
+angle of 50° to the horizontal. At what height does its top
+touch the wall?
+3. A ladder 48 ft. long is placed with one end on the ground
+and the other projects over the top of a vertical wall 20 ft.
+high on which the ladder rests. If its inclination to the
+horizontal is 52°, how far from the top of the ladder does it
+touch the Avail?
+4. A man walks 1000 yards straight up a slope of 20°.
+How high is he above the horizontal plane through his start-
+ing point?
+5. The vertical angle of an isosceles triangle is 32° and the
+equal sides are each 12 inches. How long is the base?
+6. The base angles of an isosceles triangle are each 46° and
+the altitude is 10 ft. What is the length of the sides?
+
+
+7. A ship sails from A in a direction N. 20° E. for 25
+miles. How far is it E. of A at the end of this time?
+8. The station Cis 10 miles N. 26° E. of A. The station B
+is due S. of C and due E. of A. Find the distance of B from
+A and C. . .
+9. The station A is due N. of C and due E. of B. The
+distance from B to C is 20 miles, and the bearing of B from
+C is N. 40° W. Find the distance of A from B and C.
+10. A ship sails from A for 12 miles on a course N. 32° E.,
+and reaches B. It then sails on a course N. 42° E. for 15
+miles and reaches C. How far is C from A?
+
+
+CHAPTER IV.
+THE COSINE OF AN ACUTE ANGLE.
+§ 24.—We have seen that the ratio
+OM adiacent side
+or (Pig. 20)
+0 P hypothenuse v
+is called the cosine of the angle A OR.
+Fig. 20.
+Also we have shown that this fraction has the same value
+no matter where P is taken upon either arm of the angle.
+In the next sections it is convenient to take P at unit dis-
+tance from 0 on the arm OR.
+The word cosine is derived from the Latin words com-
+plementi sinus, which were contracted into co. sin., and finally
+into cos.
+The reason for the name will be clear if we remember that
+when two angles make up 90°, the one is said to be the com-
+plement of the other.
+But from Pig. 20 we have —
+cos MOP = sin OPM.
+Denoting the angle MOP by 6 , this may be written
+cos 0 = sin (90° —6).
+
+
+_ 1 i ; 141 ■ .
+In other words—
+cos 9 sine of the complement of 9.
+The prefix co- in the names cotangent and cosecant is
+accounted for in the same way.
+§ 25. —We shall now examine how the cosine changes as
+the angle increases from 0° to 00°.
+Take a quadrant of a circle of unit radius bounded by the
+radii OA and OB (Fig. 21).
+Let AOP be an angle 9 in this quadrant.
+Fig. 21.
+Let PM be the perpendicular from P to OA.
+mi „ OM
+iben cos 9
+= OM, since OP is unity.
+
+
+Thus the number which gives the length of OM in the scale
+on which OP is unity will be equal to cos 0.
+As the angle increases from 0° to 90°, the point M continu-
+ally moves in along OA.
+It follows that as the angle increases, the cosine decreases.
+And, as we have already seen, the cosine is never greater
+than 1.
+§ 26. —lf we have a very small angle, the point M will be
+very near the point A, the end of the radius ( Cf. Fig. 21).
+When OP moves still nearer to OA, the point M moves still
+nearer to the point A; and when OP ultimately coincides
+with OA, the point M coincides with the point A.
+Thus the length of OM becomes unity, when 0 becomes o°.
+Therefore we say that cos 0° == 1.
+Again when the angle is very nearly a right-angle, the point
+M will be very near the point 0.
+When OP moves still nearer to 08, the point M moves still
+nearer to the point O; and when OP ultimately coincides
+with 08, the point M coincides with the point O.
+Thus the length of OM becomes zero, when 6 becomes 90°,
+Therefore we say that cos 90° 0.
+§ 27. —As 6 increases from 0° to 90°, cos $ continually
+decreases from 1 to 0.
+Therefore every angle between 0° and 90° has its own
+cosine, a positive proper fraction, which belongs to it and to
+no other acute angle.
+And we shall see below that if we are given the cosine we
+can identify the acute angle to which it belongs, just as, if we
+are given the sine, we can identify the acute angle to which
+- belongs.
+Approximate Cosines shown Graphically.
+§ 28.—-From Fig. 22 we can read off approximately the
+cosine of any angle from nearly 0° to nearly 90°.
+
+
+Angle
+0°
+10°
+20°
+30°
+40°
+50°
+60°
+7C°
+80°
+90°
+Cosine
+The pupil should draw this figure for himself to a suitable
+scale on squared paper. He should then construct a Table
+of Cosines:
+Fig. 22.
+Approximate Determination of Cosines from a
+Geometrical Construction.
+§ 29. —When an angle is given, the value of its cosine can
+be determined approximately, as in the preceding section, by
+the aid of a circle of unit radius.
+
+
+But it is not necessary to take OP of length unity. All
+that we have to do is to mark off any convenient length OP
+upon one arm of the angle. Then we draw the perpendicular
+PM to the other arm, measure OM and calculate the
+. OM
+ratlo OP'
+To find cos 25° by this method:
+With the protractor draw the angle AOR (Pig. 23) equal
+to 25°.
+Fig. 23.
+Mark off OP = 5 cm.
+Draw the perpendicular PM.
+On measuring OM, we find that it is, as nearly as we can
+tell, 4-5 cm
+Thus cos 25° = 0-9 approximately.
+
+
+Geometrical Construction for the Acute Angle
+whose Cosine is a Positive Proper Fraction.
+§ 30.—We have seen that as 8 increases from 0° to 90°,
+the point M (Fig. 21) continually moves in from A to 0.
+Thus OM takes all the values between 1 and 0, as 0 passes
+from 0° to 90°.
+It follows that to construct the acute angle whose cosine
+is a given positive proper fraction, we have only to determine
+the point M which corresponds to this fraction.
+When M is known, the angle AOP follows immediately.
+But we need not use the circle of unit radius. All that we have
+to do is to construct a right-angled triangle in which the
+length of one side is given by the numerator of the given
+fraction, and the length of the hypothenuse is given by the
+denominator.
+The angle adjacent to the side referred to is the required
+angle.
+EXAMPLE VII.
+1. Construct the acute angle whose cosine is What is
+the actual size of this angle'?
+2. Construct the acute angle whose cosine is
+The Table of Cosines.
+§ 31. —We have seen in § § 19-23 how to use the Table of
+Sines. The Table of Cosines, which contains the cosines of
+angles from 0° to 90°, is employed in the same way. The
+only difference arises from the fact that the cosine decreases
+as the angle increases from 0° to 90°.
+From this Table we are able to read off the cosine of any
+acute angle, and to say what is the acute angle to which a
+given cosine belongs.
+
+
+O'
+6'
+12' 18'
+24'
+30'
+36'
+42/
+48'
+54'
+1'2'3'
+' 4' 5'
+0
+O i
+;
+7660
+7649
+7638 7627
+7615
+7604
+7593
+7581
+7570
+7559
+2 4 6
+8 9
+The Table of Cosines ( continued ).
+To find the cosine, when the angle is given.
+§ 32. —Suppose we wish to find cos 40° 32'.
+In the Table we have the following figures:
+Thus we have cos 40° 36'= -7593
+cos 40° 30' = -7604.
+And we know that cos 40° 32' lies between these two
+numbers. We look along to the column at the right-hand of
+the page. It tells us that if we add 2' to 40° 30' we must
+subtract -0004 from -7604. (The cosine decreases as the angle
+increases from 0° to 90°).
+Thus we have cos 40° 32' = -7600.
+Worked Examples.
+§ 33. Exampe 1. —ln a right-angled triangle A = 22°
+and the hypothenuse c = 125 ft. Find a and b. (Eig. 24.)
+Fig. 24.
+Scale, 50 ft. = 1 in.
+
+
+Since A = 22°, B = 68 c .
+Then we have a = 125 cos 22°
+= 125 X -9272
+= 115-9 • • •
+Therefore a is 116 ft. to the nearest foot.
+Also b 125 sin 22°
+= 125 X -3746
+= 46-825.
+Therefore h is 47 ft. to the nearest foot.
+Example 2. —A ship’s course is N. 32° E. The distance run
+is 10 nautical miles. How far does she travel to the North
+on this run? And what is the latitude at the end of the run,
+if her port of departure is in lat. 20° N. ? (Fig. 25.)
+Fig. 25.
+Scale, 5 miles = 1 in.
+
+
+Let the distance travelled North be x nautical miles.
+Then we have x == 10 cos 32°
+' = 8-480.
+Thus the required distance is 8-5 nautical miles to the
+nearest tenth of a mile, and the new latitude is 20° B£' N.
+EXAMPLES VIII.
+1. Write down the approximate values (using Four-Figure
+Tables) of—
+(a) cos 71° 50', cos 61° 50', cos 51° 50'.
+(b) cos 45°, cos 44° 30', cos 44° B'.
+(c) cos 30°, cos 29° 45', cos 29° 35'.
+Compare these results with those of Ex. I, page 32. Mhy
+should they be nearly the same?
+What are the actual values of cos 45° and cos 30° ?
+2. The equal angles of an isosceles triangle are each 50°.
+The equal sides are each 25 ft. What is the length of the
+base to the nearest foot?
+3. The equal angles of an isosceles triangle are each 40°.
+The base is 60 ft. long. What is the length of each of the
+sides to the nearest foot?
+4. In a right-angled triangle A = 46° 10', C = 90and
+c 35 ft. Find « and hto the nearest foot.
+5. ABCD is a rectangle. The diagonal AC makes an angle
+of 20° with the side AB, which is 1 ft. 9 in. long. What is
+the length of the diagonal to the nearest inch?
+6. A ship sailing 32° M. of N. has covered 20 nautical
+miles. How far is she North of her starting point, and what
+is her latitude at the end of that time, supposing she starts
+from lat. 43° S.? -
+
+
+7. A ship after leaving a harbour A (lat. 10° N.) has
+sailed in succession in the following courses:
+Course. Distance run.
+N. 32° E. 5 nautical miles.
+N. 46° E. 11 nautical miles.
+How far is she North of A bj r this time, and what is her
+latitude?
+8. From diagrams drawn to scale obtain approximate
+solutions to Ex. 2-7.
+The Table of Cosines (continued).
+To find the angle, when the cosine is given.
+§ 34.—Eor example, if cos 0 -7588, what is the value of
+e f
+The Table of Cosines tells us that
+cos 40° 42'= -7581
+and cos 40° 36' = -7593.
+Thus we see that 6 lies between 40° 36' and 40° 42'.
+The difference between -7581 and -7588 is -0007. We look
+along to the right-hand of the, page and find that this difference
+corresponds to 4' subtracted from 40° 42', since an increase
+in the cosine arises from a decrease in the angle.
+Thus 6 =4o° 38'.
+We work out another example:
+If cos 6 -7610, what is the value of 6 ?
+We have cos 40° 30' = -7604.
+Difference 6 (corresponds to a decrease
+of 3').
+Therefore 6 =4o° 27'.
+As remarked on page 33, in the case of the sine, it is usual to take
+the number in the Table next below the given cosine. The minutes,
+obtained from the right-hand of the page, have now to be subtracted
+from the angle.
+
+
+Worked Examples.
+§ 35. Example I.—A ladder 40 ft. long is placed against a
+vertical wall with the foot of the ladder 12 ft. from the wall.
+Find the angle at which it is inclined to the horizontal. (Fig.
+26.)
+Fig. 26.
+Scale, 20 ft. = 1 in.
+Let the angle of inclination be 6.
+12
+Then we have cos 0 =
+40
+= -3.
+But cos 72° 36' = -2990.
+Difference = 10 (corresponds to a de-
+crease of 4').
+Therefore 0 = 72° 32'.
+
+
+Example 2.—ln a right-angled triangle the hypothenuse c
+is 60 ft. and the side bis 42 ft. What is the angle A? (Fig.
+27.)
+Fig. 27.
+Scale, 20 ft. = 1 in.
+42
+We have cos A —-
+oO
+= -7.
+But cos 45° 36' = *6997.
+Difference = 3 (corresponds to a de-
+crease of 2').
+Therefore A = 45° 34'.
+EXAMPLES IX.
+1. Find from the Table of Natural Cosines the acute angles
+whose cosines are:
+(i-) L 1 and
+(ii.) -4482, -5673, -8831, and -9.
+Compare your results with those of Ex. I, page 34. Why
+should the corresponding angles be approximately comple-
+mentary ?
+
+
+2. Find the acute angle 0 satisfying the equation—
+, cos 6 cos 60° + cos 70°.
+3. Find the acute angle 6 satisfying the equation—
+cos 6 = cos 60° cos 70°.
+4. In a right-angled triangle a = 45 ft., c = 60 ft., C = 90°,
+Find B.
+5. In a right-angled triangle A = 40°, C = 90°, h 75 ft.
+Find c to the nearest foot.
+6. After sailing 25 miles on a course E. of N. a ship is 9
+miles farther north than at starting. Find (i.) the course to
+the nearest minute and (ii.) the distance towards the East
+covered in this time to the nearest mile.
+7. From diagrams drawn to scale obtain approximate solu-
+tions to Ex. 4-6.
+EXAMPLES X.
+Problems on the Cosine,
+In Ex. 1-3, 9 and 10 diagrams should be drawn to scale, and the
+answers obtained by calculation compared with those given by the
+diagrams.
+1. A ladder 48 ft. long rests against the wall of a house.
+The foot of the ladder is 20 ft. from the wall. What is its
+inclination to the horizontal and at what distance from the
+ground does it touch the wall?
+2. A ladder 48 ft. long rests against a vertical wall at an
+inclination of 46° to the horizontal. At what distance from
+the wall does it touch the ground?
+3. If the ladder in Ex. 2 is pulled away from the wall till
+its inclination to the horizontal is 33°, through what distance
+do the ends in contact with the wall and the ground move?
+4. The diagonal of a rectangle is 26 cm. It makes an angle
+of 48° with the shorter side. What are the lengths of the
+sides ?
+5. The diagonal of a rectangle makes an angle of 37° with
+the longer side which is 10 ft. in length. How long is the
+diagonal to the nearest foot?
+n
+
+
+6. The projection of AB (9 in. long) upon CD is 6 in.
+What is the acute angle between AB and CD?
+7. The acute angle between two intersecting lines is 10°.
+What is the projection of a length of 1 yd. on one line upon
+the other?
+8. Two points A and B are represented on a map by their
+projections upon a horizontal plane. If AB = 1000 yds. and
+its inclination to the horizontal is 20°, what will be the dis-
+tance given on the map between the two points?
+9. Calculate the distance sailed due North, South, East or
+West, by a ship on each of the following courses:
+Course. Distance run.
+(i.) N. 25° E. 12 nautical miles.
+(ii.) N. 40° W. 15 nautical miles.
+(iii.) S. 62° W. 10 nautical miles.
+(iv.) S. 9° E. 18 nautical miles.
+In the ease of distances North or South find the change in the
+latitude.
+10. A ship sails 20 nautical miles from A (lat. 15° N.) in
+a direction N. 20° E., and reaches B. It then sails 12 nautical
+miles from B in a direction S. 10° E. and reaches C. How
+far is C to the North of A, and what is the latitude?
+
+
+CHAPTER V.
+THE TANGENT OF AN ACUTE ANGLE.
+§ 36.—We have seen that the ratio
+MP opposite side
+or -i-f (Fig. 28)
+OM adjacent side
+is called the tangent of the angle AOR.
+Fig. 28.
+Also we have shown that this fraction has the same value
+no matter where P is taken upon either arm of the angle.
+§ 37.— We shall now examine how the tangent changes as
+the angle increases from 0° to 90°.
+Take a quadrant of a circle of unit radius bounded by the
+radii OA and OB (Fig. 29).
+Let AOR be an angle 6 between 0° and 90° and let OR
+cut the tangent to the circle at A in the point P.
+Then AP is at right-angles to OA.
+AP
+Therefore tan 6 =7— >
+OA
+= AP, since OA is unity.
+
+
+Fig. 29.
+Thus the number which gives the length of the intercept
+AP on the tangent, in the scale on which OA is unity, will be
+equal to tan 6.
+This is the reason why we have the name tangent for this
+ratio.
+As the angle increases from 0° to 90°, the point P con-
+tinually moves away from A along the tangent.
+It follows that as the angle increases the tangent increases.
+When the angle is 45°, AP = OA, and we have
+tan 45° = 1.
+It follows that between 0° and 45° tan 0 < 1, and between
+45° and 90° tan 0 > I.
+
+
+§ 38.—1 f we have a very small angle, the point P will be
+very near the point A ( Cf . Fig. 29).
+When OP moves still nearer to OA, the point P moves still
+nearer to the point A; and when OP ultimately coincides with
+OA, the point P coincides with the point A.
+Thus the length of AP becomes zero, when 6 becomes o°.
+Therefore we say that tan 0° = 0.
+Again when the angle is very nearly a right-angle, the point
+P will be a long way up from A.
+As the angle gets nearer and nearer a right-angle, the point
+P moves continually further up the tangent. By going
+sufficiently near to a right-angle, the length of AP will become
+greater than any number we care to name.
+Thus as the angle gets nearer and nearer to a right-angle
+the tangent increases without limit.
+This is what is meant by saying that
+tan 90° is infinity.
+This result is usually written
+tan 90° co .
+§ 39.—As 9 increases from 0° to 90°, tan 0 increases
+from 0 to oo .
+Every angle between 0° and 90° has its own tangent, a
+positive number, which belongs to it and to no other acute
+angle.
+We shall see below that, as in the case of the sine and
+cosine, if we are given the tangent we can identify the angle.
+Approximate Tangents shown Graphically.
+§ 40. —From Fig, 30 we can read off approximately the
+tangent of any angle between 0° and about 70°.
+As the angle increases from 70° towards 90°, the tangent
+increases so rapidly, and becomes so very great, that the
+diagram becomes altogether too large.
+
+
+As a matter of fact,
+tan 75°- lies between 3 and 4,
+tan 80 s lies between 5 and 6,
+tan 81° lies between 6 and 7,
+tan 82° lies between 7 and 8,
+tan 83° lies between 8 and 9,
+tan 84° lies between 9 and 10,
+tan 85° lies between 11 and 12,
+tan 86° lies between 14 and 15,
+tan 87° lies between 19 and 20,
+tan 88° lies between 28 and 29,
+tan 89° lies between 57 and 58,
+tan 89° 30' lies between 114 and
+115.
+But these results, at least those at
+the end, could not conveniently be ob-
+tained graphically.
+The pupil should draw this figure for
+himself to a suitable scale on squared
+paper, and construct a rough Table of
+Tangents.
+Fig. 30.
+
+
+Approximate Determination of Tangents from a
+Geometrical Construction.
+§ 41.—1 t is clear that when we are given an angle, the
+value of the tangent can be determined approximately, with
+the aid of a circle of unit radius, as in the preceding section.
+But the circle is not necessary in the figure. All that we
+have to do is to draw the angle with the protractor. Mark off
+on OA a convenient length OM and raise the perpendicular
+MP. If OM is 1 inch, then we have to read oft the length
+of MP in inches (C/. Fig. 31). If OM is 10 cm., the num-
+ber of cm. in MP, divided by 10, will give the tangent.
+Fig. 31.
+Geometrical Construction for the Acute
+Angle whose Tangent is a given number.
+§ 42.—A1l that we have to do is to construct a right-angled
+triangle so that one of the sides containing the right-angle is
+of unit length, and the length of the other, on this scale, is
+the given number. The angle opposite the latter side is the
+required angle.
+If the number is less than unity, the angle lies between 0°
+and 45°. If it is greater than unity, the angle lies between
+45° and 90°.
+
+
+0'
+6'
+12'
+18'
+24'
+30'
+36' 42'
+48'
+54'
+1'2'3'
+4'
+5'
+46°
+1-0355
+•0392
+•0428
+•0464
+■0501
+•0538
+•0575 -0612
+•0649
+■0686
+6 12 18
+25
+31
+EXAMPLES XL
+1. Construct the acute angles whose tangents are 1,2, 4 and
+6 respectively.
+2. What is the actual size of the first angle in Ex. 1, and
+what are the approximate sizes of the other three?
+The Table of Tangents.
+§ 43. —We have already explained how to use the Table of
+Sines and Cosines. The Table of Tangents, which contains
+the tangents of angles from 0° to nearly 90°, is employed in
+just the same way. From this Table we are able to read off
+the tangent of any acute angle, and to say what is the acute
+angle to which a given tangent belongs.
+The Table of Tangents ( continued ).
+To find the tangent when the angle is given.
+§ 44. —Suppose we want tan 46° 10'.
+in the Table we have the following figures:—
+Thus we have tan 46° 12'= 1*0428
+tan 46° 6' =1*0392.
+Also we know that tan 46° 10' lies between these two
+numbers. We look along the column at the right-hand of the
+page. It tells us that if we add 4' to 46° 6', we must add
+*0025 to 1*0392.
+Thus we have tan 46° 10' = 1*0417.
+
+
+Worked Examples.
+§ 45.—Example I.—ln a right-angled triangle C = 90°,
+A = 36° 50', b= 56 ft. Find a. (Fig. 32.)
+Fig. 32.
+Scale, 40 ft. = 1 in.
+We have a = b tan A.
+Therefore a = 56 tan 36° 50'
+= 56 X -7490
+= 41-94 • •
+Therefore a = 42 ft. to the nearest foot.
+Example 2. —A tower AB subtends an angle of 55° at a
+point C on the horizontal plane on which it stands, C being
+120 ft. from the foot of the tower. What is its height?
+(Fig. 33.)
+
+
+Fig. 33.
+Scale, 100 ft. = 1 in.
+Let AB x ft.
+Then x = 120 tan 55°
+= 120 X 14281
+= 171-3 . . .
+Therefore AB = 171 ft. to the nearest foot.
+EXAMPLES XII.
+1. Write down the approximate values (using Pour-1 igure
+Tables) of
+(a) tan 10° 14', tan 20° 24', tan 30° 26'.
+(b) tan 55° 10', tan 65° 20', tan 75° 40'.
+What are the exact values of tan 30°, tan 45° and tan 60°?
+
+
+2. In a right-angled triangle C = 90°, A = 42°, b = 100 ft.
+Find a.
+3. In a right-angled triangle A = 90°, B = 62° 40'
+c = 120 ft. Find b.
+4. In an isosceles triangle the base is 6 ft. long and the base
+angles are each 48°. What is the height to the nearest inch 1 ?
+5. The diagonal of a rectangle makes an angle of 70° with
+the shorter side which is 3 ft. long. What is the length of
+the longer side?
+6. A ship’s course lies N. 35° W. How far has she sailed
+towards the West after she has made 15 miles to the North?
+7. The inclination of a road is 10° to the horizontal. How
+far has a man moved in a horizontal direction when he has
+walked straight up the road till he is 120 ft. above his start-
+ing point?
+8. From diagrams drawn to scale obtain approximate
+solutions of Ex. 5-7.
+-The Table of Tangents {continued).
+To find the angle , ichen the tangent is given.
+§ 46. For example, if tan 9 = 1-0513, what is the value
+of 6 ?
+The Table of Tangents tells us that
+tan 46° 30' = 1-0538
+tan 46° 24' = 1-0501.
+Thus we see that 6 lies between 46° 24' and 46° 30'. The
+difference between 1-0501 and 1-0513 is -0012. We look
+along to the right-hand of the page and find that this differ-
+ence corresponds to 2' added to 46° 24'.
+Thus 9 = 46° 26'.
+We work out another example:
+If tan 9 -- 1-0674, what is the value of 9 P
+We have tan 46° 48' = 1-0649.
+Difference = 25 (corresponds to an increase
+of 4').
+Therefore 9 =46° 52'.
+
+
+Worked Examples.
+§ 47.—Example I.—ln a right-angled triangle, C = 90°,
+a= 49 ft., h= 56 ft. Find A. (Fig. 34.)
+Fig. 34.
+Scale, 40 ft. = 1 in.
+49
+We have tan A -8750.
+56
+But tan 41° 6' = -8724.
+Difference = 26 (corresponds to an in-
+crease of s').
+Therefore A = 41° 11'.
+Example 2. —A chimney 90 ft. high casts a shadow 145 ft,
+long. Calculate the sun’s altitude. (Fig. 35.)
+Let 6 the sun’s altitude.
+90
+Then tan 6 —tTk = ‘6207.
+145
+But tan 31° 48' = -6200
+Difference = 7 (corresponds to an increase
+of 2'L
+Therefore 6 = 31° 50'.
+
+
+Fig. 35.
+Scale, 100 ft. = 1 in.
+EXAMPLES XIII.
+1. From the Table of Tangents find the acute angles whose
+tangents are:
+(i.) i, §, li, 2i,
+(ii.) -3644, -8648, 2-6209, 5-0045.
+2. In a right-angled triangle C = 90°, a 100 ft.,
+b= 78 ft. Find A, B and c.
+3. A vertical pole, 12 ft. high, casts a shadow 20 ft. long.
+What must the angle of elevation of the sun be 1 ?
+4. A ship sails 14 miles towards the West, while she makes
+20 miles to the North. What is the direction of her course ?-
+5. A road ascends vertically 10 ft. for every 30 ft. hori-
+zontally. What angle does it make with the horizontal?
+6. A railway cutting 40 ft. deep is 120 ft. wide at the top
+and 20 ft. wide at the bottom. Calculate the angle of slope
+of the sides, these being equally inclined to the horizon.
+
+
+7. To find the range of a distant object C, two men, A and
+B, take up positions so that AC is at right-angles' to AB. If
+AB is 360 yds. long and the angle ABC is 65°, find AC to the
+nearest yard.
+8. From diagrams drawn to scale obtain approximate solu-
+tions of Ex. 4-7.
+EXAMPLES XIV.
+Problems on the Tangent.
+In Ex. 7-10 diagrams should be drawn to scale, and the answers
+obtained by calculation compared with those given by the diagrams.
+1. Construct the acute angle whose tangent is 1-3; by draw-
+ing and measurement find its sine and cosine. Cheek by
+reference to the Tables.
+2. What is the ratio of the angles whose tangents are 1, 2
+and 3*?
+3. In an isosceles triangle the base is 6 in. and the vertical
+angle is 86°. Find the height.
+4. The diagonals of a rhombus are 1 ft. and 2 ft. Find the
+angles and the length of a side.
+5. Calculate the remaining parts of the following right-
+angled triangles:—
+(i.) A = 15°, C = 90°, 6 = 125 ft.
+(ii.) A = 40°, C = 90°, a = 186 ft.
+6. The shadow of a 10 ft. vertical pole is 18 ft. At the
+same time the shadow of a house is 150 ft. What is the height
+of the house, and what is the altitude of the sun at the time 1 ?
+7. A man has a 60° set square. He holds it with the angle
+60° to his eye, the short side horizontal, and the long side
+pointing to the top of a tree. If he is 50 ft. from the foot of
+the tree and his eye is 5 ft. 5 in. from the ground, how high
+is the tree?
+
+
+8. A ship is sailing due E. off a coast on which there are
+two prominent landmarks, one due S. of the other. When the
+ship lies just opposite the two points the log is thrown out
+and when the nearer one bears S. 35° W. it is found that the
+distance run is miles. How far was the ship from the
+nearer point, when just opposite the two marks?
+9. ABC is a triangle in which B = 70°, C = 60°, and
+a = 100 ft. AD is the perpendicular from Ato BC. Show
+that
+BD = AD tan 20° and CD = AD tan 30°.
+Hence find the length of AD.
+10. A lighthouse facing E. throws out a fan-shaped beam of
+light covering an angle of 25°. A vessel sailing due S. at 10
+mdes per hour takes 8 minutes to pass through the space lit
+up by the light. Calculate how far the ship is from the light-
+house when it is closest to it on this course.
+
+
+CHAPTER VI.
+SOME APPLICATIONS OF TRIGONOMETRY.
+§ 48.—Trigonometry is very frequently used in finding the
+height or distance of an object like a hill, tower, or tree, the
+breadth of a river, the area of a piece of land, etc. Indeed,
+as the name Trigonometrical Survey suggests, every careful
+survey of a district depends upon trigonometrical calculations.
+In this chapter some elementary methods of solving such
+problems will be illustrated by simple examples. But the
+general methods in use require more advanced work and for
+them logarithmic calculation is indispensable.
+Simple apparatus will also be described by means of which
+the observations referred to can be carried out. Boys should
+be encouraged to make such apparatus themselves, and to
+calculate heights and distances in the neighbourhood, to draw
+up a plan of a piece of land, and to find its area, etc.
+Elementary field-work of this kind will make such an
+introductory course as this much more valuable.
+•Angles of Elevation and Depression.
+§ 49.—i n practical work, such as surveying, the observer
+has an instrument called a theodolite, Which, among other
+things, gives him the angle through which a telescope is
+turned in a vertical plane from the horizontal position till it
+points to the object to be observed.
+If this object is the top of a mountain, tower, tree, etc., and
+the observer is below it, he looks up to the object and the
+telescope is turned up from the horizontal position through
+an angle. This angle is called the Angle of Elevation of the
+object. (Fig. 36.)
+
+
+If the observer is on the top of a cliff, hill, or tower, etc.,
+and looks down to an object, the telescope is turned down
+from the horizontal position through an angle. This angle
+is called the Angle of Depression of the object. (Fig. 37.)
+In other words, the angle between a horizontal plane through
+the observer’s eye and a line joining the eye to an object is
+called—
+(i.) The Angle of Elevation of the object, if it is above
+the point of observation;
+(ii.) The Angle of Depression of the object, if it is below
+the point of observation.
+Fig. 36.
+Fig. 37.
+If the observer is at 0, and AB are two points in the
+vertical plane AOB, such that OA is horizontal,
+[_ AOB = the angle of elevation of B (Fig. 36); and
+(_ AOB = the angle of depression of B (Fig. 37).
+The Clinometer and the Plane-Table.
+§ 50.—An instrument which will measure angles of eleva-
+tion and depression is sometimes called a clinometer.
+E
+
+
+For rough measurements the protractor itself can be turned
+into a clinometer. We need only attach to a piece of fine
+Fig. 38.
+string a small weight and fasten the other end of the string
+to the centre of the protractor by a pin, or other con-
+venient means. When the protractor is in a vertical plane
+and its edge horizontal the string will hang as in the dotted
+line in Fig. 38, just pressing against the face. If the pro-
+tractor is then set by the eye to the point to be observed,
+the angle of elevation or depression, as the ease may be, can
+Fig. 39.
+be read off from the position of the string. For example,
+in Fig. 39 the angle of elevation is found to be B°.
+
+
+For more careful measurements the apparatus sketched in
+Fig. 40 can be easily constructed. The upright is a piece of
+wood, about 12 in. by 3 in. by 1 in. Another piece, about
+Fig. 40.
+12 in. by 3 in. by 2 in., is accurately planed so as to form
+a rectangular block. In the middle of the face (12 in. by
+2 in.) a hole is bored and a clamping-screw fixed, so that the
+block can be screwed fairly firm to the upright. In this way
+we can have motion about this axis, and the block will remain
+at rest after being turned through any angle. To the face
+(12 in. by 2 in.), for convenience just below the axis of
+rotation, a semi-circular protractor is fixed with the diameter
+uppermost and parallel to the edge. At the centre of its
+circle a pin is inserted. To the pin a weight is attached by
+a fine stxing.
+If this piece of apparatus is held so that the string just
+presses against the block and passes through the 90° mark
+on the protractor, the top surface of the block and the
+axis of rotation will be horizontal.
+If the block is now turned about this axis, the stand
+remaining fixed, the angle through which it has been turned
+will be indicated by the position of the string after this
+rotation.
+
+
+To complete the instrument a line should be drawn right
+along the middle of the top face of the block to act as the
+line of sight. If more accuracy is required, two 11 sights”
+Fig. 41.
+can be inserted in this line. For example, two small brass
+screws with the central grooves filed to the same depth by
+a triangular file, such as is used in sharpening a saw, would
+serve the purpose. The top of the screws must be at the
+same height above the block, and the central grooves right
+along the middle line. A card held over the one further
+from the observer’s eye will give a triangular gap, and the
+point to be observed should be in a line with the lowest
+points of these Y-shaped hollows.
+So that the axis of rotation will be horizontal, it is con-
+venient to use this instrument along with the plane-table,
+the instrument sketched in Fig. 41, by which angles in a
+horizontal plane are measured. The plane-table is simply a
+portable table on a tripod. The table has to be horizontal,
+and this can be tested by a spirit-level, the levels being
+taken in two directions along the surface. Two levels fixed
+to the table would be more convenient, but such small levels
+are not so easily obtained as the ordinary cai’penter’s level.
+
+
+On its surface a circular protractor is fixed. Such a pro-
+tractor could be made of paper and then pasted on. A
+“ pointer ” is fastened to the table by a pin through the centre
+of the protractor, which should also he the centre of
+Fig. 42.
+the table, and the pointer is free to turn above this pin as
+axis. The pointer in the instrument shown is simply a piece
+of an ordinary wooden ruler with one end sharpened to a
+point. At this end a pin is fixed perpendicular to the ruler
+and at the other end there is a small screw-eye. The top of
+the pin should appear at the centre of the screw-eye, and
+the pin should be along a vertical radius.
+As the exact position from which the observation is taken
+must be known, a weight is attached by a string to the vertex
+of the tripod, or the centre of the plate to which the legs of
+the tripod are hinged. This weight will mark the point of
+observation.
+Near the side of the observer in Fig. 42 the clinometer will
+be noticed on the ground.
+This piece of apparatus allows angles in a horizontal plane
+to be measured. In Fig. 42 the observer has the pointer
+turned to the pole fixed upright in the ground some distance
+
+
+away. This pole should be in a line with the pin at the
+end of the pointer, when seen through the screw-eye. The
+pole marks one end of a base-line, as described in § 56, and
+the instrument is at the other. The observer would then
+turn the pointer, without moving the table, till it comes into
+line with another marked position. And the difference of
+the readings on the protractor would give the angle through
+which the pointer has been turned.
+These two simple pieces of apparatus allow the observations
+for which the surveyor uses a theodolite to be carried out.
+Simple Examples in Heights and Distances.
+§ 51.—The following worked examples illustrate the
+simplest kind of observation: —
+Example I.—A tower stands on a horizontal plane. A man
+on the ground, 100 ft. from the tower, finds the angle of
+elevation of the top to be 50°. What is its height? (Fig.
+43.)
+Fig. 43.
+Scale, 100 ft. = 1 in.
+
+
+Let AC be the tower, and B the point of observation.
+Let AC = x ft.
+Then we have BC = 100 ft.,
+and l_ ABC = 50°.
+Therefore x 100 tan 50°
+= 11948.
+Therefore we take the height of the tower as 119 ft.
+Example 2.—A man looks from the top of a cliff, 120 ft.
+high, at a mark in the water. He observes that the angle of
+depression of the mark is 32°. Find how far it is from the
+foot of the cliff. (Fig. 44.)
+Fig. 44.
+Scale, 100 ft. = 1 in.
+Let AC be the cliff and B the mark.
+Let BC = x ft.
+Then we have AC = 120 ft.,
+and i ABC = 32°.
+Therefore x = 120 tan 58°
+= 192-036.
+Thus we take the distance to the mark to be 192 ft.
+In this example it was better to work with /.BAG than
+/_ABC, as by doing so we avoided division.
+
+
+Example 3. —To find the breadth of a river, a man observes
+a point A on one bank just opposite a point B on the other.
+He then walks along the bank—supposed straight at this
+place—to a point C, such that BC —■ 150 ft. The angle ACB
+is found to be 42°. What is the breadth of the river? (Fig.
+45.)
+Fig. 45.
+Scale, 100 ft. = 1 in.
+Let the breadth be x ft.
+Then we have x 150 tan 42°
+= 150 X -9004
+= 135-06.
+Thus the breadth of the river is 135 ft. to the nearest foot.
+EXAMPLES XY.
+1. A tower stands on a horizontal plane. A man observes
+the angle of elevation of the tower from a point on the plane.
+Find the height of the tower in the following cases:
+(i.) Distance of point of observation from tower = 200 ft.;
+angle of elevation = 30°.
+
+
+(ii.) Distance of point of observation from tower = 150 ft.;
+angle of elevation = 45°.
+(iii.) Distance of point of observation from tower = 125 ft.;
+angle of elevation = 55°.
+(iv.) Distance of point of observation from tower = 100 ft.;
+angle of elevation = 70°.
+2. Find the distance of the point of observation in the
+following cases:
+(i.) Height of tower = 100 ft.; angle of elevation = 25°.
+(ii.) Height of tower = 120 ft.; angle of elevation = 35°.
+(iii.) Height of tower = 150 ft.; angle of elevation = 55°.
+(iv.) Height of tower = 175 ft.; angle of elevation = 75°.
+3. A man on the top of a cliff observes the angle of depres-
+sion of a boat directly opposite. Find the distance of the
+boat from the foot of the cliff in the following cases:
+(i.) Angle of depression = 15°; height of cliff = 100 ft.
+(ii.) Angie of depression 2o°; height of cliff = 150 ft.
+(iii.) Angle of depression = 60°; height of cliff = 275 ft.
+(iv.) Angie of depression = 70°; height of cliff = 300 ft.
+4. Find the angle of depression in the following cases:
+(i.) Height of cliff = 100 ft.; distance of the boat = 150 ft,
+(ii.) Height of cliff = 120 ft.;, distance of the boat l7O ft.
+(iii.) Height of cliff = 160 ft.; distance of the boat = I’OO ft.
+(iv.) Height of cliff = 200 ft.; distance of the boat 375 ft.
+5. To find the breadth of a river a man marks a point A
+on one bank just opposite a point B on the other. He then
+walks along the first bank down the river to a point C, distant
+]OO yds. from A, and finds the angle ACB to be 55°. What
+is the breadth of the river?
+6. With the same observations as in the preceding question,
+find the breadth of a river as the mean of three observations
+
+
+taken at distances 100, 125, and 150 yds. from A. The angles
+subtended by AB at these points being 44° 30', 37° 48' and
+33° 30'.
+7. Ais a tree on one bank of a river. Bis a point on the
+other bank directly opposite A. The angle of elevation of
+the top of the tree is 55° 30' and its height is 80 ft. Find the
+breadth of the river.
+8. Ais a point on one bank of a river. Bis a point on the
+other bank directly opposite A, and 10 yds. from the edge.
+An observer walks from B at right angles to AB up the river
+30 yds. to C, and finds that the angle ACB = 75°. He starts
+again from B and walks down the river at right angles to
+AB 40 yds. to D and finds the angle ADB = 70°. Find the
+breadth* of the river as the mean of these two observations.
+The Determination op Areas.*
+§ 52. —The area of a field of a moderate size can be ob-
+tained, and a fairly accurate plan prepared, by means of
+measurements with the chain (the surveyor’s line, 66 ft.
+long).
+In using the chain two men are required. The leader goes
+ahead with one end of the chain; the follower, who holds the
+other end of the chain, remains at the starting point. When
+the chain is pulled tight, the follower directs the leader so
+that he will be in a straight line towards the point, the dis-
+tance to which they are measuring. This point has usually
+been marked bj r a pole stuck up for that purpose. The
+leader puts a peg in the ground to mark the end of the first
+chain, and they walk on. When the follower reaches the
+peg the process is repeated.
+* §§ 52-59 are more difficult, and have been inserted chiefly for the sake of
+those who will not proceed to a fuller study of Trigonometry. Some of them may
+wish, to know the way in which the elements of Trigonometry can he applied to
+simple field-work. It should he noted that the calculations will he much shorter
+if logarithms are used.
+
+
+Fig. 46.
+Scale, 1 chain = 1 in.
+
+
+to D
+to E 160
+340
+274
+226
+110 to C
+114
+150 to B
+From A
+Suppose that ABODE (Fig. 46) represents a piece of land
+to be surveyed. The surveyor measures with the chain the
+length of a suitable line (say AD) joining two corners.
+He also obtains the positions of L, M, and N, the feet of
+the perpendiculars from the corners B, C and E to AD, and
+the lengths of BL, CM and EN. These lines are called the
+offsets.
+When the leader comes to the points L, M and N, he puts
+in pegs, and BL, CM and EN are measured with the chain.
+By this means the positions of B, C and E are fixed, and
+the held may be plotted to scale, if desired.
+The Field-Book.
+g 53. The above measurements are entered on a page of
+the field-book, beginning at the bottom of the centre column,
+which shows the distances of the various points from A.
+Offsets on the left of the measured line AD are shown on
+the left of the central column, and offsets on the right are
+shown on the right.
+LINKS.
+
+
+As there are 100 links in a chain, this works out as
+follows:
+I I X 144 X 1-50 \
+Area to right = U X 142 X 2-60 > sq. ch.
+( i X 144 X 140 )
+C -855 )
+= < 1-456 > sq. ch.
+( -627 )
+= 2-938 sq. eh.
+Area to left = | X 3-40 X 1-60 sq. eh.
+= 2 - 72 sq. ch.
+Total area =5-658 sq. eh.
+But 1 acre = 10 sq. eh.
+Hence the total area of the plot is approximately
+0-57 acres.
+The Area of a Triangle.
+§ 54.—When the distances are large and the ground un-
+even, it is much easier to measure angles with accuracy than
+lengths, and for all surveys on a large scale a different
+method to that above described is employed.
+If the field is triangular, we could find its area and shape
+in various ways:
+(1) We might measure the length of one side and the size
+of the adjacent angles.
+(2) Again we might measure two sides and the included
+angle.
+We omit the case in which the three sides can be measured
+directly, as we are supposing the dimensions too great, or
+the ground unsuitable. The formula for the area of a
+triangle in terms of the lengths of its sides is given in most
+text-books of geometry.
+I. — To find the area of a triangle ABC, when we know one
+side and the adjacent angles; e.g., a, B and C. (Fig. 47.)
+
+
+Fig. 47.
+Let AD be the perpendicular from A to BC.
+Then AD=BD tan B
+=CD tan C.
+But BD -j" DC = a.
+Therefore AD( ——- -f- -- «•
+y tan B tan C /
+tan B tan C
+Therefore AD =a~ ~—; — -•
+tan B + tan C
+Then Area = | AD X BC
+_ tan B tan C
+a a tan B + tan C
+Tig. 47 has been drawn for B and C acute angles. Slight
+changes in the work would have to be made if either of the
+angles were obtuse.
+This formula should not be remembered, but each case
+worked out from an appropriate figure.
+11. —To find the area of a triangle ABC when two sides and
+the included angle are given; e.g., a. c and B.
+With the same figure and construction as above, we have
+AD = c sin B.
+Area t= i AD X BC
+= 4 a c sin B.
+If the two sides contain an obtuse angle, it will be easily
+proved, from a suitable figure, that we replace the sine of the
+angle by the sine of its supplement.'
+
+
+EXAMPLES XVI.
+1. The base of a triangle is 120 yds. The base angles are
+66° and 54°. Hoav many sq. yds. does it contain 1 ?
+2. One side of a triangle is 440 yds. The adjacent angles
+are 130° and 20°. How many acres does it contain?
+3. Two straight roads, AB, AC, diverge from A at an angle
+of 48°. AB is I mile and AC is \ mile. A straight fence
+is put up from B to C, Find the area in acres of the
+triangle ABC.
+4. AB, BC are two straight fences containing an angle of
+78°. The length of AB is 4 ch. 37 Ik. From what point in
+BC must a fence be run across to A to cut off an area of 1
+acre?
+-The Area op a Field avith Straight Boundaries.
+§ 55.—1 f the field is a quadrilateral Ave can find its area
+and shape as in § 52, or we may proceed as follows: —
+Fig. 48.
+If we can measure AB and AD (Fig. 48), also
+the angles BAG, ABC, CAD, ADC, then we can find the
+areas of the triangles ABC and ACD by § 54.
+Again, if the four sides can be measured and two of the
+opposite angles, the area would follow from the second
+formula of § 54.
+But it might happen that only one of the sides could be
+conveniently measured. In this ease Ave could still find the
+area from the results of § 54.
+
+
+For suppose that we can measure BC. We then observe
+the angles ABC and ACB. We can thus work out the area
+of the triangle ABC.
+When the area of ABC is known, the length of AC follows
+from the formula for the area, when two sides and the in-
+cluded angle are given (also cf. Ex. 6, page 22).
+We now proceed to the triangle ACD. To find its area we
+need only measure the angles ACD and DAC, since we know
+AC.
+It is obvious that this method can be extended to a field
+of any number of sides. But with these elementary methods
+the work is long.
+§ 56.—1 t may happen that the dimensions are too large, or
+the ground unsuitable for the measurement of any one of thQ
+sides of the field. In this case a convenient line, PQ, is
+measured on level ground within or without the given area,
+and this is taken as the initial line or base-line.
+Fig. 49.
+From the ends P and Q, the angles APQ and AQP are
+observed (Fig. 49). Thus the area of the triangle APQ can
+be obtained, as well as the length of AP.
+With AP as new base-line, we observe the angles APB and
+BAP. From these observations and the length of AP, the
+area of the triangle APB is found and the length of PB.
+In this way we can proceed round the figure and obtain its
+whole area, and plot it on a plan.
+
+
+§ 57. —Such a plan as has been spoken of in the previous
+sections indicates the shape of the field, but does not give the
+actual directions of its boundaries. In many cases these
+directions are needed. For this purpose a compass is
+required, by means of which the bearings of the lines would
+be obtained.
+The simple measurements we have considered have been
+supposed to refer to fairly level ground. If the ground is
+hilly it would be necessary to use more elaborate methods
+to show the heights of the observed points above the
+horizontal plane through the base-line and the projections
+of these points upon that plane.
+More Difficult Examples in Heights and Distances.
+§ 58.—1 t frequently happens that the method of §5l can-
+not be employed; as, for example, when the foot of the
+observed object is inaccessible.
+The method used in the following example will give both
+the height and the distance of the point observed.
+Example.—From two points, A and B, one mile apart, on a
+horizontal plane, the angles of elevation of the top of a hill
+due East of both points are found to be 25° 24' and 40° 12'
+respectively. Show that its height above A and B is about
+5720 ft. and its horizontal distance from B about 6770 ft.
+Let D be the top of the hill, and C the foot of the perpen-
+dicular from Dto the plane. (Fig. 50.)
+Then A, B and C lie in a straight line.
+Let BC = x ft. and CD = y ft.
+Then from the triangle ACD we have
+y (x + 5280) tan 25° 24'.
+And from the triangle BCD we have
+y = x tan 40° 12'.
+These two equations are sufficient to determine x and y.
+F
+
+
+Fig. 50.
+Scale, 2000 ft. = 1 cm.
+The tvork, without logarithms, is a little easier if we take
+the tangents of the angles at D instead of those at A and B.
+In this ease we have
+x + 5280 = y tan 64° 36',
+x = y tan 49° 48'.
+5280
+These give y = tao 64 „ 3r _ tan 4 9»-48'
+5280
+•9227
+= 5722.
+tan 64° 36' = 2-1060
+tan 49° 48' = 1-1833
+•9227.
+But as these values for tan 64° 36' and tan 49° 48' are
+correct only to four decimals, we cannot be sure of the last
+figures of our answer. •
+We thus say that the height is about 5720 ft.
+Again we have x = y tan 49° 48'
+= 5722 X 1-1833
+= 6770-8 . .
+Thus the distance is about 6770 ft.
+
+
+§ 59.—Another method of finding the difference of level of
+two points, and the horizontal distance between them, will
+now be described.
+It will be seen that the calculations involved are very
+similar to those of § 58.
+P and Q are the two points, and QR the perpendicular
+through Q to the horizontal plane through P (Fig. 51).
+Fig. 51
+The observer at P fixes his theodolite so that the axis of the
+telescope is at C, vertically above P.
+His assistant holds a rod vertical at Q; the divisions of this
+rod are distinctly marked and are visible from C.
+The angles of elevation, ACD and BCD, of two of these
+marks, A and B, are read off from C.
+These observations determine PR and QR.
+For example—
+Suppose PC = 5 ft. 6 in.; [_ ACD =7° and [_ BCD = 8°;
+QA = 2 ft. 6 in., and QB = 5 ft.
+Let PR = x ft. and QR = y ft.
+Then from the triangle ACD we have
+(y + 2|) 5J = x tan 7°; '
+and, from the triangle BCD,
+(y + 5) 5i = x tan B°.
+
+
+Thus y—3 = x tan 7°, (1)
+y—4 = x tan B°. (2)
+Subtracting (1) from (2).
+2-5
+X ~ -0177
+= 141-2 • •
+tan 8° = T 405
+tan 7° = -1228
+•0177.
+Therefore the distance is 141 ft. to the nearest foot.
+And y = x tan 7° + 3
+= 141 X -1228 + 3
+= 17-3 • • • + 3
+= 20-3 • • •
+Therefore the height is 20 ft. to the nearest foot.
+EXAMPLES XYII.
+1. A man observes the angle of elevation of the top of a
+tower to be 40°. He walks 100 ft. nearer to it along the line
+towards the foot of the tower and finds the angle of elevation
+to be 50°. Find the height of the tower, and its distance
+from the nearer point.
+2. The angles of elevation of the top of a tree from two
+windows of a house, one just above the other, are 35° and 40°.
+The lower window is 20 ft. from the ground, the upper 40 ft.
+Find the height of the tree, and its distance from the house.
+3. Two buoys, A and B, are moored in a direct line to the
+foot of a cliff vertically below an observer at the top. The
+buoys are 25 ft. apart, and the observer finds that their
+angles of depression are 46° and 51°. What is the height of
+the cliff, and the distance of the nearer buoy from it?
+4. From the top of a cliff, 120 ft. high, the angles of
+depression of two boats, due S. of the observer, are 20° and
+08° respectively. Find the distance between the boats.
+5. From the top of a hill the angles of depression of two
+points due E. of the hill and 1 mile apart are 21° and 46°
+respectively. What is its height?
+
+
+6. A man on one bank of a river observes a point on the
+opposite bank, and finds that the straight line between him-
+self and that point makes an angle of 27° with the stream.
+After walking along the bank a distance of 132 ft. he finds
+the corresponding angle is 40°. What is the breadth of the
+river 1
+7. A man stands on one bank of a river and observes the
+angle of elevation of the top of a tree just opposite to him on
+the other bank to be 55°. He Avalks back in the straight line
+from the foot of the tree a distance of 50 ft. and finds that
+the angle of elevation is now 40°. What is the breadth of
+the river 1 ?
+8. From a balloon the angles of depression of the top and
+bottom of a tower 200 ft. high are 60° and 70° respectively.
+What is the height of the balloon 1 ?
+9. A balloon rises vertically from a point between two
+stations, A and B, 200 yds. apart. Two men simultaneously
+observe the angles of elevation of the balloon from A and B,
+and find them to be 58° and 76°. Find its height above the
+ground at that time.
+
+
+o'
+6’
+12
+18’
+24
+30'
+36’
+42
+48
+54*
+Minutes
+m 0*1
+0°2
+0°3
+0°'4
+0°B
+0°'6
+0°-7
+0° 8
+0°-9
+1
+2
+3
+1 4
+5
+o°
+0000
+0017
+0035
+0052
+0070
+0087
+0x05
+0122
+0140
+0157
+3
+6
+9
+12
+15
+1
+0175
+0192
+0209
+0227
+0244
+0262
+0279
+0297
+0314
+0332
+3
+6
+9
+12
+15
+2
+0349
+0366
+0384
+0401
+0419
+0436
+0454
+0471
+0488
+0506
+3
+6
+9
+12
+13
+3
+0523
+0541
+0558
+0576
+0593
+0610
+0628
+0645
+0663
+0680
+3
+6
+9
+12
+is
+4
+0698
+0715
+0732
+0750
+0767
+078s
+0802
+0819
+0837
+0854
+3
+6
+9
+12
+15
+S
+0872
+0889
+0906
+0924
+0941
+0958
+0976
+099 3
+IOII
+1028
+3
+6
+9
+12
+14
+6
+1045
+1063
+1080
+1097
+1115
+1132
+1149
+1167
+1184
+1201
+3
+6
+9
+12
+14
+7
+I2IQ
+1236
+1253
+1271
+1288
+1305
+1323
+1340
+1357
+1374
+3
+6
+9
+12
+14
+8
+1392
+I409
+1426
+1444
+1461
+1478
+1495
+1513
+1530
+1547
+3
+6
+9
+12
+14
+9
+1564
+1582
+1599
+1616
+1633
+1650
+1668
+1685
+1702
+1719
+3
+6
+9
+12
+14
+10
+1736
+1754
+i77i
+1788
+180s
+1822
+1840
+1857
+1874
+1891
+3
+6
+9
+12
+14
+11
+1908
+1925
+1942
+1959
+1977
+1994
+201 I
+2028
+2045
+2062
+3
+6
+9
+11
+14
+12
+2079
+2096
+2113
+2130
+2147
+2164
+2181
+2198
+22L5
+2232
+3
+6
+9
+11
+14
+13
+2250
+2267
+2284
+2300
+2317
+2334
+2351
+2368
+238s
+2402
+3
+6
+8
+II
+14
+14
+2419
+2436
+2453
+2470
+2487
+2504
+2521
+2538
+2554
+2571
+3
+6
+8
+11
+14
+IS
+2588
+2605
+2622
+2639
+2656
+2672
+2689
+2706
+2723
+2740
+3
+6
+8
+n
+14
+16
+2756
+2 773
+2790
+2807
+2823
+2840
+2857
+2874
+2890
+2907
+3
+6
+8
+II
+14
+17
+2924
+2940
+2957
+2974
+2990
+3007
+3024
+3040
+3057
+3074
+3
+6
+8
+11
+14
+18
+3090
+3107
+3123
+3140
+3156
+3173
+3190
+3206
+3223
+3239
+3
+6
+8
+I I.
+14
+19
+3256
+3272
+3289
+3305
+3322
+3338
+3355
+337i
+3387
+3404
+3
+5
+8
+11
+14
+20
+3420
+3437
+3453
+3469
+3486
+3502
+3518
+3535
+3551
+3567
+3
+5
+8
+11
+14
+21
+3584
+3600
+3616
+3633
+3649
+3665
+3681
+3697
+3714
+3730
+3
+5
+8
+II
+14
+22
+3746
+3762
+3778
+3795
+3811
+3827
+3843
+3859
+3875
+3891
+3
+5
+8
+II
+14
+23
+3907
+3923
+3939
+3955
+3971
+3987
+4003
+4019
+4035
+4051
+3
+5
+8
+11
+14
+24
+4067
+4083
+4099
+4115
+413:
+4U7
+4163
+4179
+4195
+4210
+3
+5
+8
+II
+13
+25
+4226
+4242
+4258
+4274
+4289
+4305
+4321
+4337
+4352
+4368
+3
+5
+8
+11
+13
+26
+4384
+4399
+4415
+4431
+4446
+4462
+4478
+4493
+4509
+4524
+3
+5
+8
+10
+13
+27
+4540
+4555
+4571
+4586
+4602
+4617
+4033
+4648
+4664
+4679
+3
+5
+8
+10
+13
+28
+469s
+4710
+4726
+4741
+4756
+4772
+4787
+4802
+4818
+4833
+3
+5
+8
+10
+13
+29
+484B
+4863
+4879
+4894
+4909
+4924
+4939
+4955
+4970
+498s
+3
+5
+8
+10
+13
+30
+Sooo
+5015
+5030
+5045
+5060
+5075
+5090
+5105
+5120
+5'3S
+3
+5
+8
+10
+13
+31
+5150
+5165
+S180
+5195
+5210
+S225
+3240
+5255
+5270
+5284
+2
+5
+7
+10
+12
+32
+5299
+5314
+5329
+5344
+5358
+5373
+5388
+5402
+5417
+5432
+2
+5
+7
+10
+12
+33
+5446
+5461
+5476
+5490
+5505
+5519
+5534
+5548
+5563
+5577
+2
+5
+7
+10
+12
+34
+5592
+5606
+5621
+5635
+5650
+5664
+5678
+5693
+5707
+5721
+2
+5
+7
+10
+12
+35
+5736
+5750
+5764
+5779
+5793
+5807
+5821
+5835
+5850
+5864
+2
+5
+7
+10
+12
+36
+5878
+5892
+5906
+5920
+5934
+5948
+5962
+5976
+5990
+6004
+2
+5
+7
+9
+12
+37
+6018
+6032
+6046
+6060
+6074
+6088
+6101
+6115
+6129
+6143
+2
+5
+7
+9
+12
+38
+6157
+6170
+6184
+6198
+6211
+6225
+6239
+6252
+6266
+6280
+2
+5
+7
+9
+11
+39
+6293
+6307
+6326
+6334
+6347
+6361
+6374
+6388
+6401
+6414
+2
+4
+7
+9
+11
+40
+6428
+6441
+6455
+6468
+6481
+6494
+6508
+6521
+6534
+6547
+2
+4
+7
+9
+11
+41
+6561
+6574
+6587
+6600
+6613
+6626
+6639
+6652
+6665
+6678
+2
+4
+7
+9
+I!
+42
+6691
+6704
+6717
+6730
+6743
+6756
+6769
+6782
+6794
+6807
+2
+4
+6
+9
+II
+43
+6820
+6833
+6845
+6858
+6871
+6884
+6896
+6909
+6921
+6934
+2
+4
+6
+8
+I 1
+44
+6947
+6959
+6972
+6984
+6997
+7009
+7022
+7034
+7046
+7059
+2
+4
+6
+8
+10
+O'
+6'
+12'
+18'
+24'
+b
+CO
+36'
+42'
+48'
+54'
+2
+3
+4
+5
+O' o° 1
+0°-2
+0°'3
+0°4
+0°S
+0°'6
+0°7
+0-8
+0°9
+Minutes.
+
+
+0'
+6'
+or 0° 1
+12'
+0° 2
+18’
+0°3
+24-
+0° 4
+30’
+0°-5
+36'
+0° 6
+42'
+0° 7
+° >
+CO 00
+54'
+0° 9
+Minutes.
+1
+2
+3 1
+4 5
+45°
+7o;i
+7083
+7096
+7108
+7120
+7133
+7145
+7157
+7169
+7181
+2
+4
+6
+8
+10
+46
+7193
+7206
+7218
+7230
+7242
+7254
+7266
+7278
+7290
+7302
+2
+4
+6
+8
+10
+47
+7314
+7325
+7337
+7349
+736i
+7373
+7385
+7396
+7408
+7420
+2
+4
+48
+7431
+7443
+7455
+7466
+7478
+7490
+750i
+7513
+7524
+7536
+4
+49
+7547
+7558
+7570
+7S8i
+7593
+7604
+7615
+7627
+7638
+7649
+4
+9
+50
+7660
+7672
+7683
+7694
+7705
+77 16
+7727
+7738
+7749
+77 60
+4
+7
+9
+51
+7771
+7782
+7793
+7804
+7815
+7826
+7837
+7848
+7859
+7869
+2
+4
+5
+7
+9
+52
+7880
+7891
+7902
+7912
+7923
+7934
+7944
+7955
+7965
+7976
+4
+5
+7
+9
+53
+7986
+7997
+8007
+8018
+8028
+8039
+8049
+8059
+8070
+8080
+3
+5
+7
+9,
+54
+8ogo
+8100
+8111
+8121
+8131
+8141
+8151
+8161
+8171
+8181
+2
+3
+5
+7
+55
+8192
+8202
+8211
+8221
+8231
+8241
+8251
+8261
+8271
+8281
+2
+3
+5
+7
+8
+56
+8290
+8300
+8310
+8320
+8329
+8339
+8348
+8358
+8368
+8377
+2
+3
+5
+6
+8
+57
+8387
+8396
+8406
+8415
+8425
+8434
+8443
+8453
+8462
+8471
+2
+3
+5
+6
+8
+58
+8480
+8490
+8499
+8508
+8517
+8526
+8536
+8545
+8554
+8563
+2
+3
+6
+8
+59
+8572
+8581
+8590
+8599
+8607
+8616
+8625
+8634
+8643
+8652
+I
+3
+4
+6
+7
+60
+8660
+8669
+8678
+8686
+8695
+8704
+8712
+8721
+8729
+8738
+I
+3
+4
+6
+7
+61
+8746
+8755
+8763
+8771
+8780
+8788
+8796
+8805
+8813
+8821
+1
+3
+4
+6
+7
+62
+8829
+8838
+8846
+8854
+8862
+8870
+8878
+8886
+8894
+8902
+I
+3
+4
+5
+7
+63
+8910
+8918
+8926
+8934
+8942
+8949
+8957
+8965
+8973
+8980
+I
+3
+4
+S
+6
+64
+8988
+8996
+9003
+9011
+9018
+9026
+9033
+9041
+9048
+9056
+3
+4
+5
+65
+9063
+9070
+9078
+9085
+9092
+9100
+9107
+9114
+9121
+9128
+4
+5
+66
+9135
+9143
+9150
+9157
+9164
+9171
+9178
+9184
+9191
+9198
+I
+2
+3
+5
+6
+67
+9205
+9212
+9219
+9225
+9232
+9239
+9245
+9252
+9259
+9265
+I
+2
+3
+4
+68
+9272
+9278
+9285
+9291
+9298
+9304
+93 11
+9317
+9323
+9330
+I
+3
+4
+5
+69
+9336
+9342
+9348
+9354
+9361
+9367
+9373
+9379
+9385
+9391
+I
+2
+3
+4
+5
+70
+9397
+9403
+9409
+9415
+9421
+9426
+9432
+9438
+9444
+9449
+I
+2
+3
+4
+5
+71
+9455
+9461
+9466
+9472
+9478
+9483
+9489
+9494
+9500
+9505
+I
+2
+3
+4
+5
+72
+9Si 1
+9Si6
+952i
+952 7
+9532
+9537
+9542
+9548
+9553
+9558
+I
+2
+3
+4
+4
+73
+9563
+9568
+9573
+9578
+9583
+9588
+9593
+9598
+9603
+9608
+I
+2
+2
+3
+4
+74
+9613
+9617
+9622
+9627
+9632
+9636
+9641
+9646
+9650
+9655
+I
+2
+2
+3
+4
+75
+9659
+9664
+9668
+9673
+9677
+9681
+9686
+9690
+9694
+9699
+1
+I
+2
+3
+4
+76
+9703
+9707
+9711
+9715
+9720
+9724
+9728
+9732
+9736
+9740
+I
+I
+2
+3
+3
+77
+9744
+9748
+9751
+9755
+9759
+9763
+9767
+9770
+9774
+9778
+I
+I
+2
+3
+3
+78
+978i
+978s
+9789
+9792
+9796
+9799
+9803
+9806
+9810
+9813
+I
+I
+2
+2
+3
+79
+9816
+9820
+9823
+9826
+9829
+9833
+9836
+9839
+9842
+9845
+I
+I
+2
+2
+3
+80
+9848
+9851
+9854
+9857
+9860
+9863
+9866
+9869
+9871
+9874
+0
+I
+t
+2
+2
+81
+9877
+9880
+9882
+9885
+9888
+9890
+9893
+9895
+9898
+9900
+0
+I
+I
+2
+2
+82
+19903
+9905
+9907
+9910
+9912
+9914
+9917
+9919
+9921
+9923
+0
+I
+I
+2
+2
+83
+j 9925
+9928
+9930
+9932
+9934
+9936
+9938
+9940
+9942
+9943
+0
+I
+I
+I
+84
+!9945
+9947
+9949
+9951
+9952
+9954
+9956
+9957
+9959
+9960
+0
+I
+I
+I
+1
+85
+9962^
+9963
+9965
+9966
+9968
+9969
+9971
+9972
+9973
+9974
+0
+0
+I
+I
+86
+9976
+9977
+9978
+9979
+9980
+9981
+9982
+9983
+9984
+998s
+0
+0
+I
+I
+1
+87
+9986
+9987
+9988
+9989
+9990
+9990
+999 1
+9992
+9993
+9993
+0
+0
+0
+1
+1
+88
+9994
+9995
+9995
+9996
+9996
+9997
+9997
+9997
+9998
+9998
+0
+0
+0
+0
+0
+89
+9998
+9999
+9999
+9999
+9999
+9999
+9999
+9999
+9999
+9999
+0
+0
+0
+0
+6'
+12
+18'
+24-
+CO
+O
+36'
+42'
+00
+■st
+54'
+1
+2
+3
+4
+5
+0
+orO° 1
+0° 2
+D° 3
+0° 4
+0° 5
+0°G
+0° 7
+0° 8
+0° 9
+Minutes.
+
+
+o'
+6’
+or 0°’ 1
+12’.
+0° 2
+18’
+0° 3
+24'
+0°4
+30'
+0°-5
+36'
+0° 6
+42'
+0° 7
+48'
+0° 8
+54'
+0° 9
+1
+Minutes.
+2 3 1 4
+5
+0°
+1. 000
+9999
+9999
+9999
+9999
+9999
+9999
+9999
+9999
+9999
+0
+0
+0
+0
+0
+1
+9998
+9998
+9998
+9997
+9997
+9997
+9996
+9996
+9995
+9995
+0
+0
+0
+0
+0
+2
+9994
+9993
+9993
+9992
+9991
+9990
+9990
+9989
+9988
+9987
+0
+0
+0
+1
+1
+3
+9986
+998s
+9984
+9983
+9982
+998i
+9980
+9979
+9978
+9977
+0
+0
+I
+1
+I
+4
+9976
+9974
+9973
+9972
+9971
+9969
+9968
+9966
+9965
+9963
+0
+0
+I
+1
+I
+5
+9962
+9960
+9959
+9957
+9956
+9954
+9952
+9951
+9949
+9947
+0
+I
+I
+1
+2
+6
+9945
+9943
+9942
+9940
+9938
+9936
+9934
+9932
+9930
+9928
+0
+1
+I
+1
+2
+992^
+9923
+9921
+9919
+9917
+9914
+9912
+9910
+9907
+9905
+0
+I
+1
+2
+2
+9903
+9900
+9898
+9895
+9893
+9890
+9888
+9885
+9882
+9880
+0
+I
+I
+2
+2
+9877
+9874
+9871
+9869
+9866
+9863
+9860
+9857
+9854
+9851
+0
+I
+I
+2
+2
+10
+9848
+9845
+9842
+9839
+9836
+9833
+9829
+9826
+9823
+9820
+I
+I
+2
+2
+3
+11
+9816
+9813
+9810
+9806
+9803
+9799
+9796
+9792
+9789
+9785
+1
+I
+2
+2
+3
+12
+978i
+9778
+9774
+9770
+9767
+9763
+9759
+9755
+9751
+9748
+I
+I
+2
+3
+3
+13
+9744
+9740
+9736
+9732
+9728
+9724
+9720
+9715
+9711
+9707
+1
+I
+2
+3
+3
+14
+9703
+9699
+9694
+9690
+9686
+9681
+96 77
+9673
+9668
+9664
+I
+I
+2
+3
+4
+15
+9659
+96SS
+9650
+9646
+9641
+9636
+9632
+9627
+9622
+9617
+I
+2
+2
+3
+4
+16
+9613
+9608
+9603
+9598
+9593
+9588
+9583
+9578
+9573
+9568
+I
+2
+2
+3
+4
+17
+9563
+9558
+9553
+9548
+9542
+9537
+9532
+9527
+9521
+9Si6
+I
+2
+3
+4
+4
+18
+95H
+9505
+9500
+9494
+9489
+9483
+9478
+9472
+9466
+9461
+I
+2
+3
+4
+5
+19
+9455
+9449
+9444
+9438
+9432
+9426
+9421
+9415
+9409
+9403
+I
+2
+3
+4
+5
+20
+9397
+9391
+938s
+9379
+9373
+9367
+936i
+9354
+9348
+9342
+I
+2
+3
+4
+5
+21
+9336
+9330
+9323
+9317
+9311
+9304
+9298
+9291
+9285
+9278
+I
+2
+3
+4
+5
+22
+9272
+9265
+9259
+9252
+9245
+9239
+9232
+9225
+9219
+Q2I2
+I
+2
+3
+4
+6
+23
+9205
+9198
+9191
+9184
+9178
+9171
+9164
+9157
+9150
+9M3
+1
+2
+3
+5
+6
+24
+9135
+9128
+9121
+9114
+9107
+9100
+9092
+9085
+9078
+9070
+I
+2
+4
+5
+6
+25
+9063
+9056
+9048
+9041
+9033
+9026
+9018
+901 I
+9003
+8996
+I
+3
+4
+5
+6
+26
+8988
+8980
+8973
+8965
+8957
+8949
+8942
+8934
+8926
+8918
+I
+3
+4
+5
+6
+27
+8910
+8902
+8894
+8886
+8878
+8870
+8862
+8854
+8846
+8838
+I
+3
+4
+5
+7
+28
+8829
+8821
+8813
+8805
+8796
+8788
+8780
+8771
+8763
+8755
+I
+3
+4
+6
+7
+29
+8746
+8738
+8729
+8721
+8712
+8704
+8695
+8686
+8678
+8669
+I
+3
+4
+6
+7
+30
+8660
+8652
+8643
+8634
+8625
+8616
+8607
+8599
+8590
+8581
+I
+3
+4
+6
+7
+31
+8572
+8563
+8554
+8545
+8536
+8526
+8517
+8508
+8499
+8490
+2
+3
+5
+6
+8
+32
+8480
+8471
+8462
+8453
+8443
+8434
+8425
+841s
+8406
+8396
+2
+3
+5
+6
+8
+33
+8387
+8377
+8368
+8358
+8348
+8339
+8329
+8320
+8310
+8300
+2
+3
+5
+6
+8
+8290
+8281
+8271
+8261
+8251
+8241
+8231
+8221
+8211
+8202
+2
+3
+5
+7
+8
+35
+8192
+8181
+8171
+8161
+8151
+8141
+8131
+8121
+8111
+8100
+2
+3
+5
+7
+8
+36
+8090
+8080
+8070
+8059
+8049
+8039
+8028
+8018
+8007
+7997
+2
+3
+5
+7
+9
+37
+7986
+7976
+7965
+7955
+7944
+7934
+7923
+7912
+7902
+7891
+2
+4
+5
+7
+9
+7880
+7869
+7859
+7848
+7837
+7826
+7815
+7804
+7793
+7782
+2
+4
+5
+7
+9
+777 1
+7760
+7749
+7738
+7727
+7716
+7705
+7694
+7683
+7672
+2
+4
+6
+7
+9
+40
+7660
+7649
+7638
+7627
+7615
+7604
+7593
+7S8i
+7570
+7559
+2
+4
+6
+8
+9
+7547
+7536
+7524
+7513
+7501
+7490
+7478
+7466
+7455
+7443
+2
+4
+6
+8
+10
+7431
+7420
+7408
+7396
+7385
+7373
+736i
+7349
+7337
+7325
+2
+4
+6
+8
+10
+lo
+7314
+7302
+72Q0
+7278
+7266
+7254
+7242
+7230
+7218
+7206
+2
+4
+6
+8
+10
+44
+7193
+7181
+7169
+7157
+7145
+7133
+7120
+7108
+7096
+7083
+2
+4
+6
+8
+10
+6'
+12'
+18’
+24’
+30'
+36’
+42'
+48'
+54'
+1
+2
+3
+4
+5
+or0° 1
+0°2
+0°3
+0°4
+0°5
+0° 6
+0°7
+0° 8
+0°9
+Minutes.
+Note.—
+Numbers in difference columns to be subtracted, not added.
+
+
+*
+CD
+54'
+Minutes
+12'
+18'
+24'
+30'
+36 1
+42 1
+0'
+6
+1
+«rO°i
+0°2
+0°'3
+0°4
+O 0, 5
+0°-6
+0°7
+0° 8
+0°9
+2
+3
+4
+5
+45°
+7071
+7059
+7046
+7034
+7022
+7009
+6997
+6984
+6972
+6959
+2
+4
+6
+8
+10
+46
+6034
+6921
+6909
+6896
+6884
+6871
+6858
+6845
+6833
+2
+4
+6
+8
+II
+6807
+6794
+6782
+6769
+6756
+6743
+6730
+6717
+6704
+2
+4
+6
+9
+47
+6678
+6665
+6652
+6639
+6626
+6613
+6600
+6587
+6574
+2
+4
+7
+9
+48
+6561
+6428
+6334
+6521
+6508
+6494
+6481
+6468
+6455
+6441
+2
+4 '
+7
+9
+49
+50
+6414
+6401
+6388
+6374
+6361
+6347
+6334
+6320
+6307
+2
+4
+7
+9
+51
+6293
+6iS7
+6266
+6252
+6239
+6225
+6211
+6198
+6184
+6170
+2
+5
+7
+9
+II
+6129
+6ns
+6101
+6088
+6074
+6060
+6046
+6032
+2
+5
+7
+9
+6004
+5990
+5976
+5962
+5948
+5934
+5920
+5906
+5892
+2
+5
+7
+9
+5 3
+5878
+5736
+3850
+5835
+5821
+5807
+5793
+5779
+5764
+5750
+b
+7
+9
+T2
+54
+55
+5721
+5707
+5693
+5678
+5664
+5650
+5635
+S621
+5606
+2
+5
+7
+56
+57
+58
+59
+60
+5577
+5563
+5548
+5534
+5519
+5505
+5490
+5476
+S46i
+2
+5
+7
+10
+12
+5446
+5299
+5150
+Sooo
+5432
+5284
+5135
+498S
+5417
+5270
+5120
+4970
+5402
+5255
+5105
+4955
+5388
+5240
+5090
+4939
+5373
+5225
+5075
+4924
+5358
+5210
+5060
+4909
+5344
+5195
+5045
+4894
+5329
+5180
+5030
+4879
+5314
+5165
+Soi 5
+4863
+2
+3
+3
+5
+5
+5
+5
+7
+7
+8
+8
+10
+10
+10
+12
+13
+13
+61
+4848
+4833
+4818
+4802
+4787
+4772
+4756
+4741
+4726
+47io
+3
+5
+8
+10
+13
+4605
+4679
+4664
+4648
+4633
+4617
+4602
+4586
+4571
+4555
+3
+5
+4S40
+4524
+4509
+4493
+4478
+4462
+4446
+4431
+4415
+4399
+3
+5
+8
+8
+13
+64
+65
+4384
+4368
+4352
+4337
+4321
+4305
+4289
+4274
+4258
+4242
+3
+0
+13
+4226
+4210
+4195
+4179
+4163
+4147
+4131
+41 IS
+4099
+4083
+3
+5
+66
+67
+68
+69
+70
+4067
+4051
+4035
+4019
+4003
+3987
+3971
+3955
+3939
+3923
+3
+5
+8
+8
+8
+8
+8
+11
+14
+3891
+3875
+3859
+3843
+3827
+3811
+3795
+3778
+3762
+3
+b
+3746
+3730
+3714
+3697
+3681
+3665
+3649
+3633
+3616
+3600
+3
+b
+14
+3584
+3567
+3551
+3535
+35i8
+3502
+3486
+3469
+3453
+3437
+3
+5
+14
+3420
+3404
+3387
+3371
+3355
+3338
+3322
+3305
+3289
+3272
+3
+b
+14
+3256
+3239
+3223
+3206
+3190
+3173
+3156
+3140
+3123
+3! 07
+3
+6
+8
+8
+8
+8
+8
+11
+11
+14
+14
+72
+73
+74
+75
+3090
+3074
+3057
+3040
+3024
+3007
+2990
+2974
+2957
+2940
+3
+2924
+2907
+2890
+2874
+2857
+2840
+2823
+2807
+2790
+2773
+3
+14
+2756
+2588
+2740
+2571
+2723
+2554
+2706
+2538
+2689
+2521
+2672
+2504
+2656
+2487
+2639
+2470
+2622
+2453
+2605
+2436
+3
+3
+6
+6
+11
+14
+14
+76
+77
+2419
+2402
+2385
+2368
+2351
+2334
+2317
+2300
+2284
+2267
+3
+6
+8
+11
+14
+2250
+2233
+2215
+2198
+2181
+2164
+2147
+2130
+2113
+2096
+3
+9
+■1 T
+14
+2079
+2062
+.2045
+2028
+2011
+1994
+1977
+1959
+1942
+1925
+3
+9
+TT
+14
+1908
+1891
+1874
+1857
+1840
+1822
+180s
+1788
+1771
+1754
+3
+6
+9
+14
+80
+1736
+1719
+1702
+1685
+1668
+1650
+1633
+1616
+1599
+1582
+3
+6
+9
+14
+81
+1564
+1547
+1530
+1513
+1495
+1478
+1461
+1444
+1426
+1409
+3
+6
+9
+12
+14
+82
+1392
+1374
+1357
+1340
+1323
+1305
+1288
+1271
+1253
+1236
+3
+9
+14
+1219
+1201
+1184
+1167
+1149
+II.32
+1115
+1097
+1080
+1063
+3
+9
+84
+1045
+1028
+ion
+0993
+0976
+0958
+094 r
+0924
+0906
+0889
+3
+6
+9
+12
+14
+85
+0872
+0854
+0837
+0819
+0802
+0785
+0767
+0750
+0732
+0715
+3
+6
+9
+15
+0698
+0680
+0663
+0645
+0628
+0610
+0593
+0576
+0558
+0541
+3
+6
+9
+12
+IS
+0523
+0506
+0488
+0471
+0454
+0436
+0419
+0401
+0384
+0366
+3
+6
+9
+Tn
+15
+0349
+0332
+0314
+0297
+0279
+0262
+0244
+0227
+0209
+0192
+3
+9
+89
+0175
+0157
+0140
+0122
+0105
+0087
+0070
+0052
+0035
+0017
+3
+9
+l S
+0'
+6'
+12'
+1 0° 2
+18'
+0°'3
+24'
+0°-4
+30'
+0°5
+36'
+•0° 6
+42'
+48'
+54’
+1
+2
+3
+4
+5
+or 0°
+0° 7
+0°8
+0°-9
+Minutes
+Note. —Numbers in
+difference colum
+ns to be
+subtracted, not added.
+
+
+0'
+6'
+or0°-
+12'
+0°2
+18'
+0°’3
+24'
+0 o, 4
+30'
+0°-5
+36'
+0°-6
+42'
+0°7
+oof
+54'
+o°’9
+Minutes.
+1
+2 3
+| 4 5
+0°
+•0000
+0017
+0035
+0052
+0070
+0087
+0105
+0122
+0140
+0X57
+3
+6 9
+12 14
+1
+•0I7S
+0192
+0209
+0227
+0244
+0262
+0279
+0297
+0314
+0332
+3
+6 9
+12 15
+2
+•0349
+O367
+0384
+0402
+0419
+0437
+0454
+0472
+0489
+0507
+3
+6 9
+12 13
+3
+•0524
+0542
+0559
+0577
+0594
+0612
+0629
+0647
+0664
+0682
+3
+6 9
+12 15
+4
+•o6gg
+0717
+0734
+0752
+0769
+0787
+0805
+0822
+0840
+0857
+3
+6 9
+12 15
+5
+•0875
+0892
+OQIO
+0928
+0945
+0963
+0981
+0998
+1016
+1033
+3
+6 9
+12 IS
+6
+•1051
+1069
+1086
+1104 .
+1122
+1139
+1X57
+1175
+1192
+1210
+3
+6 9
+12 15
+7
+.1228
+I246
+1263
+1281
+1299
+1317
+1334
+1352
+1370
+1388
+3
+6 9
+12 IS
+8
+•140S
+1423
+1441
+1459
+1477
+1495
+1512
+1530
+1548
+1566
+3
+6 9
+12 IS
+9
+.1584
+1602
+1620
+1638
+16SS
+1673
+IOQI
+1709
+1727
+1745
+3
+6 9
+12 IS
+10
+.1763
+I78l
+1799
+1817
+1835
+1853
+1871
+1890
+1908
+1926
+3
+6 9
+12 IS
+11
+.1944
+1962
+1980
+1998
+2016
+2035
+2053
+2071
+2089
+2107
+3
+6 9
+12 15
+12
+.2126
+2X44
+2162
+2180
+2199
+2217
+2235
+2254
+2272
+2290
+3
+6 9
+12 15
+13
+.2309
+2327
+2345
+2364
+2382
+2401
+2419
+2438
+2456
+2475
+3
+6 9
+12 IS
+14
+•2493
+2512
+2530
+2549
+2568
+2586
+2605
+2623
+2642
+2661
+3
+6 9
+12 l6
+15
+.2679
+2698
+2717
+2736
+2754
+2 773
+2792
+2811
+2830
+2849
+3
+6 9
+13 16
+16
+•2867
+2886
+2905
+2924
+2943
+2962
+2981
+3000
+3019
+3038
+3
+6 9
+13 l6
+17
+•3057
+3076
+3096
+3115
+3134
+3153
+3172
+3191
+3211
+3230
+3
+6 10
+13 x6
+18
+•3249
+3269
+3288
+3307
+3327
+3346
+3365
+3385
+3404
+3424
+3
+6 10
+13 16
+19
+•3443
+3463
+3482
+3502
+3522
+3S4i
+356i
+3581
+3600
+3620
+3
+6 10
+13 17
+20
+•3640
+3659
+3679
+3699
+3719
+3739
+3759
+3779
+3799
+3819
+3
+7 10
+13 17
+21
+•3839
+3859
+3879
+3899
+3919
+3939
+3959
+3979
+4000
+4020
+3
+7 10
+13 17
+22
+.4040
+4061
+4081
+4101
+4122
+4142
+4163
+4183
+4204
+4224
+3
+7 10
+14 17
+23
+•4245
+426s
+4286
+4307
+4327
+4348
+4369
+4390
+4411
+4431
+3
+7 10
+14 17
+24
+•4452
+4473
+4494
+4515
+4536
+4557
+4578
+4599
+4621
+4642
+4
+7 10
+14 18
+25
+•4663
+4684
+4706
+4727
+474?
+4770
+4791
+4813
+4834
+4856
+4
+7 ii
+14 18
+26
+.4877
+4899
+4921
+4942
+4964
+4986
+5008
+3029
+505 x
+5073
+4
+7 II
+15 18
+27
+•5095
+5117
+5139
+5161
+5184
+5206
+5228
+5250
+5272
+5295
+4
+7 II
+IS 18
+28
+•5317
+5340
+5362
+5384
+5407
+5430
+5452
+5475
+5498
+5520
+4
+8 11
+IS 19
+29
+•5543
+5566
+5589
+5612
+5635
+5658
+5681
+5704
+5727
+5750
+4
+8 12
+IS 19
+30
+•5774
+5797
+5820
+5844
+5867
+5890
+59X4
+5938
+596i
+5985
+4
+8 12
+16 20
+31
+.6009
+6032
+6056
+6080
+6104
+6128
+6152
+6176
+6200
+6224
+4
+8 12
+16 20
+32
+•6249
+6273
+6297
+6322
+6346
+6371
+6395
+6420
+6445
+6469
+4
+8 12
+16 20
+33
+.6494
+6519
+6544
+6569
+6594
+6619
+6644
+666g
+6694
+6720
+4
+8 13
+17 21
+34
+•6745
+6771
+6796
+6822
+6847
+6873
+6899
+6924
+6950
+6976
+4
+9 13
+17 21
+35
+•7002
+7028
+7054
+7080
+7107
+7133
+7X59
+7186
+7212
+7239
+4
+9 13
+l8 22
+36
+•7265
+7292
+7319
+7346
+7373
+7400
+7427
+7454
+7481
+7So8
+5
+9 14
+l8 23
+37
+•7536
+7563
+7590
+7618
+7646
+7673
+7701
+77 29
+7757
+77 85
+5
+9 X4
+l8 23
+38
+•7813
+7841
+7869
+7898
+7926
+7954
+7983
+8012
+8040
+8069
+5
+10 14
+19 24
+39
+.8098
+8127
+8156
+8185
+8214
+8243
+8273
+8302
+8332
+8361
+5
+10 15
+20 24
+40
+•8391
+8421
+8451
+8481
+8511
+8541
+8571
+8601
+8632
+8662
+5
+10 15
+20 25
+41
+•8693
+8724
+8754
+8785
+8816
+8847
+8878
+8910
+8941
+8972
+5
+10 16
+21 26
+42
+■9004
+9036
+9067
+9099
+9131
+9163
+9X95
+9228
+9260
+9293
+5
+11 16
+21 27
+43
+•9325
+9358
+939i
+9424
+9457
+9490
+9523
+9556
+9590
+9623
+6
+ii 17
+22 28
+44 !
+•9657
+9691
+9725
+9759
+9793
+9827
+9861
+9896
+9930
+9965
+6
+11 17
+23 29
+1
+O'
+6'
+12'
+18'
+CM
+CO
+q
+36'
+42'
+48'
+54'
+1 2 3
+4 5
+1
+orflo-l
+fl°-2
+0°'3
+0°-4
+0°‘5
+0°'6
+0°7
+0° 8
+0°'9
+Minutes.
+
+
+0'
+6
+or 0°
+12' 18'
+•1 0°2 0°3
+24
+0°4
+30
+0°'5
+' 36'
+0°'6
+42'
+0°7
+4-8'
+0°8
+54'
+0° 9
+Minutes.
+1
+2
+3
+4
+5
+45°
+1.0000
+0035
+0070
+0105
+0141
+0176
+0212
+0247
+0283
+0319
+6
+12
+18
+24
+30
+46
+I-03SS
+0392
+0428
+0464
+0501
+0538
+0575
+0612
+0649
+0686
+6
+12
+18
+25
+31
+47
+1.0724
+0761
+0799
+0837
+0875
+0913
+0951
+0990
+1028
+1067
+6
+13
+19
+25
+32
+48
+1. no6
+1145
+1184
+1224
+1263
+1,303
+1343
+■1383
+1423
+1463
+7
+13
+20
+26
+33
+49
+M504
+1544
+1585
+1626
+1667
+1708
+1750
+1792
+1833
+187s
+7
+14
+21
+28
+34
+50
+1.1918
+i960
+2002
+204s
+2088
+2131
+2174
+2218
+2261
+2305
+7
+14
+22
+29
+36
+51
+1.2349
+2393
+2437
+2482
+2527
+2572
+2617
+2662
+2708
+2753
+8
+15
+23
+30
+38
+52
+1.2799
+2846
+2892
+2938
+2985
+3032
+3079
+3127
+3175
+3222
+8
+l6
+23
+3i
+39
+53
+1.3270
+3319
+3367
+34i6
+.3465
+35H
+3564
+3613
+3663
+3713
+8
+l6
+25
+33
+41
+54
+1-3764
+3814
+386s
+3916
+3968
+4019
+4071
+4124
+4176
+4229
+9
+17
+26
+34
+43
+55
+1.4281
+4335
+4388
+4442
+4496
+4550
+4605
+4659
+4715
+4770
+9
+18
+27
+36
+45
+56
+1.4826
+4882
+4938
+4994
+5051
+5108
+5166
+5224
+5282
+5340
+10
+19
+29
+38
+48
+57
+1-5399
+5458
+5517
+5577
+5637
+5697
+5757
+S818
+5880
+5941
+10
+20
+30
+40
+50
+58
+1.6003
+6066
+6128
+6191
+6255
+6319
+6383
+6447
+6512
+65 77
+II
+21
+32
+43
+53
+59
+1.6643
+6709
+6775
+6842
+6909
+69 77
+7045
+7113
+7182
+7251
+II
+23
+34
+45
+56
+60
+1 -7321
+7391
+7461
+7532
+7603
+7675
+7747
+7820
+7893
+7966
+12
+24
+36
+48
+60
+61
+1-8040
+8115
+8190
+8265
+8,341
+8418
+8495
+8572
+8650
+8728
+13
+26
+38
+Si
+64
+62
+1-8807
+8887
+8967
+9047
+9128
+9210
+9292
+9375
+9458
+9542
+14
+27
+41
+55
+68
+63
+1-9626
+9711
+9797
+9883
+9970
+0057
+0145
+0233
+0323
+0413
+15
+29
+44
+58
+73
+64
+2.0503
+0594
+0686
+0778
+0872
+0965
+1060
+1155
+1251
+1348
+16
+31
+47
+63
+78
+65
+2-1445
+1543
+1642
+1742
+1842
+1943
+2045
+2148
+2251
+2355
+17
+34
+51
+68
+85
+66
+2.2460
+2566
+2673
+2781
+2889
+2998
+3109
+3220
+3332
+3445
+18
+37
+55
+74
+92
+67
+2-3559
+3673
+3789
+3906
+4023
+4142
+4262
+4383
+4504
+4627
+20
+40
+60
+79
+99
+68
+2-4751
+4876
+5002
+5129
+5257
+5386
+5517
+5649
+5782
+S9i6
+22
+43
+65
+87
+108
+69
+26051
+6187
+6325
+6464
+6605
+6746
+6889
+7034
+7179
+7326
+24
+47
+71
+95
+ns
+70
+2-7475
+7625
+7776
+7929
+8083
+8239
+8397
+855b
+8716
+8878
+26
+52
+78
+104
+130
+71
+29042
+9208
+9375
+9544
+9714
+9887
+0061
+0237
+0415
+0595
+29
+58
+87
+us
+144
+72
+3-0777
+0961
+1146
+1334
+1524
+1716
+1910
+2106
+2305
+2506
+32
+64
+96
+129
+161
+73
+32709
+2914
+3122
+3332
+3544
+3759
+3977
+4197
+4420
+4646
+36
+72
+108
+144
+180
+74
+34874
+5105
+5339
+5576
+5816
+6059
+6305
+6554
+6806
+7062
+41
+81
+122
+162
+203
+75
+3-7321
+7583
+7848
+8118
+8391
+8667
+8947
+9232
+9520
+9812
+46
+93
+139
+186
+232
+40108
+0408
+0713
+1022
+1335
+1653
+1976
+2303
+2635
+2972
+53
+107
+160
+213 267
+77
+4-33 >5
+3662
+4015
+4.374
+4737
+5107
+5483
+5864
+6252
+6646
+62
+124
+186
+248 310
+78
+4.7046
+7453
+7867
+8288
+8716
+9152
+9594
+0045
+0504
+0970
+73
+I46 2IQ
+292 36s
+79
+5.1446
+1929
+2422
+2924
+3435
+3955
+4486
+5026
+5578
+6140
+87 175 262
+350 437
+80
+56713
+7297
+7894
+8502
+9124
+9758
+0405
+1066
+1742
+2432
+81
+63138
+3859
+4396
+5350
+6122
+6912
+7720
+8548
+9395
+0264
+82
+7 1154
+2066
+3002
+3962
+4947
+5958
+6996
+8062
+9158
+0285
+1
+9
+3
+4
+6
+83
+8.1443
+2636
+3863
+5126
+6427
+7769
+9152
+0579
+2052
+3572
+9-5U4
+9-677
+9-845
+10-02
+ro-20
+10-39
+10.58
+1078 10-99
+11-20
+1143
+1166
+11.91
+12.16
+12-43
+12-71
+13.00
+13-30
+13.62
+13-95
+•
+86
+14 30
+1467 15-06
+15.46
+15.89
+i6-35
+16.83
+17-34
+17.89 18-46
+Difference-columns
+87
+19 08
+19.74
+20.45
+21-20
+22-02
+22-QO
+23.86
+24-QO
+26-03 27-27
+may
+be ne
+glected.
+88
+28.64
+30.14 31-82 33.69
+35.80 38-19
+40.92
+44.07 47-74 52-08
+and
+the
+tangent
+89
+57-29
+63.66 71.62 81-85
+95-49
+1146
+143-2
+1910 286-5
+573-0
+take
+to the near-
+of
+0'
+6'
+12'
+18'
+24'
+30'
+36'
+42'
+4-8'
+54'
+degree.
+or 0°"I 0 o- J
+0° 3
+0°"4
+0°'5
+0°6
+0°7
+0°'8
+0°-9
+
+
+
+
+Ex. I. Page 15.
+1. 15-508, 45-544, -003.
+2. 12° 27' 49", 7° 8' 30", 1° 31' 16".
+3. 45°, 30°, 22° 30', 18°, 15°, 11° 15', 9°.
+4. 108°, 120°, 135°.
+5. of a second.
+6. 400.
+Ex. 11. Page 22.
+1. fi ) 3 4 3-434
+-*-• V.W S 7 57 4; 57 57 T -
+6. BE = a sin C= c sin A. CF = b sin A= a sin B.
+The sines of the angles are proportional to the sides
+opposite them.
+Ex. 111. Page 28.
+1. 30°.
+Ex. IY. Page 32.
+1. (a) -3118, -4720, -6179.
+(b) -7071, -7133, -7177.
+(c) -8660, -8682, -8696.
+2. sin 65° = -9063, sin 35° + sin 30° = 1-0736,
+3. sin 15° = -2588, sin 60° sin 45° = -1589.
+4. a = 84 ft., b = 93 ft.
+5. b= 53 ft. c= 85 ft.
+6. c = 93 ft.
+7. 26 yds. to the nearest yd.
+8. 8 miles, to the nearest of a mile.
+Ex. V, Page 34.
+1. (i.) 9° 36', 14° 29', 36° 52', 67° 23'.
+(ii.) 26° 38', 34° 34', 62° 2', 64° 9'.
+2 31 0 3.
+3. 9° 42'.
+4. 15° 4'.
+5. 33° 12'.
+
+
+Ex. VI. Page 35.
+1. 56° 27'.
+2. 27 ft. 7 in.
+3. 22 ft. 7 in,
+4. 342 yds.
+5. 6-6 in., to the nearest th of an inch.
+6. 14 ft., to the nearest ft.
+7. 8-6 miles, to the nearest of a mile.
+8. 4-4 miles and 9 miles, to the nearest of a mile.
+9. 12-9 miles and 15-3 miles, to the nearest of a mile.
+]O. 16-4 miles, to the nearest T -th of a mile.
+Ex. VII. Page 42.
+1. 60°.
+Ex. VIII. Page 45.
+1. (a) -3117, -4721, -6179.
+(b) -7071, -7133, *7177.
+(e) -8660, -8682, -8697.
+The cosine of an angle = the sine of its complement.
+2. 32 ft.
+3. 39 ft.
+4. a = 25 ft., b = 24 ft.
+5. 22 in.
+6. 17 miles, to the nearest of a mile. 42° 43' S.
+7. 11-9 miles, to the nearest —th of a mile. 10° 11-9' N.
+Ex, IX. Page 48.
+1. (i.) 80° 24', 75° 31', 53° B', 22° 37'.
+(ii.) 63° 22', 55° 26', 27° 59', 25° 51'.
+The cosine of an angle = the sine of its complement,
+2. 32° 39'.
+3. 80° 54'
+4. 41° 25'.
+5. 98 ft.
+6. 68° 54', 23 miles.
+
+
+Ex. X. Page 49,
+1. 65° 22', 43 ft. 8 in.
+2. 33 ft. 4 in..
+3. 8 ft. 5 in., 6 ft. 11 in.
+4. 17 cm., 19 cm,
+5. 13 ft.
+G. 48° 11'.
+7. 2 ft. 11 in.
+8. 939-7 j^ds.
+9. (i.) N., 10-9 miles, E., 5-1 miles, change in lat. = 10-9'.
+(ii.) N., 11-5 miles, W., 9-6 miles, change in lat. 11-s'.
+(iii.) S., 4-7 miles, W., 8-8 miles, change in lat. = 4-7'.
+(iv.) S., 17-8 miles, E., 2-8 miles, change in lat. = 17-B'.
+10. 7 miles, lat. 15° 7' N.
+Ex. XI. Page 56.
+2. 45°, 63° 26', 75° 58', 80° 32'.
+Ex. XII. Page 59,
+1. (a) -1805, -3719, -5875.
+»b) 1-4371, 2-1776, 3-9133.
+2. 90 ft.
+3. 232 ft.
+4. 3 ft. 4 in.
+5. 8 ft. 3 in.
+6. 10-5 miles.
+7. 681 ft.
+Ex. XIII. Page 61.
+1. (i.) 26° 34', 33° 42', 56° 19', 68° 12'.
+(ii.) 20° I', 40° 51', 60° 7', 78° 42'.
+2. A = 52° 3', B =zr 37° 57', c = 127 ft.
+3. 30° 58'.
+4. N. 35° IV.
+5. 18° 26'.
+6. 38° 40' to the horizontal.
+7. 772 yds.
+
+
+Ex. XIY. Page 62.
+2. 1350 : 1903 : 2147.
+3. 3-2 in.
+4. 126° 52', 53° 8'; 1-1 ft.
+5. (i.) a =33 ft., c = 129 ft, B 75°.
+(ii.) b = 156 ft., c = 243 ft., B = 50°.
+6. 83 ft., 29° 3'.
+7. 92 ft.
+8. 2-1 miles, to the nearest of a mile.
+9. 106 ft.
+10. 3 miles.
+Ex. XV. Page 72.
+1. (i.) 115 ft.; (ii.) 150 ft; (iii.) 179 ft.; (iv.) 275 ft.
+2. (i) 214 ft.; (ii.) 171 ft; (iii.) 105 ft.; (iv.) 47 ft.
+3. (i.) 373 ft.; (ii.) 412 ft.; (iii.) 159 ft.; (iv.) 109 ft.
+4. (i.) 33° 41'; (ii.) 35° 13'; (iii.) 39° 40'; (iv.) 28° 4'.
+5. 143 yds.
+6. 98-2 yds.
+7. 55 ft.
+8. 110-9 yds.
+Ex. XVI. Page 79.
+1. 6144 sq. yds.
+2. 101 acres, nearly.
+3. 89-2 acres, nearly.
+4. 4-7 ch.
+Ex. XVII. Page 84.
+1. Height = 283 ft. Distance ~ 238 ft.
+2. Height = 141 ft. Distance 144 ft.
+3. Height = 160 ft. Distance = 130 ft.
+4. 281 ft.
+5. 3220 ft.
+6. 171 ft.
+7. 71 ft.
+8. 541 ft.
+9. 229 yds.
+
+
+
+
+
+
+Catalogue of Books
+PUBLISHED BY
+ANGUS & ROBERTSON
+LIMITED
+PUBLISHERS TO THE UNIVERSITY
+89 CASTLEREAGH STREET, SYDNEY
+The bocks in ibis Catalcgue may be obtained through any
+Bookseller in Australia, New Zealand and all other English-
+speaking Countries.
+Intending purchasers are requested to write direct to the
+publishers if they have any difficulty in obtaining the books
+required.
+English and Foreign trade orders should be sent to the
+publishers whose names appear in the body of the Catalogue ;
+where no other name appears, they should be sent to
+the Oxford University Preis, Amen Corner, London, E.C.
+The costs of postage stated herein apply only to the
+Commonwealth of Australia.
+February, 1916.
+
+
+
+
+THE SONGS OF A SENTIMENTAL BLOKE.
+By C. J. Dennis. Tenth thousand. With 14 full-
+page Drawings by Hal Gye and Foreword by
+Henry Lawson. Cloth, 3s, 6d.
+The Bulletin (Sydney): “‘The Songs of a Sentimental
+Bloke’ is the most typically Australian book published for a
+decade. Its humour, its sentiment, its genuine humanity, are
+expressed with feeling and an assured poetic craftsmanship.
+C. J. Dennis is not only an Australian poet: he is a poet.”
+Sydney Morning Herald : ‘ ‘ Bill is a wholly delightful
+person, and from what he tells us of Doreen, she must be
+equally delightful . . . Mr. Hal Gye’s illustrations deserve
+mention; their idea is distinctly original, and the scheme is
+carried out cleverly. ’’
+Daily Telegraph (Sydney): “Captivatingly fresh and
+original . . . The verse is very human and clean, and its
+appeal is universal, for it depicts the simple emotions that are
+not confined to the class that uses dialect . . . Sure to be
+popular, because it has the qualities of humour and lifelike-
+ness. Also the feeling in it rings true.”
+The Argus (Melbourne): “The genuine humour of these
+larrikin love poems is all the more effective because beneath
+the surface fun there is a suggestion of deeper feelings that
+ennoble men and unite them in the bonds of common fellow
+ship. ’ ’
+The Age (Melbourne): “ ‘The Sentimental Bloke’ is a
+striking conception and his portrayal masterly. ’ ’
+The Herald (Melbourne): “The Bloke is a character who
+is likely long to remain deservedly popular in this country’s
+literature. ‘The sonnet shining in the eyes’ has been fixed
+by Mr. Dennis in what is certainly a classic of its class, and
+he secures an effect of true poetry without straining a
+simile or defying the canons of Australia’s colloquial speech. ’ ’
+Queenslander; “A well-printed, cleverly-illustrated, and
+pleasant to handle little volume. The humour of the ‘ Sent!
+mental Bloke’ has an exquisite quality, its sentiment a tender-
+ness, and its philosophy a soundness which compel attention
+.. . genuine poetry ... a sensitive appreciation of the
+beautiful . . . wholesome philosophy . . admirable verses. ’ ’
+
+
+THE THREE KINGS, AND OTHER VERSES.
+By Will Lawson. With portrait. Cloth gilt, gilt top,
+3s. 6d.; full morocco, gilt edges, 6s. ( postage 2d.)
+Will Lawson is a New' Zealander who, through the Bulletin,
+has made an Australasian reputation. His verses are bright
+and lively, in the Kipling manner, and full of human interest.
+A BOOK OF AUSTRALIAN VERSE
+FOR BOYS AND GIRLS .
+Edited, with Introduction and Notes, by Bertram
+Stevens. With numerous portraits. Cloth gilt,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+{postage 2d.)
+This book is thoroughly representative of the best Aus-
+tralian verse, and, although intended mainly as a selection
+suitable for young folks, it contains many pieces favoured by
+older readers. A number of the poems are not obtainable in
+any other book.
+THE GOLDEN TREASURY
+OF AUSTRALIAN VERSE.
+Edited, with Introduction and Notes, by Bertram
+Stevens. New (fourth) edition, revised and en-
+larged. Cloth gilt, gilt top, 3s. 6d.; full morocco,
+gilt edges, 6s. {postage 2d.)
+Athenaeum: “May be regarded as representative of the
+best short pieces written by Australians or inspired by life in
+Australia or New Zealand.”
+London: Macmillan & Cos., Limited.
+THE POETICAL WORKS OF
+BRUNTON STEPHENS.
+As finally revised by the author, re-arranged and
+printed from new type, with photogravure por-
+trait. Cloth gilt, gilt top, 3s. 6d.; full morocco,
+gilt edges, 6s. {postage 2d.)
+The Times; “This collection of the works of the Queensland
+poet, who has for a generation deservedly held a high place
+in Australian literature, well deserves study.”
+Daily News: "In turning over the pages of this volume,
+one is struck by his oreadth, his versatility, his compass, as
+evidenced in theme, sentiment, and style.”
+
+
+where the dead men lje
+AND OTHER POEMS.
+By Barcroft Henry Boake. Second edition, revised
+and enlarged, with memoir, portraits, and 82 illus-
+trations. Cloth gilt, gilt top. 3s. fid.; full morocco,
+gilt edges, fis. ( postage 2d.)
+.7. Brunton Stephens, in The Bulletin: “Boake’s work D
+often praised for its local colour; but it has something better
+than that. It has atmosphere— Australian atmosphere, that
+makes you feel the air of the place —breathe the breath of
+the life.”
+AT DA WN AND DUSK : Poems.
+By Victor J. Daley. Fourth edition. With photo-
+gravure portrait. Cloth gilt, gilt top, 3s. fid.:
+full morocco, gilt edges, fis. (postage 2d.)
+Bookman; “These verses are full of poetic fancy musically
+expressed.”
+Sydney Morning Herald: “The indefinable charm is here,
+and the spell, and the music. ... A distinct advance for
+Australian verse in ideality, in grace and polish, in the study
+of the rarer forms of verse, and in the true faculty of poetic
+feeling and expression.”
+WINE AND ROSES: A New Volume of Poems.
+By Victor J. Daley. With portrait. Cloth gilt, gilt
+top, 3s. fid.; full morocco, gilt edges, fis. (postage
+2d.)
+Daily Telegraph: “Most of his verse is tinged with sad
+ness—as in most Irish poetry —but there is a fine imaginative
+quality that lifts it to a far higher plane than that of the
+conventional melancholy rhymer. There are poems in this
+book that recall the magic of Rossetti .... Victor Daley
+has left his mark in the beginnings of an Australian literature."
+HOW HE DIED . AND OTHER POEMS.
+Bv John Farrell. Fourth edition. With memoir,
+appreciations, and photogravure portrait. Cloth
+gilt, gilt top, 3s. fid.; full morocco, gilt edges, fis.
+(postage 2d.)
+Melbourne Age: “Farrell’s contributions to the literature
+of this country were always distinguished by a fine, stirring
+optimism, a genuine sympathy, and an idealistic sentiment,
+which in the book under notice find their fullest expression.”
+
+
+THE MAN FROM SNOWY RIVER,
+AND OTHER VERSES.
+By A. B. Paterson. Fifty-eighth thousand. With
+photogravure portrait and vignette title. Cloth
+gilt, gilt top, 3s. 6d.; full morocco, gilt edges, fis
+(postage 2d.)
+Athenaeum: “Swinging, rattling ballads of ready humour,
+ready pathos, and crowding adventure . . . Stirring and en
+tertaining ballads about great rides, in which the lines gallop
+like the very hoofs of the horses.”
+London: Macmillan Cos., Limited.
+RIO GRANDE’S LAST RACE,
+AND OTHER VERSES.
+By A. B. Paterson. Seventeenth thousand. Cloth
+gilt, gilt top, 3s. 6d.; full morocco, gilt edges, Os
+(postage 2d.)
+Spectator: “There is no mistaking the vigour of Mr. Pater
+son’s verse; there is no difficulty in feeling the strong human
+interest which moves in it.”
+London : Macmillan Cos., Limited.
+THE SECRET KEY, AND OTHER VERSES.
+By George Essex Evans. Second edition, with por-
+trait. Cloth gilt, gilt top, 3s. fid.; full morocco,
+gilt edges, 6s. ( postage 2d.)
+Glasgow Herald: “There is .. . the breath of that
+apparently immortal spirit which has inspired . . . almost all
+that is best in English higher song.”
+The Bookman: “Mr. Evans has written many charming and
+musical poems . , . many pretty and haunting lines.”
+IN THE DAYS WHEN THE WORLD WAS WIDE,
+AND OTHER VERSES.
+By Henry Lawson. Twentieth thousand. With
+photogravure portrait. Cloth gilt, gilt top, 3s. fid.;
+full morocco, gilt edges, 6s, ( postage 2d.)
+The Academy: “These ballads (for such they mostly are)
+abound in spirit and manhood, in the colour and smell of Aus-
+tralian soil. They deserve the popularity which they have won
+in Australia, and which, we trust, this edition will now give
+them in England.”
+
+
+VERSES, POPULAR AND HUMOROUS.
+By Henry Lawson. Eighteenth thousand. Cloth
+gilt, gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+{postage 2d.)
+New York Journal: “Such pride as a man feels when
+he has true greatness as his guest, this newspaper feels
+in introducing to a million readers a man of ability hitherto
+unknown to them. Henry Lawson is his name.”
+WHEN I WAS KING, AND OTHER VERSES.
+By Henry Lawson. Tenth thousand. Cloth gilt,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s,
+{postage 2d.)
+The Spectator; “A good deal of humour, a great deal
+of spirit, and a robust philosophy are the main characteristics
+of these Australian poets. Because they write of a world
+they know, and of feelings they have themselves shared in,
+they are far nearer the heart of poetry than the most accom-
+plished devotees of a literary tradition.”
+ON THE TRACK AND OVER THE SLIPRAILS.
+By Henry Lawson. Twentieth thousand. Cloth gilt,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+{postage 2d.)
+Daily Chronicle: “Will well sustain the reputation its
+author has already won as the best writer of Australian short
+stories and sketches.”
+FAIR GIRLS AND GRAY HORSES,
+WITH OTHER VERSES.
+By Will H. Ogilvie. Revised edition, completing
+twentieth thousand. With portrait. Cloth gilt,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+{postage 2d.)
+Scotsman: “Its verses draw their natural inspiration from
+the camp, the cattle trail, and the bush; and their most charac-
+teristic and compelling rhythms from the clatter of horses’
+hoofs.”
+
+
+HEARTS OF GOLD, AND OTHER VERSES.
+By Will H. Ogilvie. Fourth thousand. Cloth gill,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+{postage 2d.)
+Daily Telegraph: “Will be welcomed by all who love the
+stirring music and strong masculine feeling of this poet’s
+verse.”
+WHILE THE BILLY BOILS.
+By Henry Lawson. Wth eight illustrations by F. P.
+•Mahony. Thirty-second thousand. Cloth gilt,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+(postage 2d:)
+The Academy; “A book of honest, direct, sympathetic,
+humorous writing about Australia from within is worth a
+library of travellers’ tales . . . The result is a real book —a
+book in a hundred. His language is terse, supple, and richly
+idiomatic. He can tell a yarn with the best.”
+CHILDREN OF THE BUSH.
+By Henry Lawson. Eleventh thousand. Cloth gilt,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+(postage 2d.)
+The Bulletin: “These stories are the real Australia,
+written by the foremost living Australian author . . . Lawson’s
+genius remains as vivid and human as when he first boiled
+his literary billy.”
+JOE WILSON AND HIS MATES.
+By Henry Lawson. Eleventh thousand. Cloth gilt,
+gilt top, 3s. 6d.; full morocco, gilt edges, 6s.
+{postage 2d.)
+The Athenaeum: “This is a long way the best
+work Mr. Lawson has yet given us. These stories are so good
+that (from the literary point of view of course) one hopes
+they are not autobiographical. As autobiography they would
+be good, as pure fiction they are more of an attainment.”
+London: Wm. Blackwood (ft Sons.
+
+
+LAURENCE HOPE’S
+LOVE LYRICS.
+Uniformly bound in fancy hoards with cloth hack.
+6s. ( postage 3d.) per volume.
+TEE GARDE'S! OF KAMA.
+Daily Chronicle: “No one has so truly interpreted the
+Indian mind —no one, transcribing Indian thought into our
+literature, has retained so high and serious a level, and quite
+apart from the rarity of themes and setting—the verses remain
+—true poems.”
+STARS OF TEE DESERT.
+Outlook: “It is not merely that these verses describe
+Oriental scenes and describe them with vividness, there is a
+feeling in the rhythm—a timbre of the words that seems akin
+to the sand and palm-trees and the changeless East.”
+IN DIAS LOVE.
+Spectator: “The poetry o< Laurence Hope must hold a
+unique place in modern letters. No woman has written lines
+so full of a strange primeval savagery —a haunting music—
+the living force of poetry.”
+London: William Heinemann.
+THE WITCH MAID, AND OTHER VERSES.
+By Dorothea Mackellar. Cloth gilt, gilt top, Bs. 6d.
+(postage 2d.)
+Sydney Morning Herald : “ She possesses to a remarkable
+degree the faculty of conjuring up before our eyes an extraordin-
+arily vivid picture in a single line or even a word or two. Miss
+Mackellar can grasp the essential spirit of a scene, and what is
+rarer still, can find words to make us, too, see it, where before we
+have been blind ”
+London : J. M. Dent Sf Go. Ltd.
+TO-MORROW: A Dramatic Sketch of the Character and
+Environment of Robert Greene.
+By J. Le Gay Brereton. Paper cover, Is. fid.
+(postage Id.)
+Sydney Morning Herald: “The first Australian play of
+literary worth.”
+SONGS OF A SUNLIT LAND.
+By Colonel J. A. Kenneth Mackay. Cloth gilt,
+3s. fid. ( postage 2d.)
+
+
+STORIES OF OLD SYDNEY.
+By Charles H. Bertie. With 53 pen and pencil
+drawings by Sydney Ure Smith. Cloth cover,
+printed in colours, 3s. 6d. ( postage Id.)
+Sydney Morning Herald: “A charming and interesting
+little book , . . they live and breathe, and he has contrived to
+make actual to us those remote and almost incredible days
+. . . Mr. Smith’s admirable illustrations are an equally im-
+portant feature of the book, which, in addition to its interest,
+presents a great antiquarian value.”
+TEE RISING OF TEE COURT , AND OTHER
+SKETCHES IN PROSE AND VERSE.,
+By Henry Lawson. With picture cover (Common-
+wealth Series ), Is. (postage Id.)
+Queensland Times ; “These stories show Lawson at his
+best, and Lawson at his best is not to be beaten by short story
+writers in current literature.”
+AN OUTBACK MARRIAGE: A Story of Australian Life.
+By A. B. Paterson, Ninth thousand, with picture
+cover {Commonwealth Series), Is. (postage Id.)
+Scotsman: “The chief virtue of the book lies in its fresh
+and vivid presentment of the wild life and the picturesque man-
+ners of the Australian bush, while in form and style it claims
+recognition as a work of considerable literary distinction.”
+TEE OLD BUSH SONGS.
+Collected and edited by A. B. Paterson. Thirteenth
+thousand, with picture cover {Commonwealth
+Series), Is. {postage Id.)
+Daily Telegraph: “Rude and rugged these old bush songs
+are, but they carry in their vigorous lines the very impress of
+their origin and of their genuineness . . . Mr. Paterson has
+done his work like an artist.”
+GODS AND WOOD THINGS.
+By L. H. Allen. Paper boards, Is. {postage Id.)
+Sydney Morning Herald; “Mr. Allen is one of the select
+band who are saturated with classic lore and who seek to
+translate the beings of pagan mythology to the Australian
+bush. ‘Gods and Wood Things’ contains both prose and verse
+—the latter rhapsodical, the former mystical.”
+
+
+BUSHLAND STORIES.
+By Amy Eleanor Mack. Second edition, with
+coloured illustrations and decorated cloth cover,
+3s. 6d. {postage 2d.)
+Academy; “It is not often that we have the pleasure to
+welcome from Australia a book of so many charming short
+stories as are contained in the volume before us.”
+Scotsman: “Charming and simple nursery tales, appetisingly
+touched with local colour of the Bush.”
+Birmingham Daily Post: “There is a daintiness and dis
+tinct charm in these fairy tales.”
+SCRIBBLING SUE, AND OTHER STORIES.
+By Amy Eleanor Mack. With coloured and other
+illustrations and decorated cloth cover, 3s. 6d.
+(postage 2d.)
+These stories are written in the same happy vein as “Bush-
+land Stories.” Miss Mack’s intense love of nature is reflected
+in all her books, and her readers, both young and old, are at
+once attracted by the natural ring of her work.
+GEM OF THE FLAT : A Story of Young Australians.
+By Constance Mackness. With coloured and other
+illustrations and decorated cloth cover, 3s. 6d.
+(postage 2d.)
+“Gem of the Flat” is a story of Australian bush children.
+The local colouring is distinctly good; the children are alive,
+and talk like real children; the incidents are natural and well
+described. The style is fresh, the dialogue well managed, and
+the story as a whole is interesting and pleasant, with a good
+tone about it.
+DOT AND THE KANGAROO.
+By Ethel C. Pedley. Illustrated by F. P. Mahony.
+Third edition, with decorated cloth cover, 2s. 6d.
+(postage 2d.)
+Sydney Morning Herald : “ ‘Dot and the Kangaroo’ is with-
+out doubt one of the most charming books that could be put
+into the hands of a child. It is admirably illustrated by Frank
+P. Mahony, who seems to have entered thoroughly into the
+animal world of Australia. The story is altogether Australian.
+... It is told so simply, and yet so artistically, that even
+the ‘grown-ups’ amongst us must enjoy it.”
+
+
+THE ANNOTATED CONSTITUTION OF
+THE AUSTRALIAN COMMONWEALTH.
+By Sir John Quick, LL.D.. and R. R. Garran, C.M.G.
+Royal Bvo.. cloth gilt, 21s.
+The Times: “A monument of industry.”
+THE STATE AND FEDERAL CONSTITUTIONS
+OF AUSTRALIA.
+By K. R. Cramp, M.A., Examiner. N.S.W. Depart-
+ment of Public Instruction. With portraits and
+illustrations. Second edition, revised. Cloth
+gilt, 3s. 6d. ( postage 2d.)
+N.S.W. Public Instruction Gazette: “Not only sound and
+scholarly, but is written by a teacher of long experience.
+.... Has the additional advantage of being absolutely up
+to date .... Altogether an admirable piece of work ....
+An interesting, very helpful, and very necessary handbook.”
+HISTORY OF AUSTRALASIA :
+From the Earliest Times to the Present Day.
+By Arthur W. Jose, author of “The Growth of the
+Empire.” Fifth edition, thoroughly revised, with
+many new maps and illustrations from rare
+originals in the Mitchell Library. Cloth gilt,
+3s. 6d. ( postage 2d.)
+The Bulletin; “It is the most complete handbook on the
+subject available; the tone is judicial and the workmanship
+thorough , . . The ne\\p chapter on Australian Literature is
+the best view yet presented.”
+HISTORY OF THE UNIVERSITY OF SYDNEY.
+By H. E. Barpf, M.A., Registrar. With numerous
+illustrations. Cloth gilt. 7s. 6d. (postage 2d.)
+Published some years ago in connection with the Jubilee
+Celebrations of the University, this volume contains the
+official record of its foundation and growth.
+THE UNIVERSITY OF SYDNEY:
+ITS HISTORY AND PROGRESS.
+By Robert A. Dallen. With 68 illustrations from
+photographs. Crown 4t0., 3s. 6d. (postage Id.)
+
+
+SOME EARLY RECORDS OF THE MAC ARTHURS
+OF CAMDEN, 1789-1834.
+Edited by Sibella Mac Arthur Onslow. With
+coloured plates and numerous facsimile reproduc-
+tions of original documents. Cloth gilt, 15s.
+(postage 6d.)
+Sydney Morning Herald: “No man ever entered on a
+better fight with his fellow citizens, with the Governors, with
+the British Government, with the scientists, with the judicial
+authorities, indeed with almost every authority that w-as there
+to be fought, than John Macarthur when he undertook single-
+handed the great fight which finally established the wool
+industry in Australia. ’ ’
+Uniform with the above.
+LIFE OF CAPTAIN MATTHEW FLINDERS, R.N.
+By Ernest Scott, Professor of History in the Uni-
+versity of Melbourne, author of “Terre Napoleon”
+etc. With numerous portraits, maps, manuscripts
+in facsimile, etc. Cloth gilt, 21s. ( postage 6d.)
+The Bulletin: “Will take its place as one of the great bio-
+graphies in our language. The inexplicable fact that hitherto
+no full biography of the first man to circumnavigate Australia
+has appeared is also a fortunate fact. Flinders has waited a
+century for his biographer, and it was worth this silence of
+a hundred years to find Ernest Scott. . . , And to this
+fervor of research must be added Ernest Scott’s lucid literary
+style and his interest in the personal side of his subject.
+Equipment, style, sympathy, and his subject combine to make
+a brilliant achievement in biography. ... A word must
+in mere justice be added in praise of the publishers. The
+appearance of the book is worthy of its contents.’’
+LIFE OF LAPEROUSE.
+By Professor Ernest Scott. With Chart of Voyages
+in the Pacific, and 13 illustrations. Cloth, 3s. 6d.
+(postage Id.) For school edition see page 31.
+This story of Laperouse’s work as an explorer and his close
+association with Australia is a most important contribution
+to our history. The illustrations are from authentic sources
+and very interesting.
+
+
+A POPULAR GUIDE TO THE WILD FLOWERS
+OF NEW SOUTH WALES.
+By Florence Sulman. Yol. 1., with 51 full-page
+illustrations. Cloth, 3s. 6d. Vol. 11., with 72
+full-page illustrations. Cloth, 6s. ( postage 2d.
+each.)
+Sydney Morning Herald: “This book can be taken into the
+bush, and by its aid practically any flower identified without
+previous knowledge of botany. It is a book that has been
+badly needed.”
+SOME FAMILIAR AUSTRALIAN
+WILD FLOWERS.
+Photographed by Mrs. A. E. Sulman. Paper cover,
+2s. ( 'postage id.)
+AUSTRALIAN WILD FLOWERS: Second-Series.
+Photographed by Mrs. A. E. Sulman. Paper cover,
+2s. ( postage Id.)
+These are the best representation by photography of Australian
+wild flowers, and are particularly suitable for sending to friends
+abroad.
+THE PLANTS OF NEW SOUTH WALES :
+An Analytical Key to the Flowering Plants (except
+Grasses and Rushes) and Ferns of the State, with a
+list of native plants discovered since 1893.
+By W. A. Dixon, F.1.C., F.C.S. With Glossary and.
+49 diagrams. Cloth gilt, 3s, 6d. (postage 2d.)
+A BUSH CALENDAR.
+By Amy Eleanor Mack. Third edition, revised, with
+42 photographs of birds, flowers, bush scenes, etc.
+Cloth, 3s. 6d. (postage Id.)
+Literary World: “A pleasant little book . . . There is
+much to interest those who have no personal knowledge of the
+antipodes . . . and to those who know the country, the vivid
+descriptions will bring back many happy recollections.”
+BUSH DAYS.
+By Amt Eleanor Mack. With 39 photographs.
+Cloth (uniform with “A Bush Calendar”), 3s. Gd.
+(postage Id.)
+T. P.’s Weekly (London) : “A delightful book of descrip
+live studies in nature.”
+
+
+THE BUTTERFLIES OF AUSTRALIA:
+A Monograph of the Australian Rhopalocera.
+By G. A. Waterhouse, B.Sc., 8.E., E.E.S., and G.
+Lyell, E.E.S. With 4 coloured and 39 un-
+coloured full-page plates, and numerous figures
+in the text. Demy 4t0., cloth gilt, 425, ( postage
+6d.)
+Nature (London) says : “ The study of the butterflies of
+Australia is certain to be greatly advanced by the appearance of
+this admirable work, containing 43 excellent quarto plates, of which
+4 are coloured. In addition to this abundant and most necessary
+illustration in plates, the reader is provided with numbers of text-
+ligures as well as a valuable map-index of localities. ... A
+concluding section, with ‘ Notes on Collecting and Collections,’
+complete the work by rendering it a sufficient guide to the
+beginner. The keen Australian naturalist is now provided with a
+foundation upon which to build.”
+AN INTRODUCTION TO
+THE GEOLOGY OF NEW SOUTH WALES.
+By C. A. Sussmilch, E.G.S. Second edition,
+thoroughly revised and greatly enlarged, with
+folding coloured map and 100 other maps and
+illustrations. Cloth gilt, 7s. (id. ( postage 3d.)
+Australian Mining Standard: “Students are greatly in
+debted to Mr. sussmilch tor the able manner in which he has
+presented in compact form all that is known at the present
+time on the subject. . . . The illustrations throughout are
+excellent, but the coloured geological map which serves as a
+frontispiece is a model of what such a map should be, avoid-
+ing the opposite evils of overcrowding and meagreuess. Mr.
+Siissmilch’s book should be of value, not only to students in
+the colleges, but to those practical miners who are also
+students. ; ’
+THE BRING IDLES AND BRAG TICE OF
+BOILER CONSTRUCTION.
+By W. I). Cruickshahk, M. I. Mech. E., late Chief
+Engineering Surveyor, New South Wales Govern-
+ment. Second edition, revised and enlarged, with
+70 illustrations. Cloth gilt, 15s. ( postage 3d.)
+Journal of the Marine Engineers’ Association: “A
+practical treatise on the construction and management of steam
+boilers . . . will he found of great value to practical
+engineer*."
+
+
+CHRISTOPHER COCKLE’S
+AUSTRALIAN EXPERIENCES.
+By “Old Boomerang” ( J. R. Moulding). Revised
+edition, with 2 portraits. Cloth gilt, ss. (postage
+2d.)
+Originally published under the title “Australian Capers,”
+this volume has been out of print for many years, and copies
+which have come into the market secondhand have been pur-
+chased at enhanced prices. The author has at last consented
+to its republication and has thoroughly revised it. Asa
+picture of Australian life thirty or forty years ago the book
+is worthy of a permanent place in our literature, and it con-
+tains plenty of fun and humour for both old and young.
+THE MOTHER STATE: The Physical Features , Natural
+Resources, Geology, Scenery, Climate, Industries and
+Commerce of New South Wutes.
+By J. M. Taylor, M.A., LL.B. With 85 illustrations
+and maps. Cloth gilt, 3s. 6d. (postage 2d.)
+This is the only up-to-date general description of ISlew South
+Wales available for sending to friends abroad. All the in-
+formation is drawn from the latest authentic sources and the
+illustrations and maps add largely to the book’s interest and
+value.
+THE HOME DOCTORING OF ANIMALS.
+By Harold Leeney, M.R.C.Y.S. Fourth edition,
+thoroughly revised and greatly enlarged, with
+nearly 100 illustrations. Bvo., cloth, 12s. 6d.
+(postage B d.)
+London : Macdonald & Martin.
+SIMPLE TESTS FOR MINERALS: Every Man his own
+Analyst.
+By Joseph Campbell, M.A., F.G.S., M.I.M.E. Fourth
+edition, revised and enlarged (completing ihe
+twelfth thousand). With illustrations. Cloth,
+round corners, 3s. 6d. (postage Id.)
+Ballarat Stab: “This is an excellent little work, and should
+be in the hands of every scientific and practical miner.”
+Bendigo Evening Mail: “Should be in every prospector’s
+kit. It enables any intelligent man to ascertain for himself
+whether any mineral he may discover has a commercial value.”
+
+
+THE COMMONWEALTH SERIES.
+Picture covers, Is. per volume (postage Id.)
+BY HENRY LAWSON.
+Prose.
+While the Billy Boils (First and Second Series)
+On the Track
+Over the Slh’RAlls
+Joe Wilson
+Joe Wilson’s Mates
+Send Round the Hat
+The Romance of the Swag
+Verse.
+Popular Verses
+Humorous Verses
+When I Was King
+The Elder Son
+The Rising of the Court (Contains Prose also)
+BY A. B. PATERSON.
+An Outback Marriage (full-length novel)
+The Old Bush Songs (edited only by Mr. Paterson)
+BY WILL OGILVIE.
+Fair Girls
+Gray Horses
+A reprint in two parts of the favourite
+volume, “Fair Girls and Gray Horses.”
+BY BRUNTON STEPHENS.
+My Chinee Cook, and Other Humorous Verses
+BY CHARLES WHITE.
+History of Australian Bushrangino (in 4 parts, each com-
+plete in itself, and well illustrated) —The Early Days;
+1850 to 1862; 1863 to 1869; 1869 to 1878
+BY GEORGE E. BOXALL.
+History of the Australian Bushrangers—
+Part I.: To tlie Time of Frank Gardiner
+Part 11.: To the End of the Kelly Gang
+HISTORY OF THE AUSTRALIAN
+AGRICULTURAL COMPANY, 1824-1875.
+By Jesse Gregson, Ex-Superintendent. With por
+traits, cloth gilt, 6s. (postage 2d.)
+
+
+MAP REAPING AND
+FIELD SKETCHING SIMPLIFIED.
+By Captain T. P. Conway, A. and I. Staff, Common-
+wealth Military Forces. Based on the Official
+Manual, thoroughly revised and greatly extended,
+with special reference to Australian conditions,
+illustrated throughout with numerous folded,
+coloured, and other Diagrams and Sketches.
+Waterproof cloth cover, 3s. fid. (postage Id.)
+HOW TO INSTRUCT IN BAYONET FIGHTING.
+Including full Detail, Hints and Lessons on all Methods
+used in Teaching Bayonet Fighting, with Direc-
+tions and Rules for Bayonet Fighting Combats,
+and 55 full-page photographs illustrating all
+positions. By Staff Sergeant-Major D. Fallon.
+Stiff paper cover, Is. fid. (postage Id.)
+TRUMPET AND BUGLE SOUNDS, AND SOLDIERS’
+SONG BOOK FOR THE AUSTRALIAN ARMY.
+Including instructions for Trumpeters and Buglers,
+Field and Routine Calls for Mounted Units and
+Infantry. With words for all Calls. By Capt.
+W. G. Bentley, Limp cloth, Is. fid. (post. Id.)
+MUSKETRY SMALL BOOK.
+Includes Hints on Shooting, Judging Distance, Group-
+ing Practices, ete., with a large number of dia-
+grams for keeping a Record of Results in Instruc-
+tional and Standard Test Practices in Tables A
+and B. Second edition. By Lieut. R. Stupart.
+Manila cover, 3d. (postage Id.)
+AUSTRALIAN LANDSCAPE TARGETS.
+Approved and adopted by the School of Musketry,
+Randwiek. Five specially selected Australian
+Landscapes in panels, each measuring GO inches
+by 36 inches, reproduced in natural colours. Price,
+unmounted, 3s. fid. each (postage Is. Bd.) ;
+mounted on calico, 7s. each (postage 2s. Bd.)
+
+
+hints to young officers. y
+In -the Australian Military Forces on the Art of Com-
+mand, Mess Etiquette, Dress, Military Courtesy,
+Discipline, Company Command, Official Corres-
+pondence, etc. By Lieut. R. Stupart. ihird
+edition, revised and enlarged. Stiff paper cover,
+Is. 6d. (postage Id.)
+OUTPOSTS AND ADVANCED,
+FLANK AND REAR GUARDS.
+Includes the Distribution of an Advanced Guard,
+Telling off of an Advanced Guard, Duties of Com-
+mander of the Vanguard, Disposition of a Small
+Advanced Guard, Disposition of a Flank Guard.
+Distribution of Outposts, Duties of Outpost Com-
+pany Commander, Duties of Piquet Commander,
+Telling off and Posting a Piquet, etc. By Lieut.
+R. Stupart. Second edition, revised and greatly
+enlarged, with 3 sketches. Stiff paper cover,
+Is. 3d. (postage Id.)
+RIFLE EXERCISES SIMPLIFIED.
+Including Ride Exercises, Description of S.M.L.E.
+Rifle, Care of Arms, Stripping and Assembling,
+Sword Exercises, Bayonet Fighting, Bayonet
+Fighting for Competitions, etc. With numerous
+illustrations. Compiled by Lieut. R. Stupart.
+Stiff paper cover, Is. (postage Id.)
+INFANTRY POCKET BOOK.
+Compiled by Lieut. R. Stupart. A concise guide to
+Regulations, Field Training, Musketry, Camp
+Duties, etc. With Prefatory Note by Colonel W
+Holmes, D. 5.0., Y.D. Fourth edition, revised
+and enlarged. Waterproof cloth, Is. Gd. (post-
+age Id.)
+GUARD AND SENTRY DUTIES.
+A Complete Guide to the Guard Duties of field
+Officer, Captain and Subaltern of the Day, the
+Commander, Sergeant, Corporal, and Private
+Soldier of the Guard, Arrest and Military Cus-
+tody, etc., with Copy of Guard Report, Orders fo'
+a Sentry on Post, Guard-room or Tent, etc. By
+Lieut. R. Stupart. Fourth edition, revised and
+enlarged. Manila cover, 9d. (postage Id.)
+
+
+AIMING, FIRING, AND
+FIRE DISCIPLINE TRAINING.
+As taught at the School of Musketry, Randwick. Bv
+Sergeant-Major Instructor F. E. Hart. With
+52 full-page photographs and 22 diagrams illus-
+trating the subjects as taught at the Randwick
+School of Musketry in accordance with “Musketry
+Regulations.” Stiff paper cover, Is. 6d. (post-
+age Id.)
+RANDY NOTES ON SEQUENCE AND
+DETAIL OF MUSKETRY INSTRUCTION.
+As taught at the School of Musketry Randwick.
+Second edition, revised. Manila cover, (id. {post-
+age Id.)
+THE NEW (1914) COMPANY DRILL SIMPLIFIED.
+With Squad, Section and Platoon Drill, Ulus, with
+about 50 diagrams, showing position of Company,
+Platoon and Section Commanders, and all move-
+ments in Squad Drill, Platoon Drill and Company
+Drill, as laid down in Infantry Training, 1914,
+with the Detail for all Movements. Fifth edition,
+revised. By Lieut. R. Stupart. Stiff paper
+cover, Is. 6d. {postage Id.)
+SIGNALLING HANDBOOK FOR
+AUSTRALIAN MILITARY FORCES.
+Including Morse System, Semaphore System, Use and
+Care of Apparatus, Heliograph, Telescope, Flags,
+Message Forms, Station Routine, Training and
+Classification, completely illustrated. Compiled by
+a Signalling Officer. Stiff paper cover, Is.
+{postage Id.)
+HINTS TO NON-COMS.
+Including Hints to Non-Coms., The Word of Com-
+mand, The Art of Instructing, Military Courtesy,
+Dress, Discipline, The Duties of Sergeant-Major,
+Bandmaster, Quartermaster-Sergeant, Sergeant
+Cook, Pioneer Sergeant, Signalling Sergeant.
+Band Sergeant, Transport Sergeant, Armourer
+Sergeant, Orderly-Room Sergeant, Colour-
+Sergeant, Sergeant, etc. By Lieut. R. Stupart.
+Second edition, revised. Stiff paper cover, Is.
+{postage Id.)
+
+
+THE COMPLETE MUSKETRY INSTRUCTOR.
+Including Description of S.M.L.E. Rifle, Care and
+Cleaning of Arms, Military Vocabulary, Expla-
+nation of Musketry Terms, Theory of Musketry,
+Aiming Instruction, Firing Instruction, Miniature
+Range Training, Landscape Target Training, etc.
+By Lieut. R. Stupart. With numerous illustra-
+tions. Stiff paper cover, Is. 6d. (postage Id.)
+TRANSPORT NOTES FOR THE USE OF ARMY
+SERVICE CORPS, ARMY MEDICAL CORPS, AND
+REGIMENTAL TRANSPORT.
+Includes Organization of Transport in the Field,
+Horse and Stable Management, Harnessing up,
+Transport by Rail, Transport by Sea, Loading
+Wagons, Shoeing and the Feet, Drivers’ Orders.
+Treatment of Sick Animals, etc. By Capt. S. G.
+Gibbs, Assistant Director of Supplies and Trans-
+port. Stiff paper cover, Is. (postage Id.)
+LIGHT HORSE POCKET ROOK.
+Compiled by Lieut. D. C. Howell Price, A. and I.
+Staff. A Concise Guide to Regulations, Field
+Training. Camp Duties, Equitation, etc. With
+Nominal and other Rolls. Second edition. Pocket
+size, waterproof cloth, Is. fid. (postage Id.)
+HINTS ON HEALTH FOR SOLDIERS.
+In the Field, in Camp and Bivouac. Compiled from
+Army Medical Sources for Hot, Cold and Tem-
+perate Climates. Manila cover, fid. (postage Id.)
+ROLL ROOK.
+For Platoon, Section and Squad Commanders. In-
+cluding Duty Roster, Nominal and Attendance
+Rolls. Pocket size. Limp cloth, 9d. (postage Id.)
+CRENADE WAREA RE ;
+Notes on the Organization and Training of Grenadiers.
+By Lieut. G. Dyson. Manila cover, 9d. (post-
+age Id.)
+
+
+FIELD MESSAGE BOOK.
+For writing Orders and "Reports of Reconnaissance.
+Outpost Duties, etc. With Concise Directions for
+Writing Messages, etc. 130 pages, 1-ineh ruled
+paper, with duplicating paper for copying
+messages. Pocket size, waterproof cover and
+elastic band. 2s. fid. ( postage Id.)
+SEMAPHORE ALPHABET MADE EAST.
+An easy method of Learning How to Semaphore in a
+few hours by means of a pack of 30 cards, show-
+ing Sender’s Position “Front View.” 9d. (post-
+age Id.)
+This is the standard system of Signalling and is of universal
+application.
+SCOUTING: PROTECTIVE OR PRACTICAL
+RECONNAISSANCE.
+Specially adapted to the Training of Australian
+Troops. Py Major F. A. Dove. Second edition,
+with 21 diagrams. Manila cover, fid. (post-
+age Id.)
+THE CADET HANDBOOK.
+Compiled by Lieut. R. Stupart. A Concise Guide to
+Appointment and Promotion for Officers and
+N.-C.O’s. Including Syllabus of Exams., Sylla-
+bus of Training. Duties of Non-Coms.. Guards
+and Sentries. With Attendance Roll for Section
+Commanders. Second edition, revised and en -
+larged. Pocket size, limp cloth, fid. (postage Id.)
+THE JUNIOR CADET MANUAL.
+Including the authorized Squad Drill, Physical
+Exercises, Miniature Rifle Shooting. First Aid,
+Organized Games. Swimming and Life Saving
+Second edition, thoroughly revised. Cloth cover,
+3s. fid. (postage 2d.)
+RIFLE EXERCISES AND MUSKETRY
+INSTRUCTION FOR CADETS.
+Compiled by Lieut. R. Stupart. Third edition,
+greatly enlarged. Manila cover, fid. ( postage Id.)
+
+
+CALENDAR OF THE UNIVERSITY OF SYDNEY.
+Demy Bvo., linen, 2s. 6d.; paper cover, Is. (postage
+3d.) [Published annually in June.
+MANUAL OF PUBLIC EXAMINATIONS HELD BY
+THE UNIVERSITY OF SYDNEY.
+Demy Bvo., paper cover, Is. (postage Id.)
+[Published annually in September, and dated the
+year following that in which it is issued.
+IN MEMORY OF ALBERT BYTHESEA WEIGALL,
+Late Headmaster of Sydney Grammar School.
+By Professor M. W. MacCallum, With portraits
+and illustrations, cloth gilt, 2s. 6d. (postage Id.)
+THE JUSTICES’ MANUAL AND POLICE GUIDE.
+A Synopsis of offences punishable by indictment and
+on summary conviction, definitions of crimes, meanings
+of legal phrases, hints on evidence, procedure, police
+duties, etc., in New South Wales.
+Compiled by Daniel Stephen, Sub-Inspector of
+Police. Third edition, thoroughly revised, with a
+chapter on Finger Prints by Inspector Childs,
+and Supplement bringing the book up to date.
+Demy Bvo., cloth, 7s. 6d. (postage 3d.)
+HISTORY OF THE AUSTRALIAN BUSHRANGERS.
+By George E. Boxall. New edition, cloth gilt, 3s. (id.
+(postage 3d.) [Shortly.
+AUSTRALIAN HOUSE DRAINAGE PRACTICE.
+By H. G. Wills, A.1.5.E., A.R. San. 1., Lecturer at
+Sydney Technical College. With 109 illustrations.
+Cloth gilt, 7s. 6d. (postage 3d.)
+This book is indispensable to builders, master-drainers,
+journeymen and students alike —the only book on House Drain-
+age suitable for Australasian conditions. Everything is ex-
+plained in a thoroughly practical manner, and the illustrations
+and diagrams are exceptionally valuable.
+
+
+AN INTRODUCTION TO THE INFINITESIMAL
+CALCULUS.
+By H. S. Carslaw, M.A., D.Sc., F.R.S.E., Professor
+of Mathematics in the University of Sydney.
+Second edition, revised. Deray Bvo., cloth, ss.
+(postage 2d.)
+London: Longmans , Green & Cos.
+EASY NUMERICAL TRIGONOMETRY OF THE
+RIGHT-ANGLED TRIANGLE.
+By Professor H. S. Carslaw, University of Sydney.
+With numerous diagrams. Limp cloth, 2s. (post-
+age Id.)
+DAIRYING IN AUSTRALASIA : Farm and Factory.
+By M. A. O’Callaghan, Chief of Dairy Branch,
+Department of Agriculture. Contains over 700
+pages and more than 200 plates. Royal Bvo.,
+cloth, 10s. ( postage 5d.)
+The Dairy (London) : “It gives in clear and unmistakeable
+language the whole of the dairy manipulation from beginning
+to end . . . His book is of world-wide application and use-
+fulness.”
+MILK AND BUTTER TABLES:
+With Notes on Milk and Cream Testing.
+By M. A. O’Callaghan, author of “Dairying in
+Australasia.” Demy Bvo., Is. ( postage Id.)
+HERD TESTING RECORD BOOK.
+Designed by M. A. O’Callaghan for Herd Testing
+Associations and Stud Cattle Breeders. 200
+leaves, foolscap size, strongly hound, ss. (postage
+Is.)
+PRACTICAL 810-CHEMISTRY.
+By H. L. Kesteven, D.Sc., Lecturer at Sydney Tech-
+nical College. Paper cover, 2s. 6d. ( postage Id.)
+GEOGRAPHY OF NEW SOUTH WALES.
+By J. M. Taylor, M.A., LL.B. Fourth edition,
+revised and enlarged, with 13 folding maps and
+67 illustrations. Cloth gilt, 3s. fid. (postage 2d.)
+
+
+PRACTICAL PHYSICS.
+By J. A. Pollock, Professor, and 0. U. Von wilder,
+Assistant Professor of Physics in the University
+of Sydney. Part I. With 30 diagrams. Paper
+cover, 3s. 9d. ( postage 2d.)
+MATHEMATICAL TABLES.
+Edited, with Introduction, by J. D. St. Clair
+Maclardy, M.A., Chief Examiner, Department of
+Public Instruction, New South Wales. Cloth gilt,
+3s. fid. {postage 3d.)
+Contains the following Tables; —Seven Figure Logarithms
+(1 —100,000) : Logarithmic Sines, Tangents and Secants;
+Natural Sines, Cosines, Versed Sines, Chords, etc.; Natural
+Tangents; Natural Secants, etc.
+Not for sale outside Australia and New Zealand.
+ABRIDGED MATHEMATICAL TABLES.
+By S. 11. Barraclough, 8.E., M.M.E., Assoc. M. Inst.
+C.E. Cloth, Is. {postage Id.)
+Logarithms, &c., published separately, paper cover, fid.
+{postage Id.)
+AN ELEMENTARY
+LATIN COURSE AND GRAMMAR.
+By R. P. Franklin, M.A. (Camb.), Headmaster,
+Church of England Grammar School, Melbourne,
+Recommended for N.S.W. Secondary School
+Syllabus. Cloth, 2s. fid. ( postage Id.)
+ARITHMETIC FOR SECONDARY SCHOOLS.
+By James Rickard. Prescribed for use in N.S.W.
+Secondary Schools. Cloth gilt, 3s. fid. {post. 2d.)
+THE AUSTRALIAN LETTERING BOOK.
+Containing the Alphabets most useful in Mapping,
+Exercise Headings. &e., with practical applica-
+tions, Easy Scrolls, Flourishes. Borders. Corners,
+Rulings. &c. Limp cloth, fid. ( postage Id.)
+
+
+COOKERY BOOK OF GOOD AND TRIED
+RECEIPTS.
+Compiled for the Presbyterian Women’s Missionary
+Association.
+Fourteenth edition, enlarged, completing 200,000
+copies. Cloth boards, Is. ( postage Id.)
+Extract from Preface : “ The aim of this hook has always
+been, not only to provide wholesome and economical recipes for
+capable housewives, but to help those who have not had the
+benefit of maternal guidance and home training. It is significant
+that many discerning women have made a habit of giving a copy
+of the ‘ Presbyterian Cookery Book ’ to every new bride of their
+acquaintance.”
+COMMON SENSE HOUSEHOLD COOKERY BOOK.
+Compiled by the Cookery Teachers’ Association of
+N.S.W. Cloth boards, Is. ( postage Id.) School
+edition, prescribed by N.S.W. Department of
+Public Instruction for use in Primary Schools,
+limp cloth, Od. ( postage Id.)
+Nearly 20,000 copies already sold. The virtue of this book
+is that it sets out each ingredient and every step in method
+separately and distinctly, so that even the veriest novice has no
+difficulty in following the directions.
+COMMON SENSE HINTS ON
+PLAIN COOKERY.
+A companion to the “Commonsense Cookery Book.”
+Compiled by the N.S.W. Cookery Teachers’
+Association. Limp cloth, Od. (postage Id.)
+A JUNIOR COURSE OF FIRST AID :
+By George Lane Mullins, M.D.. Lt.-Col. A.A.M.C.,
+Lecturer and Examiner to St. John Ambulance
+Association. With 30 illustrations, 6d. {post. Id.)
+FIRST AID IN NURSING :
+For the Bush and Country, and for rise in Schools.
+By Mrs. W. M. Thomas (Sister Dickson). Illustrated.
+Limp cloth, Is. {postage Id.)
+
+
+CHURCH SERVICES, FOR USE BY LAYMEN.
+Prepared on the Authority of the Presbyterian Church
+c r Australia (State of New South Wales). Cloth
+gilt, 2s. 6d. (postage Id.)
+BRUSHWORK FROM NATURE, WITH DESIGN.
+By J, E. Branch, Superintendent of Drawing, Depart-
+ment of Public Instruction. Prescribed by the
+Department of Public Instruction, N.S.W., for
+Teachers’ Examinations. With 19 coloured and 5
+other plates. Demy 4t0., decorated cloth, 7s. 6d,
+(postage 3d.)
+THE CUTTER’S GUIDE.
+A Manual of Dresscutting and Ladies’ Tailoring. By
+M. E. Roberts, Lecturer at Sydney Technical
+College. Fourth edition, revised, with 139 dia-
+grams. Cloth gilt, 7s. 6d. (postage 2d.)
+Tailors’ Art Journal: “To all those inquirers from whom
+we have had continued correspondence asking for information
+as to the ways and means of perfecting their knowledge m the
+rudiments of ladies’ dressmaking and tailoring, we can safely
+say that no book is better suited for their purpose than this.
+GARMENT CUTTING FOR GIRLS.
+A Course of Scientific Garment Cutting for Schools.
+By M. E. Roberts. Prescribed for use in Girls’
+High Schools. With 50 diagrams. Paper boards,
+2s. 6d. (postage Id.)
+DRESS-CUTTING MEASURE BOOK.
+For Students and Pupils using “The Cutter’s Guide,”
+and “Garment Cutting for Girls.” 6d. (postage
+Id.)
+NEW TESTAMENT LESSONS.
+By Rev. John Burgess, D.D. Part I.—The Life of
+Christ. Paper cover, Is. (postage Id.)
+
+
+ENGLISH GRAMMAR, COMPOSITION, AND
+PRECIS WRITING.
+By James Conway. New edition, revised and enlarged.
+Cloth gilt, 3s. fid. ( postage 2d.)
+A SMALLER ENGLISH GRAMMAR, COMPOSITION,
+\ND PRECIS WRITING.
+By James Conway. New edition, revised and en-
+larged. Cloth. Is. fid. (postage Id.)
+PRIMARY SCHOOL ENGLISH GRAMMAR.
+For Australian Schools. Cloth, fid. {postage Id.)
+FORMAL GRAMMAR, WORD-BUILDING
+and spelling.
+For the Qualifying Certificate fN.S.W.). By H. N.
+Barlex, M.A. 120 pages, limp cloth, Is.
+ENGLISH COMPOSITION,
+LETTER-WRITING AND POETRY.
+For the Qualifying Certificate (N.S.W.) By H. N.
+Barlex, M.A. 164 pages, limp cloth. Is.
+HISTORY AND CIVICS FOR QUALIFYING
+CERTIFICATE, SCHOLARSHIP AND BURSARY
+CANDIDATES.
+By J. A. Broome. Third edition, limr cloth. Is.
+(postage Id.)
+QUALIFYING CERTIFICATE MATHEMATICS.
+By S. W. Cantrell, B.A. Limp cloth. 9d. {postage
+3d.) Answers, published separately, fid. {postage
+Id.)
+QUESTIONS SET AT THE QUALIFYING
+CERTIFICATE EXAMINATIONS, 1911-1915.
+With Answers to Arithmetic Papers by A. J. McCoy
+Limp cloth, 9d. {postage Id.)
+
+
+GEOGRAPHY OF AUSTRALIA AND
+NEW ZEALAND.
+Revised edition, with numerous maps and illustrations,
+9d. (postage Id.)
+GEOGRAPHY OF EUROPE, ASIA, AFRICA
+AND AMERICA.
+Revised edition, witli numerous maps and illustrations.
+9d. {postage Id.)
+COMMONWEALTH MANUAL TRAINING
+SERIES.
+Concrete Guide to Paper-Folding for Design.
+Is. (id. {postage Id. )
+Pupils* Paper-Folding Books for Classes 1. and 11.
+Class 111., and Class IV. Id. each.
+Teachers Manual of Cardboard Modelling for
+Classes 11. and 111. (Lower). Is. {postage 2d.)
+Pupils' Cardboard Modelling and Drawing Book
+3d.
+AUSTRALIAN SCHOOL SERIES.
+Grammar and Derivation Book, 64 pages. 2d.
+Table Book and Mental Arithmetic. New edition,
+greatly enlarged. 34 pages. Id.
+History of Australia and New Zealand. 80 pages. 4d.
+Illustrated.
+Geography. Part I. Australasia and Polynesia, 64 pages.
+2d. ‘
+Geography. Part 11. Europe, Asia, America, and
+Africa, 66 pages. 2d.
+Arithmetic and Practical Geometry—Exercises for
+Class 11., 50 pages. 3d.
+Arithmetic—Exercises for Class 111., 50 pages. 3d.
+Practical Geometry. Classes 11. and 111. With dia-
+grams. 2d.
+Classes IV. and V. With diagrams. 4d.
+( lasses 11., 111., IV. and V. (combined). 6d.
+Practical and Theoretical Geometry. Books I. and 11.,
+6d. each.
+1916 Syllabus Speller, 32 pages. 2d.
+
+
+THE CHILDREN’S TREASURY
+OF AUSTRALIAN VERSE.
+Edited by Bertram Stevens and George Mackaness,
+M.A. With notes. Limp cloth, Is. 3d. {post. Id.)
+This volume contains all the best verse written in Aus-
+tralia and New Zealand, suitable for junior classes. It has
+been adopted by the N.S.W. Department of Public Instruction
+for supplementary reading in primary schools.
+SELECTIONS FROM THE
+AUSTRALIAN POETS.
+Edited by Bertram Stevens and George Mackanes j,
+M.A. With notes. Limp cloth, Is. 6d. {post. It.)
+The contents have been selected from the published work of
+Gordon, Kendall, Paterson, Lawson, Ogilvie, Daley, Essex
+Evans, Brunton Stephens, Mrs. Eoott, Dorothea Mackellar, and
+many other well-known writers. In addition, the book con-
+tains a number of fine poems not obtainable in any other
+volume, and it is easily the best, if not the only, collection of
+Australian verse entirely suitable for young readers. It is
+prescribed for use in the High and Secondary Schools of New
+South Wales.
+TEENS: A Story of Australian Schoolgirls.
+By Louise Mack. Illustrated by Frank P. Mahony.
+Limp cloth, Is. 6d. {postage 2d.)
+GIRLS TOGETHER: A Story of Australian Schoolgirls.
+By Louise Mack. Illustrated by George W. Lambert.
+Limp cloth, Is. 3d. {postage 2d.)
+DOT AND THE KANGAROO.
+By Ethel C. Pedley. Illustrated by P. P. Mahony.
+Limp cloth, Is. 3d. {postage Id.)
+THE TOM TITS’ NEST, AND OTHER FAIRY
+TALES.
+By Amy Eleanor Mack. Paper cover, 4d. {post. Id.)
+
+
+LIFE OF LAP E ROUSE.
+By Professor Ernest Scott. With illustrations
+Limp cloth, Is. 3d. (postage Id.)
+THE STORY OF W. C. WENTWORTH:
+AUSTRALIA’S FIRST PATRIOT.
+By Lewis Deer and John Barr. With portrait and
+illustrations. Limp cloth, Is. (postage Id.)
+THE AUSTRALIAN COPY BOOK.
+In 10 carefully-graded numbers, and a book of Plain
+and Ornamental Lettering, Mapping, &«. (No.
+II). Price, 2d. each. Numerals are given in each
+number. A.C.B. Blotter (fits all sizes), Id.
+CHAMBERS’S GOVERNMENT HAND COPY BOOK.
+In 12 carefully-graded numbers and a book for Pupil
+Teachers (No. 13). 2d. each.
+The letters are continuously joined to each other, so that the
+pupil need not lift the pen from the beginning to the end
+of each word. The spaces between the letters are wide, eacli
+letter thus standing out boldly and distinctly by itself. The
+slope is gentle, but sufficient to prevent the pupil from ac-
+quiring a back hand. The curves are well rounded, checking
+the tendency to too great angularity.
+ANGUS AND ROBERTSON’S PENCIL
+COPY BOOK.
+In nine numbers. Id. each. No. 1 initiatory lines,
+curves, letters, figures; 2 and 3, short letters, easy
+combinations, figures; 4, long letters, short words,
+figures; 5, long letters, words, figures; 6,7, and 8,
+capitals, words, figures; 9, short sentences, figures.
+THE REFORM WRITING BOOKS.
+With directions for teaching writing on the Reform
+system. Nos. 1,2, and 3, Id. each; Nos. 3a, 4 and
+5,2 and. each. Pamphlet on The Teaching of
+Writing, Is.
+
+
+
+

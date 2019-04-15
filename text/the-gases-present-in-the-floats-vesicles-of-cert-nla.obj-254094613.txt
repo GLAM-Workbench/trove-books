@@ -1,0 +1,230 @@
+
+
+the Proceedings oj the Linnean Society of New South Wales,
+1911, Vol. xxxvi., Part f October 25th.~\
+'HE GASES PRESENT IN THE FLOATS (VESICLES)
+OF CERTAIN MARINE ALGiE.
+By A. H. S. Lucas, M.A., B.So.
+[lssued 16th May, 1912.]
+
+
+f From the Proceedings of the Linnean Society of New South Wales,
+1911 , Vol. xxxvi., Part If, October 26h.~\
+THE GASES PRESENT IN THE FLOATS (VESICLES)
+OF CERTAIN MARINE ALGM.
+A. H. S. Lucas, M.A., B.Sc.
+
+
+Amongst our Australian Marine Algae, vesicles filled with gas.
+are found only in a few genera of the Brown Seaweeds, Fucoidese.
+These are Sargassum, Garpophyllum, Turbinaria, Cystophora,
+Cystoseira (more typically a Northern genus), Scaberia, Phyllo-
+spora amongst the Sargassaceae; Hormosira of the Fucaceae;
+Macrocystis, and possibly Adenocystis, of the Laminariacese.
+Several receive their names from the habit.
+The function of the vesicles is evidently to support the fronds
+in a more or less upright position in the water. In young plants,
+and, in sheltered situations in shallow water, in even the mature
+fruit-bearing individuals, there are no vesicles. This often causes
+difficulty in the identification of a form which normally bears
+characteristic vesicles.
+I have not seen anywhere any account of analyses of the gases
+occurring in the floats of seaweeds, and have accordingly devoted
+some little time to this inquiry as to the nature of the gaseous
+content. Naturally the question of the origin of the gases is
+most prominent in one’s mind. There seem to be three possible
+sources : (1) atmospheric air, (2) the gases dissolved in sea-water,
+(3) gases produced in the metabolism of the plants themselves.
+The main object of my experiments was to see if the results would
+decide which of the three is the actual source.
+I may say, at once, that I have never detected any gases
+beyond nitrogen and oxygen in the floats. It is hardly conceiv-
+able that any process of metabolism should yield these two gases
+only, without any carbon compounds. The issue is then narrowed,
+and the gases must l>e derived from those of the atmosphere, or
+those dissolved in the sea-water.
+
+
+Nitrogen. ..
+67-12
+Oxygen
+26-03
+CO„
+6-85
+I tried other methods of analysis, but found that absorption by
+phosphorus over water was the cleanest, surest, and readiest.
+Practically in a couple of hours, fresh cut phosphorus removed all
+the oxygen which my simple apparatus could measure. By
+choosing the time of the day for the experiments, the total
+volume and the volume of the remaining nitrogen could be deter-
+mined under practically the same conditions of temperature and
+pressure. Ido not claim any extreme accuracy for the
+experiments.
+First, by way of testing the method, I made several analyses
+of atmospheric air, of air dissolved in tap-water, and of the gases
+dissolved in sea-water. The ratio of nitrogen to oxygen given by
+the apparatus for air, was the orthodox 79:21. To collect the
+gas from water, the water was boiled into a vessel containing
+water made previously gas-free by prolonged boiling. Thus
+250 c.c. of tap-water yielded 3 - 9 c.c. at ordinary temperature and
+pressure, of which 2-6 c.c. were nitrogen, and 1-3 c.c. oxygen. The
+ratio of the nitrogen to the oxygen was then 2:1, as it should be
+if all the gas were dissolved from atmospheric air, inasmuch as
+oxygen is twice as soluble as nitrogen. There was no carbon
+dioxide.
+The analyses of sea-water gas varied considerably, as might be
+expected. On referring to the analyses of South Pacific Surface
+Water collected by the “Challenger,” I found that of 16 analyses
+published in the Report, no two were alike. The carbon dioxide
+varied from 10T8 to 23T2 per cent, of the total gas. The ratio
+of nitrogen to oxygen varied from 62-43 : 26-59 to 54-51 : 28-64,
+evidently varying about a mean of 2 :1. It would seem that the
+presence of organisms alters considerably the natural ratio of the
+gases dissolved from the air. One of the analyses I obtained
+was—
+la 100 vols. of sea-water gas
+100 00
+
+
+The water was wave-water taken off the shor e at Bondi, on the
+ocean beach. 250 c.c. of sea-water yielded 3'65c.c. of gas, or at
+the rate of 14-6 c.c. per litre. The “Challenger” average was
+15 c.c.
+Another analysis of Coogee ocean-water gave
+In 100 vols. of sea-water gas
+Nitrogen 58'33
+Oxygen 3055
+CO a 1111
+This is almost identical with a “Challenger” analysis.
+The following is a Table of the analyses of the gases of the floats
+of some of our algse.
+Percentage
+of Nitrogen.
+Percentage
+of Oxygen.
+Species.
+Comments.
+Fresh-looking plants
+cast up on the shore.
+Just cast up.
+Phyllospora comosa (1)
+Hormosira hanksii (1)
+Growing.
+Same gathering kept a
+day longer.
+„ (2)
+Gystophora moniliftra
+Floating in the sea.
+The analyses
+disappointed me, for I,
+perhaps unreasonably,
+hoped for nearly un
+last, however, it will
+is less, usually much
+the cavity, and in a’
+dissolved in water.
+uniform results. With
+the exception of the
+be seen that in all the
+less, than if air had be
+he proportion of oxygen
+been taken directly into
+notably less than in air
+all the proportion is
+less than in air
+The proportion of oxygen being then less than in ordinary air,
+and much less than in water-dissolved air, it would seem that the
+plants, however they may obtain the gas, use up some of the
+oxygen, sometimes a good deal, for other purposes than levitation.
+
+
+The analyses give no decisive evidence as to which of the two
+possible sources of supply is the actual one. The gases as found
+may be residues of either ordinary or water-dissolved air. The
+plants, while in the main submerged, are at low water as large
+waves retire, exposed to the air. Hormosira may often be left
+quite exposed at low tide. The vesicle is always closed; there
+are no passages or pores in the walls. The structure of the walls
+is as continuous as that of the rest of the frond. The vesicle
+originates in a solid growth from the frond, the growing cells
+gradually separating from the centre and leaving a central
+cavity. Hence diffusion from the air seems to be excluded, for
+the gas must be formed in the cavity, pari passu , with its growth,
+otherwise the vesicle would collapse. Hence we seem to be driven
+to osmosis, or osmosis with selective absorption, as the process by
+which the gas passes, dissolved in water, through the cells of the
+plant until the residue is set free in the cavity. Algee obtain all
+their nourishment, including the oxygen necessary for respira-
+tion, from the surrounding sea-water, and there must exist a
+circulation from cell to cell, which I have termed, perhaps rather
+crudely, a selective osmosis. It is in this way that the plants
+obtain their salts, with a marked preference for potassium sul-
+phate, and their oxygen, and it seems perfectly natural that just
+as common salt is very generally rejected, not absorbed, so the
+useless nitrogen, together with the oxygen not required, may be
+eliminated, and set free in the floats in order to serve a mechanical
+purpose. All the surface of the plant can be employed in the
+initial absorption, and in many individuals the great number of
+the floats seems to require some such general agency. I consider,
+then, that the source of the gases is the gas dissolved in the sur-
+rounding sea-water.
+The Gases of the Inflated Capsules of two Land-plants.
+It was suggested to me by Mr. T. Steel, that I should examine,
+as a parallel investigation, the gaseous contents of the Balloon
+Vine, Cardiospermum Halicacahum L,, plants of which were
+growing in his garden. He kindly supplied me with sufficient of
+
+
+the balloons, freshly gathered from the vine. A single balloon
+yielded over lOc.c. of gas.
+No evidence could be obtained of the presence of carbon
+dioxide above the amount ordinarily present in air. There was
+no evident absorption by potash; and though the gas was allowed
+to stand over lime-water for six hours, not the slightest film of
+carbonate formed on the surface.
+Three separate determinations of oxygen were made by the
+phosphorus method. Simultaneously with the third sample of
+gas, an equal volume (10c.c.) of air was tested under practically
+the same conditions of temperature and pressure The results
+were-
+Gas No. 1. Oxygen 20'3%. Using graduated vessel A.
+Gas N 0.2. Oxygen 19'0%. ~ ~ ~ B.
+Gas N 0.3. Oxygen 20 0%. ~ ~ ~ A.
+Air Oxygen 190%. ~ ~ ~ B.
+It seems plain, then, that the gas is identical with ordinary
+air, the difference in reading being probably due to the slightly
+unequal graduations of the two measuring vessels.
+The balloons were of a vivid tender green The outer surface
+has a distinct epidermis provided with hairs and stomata.
+There is no inner epidermis, the lining tissue having the
+same loose structure as that of the septa dividing the capsule.
+It is plain, then, that atmospheric air can be admitted under
+the control of the guard-cells of the stomata, and can pene-
+trate all the loose tissues of the thin capsule-walls, passing
+through to the cavity within. As the balloons were gathered in
+the early morning, it would seem that any free carbon dioxide
+formed during respiration passes out of the stomata, and does not
+accumulate inside the capsule.
+The use of the balloons is apparently to allow of the distribu-
+tion of the capsules by the wind. They are easily detached when
+ripe, and from their shape can be rolled along the ground as well
+as carried in the air. And the plant secures the gas necessary
+for inflation by the readiest means from the handiest supply, i.e.,
+the surrounding atmosphere.
+
+
+While staying at the entrance to the Tuggerah Lakes, I
+gathered the inflated capsules of the Wild Cotton Plant, Gompho-
+carpus fruticosus R. Br., and made parallel analyses of the con-
+tained gas, and of the air of the place. In the former I found
+21 %of oxygen, and in the latter 21*1 %. This also shows that
+the cavities were filled with air drawn directly from the
+atmosphere.
+Portuguese Man of War.
+At the same place, I found a number of Portuguese Men of
+War freshly thrown up on the ocean beach, and tested the gas of
+the floats in the same way. It appeared to be identical with the
+atmospheric air analysed at the same time. Here diffusion seems
+to be the process by which the float is filled, the growth of the
+cells providing the necessary cavity. The membrane appears to
+be thin enough for diffusion to be able to act.

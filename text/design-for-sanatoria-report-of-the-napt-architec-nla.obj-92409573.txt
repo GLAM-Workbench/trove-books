@@ -1,0 +1,4339 @@
+
+
+DESIGN
+for
+SANATORIA
+
+
+DESIGN
+for
+SANATORIA
+
+
+DESIGN FOR
+SANATORIA
+Report of the NAPT
+Architectural Committee
+NATIONAL ASSOCIATION for the
+PREVENTION of TUBERCULOSIS
+Tavistock House North, Tavistock Square,
+London, W.G.i, England
+1 95 1
+
+
+PRINTED IN GREAT BRITAIN
+BY
+WATERLOW & SONS LIMITED
+
+
+NAPT ARCHITECTURAL COMMITTEE
+Chairman :
+♦Geoffrey Todd, Esq., C.V.0., 0.8. E., M. 8., F.R.C.P.,
+{Medical Superintendent, King Edward VII Sanatorium, Midhurst, Sussex).
+Members :
+Maurice G. Bland, Esq., 0.8. E., M.lnst.C.E., A.M.1.E.E.,
+('Consulting Engineer).
+R. Cunningham, Esq., M. 8., D.P.H.,
+{Medical Superintendent, Poole Sanatorium, Nr. Middlesbrough, Yorks).
+J. E. Geddes, Esq., M.D.,
+{Superintendent, Yardley Green Hospital, Birmingham).
+Alexander Gray, Esq., F.R.1.8.A.,
+{Consulting Engineer).
+♦Sir Austin Hudson, Bart., M.P.
+T. C. M. Johnson, Esq., F.H.A.,
+{Secretary, Papworth Village Settlement, Cambridge).
+♦Andrew Morland, Esq., M.D., F.R.C.P.,
+{Physician, University College Hospital, London).
+♦The Rt. Hon. the Earl of Morton.
+Lionel G. Pearson, Esq., F.R.1.8.A.,
+{Consulting Architect) .
+♦P. F. Pollard, Esq., F.C.C.S.,
+{Secretary, Manor House Hospital, London).
+♦Her Grace The Duchess of Portland.
+Miss Mary Ruck, R.R.C.,
+{Matron, Black Notley Hospital, Braintree, Essex).
+E. Harley Stevens, Esq., M. 8., M.R.C.P., D.P.H.,
+{Physician Superintendent, Peppard Sanatorium, Henley-on-Thames, Oxon).
+♦The Hon. Mrs. A. Stirling of Keir,
+{Chairman, Scottish Executive Committee, NAPT).
+♦R. R. Trail, Esq., M.C., M.A., M.D., F.R.C.P.,
+{Medical Director, Papworth Village Settlement, Cambridge).
+♦Sir Robert A. Young, C.8.E., M.D., F.R.C.P.
+Secretary-General: J. H. Harley Williams, Esq., 0.8. E., M.D.
+Assistant Secretary : Albert J. Mantripp, Esq.
+Observers from the Ministry of Health :
+{ln order of serving)
+Charles Maitland, Esq., M.D., F.R.C.P., M.R.C.S., D.P.H.
+T. S. Mclntosh, Esq., M.A., M. 8., F.R.C.P., D.P.H.
+B. G. Ives, Esq., M.B.
+♦ Members of NAPT Council.
+
+
+The following specialists also gave advice :
+L. G. Blair, Esq., M.R.C.S., M.R.C.P., D.M.R.E.,
+[Director, X-ray Department, Brampton Hospital for Diseases of the Chest,
+London).
+R. C. Brock, Esq., M. 8., F.R.C.S.,
+{Surgeon, Brompton Hospital and Guy’s Hospital, London).
+The Rev. Douglas Caiger.
+D. Barron Cruickshank, Esq., L.R.C.S.Ed., D.P.H.,
+{Clinical Pathologist, Papworth Village Settlement, Cambridge).
+G. Ivor Davies, Esq., M.D., M.R.C.S., D.P.H.,
+{Medical Superintendent, Holt Sanatorium, Norfolk).
+H. Morriston Davies, Esq., M.D., F.R.C.S.,
+{Medical Superintendent, Vale of Clwyd Sanatorium, Ruthin, Wales).
+H. Davis, Esq., B.Sc., Ph.D., F.R.1.C.,
+{Chief Pharmacist, Ministry of Health).
+The late S. Roodhouse Gloyne, Esq., M.D., D.P.H.,
+{Consultant Pathologist, King Edward VII Hospital, Midhurst, Sussex).
+S. W. Milburn, Esq., M.8.E., M.C., F.R.1.8.A., T.D.,
+{Architect).
+Miss J. Reed, M.C.S.P.,
+{Physiotherapist, Brompton Hospital for Diseases of the Chest, London).
+H. F. Rutherford, Esq.,
+{House Governor and Secretary, The Hospital for Sick Children, Gt. Ormond
+Street, London).
+T. Holmes Sellors, Esq., M.A., D.M., F.R.C.S.,
+(Thoracic Surgeon, Middlesex Hospital, London).
+J. E. Stokes, Esq., M.A., M.D., D.P.H.,
+{Chest Physician, Lewisham Group Hospital Management Committee).
+The Rev. D. Hubert Thomas, 8.A.,
+{Assistant Secretary, The Free Church Federal Council).
+C. Price Thomas, Esq., F.R.C.S.,
+{Surgeon, Westminster Hospital, London).
+L. Thomas, Esq.,
+{Group Engineer, Cleveland Hospital Management Committee).
+The Rev. Herbert Waddams,
+{Chaplain to His Grace the Archbishop of Canterbury ).
+H. E. The Cardinal Archbishop of Westminster.
+
+
+CONTENTS
+Chapters Pages
+Foreword .. .. .. .. .. . . .. .. .. . . 7
+Introduction .. .. . . . . .. . . . . . . .. 9
+1. The Beginnings and Development of Sanatorium Treatment {para. 1-4) .. 13
+2. The Sanatorium Site {para. 5-22) .. .. .. .. .. .. 14
+3. Size of the Sanatorium {para. 23-30) .. . . .. .. .. . . 22
+4. Structure of the Building {para. 31) .. . . .. . . . . .. 25
+5. Number of Storeys {para. 32-36) . . . . .. . . .. . . 26
+6. Windows {para. 37-44) . . . . . . . . . . . . .. . . 28
+7. Balconies {para. 45-47) .. .. .. . . . . . . . . .. 30
+8. The Roof {para. 48) . . . . . . . . . . . . . . . . 32
+9. Ward Units {para. 49-53) . . . . . . . . . . . . . . 33
+10. Doors {para. 54) .. .. .. .. .. .. .. .. .. 34
+11. Sanitary fittings and Plumbing {para. 55-60) . . ~ . . . . .. 35
+12. Electric Lighting and Fittings {para. 61—73) • • • • • • • • • • 38
+13. Heating {para. 74—82) .. .. .. . . .. . . . . . . 43
+14. Floor Covering {para. 83-86) .. .. . . .. .. .. .. 47
+15. The Elimination of Noise {para. 87—90).. .. .. .. .. .. 49
+16. Interior Decorating {para. 91—92) .. .. .. .. .. .. 50
+17. Equipment of Rooms {para. 93-101) .. .. .. .. .. .. 51
+18. Ward Services {para. 102-113) . . .. . . . . . . .. .. 54
+19. Indoor Cleaning {para. 114) .. .. .. .. .. .. .. 58
+20. Garbage Disposal {para. 115-118) .. . . . . . . . . . . 58
+21. Sputum Disposal (para. 119-126) .. .. .. .. .. .. 60
+22. Kitchen and Food Transport {para. 127-135) . . . . . . . . .. 62
+23. Washing of Dishes {para. 136) . . . . . . . . . . . . .. 65
+24. Laundry {para. 137-139) . . . . . . . . . . . . . . .. 66
+25. Facilities for Major Surgery {para. 140-144) .. .. .. .. . . 67
+26. Pathology and Research {para. 145-146) . . . . . . . . .. 70
+27. Mortuary {para. 147) . . . . .. . . . . . . . . .. 73
+28. X-ray Department {para. 148-151) .. . . .. .. .. . . 73
+29. The Physiotherapy Department {para. 152-157) .. . . ~ . . 75
+30. Occupational Therapy {para. 158-163) . . . . . . . . .. 78
+31. Recreational Facilities {para. 164) .. .. .. .. .. .. 81
+32. The Pharmaceutical Department {para. 165—168) . . . . .. .. 81
+33. Out-patient Department and Other Facilities {para. 169-171) . . .. 83
+34. Children’s Block {para. 172-175) . . .. . . . . . . . . 84
+35. Staff Accommodation {para. 176-183) . . . . .. . . . . . . 86
+36. Accommodation for Patients’ Relatives {para. 184) .. .. .. . . 90
+37. Sanatorium Administrative Block {para. 185-188) .. . . . . .. 91
+38. Chaplain’s Department {para. 189-191) .. . . .. . . .. 93
+39. Stores and Maintenance Departments {para. 192-198) .. . . . . 94
+40. The Design of Sanatoria for Tropical and Semi-Tropical Climatic Conditions
+{para. 199-211) 97
+Conclusion {para. 212-214) . . .. .. .. .. .. .. 103
+Illustrations . . .. .. .. .. . . . . . . .. i-xvi
+Plans .. . . . . .. .. .. .. .. .. xvii-xx
+Index .. . . .. .. .. .. .. .. .. .. 105
+
+
+ILLUSTRATIONS
+Page
+Berks and Bucks Joint Sanatorium, Peppard Common. The “10 bed block ”
+(1910) i
+Berks and Bucks Joint Sanatorium, Peppard Common. “ Kingwood,” adapted
+for women patients (1915) . . .. . . .. . . . . .. . . i
+Sanatorium “ Zonnestraal ” Hilversum, Holland .. . . . . . . . . ii
+Paimio Sanatorium, Preitila, Finland .. .. . . . . .. .. ii
+Masson Sanatorium, Trinidad, British West Indies. . . . . . . . .. iii
+King Edward VII Sanatorium, Midhurst, Sussex .. .. .. .. . . iv
+Sully Hospital, Glamorgan, Wales. Entrance front . . .. . . .. iv
+King Edward VII Sanatorium, Midhurst, Sussex. New surgical wing .. v
+King Edward VII Sanatorium, Midhurst, Sussex. New surgical wing.
+Patient’s room .. .. .. .. .. .. .. . . . . v
+Broomfield Hospital, Chelmsford, Essex. Second floor balcony .. . . . . vi
+Sully Hospital, Glamorgan, Wales. Typical ward interior. .. . . .. vi
+Panel Heating. Arrangement of system during progress of work. . . . .. vii
+Surgeons’ Lavatory Basins .. .. . . .. . . .. . . .. viii
+King Edward VII Sanatorium, Midhurst, Sussex. Main kitchen . . . . ix
+Biirgerspital, Basle, Switzerland. Kitchen .. . . . . .. . . .. ix
+Food trolleys .. .. .. . . . . . . . . .. .. .. x
+Mearnskirk Sanatorium, Scotland. Children’s pavilion .. . . .. . . xi
+Mearnskirk Sanatorium, Scotland. Children at play . . .. .. . . xi
+Biirgerspital, Basle, Switzerland. Theatre and sterilising room . . .. .. xii
+Mearnskirk Hospital, Scotland. Theatre for thoracic surgery . . .. .. xiii
+Biirgerspital, Basle, Switzerland. Pathological laboratory .. .. .. xiv
+X-Ray Department. Diagnostic room .. .. .. .. . . .. xv
+X-Ray Department. Dark room .. .. .. .. .. .. . i xv
+Broomfield Hospital, Chelmsford, Essex. Male nurses’ sitting room .. . . xvi
+Plans —Sanatorium .. ~ .. .. . . . . . . .. .. xvii
+Balconies and Windows .. .. .. .. . . . . xviii, xix, xx
+
+
+FOREWORD
+Some three years ago the NAPT felt that something
+ought to be done to bring together modern ideas about the
+design and construction of sanatoria and chest hospitals. A
+special committee has held a number of meetings in the
+intervening time and the present report is the result of its
+labours.
+The committee began by thinking of design chiefly from
+the architectural standpoint. But as its experience grew,
+other related questions began to assume equal importance.
+It seemed unpractical to consider the actual building of a
+sanatorium without at the same time paying some regard to
+its equipment. Again, the functions of the sanatorium seemed
+bound up with the work of the staff, and this in turn opened
+still further avenues which, though not strictly architectural,
+have a great deal to do with planning. So that this report
+has tended to become a guide to the new sanatorium as a
+whole, its design, equipment, and how these can best increase
+the efficiency and lighten the labour of the staff.
+The Committee are aware of the enormous development
+still going on, and the innovations in material which offer
+great scope to the planner. There is no finality in such
+matters, but in this report we have tried to give a clear
+picture of the most modern and effective methods open to
+the designer.
+For some years to come, at least in Britain, we fear that
+little new sanatorium construction can be achieved. Other
+building which has an important relationship to health—
+houses and schools—will no doubt be given priority. We
+believe that the time thus given us for reflection upon the
+ideal requirements of a sanatorium for treating tuberculous
+
+
+patients will allow still further developments, so that when
+actual building commences, we may be able to offer our
+patients something much better than was possible in the
+days before the war. In this connection the committee are
+sure that design, by contributing to convenience and comfort,
+may have an important bearing on the problem of recruiting
+nurses and other sanatorium staff.
+Throughout this report we have felt it wiser not to
+discuss costs, since these can hardly be considered stable.
+Although we have sought to describe the most effective means
+of design and construction, we have tried to avoid extravagant
+suggestions, and we believe that our recommendations will
+be found practical.
+Varying views obtained from expert sources may not
+have been completely harmonised. Consequently, in matters
+of detail, it may appear that conflicting advice is given. The
+reader will weigh the pros and cons in the circumstances of
+his particular need, and we believe he will be glad to consider
+these different opinions.
+This report is offered to architects, members of regional
+hospital boards and others who may be responsible for
+building our sanatoria in the second half of the century.
+The NAPT Sanatorium Architectural Committee will
+remain in being, and hopes to issue supplements to this report
+from time to time.
+
+
+INTRODUCTION
+Before considering the ideal form in bricks and mortar,
+steel and concrete, which a sanatorium for treating the
+tuberculous ought to take, we should first inquire the purpose
+of such a building. Are sanatoria likely to be necessary in
+Britain after the next twenty-five years ? What are the main
+benefits, from a medical point of view, which we expect the
+patients to derive from sanatorium treatment ?
+It is well known that even patients who need no active
+treatment recover from tuberculosis more quickly in a
+sanatorium than in their own homes. In a sanatorium the
+patient comes into contact with a great number of fellow
+sufferers ; he sees people improving day by day, and in con-
+sequence loses some of his fear. Most sanatoria have a fixed
+daily routine, and the patient’s day is fully occupied so that
+he has less time to brood on his symptoms.
+The relationship between doctor and patient is of great
+importance in a sanatorium as elsewhere. The almoner,
+who is in close contact with the National Assistance Board,
+will give advice and help in all financial and domestic
+matters. The doctor, the nurse and the almoner can help
+to put the new patient’s mind at rest.
+Although the present acute shortage of beds makes it
+impossible to give immediate sanatorium treatment to every
+patient in need of it, we must affirm that this is the ideal to
+be striven for. Patients have a better chance of an early
+return to normal life if treated in a sanatorium than if they
+are given even the best of conditions at home.
+In the next few years it is unlikely that sanatorium
+building in Britain will take place on a very large scale.
+
+
+Other needs—houses, clinics and schools—will come first.
+There will be time, therefore, after the publication of this
+report, for the sanatorium idea in its newest expression to be
+discussed and assimilated. We feel, however, that whatever
+our readers may think of our opinions upon individual items,
+they will be unable to escape the process of reasoning through
+which we have reached them. If the basic ideas of sanatorium
+care are properly understood, the structure which is built on
+such foundations will fulfil its requirements, whatever
+differences there may be in detail.
+
+
+NOTE ON ADAPTATION OF EXISTING PREMISES
+Sometimes it happens that large mansions are presented
+for hospital purposes, and there is an understandable
+temptation to think that it is cheaper to convert such a
+building into a sanatorium rather than face the expense of
+new construction. This impulse should be firmly resisted.
+Modern hospital architecture is so specialised that it is nearly
+impossible to adapt an existing building for the purpose.
+Permanent inconvenience, high maintenance costs, and
+future structural adaptations are the result of many of these
+well-meant but short-sighted schemes for using an old
+building. There is more, however, to be said for using
+converted mansions as nurses’ homes, although even here
+the cost of adaptation may be high.
+Generally speaking, therefore, adaptation of an existing
+building is unsatisfactory, and in the long run expensive. In
+cases of urgent need for accommodation, however, it may be
+found expedient as a temporary measure to adapt an existing
+hospital as a sanatorium. Buildings such as redundant fever
+hospitals might be considered. One great advantage is that
+they usually possess facilities for the disposal of sputum and
+for disinfection.
+
+
+
+
+I. THE BEGINNINGS AND DEVELOPMENT OF
+SANATORIUM TREATMENT
+I
+Although the credit of being the first to treat
+tuberculosis in the fresh air belongs to an English-
+man, George Bodington (1799-1882), the method
+did not come into regular use until long after his
+death. Bodington maintained a private house
+where his patients were treated under sanatorium
+conditions. It was, however, in Germany under
+Dr. Hermann Brehmer that the modern sanatorium
+method of treatment was developed. He built his
+sanatorium at Gorborsdorf (Silesia) in 1859, and in
+1888 Dr. Otto Walther, following the same lines,
+opened a similar institution at Nordrach (in the
+Black Forest), which became even better known.
+2
+Both these pioneers emphasised the importance
+of a general open-air regime rather than a particular
+type of climate, but for some time prejudice per-
+sisted against any similar attempt at treatment in the
+climate of England. Patients from Britain were
+sent to Continental health resorts and especially to
+Switzerland, where the open-air method was greatly
+developed.
+3 ~
+In the year 1887 Sir Robert Philip opened the
+first tuberculosis dispensary or clinic at Edinburgh,
+and soon afterwards, about 1890, an open-air
+13
+THE BEGINNINGS AND DEVELOPMENT OF SANATORIUM TREATMENT
+
+
+sanatorium was attached to it. At the beginning of
+the century, mainly through the branches of the
+NAPT, funds were being found to build sanatoria
+up and down the country. The King Edward VII
+Sanatorium was opened at Midhurst in 1904, and
+the Brompton Hospital Sanatorium at Frimley in
+the same year. About the year 1936 major opera-
+tions on the chest became more frequent, and new
+methods of anaesthesia producing greater comfort
+and safety for the patient began to be used.
+4
+After the Second World War, a remarkable
+drug named streptomycin, and other medicaments,
+of which para-aminosalycilic acid is an example,
+came into use. We cannot say what influence these
+and other innovations in treatment are likely to have
+in the future, but they will certainly affect to some
+extent the planning of new sanatoria.
+We have not, however, allowed such considera-
+tions to weigh with us in the preparation of this
+report. We hold the belief that the fundamental
+requirements of the tuberculous patient —rest under
+open-air conditions —will always be the same, what-
+ever additional improvements in drug treatment
+may be introduced.
+2. THE SANATORIUM SITE
+5
+In days gone by, when the sanatorium idea was
+new, the cure of tuberculosis was associated with
+14
+THE SANATORIUM SITE
+
+
+mountain tops and pinewoods, and many of the
+early sanatoria were placed at inconvenient dis-
+tances from roads and railways. Isolation became
+a sort of symbol or fetish for sanatorium treatment.
+Many of our institutions still in use today suffer
+practical inconvenience from the fact that our pre-
+decessors placed them too far away from centres of
+population.
+6
+What value, if any, can we ascribe to such
+features today ? We understand more fully than
+we did the part change of scene can play in a
+person’s health. A change of environment from
+moist low levels is stimulating, and can improve the
+general physical condition of the healthy as well as
+the sick, while return from high altitudes to sea level
+may have a depressing effect. The choice of
+patients for Alpine treatment requires considerable
+experience and discretion, and a knowledge of the
+environment to which they will return. Elevations
+of a few hundred feet usually provide a sufficient
+sense of freshness for town dwellers, and are generally
+good. Equable climatic conditions, which avoid
+extremes of daily and seasonal temperature change
+are also desirable. There is no particular virtue in
+high altitude alone.
+Climate is not nowadays thought so important
+in the treatment of tuberculosis as it used to be.
+Patients can get well in very varied surroundings.
+15
+THE SANATORIUM SITE
+
+
+Nevertheless, if we can choose a good site with a
+suitable climate, we have made a big contribution
+to the healing value of a building that is due to
+last perhaps for the next thirty to fifty years.
+8
+The immediate environment of the sanatorium
+itself should be rural or semi-rural. Trees, views
+and freedom from noise, smoke and factory con-
+ditions constitute important factors in the restoration
+of the body and the mind to health. Nonetheless
+we do not think there can be any doubt nowadays
+that in Great Britain the ideal sanatorium should
+be placed within reasonable distance of a town,
+large or small.
+9
+The use of such public services as telephone,
+gas, electricity, main drainage and water supply is
+assured by proximity to a town. Fire risk may be
+considerable in certain types of sanatorium con-
+struction, and fire fighting arrangements are usually
+adequate in centres of population. Main railway
+and road services are also available. Admission of
+patients is easier, and relatives and friends can visit
+more readily. The cost of transporting fuel, repair
+materials, consumable supplies and equipment of all
+kinds is lowered. Nearness to a bus route will
+mean much to the medical and nursing staff who
+spend their lives in the institution. To be able to
+16
+THE SANATORIUM SITE
+
+
+offer facilities for going to the cinema, or shopping
+and for meeting friends, is an important asset which
+will materially assist the matron when she is en-
+gaging nursing and domestic staff. The patients
+like to be near their relatives, and generally prefer
+not to be too far away from the scene of their
+ordinary life. Anything which can take away from
+harassed tuberculous patients the notion that they
+are “ lepers ” or outcasts from society is of benefit
+to sanatorium treatment.
+10
+Steep hillsides should be avoided, and the main
+run of the buildings should lie along a single contour
+of the ordnance map so that unnecessary foundation
+works may be avoided. In a building consisting of
+a single storey a gentle fall of the ground to the south
+will give the patients a good view. In a building of
+several storeys, a level site is an advantage from the
+point of view of amenity, although a fall to the back
+may be helpful in the practical problem of services,
+since a basement floor can be more easily ap-
+proached there.
+II
+The physical characters of a site are very im-
+portant. A porous surface soil over a well drained
+subsoil is the ideal, as it assures the comfort and
+convenience of patients while exercising out of doors.
+17
+THE SANATORIUM SITE
+
+
+12
+In England, a southerly aspect is desirable for
+patient accommodation, but some deflection towards
+the east is preferable to avoid the glare and heat of a
+westering sun. For the same reason, any marked
+turning of the main frontage to the west is to be
+avoided. In warmer climates, of course, the layout
+of the buildings should be planned to minimise the
+glare of direct sunlight on the main windows.
+13 ~
+The area of the sanatorium grounds should be
+adequate to assure reasonable privacy and freedom
+from the noises of traffic or industry. This requires
+careful attention in view of the tendency to build
+near towns. It should be remembered that all
+hospital buildings tend to expansion, and their
+services must also have room. As the latter develop
+they are too apt to encroach on patient accommoda-
+tion and may create noise, odour, or cinder nuisance
+within the grounds. Those who plan and build
+should try to visualise the future. It is rare for
+institutions to be conceived on too large a scale ;
+but the opposite mistake is common. Heed must
+be paid to all the services which may be required
+including facilities for vocational training, and to
+possible extensions of bed accommodation. The
+needs of patients and staff for outdoor recreation
+should also be considered.
+18
+THE SANATORIUM SITE
+
+
+~ 14 “
+While the expense of providing lock-up garages
+may not be justified, space should be allowed for
+the parking under cover of vehicles used by doctors,
+nurses, committee members, relatives of patients
+and other visitors. The storage of fuel also requires
+considerable space.
+15
+A sanatorium is not merely a hospital where
+certain medical and technical services are carried
+out. It becomes for many patients their home for
+months and even years. Landscape gardening,
+trees, attractive pathways, are features which will
+pay dividends in the general well-being of those
+who live in the sanatorium, and will increase its
+prestige among the public.
+16
+The layout of the grounds should be considered
+before construction begins. On a new site every
+effort should be made to preserve noble trees. In
+laying out ornamental grounds, however, regard
+must be paid to the ultimate size which any trees
+may attain. As a rule, a distance at least twice the
+maximum height to which a particular species grows
+should be allowed between trees and buildings.
+Excessive shade on the southern aspect should be
+avoided.
+19
+THE SANATORIUM SITE
+
+
+If possible a landscape architect should be
+consulted, especially if the site is of particular
+beauty, or if the size of the development justifies it.
+I?
+Adequate water supplies should be distributed
+about the grounds for the preservation of plants and
+grass in dry periods. Regard must be paid to fire
+risks, and valves for hose connections with good
+water pressure must be available. A reducing
+valve at the point of entrance of the supply to the
+property may be an economy, but it should be
+possible to bypass this without delay in the event of
+fire, provided, of course the pressure in external
+mains is high enough. Hose fittings should be
+interchangeable with those of the fire services of the
+area.
+18
+When we emphasise the desirability of an ade-
+quate area for the site, we are reminded that dairy
+farms, poultry runs, gardens and orchards were
+frequently associated in sanatorium plans. These
+may not be strict essentials of sanatorium life, but
+a barrier of such rural amenities will have perpetual
+benefit where there is the threat of future encroach-
+ment of population and industry on the sanatorium
+boundary.
+19
+Perhaps the greatest nuisances near large towns
+are smoke, noises and odours from industry. It is,
+
+
+therefore, desirable to plan the sanatorium with this
+in mind. A school nearby can be a source of noise.
+No sanatorium should be within half a mile of a
+railway, and aerodromes should be more than
+double that distance away. The power plant,
+kitchen, laundry and workshops of the hospital
+itself should be placed so that the prevailing wind
+does not blow from them to the wards.
+20
+On the other hand the effect of the sanatorium
+on its surroundings should not be ignored —the
+possibility of smoke from the boiler chimney blowing
+over a residential area, for instance. The presence
+of a large new building in the district should also be
+considered from the aesthetic point of view—the
+“ sky-line ” from distant viewpoints should be
+thought of, and hill tops avoided.
+21
+Before planning the buildings upon the chosen
+site, the direction which traffic will take deserves
+careful thought. Approach to main stores, boiler
+plant, technical stores, workshops and garages
+should be convenient, avoiding cross lines and
+reducing the length of heavy duty roadway as much
+as possible. Service roads within the grounds to
+wards and administrative departments, from kitchen,
+laundry and similar points, should be planned to
+avoid cross traffic.
+21
+THE SANATORIUM SITE
+
+
+22
+It is well to avoid offence to the eye of patients
+and visitors by making sure that no cemetery is on
+the direct line of approach to the sanatorium, and
+agreement should be reached with the local clergy
+that patients dying in the sanatorium should not
+be interred near at hand unless their homes are in
+that area.
+3. SIZE OF THE SANATORIUM
+23
+How big ought a sanatorium to be ? Let us
+assume for the present that the sanatorium we are
+planning is to be used chiefly, or exclusively, for
+pulmonary cases, and that all the services necessary
+for their complete treatment are to be in one place.
+The size must be governed by the number of patients
+for which one medical superintendent or physician-
+in-charge can assume personal responsibility. He
+should be able to get to know each patient individu-
+ally. This does not mean, of course, that the
+medical superintendent will not have assistant and
+junior medical officers. Naturally he will not
+himself carry out every detail of the treatment.
+Nevertheless, his must be the final responsibility,
+and since a medical superintendent has many
+administrative duties in addition to his clinical
+work, it follows that there must exist some limit to
+the capacity of one man to give adequate supervision
+to his patients.
+22
+SIZE OF SANATORIUM
+
+
+24 ~
+Human capacities naturally vary, but we think
+that if the medical superintendent is to have proper
+time to think over his cases, to know patients by
+their names, to inspire their personal confidence, to
+discuss details with his staff—in other words, be
+regarded by the patient as the supreme arbiter of
+his health for the time being —then we think that
+the maximum number of patients which one man
+can handle is between 200 and 240.
+25
+It may be desirable to place a larger number of
+beds in the one institution. In this case, we think
+that the medical head of each section should have
+independent clinical control of not more than 240
+beds, although for administrative purposes and
+services the clinical block may be part of a larger
+institution.
+26
+As modern treatment grows more complicated,
+it is obvious that each patient needs more attention,
+and therefore fewer patients can be handled by the
+same number of staff. To this there is, however,
+the strong counter-demand of economy by which all
+our ideas must be tested. Pathological and surgical
+facilities, among others, are costly, and uneconomic
+in small units. A concentration of these services in
+23
+SIZE OF SANATORIUM
+
+
+large institutions may reduce the cost, but makes
+individual attention and personal contact between
+staff and patients more difficult.
+2?
+In view of what has been said about the
+desirability of the medical superintendent knowing
+his patients extremely well, we feel that this
+tendency to increase the size of institutions in order
+to bring down costs should be resisted. The finest
+service we can give our tuberculous patients depends
+on skilled and intimate medical supervision. Such
+“ service ” is even more vital than “ services,” and
+the best of these will fail, unless the medical staff
+have leisure to observe and handle the “ patient-
+situation.”
+28
+There are many well-known examples in
+England of sanatoria containing about 200 patient
+beds where the senior member of the medical staff
+maintains intimate contact with them all. These
+have provided the ideal atmosphere for tuberculous
+patients and the irregular discharge rate from such
+sanatoria is small.
+29
+In rural areas smaller sanatorium units will be
+required. But there has to be a minimum, as well
+as a maximum, and we believe that no institution
+
+
+can be efficiently run for fewer than 50 patients,
+and institutions of less than 100 beds will be expen-
+sive if they are to have their fair share of services
+and amenities. In such sparsely populated areas,
+compromise between the optimum size of hospitals
+and the travelling problems of patients and relatives
+is necessary.
+—3O
+It is usual to describe a hospital as providing a
+certain number of patient beds. But it is true of
+sanatoria, even more than of other institutions, that
+the actual patient accommodation is only a small
+part of the total structure. A modern sanatorium
+tends to be a self-contained community, requiring
+diverse services and interests that will satisfy all
+reasonable demands for intellectual occupation,
+social life and vocational training. Assuming that
+accommodation is planned to achieve segregation
+of the total sputum positive population (allowing a
+minimum of 2.5 beds per annual death from the
+disease, and an average stay of 18 months) the
+success of such a programme depends at least as
+much upon the equipment and the amenities as
+upon mere number of beds.
+4. STRUCTURE OF THE BUILDING
+3i
+The important question of whether the building
+should be of brick, of reinforced concrete, or with a
+steel frame-work, will have to be settled by the
+25
+STRUCTURE OF THE BUILDING
+
+
+architect, and the choice will vary according to local
+conditions, size of the building, and available funds.
+It should be remembered, however, that many of
+the matters subsequently considered in this report
+will have to be modified in the light of the material
+actually used for the building. One important
+matter —that of prevention of noise—depends to a
+large extent upon the structure of the building.
+Where ducts or a steel frame are used, noises from
+footsteps, radios, and water-taps are magnified and
+this point should be considered carefully in the
+design. Further reference to this question is made
+in paras. 87-90.
+5. NUMBER OF STOREYS
+32
+Now we come to the shape and general plan
+of the sanatorium block. The main patient
+accommodation, planned with the frontage east of
+south, may be somewhat severe in appearance if
+the line is not broken. There is no need for the
+buildings to be laid out in a simple geometrical
+pattern. “ Grouping ”of blocks, and a variation
+in the number of floors in each block might produce
+a more pleasant impression. The problem differs
+from that of planning a hospital for the acute sick
+as “ long-stay ” patients require a type of building
+more domestic in character than the somewhat for-
+bidding multi-storeyed “monoblock” type favoured
+for hospitals nowadays.
+26
+NUMBER OF STOREYS
+
+
+33
+How high should the sanatorium unit be ?
+At the beginning of this century the tc bungalow 5 5
+type of architecture was considered the best for
+sanatorium buildings. Of recent years the reverse
+tendency has been in operation, and sanatorium
+buildings have risen high into the air. This is
+expecially true where land is expensive, and where
+the sanatorium block has to be placed in close
+proximity to other buildings as, for instance, in a
+city, or the grounds of an existing hospital.
+34
+Two of the principles of modern hospital design
+are to reduce the travelling distance and the area of
+surfaces which have to be cleaned.
+-35“
+A sanatorium functions around its main services.
+A clear choice must therefore be made, at an early
+stage of the planning, regarding the preparation and
+distribution of food : between centralised and in-
+dividual treatment rooms for each ward : between
+horizontal and vertical travel by staff. The classic
+pavilion type of sanatorium architecture ensures a
+maximum degree of fresh air, but installation,
+maintenance and running costs are very high ;
+27
+NUMBER OF STOREYS
+
+
+there are lengths of corridor to be kept clean ;
+services must often be unnecessarily duplicated, and
+heating costs are substantially increased. Nursing
+and domestic staff must also walk very much farther
+than in a vertical type of construction.
+36
+For new buildings we favour a compromise
+between these two extremes. In our view, the most
+convenient arrangement is a building of not more
+than three storeys with approximately 80 beds on
+each floor, divided into “ ward units.”
+6. WINDOWS
+37
+At least 70 per cent of the frontage of a sana-
+torium room should be of glass, provided glare inside
+is avoided by suitable screening, and practically all
+of this, except for small fixed panes above the sill,
+should open. But as well as ensuring fresh air and
+sunshine it is important to give good protection
+against driving rain, and the type of window should
+be carefully chosen to provide this. Louvred
+jalousie shutters are not suitable in this country, and
+it is better to set windows back from the face of the
+building, or protect them with a canopy or shallow
+balcony cover.
+28
+WINDOWS
+
+
+- 3 8 -
+The Casement Window is very generally used
+in Britain, and this can be either metal or wood
+framed. The casements should swing outwards in
+two halves so that one or other can be opened against
+the wind in case of driving rain.
+39
+A Fanlight should always be provided and
+should be hinged at the top to open outwards.
+Care should be taken to choose fittings that do not
+rattle or work loose.
+40
+The Sliding Folding Window is much
+favoured as the leaves fold to the side, in concertina
+fashion, and give clear opening to almost any width
+desired. The leaves must not exceed 2' 6" in width
+and should move freely. These windows are
+specially suitable for the “ verandah ” type ward.
+41
+An alternative is the Horizontal Sliding
+Window. This is designed in six leaves, the end
+two are fixed, but the four centre leaves slide
+horizontally behind the two fixed leaves, thus
+providing a two-thirds opening. This window has
+nothing projecting to obscure the view and it can
+be cleaned from the inside.
+
+
+42
+Glazed French Windows should open out-
+wards in the same way as casements, and special
+care should be taken to select a sill which is weather-
+proof but not so high that it seriously hinders the
+transport of beds.
+43
+Curtains. Light weight curtains which do
+not greatly obstruct the light give a furnished
+appearance and are greatly appreciated for the
+privacy which they afford for nursing and dressing
+procedures.
+44
+Railway Carriage type windows have also
+been used and have the advantage that they do not
+obstruct the view when opened. They are, how-
+ever, not suitable for very low sills and there is
+difficulty in keeping out the weather. It is practi-
+cally impossible to clean out the recess into which
+the sashes slide.
+7. BALCONIES
+-45-
+Balconies, porches and verandahs of various
+designs have always been popular in the treatment
+of tuberculosis. Under favourable conditions they
+30
+BALCONIES
+
+
+enable the patient to lie or sit in the open air. In
+a one-storeyed building such balconies present no
+problem, and a suitable canopy can be provided to
+keep off rain and the direct rays of the sun, since
+no interference with upper storeys is caused. But
+where there is more than one storey, we have to
+take into account the balcony extending from the
+floor above with an inevitable darkening of the ward
+below which in consequence may never see the sun.
+Generally speaking, there are three ways in which
+balconies can be constructed :
+{a) A continuous balcony in front of patients’
+rooms, about 8' wide. These shut out
+light and air from patients’ rooms on the
+floor below and are lacking in privacy.
+{b) The terrace system : the front of each floor
+in turn is set back 8' from the storey below,
+so that no light and air is shut out from
+patients’ rooms. This is a costly method
+of construction and wasteful of space on the
+lower floors.
+{c) A continuous narrow balcony 4' wide and
+in front of patients’ rooms. This system
+is preferable to (a), but restricts the space
+for beds which must be placed sideways.
+In this case it is advisable to recess the
+glazed door from ward to balcony at an
+angle to allow the bed to be brought out
+sideways.
+
+
+- 46 -
+As an alternative method the wards may be
+designed on the verandah principle with large
+windows which slide or fold back. This arrange-
+ment takes the place of balconies, and the patient’s
+bed can be wheeled right up to the window so that
+he enjoys almost complete open air conditions. But
+the window sill must be kept low so that the mattress
+of the patient’s bed is level with the glass line. The
+verandah method is satisfactory, although the
+patient does not experience quite the same feeling
+of pleasurable exhilaration as he derives from a
+balcony.
+In some of the French sanatoria there are
+individual balconies for each single bed ward.
+47
+Another method of giving patients opportunities
+for open air lying is what are known in German
+sanatoria as Liegehalle —or “ reclining rooms.”
+These can be arranged at the end of the sanatorium
+wing, or inset into a main south wall, the latter being
+preferable. Liegehalle at the end of a sanatorium
+wing involve much transport of beds, a great dis-
+advantage.
+8. THE ROOF
+- 4» -
+A flat roof avoids dead space above the ceiling
+which may harbour vermin or be a source of fire
+
+
+risk. If suitably paved, provided with small heated
+enclosures, and served by lifts, the main roof of a
+multi-floored building is an ideal place for a tea
+lounge, recreation facilities, and roof garden.
+9. WARD UNITS
+49
+If we take 30 as a reasonable number of beds
+for one ward unit accommodating ordinary medical
+cases, we must consider that in a surgical ward the
+number should be lower, 15 to 20 beds being
+enough. The governing principle must be the
+number of patients which can be satisfactorily
+supervised by one sister or charge nurse.
+50
+The large wards, containing long double rows
+of beds, found in older hospitals are now out of
+favour, but in sanatoria there are some objections
+to providing too many single rooms. Some patients
+desire privacy while others need company. There
+is always an advantage, however, in having several
+single rooms. Generally speaking a convenient
+arrangement for one medical “ ward unit ” of 30
+beds would be six rooms containing four beds each,
+and six rooms each with one bed. As an alternative
+some of the smaller rooms might be arranged to hold
+two beds. In a surgical ward at least one-fifth of
+the total number of 15 to 20 beds should be in single
+rooms, and one room should, in addition, be kept
+available for emergencies.
+G
+33
+WARD UNITS
+
+
+51
+Concerning floor space per patient in sanatoria
+the Ministry of Health advise a minimum area of
+90 sq. ft. in single-bed rooms, and in other rooms an
+area of 80 sq. ft. per bed. This allowance is minimal
+and is somewhat smaller than that recommended
+for a general hospital, but the special opportunities
+for fresh-air treatment in a sanatorium may allow
+this. In view of the danger of cross infection with
+streptomycin-resistant strains of the tubercle bacillus
+this estimate may have to be revised.
+52
+Maternity units should be provided in every
+complete sanatorium. There is growing apprecia-
+tion of the fact that tuberculous women may bear
+children with reasonable safety under proper con-
+ditions. The maternity unit should include a
+labour-room, delivery-room, nursing and sanitary
+facilities.
+53
+Sanatorium management committees may con-
+sider the need for providing a paying patients’
+section, the accommodation and equipment of
+which might be in the form of a mixed ward, and
+the number under the charge of one sister should
+be 20 beds or less.
+10. DOORS
+54
+There is scope for new ideas in the design of
+doors which should be at least 3' 10" wide to allow
+34
+DOORS
+
+
+the passage of 3 ft. beds. The service corridor must
+be wide enough to allow the free entrance of beds to
+rooms. Noise from slamming doors can be avoided
+by automatic checks. To simplify nursing super-
+vision single rooms should have viewing windows in
+the rear doors.
+11. SANITARY FITTINGS AND PLUMBING
+55
+Modern construction which avoids the carrying
+of weight on internal walls allows sectional partitions
+to be built, which are readily moved to modify room
+sizes. Where this plan is chosen it is necessary to
+place sanitary fittings on the main walls only.
+- 56 -
+In the design of sanitary fittings and arrange-
+ment of supplies and wastes, precautions should be
+taken to avoid all crevices and ledges where dust
+can collect. Horizontal runs should be avoided as
+far as possible, as vertical pipes are not so liable to
+collect dust. It is the present custom to place pipes
+in ducts with removable covers ; but there is a
+danger that dirt may collect in these ducts and it
+may prove to be a case of “ out of sight, out of mind.”
+To avoid this danger, pipes should be exposed and
+fixed away from the wall on “distance” brackets.
+35
+SANITARY FITTINGS AND PLUMBING
+
+
+57
+It is not a satisfactory practice to fix sanitary
+fittings away from the wall. They should be so
+fixed that the tiled surrounds finish flush with the
+coved edge of the fitting. It is not enough to place
+the back of the fitting against the tiled surround, as
+this leads to a vertical joint which will, in course of
+time, tend to open up. Fireclay should be used in
+preference to china for all sanitary fittings, in order
+to reduce breakages. All traps, bends, etc., should
+have easily removable caps so that stoppages can be
+promptly cleared. It need hardly be stressed that
+it is of the utmost importance to employ a first-class
+plumbing firm to carry out this work as so much
+depends on the design and the quality of the work.
+- 58 -
+Opinions differ as to the necessity or desirability
+of a wash-hand-basin in patients’ rooms. It is
+generally considered that in a small unit of one or
+two patients confined to their beds, a basin is
+desirable ; but it may be a disadvantage in a larger
+ward where patients are ambulant and thus able to
+go to an annexe to wash or shave. These
+occasional visits, during which they meet other
+patients, break the monotony, and are good for
+morale.
+
+
+59
+Various points in the design of fittings should
+be specially noted :
+(a) Wash-hand-Basins. There should be a
+“ Weir” overflow to all wash-hand-basins,
+providing easy access for cleaning. Traps
+should be chromium-plated and specially
+designed to make the use of anti-siphonage
+pipes unnecessary. Easy-clean high-
+waisted pillar taps should be fitted so that
+jugs and basins can be filled. Stainless
+steel basins are now available but are
+rather costly.
+(b) W.C.s should be either “ corbel ” type
+(which means they must be built in) or,
+failing this, pedestal-type with rounded
+angles. The low-level three-gallon flush-
+ing cistern is easier of access than the plug
+and chain variety. The health closet with
+low seat is considered medically advisable,
+and it should be possible to pass wheel
+chairs over the pedestals. Stall urinals
+should be eliminated : they are unhygienic
+and noisy and an encouragement to spitting.
+(c) Sinks can be of fireclay with hinged drain-
+ing boards or better (though more costly)
+stainless steel with “ integral ” draining
+boards. The latter type has no concealed
+surfaces for dirt and is more easily cleaned.
+37
+SANITARY FITTINGS AND PLUMBING
+
+
+(d) Baths. The best type is the parallel-sided
+porcelain-enamelled bath with rounded
+end. For hospital work this is preferable
+to the square type with panelled side.
+The size should not be excessive as patients
+and staff are inclined to use too much hot
+water. It may be set away from the wall,
+and be fitted with good grips to assist feeble
+patients to lower and raise themselves.
+6o
+At all points in sanitary units there should be
+provided suitable brackets or other means of carry-
+ing sputum containers for the use of occupants, and
+in each annexe there should be a separate sink or
+basin for the cleansing of teeth. There will be a
+wide dispersal of droplets of toothpaste, and an
+adequate surround of easily polished, impermeable
+material, such as glass, stainless steel or glazed
+earthenware should be provided.
+12. ELECTRIC LIGHTING AND FITTINGS
+6i
+Where a good main current supply is available
+there is no advantage in generating electricity at the
+hospital, and the increasing availability of main
+supplies has made generation from waste steam a
+less practical idea in the United Kingdom. A
+secondary source of light should, however, be pro-
+38
+ELECTRIC LIGHTING AND FITTINGS
+
+
+vided for the operating theatres. This can be pro-
+duced either by a generating plant or by storage
+batteries, the latter system being more usual.
+62
+It should be possible to renew the wiring or
+install additional wires without disturbing the
+structure or fabric of the building. The wiring
+should be protected from damage in continuous
+tubing which can be used for earthing the system.
+“ 63
+For general use the best method of carrying the
+wires is in screwed metal conduits which can now
+be obtained in aluminium. A special installation
+is sometimes considered necessary in very damp
+places, such as laundries. The new micro switch
+is completely silent, but can be used only with
+alternating current.
+- 64 -
+Three methods of electric lighting are in use
+today :
+[a) Tungsten. The use of the tungsten fila-
+ment lamps is well understood.
+[b) Fluorescent. Fluorescent lighting is in
+increasing use owing to its superior effici-
+ency ( i.e ., lumens per watt.). The cost of
+both fittings and tubes is at present much
+39
+ELECTRIC LIGHTING AND FITTINGS
+
+
+higher than for tungsten lighting and the
+standard five feet tube is too long for use
+over patients’ beds and in confined places.
+When shorter tubes become general this
+form of lighting will be capable of wider
+application. Among other advantages,
+fluorescent lighting does not produce any
+appreciable rise in temperature. It should
+be noted that at present the single tube is
+unsatisfactory on account of its flickering
+effect and some persons are more sensitive
+to this than others. Patients also complain
+that fluorescent lighting is too “ strong.”
+Groups of tubes, however, so installed that
+the flickering effect is eliminated, have been
+found to give very satisfactory results for
+operating theatre use.
+(c) Cold Cathode. Cold cathode lighting is
+sometimes preferred on account of its in-
+stantaneous action and the very long life of
+the tubes. Because of the high voltage at
+which a tube operates, it is necessary to
+place it at a safe height. The initial cost
+is high.
+- 65 -
+Lighting in Wards. The ideal, single light
+has not yet been devised for wards, but a com-
+plicated wiring system with many control switches
+for each patient should be avoided.
+
+
+66
+It is important that electric fittings should be
+accessible to bed patients, including those who are
+lying on surgical beds of the Fowler pattern. The
+raising of the head-end of such a bed moves the
+patient farther from the wall behind. Flexes on
+call-bells and wireless headphones, and cords on
+light switches should therefore be of adequate length.
+67
+Reading in bed should be enjoyed without
+fatigue to the eyes, and an adjustable arm carrying
+a light clamped to the head of the bed is often
+appreciated. A projecting light bracket fixed to the
+wall above the head of the bed is not as convenient
+as an adjustable arm fixed to the bed. The former
+lights the bed table when the patient sits up but
+causes glare in the face if he lies down.
+68
+A central ceiling fixture should be so shaded
+that the direct rays of the lamp do not reach the
+patients’ eyes in any position they are likely to
+maintain. Night lights, recessed in walls, 12 to 18
+inches above the floor and shielded by louvres
+directing the rays downwards, are pleasant.
+41
+ELECTRIC LIGHTING AND FITTINGS
+
+
+69
+Radio. Where there is no public diffusion
+service, a master set is usually installed giving a
+choice of programmes. Either headphones or
+under-pillow instruments may be used as these avoid
+noise and disturbance of patients wishing to rest.
+A multicore cable should be used from the beginning
+to provide selection of programme.
+70
+Gall System. This may be either by :
+(a) Telephone.
+(b) Loudspeaker.
+(c) Buzzer.
+(d) Coloured lights.
+For (c) and [d) codes are necessary. The direct
+telephone type has the advantage over visual and
+buzzer systems of enabling patients to talk to the
+nurse on her arrival at the station. This reduces
+walking in the wards and corridors. For serious
+cases and in single wards a useful fitting to enable
+the nurse to be called by the patient is a bell-push
+on the wall. There should also be a socket in which
+an extension with a pear push can be plugged. This
+pear push can be held in the patient’s hand. Call
+buttons should be fitted in bathrooms and toilets.
+Technical development in call systems continues
+and their correct use can enable the medical, nursing
+and administrative staff to work more swiftly and
+efficiently.
+
+
+71
+Other Equipment. To run cleaning equip-
+ment, polishing apparatus, and portable X-ray
+plant, a sufficient number of power points, placed
+at convenient positions in each ward, should be
+installed.
+72
+Lighting in Corridors. Lighting in service
+units and corridors should be good. It is a mistake
+to cut down the illumination of parts used in
+common. The lighting can be direct, provided it
+is so placed that glare into bedrooms is avoided.
+Indirect lighting has a softer, less tiring effect, but
+is more expensive to run.
+“ 73
+Outside Lighting. Adequate lighting of
+roadways and paths is necessary, but this should be
+arranged so as not to disturb patients and should
+be controlled by a master switch. At this point it
+may be mentioned that drives should be planned to
+prevent car headlamps from illuminating wards and
+disturbing patients.
+13. HEATING
+-74“
+On the subject of heating, expert opinion has
+changed considerably in the last quarter-century.
+Originally it was considered that an open-air
+43
+HEATING
+
+
+sanatorium required no artificial heating. But
+these spartan ideas have given way to the notion of
+a temperature which can be regulated, and which
+is sufficient to keep out the damp from clothes and
+furniture. Heating is an important item in the
+yearly budget of maintenance. It is also an ex-
+pensive item in capital cost.
+is
+Panel Heating and Hot Water Radiators.
+After a consideration of the advantages of hot water
+radiators and of a system of radiation heating using
+copper tubes buried in the floor and ceiling, it is
+agreed that the most satisfactory form of heating
+for a ward is to be obtained from hot water panels
+embedded in the ceiling. But this is governed by
+two important provisos : the ceiling must not be
+too low and the temperature of the water in the
+panel must not be too high, otherwise the radiant
+heat from the panel is oppressive and irksome for
+patients. Nowadays with modern boiler technique
+it should be possible for the sanatorium engineer to
+regulate the temperature of panel heating so that
+it can vary each day with the temperature of the
+outside air. This must be done with care, otherwise
+panel heating becomes a nuisance. Control by in-
+ternal and external thermostats is expensive to in-
+stall, but ensures an even temperature and saves
+fuel. If it is satisfactorily regulated, panel heating
+can make an enormous contribution to the comfort
+of patients in bed.
+
+
+76
+It was previously the practice to use water in
+the panels at a temperature of i4O°F. or even higher.
+It is now considered that the maximum temperature
+at the calorifier should not exceed i2O°F. in cold
+weather, and that it can be as low as ioo°F. in mild
+weather. This requires the panel area to be larger
+than previously, but the ceiling can be as low as
+9 ft. without causing discomfort.
+11
+Since sterilising is now required for many
+purposes and steam is generally used for this in all
+parts of the sanatorium it can also be made available
+for warming the water of the panel system by means
+of calorifiers. Temperature control at the calorifiers
+is a simple matter.
+- 7 s -
+In the past, hot water radiators have generally
+been used in conjunction with a low pressure hot-
+water heating system. It is well known that these so-
+called radiators act largely by convection, that is, by
+setting up a movement of warmed air. But windows
+in a sanatorium may occupy the whole of one side of
+the ward, and at least some of these are likely to be
+open in all weathers. Consequently the high natural
+rate of ventilation largely nullifies the effect of the
+radiator, even if it has been fixed at the back of the
+
+
+room. This does not apply to the ceiling panel,
+which warms by radiation. Condensation on
+furniture and clothes in damp weather is less be-
+cause radiation from the panel tends to keep the
+surface temperature of articles above that of the
+atmosphere.
+-79"
+The embedded panel system is undoubtedly
+more expensive in first cost. It requires more steel
+and calls for some increase in building costs. It
+can generally be applied only to concrete ceilings
+and therefore, in a single storey structure, the build-
+ing costs may be increased considerably. However,
+since a lower air temperature is usually adequate,
+the running costs of panel heating are lower, less
+fuel is used, and this will compensate for increased
+capital outlay.
+8o
+We do not wish to infer that heating by other
+means is unsatisfactory. Many sanatoria have
+ordinary hot water radiators, and are usually satis-
+fied with the results. Protagonists of the radiator
+system maintain that, among other advantages,
+there is an accessible source of heat concentrated in
+one spot, which is within easy reach of the inhabi-
+tants of the room and this can be made use of for such
+purposes as warming towels. Such a source of heat
+is not available with the panel system.
+
+
+Si-
+lt is probable that the low temperature electri-
+cally heated panels will turn out to be an improve-
+ment on either the old fashioned radiator or the
+embedded ceiling panel, because of the flexibility of
+the system. These panels are easy to clean, can be
+placed anywhere in the room, give out the gentle
+radiant heat which is desirable and can be shut off
+or turned on at will. At the moment the cost of
+electric current is high, but with the advent of new
+methods of obtaining electric power this may cease
+to be a ruling factor.
+82
+Heating Ducts. Shallow pipe ducts accessible
+only by lifting sections of flooring tend to harbour
+vermin.
+In general, underground ducts should be
+commodious enough to permit the passage of work-
+men, and the floor above should be intact. Ducts
+between buildings may conveniently be enlarged
+to serve as underground corridors. They avoid the
+cross traffic on the surface and are less affected by
+severe weather.
+14. FLOOR COVERING
+- 8 3 -
+If not ventilated underneath, all ground floors
+should have an adequate damp course. Floor
+47
+FLOOR COVERING
+
+
+covering, or floor material, should be sound absorb-
+ing, warm and non-slippery. The surface should
+take a wax polish, be unaffected by oil, and not
+liable to pitting. Most materials containing pitch
+are unsuitable, as this is essentially a fluid, non-
+crystalline substance which absorbs oil or wax
+readily to its own detriment, and which flows away
+from any stress imposed upon it, so that corru-
+gations occur.
+- 84 -
+Sheet linoleum or tiles, laid over concrete should
+be of Y thickness. If, for initial economy
+material is used an underlying felt will be required.
+Some architects prefer patterned linoleum as it is
+less liable to show marks. “ Terrazzo ” for corridors,
+borders, or in operating theatres and annexes re-
+quires to be divided by vulcanite or metal strips to
+limit its tendency to crack.
+- 85 -
+For patient and staff accommodation, there is
+much to be said in favour of hardwood floors bedded
+on concrete. Teak is ideal for this purpose, but
+good alternatives are “ Korkoid ” or Battleship
+linoleum.
+
+
+86
+Wherever there is a tendency for water to lie,
+as in store rooms, sanitary annexes, mortuary,
+kitchen or laundry, quarry tiles on the floors, and
+glazed tiles forming a dado, 4' 6" to 5' high, are
+desirable.
+15. THE ELIMINATION OF NOISE
+87
+It is difficult to cut down noise, especially in
+vertical architecture and its elimination is costly.
+This is particularly so in sanatoria where the
+windows are usually open. Steam, water and other
+pipes in ducts beneath the floor, are sources of
+extraneous sound. All possible measures should be
+taken to reduce noise at its source. The staff should
+be persuaded to wear rubber-heeled shoes, doors
+should have silent closing devices, steel sinks and
+draining-boards should be packed to prevent drum-
+ming, and wheeled trolleys should have adequate
+rubber tyres and buffers. There should be rubber
+feet or rubber-tyred castors on chairs and other
+much moved furniture. Radio loudspeakers and
+individual receiving sets should not generally be
+used on the wards, but each bed should be equipped
+with headphones.
+88
+Main walls and floors should, because of their
+density, reduce structure borne noises to a minimum
+D
+49
+THE ELIMINATION OF NOISE
+
+
+and if these members are drastically reduced by
+skilful engineering, the consequent necessity for in-
+sulating materials may involve considerable expense.
+Partition walls, however, which must be light, should
+be formed of good insulating material. Vertical
+pipes should have insulated fixings and ducts should
+be sealed at each floor.
+89
+Finishes for walls, floors and ceilings, which
+should be both sound-absorbing and hygienic, must
+be carefully selected, and some compromise is in-
+evitable. Cork, linoleum and asphalt tile for
+floors, and acoustic tiles and plasters for ceilings and
+the upper parts of walls will help to deaden sound,
+but the lower portion of the walls should be of hard-
+wearing and washable materials.
+90
+There is now less objection made to the use
+of curtains in wards upon sanitary grounds than
+formerly, and these, apart from giving a pleasant
+appearance, are useful sound-absorbers.
+16. INTERIOR DECORATING
+9i
+Interior Decorating. Much can be done to
+make the surroundings of the patients harmonious
+by judicious selection of colours, and the best advice
+50
+INTERIOR DECORATING
+
+
+on interior decorating should be sought. Pastel
+shades and matt surfaces are often preferred, but a
+smooth surface simplifies washing-down. Bold or
+sombre hues should be avoided, even in cold
+climates. The bare effect of long corridors can be
+successfully broken by a few good reproductions.
+92
+The common-room accommodation of patients
+deserves the attention of the skilled decorator. An
+artist can completely transform a drab hospital
+without a great increase in furnishing costs.
+17. EQUIPMENT OF ROOMS
+-93-
+Patient beds should be 3' wide and for average
+adults 6' 6" overall in length, accommodating a
+6' 2" mattress without undue empty space at one
+end. A proportion of f beds and mattresses is
+welcome for tall men.
+-94“
+Beds should be resilient without sagging.
+Good castors at least 4" in diameter are required at
+the head end. Lifting wheels at the foot end should
+be standard to allow for ready transport, but stub
+legs serve to hold the bed steady and are preferable
+to castors. Where patients are to be transported
+regularly in their beds to “ salons de cure ” or
+51
+EQUIPMENT OF ROOMS
+
+
+treatment rooms, 6" should be the minimum diam-
+eter of the wheels. Care should be taken to have
+head ends which are adjustable as back-rests, made
+to clear the thickness of the mattress which will be
+used. Sufficient vertical bars, usually seven, are
+needed to prevent pillows working through the back
+rest.
+95
+The bars of children’s cots must be sufficiently
+close together to prevent young heads being squeezed
+between them. Particular attention should be paid
+to the space between the first vertical bar of the side
+piece and the end of the cot.
+96
+Hospital mattresses require regular main-
+tenance to preserve their resilience. They are
+designed to ventilate as well as to ensure even
+distribution of pressure. Thus the internal spring
+mattress has advantages over any form of stuffing
+such as horsehair or fibre alone. The spring mesh
+type is more suitable for steam sterilisation than
+pocketed coil springs. Protection from soiling or
+infection of mattresses is readily achieved with a
+rubberised, acid-resisting envelope cover, but venti-
+lation is then sacrificed. Latex foam mattresses
+have the same defect. Latex provides a convenient
+mattress to handle and many patients are soon
+accustomed to the lack of ventilation beneath them,
+
+
+but others find rubber very uncomfortable even
+when a double layer of underblanket is interposed.
+Latex foam in an impermeable envelope is suitable
+for children’s cots, the covering being readily
+cleansed with an antiseptic solution.
+97
+Coloured blankets of bold hues rarely please all
+tastes. Present-day dyes tend to bleach unevenly
+in the wash. Pastel shades soil easily and have little
+advantage over plain “ white,” which should be
+generally used. Blankets can be protected by gaily
+patterned counterpanes of washable cotton material.
+-98-
+Well-filled, good quality, down pillows are a
+great contribution to the comfort of patients. A
+small supply of alternative fillings may be necessary
+for asthmatic patients.
+99
+Hot pipes may be led through built-in ward-
+robes and will help to keep patients’ clothing aired.
+Sufficient cupboard space, a bedside table or locker,
+a bed table and a chair are necessary. A composite
+locker bed-table fitment is sometimes favoured but
+may be difficult for a recumbent or feeble patient
+to manoeuvre. The locker top may be of plastic
+material, resistant to heat. Whatever material is
+employed, it should be readily replaceable.
+
+
+100
+It is the practice in certain American sanatoria
+to provide each small ward with a toilet room on
+one side of the door and a dressing cubicle on the
+other, as in some hotels. This deserves considera-
+tion as~ an alternative to placing a wardrobe and
+basin in the room itself.
+ioi
+Two simple wall fittings are often omitted from
+the rooms of patients as well as from the office
+accommodation of doctors and other ward staff.
+They are mirrors and occasional picture hooks.
+Both should be supplied.
+18. WARD SERVICES
+102
+Every ward requires a small kitchen furnished
+with sufficient cupboard space for all china, glass
+and cutlery, a cooking plate for making hot drinks,
+etc., a water boiler for the tea service, a hot cup-
+board for warming plates and a refrigerator of the
+household size for storage of day-to-day perishable
+food. There should be ample space for food trolleys
+and trays, unless there are full facilities for the direct
+serving of all food from central kitchen to ward.
+54
+WARD SERVICES
+
+
+103
+Washing-up facilities should be centralised as
+far as possible, and it is important that adequate
+lift service and good floor surfaces from wards to
+washing-up centre should be provided. If a central
+service is not provided, there should be sculleries
+adjoining the wards for the washing-up sinks and
+crockery sterilisers.
+104
+Each ward should have a warm, well-ventilated
+linen cupboard, but there should also be a central
+linen store. Soiled linen should be collected in
+hampers or bags on wheels, by staff wearing pro-
+tective masks and gloves, and conveyed to a special
+room with an external door. In multi-floored
+buildings a chute may be provided down which all
+soiled linen can be shot to ground level.
+105
+Each ward unit requires a clinical room with
+shelves, sink and bench to be used for simple testing
+and routine pathology. A Bunsen burner is essential,
+and if coal gas is not available, Calor gas should be
+used. The usual equipment for urine testing should
+be provided.
+106
+A chair and trolley room for ward transport
+equipment avoids clutter on corridors. It should
+be large enough to contain splints, fracture boards
+and other impedimenta.
+55
+WARD SERVICES
+
+
+icy
+The former practice of providing a drying
+room for outdoor clothes is less common today,
+chiefly because of the change which has taken place
+in methods of medical treatment and the consequent
+reduction in the number of ambulant patients at
+any one time. Where it is necessary to dry clothes,
+it is much more efficient to use a drying cabinet
+capable of accommodating a dozen garments at a
+time Men appreciate a “ smalls ” laundry, ironing
+facilities and an airing cabinet as much as women
+patients.
+108
+A hot water-bottle filling tap with a supply
+through a steam heating valve or drawing from a
+special source is always appreciated by nursing
+staff and patients. For airing beds or providing
+additional heat to “ shocked ” patients however,
+the modern electric blanket is superior to both hot-
+water bottles and electric light baths. This type
+of blanket sometimes causes interference with radio
+reception.
+109
+A hairdresser’s room with mirror and basin and
+a suitable chair is a welcome addition to ward
+services for both male and female patients.
+
+
+no
+An unheated flower room is desirable, and the
+housemaid’s cupboard should be roomy. The slop
+sink may be adjacent to these facilities.
+in
+In the sluice room there should be bed-pan
+washers and sterilisers with heated racks. It is the
+modern practice to displace earthenware and
+aluminium with stainless steel. Racks for male
+bottles, conveniently made of glass or Pyrex ware
+are needed. In a compact building it may be
+possible to centralise the bed-pan service. A central
+unit with a standby is capable of handling the whole
+service of a 240-bed hospital if there are a sufficient
+number of bed-pans. Such a unit can save time in
+the ward, but trolleys constructed for the purpose
+are needed, as well as an efficient lift-service.
+112
+Changing rooms with suitable washing facilities
+must be provided for all nursing and ward domestic
+staff, expecially since the wearing of protective
+clothing is usual. Separate toilet facilities for male
+and female personnel are needed.
+113
+Where the layout of a sanatorium is reasonably
+compact, neither food nor beverages should be taken
+by the staff in any part of the ward unit. After
+57
+WARD SERVICES
+
+
+removing their protective clothing and washing
+hands and faces they should be able to go to a
+centrally placed buffet for refreshments. Ward
+duties should be so arranged that such breaks are a
+routine in the time-table. Even in very scattered,
+pavilion-type institutions, staff refreshments on the
+wards should be discouraged and an effort made to
+provide these at a central point. Failing such an
+arrangement, staff rest rooms to which they may
+retire for refreshment are required on the wards.
+19. INDOOR CLEANING
+114
+To make cleaning more effective the corners of
+rooms should be rounded, and narrow edges or
+mouldings avoided. A central vacuum cleaning
+plant, though expensive to install and hard work to
+operate because of heavy hoses, ensures thorough
+cleaning, ij" highly polished tubes are sunk into
+the walls and opened into the skirting at different
+levels. The accumulated dirt is emptied at a point
+near the incinerator. An oiled sweeping compound
+should be used to reduce dust where such vacuum
+connections are not available.
+20. GARBAGE DISPOSAL
+ns
+This is an important problem in ward manage-
+ment. Staff should be coached in the idea of dis-
+posal at frequent intervals. This can only be done
+58
+INDOOR CLEANING AND GARBAGE DISPOSAL
+
+
+if the arrangements are well planned, with pro-
+vision for collection, and frequent renewal and
+cleansing of receptacles.
+116
+Garbage can be divided into edible, burnable,
+and non-burnable. Refrigeration of garbage has
+been used outside the United Kingdom and has
+gained popularity, but if this is not possible, covered
+receptacles on an impervious base which can be
+frequently washed, are required. Cover from the
+weather and protection from the winds is needed to
+avoid odour reaching the patients and staff. Edible
+waste, for feeding to livestock, should be carefully
+separated and selected, avoiding citrus fruit skins,
+tea leaves, egg shells, and salt in large quantities.
+If solid fuel is in use for any purpose an ash bin is
+also required.
+117
+Sputum disposal is generally carried out at a
+central point (see paras. 119-126), but a room
+should be provided for the collection of used con-
+tainers, and storage and distribution of clean vessels.
+118
+The sanitary towel problem for staff and
+patients is conveniently solved (if gas is available)
+by ward destructors, but the electrical equivalent
+has not yet been satisfactorily developed. The
+alternative of covered pails and disposal at a central
+destructor is still widely in use.
+59
+GARBAGE DISPOSAL
+
+
+21. SPUTUM DISPOSAL
+119
+The safe destruction of what is after all the most
+dangerous source of infection in any sanatorium,
+namely, the sputum coughed up from diseased lungs,
+is a most important problem. In essentials, it
+means removing the sputum from the patient’s
+bedside promptly and in such a manner that it is
+not spilled or allowed to dry and then making it
+innocuous. The amount of handling in its disposal
+should be reduced to a minimum and the staff
+concerned should wear rubber gloves and masks.
+120
+There are two effective ways of tackling the
+problem ; either steam sterilisation under pressure
+of the sputum mugs, flasks, and their contents, or the
+use of waxed cartons which are incinerated with the
+sputum. As the apparatus required for each
+method is quite different, preliminary planning is
+important.
+121
+No system of sputum disposal can be really
+effective unless patients themselves are aware of the
+possibilities of infection and suitably trained in co-
+operating with the staff to avoid them.
+60
+SPUTUM DISPOSAL
+
+
+122
+Steam sterilisers are available which can deal
+with 72 sputum mugs or a very much larger number
+of pocket flasks every half-hour, returning these
+receptacles washed and sterile with no more hand-
+ling than is required to put them into their places
+on special trays.
+123
+This apparatus should be housed in a special
+room centrally placed, with floor, walls and shelving
+of impermeable materials, for easy disinfection. It
+should be in the charge of a porter who may be an
+ex-patient trained for the job, and the premises
+should be overhauled from time to time by the
+bacteriologist. The trolleys used for transporting
+the sputum receptacles from the bedside to the
+steriliser should be of metal to facilitate disinfection.
+124
+A better plan, but costing more initially, is
+to install a smaller steriliser in each pavilion or
+ward unit. This could be placed in the sluice room
+which would have to be suitably designed for the
+purpose. The higher cost would be offset by the
+saving in labour, and the ideal of prompt disposal
+of infectious material would be more nearly
+approached. But such separate units require some
+degree of supervision.
+61
+SPUTUM DISPOSAL
+
+
+125
+Superficially the use of waxed cartons which are
+burnt with their contents in an incinerator would
+appear to be the perfect method of disposal. There
+are, however, some draw-backs. If the cartons are
+used dry, there is some risk of the sputum drying up
+before disposal, while the use of disinfectant inter-
+feres with the incineration. The cartons are light
+and easily knocked over. If fixed in metal con-
+tainers these have to be sterilised separately. The
+cost of the cartons is a recurring item which cannot
+be ignored. In a large institution where steam is
+already available for other purposes, steam sterilisa-
+tion is certainly the cheaper method.
+126
+The success of either of these systems will
+depend to a large extent on the way it is worked
+by the sanatorium staff, and from time to time it is
+desirable that the procedure should be examined
+and routine tests made by the bacteriologist.
+22. KITCHEN AND FOOD TRANSPORT
+12?
+It is sometimes forgotten what a big part the
+ideas and thoughts connected with food play in the
+life of a person who is chronically sick and obliged
+to stay in one institution for a period of months at a
+time. Everyone knows that even under favourable
+62
+KITCHEN AND FOOD TRANSPORT
+
+
+circumstances, monotony tends to creep into diet.
+We are not, however, concerned here with the
+science of dietetics, but with the physical means by
+which food is cooked and prepared. We believe
+that it will pay the authority who designs a sana-
+torium to give special attention to the kitchen
+premises, and, equally important, to the means by
+which food is conveyed to the patients.
+128
+We favour a large central kitchen with suitably
+grouped rooms for storage and preparation. From
+this the food is conveyed to the patients by electric-
+ally heated trolleys, so that every patient, whether
+he can eat in the dining-room or not, will have his
+food on heated plates. The food itself will be hot
+and, provided the containers are of suitable type,
+the taste will not have been spoilt by delay in trans-
+port.
+129
+The main kitchen, with its ancillary accommo-
+dation, should be situated so as to minimise the
+distance over which food will have to be trans-
+ported to the various wards or departments. When
+planning the kitchen, adequate floor space, good
+light and ventilation are prime necessities. If roof
+lighting and ventilation are used, great care must
+be taken over the placing of fanlights because of
+possible heat and glare in summer and draughts in
+
+
+winter. The kitchen is one department of a hospital
+where economies should not be made without con-
+sulting those who will work there —the cooks.
+Before the final plan is drafted, the exact types and
+styles of cooking must be known, as well as the
+approximate numbers to be catered for at each
+meal, so that a proper assessment of the cooking
+equipment required can be made.
+130
+Consideration must be given to the heating
+services available — i.e., gas, electricity, steam and
+solid fuel. It is inadvisable to rely on gas or elec-
+tricity alone for cooking because, should that supply
+fail, there is a complete breakdown of the service
+of food.
+131
+Grouped around the kitchen should be pre-
+paration rooms for vegetables, fish, meat, cakes and
+pastry, as well as a small diet kitchen, and it is
+important that all should have convenient access
+to the washing-up sculleries.
+132
+Still-rooms with cold storage and hot plates for
+the service of food to the thermostatic trolleys are
+essentials. Accommodation adjacent to the still-
+rooms must be provided for these trolleys, so that
+
+
+they can be wheeled to the respective counter or
+hot-plate for loading, thus assuring that there is the
+best service of food in perfect condition to the
+patient. Each trolley should have a separate
+electricity power point.
+133
+A milk room with proper cold storage is
+required, as well as adequate refrigeration rooms
+for meat and fish. A bread room where all the
+bread and butter for the patients can be expertly
+cut and spread is an advantage as well as an
+economy.
+134
+The block may include various dining-rooms,
+each self-contained with its own service. Separating
+doors between the kitchen and other departments
+and various service doors should be sound-proof.
+135
+In addition an office will be required for the
+head of the department. Lavatory and changing
+rooms should, of course, be provided for the staff,
+and a staff-room is advisable.
+23. WASHING OF DISHES
+136
+Washing plates and dishes is an important
+feature in any sanatorium. With modern methods
+it ought to be possible to sterilise every dish without
+E
+65
+WASHING OF DISHES
+
+
+an undue proportion of breakages. This is a more
+important element in sanatorium life than is gener-
+ally realised. Many patients have an exaggerated
+fear of infection, particularly infection from others,
+as they realise that the majority of sanatorium
+patients discharge infection at some time during
+their illness. Methods of sterilising plates and
+cutlery must, therefore, not only be efficient ; they
+must give confidence to the patient, and preserve
+in his mind the idea that he comes to no harm
+through dining with fellow patients. Special sinks
+with steam injectors to keep the water up to a pre-
+determined temperature should be used. These
+can be combined with the dish-washing sinks so that
+cradles containing the dishes, etc., can be totally
+immersed.
+24. LAUNDRY
+137
+Each large sanatorium for tuberculosis should
+have its own laundry, though this facility can be
+shared by a group of hospitals in the locality. The
+special problem of the sanatorium is that all linen
+must be disinfected before it enters the laundry
+itself whether this is part of the institution or not.
+-138 -
+This involves careful methods of sorting, with
+adequate protection for the staff by the provision
+of washable overalls and masks. It is a problem
+66
+LAUNDRY
+
+
+which should always be given thought by those
+who manage sanatoria for the person who sorts the
+soiled linen in a sanatorium laundry is as much
+in need of protection as the nurse at the bedside.
+139 “
+Fuel consumption in most laundries is high.
+For instance, 200 lbs. of coal may be required to
+wash 100 lbs. of clothing. Small laundry units are
+extravagant. The whole question of a laundry
+service is one in which the undoubted advantages
+of an efficient washing-plant near at hand must be
+balanced against necessary economies in fuel and
+personnel. Where a sanatorium has its own
+laundry it should be situated as near the boiler-
+house as possible, and the central linen store should
+be close at hand.
+25. FACILITIES FOR MAJOR SURGERY
+140
+In the last twenty years profound changes have
+come over the nature of the treatment given to
+tuberculous patients in sanatoria. Surgical opera-
+tions on the chest are now a regular feature of all
+modern institutions. Through their aid cavities in
+the lung can be closed and portions of diseased
+lung removed. Such brilliant achievements of the
+surgeon do not diminish the need for rest and open
+67
+FACILITIES FOR MAJOR SURGERY
+
+
+air, those fundamentals of the sanatorium method.
+But surgical work requires not only an elaborately
+organised department for the operations themselves,
+but a careful system of “ after-nursing ” carried
+out by trained personnel.
+141
+A very good arrangement is to have the
+operating theatre and surgical block (with some
+single rooms for post-operative cases) in a separate
+building. Or, if the sanatorium as a whole is
+of the vertical type, the surgical and theatre
+arrangements should be self-contained and on one
+floor. A surgical block may be needed only in one
+or possibly two sanatoria of each region. Where
+such a block is required the emphasis should be on
+space within the operating theatre and on easy
+access to the X-ray department. The size of the
+block must depend on the population which it
+serves. Patients after minor operations should be
+able to return to the medical wards on the day of
+operation, and those for major procedures within
+two or three weeks.
+142
+The doors leading to the theatres should be
+wide enough to allow free movement of bed, patient,
+and any connecting apparatus such as an oxygen
+trolley. The floor should be made of terrazzo
+
+
+squares or tile and have incorporated in it wiring
+for grounding static electricity. It should slope to
+ample surrounding gullies. Its walls should be of
+material that will withstand hosing. Viewing boxes
+with fluorescent lighting should be provided for
+X-rays. In certain central sanatoria likely to be
+used in teaching, the need for a students’ gallery
+and the possibility of television equipment in the
+operating theatre should be considered.
+~ 143
+Wall heating of the operating theatre is prefer-
+able to radiators. Suitable means of rapidly ex-
+cluding outside light must be provided but, where
+daylight operating is considered possible and
+windows are made to open, they should be provided
+with efficient fly-screens. Ventilating fans must be
+quiet. Modern theatres are usually air-conditioned.
+144
+The Consulting Room should be large enough
+to use ample X-ray viewing boxes, apart from the
+usual consulting room equipment, such as an exam-
+ination couch.
+The Surgeon’s Changing Room must be of a
+size to contain sufficient cupboard space, wash-
+hand-basin and shower.
+The Nurses’ Changing Room is a necessity
+often forgotten.
+
+
+The Sterilising Room : at least two instrument
+sterilisers should be provided, and ventilation must
+be so arranged that the steam from the sterilising
+room cannot enter the operating theatre. Floor
+space should be generous to allow the setting out
+of duplicate instrument-trolleys.
+The Anaesthetic Room should have at least
+one basin. If twin theatres are not provided, this
+room fitted with dark blinds, should be large
+enough for performing bronchoscopies, and have
+facilities for suction.
+The Sluice Room should have an independent
+basin for soaking linen.
+A Splint and Plaster Room will be needed
+for odd emergencies, though not on the scale
+required for an orthopaedic unit.
+26. PATHOLOGY AND RESEARCH
+145
+The plan for pathology and research facilities
+must be related to their increasing importance in
+modern diagnosis and treatment of disease. A series
+of interconnecting rooms with reasonable space for
+his various functions is desirable for the present day
+70
+PATHOLOGY AND RESEARCH
+
+
+clinical pathologist. We give the ideal arrangement
+which will have to be modified according to
+circumstances.
+{a) The room for microscopy must be of a size
+sufficient to allow for the apparatus re-
+quired in sputum examinations up to
+concentration and fluorescent methods.
+This room may be combined with that for
+haematology, although it is considered
+better for all blood work, like culture work,
+to have separate accommodation.
+[b) Ample space is necessary for general
+bacteriological work, but again, as in the
+above instance, this room may be combined
+with the biochemistry section provided
+there is sufficient space for such apparatus
+as is now required for the blood sugar and
+blood urea estimations.
+{c) A separate “ histology ” room is essential
+in a sanatorium which has a thoracic unit
+and where animal post-mortem examina-
+tions are carried out.
+(i d) A post-mortem room should be attached
+to every laboratory, irrespective of the size
+of the institution.
+( e ) Where the laboratory is of a large size,
+e.g., in a teaching institution, an animal
+71
+PATHOLOGY AND RESEARCH
+
+
+POST-MORTEM
+ROOM
+GENERAL
+BACTERIOLOGY
+LIBRARY
+PUNCTURE
+FLUIDS
+CONTROL OF
+MICROSCOPY
+HAEMATOLOGY
+CULTURE
+THERAPY
+ANIMAL
+HISTOLOGY
+Z.N.
+F.M.
+B.S.R.
+BLOOD
+COUNTS
+SPUTUM
+FOR T.B.
+STREPTOMYCIN
+HOUSE
+DIAG.
+TYPING
+SURGICAL
+UNIT
+P.M.
+BIOCHEMISTRY
+URINE J
+——|
+URINE
+(Quantitative)
+Protein, etc.
+BLOOD CHEM.
+FUNCTION TESTS
+CHEMOTHERAPY.
+BLOOD LEVELS
+STATISTICS
+FOLLOW-UP
+house is desirable, as it will be necessary
+for procedures in diagnosis and in the
+typing of organisms.
+(/) Outside the actual laboratory, but closely
+allied to it, there should be room for a
+reference library and for a statistical
+department. A basic layout for such a
+laboratory as outlined is given in the
+diagram.
+146
+In smaller institutions of course these separate
+facilities for the pathological service can well be
+combined in less space, but no sanatorium should
+be without some provision of this kind, together with
+some spare room for occasional or future laboratory
+work with fluorescently lit viewing boxes for X-ray
+
+
+films. This service is becoming recognised as vital
+in the detection and treatment of tuberculosis.
+Clinical photography may be centered in the re-
+search department, or in the X-ray department.
+27. MORTUARY
+147
+The mortuary should be so placed that it is
+easily reached from a public entrance. Its actual
+situation can be obscured but, its surroundings
+should be given careful attention and upkeep.
+A minimum of three rooms is necessary. It is
+desirable to have a body-store with refrigeration, a
+post-mortem room (if this is not provided in the
+pathology department), a small waiting-room with
+toilet accommodation, and a chapel.
+28. X-RAY DEPARTMENT
+148
+A separate screening room should be installed
+in close proximity to the artificial pneumothorax
+clinic in a room with separate entrance and exit—
+both being adequately light-trapped. Artificial
+ventilation will be required. As this apparatus will
+be frequently used by personnel who have received
+little radiological training, it is essential that the out-
+put be limited to 5 milliamperes and that the inherent
+protection on the apparatus shall be sufficient to
+prevent the operator from exposing himself to the
+direct beam, and also to secondary radiation as far
+73
+X-RAY DEPARTMENT
+
+
+as possible. In practice, it is found almost im-
+possible to make the sanatorium medical officers
+wear protective clothing. Some of the protective
+gloves on the market are less flexible than others ;
+the more flexible kind are recommended, providing
+the lead content is sufficiently high, as it is easier to
+get operators to use them.
+-149-
+One radiographic room should be sufficient for
+the average sanatorium. If much surgical work is
+undertaken, it is convenient to have a lightproof
+tunnel from the dark room into the washing and
+drying room, so that there is easy access to wet films
+and the work of the department is not constantly
+interrupted. A separate reporting and viewing
+room is necessary, and there should be plenty of
+space for storing unused films and filing used plates.
+There should be a direct electricity supply to this
+department.
+150
+It is convenient to have the main X-ray
+department near the theatre and on the same floor
+as the surgical wards. The demand for X-ray
+examination is much higher on the surgical wards
+and the most satisfactory results are obtained if the
+bed is wheeled into the X-ray department, and the
+films taken on the static high-powered apparatus.
+It is found in practice that this is as a rule less
+
+
+distressing to the patient than having films taken
+on a low-powered mobile unit. Separate waiting
+accommodation for both male and female patients
+should communicate with the X-ray room and there
+should be toilet facilities nearby. A rest room
+should be provided for the staff of the X-ray
+department.
+151
+The British X-ray and Radium Protection
+Committee recommend that the X-ray room should
+be at least 250 sq. ft. and the dark room 100 sq. ft.
+in size. They make many other useful recommenda-
+tions regarding the requirements of a modern X-ray
+department and their report may be studied.
+29. THE PHYSIOTHERAPY DEPARTMENT
+152
+In the modern treatment of tuberculous
+patients particularly with the development of
+surgery, physiotherapy forms an important part in
+their rehabilitation. For patients undergoing major
+chest surgery, carefully graduated arm and postural
+movements, and localised control of breathing
+can prevent poor posture after operation, and can
+make the best use of the remaining sound parts of
+the lungs. Careful, detailed individual pre- and
+post-operative treatment is necessary. Physio-
+75
+THE PHYSIOTHERAPY DEPARTMENT
+
+
+therapy is also needed to train patients to get up
+after bed-rest. Graduated foot, leg and back
+exercises maintain muscle-tone so that such com-
+plaints as flat and sore feet and poor posture are
+prevented.
+153
+Another form of physiotherapy that is begin-
+ning to be used with marked success is general
+physical relaxation training. It is of great benefit
+both in bringing about gentle easy breathing and
+physical rest as well as mental relaxation. It is
+therefore, very useful in the treatment of anxious,
+nervous or restless patients and those who are “ poor
+breathers ” — i.e ., using too much their upper chests
+which should be at rest. Forms of electrical treat-
+ment and massage are also needed, for example in
+the treatment of fibrositis, lumbago, strains or
+sprains, etc., among both staff and patients.
+154
+It is important that the physiotherapy depart-
+ment be central, so that it is not too far away for
+weak or wheel-chair patients. If possible, ventila-
+tion should be by french windows (or sliding glass
+doors) on two opposite sides, so that in summer
+there can be a maximum amount of air and in
+winter or windy weather good ventilation without
+draughts.
+
+
+155
+The department should include, in a fairly
+large sanatorium, an office for the head physio-
+therapist. The main room needs to be large
+enough for group treatments, with plenty of space
+for standing exercises, and practice in walking, as
+well as for a row of adjustable plinths for exercises in
+lying and sitting positions. There should be a full-
+length large mirror on at least one wall for posture-
+training.
+156
+Two or three partitioned-off cubicles are also
+needed for individual treatments. The number of
+these must vary with the amount of surgery done
+and the type of wards in the sanatorium. The
+larger the wards the more individual treatments it
+will be necessary to give in the department. If the
+patients are in single rooms, most types of treatment
+can be given in them, and fewer cubicles are needed.
+Any sick staff will also be treated in the cubicles.
+Each cubicle should have a padded adjustable
+plinth, a chair, and a stool. The entrance and width
+of the cubicles must allow for the passage of electrical
+apparatus and wheel chairs or possibly stretchers.
+One cubicle should have a sink with running water
+(for electrical apparatus). There should be a full
+length mirror in each cubicle.
+
+
+157
+In a children’s block or separate children’s
+sanatorium, the following are needed :
+[a) A large room suitable for children’s graded
+classes of posture and strengthening exer-
+cises. Ventilation should be as in the adult
+department. A large, full-length mirror
+should hang on one of the walls.
+(1 b ) A smaller room for general ultra light
+treatments. This room needs to be well
+ventilated and heated through ceilings or
+walls. (A water-cooled ultra voilet lamp
+for local applications may need a sink and
+running water.) The chief item in this
+room would be a Centresol (mercury
+vapour) or carbon-arc U.V.L. burner,
+round which the children should be able
+to sit in a circle at a three foot distance.
+There should be six to twelve stools and
+suitable lockers or chests for eye shields,
+goggles and bathing shorts, etc.
+30. OCCUPATIONAL THERAPY
+158
+The tuberculous patient is always a “long term”
+patient. His treatment may take six months, a
+year, or longer, and with modern lung surgery this
+period tends to increase rather than decrease. The
+patient’s mental outlook is therefore supremely im-
+portant. Boredom, anxiety, and active opposition
+78
+OCCUPATIONAL THERAPY
+
+
+are common features of the tuberculous psychology,
+and useful ways of filling in time —and possibly
+even of evolving a new sort of skill —lie in the
+practice of diversional and occupational therapy.
+159
+Various forms of handwork, drawing, painting,
+modelling, are familiar examples. The learning of
+a new language, or other more intellectual pursuits,
+also come under this heading. Dressmaking and
+dress design is popular with women patients.
+Nowadays these subjects are taught by visiting
+specialists, and for them some accommodation is
+needed in every sanatorium.
+160
+Occupational therapy assists in rehabilitating
+manual and heavy workers, and such crafts as
+carpentry, bookbinding and weaving should be
+taught and supervised in properly equipped work-
+shops attached to the department. Such occupa-
+tions are useful in the gradual toughening-up process
+of patients in order to enable them to return to
+normal working conditions.
+161
+All work should be supervised by trained
+occupational therapists who will discuss with the
+patients their individual preferences for the various
+
+
+types of work, and who will allocate and grade the
+work according to the doctors’ estimates of the
+patients’ capacities and needs.
+162
+Some eight or nine years ago art therapy began
+to play an important part on the diversional side,
+and people are now encouraged to bring out latent
+talents in this direction. It is surprising how many
+patients have found a permanent interest in
+painting, both in water-colours and oils. But for
+many there must still be hours of enforced idleness
+and it is an excellent practice to hang reprints of
+good pictures in suitable frames on the walls of
+single rooms and spaced out in large wards, so that
+the patients may have something pleasant to look
+at during their hours of rest and examples of the
+work of the great masters to contemplate.
+163
+Accommodation for occupational therapy
+should be generous. It may take the form of
+workshops, art rooms, or a store for materials with
+teaching-rooms for the occupational therapist.
+Fashions change, and occupational therapy alters
+with the tastes and abilities of those who practise it.
+Therefore it is probably best that the accommoda-
+tion designed for this purpose should be of the sort
+which can be adapted easily to all forms of occupa-
+tional therapy.
+OCCUPATIONAL THERAPY
+
+
+31. RECREATIONAL FACILITIES
+164
+Sanatorium treatment is often long and can be
+tedious if there are few opportunities for entertain-
+ment and hobbies. A central hall for concerts and
+film shows is important, and attached to it there
+should be a library, a quiet room for study, and if
+possible, a separate television room.
+32. THE PHARMACEUTICAL DEPARTMENT
+165
+The plan for a pharmaceutical department
+must be related to the size of the sanatorium. For
+a sanatorium of 200 beds or more, the department
+should be capable of providing a service to cope
+with modern methods of treatment. It should
+provide a centre for the distribution of all medical
+and surgical requirements, including a central
+syringe service.
+166
+Separate rooms should be provided for :
+(a) Dispensary.
+[b) Preparations room.
+{c) Sterilising laboratory.
+[d) Drug-store.
+(e) Dressings store.
+(/) Instruments and surgical sundries store.
+(g) Medical gases store.
+[h) Bottle store.
+F
+81
+THE PHARMACEUTICAL DEPARTMENT
+
+
+These should be housed together, preferably in one
+building, centrally situated in relation to the wards
+and departments, and on a service road so as to give
+access to heavy lorries delivering supplies. A
+small store, outside the building but adjacent to the
+department, will be required for inflammable goods.
+It will be necessary to provide adequate power
+points for gas and electricity, and sinks with hot and
+cold water supply in the dispensary, preparations
+room and sterilising laboratory.
+167
+The walls and ceilings of the sterilising labora-
+tory should have washable surfaces, and the joins
+should be rounded to diminish the harbouring of
+dust and to facilitate cleaning. Twin doors to
+provide an air-lock, are desirable. An autoclave,
+hot-air oven and a water-still should be housed in
+an immediately adjacent room.
+168
+The provision of a full pharmaceutical service
+for a smaller sanatorium, e.g., of 50 beds, is a matter
+requiring careful consideration. It might be ad-
+vantageous to arrange for a service from the depart-
+ment of a neighbouring hospital or for the purchase
+of the limited requirements in a form ready for use.
+THE PHARMACEUTICAL DEPARTMENT
+
+
+33. OUT-PATIENT DEPARTMENT AND OTHER
+FACILITIES
+169
+In a 200 to 240-bed sanatorium, provision is
+required for artificial pneumothorax and pneumo-
+peritoneum inductions and refills totalling some
+5,000 to 7,000 per annum. This figure includes
+staff receiving treatment but not out-patients, the
+number of whom depends upon local circumstances.
+If the sanatorium is of compact design with
+good floors and adequate lifts so that the clinic is
+accessible from all wards, the bulk of this treatment
+can be carried out at one point.
+In addition, pleural aspirations, bronchograms
+and other measures can be dealt with in the same
+room if a minor operating theatre is not associated
+with the radiographic department.
+The main room of the refill clinic should
+therefore be of adequate dimensions with between
+300 and 400 sq. ft. of floor space.
+Access by wide doors for the passage of trolleys
+or beds is necessary. Good natural lighting is an
+advantage but means for rapid blackout should be
+provided.
+A sterilising room suitably equipped for bowls
+and instruments should be adjacent and a linen
+store is needed. Scrubbing up facilities are
+desirable in the main room.
+83
+OUT-PATIENT DEPARTMENT AND OTHER FACILITIES
+
+
+Doors should give access to and from the X-ray
+screening unit in an adjacent room which is light-
+proof and, associated with this, dressing cubicles are
+required. There should be a waiting room for
+patients who have been screened prior to refills, and
+adequate assembly space is necessary. Particular
+attention should be paid to the convenient circula-
+tion of the patients and provision for both sexes will
+simplify this. Office accommodation for staff and
+records should be provided and a small recovery
+room may sometimes be an asset.
+170
+Dentist’s Department. This is a necessary
+part of the out-patients’ department, and should
+consist of a fully-equipped dentistry, with adjoining
+waiting-room and small workshop. At least two
+half-day sessions per week are likely to be needed
+in a 240-bed sanatorium.
+171
+Clinical Dark-room. Either a special room
+for ear, nose and throat and eye examinations,
+or facilities for darkening an existing room are
+necessary. The room for the ophthalmologists’ use
+should be at least 22 ft. long.
+34- CHILDREN’S BLOCK
+172
+It is important that children of school age and
+under should be treated in a separate block of the
+sanatorium. This should be designed on roughly
+84
+CHILDREN’S BLOCK
+
+
+the same lines as the adult hospital, though provision
+for school and play rooms take the place of the
+occupational therapy department. If proper hy-
+giene measures are observed, there is no reason why
+child patients should not use the same services
+(kitchen, laundry, etc.) as the adult department,
+but of course dining rooms, washing-up facilities,
+etc., should be separate.
+173
+The same general principles of sanatorium
+treatment apply to the treatment of intra-thoracic
+tuberculosis in children as in adults, but there are
+some differences which have to be taken into
+account. Chronic pulmonary tuberculosis of the
+adult type is uncommon in children of school age,
+but there are other pulmonary manifestations where
+the outlook is favourable and which respond to
+sanatorium treatment on simple open-air lines.
+l? 4
+In some areas serving a large population,
+separate children’s sanatoria have been set up.
+These are generally of the single-storey pavilion
+type of construction, with open-air balconies and
+with teaching facilities to enable the children to
+continue their education. For children this type
+of building is preferable to the multi-storeyed block,
+and for cases not requiring active intervention, a
+
+
+sanatorium of their own is a good arrangement. A
+separate pavilion in an existing hospital might also
+be used for the same purpose.
+175
+For sputum positive cases, suitable for active
+treatment, there are great advantages in having a
+children’s block in a modern sanatorium where
+adequate facilities for thoracic surgery are available.
+The accommodation should be very much on the
+same lines as the adult, i.e., single and four-bedded
+wards, and not more than 36 beds to the ward unit.
+The various age groups can thus be sorted out,
+potentially infectious cases isolated, and sputum
+positive cases kept apart from the sputum negative.
+A balcony with an overhead canopy should be
+provided, and dining and schoolroom accommo-
+dation can be suitably located in a central annexe.
+The other services, such as kitchen and laundry,
+are more economically provided centrally.
+35. STAFF ACCOMMODATION
+176
+The medical superintendent or chief physician
+of a large sanatorium generally lives in a house of
+his own some distance away, but suitable quarters
+should be provided in the hospital for married and
+unmarried members of the staff. Such quarters
+have generally been inadequate in the past, and
+have left no accommodation for the visiting specialist
+86
+STAFF ACCOMMODATION
+
+
+who may occasionally spend a night at the sana-
+torium, or for an expanding number of staff.
+Imagination should be used to make the living
+accommodation home-like, because sanatoria staff
+tend to settle down for a few years.
+177
+Staff accommodation can come under three
+main headings :
+Medical.
+Nursing.
+Other Staff.
+Medical Staff. For resident medical staff
+of junior rank, who are unmarried, a bed-
+sitting room with individual bathroom should be
+adequate, provided there is generous common- and
+dining-room space. There should also be a well-
+planned pantry and service-room with adequate
+equipment adjacent to the dining-room, and it is an
+advantage to have a utility-room where wet coats,
+etc., can be hung for drying, and where sports gear
+can be stored and cleaned. For those who are
+married and for senior doctors there should be self-
+contained flats or houses of varying size, but in the
+main of five or six rooms including the kitchen. It
+is suggested that two guest-rooms, and a small self-
+contained flat (with bedroom, bathroom and sitting-
+room) for the visiting specialist should be provided.
+87
+STAFF ACCOMMODATION
+
+
+178
+A library and quiet-room for study and research
+is necessary and, since we hope that the teaching of
+medical students will become a regular feature of
+sanatorium life in the future, the lecture-room
+(which could also be used for nurses’ lectures) might
+be placed in the medical staff quarters, conveniently
+near the library,
+179 “
+Nursing Staff. Nursing staff accommo-
+dation requires to be planned more imaginatively
+than has been the custom in the past. The
+“ Nurses’ Home,” as we have known it, is no
+longer acceptable to senior nursing staff, but one
+sufficiently large for the student nurses is still
+required. For each student nurse there should be
+a well-proportioned bedroom with built-in cup-
+boards, bookshelves and fitted basin. A pleasant
+common-room and smaller rooms where nurses can
+receive and entertain friends are necessary. As
+most sanatoria are situated in the country, the
+provision of at least two guest rooms in the home
+is very desirable. Not infrequently nurses have
+relatives or friends wishing to visit them and a
+pleasanter atmosphere is created if they can be
+accommodated in the nurses’ home.
+180
+Ample bathrooms and shampoo rooms, facilities
+for making tea, an ironing and laundry room for
+
+
+washing small articles, a small room with a sewing
+machine and work table are all conveniences which
+help to make a smoothly run home. A cloak-room
+with warm pipes is required where any damp outer
+clothing can be dried. The nurses’ lecture and
+practical demonstration rooms may be in this block
+(if the medical lecture theatre near the library is not
+used), as well as accommodation for the preliminary
+training school nurses and sister tutor’s office.
+181
+For the senior nursing staff and medical aux-
+iliaries planning should allow for self-contained or
+residential flats or houses. This is very important
+if gross salaries are to be paid to all nursing staff
+and medical auxiliaries. The building costs would
+have to be such that this accommodation could be
+let at an economic rental. But we do not think of
+this accommodation as being solely for nurses and
+medical auxiliaries ; it should be available for
+clerical assistants and other employees of that grade.
+As in the case of doctors, the houses should be easy
+to run and of varying sizes, but in the main five
+rooms should be enough.
+182
+It is preferable to have the dining-room
+accommodation, where main meals are served,
+adjacent to the central kitchen. Facilities for light
+refreshment should be provided in each block for
+G
+89
+STAFF ACCOMMODATION
+
+
+the occupants of the residential flats ; those who
+occupy self-contained flats or houses would naturally
+make their own arrangements. The dining-room
+should be planned to give a cafeteria service.
+—lB3
+Other Staff. Resident and non-resident
+domestic as well as maintenance, portering and
+technical staff come under this heading. The quota
+of accommodation to be provided for these grades
+depends very much on how near the sanatorium is
+to an urban area. Generally speaking, accommo-
+dation for 35 per cent of the estimated total of such
+employees will be sufficient.
+The planning of this accommodation must be
+on similar lines to the nurses’ quarters, so that,
+if the staffing situation changes radically in either
+direction, the accommodation may be converted
+accordingly.
+A house, conveniently situated, for the engineer
+should not be forgotten.
+36. ACCOMMODATION FOR PATIENTS’ RELATIVES
+IB4
+In a modern sanatorium that carries out all
+forms of treatment and thus performs the major
+operations of thoracic surgery, it is essential to have
+accommodation set aside in close proximity to the
+surgical wing for relatives of the dangerously ill.
+This accommodation deserves some care in plan-
+90
+ACCOMMODATION FOR PATIENTS’ RELATIVES
+
+
+ning, and there should be one self-contained suite
+set aside for the purpose in a sanatorium or block
+of 240 beds. A small, comfortably furnished room
+on each floor of a compact structure is a reasonable
+additional provision.
+37. SANATORIUM ADMINISTRATIVE BLOCK
+185
+The administrative requirements of a sana-
+torium of say 240 beds will vary with local circum-
+stances, individual customs and prejudices— e.g.,
+whether the secretary or the medical superintendent
+acts as chief administrative officer ; whether the
+matron is responsible for the domestic side, and
+whether the almoner undertakes work which could
+be done by the secretary’s department. The needs
+of a “ regional group ” sanatorium under such a
+state medical scheme as the British National Health
+Service will also be rather different from those of an
+independent sanatorium.
+186
+Greater responsibility falls on the staff of an
+independent sanatorium than on that of the group
+sanatorium, and provision should be made for this.
+We suggest the following staffing plan for such a
+voluntary type of sanatorium with 240 beds ;
+Secretary.
+Assistant secretary/accountant.
+Senior shorthand-typist.
+Junior shorthand-typist.
+91
+SANATORIUM ADMINISTRATIVE BLOCK
+
+
+Records clerk.
+Medical staff secretary.
+Senior accounts clerk.
+Junior accounts clerk.
+Wages clerk.
+Telephonist/receptionist or hall porter.
+Almoner.
+Almoner’s clerk.
+-187 -
+For a group sanatorium of the same size the
+following staff should be adequate :
+Administrative assistant.
+Senior shorthand-typist.
+Junior shorthand-typist.
+Records clerk.
+Accounts staff —according to requirements.
+(Much of the work would be done at the
+regional group headquarters).
+Medical staff secretary.
+Telephonist/receptionist or hall porter.
+Almoner.
+Almoner’s clerk.
+188
+To accommodate this side of the sanatorium
+work, the administrative block should include an
+entrance hall for visitors with suitable toilet accom-
+modation and hall porter’s or receptionist’s desk ;
+SANATORIUM ADMINISTRATIVE BLOCK
+
+
+a general office opening off the hall for a staff of say
+four, with filing cabinets, records racks, stationery
+cupboards, duplicating machine, etc. ; a secretary’s
+office, adjacent, with private entrance; an accounts
+office to accommodate a staff of say four and visiting
+audit staff (this should include a lobby easily avail-
+able to other staff but with an approach out of sight
+of the entrance hall, and a small private office for
+the assistant secretary and accountant) ; a board
+room near the secretary’s office ; an almoner’s
+office opening off the entrance hall, with small office
+for clerk ; a matron’s office with assistant matron’s
+and clerk’s offices adjoining ; a medical superin-
+tendent’s office with medical staff secretary’s office
+adjoining ; and staff toilets.
+38. CHAPLAIN’S DEPARTMENT
+189
+In a Ministry of Health circular (H.M.C. (48)
+62) it is laid down, concerning the appointment of
+chaplains under the National Health Service, that
+“ whenever the size of a hospital justifies it, a room
+should be set apart for use as a chapel. This should
+be made available as far as can be arranged for the
+services of any of the denominations who wish to
+use it.” In a sanatorium, where so many of the
+patients are long-term and often able to walk about,
+the need for a chapel is even greater than in a
+general hospital.
+93
+CHAPLAIN’S DEPARTMENT
+
+
+190
+The “ consecration” of a chapel involves a legal
+process and restricts the use to which it can be put.
+Except in special circumstances, therefore, itwould
+be better to do no more than “ dedicate ” the
+chapel, in which case it could be used by all
+denominations. Wherever possible, however, a
+special room should be set apart for Roman
+Catholic use.
+191
+Adjoining the chapel there should be a small
+room for the chaplain —to be used as his vestry and
+office, and where he can talk privately with in-
+dividual patients and relatives. The size of the
+chapel and vestry must be based on the size of the
+sanatorium. Suggestions are sometimes made that
+the Chapel should open into a larger room (such
+as the dining-hall) so that larger numbers can on
+occasion be accommodated there at special times of
+worship. This is generally not practicable. The
+chapel should be quietly situated away from the
+noise of other activities.
+39 STORES AND MAINTENANCE DEPARTMENTS
+192
+In future there is likely to be some standard-
+ising of systems of records and stores issues under
+the National Health Service in Great Britain.
+Staffing of maintenance departments of hospitals
+94
+STORES AND MAINTENANCE DEPARTMENTS
+
+
+has depended on the extent of reconditioning,
+structural additions or alterations, which it was the
+policy of the administration to carry out by direct
+labour, as well as on the type and age of the build-
+ings to be maintained.
+193
+Generally, boiler plant and its distributing sys-
+tem providing steam, central heating and domestic
+hot water is supervised and maintained in running
+order to the requirements of insurance companies
+by an engineer who may be responsible also for
+electricity supply, external sewage works, water
+supply and softening plant, road repairs and main-
+tenance of transport vehicles.
+194 “
+Structural maintenance, minor alterations and
+furniture repairs, as well as building work in associa-
+tion with engineering services, are conveniently
+performed under a buildings supervisor. The
+salary of a qualified clerk of works capable of pro-
+ducing plans, specifications and estimates may be
+offset by an economy in the use of materials and
+skilful direction of labour. Such an officer can also
+be of assistance to the administrator and this is also
+true of a thoroughly competent engineer for that
+aspect of maintenance and development work. But
+whatever the pattern of administration, generous
+storage space for engineering and maintenance
+materials is necessary.
+95
+STORES AND MAINTENANCE DEPARTMENTS
+
+
+195
+A proper system of goods receipts and stores
+issues should be maintained by a technical store-
+keeper. Under his supervision should be the
+technical stores and a builder’s yard for bulky items
+such as steam barrel, sinks, stoneware, tiles and
+slates, cement, lime and timber. Office accommo-
+dation should be planned for technical storekeeper,
+engineer, and buildings supervisor. Workshops can
+conveniently be grouped in two main units :
+(a) For the engineer’s staff—fitters’ shop,
+motor mechanics’ shop, electricians’ shop,
+blacksmiths’ shop.
+(b) For the buildings supervisor’s staff—car-
+penters’ shop, joiners’ shop, paint and
+glazing shop, upholsterers’ shop, plumbers’
+shop.
+Both these departments require some covered
+storage and open yard space for their equipment
+and secondhand materials. Go-operation is neces-
+sary between them as much of the work is carried
+out in common.
+196
+Garage accommodation for the transport
+vehicles should be conveniently near the engineering
+department. It should include inspection pit and
+washdown.
+
+
+197
+The extent to which mechanisation should be
+carried out in the above departments must depend
+upon the amount of work to be done. In general,
+labour saving machinery of adequate capacity
+should be installed wherever feasible.
+198
+The buildings should be properly lighted,
+heated and ventilated and general attention should
+be given to the floors, which may have to carry
+considerable weight and withstand rough usage.
+Adequate cloakrooms, toilet facilities and showers
+should be provided for all maintenance staff as well
+as for the men working in the boilerhouse.
+40. THE DESIGN OF SANATORIA FOR TROPICAL AND
+SEMI-TROPICAL CLIMATIC CONDITIONS
+199
+The design of sanatoria must, of course, be
+modified in tropical and sub-tropical areas by
+climate and by different medical and sociological
+conditions. New sanatorium building in such areas
+would form part of the programme of attack against
+tuberculosis and a medical survey should indicate
+the type of sanatorium most suited to the conditions.
+97
+SANATORIA FOR TROPICAL AND SEMI-TROPICAL CONDITIONS
+
+
+200
+Generally speaking, there is a tendency to
+over-estimate the contribution of the rural type of
+local materials and methods of construction. Too
+general a use of these incurs excessive expenditure
+in maintaining the hospital buildings in a sound and
+sanitary condition. There is an opposite tendency,
+however, to under-estimate local experience of the
+climate and means of protection against it. This
+is important in the case of tuberculous patients who
+would be uncomfortable if not protected from sun
+and rain as much as they themselves felt necessary.
+Conditions may vary between a hot, dry climate
+with cool nights, and a warm, wet climate with little
+temperature variation between day and night. In
+the former case, the buildings should have thick
+walls with small openings well protected against the
+sun. In this way, the outside day heat is not
+transmitted to the interior. In the latter case, the
+air must be allowed to flow freely through the build-
+ings while rain and sunshine must be kept out.
+201
+The amount of rain which can enter a building,
+even if it has wide eaves, is considerable. Under
+most tropical conditions it is impracticable to have
+beds out on verandahs, since the leeward side of a
+building is unbearable and when rain comes on the
+
+
+windward side, the patients cannot be moved
+quickly enough. Careful siting of the wards is
+necessary in order to avoid a west exposure which
+is, in most cases, too hot.
+202
+Air conditioning is expensive to install through-
+out a hospital and it is doubtful whether its use is
+justified except in climates so unbearable that a
+sanatorium could not otherwise be built there. But
+in theatres, X-ray rooms and other special rooms it
+is, of course, necessary. Care should be taken in such
+cases that the temperature is not reduced too much.
+In most climates, a large reduction in humidity and
+a small reduction in temperature should be made.
+For instance, in a climate with a day temperature
+of 85 °F. and a relative humidity of 90 per cent,
+reduction should be to 78°F. and 50 per cent
+respectively.
+203
+In climates requiring a free flow of air through
+the wards, English practice in ward planning need
+not be strictly followed. Wards may be three beds
+in depth and beds can be placed farther from the
+windows (as indeed they must be in many climates
+to avoid rain spray). The height of wards depends
+on the width of the largest ward on the floor and,
+in any case, should be no less than ten feet.
+
+
+204
+Windows to wards should be made to open
+completely and should be provided with horizontally
+hung sashes on exposed sides. Louvres should be
+used sparingly as they collect dust. The lower
+panes of windows can be glazed with non-actinic
+glass where the sun may strike. It is best to provide
+additional ventilation near the floor if only for
+psychological reasons. This can be best done by
+having some windows to open to the floor on to
+verandahs or balconies. Fanlights can be left
+entirely void if sufficiently protected by verandahs.
+205
+Internal doors to wards can be three-quarter
+length with space top and bottom and hung on
+spring hinges. They need not be louvred and can
+be fastened back by cabin hooks. Movable screens
+and curtains are not satisfactory if exposed to breeze.
+206
+The planning of ward ancillaries follows the
+usual practice, but if possible such rooms should be
+made one foot larger each way to allow more
+comfort when working. Shower baths are preferred
+and each compartment should allow room for dress-
+ing. Showers over ordinary baths are dangerous.
+Wash basins should have taps which allow washing
+under running water.
+100
+SANATORIA FOR TROPICAL AND SEMI-TROPICAL CONDITIONS
+
+
+207
+Provision must be made for the parking under
+cover of cars of regular staff and covered access to
+the covered park is desirable. Mechanical and
+other services follow the usual practice. Space
+heating, of course, is not necessary. Unheated
+water is used, in fact preferred, for ordinary
+ablutions. No practical and efficient system of
+heating water by the sun appears to have been
+installed on a large scale. Some further experi-
+ments in this form of heating would be useful.
+208
+Where no main drainage system exists, sewage
+is usually disposed of through settling tanks and
+open jointed pipes, while waste water (sullage)
+by-passes the sewage system. This method is usual
+in the tropics but differs from that employed in
+Great Britain, where waste and sewage are usually
+dealt with together.
+209
+Building materials are somewhat limited in
+tropical countries. Stone and gravel for concrete
+work can be found, of course, in most districts; bricks
+are very little used, but hollow clay or concrete blocks
+are manufactured, and various forms of oil residue
+and bitumen are available for paving. Cement,
+steel, pitch-pine, asbestos-cement products, cedar
+
+
+shingles, building boards, hardware, glass, paint,
+clay tiles, materials for drainage, plumbing and
+wiring and all equipment are usually imported.
+Labour and transport constitute about 50 per cent of
+the value of building work in the colonies, local
+materials 10 per cent, and imported materials
+40 per cent.
+210
+Reinforced concrete construction can be
+adopted with advantage and most buildings may
+have a reinforced concrete frame and floors, with
+walls of hollow clay or concrete blocks, both of
+which are satisfactory for insulation. Roofs of
+either single or double slope provide good insulation,
+and asbestos-cement corrugated roofing provides
+better insulation than corrugated iron. Asbestos-
+cement sheets are best used in strips laid in the
+form of Roman tiles. Asbestos-cement is subject to
+mildew and should be painted to avoid this. Floor-
+ing may be of hard-wood, terrazzo, concrete tiles or
+clay tiles. A good, jointless, composition floor
+should be imported, and asphalt tiles used only if
+they resist indentation.
+211
+Rainwater, unless collected and stored, may be
+allowed to run off into concrete ground channels
+surrounding the buildings. These channels should
+have a shallow V section. Eaves and gutters are
+
+
+used over entrances only. Rainwater storage cis-
+terns should be erected above ground to avoid risk
+of contamination.
+Mosquito screening may not be necessary if the
+grounds and district are cleared of mosquitoes, a
+practice now possible and usually adopted.
+Similarly, fly nuisance should be abolished at source
+and screening, except where food is stored, should
+be unnecessary.
+CONCLUSION
+212
+In the previous pages we have attempted to
+give guidance on many problems which concern the
+designer of a new sanatorium. We do not claim
+that these paragraphs have been exhaustive, but we
+hope they have been helpful in suggesting new ideas.
+Fertility of resource will help us to create for our
+sanatorium patients the background against which
+modern clinical medicine can have the best hope of
+arresting the disease.
+213
+One consideration which we should like to
+emphasise —for many months the sanatorium is the
+patient’s home. It is moreover the place which his
+relatives and friends come to visit. From the first
+acquaintance with the institution the patient sets in
+train thoughts which may help him towards recovery
+—or the reverse, and those who come to see him
+
+
+may often adopt the human attitude of judging the
+technique of medical treatment (which they cannot
+see) by the obvious standard of comfort and con-
+venience of the institution which they can judge for
+themselves. Bright colours, attractive paintwork,
+pleasant carpets and chair-covers, all these mean a
+great deal to a sick person. Flower-beds and land-
+scape gardening can achieve a large effect for
+modest expenditure. In the nurses’ home such
+things as ornamental chandeliers, unusual fittings,
+may demonstrate inexpensively that this is truly a
+home for the nurses for the time being, and may
+remove that institutional impression which is so
+chilling to enthusiasm.
+214
+As the organisation of our hospitals becomes
+more uniform, the need for a corresponding increase
+of amenity, the avoidance of what is stereotyped
+and ultra-conventional becomes of great import-
+ance. We are all influenced to a large extent by
+our surroundings. It is the pleasant duty of the
+planner of a sanatorium to contribute to the
+patient’s welfare and thus to help him on the road
+to cure.
+104
+
+
+The [?] bed block (1910).
+“ Kingwood ” —adapted for women patients (1915).
+II
+I
+BERKS AND BUCKS JOINT SANATORIUM, PEPPARD COMMON, OXFORDSHIRE.
+
+
+By kind permission of the Medical Director.
+SANATORIUM “ ZONNESTRAAL ” HILVERSUM, HOLLAND.
+By courtesy of the Medical Superintendent.
+PAIMIO SANATORIUM, PREITILA, FINLAND.
+II
+
+
+By courtesy of Messrs. W. H. Watkins, Gray & Partners, FF.R.I.B.A.
+MASSON SANATORIUM, TRINIDAD, BRITISH WEST INDIES.
+III
+
+
+Aero Pictorial Ltd.
+KING EDWARD VII SANATORIUM, MIDHURST, SUSSEX.
+Architectural Press photograph.
+SULLY HOSPITAL, GLAMORGAN, WALES. Entrance front.
+IV
+
+
+New surgical wing.
+New surgical wing. Patient’s room. Ministry of Works Copyright.
+V
+KING EDWARD VII SANATORIUM, MIDHURST, SUSSEX.
+
+
+Nursing Mirror photograph.
+BROOMFIELD HOSPITAL, CHELMSFORD, ESSEX. Second floor balcony.
+VI
+
+
+PANEL HEATING. Arrangement of system during progress of work. Invisible Panel Warming Association photograph.
+VII
+
+
+Illustrations by kind permission of W. N. Froy & Sons Ltd., Hammersmith. London.
+SURGEONS’ LAVATORY BASINS.
+VIII
+
+
+KING EDWARD VII SANATORIUM, MIDHURST, SUSSEX. Main kitchen.
+IX
+
+
+X
+
+
+Children’s pavilion.
+Children at play.
+XI
+MEARNSKIRK SANATORIUM, SCOTLAND.
+
+
+Theatre and sterilising room. By kind permission of the Hospital Management.
+BÜRGERSPITAL, BASLE, SWITZERLAND.
+XII
+
+
+MEARNSKIRK HOSPITAL, SCOTLAND.
+Theatre for thoracic surgery.
+XIII
+
+
+Pathological laboratory. By kind permission of the Hospital management,
+BÜRGERSPITAL, BASLE, SWITZERLAND.
+XIV
+
+
+Diagnostic room.
+X-RAY DEPARTMENT.
+
+
+Male nurses’ sitting room. Nursing Mirror photograph.
+BROOMFIELD HOSPITAL. CHELMSFORD, ESSEX.
+XVI
+
+
+SULLY NR. CARDIFF
+3 Stories
+2 Stories 3 Stories
+VORDINGBOK : DENMARK
+ZONNESTKAAL : HOLLAND
+2 Storied Pavilions
+PAIMIO : FINLAND
+7 Stories
+MASARYK : CZECHOSLOVAKIA
+6 Stories
+SANATORIUM BLOCK PLANS COMPARED.
+XVII
+
+
+CONTINUOUS BALCONY [?] WIDE
+(1)
+CONTINUOUS BALCONY TERRACE TYPE
+(2)
+CONTINUOUS BALCONY 4. O" WIDE (3)
+
+
+VERANDAH TYPE WARD
+WITH SLIDING FOLDING WINDOWS
+(4)
+LIEGE HALLE AT END OF PATIENTS BLOCK
+(5)
+LIEGE HALLE INSET INTO PATIENTS BLOCK
+(6)
+XIX
+
+
+INDIVIDUAL BALCONIES . TYPE. A
+(7)
+INDIVIDUAL BALCONIES . TYPE. B
+(7)
+
+
+INDEX
+Paras.
+Accommodation—Patients’ Relatives .. . . .. . . .. . . 184
+Staff .. .. .. .. .. .. .. 176-183
+occupational therapy . . . . .. .. . . .. 159
+patients’ . . . . . . . . .. 13, 23-30, 36, 49-53
+trolleys . . . . . . . . . . . . . . 132
+visitors, nurses’ . . . . . . . . . . . . . . 179
+Acoustic tiles and plasters .. . . . . . . . . . . 89
+Additions and alterations . . . . . . . . . . . . 192
+Adjustable head ends, beds . . . . . . . . . . . . . . . . 94
+plinths 155, 156
+Administrative Block . . . . . . . . . . . . . . 185-188, 21
+maintenance policy . . . . . . . . . . . . . . 192
+staff lobby . . . . .. . . . . . . . . . . 188
+Admission of patients . . .. . . . . . . . . . . . . . . 9
+Aerodromes, distance from . . . . . . . . . . . . . . . . 19
+Air-conditioning . . . . . . . . . . . . . . . . . . 143
+tropics . . . . . . . . . . . . . . . . 202
+Airing beds . . . . . . . . . . . . . . . . . . . . 108
+clothes . . . . . . . . . . . . . . . . . . . . 99
+Alternating current . . . . . . . . . . . . . . . . . . 63
+Altitude 5, 6
+Aluminium conduits . . . . . . .. . . . . . . . . . . 63
+Ambulant patients . . . . . . . . . . . . . . . . 58, 107, 189
+American sanatoria , . . . . . . . . . . . . . . . . . 100
+Anaesthesia . . . . . . . . . . . . . . . . . . . . 3
+Anaesthetic room . . . . . . . . . . . . . . . . . . 144
+Animal house . . . . . . . . .. . . . . . . . . .. 145(e)
+post-mortems . . . . . . . . . . . . . . . . . . 145(c)
+Annexe, washing and shaving, patients . . . . . . . . . . . . 58
+Antiseptic solution . . . . . . . . . . . . . . . . . . 96
+Anti-siphonage pipes . . . . .. . . . . . . . . . . . . 59(a)
+Appointment of chaplains . . . . . . . . . . . . . . . . 189
+Area of grounds . . .. .. . . . . .. .. . . . . 13
+Art rooms . . . . . . . . . . . . . . . . . . . . 163
+therapy . . .. .. . . . . .. .. . . . . .. 162
+Artificial pneumothorax . . . . . . . . . . . . . . 148, 169
+ventilation . . . . . . . . . . . . . . . . . . 148
+Asbestos-cement, tropics . . . . . . . . . . . . . . 209, 210
+Aspect, England . . . . . . . . . . . . . . . . . . 12
+tropics . . . . . . . . . . . . . . . . . . . . 12
+Asphalt tiles . . . . .. . . . . . . . . . . . . . . 8g
+tropics . . . . . . . . . . . . . . . . . . 210
+Asthmatic patients . . . . . . . . . . . . . . . . . . 98
+Autoclave . . . . . . . . . . . . . . . . . . . . 167
+Back-rests . . . . . . . . . . . . . . . . . . . . 94
+Bacteriological work . . . . . . . . . . . . . . . . . . 145 (b)
+Bacteriologist . . . . . . . . . . . . . . . . . . 123, 126
+Balconies .. .. .. .. .. . . .. .. 45-47, 174, 175
+Basement ~ ~ ~ ~ .. ~ ~ ~ , . .. 10
+
+
+Paras.
+Bathrooms, medical staff . . . . . . . . . . . . . . . . 177
+nurses’ 180
+Baths .. 59 (0
+Battleship linoleum . . . . . . . . . . . . . . . . . . 85
+Bed accommodation, patients’ . . . . . . . . 12, 24, 30, 36, 49-53
+Bed-pan washers . . .. . . . . . . . . . . . . . . 111
+Bedrooms, nurses’ . . . . . . . . . . . . . . .... 179
+Bedside tables . . . . . . . . . . . . . . . . . . . . 99
+Bed-sitting rooms, medical staff .. .. .. .. .. .. .. 177
+Bed tables . . . . . . . . . . . . . . . . . . . . 99
+Beds, size of . . . . . . . . . . . . . . . . . . . . 93
+transport of . . . . . . . . . . . . . . 42, 47, 94, 142
+Beginnings and Development of Sanatorium Treatment . . . . . . 1-4
+Beverages, service of . . .. . . . . . . . . . . .. 113
+Biochemistry . . . . .. . . .. . . . . . . . . . . 145 (A)
+Black Forest . . . . . . . . .. . . . . . . . . . . 1
+Blackout 143, 169, 171
+Blacksmiths’ shop . . . . . . . . . . . . . . . . . . 195( a )
+Blankets . . . . . . . . . . . . . . . . . . . . . . 97
+Blood sugar estimations . . . . . . . . . . . . . . . . 145(6)
+urea estimations . . . . . . . . . . . . . . . . 145(6)
+Bodington, George (1799-1882) . . . . . . . . . . .. . . 1
+Body-store, mortuary . . . . . . . . . . . . . . . . . . 147
+Board room . . . . . . . . . . . . .. . . . . . . 188
+Boiler plant . . .. . . .. . . .. . . . . . . 1 39> 1 93
+Boilerhouse workers . . . . . . . . . . . . . . . . . . 198
+Bookshelves, nurses’ rooms . . . . . . . . . . . . . . .. 179
+Bottle racks . . . . . . . . .. . . . . . . . . . . 111
+Bottle store . . .. . . .. . . . . . . . . . . . . 166
+Brackets, for sputum containers .. . . .. . . . . . . . . 60
+light . . . . . . . . . . . . .. . . . . . . 67
+pipe . . .. . . . . . . .. .. . . . . . . 56
+Bread room . . . . . . . . . . . . . . . . . . . . 133
+Brehmer, Dr. Hermann .. . . . . .. . . . . . . . . 1
+Brick buildings . . . . . . . . . . . . . . . . . . . . 31
+Bricks, tropics . . . . . . . . . . .. . . . . . . . . 209
+British National Health Service .. . . .. . . . . 185, 189, 192
+British X-Ray and Radium Protection Committee .. .. .. .. .. 151
+Brompton Hospital Sanatorium . . . . . . . . . . . . . . 3
+Bronchograms . . . . . . . . . . . . . . . . . . . . 169
+Bronchoscopies . . . . . . . . . . . . . . .. . . . . 144
+Builder’s yard .. .. .. .. .. .. .. .. .. .. 195
+Building costs, staff accommodation . . . . .. . . .. . . . . 181
+materials .. .. .. .. .. .. .. .. 3 1 , 195
+tropics . . . . . . . . . . . . . . . . 209
+Built-in cupboards, nurses’ . . . . . . . . . . . . . . . . 179
+wardrobes, patients’ . . .. . . . . . . . . . . . . 99
+W.C.’s 59 (6)
+Bungalow type sanatoria . . . . . . . . . . . . 33, 35, 45, 174
+Bunsen burners . . . . . . . . .. . . . . . . . . .. 105
+106
+
+
+Paras.
+Bus routes . . .. . . .. . . . . ■ • • • • • • • 9
+Buzzer system . . . . . . . . . . . . . . • • • ■ • • 7°
+Cafeteria service, nurses’ . . . . . . . . .. . . • • • • 182
+Cakes, preparation room . . .. . . .. . . . . • ■ • • 1 3 1
+Call system . . .. . . .. . . • • • • • • ■ • • • 7°
+Galor gas .. .. . . . . . • • • • • • • • ■ • • io s
+Calorifier .. .. . . . . . . • • ■ • • • • ■ ■ • 77
+Canopy, balcony and window .. .. .. .. .. .. 37, J 75
+Car headlamps, glare from .. . . .. . . . . . . • • • • 73
+Carbon-arc U.V.L. burner .. .. .. .. .. .. • • 1 57(^0
+Carpenters’shop .. .. .. .. .. •• •• 1 95(b)
+Cartons, waxed .. . . . . . . . • • • • • • • • • 12 5
+Casement window . . .. . . . . . . • ■ • • • ■ • • 38
+Castors .. . . . . . . • ■ ■ • • ■ • • • • • • ■ • 87, 94
+Ceiling light fixture . . . . .. . . . . • • • ■ • • • • 68
+panels (heating) .. . . . . . . • ■ • • • • 75, 1 57(^)
+Ceilings 79, 89, 167
+Cemetery . . . . .. . • • • • • • • • • • ■ • • 22
+Central hall .. . . . . • ■ ■ • • • ■ • ■ • • • • •
+heating . . . . . . . . • ■ • • • • • • • • x 93
+Centralised facilities, general . . . . . . . . . . . . . . 35, 1 75
+bed-pan service .. . . . . . . .. . • • • •• 111
+kitchen 102, 128-135, 172, 182
+laundry . . .. .. •• ■ . • • • • • • •• 1 7 2
+linen store .. . . . . . . . . . ■ • • ■ • 104, 139
+pharmaceutical department . . . . . . . . . . . . 165
+physiotherapy department . . . . . . 154
+refreshment buffet (staff) . . 113
+sputum disposal .. .. . . . . . . . . 117, 123
+syringe service . . .. . . . . . . . . ■ - • . 165
+washing-up .. . . . . ■ • ■ • 103
+Centresol (mercury vapour) .. .. .. .. .. .. .. •• 1 57(b)
+Chair and trolley room . . . . . . . . . . 106
+Changing rooms (staff) .. . . . . . . . . . - • • • • 1 12
+Chapel 189-191
+Chaplain’s Department . . . . . . . . . . . . . . 189-191
+Chest operations . . .. . . . . . . . . . • • • 14°, J 75,
+Children’s Block .. .. .. .. .. .. .. .. 1 7 2 ~ 1 75, 1 57
+cots . . . . . . . . . . . . . • • • • ■ 95, 96
+sanatoria .. . . .. . . . . . . . . • • • • 1 74
+exercises .. . . . . . . . . . . . • ■ • • • 1 57(a)
+China .. .. 102
+sanitary fittings . . .. . . . . . . . . . . . . . . 57
+Chromium-plated traps . . . . . . . . . . . . • • .. 59 ( a )
+Chronic pulmonary tuberculosis . . . . . . . . . . . . .. 173
+Church services . . . . . . . . . . . . . . • • 1 89-191
+Chute for soiled linen . . . . . . . . . . . . • • 104
+Cleaning equipment . . . . . , . . . . . . . . • • 7 1
+Cleaning . . .. .. . . . . . . . . • . 34, 35, 1 ! 4,
+107
+
+
+Paras.
+Cleaning garbage receptacles . . . . .. . . . . . . . . 115
+teeth . . . . . . . . .. . . . . . . . . . . 60
+Climatic conditions . . .. .. .. . . . . . . . . 2, 67, 37
+tropics . . . . . . . . . . . . . . 199-214
+Clinic, pneumothorax refills, etc. . . . . . . . . . . . . . . 169
+Clinical dark room . . . . . . . . . . . . . . . . . . 17 1
+photography . . . . .. . . . . . . .. .. .. 146
+room (Ward unit) . . . . . . . . . . . . . . . . 105
+Cloakrooms, maintenance staff . . . . . . . . . . . . . . 198
+nurses’ . . . . . . . . . . . . . . . . . . 180
+Codes, call systems . . . . . . . . . . . . . . . . . . 7°
+Cold cathode lighting . . . . . . . . . . . . . . . . . . 64(c)
+storage .. .. .. .. .. .. .. .. .. I 3 2 > x 33
+Collection of sputum containers . . . . . . . . . . . . . . 117
+of garbage . . . . . . . . . . .. .. .. . . 115
+Colour schemes . . . . . . . . . . . . . . . . . . 9 1
+Coloured blankets . . . . . . . . . . . . . . . . . . 97
+lights system . . . . . . . . . . . . . . . . 7°
+Common-room, medical staff . . . . . . . . . . . . . . . . 177
+nurses’ . . . . . . . . . . . . . . . . 179
+patients’ . . . . .. . . . . . . . . . . 92
+Composite locker/bed-table . . . . . . . . . . . . . . . . 99
+Concerts . . . . . . . . . . . . . . . . . . . . 164
+Concrete ceilings . . . . . . . . . . . . . . . . . . 79
+floors . . . . . . . . . . . . . . . . . . 84
+work, tropics . . . . . . . . . . . . . . 209-2 11
+Condensation . . . . . . . . . . . . . . . . . . ■ • 78
+Conduits, wiring . . . . . . . . . . . . . . . . • . 63
+Consecration, chapel . . . . . . . . . . . . . . . . ■ ■ 19°
+Consulting room, surgery . . . . . . . . . . . . . . . . 144
+Containers, food . . . . . . . . . . .... . . . . 128
+sputum : 60,117,119-126
+Continuous balcony . . . . . . . . . . . . . . . . 45( fl )( c )
+Contours . . . . . . . . . . . . . . . . . • • • 10
+Convection heating . . . . . . . . . . . . . . . . . . 78
+Cooking facilities . . . . . . . . . . . . . . . . ■ • 13°
+Cooking plate . . . . . . . . . . . . . . . . . . • • 102
+Corbel type W.C.’s . . . . . . . . . . . . . . . . .. 59W
+Cork flooring . . . . . . . . . . . . . . . • • • • • 89
+Corners of rooms . . .. . . . . . . .. . . . . 114, 167
+Corridors . . .. . . . . .. . . . . . . • • 35> 7 2 > 9 1
+Corrugated roofing, tropics . . . . .. . . . . . . . . . . 210
+Costs, building (staff accommodation) . . . . . . . . . . .. 181
+capital . . . . . . . . . . .. .. . . • • 27, 74, 79
+running and maintenance . . . . .. .. . . 35, 74> 79j 12 5
+Cots, children’s . . .. . . .. . . . . . . • • • • 95> 9^
+Counterpanes .. .. . . . . .. . . . . . . . . • . 97
+Covered carpark, tropics . . . . . . .. .. .. . . . . 207
+storage space ~ .. . . . . .. . . . . . . . . 195
+Covers, garbage .. . . .. . . ~ .. . . . . . . 116
+108
+
+
+Paras.
+Covers, mattress .. .. ~ .. .. .. .. .. .. 96
+Cradles, dish-washing .. .. ~ ~ .. .. .. .. .. 136
+Craft work .. .. ~ .. .. .. .. .. .. .. 160
+Crockery .. .. .. .. .. .. .. .. 103,136
+Cubicles, individual treatment .. .. .. .. .. .. . . 156
+Culture work .. .. .. .. .. .. .. .. .. .. 145(a)
+Cupboard space, patients’ .. .. .. .. .. .. .. . . 99
+Cupboards .. .. .. .. .. .. .. .. .. 102,144
+Curtains .. .. .. .. .. .. .. . • .. .. . . 43, 90
+tropics.. .. .. .. .. .. .. .. . . . . 205
+Cutlery .. .. .. .. .. .. .. .. .. .. 102, 136
+Dairy farm .. .. .. .. .. .. .. .. . . . . 18
+Damp course .. .. .. .. .. .. .. .. .. .. 83
+Dangerously ill patients .. .. .. .. .. .. . . .. 184
+Dark blinds .. .. .. •. .. .. .. . . .. . . 144
+room .. .. .. .. .. .. .. .. .. .. 149
+Daylight operating .. .. .. .. .. .. .. .. .. 143
+Dedication of chapel .. .. .. .. .. .. .. .. .. 190
+Delivery of supplies ~ .. .. .. .. .. .. . . .. 166
+Delivery-room .. .. .. .. .. .. .. .. .. .. 52
+Denominational services .. .. .. .. .. .. .. .. 189
+Dentists’ department .. .. .. .. ~ .. .. .. .. 170
+Design of Sanatoria for Tropical & Semi-Tropical Climatic Conditions 199-211
+Design, sanitary fittings .. .. .. .. .. .. .. .. 59
+Destruction of sputum .. .. .. .. .. .. .. .. 119-126
+Destructors, sanitary towel .. ~ .. .. .. .. .. .. 118
+Diagnosis .. .. .. .. .. .. .. .. .. .. 145
+Diet 127
+Diet kitchen .. .. .. .. ~ .. .. .. .. .. 13 1
+Dining room, children’s ~ .. .. .. .. ~ .. 172, 175
+medical staff .. .. .. .. .. .. .. .. 177
+nurses’ .. .. .. .. .. .. .. .. .. 182
+patients’ .. .. .. .. .. .. 128,134,172,175
+Direct electricity supply .. .. .. .. .. .. .. .. 149
+lighting .. .. .. . . .. .. .. .. . . .. 72
+Direction of labour (engineering, etc.) .. .. .. .. .. .. 194
+of traffic .. .. .. .. .. .. .. .. .. 21
+Dish washing .. . . .. .. .. .. .. .. .. .. 136
+Disinfectant .. .. .. .. .. .. .. .. .. .. 125
+Disinfection .. .. .. .. .. .. .. .. .. .. 123
+linen .. .. .. .. .. .. .. .. . . 137
+Dispensary .. .. .. .. .. .. .. .. .. .. 166
+first tuberculosis .. .. .. .. .. .. .. .. 3
+Distance brackets .. .. .. .. .. .. .. .. .. 56
+Diversional therapy .. .. .. .. .. .. .. 158-162
+Domestic administration .. .. .. .. . . .. .. . . 185
+hot water supply .. .. .. .. . . .. .. .. 193
+Doors 54, 87, 134, 142, 154
+tropics .. .. .. .. .. .. .. .. .. .. 205
+K
+109
+
+
+Paras.
+Down pillows . . .. .. .. .. .. .. .. .. . . 98
+Draining boards .. .. .. .. .. .. .. . . 59(c), 87
+Draughts .. .. .. .. .. .. .. .. 129,154
+Dressing cubicles .. .. .. ~ .. .. .. . . .. 100
+Dressing store .. .. .. .. .. .. .. .. . . .. 166
+Driveways .. .. .. .. .. .. .. .. . . .. 73
+Drug store .. .. .. .. .. . . .. .. .. .. 166
+Drying room, outdoor clothes .. .. .. .. .. 107, 177, 180
+Ducts .. .. .. .. .. .. .. .. .. .. 31,56,88
+Duplicate instrument trolleys .. .. .. .. .. .. .. . . 144
+Dust . . .. .. .. .. .. .. .. .. .. 56, 114, 167
+Ear, Nose and Throat examinations .. .. .. .. .. .. 171
+Early sanatoria, position of .. .. .. .. .. .. .. 5
+Earthing, electricity .. .. .. . . .. .. .. .. .. 62
+Eaves, tropics .. . . .. .. . . .. . . . . .. 201, 211
+Edible garbage . . . . . . .. .. .. .. . . .. .. 116
+Education, children . . .. .. .. .. .. .. .. 172, 174
+Electric blankets .. .. .. .. .. .. .. .. .. 108
+Electric Lighting and Fittings .. .. .. .. .. .. .. 61-73
+light baths . . .. .. .. .. .. .. . . . . 108
+Electrical apparatus .. . . .. . . .. .. . . . . . . 156
+treatment . . . . .. .. .. . . .. . . .. 153
+Electrically-heated trolleys .. .. ~ .. .. .. . . .. 128
+Electricians’shop .. .. .. .. .. .. .. .. .. 195(a)
+Electricity, cooking .. . . .. .. .. .. .. .. .. 130
+powerpoints .. .. .. .. .. .. ..71,132,166
+supply 9, 61, 130, 142, 149, 193
+Elimination of Noise .. .. .. .. .. .. .. .. 87-90
+Embedded panel heating system .. .. .. . . .. .. .. 75-79
+Emergencies .. . . .. .. .. .. .. .. . . .. 144
+Emergency cases .. .. .. .. .. .. .. .. .. 50
+Entertainment .. . . .. .. . . .. .. .. .. .. 164
+Entrance hall, visitors’ .. .. .. .. .. .. . . .. 188
+Environment of sanatorium .. .. .. .. . . .. .. 8, 19, 20
+Equipment of Rooms . . .. .. .. .. .. .. . . . .93-101
+Equipment, transport of .. .. .. .. .. . . .. .. 9
+Exclusion of light . . .. .. .. .. .. .. 143, 169, 17 1
+Exercise, patients . . .. .. .. .. .. .. .. ..11,13
+Exposed pipes .. .. .. .. .. .. .. . . .. .. 56
+Exposure to X-ray .. .. .. .. .. .. . . .. .. 148
+External sewage works .. .. .. .. .. .. .. .. 193
+Eye examinations .. .. .. .. .. . . .. . . .. 171
+Facilities for Major Surgery .. .. .. .. .. .. 140-144
+Fall of ground . . .. .. .. .. .. .. .. . . .. 10
+Fanlights .. .. .. .. .. .. .. .. .. 39, 129
+tropics .. .. .. .. .. .. .. .. .. 204
+Felt underlay .. .. .. .. .. .. .. .. .. .. 84
+Filling of jugs and basins .. .. .. .. .. .. .. .. 59(a)
+110
+
+
+Paras.
+Film shows .. . . .. .. . . .. .. . . . . .. 164
+Finishes, walls, floors, ceilings .. .. .. .. .. . . . . 89
+Fire risk . . .. . . .. .. .. .. .. .. .. 9, 1 7> 4-8
+Fireclay fittings .. . . . . .. . . .. .. . . . . 57
+sinks .. .. .. .. . . .. . . .. . . .. 59i c )
+Fish, preparation room .. .. .. .. .. .. .. .. 1 3 1
+refrigeration rooms .. .. .. .. .. .. .. .. 133
+Fitters’shop .. .. .. .. .. .. .. .. .. .. 195(a)
+Fittings, electric .. .. . . .. .. .. . . . . .. 61-73
+sanitary .. .. .. .. .. .. . . .. .. 55-60
+Flat roof .. .. .. .. .. .. . . .. .. .. 48
+Flexes, electrical .. .. .. .. .. .. .. . . . . 66
+Flickering (fluorescent lighting) .. . . .. .. .. .. . . 64(6)
+Floor Covering .. .. .. .. .. .. . . . . . . 83-86
+Floor space per patient . . . . .. .. .. . . .. . . 51
+kitchen .. .. .. .. .. .. .. . . . . 129
+refill clinic .. . . .. . . .. .. .. . . 169
+sterilising room .. .. . . . . .. .. .. .. 144
+Floor surfaces .. .. .. .. .. .. .. .. .. 103, 142
+Floors .. .. . . .. .. .. .. .. .. 83-86, 88, 89, 169
+tropics .. .. .. .. .. .. .. .. .. .. 210
+Flower room . . .. .. .. .. .. .. .. . . . . no
+Fluorescent lighting .. .. .. .. .. .. .. .. 64(6), 142
+methods, microscopy .. .. .. .. .. .. .. 145(a)
+Fly nuisance, tropics .. .. . . .. .. .. . . . . . . 211
+screens .. . . .. .. .. .. .. . . .. .. 143
+Folding windows .. .. .. .. .. .. . . . . .. 40
+Food, distribution .. .. .. .. .. .. .. .. 35, 127, 128
+preparation .. . . .. .. .. .. . . .. 35, 131
+service .. .. .. .. .. .. 102, 113, 127, 128, 132, 134
+storage, tropics . . . . . . .. .. . . . . .. . . 2 u
+trolleys . . .. . . .. .. . . .. . . .. .. 102
+Fowler pattern beds .. .. . . .. .. .. . . . . . . 66
+Fracture boards.. .. .. .. .. .. .. .. .. .. 106
+French sanatoria .. .. .. . . .. .. .. . . .. 48
+windows, glazed .. .. .. . . .. .. .. 42, 154
+Fresh air 35. 37. J 54
+tropics . . .. . . ~ .. .. .. . . 200, 203
+treatment, beginnings .. . . .. .. . . .. . . 1
+Frimley .. . . .. .. .. .. .. .. .. . . . . 3
+Frontage. . .. 12,32,37
+Fuel consumption, laundry .. .. .. .. .. .. .. 139
+supplies . . .. .. .. .. . . .. .. .. .. 9
+Full-length mirror .. .. .. .. .. .. .. .. .. 155
+Furnished room, patients’ relatives .. .. .. .. .. . . . . 184
+Furniture repairs .. .. .. .. .. .. .. .. .. 194
+Future expansion .. .. .. .. .. .. .. .. .. 13
+planning .. ~ .. .. .. .. .. .. .. 4
+Garages 14, 21, 196
+111
+
+
+Paras.
+Garbage Disposal .. .. .. .. .. .. .. .. 115-118
+Gas .. .. .. .. .. .. .. .. 9, 105, 118, 130, 166
+cooking .. .. .. .. .. .. .. .. .. .. 130
+General office .. .. .. .. .. .. .. . . .. . . 188
+Generating plant .. .. .. .. .. .. .. .. .. 61
+German sanatoria .. .. . . .. .. .. .. .. .. 47
+Germany . . .. .. .. .. .. .. .. .. .. 1
+Glare 12,37,67,72,73,129
+Glass 37, 102
+Glazed french windows .. .. .. .. .. .. .. .. 42
+tiles .. .. .. .. .. .. .. . . .. .. 86
+Goods receipts .. .. .. .. .. .. .. .. .. .. 195
+Gorborsdorf (Silesia) .. .. . . .. .. .. .. .. .. 1
+Gross salaries .. .. .. .. .. .. .. .. .. .. 181
+Ground floor . . .. .. .. .. .. .. .. . . .. 83
+Grounding of static electricity.. .. .. .. .. .. .. .. 142
+Group treatments .. ~ .. .. ~ .. .. . . .. 155
+Grouping of blocks .. . . .. .. ~ .. .. .. .. 32
+Guest rooms . . .. .. .. .. .. .. .. .. 177* 1 79
+Gullies . . . . .. .. .. .. .. . . .. .. .. 142
+Gutters, tropics .. .. .. .. .. .. .. .. .. 211
+Haematology .. .. .. ~ .. .. . . .. .. .. 145(a)
+Hairdressers’ room .. .. .. .. .. .. .. .. .. 109
+Hardwood floors . . .. .. .. .. .. .. .. .. 85
+Health closet . . .. .. .. .. .. .. .. .. .. 59{b)
+Heating .. .. .. .. .. .. .. .. .. 74-82, 143
+Heating ducts . . . . . . . . .. .. .. . . .. .. 82
+tropics . . .. .. .. . . . . .. . . .. 207
+Heavy workers . . .. . . .. .. .. .. .. .. 160
+Height of ceilings .. .. . . .. .. . . .. . . .. 75
+tropics .. .. .. .. .. .. .. . . 203
+Hillsides . . .. .. .. .. .. .. .. .. .. 10
+Hinged draining boards .. . . .. . . .. .. . . .. 59(c)
+Histology .. .. .. .. . . .. .. . . .. .. 145(c)
+Hollow clay blocks, tropics .. . . .. .. . . .. . . .. 209
+Home-like living accommodation .. .. .. .. .. . . 176, 213
+Horizontal pipe runs . . .. .. ~ .. .. .. .. .. 56
+Hose fittings . . .. .. .. .. .. . . .. . . . . 17
+Hosing of walls .. .. .. .. .. .. . . .. .. 142
+Hot-air oven .. .. . . .. .. .. .. . . .. .. 167
+Hot cupboard .. .. .. .. .. .. . . .. . . .. 102
+drinks .. .. .. .. .. .. . . .. .. .. 102
+pipes 99
+plates .. .. .. .. .. .. .. .. .. .. 132
+Hot water-bottle filling tap .. .. .. .. . . .. .. .. 108
+radiators .. .. .. .. .. .. .. . . .. 75, 78
+supply 59 (<*)> 166
+Houses, staff .. .. .. .. .. .. .. .. 176,177,181,183
+Humidity, tropics . . .. .. .. .. .. .. .. .. 202
+
+
+Paras.
+Hygienic finishes .. .. .. .. .. .. .. .. .. 89
+Imported materials, tropics .. .. .. .. .. .. .. .. 209
+Incinerator .. .. .. .. .. .. .. .. .. . . 125
+Independent sanatorium .. .. .. .. .. .. .. 185,186
+Indirect lighting .. .. .. . . .. .. .. . . .. 7 2
+Individual balconies .. .. .. .. .. .. .. .. .. 46
+treatment cubicles .. ~ .. .. .. . . .. 156
+treatment rooms .. .. .. .. .. .. .. .. 35
+Indoor Cleaning .. .. .. .. .. .. .. .. .. Ix 4
+Inductions—artificial pneumothorax, etc. .. .. .. .. . . .. 169
+Infection 121, 136, 175
+Inflammable goods, storage .. .. .. . . .. .. . . . . 166
+Influence of new treatments .. .. .. .. .. .. .. .. 4
+Injectors, steam .. .. ~ .. .. .. .. .. .. 136
+Inspection pit .. .. .. .. .. .. .. .. .. .. 196
+Instrument sterilisers . . .. .. .. .. . . . . .. 144, 169
+Instruments and surgical sundries store .. .. .. .. .. . . 166
+Insulating materials . . .. .. . . .. .. . . .. .. 88
+tropics . . .. .. ~ . . .. .. . . 210
+Insurance companies .. .. .. .. .. .. . . .. . . 193
+Integral draining boards .. .. .. .. .. .. .. . . 59(c)
+Intellectual pursuits, patients’,. .. .. .. .. .. .. . . 159
+Interior Decorating .. .. .. .. .. .. .. 91-92
+Internal spring mattresses .. .. .. .. .. .. .. . . 96
+walls . . . . 55
+Intra-thoracic tuberculosis .. .. .. .. .. .. . . . . 173
+Ironing facilities, patients’ .. .. .. .. .. .. .. .. 107
+nurses’ .. .. .. .. .. .. . . .. 180
+Isolation fetish . . . . .. .. ~ .. .. .. . . .. 5
+Jalousie shutters .. ~ .. .. ~ .. . . .. .. 37
+Joiners’ shop .. .. .. .. .. .. .. .. .. 195(A)
+King Edward VII Sanatorium, Midhurst .. .. .. ~ ~ .. 3
+Kitchen and Food Transport .. .. .. .. .. .. 127-135
+Kitchen, central 19, 20, 102, 127-134, 172, 182
+small ward .. .. . . .. .. . . .. .. . . 102
+Korkoid .. .. .. .. .. .. .. .. . . .. . . 85
+Laboratory .. .. .. .. .. .. .. .. .. 145-146
+layout .. i 45(/)
+Labour and transport, tropics .. ~ .. . . . . .. . . 209
+Labour-room .. .. .. .. .. .. .. .. . . .. 52
+Labour-saving machinery (engineering) .. .. .. .. .. .. 197
+Landscape gardening .. .. .. .. .. .. .. .. 16,213
+Large wards . . .. .. .. .. .. .. .. . . . . 50, 58
+Latex foam mattresses .. .. .. .. .. . . . . .. .. 96
+Laundry 137-139,21,63,172
+Laundry room, nurses’ ~ .. .. .. . . .. .. .. 180
+sorters .. .. .. .. .. .. .. .. .. 138
+113
+
+
+Paras.
+Lead content, protective gloves .. .. .. .. .. .. .. 148
+Lecture room, students’ and nurses’ .. .. .. .. .. .. .. 178
+Legal process, consecration .. .. .. .. .. .. .. .. 190
+Length of treatment .. .. .. .. .. .. .. .. 158, 164,213
+Library, patients’ .. .. .. . . .. .. .. .. . . 164
+staff .. .. .. .. .. .. . . .. . . • • 178
+Liegehalle . . . . .. .. .. .. .. .. . . . . 47
+Lifting wheels, beds . . .. .. . . .. .. . . .. . . 94
+Lift service .. .. .. .. .. .. .. .. .. 48, 103. 169
+Lighting, electric .. .. .. .. .. .. .. .. 61-73,129
+Lightproof tunnel . . .. .. .. .. .. . . .. .. H 9
+Light switches .. . . . . .. . . . . .. .. .. 65, 66
+Light-traps .. . . . . . . . . .. . . . . . . . . 148
+Linen cupboard . . .. . . .. .. .. . . .. .. 104
+soaking basin (operations) .. .. . . . . . . . . .. 144
+soiled .. .. .. .. .. .. .. .. .. i 37 -1 38
+store .. . . .. . . .. . . . . . . 104, 139, 169
+Linoleum . . .. .. .. . . .. .. . . . . 84, 85, 89
+Lockers, patients’ .. .. .. .. .. .. .. .. 99> *57
+Local knowledge of climate, tropics . . .. . . . . . . .. . . 200
+Local materials, tropics .. .. .. .. . . . . . . 200, 209
+Loudspeaker system . . .. .. .. .. .. .. . . . . 7°
+Louvres . . . . .. .. .. .. .. . . .. . . . . 37
+tropics . . .. .. . . .. .. . . . . .. . . 204
+Low-level flushing cistern .. .. .. .. .. .. .. .. 59 W
+Low pressure hotwater system .. .. . . . . .. . . . . 78
+Low temperature electrically heated panels .. . . .. .. . . . . 81
+Main current, electricity .. . . .. .. . . .. .. . . 61
+Main drainage . . . . .. .. .. . . . . .. . . 9
+tropics .. .. .. .. .. .. .. .. .. 208
+walls . . . . .. . . . . .. . . . . . . .. 55, 88
+Maintenance costs .. .. .. .. . . . . .. .. . . 35
+departments .. .. .. . . . . .. .. . . 192
+of boiler plant .. .. .. . . .. .. . . .. 193
+Major surgery .. .. .. .. .. . . . . .. . . • • 3» l 4°
+Masks, staff . . .. .. .. .. .. . . . . .. .. 119
+Massage .. . . .. .. .. .. . . .. .. .. 153
+Materials, engineering and maintenance .. . . . . .. .. . . 194
+store .. .. .. .. .. . . .. . . . . 163
+Maternity units .. . . .. . . .. .. . . . . .. 52
+Matron’s office .. .. .. .. .. . . . . .. .. 188
+Mattresses .. .. .. .. .. .. .. . . .. 93, 94, 96
+Meat, preparation room .. .. .. .. .. .. .. .. 13 1
+refrigeration room .. .. .. .. .. .. .. .. 133
+Mechanisation . . .. . . .. .. .. .. .. . . . . 197
+Medical auxiliaries .. .. .. .. .. .. .. . . .. 181
+gases store .. .. .. .. .. .. .. .. .. 166
+students ~ .. .. .. . . . . .. .. .. 178
+survey, tropics .. .. .. .. .. .. .. .. 199
+
+
+Paras.
+Mental relaxation .. .. .. .. .. .. .. .. .. 153
+Mercury vapour burner . . .. .. .. .. .. .. .. 157 W
+Metal containers for cartons .. .. .. .. .. .. .. .. 125
+Micro switch .. .. .. .. .. .. .. . . .. . . 63
+Microscopy .. .. . . .. .. .. .. .. .. .. i4s( a )
+Midhurst, Surrey . . .. .. .. .. .. .. .. . . 3
+Milk room . . .. .. .. .. .. .. . . .. . . 133
+Ministry of Health .. .. .. .. .. .. .. .. 51,189
+Minor operations .. . . .. . . .. . . .. . . .. 141
+structural alterations .. .. . . .. .. .. .. . . 194
+Mirrors 101, 109, 155, 156, 157
+Mixed ward . . .. .. .. .. .. . . . . . . .. 53
+Modern sanatorium method, beginnings . . .. .. .. .. .. 1
+Monoblock type of building .. .. .. .. .. .. . . . . 32
+Mortuary .. .. .. .. .. .. .. .. .. 147, 86
+Mosquito screening, tropics .. .. . . .. .. .. . . . . 211
+Motor mechanics’shop .. .. .. .. .. .. .. .. 195(a)
+Movement of beds .. .. .. .. . . .. .. . . 94, 142
+Multicore cable, radio .. .. .. . . .. . . . . .. 69
+Multi-floored building .. .. .. .. .. .. .. 32-36, 48, 104, 174
+NAPT .. .. 3
+National Health Service .. .. .. .. .. .. .. 185, 189, 192
+Natural lighting .. .. .. .. .. .. .. .. 143, 169
+Night lights .. .. .. .. .. .. .. .. .. .. 68
+Noise, prevention of .. .. .. .. .. .. .. 8,19,31,87-90
+Non-actinic glass, tropics .. .. .. .. .. . . .. .. 204
+Non-slip surfaces .. .. .. .. .. .. . . .. .. 83
+Nordrach, Black Forest .. .. .. .. .. . . .. .. 1
+Number of patients .. .. .. .. .. .. .. .. 23-30, 49-53
+of rooms (staff houses) .. .. .. .. .. .. 177,181
+Number of Storeys .. .. .. .. .. .. .. .. 32-36, 10
+Nurses’ changing room .. .. .. .. . . .. .. .. 144
+Home 179, 180
+Occupational Therapy .. .. .. .. .. .. .. 158-163
+Office accommodation, stores and maintenance departments . . . . .. 195
+refill clinic . . .. .. .. .. .. .. 169
+Oiled sweeping compound .. .. .. .. .. .. .. .. 114
+One-storeyed building .. .. .. .. .. .. .. .. 33> 35> 45
+Open-air .. .. .. .. .. .. .. .. .. 45, 46, 140
+regime 2,4, 173
+sanatorium, Edinburgh .. .. .. .. .. .. . . 3
+Open yard space .. .. .. .. .. .. .. .. .. 195
+Operating theatre .. .. .. .. .. .. .. .. 84, 141—143
+tropics .. .. .. .. .. . . .. .. 202
+Ophthalmologist .. .. .. .. .. .. .. .. .. 17 1
+Orchard .. .. .. .. .. .. .. .. .. .. 18
+Out-patient Department, etc. .. .. .. .. .. .. 169-171
+Outdoor recreation .. .. .. .. .. .. .. .. .. 13
+115
+
+
+Paras.
+Outer clothing, drying of .. . • .. .. .. .. .. 107,177,180
+Output, X-ray .. .. .. .. .. .. .. .. .. .. 148
+Overflow, wash-hand basins .. .. .. .. .. .. .. • • 59 i a )
+Oxygen trolleys .. .. .. .. .. .. .. .. .. 14 2
+Paint and glazing shop .. .. .. .. .. .. .. 195(^0
+Panel heating .. .. .. .. .. .. .. .. .. .. 75~8i
+Panelled baths .. .. .. .. .. .. .. .. .. .. 59(^0
+Pantry, medical staff .. .. .. .. .. .. .. .. .. 177
+Para-aminosalycilic acid (PAS) .. .. .. . . .. .. .. 4
+Parallel-sided baths .. .. .. .. .. .. .. . . .. 59(^)
+Parking of cars, tropics .. .. . . .. .. .. . . .. 207
+Partition walls . . .. .. .. .. .. . . . . . . .. 88
+Pastry, preparation room .. .. .. .. .. .. .. .. 13 1
+Pathology .. .. .. .. .. .. . . . . .. .. 105
+Pathology and Research .. .. .. .. .. .. .. 145-146
+Pathways .. .. .. .. .. .. .. .. .. .. is> 73
+Patient accommodation .. .. .. .. .. .. .. 13, 23-30, 36
+Patients, admission . . .. .. .. .. . . .. .. .. 9
+Patients’ clothing . . .. .. .. .. .. .. .. .. 99
+dining arrangements.. .. .. .. .. .. .. 128, 134
+exercise .. .. .. .. .. .. .. .. .. 11 >l3
+mental outlook .. .. .. .. .. .. .. .. 158
+relatives and friends .. .. .. .. .. .. .. 9, 184
+Pavilion type sanatoria ~ .. .. .. .. 33> 35j 1 *35 12 4> l l £ e
+Paving (flat roof) .. .. .. .. .. .. .. .. .. 48
+tropics . . .. .. .. .. .. .. .. .. •. 209
+Paying patients .. .. .. .. .. .. .. .. .. .. 53
+Pear push . . .. .. .. .. .. .. .. .. .. 7°
+Pedestal-type W.C.’s .. ~ .. .. .. .. .. . . . . 59(^)
+Percentage of staff requiring accommodation .. .. .. .. .. 183
+Perishable food . . .. .. .. .. .. .. . . . . . . 102
+Pharmaceutical Department .. .. .. .. .. .. 165-168
+Philip, Sir Robert .. .. .. .. .. .. .. . . .. 3
+Physical characters of site .. .. .. .. .. .. . . . . 11
+Physiotherapy Department .. .. .. .. .. .. 152-157
+Picture hooks . . .. .. .. .. .. . . . . .. .. ioi
+Pictures .. .. .. .. .. .. .. .. .. 91,162
+Pillows . . .. . . .. .. .. .. .. .. .. . . 94, 98
+Pinewoods .. .. .. .. .. .. .. .. .. .. 5
+Pipes, steam .. .. .. .. .. .. .. .. .. .. 87, 99
+vertical .. .. . . .. .. .. .. .. .. .. 88
+water .. ~ .. .. .. .. . . .. .. .. 87
+Pitting of floor surface .. .. .. .. .. .. .. .. .. 83
+Plans, specifications and estimates .. .. .. .. .. .. .. 194
+Plastic locker tops .. .. .. .. .. .. .. .. .. 99
+Plate warming . . .. .. .. .. .. .. .. .. . . 102
+Play rooms, children’s . . .. .. .. .. .. .. .. . . 172
+Pleural aspirations .. .. .. .. .. .. .. .. .. 169
+Plumbers’shop .. .. .. .. .. .. .. .. .. •• 195 W
+116
+
+
+Paras.
+Plumbing .. . . .. .. .. .. .. .. . . .. 55~60
+Pneumoperitoneum inductions .. .. ~ .. .. .. .. 169
+Pocket flasks, sputum .. .. .. .. .. .. .. .. .. 122
+Polishing apparatus . . .. .. ~ .. .. . . .. .. 7 1
+Porches .. .. . . .. .. .. .. .. .. .. .. 45
+Portable X-ray plant .. . . .. . . .. .. .. .. . . 7 1
+Post mortem room .. .. .. .. .. .. .. .. HSW. *47
+Post-operative treatment .. .. .. .. .. .. 140,141,152
+Poultry .. .. .. .. .. .. . . .. .. .. . . 18
+Power plant . . .. .. .. .. .. .. .. .. .. 19, 21
+Powerpoints .. .. .. .. .. .. .. .. .. 71,132,166
+Pre-operative physiotherapy .. .. .. .. .. .. .. .. 152
+Preparation rooms, food .. .. .. .. .. .. .. . . 13 1
+pharmaceutical .. .. .. .. .. .. . . 166
+Prevailing wind .. .. .. .. .. .. .. .. . . 19
+Privacy 13. 43
+Private entrance, secretary’s office ~ .. .. .. .. .. . . 188
+Protection from X-ray exposure .. .. .. .. .. .. . . 148
+of mattresses .. .. .. .. .. .. .. . . 96
+Protective clothing, masks, etc. .. .. .. 104, 112, 113, 119, 138, 148
+Psychology, tuberculous .. . . .. .. .. .. .. .. 158
+Public diffusion service . . .. .. .. .. .. .. . . 69
+Public entrance, mortuary .. .. . . .. .. .. . . . . 147
+Public services .. . . .. . . .. .. .. .. .. . . 9
+Pulmonary tuberculosis .. .. .. .. .. .. .. 23, 173
+Purchase of pharmaceutical supplies .. .. .. .. .. .. .. 168
+Quarry tiles .. . . .. .. .. .. .. .. .. . . 86
+Quiet room, patients’ .. . . .. .. .. .. .. .. .. 164
+staff . . .. .. .. .. .. .. . . . . 178
+Radiation, exposure to . . .. .. .. .. .. .. . . 148
+heating 75. H 3
+Radio 31, 69, 87, 108
+Radiographic room .. .. .. .. .. .. .. . . .. 149
+Radium protection .. .. .. .. .. .. .. .. 148-151
+Railway carriage type windows .. .. .. .. .. . . .. 44
+Railways .. .. .. .. .. .. .. .. .. 5. 9. 1 9
+Rain, protection from .. .. .. .. .. .. .. • • 37. 38
+tropics .. .. .. .. .. 200,201,203
+Rainwater, tropics .. .. .. .. .. .. .. .. .. 211
+Reading lights .. .. . . .. .. .. .. .. .. . . 67
+Receptacles for garbage . . .. .. .. .. .. .. . . 115
+Reception desk .. .. .. .. . . .. .. .. .. . . 188
+Reclining rooms (liegehalle) . . .. .. .. .. .. .. .. 47
+Reconditioning . . .. .. .. .. .. .. .. .. .. 192
+Records systems . . .. . . .. .. .. .. .. . . 192
+Recovery room, refill clinic . . .. .. .. .. .. . . .. 169
+Recreation Facilities .. .. .. .. .. .. .. 164,48
+Recumbent patients . . . . .. .. .. .. .. . . .. 99
+117
+
+
+Paras.
+Reference library .. .. .. .. .. .. .. .. ■■ l 4s if)
+Refills—artificial pneumothorax, etc. .. . . .. .. .. . . 169
+Refreshment buffet, staff .. .. .. .. .. .. .. .. 113
+Refrigeration, garbage .. .. .. .. .. .. . . .. 116
+mortuary .. .. . . .. .. . . . . .. 147
+rooms—meat, fish .. .. .. .. .. .. .. 133
+Refrigerator .. .. .. . . .. .. . . . . . . .. 102
+Regional group sanatoria .. .. .. .. .. .. .. 185,187
+Rehabilitation .. .. .. .. .. .. .. .. .. .. 15 2
+Reinforced concrete, tropics . . .. .. .. . . .. . . . . 210
+Relatives, nurses’ .. .. .. .. .. . . . . . . .. 179
+of dangerously ill patients .. .. . . . . . . . . . . 184
+Removable duct covers .. .. .. .. .. . . .. .. 56
+Rental (staff accommodation) .. .. .. . . .. .. .. 181
+Repair materials .. .. .. .. .. .. .. .. 9, 192-195
+Repairs, furniture .. .. .. .. .. .. .. . . .. 194
+Report of British X-Ray Committee .. .. .. .. .. .. .. 151
+Reporting and viewing room. X-ray . . .. .. .. .. . . . . 149
+Reproductions .. .. .. .. .. .. .. .. 91,162
+Research .. . . .. .. .. .. . . .. . . ! 45 _1 46
+Residential flats. . .. .. .. .. .. .. .. .. 1 77» 1 81
+Responsibility of staff (independent sanatoria) .. .. .. .. .. 186
+Rest treatment . . .. .. .. .. .. .. .. .. .. 14°
+Road repairs .. . . .. .. .. .. . . .. .. .. 193
+Roads, main .. .. .. .. .. .. .. .. .. . . 5> 9
+Roman Catholic services .. .. .. .. .. .. . . . . 190
+Roof .. .. .. .. .. .. .. .. .. .. .. 48
+Roof garden .. .. .. .. .. .. .. .. .. .. 48
+Room sizes . . .. .. .. .. .. .. .. .. . . 55
+Rounded joins or corners .. .. .. .. . . . . .. 114, 167
+Rubber gloves, staff .. .. .. .. .. . . .. .. . . 1 1 9
+Rubberised mattress cover .. .. .. .. .. .. . . . . 96
+Rubber-tyres . . .. .. .. .. .. .. . . .. .. 87
+Running costs .. . . .. . . .. .. .. . . . . .. 35
+Running water . . .. .. .. .. .. .. .. .. 1 *66
+tropics . . .. .. .. .. .. .. .. 206
+Rural areas . . .. .. .. .. .. ~ .. .. .. 8, 29
+Salaries, gross .. .. .. .. .. .. .. .. .. .. 181
+Sanatorium Administrative Block .. .. .. .. .. 185-188
+method of treatment, beginnings .. . . .. .. .. 1
+management committees .. .. .. .. . . .. 53
+Sanatorium Site . . .. .. .. .. .. .. . . . . 5-22
+Sanitary annexes . . .. .. .. . . . . .. .. . . 86
+conditions, tropics .. .. .. .. .. .. .. .. 200
+facilities .. .. .. .. .. .. .. . . . . 5 2
+Sanitary Fittings and Plumbing .. .. .. .. .. .. . . 55-60
+towel disposal .. .. .. .. .. .. .. . . 118
+School age children .. .. .. .. .. .. .. . . . . 172
+Schoolroom accommodation .. .. .. .. .. .. .. .. 175
+
+
+Paras.
+Schools . . .. .. .. .. .. .. .. .. . . .. 19
+Screening room .. .. .. .. .. .. . . .. .. 148
+Screening, tropics .. .. .. .. .. .. .. .. .. 211
+window .. .. . . .. .. .. .. . . .. 37
+Sculleries, ward .. .. . . .. .. .. .. . . .. 103
+Secondary radiation .. .. .. . . .. .. . . . . .. 148
+source of electricity .. .. .. . . .. . . 61
+Second-hand materials .. .. .. .. .. .. .. .. 195
+Sectional partitions .. .. .. .. .. .. .. . . .. 55
+Self-contained flats, staff .. .. .. .. .. .. .. 177,181
+Suite, patients’ relatives .. .. .. .. .. . . .. . . 184
+Semi-tropical climate .. .. .. . . .. . . .. .. 199-2 11
+Service roads .. .. .. .. . . .. . . . . . . 10, 21, 166
+Service-room, medical staff .. .. .. .. .. . . . . .. 177
+Services, chapel .. .. .. . . .. .. .. .. .. 189
+Sewage, tropics .. .. .. .. .. .. . . .. . . 208
+works .. . . .. . . .. .. . . . . . . .. 193
+Sewing machine, nurses’ .. .. . . . . . . .... .. 180
+Shampoo rooms, nurses’ .. .. .. .. . . .. .. . . 180
+Shaving, patients’ .. .. . . .. .. .. .. .. .. 58
+Sheet linoleum .. . . .. . . .. . . .. .. .. .. 84
+“ Shocked ” patients . . .. .. . . .. .. .. . . .. 108
+Shower-baths, staff .. .. . . .. .. .. .. .. 144, 198
+tropics .. .. .. .. .. . . . . .. .. 206
+Sick staff . . .. .. .. .. .. .. .. .. 153, 156
+Silent-closing doors .. .. .. .. .. .. .. .. .. 87
+Single bedrooms .. .. .. .. .. 46, 54, 58, 70, 141, 175
+Sinks 59(c), 87, 136, 156, 166, 195
+Site .. . . .. .. . . .. . . .. . . .. .. 5-22
+tropics .. . . .. . . .. .. .. .. .. .. 201
+Sitting-room, staff .. .. .. . . .. .. .. .. .. 177
+Size of baths .. . . .. .. .. .. . . .. .. .. 59 (d)
+beds . . .. . . .. .. .. .. .. .. .. 93
+houses and flats, staff .. .. .. .. .. .. .. 177, 181
+ophthalmology room .. . . .. .. . . . . .. .. 171
+refill clinic .. .. . . .. .. . . . . . . .. 169
+Size of Sanatorium .. .. . . .. .. .. . . . . .. 23-30
+Sliding windows ~ .. . . .. .. .. .. .. .. 40, 46
+glass doors .. .. . . . . .. .. .. . . .. 154
+Slop sink .. .. .. .. .. .. .. .. .. .. no
+Sluice room .. .. .. .. . . .. .. .. ..in, 124, 144
+Small diet kitchen .. .. .. .. ~ .. .. .. .. 13 1
+sanatoria .. .. .. .. .. .. .. .. 146,168
+“ Smalls ” laundry .. .. .. .. .. .. .. .. 107
+Smoke nuisance.. .. .. .. .. . . .. .. .. 8, 19, 20
+Soil .. . . .. .. .. .. .. .. .. .. .. n
+Soiled linen .. .. .. .. .. .. .. .. .. 137-138
+Solid fuel .. .. .. .. .. .. .. .. .. 116, 130
+Sound absorbers .. .. . . .. .. .. .. .. . . 89, 90
+Sound-proof doors .. .. . . .. .. . . .. . . . . 134
+119
+
+
+Paras.
+Special worship .. .. .. ~ .. .. .. .. .. 191
+Specialist, visiting .. .. .. .. .. .. ~ .. 176, 177
+Specifications, plans and estimates .. .. .. .. .. .. .. 194
+Splint and plaster room .. .. .. ~ ~ .. . . .. 144
+Splints . . .. .. .. .. .. .. .. .. . . ~ 106
+Sports gear .. .. ~ .. .. .. .. .. .. .. 177
+Sputum containers .. .. .. .. .. .. .. 60, 117, 119-126
+Sputum Disposal .. .. .. .. .. .. .. .. 119-126
+examinations .. .. .. .. .. .. .. .. .. 145(a)
+negative cases, children .. .. .. .. .. .. .. 175
+positive cases, children .. .. .. .. .. .. .. 175
+Staff: Accountant/Assistant Secretary .. .. .. .. .. 186, 188
+Accounts staff .. . . .. .. .. .. . . .. . . 187
+Administrative assistant .. .. .. . . . . . . . . 187
+Almoner .. .. .. .. .. .. .. .. 185—188
+Assistant matron’s office .. .. . . .. .. . . . . 188
+Audit staff .. .. .. .. .. . . .. .. .. 188
+Building supervisor .. .. .. .. . . .. .. . . 194
+Building staff .. .. .. .. .. .. .. .. .. 195(6)
+Chaplain .. .. .. .. .. . . .. . . 189-191
+Charge nurse or sister .. .. .. .. .. . . .. 49, 53
+Chief administrative officer ~ .. .. . . .. .. .. 185
+Chief physician .. .. .. .. .. .. . . .. 176
+Clerical assistants .. .. .. .. .. .. .. .. 181
+Clerk of works .. .. .. .. . . . . .. .. 194
+Domestic staff .. .. .. .. .. .. .. 35, 112, 183
+Engineer 183, 193, 194
+Engineer’s staff .. .. .. .. .. .. .. .. 195(a)
+Hall porter .. .. .. .. .. .. .. .. 186-188
+Head physiotherapist ~ .. .. . . . . .. .. . . 155
+Junior accounts clerk .. .. .. .. .. .. .. 186
+Junior medical staff .. .. .. .. .. .. .. 177
+Junior shorthand-typist .. .. .. .. .. .. 186, 187
+Maintenance staff .. .. .. .. .. .. . . .. 183
+Matron .. .. .. .. . . .. .. .. 185, 188
+Medical staff .. ~ .. .. .. .. .. 9, 176, 177, 178
+Medical staff secretary .. .. .. .. .. 186-188
+Medical superintendent .. .. .. .. .. 23,24,176,185
+Non-resident domestic staff .. .. .. .. ~ .. .. 183
+Nursing staff .. .. .. .. .. .. .. 9,35,112,179-182
+Physician-in-charge .. .. .. .. .. ~ .. .. 23
+Porter, in charge of sterilising .. .. .. .. .. .. 123
+Portering staff .. .. .. .. .. ~ .. .. .. 183
+Receptionist telephonist .. .. .. .. .. 186-188
+Records clerk . . .. .. .. .. .. .. .. 186, 187
+Resident domestic staff .. .. .. .. .. .. .. 183
+Secretary .. .. .. .. .. .. .. .. 185-188
+Senior accounts clerk .. .. .. .. .. .. .. . . 186
+Senior doctors .. . . .. .. .. .. .. . . .. 177
+Senior nursing staff . . .. .. .. .. .. .. 179, 181
+
+
+Paras.
+Staff: Senior shorthand-typist . . .. .. .. .. .. 186, 187
+Sister or charge nurse .. .. ~ .. . . .. .. 49, 53
+Student nurses .. .. .. .. .. . . . . 179, 180
+Technical staff .. .. .. .. .. .. .. 183
+Technical storekeeper .. .. .. .. .. .. .. 195
+Wages clerk .. .. .. .. .. .. .. .. . . 186
+Staff Accommodation .. .. .. .. .. 176-183,185-188
+facilities . . .. .. .. .. .. . . .. .. 112
+length of stay .. .. .. .. .. .. .. .. .. 176
+married members .. .. .. .. .. .. .. 176,177
+receiving treatment .. . . . . ~ .. . . . . .. 169
+refreshments .. . . .. . . .. . . . . . . .. 113
+residential flats .. .. .. .. .. .. .. .. 177, 181
+rest rooms .. . . . . .. .. .. . . .. .. 113
+salaries, gross .. .. .. .. .. .. .. .. .. 181
+toilets .. .. .. .. .. . . . . . . . . .. 188
+unmarried members . . .. .. .. .. .. 176, 177
+Stainless steel sinks .. .. .. .. .. . . . . . . 59(c), 87
+wash-hand basins .. .. . . .. . . .. .. 59(a)
+Static electricity, grounding .. .. .. .. .. . . . . .. 142
+Statistical department .. .. .. .. . . .. .. .. 145 if)
+Steam barrel . . .. .. .. . . .. .. .. .. .. 195
+cooking .. .. .. .. . . .. .. .. .. .. 130
+heating valve . . .. . . .. . . .. .. . . .. 108
+sterilising .. ~ .. .. . . .. .. .. 77, 96
+sterilisation of sputum containers .. .. .. 120,122-126
+supply .. 193
+Steel-frame buildings .. .. .. .. ~ .. .. .. .. 31
+Sterilisation of mattresses .. .. .. .. .. . . .. .. 96
+Sterilisers, crockery .. .. .. .. .. .. .. .. 103,136
+Sterilising laboratory . . .. . . .. . . .. ~ .. 166, 167
+room, instruments .. .. .. .. .. .. .. 144, 169
+room, refill clinic .. .. .. .. .. .. .. . . 169
+sputum containers .. .. .. .. .. .. 120-126
+Still-rooms .. . . .. .. .. .. .. .. .. .. 132
+Stools .. .. .. .. .. .. .. .. .. .. 156, 157(6)
+Stoneware .. .. .. .. .. .. .. .. .. .. 195
+Storage batteries .. . . ~ .. .. .. .. .. .. 61
+Storage of inflammable goods .. .. .. .. .. .. .. 166
+rainwater .. .. .. ~ .. .. .. .. .. 211
+unused films .. .. .. .. . . .. .. .. 149
+Store space, engineering and maintenance .. . . .. .. .. .. 194
+for materials, occupational therapy .. .. .. .. ~ .. 163
+rooms .. .. .. .. .. . . .. .. .. .. 86
+Stores and Maintenance Departments .. .. .. .. .. 192-198,21
+Storekeeper . . .. ~ .. .. .. .. .. .. .. 195
+Stores issues .. .. .. .. .. .. .. .. .. 192,195
+Storeys 10, 32-36, 45
+Strains or sprains ~ .. .. .. .. .. . . .. .. 153
+Streptomycin . . .. ~ .. .. .. .. .. .. .. 4
+
+
+Paras.
+Stretchers .. .. . . .. .. .. .. .. .. .. 156
+Structure of the Building .. .. .. .. .. .. .. 31
+Structural additions/alterations .. .. .. .. .. .. .. 192
+maintenance .. .. .. .. .. .. .. 192, 194
+Students’ gallery .. .. .. .. . . .. .. .. .. 142
+Subsoil .. .. . . . . .. .. .. .. .. . . . . 11
+Suction facilities .. .. .. .. .. .. .. .. . . 144
+Sullage, tropics .. .. . . .. .. .. .... .. . . 208
+Sun, tropics . . .. .. .. .. .. ~ .. . . 200, 204
+Sunlight.. .. .. .. .. .. .. .. .. .. ..12,37
+Supplies, consumable .. .. .. .. .. .. . . .. .. 9
+delivery of .. .. . . .. .. .. . . .. 166
+Surgeon’s changing room .. .. .. .. .. .. .. .. 144
+Surgery . . . . .. .. .. .. .. .. .. .. 3, 140-141
+Surgical beds .. .. .. .. .. .. . . .. . . . . 66
+block . . .. .. .. .. .. .. .. .. 141-144
+sundries store .. .. .. .. .. .. .. ~ 166
+wards .. .. .. .. .. .. . . . . .. 49, 150
+wing .. .. .. ~ .. .. .. .. .. .. 184
+Surrounds, impermeable .. .. .. .. . . .. .. .. 60
+tiled .. .. .. .. ~ .. .. .. .. 57, 60
+Surroundings of mortuary .. .. . . .. . . .. .. .. 147
+Sweeping compound .. . . .. .. .. .. .. .. .. 114
+Switzerland . . . . .. .. . . .. .. .. .. . . 2
+Syringe service . . .. . . .. .. .. .. . . . . . . 165
+Tables, bed and bedside .. .. .. .. . . .. .. ~ 99
+Taps, high-waisted pillar .. .. . . .. .. .. .. .. 59(a)
+Tea lounge .. .. .. .. .. .. ~ .. . . .. 48
+service .. .. .. .. .. .. .. .. .. .. 102
+Teaching facilities, children .. .. .. .. .. .. .. 172,174
+institution .. .. .. .. .. .. .. 142, 145(c), 178
+rooms . . .. .. .. .. .. .. .. .. 163
+Teak 85
+Teeth cleansing .. .. .. .. .. .. . . .. . . 60
+Telephone .. .. .. .. .. .. .. . . .. .. 9, 70
+Television room, patients’ . . .. .. .. .. .. .. .. 164
+Temperature regulation .. . . .. .. .. .. 64(6), 74, 77
+tropics .. .. .. .. .. .. .. 202
+Terrace system . . .. .. .. .. .. .. .. . . 45(A)
+Terrazzo flooring .. . . .. .. .. .. .. .. 84, 142
+tropics .. ~ .. .. ~ .. .. .. 210
+Thermostatic trolleys .. .. .. ~ .. .. .. .. .. 132
+Thoracic unit .. .. .. .. .. ~ .. .. .. .. 145(c)
+surgery .. .. .. .. .. .. .. .. 3, 140 141
+Tiled surrounds .. .. .. .. .. .. .. .. .. 57
+Tiles and slates .. .. .. .. .. .. .. .. .. . . 195
+flooring .. .. .. .. .. .. .. .. .. 84, 86, 89
+Toilet accommodation, mortuary .. .. .. .. .. .. .. 147,
+visitors’ .. .. .. .. .. .. .. 188
+
+
+Paras.
+Toilet facilities, maintenance staff .. .. .. .. .. .. . . 198
+staff .. .. .. .. .. .. . . . . . . 112
+room, ward .. .. . . .. .. .. .. .. .. 100
+Towns, distance from .. .. .. .. .. .. .. 5,8, 9, 13, 19, 183
+Transport .. .. . . . . .. .. .. .. .. . . 9
+tropics .. .. . . .. .. .. .. .. . . 209
+vehicles, maintenance .. .. .. . . . . .. . . 193
+beds .. .. .. .. .. .. .. .. . . .. 42, 47
+Traps, bends, etc. .. .. .. .. .. .. .. . . .. 57, 59
+Travel, interior .. .. . . . . .. . . . . .. . . 34-35
+Trays . . .. .. .. .. .. .. .. .. .. .. 102
+for sputum receptacles .. .. .. .. .. .. .. 122
+Trees .. .. .. .. .. .. .. .. .. .. .. 16
+Trolleys .. .. .. .. .. .. .. 87, 106, in, 123, 128, 132, 169
+Tropical climate .. . . .. .. .. .. .. .. 199—214
+Tubes, vacuum cleaning .. .. .. .. .. .. .. .. 114
+Tungsten lighting .. .. .. .. .. .. .. . . .. 64(a)
+Twin doors, sterilising laboratory .. .. .. .. .. .. .. 167
+theatres . . .. .. .. .. .. .. .. . . 144
+Two-bedded rooms . . .. .. .. .. .. .. .. .. 50, 58
+Typing of organisms .. .. .. .. .. .. .. . . . . 145(0)
+Ultra light treatments .. .. .. . . .. . . .. . . 157(6)
+Underblankets .. .. .. .. .. .. .. .. . . .. 96
+Underlay, felt .. .. .. .. .. .. .. . . . . .. 84
+Underground ducts . . .. . . -.. .. .. . . . . .. 82
+Under-pillow radio .. . . . . .. .. . . . . .. .. 69
+Upholsterers’shop .. .. .. .. .. .. .. .. .. 195(6)
+Urine testing .. .. .. .. .. .. .. . . .. . . 105
+Utility-room, medical staff .. .. .. .. .. .. .. .. 177
+Waiting room, dentistry .. . . .. .. .. . . .. . . 170
+mortuary . . . . .. .. .. . . .. . . 147
+Walking distances, staff . . . . .. .. .. .. .. .. 34, 35
+Walking practice .. .. .. .. .. .. .. .. .. 155
+Wall bell-push .. .. . . .. . . .. .. .. .. . . 70
+fittings .. .. .. .. .. .. .. .. . . . . 101
+heating 143, 157(6)
+Walls .. 55, 88, 89, 91, 142, 167
+tropics . . .. .. . . .. .. . . . . .. . . 210
+Walther, Dr. Otto .. .. .. .. .. .. . . .. .. 1
+Wards .. .. .. .. .. .. .. .. .. 49, 50, 53, 58
+Ward ancillaries, tropics .. .. .. .... .. . . .. 206
+dressing cubicle .. . . .. .. .. .. .. .. .. 100
+kitchen .. .. .. .. .. .. . . . . .. . . 102
+lighting 65
+planning, tropics .. .. .. .. .. .. .. .. 203
+Ward Services .. .. ~ .. .. .. . . . . 102-113
+toilet room .. .. .. .. .. .. .. . . .. 100
+transport .. .. .. .. .. .. .. . . .. 106
+
+
+Paras.
+Ward Units 49~53> *7s
+clinical room .. .. .. .. .. . . . . .. . . 105
+steriliser .. .. .. .. .. .. . . . . .. 124
+Wardrobes, built-in .. .. .. .. .. .. . . .. .. 99
+Wash-hand-basins .. .. .. .. .. . . .. 58, 59(a), 144
+nurses’ .. .. .. .. . . .. . . .. 179
+tropics .. .. .. .. .. .. .. .. 206
+Washdown, vehicles . . .. .. .. .. .. .. .. .. 196
+Washing of Dishes .. .. .. .. .. .. .. .. .. 136
+Washing and drying room, films .. .. .. .. .. .. .. 149
+Washing, facilities, staff .. .. .. .. .. .. .. 112,113
+patients .. .. .... .. .. .. .. . . 58
+Washing-down walls .. .. .. .. . . .. . . .. 91, 167
+Washing-up, children’s crockery, etc. .. .. .. .. .. .. 172
+facilities (central) .. .. .. .. .. .. .. 103
+(wards).. .. .. .. .. . . . . . . 103
+sculleries .. .. .. .. .. . . . . .. .. 13 1
+Waste pipes .. .. .. .. .. .. . . .. .. . . 56
+Waste steam, generation of electricity .. .. .. . . .. .. 61
+water, tropics .. .. .. .. .. .. .. .. . . 208
+Water boiler .. .. .. .. .. .. .. .. .. .. 102
+W.C.’s 59 (*)
+Water-cooled ultra violet lamp .. .. .. .. .. .. • • *S7W
+Water-heating, steam .. . . .. .. .. . . .. .. .. 77
+tropics .. .. . . .. .. . . .. .. 207
+Water softening plant .. ~ .. .. .. .. .. .. .. 193
+Water-still .. .. .. .. . . .. . . .. . . .. 167
+Water supply 9, 17? *66, *93
+Water-taps .. .. .. .. ~ ~ .. .. .. .. 3 1
+Wax polish . . .. .. .. .. .. .. .. . . .. 83
+Waxed cartons, sputum .. .. .. .. .. .. . . .. 120
+“ Weir ” overflow .. .. .. .. .. .. .. .. .. 59( a )
+Wheel chairs 59 *s4* *5 6
+Wind, protection from . . .. .. .. . . .. .. 154
+Window frames . . .. .. .. .. .. .. .. . . 3^
+Windows .. .. .. .. .. .. .. .. 37-44,12,78,154
+tropics . . .. .. .. .. .. .. . . .. 204
+Windowsills . . . . .. .. .. .. .. .. . . 37? 4 2 > 44
+Wireless headphones . . .. .. .. .. .. .. .. .. 66, 6g
+Wiring, electrical .. .. .. .. .. . . . . .. •. 62
+Workshop, dentistry .. .. .. .. .. .. .. . . . • 1 7°
+Workshops .. .. .. .. .. ~ .. .. .. 19» 21, 195
+occupational therapy .. . . .. .. .. .. . • 160
+Work table, nurses’sewing .. .. ~ .. .. .. .. .. 180
+X-ray Department .. .. .. .. .. .. .. 148-151, 141, 146
+X-ray output .. .. .. .. .. .. .. .. .. .. 148
+plant .. .. .. .. .. . . . . .. .. .. 7 1
+rooms, tropics ~ .. .. .. . . . . .. .. .. 202
+viewing boxes .. .. .. .. .. .. .. .. 142,144
+
+

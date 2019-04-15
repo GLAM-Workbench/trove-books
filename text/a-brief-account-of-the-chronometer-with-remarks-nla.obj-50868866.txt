@@ -1,0 +1,1213 @@
+
+
+A
+BRIEF ACCOUNT
+OF THE
+CHRONOMETER,
+With Remarks on those furnished by
+PARKINSON AND FRODSHAM
+TO THE
+EXPEDITIONS
+OF
+CAPTAINS ROSS, PARRY, SABINE, KING, LYON, FOSTER,
+AND OTHER DISTINGUISHED NAVIGATORS,
+With the Rate of Others tried at
+THE ROYAL OBSERVATORY, GREENWICH,
+In the Years 1826-29-30-31.
+London:
+PRINTED BY M. A. PITTMAN, WARWICK SQUARE.
+
+
+
+
+CHRONOMETERS.
+THE rapid strides with which science has advanced during the
+last few years may be readily accounted for by the attention
+that has been bestowed on it by the leading men of all nations,
+and by the almost universal establishment of Societies having for
+their professed object the improvement of its. different branches.
+These praiseworthy efforts of individuals have, since the establish-
+ment of peace in Europe, been laudably encouraged by the several
+Governments, and by none more liberally than our own. It is,
+however, remarkable, that in this country the Chronometer, so
+important to navigation, and for the improvement of which large
+rewards had been offered by our Government, should have been
+the only instrument that did not keep pace with the great and
+rapid improvement of every other description of machinery that
+had engrossed the attention of the man of science and the me-
+chanic, and by the aid of which England has been raised to such
+eminence among nations. Happily, however, this stigma is in a
+great measure removed ; and England may now justly boast of
+having as far outstripped all her competitors in this as she has
+done in several other instances of the application of science to
+purposes of national utility.
+It is unnecessary here to dilate on the importance of the
+Chronometer in determining the longitude at sea, or to advert to
+the great benefit the mariner derives from its use. By its assistance
+he frequently preserves the lives and property committed to his
+care, while the average duration of voyages, as compared with
+those previously to its introduction, is reduced in a ratio perfectly
+astonishing.
+The very general adoption of the Chronometer, particularly in
+]opg voyages, is the liest proof of its value; and it ia more than
+
+
+probable, that, in a very few years, no vessel will sail without one,
+either to distant parts of the world, or when navigating smaller
+seas—this invaluable instrument being equally useful to the
+scientific navigator in the one case as in the other.
+The interest taken by the different Maritime Governments of
+Europe for the discovery of a marine watch capable of more
+accurately determining the longitude at sea was exemplified so
+long ago as 1598, when Philip the Third of Spain offered a reward
+of one thousand crowns for that purpose. The States of Holland
+soon afterwards munificently promised one hundred thousand
+.florins: in the reign of Queen Anne, England, being equally
+desirous of promoting so important a discovery, offered twenty
+thousand pounds: and in 1716 the Duke of Orleans, then Regent
+of France, also offered one hundred thousand livres to the artist
+who should attain that object.
+These princely inducements naturally stimulated men of science
+and ingenuity to the arduous undertaking, which, to the honour
+of England, was attained by our highly-talented countryman,
+John Harrison, to whom the first premium was awarded. This
+scientific mechanic, after forty years of intense application and
+study, at length succeeded in completing a marine watch, which,
+upon trial in a voyage to Barbadoes, determined the longitude
+within the limits prescribed, and he received from the British
+Parliament, in 1764, the sum of twenty thousand pounds.
+Foreign artists also exerted their powerful abilities to attain this
+desirable object; among the principal of whom were Berthoud
+and Le Roy. The latter invented the detached escapement,
+which very much improved and simplified the Chronometer ; and
+also the compensation balance (now with scarcely any improve-
+ment universally adopted). That artist, however, on its first
+introduction, fearful of applying his own invention—not feeling
+sufficient confidence in its stability—used other means in his marine
+watch for the purpose of counteracting the changes of temperature.
+He also, in a very ingenious, scientific, and valuable Treatise on
+Marine Watches, suggested the Isochronous property contained
+in the balance spring, so indispensable in producing the accurate
+measurement of time. These inventions having been introduced
+into this country, were taken up by several ingenious artists, and
+improved on by Messrs. Mudge and Arnold, and subsequently by
+Earnshaw ; to the former of whom a premium was awarded by
+Parliament of three thousand pounds in 1793 ; and the same sum
+
+
+to both Mr. Arnold and Mr. Earnshaw, by the Board of Lon-
+gitude in 1800,
+Although prior to this period, and afterwards, some excellent
+Chronometers were occasionally produced, which proved the
+possibility of their being brought generally to greater per-
+fection ; yet it was evident, by their forming so very small a
+proportion of those in general use, that their good performance
+arose rather from accidental circumstances than from any known
+principle in their construction.
+During the lengthened warfare which involved the whole of
+Europe, England had little time to attend to the advancement of
+science: but on its termination, ever anxious to be pre-eminent
+on that element by which her glory had been extended to all
+portions of the habitable globe, the Government of this country
+planned several expeditions for the advancement of geographical
+discovery and for the improvement of nautical science ; and the
+Lords of the Admiralty, in 1822, offered two premiums—one of
+3001. and one of 2001.—t0 be awarded annually to the makers of
+the two Chronometers which should be adjudged to be the best,
+after having been submitted to a twelvemonth’s trial at the Royal
+Observatory at Greenwich.
+It is only from this period that it may truly be asserted that
+Chronometers have been improved in their construction, so as collec-
+tively to approximate to perfection, and that greater improvements
+have been made in them than in the forty years preceding. As a
+proof of this fact. Government now refuses to purchase Chrono-
+meters sent for trial, whose performances have far exceeded those
+to which at the commencement of the trials (1822) they awarded
+the above prizes.
+Among the first of the voyages undertaken by the English
+Government subsequently to the late war, for the purpose of
+geographical discovery, was the Northern Expedition (in 1818),
+to endeavour to settle the long-contested problem of a North-
+West Passage into the Pacific Ocean. The expedition consisted
+of two ships—the Isabella, commanded by Captain Ross, and
+the Alexander, by Lieutenant Parry. Captain Sabine, of the
+Royal Artillery, F.R.S., was appointed Astronomer to this expe-
+dition. They were furnished with several Chronometers and
+every necessary instrument for prosecuting scientific discovery.
+Parkinson and Frodsiiam, who had devoted a considerable por-
+tion of their time and great attention to the improvement of
+
+
+Chronometers, and had spared neither expense nor exertions in
+their endeavours to attain perfection, considered this an eligible
+opportunity of having one upon their principle practically tried.
+They therefore made application to the Lords of the Admiralty
+for permission to send it with the expedition at their own risk,
+which request was acceded to. On the return of Captain Ross,
+this Chronometer was reported to have surpassed all the others
+which he took with him in the regularity of its going and the
+equability of its rate—as will be seen from the extracts of two
+letters addressed to Parkinson and Fuodshaji by Captain Ross
+and Captain Sabine (See Appendix, No. /.)
+This high testimony of its performance induced the Lords of the
+Admiralty to order it to be purchased for the use of a second
+expedition, then fitting out under Lieutenant Parry, for the purpose
+of attempting further discoveries.
+In consequence of this liberal encouragement, and having com-
+pleted three other Chronometers on the same principle, they
+again applied to the Board of Admiralty, and immediately
+obtained the required permission to send them with this expedi-
+tion, which, consisting of the Ilecla, Lieutenant Parry, and the
+Griper, Lieutenant Liddon, sailed in 1819. Parkinson and
+Frodsiiaji placed No. 259 under the charge of Lieutenant Parry,
+and the other two (Nos. 253 and 254) under that of Captain
+Sabine, who again accompanied this expedition as Astronomer and
+for the purposes of general science. The whole of them were
+delivered to Captain Sabine, accompanied by a letter from
+Parkinson and Frodsiiam, stating that they were “ Experi-
+mental Chronometers,” in which they had attempted a principle of
+correcting their final adjustment different from that in general use,
+for the purpose of endeavoring to prevent that disposition to
+acceleration and retardation in their rates to which Chronometers
+had hitherto generally been subject. The result of the per-
+formance of these Chronometers in this severe and unprecedented
+trial was an evident proof of considerable improvement—the
+whole of them having preserved their rates in a most uniform
+manner during an Arctic winter exposed to 40° below zero ; and
+whilst every other Chronometer on board (of which there were
+fourteen) actually stopped. No. 228, (the one already mentioned
+as having been purchased by the Admiralty,) Nos. 259, 253,
+and 254, kept the same rates throughout the time occupied by the
+expedition, as appeared upon comparison made at London on its
+
+
+departure and return, and also by observations at Leith. —(See
+Appendix, No. II.)
+On the return of the Ilecla and Griper the Lords of the Admi-
+ralty purchased the two Chronometers Nos. 253 and 254, and the
+Officers of the expedition purchased No. 259 for Captain Parry,
+which they presented to him as a testimony of the esteem and
+respect they entertained for their commander. The Honorable
+Board also, on receiving the reports of the extraordinary and
+unprecedented performance of the four Chronometers, 228, 253,
+254, and 259, ordered their rates to be printed, and circulated
+them amongst the scientific circles.
+All these Chronometers accompanied the second expedition of
+Captain Parry in the Fury, and Captain Lyon in the Hecla, in
+1821, to Winter Island and Igoolik. They returned in 1823,
+and the report of the rates of their was equally
+satisfactory.
+In 1822 Captain Sabine sailed from Portsmouth for Africa in
+the Iphigenia, Captain Clavering, for the purpose of making
+experiments to determine the figure of the earth by means of the
+pendulum vibrating seconds in different latitudes. He was fur-
+nished with the best instruments of every description belonging
+to the Royal Society and the Board of Longitude, in addition to
+those of his own private property; and Parkinson and Fnon-
+sham also sent four Chronometers with him on trial. He arrived
+at Sierra Leone on the 22d of February, and returned to London
+on the sth of the same month in the following year. The correct-
+ness of these Chronometers was so highly appreciated that Cap-
+tain Clavering purchased one of them for his own use.
+In 1823 Captain Sabine proposed to extend his experiments in
+the high latitudes, for the purpose of concluding his pendulum
+experiments. This proposal having been approved by the Lords
+of the Admiralty and the Board of Longitude, he sailed on the
+11th May on board the Griper, Captain Clavering, to Spitsber-
+gen, &c. &c. and returned to London in December. Parkin-
+son and Froiisiiam’s three Chronometers accompanied this expe-
+dition, together with a Chronometer No. 1, made by W. E. Fnon-
+sham, one of the junior branches of their house, which performed
+equally well with the others. —(See Appendix, No. III.)
+From the report made by Captain Sabine on his return home.
+Government purchased two of the abovementioned Chronometers,
+Nos. 423 and 049, which were sent out with Captain Parry in his
+
+
+third voyage (together with some of the others previously men-
+tioned), and they maintained the same high character in the Polar
+Seas that they had obtained from Captain Sabine in his pen-
+dulum experiments.
+In 1824 Captain Parry in the Hecla, and Captain Hopner in
+the Fury, again proceeded for the purpose of discovering a
+North-West Passage. In this voyage, Parkinson and Fuou-
+sham’s Chronometers were selected to accompany the enterprise,
+together with one that had that year received the first prize of
+three hundred pounds. They also sent one out on comparative
+trial, Henry Frodsham, No. 1, another of the junior branches of
+their house. Mr. Foster accompanied the expedition as astrono-
+mer, and had charge of all the Chronometers. Parkinson and
+Frodsiiam’s Chronometers preserved their rates in the same
+satisfactory manner as in the preceding voyages; and the one by
+Frodsham junior performed equally well with those which had
+previously undergone so great an alternation of climate: and,
+from its regular and uniform going, was adopted (in 1825) as
+the Standard Chronometer. From the high report of its excel-
+lent performance. Lord Melville, the then First Lord of the
+Admiralty, purchased it for a present to his son, the Hon. Captain
+Dundas. —(See Appendix, No. IV.)
+Several other makers also sent Chronometers on trial on this as
+in former voyages, but they were generally found upon trial not to
+have been sufficiently prepared for so severe a test as those made
+by Parkinson and Frodsham.
+In the same year, 1824, Captain Lyon proceeded in the Griper
+to Repulse Bay, to endeavour through this course to discover a
+North-West Passage, but returned unsuccessful, having met with
+most disastrous weather. Lieutenant Kendall accompanied him
+as assistant surveyor, and had charge of the Chronometers.
+Parkinson and Frodsham sent Chronometer No. 1, which
+had performed so well with Captain Sabine in 1822, and one of
+their own. —(For their performances see Appendix, \o. V.)
+In Captain Parry’s last voyage in the Hecla, to attempt to reach
+the North Pole in boats over the ice, which sailed the 26th May
+1827, “ Government (we quote Captain Parry’s own words) fur-
+“ nished six chronometers, the whole being pocket watches. Of
+“ these Parkinson and Frodsham were directed to prepare two,
+“ the dial plates of which were to have the hours from one to
+“ twenty-four marked on them—a precaution intended to provide
+
+
+“ against the possibility of incurring an error of twelve hours
+“ when travelling over the ice towards the Pole. The rest were
+“ directed to be supplied from the Royal Observatory at Green-
+“ wich; but it so happened that a short time before the embarka-
+“ tion, these latter Chronometers, intended for the use of the
+“ expedition, were going irregularly—a circumstance which at
+“ this advanced stage of the equipment would have been attended
+“ with very serious inconvenience, had it not been for the liberal
+“ offer of Parkinson and Frodsham to supply the number re-
+“ quired at their own risk. However, the Lords Commissioners of
+“ the Admiralty, on becoming acquainted with the circumstances
+“ of the case, immediately directed the Chronometers in question
+“ to be purchased of Parkinson and Frodsham ; and these, with
+“ five others (three of which belonged to the same makers, the
+“ other two to Captain Parry and Lieutenant Foster, the astrono-
+“ mer), were embarked on board the Hecla.”—They passed the
+summer at Spitzbergen; and Captain Parry, in speaking of
+Parkinson and Frodsham’s Chronometers, says, “it is highly
+“ creditable to the makers of these excellent Chronometers, that
+'■ each was found to preserve its rate extremely well; and under
+" the severe trials to which these watches were subjected, the
+“ boats made Little Table Island, after an absence of fifty days,
+“ to a surprising degree of exactness.”
+In 1828, Capt Foster, in the Chanticleer, proceeded on a voyage
+for making pendulum experiments and extensive surveys. He
+had seventeen Chronometers on board (two lent by Parkinson
+and Frodsham on comparative trial, and two belonging to the
+Government by other makers that had obtained the prizes of
+three hundred pounds). One of Parkinson and Frodsham s.
+No. 1204, was, after sufficient trial, adopted as the standard, and
+continued so till the end of the voyage in 1831. Lieutenant
+Kendall had the charge of the Chronometers for a portion of the
+voyage, until his appointment to the Hecla surveying vessel. The
+expedition sailed from Falmouth, and embraced in its route Ma-
+deira, Teneriffe, St. Antonio, Fernando de Noronha, Rio Janeiro,
+St. Catherine’s, Monte Video, Staten Island, Cape Horn, South
+Shetland, Cape Horn again. Cape of Good Hope, St. Helena,
+Ascension, Trinidad, Para, Maranham, Porto Bello, and St.
+Michael’s, and returned to Falmouth. Captain Foster, having
+been unfortunately drowned on his return home (January 1831),
+
+
+Lieutenant (now Commander) Austin took the command, and for
+his report we refer to Appendix, No. VI.
+Previously to these two last voyages of Captain Parry and Cap-
+tain Foster, Captain King in the Adventure, accompanied by
+Captain Stokes in the Beagle, sailed in 1820, for the purpose of
+surveying Terra del Fuego, Magellan Straits, Cape Horn, &c. &c..
+Lieutenant Graves having in this voyage generally taken charge of
+the Chronometers. One sent out by Parkinson and Frod-
+sham (No. 1048), on comparative trial, was officially reported
+by Captain King (with the Government Chronometers) to the
+Admiralty ; and in a letter to Parkinson and Frodsiiam,
+Captain King says, " It performed by for the best of all he
+had on board," of which there were thirteen. From Captain
+King’s report to the Admiralty, this Chronometer was liberally
+purchased by Government.— (See Appendix, No. VII.)
+In 1830 Lieutenant Kendall proceeded (by order of the Secre-
+tary of State for the Colonial Department) to America, to make a
+series of astronomical observations, with the view of fixing the
+relative positions of several principal points in the Province of New
+Brunswick. He was furnished, at the request of Government,
+with five of Parkinson and Frodsiiam’s Chronometers (which
+they readily lent for the purpose): and for a testimony of their
+excellent performance on their conveyance by hand, in coaches, on
+horseback, and on shipboard, we refer to Appendix, No. VIII.
+A comparative trial of Parkinson and Frodsiiam’s Chro-
+nometers with others was directed to be made at the Observa-
+tory of Leyden: they were tried by one of the Learned Professors
+of that University—the result of which again confirmed the
+superiority of Parkinson and Frodsiiam’s Chronometers, and
+they in consequence obtained from the Government of the Nether-
+lands the most liberal encouragement.
+The Russian circumnavigators. Captain Kotzebue, Captain
+Lutkie, and Baron Wrangel, were furnished by the Russian
+Government with Parkinson and Frodsiiam’s Chronometers, and
+expressed their high satisfaction at the accuracy of their perform-
+ances.—(Sec Appendix, No. IX.)
+The principle of correcting Chronometers, as adopted by
+Parkinson and Frodsiiam in the first voyage of Captain Parry,
+in 1818, was applied to all those subsequently sent on the other
+voyages of discovery, and has been continued to the present time.
+
+
+together with those alterations and improvements which observa-
+tion and experience have naturally suggested; and they have the
+satisfaction of knowing that their exertions in the cause of science
+have been duly appreciated.
+In addition to the above high testimonials, they have received
+numerous letters from distinguished Officers in His Majesty’s Ser-
+vice (many of them employed in voyages of considerable dura-
+tion), from Captains in the merchant service, from Commanders
+of vessels engaged in American commerce, and other intelligent
+Navigators in various parts of the world—all tending to confirm
+their excellence, and evincing the strongest proof of the value of
+the discovery, and the certainty and universality of its application.
+—(See Appendix, No. X.J
+But, however flattering all these testimonials of pre-eminent
+accuracy in the performance of their Chronometers through every
+variation of climate—far exceeding the reasonable expectations of
+aify artist, however eminent—together with the excellent rates of
+going of others (made by the junior branches of their house) at
+the Royal Observatory at Greenwich, particularly on the late and
+preceding trials, the rates of which are here annexed, and to
+some of which Prizes were adjudged Pakkinson and Frod-
+stlAM hope that still greater perfection may be attained in this
+important branch of mechanical science, so as to make Chrono-
+meters generally maintain their rates more equably: and they
+confidently trust, by devoting till their abilities in furtherance
+of this great object, they may eventually be enabled to produce
+Chronometers with such a positive certainty of equal perfection,
+as must render them invaluable for the purposes of navigation.
+PARKINSON AND FRODSHAM.
+in the following page, have the satisfaction to submit the Rates
+of Four Chronometers, made by three of the Junior Branches
+of their Establishment, tried at the Royal Olwervatory, Green-
+wich, ii) 1828-29-30-31.
+
+
+Average Dailt Rate, for each Month, of Chronometer No. 8/3, by Henry
+Frodsham, ’Change Alley, Comhill, for Twelve Months, at the Royal Observa-
+tory, Greenwich, sent on Public Trial; with the Maximum and Minimum of the
+Thermometer.
+Date.
+Daily Rate.
+Thermometer.
+Maximum.
+Minimum.
+1828.
+August
++ 0" 28
+- 0“ 02
+72’
+73°
+61“
+62°
++ 0“ 37
++ 0" 17
+- 0" 25
+63’
+50°
+58°
+38’
+54°
+43’
+1829.
+- 0" 89
+48°
+29*
+- 0" 18
+50°
+39’
++ 0“ 40
+58°
+40’
++ 0" 81
+55°
+46’
++ 0" 32
+(!8°
+50°
++ 0“ 41
+73°
+61’
+July
++ 0“ 40
+71°
+63°
+Average Daily Rate, for each Month, of Chronometer No. 2, by W. E.
+Erodsha.m. ’Change Alley, Comhill, for Twelve Months,
+at the Royal Obser-
+vatory, Greenwich, sent on Public Trial; with the Maximum and Minimum ot
+the
+Thermometer.
+Thermometer.
+Rate in July -0“ 51
+Date.
+Daily Rate.
+Ditto in Sep-
+tember....+0“ 11
+0" 62
+Maximum.
+Minimum.
+1829.
+October
+- 0" 1U
+80°
+48°
+being the extreme
+November
+- 0“ 17
+55°
+37°
+error on the Kate in
+December
+- 0“ 27
+49°
+2J|°
+12 months. This
+1830.
+- 0“ 15
+4o°
+28°
+was only equalled by
+two out of nearly
+February
+- 0“ 50
+55°
+29°
+March
+- 0“ 20
+«3°
+4fi°
+500 sent on the trial,
+- 0" 17
+- 0" 50
+71°
+74°
+45°
+and they only by a
+few hundreth parts
+May
+54°
+- 0" 14
+70°
+58°
+of a second. Govern-
+July
+- 0“ 51
+80°
+00°
+ment were pleased
+August
+- 0“ 50
+75°
+61°
+to purchase this In-
+September
++ 0" 11
+strumcnt.
+Average Daily Rate, for each Month, of Chronometers Nos. 1 and 2, by
+Charles Fhodsham, ’Change Alley, Corahill, for Twelve Months, at the
+Royal Observatory, Greenwich, on the last Public Trial.
+Thermometer.
+No. 1.
+Date.
+Daily Rate.
+No. 2.
+Daily Rate.
+Maximum.
+Minimum.
+ui;m.
+October
++ 2“
+73
++ 6"
+75
+69’
+52“
+November
+•f 3"
+45
+•
++ 6"
+118
+59°
+45“
+December
++ 3“
+2‘J
+,
++ 6“
+07
+50°
+27“
+1831.
+January
++ 3"
+44
++ 6"
+59
+50°
+35“
+February
++ 3"
+43
++ 6“
+85
+59’
+34“
+March
++ 3"
+60
++ 7“
+24
+58“
+44“
+April
++ 3'
+72
+s
++ 7“
+45
+62“
+37“
+May
++ 3"
+67
++7“
+24
+71“
+52°
+June
++ 3-
+54
+•o
++ 7“
+22
+72“
+61“
+July
++ 3“
+15
+4)
++7“
+29
+78“
+65“
+August
++ 3“
+25
+eft
++ 7“
+00
+77“
+66“
+September
++ 3"
+66
+X
++ 7“
+26
+72“
+60“
+October
++ 3“
+47
++7-
+05
+No. 2 was the second, and No. 1 the fifth, in the trial list. With respect, however,
+to No. I, some correction was made a few days previously to its being sent on trial; so
+that its rate was not settled the first month, and which, in fairness to the merits of the
+Chronometer, ought to be omitted : and then, taking the twelve subsequent months,
+the extreme variation will be found to be only 0“ 57. This, out of nearly 500 Chrono.
+meters sent on the public trials, was equalled only by one, whose extreme variation was
+0“ 54. These two Instruments were also purchased by the Government.
+
+
+APPKNDIX.
+No. I.
+Extract of a Letter from Captain Ross to Messrs. Parkinson and
+Fuodsiiam.
+“ Herewith you receive an account of the going of your Chronometer
+No. 228, which was sent with the expedition under my command to
+Baffin’s Bay. By a comparison with the other Chronometers and obser-
+vations which ascertained their rates during the voyage, as well as by the
+comparison on our return, it appears that your Chronometer abovemen-
+tioned has performed better than any other we had on board, and exactly
+as you had in your directions expected it to do: and I have great pleasure
+in affording you this testimony of my approbation, and in recommending
+your Chronometers as of a superior construction, and as instruments
+which may be safely depended on by navigators.
+(Signed) “ John Ross, Capt. R.N.
+“ London, July 1819.”
+Extract of a Letter from Captain E. Sabine, Astronomer to Captain
+Ross’s Expedition.
+“ Captain Sabine has great pleasure in assuring Messrs. Parkinson
+and Frodsham that their Chronometer No. 228 lias gone remarkably
+well during the North West Expedition. As soon as he is at liberty to
+give extracts from his papers, he will furnish Messrs. Parkinson and
+Frodsham with a statement of its comparative going, with live other Chro-
+nometers embarked in the Isabella, as also such remarks as he feels it his
+duty to make on it.
+“ Nov. 25, 1818.”
+On the 13th of July 1819, Messrs. Parkinson and Frodsham
+received the following Note :
+“ Captain Sabine begs to inform Messrs. Parkinson and Frodsham
+that in consequence of the favorable report which he has made of their
+
+
+Chronometer No. 228; and as an encouragement to the liberality with
+which Messrs. Parkinson and Frodsham entrusted it on the late Voyage
+of Discovery, Mr. Crokcr (Secretary to the Lords of the Admiralty) has
+expressed the readiness of Government to purchase No. 228."
+No. II.
+Extract of a Letter from Captain Parry, R.N. to Messrs.
+Parkinson and Frodsham.
+“ Captain Parry has the satisfaction to inform Messrs. Parkinson
+ami Frodsham that their watches have performed admirably throughout
+the voyage, and that the account, which will shortly be published, cannot
+fail to reflect the highest credit on the makers of such invaluable Chro-
+nometers. Captain Parry begs, however, that Messrs. Parkinson and
+Frodsham will not, in any public way, make use of his name on this sub-
+ject, as it is his full intention to make known, in the proper manner, the
+advantage he has derived from the use of them.
+“ Nov. 9, 1820.”
+Extract of a Letter from Captain Sabine, R.A., F.R.S., to Messrs.
+Parkinson and Frodsham.
+“ Captain Sabine has great pleasure to acquaint Messrs. Parkinson
+and Frodsham that all thair Chronometers arc safe, and have behaved most
+admirably indeed—the details of which Captain Sabine will shew Messrs.
+Parkinson and Frodsham so soon as the llecla shall arrive at Deptford
+from Leith, where she is at present.
+“ Portland Place, Nov. 0, 1820."
+Captain Parry’s Journal of this Expedition was subsequently
+published by authority of the Lords of the Admiralty, in which
+are the following remarks on Messrs. Parkinson and Fhod-
+sham’s Chronometers:—
+“ The number of Chronometers embarked in the expedition amounted,
+altogether, to fourteen. No. 32.3 of Messrs. Parkinson and FrodshaAi,
+had been sent on trial in the Voyage of Discovery to Baffin’s Bay, in 1818,
+at the risk of its makers, whose property it then was. A favorable report
+having been made, on return, of its going, the Admiralty were pleased to
+order its purchase for the public service. In consequence of such encourage-
+ment, Messrs. Parkinson and Frodsham determined to send three Chro-
+nometers on trial on the present occasion ; accordingly their Nos. 253 and
+
+
+254 were delivered to Captain Sabine in the beginning of April 1819, and
+No. 259 a few days before the expedition sailed.
+*“ In table No. 3 is shewn the daily rate of the remaining of tire Hecla’s
+complement on mean Greenwich time, as shewn each day at noon by 259,
+with its correction applied to its rate and original difference.
+“ No. 259 has been selected for this purpose, because it is believed to have
+preserved the most steady and uniform rate throughout the season. This
+fact may be examined by a reference to the table closing the abstract of
+.latitudes and longitudes determined in 1819, in which the daily longitude
+by each Chronometer is shewn separately, as well as by their mean. It is
+considered to afford a presumption of remarkable steadiness.
+“ The occasional stoppage of some Chronometers, and the irregularity ol
+others, shew, that, notwithstanding the precautions that were adopted, the
+cold which was experienced was greater than they were prepared to meet.
+“ The Chronometers of Messrs. Parkinson and Frodsham appeared to
+have been better prepared for the peculiar service on which they were em-
+ployed than any other of the Chronometers. No instance occurred of any
+one of them being stopped by the cold.
+“ On due examination of the going of the Chronometers at Melville
+Island, exhibited in table 5, it was apparent that the four of Messrs. Pah-
+kinson and Frodsham’s were principally to be relied on in the detenninafion
+of longitude in the ensuing season.
+“ Their actual differences, ascertained by comparison at Calton Hill,
+being divided by 4 (the number of the Chronometer), gives 1.813 fast, as
+the error of the Greenwich time, shewn by the Chronometers'at the end of
+104 days, on being allowed the average daily rates at which they had gone
+for the three months preceding the period.
+“ The longitude of the western parts of Melville Island, and of a con-
+siderable portion of the western coast of Baffin’s Bay and Davis’ Straits,
+which were surveyed in the season of 1820, have been accordingly deter-
+mined by the mean of these four Chronometers, being the rates. Table 7,
+containing a statement of their daily going in time since their return to
+London. The materials of their statement have been furnished by the
+makers, who had not received any intimation of the previous rate.
+“ Admirably as these Chronometers have fulfilled the pm-pose for which
+they were employed, it is an additional satisfaction to find, that notwith-
+standing the change of circumstances attendant on their disembarkation and
+replacement in their makers’ care, they are still retaining, almost without
+exception, their Melville Island rates.
+
+
+No. III.
+Extract of a Letter from Captain Sabine on his return from his
+First Voyage for making Pendulum Experiments.
+“ Captain Sabine has the pleasure of apprising Messrs. Parkinson
+and Fhousiiam that their Chronometers, 423, 493, 384, and 357 are safe,
+and that 423 and 357 are the best watches Captain Sabine ever knew
+The others are also very good, but the two named pre-eminent.
+“ Captain Sabine is going again to the Arctic Circle for the summer
+months, and will be very glad to have with him at least 423 and 357.
+No. 357 need not even return into die maker’s hands in the interim.
+No. 423 requires a slight amendment in compensation, equivalent to one
+second per diem for 10 degrees of latitude.
+“ February 10, 1823.”
+Extract of a Letter from Captain Sabine on his return from his
+Second Voyage for completing his Pendulum Experiments.
+“ Captain Sauine has the pleasure to acquaint Messrs. Parkinson
+and Frodsiiam once more of his safe arrival, and of the safety and excellent
+going of their Chronometers. They have all gone well—the one by W. E.
+Frodsiiam certainly scarcely inferior to the best.
+“ Captain Sabine hopes he will at length be enabled to make the best
+return in his power for the great assistance which these admirable time-
+pieces have been to him throughout his observations, by making it known
+in almost every page of his publication.
+“ December 20, 1823.”
+The following are Extracts on the performances of Messrs.
+Parkinson and Frousiiam’s Chronometers in Captain Sa-
+bine’s two Voyages to Africa, &c. and Spitzbergen, for
+making Pendulum Experiments—as published (by authority
+of the Board of Longitude) in his Narrative of those Scientific
+Expeditions.
+“ It would be impossible to express the advantage of which Messrs.
+Parkinson and Frodsham’s Chronometers proved to me on all occasions,
+or how much the thorough reliance which I could place on their time faci-
+litated, or, what is more important, how much it conduced to the accuracy
+of the variety of observations which successively occupied my attention,
+and which I was usually pressed to complete in the shortest possible time.”
+****** «It is known that the rates of Chronometers arc fre-
+quently found to vary on embarkation in vessels, insomuch as to have given
+rise to the distinctive terms of sea-iates and land-rates. No such variation.
+
+
+however, can be found in the going of No. 423, in any one of the six
+voyages in which it was embarked between April and November, which
+alternated with nearly equal periods on land, when it was employed inces-
+santly in observations, including those of magnetism.” • • • • •
+In a note on this passage. Captain Sabine says, “ An opinion has lately
+prevailed that the change in the rate of Chronometers on embarkation
+which used to be considered as a consequence of the motion of a ship, is
+principally occasioned by the magnetic influence of the iron which she
+contains: and it has been assumed by some of the writers who have taken
+part in the recent discussions on the subject, that the effect so attributed is
+one of general experience. I believe, on the authority of others, rather
+than from ray own observation, that a difference has sometimes, and even
+frequently, taken place between the land and sea rates of Chronometers;
+but, from whatever cause the irregularity may arise, I must regard its oc-
+currence as an evidence of the inferiority of the peculiar Chronometer to
+the advanced state to which the art of their construction has attained:
+because, among the many with which I have at different times been fur-
+nished by Messrs. I’akkinso.v and Frodsiiam, and which I have fre-
+quently transferred from the ship to the shore, for two or three weeks at a
+time, for the purpose of trial, I have never been able to discover any sys-
+tematic variations whatever consequent on their removal. With regard to
+the influence of the iron as a cause of the irregularity, a more decisive
+evidence of its not being practically discovered under the most favorable
+circumstances for its exhibition can scarcely be imagined, than took place
+in the four Chronometers of Messrs. Parkinson and Frodsiiam, of which
+I have given an account in the Appendix to Captain Parry’s Voyages in
+1819-20, pages vii. to xii. xviii. xix. and xx*.” Having succinctly men-
+tioned the results. Captain Sabine adds :—“ These particulars are stated in
+detail in the pages referred to; but the circumstance is thus again generally
+noticed, because it seems to have been overlooked by many t chose ingenuity
+has been exerted in devising contrivances to remedy an evil which has no
+practical existence, when the common discretion of life is exercised in
+obtaining the better article at an equal price. Had the especial purpose of
+the Hecla’s voyage been to inquire whether the iron of a ship, in its ordi-
+nary distribution, would, under such extreme circumstances, exert a sens!,
+ble influence on the Chronometers, better adapted arrangements could
+scarcely have been devised for the experiment, nor could a more decisive
+result in the negative have been obtained.”
+• “ The Hecla was stationary and immovable, being frozen up for more
+than ten months, in the vicinity of the magnetic pole, the dip between 88
+and 89 degrees. Such is the situation and such the circumstances which are
+supposed best adapted for the developement of magnetism in the stancheons
+and other irons of a ship. The Chronometers were on board during the
+whole winter; and their rates, preparatory to th? following smnmer, were
+
+
+assigned from the average of the four months immediately preceding her
+extrication from the ice, at an equal period of navigation. The Hecla
+arrived at Leith, having experienced much bad weather in crossing the
+Atlantic; but on comparing the four Chronometers at the Observatory at
+Leith, their Greenwich time, employing their winter harbour rates, proved
+less than two second.a in error on the arrival of the Hecla in the Thames.
+The Chronometers were returned to Messrs. Parkinson and F rods ham’s
+house in London, where, after a month’s interval, they were found still
+going at the same rates as in the Hecla whilst in the harbour of Melville
+Island.” —Note by Captain Sabine,
+No. IV.
+Extract of a Letter from Captain Pahtiy to Messrs. Parkinson
+and Frodsham.
+“ Captain Parry requests Messrs. Parkinson aud Frodsham will
+inform him whether their Chronometer “ Henry Frodsham, No. X,” is
+disposed of or not ; as, in consequence of its excellent performance during
+his late voyage, a Gentleman has applied to Captain Parry, and commis-
+sioned him to purchase it.
+“ Admiralty, December 8, 1825.”
+Extract of a Letter from Lieutenant Wynne to Messrs. Parkin-
+son and Frodsham.
+“ Gentlemen —The rate of my Pocket Watch, No. 510, which you
+made for me, has been registered throughout the voyage with the Chro-
+nometers embarked in the Ilecla, and has performed remarkably well;
+certainly equal to any that we had on board. The rate will be published
+with the other Chronometers, and you will then have the opportunity of
+seeing that I have much reason to be satisfied with it."
+Extract of a Letter from Lieutenant Foster to Messrs, Parkinson
+and FrodshAm.
+“ Dear Sirs —l request you will send some careful person on boArd the
+Hecla, now at Deptford, on Monday next at noon, to receive your Chro-
+nometer, ‘Henry Frodsham, No. I.’ It was undermy charge through-
+out the voyage, and has performed remarkably well, keeping a uniform
+rate, and was adopted as the standard during the navigation of 1825,
+“ The Pocket Watch you made for me has given me the greatest satisfac-
+tion. Its rate has been compared with the other Chronometers throughout
+
+
+the voyage, of which I will furnish you a copy as soon as 1 hav« arranged
+my papers.
+“ Hecla, Deptford, October 29, 1825.”
+(One of the Chronometers to which Government had adjudged
+tlie prize of3ool. was sent out in this voyage.)
+No. V.
+Extract of a Letter from Captain G. F. Lyon, R.N. to Messrs.
+Parkinson and Frodsham.
+“ Gentlemen,
+“ I have much pleasure in acquainting you of the admirable performance
+of your two Chronometers. A carefully registered table of their rales has
+been kept, with which I have requested Lieutenant Kendall to furnish
+you. You will then see how much reason I have to be pleased with your
+Watches. I must state to you, that, in consequence of my favorable
+opinion of your Chronometers, I was induced to name you to a sci-
+entific Gentleman, who, I believe, will wait on you to purchase one. I
+have to request you to accept my best thanks for your having lent me two
+such valuable Chronometers, as those brought to me by Mr. Frou-
+siiam, jun.
+“ Great Portland Street, January 4, 1825.”
+Extract of a Letter from Lieutenant Kendai.i., R.X., to Messrs.
+Parkinson and Frodsiiam, dated January 14, 1825.
+“ Gentlemen —According to the instructions I have received from
+Captain Lyon, I herewith inclose a table, drawn up by myself, of the daily
+comparisons, differences, and second differences of your Chronometers
+embarked on board His Majesty’s Ship Griper in her voyage to Repulse
+Hay; and having had charge of the watches during the whole time of their
+embarkation, I may be allowed to say their performance was excellent. No
+chronometers, I believe, could have been exposed to a severer trial, except
+as relates to change of temperature. 1 cannot bring a stronger testimony
+in support of the equability with which their rates were maintained, than
+the fact of our having made the land with such surprising accuracy after so
+long an interval, during which it was not practicable to obtain observations
+to enable us to form a judgment of their going, and we therefore relied on
+the rates furnished by you on sending the Chronometers on board.
+“ In conclusion, I beg to offer you my best wishes for the universal
+adoption of the principle you have so successfully tried, being well assured
+that, if it succeed according to your wishes, you will have the satisfaction of
+having conferred the greatest possible benefit on your country, by advancing
+the interests of science.
+“ I am, &c.
+E. N. KENDALL."
+
+
+No. VI.
+“ H. M.S. Chanticleer, Woolwich, June 7, 1831.
+“ Gentlemen—From the very high opinion the late Captain Foster
+entertained of your Chronometers, and also the liberality with which you
+lent him two for the more effectually accomplishing the object he had in
+view, I feel myself called upon, as the late Senior Lieutenant of the Chan-
+ticleer, to express to you, that, during a voyage of three years’ duration,
+through the greatest variety of climate and most tempestuous latitudus, the
+performances of your Watches were admirable in the extreme : and,
+indeed, often when in conversation with Captain Foster, we agreed that
+your Chronometers had gone beyond our most sanguine hopes at our depar-
+ture from England. When Captain Foster was unfortunately lost, he had
+the Chronometer, No. .513, in his pocket, which you made specially for him
+when he accompanied Captain Parry in his Third Expedition (1824).
+This Chronometer he highly prized, and which, he often said, was the
+very best that ever was made. I can bear testimony to the accuracy of
+those which accompanied the Expedition ; but Ido not think that anything
+I can say will express more than the daily rough comparison-books will
+shew, and which I have the pleasure of sending for your inspection. I
+may add, that I am quite aware, had Captain Foster lived, he would have
+most strongly recommended your Chronometers, as I most cordially do, as
+the very best that have ever come under ray observation.
+“ I am, Gentlemen, your obedient Servant,
+HORATIO THOS. AUSTIN,
+Commander R. N.”
+(There were two Chronometers on board the Chanticleer, to
+each of which Government has adjudged the prize of 3001.)
+No. VII.
+Letter from Captain King, R.N. of His Majesty’s Ship Adventure,
+to Messrs. Parkinson and Frodsiiam.
+“ Gentlemen—l beg leave to inclose to you the rate of the Chrono-
+meter No. lots, made by you, during the time it teas in my possession :
+and I have, in returning you my best thanks for the loan of it, to state
+with pleasure that it was by far the best going Watch of the twelve that
+were in my charge. The inclosed rate will prove this to you, lam sure.
+most satisfactorily.—l am, &c.
+PHILIP P. KING."
+
+
+No. VIII.
+Letter from Lieutenant Kendali,, R. N., to Messrs. Parkinson
+and Frodsiiam, dated Craven Street, October 22,1831.
+“ Gentlemen —l beg to inclose a letter which I conceived it my duty
+to address to the Hydrographer on the subject of your Chronometers, and,
+as he wished me to point out three out of the five which I could most
+confidently recommend, 1 pointed out B, C, and D, as those which had
+preserved their rates with the greatest uniformity ; and he noted them for
+purchase. I regret exceedingly that my constant occupations liave pre-
+vented my personally waiting on you ere this, but 1 will endeavour to see
+you in a few days. Meanwhile, I remain, &c.
+' /r n VT T r M
+“E. N. KENDALL."
+Copy of a Letter from Lieutenant Kendall to Captain Beau-
+fort, R.N. F.R.S, &c. Hydrographer to the Hon. Board of
+Admiralty, dated October 11, 1831.
+“ Sir —ln accordance with your desire, I beg to annex a statement of
+the rates of five Chronometers that were used by me in my recent em-
+ployment in determining the relative positions, by astronomical observa-
+tion, of several points in the Province of New Brunswick, and to offer my
+testimony to the excellence of their perfonnance within the last fifteen
+months, during which period they have been exposed to all the different
+motions consequent on their conveyance, by hand, in coaches, on horse-
+back, and on shipboard. They have also withstood a range of the ther-
+mometer from - 30° to + 95; and I would therefore submit for your con-
+sideration the propriety of purchasing them for His Majesty’s service,
+especially when it is known that the makers, Messrs. Parkinson and
+Frodsiiam, with their accustomed liberality, lent them to the Government
+at their own risk, without remuneration.”
+No. IX.
+Extract of a Letter from Baron Wrancel to Messrs. Parkinson
+and Frodsham.
+“ Your two Chronometers have performed admirably: one never
+having gained more than one second six-tenths, and the other being never
+more than two seconds four-tenths, during a voyage of more than three
+years, exposed to great extremes of temperature, thus balancing their
+differences (for errors they could not be called) with astonishing precision,
+agreeing with all our observations to an exactness throughout the voyage,
+particularly under circumstances the most unfavorable to which such instru-
+ments could be exposed.”
+The report from Captains Kotzebue and Luxkie was equally
+satisfactory.
+
+
+No. X.
+Extracts of Letters from Officers in the British Navy and Mer-
+chant Ships; and also from several of the Commanders of the
+American Line of Packet Vessels from Europe to the United
+States, and other intelligent Navigators engaged in American
+Commerce.
+“ 11. M. S. Tamar, Plymouth, Dee. 28, 1827.
+“ Captain Bremer is happy in being enabled to inform Messrs. Par-
+kinson and Frodsiiam, that the Chronometer he purchased of them,
+No. 59G, performed to admiration. It never failed in all the various
+climates and weather to which it was exposed in the Tamar’s long voyage of
+four years, in which we sailed upwards of sixty thov.sand miles. In
+running from the Cape of Good Hope to Bass’s Strait, in New Holland, a
+distance of 126° of longitude, the land was made by it to a remarkable
+exactness.”
+(One of the Chronometers to which Government had adjudged
+the prize of 3001. was sent out in the Tamar.)
+Letter from Captain George Cheyne, II.N. to Messrs. Parkin-
+son and Frodsiiam.
+“ 6, Arundel Terrace, Islington, March 29, 1826.
+“ Gentlemen —Annexed is a copy of the reply of Captain Parry to the
+following extract of a letter to him from me:—
+* TO captain parry.
+‘ May 17, 1826.
+‘ 1 have a conditional order concerning a Chronometer for Lord Bloom-
+field. Will you be troubled to send me your opiniou of those made by
+Parkinson and Frodsiiam, in case my own limited experience of their
+instruments may have deceived me in assigning to them the superiority over
+any other makers.
+‘ Yodrs very truly,
+GEO. CHEYNE.'
+REPLY —RATED 18TH MARCH.
+‘My dear Cheyne—-1 can safely say, that as far as my experience
+goes concerning Chronometers, of which I have lately had between thirty
+anrl forty in my immediate keeping, I know no maker so likely to furnish a
+good one as Messrs. Parkinson and Frodsiiam.
+‘ Yours very sincerely,
+W. E. PARRY.
+“ I shall only add to the above, that I shall ever retain a thankful remem-
+brance of the experience I have had of two Chronometers which 1 had from
+you. I am, &c.
+GEO. CHEYNE."
+
+
+Extract of another Letter from Captain Cheyne to Messrs. Par.
+kinson and Frodsham, dated Santa Ana, August 9, 1829.
+“ By the last English packet I received a letter from Captain Bloomfield,
+of the Artillery, a relative of Lord Bloomfield, from Stockholm, from which
+I send you an extract:—
+“ ‘This and divers other things have prevented me executing a commis-
+sion I have been long since ordered to do by Lord Bloomfield —to write to
+you, and to tell you how well pleased he is with the Chronometer you were
+the means of Parkinson and Frodsham furnishing him with. He left
+England last May, and had it with him during a few months’ trip on the
+Continent: at the end of which time he unfortunately let it down ; but he
+had good reason to suppose it had not varied three seconds, and it has gone
+admirably ever since.’ ”
+“ I felt anxious to know that the Chronometer is a good one, and will
+answer the great purpose I had in view—first, in persuading Lord Bloom-
+field to take one of your Chronometers to Stockholm as a means of con-
+vincing the Astronomer, who is the oracle of the Swedish navy, that he had
+erred in saying, ‘England had now to yield the palm of Chronometer-
+making to both France and Denmark:’ and, secondly, I trust in turning
+the account to your advantage, which your generous compliance with my
+desire in this business so well entitles you to. 1 add another extract from
+the same letter:—
+“ ‘ Only think (lie says) of our having no less than - 12° of cold
+(Celsius) at six this morning, and ever since the middle of December we
+have seen nothing but snow.’
+“ The above - 12° of Celsius is equal to about 22" of Fahrenheit below
+freezing, and will of course be to you a gratifying account of your manu-
+facture. Knowing you have devoted so much of your time to prevent
+Chronometers being affected by either extreme of cold or heat, I have made
+it my pleasure to serve you on all occasions since I first became convinced of
+the justice of your flaim to so honorable a distinction as the best Chrono-
+meter-makers in the world.’’
+Letter from Captain George Probyn, of the Hon. East India
+Company’s Ship Minerva, to Messrs. Parkinson and Frodsham.
+“ 79, Baker Street, March 10, 182.5.
+“ Gentlemen —l have much pleasure in making you the most favorable
+report of your Chronometer No. 560. Its daily gain throughout the
+voyage was about half a second. Indeed that was the original rate which
+you gave it. On taking it on board, June 7, 1823, it was 9" too fast, and
+on my return to England, July 6, 182+, it was 3' 13" too fast on Green-
+wich time ; so that, according with your rate, its error on my return, after
+
+
+a voyage of thirteen months, was only 13". In feet, I have no hesitation
+in saying that it is one of the best Chronometers I ever met with.
+“ I am, &c.
+GEORGE PROBYN."
+Letter from Captain Lodowick Leeds, of the Isabella of Baltimore,
+to Messrs. Parkinson and Frodsiiam.
+" Liverpool, Jan. 13, 1824.
+“ Gentlemen —lt affords me much satisfaction to state, that the Chro-
+nometer No. 276, which I purchased of you, in my voyage from England
+to China in 1822, and on its return to America, performed with singular
+correctness. During nine months that I was on board the Tigris it varied
+from its rate and mean time only four seconds. In my subsequent use of
+it home, and in my return to Liverpool this winter, it has given the same
+correct results. It is only due to your merited services to navigation and
+nautical men to give this testimony of the value I entertain of your Chro-
+nometers. 1 am, &c.
+LUDOWICK LEEDS.
+Extract of a Letter from Captain F. Dkwson, of the Boston
+Packet Ship Topaz, to Messrs. Parkinson and Frodsiiam.
+“ Liverpool, Jan. 23, 1827.
+“ Gentlemen —The Chronometer No. .594, which I purchased of your
+agent here four years since, is a first-rate instrument, not having varied from
+her rate five-tenths of a second during the whole time. I have had four of
+your Chronometers within the last eight years, and in every instance they
+performed wonderfully. 1 am, &c.
+F. DEWSON."
+Letter from Captain Hugh Graham, of the Packet Ship Caledonia,
+to Messrs. Parkinson and Frodsiiam.
+“ Liverpool, Feb. 29, 1832.
+“ Gentlemen —l have had several Chronometers of your make, all of
+which have performed with the greatest possible accuracy. The last I
+purchased of you, No. 771, is unexampled in correctness, not having varied
+more than two seconds on its rate for the last three years; and during
+tlie ten years it has been in my possession it has met my most decided
+approbation. I am, &c.
+HUGH GRAHAM."
+Letter from Captain Joun Clarkson, of the Bombay Merchant,
+to Messrs. Parkinson and Frousham, dated Deptford, Decem-
+ber 10, 1828.
+“ Gentlemen —Herewith you will receive my eight-day Chronometers,
+115 and 116, which have given me great satisfaction. No. 146 has gone par-
+ticularly well, and I don’t think 3001. would induce me to part with it.
+You’ll please pay attention to their rates, as I shall want thorn about the
+loth of March next. I am, &c.
+JOHN CLARKSON."
+
+
+Letter from Captain William S. Seboh, of the Ontario Packet
+Ship, to Messrs. Parkinson and Frodsham.
+“ London, Feb. 24, 1832.
+f< Gentlemen —lt affords me much pleasure to have it in my power to
+say, that during the last ten years that I have constantly been engaged in
+the navigation between this Port and the United States, 1 have, on board
+of the vessels under my command, invariably availed myself of sundry
+Chronometers made by you. They have at all times performed with equal
+regularity and correctness: and as an additional instance of their durability
+and perfection, allow me to mention the circumstance, that when on a late
+voyage to this country one of these instruments accidentally fell from a high
+shelf, its action did not become thereby in the least disturbed, but, on the
+contrary, proceeded without the slightest alteration of rate. It is in justice
+to your superior skill, and already amply-established reputation only, that I
+have the gratification of stating these facts, the result of personal observa-
+tion. Wishing you every farther success your meritorious exertions so well
+deserve, I remain, &c.
+WILLIAN S. SEBOR."
+Letter from Captain F. H. Hebard, of the Packet Ship Hannibal,
+to Messrs. Parkinson and Frodsham, dated London, March 27,
+1832.
+“ Gentlemen —My vessel has just arrived in the London Docks, and I
+wish you to send for my Chronometer No. 1152.
+“ Previously to my sailing on the last voyage, I was so much engaged ]
+that I entirely forgot to request you, to send it on board, and I felt much
+obliged by your forwarding it to me at Portsmouth. I consider it remark-
+able, that notwithstanding its conveyance by coach, I found, on working up
+the rate you sent with it, when at New York, it had not varied more than
+7" from the error on Greenwich time. This 1 consider an additional proof
+of the excellence of my Chronometer, which I have now had more than four
+years, during which time its rate has never altered more than one second
+(keeping between + T S'" to + 2" S'"), although it has been twice to
+Gravesend, and once to Portsmouth by coach; and I have frequently
+returned to Europe with a variation of not more than one-tenth of a second
+from the rate given by you.
+“ I am, &c.
+F. H. HEBARD."
+Letter from Captain Joseph Finder, of the East India Ship
+Hindoo, dated Whitehaven, Feb. 22, 1832.
+“ Gentlemen —I have great pleasure in acknowledging the universal
+satisfaction and accuracy 1 have derived from three of your Chronometers
+during the last twelve years, particularly No. 729, which, after performing
+a voyage from Liverpool to Calcutta (nine months), and allowing her no
+rate (supposing her going at mean time), I found on my return that there
+
+
+was only seven seconds variation from error given me on my departure. I
+have had the opportunity of proving them in very cold latitudes, in round-
+ing Cape Horn on two voyages in the winter season, in sudden transi-
+tions from heat to cold, and the contrary, and always found them to main-
+tain their regularity of going, I am, &c.
+J. PINDER."
+Letter from Captain W ii.liam Rowett, dated Liverpool, March 21,
+1832.
+“ Gentlemen —l have the satisfaction of handing you the particulars of
+your Chronometer 564, which has been in my possession for the last six
+years, during which period 1 have made four voyages round Cape Horn,
+and it has been exposed to 21° of Fahrenheit, and to 80° and sometimes to
+90°. In neither extreme of temperature has it varied its rate. During one
+voyage in particular of twenty-six months, on making Ireland, and passing
+between Cape Clear and the Fastnett rock with very fine weather, it placed
+the rock in 9° 41' 15", (which is immediately between that given by Mr.
+Norrie in his two last editions, which vary from each other seven miles,)
+allowing one second daily loss, which it had done throughout the voyage. I
+could give you numerous other proofs where it has been equally correct.
+Hoping you will continue to benefit the public by your attention to that
+science, I remain, &c.
+WILLIAM ROWETT."
+Letter from Professor Bahlow, F.R.S., &c. &c.
+“ Gentlemen —You herewith receive the Chronometer I purchased of
+you in 1825, which I think should, after seven years, undergo your exa-
+mination. I beg to say that I have every reason to he perfectly satisfied
+with its performance. I have never in any instance detected in it any un-
+steady rate, but simply a slight and gradual change between winter and
+summer, and the contrary. This small vibration lam aware you would
+have been able to correct; but 1 am unwilling, while the change is so incon-
+siderable, and the rate so very small, to have any correction attempted. If
+this testimonial can add any weight to those you already possess from many
+of our most distinguished Observers, you are quite at liberty to make any
+use of it you please. I remain, &c.
+“ Woolwich, March 27, 1832.
+PETER BARLOW."
+Parkinson and Frousiiam oould extend this List of Testimo-
+nials to an almosj indefinite length : but they conceive enough is
+here shewn to testify the accuracy and truth of their Time-pieces.
+CHANGE ALLEY, COUNIIILL,
+O/ijxtxite the South Gate, Royal Exchange, London ;
+AMI 54, < ASTLE STREET, LIVERPOOL.
+Printed by M. A- Pittman, Warwick Square, London,

@@ -1,0 +1,313 @@
+
+
+Y/U. /
+CONFIDENTIAL j/ // Fi - ,y„ /#
+LECTOR
+MOORING TORPEDOES
+*
+E. C. GRACKNELL,
+MAJOR COMMANDING TORPEDO AND SIGNALLING CORPS.
+1881.
+SYDNEY : THOMAS RICHARDS, GOVERNMENT PRINTER.
+
+
+
+
+MOORING TORPEDOES.
+The question of mooring, which appears so simple a matter at first sight, is
+really one of the most difficult and important questions to be solved in con-
+nection with submarine mining, more particularly for buoyant mines when
+fired by observation, as the exact spot should be as nearly as possible the
+same ] but, as you are aware, the change of tide from ebb to flow will alter the
+position of a charge, or even a change in the direction of the wind \ although
+the mine may be some distance from the surface, the effect is felt, and unless
+the case is very carefully moored it will drift some feet from its original
+position.
+The object to be attained is to keep the torpedo as stationary as possible
+on the exact spot it is intended to explode, which, in deep water with tidal
+currents, is almost impossible, for one reason—the rise and fall of tide will
+give you a different flotation, and allow your mine to be driven up and down
+the channel, and sometimes twisted and turned on its own sling-chains, which,
+of course, would be liable to injure or destroy the insulated electric cable.
+The anchors or heavy weights should be sufficient to withstand heavy
+seas without shifting or straining the cables. This necessitates, for buoyant
+mines, to keep them perfectly rigid, an arrangement of three chains such as those
+used by the Austrians in the Adriatic in 1866, which consisted of a wooden
+triangular platform, to which heavy weights were lashed. The platform held
+the mine in position by three wire ropes or chains, which kept the charge the
+required depth. This was managed by means of a self-acting arrangement,
+consisting of a pulley attached to the extremity of each of the wire ropes
+through which the mooring-chains pass, and are fired by means of a self-
+acting key. This key is of considerable weight, and slips down as the charge
+is hauled into place ] but the moment the chain is slackened the two arms,
+which are arranged to allow the chain to pass through in one direction only,
+catch into the link of the chain and hold the charge firmly in its place.
+The apparatus is constructed to allow the chain to pass freely through it,
+and is provided with bolts and nuts to admit of its being separated, in order
+to disconnect the chains when required.
+In connection with the buoyant mines for 500 lbs. (cotton) a mushroom
+sinker has now been adopted, weighing 7 cwt.
+Some experiments were carried out by Eieut. Chadwick, in the Medway,
+near Upnor Castle, for submerging charges, which are sufficiently interesting
+to refer to here. In the Medway there is a strong tidal current, and in some
+places great depth of water, so that a submarine mine, if placed on the bottom,
+would require, for any destructive effect, to be provided with a very heavy
+charge of gun-cotton. It must therefore be floated up from moorings to
+which it is attached. This, of course, increases the chances of something going
+wrong, and in nine cases out of ten the floating torpedo twists the submarine
+cable with the mooring-chains, and causes some derangement, unless the wooden
+triangle referred to was inconveniently large, which would make an easy prey
+to an enemy’s creepers ; and one was carried away at the Upnor experiments
+by the anchor of a barge. It was also found during these experiments that
+when two cables only were used for mooring, with a view to keeping the mine
+in a perfectly stationary position, that unless they were kept a very long way
+12a I—Bl
+
+
+apart they were certain to become twisted round each other; and if during the
+process of lowering the mooring-cables got a single turn round each other the
+possibility of keeping them apart was out of the question, and they were
+found to revolve as though the two cables were attached to the same point;
+in fact, with the 3-knot tide in the Medway, the moorings invariably became
+twisted up in such a way that the electrical conductor would inevitably
+become much kinked, and in many cases injured. To obviate this, Lieut.
+Chadwick proposed, for small charges at moderate depths, that they should be
+lashed on to spars, on which a rough framework to fit the form of the torpedo
+had been arranged, the mooring-cables to be attached to the extremities of the
+spar, thus securing the necessary distance between the points of attachment to
+prevent the chance of entanglement.
+The next was a ladder arrangement for mooring, which was tried in
+connectioh with some experiments on board H.M.S. “ Cambridge.” A buoyant
+torpedo, consisting of a 27-gallon iron oil-cask containing 15 gallons of water,
+and a strongly buoyant nun-buoy to represent a circuit-closer, were fitted with
+two mooring-ropes from the circuit-closer to the torpedo, and thence to the
+mooring-ballast, the ropes being separated by wooden rounds like a ladder, to
+resist the tendency to twist. The arrangement was placed in 10 fathoms of
+water in the Hamoaze, Plymouth, a place liable to strong eddy tides, and at the
+end of twenty-four days it was removed. Whilst it was in position it was twice
+examined by divers, who reported that the mooring-ropes and connecting
+wires were clear of turns; but when taken up a round turn was found near
+the base of the ladder, near the ballast; but this arrangement is liable to
+become entangled with sea-weed, the weight of which would sink the circuit-
+closer.
+Lieutenant Chadwick recommended the following mode of lowering mines
+into their places ; —The mines, with their moorings, were carried to the place
+where they were to be submerged in a barge provided with a derrick or crane ;
+the mushroom sinker is lowered by means of two ropes attached to two eyes
+in the sides; each of these ropes leads through a sheave in the end of a davit
+and thence to a crab capstan to prevent twisting.
+The conclusions arrived at from these experiments were as follows:
+That a single cable should be used wherever possible, and that a wire rope
+will not twist like a hempen one; that the mushroom sinker is the best form
+for soft or muddy bottoms—for a hard or rocky bottom a dead-weight must
+be depended upon.
+With a current up to 4 knots, a single iron cable, 3-inch, with a sinker
+which holds well, will be sufficient; but when the current is very strong and
+with a considerable rise and fall of tide it may be better to moor with two
+cables, one down and one up the stream.
+From the experiments in the Medway it was found that two cables
+attached to a case, close to each other, twist together immediately, and the
+case is drawn down out of position. Where the best form of sinker cannot
+be obtained heavy blocks of stone, pig-iron, or any heavy weights can be used
+for moorings.
+In practice the greatest difficulty exists in mooring any object in a
+perpendicular position, especially when two mooring-chains are required.
+Lieutenant Jekyll, R.E., recommends that chain-cables be laid across a
+channel, as the mines can then be laid and moored in straight lines ; but
+before sinking the heavy chains small mooring-chains should be rove through
+the links, at places marked, and the ends buoyed. The conducting wires
+should then be laid and the ends attached to the same buoys. In this way the
+cables could be tested and everything made ready before the mines are
+required at all.
+
+
+There is no doubt that by using chain-cables there would, in one way, be
+a great advantage, by having the mines so arranged that their positions could
+be easily determined, and by doing away with a multiplicity of anchors and
+anchor-buoys.
+A 2|-inch cable would be quite strong enough for 100-lb. mines, and
+would counteract any reasonable flotation that would be given them, as a
+chain-cable of this size would weigh 4001bs. to the fathom.
+Mathieson has suggested a modification of this plan, as follows :—A
+strong hempen cable is first laid across a river or channel, marked at intervals,
+where it is intended to lay down the line of mines.
+To place the moorings in position the following plan is adopted : —A
+mushroom sinker and gear having been made fast to one of the davits of a
+pinnace, the hawser just mentioned is under-run and passed over the bow of
+the boat at the fore rowlocks and warped along until she is abreast the mark
+previously made on the hawser; one end of a branch hawser is now bent on
+at each mark, the extremity of the branch hawser is made fast to the mush-
+room sinker to be passed into its proper position. For small charges, say
+lOOlbs. of powder, a distance of 30 feet from the directing hawser would be
+sufficient, or perhaps a little over. It now only remains to cut away the spun-
+yarn lashing, securing the cable, which retains the moorings at the extremity
+of the davit, and, thus set free, the sinker falls into its required position.
+The sinker being got into position, any further arrangement for attaching the
+charge, electric cable, and circuit-closer may be carried on without difficulty,
+or the charge, circuit-closer, &c., might be previously attached to the sinker
+and launched with it.
+There is one thing which, in my opinion, has been entirely overlooked in
+these arrangements. It would be most dangerous and impossible to protect
+the cables against countermining and explosive creepers, if laid in this way,
+as they would easily catch the mooring-chains and hawsers and readily destroy
+them. There should never be by any chance a cable or wire across the line of
+tide or current.
+Favourable weather and slack water, if possible, especially in a tidal
+channel, are very essential when getting moorings into position. The diffi-
+culties are much increased by a fresh breeze and rough water.
+There can be no doubt that this plan (if it were a safe one) would afford
+very great facilities for the examination of charges after they have been sub-
+merged. To reach any particular charge it would only be necessary to under-
+run the main hawser until the required branch was reached, when the mine
+could be raised and examined. If the main hawser became broken it would
+not be very difficult to bring it to the surface for repairs. When the main
+hawser is not in use it should be drawn as taut as possible, so as to prevent
+unnecessary motion. The system would answer very well up to 7 fathoms if
+there was no such thing as countermining.
+The exact position of a mine, as near as possible, must be known to the
+defenders, and to ensure this an arrangement in lines is best for this object.
+In broad and deep waters the difficulties would be increased, and the moorings
+would have to be arranged with intermediate vessels or buoys for hauling
+them into exact line, by which the barges with the mines ready for lowering
+would be guided. It would be better to place these moorings in position at
+leisure, and thus the most difficult and tedious part of the operation would be
+completed, ready for putting the channel in a state of defence.
+With electro-contact mines, as you are aware, they have to be placed in
+position from 10 to 15 feet below the surface. To accomplish this a hauling-
+down gear has been proposed, by running a hawser through the sinker for
+mooring the mine, then passing it through the ring of an anchor at a distance
+
+
+and attaching it again to a buoy, with considerable flotation near the surface.
+This appears to me to be a very clumsy and unnecessary arrangement, as the
+mines can be moored to their sinkers by arranging the length of the steel rope
+cables before they are submerged, without allowing either buoy to appear at
+the surface, which would only become a target for an enemy.
+When charges are laid on the bottom they should be of sufficient weight
+to ensure their remaining stationary. Lieut. Wallace, in his account of the
+demolition of wrecks in the Hoogley, says :—“ Sometimes, in a strong tide-
+way, a charge of 500 lbs. of powder required a weight of 4005)5. to submerge
+it. When in slack water less than half the weight was sufficient.”
+The next point to be considered is the best plan of lowering a heavy charge
+into its position at the required depth below the surface, and when lowered
+attaching it to the sinker. Two modes have been suggested by which this
+may be effected, after ascertaining the exact depth of water by sounding :
+Attach the sinker with the required amount of cable and lower them both
+together ; or by lowering the sinker first and drawing the charge down to it,
+and when it has reached the required depth fasten it securely. But by the
+latter means you require the diver, which is an unnecessary expense, and he
+can generally be more profitably employed.
+After considerable practice the first method has been found quite
+practicable, with 500-lb. charges, up to a depth from 10 to 12 fathoms in the
+open sea. In the experiments at Chatham the apparatus used for placing the
+charges in position was a pontoon raft, constructed of any materials that
+could be obtained on the spot. Some of the charges moored in the earlier
+stages by a single mushroom sinker were lowered from a raft by means of a
+derrick. A raft of this kind formed a tolerably good platform from which to
+carry on such operations in smooth water, but requires a gunwale to prevent
+small stores from being washed or lost overboard.
+Colonel Stodherd sums up his experience in mooring submarine mines as
+follows :
+Ist. When it is necessary to place the moorings in position at leisure, be
+very careful to get them into the exact sites previously decided on
+for the mines.
+2nd. Arrange all running gear in the simplest form, and try it at intervals
+to see that it keeps in good order.
+3rd. When a channel in which the moorings have been previously placed
+is to be put in a state of defence, it is only necessary to bring the
+charges to the required point, and haul them down in position.
+4th. With a current up to 4 knots or more an hour, a mine may be
+moored with a single cable, provided plenty of buoyancy is given.
+sth. With a current up to 4 knots or more, where the charges must
+be held in a defined position, it may be necessary to moor them fore
+and aft—for this purpose a double line of moorings is required, and
+in hauling down it would be necessary to take care that the top is
+horizontal when the mine is in position.
+6th. Under ordinary circumstances, that is to say, with a depth of 10 to
+12 fathoms, it is not found necessary to place the moorings first in
+position and haul the mines down to them.
+The most approved sort of sinkers for use with ground and buoyant mines
+are those formed of cast-iron, and weigh respectively 7 and 5 cwt.
+Boats and barges must be provided with small derricks or davit-crabs for
+placing the mines in position ; tie barges should be capable of carrying
+fourteen to twenty mines, with mooring-gear, cables, &c.
+
+
+The mode of mooring a 500-lb. buoyant mine complete, with cable, sinker,
+and mooring-gear, is represented on the diagram. Special protection is found
+necessary between the cable and the circuit-closer, and it has to be stopped
+at intervals to the wire rope bridles, leaving plenty of slack.
+The chain attached to the sinker is an ordinary Ar tripping chain, connecting
+an outer ring of the sinker to the cable, and stopped to the latter at intervals,
+so that when it is necessary to raise the mine it may be done by under-running
+the electric cable, by which the tripping chain would be brought to the surface,
+and the sinker raised, and the strain on the electric cable be avoided.
+To moor a 100-lb. Matheison’s mine is very much after the same plan ; the
+mine has a given flotation, and is branched off from the main cable, which is
+passed through a disconnector in the junction-box, from which the branch
+cable passes through the circuit-closer to the platinum wire fuze, and thence to
+earth, by being connected with the metal casing of the primer. A 5-cwt. sinker
+should be used for these mines.
+There is a difficulty in mooring submarine mines when there is a consider-
+able rise and fall of tide, so as to show no indication on the surface as the
+depth of water decreases, but none of the present arrangements have been
+very successful. The only practicable way out of the difficulty is to moor the
+mines midway between the high and low tides, so that at the lowest water
+they will be 5 feet below the surface. Of course this would not do for such
+places as the “ Severn” and the “ Wye,” where the rise and fall is about
+60 feet, but for this coast there will be no great difficulty with a rise and fall
+of only 4 or 5 feet.
+Extemporised moorings must be arranged when the cast-iron sinkers cannot
+be procured, such as the triangular wooden platform proposed by the
+Austrians, which, when weighted with pig-iron or stone, is well adapted for a
+rocky bottom or bad holding ground. There is a serious objection to this
+method, namely, the mooring with three chains or cables, as they are liable to
+become twisted, and there is no reason why only one cable should not be used.
+Large stones and pig-iron, or, in fact, any heavy weights, when the regular
+cast-iron moorings cannot be procured, may be used, but the stones should be
+irregular in form at the bottom, and should not be quite flat on the surface,
+as they then obtain a much better holding. The Germans used large blocks of
+stone in 1870 and ’7l, and found them very efficient. The Austrians recom-
+mend very heavy moorings, as much as seven times the weight of the charge,
+but they generally use buoyant mines, hauled down to their positions after
+the moorings have been placed, and without considerable excess of weight the
+moorings, during the hauling down, are very liable to get out of position ;
+and it was found in practice where it was intended to haul a mine down
+to moorings previously laid, considerably more than double the buoyancy
+would be necessary, for the reasons already given.
+The question of buoyancy for a buoyant mine is a matter of importance.
+Eor instance, in still water and up to a 4-knot current it should not be less
+than f of the weight of a 600-lb. mine ; but this does not include the attach-
+ment chains, the sinker, and the cable. Eor very strong currents more
+buoyancy should be given and much larger moorings should be allowed.
+An excess of buoyancy is generally recommended, to allow for slight
+leakage or any other disturbing cause which might tend to reduce its efficiency,
+more particularly when improvised arrangements have to be resorted to. In
+muddy bottoms the weight of the moorings is not so important, as the sinkers
+are to some extent buried in the mud, which forms a much more satisfactory
+holding ground.
+To facilitate the search for anchors or sinkers at the bottom by a diver,
+it is always considered better to paint them white.
+
+
+Nearly all these remarks will apply to our electro-contact mines at Botany
+and Newcastle, where we have in one case strong currents and in another
+deep water; but they will not apply to Sydney, more particularly as the pro-
+posed arrangement for submerging the ground-mines by first dredging out
+holes with the clam-shell dredger, placed in accurate position, and then burying
+the mines in these excavations and covering them carefully over with sand,
+will save all the risks and dangers from mooring-chains and sinkers and the
+possible chance of their shifting their positions, and above all keeping them
+safe from countermining and creeping.
+The electro-contact mines must, I regret to say, be moored as described,
+and will, of course, be liable to all the dangers of heavy seas and counter-
+mining ; but this cannot be avoided, except by passive obstructions, such as
+nets, ropes, and other gear likely to catch the screws of unfriendly vessels.
+But it must be remembered we do not attach much importance to the electro-
+contact mines, as they will not form any portion of the main defence of the
+harbour of Port Jackson.
+Sydney ; Thomas Richards, Government Printer. —lBBl.
+
+
+
+

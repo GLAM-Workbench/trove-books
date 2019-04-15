@@ -1,0 +1,2487 @@
+
+
+INTERCOLONIAL METEOROLOGICAL CONFERENCE
+1
+NEW SOUTH WALES.
+JCejjislaiite Ccrnttcil.
+(MINUTES OP PROCEEDINGS OP)
+HELD AT MELBOURNE IN APRIL, 1881.
+ORDERED BY THE COUNCIL TO BE PRINTED,
+28 September, 1881.
+SYDNEY: THOMAS RICHARDS, GOVERNMENT PRINTER.
+1U ,.0 «- “■
+
+
+
+
+MINUTES OE PROCEEDINGS
+OF THE INTERCOLONIAL METEOROLOGICAL CONFERENCE HELD
+AT THE OBSERVATORY, MELBOURNE.
+THURSDAY, 21st APRIL, 1881.
+Present:
+James Hector, Esq., M.D., C.M.G., F.R.S., Inspector of Meteorological Stations, New Zealand.
+C. Todd, Esq., C.M.G., F.R.A.S., Government Astronomer, South Australia.
+R. L. J. Ellery, Esq., F.R.S., F.R.A.S., Government Astronomer, Victoria.
+H. C. Russell, Esq., 8.A., F.R.A.S., Government Astronomer, New South Wales.
+R. L. J. Ellery, Esq., was called to the Chair.
+The Conference commenced at 2-30 p.m.
+1. The Chairman stated that in accordance with the understanding between the members at the close
+of the Conference held at Sydney in November, 1879, that it was desirable to hold a second Conference in
+Melbourne, early in 1881, he had addressed the following letter to the Hon. the Chief Secretary of Victoria :
+C. 3.
+81
+Sir, Observatory, Melbourne, March 17th, 1881.
+In November, 1879, the New South Wales Government invited the different colonial meteorologists to meet in
+Sydney and hold a Conference with a view of bringing about a more satisfactory intercolonial weather telegram system, and to
+decide upon the best means of improving our knowledge of Australian Meteorology generally. This Conference was held,
+and among other matters it was decided, if possible, to hold a similar Conference in Melbourne about twelve months later
+for a similar purpose. I now find that the gentlemen representing this science in New Zealand, New South Wales, and
+South Australia will be able to attend in Melbourne about the middle of April. I have now the honor therefore to enquire
+if you approve of such a Conference being held here, and if so whether you will cause an invitation to be sent to the
+Governments of New South Wales, South Australia, and New Zealand, asking that their respective astronomers or chief
+meteorologists may be authorized to attend such a Conference about the second or third week in April. I w ould also
+respectfully suggest that the Governments of Tasmania, Western Australia, and Queensland be invited to send representa-
+tives.
+I have the honor to be, Sir,
+Your most obedient servant,
+_ ROB. L. J. ELLERY,
+The Honorable the Chief Secretary, Melbourne. Government Astronomer.
+The Minister approved of the proposal to hold a Conference, and at once invited the various colonies
+to send representatives. Replies from New South Wales, South Australia, and New Zealand agreeing to
+do so were received. Telegrams were also received from Queensland and Western Australia to the effect
+that those colonies were unable to send representatives. The following message from the Government of
+Tasmania was also received :
+“To Chief Secretary, Victoria.
+“We have no such officer as the one mentioned in your telegram. This Government cannot send delegates to pro-
+posed Conference, but concurs generally in objects sought to be obtained, and if Conference is held will communicate their
+views to the Chairman by letter or memorandum.
+2 / 4 / 81 - WM. MOORE. ”
+The only Colonies, therefore, represented at this Conference are New South Wales, South Australia,
+New Zealand, and Victoria. The Chairman also stated that the Government had placed the services of a
+shorthand-writer at the disposal of the Conference.
+It was then resolved that the Government be thanked for their consent to grant the services of a
+shorthand-writer.
+2. The Chairman reported that the following resolutions were adopted by the Conference held at
+Sydney in November, 1879 :
+I. That, in view of the great importance which a better knowledge of the movement and origin of
+strong gales and storms on our coast lines and neighbouring seas is to the shipping ancf com-
+mercial interest generally, it is desirable to secure, as far as possible, co-operation in all the
+Austialasian Colonies for the investigation of storms, as well as for agricultural and general
+climatological purposes.
+11. That, with the view of giving effect to the foregoing resolution, similar observations and the
+same form of publication should, as far as possible, be adopted throughout the colonies.
+111. That, in order effectively to carry out the objects of the Conference as afl&rmed in the fore-
+going resolutions, it is desirable to establish first-class meteorological stations in certain well-
+se ected positions in the several Australasian Colonies, including New Zealand, in addition to
+those existing.
+IV.
+
+
+IV. That the definition of the work of a first-class station, given in the preface to the New Zea-
+land Meteorological Report for 1873, be adopted, viz. :
+“ The observations taken are limited to those for determining atmospheric pressure,
+maximum and minimum daily temperature of atmosphere, and of insolation and radiation,
+the average daily amount of moisture, the rainfall and number of rainy days, the force and
+direction of wind, and amount and character of cloud.”
+V. That the instruments at each first-class station consist of a mercurial barometer, of either the
+standard or Board of Trade form; thermometers of new or approved patterns compared with
+standards as frequently as possible; rain-gauges of 8 inches collecting diameter and
+wind-gauges of any approved form. The local hours of observation to be 9 a.m., 3 p.m., and
+9 p.m. Beaufort’s scale of wind to be adopted. The observations to be recorded in equiva-
+lents and pressure.
+VI. That it is very desirable to obtain the co-operation of the Government of Tasmania, and to
+persuade them to establish a station at the public expense at Hobart Town.
+VII. That it is desirable to secure the co-operation of the Governments of Western Australia,
+New Zealand, and Tasmania in the system of weather telegrams, which now embraces the
+colonies of South Australia, Victoria, New South Wales, and Queensland.
+VIII. That, in the opinion of this Conference, it is desirable that weather telegrams and forecasts
+shall, in all cases, depend upon the observations used for general meteorological and climato-
+logical statistics, and be under the direction of the head of the meteorological department in
+each colony.
+IX. That this Conference, having been informed that the Eastern Extension Telegraph Company
+will charge half rates for the transmission of weather reports through the cable connecting
+Australia and Tasmania, and probably also the cable to New Zealand, recommend that the
+cost of such reports be defrayed by the participating colonies in equal proportions; and that,
+in the opinion of this Conference, such cost need not exceed in the aggregate £350 per
+annum.
+X. That, in the opinion of the Conference, this expenditure is justified by the extreme importance
+to the shipping interest of early information of the approach of dangerous easterly and
+westerly gales.
+XI. That the several Governments be requested to cause precedence to be given to the regular
+weather telegrams and special storm reports.
+XII. That, in the opinion of this Conference, there should be established in each of the colonies,
+upon a high mountain peak, a meteorological observatory for the special study of winds and
+other meteorological phenomena; and that the most desirable positions for them would be the
+following:—
+South Australia Mount Lofty About 2,500 feet above sea-level.
+New South Wales ... ... Kiandra ... ... „ 4,600 „ ~
+New Zealand ... ... Tauhara Taupo ... „ 4,600 ~ „
+Ditto ... ... .•• Mount Herbert ... ~ 4,000 „ „
+Tasmania Mount Wellington ... „ 4,000 „ „
+Victoria ... ... ••• Mount Macedon ... „ 3,500 „ „
+XIII. That the revision of the present telegraph weather code be referred to Messrs. Russell and
+Ellery, with a view to its simplification and extension.
+XIV. That the interchange of weather statistics, in carrying out the suggestions of this Con-
+ference between the different Australasian stations, should be in the form of a diagram ; and
+that this should not interfere with the printing of statistics- by the different colonies in any
+way they like.
+XV (1.) That the monthly graphic records for interchange consist of curves, showing barometer,
+velocity and direction of wind, temperature, humidity, rainfall, with remarks upon weather,
+especially with reference to storms and atmospheric disturbances, and that specific forms be
+prepared and distributed to the co-operating colonies. #
+(2.) That the mean humidity curve be derived from the means of maximum and minimum
+of wet and dry bulb thermometers.
+(3.) The barometer curve to be constructed from barographic records, so as to depict the
+turning points. . , . . , „ , ,
+(4.) The temperature curve to represent maximum and minimum and mean tor each day.
+(5.) The velocity and direction of the wind to be deduced from the anemometer.
+XVI. That in the transmission of telegrams the reports be generalized from the local weather
+For New- 3 Zealand the following subdivision into districts is recommended for convenience of
+reporting : , ~
+A ... N.E. aspect ... North Cape to East Cape.
+B ... N.W. aspect ... Cape Maria to West Cape (exclusive of Cook Straits).
+C ... S. aspect ... West Cape to Moeraki.
+D ... S.E. aspect ... Moeraki to East Cape (exclusive of Cook Straits).
+E ... Cook Straits ... Comprising Wanganui, Wellington, Cape Campbell, and Cape
+Farewell, Nelson.
+A code to be framed to express the weather in each of the above aspects in general terms, according
+to the judgment of the reporter, thus :
+Aspect. Wind and Weather. Rain. Sea.
+No remark to indicate absence of phenomena. XVII.
+
+
+XVII. That the telegrams furnished to Melbourne by Tasmania should conform with those
+between the Australian Colonies.
+XVIII. (1). That weather telegrams from the Australian Colonies shall comprise :
+1. Barometer reduced to 32° and sea-level,
+2. Dry bulb,
+3. Humidity,
+4. Maximum and minimum,
+5. Direction and velocity of wind,
+6. State of weather,
+7. Rainfall,
+8. Sea disturbances,
+with a synoptical report of the weather generally.
+(2). And that within New Zealand the same system should be adopted.
+XIX. That the extreme importance of the weather system proposed be strongly urged upon the
+Queensland Government with a view to obtain their more active co-operation.
+XX. That Australia be divided into six meteorological areas for transmission of reports to New
+Zealand, viz., Western Australia, South Australia, Victoria, New South Wales, and Queens-
+land ; South Australia being divided into two districts, tropical and extra-tropical.
+XXI. That weather telegrams be written on paper of a special colour, so as to be readily distin-
+guishable in the offices.
+XXII. That the solar radiation thermometers should be blackened bulb thermometers in vacuo,
+and should be exposed on an open space at an elevation of 4 feet 6 inches from the surface of
+the ground, supported by a post carrying two light arms.
+XXIII. That radiation thermometers be placed over grass.
+XXIV. That the following subjects for experiment be referred to each member of the Conference
+for future consideration and report:—
+1. Shade temperature.
+2. Swinging thermometer and thermometer sheds in use.
+3. Standards to be swung with 2 feet 6 inches string during sunshine and after sunset.
+4. Observations to determine the difference in humidity, by self-registering maximum and
+minimum thermometers, and by other methods.
+5. The best method of measuring the velocity and pressure of wind.
+6. Whether any better method than black bulb thermometers can be devised for measuring
+the direct effect of the sun.
+7. As to the best method of determining spontaneous evaporation.
+XXV. That as investigation of the Newcastle tide-gauges has shown that such instruments give
+valuable indications of distant earthquakes, gales, and sea-disturbances, it is desirable, in the
+opinion of the Conference, that self-registering tide-gauges be established in as many convenient
+places as possible on the coast, in connection with the Meteorological Department of the
+different Colonies.
+XXVI. That the foregoing minutes be adopted as the Report of this Conference on the various
+matters referred to it, and that the Chairman be requested to report to the Government of
+New South Wales.
+Reports.
+3. Resolved XXVII. That, as a preliminary proceeding, each member should report the action
+taken in the Colony represented by him with regard to the recommendations of the last Conference.
+Report by Dr. Hector.
+4. Dr. Hector accordingly reported as follows With regard to Resolution 11. : The forms for the
+publication of meteorological statistics have been altered so as to meet the views adopted at the last Confer-
+ence. The forms now used by first, second, and third-class stations respectively now submitted.
+. . . ution HI. • Changes in the department have led to a reduction of the first-class
+stations from eighteen to three, which he thought to be quite a sufficient number to afford all the data required
+for complete meteorological statistics, especially as it is contemplated to furnish these stations with complete
+sets of continuous self-recording apparatus. The number of second-class stations has, however, been largely
+increased, and their equipment very much improved.
+6. Under Resolution VII. : The New Zealand Government are favourably disposed in regard to the
+co-operation requested, and to provide the means suggested by the Conference, but the matter has not yet
+been brought before Parliament, the proposition being considered somewhat indefinite.
+7. Under Resolution VIII. : Correspondence was read and handed in relative to the changes that had
+been made in the relations of the Meteorological and Weather Departments of New Zealand, partly in
+accordance with the recommendation of the Conference, and partly on account of certain changes in* the direc-
+tion of retrenchment. Since 1874 there has been a Weather Signal Department under the charge of Captain
+Jtdwm, quite distinct from the Meteorological Department, which furnished the statistics. The papers
+■cv? 1 ,e Hector, and marked “A,” showed that he had recommended the reference to Captain
+hidwin of the Report made by the Sydney Conference, for report—(l.) As to how far the suggestions could
+e given effect to by his department. (2.) As to preventing duplication of observations by combining the
+workot the two departments. And (3.) As to preserving the reports on which the weather signals are
+rounded, in order that the conclusions may be reviewed in the future. In Captain Edwin’s reply, he drew
+attention to the expense involved in sending the daily synoptical report; to certain phenomena, indicating
+tnat, m ms opnnon, the meteoroiogicai connection between Australia and New Zealand is not so close as
+rmgnt be reasonably supposed; to the probability that information from Queensland would be more useful
+t i iat / rom the other colonies ; t 0 Mount Peel as a site for a mountain station, and to the
+doubt whether the results from only one such station would be worth the expense; and to the desirableness
+of
+
+
+of assimilating the system of registration to that used in the United Kingdom ; he stated his preference for
+a direct statement (in weather warnings sent to New Zealand) of the position and route of any storm centre
+affecting that country, with an example ; he considered that certain suggestions in regard to telegraphic
+messages were not neccessary ; that, while high tides are now predicted in New Zealand, additional informa-
+tion would improve these warnings, and that tide-gauges would collect valuable data. A ttached to this
+paper were notes thereon by Mr. Ellery and Mr. Russell. Mr. Ellery remarked that the cost of telegrams
+would be but a trivial sum to each colony, say £9O or £IOO, and would be reduced by the joining of other
+colonies ; that the weather telegrams should not be complicated by any deductions regarding a single locality,
+though early intimation of any great disturbance, if added to the ordinary telegram from the colony where it
+originated, would be very valuable. The suggestions as to telegraphic messages, considered by Captain
+Edwin unnecessary, would secure promptitude in telegraph offices. The tide-gauges were not for prediction
+purposes, but to furnish knowledge concerning abnormal tides, or disturbances of normal ones. Mr. Russell
+expressed in his remarks the same view as Mr. Ellery did concerning the expense of telegrams; observed
+that the Conference, having unanimously resolved in favour of cablegrams between Australia and New
+Zealand, it was very desirable to test the proposition ; remarked that it was proposed to send information
+from Queensland ; and pointed out that the messages proposed by the Conference were merely statements
+of existing conditions, unburdened by any theoretical matter which might not be correct, though it might,
+if of great importance, be appended as a remark, as it sometimes now is, in the cypher telegrams exchanged
+by Australian Colonies.
+8. Dr. Hector then handed in certain papers on the subject of amalgamating and reorganizing the
+Weather Forecast and Meteorological Departments of New Zealand. The correspondence showed that on
+the sth of April, 1880, Dr. Hector addressed to the Honorable the Colonial Secretary a letter pointing out
+that a saving might be effected, and drawing attention to the fact that in 1867 and on several occasions since
+he had suggested a complete reorganization of the department with a view to a better application of the vote,
+though nothing had been done. This letter enclosed extracts —(1.) From a memorandum dated the 12th of
+June, 1867 ; and (2.) From a letter to the Honorable the Colonial Secretary, dated the 23rd of September,
+1874, both signed by Dr. Hector. In the former it was proposed to establish four principal stations where
+the daily periodic elements would be determined by frequent direct observations, and twenty second-class
+stations at which daily records should be taken of the indications of self-registering instruments. These
+could be maintained for £6OO per annum, and would be quite sufficient for scientific purposes. The new
+arrangements were proposed to be brought into operation on the Ist of January, 1868. In the latter Dr.
+Hector recommended the reduction of the number of first-class meteorological stations to three, and the
+placing of the other stations under the Weather Signal Department. He advised that self-registering
+instruments -hould be procured ; that no break in the continuity of the observations should be allowed to
+occur ; and that the changes should be deferred to the end of 1875. In reply to the letter dated sth April,
+1880, and its enclosures, Captain Edwin sent a memorandum, dated lltli September, 1880, wherein he set
+forth the impossibility of maintaining efficient weather forecasts with a reduced expenditure, the necessity
+bn .in assistant in that branch of the service, the impossibility that one person could discharge efficiently
+tliu duties of both d«i irtments, and several facts which, in his opinion, made the duties of a meteorological
+observer incompatible with those of an observer for the Forecast Department. Captain Edwin laid stress
+on the difference which he conceived to separate meteorology from weather forecast, remarking that the
+former required trained observers, exact registration, and laborious calculation, in order to obtain results
+which it was hoped would prove valuable in the future for the prediction of seasons and climatic changes
+though they had not yet been found reliable for those purposes even where (as in Great Britain) observations,
+had been made carefully for over fifty years ; while the latter, requiring no special training of observers,
+demanded of tin forecasting officer skill and despatch, while it gave daily value for the daily expenditure.
+9. In order to <explain to the Conference the method on which Captain Edwin conducted the Signal
+Department, Dr. Hector laid before the Conference a copy of Captain Edwin’s paper communicated to the
+New Zealand Institute on the Principles of Weather Forecast in New Zealand, with a sheet showing the
+succession of weather as recorded in that colony, plotted on his principle for a period of six months from
+January to June, 1880. He explained that Captain Edwin’s method was in the mam the same as that
+adopted by the Meteorological Council of Great Britain, although it involved the acceptance of certain hypo-
+theses which are not yet generally received. Since the beginning of the year, the Weather Signal Depart-
+ment having been placed under the charge of Dr. Hector, as Meteorological Director, the method of observing,
+recording, and reporting has been modified so as to agree with the wishes of the Conference.
+10. Thirty-seven reporting stations are now fitted with complete instruments, and supply information
+at 9 a.m. of every day as to the wind, pressure, temperature, humidity, and general weather. These tele-
+orams are grouped according to the aspects decided on by the Conference, viz. : (A) north-east; (B) north-
+west • (C) southern ; (D) south-eastern ; and (E) Cook’s Straits. From the data thus obtained and nom
+telegrams when found necessary, an isobaric map is constructed each day, and a general report for each of
+the above aspects is prepared, below which the forecast for each aspect is written m such a way as, it correct,
+would agree with the report for the following day, and warnings are issued when necessary to any part ot
+the coast where dangerous winds are apprehended. The data thus obtained will be used as secon c ass
+station returns for statistical purposes. . , , ,
+11. Dr. Hector submitted these isobaric maps and the data upon which they were founded tor the
+months of February and March, during which the new system was in operation, and stated as the result ot
+his experience that it afforded the most satisfactory method of tracing and recording the changes ot weather,
+and distinguishing the characteristics of a season.
+12. The correspondence had resulted in arrangements for the future, whereby one or all ot the three
+first-class stations should be gradually so improved as to approximate in their equipment to that ot the
+central or observatory stations in Australia, while, in addition to the thirty-seven second-c ass Nations a
+large number of third-class or rainfall stations are being established. These last will be kept by li s htho
+keepers (where not in telegraphic communication), by pilots, by harbourmasters and by other Governm
+officers, and by amateurs. At these stations temperature, rain, wind, and weather observations are made
+13. Valuable meteorological observations are received from Fiji, and were published in Dr. Hecto
+last report for the years 1877, 1878, and 1879. An additional firsbclass station has been established at the
+Chatham Islands, and has been in operation since January, 1879. The results for that year
+
+
+published in the report just mentioned, a copy thereof was laid upon the table, and attention was drawn to
+the fact that it contained daily readings for the three stations at Auckland, Wellington, and Dunedin for
+pressure, wind, and rainfall for a period of three years, accompanied by curves which showed a very re-
+markable agreement of the atmospheric disturbances throughout that range of latitude, which is equal to a
+distance of 800 miles. Dr. Hector also submitted the daily observations for 1880, made at the Wellington
+Station, and the monthly abstracts from all stations for the same year.
+14. Under Resolution IX. : It was reported that the Government of Hew Zealand had agreed to
+bear, for the present, the cost of any necessary cablegrams, but desired before bringing the matter before
+Parliament, that the Conference should express more clearly what they consider to be the particular value
+of those cablegrams, and what their probable cost, and what arrangements in regard to payment are sug-
+gested to give effect to the recommendation. .
+15. Under Resolution XI. : All weather warnings and the reports from stations are forwarded with
+the greatest celerity, and no difficulty is experienced in New Zealand from delay of weather telegrams, a
+result largely due to the interest which the Superintendent of Telegraphs, Dr. Lemon, takes in the subject.
+16. Under Resolution XII. : No steps have been taken to get a high-level station ; the establish-
+ment is not at present able to cope with this work, and it is doubtful whether, for some time to come, a vote
+can be got to make it so. Observations are, however, taken at Taupo, at an altitude of 1,200 feet, in the
+centre of the North Island, and Bealey (2,140 feet), in the centre of the South Island.
+17. Under Resolution XIII. : The present agreement with Mr. Russell is, that cablegrams shall be
+sent only for any remarkable phases of weather in New Zealand, and that they shall indicate excessive
+pressure or abnormal differences in pressure within the New Zealand area.
+18. Under Resolution XIY. : A form of diagram was submitted, in which the meterological statistics
+have for some years been displayed at the Wellington Station, and in which they are to be communicated to
+Sydney, from the beginning of the present year, from Auckland, Wellington, and Dunedin.
+19. Under Resolution XYI. : The classification and grouping of the weather reports has been strictly
+adapted to this recommendation, but, in practice, the arrangement is not found to be the most convenient, so
+that the definition of the aspects may probably be revised with advantage.
+20. Under Resolution XVIII. : The requirements of this resolution have been met, with respect to
+New Zealand, and a synoptical report of the weather generally for the colony is published in the evening
+papers each day.
+21. Under Resolution XXY. : Several tide-gauges have been procured, but at present they are
+utilized for the local requirements of harbour boards, and are not yet available for general investigations such
+as are contemplated by the Conference.
+22. It was arranged that data should be obtained from Sydney, Adelaide, New Zealand, and Mel-
+bourne, for the months of January, February, and March, with a view of testing the applicability to
+Australia of the system of weather forecasts adopted in the northern hemisphere.
+The Conference adjourned to to-morrow at 10 o'clock a.m.
+ROB. L. J. ELLERY.
+25/4/81.
+FRIDAY, 22irc> APRIL, 1881.
+Present:
+Mr. Ellery, in the Chair.
+Dr. Hector, | Mr. Russell,
+Mr. Todd.
+The Conference met at the Observatory at 10 o’clock a.m.
+23. Resolved : —XXVIII. That the paragraphs of the Report shall be numbered with consecutive
+Arabic numerals.
+24. Resolved : —XXIX. That the resolutions and important points shall be numbered consecutively
+with Roman numerals.
+Report by Mr. Russell.
+25. Mr. Russell reported, in accordance with Resolution XXVII., as follows :—Under Resolution
+11. : Had extended the range of the weather map by taking in new stations established in agreement with
+report; had published daily a barometer curve including all the coast stations, as this was a method which
+appeared to convey to the public better than could be done by figures the passage of barometric depressions.
+He desired to call the attention of the members of the Conference to the fact that this curve pointed to the
+insufficiency of the present telegrams because they did not give turning points of the barometer; hence
+some depressions appeared to pass from Eucla in two days, and others in one day. This, no doubt, was
+owing to the fact that the 9 a.m. observations were taken to represent the turning points. He submitted
+copies of the weather map printed daily at Sydney and distributed gratis.
+26. Under Resolution 111. : Additional stations (first-class) have been established at Kiandra,
+Menindie, Hay, and Wollongong, making altogether twenty-nine in New South Wales, see list in Appendix
+No. 1 ; besides these reports were received from 9 first-class private stations, from 72 thermometer and rain
+stations, and from 100 rain stations, making the total 210 stations.
+27. Under Resolution VII. : Had been unable to secure active co-operation from the Government of
+Queensland in the weather system.
+28. Under Resolution VIII. : Had continued to make the same observations serve for weather
+signal purposes and statistics.
+29. Under Resolution IX. : Submitted a letter from the Superintendent of the New Zealand Cable
+showing the liberal rates at which the Eastern Extension Telegraph Company ? are prepared to transmit
+weather
+
+
+weather telegrams. He was authorized to say that the Government of Hew South Wales would share the
+cost of the proposed weather cablegrams to the extent of £75 per annum, which was probably more than
+would be required.
+30. Under Resolution XII. : A mountain station has been established on Kiandra, 4,600 feet above
+sea.
+31. Under Resolution XVIII. : Had regularly sent, but had not received synoptical reports.
+32. Under Resolutions XXII. and XXIII. : These resolutions had been conformed to.
+33. Mr. Ellery, referring to the letter read by Mr. Russell (cf. par. 29), remarked that in 1877 he
+received a letter from the Superintendent of the Tasmanian cable stating that cable messages from Tasmania
+would be transmitted at half the ordinary rate, inclusive of the address and signature. & In 1880 he had
+asked that this concession might be extended, and had received a reply to the effect that if more than one
+message was required each way daily an endeavour would be made to induce the directors to extend the
+concession to a second message.
+Report by Mr. Todd.
+34. Mr. Todd, in accordance with Resolution XXVII., reported as follows Under Resolution I. :
+That he would hereafter lay before the Conference the form of weather bulletin posted at the Adelaide Tele-
+graph Office, at the Exchange, and at Port Adelaide.
+35. Under Resolution 11. : That nothing had been done, since the Sydney Conference had not
+arrived at any decision as to the form to be adopted, leaving it open to each director to publish the results
+of his own observations for his own purposes in his own way. A copy of the observations for January, 1879,
+was put in, to show the form in which the observations for South Australia had been published ; also a copy
+of the weather map taking in the whole of Australia and Hew Zealand upon which it is proposed to lay
+down isobars.
+36. Under Resolution 111. : That as the outcome of the last Conference, a vote has been obtained
+from Parliament for providing the Observatory at Adelaide with self-recording instruments, namely,
+a barograph, thermograph, anemometer, and ombrograph. Had deferred ordering the anemometer, knowing
+that Mr. Ellery was making one on an improved principle ; and it was probable that a similar instrument
+would be adopted at the Adelaide Observatory.
+37. Under Resolution IV. : That the following are the first-class stations (as defined at the Sydney
+Conference) in South Australia : —Adelaide, Cape Horthumberland, Cape Borda, Alice Springs, Port
+Darwin, Eucla, Mount Gambia, Robe, Strathalbyn, and Kapunda. Barometer stations have been estab-
+lished at Streaky Bay, Port Augusta, and Daly "Waters. There are thermometer stations at Goolwa, Mount
+Barker, and Clare. At Cape Horthumberland, Cape Borda, Alice Springs, and Port Darwin, observations
+are taken every three hours, day and night. At the other stations observations are taken generally at 9
+a.m., 3 p.m., and 9 p.m.; but at some of them at 9 a.m., 12, 3 p.m., 6 p.m., and 9 p.m. It is intended to
+establish additional barometrical stations, and to make them first-class stations. The proposed first-class
+stations are Streaky Bay, Port Augusta, Farina, and The Peak. In addition to the stations named, there
+are nearly 200 rainfall stations throughout South Australia.
+38. Under Resolution V. : That barometers of Fortin’s construction are used, not the Board of
+Trade form.
+39. Under Resolution VII. : That it had been left to him to secure the co-operation of Western
+Australia, which he had accomplished by the kind courtesy of the Honorable Mr. Fraser, Surveyor General.
+That recently observations had been made at 7*30 a.m., in order that the report might reach the eastern
+colonies early enough to be included in their daily reports.
+40. Under Resolution IX. : That he was able to say that the South Australian Government would
+bear its share of the expense of the cable weather telegrams.
+41. Under Resolution XI. : That in the South Australian Telegraph Department precedence is
+given to all weather telegrams before everything else, but that the same rule did not appear to apply to the
+other Australian colonies.
+42. Under Resolution XII. : That no action had been taken, but desired to mention, en passant,
+that Alice Springs station is at an elevation of 2,100 feet above sea-level.
+43. Under Resolution XVIII. : That the daily weather telegrams are not precisely consistent with
+the resolution, the Sydney Observatory, for instance, sending the humidity, whilst from Melbourne
+were sent the readings of the wet and dry bulb thermometers. The synoptic reports are not regularly
+received.
+44. Under Resolution XX. : That South Australia has been divided in the tropical and extra-
+tropical districts, the stations in the tropics being Port Darwin, Daly Waters, Powell’s Creek, Tennent’s
+Creek, and Alice Springs.
+45. Under Resolutions XXII. and XXIII. : That the resolutions are strictly carried out.
+46. Under Resolution XXIV. : That experiments with swinging thermometers had been carried out,
+the results of which would be presented to this Conference at a future meeting.
+47. Under Resolution XXV. : That he had not yet succeeded in getting records of self-register-
+ing tide-gauges.
+48. That the meteorological statistics had always been in his hands.
+Report by Mr. Ellery.
+49. Mr. Ellery, in accordance with Resolution XXVII., reported as follows : —Under Resolution
+11. : That he had not changed the mode of publication for the reason that nothing had been definitely
+decided on by the Sydney Conference.
+50. Under Resolution 111. : That there are now in Victoria the following first-class stations, viz.,
+Melbourne, Portland, Cape Otway, Wilson’s Promontory, Gabo Island, Sandhurst, Ballarat, and Echuca.
+That Mount Macedon and Omeo are about being made first-class stations. Echuca is the only first-class
+station established since the last Conference, any extension of the system during that time, besides the
+alterations mentioned, being confined to third-class stations.
+51. Under Resolution VII. : That soon after the last Conference he had requested the Victorian
+Government to place him in communication with the Tasmanian Government in order to secure their
+co-operation
+
+
+co-operation in the scheme. Through some misunderstanding the application was not made to Tasmania, but
+he had subsequently taken the best steps open to him to induce the Tasmanian authorities to join in the
+Australian scheme. The Government had been again directly invited to send a delegate to the Conference,
+but in the telegram produced they stated that they could not send one, although they concurred in the
+objects sought to be attained by the Conference, and promised to communicate with the Chairman by letter
+or memorandum. The Honorable the Chief Secretary of Victoria had been requested to convey to them
+the information that the Conference would commence its sittings on the 21st instant, and would be very
+glad to hear from them. He had no doubt that the co-operation of Tasmania would in a very short time
+be secured.
+52. Under Resolutions IX. and X. : That the Victorian Government had consented to exchange
+weather telegrams, and had placed upon the Estimates for the current year a sum of £9O to meet Victoria’s
+share of the cost. They had been prepared ever since last June to bear this expense.
+53. Under Resolution XI. : That, after the last Conference, a copy of the report was sent
+to the Government, attention being drawn to this paragraph, with a request that precedence and
+prompitude be accorded to weather telegrams. A perceptible improvement had taken place since then, but
+he was still of opinion that further improvement in promptitude might be made if the Conference pressed
+the matter.
+54. Under Resolution XII. : That last week a large obelisk station had been completed upon the
+extreme south-west point of Mount Macedon, at an altitude of 3,500 feet, for the erection of a self-register-
+ing anemograph, which would be in charge of an observer who, about 100 feet lower, has a barometer,
+thermometers, and all the appliances of a first-class station. This would be worked as a first-class station in
+about a month, with a continuous registration of the direction of the wind. The form of anemometer to be
+used will be a direction-vane with pressure-plate.
+55. Under Resolution XIII. : That Mr. Russell, subsequent to the last Conference, communicated
+to Mr. Ellery some proposed improvements in or additions to the code, but the matter had not yet been
+discussed.
+56. Under Resolution XIV. and XV. : That nothing had been done in Victoria.
+57. Under Resolution XVIII.: That the recommendation as to weather telegrams was carried out
+in the telegrams from this station to the other colonies, except that the readings of dry and wet bulbs were
+sent instead of the dry bulb and humidity. No synoptical report is sent from this station to other colonies,
+and none is received. A long time ago two or three came, and then they ceased.
+58. Under Resolution XXI. : That nothing has been done in this colony in regard to the use of a
+coloured paper for weather telegrams.
+59. Under Resolution XXII. : That the recommendation has been carried out.
+60. Under Resolution XXIV. : That he will hereafter report on Nos. 1,2, 3,5, and 6.
+61. Under Resolution XXV. : That enquiries had been made as to the best spot in which to place a
+tide-gauge on the south coast of Australia. That Gabo Island had been recommended as the best position
+on the south-east coast, and Portland as another site. It was desired to have Wilson’s Promontory made a
+station, but there was no place for it. He hoped to get one or two of these tide-gauges erected in the course
+of the next eight or nine months.
+Definition of First-class Station.
+62. Resolved, on the motion of Mr. Russell, XXX. : That, instead of the definition in Resolution
+IV., the Congress adopt the definition of the stations given at the Vienna Congress, and contained in the
+introduction to the Instructions for the use of Meteorological Instruments.
+The Conference adjourned to Monday next , the 25th April , at 10 o'clock a.m.
+ROB. L. J. ELLERY.
+25/4/81.
+MONDAY, 25th APRIL, 1881.
+Present :
+Mr. Ellery, in the Chair.
+Dr. Hector, | Mr. Russell,
+Mr. Todd.
+The Conference met at the Observatory at 10 o’clock a.m.
+The minutes of the meetings held on Thursday and Friday last were read and confirmed.
+65. Mr. Todd laid before the Conference the following suggestions to be discussed hereafter, viz. :
+(a.) That, with a view to the observations being referred to one uniform standard, a complete set
+of standard instruments be purchased for circulation between the four chief stations, viz.,
+Melbourne, Sydney, Wellington, and Adelaide—the cost to be divided between the four
+colonies represented at this Conference. The instruments to comprise barometer, thermometer
+max solar thermometer, anemometer, and rain-gauge.
+( 6 ‘) A ll readings of the several instruments to be reduced to the readings of the standards.
+(c.) That although absolute uniformity in the form of publication of meteorological statistics is not
+considered essential, whatever form is adopted should give
+a. Barometer reduced to 32° and sea-level, at least at one of the hours agreed upon at the
+last Conference (9 a.m., 3 p.m., 9 p.m.), and the principal turning points, also reduced,
+with the times or their occurrence.
+* c 38—B p
+
+
+(3. The temp, of the air at the same hour or hours, also max. and min. The max. should
+be read at 9 p.m., and the min. at 9 a.m.
+y. Wet bulb ther. readings at the same hour or hours, or humidity.
+8. Amount and character of cloud, and upper current of cirri, or high cloud,
+e. Direction and force of wind.
+£. Rain during previous twenty-four hours, recorded at 9 a.m. It would be better to
+read the gauge at 9 a.m. and 9 p.m., and distinguish between night and day rain.
+(d.) The chief stations at Melbourne, Sydney, Wellington, and Adelaide, in addition to the fore-
+going, should give max. solar ther. ; min. on grass and wool; hours of sunshine; ozone, 9
+a.m. and 9 p.m. ; evaporation, read off at 9 a.m. and 9 p.m.
+(e.) In addition to this, Melbourne, Sydney, Wellington, and Adelaide should publish hourly
+readings of barograph (reduced to 32° and sea-level), thermograph, and anemograph.
+(y]) Carrying out Resolution XIA., passed at the previous Conference, that curve sheets, with
+synoptic reports on weather, should be exchanged monthly ; it is recommended that these
+curves should show barometrical pressure at sea-level, temp, of air, relative humidity, dir. and
+force of velocity of wind and rainfall ; and that the synopsis should be in sufficient detail to
+trace storms and other atmospheric disturbances. There should be a sufficient number of
+stations selected in each colony to supply data for forming isobaric maps for every day.
+(<7.) The adopted mean temp, to be deduced from the min., 9 a.m., max., and 9 p.m. readings; and
+at the four principal stations this mean should be compared with the hourly means.
+(h.) Exposure of thermometer to be uniform, or, if that cannot be effected, the four principal
+stations, or one of them, should mount thermometers on each plan adopted by the other
+colonies, and compare the readings on each kind of stand with the readings of a rotatory
+thermometer in the shade. ,
+(i.) The dry and wet bulb thermograph readings should be compared with the readings ot the
+standard or ordinary dry and wet bulb thermometers at 9 a.m., 3 p.m., and 9 p.m. ; and the
+readings of the thermograph should be referred to those of the ordinary dry and wet, or the
+correction supplied. , ,
+(k.) The readings of the barograph should also be compared with the readings ot the standard
+barometer at the same hours, and the differences given if not applied.
+(1) Rain-gauges to be of one uniform pattern and size of receiving surface, viz., 8 m diameter, and
+the mouth of receiver to be 1 foot above the surface of the ground, in such a position as
+to be wholly unsheltered in all directions. . ,
+(m.) Atmometer.—The form adopted at Adelaide is recommended. This consists of an outer tank
+of brick cemented, 4 feet square, internal measurement; and an inner tank of slate or marble,
+3 feet square ; both tanks being filled with water to the same level. The amount of evapora-
+tion is read off by means of a float carrying a graduated rod and vernier, divided 001 inch.
+(n.) Observations to be taken at Melbourne, Sydney, Wellington, and Adelaide, at 0 h 43 m., Gr;
+m. t., or 7 h. 35 m., Washington, in compliance with the request of the late Brigadier-General
+A. J. Myer, Chief Signal Officer, U.S.
+Reports on Resolution XXIV.
+66. Dr. Hector reported that he had experiments in progress upon the velocity and pressure of the
+wind, and upon solar thermometers, but they were not sufficiently advanced to be reported upon. Experi-
+ments had also been made with the swinging thermometer. . , , , numbers but
+67. Mr. Todd reported that he also had made experiments on the subjects referred to membe s,
+that they were not sufficiently advanced to be reported. He found that fhe swmgmg e rmome ers
+very closely with the thermometers upon the stand, but were always lower than t » P h f
+wich which had been in use for so many years. For shade temperature, he had for a number of
+vears adopted two modes of mounting thermometers. In one case the instruments were mounted on
+modified form of Greenwich stand, which was always kept turned with its back
+are about 5 feet 6 inches above the ground, and are protected from ram by a
+did not lead him to think that this is the best mode of mounting thermometers. The best plan, he
+was a shed with an open louvre roof, which will effectually screen the stand (winch should
+skeleton frame) and instruments from the sun, and yet leave free access o c^ reAl Con f er e nce [ put ini
+other method adopted at Adelaide, and is well shown m a photograph submi L
+The shed is octagon shaped, 10 feet wide, the louvre roof being supported by eight stout posts at a
+height 5 the eaves“ of°about heet 6 inches ah™ the ground. The shed woodtlSd td
+wh?te The skeleton frame, on which the thermometers are mounted, revolves on a wooden standard
+r - rr.iL'j sa«- *«-— —-
+the day by the following quantities :
+Mean readings on stand exceed mean readings in shed
+o
+Minimum ... ••• ••• -o*l
+9h. + o*4
+Noon + F 0
+Maximum +l*6
+o
+3h. p.m
+6h. »
+9h. p.m.... UA
+Approximate mean temperature of the year (mean of max. and min.)
+63*6
+Stand .. 62*9
+Shed
+Shade
+
+
+Shade Temperature.
+68. Mr. Russell reported that he had made experiments with the Greenwich stand that had to be
+turned twice a day. With another, in which the exterior was composed of louvres, and the interior a box
+in which perfectly free and carefully arranged ventilation was provided for, at the same time that no radiation
+from the ground could affect the thermometers, and found that if the south side of the box was removed it
+crave a temperature the same as the shed; but, if the south side or door was shut, the temperature was
+thereby raised two degrees. Had found that thermometers placed on the south side of a wall with a box to
+protect them from morning and evening sun, gave same mean temperature as shed.
+69. That he had made a series of comparisons between a swung thermometer and a thermometer in
+the shed with the following results: —
+Mean difference ... ... ... 02 Swung thermometer being highest.
+Morning 10’5 a.m. —Greatest difference 2 3 Swung highest.
+Evening 10 30 p.m.—Greatest difference 0 6 Swung lowest.
+Swung in sun sometimes as much as 3*7 higher than swung in shade.
+70. That to determine the difference of humidity as obtained from max. and min. thermometers, and
+from the three daily observations of wet and dry bulb thermometers, he had made the following comparisons
+of observations taken in July, 1880, and January, 1881, the result showing a difference of 4*l° in July and 2*6°
+in January between the two methods.
+July /80,
+Max. (1).
+Max. Wet.
+Humidity.
+Min. (1).
+Min. Wet.
+Humidity.
+Jan. /81.
+Max. (1).
+Max. Wet.
+Humidity.
+Min. 0).
+Min. Wet.
+Humidity.
+I
+55‘6
+47’4
+55
+4 r 3
+38' 1
+75
+1
+76-7
+69*0
+63
+62-7
+59* 1
+79
+2
+53'4
+. . .
+397
+37* 2
+79
+2
+77 1
+68-i
+59
+675
+62*5
+73
+3
+53 4
+52-2
+79
+41*0
+3
+71-7
+620
+55
+637
+57*9
+68
+M
+547
+47*9
+60
+42-8
+39*4
+74
+4
+71 1
+62-4
+58
+59*7
+54*3
+69
+«;
+54‘ 6
+48-8
+65
+40-7
+38-2
+79
+5
+71-4
+656
+70
+59' 2
+5 6 *9
+85
+6
+55°
+4 8 '3
+61
+425
+397
+78
+6
+77 *6
+677
+56
+59*8
+57*8
+87
+7
+587
+5°7
+57
+88
+47-8
+92
+7
+72’ 1
+65*5
+67
+65-0
+62-1
+83
+8
+59‘4
+5 2 ' 0
+60
+4 r 4
+39*7
+86
+8
+762
+64-0
+48
+64*6
+57*6
+64
+9
+57’ 6
+5°'4
+60
+407
+39'1
+87
+9
+737
+64-1
+56
+635
+60’2
+80
+IO
+59'5
+522
+60
+424
+39* 1
+75
+1°
+75' 2
+66-i
+58
+617
+dry
+...
+ii
+55‘6
+5°'°
+67
+43'9
+41-1
+79
+11
+724
+67*0
+72
+6 3’4
+6l m 2
+86
+12
+59'°
+5 2 7
+64
+45'3
+4 2 '3
+78
+12
+720
+66-9
+74
+647
+63*3
+91
+13
+5 6 '4
+5 r 7
+71
+428
+4i*3
+88
+*3
+73*8
+66-9
+66
+62*7
+dry
+...
+14
+600
+563
+77
+45*3
+43°
+82
+14
+69-9
+64*2
+70
+567
+dry
+...
+15
+59'3
+57-6
+89
+49' 2
+48-2
+92
+15
+729
+67 6
+73
+60’7
+57* 1
+78
+l6
+57-8
+5 1 7
+65
+46-8
+45*9
+92
+16
+78*1
+7i*i
+67
+64-1
+62*1
+87
+17
+57'°
+50-8
+64
+42-6
+4i*3
+89
+17 1
+75*9
+67-8
+62
+66*5
+617
+73
+IS
+55^
+52-4
+81
+43’4
+421
+89
+18
+73*7
+672
+68
+64-1
+6ro
+82
+I9
+55‘3
+48-9
+62
+41-0
+39*7
+88
+*9
+78'3
+74'4
+80
+665
+6ri
+71
+20
+58’ 1
+48-9
+51
+45* 1
+420
+77
+20
+89*7
+797
+58
+69-1
+66*i
+83
+21
+58;3
+49*3
+52
+46-5
+41-8
+68
+21
+68-8
+65*9
+89
+636
+59*i
+74
+22
+57 "4
+49'°
+64
+437
+400
+73
+22
+79*o
+720
+67
+632
+59*0
+79
+23
+6o - 2
+50-8
+52
+44-1
+41-0
+77
+23
+69-8
+68 6
+92
+67*3
+6l'2
+68
+24
+56-6
+46*2
+45
+476
+43'°
+69
+24
+78-1
+657
+48
+73*o
+62'!
+51
+25
+6i*2
+504
+50
+43*6
+39'5
+70
+25
+74*i
+67*2
+66
+676
+64-6
+82
+26
+6ro
+5 r 3
+51
+43*7
+41-2
+80
+26
+77*4
+699
+65
+64-7
+63-1
+90
+27 I
+671
+526
+38
+44*9
+42-1
+79
+27
+787
+...
+...
+654
+64-9
+97
+28
+62*3
+5 2 ‘4
+51
+50-8
+45*o
+64
+28
+863
+74*3
+51
+704
+68’i
+87
+29 !
+614
+50*3
+46
+43' 2
+40-9
+82
+29
+74*4
+697
+75
+64-7
+62*8
+88
+3°
+62-8
+5 x 'o
+45
+41-9
+4o'3
+87
+3°
+83*5
+74*9
+62
+648
+638
+93
+31 1
+667
+55*3
+47
+40-6
+39*o
+87
+3i
+74*4
+68-8
+72
+66-8
+612
+70
+30) 1,779
+30) 2,415
+30) 1,967
+28) 2,218
+Means
+59-3 ...
+805
+Means
+65'6
+79-2
+4
+... j
+Mean ... 697
+Mean ... ,
+“V
+724
+Mean 9—3 & 9—73-8 ... 73 8
+Mean 9 — ■
+3—9 . .
+... 750
+41
+26
+Evaporation.
+71. Having for the past ten years carried on observations with three forms of evaporators, he thought
+the condensed results might be of interest to the members of the Conference. He mentioned that observa-
+tions with the glass evaporator were begun at Sydney Observatory in 1860, but it was not until 1871 that
+the other two forms were placed beside it for the purpose of comparison. It was simply because the glass
+instrument was the one in use, that it was assumed to be the standard for comparison, and not for any
+advantage in form or substance which it might be supposed to possess. The tin one had been adopted for
+use in the country, because its cost was little, and the large one was started because it seemed to put the
+water into the condition which obtains in an ordinary open reservoir. The following details will form a
+sufficient description of these instruments :
+Ho. I.—A glass vessel, standing on the ground, 8 in. high and 8 in. in diameter, in which the
+water is usually about 6 in. deep; it is read by a vernier scale attached to a point which is
+every morning made to touch the water by screw motion.
+No. 2.—A tin vessel, painted white, standing on the ground, 12 in. high and 8 in. in diameter, in
+which the water is usually about 8 in. deep ; the amount of evaporation is ascertained by
+weighing it every morning. No. 3.
+
+
+No. 3. —Is a galvanized iron vessel, sunk into the ground 2 ft. 4 in. ; it is 2 ft. 6 in. deep, and
+4 ft. in diameter. In it is a small float, to the top of which is attached a light vertical rod
+passing through two guides • this is graduated to tenths of an inch, and read to i.wo of an
+inch by means of a microscope fixed on a firm support; the edge of the vessel is only 2 in.
+above the ground, to prevent surface water from running into it; and the grass is allowed to
+grow level with the top, to prevent rain splashing in, and sun-heat on the metal outside.
+72. The table herewith shows the result from each evaporator, together with temperature, humidity,
+wind, and rainfall, for ten years, 1871 to 1880. It will be observed that the tin one shows the greatest
+amount, the glass second, and the large one least, on the average for ten years; but it is worth noting that
+in 1876, when the velocity of wind greatly exceeded other years, the tin one gave the evaporation only 7 per
+cent, above the average, the large one 20, and the glass 28 per cent.
+Observations on the temperature of the water in the evaporators show that the glass one is most
+affected by the sun, the tin next, and the large one least.
+73. In the course of the experiments the question arose whether more or less evaporation took place
+during the day as compared with the night. The day was divided at 9 a.m. and 9 p.m., and the observa-
+tions confined to the glass and large evaporators ; and it was found that the glass one gave 42 per cent,
+more during the day than during the night, and the large one 18 per cent, more during day than night, and
+it sometimes happened that it was more during the night than during the day. The result of these observa-
+tions may be expressed in another way : Comparing the two, the large one gave 13 per cent, less than the
+glass one during the day, and 23 per cent, more during the night, which seems to prove that the heat
+absorbed by the large one during the day was given off in vapour during the night, and not by radiation
+from the sides, as in the glass one.
+74.
+Year.
+Shade
+Temp.
+Humidity.
+Miles
+of
+Wind
+Total
+Rainfall.
+Amount
+in
+Tin.
+E
+Tin
+greater
+than
+Glass.
+Jvaporators,
+Amount
+in
+Glass.
+Large
+less than
+Glass.
+Amount
+in
+Large.
+Large greater than Glass.
+1871*
+624
+,4-9
+96*821
+52-147
+65-756
+22*785
+42*971
+9*643
+33*130
+1 In May and June Large greater
+| than Glass.
+1872
+62 6
+75*9
+9-VS30
+37 001
+66*589
+25*001
+41*588
+11*495
+30*093
+Greater in May.
+1873
+63 0
+75*9
+I 91-306
+73-263
+54-622
+6*761
+1 47*861
+18*427
+29*432
+1874
+63 0
+75’6
+| 97 651
+63-47S
+59-622
+8*682
+50-940
+18*934
+32*006
+1875
+63 4
+73 2
+1 96*003
+46-209
+59-243
+0*607
+1 58*636
+22-521
+36*115
+1S76
+63'6
+74 2
+103*373
+4.5*647
+59*790
+- 3-692
+63*482
+24*699
+3S-783
+1S77
+63 8
+74 6
+95*087
+59*517
+49*509
+—5*567
+54-166
+22*544
+31-622
+1878
+63*6
+73’5
+97*945
+49*617
+50*355
+—3*733
+54*08-8
+21*404
+32-684
+1879
+I 621
+75*1
+99*061
+63*193
+43-785
+4*S87
+, 38-898
+10*081
+28*817
+In May greater than Glass.
+18S0
+628
+73-2
+91112
+29 513
+47*556
+7-350
+40*206
+8*690
+31*516
+In May greater than Glass.
+Means
+630
+74 6
+96-719
+51*959
+55*692
+6*409
+49*283
+16*863
+32*420
+75. Another question presented itself, and was answered by several months’ observation. It was —
+What ratio does evaporation in the shade bear to that in the sun ? The shade chosen was the thermometer-
+shed, where the air has free access, but there is complete protection from the sun. The mean result of the
+measures was that 26 per cent, less evaporation took place in the shed than in the glass evaporator in the
+sun ; or, comparing it with the large one, the result in shade was 9 per cent, more than in the large one ;
+but, as the shade evaporator was placed 3 feet above the ground, where the air would probably be drier than
+on the surface of the ground, where it affects the large evaporator, it is probable that a small evaporator in
+the shade would give about the same result as one 4 feet over and sunk into the ground.
+7G. It will appear from what has been said that every change of condition under which evaporation
+is measured produces a change in the result, and since the conditions are infinitely variable, so the lesults
+must be. Therefore, before" any comparable results can be obtained, we must determine what it is that we
+want to measure. Is it the evaporation from water in the ground, from water in a glass or metal vessel on
+the ground, or from water at some distance above the ground ! For the mere purpose of comparison, any
+one of these positions would do, but since the one in the ground comes nearest to the condition of a
+natural reservoir, I prefer it, because the results would be directly useful for a practical purpose, as well as
+for science.
+Shade Temperature and Thermometer Sheds.
+77. Mr. Ellery reported as follows : —Experiments with regard to true shade temperature, and best
+form of thermometer shed, were made here early in 1880. The thermometer stands previously in use at the
+Melbourne Observatory were—a Lawson’s stand, and, for a short time, a modified Stevenson s stand.
+Prior to 1865, a form of Lawson stand, movable about a central column, so as to place its back to the sun
+three times a day, was exclusively used, but this was done away with in favour of an ordinary fixed stand,
+of the same form, in 1865.
+78. Occasional experiments with a swing thermometer had shown that, on hot days, in which a rapid
+change of temperature had occurred in the afternoon, the thermometers always indicated a higher tempera-
+ture than that indicated by a thermometer swung in the air, and vice versa after a cold night, showing that
+the stand itself retained a temperature different to that of the air a considerable time after an actual tall or
+rise of shade temperature ; and further experiments showed that, in the ordinary small stands used
+for thermometer exposure, the temperature of the material or the stand itself always lagged behind that
+of the air.
+* Corrected for two months, January and February, when observations were not taken. Large evaporators started
+in March.
+
+
+79. In a Stevenson’s stand, made for one of the country stations (with vertical instead of horizontal
+louvres), the indications were half-way between the Lawson stand thermometers and the swing thermometer.
+It was evident, therefore, that if we assume a correct thermometer swung in the open air will give true
+shade temperature, thermometers shaded in the ordinary wooden stands (Lawson’s or Stevenson’s) do not
+always do so ; and also that the mass of material in the stand, want of free traverse of the air through all
+its parts, its slow conductivity, and its proximity to the thermometers themselves were probably the chief
+causes. It therefore appeared that the required shelter should be formed of some better and more rapid
+conductor than wood, that the mass of material used should be as small as possible, and that the circulation
+of air around every part of this mass should be as free as possible ; also that the thermometers themselves
+should be as far as convenient from at least the more massive or worst conducting portions of the stand, and
+thus free from the retarding effects of radiation.
+80. Acting upon this, trials were made with shades constructed of zinc and galvanized iron, and it
+was soon found that under such shades the thermometers followed the swing thermometer very closely, and
+when a sufficient and thoroughly open air space was allowed between the sheets of a double screen of this
+material, and when no side screens were interposed, the swing and fixed thermometers always read alike
+even when the temperature of the air was over 100°, and the sun temperature 150°. Trials were made by
+day and at night, in both cloudy and clear weather, and the indications were always within a fraction of a
+degree of that of the swing thermometer, while thermometers in the other stands differed from it frequently
+two or three degrees, and in some cases four or five degrees.
+81. After these experiments were completed, a new shed was erected at the Observatory in March,
+1880, which has been used ever since for shading the thermometers, and has given every satisfaction ; and
+whenever an occasional trial with the swing thermometer has been made, the thermometers fixed in it have
+always agreed very closely indeed. Sometimes, after a very cold night, they have shown a slightly higher
+temperature (sometimes fully half a degree) than the swing thermometer, which is perhaps due to the
+ground beneath the shelter being less cooled by radiation during the night. The shed itself consists of
+six uprights of wood fixed in the ground, carrying a double roof of galvanized iron, with low gables north
+and south, and eaves east and west. The area covered is 12 feet by 12 feet; height of ridge above ground,
+8 feet; height of eaves, 6 feet; space between two roofs, 9 inches. On the north gable a light trellis
+extends from the apex of the gable to within 4 feet 6 inches of the ground. The three other sides are fully
+open, except three louvre boards just below the eaves on the east and west sides, to keep the direct rays of
+the rising or setting sun from reaching the thermometers. The 9-inch space between the two roofs is also
+open all round. The thermometers themselves are exposed in a cage of open wire netting hung from the
+roof, and about 1 foot below the iron of the inner roof, and, while fully exposed to the air in all directions,
+are out of the reach of driving rain. A photograph appended shows the form.
+82. The ombrograph is placed beneath this shed, with the collector on the roof.
+83. The swing thermometer is a very good one, in glass tube, by Greiner, of Berlin. It is attached
+to a silk cord, about 2 feet 6 inches long, with loop to pass over finger. It is usually swung at full length
+eight or ten revolutions at a moderate speed, then stopped and immediately read, while the fixed thermo-
+meter is read by another observer.
+The best method of measuring the velocity and pressure of the wind.
+84. I have made numerous experiments in these directions since the first meeting of the Conference,
+but lam certainly not prepared to give any opinion yet as to the best method. According to my expe-
+rience, the mean velocity for short periods, as furnished by the Robinson’s anemograph does not answer all
+the questions that arise, and a good method of measuring the pressure of gusts is wanted. There is no
+doubt that the Robinson, if kept in good order, is the most satisfactory of all forms now generally in use ;
+but, in the Kew pattern used here, the register scale is too small and close—unnecessarily so, I think so
+that it is almost impossible to obtain the maximum velocities in high winds, which generally take place in
+very short periods.
+85. It was necessary, some months ago, to thoroughly repair, indeed to remake, our anemograph, as
+nearly twenty years’ wear had made it very shaky in all its parts. I therefore took the opportunity of intro-
+ducing some modifications, especially in the registering portion of the apparatus, and in replacing the
+original anti-friction ball bearings by the oil cup and Smeaton ring , as now used at Kew, with the effect of
+securing a beautifully silent and smooth motion, combined with equal sensitiveness.
+86. The registering apparatus is quite different from the old form and the record sheet much larger,
+being 12 inches wide and 18J inches long. The direction record for a full revolution of the wind covers
+4J inches wide, and the velocity 5 inches for 50 miles’ motion. An hour’s movement of the record proper
+equals about fof an inch. The velocity pen—a glass one, charged with aniline ink falls back to zero
+every houi by means of a clutch on the velocity shaft, which is released by an electro-magnet every hour,
+the contact for which is made by the clock. Should the velocity exceed 50 miles an hour, the pen moves a
+lever at the end of its range and makes contact, allowing the pen to fall back to zero at the completion of
+the 50 miles. This acts exceeding well, and the pen commences its new curve the instant it has fallen back
+to zero.
+8' • I n order to facilitate measurements for short intervals during strong winds, there is a second
+electro-magnet which gives the pen an upward movement when in action, forming a short off-set on the
+velocity curve. By inserting a plug the clock actuates this electro-magnet every minute; the velocity
+curve is thus divided by cross marks every minute, and an easy way of obtaining the velocity for short
+intervals is thus supplied.
+88. The direction record is given by spring pencils on a pair of endless chains running over two
+rollers, a cam plate throwing the pencils, not in position for registering, out of action. The more open scale
+ot the record sheet, and return of the velocity pencil to zero every hour, enables the sheets to be much
+more easily read off, furnishes more precise results, and the minute marks on the curve made when the
+second electro-magnet is connected promises to be a very useful addition for occasional requirements.
+f -a -V? StlU SeemS to be SOme 9 uestion a s to the exact ratio of the rotation of the cups to the velocity
+ot the wind m Robinson’s anemometer, as it is stated that this varies with the length of the arms and size of
+tlie cups. It appears to me, therefore, very desirable to adopt some method by which the results of the several
+anemometers in Australia shall be comparable. With this in view I have lately made some experiments
+with
+
+
+with Hagemann’s vacuum anemometer, described in the Journal of the Meteorological Society for October,
+1879, because it appears probable that exactly similar conditions can be easily secured at each observatory
+for such an instrument, which, moreover, has the advantage of being simple and cheap in construction.
+The conditions necessary are, that the height above buildings or trees, or like disturbing causes, and the size
+and shape of the orifice of the top of the vertical tube, shall be similar in each case; and perhaps it may be
+also desirable to have the capacity of the floating air chamber nearly similar.
+90. I have had placed on the observatory a light mast carrying a J-inch gas-pipe, about 25 feet above
+the main roof, terminating in a nozzle similar to that described by Hagemann, having an aperture of about 3
+or 4 millimeters diameter." The pipe leads to a “ gasometer ” arrangement in a chamber below, where a dial
+and index shows the amount of exhaustion in the floating chamber of the gasometer, or in other words the
+velocity of the wind, according to the law referred to in Hagemann’s paper.
+91. This apparatus has now been at work some weeks, and has furnished very satisfactory results ; the
+movements of the index are steady, making gentle sweeps around the dial with the lighter winds, and bold
+and rapid ones in the strong gusts of a high wind. The steadiness of its action will render making it self-
+registering an easy task.
+From observations made with a dial roughly graduated to millimeters water pressure and miles per
+hour, its indications appear to agree very closely with the Robinson anemograph, but of course all the rapid
+variations of velocity lost in the" Robinson are plainly observable in this apparatus. I am so well satisfied
+with this form of anemometer that I have had constructed a more perfect dial and index movement and
+carefully made spring than at first used, and propose to make it self-registering by means of a lever marking
+on a drum covered with smoked paper.*
+Shade Temperatwre.
+92. In regard to the experiments on shade temperature, Mr. Ellery mentioned that during the
+erection of the shed, experiments were made with side screens, which made a very great difference m the
+readings, the thermometer, as soon as the current of air was stopped, showing an elevation of temperature
+to the extent of 4° or s°.
+Swinging Thermometers.
+93. Dr. Hector enquired whether in swinging thermometers the shape of the bulb had been observed
+to modify* the results. Mr. Ellery replied that he had found that the shoulder bulbs always registered too
+low when swung, although, when placed upon the stand, they read correctly.
+94. Dr. Hector remarked that this coincided with his experience, and had led lnm to discard the
+shoulder bulb, for the form in which the bulb was of the same diameter with the stem.
+Evaporation.
+95. Mr. Ellerv stated that he had for many years adopted only one system of measuring spontaneous
+evaporation, namely, "that of a tank level with the surface of the ground. The height of the surface m this
+tank was measured every morning at 9 a.m.
+Black Bulb Thermometers.
+96. Some years ago he made experiments upon black bulb thermometers, the results of which were
+riven i n a paper read before the Royal Society of Victoria, and showed that while the thermometers
+registered correctly up to about 125 or 130°, at temperatures over 125°, even with the best instruments
+variations appeared amounting sometimes to 16°. The experiments were made m a room by means of
+dark radiation from a heated copper surface, within about 3 feet of which the thermometers were placed.
+■l7 Dr Hector enquired whether, after such an experiment, the thermometer returned to its normal
+registration. Mr. Ellery replied in the affirmative : the instruments acted quite correctly when P lacec L!“
+hot water ■ the variations appeared to result from variations in the diathermancy of the glass. His
+opinion wals, that not the slightest confidence was to be placed in black bulb thermometers at temperatures
+over about thathehad found that after 130” had been reached these thermometers radiated
+beat from* the back at a very different rate from that at lower temperatures. He considered that the back
+should always bo in contact'with a substance of the same nature and the same colour. When the back wa
+covered with a white cambric handkerchief, he obtained higher readings te when any- other ' ™
+used, while contact with black substances, such as black wool, gave quite different results 1 e hlgs «S
+readings had always been got when white substances were used, though these were not reflecting substances
+It would appear that after attaining a certain temperature the material of thet instrument.«l altei!ed t
+power of dispersive radiation ; in other words the curve of dispersive radiation did not coincide with the
+cune °g g ab^ i ,P giimy suggested that the difficulty might be got over by using a bulb, one-half of which
+was
+bulb was of black glass, he found that the greatest difference appeared between them
+shone out upon them. The lampblacked thermometer then showed sometimes as much as 13 higher tiia
+the black Russell said that he had observed similar facts to those reported by Mr. Todd. He
+remarked that the difficulty with the black bulb was to know the exact =
+Those instruments which he had lately got were provided with an electoc
+102. Mr. Ellery said that the electric indications of the nature of the vacuum va J *
+of the air and other circumstances, and that probably observers would have to le
+other of the old forms.
+Anemometer.
+103 Mr Russell suggested that, pending the solution of the best method of determining thcvelocity
+of the wind, form of 3 anemometer now laid upon the table by him should be used at firsWass
+* This apparatus has since been completed and is found to gWe the velocity fo!°any period.—
+of wind is easily measured off from the smoked paper curves, while a mean curve win give rn *
+R. L. J. E.
+
+
+stations. He had ordered twelve of these instruments from London, at a cost of 15s. each. He explained the
+mode of using the anemometer, which was to be held in the hand, and gave the velocity and pressure of
+the wind for 2 minutes at each experiment.
+Discussion ensued.
+104. Moved, —That the Conference recommend that, pending their final decision as to the method of
+ascertaining the velocity of the wind, observers at second-class stations should use Mr. Russell’s hand form
+of Robinson’s anemometer.
+The decision on this motion was deferred.
+Cable arrangements and financial matters connected therewith.
+105. Moved by Dr. Hector, seconded by Mr. Todd, and resolved : —XXXII. That all accounts for
+weather cablegrams be rendered to Mr. Russell and be paid by him.
+Synoptical Telegrams.
+106. The consideration of this subject was deferred, to be resumed in connection with the subject of
+isobaric analysis to be brought forward by Dr. Hector.
+Time at which Observations are to be made in the various Colonies.
+107. Mr. Todd, in introducing the subject, said that he considered it desirable to take the observations
+at the same hour by local time, but that in order to get out the results in time to be of service to the
+general public, especially to persons interested in shipping, they should be taken earlier than at present—
+say at 8 o’clock a.m. If this were done, South Australia would receive Sydney and Melbourne observations
+at 9 a.m., and the eastern Colonies would receive South Australian observations about 9’30.
+108. Mr. Russell considered that no alteration in the present system was practicable.
+109. Dr. Hector said that evening observations were far preferable for weather prediction purposes
+to observations taken at 9 a.m.
+110. Mr. Russell suggested that if 9 a.m. observations were transmitted with the 9 p.m. observations
+of the previous evening, predictions could fairly be made for the one day.
+111. Mr. Todd moved, and it was resolved : —XXXIII. That no alteration be made at present in the
+time at which observations are to be made. A standing foot-note to be made that the observations taken in
+Western Australia are made at 7*30 a.m. local time.
+Form of Telegrams from Tasmania.
+112. Resolved XXXIY. That weather telegrams from Tasmania shall be similar to those received
+from Cape Otway, Portland, &c., and shall be transmitted in this form to Adelaide and Sydney.
+Form of Telegrams to New Zealand.—Adoption of Isobaric Analysis.
+113. Dr. Hector submitted the outline of a telegraphic code based on the isobaric analysis, and
+pointed out that the whole system depended upon the assumption that the deductions which had led to the
+adoption of the isobaric system in the Northern hemisphere were applicable to these colonies, and, with
+sufficient accuracy, to our present observing stations. He considered that the-work done in New Zealand
+since 1877 had completely established that proposition. He saw no benefit in other system that could
+not be secured by the one he proposed, which would confer this one in addition, namely, that the members
+of this Conference would use the terms now used by meteorologists at home, those terms having been
+hitherto avoided in order to prevent any appearance of attachment, on the part of the members, to certain
+theories. The method of curves hitherto adopted was well adapted for the study of storms after the disturb-
+ances had passed over, but did not show where the centres of storms passed, the observing stations not
+being movable to follow the centres which moved very irregularly. The geographical curves used by the
+Sydney Observatory were very useful, but he did not'think that they gave a true idea of the grades of the
+atmospheric disturbances. He moved that it was desirable to use the isobaric method of representing the
+weather upon our coasts.
+114. Mr. Russell concurred with Dr. Hector’s remarks as to isobars. He had not hitherto adopted
+them, because he had felt that the observatories were not sufficiently numerous to enable us to trace the
+lines; but as the number of stations was being increased from time to time, and as New Zealand and
+Tasmania were now probably about to join in the scheme, he would be very glad to adopt the isobaric
+system.
+115. Di. Hector pointed out that the use of isobars would prevent the need for communicating
+so many instrumental readings for weather purposes as are now sent, since, if a centre was mentioned
+and the grade given for particular winds, the general character of the weather would be a matter of almost
+necessary inference. He had no doubt, however, that for other purposes those readings would be
+CLCSira DI6.
+116. Mr. Todd was in favour of the isobaric method, and had been carrying it out for some time in
+connection with the intercolonial system of weather telegraphy, but had not published the results, feeling
+that they rested upon insufficient data, owing to the fewness of barometric stations.
+117. Mr. Ellery said that seventeen years ago work was done at the Melbourne Observatory in
+drawing curves from logs of ships and tracing out the isobars. This was continued for nearly two years,
+but had been given up as perfectly useless, since there was no observations to be combined with those made
+at the Observatory except such as were got at sea. The work was only given up because there were not a
+sufficient number of observing stations in Australia to carry on the system. He thought it could now be
+carried out, and therefore supported the motion.
+118. Resolved unanimouslyXXXV. That the isobaric system of anaylsis of the weather reports
+as in use in America and Europe, be adopted throughout Australasia on the basis of the instructions con-
+tamed m the pamphlet by Mr. Ley, published by the Meteorological Council of Great Britain.
+V r - Y ect ° r * as a basis for suggestions, had taken the study of two months’isobaric charts,
+rplatbvnY nf°^ ed ' . He had t l been able t 0 find critical P lace for Zealand, the atmospheric
+nf P ar . ts °* that col ° n y being so varied that no one place would give the means in
+Australia of carrymg the isobars through New Zealand : in other words, the range of pressure within the
+New
+
+
+New Zealand area was greater than the great range between the centre and the outside of a disturbance.
+Thus a disturbance, which ranged from the Leeuwin to Melbourne, might be so distorted as to be all
+existent within the small area of New Zealand. He thought, therefore, that it would be best to give the
+highest and lowest pressures in New Zealand. These islands lie right athwart of all the disturbances that
+pass over them, which, as a rule, follow the east coast line, under its lee from south to north. If, therefore,
+the extremes of pressure each day were telegraphed when a well-defined centre of disturbance was shown
+passing any of the aspects (but only in those cases where the grade might be considered as a source of
+dangerous winds); if, for instance, a depression was making off Foveaux Straits, i.e., off aspect D, and if
+the depression had a light grade for N.W. winds, that information might be of great use to Australia, since
+such depressions have frequently been observed to bring in a change to strong wind from the S.W., and this
+might be the beginning of a very large depression, whose diameter might exceed a thousand miles. Thus,
+if the grade were given, Australia might form some idea of the weather to be expected along its east coast.
+He did not see that in any other way the telegrams from New Zealand would as yet be of immediate use
+except for purposes of study. Another point to be mentioned was, that when these disturbances—which
+often form a consecutive series—had heavy N.W. grades, the series is inclined to the meridian at a different
+angle from those previously mentioned. These points were not yet completely settled, but he thought it
+would be necessary to indicate when a depression existed with a grade above 002 for every 15 miles of
+horizontal distance.
+120. The general weather and all remarks would be referred to aspects as decided at the last
+Conference. When in his report he said that these aspects were not satisfactory, he did not mean to imply
+that he had yet sufficient knowledge to say how they should be amended. As an instance, he mentioned
+Bealey, the central station in the South Island, which is considered to be in aspect D, but experience has
+shown that it ought to be regarded as in the West Coast aspect, and not that of the East Coast, although it
+is upon the east side of the mountains. If at any time he had to change the definition of an aspect, he
+would give notice of it, and explain the reason.
+121. He proposed to give the cyclonic weather for north or south winds, and what aspect they are
+in, and the anti-evclonics, which are of great interest, since, for some unknown reason, in summer, when
+they should have low pressure, a high pressure occurred over the land.
+122. Dr. Hector then submitted a double-entry code, prepared to exhibit the aspects of the New
+Zealand coast, and the cyclones, anti-cyclones, &c.
+123. Mr. Bussell considered that what was wanted was to give such information as would be useful
+to the public. It might not appear to be of much interest to the Sydney public to know the general weather
+in New Zealand, but in reality it was of interest to business men and all connected with shipping. Par-
+ticulars would therefore be extremely valuable.
+124. Mr. Ellery agreed with this view, and considered that a little extension of the cypher code for
+New Zealand would give all that was required.
+125. Mr.. Russell thought that the telegrams should show the general state of the weather, and the
+particular state, if such existed. He thought that the synoptical view of the weather in each colony should
+be compiled by the chief officer of that colony.
+120. Further discussion ensued, after which the principle of the form for synoptical telegrams trom
+New Zealand to Australia was adopted.
+The Conference adjourned to to-morrow at 10 o'clock a.m.
+ROB. L. J. ELLERY.
+26/4/81.
+TUESDAY, 26th APRIL, 1881.
+Present :
+Mr. Ellery in the Chair.
+Dr. Hector, | Mr. Russell,
+Mr. Todd.
+The Conference met at the Observatory at 10 o’clock a.m.
+The minutes of the last meeting were read and confirmed.
+Form of Telegrams from New Zealand to Australia , and vice versd.
+The discussion on this subject was resumed.
+127. Dr. Hector, in submitting a form of code, said that he had divided Australia into districts
+somewhat similar to those into which New Zealand had been divided. , ~ ,
+128 He proposed that, under the column headed “Over the Land, Australia should be divided
+into the West Central and East Central districts; the word “General” being used when the phenomena
+reported were common to the whole. He proposed that the name of each station should be only one word
+thus—for “ Alice Springs” the word “ Alice” alone should be used. Reports should be sent from only one
+station in each district, unless some unusual phenomenon appeared at one of the others, m which case its
+importance would justify the cost of reporting it in full. The western section extended across the continent
+from Darwin to Adelaide, including as its principal stations Darwin, Alice, and Adelaide. He su gg es * el * *at
+Alice should be the station selected for the Central District. The Eastern District he proposed should take a
+similar range in longitude, its stations being Ravenswood, Bourke, Demliqum, and Melbourne. The sectio
+through Darwin and Adelaide he regarded as the plain country. That from Ravenswood to Melbourne
+would embrace the country westward from the foot of the mountain range.
+129. Mr. Todd observed that Darwin would report the tropical rams. '
+130. Dr. Hector considered that that would be very valuable information, as the weather would
+rvrohablv be found to be to some extent controlled by these rains. ,
+P 131. Mr. Todd remarked that the monsoon rains this year did not extend further than 12 miles sou
+of Tennent’s Creek.
+
+
+132. After some discussion, Gunnedah, Tam worth, Bathurst, and Melbourne were selected as the
+stations for the Eastern district, Bathurst to be the reporting station.
+Dr. Hector proceeded further to explain the draft code, pointing out that the station selected to
+report was underlined and proposed to be printed in italic letter.
+133. The coast he had divided into aspects. Aspect A would be the promontory from Perth to
+Israelite Bay (Weld), including the stations Perth and Albany, the latter to be the reporting station; aspect
+B was proposed to extend from Israelite Bay to Cape Borda, including Eucla, Borda being the reporting
+station ; aspect C from Cape Borda to Cape Otway, would include Robe, Cape Northumberland, Portland, and
+Cape Otway, Portland to be the reporting station ; aspect D comprised Tasmania, Hobart being its station ;
+aspect E, he suggested, should extend from Cape Otway to Cabo Island, including Georgetown, Wilson’s Pro-
+montory, and Gabo being its reporting stations; aspect Fto include Jervis Bay, Sydney (reporting station),
+Newcastle, and Macquarie; and aspect G should comprise Brisbane (reporting station), Rockhampton, and
+Bowen. For exceptional phenomena, he considered that ordinary words should be used, and the particular
+station be referred to by name if necessary. He moved that the decision of the Sydney Conference relative
+to the division of Australia into aspects should be amended according to the schedule handed in as
+follows :—•
+134. Mr. Russell considered that the arrangement made at the Sydney Conference, by which each
+colony or aspect sent an account of its own weather, was better than that proposed.
+135. Resolved : —XXXYI. That the coastal aspects proposed by Dr. Hector be adopted.
+136. Upon the proposition to adopt Dr. Hector’s division of inland Australia, Mr. Todd proposed
+as an amendment that Port Darwin should be made a separate aspect, to be named the North Coast aspect,
+it having a climate peculiar to itself and quite distinct from that of Central Australia, as represented by
+Alice Springs; also, that, instead of East Central and West Central, the inland portion of the continent be
+divided into “ Central Australia ” and the “Riverine District.”
+137. Mr. Russell considered that storm centres were the most important phenomena to be watched
+and that for this purpose the lines of barometers in the South Australian Stations, on the overland telegraph
+line, should be taken, and similar lines through the other colonies. °
+138. Dr. Hector explained that in laying out the proposed divisions he had looked upon Australia
+as a large plain country, with a range of mountains on its eastern border. He had, therefore, divided it into
+a Western and an Eastern district; the former being the whole of the plain country, and the latter the
+country at the western face of the range. The deductions regarding changes of weather arisin" in the
+south-east would be made by the costal aspects on the east coast, while changes passing to the °south of
+Australia (which are of the greatest importance to New Zealand) would be inferred from the successive
+coastal aspects along the south coast of the continent.
+139. Resolved XXXVII. That the interior of Australia be divided into East Central and West
+Central.
+140. Resolved XXXVIII. That the specimen code prepared by Dr. Hector be adopted pro-
+visionally. r r
+. . motion of Mr. Russell, it was resolved : —XXXIX. That the daily telegrams exchanged
+within Australia shall include the time of turning points of the barometer and shift of wind.
+142. On the motion of Mr. Todd, it was resolved XL. That the members of the Conference
+undertake to impress upon their respective Governments the need for promptitude in the despatch of
+weather telegrams, and the desirableness of using coloured paper for the forms on which these messages are
+written. °
+Alterations in Code.
+I 4 A Ellei 7 P ointed out that code had been found to be not quite perfect, but he had no
+doubt that the American word method adopted in Australia was preferable to the figure code in which
+opmion all the members concurred.
+. , , 144 j Mr ' Bussell su ggested that the present extensive table for direction and force of the wind
+might be advantageously reduced to sixteen or even to eight words, since the clerks would soon learn bv
+heart so short a code, and there would be no need of constant reference to the printed code.
+140. Dr. Hector pointed out that, though as few as four points might be sufficient for merely
+keeping a general record of the weather, yet, for the purposes of isobaric analysis, the information should be
+as mmute as possible.
+P n 14 6;, ?w ol 7if d : T* LL present form of the code in Table IY. be altered, as suggested by Mr.
+Russell, and that the selection of code words be left to Mr. Ellery.
+147. Dr. Hector suggested that every code word should consist of two syllables
+148. Mr. Russell recommended that in any reprint of the code, the sheet form should be adopted.
+Mode of carrying out Resolution XIV.
+, 149.-Mr Russell submitted the form of diagram used in New South Wales. Mr. Ellery stated
+and fotToT P no diagrams. Mr. Todd was of opinion that if the barometer temperature, direction
+and force of wind, and rainfall records appeared on the diagram it would be sufficient.
+0. On the motion of Mr. Russell, it was resolved : —XLII. That in carrying out Resolution XIV
+dirSoT b< d f Sed ’ 1 f j orm , submitted, on which shall be represented the barometer, temperature’
+rection and force of wind, and rainfall curves That the following shall be the weather diagranAtations,
+Dunedif'• B -nd PrmgS: Brl ® ban , f^ any ; Sydney, Melbourne, Hobart, Auckland, Wellington, and
+unedm , and, provisonally, that the stations shall appear upon the diagram in the order abovenamed.
+Co-operation of all Australasian Colonies.
+Wales be l asked*to m ° ti ‘V £ Todd, it was resolved :-XLIII. That the Government of New South
+Australia and to f ® ove a r T Queensland to co-operate in the meteorological scheme of
+Cooktown, Normt Cloncu^e. ney daily tel^ams Bri sbane, Rockhampton,
+importance atteched^o^h^co-operatfon 1 of’Queensland 1 ' expressed their sense of the great
+* C3B - C ' 153.
+
+
+153. Moved by Mr. Russell, seconded by Mr. Todd, and unanimously resolved : —XLIY. That in
+the opinion of this Conference the results obtained under the present weather telegram system prove that
+storm centres pass from west to east over Australia and New Zealand at such a rate as permits of important
+telegraphic warning being given of approaching gales; and that it is of very great importance so to extend
+and°complete this system, that it may include all Australia and New Zealand.
+154. In the discussion upon the above resolution, Mr. Russell, Mr. Todd, and Dr. Hector detailed
+minutely numerous and well-marked instances of the facts upon which the resolution was based. ( Vide
+155 On the motion of Dr. Hector, it was resolved unanimously : —XLY. That additional barometer
+stations be established in the interior of Australia, with the view of tracing the latitude of passing storm
+centres
+156 On the motion of Mr. Todd, it was resolvedXLYl. That the Government of New South
+Wales be requested to communicate with the Government of New Caledonia, and that the Government of
+New Zealand be requested to communicate with the Government of Fiji, in order to obtain regular observa-
+tions from those countries. . , _ . . £ •-u a
+157. Dr. Hector stated that Mr. Holmes, a resident of Fiji, an able observer, had been furnished
+by the Government of New Zealand with a complete set of instruments, and had supplied statistics regularly
+since 1872, which had all been published. „ . . . ,
+158 Mr. Russell said that he had sent instruments to New Caledonia, with a request that
+observations might be regularly sent to him, but that these had ceased to be received after the first two
+months.
+Daily Weather Map.
+159. Mr. Russell proposed that a map, including Australia and New Zealand, be adopted for plotting
+the information upon for daily publication.
+Mr. Ellery submitted a specimen map. . .
+160. Dr. Hector said that it was necessary that upon any map used for this purpose the gaps m the
+mountain New Wales there was a meteorological pass of very great
+imperial which was a low place in the mountains at the head of the valley cut by the Hunter River,
+and stated that he could often see the storms coming from the other side of the range long before y
+reached Sydney. These disturbances came along the valleys, and passed out upon the coast at Port
+Mat "'"T ti On the motion of Mr. Russell, it was resolved :-XLVIL That the weather map-be upon the
+scale of the map submitted by Mr. Ellery ; that the projection to be used shalll * M -3andHew
+direction of the wind be indicated by arrows; and that the map shall include New Zealand, Fiji, New
+Cal ' Mr. Ellery should have proof maps struck off, which should be sent to the
+delegates, in order that each may put in the principal features of his colony.
+Tide-gauges.
+—a s s&HSHSs
+JVSI*. Sw. to '« «l.»t«a’ th. to to I™1«1 to "«»>« ot tho
+Conference as soon as the enquiry is completed.
+Standard Instruments .
+£££?£r^, d that the results of comparison should be sent
+on with the instruments.
+Conditions of Observation.
+the anemometer to be exposed near to, and upon the same eve v i ,> b reduced to a common
+169. Mr. Todd moved that all readings of the several instruments in use ne rea
+The consideration of this motion was deferred until the results of the experiments should be known.
+Form of Statistics.
+*•“ « ass*-*: w-rrf«i=s!sjss
+times of their occurrence. ( b .)
+
+
+(i b .) The temperature of the air at the same hour or hours, also the maximum and minimum.
+(c.) Wet bulb thermometer readings at same hour or hours, or the humidity.
+(d.) Amount and character of cloud, and upper current of cirri or high cloud.
+(e.) Direction and force or Telocity of wind.
+( f ) Rain during previous twenty-four hours, recorded at 9 a.m.
+171. It was agreed that 9 a.m. local time should be adopted as the common epoch of these
+observations.
+172. During the discussion on the above resolutions Mr. Russell asked Mr. Ellery whether in his
+experience so many as 1 per cent, of cases occurred where the maximum temperature of the day occurred in
+the morning before 9 a.m. Mr. Ellery having replied in the affirmative, Mr. Russell expressed a doubt
+whether the cases were numerous enough to make their record of any value, and his conviction that that
+value would never compensate for the disadvantage of heating the thermometers with a lamp at night when
+reading them.
+173. The suggestion contained in Mr. Todd’s notice of motion ( vide par. 65 c /3) that a maximum
+reading be taken at 9 p.m. was therefore rejected.
+174. On the motion of Mr. Todd, it was resolved:—Llll. That the chief stations at Melbourne,
+Sydney, Wellington, and Adelaide should, in addition to the foregoing, give maximum solar thermometer,
+and minimum on grass, hours of sunshine, and the evaporation read off at 9 a.m. and 9 p.m.
+Ozone.
+175. On the proposition contained in Mr. Todd’s notice of motion, that ozone observations be made
+at 9 a.m. and 9 p.m., Dr. Hector moved, Mr. Russell seconded, and it was unanimously resolved :
+LIY. That, on account of the uncertainty of the tests adopted to detect ozone, the continuance of
+observations on ozone be optional with each director.
+Hourly Readings at Principal Stations.
+176. Mr. Todd moved, —That in addition to the observations already resolved on, Melbourne, Sydney,
+Wellington, and Adelaide should publish hourly readings of barograph (reduced to 32° and sea-level),
+thermograph, and anemograph. The motion was negatived.
+Curve Sheets and Synopsis.
+177. On the motion of Mr. Todd, it was resolved :—LY. That (carrying out Resolution XIY. passed
+at the previous Conference) curve sheets with synoptic reports on weather should be exchanged monthly :
+it is recommended that these curves should show barometrical pressure at sea-level, temperature of air,
+direction and force or velocity of wind, and rainfall, and that the synopsis should be in sufficient detail to
+trace storms and other atmospheric disturbances. There should be a sufficient number of stations selected
+in each Colony to supply data for forming isobaric maps for every day.
+Adopted Mean Temperature.
+178. Mr. Todd moved, —That the adopted mean temperature should be deduced from the min., the
+9 a.m., the max., and the 9 p.m. readings, and that at the four principal stations this mean should be
+compared with the hourly means.
+179. Mr. Ellery, in reply to a question, stated that at his Observatory the mean was arrived at by
+taking the mean of all the observations of the day, and applying to it a correction deduced from the hourly
+observations.
+180. Mr. Russell preferred to have the max. and min. observations without any correction.
+181. Mr. Todd concurred with Mr. Russell, and explained that he read his min. at 9 a.m. and max.
+at 9 p.m. It of course occasionally happened in the summer that a lower temperature than the min.
+recorded at 9 a.m. was reached at a later hour during the same day when a southerly wind set in after a
+hot wind.
+182. Dr. Hector considered that it would be sufficient to take as the mean for the day the mean of
+the max. and min., as the thermograph gave all the intermediate variations. He much preferred morning
+readings to those taken in the evening.
+183. In deference to a general consensus of opinion, Mr. Todd consented to omit the recommendation
+of using the 9 a.m. and 9 p.m. readings in deducing mean temperature.
+184. Whereupon it was resolved : —LYI. That the adopted mean temperature be deduced from the
+max. and min. of the day read at 9 a.m., and at the four principal stations this mean should be compared
+with the hourly means obtained from the thermograph.
+Exposure of Thermometers.
+185. Mr. Todd moved, —That the exposure of thermometers be uniform, or, if that cannot be effected,
+the four principal stations, or one of them, should mount thermometers on each plan adopted by the other
+colonies and compare the readings on each kind of stand with the readings of a rotatory thermometer in the
+shade.
+186. Mr. Russell suggested that this would not be necessary if a thermometer were sent round for
+comparison.
+r - Ellei T remarked that the proposal might be referred for a report to be brought up with
+the further experiments to be made with swing thermometers, and the motion was postponed accordingly.
+Dry and Wet Bulb Thermometers.
+188. Mr. Todd moved, —That the dry and wet bulb thermograph readings should be compared with
+the readings of the standard or ordinary dry and wet bulb thermometers at 9 a.m., 3 p.m., and 9 p.m. and
+the readings of the thermograph should be referred to those of the ordinary dry and wet, or the corrections
+supplied. He suggested that this might be left to each person who had a thermograph.
+189.
+
+
+189. Mr. Russell enquired what was to be done with the thermograph registrations—were they
+published h
+Mr. Ellery and Mr. Todd replied that theirs were not.
+Dr. Hector said that he had never taken any.
+190. The motion was negatived.
+Rain-gauges.
+191. On the motion of Mr. Todd, it was resolved:—LVll. That rain-gauges be of one uniform pattern
+and size of receiving surface, viz., 8" in diameter, and that the height of the mouth of the receiver above
+the surface of the ground be stated in the published observations.
+192. In the discussion upon this resolution, Dr. Hector mentioned that he was in the habit of
+causing a small mound of earth to be raised, into which the rain-gauge was sunk up to within 6 inches of
+the lip.
+193. Mr. Ellery disapproved of the artificial knoll.
+Atmometer.
+194. Mr. Todd moved, —That the form of atmometer adopted at Adelaide be recommended. This
+consists of an outer tank of brick cemented, 4 feet square internal measurement, and an inner tank of slate
+or marble, 3 feet square or 3 feet in diameter, both tanks being filled with water to the same level. The
+amount of evaporation is read off by means of a float carrying a graduated rod and vernier divided into
+0-01 inch.
+195. Resolved:—LYlll. That the consideration of the best form of evaporator be deferred to the next
+meeting of the Conference.
+Form for Reports on Stations.
+196. Mr. Russell said it had been remitted to him to prepare some form in which the members
+should furnish a description of their stations. He produced form providing for—(l.) A description of the
+instruments in use at the Observatory, or on stations containing recording instruments ; (2.) The names and
+positions of stations having barometers and thermometers, &c. ; and (3.) The number of stations having rain-
+gauges, or rain-gauges and thermometers.
+197. Resolved :—LIX. That the form of return prepared by Mr. Russell for reporting stations and
+their equipment be adopted.
+Defective Max. and Min. Thermometers.
+198. Mr. Todd drew the attention of the Conference to a common defect in maximum thermometers
+received from Messrs. Negretti and Zambra. When these instruments were put into the ordinary approxi-
+mately horizontal position the column of mercury ran down two or three degrees, from the expansion of the
+aii’ near the bend of the tube.
+199. Mr. Russell said he had had much experience with these instruments, and had found that many
+were sent out in a defective state. He detailed the method of examination applied when thermometers
+were offered to him for sale, and stated that if they passed that examination they seldom went wrong
+afterwards. He suggested that Mr. Todd should return imperfect instruments to the makers.
+200. Mr. Ellery said that he formerly had much trouble with these instruments, but it had never
+occurred since he had obtained them through the Kew authorities.
+201. Mr. Todd remarked that he got most of his in the same way, but nearly all were similarly
+defective. To return them was practically impossible, partly because of the distance and partly because the
+goods were already paid for.
+202. After some further discussion, it was agreed that it would be best to draw the attention of the
+Meteorological Department of the Board of Trade to the facts, in order that the evil might be remedied.
+Estimates of Force, Ac., of Wind. — Anemometer.
+203. Mr. Russell again drew attention to the question whether the present mode of estimating the
+velocity of the wind where there was no anemometer should be continued, or whether some better means
+should be adoped.
+204. Dr. Hector considered that, for ordinary weather reporting stations, the estimates were sufficient.
+205. Mr. Todd placed very little reliance upon estimates, but feared that, at most of the stations, the
+instrument devised by Mr. Russell would be of little use, since the officer would seldom take the
+trouble to go out of the shelter of the building. At liglit-houses and such places he would be quite pre-
+pared to place a Robinson’s anemometer, and have it registered.
+206. Mr. Ellery said he proposed to try Mr. Russell’s form of Robinson’s anemometer at some of the
+light-houses on the coast, in order to test its value for measuring velocity of the wind.
+The Conference then adjourned to to-morrow at 10 o'clock.
+ROB. L. J. ELLERY.
+27/4/81.
+WEDNESDAY, 27th APRIL, 1881.
+Present :
+Mr. Ellery, in the Chair.
+Dr. Hector, | Mr. Russell,
+Mr. Todd.
+The Conference met at the Observatory at 10 o’clock a.m.
+The minutes of the last meeting were read and confirmed.
+Co-operation of Tasmania.
+207 Mr. Ellery drew attention to the fact that the communication from the Tasmanian Government,
+which the Conference had been informed would be made before the meetings terminated, had not
+received.
+
+
+208. On the motion of Dr. Hector, it was unanimously resolved :—LX. That the evidence before
+the Conference shows the paramount importance of obtaining the co-operation of Tasmania in Australian
+meteorology; and the Conference therefore requests Mr. Ellery, the representative of Victoria, to continue
+the steps he has already taken to secure the practical co-operation of that Government as soon as possible.
+Weather Maps.
+209. The method of securing perfect uniformity in the maps was discussed and agreed upon.
+Rain-gauges .
+210. Mr. Russell stated that it had come to his knowledge that rain-gauges were offered for sale and
+were actually sold, which had an error of as much as 10 per cent. ; and that he thought it desirable to point
+out to all persons interested in rain measurement the necessity for having accurate means of measurement.
+On this motion it was resolved :
+211. LXI. That this Conference, in view of the importance of, and general interest taken in, rain
+observations, recommend private observers to use none but certified 8-inch gauges ; and that each member
+of the Conference undertakes to certify to the accuracy of rain-gauges gratis.
+Sliding Scale for Reducing Barometrical Observations.
+212. Mr. Russell stated that during the past few months he had devised a sliding scale for reducing
+barometrical observations for weather purposes, a copy of which he submitted. In his experience it had to
+a great extent obviated the risk of error in reduction. Its use could be taken up immediately, only a few
+minutes’ instruction being required even by a person who had no knowledge of the ordinary forms of com-
+putation. A calculation had to be made for each station, and from its result a curve was plotted; this curve
+varied with the altitude.
+213. Mr. Ellery suggested that a series of diagrams might be constructed which should serve for all
+altitudes.
+214. Mr. Russell agreed that the suggestion was practicable, but had found that, for actual use, it
+was best to compute for each station and plot it with its name upon the scale so that it could be easily seen.
+215. Mr. Ellery enquired whether the index error of each barometer was indicated upon the scale.
+216. Mr. Russell replied that he had introduced that element, so that the diagram crave the reading
+corrected for index temperature and altitude.
+217. Mr. Todd stated that he had for each station a small card, upon which all the corrections were
+included for index error, altitude, and reduction to 32°.
+218. Mr. Russell said that in constructing the diagrams computations were made for 40° and 80°.
+219. Mr. Ellery said that in his opinion the method would be found as valuable as Mr. Russell’s
+hygrometric sheet had been, and the other members of the Conference agreed in approving of Mr Russell’s
+plan.
+Report.
+220. Dr. Hector moved, and it was unanimously resolved LXII. That the foregoing minutes be
+adopted as the Report of the Conference, and that the Chairman be requested to report them to the
+Government of Victoria, with a request that copies of them may be transmitted to the other Colonies
+~ , , 2 : l ', A ™ te „ thanks , *0 y r - Eller y for his services as Chairman, and for the accommodation
+afiorded to the Conference at the Observatory, was passed unanimously.
+The Conference then terminated.
+ROB. L. J. ELLERY,
+27th April, 1881. n r •
+r ’ Chairman.
+APPENDIX
+
+
+APPENDIX No. 1.
+Meteorological Stations in New South Wales, New Zealand, South Australia, and Victoria, with Standard
+or Corrected Barometers, Thermometers, &c., at which complete and regular observations are made.
+New South Wales.
+New Zealand — continued.
+Stations.
+Altitude in
+Feet.
+South
+Latitude.
+East
+Longitude.
+Stations.
+South
+Latitude.
+East
+Longitude.
+Altitude
+above Sea.
+Clarence River Heads
+Inverell
+Walgctt
+Bourke
+Annidale ...
+Gunnedah ...
+Tamworth
+Coonabarabran
+Port Macquarie
+Cobar
+Menindie ...
+Newcastle ...
+Bathurst ...
+Forbes
+Mount Victoria ...
+Sydney
+Wentworth
+Wollongong
+Hay
+Goulburn
+Wagga Wagga
+Cape St. George
+Milton
+Deniliquin ...
+Kiandra
+Moruya
+Albury
+Cooma
+Eden
+120
+1,953
+*456
+3,278
+925 ,
+1,271
+Deg. Min.
+29 28
+29 4S
+30 2
+30 3 |
+30 34
+31 1
+31 7
+31 16
+31 25 j
+31 32 I
+32 23 1
+32 55
+33 24
+33 27
+33 36
+33 51
+34 8
+34 25
+34 30
+34 45
+35 8
+35 12
+35 14
+35 32
+35 52
+35 53
+36 6
+36 12
+37 0
+Deg. Min.
+153 21
+151 10
+148 0
+145 58
+151 46
+150 15
+150 55
+149 18
+162 54
+145 50
+142 26
+151 50
+149 37
+148 5
+L50 1.")
+151 12
+142 0
+150 56
+144 56
+149 45
+147 24
+150 45
+150 20
+145 2
+148 32
+150 6
+147 0
+149 9
+149 59
+Dunedin ...
+Queenstown
+Southland
+Waitangi, Chatham Island
+Deg. Min.
+45 52
+45 2
+46 17
+43 52
+Deg. Min.
+170 31
+168 39
+168 20
+176 42
+Feet.
+550
+1,070
+79
+100
+South Australia.
+53
+112
+2,200
+1,120
+3,490
+155
+144
+67
+2,129
+789
+175
+320
+4,640
+50
+572
+2,637
+107
+Stations.
+Latitude.
+Longitude.
+Height above
+M.S.L.
+Port Darwin
+Daly Waters
+Alice Springs
+Port Augusta
+Adelaide ...
+Eucla
+Streaky Bay
+Cape Borda
+Robe
+Mount Gambier
+Cape Northumberland ...
+Strathalbyn
+Kapunda
+Deg. Min.
+12 28
+16 18
+23 41
+32 30
+34 57
+31 45
+32 50
+35 45
+37 10
+37 50
+38 5
+35 16
+34 22
+Deg. Min.
+130 51
+133 25
+133 37
+137 45
+138 35
+128 58
+134 12
+136 35
+139 42
+140 50
+140 40
+138 55
+138 57
+Feet.
+70
+750
+2,100
+10
+140
+7
+40
+506
+19
+130
+117
+220
+800
+Victoria.
+Stations.
+Latitude.
+Longitude.
+Height above
+Sea-level.
+New' Zealand.
+Stations.
+South
+Latitude.
+East
+Longitude.
+Altitude
+above Sea.
+Echuca
+Sandhurst
+| Omeo
+Ararat
+Upper Maccdon ...
+Killarat
+Gabo Island
+Melbourne Observatory
+Lakes Entrance ...
+Portland ...
+I Cape Schank
+Port Albert
+Cape Otway
+Wilson’s Promontory
+Deg. Min.
+36 7
+36 47
+37 6
+37 18
+37 23
+37 34
+37 35
+37 50
+; 37 52
+i 38 20
+; 38 28
+38 39
+38 54
+39 8
+Deg. Min.
+144 48
+144 17
+147 36
+142 58
+144 35
+143 49
+149 55
+144 59
+148 1
+141 35
+144 53
+! 146 41
+i 143 31
+| 146 26
+Feet.
+314
+758
+2,108
+1,050
+3,000
+1,438
+50
+91
+37
+277
+10
+270
+300
+Mongonui
+Auckland ...
+Taranaki ...
+Napier
+Wanganui
+Wellington
+Nelson
+Cape Campbell
+Christchurch
+Bealey
+Hokitika ...
+Deg. Min.
+35 1
+36 50
+39 3
+39 29
+39 56
+41 16
+41 16
+41 43
+43 32
+43 2
+42 41
+Deg. Min.
+173 28
+174 50
+174 5
+176 55
+175 6
+1 174 47
+173 18
+174 18
+172 39
+171 31
+170 59
+Feet.
+70
+258
+42
+14
+80
+140
+34
+7
+21
+2,104
+12
+APPENDIX No. 2. —(Vide paragraph 154.)
+The following extract from the Adelaide Meteorological Report for
+put in by Mr. Todd, and affords evidence of the easterly progressive motion of atmospheric disturbance .
+The mean barometer was about o'o6 inch to o'o7 b t ®}?T h * h i 7 a^ e ™f^^,Jg\ P m^inuin W (30’485l a I Adelaide on the
+high—or above 30—during the first half of the month, or till the 17th, | & h / 0 f the 20th, or 29 358 at
+9tl; and was below 30 from the 17th to the 29th reaching a ““uTSvK centre of till the 17th, and the
+Cape Borda on the morning of the 21st. The high pressure prevai pressure extended not only over the whole of
+records of other Colonies, as well as ships’ logs, show that to longitude 70° east, as vessels from the westward
+Australia, but far to the westward m the Indian Ocean probably e*en during the first half of May. It was
+report high barometer, one stating that it stood as high as 30 however it was only slight, not going below 30T ;
+broken by a depression between the 10th and 12th at Euc a, , ’ eter f e p f ro m 30-45 on the 9th to 29’78 at
+but more marked to the eastward, at Cape Northumberland, wher Springs in the centre of the continent. The
+midnight of the 12th and 13th ; the depression was also at C7-'t c P m^e nced generally on the 15th, setting in
+prominent barometrical feature of the month was the large dep > nuarter of an inch between the 12th and
+from the westward. Thus Perth, on the west coast, reports a falloi: about one and Tasmania on the 16th. By
+13th, but at Cape Borda the downward tendency did not commence south’of Cape Leeuwin on the 19th. The
+ships’ reports, the centre of this depression appears to have] passed abort=2oo on tl ? e 20 th ; Cape Borda, 29'358
+minimum pressure at Perth occurred also on the 19th, 29 381 , Eucla 2-9 3 , * P and Hobarti 29-05, about midnight
+at 3h. a.m. on the 2lst; Cape Northumberland, 29-401, at 3h. p.m. on t falling to 29’497 ; Wellington, 29’290 ;
+on 21st and 22nd. It reached New Zealand on the 25th, the barometer at Auckland tailing
+and Dunedin, 29 - 293. On
+
+
+On the south coast this depression was preceded by rains between the 13th and 14th, the wind being from the S.
+along the coast as far as Cape Otway, and S.E. and southerly with high seas to Cape Howe, to the north of which along the
+east coast the winds were W. and SAV., with a relatively low barometer, being four-tenths lower there than at Kangaroo
+Island On the 15th the S.E. winds reached along the south coast from Wilson s Promontory to Kangaroo Island, with
+clouded skies, whilst at Eucla it was N.N.E. and overcast, under the influence of the advancing depression. On the
+east coast the winds were S. and S.E., the weather being generally clouded from Sydney round to Eucla the
+barometer showing a rise of two-tenths at Cape Howe. On the 16th the wind was still from N.N.E. at Eucla, with falling
+barometer, but S.E. and easterly along south coast from Wilson’s Promontory to Cape Borda and southerly with heavy
+seas and rain on east coast; barometer steady then at Eucla. On the 17th wind still N.N.E at Eucla, E and S.E along
+south coast from Cape Howe to Kangaroo Island, and southerly with high seas and falling barometer on east coast,
+accompanied with rain. On the 19th the wind was from N. and N.E in fcouth Australia and along south coast to Mel-
+bourne : but on the east coast the general direction was westerly, with falling barometer and clear skies. On the 20th the
+wind was N.N.E. from Eucla throughout South Australia to Cape Otway and westerly on east coast the sky being
+clouded in South Australia and Victoria, also in the interior of New South W ales and along east coast. The north winds
+are maintained on the south coast, veering to the N. W. on the 22nd. W esterly through Bass s Straits and east coast on the
+22nd and with the exte nded area of high pressure prevailing during the first half of the month and the subse-
+quent large depression, the progress of which we have just traced, it may be well to call attention to a cyclonic disturbance
+to the west and south of the Mauritius, reported by Mr. Meldrun, as it seems not improbable that the disturbance just
+referred to here originated in the Indian Ocean, to the north of that island. T IQ *rn
+The following is extracted from the Monthly Notices of the Meteorological Society, Mauritius, 17th June, 1879,
+PagG Barometric depression of 25th April to 10th May, 1879 The mean height of the barometer on the 25th April was
+30*103 inches, from which it gradually fell to 30-043 on the 29th. On the 30th April and Ist May it recovered a little,
+but in the evening of the Ist it began to go down again, and continued falling till the sth, on which day its mean height
+was 29-895 It then began to rise, and on the 10th was at 30-033. The highest reading (corrected and reduced) was 30146
+at 9 a.m. on the 25th April, and the lowest, 29'862, at 3 p.m. on the 4th May.
+“ From the 25th to the 29th April the wind veered from S.E. to E. On the 30th it backed to S.E. x E., and then
+veered to N.E. on the 3rd May ; was light and variable on the 4th, from N.N. W. to W. on the sth and 6th, from W. to
+S.W. on the 7th, from W.S.W. on the Bth and 9th, and from the S. on the 10th.
+“ On the night of the 3rd to the 4th May there was a thunderstorm, and also some thunder and lightning throughout
+the 4th. From 9 a.m. of the 3rd to 9 a.m. on the 4th, 375 inches of rain fell at the Observatory.
+“ These atmospheric disturbances indicated the existence of heavy weather away to the southward and westward,
+and it is now known that on the 6th May two vessels, the J [aria Elizabeth and the Wayrien, were dismasted in about
+latitude 29° S. and longitude 53° E.” . „ .
+This last position, it will be seen, is about 420 miles E.S.E. of the locality given by the ship Windsor Castle on the
+4th, in the following paragraph, which would show the storm to have had a progressive motion of about 210 miles per day
+in an E.S.E. direction. .. ~ f „ r ....
+The ship Windsor Castle , from Port Pirie, in South Australia, to Antwerp, appears to have felt the full force of this
+storm on 4th May, in latitude 27° 10', longitude 45° 45' east, or about 200 miles south of Madagascar. The captain reports
+as o p or t Pirie roads (South Australia) on 13th March ; passed Cape Borda on the 19th. Had light S.E. trades
+across the Indian Ocean to latitude 27° 10' S., longitude 45° 45' E., when, on 4th May, was overtaken by a cyclone, which
+came on at the N. and veered by the W. to S.E. During this gale, and for several hours before its commencement, a
+mountainous sea was running from S.W. Had for four days previous hot sultry weather, with light variable winds. In
+the height of the storm the vessel was forced over on her beam-ends, and everything movable on deck washed overboard;
+two harness casks full of beef and pork, which were lashed under the topgallant forecastle for present use, were washed
+adrift, and their contents went overboard ; the carpenter’s tool chest, which was lashed in the same place as the cask,
+was stove in and some of the tools washed overboard ; the half-deck and galley doors 3tove in, and one of the iron posts
+wrenched off its hinges; the gig was floated out of her chocks and dashed against the lifeboat, both boats received damage;
+the force-pump was washed about the main deck and broken.”
+On the 18th of May the barque Elizabeth reports experiencing a storm in 118° E., lat. 39° S., the barometer falling to
+28*9 inches.
+The clipper ship Oberon, from England, on the same day, in long. 115° E., lat. 39° S., had a violent S.E. gale, the
+barometer falling to 21 16 on the 19th, having evidently sailed into the S.W. quadrant of the storm.
+The barque Alice Mary, from Port Louis, on the 18th, in long. 114° E., lat. 37° S., reports the wind to have veered
+to S.E., blowing a heavy gale with high confused sea. Fierce gale on the 19th, and the ship was hove-to from the 20th to
+the 23rd.
+The central depression passed therefore from the meridian of Cape Leeuwin to Hobart in about sixty hours, more or less,
+and had a mean velocity of about 26 miles an hour ; but the velocity increased as the disturbance advanced eastward, as
+between Cape Leeuwin and Eucla it moved at about the rate of 570 miles a day, 650 per day between Eucla and Cape
+Northumberland, and 960 miles per day between Cape Northumberland and Tasmania ; this increased velocity in the
+neighbourhood of Tasmania may be accounted for by the supposition that the area of low pressure then lying to the S. E.
+of Cape Howe in a great measure lessened the resisting medium in front. The storm off Madagascar had a velocity of
+about 210 a day, and assuming a gradually increased velocity to a mean of about 300 miles a day between the 6th and
+19th would bring it off the Leeuwin on the 18th or 19th. It seems not improbable, therefore, that the storms were identical,
+and that having passed southwards between Madagascar and the mainlands of Africa, it recurved to the eastward, traversing
+the Indian Ocean to Australia, on the south side of the area of high pressure, which, however, did not move bodily off the
+continent to the eastward, but gradually contracted and was dissipated ; thus we find on the 10th that the isobar of 30"4,
+which on the 9th embraced an area of about 800,000 square miles, extending from Melbourne to beyond Eucla, with an
+average breadth from N. to S. of about 500 miles, was restricted to an area of only some 20,000 square miles over the
+Riverina District of New South Wales, north of the Murray, Deniliquin being about the centre. It should be added that
+the barometrical depression which we have described as setting in from the westward, passing Perth on the 19th, was felt
+slightly on the north coast at Port Darwin, and was very marked in the centre of the continent, where, at Alice Springs,
+the mercury fell from 30 46 on the 15th, to 29 "72 on the afternoon of the 18th, remaining low till the afternoon of the 22nd,
+the barometer at all other times of the month being there over 30 inches.
+INDEX
+
+
+INDEX
+Paragraph.
+Anemometer—
+At Melbourne Observatory 84 to 91
+Conditions of observation ... ... ... ... 168
+Hand, form of 103-4, 203-6
+Standard ... 166-7
+Aspects of Australia ancl New Zealand redefined ... 127-139
+Atmometer ... /. 194-5
+Atmospheric Disturbances, Eastward motion of—
+Extract from the Adelaide Meteorological
+Report Appendix No. 2
+Australia, aspects redefined 136-9
+Barometer—
+Conditions of observation ... 168
+Fortin’s, used at Adelaide 38
+Sliding scale for reducing observations 212-219
+Standard 166-7
+Turning-points 25, 141, 170
+Co-operation of colonies in meteorology—
+Fiji 13,156-7
+New Caledonia 156, 158
+New Zealand ... ... ... 6
+Queensland 27,151-2
+Tasmania ... 1,51,207-8
+Western Australia 39
+General ... ... ... ... ... ... 153
+Epochs of observations—
+Western Australia, 7'30 a.m 39
+All other colonies ... ... ... ... ... 107-111
+9 a.m. local time to be common epoch ... ... 171
+9 p.m. additional in certain cases 174
+Evaporation—
+Epochs of observation ... ... ... ... 174
+Experiments on 67, 71-6, 95
+Measurement ... ... ... ... ... 194-5
+Experiments—
+Reports on ... 46,66-104
+To be reported on in the future :
+Atmometer ... ... ... ... ... ... 195
+Hand anemometer ... ... ... ... 206
+Standard instruments ... ... ... ... 166-9
+Swing thermometers ... ... ... ) ,
+Thermometers on stands ... ... ... \ '
+Tide-gauge ... ... ... ... ... ... 165
+Humidity, experiments on determination of 67, 70
+Isobaric analysis and maps —
+For February and March, in New Zealand, sub-
+mitted ... ... ... ... ... ... 11
+System adopted ... 113-126
+Map, daily weather ... ... 159-163, 209
+New Zealand, aspects redefined ... ... ... 127-135
+Ozone 175
+Rain-gauge—
+Dimensions and pattern ... ... ... ... 191-3
+Inaccurate 210
+Members will certify ... ... ... ... 21
+Reports of action taken on recommendations of former
+meeting—
+By Dr. Hector 4
+By Mr. Russell 25
+By Mr. Todd 34
+By Mr. Ellery 49
+Resolutions of former meeting reported ... ... 2
+Shade temperature—
+Experiments on 67-69, 77-82, 92
+Mode of observation ... ... ... ... 185
+Solar radiation (cf. thermometer) —
+Experiments in measurement of ... ... ... 67
+Hours of sunshine, epoch of observation ... 174
+, Paragraph
+Standard instruments 166-7
+Stations—
+Definition of first-class, altered 62
+Form of report on equipment 196-7
+In New South Wales ... 30, and Appendix No. 1
+In New Zealand 12, 16, and Appendix No. 1
+In South Australia ... 37, 42, 44, and Appendix No. 1
+In Victoria 50, 54, and Appendix No. 1
+Which are desirable in Queensland 151
+~ ~ interior of Australia ... 155
+Which shall furnish statistical diagrams ... 150, 174
+Statistics—
+Diagrams to be used ... ... ... ... 150
+Elements which should be included in ... ...150,170
+Forms of publication in use in—
+New South Wales ... ... ... ... 149
+New Zealand 4, 13, 18
+South Australia ... ... ... ... 35
+Victoria 49
+Monthly curve sheets ... ... ... ... 177
+Stations which shall issue diagrams ... ... 150, 174
+Synoptic reports, monthly,elements to be included... 177
+Telegraphic messages—
+Code for 140, 143-8
+Expense of—
+New South Wales 29
+New Zealand ... ... ... ... ... 14
+South Australia ... ... ... ... 40
+Tasmania 33
+Victoria... ... ... ... ... ... 52
+Form of—
+Under Resolution XVIII:
+New South Wales 31
+New Zealand 20
+South Australia ... ... ... .. 43
+Victoria ... ... ... 57
+To be used—
+By Tasmania (Resolution XXIV) 112
+To and from New Zealand... ... 113-126, 140
+Within Australia 141
+Payments for 105
+Precedence for weather telegrams :
+New Zealand ... ... ... ... ... 15
+South Australia 41
+Victoria... ... ... ... ... ••• 53, 58
+Urgently needed ... ... ... ... 142
+Temperature, adopted mean 178-184
+Thermometer (cf. shade temperature)—
+Conditions of observation ... ... ... 168,185-7
+Defective maximum and minimum ... ... 198-202
+Experiments with swing ... 46, 67, 69, 78, 83, 93-4, 185
+Solar radiation :
+Common epoch of observations ... ... 171, 174
+Conditions of observation 168
+Experiments 66, 67
+Irregular action of black bulb ... ... 96-102
+Mode of exposure 32, 45, 59, 168
+Standard 166-7
+Tide-guages—
+Cost of 165
+Desirable stations for 164
+In New Zealand, used for local requirements
+merely
+In Victoria 61
+Wind— Q
+Velocity and pressure of, experiments on 66-7, °4-yi
+Shift of, to be mentioned in telegrams 141

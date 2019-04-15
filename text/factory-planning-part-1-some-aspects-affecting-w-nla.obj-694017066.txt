@@ -1,0 +1,1913 @@
+
+
+FACTORY
+PLANNING
+PART I
+SOME ASPECTS AFFECTING
+WORKING CONDITIONS
+Commonwealth of Austratia
+DEPARTMENT OF LABOUR AND NATIONAL SERVICE
+
+
+
+
+FACTORY
+PLANNING
+PART 1
+SOME ASPECTS AFFECTING WORKING CONDITIONS
+BULLETIN NO. 8
+Industrial Welfare Division
+DEPARTMENT OF LABOUR AND NATIONAL SERVICE
+Commonwealth of Australia
+1945
+
+
+PUBLICATIONS
+Industrial Welfare Division
+DEPARTMENT OF LABOUR AND NATIONAL SERVICE
+BULLETINS
+1. Industrial Lighting
+3. The Australian Foundry, Working Conditions and How to Improve Them
+4. Planning Hours of Work
+5. Amenities in Wartime Factories
+6. Atmospheric Conditions in Australian Textile Mills
+7. Australian Textile Mills, A Guide to Good Working Conditions
+8. Factory Planning, Part I, Some Aspects Affecting Working Conditions
+MANUALS
+1. Planning Cafeterias for Australian Industry, Part I (Price 3s. 6d.)
+2. Standard Recipes for Industrial Cafeterias (Price 10s.)
+3. Operating Cafeterias in Australian Industry*
+TECHNICAL REPORTS
+1. Dust Hazards in Australian Foundries
+2. Tetryl Dermatitis, Its Incidence and Control
+3. Some Observations, on Natural Ventilation, Air Movement, and Factory Design *
+BOOKLETS
+1. How to Reduce Absenteeism and Increase Production (Price 25.)
+2. A.B.C. of Factory Ventilation *
+3. Industrial Accident Records, Their Compilation and Use*
+LEAFLETS
+2. Oil Dermatitis: Cause, Prevention and Treatment
+5. The Clothing Trades, How to Provide Good Conditions
+6. Casualty Treatment in Wartime Industry
+7. Personnel and Welfare Officers in Industry: What They Do
+8. Working Conditions and Welfare in Food Processing Factories
+10. Course of Training as Personnel and Welfare Officer in Industry
+12. Industrial Cafeteria Advisory Committees, Model Constitution
+Publications may be secured on application to the Department of Labour and National Service,
+Nicholas Building, 37 Swanston Street, Melbourne; Prudential Building, 39 Martin Place, Sydney;
+Bank of New South Wales Chambers, 2 King William Street, Adelaide; Alliance Assurance
+Building, 70 Eagle Street, Brisbane; Foy’s Building, 765 Hay Street, Perth; and Bank of Australasia
+Building, 29 Elizabeth Street, Hobart.
+*In preparation
+
+
+CONTENTS
+Introduction
+I. Lighting Page
+A. Daylight ... ... ... ... ... ... ... ... - 6
+1. Windows and Roof-Lights ... ... ... ... ... 6
+2. Avoidance of Glare ... ... ... ... ... ... ... 6
+3. Standards of Illumination 7
+4. Maintenance 8
+B. Artificial Lighting .. ... ... ... ... ... ... 8
+1. Quantity of Light 8
+2. Quality of Light 8
+3- Fluorescent Lighting 10
+4. Maintenance 11
+5. Planning Lighting Installations 11
+C. Colour ... ... ... ... ... ... ... ... - 11
+1. General ... 11
+2. Typical Recommended Colours ... ... ... ... ... 11
+11. Ventilation, Cooling and Heating
+A. General Basis ... 13
+1. Air Temperature, Relative Humidity and Air-Movement ... 14
+B. Ventilation ... „ - 14
+1. Natural Ventilation 14
+2. Mechanical Ventilation ... 16
+C. Cooling and Heating 18
+■ i 1. Evaporative Cooling ... ... ... ... ... ... 18
+2. Air Conditioning 19
+3- Heating 19
+D. Effects of Climate 22
+E. Removal of Dust and Fumes ... ... ... ... ... ... 23
+111. Lay-Out, Construction, and Equipment
+A. Lay-Out and Construction - 23
+1. Position of Amenities 25
+2. Traffic and Access ... ... ... ... - - 27
+3. Isolation of Processes 29
+4. Floors 29
+5. Walls and Roofs - 32
+6. Reduction of Noise ... ... - 32
+7. Accident Prevention 33
+8. Factory Grounds ... - - - - 34
+B. Items of Equipment 35
+1. Seating, Work-Benches, and Posture 35
+2. Drinking-Water 38
+
+
+
+
+PLANNING FOR ECONOMY AND EFFICIENCY
+IN POSE-WAR FACTORIES
+THE twenty-six million pounds spent in Australia on industrial buildings
+during the war years may yet prove to be one of the country’s best invest-
+ments. Far above the value to industry of much-needed modernisation of
+many of its factories, is the accumulation of knowledge and development of
+technical skill that can contribute much to post-war efficiency.
+The design of industrial buildings was not among the things to which
+competent technical attention had previously been given on a wide scale in
+this country. It had not, for instance, received anything like the attention that
+had been given to the development of industrial processes. In any case, the
+urgent demand of wartime production in five years afforded more oppor-
+tunities for experience than had occurred in the previous twenty years or more.
+There are few who would suggest that all features of the hundreds of
+wartime factory buildings were good; least of all perhaps the men who
+designed them and since have been able to observe them in operation. Time
+may show that some of the buildings were too costly for the industries they
+were to house, and that others were too cheap. There are also buildings which
+demonstrate all too clearly the fact that examples of industrial design which
+have gained approval in the United States or Great Britain do not necessarily
+prove satisfactory in the entirely different conditions found in Australia.
+The realisation of the climatic differences of the various parts of this
+country may alone mean enormous savings for Australian industry, both in
+capital outlay and operating costs. For the natural advantages of our climate
+afford excellent opportunities for developing to a much greater extent the use
+of natural light and natural ventilation, as well as contributing in other ways
+to the health and efficiency of factory workers.
+We are learning from our experience that factories can be designed to
+suit the needs not only of the process but also of the operative. It is in this
+direction that the greatest advance may be expected in the immediate post-war
+period, as architects and engineers join with production men to design factories
+with due regard to the fact that it is the men and women who work in them
+who will, in the long run, mean the difference between failure and success.
+This bulletin records Australian experience in some aspects of factory
+design affecting working conditions. It is based on technical investigation
+carried out in all States. Acknowledgment is made to the large number of
+manufacturers and others throughout Australia who, in a number of ways,
+have assisted in its preparation.
+R. G. BAXTER,
+Director.
+INDUSTRIAL WELFARE DIVISION,
+Department of Labour and National Service,
+Melbourne, October, 194 b.
+
+
+I. LIGHTING
+A. Daylight
+THERE are at present no simple for-
+mulas that can be used in designing
+industrial buildings to ensure satis-
+factory natural lighting, but considerable
+work is now being undertaken on this sub-
+ject. Pending investigations by the Stand-
+ards Association of Australia, and pub-
+lication of the results, some provisional
+standards can be recommended for adop-
+tion.
+1. Windows and Roof-Lights
+Most of the State Factories Acts require
+that every work-room should have win-
+dows or roof-lights opening to the external
+air. It is preferable that sufficient of these
+should be openable to comply with the
+requirements for controllable ventilation
+as referred to in Section II of this bulletin.
+In the interests of good natural ventila-
+tion, openable windows in walls are desir-
+able, even in factories where sawtooth or
+monitor roofs provide sufficient light.
+In the majority of modern factories with
+sawtooth lighting, it is common to find the
+glass area in the roof equal to 20 or 25
+per cent of the floor-area.
+In calculating glass areas, sill level
+should be assumed to be not lower than
+that of the working plane (usually at
+about 3 ft. 3 in. from the floor), and any
+glass below that level should be dis-
+regarded. The glass area should receive as
+much unobstructed light from the sky as
+possible; if any external object of appreci-
+able width extends above a line projected
+from sill level to 15 degrees above the
+horizontal, it should be considered an ob-
+struction, and the window area should be
+increased above the minimum to compen-
+sate for it. Where work-rooms are lit by
+windows in the walls (as distinct from
+overhead lighting from sawtooth and roof-
+lights), the window heads should be as
+near the ceiling as possible to ensure the
+maximum penetration of daylight into the
+rooms. It can generally be assumed that
+daylight will be inadequate at any place
+where the sky is not visible from the work-
+ing plane, or where the distance from the
+nearest window is greater than twice the
+height from floor-level to the head of the
+window.
+Messrooms, change-rooms, wash-rooms,
+water-closet and urinal compartments (or
+rooms containing water closets or urinals),
+casualty rooms and rest-rooms should have
+windows or roof-lights with a glass area of
+not less than one-tenth of the floor-area,
+but no window should be less than two
+square feet in area.
+2. Avoidance of Glare
+Direct sunlight inside buildings is warm
+and cheerful, but as workers usually can-
+not change their positions, it results in eye
+fatigue due to the high brightness of sunlit
+objects and the strong contrast between
+them and other objects in shadow. Win-
+dows in sawtooth roofs should, therefore,
+preferably be planned to face south.
+To take full advantage of natural ven-
+tilation, factory buildings in most parts of
+Australia should have openable windows
+on all sides, although narrow buildings
+having windows on two opposite sides
+have been found satisfactory when pro-
+perly orientated with regard to prevailing
+winds. Steps should be taken, however, to
+control and diffuse direct sunlight by the
+
+
+Fig. 1. The sawtooth roof in this machine-shop gives an area of glass equal to 22½ per cent of the floor-area.
+The clear height between floor and box gutter is 18 feet, and the height of the glass is 9 feet; each bay is
+40 feet wide. One-quarter of the total window area is openable. Windows in the walls increase the natural
+lighting of the outer areas, a space of 80 feet being maintained between all buildings on the site. Unit heaters
+are used to maintain a satisfactory working temperature in winter.
+Photo: General Motors-Holden’s Ltd., Fishermen’s Bend, Vic.
+screening of all windows exposed to the
+sun, particularly those facing north or
+west. This may be done by adjustable
+louvres, fixed slatted shades, external
+Venetian blinds, etc. Light-coloured trans-
+lucent blinds that pull up from the bottom
+will screen work-tasks near the windows
+from direct sunlight, without seriously re-
+ducing the penetration of daylight to the
+far side of the room from the tops of the
+windows.
+However, where windows are exposed
+to strong sunlight in hot weather the blinds
+should be outside, in order to shade the
+glass. This is an important factor in keep-
+ing down the air temperature inside a
+building. Care should be taken that the
+blinds do not obstruct the ventilation.
+It is desirable for work to be so arranged
+in relation to windows that workers will
+face neither the light nor sunlit external
+surfaces. Diffusion of sunlight by means
+of figured glass is not the solution to the
+glare problem, as the glass itself becomes
+dazzling.
+3. Standards of Illumination
+If, during fairly dull winter afternoons,
+the natural illumination at any place where
+work is done is lower than the minima set
+out in the Standards Association of Aus-
+tralia Code for the Interior Illumination
+of Buildings, 1 then artificial lighting
+should be installed in accordance with
+these requirements.
+2 As incorporated during wartime in the National
+Security (Standards of Lighting) Regulations.
+
+
+Fig. 2. Bands of direct sunlight from the roof would constitute a serious visual hazard, if exacting visual work
+were required, because of the strong contrast between sunlit objects and their surroundings. Buildings can be
+designed to avoid this.
+4. Maintenance
+It is important that structural arrange-
+ments are provided for cleaning windows,
+and give safe access to both sides of saw-
+tooth and monitor glazing. Ventilation
+systems can be planned so that fumes and
+smoke do not pass over the glass of'
+windows.
+B. Artificial Lighting
+Where artificial light is needed to sup-
+plement daylight or where night work is
+done, the following points should be
+observed:
+1. Quantity of Light
+Sufficient light must be provided for
+the work-task. This will vary from 5-10
+foot-candles for rough work up to 25-50
+foot-candles for fine and exacting work,
+according to a detailed schedule in the
+S.A.A. Code No. (E) CA 501—1942.
+Measurements can be made with a light
+meter, a small appliance used by most
+electrical contractors or merchants.
+Sufficient light must be provided on the
+surroundings as well as on the work-task.
+It has been found that the continual ad-
+justments of the eyes as they range be-
+tween brightly lighted work-tasks and
+gloomy surroundings result in eye fatigue.
+The S.A.A. Code, therefore, calls for il-
+lumination of surroundings to be not less
+than one-fifth of the illumination of the
+task itself, and in no case less than 5 foot-
+candles.
+2. Quality of Light
+Direct glare should be avoided from ex-
+posed lamps in working-areas and reflected
+
+
+Figs. 3 and 4. A comparison of these two photographs illustrates the effectiveness of light-coloured Venetian
+blinds in controlling and diffusing direct sunlight. Compare the strong, eye-fatiguing contrasts between the sunlit
+objects and those sections of the work-room in shadow in the top photograph with the evenly-diffused, comfort-
+able light in the photograph below. (The fluorescent fittings shown are not alight.) Pastel-coloured walls and
+ceiling are good reflectors. Low-temperature, electrical tubular heaters are arranged continuously under all benches.
+Photos: Vicks Pty. Ltd., Melbourne.
+
+
+Fig. 5. Production increased and accidents declined in
+this machine-shop following the installation of a well-
+designed system of lighting. 200-watt inside-frosted
+lamps give 12 foot-candles on the task. Light-coloured
+floors, walls and ceiling are a feature of this plant.
+Photo: Litchfield Engineering Co. Ltd., Adelaide.
+Fig. 6. Where continuous production depends on
+speedy, accurate seeing, eye-strain must be reduced to
+a minimum with good, comfortable lighting. In this
+spinning-room, fluorescent lighting gives 12 foot-
+candles of light without glare on the work-task.
+Photo: Bond’s Industries Ltd., Sydney.
+glare from smooth or polished surfaces.
+It is important that in working-areas all
+lamps should be fitted with properly de-
+signed reflectors or diffusing fittings, or
+otherwise shaded from view. Reflectors
+must screen lamps down to an angle of
+at least 20 degrees below the horizontal,
+and for lamps of 300 watts and over,
+mounted below 20 feet from the floor, not
+less than 30 degrees. Large lamps of 500
+watts or equivalent must not be used in
+open-type reflectors if mounted less than
+14 feet from the floor. Local lights that
+can be adjusted to different positions on
+machines should have a specially deep re-
+flector to screen the lamp from the view
+both of the operator and of those in the
+vicinity.
+Where diffusing fittings are used, direct
+glare will result if the area of diffusing
+glass is insufficient, or if the lamp is too
+close to the glass.
+Reflected glare is almost as fatiguing as
+direct glare, and can easily be avoided by
+the use of diffused lighting in place of
+open-type reflectors, when tasks on ma-
+terial of a shiny or glossy nature are being
+carried out.
+3. Fluorescent Lighting
+Special steps have been taken during the
+war to make fluorescent lighting equip-
+ment available to essential establishments.
+Equipment may be obtained from distri-
+butors for exacting visual tasks in work-
+ing-areas.
+The value of fluorescent lighting in pro-
+viding first-class seeing conditions has
+sometimes been reduced by the practice
+of installing the lighting fittings over
+machines, benches, etc., with no upward
+light to dispel the darkness of upper areas.
+This effect of gloom above should be
+guarded against, and if necessary auxiliary
+
+
+lighting installed to light the general
+surroundings.
+4. Maintenance
+Lighting systems should be maintained
+in an efficient condition. Illumination can
+easily be reduced to a small fraction of
+the original value if the lighting fittings
+and lamps are allowed to become dirty, if
+walls and ceilings become darkened, if
+burnt-out lamps are not replaced, or over-
+aged lamps are kept in use. Routine atten-
+tion can be given to these things, especi-
+ally to regular cleaning, which should be
+done at least every three months.
+5. Planning Lighting Installations
+In all factories where it is necessary
+to work in artificial light, the standards
+of the S.A.A. Code are recommended as a
+minimum.' Further information is set out
+in the Department’s bulletin "Industrial
+Lighting,” and technical advice regarding
+the planning of lighting installations is
+obtainable from electrical supply under-
+takings, architectural and engineering con-
+sultants, electrical contractors and supply
+merchants.
+C. Colour
+1. General
+The colour of walls, ceilings, machines,
+furniture, and work-surfaces is of great
+importance to effective lighting. Light-
+coloured surfaces reflect far more light
+than dark ones and so help materially in
+lighting the interior. Dark-coloured sur-
+roundings are not only depressing and
+gloomy, but also absorb much of the light
+which is paid for in the electricity ac-
+count. Dark-coloured surfaces contrast
+strongly in brightness with well-lighted
+work tasks and tend to cause visual dis-
+comfort and eye-strain.
+Ceilings are above the normal line of
+vision and should be painted white to get
+all possible benefit from reflected light.
+For walls, however, white is too glaring.
+They should be light in colour, and if
+darker dadoes are considered essential for
+maintenance, they should be kept as low
+as possible and reasonably light in tone.
+Large areas of strong colour, such as
+bright red, yellow, or green, should always
+be avoided. Floors are important reflectors
+of light, and should be kept reasonably
+light in colour. Near-white floors are some-
+times provided in factories where work
+has to be done on large underside hori-
+zontal surfaces, but should be avoided for
+most visual tasks.
+2. Typical Recommended Colours
+The principal paint manufacturers have
+adopted a range of ten typical recom-
+mended colours for interior industrial use. 2
+For easy identification they are known to
+the paint trade as C.I. ("Commonwealth
+Industrial”) Colours.
+There are six light colours (reflection
+factor 60 to 75 per cent), light grey, light
+green, light blue, buff, warm buff, and
+sunshine cream, and four medium colours
+(reflection factor 25 to 40 per cent),
+medium grey, medium green, medium
+blue, and medium tan. The light colours
+are used for walls and light-duty machines,
+the medium colours for dadoes, heavy-
+duty machines, and other surfaces subject
+to wear.
+Machines used in industry are generally
+painted black or dark grey with shining
+metal parts reflecting uncomfortable high-
+lights. Wherever practicable, it will be
+found an advantage to paint the main body
+of the machines C.I. medium grey, or C.I.
+medium green. Small machines, or ma-
+-2 These colours are reproduced in the Department’s
+bulletin "Industrial Lighting.”
+
+
+Fig. 7. Light colours help to provide a high level of illumination throughout the working-area. Compare the
+light-coloured machines on the right with the drab and light-absorbing effect of the machines on the left which
+are shown before being painted in the standard light grey. The wooden floor and clearly-marked passage-ways are
+a feature of this plant.
+Photo: General Potors-Holden's Ltd., Fisbermen's Beand, Vic.
+chines used on light-coloured goods may
+be very effectively painted in C.I. sun-
+shine cream, C.I. buff, or C.I. light green.
+Colour can also be used for identifying
+pipe lines and conduits, etc. [S.A.A. Code
+No. (E) CA 503] and for drawing atten-
+tion to fire-fighting appliances and other
+emergency equipment. For these purposes
+strong colours can be used but they should
+not be applied continuously, nor should
+they be so close to the work-task.as to be
+distracting.
+Paints with a semi-gloss finish are pre-
+ferable to full-gloss paints which are apt
+to reflect dazzling highlights. The latter,
+which are easier to keep clean, should be
+limited to areas where rough use makes
+them specially desirable.
+Most people recognise that light, clean
+surroundings have a better effect on the
+spirits than drabness and gloom. The use
+of C.I. sunshine cream or C.I. warm buff
+on the walls of a cold, sunless room can
+impart a sense of warmth; in an area
+where there are hot processes, C.I. light
+blue, grey, or green will suggest coolness
+and space and help to reduce the feeling
+of discomfort.
+
+
+II. VENTILATION, COOLING AND HEATING
+A. General Basis
+THE atmospheric conditions in a fac-
+tory have a marked bearing on the
+well-being of operatives and on the
+efficiency of production.
+The human body requires air to breathe
+that is sufficiently pure to prevent respir-
+atory health hazards and discomfort, and
+atmospheric conditions that will readily
+maintain normal temperature. Otherwise,
+loss of working efficiency, and greater
+liability to accidents will be experienced.
+An adequate supply of fresh air is essen-
+tial to prevent the accumulation of stale
+human odours and tobacco smoke, and
+also, by dilution, to minimise the transfer-
+ence of air-borne infection from person to
+person. Generally, these requirements are
+met when the average fresh-air supply is
+30 cubic feet per person per minute. In no
+position in a factory should the fresh-air
+supply be less than 20 cubic feet per per-
+son per minute.
+In naturally ventilated factories in Aus-
+tralia, an adequate fresh-air supply is
+usually obtained by compliance with the
+State Factories Act, which stipulates a cer-
+tain air-space per person, and the area of
+ventilators to be installed in the walls and
+roofs.
+The special measures which must be
+taken to avoid the contamination of the
+air by dust, fumes, or gases, are outlined
+later.
+Under normal conditions the human
+body maintains itself at a relatively con-
+stant temperature. It takes in fuel in the
+form of food and transforms it into heat
+and energy. The amount of heat produced
+is increased by die performance of mus-
+cular work; the more strenuous the work,
+the greater the production of heat. Con-
+stant body temperature is maintained by
+the dissipation of excess heat from the
+surface of the body.
+At low external temperatures the body
+loses heat from the skin and the clothing
+by direct contact or conduction and con-
+vection to the air, and by radiation to
+neighbouring objects. Heat can be lost by
+these routes only as long as the temper-
+ature of the air and of the surroundings
+remains substantially below that of the
+skin. As air temperatures rise, less heat can
+be lost by this means, until ultimately a
+state of equilibrium is reached at a tem-
+perature between 90°F. and 96°F. An
+increase in air temperature above this point
+results in the surface of the body gaining
+heat from the air. Evaporation of sweat
+from the skin almost entirely regulates the
+dissipation of heat from the body under
+such conditions, and maintains body tem-
+perature within normal limits. Loss of
+heat by means of the evaporation of sweat
+commences at air temperatures of about
+70°F. in the case of persons at rest or per-
+forming light work, and increases as tem-
+perature rises. It commences at a lower
+temperature in the case of strenuous exer-
+cise or heavy work.
+A danger point is reached when the
+body can’ no longer prevent a rise in its
+own temperature. Heat collapse and per-
+manent damage to the body may occur
+with high air-temperatures and humidities.
+Even before these conditions are reached,
+considerable discomfort is felt and human
+efficiency falls to a low value. Similarly,
+if the body is unable to generate sufficient
+
+
+heat to prevent its temperature falling
+below normal, discomfort and loss of effici-
+ency are experienced and serious physi-
+ological damage may be sustained.
+1. Air Temperature, Relative Humidity
+and Air-Movement
+The three factors affecting the rate of
+body-heat loss are air temperature, relative
+humidity and air-movement.
+The air temperature most suitable for
+operatives naturally varies with the kind
+of work being done. Higher temperatures
+should be provided for sedentary workers
+and lower temperatures where active phy-
+sical work is undertaken. The range of
+65°F. to 75°F. is most suitable for sedent-
+ary workers, the lower figure being appro-
+priate to winter and the higher figure to
+summer. For active work, 60°F., or even
+55°F. for heavy manual work, is recom-
+mended as the minimum temperature for
+winter conditions.
+Relative humidity is of little practical
+importance in winter, but in summer it
+influences the readiness with which heat
+may be lost through the evaporation of
+perspiration. Air that is very humid will
+not assist the transfer of heat from the
+body as readily as air of low relative
+humidity which has greater capacity for
+absorption of moisture.
+Air-movement has a great influence on
+the transfer of body heat, and thus on com-
+fort. Atmospheric conditions of high tem-
+perature and relative humidity may be
+offset by a high rate of air-movement.
+This rate should never be less than 20 feet
+per minute during cold weather, rising to
+a practical maximum of 200 feet per min-
+ute as the temperature and humidity in-
+crease, or even more in tropical climates.
+Air-movement does not necessarily imply
+a steady stream in one direction but is
+preferably an eddying or wafting motion
+which surrounds the body in moving air
+and so carries away the warm humid air
+from the skin.
+There are steps that can be taken to
+minimise the entry and accumulation of
+heat and moisture in the working-area
+during hot weather and to conserve heat
+during cold weather. The lining of walls
+and particularly roofs with heat-insulating
+material assists in modifying both summer
+and winter temperatures by reducing the
+rate of heat-flow in or out of the building.
+The heating effect of windows exposed to
+direct sunshine for many hours per day is
+decreased by provision of awnings, shades,
+solid-blade louvres, or blinds. These are
+more effective when placed outside than
+inside windows.
+The working-areas of many factories are
+made uncomfortable by the large quanti-
+ties of heat and moisture liberated by pro-
+cesses. In most cases the use of correctly-
+designed exhaust systems or heat-radiation
+shields will obviate this trouble.
+B. Ventilation
+1. Natural Ventilation
+During hot weather, advantage can us-
+ually be taken of the outside breezes to
+provide good ventilationv inside a building.
+This can be attained by opening doors,
+windows, louvres, roof vents, and other
+ventilators to permit the air to move right
+through the working-area.
+The effectiveness of this provision de-
+pends largely upon the width of the build-
+ing. In a wide building, or one with win-
+dows on one side only, outside breezes will
+be unable to penetrate the full width of
+the room and "stuffiness” may then be felt
+in inner areas, even when there are com-
+plaints of "draughts” from people close to
+the windows.
+
+
+Fig. 8. Adjustable glass louvres of this type were first used in Queensland and are now being widely adopted
+in other States. They make it possible to "open up the wall” to obtain full benefit of summer breezes, but can
+be adjusted to suit cooler conditions or closed tight in winter. Where openings are in one wall only, satisfactory
+ventilation and air-movement cannot be expected to penetrate more than about 30 feet into the work-room.
+Whenever natural ventilation is depended upon, special care needs to be taken to avoid internal walls and
+partitions that obstruct air-movement at the working-level.
+Photo: Maxam Cheese Products Pty. Ltd., Brisbane
+In general, it can be assumed that where
+any factory with windows on one wall, or
+on two contiguous walls only, is more than
+30 feet wide or with windows on both
+sides is more than 60 feet wide, the natural
+ventilation will require some mechanical
+assistance to provide sufficient air-move-
+ment in warm weather. This may be pro-
+vided by fans, punkahs, or other mechani-
+cal devices.
+A point often overlooked is that the pro-
+vision of internal partitions to offices, etc.,
+even when only to door-head height, will
+prevent the effective movement of air from
+open windows. A common mistake in plan-
+rung is to place a range of offices or lav-
+atories along the greater part of the out-
+side walls, thereby preventing windows
+from being used for ventilation of the
+working-area.
+In many industrial buildings in Australia
+the ventilation openings provided in ac-
+cordance with State Factories Acts are
+sufficient to maintain air purity, but are
+quite inadequate to provide good working
+conditions during hot or humid weather.
+Large areas of glass in walls are made
+fixed instead of openable, and ventilation
+openings are often located high in walls
+instead of low down. High-level openings,
+
+
+Fig. 9. Windows at bench height that open to permit a refreshing movement of air to circulate at the working-
+level of the operatives contribute to both comfort and efficiency in warm weather. Two-thirds of the area of the
+windows in this machine-shop may be opened or closed at will; the centre section of each window is designed
+to provide hopper ventilation in cold weather. A proportion of the windows in the sawtooth roof can also be
+opened when required.
+Photo: Stokes & Sons Pty. Ltd., Melbourne.
+such as those in sawtooth roofs, will not
+by themselves create sufficient movement
+of air to give comfort at the workers’ level
+in warm weather. Outlet ventilators in
+roofs are of little value unless adequate
+inlet ventilators are provided at a low
+level to permit circulation of air through
+the working-area.
+The provision of controllable ventilation
+openings at low levels in the walls allows
+the air to pass through the building and
+provide suitable air-movement round the
+workers. Half the area of these airways
+should be between floor-level and a height
+of 7 ft. 6 in. from the floor, and so ar-
+ranged that there will be a passage of air
+across all parts of the building. The areas
+required vary with climatic conditions and
+are discussed later.
+The glass areas needed in walls and
+roofs, as set out under heading, "Day-
+light,” are in excess of the openable areas
+recommended for ventilation. However,
+the replacement of some fixed glass by
+openable windows would materially im-
+prove the ventilation of many factories.
+During winter the ventilation openings,
+except those required for the maintenance
+of air purity, may be closed to minimise
+heat loss and to reduce the air-movement
+in the working-area. Special attention
+should also be paid to the prevention of
+draughts.
+2. Mechanical Ventilation
+Where satisfactory natural ventilation
+cannot be obtained, or where better con-
+ditions are required than are obtainable by
+this means, consideration will be given to
+
+
+the installation of mechanical ventilation
+equipment.
+A mechanical ventilation system implies
+the use of various types of fans and associ-
+ated equipment to produce the exchange
+of air between the outside and inside of
+a building and the distribution of air
+within the building. Wnh such an instal-
+lation a definite quantity of air is delivered
+to or exhausted from selected points in
+the building, under complete control and
+independent of outside breezes or other
+variable factors.
+With the plenum system, air is drawn
+from outside the building and delivered by
+fan mechanism through ductwork to out-
+lets or registers in selected positions in
+the factory. The type and size of outlets
+are calculated to give suitable distribution
+of the air and rate of air-movement. By
+this means, the necessary volume of air
+is delivered where and how it is required.
+The air thus brought into the building
+finds escape through wall and roof open-
+ings. The system is most applicable for
+general ventilation of buildings for which
+natural ventilation is inadequate to pro-
+vide sufficient fresh air or air-movement.
+By the addition of air filters, comparatively
+dust-free air can be delivered into a
+building.
+An exhaust system is designed to with-
+draw a known volume of air from the ap-
+propriate points and to discharge this out-
+side the building in a suitable place. It
+may be installed to provide general work-
+room ventilation by inducing the volume
+of air exhausted to enter the building
+through doors, windows, and other open-
+ings and move across the working zone to
+the inlets of the exhaust system. In design-
+ing an exhaust system for general ventila-
+tion, great care must be taken to prevent
+the air from passing from the inlets direct
+to the outlets without moving through
+Fig. 10. Ideas about steel-framed windows have under-
+gone considerable change in the last few years. Fixed
+panes are now avoided except in air-conditioned build-
+ings. Modern windows for other industrial buildings
+provide a large proportion of openable sections, par-
+ticularly at low levels, to permit the circulation of air
+round the workers. Another lesson has been to avoid
+as far as possible the obstruction of light and air that
+results from placing amenity buildings, offices, and
+stores on the outer walls of working-areas.
+Photo: John Heine & Son Pty. Ltd., Sydney.
+Fig. 11. Refreshing air from the ventilating unit cools
+these operatives who are subject to radiant heat from
+the presser. The dampers and louvres give control
+of the volume and direction of the air delivery.
+Photo: Hilton Hosiery Co. Pty. Ltd., Melbourne.
+
+
+Fig. 12. Mechanical ventilation ensures comfortable air-movement in this building which is too wide for satis-
+factory natural ventilation. A plenum system operated by a centrifugal fan in the basement delivers filtered air,
+heated in winter, through a system of ductwork. The outlets are designed to distribute the air throughout the
+working-area. The roof lining used here assists not only in maintaining satisfactory temperatures, but also in the
+reflection of light from the sawtooth roof.
+Photo: Commonwealth Aircraft Corporation Pty. Ltd., Lidcombe, N.S.W.
+the working-area. Local exhaust systems
+are particularly applicable to the positive
+removal of fumes, odours, smoke, dust,
+heat, and steam from processing plant and
+restricted areas.
+Plenum &nd exhaust systems can be
+installed to operate together for the mech-
+anical supply and removal of the air so
+that the volume of air and its movement
+through the building are both under entire
+control.
+C. Cooling and Heating
+1. Evaporative Cooling
+The principle of lowering the temper-
+ature of air by evaporation of water is fre-
+quently applied in conjunction with a
+plenum mechanical ventilation system to
+obtain a cooling effect in a building.
+The applicability of evaporative cooling
+to a particular locality depends upon the
+summer temperature and relative humid-
+ity. In hot, dry areas many buildings are
+being cooled to the . extent of 15°F. to
+20°F. with comfortable relative humidity,
+desirable air-movement, and freedom from
+dust, by evaporative-cooling installations
+which do not involve heavy capital or run-
+ning costs. The effectiveness of this equip-
+ment decreases with increasing relative
+humidity.
+
+
+Fig. 13 Air conditioning to provide controlled atmosphere for high precision work in this tool room also
+maintains the comfort and efficiency of operatives in all seasons. Other modern features include a wooden floor
+well-spaced machinery and tool racks, and lined sawtooth roof. Machines, walls and ceiling are all painted
+in light colours, and diffused artificial light is provided by glass-steel reflectors. The good housekeeping appar-
+ent here is coming to be regarded as one of the signs of efficient management.
+Photo: Broken Hill Proprietary Co. Ltd., Newcastle, N.S.W.
+2. Air Conditioning
+Complete control of the atmospheric
+condition involving temperature, humidity,
+air-movement, and purity can be attained
+by means of air conditioning. The extent
+to which complete control is necessary
+depends on the purpose for which the con-
+ditioned zone is used. In some installations
+the temperature never varies more than
+plus or minus I°F. in summer or winter.
+An air-conditioning installation is fun-
+damentally a plenum ventilation system to
+which has been added a refrigeration plant
+to cool the air stream and reduce its
+humidity before delivery into the working-
+area. A heating plant is also usually incor-
+porated. The design of such an installation
+involves many technical and financial com
+siderations and should be undertaken only
+by an engineer experienced in this type
+of work.
+3. Heating
+During the years of war, when industry
+has been called upon for increased output,
+the need for more adequate factory heating
+has clearly emerged. In the past, many fac-
+tories have been inadequately heated by
+haphazard methods which result in dis-
+comfort, inefficient work, and high fuel
+costs.
+
+
+Fig. 14. The atmosphere and air-movement in the mule-spinning room of this Sydney textile mill are kept at a
+level satisfactory for both operative and process by air conditioning. The outlets in the ductwork are closely
+spaced and arranged so as to ensure a satisfactory distribution and rate of air-movement.
+As a winter measure, it may often be
+necessary to close controllable ventilation
+openings and other openings, apart from
+the fixed ventilators necessary for air pur-
+ity, in order to prevent draughts and the
+leakage of warmed air from the building.
+This will reduce the rate of air-movement
+and consequent rate of body heat loss.
+Care should be taken, however, that the
+air-movement does not fall below 20 feet
+per minute or a sense of stuffiness will
+result.
+Examination of factories in Australia
+has shown that many heating units are of
+unsuitable type and are incorrectly placed.
+This means that there is heavy and un-
+necessary wastage of heat and fuel, while
+the heating of the working-area remains
+unsatisfactory. The design of heating in-
+stallations for industrial buildings is for-
+tunately now receiving the attention of a
+number of Australian engineers skilled in
+this subject.
+As each installation requires consider-
+ation on its own merits, it is not practical
+to list the uses or methods of application
+of various heating systems. Where any of
+several systems can be employed to obtain
+satisfactory heating for a particular fac-
+tory, or section of a factory, the economic
+factor becomes the main consideration.
+The capital and running costs of each ap-
+plicable system should, therefore, be cal-
+culated so that the final design embodies
+the most economical means of obtaining
+successful results.
+The first step towards providing an
+effective heating installation is to design
+or perhaps adapt the building so that the
+heat losses by various routes are reduced
+
+
+Fig. 15. Unit heaters are used in this work-room to maintain temperatures at a level suitable for both process
+and workers. Lining the roof with insulating material reduces the cost of heating in winter months and reduces
+heat from radiation in summer. Loud speakers provide music at intervals throughout the day.
+Photo: Bradford Cotton Spinning Mills (Vic.) Pty. Ltd., Melbourne.
+to a minimum. This may involve lining
+roofs and frame-construction walls, pos-
+sibly with the use of heat insulating ma-
+terial, particularly for the roof. It may
+also involve steps to prevent the leakage
+of warm air and heat loss through un-
+insulated floors.
+The question of the lining and insula-
+tion of roofs and walls of industrial build-
+ings is one which may be expected to re-
+ceive increasing attention from Australian
+engineers and architects. From the point
+of view of winter conditions alone, some
+contend that in many parts of the country
+the days on which heating is necessary are
+few enough to offset the higher cost of
+heating uninsulated buildings.
+The economics of the question, however,
+involve consideration of summer condi-
+tions also. Properly designed insulation
+that cuts heating costs in winter can also
+play a part in reducing the cost of keep-
+ing temperatures down to an efficient
+working level in hot weather.
+In some overseas countries where sum-
+mer temperatures are not so high as in
+Australia, buildings housing hot processes
+are often purposely designed to assist heat
+loss through large areas of glass and un-
+insulated walls and roofs. While in cer-
+tain industries in Australia such buildings
+might prove satisfactory in winter, serious
+trouble might be experienced in summer
+due to radiant heat from the sun entering
+through unprotected walls and roofs.
+Naturally, the control of solar heat is a
+factor that has to be considered in relation
+to all industrial buildings in this country.
+
+
+D. Effects of Climate
+Great differences in climate between
+various parts of Australia make it impos-
+sible to set down recommendations equally
+applicable in, say, Ballarat, Kalgoorlie,
+and Brisbane.
+In Queensland, the industrial areas are
+largely confined to coastal towns where air
+temperatures do not reach great extremes
+either in summer or winter, but where the
+main problem is to offset the summer con-
+ditions of fairly high temperatures com-
+bined with high humidity. This condition
+can be relieved by providing adequate ven-
+tilation in summer with as many openings
+as possible in the factory. Fortunately, in
+these localities of high humidity there are
+usually cool breezes which help to transfer
+body heat to the atmosphere. When these
+breezes are allowed to blow through fac-
+tories, by providing adequate openings on
+opposite sides of buildings, they help to
+make conditions more comfortable. Con-
+trollable openings in walls should be not
+less than 15 per cent of the floor-area.
+Factories in these areas seldom require
+heating during the daytime.
+In New South Wales, the coastal areas
+below 2000' elevation have a problem
+somewhat similar to that of the main
+Queensland industrial areas, though in
+winter there is generally need for some
+heating during the daytime. Factories in
+these coastal areas should be constructed
+so that in summer the wall openings are
+not less than 10 per cent of the floor-area.
+In the upland parts of New South
+Wales, such as Lithgow, Bathurst, Tenter-
+field, Goulburn, and Orange, where tem-
+peratures remain low for several months,
+heating is essential for maintenance of
+satisfactory working conditions in winter.
+In summer, however, wall openings to
+provide good air-movement should be at
+least 10 per cent of the floor-area.
+In inland parts of New South Wales
+and Northern Victoria and on the gold
+fields of Western Australia, great extremes
+of temperature occur during the year. For
+instance, in many Riverina towns the aver-
+age temperature in the hottest month is
+over 90°F. and in the coldest month is
+below 40°F. Facilities for adequate heating
+in winter are essential and ventilation
+openings for use in summer should have
+an area at least equal to 10 per cent of
+the floor-area. Owing to the low relative
+humidities associated with high tempera-
+tures, evaporative cooling can be used with
+outstanding success. Insulation of build-
+ings assumes great importance in these
+districts where it is effective in both sum-
+mer and winter.
+In Victoria and Tasmania, daytime heat-
+ing is essential in winter, particularly in
+such cities as Melbourne, Launceston, Bal-
+larat, and Hobart, where there are long
+periods with low temperatures. In those
+areas, the openings in walls for summer
+ventilation should total not less than 5
+per cent of the floor-area.
+Factories in South Australia and the
+metropolitan areas of Western Australia
+generally have less need for daytime heat-
+ing in winter than those in Victoria and
+inland New South Wales, although in
+some inland towns in South Australia,
+such as Berri or Mt. Gambier, factories
+have similar heating problems to those of
+Melbourne and Geelong. Because of high
+summer temperatures, controllable ven-
+tilation openings should total not less than
+10 per cent of the floor-area.
+The percentages of controllable wall
+openings in relation to floor-areas recom-
+mended throughout this section are sug-
+gested as a tentative guide only. Climatic
+conditions are so variable that no hard
+and fast rule is possible. In all cases, how-
+ever, it is essential that the wall openings
+
+
+provided for natural ventilation, as ex-
+plained in an earlier section, should be so
+placed as to permit circulation of air
+throughout the factory at the level of the
+worker.
+In those areas where hot, dry winds
+blow freely into factories, they often have
+a .heating rather than a cooling effect. On
+some days it is better to shut a factory up
+as much as possible to prevent the heating
+effect of such winds, and use mechanical
+means to create air-movement. The fre-
+quency with which such conditions nor-
+mally occur in each locality will affect the
+necessity for this provision.
+E. Removal of Dust and Fumes
+The considerable expansion of Aus-
+tralian industry during wartime has
+brought into use a wide range of chemical
+substances whose toxicity is not well
+known. Moreover, special processes associ-
+ated with new manufactures have created
+health problems which did not exist in
+Australia before the war. For instance, cer-
+tain solvents, non-ferrous metals, and dusts
+from abrasive processes are a few causes
+of industrial health problems.
+Fig. 16. These well-designed hoods prevent the escape
+of steam and vapour from the paper-making machine
+into the atmosphere. Natural draught has been used
+in the hoods nearest to the camera while fans have
+been introduced to create a forced-draught exhaust
+in the three hoods at the end of the line. Photo:
+Australian Paper Manufacturers Ltd., Melbourne.
+Fig. 17. An individual exhaust system extracts dust
+from this pounder which could not be connected with
+the general plant system. Photo:
+Wonder-Welt Shoes Ply. Ltd., Sydney.
+Fig. 18. In this smith’s shop smoke and fumes are
+prevented from escaping by a well-designed hood
+which completely encloses the forge. The absence of
+smoke has also resulted in better natural light through
+clean windows and white walls. The shadow boards
+are an important feature of the good housekeeping.
+Photo:
+Broken Hill Proprietary Co. Ltd., Newcastle, N.S.W.
+
+
+Fig. 19. Linings to walls and roofs in frame structures help to control fluctuations of temperatures in winter
+and summer and their attendant troubles. The monitor type or double sawtooth roof in this building is
+lined with sheets of insulating material. The light coloured surfaces also help in good lighting.
+Photo: Cable Makers Australia Pty. Ltd., Liverpool, N.S.W.
+The protection of workers from indus-
+trial health hazards requires that precau-
+tions be taken to prevent dusts, gases,
+vapours, smokes, or other injurious im-
+purities from being inhaled in dangerous
+concentrations. Even if they do not con-
+stitute a health hazard, some of these sub-
+stances may be present in a form that is
+unpleasant or creates a nuisance and there-
+fore should be removed.
+The best method of doing this is by
+the maximum possible enclosure of the
+source of liberation of objectionable sub-
+stances by hoods or casings connected to
+properly designed mechanical-exhaust sys-
+tems. By this means they are collected and
+removed before they are able to disperse
+through the working-area.
+The design of efficient exhaust systems
+for particular applications involves skill
+and experience, for their types and ar-
+rangements cover an extremely wide
+ran g e . Many existing installations are in-
+effective through faulty design. Use should
+p e mac j e 0 f the services of an engineer
+with a specialised knowledge of this work,
+The Industrial Hygiene Sections of State
+Health Departments can supply extensive
+, f. . , •, , ; , ,
+data regarding industrial hazards and have
+.■ & 6 . . . ..
+a w^e ran g e 0 testing equipment ava i
+able. Whenever there is t es lg itest ou t
+about the effect on operatives of processes
+generating dusts, vapours, smokes, or
+fumes, scientific tests and information
+should be requested.
+
+
+III. LAY-OUT, CONSTRUCTION, AND EQUIPMENT
+A. Lay-Out and Construction
+AN efficient lay-out of a factory is of
+great importance in providing
+good working conditions. The
+planning of new factories or of alterations
+to existing ones is the special concern of
+architects and engineers who study the re-
+quirements of each project, and this sec-
+tion does no more than indicate some of
+the general principles involved.
+In the early stages of planning, produc-
+tion managers and plant engineers need to
+be in close contact with the architect and
+his consultants. This will ensure that the
+building plan is properly related to the
+production plan, that the building struc-
+ture is appropriate at every point for the
+processes it houses, and that the various
+services—electrical power and lighting,
+mechanical ventilation, compressed air,
+steam, water, wastes, etc., and also con-
+veyor systems are incorporated into the
+structural design.
+In modern factory planning the working
+out of the production-flow charts deals
+with the problems of a particular factory,
+but there are certain elements related to
+employee welfare that have a universal
+application. These include not only the
+major aspects of lighting and ventilation
+referred to in the foregoing sections, but
+also such matters as traffic ways, location
+of amenities, floor treatment, accident pre-
+vention, reduction of noise, etc.
+1. Position of Amenities
+Change- and locker-rooms are most con-
+veniently placed close to the direct route
+between the employees’ entrance and the
+working-area, with wash-rooms and toilet
+adjacent. Inconvenient location means that
+employees will not use them to their best
+advantage. Rooms of this sort, or offices,
+should not be ranged along the outside
+walls of a factory in such a way as to block
+off ventilation openings from the work-
+room.
+Very large works often have several
+amenities blocks in different parts of the
+factory, with some additional toilet facili-
+ties close to the work-place. Dining-rooms,
+too, require to be reasonably accessible, as
+well as properly lit and ventilated. It can
+be assumed that workers will not make
+full use of a dining-room that is more than
+300 yards from their work-place. Where
+there are several dining-rooms in a factory,
+they can be served efficiently by a central
+Fig. 20. When change-rooms. and locker-rooms are
+conveniently situated, they are used to greater advan-
+tage by the workers. Doors to men’s and women’s
+amenities blocks, which are beside the groups of
+workers, are situated between the entrance to the
+factory and the entrance to the work-room.
+Photo: Kraft Walker Cheese Pty. Ltd., Melbourne.
+
+
+Figs. 21 and 22. Increased production requirements have resulted in close collaboration between foremost pro-
+duction executives, engineers, and designers in applying experience gained here and abroad to the design of new
+Australian factories. Early consultation ensures that building and production plans are properly related, and
+that the building is adequate at every point for both the process and the workers who are to carry it out.
+In addition to lay-out plans, showing the flow of work and position of every machine, "three-dimensional
+plans” (scale models) are now being used to help solve problems in advance. In Fig. 21 the Director of the
+Beaufort Division (centre) discusses the lay-out of a factory extension with his Assistant Directors and Plant
+Manager. In Fig. 22 the plant engineer, senior lay-out draughtsman, and architect discuss the arrangement of
+machines in the plans for a new section.
+Photos: Beaufort Divn., Dept, of Aircraft Production, Fishermen’s Bend, Vic.
+
+
+Fig. 23. Wide, clear passageways, well defined by painted lines, warm wooden floors, light-painted machinery,
+good natural and artificial light, and unit heaters are features of this Victorian machine-shop. The low walls
+on the tool store (extreme left) and the wire-mesh partitions (extreme right) do not prevent cross ventilation.
+Recent investigations in a number of factories, however, indicate that buildings of this construction and these
+dimensions are too wide for effective ventilation in the Australian climate. One solution may be to assist air-move-
+ment at the level of the workers in those sections which are too far from windows and other low-level openings.
+kitchen that handles the major part of the
+food preparation. All these questions are
+dealt with in more detail in other publica-
+tions of the Department of Labour and
+National Service.
+2. Traffic and Access
+The development of a logical produc-
+tion-flow will ensure that cross traffic is
+reduced to a minimum, and that ample
+space is left for storage-areas so that these
+do not encroach upon traffic ways or work-
+ing-areas.
+Traffic ways need to be of adequate
+width for their purpose, properly defined,
+and kept clear of obstructions. A minimum
+suggested by a requirement of one of the
+State Factories Acts is four feet wide for
+main traffic ways and two feet wide for
+access passages to machines; but these will
+need to be considerably increased in many
+cases. Lines painted on the floor help to
+prevent encroachment on traffic lanes. If
+adequate space is always allowed for stor-
+age, passages that give access to fire-escape
+exits and stairways need never be used for
+this purpose, and can always be kept clear.
+(The width of aisles, fire-escapes, and exit
+doors should, of course, comply with the
+requirements of State Factories Acts.)
+
+
+Fig. 24. Wartime necessity has been responsible for considerable advances in the planning of Australian factories
+to permit the more efficient flow of production. The conveyor trolleys shown here have platforms and seats that
+are adjusted to suit the work carried out at each of the stations through which they pass on this fuselage line.
+The completed fuselage is transferred by electric hoist to the final assembly line (at left). Knowledge and
+experience gained in production planning, the design of ingenious jigs and fixtures, and ways of arranging work
+to reduce waste effort and fatigue may be expected to play an important part also in the maintenance of industrial
+activity in the post-war period.
+Photo: Commonwealth Aircraft Corporation Pty. Ltd., Fishermen’s Bend, Vic.
+Workers require sufficient space to per-
+form their various tasks without being
+cramped by their neighbours, or by the
+placement of equipment. Machines should
+be placed so that there is easy and safe
+access around and between them. Most of
+the State Factories Acts require 400 cubic
+feet of air space per person, which allows
+for each worker at least 28 square feet of
+floor-area with a ceiling height of 14 feet
+(which is the maximum allowed in most
+States for computation), and more if the
+ceiling is lower. Congestion, however, is
+less often caused by too many persons in
+one room than by the inconvenient placing
+of machinery and other equipment. The
+amount of elbow-room required by each
+worker varies with the type of work; for
+instance, while conveyor-belt workers may
+p e seate d as closely as at 2 ft. 6 in. to 3 ft.
+d i n . centres, most types of bench and
+machine workers require at least several
+f eet c | ear on either side of them for stack-
+- faw matefial and comp i et ed articles.
+I n factories where each work-task has been
+, , , . c ,, . „ ~, ,
+made the sub ect of motion study the
+. \ ... , . J .
+space required will have been exactly
+r .... A 1
+The development of modern conveyor
+systems, as well as the use of gravity-flow
+lay-outs, simplifies inter-factory traffic, and,
+
+
+Fig. 25. The arrangement of work so that everything required is within easy reach avoids waste effort and
+unnecessary fatigue. In this assembly task all the parts are arranged in a semi-circle within arm’s length. The
+ratchet screw driver is suspended on a spring directly above the assembly point. Fatigue-saving arrangements
+like those shown at this Sydney electrical engineering establishment are now being adopted in a number of
+Australian industries.
+by reducing unnecessary handling and lift-
+ing, leaves the operative with more time
+and energy to devote to productive tasks.
+3. Isolation of Processes
+Processes that give rise to dust, heat, or
+noise, should be considered in the early
+stages of planning, so that means for deal-
+ing with them can be incorporated in the
+building design, e.g., duct-work and
+special ventilation, insulating materials,
+etc. The emission of dust may be avoided
+in some cases by completely enclosing a
+process; or the emission of heat by sur-
+rounding the source of heat with insulating
+material. In other cases the source of dust,
+heat, or noise can be partitioned off, so as
+to limit the nuisance to as small a portion
+of the factory as possible. Elsewhere, it
+can be adequately dealt with by mechanical
+means, e.g., local exhaust ventilation. Each
+case must be dealt with on its merits; but
+it should be considered when the factory
+building is being planned.
+Electric welding and similar processes
+injurious to the eyes should be effectively
+screened from the sight of all operatives
+other than those immediately engaged on
+the work, who will be equipped with pro-
+tective shields or goggles.
+4. Floors
+The main requirements of factory floors
+are that they should have an even surface
+
+
+Fig. 26. Many difficult problems of lay-out peculiar to the industry have been overcome in this work-room by
+the good arrangement of mobile racks and by good housekeeping. Individual power to each machine, eliminating
+overhead belting, warm wooden floors, and fluorescent lighting are other good features.
+Photo: Wonder-Welt Shoes Pty. Ltd., Sydney.
+Fig. 27. The walls of this engine-testing room have
+been lined with sound-absorbent material that prevents
+the loud and sustained noise from reaching the adjoin-
+ing work-rooms. In this extreme case the operator
+has also been provided with a sound-proof com-
+partment. Photo:
+General Motors-Holden’s Ltd, Fishermen’s Bend, Vic.
+Fig. 28. The impervious floor in this Sydney food-
+packing plant is kept free of water by good drainage,
+The surface is even, but not so smooth as to be
+dangerous. Walls are tiled to head height and there
+is a cove at junction of floor and walls. Where work
+is done standing, it is the practice to provide properly
+designed duckboards or other insulation on the floor.
+
+
+Fig. 29. Strips of a special wood composition inkid in the concrete floor in front of these machines save the
+operators from fatigue and from standing on a cold, hard surface. They are recessed flush with the concrete and
+so cannot cause accidents through tripping the worker.
+Photo: H. B. Dickie Ltd., Melbourne.
+■without irregularities or changes of level,
+that they should be dry and easy to keep
+clean and do not become slippery under-
+foot, and that they should stand up to the
+traffic to which they are subjected.
+It is not possible to refer here in detail
+to different types of floors, particularly as
+some have been unobtainable during the
+war years, while others are still in the ex-
+perimental stage of development. But since
+experience has shown that the importance
+of suitable flooring has often been over-
+looked in the past, attention is drawn to
+the necessity of giving it consideration in
+the early stages of planning, especially
+where graded surfaces and drainage may
+be involved.
+For some factories, wood floor surfaces
+are most satisfactory; for others, and par-
+ticularly those in which there are wet pro-
+cesses, some form of impervious floor-
+finish with a non-slip surface is essential.
+Where any liquid is spilt from processes,
+or where water is used for cleaning, the
+floor should be graded to fall to floor
+wastes and gutters adequate to carry off
+all surface drainage. A gradient of 1 inch
+in 10 feet (1 in 120) has been found
+satisfactory in comparatively dry factories.
+Where floors are constantly wet, a steeper
+gradient and a harder surface may be re-
+quired, and the use of non-slip compounds
+in trowelled finishes, or of special non-
+slip floor tiles.
+With any type of impervious floor it is
+desirable to carry the floor finish up the
+walls to form a skirting with a cove of
+approximately l\ in. radius, so that clean-
+ing may be easy and efficient.
+
+
+Unnecessary fatigue is experienced by
+workers who have to stand on hard or cold
+surfaces, such as brick, stone, concrete, or
+steel. This can be avoided by providing at
+work-places floor surfaces of wood, mag-
+nesite, thick linoleum, asphalt, or similar
+material laid either as a part of the floor,
+or in the form of movable mats. To reduce
+the danger of tripping and stumbling,
+mats, duckboards, etc., should, where pos-
+sible, be recessed flush with the general
+floor-level. In any case they should be
+designed to stay in position at the work-
+place without shifting about, and should
+not project into traffic ways.
+5. Walls and Roofs
+In dealing with heating and ventila-
+tion, reference was made to the value of
+using materials with high insulating pro-
+perties in the construction of walls and
+roofs in order to protect the interior of the
+building from extremes of heat and cold.
+In winter, the internal wall and roof sur-
+faces of lightly constructed buildings may
+be several degrees cooler than the general
+air inside the factory. As heat is lost
+through these surfaces, the maintenance of
+working comfort requires greater heat
+input than would be otherwise necessary.
+Good insulation .means a reduction of
+heat loss in winter, with a corresponding
+reduction in the co.st of work-room heat-
+ing. It reduces down-draughts caused by
+cold surfaces, and in summer assists in the
+maintenance of efficient working condi-
+tions when outside temperatures are high.
+The use of frame construction without
+internal linings can seldom be regarded as
+wholly satisfactory. Unlined roofs transmit
+heat in summer, and in cold weather are
+a source not only of down-draughts, but
+also, in some cases, of condensation, which
+forms on the underside of the roof and
+drips on to the work below.
+Walls and partitions that are solidly
+constructed, or that incorporate good in-
+sulating materials, are also important in
+the reduction of noise, vibration, and the
+entry of dust.
+Flush internal surfaces, and the reduc-
+tion to a minimum of ledges, crevices, and
+exposed structural members, will simplify
+the maintenance of cleanliness. In factories
+where food is handled, the wall surface to
+at least six feet from the floor should be
+faced with impervious material that can
+be washed down.
+6. Reduction of Noise
+Extremes of noise and vibration can
+cause physical damage to persons subjected
+to them, and in a few industries disorders
+of this type have been recorded. There are,
+however, many industries wherein the
+noise produced may not result in physical
+damage, but is nevertheless responsible for
+much fatigue, inefficiency, and irritation.
+The amount of noise produced in certain
+areas has been measured in other countries,
+and figures have been compared on pro-
+duction, spoilt work, and absenteeism
+under conditions of uncomfortable noise
+and of comparative quiet. In some cases
+the improvement noted under quiet condi-
+tions was considerable. Generally, it ap-
+pears that the majority of manual workers
+become accustomed to continuous, regular
+noise even when it is very loud, but spas-
+modic noises cause a marked increase in
+irritation and distraction. Workers on
+mental tasks are more affected by noise
+than manual workers.
+It is desirable to reduce noise in fac-
+tories wherever possible, and to limit it
+to a small area. In doing this it is necessary
+to ensure that vibration is not transferred
+to the main building structure. As floors
+are usually the principal source of trans-
+mission, early consideration should be
+given to the mounting of machines, which
+may be on independent foundations with
+mastic jointings, on pads of material
+
+
+that will absorb vibration, or on
+bases with spring or rubber mountings.
+Air-borne noise can be reduced by the use
+of sound-absorbent material on walls and
+ceilings and by confining noisy processes
+as far as possible within sound-absorbent
+walls or baffles.
+The maintenance in smooth running
+order of all machinery used in production
+and also of trucks and trolleys will do
+much to reduce unnecessary noise nuis-
+ance. Rough and broken floors can also
+contribute to avoidable clatter, and to wear
+on wheeled equipment.
+7. Accident Prevention
+Good factory lay-out is an effective
+means of preventing accidents to em-
+ployees and damage to plant.
+In addition to conforming to the re-
+quirements of Factories Acts, allowance
+must be made for the proper handling of
+material and control of traffic within the
+factory. Analysis of industrial accidents
+shows that many take place when hand-
+ling and transporting material, and that
+falls are a major source of injury. Con-
+sequently the lay-out of aisles and traffic
+ways and care in the design of stairs,
+ramps, and floors generally are important.
+Doorways opening directly on to traffic
+ways are to be avoided as are blind cor-
+ners and intersections. It must be remem-
+bered that any condition that subjects a
+worker to discomfort or constraint during
+the working period is a breeder of acci-
+dents, most of which are caused by small
+lapses of care or attention which become
+dangerous in industrial surroundings. The
+employee who must work in a constrained
+posture or face a glaring light, or who is
+subjected to noise, heat, cold, or to irrit-
+ant vapour or dust is predisposed toward
+accidents both physically and mentally.
+Fig. 30. Where it is impracticable to isolate noisy
+processes much can be done by mounting machines
+on bases that absorb the vibration. The bench sup-
+porting these stocking seamers rests on rubber pads,
+which localise vibration and so retard transmission of
+noise. Photo:
+Hilton Hosiery Co. Pty. Ltd., Melbourne.
+Fig. 31. Many accidents occur while attention is dis-
+tracted from some easily recognised source of danger.
+The best method of prevention in such cases is to
+render the danger spot proof against inattention. The
+rails around this slag pit protect passers-by and nearby
+workers. Photo:
+Australian Consolidated Industries Ltd., Sydney.
+
+
+Fig. 32. Safe working practices can be made doubly
+effective by enlisting the interest of employees in
+accident prevention. The score board in the illustration
+is as important in itself as is the small group bonus
+it refers to. Displayed near the factory entrance it
+keeps alive a sporting interest in production without
+lost-time accidents. Photo:
+Rylands (Bros.) Pty. Ltd., Newcastle, N.S. W.
+Fig. 33. The white-kerbed lawns between these railway
+tracks are used by the mill workers during meal-
+breaks. The tracks and the path in the foreground are
+spread with crushed clinkers. What might have been
+an unsightly, dangerous, and dusty area has been
+made safe, pleasant, and habitable, and an aid to
+efficient operation. Photo:
+Lysaght’s Newcastle Works, Pty. Ltd., Newcastle,
+N.S.W.
+Strong contrasts in illumination are to
+be avoided between work-tasks and their
+surroundings, particularly where there are
+moving parts, and also at doorways and
+stair-landings.
+If hand-rails are provided on stairs they
+should be on both sides, otherwise traffic
+tends to keep to the one side. Proper per-
+manent gangways and ladders must be
+provided to give safe access to cranes, and
+the space at the foot of such ladders should
+be protected against traffic.
+Drinking fountains and notice boards
+should not be placed in traffic ways or
+where suspended loads are carried over
+them.
+There should be space to allow the load-
+ing and unloading of material and its
+handling in and out of machines without
+interference with adjacent employees.
+Proper facilities for the removal of
+waste products from machines are often
+even more important to the avoidance of
+accidents than the handling of the finished
+material. This is particularly so in the case
+of turnings, chips, and dusty, wet, or oily
+wastes.
+8. Factory Grounds
+There are still many factories where bet-
+ter use could be made of the unoccupied
+land within the factory boundaries. Road-
+ways are not always adequately planned,
+while free open spaces have been allowed
+to become junk-heaps. Roadways, cart-
+docks, and car-parks need to be properly
+graded and drained, and constructed for
+the type of traffic they are to carry. Sur-
+faces that do not produce dust, and are
+easy to hose down, such as concrete, brick,
+and asphalt, are particularly desirable out-
+side factories where cleanliness is import-
+ant to the process. It is in the interests of
+accident prevention that pathways should
+
+
+be kept in good repair, free from puddles
+and from cracked or broken surfaces, and
+that the grounds should be adequately lit
+after dark. Where a factory is built well
+back from the street and employees have
+to wait about for transport, some sort of
+shelter against bad weather may be needed.
+Racks or sheds for bicycles may also be
+required outside the factory at some con-
+venient point between the gate and the
+work-place.
+Wherever space permits, the preserva-
+tion of attractive natural features and the
+planting of grass, shrubs, and trees will not
+only do much to prevent dust nuisance but
+will also greatly improve the appearance
+of the factory and encourage a general
+appreciation of order and tidiness. How-
+ever small in area, gardens contribute to
+the workers’ health by attracting them into
+the open air and sunshine during meal-
+breaks. Garden seats and rubbish bins are
+essential items of equipment. Tennis courts
+and sports grounds will be used to capacity
+in large factories and wherever the social
+clubs are particularly active.
+B. Items of Equipment
+1. Seating, Work-Benches, and Posture
+Fatigue, which is one of the principal
+causes of accidents and spoilt work, is
+greatly affected by the posture of the
+worker, and work can be so arranged that
+strained or unhealthy posture and un-
+necessarily awkward movements are
+avoided. Wherever work can be done
+seated, there should be chairs, with backs,
+at the correct height for comfortable
+working. '
+For greatest comfort and efficiency a
+worker’s hands on machine operations
+should be a little above the level of the
+elbow; on bench operations at, or slightly
+below, the level of the elbows. Surveys
+Fig. 34. A few minutes spent in the fresh air and
+sunshine after the mid-day meal is good for health
+and efficiency. Grounds need not be large to be attrac-
+tive. This small, well-kept garden with comfortable
+seats with backs is appreciated and used to advantage.
+Photo: Eyelets Ltd., Melbourne.
+Fig. 35. Where employees cycle to work it will be
+necessary to provide some place where the bicycles will
+be protected from theft, damage and from the weather.
+Photo:
+Cable Makers Australia Pty. Ltd., Liverpool, N.S. W.
+
+
+Fig. 36. Fatigue is reduced on this pin-setting job by adjustable chairs with backs, and foot-stools, designed
+to Suit the various heights required for comfortable and efficient work.
+Photo: Yarra Falls Ltd., Melbourne.
+carried out in England and America have
+shown that the elbow height of the average
+woman worker is at 40 in. from the floor
+(for men 2 in. to 3 in. higher) and that
+70 per cent of workers fall within 1.5 in.
+of this measurement. From this it appears
+that when work is to be done standing the
+height of the bench should be 37 in. to 38
+in. for women, and 39 in. to 40 in. for
+men.
+Special adjustments may have to be
+made for those who vary from the normal
+to any extent. For short people it is easy to
+provide extra height in a standing plat-
+form. As it is important that the shoulders
+should not be raised when working, but
+should assume a natural relaxed position,
+special attention should be given to this
+point. Especially tall people may require
+the bench or machine set higher.
+Work that can be done alternately sit-
+ting or standing is least fatiguing and
+high chairs or stools with backs can be
+provided to suit the bench heights men-
+tioned above. There are many jobs now
+done standing at which the provision of
+seats would add to the workers’ energy
+and efficiency.
+Where workers can be seated at their
+work the seat should be of such a height
+that the relationship of hands to elbows is
+the same as when standing (l in. to 3 in.
+below the elbow level), and for this, seats
+will generally need to be 10 in. to 12 in.
+below the bench level. To allow room for
+the knees and feet, so that correct posture
+can be maintained, the edge of the bench
+should be no deeper than 3 in., and the
+space under it should extend back at least
+
+
+-9 in., preferably more. Care in providing
+a seat of correct height will be wasted,
+however, if it is not also made comfort-
+able, as the workers will themselves bring
+cushions or other padding. The seat itself,
+therefore, should be well curved, padded,
+or rounded at the edges, and not more
+than 14 in. from front to back and 14 in.
+to 16 in. wide. When it is more than
+18 in. from the floor, a foot-rest will
+be needed under the bench, and a foot-rail
+on the chair. The foot-rest should be wide
+enough’ to take the whole foot, and be
+tilted up at a slight angle. All seats should
+have backs (there are only a few. jobs
+where this is not possible), which should
+be curved to support the small of the back,
+and should be not more than about 10 in.
+wide so that the elbows can move freely.
+The ideal chairs are those on which the
+height of the seat and the height and posi-
+tion of the back are adjustable; but the
+important point to observe is that each
+worker’s chair should actually be set cor-
+rectly for the work. Very often inadequate
+seating can be adapted by the addition or
+alteration of backrests, by blocking up or
+cutting down the legs, and by the pro-
+vision of foot-rests.
+Good posture is an essential part of
+efficient operation, and workers should sit
+well back in the chair, erectly but not
+stiffly, with arms moving freely from the
+shoulders. Slumping in a chair will in-
+crease fatigue instead of relieving it.
+Although there are some jobs that can
+only be done standing or moving about,
+at many of them (such as in weaving and
+spinning mills, in packing, and on several
+types of machines) there are opportunities
+for sitting down while the work proceeds.
+In these cases at least one seat should be
+provided to every three employees, and so
+designed and placed that workers can
+Fig. 37. Accidents and spoilt work are kept to a
+minimum on this machine press by the provision of
+a comfortable, adjustable seat with back rest which
+reduces fatigue, and by the good guard which com-
+pletely encloses the task when the press comes into
+operation.
+Photo: Stokes & Sons Pty , Ltd., Melbourne.
+Fig. 38. Cold, thirst-quenching water is essential dur-
+ing hot summer months, especially in dusty processes.
+Where the normal water supply is not cold enough
+to be palatable, an ice-box cooler as illustrated here,
+or a refrigerated water fountain should be installed.
+Photo: Bedggood & Co., Pty. Ltd., Melbourne.
+
+
+readily make use of them. A chair with a
+back is desirable for this purpose, but the
+special points of design described above
+are not essential.
+2. Drinking-Water
+Clean, cool, and wholesome drinking-
+water should be accessible to all employees
+at all times. To avoid the infections that
+are very easily spread when a number of
+persons use the same cup or glass the in-
+stallation of water bubblers is recom-
+mended. It will usually be found a time-
+saver to have one in each shop or work-
+room, and, except in small factories, in
+each wash-room as well. Convenience of
+situation is usually the deciding factor, but
+as a general guide it is suggested that the
+minimum provision should be not less than
+1 to every 100 employees, and for hot
+industries, such as foundries, not less than
+1 to every 50 employees.
+The common type of bubbler, which
+throws, out a jet of water and is controlled
+by a spring tap, is usually supplied in a
+small bowl with a waste. Some authorities
+recommend that it should be fitted with
+a mouth guard, or fixed in a wall niche
+of such a shape that the mouth is pre-
+vented from coming into contact with the
+orifice. Mouth guards, however, are sel-
+dom satisfactory, and the possibility of
+infection lurking in the well-flushed rim
+of the orifice is fairly remote.
+Preferably, the temperature of drinking-
+water should be between 55°F. and 70°F.
+Where it rises above this temperature it
+is not palatable and workers tend to drink
+less than is desirable. Water temperature
+may often be prevented from rising by
+protecting pipes from exposure to the sun
+and other sources of heat. Where, in spite
+of this, it rises above 75°F., some means
+of reducing the temperature should be
+adopted.
+This may be done by means of a simple
+ice-box water-cooler in which the water is
+passed through a pipe coil under a rack
+in an insulated container supplied with
+block ice; or else by a drinking-water re-
+frigerator, gas or electrically operated,
+which is a little more elaborate. An evap-
+orative cooling device, of which the water
+bag is the best known and most primitive
+example, may prove successful in reduc-
+ing water temperatures, particularly in
+dry, windy areas.
+In hot or heavy industries where workers
+sweat freely, salt tablets are necessary and
+are preferably supplied by means of a
+dispenser fixed near the drinking-water
+supply.
+
+
+EXCHANGE OF INFORMATION
+and
+Technical Data Sheets
+THIS bulletin contains the pooled ideas and experience of a considerable
+number of Australian manufacturers, engineers, and architects, many of
+whom have collaborated in the working out of problems affecting working
+conditions and efficiency in Australian factories, and have offered freely to share
+their experience with others.
+It is likely to be a considerable time before the last word is said on any of
+the aspects of industrial building design referred to in these pages. Each of
+them is now, or in the near future will be, the subject of investigation by
+technical officers of the Department of Labour and National Service.
+Other aspects barely touched upon in this bulletin, like the arrangement of
+processes in such a way as to employ buildings of a type and shape that take
+fuller advantage of Australian climatic conditions, are now receiving the skilled
+and imaginative attention of production men in a number of industries. These
+men may be expected to have interesting things to report from time to time.
+The move to exchange, information may be expected to gain impetus in the
+post-war period as it is realised that all who are interested in maintaining
+industrial activity in Australia stand to gain much from anything contributing
+to the increased efficiency of each industry.
+Already large firms with considerable technical resources have undertaken
+to make blue prints and technical data freely available and in turn have displayed
+a readiness to accept and try out new ideas.
+In addition to Departmental bulletins and reports on various aspects of the
+welfare of industrial workers, it is proposed that technical Data Sheets will be
+be issued at frequent intervals dealing with details of industrial building design
+related to the improvement of working conditions and efficiency.
+Appropriate acknowledgment will be made of the source of any infor-
+mation supplied to this Department for publication and distribution in this way.
+
+
+NOTES
+G. W. GREEN & SONS PTY. LTD.. MELBOURNE
+
+
+
+

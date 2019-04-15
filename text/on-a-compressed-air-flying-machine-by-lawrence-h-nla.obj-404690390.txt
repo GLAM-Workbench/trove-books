@@ -1,0 +1,467 @@
+
+
+ON A COMPRESSED-AIR FLYING-MACHINE.
+By Lawrence Hargrave.
+[With Three Diagrams,]
+[Read before the Royal Society , N.S.W., June 4,1890.']
+ie> i ou.
+
+
+
+
+
+
+ON A COMPRESSED-AIR FLYING-MACHINE.
+By Lawrence Hargrave.
+[With Three Diagrams.]
+v
+[ Rea/ 1 before the Itoi/al Social' jV.S.W., June 4,1890.'}
+Considerable satisfaction is felt in recording a material advance
+since August 1889, in the development of the detail of flying-
+machines, and in the direct proof by experiment that yet another
+form of apparatus flies with ease. The principle embodied in this
+experiment is that of Borelli, published in 1680, and it doubtless
+has had many staunch advocates in later times; but the writer
+maintains that this is the first practical demonstration that a
+machine can, and does fly by the simple flapping of wings ; the
+feathering, tilting, twisting, trochoiding, or whatever it be called,
+being solely effected by torsional stress on the wing arm.
+The combination of Borelli’s views with the results of work
+recorded in your proceedings has swept away such a mass of tackle
+from the machine that its construction becomes a ridiculously
+simple matter. The engine of the model of course retains its
+position as the most important part, and by continuous effort the
+number of pieces and the difficulties of construction have been so
+reduced that it is possible to make them by the gross at a cost that
+cannot exceed five shillings each. For instance the cylinder, usually
+the most expensive portion of an engine can be produced with the
+ease and celerity of a jam-tin. The importance of this cheapness
+of manufacture may be realized when we consider that there must
+be many young mechanics who would willingly work at this branch
+of engineering, but for the difficulty of procuring or making a
+light and powerful motor ; such objection cannot now be made as
+herewith you have drawings showing the relative dimensions of a
+proved successful machine, and it surely will not be a laborious
+job to make others of greater range and power.
+As to the efficiency or rather the absence of it in this engine,
+let us take the centre of effort of the wings at two feet from the
+fulcrum ; their total area is L 5 square feet, and supposing from
+the indicator diagram that as many as forty double vibrations
+were made in twenty seconds, it is clear that a little over 300
+foot-pounds is all the flapping power used to drive a machine
+weighing 2-53 pounds a distance of 368 feet horizontally in a dead
+calm. Regarding the theoretical foot-pounds of work in the 144-6
+cubic inches of air at 2301bs pressure. Mr. Arthur Pollock of
+the Physical Laboratory at the University has ascertained for the
+
+
+writer that the work done by the 145 cubic inches of air at 2301b5.
+initial pressure above the atmosphere in 40 double vibrations of
+the engine, on the assumption that it expands approximately,
+adiabatically into the cylinder and at the end of each stroke
+escapes into the air, is 2,500 foot-pounds. If the adiabatic relation
+was fully realized the pressure in the receiver after the forty-third
+double vibration would be 3 2 lbs. above the atmosphere. As the
+final pressure by the diagram is really 501bs. at the end of the
+forty-third double vibration a correction has been applied to the
+above calculation.
+Mr. Pollock has also no doubt that the calculation of 300 foot-
+pounds for the work required to flap the wings is quite unreliable
+as it takes no account of the disturbances set up in the air, and
+he feels confident that very nearly 2,500 foot-pounds is spent in
+driving the machine. On the other hand the writer thinks that
+if the wings flapped up and down in the same place at every stroke
+the eddies created would be a waste of a further portion of the
+300 foot-pounds ; and if the 2,500 foot-pounds was really a applied
+to the air through the piston and rod, 5-7 double vibrations per
+second would be the result instead of 2 as there ai’e actually. We
+now begin to grasp the idea of how imperfect the motor is still,
+and what a trifle of thrust makes the machine fly.
+On the supposition that 7-32 ounces is the force resisting the
+motion of each wing, a similar wing was held rigidly by the butt
+and a weight of 7 - 5 ounces put on the membrane 24 inches from
+the fixed point and If inches abaft the wing arm ; the deflection
+produced due to torsional stress was 3|- degrees ; and even by
+moving the weight from If inches to 3| inches, that is half way
+across the wing, it was only twisted 8-£ degrees. So that only \
+of the 300 foot-pounds is actually used in pushing the machine
+forward, the rest being lost work. This suggests a wide field for
+experimenting with slow-burning rocket compounds and well
+proportioned direct-acting jets.
+The valve gear is thought to be a truly original invention, but
+surprise will not be felt if it comes into general use to see others
+claim and prove too, that it is quite common and has been known
+for years. The problem to be solved in its construction was to
+make the valve reciprocate when the piston was in two positions,
+at all other parts of the stroke the valve was to be stationary;
+the force that moved the valve was to be uniform and independent
+of the pressure in the cylinder, as from the nature of the case the
+cylinder pressure was decreasing. A slight variation makes this
+gear suitable for using the air expansively; the model shows it
+in its first form, from which it will be seen that three additional
+moving pieces are required for cutting off at half stroke, and two
+more enable us to do so instantaneously at any earlier point.
+
+
+This is not thought to be an extravagant number compared with
+the generality of expansion gears.
+The drawing shows the arrangement of parts clearly and the
+valve has only failed on one occasion when it was choked with a
+scrap of dirt or sand. The engine works if the valve is not held
+by either catch, but then the piston has not the full stroke. The
+catch that holds the valve in its lower position is too high up in
+the drawing, the steel plate into which the valve is screwed would
+knock against the catch instead of against the head of the guide
+bolt that regulates the travel of the valve. It will be seen that
+one catch is fast to the valve and the other to the valve cylinder;
+in the model exhibited both are on the valve cylinder, this does
+not alter the principle of the valve gear, it is an adaptation to
+suit this particular case. That thing like a string of beads
+in the drawing is a spring | inch diameter, made of steel music
+wire No. 8 ; it is soldered by the middle to the valve plate. Some
+of the failures of these vibrating engines have been due to the
+ports being too small, this is an error that might have been avoided
+by a little more elementary knowledge of engineering.
+The receiver ends and cylinder covers are pressed, but do not
+think for a moment that a fly-press is one of the writer’s laboratory
+tools, neither are the dies steel nor hardened. Any scrap of brass
+or iron is used for the dies if the size is suitable, and the disc for
+the proposed cover is cut out with the tin shears, a grip in the
+vice completes the operation unless a ragged edge has to be turned
+off in the lathe. The test pressure with water gives the required
+amount of dish to the receiver ends. The piston and junk ring
+are made of vulcanite, and the cup leather packing does away
+with the necessity for the cylinder being either round or parallel.
+The air-pump has proved itself a serviceable tool, it has a bent
+lever handle and long links on the principle of the Stanhope press
+so that the most powerful leverage acts on the cylinder full of air
+when it is reduced to its smallest volume. The valves are made
+very small and great pains were taken to reduce the clearances to
+a minimum. The ram is 11 inches diameter, and the stroke about
+inches. The suction valve is in the bottom of the ram, through
+which the air is drawn. The delivery valve seat is inch diameter
+and there is no water jacket to the cylinder. The receiver in
+Plates I. and 11., is charged in six minutes to 230 pounds, the
+pump is then warm. When the pump leather is in good condition
+a pressure of 400 pounds can be shown on the gauge. Should
+more high pressure air-compressing gear be required, a water pump
+will be used to force water into a large receiver to compress the air
+therein, thus avoiding the loss of power by the expansion of the
+air left in the cylinder and passages between the valves at the
+end of the stroke. It may be pointed out that even the air-pump
+
+
+is not a necessity for this class of investigation as the engine of the
+machine is an air-pump itself if its action is reversed and the wing
+levers are used as pump handles. This is a distinct advantage in
+using compressed air as a motive power which is not to be lightly
+ignored, as it is obvious that instances could be cited where coal
+mines, gas-works and water would not be available for restoring
+the power to the machine.
+Attention is called to the starting gear as being very simple
+and effective, it has a spring to the cock handle which opens it
+the desired amount when the toggle that keeps it shut is with-
+drawn ; the left wrist is passed through the becket of the toggle.
+This arrangement has never failed to produce a perfect start.
+It is thought that much useful work has been lost to us by
+experimenters loading their apparatus with devices to save them
+from damage, and artistic conceits to show where the passengers
+are to be seated in ornamental cars with flags &c. It should be
+remembered that flying machines are oidy to battle with the air,
+and not for knocking "down fences or ploughing u p the ground.
+It is not usual to proportion the scantling and plating of ships so
+that they will stand beating on rocks and sand, but only to safely
+resist the strains produced by the winds and waves. Perhaps
+much of the writer’s success has been due to the avoidance of this
+fault, although it is somewhat of a trial to see a month’s work
+knocked out of all shape in a moment.
+This last machine is the first departure from previous practice
+in this respect, as it has a stick lashed under the receiver and
+projecting about sixteen inches before the engine, so that when the
+machine comes to earth the stick is broken and the engine and
+receiver are less injured than they would be otherwise. There has
+been no material damage done although seven wrecks are recorded;
+on the eighth flight as is usual in a successful trial, the machine
+escaped with hardly a scratch. Some of the wrecks are believed
+to have 'been due to the centre of gravity being too high, so the
+sides of the body plane have been made to slope upwards ; this
+has the advantage of checking any tendency to slue by opposing
+some considerable lateral resistance.
+in spite of past experiences the percentage of area in advance
+of the centre of gravity has been made as much as 30 f o of the
+whole area, but continued disaster caused its reduction to 23 , 3 / /£:
+it is so difficult to force the mind to believe what seems unreason-
+able. In fact to show that a large part of the tail area is absolutely
+useless, a crossbow model of this machine, as it was at the seventh
+trial, seemed perfectly balanced, and yet when the paper surface
+A B C D, Plate 1., was cut out it was still in equilibrium
+although 41-8% of the area was in advance of the centre of gravity.
+There is much to be learnt here, it seems as if the centre part of
+
+
+the body is best removed as it only serves to conduct the air, the
+inertia of which has been overcome by the weight of the forward
+part of the machine, to the tail. Whereas if the middle of the
+body plane has been cut out the used air escapes upwards and the
+tail has a better chance of getting comparatively solid air to float
+on. The neglect of previous knowledge gained partly arose from
+reasoning that in calculating the area in advance of the centre of
+gravity the dividing line should be taken through the centre of
+gravity of the machine when wound up ready to fly, instead of
+through the mean centre of gravity; as in the india rubber driven
+machines it is moving forward as the bands contract.
+Another experiment was made that bears on this point of the
+continuity of surface. A stick and paper model for the cross bow
+had two surfaces, 10 inch by 10 inch, in the same plane, separated
+by a distance of 15 inches, with the centre of gravity in the middle,
+that is 7‘5 inches from either plane. This showed a slight inclin-
+ation to rise forward, but equilibrium was established by moving
+the centre of gravity only -72 inch from the geometrical centre.
+Every effort has been made to render this matter intelligible,
+and no pains have been spared in making the drawings perfect;
+but some apology is due to the members for their inferior repro-
+ductions in the last paper “ Flying-machine Memoranda,” which
+were not submitted to the author for approval.
+It is well known that publishing the results of experiments as
+they progress is not a course that most inventors would pursue,
+but the whole subject is thought to be so far-reaching in its effect,
+and the varieties of practicable flying-machines so numerous, that
+any attempt to secure a monopoly of the profits accruing from
+their construction would be a mean and selfish proceeding, and
+totally unworthy of consideration. The writer feels assured
+that if he should ever make flying-machines for sale his productions
+will be as well appreciated as any others ; and that the endeavour
+to strangle the work of others by patenting would only result in
+real progress being hampered by conflicting monetary interests
+and much ill feeling.*
+The use of paper as a material for the required surfaces is still
+recommended, damages are then so easily repaired ; there is no
+need to take much trouble in stretching it at first as after the
+* The writer thinks the act of invention to be a sort of inspiration,
+and a pleasure that the individual does not seek to be rewarded for
+undergoing ; it is followed by a greedy sensation or wish to obtain money
+from others without giving an equivalent. This results in the develop-
+ment of the invention by the ordinary work of drawing-board drudges
+and laboratory experimenters who are not generally permitted to share in
+the profits of a patent. Inventors will always invent, they cannot help it,
+•and you cannot stop them ; and a patentee is nothing but a legal robber.
+
+
+gum is dry, if a light spray of water is blown over the paper a few
+minutes suffices to make it as tight as a drum.
+It might be said that this flying-machine is not on the principle
+enunciated by Borelli, because the wings are not continuous from
+the tip to the body. But this is only a device to enable the wing
+tips to act on the required quantity of air with less spread; it
+may possibly be one of those variations that make all the difference
+between success and failure. These wings are also distinctly
+double acting, and it is not quite clear that bird’s wings thrust
+during the up stroke ; but, as previously stated the question as to
+the exact movement of a bird’s wing is merely straw-splitting
+when we have a mechanism that actually flies and is manifestly
+imperfect in mechanical detail.
+In the transactions of the Institution of Naval Architects, Yol-
+xxx., 1889, there is a paper by Beauchamp Tower, “On an
+apparatus for providing a steady platform for guns «fec. at sea.”
+The wheel revolving on a cup-bearing by tangential jets, and the
+vertical axial jet nozzle playing on to the passages to the rams
+(Tower has four rams, three would be better) is the germ of an
+automatic apparatus for steering flying-machines level.
+As an instance of the unreliable nature of thrust diagrams taken
+from the stationary machine, it may be mentioned that another
+screw-driven one has been tried, Plate 111. is the engine of it.
+When the blades are set at 20° pitch angle a high thrust is got
+■on the indicator, but the machine flies a very short distance ;
+when the blades are set at 45° a low thrust is shown by the
+indicator card, but the machine flies 50% further. Coupling this
+with the result obtained with the vibrating wings, it is reasonable
+to suppose that screw machines should have the blades set parallel
+to the screw shaft, and allow the pitch to be automatically adjusted
+by torsion. The blade surfaces of course being altogether abaft
+the screw arms. This is a matter for the consideration of those
+who prefer the screw to the flapping wings.
+Some may ask what is the use of experimenting in calm air when
+such a state of the atmosphere is exceptional. But the answer is
+that by patiently waiting for still air reliable data can alone be
+obtained ; and when we have the correct proportions of the
+machines none of the parts can be more strained by a gale of wind
+than by the lightest zephyr. The speed through the air does not
+vary, it is only the distance over the ground that is affected.
+It has long been thought that there would be a spice of
+in trying large flying-machines, but now it is known that i*
+experiments are conducted over water a ducking is the only risk
+involved, besides which the machine would be very slightly
+damaged.
+
+
+Discussion.
+Mr. Russell—l am one of those who admire the ingenuity
+and perseverance displayed by Mr. Hargrave in his attempts to
+produce a perfect flying-machine. I congratulate him upon the
+production of those ingenious models intended to copy the methods
+followed by nature to produce motion in various animal organiza-
+tions. I think it is greatly to his credit that he now willingly
+admits he finds after experiment that he can attain far better
+results with a simple form of mechanism than with that of a com-
+plex nature. He has introduced several important inventions in
+connection with his scheme, which in the case of most men would
+have been taken to the Patents Office without delay, but which
+he from pure love of science freely gives to the world as part of
+his flying-machine. I have much pleasure in proposing a vote of
+thanks to Mr. Hargrave for his interesting paper.
+The President —Mr. Hargrave has my best wishes for the
+success of his experiments. It would be a very gratifying thing
+if a really practical flying-machine were invented by an Australian.
+They say the proof of the pudding is in the eating, and the success
+of this invention will be proved when we see him fly across to
+North Shore (Laughter). I wish him every success.
+
+
+jSidt uieur
+. Journal Royal .Society NS. W. Vol XXIV. Made I
+Vibratory flying -machine.
+Total use.i<jfit {cha.rcj[ecL J 2’t)3 Its .
+Area, of th.*. todu 2.128 so. it^S.
+i . 1 j t ——
+!i •
+11 j 1
+! j! 5
+1 ! 1 - —11 ->
+_ S
+Area of tke. urinys 2/6 sy. ins.
+Total area 2344 Sy. ins .
+Area in advance of centre of gravity sy. ms — 23-3 yl
+j-— ■ ■■ ■» ——■ ■■ ■ • «->—
+X 31—-
+O 1 2 3 tftect.
+Scale.
+*
+v. s
+f X \
+X
+/
+/ ■ \
+/ \ \
+s f \ \
+\ V \ \
+\ \ \ /
+\ \ * V''
+\ \ \ ✓
+\ x \ O
+\ X \ *
+\ X V !
+\ X \
+\ \ \ 1
+\ x \ !
+\ \ \ 1 x
+s x \ 1 x
+\ x \ 1
+\ X \ !
+\ x v \
+'•A b
+\ V
+\ _Jy V .<>
+\ n fiz*; A n
+1
+z \
+—
+"— —_
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+f
+—
+*
+x
+) — IjP?)
+-T|
+If f stt % X
+/ X/ X
+7 \ s
+/ / 'V s
+/ x / / / 'X
+/ ' N v
+/ !
+' ' X
+X /
+/ "^X
+X / /
+X / / ■ X
+\ / / •' ,
+i
+' Centre ofyra. ini y
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+V
+\
+1
+_ c"
+\ / y
+/
+/J°__ - - ,
+/S?C.
+
+
+
+
+Journal. Royal Society NS.W.VoI .XXIV. Hale 11.
+Compressed-air £ apt re
+JDlumeler of the. <yyil.TS.der i. z, zn-S.
+Stroke IT in*-
+Cut-off for expans ion. . Till
+J.~)ia.metkr of the. receiver Ims .
+TCeiyht of engine. S~k oz -
+Ti/eiyhi of usirtys pood pope 5 oz ■
+Riston, speed Sins.per second -h
+Z enytA. duto -4-B+. cnis
+l{/&iykt aivito f9z crz -
+Test pressures 380
+Workiny pressure 230 t
+ends 'ff
+Zap of lonyiludtncol seams 6 p LrL
+Rtrenyth " “ /00 /o
+c£ur.
+cf apul
+itdiphl 2/ ~ oz..
+Turstmy slrenylA- 66q Uspr spin
+Capacity measure} /4-4.1 cuCtc ms
+Thickness of shell 32 mtU
+
+
+
+
+Journal Royal' Soapy NS.W.VoI JXIV. Plate 111.
+Cu dlfta, ly±<Xy/ML ffy u A /y /L St c /d
+
+
+
+
+
+

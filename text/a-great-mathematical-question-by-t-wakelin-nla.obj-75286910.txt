@@ -1,0 +1,518 @@
+
+
+pen-f ppw
+II 0 *5�
+A GREAT MATHEMATICAL
+QUESTION
+T. WAKELIN, B.A.
+GEORGE ROBERTSON
+MELBOURNE, SYDNEY, AND ADELAIDE
+
+
+1
+
+
+A GREAT MATHEMATICAL QUESTION
+There are in use two measures of force, and there are, very
+probably, but few mathematicians who did not think it strange
+at first that there should be two different measures for the same
+force. If a mass, as a cannon ball, is in motion, and we simply
+consider the body as a moving body, without regard to anything it
+may do, the force of the moving mass is usually measured by
+multiplying the weight of the mass in pounds by its rate in feet
+per second. This measure is called the momentum of the body.
+If the rate of motion be double, the momentum is doubled ; if the
+rate of motion trebled, the momentum is trebled. The same
+mass being taken, the momentum will vary exactly as the velocity
+varies. If the effect that will be produced by this same mass in
+motion is considered the measure of the force, that of the moving
+' o
+mass is not the same, though it is the very same force, perhaps,
+that produces it. Now, this will certainly seem at first sight
+strange to anyone. It cannot, however, be supposed for a moment
+that there are not good grounds for the difference. If the cannon
+ball had been moving vertically upwards, it would have risen
+to a certain height?that is, it would have overcome the action of
+the force of gravity through a certain distance, and it would
+then have come to rest. Let it be supposed that, on coming to
+rest at the height to which it rose, it was there secured. It is then
+seen clearly that a mass of iron weighing a certain number of
+pounds has been raised, in virtue of its motion, to a certain height.
+Now, it is asserted that if one pound be lifted one foot, a certain
+amount of work has been done; and that if one pound be lifted to
+
+
+a height of two feet, twice as much work has been done.FFurtherr r
+if eight pounds be lifted ten feet, eighty times as much work has
+been done as was done in lifting the one pound one foot high. In
+the same way, then, it is argued that in virtue of its motion the
+cannon ball did a certain amount of work against the force of
+gravity. The pound lifted a foot high is called a foot pound, and
+is the unit of measure of the work done. If the ball weighed ten
+pounds, and had risen to a height of 800 feet, 8,000 foot pounds
+of work would have been done in lifting the ball to the height
+stated. Now, it is found that if the velocity of the ball had been
+doubled, it would have risen, not to double, but to four times the
+height; and if the velocity had been trebled, it would have risen,
+not to treble, but to nine times the height, and so on. The work
+done, then, by the moving cannon ball will vary not simply as
+the velocity, but as the square of the velocity. This measure of
+a force of a moving body is called the measure of its kinetic
+energy. Taking the very same ball, it is asserted that
+(a.) The momentum varies simply as the velocity varies;
+while
+(b.) The kinetic energy of the same moving ball varies as
+the square of the velocity.
+Except to mathematicians thoroughly habituated to the use of
+this measure, it would not seem strange if this difference in the
+measure of the force of a moving body were questioned. Certain
+it is that the kinetic measure of force is only of a very modern
+origin, ?The attempt* to make the change (in the measure of
+force) was the commencement of one of the most obstinate and
+curious of the controversies which form part of the history of
+mechanical science. The celebrated Leibnitz was the author of
+the new opinion. In 1686 he published, in the ? Leipsic Acts,?
+? A short demonstration of a memorable Errour of Descartes and
+others, concerning the natural law by which they think that God
+always preserves the same quantity of motion, in which they
+pervert mechanics.?
+* ?History of the Inductive Sciences,? by the Rev. Win, Whewell,
+pages 68, 69, 70, vol. ii.
+
+
+? The principle that the same quantity of motion, and therefore
+of moving force, is always preserved in the world, follows from
+the equality of action and re-action; though Descartes had, after
+his fashion, given a theological reason for it. Leibnitz allowed
+that the quantity of moving force remains always the same, but
+denied that this force is measured by the quantity of motion or
+momentum. He maintained that the same force is requisite to
+raise a weight of one pound through four feet and a weight of
+four pounds through one foot, though the momenta in this case
+are as one to two. This was answered by the Abbe de Conti,
+who truly observed, that, allowing the effect in the two cases to be
+equal, this did not prove the forces to be equal, since the effect in
+this first case was produced in a double time, and therefore it was
+?consistent to suppose the force only half as great. Leibnitz,
+however, persisted in his innovation ; and, in 1695, laid down the
+distinction between vires mortuce, or pressures, and vires vivce, the
+name he gave to his own measure of force. He kept up a
+correspondence with John Bernoulli, whom he converted to his
+peculiar opinions on this subject ; or rather, as Bernoulli says,
+made him think for himself, which ended in his proving directly
+that which Leibnitz had defended by indirect reasons. Among
+other arguments, he had pretended to show (what is certainly not
+true) that if the common measure of forces be adhered to, a
+perpetual motion would be possible. It is easy to collect many
+cases which admit of being very simply and conveniently reasoned
+upon by means of the vis viva ?that is, by taking the force to be
+proportional to the square of the velocity and not to the velocity
+itself. Thus, in order to give the arrow twice the velocity, the
+bow must be four times as strong; and in all cases in which no
+account is taken of the time of producing the effect, we may
+conveniently use similar methods.
+? But it was not till a later period that the question excited
+any general notice. The Academy of Sciences of Paris in 1724
+proposed as a subject for their prize dissertation the law of the
+impact of bodies. Bernoulli, as a competitor, wrote a treatise
+upon Leibnitzian principles, which, though not honoured with
+
+
+the prize, was printed by the Academy with commendation. The
+opinions which he here defended and illustrated were adopted by
+several mathematicians; the controversy extended from the
+mathematical to the literary world, at that time more attentive
+than usual to mathematical disputes, in consequence of the great
+struggle going on between the Cartesian and Newtonian systems.
+It was, however, obvious, that by this time the interest of the
+question, so far as the progress of dynamics was concerned, was
+at an end; for the combatants all agreed as to the result in each
+particular case. The laws of motion were now established ; and
+the question was, by means of what definitions and abstractions
+would the facts be best expressed 1? a metaphysical, not a
+physical discussion, and therefore one in which the paper
+philosophers?as Galileo called them ?could bear a part. In
+the first volume of ? The Transactions of the Academy of St.
+Petersburg,? published in 1728, there are three Leibnitzian
+memoirs?by Hermann, Bullfinger, and Wolff. In England,
+Clarke was an angry assailant of the German opinion, which
+S?Gravesande maintained. In France, Mairan attacked the vis-
+viva in 1728 with strong and victorious reasons, as the Marquise
+de Chatelat declared in the first edition of her ? Treatise on Fire.?
+But shortly after this praise was published, the Chateau de
+Cirey, where the Marquise usually lived, became a school of
+Leibnitzian opinions and the resort of the principal partisans of
+the vis viva. ? Soon,? observes Mairan, ? their language was
+changed; the vis viva was enthroned by the side of the monads.?
+The Marquise tried to retract or explain away her praises. She
+urged arguments on the other side. Still the question was not
+decided. Even her friend Yoltaire was not converted. In
+1741 he read a memoir ?On the Measure and Nature of Moving
+Forces,? in which he maintained the old opinion. Finally,
+D?Alembert in 1743 declared it to be, as it truly was, a mere
+question of words; and by the turn which dynamics then took,
+it ceased to be of any possible interest or importance to mathe-
+maticians.?
+The following criticism of the controversy is from the pen of
+
+
+another writer. Several omissions have been made, because they
+were almost necessarily repetitions of some statements in the
+foregoing account;?? At the end of the seventeenth century a
+remarkable discussion * took place on the question of the
+mechanical interpretation of the vis viva. Leibnitz first gave this
+name To take the simple case which was mostly
+appealed to : if two equal weights be thrown up in vacuo, the one
+with a velocity double of that of the other, it is well known that
+the one will rise, not twice, but four times as high as that of the
+other. Accordingly, Leibnitz considered that the force which
+produces double the velocity is four times as effective as the other
+force And the controversy continued until the
+publication of D?Alembert?s work on ? Dynamics,? in which the
+question is treated as being purely one of words. It was objected
+to the opinion of Leibnitz that, though the double velocity would
+give four times the ascent, it ought not to be forgotten that it
+required twice the time; so that, in a given time, double the
+velocity would produce only double the ascent, one part of the
+ascent with another. This argument was never satisfactorily
+answered; and while we cannot help thinking that it ought to
+have been decisive of the question, we draw from it a conclusion
+different from that of D?Alembert; we cannot think the dispute
+a mere question of words When time is not an
+element, it may be, as in the case cited, that the measure of effect
+of a force is as the square of the velocity Without
+strict definition, the question may degenerate into a question of
+words What is meant by ?measure? and ?effect??
+But it ought to have been a question, what is the proper meaning
+of effect, in the expression ?effect of a force?? We have never
+met with anyone who could give us an intelligible account of the
+meaning of this investigation.?
+It cannot be supposed for a moment that this question, treated
+mathematically, is anything but an intricate one. If, however,
+the principle only were considered, and the question were treated
+simply as a question in mechanics, then, r whatever might be the
+* ?Penny Cycloptedia,? Article ?YisViva.?
+
+
+solution, it would be an easier one. It is only proper, however,
+if not indeed necessary, to see by what means the measure of the
+kinetic energy of a moving body has been obtained. The first
+question that we might put here is, what is ?kinetic energy ?? or,
+more strictly, what is meant by ? kinetic energy,? and how is it
+measured ?
+? Energy may be defined as the power of doing work, or of over-
+coming resistance.* A charge of gunpowder possesses energy,
+for it is capable of doing work in being discharged. A complete
+account of our knowledge of energy and its transformations
+would require an exhaustive treatise on every branch of physical
+science, for natural philosophy is simply the science of energy.
+* ? ? ? If we raise one pound of matter through a foot, we
+do a certain amount of work against the earth?s attraction. If
+we raise two pounds through the same height, we do twice the
+amount of work, and so on for any number of pounds. Also, if
+we neglect the variation in the intensity of gravitation (for short
+heights this variation of intensity is insensible), the work done in
+raising one pound through two feet will be double that done
+in raising it one foot It is a well-known proposition
+in dynamics that if a body be projected vertically upwards in
+vacuo, with a velocity of v centimetics (or feet) per second, it
+will rise to a height which is found by squaring the velocity and
+dividing the product by twice g, where g represents the numerical
+value of acceleration produced by gravity in centimetre?second
+(or foot-second), units.? .... If a mass mof weight m g
+be projected vertically upwards, ? we must conclude that at the
+instant of projection it possessed % m v 2 units of energy. The
+direction of a moving mass m can be changed in any way by
+frictionless constraints. Hence we may say that if a body of mass
+m be moving in any direction relative to the earth, we have at
+disposal, in virtue of this motion, mv 2 units of energy.
+We know nothing about absolute motion in space.
+The energy which a system possesses in virtue of the relative
+* Garnett?s Article on ?Energy,? ?Encyclopaedia Britannica,? ninth
+edition.
+
+
+motion of its parts is called kinetic energy There is
+one form of energy which can be readily measured, and to which
+all other forces can be readily reduced?viz., heat.?
+By far the clearest writer on this subject that I have read is
+Balfour Stewart. He made the ? reason why ?so plain that a
+very brief study of the question soon pointed to the place where
+the fallacy, if any, lay. I hope the reader will, therefore,
+excuse me for giving at length his explanation of how the measure
+of kinetic energy is obtained.
+? Before proceeding* any further, let us attach a more definite
+idea to the word ? work ; ? and to enable us to do so we may call
+to our aid the all-pervading force of gravity, against the action of
+which our efforts are so frequently directed. Let us agree to consider
+a kilogramme raised up vertically one metre in vacuo against
+gravity as representing the performance of unit of work. It is
+necessary to say in vacuo, because, for example, if the weight be
+made of wood and the medium be water, it is evident that we
+perform no work by lifting the wood one foot higher in the water ;
+on the other hand, we should perform work by causing it to sink.
+A kilogramme raised one foot in vacuo against gravity is taken as
+unit of work performed.
+?Now, according to this standard, it is easy to perceive that the
+kilogramme raised two metres in height will represent the
+performance of two units of work; if raised three metres, the
+performance of three metres, and so on. Further, a weight of
+two kilogrammes raised one metre will denote two units of work
+done; and a weight of three kilogrammes raised one metre, three
+units, and so on. In fine, if the mass of matter be m kilogrammes,
+and if it be raised h metres against the force of gravity, which we
+may suppose to be the same for all points at the earth?s surface,
+then the work done = mh.
+? Let us study the action of this force of gravity in producing
+velocity. In order to do so, let us suppose that the metre and the
+second are our units of space and time, while our unit of velocity
+is represented by a body moving at the rate of one metre in a
+* Stewart?s ?Heat,? pages3ol-304.
+
+
+second, and our unit of acceleration is production of unit velocity
+by a force acting for one second. Under this convention the force
+of gravity, or g, will be denoted by 9.8, since, when a body is
+allowed to fall under the action of gravity for one second, it is
+found to have acquired the velocity of 9.8 metres in one second.
+If we consider how far this body has fallen in one second, in order
+to acquire this velocity, we shall find the distance to be 4.9 metres;
+and if, on the other hand, we project a body upwards with a
+velocity of 9.8 metres per second, it will rise against gravity 4.9
+metres in height. A kilogramme projected vertically upwards
+with the velocity of 9.8 metres per second is therefore capable of
+doing 4.9 units of work before it comes to rest.
+? Again, it is found that a body allowed to fall for two seconds
+under the influence of gravity will have acquired the velocity of
+19.6 metres in one second, and that during this time it will have
+fallen 19.6 metres. A kilogramme projected vertically upwards
+with the initial velocity of 19.6 metres per second will therefore
+rise 19.6 metres in height, and will do 19.6 units of work before it
+comes to a rest.
+?We thus see that a double velocity enables the body to do
+four times as much work. In fine, in order to find out how much
+work a body one kilogramme in weight projected upwards with
+the velocity v is capable of doing, we have only to ask how high it
+will rise. This will be given by the following formula ;
+Height of ascent or work done (v X v) ; 19.6.
+? A little consideration will show us that it is not necessary for
+the body to be moving with this velocity vertically upwards in
+order to be capable of doing this work; indeed, we have only
+selected the force of gravity as one of the most prominent forces
+against which work is done; but the moving body may like-
+wise be made to do work against a spring, or even by means of a
+single fixed pulley or otherwise it may be made to raise another
+body against gravity. In fact, taking the words ? work done ?in
+their most general sense, as representing space moved over against
+the action of any force, we see that the above formula will hold
+
+
+good without reference to the direction in which the weight is
+moving; and if we consider the kilogramme as denoting the unit
+of mass, we have the following general expression for the work
+capable of being done against any force by a body of mass m and
+velocity v :
+Work = (m X v?) \ 19.6,
+the unit of work being always the amount represented by raising
+one kilogramme one metre against terrestrial gravity, or the
+kilogrammetre, as this is termed. A body such as a kilogramme,
+moving with a certain velocity, may therefore be said to have a
+certain amount of energy stored up in it in virtue of this velocity.
+This energy is termed energy of motion, or kinetic energy.?
+Though it is not expressly mentioned by the writer of the fore-
+going that the time taken may be altogether neglected, yet it is
+implied in the explanation given. Thus, whether a body were
+raised- gradually and slowly to a certain height, or thrown up
+rapidly to that height, the work done would be the same. Pro-
+fessor Everett, however, expressly says, ? that the work done is
+independent of the time.?
+A great authority in mathematics, Mr. Routh, speaks very
+definitely on this point in the measure of the kinetic energy. He
+sa y S ; ?? It should be noticed that the work done* by given forces
+as the body moves from one given position to another is indepen-
+dent of the time of transit. The work is a space integral, and not
+a time integral.? He thus defines the unit of work:?? The
+theoretical unit of work is the work donef by a dynamical unit of
+force acting through a unit of space. The work required to raise
+the centre of gravity of a given mass?a given height at a given
+place?may be taken as the unit of work. English engineers
+use a pound for the mass and a foot for the height, and the unit
+is then called a foot-pound.? Further on, he says about the work
+done by the force of gravity ?? Suppose a weight mg to be placed
+at any height h above the surface of the earth. | As it falls
+through the height, the force of gravity does work which is
+measured by mg h. The weight has acquired a velocity v, half of
+* Routh?s ? Rigid Dynamics,? page 260. f Ibid., 263. J Ibid., 270.
+
+
+its vis viva is | m v l , which is known to be equal to mg h.? In
+another place he remarks upon the term used to express the force
+of a moving body?? Coriolis Helmholtz and others* have sug-
+gested that it would be more convenient if the vis viva were defined
+to be half the sum of the products of the masses into the squares
+of the velocities. But this change in the meaning of a term so
+widely established in Europe would be very likely to cause some
+confusion. It seems better for the present to use another name,
+such as kinetic energy,? If Mr. Routh?s formula for the work
+done be compared with that of Balfour Stewart?s, it will be seen
+that the two formulae are a little different. This difference is only
+?one in form, not one in reality.
+From the foregoing accounts it will be gathered?
+(l.) That the kinetic energy is the power of doing work.
+(2.) That the unit of work is the foot-pound.
+(3.) That a pound mass thrown vertically upwards will be
+brought to rest by the force of gravity at a certain
+height.
+(4.) That another pound mass lifted to the very same
+height, however slowly, will have had done upon it
+only the same amount of work.
+(5.) That various pound masses, projected upwards with
+various velocities, will rise to various heights, which
+will be proportional to the square of their velocities.
+{6.) That the heights in feet to which the different velocities
+would carry the pound masses are the measures in
+foot-pounds of the energies of the pound masses moving
+with their several velocities.
+(7.) That whatever may be the energy of a pound mass in
+motion, the energy of a larger mass having the same
+rate of motion will be simply greater in proportion to
+its mass.
+If a pound mass be projected upwards with a velocity of 32
+ieet per second, it will rise to a height of 16 feet, having been
+* Routh?s ? Rigid Dynamics,? page 271.
+
+
+Velocity.
+32
+Height.
+16
+Work
+16
+64
+64
+64
+96
+144
+144
+128
+256
+256
+160
+400
+400
+192
+576
+576
+brought to rest by the action of the force of gravity, and 16 foot-
+pounds of work will have been done. The kinetic energy, then, of
+a pound mass moving with a velocity of 32 feet per second is
+equal to 16 foot-pounds of work. A pound mass projected verti-
+cally upwards with twice this velocity?that is, with a velocity of
+64 feet per second, will rise to four times the height, that is, to
+four times 16 feet (or 64 feet), and will have had done upon it
+four times the amount of work. The kinetic energy, then, of a
+pound mass moving with a velocity of 64 feet per second is said
+to be equal to 64 foot-pounds of work. Another example may
+perhaps be excused. If a pound mass be projected upwards with
+a velocity three times that of the first ?that is, with a velocity of
+96 feet per second?it will rise to nine times the height, that is, to
+a height of 144 feet, and will have had done upon it nine times
+the work. The kinetic energy then of a pound mass moving with
+a velocity of 96 feet per second is said to be equal to 144 foot-
+pounds of work. The following table gives the foregoing estimates
+in a more concise form, with the addition of further similar esti-
+mates. The mass taken is a pound mass. In the table, the word
+? velocity ? means the velocity with which the pound mass moved
+initially in feet per second ; the ? height ? means the height in
+feet to which the different velocities would carry the various
+pound masses ; and ? work ? means the estimated amount of work
+done in foot-pounds ;
+Let a pound mass be allowed to fall from a conveniently-chosen
+height above the surface of the earth :?the force of gravity will
+constantly increase its rate of descent. At the end of the first
+second the mass will have fallen through a space of 16 feet, and
+be moving with a velocity of 32 feet per second. By the pre-
+
+
+vious paragraph it will be seen that the kinetic energy at the end
+of the first second of the falling pound mass is equal to 16 foot-
+pounds of work. Assuming this to he correct, comparative state-
+ments similar to those in the last paragraph can be made. The
+pound mass falling freely at the end of the second second will
+have fallen through a space of 64 feet, and will be moving with a
+velocity of 64 feet per second. The kinetic energy is equal to
+?64 foot-pounds of work, by the previous paragraph. At the end
+of the third second the mass will have fallen through a space
+equal to 144 feet, and will be moving at the rate of 96 feet per
+second. The kinetic energy of the pound mass moving with this
+velocity is (by the previous paragraph) said to be equal to 144
+foot-pounds of work. On comparing these figures with those
+given in the table attached to the last paragraph, it will be found
+that in resisting or in producing motion in a mass during the
+same times the force of gravity does equal amounts of work.
+Clear, or at any rate distinct, ideas have now, perhaps, been
+formed of what has been meant by ? kinetic energy.? Repetitions
+of similar arguments and facts have now probably made clear to
+the mind the ? reason why ? of the difference of the measures of
+?kinetic? energy and of momentum. All depends upon ?the
+work done.? We must, however, go more closely into the
+question. It is necessary to bear clearly in mind that the measure
+of the work done by the force of gravity is the space through
+which a body falls. Let us now take each successive second
+during which a mass falls from a limited and convenient height.
+During the first second the mass falls 16 feet, and the force of
+gravity has done 16 foot-pounds of work; during the second
+second the mass falls 48 feet, and the force of gravity does 48
+foot-pounds of work; during the third second the mass falls
+through 80 feet, and the force of gravity does 80 foot-pounds of
+work, and so on, as follows : ?ln the fourth second the fall is 112
+feet, and work done 112 foot-pounds in that second ; in the fifth
+second the fall is 144 feet, and the work done 144 foot-pounds in
+that second; in the sixth second 176 feet, and work done 176
+foot-pounds in that second. Now, is it not strange that the
+
+
+force of gravity should do more work in one second than in
+another ?
+proceeding to explain, or endeavour to explain, the
+discrepancy, it will be necessary to recall to mind the terms
+o� the first law of motion. Mr. Todhunter says ;?? On the laws
+of motion as a foundation the whole science of dynamics rests.? *
+He gives Newton?s definition ?? The first law of motion is as
+follows :? ? Every body continues in a state of rest, or of uniform
+motion in a straight line, except in so far as it may be compelled
+to change that state by a force acting on it.? ?
+During the first second a mass falls 16 feet, and the force of
+gravity is said to do 16 foot-pounds of work. Assume that the
+second clause of the sentence is correct. At the end of the first
+second the mass was moving with a velocity of 32 feet per second.
+What would he the motion of the mass if the force of gravity
+suddenly ceased to act at the end of the first second ? The first
+law of motion tells us that the mass would persist in motion at this
+rate that as it would pass over 32 feet in every second. Of the
+space passed through by the mass during this second second , 32
+feet then are entirely due to the force of gravity acting during the
+first second. This 32 feet , then , must he excluded from the
+measure of the work done hy the force of gravity during the second
+second. This leaves 16 foot-pounds as the work done by gravity
+during second second. At the beginning of the third second the
+mass is moving with a velocity of 64 feet, as if the force of gravity
+had suddenly ceased to act at the beginning of the third second.
+This GJf- feet is therefore not due to the force of gravity acting
+during the third second by the first law of motion. This, again,
+leaves only 16 foot-pounds as the work done by gravity during
+the third second. At the beginning of the fourth second the mass
+is moving with a velocity of 96 feet per second, and will during
+this second pass over this distance. This 96 feet must therefore
+be likewise excluded from the measure of the work done by the
+force of gravity during the fourth second. This leaves again only
+16 foot-pounds of work done during this second.
+* Todhunter?s ?Mechanics for Beginners,? pages 210, 211.
+
+
+It will therefore be seen that the distance through which a body
+falls during the time of falling is not a measure of the work of
+the force of gravity during that time. This of - course means that
+the ordinary measure of the kinetic energy of a mass in motion
+is an erroneous one.
+Walker, May, & Co , Printers, 9 Mackillop Street, Melbourne.

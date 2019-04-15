@@ -1,0 +1,2209 @@
+
+
+Final Report
+SECRET
+EDUCATION AND RESEARCH
+MINISTRY OF AIRCRAFT PRODUCTION
+
+
+
+
+FEEDEN MISSION REPORT
+SECTION 6
+Assigned to
+Address
+Copy No. .
+Date of issue :
+This report contains confidential information, and must
+therefore be treated accordingly by the person to whom this copy
+is issued. Anything contained in this report must only be
+communicated to approved and accredited executives of Government
+departments or firms undertaking the manufacture of aircraft or
+accessories for His Majesty's Government; and must not be published
+or disclosed to unauthorised persons.
+There is a considerable amount of detailed information in
+this report which may only be of interest to those specialising on
+the particular problem. In order, therefore, to assist executives,
+this report has been so framed that at the beginning of each Part a
+special coloured page has been provided which sets out as shortly
+as possible the broad policy conclusions of the Mission on this
+particular subject, including the action that is advised.
+By this means it is hoped that those concerned with policy
+may have as concise a picture as possible of what is considered
+should be done to put into effect the work of the Mission.
+The purpose of the Mission was to learn what American
+methods could be introduced into this country to improve our output,
+and to investigate certain technical problems and new developments
+in America. The report is therefore mainly concerned with those
+aspects in which the American industry is ahead of ours, and with
+promising technical developments. No emphasis has been laid on
+points where the Mission consider that British production methods
+or technical development are ahead of American.
+S.T.A.M.
+Cook*s Building,
+40 Stratton Street, W.l.
+June, 1943»
+
+
+This report is issued in seven separately bound Sections, as follows:
+SECTION 1 CONSTITUTION, SUMMARY AND GENERAL
+CONCLUSIONS OP THE MISSION
+" 2 AIRCRAFT PRODUCTION
+" 3 AIRCRAFT DESIGN
+" 4 ENGINES, POWER PLANTS AND PROPELLERS
+" 5 ACCESSORIES AND EQUIPMENT
+" 6 EDUCATION AND RESEARCH
+** 7 POST-WAR PROBLEMS
+Each Section is divided into two or more Parts, and a list of
+contents appears at the beginning of each Part. The Parts in a
+section are lettered A, B, C etc.
+Each Part is divided into Chapters, the first of which (on a
+coloured page) gives the broad policy conclusions for the Part. The
+Chapters are made up of Items, and each Item has a number indicating
+the Chapter to which it belongs and its position within the Chapter.
+For example:
+2.03 indicates the third item of Chapter 2
+5.12 " " twelfth * " " 5
+For specifying completely any item, it is also necessary to
+quote the Section and Part, and in the text, at the beginning of
+each Item, its complete reference is given.
+For example:
+3A - 2.03 indicates Section 3> Part A, Chapter 2, third item.
+ifC - 5*12 indicates Section 4-, Part C, Chapter 5> twelfth item.
+
+
+CONTENTS OF THE WHOLE REPORT
+SECTION 1 - CONSTITUTION, SUMMARY AND GENERAL CONCLUSIONS
+PART A - OBJECTS OF THE MISSION, PERSONNEL AND ITINERARY
+Chapter 1 Scope, object and general survey of the Mission
+” 2 Itinerary, December 1942 to March 1943
+M 3 Broad policy conclusions
+" 4 Future policy in regard to Missions to America
+PART B - AMERICAN NATIONAL AIRCRAFT ORGANISATIONS
+Chapter 1 General
+" 2 Army Air Force
+” 3 Navy Department
+w 4 War Production Board
+H 5 Joint Aircraft Committee
+H 6 Office of Scientific Research and Development
+SECTION 2 - AIRCRAFT PRODUCTION
+PART A - ORGANISATION
+Chapter 1 Broad policy conclusions
+M 2 Engineering departments
+M 3 Factory layout
+" 4 General notes on organisation of airframe factories
+M 3 Boeing Aircraft, Seattle
+M 6 Consolidated Aircraft, San Diego
+” 7 North American Aviation, Inglewood
+" 8 Bell Aircraft, Buffalo
+” 9 Curtiss Wright
+" 10 Other aircraft firms
+" 11 Data on American airframe factories
+" 12 Canadian aircraft industry
+PART B - FACTORY LAYOUT AND PROCESSES
+Chapter 1 Broad policy conclusions
+" 2 Special applications of lofting
+" 3 Economy of floor space
+M 4 Conveyors
+" 3 Drop hammer
+w 6 Rubber die press
+" 7 Mechanical press
+” 8 Stretcher
+" 9 Special tools
+" 10 Pamum rolls
+M 11 Rivet sorting
+" 12 Finishing and painting
+M 13 Extrusion manipulation
+M 14 Pipe bending
+** 13 Glenn Martin skin stretching process
+H 16 Plaster moulds for light alloy casting
+" 17 Powder metallurgy
+” 18 Riveting
+" 19 Spot welding
+20 Flash welding of undercarriages and engine mountings
+" 21 Heliarc welding
+M 22 Cyeleweld
+
+
+SECTION 3 - AIRCRAFT DESIGN
+PART A - GENERAL DESIGN TECHNIQUE
+Chapter 1 Broad policy conclusions
+H 2 Scope and organisation of engineering departments
+M 3 Weight analysis
+M 4 Factors and design requirements
+M 5 American stressing technique
+” 6 Aerodynamic design
+" 7 Aerodynamic controls
+M 8 Stressed skin construction
+" 9 Pressure cabins
+M 10 Undercarriage design
+* 11 Materials
+" 12 Processes 5 /
+" 13 Aircraft testing procedure
+PART B - REVIEW OF AMERICAN AIRCRAFT
+Chapter 1 Broad policy conclusions
+" 2 Description of new North American P.31
+" 3 Descritpion of Curtiss P.60
+” 4 Description of Bell P.63
+M 5 Description of Douglas A. 26
+M 6 The Boeing B. 29 and Consolidated B. 32
+tt 7 Current fighters in production
+M 8 Current heavy bombers in production
+** 9 Transport types
+M 10 Wooden aircraft
+M 11 Flying boats
+H 12 Tailless aircraft
+w 13 Tabulated data
+PART C - PHOTO LOFTING
+Chapter 1 Board policy conclusions
+” 2 Technical summary
+" 3 Layout procedure
+M 4 Alternative reproduction processes
+** 5 Camera procedure
+" 6 Miscellaneous
+PART D - SELF SEALING- FUEL TANKS, OIL TANKS AND FUEL HOSE
+Chapter 1 Broad conclusions
+M 2 Technical summary
+" 3 Fuel tanks - American practice
+M 4 Hose - American practice
+SECTION 4 - ENGINES, POWER PLANTS AND PROPELLERS
+PART A - PRODUCTION
+Chapter 1 Broad Policy conclusions
+" 2 General design and production notes on firms visited
+" 3 Organisation and output
+M 4 Engine and propeller production processes and equipment
+PART B - DESIGN
+Chapter 1 Broad policy conclusions
+" 2 Technical review of American engine developments
+” 3 Propeller design
+* 4 Power plant policy and installation
+" 5 Specific technical items
+
+
+PART C - REGENERATIVE ENGINE TESTING PLANT
+Chapter 1 Broad, policy conclusions
+M 2 Technical summary
+M 3 Methods of absorbing engine power
+M 4 Speed control
+" 5 Relative merits of testing plant and methods
+" 6 The Buick arrangements at Melrose Park, Chicago
+PART D - FUEL AND OIL
+Chapter 1 Broad policy conclusions
+" 2 Fuel
+" 3 Oil
+SECTION 3 “ ACCESSORIES AND EQUIPMENT
+PART A - ELECTRIC WIRING
+Chapter 1 Broad policy conclusions
+" 2 Summary and conclusions
+“ 3 Principles underlying American methods
+" 4 American wiring practice
+" 5 Maintenance and repair aspect
+** 6 Comparative appraisement of British aid American
+practice
+M 7 Developments in relation to alternating current
+M 8 Application to British development and production
+PART B - AIRCRAFT, ELECTRICS
+Chapter 1 Broad policy conclusions
+n 2 Conclusions
+M 3 Present use of low pressure direct current
+” 4 Effect of operating conditions on choice of system
+" 5 Review of electrical services in relation to hydraulics
+” 6 Manuals on installations
+" 7 Design and production of electrical equipment
+" 8 New developments in aircraft electrics
+” 9 Approval and standardisation of equipment
+H 10 Liaison with America on electrics
+PART C - INSTRUMENTS AND RADIO INSTALLATIONS
+Chapter 1 Broad policy conclusions
+M 2 Aircraft instruments
+" 3 Radio installations
+PART D - AIRCRAFT VIBRATION TESTING- AND EQUIETONT
+Chapter 1 Broad policy conclusions
+" 2 Summary and conclusions
+" 3 Introduction
+n 4 Equipment
+” 5 Application
+" 6 Scope of activities
+M 7 Review of technique
+n 8 Equipment ordered for M»A.P.
+M 9 Application to British development
+
+
+PART E - INSTRUMENTATION Off TEST FLIGHTS
+Chapter 1 Broad policy conclusions
+M 2 Summary and conclusions
+M 3 Introduction
+" 4 Outline of installations
+M 5 Organisation
+M 6 Equipment
+*' 7 Review of technique
+" 8 Application to British development
+SECTION 6 - EDUCATION AM) RESEARCH
+PART A - ENGINEERING- STAFF
+Chapter 1 Broad policy conclusions
+rt 2 Economical use of present aircraft engineering
+staff
+” 3 American publications and engineering propaganda
+" 4 Manuals prepared by firms for instruction of
+drawing office staff etc.
+” 5 Manuals prepared by firms to explain administration
+and define duties
+” 6 Standardisation
+PART B - INDUSTRIAL AND SERVICE TRAINING-
+Chapter 1 Broad policy conclusions
+" 2 Technical manuals for part time study
+H 3 Schools for training industrial and service personnel
+H 4 Instruction manuals prepared by firms on their products
+” 5 Instructional films
+PART C - UNIVERSITY EDUCATION OP AERONAUTICAL ENGINEERS
+Chapter 1 Broad policy conclusions
+M 2 American education
+PART D - RESEARCH ESTABLISHMENTS
+Chapter 1 Broad policy conclusions
+n 2 Need for increased research equipment in Britain
+" 3 Langley Field
+" 4 Canadian National Research Council
+3 American wind tunnels
+H 6 Engine research
+SECTION 7 - POST WAR PROBLEMS
+Chapter 1 Review of the civil aviation position in America
+M 2 Training aircraft
+
+
+EDUCATION AND RESEARCH
+PART A ENGINEERING- STAFF
+CHAPTER 1 - BROAD POLICY CONCLUSIONS
+Item 1.01 Retention of experienced clerical staff
+M 1*02 Training of engineers
+M 1.03 Economical use of engineers
+” 1* 04 Preparation of manuals
+CHAPTER 2 - ECONOMICAL USE OF PRESENT AIRCRAFT ENGINEERING
+STAFF
+CHAPTER 3 - AMERICAN PUBLICATIONS AND ENGINEERING PROPAGANDA
+CHAPTER k - MANUALS PREPARED BY FIRMS FOR INSTRUCTION OF
+DRAWING- OFFICE STAFF ETC.
+CHAPTER 5 ~ MANUALS • PREPARED 3Y FIRMS TO EXPLAIN ADMINISTRATION
+AND DEFINE DUTIES
+CHAPTER 6 - STANDARDISATION
+
+
+
+
+CHAPTER 1 - BROAD POLICY CONCLUSION'S
+6A-1.01 Retention of experienced clerical staff. As a result of
+their visit to America, the Mission are so impressed with the
+necessity of conserving the Engineering and Design Departments
+of this country that they consider M.A.P. should take the
+strongest possible line in pressing for the retention of all
+experienced clerical staff on design, specification and order-
+ing matters, and the general retention of all technical design
+staff of any experience whatsoever; otherwise there will be
+inadequate technical development on aircraft in the next year
+or two.
+6A-1.02 Training of engineers. M.A.P. should arrange for further
+training of aeronautical engineers from the earliest possible
+date. This is a longer term project, and is the subject of
+Part C of this section.
+6A-1 • 03 Economical use of engineers. T/hile the training of further
+engineers is coming to fruition, we should employ our engineer-
+ing personnel to the utmost advantage. The Mission consider
+that the completion of new aircraft designs could be expedited
+if arrangements were made for those firms carrying a heavy load
+to borrow suitably trained staff from concerns in the industry
+that are less heavily loaded.
+6A-1.04 Preparation of manuals. M.A.P. should select some body to
+prepare the various manuals that are wanted to assist the
+aircraft design industry. To do this, industry must be
+prepared to give say a dozen suitable men and a carefully
+selected leader, to see this work put through and brought to
+a rapid and satisfactory conclusion. The Mission recommend
+that the S.B.A.C. should do this work, but emphasise that it
+is only possible if the necessary leader and technical staff
+are released to the S.B.A.C. forthwith for this job.
+
+
+
+
+CHAPTER 2 - ECONOMICAL USE OF PRESENT AIRCRAFT BNGBI5ERING STAFF
+6A-2.01 It will "be noted from the various comments in other parts of the report
+that all sections of the Mission were impressed by the size, scope and
+constitution of the engineering departments of the American aircraft
+industry. The expansion has come about largely during the last three
+years, and they are now at least five times greater in capacity than the
+corresponding departments in this country, even though, contrary to the
+generally accepted opinion, the engineering groups in America do not include
+the planning, jigging and tooling force, which is not as a rule under the
+Chief Engineer, or Chief Designer of the Company, but is controlled by the
+Production Organisation.
+The Mission have returned convinced that something ought to be done to
+improve the position of our engineering staffs at home if we are going to
+maintain our present high standard on new designs. It is not suggested
+that the engineering staffs of our companies should be increased to
+anything like the proportions existing in America to-day, but the Mission
+are of the opinion that the staffs of the main design firms should be
+materially Increased as soon as possible, in order to tackle new prototypes
+satisfactorily and in such a way that they are got out more rapidly. The
+first thing to be done is to conserve the existing staff, keep them from
+being taken for the forces and in particular ensure the retention of the
+statistical portion of the engineering staff, which is responsible for
+scheduling material specifications etc., and is now wrongly called clerical,
+but which are as important as the draughtsmen. The second thing is for all
+concerned to up-grade as many of their technical staff as possible and to
+supplement these by bringing in suitable recruits from the shops and outside.
+The Mission feel that the necessary work of design of a few new types,
+for example, at least one new fighter, a new heavy bomber and a new
+transport 'plane, can only be accomplished sufficiently rapidly by unselfish
+collaboration on the part of the industry, by the loaning of some of the
+design staff of other companies to certain firms selected by the Ministry
+to undertake the new designs. It is felt that in order to complete designs
+quickly enough a considerably bigger complement of men is wanted on a few
+types, and that this is the only solution to this problem for the immediate
+future.
+There are other adjuncts to helping design, which the Mission feel
+should be tackled immediately. In some quarters, it is felt that this is
+out of the question at the present time, but just as it would have paid us,
+when the infiltration of women and unskilled labour began in 1940> to set
+aside a nucleus of skilled trainers, so now we feel convinced that it would
+pay for the industry to release perhaps a dozen or so men, to prepare manuals
+of standardisation, materials, lofting, weight saving, etc. If this work
+can be accomplished quickly and practically, it is believed that new design
+work will go forward more rapidly.
+The B.A.O. Washington, we understand at the request of M.A.P., communicated
+with our Mission and asked that certain members should attend a conference on
+standardisation at Washington. The Mission were interested to note the
+constitution of the American members of this conference, the weight of the
+people present, and the power of action given to them to make decisions.
+Dr. Edward Warner and Mr. T.P. Wright are on this job, also other senior
+officials of high rank from the Army and Navy. The functions of the various
+standardisation authorities in America are given in Chapter 6 of this Part.
+It is felt by the Mission that the right solution is for both the prepar-
+ation of manuals and the work of standardisation to be deputed by M.A.P. to
+the S.B.A.C., but that this will not work unless the industry are prepared to
+to release to the S.B.A.C. a sufficiently strong nucleus, with a suitable
+technical leader who would be acceptable to the industry, to woik out these
+matters, obtain prompt decisions, and deal adequately with the opposite
+numbers in America.
+
+
+CHAPTER 3 - AMERICAN PUBLICATIONS AND ENGINEERING PROPAGANDA.
+6A-3*01 The American nation as a whole are becoming very engineering conscious
+and it is undoubtedly a policy of the country to maintain aviation as a big
+industry. Public interest is created by a mass of reference to aviation
+in the press and this interest has led to a desire on the part of the
+general public for elementary engineering knowledge; this is well catered
+for by the numerous pseudo-technical handbooks which are available.
+The practice of reporting technical matters and coupling these reports
+with numerous illustrations has spread considerably in America and is a
+feature of almost every type of publication right down from the monthly
+"Fortune” to the ordinary weekly periodical and the daily press.
+The infomation contained in these articles is not highly technical
+but is presented in an attractive and straightforward manner so that it
+can be absorbed by all and sundry. The press make considerable use of
+charts, tabulations and diagrams to illustrate their points and the habit
+of using charts etc., has percolated throughout America to a great extent.
+The American industry are by our standards extravagant in the personnel
+employed on this type of work and it is not suggested that this country can
+provide anything like the same time and labour at this stage of the war.
+There is no doubt in fact that the American firms themselves will have to
+relinquish quite a lot of the staff who now prepare this infoxmation.
+The ready availability of tabulated data of all sorts from American
+firms and Government departments was most impressive however, and the fact
+that the automobile industry, who are hard-headed in the extreme, consider
+such a procedure to be worth while is noteworthy. It has been argued that
+the present time is not the right one to divert any of our effort into the
+preparation of charts, instruction books, etc., but this argument is
+considered to be erroneous, since it has been established in America that
+if this work is carried out well and in moderation it can introduce an actual
+saving in labour.
+* '• . ( - I
+CHAPTER 4 - MANUALS PREPARED BY FIRMS FOR INSTRUCTION OF DRAWING OFFICE
+STAFF ETC! ~
+6a-4«01 The size of the engineering departments commonly met in American firms
+has demonstrated clearly the value of instruction manuals so that information
+can be widely distributed.
+The principal advantage of these films’ manuals is that they ensure
+greater uniformity of engineering drawings and layouts. Every possible
+aspect of drawing technique is dealt with and there is in consequence
+little chance of information reaching the shops in anything but the desired
+uniform standard.
+The manuals have considerable educational value to a new member of the
+firms' engineering departments. After he has studied them he is not only
+able to make his work match against that of other members of the department,
+but he has also broadened his knowledge on tte subject.
+The free interchange of these manuals between firms will undoubtedly
+be of value as time goes on in providing a degree of standardisation.
+In most cases drawing office manuals etc., have started in quite an
+unassuming way, and have been built up over a period of years to provide a
+volume which plays a big part in maintaining the established technique of
+the company.
+The Mission appreciates that all such aids must be tempered by intelli-
+gent application and by the idea of maintaining individuality; nevertheless
+with the extremely rapid expansion of the American aircraft industry, it
+would be impossible for newcomers to find their feet with reference to the
+
+
+general procedure and organisation of the firm without some specific
+instructions of this kind.
+It is the hope of -the Mission that M.A.P. will make arrangements for
+standard forms of manuals to be introduced, which will be of value to all
+firms in the industry, and it is therefore hoped that the examples which
+have been brought back from America will be of value.
+CHAPTER 5 ~ MANUALS PREPARED BY FIRMS TO EXPLAIN ADMINISTRATION AND
+DEFINE DUTIES —-
+6a-5*01 Great emphasis is laid in America on organisation charts and the clear
+definition of the duties of the various departments and executives. The
+charts of the national organisations and organisations of the Army, Navy
+etc., which appear in section 1 of the report are good examples; most of
+these charts were already available in the various departments etc., and
+were readily available to the Mission, although one or two of them have
+been prepared since their return.
+The best example of this type of work is provided by Boeing, who have
+gone to great lengths in producing a volume of many hundred pages, which
+includes not only charts showing the chain of responsibility but also
+detailed write-ups on the scope and functions of individuals. Although
+it is not suggested that any English firm should go to this length, it is
+considered that the Boeing book warrants study.
+* y
+\
+CHAPTER 6 - STANDARDISATION
+6A—6*01 Some members of the Mission were invited to attend a conference in
+Washington at which the foundation was laid for full liaison between
+British and American Standardisation Committees, and it is understood that,
+as a result, two English representatives have just been sent over to America,
+Mr. Goodinge of the S.B.A.C. and Mr. Gemmell, Director of Standardisation at
+M.A.P., and it is hoped that sufficient weight will be put behind this whole
+question.
+The functions of the various Standardisation bodies in America are as
+follows:-
+1 • N.A.S.C. (National Aircraft Standards Committee). This is a
+manufacturers' committee, recognised by the W.P.B. (War Production Board)
+to deal with all standardisation matters affecting airframes (except
+materials). The committee consists of representatives of 29 airframe
+companies. The main committee is split into Eastern and Western divisions,
+each of which meets once per month, with national meetings every six months.
+2. S.A.E. (Society of Automotive Engineers). This, again, is a
+manufacturers' committee, recognised by the W.P.B., to deal with all
+standardisation matters affecting engines, propellers and accessories and
+also with materials both for engines and airframes.
+Mr. Arthur Nutt of Wright Aeronautical is chairman of the Aeronautics
+Committee, which has sub-committees on the following subjects; specialist
+engineers being assigned to these.
+(a) Engine dimensional standardisation
+V
+(b) Propeller dimensional standardisation
+(c) Accessory and equipment dimensional standardisation
+(d) Materials for the above and for airframes
+
+
+Where engine installations are concerned, there is overlapping
+membership of N.A.S.C. and S.A.E. representatives.
+3* A.S.A. (American Standards Association). The A. S.A. is equivalent
+to our B.S.I. and handies standards on a broad basis for all industries;
+although it is doing good work for general engineering, it has contributed
+little original work towards aircraft standardisation. As in this country,
+many N.A.S.G. and S.A.E. standards which are of interest to other industries
+eventually becomes A.S.A. standards.
+4* Chamber of Commerce. The Chamber of Commerce has airframes and
+engine technical committees, consisting of the chief engineers of the various
+firms, but these committeess do no standardisation work and leave the
+N.A.S.C. and the S.A.E. to transact all normal business. The secretary of
+the N.A.S.C. is paid from chamber funds.
+A t N. (Army-Navy Joint Action Committee). The Army and Navy, through
+the working committees of the Aeronautics Board, deals with standardisation
+as it affects their military requirements. The A.N.C. (Amy-Navy-Civil)
+represents the product of the Army-Navy-Civil Committee work.
+
+
+EDUCATION AND RESEARCH
+PART B INDUSTRIAL AND SERVICE TRAINING
+CHAPTER 1 - BROAD POLICY CONCISIONS
+Item 1*01 and service personnel
+tt 1.02 Instruction manuals and films
+CHAPTER 2 - TECHNICAL HANUAIS FOR PART TIME STUDY
+CHAPTER 3 - SCHOOLS FOR TRAINING- INDUSTRIAL AND
+SERVICE PERSONNEL
+CHAPTER 4 - INSTRUCTION MANUALS PREPARED BY FIRMS
+ON THEIR PRODUCTS
+CHAPTER 5 - INSTRUCTIONAL FIBS
+APPENDIX - LIST OF MANUALS BROUGHT PROM AMERICA
+
+
+
+
+CHAPTER 1 - BROAD POLICY CONCLUSIONS
+6B-1.01 Schools for training Industrial and Service Personnel. During the
+course of the tour in America many opportunities were given to discuss
+and inspect the scope of training of both men and women for the new indust-
+rial plants and also for the services, and it was illuminating to see the
+scale upon which these problems have been tackled. In making any comments
+on this subject due consideration has been given to the difference in the
+manpower of Great Britain and America, the fact that for a long period we
+alone were fighting the Axis Powers, and that this country has for almost
+four years been in the grips of war and has had to face the difficulties of
+bombing, dispersal, blackout, etc. Nevertheless it is felt that certain
+aspects of the training methods employed in America at the present time are
+worthy of consideration.
+One of the chief lessons which it is felt can be learned from America,
+is the acceptance of the policy that the lesser the number of skilled people
+there are available, the more it is necessary to segregate a portion of
+that skilled personnel, to Specialise upon the organising and training of
+unskilled labour. It is also policy to provide this personnel with all
+the necessary equipment, and carry this training out in the most efficient
+way possible. Without this outlook it would not have been possible for
+some of the American aircraft factories to increase their size in the
+spectacular way which has been accomplished and which is enabling the
+American aircraft output to progress so rapidly during the present year.
+Almost without exception all operators go through a training period
+before being allowed to go into the shop. Generally speaking it is felt
+that the training is on the elaborate side, and at such places as Ford's
+for instance, women who were going on as operators on such jobs as riveting
+were put through a course which was considered to be unnecessarily advancedo
+American philosophy is that it is not necessary to have mechanically minded
+people provided there is sufficient equipment and personnel to do the
+necessary training of the unskilled men and women before these go into the
+shop, this being necessary as some of the best supervisors on production
+work may not be the most patient, ani so may not be suitable for putting
+absolutely raw operators through the first and most simple movements of a
+machine tool.
+The same remarks apply to service personnel. Camps were visited,
+where large numbers of Army and Navy mechanics were going through extended
+courses of training, and they were supplied with the most excellent equipment
+for this purpose.
+6B-1.02 Instruction manuals and films. Another interesting sidelight on training
+in America is the way the Public Relations departments, Technical Publication
+firms and film companies have been drawn in and encouraged to apply their
+specialised knowledge to producing text-books, diagrams and films; there are
+a whole host of such companies operating at the present time, turning out a
+varied selection of most up to date and intelligently planned material.
+For instance a course of books has been published by the C.A.A. for
+school children between the ages of 12 and 15 on aeronautical matters;
+this is a subject which the Mission feel has been excellently tackled and
+it would like to see thousands of these books distributed throughout our
+schools.
+It is felt that much would be learnt by closer liaison between the
+two countries on this whole subject.
+
+
+
+
+CHAPTER 2 - TECHNICAL MANUALS FOR FART TIME STUDY
+• \
+6B-2.01 For maiy years, America has provided an elementary type of training for
+masses of people through correspondence courses and these are of course,
+well known in this country too.
+Most of these courses include a series of manuals which differ greatly
+in value. The Mission were invited on several occasions to examine
+the work of industrial institutions dealing with specific subjects, e.g.
+plastics, and some of the manuals from these institutions have been brought
+back and are available to anyone who is interested. This method of training
+suffers definite limitations, but has a place in enabling factory workers to
+use their spare time to improve their knowledge.
+CHAPTER 3 - SCHOOLS FOR TRAINING INDUSTRIAL AND SERVICE PERSONNEL
+6B-3 • 01 Over the past two or three years, special departments have been formed in
+the American factories, generally known as Industrial Training or Educational
+divisions, to co-ordinate the entire training programme of the Company. With
+the help of the local technical schools and colleges, courses have been
+developed for all grades of employees from the Junior requiring pre-employment
+training (during which time he receives remuneration) to the training of
+Supervisors or Foremen. It is also the responsibility of this division to
+provide for the training of U.S. Army Air Corps mechanics; although some of
+the courses were too elaborate and too long it is considered that the results
+obtained in America have had a beneficial effect on the industry, and it is
+suggested that consideration should be given to enlarging the scope of such
+departments in this country. The many courses which have been introduced
+cover such items as:-
+(a) Pre-employment training for both shops and offices,
+including drafting, process planning, etc.
+(b) In plant, up-grading courses.
+(c) Apprentice training as aircraft electricians, machinists, etc.
+(d) Supervisory training.
+(e) Training of inspection.
+(f) Training of U.S. Aray Air Corps mechanics.
+Some of the courses are taken by employees in their own time, others for an
+hour or so a day, during the working time, and it was found that in many of
+the factories visited, approximately of the total employees were taking
+advantage of these training facilities.
+Consolidated Aircraft have one of the largest training organisations
+seen and it is working very smoothly. This seotion is responsible for the
+training of 600 men per month for the Arny Air Corps in addition to their own
+operators. Courses have been instituted for all classes of labour from the
+trainee to the supervisor and cover both tuition during working hours and at
+home. It was understood that the cost of running the school was 88,800 dollars
+per year exclusive of the wages paid to the trainees, and that approximately
+4,800 employees were taking the opportunity afforded by these facilities.
+There were extensive class rooms and machines were set up in the open,
+some of these being sectioned to demonstrate the operation of undercarriages,
+flaps, etc.
+Douglas employees who were taking courses of training were sent to a
+Training School and material was being supplied by the Douglas Aircraft Company.
+All good parts produced by the trainees are delivered to the Finished Parts
+Stores and used for production purposes.
+The normal practice for training new employees at Ix>ckheed was to give
+class room tuition for one hour each day and for the remainder of the time to
+be spent with a skilled operator in the shop.
+
+
+Another interesting example is provided by Boeing who are fitting up a
+batch of long trailer trucks to demonstrate hydraulic systems, electrical
+systems, landing gear, propeller operation, turbo operation etc. A conplete
+pilot’s cockpit is provided in one truck. The equipment includes charts
+and diagrams and all the special tools which are required. Suitable
+instructors are in charge of each of these trucks, which tour service aerodromes
+to instruct their personnel.
+CHAPTER 4 ~ INSTRUCTION MANUALS PREPARED BY FIRMS ON THEIR PRODUCTS
+6b-4<*01 The American service manuals on airframes, repair and maintenance,
+pilots* instructions, spare part lists, etc., are generally similar to our
+own, but are somewhat more comprehensive and as a rule their preparation is
+looked upon as a more important part of the organisation than is sometimes
+the case in British factories.
+The preparation of these manuals forms part of the contract both for
+prototype and production aircraft. In the case of a prototype aircraft 5
+copies are generally submitted one month in advance of the delivery of the
+first machine. The information required by the Army and Navy is considerable
+and quite a large number of engineers, draughtsmen, and text writers are
+required to carry out the work. In a large organisation anything between 80
+and 150 people may be engaged on this work; these are all specialised and a
+high standard is maintained. The final issue of the manuals contain elaborate
+air-brush sectional drawings, etc., and are very clearly laid out so that they
+can be understood by inexpert ground crews etc.
+In the case of the Boeing B.29 an average of 50 men with a peak of about
+80 were employed for 7 or 8 months on the preparation of the prototype and
+production manuals and the total cost was of the order of £50,000.
+CHAPTER 5 - INSTRUCTIONAL FILMS
+6b-5»01 A visit was made to Walt Disney’s studios which are now largely given
+over to the preparation of instructional films. 33 of these films have now
+been issued and the Mission brought back some samples,which have been combined
+into one 30 minute film showing some of the more interesting production
+processes. Several of the films are now available at M.A.P. and a complete
+set is being collected. These films are supplemented by a series of handbooks
+on each subject which are clearly written and well illustrated and there is no
+doubt of the value of this system for such purposes as the education of firms
+who are not experienced in aircraft construction.
+At Boeings, 3 colour talkie films were seen which had been prepared for
+the instruction of ground staff, etc., in the operation of the B.17 Portress.
+The actual films which were seen were:-
+(a) Starting
+(b) 25 hour inspection, and
+(o) Ground handling and hoisting.
+The quality of the films was comparable with similar productions in England,
+but considerable effort had been made to make the subject interesting and to
+encourage pride in the particular aeroplane.
+General Carrol allowed the Mission to bring back a film of the first flights
+of the Boeing B* 2% which is available at M.A.P., and should be seen by those
+interested in future Bomber development.
+
+
+APPENDIX - LIST OP MANUALS BROUGHT PROM AMERICA
+1 "Drafting Room Manual” - Boeing Aircraft Company.
+2 "Engineering Manual” - Curtiss-Wright Corporation.
+3 "Engineering Manual" - Curtiss-Wright Corporation.
+4 "Loft Manual" - North American Aviation Inc.
+5 "Engineering Manual” - Curtiss-Wright Corporation.
+6 "Engineering Manual" - Curtiss-Wright Corporation.
+7 "Brief Outline of Engineering Procedure" - North American Aviation-
+Inc.
+8 "Engineering Loft Manual" - Consolidated Aircraft Corp.
+9 "Drafting Room Manual" - Lockheed Aircraft Inc.
+10 "Loft Handbook" - Lockheed Aircraft Inc.
+11 "Reproduction of Drawings and Templates with Eastman Matte Transfer
+Paper" - Eastman Kodak Co., Rochester, N.Y.
+12 "Drafting Room Manual" - Bell Aircraft Corp.
+13 "Hioto Process Manual" - Douglas Aircraft Co. Inc.
+14 "Engineering Releases of Sales Orders etc." - Curtiss-Wright Corp.
+15 Various short Reports on Metal Drafting and X-Ray Reproduction -
+North American Aviation Inc.
+1 6 "Lofting Problems of Streamline Bodies" - Carter M. Hartley,
+North American Inc.
+17 "Dimensional Integrity; Reduction of non-standard Assembly Operations" -
+Lockheed Airoraft Corp.
+18 "Mold Loft" - Bell Aircraft Corp.
+19 "Structure Repair Manual" - Boeing.
+20 Aero. Industries Technical Institute Lessons - Vols. 1 to 3*
+21 Plastics Industries Technical Institute Lessons - Vols. 1 to 3»
+
+
+
+
+EDUCATION AND RESEARCH
+PART C UNIVERSITY EDUCATION Off AERONAUTICAL ENGINEERS
+CHAPTER 1 - BROAD POLICY CONCLUSIONS
+Item 1.t)1 General
+M I*o2 Organisation
+" 1003 Program*
+CHAPTER 2 - AMERICAN EDUCATION
+Item 2*ol Statistics
+2»02 Main differences between American and British training
+” 2*03 Necessity for sound basic training
+" 2# 02*. Post-graduate courses
+" 2*05 Co-operative courses
+” 2*06 Relations with industry
+" 2*07 Scope of research
+” 2*oB Grades of education
+M 2.09 Cost of University training
+APPENDIX - UST OF DOCUMENTS BROUGHT FROM AMERICA
+
+
+
+
+CHAPTER 1 - BRQAD POLICY CONCLUSIONS
+6C—1.01 General. One of* the outstanding things that impressed the
+Mission was the size, scope and experience of* the senior executive
+staffs of the Army, Navy and firms' technical and engineering
+departments. The Army and Navy have a number of senior technical
+and procurement executives with great experience and a long stand-
+ing aircraft engineering background. These men for the most part
+have held their positions for a number of years without interrup-
+tion before and during the American expansion period. Similar
+remarks apply to the general quality of the executive staff of
+the firms, and whereas they may not have had the benefit of a few
+outstanding personalities that have existed in this country, the
+general grade of technical staff is of a high order.
+The whole standard of training of aeronautical engineers was
+so impressive that, in spite of the volume of the Mission's work,
+some time was spent in investigating the position, and considerable
+assistance was rendered by Dr. Edward Warner, Professor Hunsaker,
+Professor Clark Milligan, Dr. Evan Graham, etc.
+The results of the investigation are recorded in Chapter 2,
+and the conclusion reached by the Mission is that an immediate
+start should be taken to increase our educational facilities.
+The Mission have not reviewed this matter at any great length
+since their return to England, but they have talked it over with
+certain authorities in this country and put forward the following
+suggestions: -
+6C-1.02 Organisation. That a capable organiser be selected to guide the
+whole programme, who would fulfil the same functions as
+Professor Hunsaker in America; this man would require not only a
+wide knowledge of university curricula, training and research
+equipment, but also the personality and drive to organise this
+whole matter, and deal with all the authorities, Educational,
+Treasury, etc.
+That whoever is chosen should have a small committee drawn
+from representatives of the Ministry, educational authorities and
+the industry to work out the details of the programme. The main
+functions of this board would be:-
+(a) To formulate a policy for advancing aeronautical engineering
+training.
+(b) To reconmend grants of money for research equipment etc., to
+universities and other selected institutions.
+(c) To advise on courses of study.
+(d) To collaborate with the A.R.C. in the allocation of research
+work from Government establishments and the industry to the
+various universities.
+
+
+6C-1.03 Programme« It is suggested that the following should he taken as an
+outline of the main programme of re-construction: -
+(a) A number of technical colleges should he provided with
+improved facilities and encouraged and helped hy the
+central hoard.
+(h) Several major universities should set up chairs of
+aeronautics and he provided with guidance and finance
+for greater research facilities.
+(c) One major university should he chosen to he the main
+seat of learning in aeronautics and to provide not only
+ordinary graduate courses hut also post-graduate courses.
+In order to achieve the necessary standard it will he
+necessary to expend a considerable amount of money on
+this university. The space necessary for wind tunnels
+etc., will have to he taken into account in deciding the
+location, and it would he an advantage to have it
+adjacent to an aerodrome.
+
+
+CHAPTER 2 - AMERICAN EDUCATION
+6C-2.01 Statistics. In the immediate pre-war years, some 14*000 students
+graduated annually from the Engineering Schools of American universities,
+of whom about 10 per cent were specialist aeronautical engineers. In
+1942, over 1,400 students took aeronautical degrees in America.
+At the Massachusetts Institute of Technology alone, there are
+normally 2,400 undergraduates, composed of about 600 in each class plus
+about 600 taking post-graduate courses. About 10 per cent of these are
+mechanical engineers.
+About 30 students per year are enrolled for post-graduate courses at
+the California Institute of Technology, and a Master*s degree is granted
+to these students after the successful' conclusion of one year at the
+institute. Some of the students continue for a second year, while about
+5 men per year remain for a further year to get their Doctor's degree.
+Similar courses at other institutes, for instance Stanford, give a
+specialised post-graduate course to a further 50 or 60 aeronautical
+engineers making a total of about 100 per year in the United States;
+i.e. about 8 per cent of the annual total of 1,200 to 1,400 graduates
+in aeronautical engineering.
+In the college of engineers at New York University, there are over
+1,000 undergraduates and, in addition to this, over 12,000 people undergo
+evening class training.
+6C-2.02 Main differences between American and British training. Although the
+large number of trainees from "mass production" institutions are in part
+responsible for the large total of university graduates in America, there
+are about 15 well known universities which provide a really sound
+education to a considerable number of aeronautical engineers. In search-
+ing for the reason for the extent of this first rate aeronautical training,
+it is apparent that it was considerably influenced by Guggenheim. A
+large number of the aeronautical schools attached to the universities were
+financed and endowed by the- Guggenheim Foundation, which was set up to
+distribute money for this purpose, and was disbanded in 1930 when their
+work was completed.
+Whereas in England a large number of artisans are trained by the
+apprenticeship system, and some of these are given a fair theoretical
+training through evening classes and possibly one day’s study per week,
+America has no such system and trains few artisans. In university
+training, however, the scope of the undertaking is greater than in this
+country, even allowing for the difference in total population.
+Although the evening school in America is not so well developed as in
+this country, there are a number of universities which provide for this
+class of training and also for special wartime short courses. The evening
+classes at New York University which were mentioned previously are one
+example, while at M.I.T. an experiment was made last year giving a
+three months specialist course in aeronautics to 20 women university
+graduates who had mathematical training. The main subjects were aero-
+dynamics and machanics and the course was considered to be a great success.
+The California Institute of Technology provides night classes for women,
+and since the war it has provided some special services, such as a course
+last summer for 120 engineers from Lockheed.
+
+
+The Army and Navy also send a number of trained engineers yearly to
+one or other of the well known post-graduate universities.
+6C-2.03 Necessity for sound basic training. In putting forward the necessity
+for degrees in aeronautical engineering, it is not suggested that there
+should be any relaxation in the standard of basic engineering instruction.
+This point is appreciated at most of the foremost American universities,
+where at least the first two years of a four years’ course in aeronautical
+engineering comprises the standard basic engineering courses; only the
+last one or two years include specialised aeronautical subjects.
+At New York University, for instance, students in the first and
+second years of an aeronautical engineering degree course undergo the
+standard training for all engineering students. In the third and
+fourth years, however, they can specialise either in technical aeronautical
+engineering, in the commercial operation of aircraft, or in aircraft
+production.
+Because of the large number of applicants for the specialised
+courses, enrolment is selective and there is keen competition.
+Notwithstanding the foregoing it is considered essential for
+university courses to be drawn up in relation to the requirements of the
+industry and in this connection the following tabulation prepared by
+one of the American aircraft companies, may be of interest.
+AIRCRAFT ENGINEERING OCCUPATIONAL OPPORTUNITY STUDY
+Item
+■ .
+No. of
+Men
+Rough
+Equiv.
+Percent-
+age
+I
+Preliminary Design and Development
+27
+2
+II
+Aerodynamics
+22
+2
+III
+Stress Analysis and Structural Design
+65
+6
+IV
+Weight Analysis and Control
+40
+3
+v
+Production Design, Drafting and Checking
+453
+40
+VI
+Tracing, Blueprint and Record ¥ork
+313
+27
+711
+Administration, Supervision and Liaison
+235
+20
+\
+TOTAL
+1155
+100
+In analysing this tabulation the firm in question state that they
+consider that items I to V requxre university graduates, i.e. that about
+50 per cent of the personnel of a design department should be professional
+
+
+engineers*
+6C-2.04 Post-graduate Courses* Undoubtedly the ideal training for the higher
+type of professional engineer is a 3 years undergraduate course in general
+engineering followed by 1 to 3 years post-graduate training; this period
+depending on the ability of the student and the type of work which he
+proposes to take up. The California Institute of Technology, for instance
+does not cater for normal graduate courses in any branch as they consider
+this to be adequately covered by other colleges, such as M.I.T., Michigan
+and Minnesota. The Institute sets out to give specialised post-graduate
+training to a small number of selected men who must already have Bachelor
+degrees, preferably in engineering or science.
+In the graduate school at the Massachusetts Institute of Technology
+•emphasis is again laid on individual study and research, and in a number
+of* cases students specialise on some particular aspect of the aeronautical
+field,such as aerodynamics, design, instrumentation, structures or power
+plant.
+60-2.05 Co-operative Courses. Although not universally applicable, these courses
+have a definite place in the general scheme of technical education. At
+the University of Cincinnati for instance, students who plan to enter the
+aero-engineering courses sire enrolled in mechanical engineering during
+the first two years. Upon the satisfactory completion of this work, they
+embark on the co-operative 2 year aeronautical engineering course which is
+made up of 7 week periods alternately in the university and in aircraft
+factories. During the periods in aircraft factories they earn a wage
+which assists in paying for the course.
+Co-operative courses in mechanical engineering are also given by the
+Massachusetts Institute of Technology. This course is of 5 years
+duration of which the first two years are identical with the standard
+mechanical engineering course.
+6C-2.06 Relations with Industry. The opinion was gained in America that the
+day has passed when universities can expect large endowments from individuals
+In the future therefore, the universities can only maintain their place
+and fulfil their obligations by close co-operation with industry; this is
+being tackled in two main ways:-
+(i) Professors are encouraged to undertake consulting work for the
+industry and it is considered that professors of engineering
+(as opposed to mathematics, physics, etc.) must do this in
+order to keep up to date. Dr. Klyne of the California
+Institute of Technology, for instance, devotes about half
+his time to consulting work for the Douglas Company.
+(ii) Research work undertaken by universities is financed by contracts
+given to the institutes by Government departments and firms.
+A special board has been set up in Washington for the
+wartime allocation of contracts to the various universities.
+In peace time the work undertaken is normally of a pure
+research nature, but war conditions have necessitated more
+attention towards problems of immediate practical application.
+Dr. Milligan of the California Institute of Technology, as an
+example, devotes about half his time to research work on the
+Institute * a wind tunnel.
+Research work undertaken by universities result in two main advantages
+Firstly finance is provided both by the Government and by the industry for
+specific work, and the equipment thus made available is then of permanent
+value to the institute. As an example of this the California Institute
+of Technology has designed a 12 ft. pressure tunnel which is briefly
+described later in this report.
+The second advantage gained by universities undertaking large scale
+research work, is that it keeps all concerned in touch with the latest
+developments and latest practice. In most cases the research work is
+done by the professors and permanent assistants and not by students,
+although at some universities the students are raid for research work done
+
+
+in their spare time; this system is adopted both by the Massachusetts
+Institute of Technology and by the California Institute of Technology,
+the work by students being done normally between 6 p. ra. and midnight,
+and on Sundays.
+Quite apart from the benefit to the professors and permanent staff,
+the students, although they may not themselves take part in the research
+work, are enabled to grow up in an atmosphere of modern research which
+broadens their outlook and gives them a picture of the practical
+application of the work they are doing.
+Although this research is important for all universities, it is
+considered to be of paramount importance for post-graduate courses.
+Scope of Research. No attempt will be made to give a complete catalogue
+of the equipment of the various universities, but some pertinent examples
+are quoted.
+-CALIFORNIA INSTITUTE ON TECHNOLOGY
+New Twelve-foot Wind Tunnel. A 12-foot pressure tunnel has been
+designed at the Institute. One of these tunnels is being built by Curtiss-
+Wright while a second is to be built at the Institute as a co-operative
+venture; one-third of the cost of over two million dollars being borne each
+by Douglas and Consolidated and one-sixth each by Lockheed and Northrop.
+It is planned that these firms will eventually give the tunnel to the
+institute.
+The design was started a year ago and it is expected that half the
+total of 1500 tons of steel will be delivered for the "Cal Tech” tunnel
+by February; construction is scheduled to be completed by the end of 1943.
+The tunnel is powered by a 12,000 h.p. motor driving a 32-blade fan
+in two units of 16 blades, one unit of which can be feathered. The
+tunnel will work up to a pressure of 4 atmospheres 1 Reynolds numbers of
+15 million and Mach numbers up to nearly 1. An interesting design
+feature is that pressure tight doors are provided, providing a de-compression
+sphere, to isolate the working chamber so that the pressure in the
+remainder of the tunnel need not be reduced on entering the chamber to
+make adjustments. The whole mounting for the aircraft, or power plant
+model, is quickly detachable and can be replaced by duplicate mountings
+on which other models have been installed, thus reducing the idle time of
+the tunnel. A copper finned water radiator section is planned to give a
+temperature drop of 35°F to the air.
+-s Supersonic Tunnel. A tunnel is under construction to give a velocity
+up to twice the speed of sound for use in ballistic experiments. The
+tunnel was being worked at a pressure of two atmospheres at the entry end
+and 1 lb. absolute behind the throat. The throat was some 4” wide and
+3/4” deep at the narrowest point in the venturi. Balances were still in
+course of design and the tunnel has not yet been in practical operation.
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY.
+Aero Engine Laboratory. Most of the work is done on standard C.F.R. units
+and two of these are devoted entirely to the demonstrations of basic
+principles to students. Amongst other specialequipment the following was
+noted:-
+(a) Cyclone single cylinder unit being used for volumetric
+efficiency tests.
+(b) Lycoming single cylinder unit being used for research into bore-
+stroke ratios - different crankshafts are being used and the
+results co-related on the basis of like piston speeds.
+(o) C.F.R. unit with cylinder liner mounted on springs in order to
+measure piston friction. This unit has been run up to very
+high speeds and is mounted on a 19,000 lb. cast iron bed plate
+which is attached to the floor by means of rubber mountings.
+
+
+(d) Air cooled single cylinders with variable timing and variable
+lift valves for volumetric efficiency tests*
+All the engines are supplied with boost and exhaust evacuation (up to
+20,000 ft*) by a central system* A cyclone blower is now being installed
+in series with the normal system to increase this altitude for the (Cyclone
+single cylinder to over 30,000 ft.
+Instrumentation - Two particular points were noted as follows:-
+»
+(a) The use of a modified Famborough Indicator made up into &
+very compact form by the "American Instrument Company”j this
+is used in conjunction with a very compact cylinder unit built
+into a standard spark plug body*
+(b) The universal use of synchronous stroboscopes for the accurate
+recording of H.P.M*
+As an example of the type of work done, the Massachusetts Institute of
+Technology have produced a bibliography covering 65 papers and 2 books
+published as a result of original research at the Institute and this is
+listed in the Appendix*
+6C-2.08 .Grades of Education* Most of the foregoing has dealt with the higher
+education of the engineers, but it is realised that it is impossible to
+bring forward people with the required background for higher education,
+without providing the necessary backing for technical schools and
+universities of all types* Otherwise a brilliant man at one technical
+school may be deprived of the privilege of advancing his knowledge because
+the basic education in this technical school is not sufficiently good to
+allow him to enter one of the major universities.
+6C " 2 * 09 Uoat University Training. In order to make the best possible use of
+the country’s resources in the way of potential engineering brains, it is
+considered essential that provision should be made for financial assistance
+to suitable candidates who cannot themselves afford the cost of a normal
+engineering degree course.
+In America, students can earn money themselves in a number of ways 1 '
+and two examples follow: -
+(i) At the California Institute of Technology students can earn
+as research assistants in their spare time.
+(ii) At the University of Cincinnati, students taking the co-operative
+course are paid by the firms for whom they work*
+These instances and others are applicable in their own place but
+cannot be regarded as superseding the scholarship scheme, which must be
+highly developed in all grades of engineering education*
+
+
+APPENDIX - LIST OF DOCUMENTS BROUGHT FROM AMERICA
+1* Educational Directory 1941-1942 Part IV,
+2. Booklet - U.S. Office of Education 1941-42 Part III
+Colleges and Universities.
+3* Journal of Engineering Education - Several oopies
+containing articles on education.
+4. New York University Bulletin February 1942 College
+of Engineering, including the Daniel Guggenheim School
+of Aeronautics.
+5. Manual - Massachusetts Institute of Technology Bulletin
+Catalogue Issue June 1942.
+4
+6. University of Cincinnati Bulletin Co-operative courses,
+College of Engineering and Commerce 1943-1944,
+7. Booklet - Thirty years of Educational Pioneering.
+The Philosophy of the Co-operative System and its
+Practical Test. University of Cincinnati.
+8. Booklet- College of Engineering and Commerce School of
+Applied Arts. University of Cincinnati 1942-43*
+
+
+EDUCATION AND RESEARCH
+PART D RESEARCH ESTABLISHMENTS
+CHAPTER 1 - BROAD POLICY CONCLUSIONS
+Item 1.01 American research equipment
+1.02 Need for increased research equipment in Britain
+M 1.03 Organisation
+CHAPTER 2 - NEED FOR INCREASED RESEARCH IN BRITAIN
+CHAPTER 3 ~ LANGLEY FIELD
+Item 3*ol General description
+" 3*02 Description of structures laboratory
+" 3.03 Particular items of structural research
+” 3.04 Recommendations
+CHAPTER 4 ~ CANADIAN NATIONAL RESEARCH COUNCIL
+Item 4.01 General description
+0 4.02 Particular items of research
+" 4*03 Recommendations
+CHAPTER 3 ~ AMERICAN WIND TUNNELS
+Item 5.01 General
+w 5.02 Large high speed tunnels
+" 5»03 Large slow speed tunnels
+w 5.04 Special tunnels
+" 5*05 Concluding comments
+CHAPTER 6 - ENGINE RESEARCH
+Item 6.01 20 foot tunnel at Wright Field
+° 6.02 10 foot tunnel at Wright Field
+n 6.03 N.A.C.A. Engine research laboratory at Cleveland
+" 6.04 Naval aircraft factory at Philadelphia
+APPENDIX - LIST OF DOCOMSNTS BROUGHT FROM AMERICA
+
+
+
+
+CHAPTER 1 - BROAD POLICY COHCLQSIQNS
+6D-1.01 American research equipment. It will be noted that frequent
+reference is made in this report to new developments which are
+taking place in America, on aircraft, accessories and power
+plant, and the excellent development and research equipment
+that has been set up during the last few years in America for
+rapid realisation of this new work.
+This includes wind tunnels, material structure testing
+departments, engine testing and research laboratories, fuel and
+oil laboratories, vibration testing departments, etc. The
+Government departments have been divided into several sections
+and the universities have been supplied with modem and up to
+date equipment. With the ever increasing demands on aircraft
+technique, higher speeds, and the necessity for carefully planned
+research before new types sire entered upon, equipment and facili-
+ties of this kind will place any country so constituted far ahead
+of one in which their aircraft designers and engineers must of
+necessity design as an art rather than an applied science.
+6D-1.02 Need for increased research equipment in Britain. This country,
+which has been entirely devoted to the war effort during the last
+four years, has been forced for that period to put its major effort
+into ad hoc development rather than pure research, but in view of
+the increasing complexity of modem aircraft, it is suggested that
+the time has now come to lay down a more ambitious forward programme,
+which will have to be backed by a considerable expenditure on
+research equipment.
+6D-1.03 Organisation. With the aid of practical research men, who are
+able to look at the problem as a Managing Director rather than a
+research experimenter, this new equipment could be planned and used
+to the best advantage, on a strictly businesslike basis to realise
+certain results within a given time. It is felt that a suitable
+proportion of the research equipment should be invested with
+industry and also in the universities, rather than allow all
+research to be undertaken by Government departments. Some of the
+bigger and more basic questions must be dealt with nationally, but
+the Mission are in favour of giving as much of the research work
+as is practical to the industry and the universities.
+
+
+
+
+CHAPTER 2 - NEED FOR INCREASED RESEARCH IN BRITAIN
+6D-2.01 Whereas the first charge of the Mission was to review the prospects
+of improving British production during the next 24 months, and to talk over
+with the American authorities and firms certain specific technical problems,
+the tour was not half completed before the members became deeply impressed
+with the remarkable grip that aviation has got on the whole country during
+the last two or three years, and the bold, and what might possibly appear*
+rash, expenditure on development and research which was going on in all
+matters relating to aviation throughout the country.
+In a separate part of this section, the question of the numbers and
+quality of trained aircraft engineers that exist, both amongst the
+technical personnel of the Army and Navy, and amongst the aircraft firms
+themselves, has been commented on, and a corollary to this state of
+affairs is the lavish expenditure both in Government departments and the
+firms themselves on research equipment, which has been set up recently
+and which will be able to be operated to full advantage by this ever
+growing force of trained aeronautical engineers.
+It was felt by the members of the Mission that these developments
+were so important and will provide America with so much valuable informa-
+tion in regard to new types of aircraft, that an effort should be made to
+investigate these matters in some detail, and to endeavour to get a clear
+cut picture of what the research facilities are iifc America at the present
+time.
+It need not be emphasised in this report, which will be read by
+executive members of M.A.P. and the industry, how vital research equipment
+is in the art of developing aircraft; that every day it is becoming more
+of a necessity rather than a luxury, and that the excellent family of
+military aircraft which have been doing such outstanding work in the hands
+of the allied air forces during the last three years, cannot be repeated
+in modern form with the same methods of artistry that were sufficient to
+meet the situation 7 or 8 years ago. In America, research equipment has
+been wisely spread over several Government departments as well as a
+number of private firms. It would appear that the division of this
+equipment is of the order of about 60 to k&7o in favour of the Government
+departments.
+i
+As regards Government research laboratories, these have been split up
+into half a dozen different centres and there has been no attempt to group
+them all in one or two locations. v
+Well planned research programmes are cleared annually for all the
+important constructors, and one of the major firms is expending as much
+as a million dollars per month in research and development. The Mission
+were unable to ascertain the expenditure that has been made over recent
+years on research and equipment for aircraft and aircraft subsidiaries,
+but it is estimated by them that it must be of the order of 30 to 40
+million pounds.
+Our enemies have given great attention to this question of research
+equipment before the war, and now the Mission are thankful to find our
+Allies have planned most wisely in regard to adequate research equipment
+and long term research experimental work.
+The past history of this country has been built up by the Navy and the
+quality of its equipment, and in this new sphere of flying, which demands
+so much higher technical quality and long term development, it would be
+suicidal for us to fall behind.
+It is suggested that such questions as bringing our tunnel development
+up to date, providing an altitude tunnel for engine testing, providing suit-
+able laboratories for fuel and oil testing, etc., should be given considera-
+tion. Suitable laboratories for developing the electrical testing technique
+for aircraft structures which has been so highly developed over the last two
+or three years in America, should also be tackled. The Mission sincerely
+hope that an adequate amount of research will be put with private concerns
+
+
+leaving the Government departments to do the really big work, entailing
+an item such as the high altitude engine tunnel.
+CHAPTER 3 - LANGLEY FIELD
+(With special reference to the structural work in progress)
+6D-3.01 General Description. The National Advisory Council for Aeronautics is
+appointed by, and is directly responsible to, the President, and its
+members are drawn from the Army, Navy and Civil Aeronautics Administration.
+Dr. Lewis is Chief Executive and the Council’s main function is to administer
+the Government's grants for aeronautics, and to decide what research is to
+be carried out at the Government laboratories at Langley Field (Virginia),
+Moffat Field (California) and the engine research station at Cleveland.
+The last named only came into being quite recently, but it is already of
+first rate importance and will soon be the centre for all engine testing
+and development. Moffat Field, which is also recent, is a duplication
+of the Aerodynamics Division at Langley Field. Its object is to help
+the West Coast firms with wind tunnel work.
+At Langley Field, Mr. Reid is in charge of Research, and the follow-
+ing are the most important technical divisions.
+(a) Aerodynamics Division. This is under Mr. Miller and includes all
+wind tunnels and the structures laboratory under Mr. Lundquist.
+(b) Hydrodynamics Division. This is under Mr. Truscott and embraces
+all the work done in the two seaplane tanks.
+(c) Physical Research Division. This is under Mr. Theordorsen and is
+concerned with flutter and problems of an essentially theoretical
+or mathematical character.
+(d) Power Plant Division. This is under Mr. Kemper and is in process
+of being transferred to Cleveland.
+As the visit to Langley Field was almost entirely confined to seeing
+the structural work in progress, the statements made in the following
+sections refer only to the structures unit.
+6d-3»02 Description of Structures Laboratory. At present the Structures
+Laboratory is part of the Aerodynamics Division, but it is probable that
+this situation will soon be changed. It is due to the rapid growth of
+the Unit which three years ago numbered only 6, but which now has 35
+University trained engineers and 15 assistants. The actual test laboratory
+is large but not yet fully equipped, as Mr. Lundquist has worked on the
+principle of only procuring machines for which there is a definite need.
+The work on hand and the method of approach to it have a strongly
+scientific flavour, and there is little in progress of an ad hoc nature
+which has originated direct from the industry. Work of this kind, to
+which an answer is required at once, is not encouraged, as it is felt that
+it is much better done on the spot by the firms themselves.
+Such an arrangement has the obvious advantage that work of a more
+fundamental and long term character - such as finding the best type of
+structure for maintaining wing surface smoothness - can proceed without
+interruption, but there is always the danger that such work will become
+academic owing to lack of liaison with the firms. To meet this danger by
+trying to foresee what fresh structural problems are likely to arise in
+the future, a system is now being tried whereby one or two members of the
+staff make a periodical tour of the industry. This scheme is considered
+by the firms to be excellent, as they feel that in the past much of the
+structural work of the N.A. C.A. was in danger of being either irrelevant
+or too highbrow. While it is clear that more use is made of the structural
+work done at Langley Field than most firms are willing to admit, this
+attitude does emphasise the large gap which exists between the basic
+research done by the N.A.C.A., and what the firms themselves are prepared
+to use.
+
+
+The work in progress is mainly experimental, and the ratio of the
+time spent by the Unit as a whole on experiment and theory is in the
+neighbourhood of three to one. This is partly caused by lack of
+theoretical ability on behalf of the more recently recruited members of the
+staff, but is mainly due to the definite policy of not publishing theoretical,
+results without experimental evidence to back them.
+Concerning theoretical research, it is felt that the need at the
+moment is rather to re-write existing work in a more readily understandable
+form, than to launch out on new developments. Great interest is being
+taken in the production of A.N.C.4* > & handbook on stressing methods, and
+it is anticipated that Messrs. Lundquist and Kuhn will together be
+responsible for some of the more advanced chapters.
+Apart from the Royal Aeronautical Society data sheets, of which there
+is a fairly complete set, the knowledge which Langley Field possesses of
+the structural research which is in progress over here, is most meagre.
+Many reports from the R.A.E. or N.P.L. are never seen at all, and this is
+no doubt the reason why so little reference is made in American reports to
+similar work which is being done in Britain. Such lack of liaison is
+unfortunate and should be remedied. The amount and quality of the research
+in progress is impressive, and the following is a brief account of some of
+the items.
+6D-3.03 Particular Items of Structural Research. The main items on which
+structural research is proceeding at Langley Field are the following: -
+1 • Structure for Smooth Wings. The drag of a number of wing
+sections embodying various types of construction have been found in a
+wind tunnel, and these same sections are now being tested structurally.
+The loading is pure compression and the object of the tests is to examine
+the effect on wing surface smoothness of
+a single loading,
+(b) repeated loadings.
+A bulletin entitled "A Preliminary study of the effect of compressive load
+on the fairness of a low drag wing specimen with Z section stiffeners"
+January 1943> has already been issued, and more are to follow. The types
+of construction being investigated include
+(a) Front spar well aft, no span-wise stiffeners, close rib
+spacing.
+(b) Front spar well aft, span-wise stiffeners and conventional rib
+spacing.
+(c) Box with front spar well forward, spanwise stiffeners and
+conventional rib spacing.
+In the course Of discussion, Mr. Abbott suggested that for obtaining
+the necessary wing surface smoothness the following conditions were
+certainly desirable and probably essential. When using aluminium alloy
+the skin should be 0.08 in. or more thick. If possible span-wise
+stiffeners should be avoided and the material thus saved should be put
+into the skin. Where this is impracticable, care must be taken to smooth
+off protruding rivet heads (by the tool specially developed by the N.A.C.A.
+for the purpose), and to fill up the dents with some filling material.
+The portion of the wing aft of 70fi of the chord is not particularly
+important, and in that region the use of a thinner skin is quite permissible.
+Since smoothness is especially important over the front part of the wing,
+and since it is difficult to make a smooth joint between the cover and spar,
+the front spar should be at least h&fo of the chord aft of the leading edge.
+2- Panel Tests. With the object of providing data that might be of
+use in low drag wing design, a large number of panel tests are in progress.
+Special attention is being paid to the initial buckling stress and to the
+average stress developed at maximum load, as it is felt that for a smooth
+wing surface buckling may have to be delayed until the attaining of two
+
+
+thirds of the maximum average stress. The specimens being tested comprise
+two groups. The first contains 500 panels with 6 2 section stiffeners of
+24 ST; the second comprises 1,000 panels with 4 Z or top hat stiffeners
+• made from stretched and artificially aged 24 ST.
+Compression Stress Strain Curves. Ways of obtaining compression stress
+curves are being improved and three methods are in use or in progress of
+development. The first is to form a pack by cyclewelding together a
+number of specimens. The second is by means of a single strip fixture with
+closely spaced roller supports. In the third the specimen is supported
+between two well lubricated plates. One or two tests have been carried
+out with the cycleweld process and the method looks promising.
+Stress concentration round small holes in aluminium alloy sheet. When
+stressing an area with small holes, "firms take into account the reduction
+in area, but not always the effects of stress concentration. The justifi-
+cation for this procedure is being investigated, and preliminary results
+indicate that a 5 to 10 per cent reduction in allowable stress in the net
+section will effectively cover any stress concentration for maximum
+strength calculation.
+Shear Lag and Shear Diffusion. Three main pieces of work on this
+subject are at present in progress.
+1 * A wing test for the purpose of verifying the recent theoretical
+work of Messrs. Kuhn and Chiarito on shear lag.
+2. An experiment on a flat sheet with longitudinal and transverse
+reinforcement for the purpose of finding the stress distribution
+round various sizes of rectangular cut-out.
+%
+3» A series of tests on reinforced circular cylinders, having as
+their main object the investigation of the post-buckling
+behaviour of curved panels in shear.
+The effect of normal pressure on the buckling of curved panels. This
+problem has arisen through the increasing importance of maintaining wing
+surface smoothness, and the need for estimating the effect of air loads
+on the stability of the skin. Experimental work is in progress, and
+provisional results indicate that owing to air loads, the stress at which
+buckling would otherwise take place will be considerably increased and
+under certain circumstances may be almost doubled.
+Strain Gauges. Extensive use is made of standard electrical resist-
+ance strain gauges, and one or two hundred may be used on a test. The
+performance of the gauges is considered satisfactory, and efforts are now
+being made to reduce the time of recording.
+6D-3-04 Re commendations.
+(i) In Britain long term structural research has been reduced and it
+is suggested that the position should be reviewed.
+(ii) The N.A. C. A.» Yflright Field and the Navy Bureau should automatically
+receive a copy of all British reports which come up before the A.R.C.
+CHAPTER 4 - CANADIAN NATIONAL RESEARCH COUNCIL
+6d-4*01 General Description. A brief visit was paid to the Aeronautics Department
+of the N.R.C., and the opportunity was taken to consider the relationship of
+the work of the Aeronautics Department with that of other bodies, and to
+discuss a number of particular items of research. The N.R.C. was started
+by General McNaughton about ten years ago, but until 1939 the personnel and
+equipment in the Aeronautics Department was very restricted, and it was not
+until 1 940 that the department was able to occupy their new laboratory some
+four miles outside Ottawa.
+
+
+The Aeronautics Department is sub-divided into the sections shown in
+the adjoining chart and is an institution of quality rather than quantity.
+The total staff number 500, of whom about a quarter are university graduates,
+and the remainder are in workshops or engaged in administrative duties.
+The ability of the staff is of a high standard, and the equipment is good
+but limited.
+The work done comprises a number of specialised items and is confined
+where possible to Canadian problems. The quality of the work is high but
+unfortunately suffers from lack of contact with the industry or an
+operational theatre of war. The senior members of the staff are well
+aware of the difficulties of their position - that they are infinitesimally
+small compared with other similar establishments (c.f. Wright Field with
+23,000 employees) and that their geographical position entails working on
+long term work of low priority. This latter point makes it difficult to
+retain junior staff who feel remote from the war effort.
+$hile the smallness of the staff and the -geographical position are
+not matters which can be remedied, it was felt that much could be done to
+enhance the value of the work in progress. The closest possible liaison
+between British establishments and the N.R.C. would be highly beneficial,
+and ah annual interchange of staff of intermediate grades would be an
+experiment well worth trying. Probably an exchange of five or six men a
+year would be of the right order. Further, the work which the N.R.C. is
+doing should be periodically reviewed by representatives of British research
+bodies so as to avoid duplication of effort and experiments of academic
+interest only.
+To conclude, it was felt that the full value of the N.R.C. would only
+be realised if its efforts were closely co-ordinated with the work of British
+establishments. As these sure so heavily engaged on short term work of an
+ad hoc nature, it should be possible to arrange for the N.R.C. to do some of
+the more fundamental research which in Britain has almost lapsed. Every
+effort should therefore be made to effect a real liaison of the kind exist-
+ing between N.P.L., R.A.E. and the Flight Testing establishments.
+6d-4»02 Particular Items of Research
+panel Testing. The N.R.C., with the help of Professor Jackson of
+Toronto University, have Just completed an excellent set of tests on the
+behaviour of flat and curved panels in compression. The panels tested
+were 20 ins. long; 4, 6 or 8 ins. wide; 24 ins. radius, 48 ins. radius
+or flat; and were of one or other of three standard gauges. Moreover
+four specimens were tested for each combination of width, thickness and
+curvature. Great attention was paid to the effect of repeated loadings
+and it was found that if the load at which initial buckling occurred on
+the first loading was immediately reduced, then the load at which buckling
+first occurred on the next loading was not much altered. Tjftiereas if the
+load at which initial buckling occurred on the first loading was increased
+before ultimate removal, then the load at which buckling first occurred on
+the next loading was reduced. J ’
+
+
+The method adopted for measuring the amplitude of the buckles was
+ingenious and is illustrated in Pig. 1.
+A wire grid was placed in front of the
+panel, and a bright light (a) threw a
+shadow of the grid on to the panel. As
+soon as buckling occurred, the shadows
+of the wires were displaced, and the
+magnitude of the displacements were
+recorded by the camera (b). The cali-
+bration involved was considerable, but
+the accuracy of the method made it
+possible to measure normal deflections
+to the nearest thousandth of an inch.
+FIG. 1.
+The N.R, C. are now proposing to repeat the whole series of tests with
+the following improvements in the edge conditions* -
+(a) The two curved edges are being fitted into 1/4" deep grooves
+(of the appropriate curvature) instead of into Wood's metal
+which invariably caused local distortion of the panel.
+(b) Instead of confining the two straight edges in a series of
+closely spaced notches, (a form of constraint which after
+buckling sometimes amounted to complete fixing), they are
+being attached to closely spaced arms which are free to
+move along but not normal to the panel.
+In view of the excellent results obtained from the first series (now in
+process of being written up) and since some part at least of the additional
+series of tests is most unlikely to yield information of value to designers,
+it was felt that the A.R.C. should have the opportunity to study the results
+of the first series before the start of the second. It was felt that on
+future tests electrical strain gauges could be used to advantage, and that
+a further development of value would be to carry out a similar series of
+tests for panels in shear.
+Moulded plywood. This and the panel testing constitutes the main work
+of the structures unit. They have a laboratory complete with two ovens for
+making moulded plywood parts, and at present they are engaged on a small
+production order for plywood rear fuselages for Harvards. This, it was felt,
+was a waste of time, as the tests involve little research or development and
+are a job which could well be done by a wooden aircraft firm. In the course
+of this work satisfactory results have been obtained with either urea or
+phenolic glues. The latter are preferred on account of their water resistant
+qualities, but owing to the higher temperatures required for gluing, and the
+consequently shortened life of the rubber bags, only urea glues are now being
+used.
+It appears that this laboratory might well be employed in keeping abreast
+with some of the recent new developments in America, such as application of
+glass cloth, cyclewelding, etc.
+De-icing. A considerable amount of de-icing work is in progress and,
+except for limitations on flight testing facilities, proceeding well. The
+following are the views expressed by the head of the de-icing section on
+certain current problems.
+(a) Wind screen de-icing. To prevent frosting, misting and icing,
+it is bes-fc to have a double screen and to blow hot air between
+the two portions. This had been tried out on a Hudson and had
+been found satisfactory.
+00 Propeller de-icing. To counteract icing an electrical resistance
+method had been developed. It had been satisfactorily tried out
+in both America and Canada and it was hoped that it would be
+taken up by the Services.
+
+
+. (c) Wing de-icing* For this it was felt that heat de-icing was by
+far the most effective method available. There was still some
+doubt as to what was the best type of muff, but tests indicated
+that to pass the exhaust through a number of tubes, e.g. 16
+1/2 in. tubes, was a satisfactory compromise. While the back
+pressure due to the tubes was a disadvantage, they improved the
+flame damping.
+Wind tunnels. Two new wind tunnels are nearly ready for use. One is
+a horizontal closed jet tunnel with a 2,000 h.p. motor and with a speed of
+350 m.p.h. (estimated) at the working section. This section is elliptical,
+measuring 10' x 6*8”. A six component balance with automatic recording is
+employed. The other tunnel is a vertical spinning tunnel, similar to that
+at R.A.E., 15* in diameter and capable of testing models of 3* span. The
+controls in the model can be operated electro-magnetically. The N.H.C.
+hopes to collaborate with Britain in the use of these tunnels. This seems
+a very logical step and the spinning tunnel should make it possible to
+double the output of British work on model spinning tests. The Canadian
+industry will certainly not provide sufficient work to occupy these tunnels.
+6D-4« 03 Recommendations.
+(i) The liaison between British research establishments and the N.R.C.
+should be improved, so that the work of the N.R.C. can be closely
+co-ordinated with similar work in progress over here. As an aid
+to achieving this it is suggested that an interchange of staff
+be considered.
+(ii) The panel tests made by the N.R.C. should be reviewed immediately
+by the Aeronautical Research Committee.
+(iii) Proposals should be made for better employment of the plywood
+laboratory.
+(iv) Plans should be developed, if not already in existence, for
+collaborating with the N.R.C. in the use of their new wind tunnels.
+CHAPTER 5 - AMERICAN WIND TUNNELS
+6D-5. 01 General. In the United States there are some thirty good sized tunnels
+in use and a further ten under design or construction. Although the
+majority of existing tunnels are in official establishments, over 25/
+will be owned by aircraft firms and universities when the new tunnels are
+completed; and the effort which is being made by firms to have large
+high speed tunnels of their own, (e.g. Boeing, Curtiss, North American)
+is striking.
+6D-5*02 Large High Speed Tunnels. In Table I a list of modern high speed
+tunnels is given. Present day conditions call for speeds of 600 m.p.h.
+The R.A.E. tunnel, the Langley Field 8 ft. tunnel and the Moffat Field
+16 ft. tunnel all fulfil this requirement. It will also be noticed
+that there axe three tunnels under construction in U. S. with speeds
+estimated to be well above 600 m.p.h. The most significant feature of
+the information of Table I is the sheer scale of the U.S. equipment.
+Measuring in terms of power, the American tunnels listed use 186,000 h.p.
+*
+A striking example of the equipment being built by the firms them-
+selves is offered by the Curtiss fright tunnel, for which leading
+particulars are given in Table I, and which is illustrated in Fig. 2.
+This tunnel, which is virtually identical with one being built co-
+operatively by several Yifest Coast firms, is costing little over
+2,000,000 dollars.
+
+
+LARGE HIGH SPEED TUNNELS
+TABLE I
+Location
+Size
+Speed
+m. p. h.
+Pressure
+Power
+Jet
+Remarks
+Wright Field
+20* circ.
+450
+(closed
+Jet)
+Approx. A
+40,000
+Closed
+or open
+M It
+10* circ.
+685
+Down to a/8
+40,000
+Closed
+Contracts placed.
+Langley Field
+19' circ.
+310 at A
+220 at 2^A
+2.5A
+8,000
+Closed
+« if
+16' circ.
+470
+Approx. A
+16,000
+Closed
+tt tv
+8' circ.
+600
+A/2
+8,000
+Closed
+Moffat Field
+16* circ.
+600
+Approx. A
+27,000
+Closed
+Curtiss Wright
+12' x 8&'
+750 at
+A/4
+A/4 to 4A
+12,000
+Closed
+Under Construction.
+West Coast
+Corporation
+tt
+tt
+tt
+tt
+tl
+ii n
+M.I.T.
+10* x 7i'
+396 at
+A/4
+A/4 to 4A
+2,000
+tt
+Boeing
+12' X 8*
+500
+-
+-
+-
+Project
+North American
+11* x 7-1'
+327
+Approx. A
+3,030
+Closed
+-
+Cleveland
+20' circ.
+500
+Equiv. to
+50,000'
+18,000
+Closed
+LARGS SIZE SLOW SPEED TUNNELS TABLE II
+Location
+Size
+Speed
+M.P.H.
+Pressure
+Power
+Jet
+Remarks
+Langley Field
+Moffat Field
+30’ x 60'
+80' x 2*j0*
+100
+150
+A
+A
+8,000
+20,000
+Open
+Closed
+Project
+SPECIAL TUNNELS
+TABLE III
+location
+Duty
+Size
+Speed
+m. p. h.
+Pressure
+Power
+Jet
+Remarks
+Langley Field
+Spinning
+20' circ.
+65
+A
+hoo
+Closed
+tl — »»
+t»
+15' circ.
+40
+A
+150
+ft
+t» »*
+Stability
+6' x 6'
+230
+A
+600
+tl
+Possibly converting
+to high speed tunnel
+»f tl
+Two Dimen-
+sional
+7i' x y
+130 at 10A
+10A
+2000
+»!
+Usually operated at
+4 atmospheres
+ft ft
+Free Flight
+12’ circ.
+60
+2A
+400
+ft
+t» «l
+High Speed
+2' x 0.33'
+M = 1.0
+A
+Induced
+Flow
+ft
+tl ft
+High Speed
+2' circ.
+g
+ii
+p
+VO
+A
+»t
+tl
+Cal. Tech.
+High Speed
+1* x I’ard
+2* x 2'
+M = 3-0
+-
+3000
+ft
+Project (twin jets)
+
+
+FIG. 2. CURTISS WRIGHT TUNNEL.
+6D-5-03 Large slow speed tunnels (Table II). Apparently the U.S. consider this
+class of tunnel is still of value in view of their proposal to build a new
+and enlarged version at Moffat Field.
+6d~3• 04 Special tunnels (Table III). The most interesting development is the
+proposal to construct at Cal. Tech, a small tunnel giving speeds equal
+to three times the speed of sound. The other point to note from Table III
+is the American inclination towards exploring new avenues of research,
+without weighing the cost too heavily. The "Stability Tunnel" and the
+"Free Flight Tunnel" are illustrative of this.
+6D- 5.05 Concluding comment. Without entering into the question of whether the
+American equipment is technically superior to that in Britain, it is
+evident that the U.S. has taken wind tunnel equipment very seriously.
+- N i
+CHAPTER 6 - ENGINE RESEARCH,
+6D-6.01 20 foot tunnel at Wright Field. At the time of the Mission’s visit this
+tunnel had been running only a few weeks. It was designed under the
+direction of Dr. F.L. Wattendorf, who is in charge of the new department,
+which also includes the 10 foot high altitude tunnel at present under
+construction.
+The purpose of the 20 foot tunnel is to test models and full scale
+nacelles of military aircraft in order to expedite improvements in design
+and performance. It is primarily useful main types of applied
+tests; tests of complete aeroplane models on a six-component overhead
+balance, and cooling tests on full-scale engine nacelle assemblies,
+utilising a floor mounted drag balance.
+The tunnel is provided with three interchangeable throat configura-
+tions; closed throat, 20 foot open jet and 30 foot open jet. The maximum
+performance in the closed throat condition is as follows:-
+
+
+True air speed 452 m.p.h.
+Speed of fan 300 r.p.rn.
+Pan shaft horsepower 32,900 h.p.
+Energy ratio 5
+Mach number 0.6
+Dynamic pressure 455 lb. per sq. ft.
+Density altitude 7,000 ft.
+With a nacelle in the tunnel and the 20 foot gap, the maximum
+airspeed is about 380 to 400 m.p.h., and with the 30 foot gap the speed
+becomes about 350 m.p.h.
+of ’k unne l is shown in Pig. 3 and consists essentially
+(i) A closed return steel tube, 616 feet long, having a circular
+cross section varying in diameter from a maximum of 45 feet
+to 20 feet at the test section,
+(ii) A test chamber building,
+(iii) A power house building and sub-station,
+(iv) A workshop and office building, situated in front of the test
+chamber but not shown in Pig. 3.
+The shop portion will be used for making modifications to the models,
+nacelles etc., and preparing them for the tests and the office portion will
+be J US^. f ° r 117121(1 tunnel data computations, in addition to the administrative
+and office work in connection with the operation of the tunnel.
+A contract for preliminary design studies of the tunnel was awarded
+on May 10th, 1939 and subsequently contracts were placed for the
+construction of the test chamber building; tunnel duct structure; power
+building; power and control equipment; and the six-component balance.
+The fan motor of 40,000 horsepower is of especial interest, being
+probably the largest ever built. It was tendered for by the General
+Company and by Messrs. Westinghouse - the contract being awarded
+to Westinghouse, who also did the power and control equipment.
+All the essential items were completed by May 1st, 1942 and the first
+operation of the tunnel took place on May 11th, 1942.
+The total cost of the buildings and tunnel was about two and a half
+million dollars - approximately £500,000 at par or £620,000 at the present
+rate of exchange. Of this amount about one million dollars represents
+the cost of the Pan Motor and Control
+The staff to operate the tunnel consists of a Supervisor and two
+operators in the power building; and a chief operator, two assistants and
+two observers in the Control Room. No staff is required in the balance
+room since the six-component balance is remotely controlled and records
+automatically on a printing unit in the control room. Mr. Jacobs is the
+chief operator and was responsible for the instrumentation.
+An experienced staff of aerodynamic specialists is also available to
+plan the work and to analyse and report the results.
+The tunnel tube itself is built of welded rolled steel plate with nine
+expansion Joints and appropriate structural members as shown in Pigs. 4, 5,
+b and 7. It is powered by the 40,000 horsepower wound rotor induction
+motor provided with smooth speed control from 37 to 300 r.p.rn.
+The fan drive system consists of two tandem fans 40 feet in diameter
+each having 16 spruce blades. Pro-rotation vanes are used for producing
+uniform axial flow behind the fan. F &
+
+
+FIG. 3. GENERAL LAYOUT OF 20 FOOT WIND TUNNEL WRIGHT FIELD DAYTON OHIO
+
+
+FIG. 4 WRIGHT FIELD 20 FOOT WIND TUNNEL. GENERAL VIEW — LOOKING NORTHWEST.
+FIG. 5. WRIGHT FIELD 20 FOOT WIND TUNNEL. LOOKING NORTHWEST AT SHOP AND OFFICE BUILDlNG.
+FIG. 6. WRIGHT FIELD 20 FOOT WIND TUNNEL. PLAN VIEW.
+FIG. 7 WRIGHT FIELD 20 FOOT WIND TUNNEL. LEFT : POWER HOUSE. RIGHT : TEST CHAMBER.
+
+
+FIG. 8. WRIGHT FIELD 20 WIND
+TUNNEL. INSIDE POWER BUILDING:
+ASSEMBLY OPERATIONS OF 40,000
+H.P. FAN MOTOR. MOTOR ROTOR
+RESTING IN ITS BEARINGS IN FINAL
+ASSEMBLY LOCATION.
+FIG. 9. WRIGHT FIELD 20 FOOT WIND TUNNEL. INTERIOR
+OF TEST CHAMBER SHOWING CONTROLS.
+FIG. 10. WRIGHT FIELD 20 FOOT WIND TUNNEL. GENERAL VIEW IN THE CONTROL ROOM,
+SHOWING TUNNEL CONTROLS, PRINTER AND ENGINE CONTROLS.
+
+
+A conventional system of cascades of aerofoil section, having
+flexibly adjustable trailing edges, is used at each right angle bend of the
+tunnel and a large mesh honeycomb is provided at the last bend before the
+expansion chamber. The test section can be varied in length as stated
+aboye by removal of the closed throat section and collector bell section.
+An air exchanger is incorporated in the tunnel just upstream of the
+fan and results in continuous induction of about of fresh air. This
+serves not only to cool the tunnel but to prevent excessive exhaust gas
+concentration during engine tests. Other methods were investigated, such
+as water spray on the shell and refrigeration cooling, but these would
+have been too costly. It is said that direct air mixing is the cheapest
+and best, and the throat temperature never exceeds 90°P.
+Opposite the fan and outside the tunnel there are foundations and
+facilities for a crane suitable for removing the fans and shafting for
+inspection or overhaul.
+The tunnel can handle a 3,000 h.p. engine for cooling tests. Fire risk
+is localised by having the main petrol tank outside the building and feeding
+a small auxiliary tank placed higher than the engine. Carbon monoxide
+indicators are installed at various points round the tunnel as a precautionary
+measure, but there is no trouble with exhaust gas contamination.
+The test chamber unit is reinforced concrete structure 106 feet by
+60 feet set athwart and surrounding the tunnel gap, the centre line of which
+is 20 feet above the main floor. A stairway leads from the main floor to an
+observation floor 17 feet above and it is possible to observe the model or
+nacelle in the gap from a distance of about 20 feet.
+In view of the reduced pressure in the working section of the tunnel
+when running, an appropriate airlock door system connects the observation
+floor with the control room, which is adequately ventilated and sound proofed.
+The shop and office building accommodation on the upper floor will serve the
+staffs of both the completed 20 foot and the future 10 foot high speed tunnel.
+The power house is situated on the north end of the tunnel and is 112|
+feet long by 51 A feet wide and 65 feet high. The 40,000 h.p. variable
+frequency motor is on a raised platform, and is coupled by shafting through
+the wall to the dual fans in the tunnel. The assembly operations on the
+motor are shown in Fig. 8, which incidentally gives a good idea of the size '
+of the rotor. Two motor-generators AC/DC and DC/AC respectively are
+arranged to form the speed regulation equipment for the main motor by provid-
+ing a variable frequency input, and automatic control to a pre-determined
+speed is provided.
+A separate substation takes power from a line at 66,000 volts and feeds
+at 6,600 volts to the main control switchboard in the power house.
+The test section of the tunnel is provided with a six-component, two
+parameter, electrically damped balance system for making tests on aeroplane
+models up to 16 feet in span. This balance is installed in a framework which
+can be traversed on overhead rails into position over the gao as shown in
+Fig. 9.
+Above the balance and on the same framework is the balance room contain-
+ing the observer’s control board for the balance behind which is situated the
+balance integrator. This panel contains the selsyn actuated dials for the
+3 axes force and moment components and other variables. Two lower dials on
+the board are a clock and the fan speed indicator reading up to 300 r.p.m.
+The balance is completely automatic with a duplicate set of dials situa-
+ted in the tunnel control room as shown in Fig. 10. The forces on the balance
+units act on steel yard scales the floating aims of which operate make-and-
+break relays to control electric motors which move the jockey weights. Spring
+hinges are used for the balance pivots to avoid friction.
+
+
+Pig. 10 also illustrates the printing unit
+on which permanent recording of results is done.
+It can be seen immediately to the left of the
+main control table, and it produces a typed
+sheet, about 30 inches wide, of the balance
+readings printed in column order against time
+and date.
+A sample portion of such a record is given
+in Pig. 11; as this was taken when the balance
+was inactive, each column shows the same readings
+repeated.
+The overhead balance is at present locked
+for engine tests, but a fuselage balance is
+under construction which will enable tests to
+be made on full scale nacelles with running
+propellers.
+The engine controls and instruments can be
+seen in the left side of Pig. 10, behind the
+balance printing unit, the apparatus including
+a Brown 144 point recording thermocouple poten-
+tiometer, which is used for engine cylinder
+temperatures and for general observations, and
+which is described in detail in Section 5
+Part E. This instrument types the readings
+automatically at 2 second intervals as shown
+in Pig. 12 which is a sample record. There
+is also a panel of the usual engine running
+instruments and a fuel flowmeter. During
+the visit of the Mission a 2,000 h.p. Wright
+3350 cubic inch engine was being calibrated.
+It was stated that the tunnel was in general
+use for 5 hours a day - this is probably made
+possible by the 2 shift system which is in
+operation throughout the Establishment, the
+division of hours being 7.30 a.m. - 4.0 p.m.
+and 3*o p.m. - 11 p.m. with a staggered
+change over system.
+6D-6.02 10 foot tunnel at Wrifftit Field. In
+addition to the 20 foot tunnel the Air Force
+authorities realised the need for a tunnel
+giving all the conditions of flight at altit-
+ude, and they have therefore approved the
+construction of another unit incorporating
+refrigeration. This is known as the 10 foot
+high altitude wind tunnel and construction
+has begun on a site directly alongside the
+20 foot unit.
+The purpose of this tunnel is to provide
+means for investigating applied aerodynamic
+problems of military aircraft models and
+component parts, especially under altitude
+conditions up to 50,000 feet and air speeds
+approaching the speed of sound. For air
+speeds in the compressibility range, modifica-
+tions to aircraft such as addition of armament
+or changes in cowling have a direct influence
+on the critical speed and the change in
+associated aerodynamic characteristics.
+Since a large percentage of modifications to
+military aircraft originates at the Materiel
+Centre, the existence of the new high speed tun-
+nel will enable the effect on performance of
+FIG. 11.
+
+
+proposed modifications to be tested at the source. In addition the large
+refrigerating plant associated with the tunnel will allow icing tests and
+applied heat transfer Investigations to be made.
+Up to December 1942 contracts have been placed for the cold chamber
+building, tunnel duct structure, refrigeration equipment, control equipment,
+six-component balance and other principal items. The main contracts call
+for completion in one year.
+The tunnel will be capable of evacuation at least to one-eighth
+atmosphere to simulate pressure conditions at 50,000 feet altitude.
+A storage type of refrigeration system will make possible a throat
+temperature of -67°P at air speeds above 600 m.p.h. Preliminary model
+tests have shown speeds of nine-tenths the speed of sound to be attainable
+without change of throat. The tunnel will have sufficient reserve power
+to attain still higher speeds with suitable throat modifications.
+Associated with the tunnel in a separate building housing the refrigerating
+equipment there will be a cold chamber for testing equipment under
+temperature conditions down to -67°P.
+FIG. 12.
+
+
+The 10 foot high altitude wind tunnel is of the closed return type
+having a circular cross section varying from a maximum of 40 feet to
+10 feet at the test section. The overall length of the tube is
+586 feet and it will be built in steel plate varying in thickness from
+3/8" to 1.1/4".
+Two counter rotating fans 19 feet in diameter will be driven by
+two 20,000 h.p. electric motors which will make use of the speed
+control equipment already provided for the 20 foot tunnel.
+Fig 13 shows, in a plan view of both tunnels, how the layout Has
+been economically planned to make use of a common workshop and office
+building and control equipment.
+FIG. 13.
+
+
+6D-6.03 N.A.C.A,. Engine Research Laboratory at Cleveland. 'The laboratory as a
+whole - in initial conception and execution - is due chiefly to the fore-
+sight and persistence of Dr. Lewis, Chief Executive of the N.A.C.A., who
+has been responsible for carrying through to Congress the arguments in
+favour of such a comprehensive policy for engine research.
+The estimated cost of the whole plant was 18,000,000 dollars or
+approximately 4i million pounds at the present rate of exchange. The
+site chosen for the laboratory comprises 200 acres on the boundary of the
+Cleveland Airport and has a city park at the rear so that there is anple
+room for expansion. Among the chief factors in this choice of site and
+district was the relative proximity of the chief engine firms which are
+located in the Detroit and Nast Coast areas, and also that airport facilities
+are essential for the flight research work that will form so important a
+part of the whole programme.
+The laboratory is at present in course of construction and about half
+the available area has already been laid out. The whole scheme has been
+under construction for about 21 months and the members of the Mission were
+the first foreigners to have the privilege of inspecting the progress to
+date. Already more than half is completed, the offices, machine shops,
+and several test departments are in full operation.
+The present plans have catered for an administrative office building;
+engine research laboratory; fuel and lubricants laboratory; flight
+research hangar; engine research tunnel and an icing tunnel; propeller
+research building; workshops and stores; power sub-stations totalling
+some 70,000 K.V.A. etc.
+The administrative building is an office block from which the general
+administration of the entire laboratory will be carried out. It contains
+on an upper floor a well-lighted and equipped drawing office.
+The engine research laboratory comprises a well equipped fitting shop
+with a number of smaller laboratories and engine test beds surrounding it.
+/
+There are in all some 40 single cylinder test cubicles, 24 of which
+are adjacent to the small laboratories.
+In addition to the conprehensive array of single cylinder units
+engaged on the various phases of engine research there are four full scale
+test beds which can deal with engines up to 8,000 h.p. To permit altitude
+conditions to be applied to all the beds there is an up to date altitude
+plant capable of running an 8,000 h.p. engine at 50,000 feet intake and -
+exhaust pressures and -67°P intake temperature.
+There are also gear driven and turbo driven supercharger test rigs,
+and blowers for engine work capable of supplying air at pressures up to
+60 lb. per sq. inch.
+In the basement is housed the equipment for supercharging air, exhaust
+extraction and refrigeration and these services are piped to the various
+cubicles and are remotely controlled from a central control room over-
+looking the plant.
+Fuel is stored in remote fireproof rooms and fed to the various
+cubicles by means of submerged pumps. Most of the single cylinder stands
+are provided with eddy current dynamometers and ultimately will have
+electronic speed control.
+The small '"icing" tunnel is intended for the study of engine icing
+problems which, in spite of much investigatory work already elsewhere, are
+not yet near ideal solution.
+
+
+The fuel and lubricant laboratory is on two floors, the upper
+comprising a long corridor and a number of "2 men” laboratories leading
+off it in cubicle form. America is generally much more “fire conscious”
+than Britain and the fuel and oil laboratories are a particularly good
+example of careful provision of fire fighting equipment - chemical
+extinguishers, fireproof blankets and water spray booths being provided
+in each cubicle.
+Overall the accommodation provides for well equipped Analytical,
+Fuel Synthesis and Reactor Laboratories, the reactors and stills having
+a potential output of 15 gallon batches of special fuels refined from
+rough stocks and appropriately blended. Xn the basement there are many
+test engines, among them being: -
+(1) A G.F.R. high speed unit on which a piezo electric crystal
+indicator is used, giving a pressure time diagram and its
+first derivative enabling knock-intensity and rate of
+pressure rise to be recorded on the cathode ray tube.
+(2) A C.F.R. general purpose unit.
+(3) A spherical head unit; small bore, high speed 3,600 r.p.m.
+17*6 cubic inch capacity and supercharged; supplied by
+Mr. Heron of Ethyl Gas Corporation for fuel research.
+♦
+(4) A C.F.R. unit for instrument research on knock-meters;
+indicators etc.
+All these C.F.R. engines were built by the Waukesha Motor Co., and it
+was interesting to observe that four of them were running on direct fuel
+injection.
+The flight research hangar is large enough to house a B.19 aircraft
+and is provided with its own engine maintenance shops etc. It is being
+appropriately equipped with instrumental and other apparatus.
+A department is concentrating on the development of instruments
+among which were noted:-
+A device for photographic tabulation of a multitude of differential
+pressures across cowl entries, baffles, etc., and a galvanometer modified
+for photographic flight recording of 100 thermocouple readings within
+one minute.
+Complete modem machine shops, sheet metal and pattern shop
+facilities are provided and considerable attention is paid to the
+adequacy of these services for the rapid handling of the research projects
+as they develop.
+The most important feature of this laboratory is a high altitude test
+bed consisting of a closed circuit wind tunnel 20 feet in diameter in
+which a complete nacelle with engine and flight propeller can be mounted.
+The tunnel is cooled by a mechanically refrigerated system working with a
+finned tube heat exchanger located in the tunnel air stream at the largest
+diameter. The refrigerating system is designed to test a 3,000 h.p.
+engine at 30,000’ altitude and a corresponding temperature. Wind speeds
+up to 500 m.p.h. can be achieved at 30,000’ and the motor power correspond-
+ing to this speed and altitude is 18,000 h.p.
+The tunnel structure is designed to provide for tests to be made at an
+altitude of 50,000 feet and the equipment will normally be used for testing
+actual service engine installations from ground level to 30,000 feet with
+provisions for a continuous operation at the appropriate pressure and
+temperature for each altitude.
+The cost of the evacuating pumps and refrigerating system made up a
+large proportion of the total cost of the tunnel.
+
+
+6D-6.04 Naval Aircraft Factory at Philadelphia. This establishment is the Naval
+equivalent of Wright Field, which is purely an Army Air Force organisation.
+It is located within the Navy Yard, and out of a total personnel of
+50,000 there are 11,000 people employed on aircraft work. Some actual
+aircraft production is carried out, and there are departments similar to
+ours at the R. A.E. for handling development work.
+There is a very well equipped engine department capable of carrying
+out any development job, although but little new work is initiated there
+as such research is sponsored and carried out by the N.A. C.A. The Navy
+opinion is that engines of 5,000 h.p. will soon be required, and in
+anticipation of this they are constructing a new test cell and dynamometer
+room to absorb 6,000 h.p., or 3,000 h.p. at 40,000 feet with intake air
+down to -67°F. The test bed will have both single and contra-rotating
+drives. The Navy at the present time, use air cooled engines only; it
+was stated that although the Navy developed the best liquid cooled engine
+in the States, they deliberately chose afterwards not to use it. The engine
+referred to was the Lycoming 2740 cu.in. which in their hands has developed
+1.2 h.p. per cu.in., or over 3,000 h.p. This project was carried through
+because the Navy wanted first hand experience of liquid cooling in case the
+exigencies of war forced them to adopt it in order to maintain performance.
+The equipment of the engine department also included -
+Propellers. Complete vibration equipment for propellers using carbon
+strain gauges.
+Fuels and Oils Laboratory.
+Ignition Harness and Magneto Developments including high frequency.
+Test beds. There are six dynamometer rooms and 8 test cells for
+propeller running. There is one control room for each pair of beds. All
+six test beds have altitude exhaust and intake pressures and cold air supply
+with automatic control of the plant. Of the 8 propeller test cells two
+can be run under altitude conditions.
+There is also a test stand for turbo supercharging experiments and
+turbo supercharged engine installations can be type tested. A new
+carburettor laboratory and fuel pump room has recently been added.
+APPENDIX - LIST OF DOCUMENTS BROUGHT FROM AMERICA
+Reports of Canadian National Research Council:
+1. Plight Tests of Intake Air Heater Muff Installed on Lockheed
+Hudson Mark 111 * Aircraft, Report Nol MD-21 - November, 1942.
+2» A Summary of Replies to the National Research Council
+Questionnaire on Aircraft De-icing, Report No. MD-24 -
+October, 1942.
+3- Air Heated Windsection Preliminary Results of Plight Tests,
+Report No. MD-26 - November, 1942.
+Miscellaneous photographs of Wright Field 20 foot tunnel.
+NATIONAL LIBRARY OF AUSTRALIA
+
+
+
+

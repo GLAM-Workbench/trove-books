@@ -1,0 +1,2455 @@
+
+
+Power Requirements
+and Resources of
+New South Wales
+By WILLIAM CORIN
+M. Inst. C. E., M.A.I.E.E., M.A.I.E.E
+Chief Electrical Engineer, Department of Public Works
+New South Wales Government
+
+
+POWER REQUIREMENTS
+AND RESOURCES OF
+NEW SOUTH WALES
+BY
+WILLIAM CORIN
+M. Inst. C.E., M.I.E.E., M.A.I.E.E.
+Chief Electrical Engineer. Department of Public
+Works. -New South Wales
+Government,
+Paper read before
+The Electrical Association of Australia,
+New South Wales Section,
+4th June, 1915.
+SYDNEY:
+F. Clakk Printing House, 3 Rowe Street,
+*9 1 5
+
+
+TABLE OF CONTENTS.
+PAGE
+PART I.—POWER REQUIREMENTS OP N.S.W. .. 5
+A. —Manufacturing Industries . . .. .. .. 7
+(i.) Industries requiring mechanical power . . 7
+(ii.) Industries requiring power for electro-
+chemical and electro-thermic processes.
+Calcium Carbide; Alkalies; Copper;
+Iron and Steel; Aluminium . . . . 9
+B. —Towns Supply .. . . .. .. .. ~ 13
+C. —Rural Supply .. .. .. .. .. .. 16
+Ploughing ; Shearing ; Dairy Work . . 17, 18
+Irrigation . . . . ... . . . . . . 18
+D. —Locomotion :
+(i.) Tramways .. .. .. .. .. 19
+(ii.) Urban and Suburban Railways . . .. 20
+(iii.) Main Line Railways . . . . . . 20
+Summary of Part I. .. .. .. .. .. .. 22
+PART II.—POWER RESOURCES OF N.S.W 24
+A. —Coal 25
+Available Coal in New South Wales . . .. 25
+Locality of Coal Measures . . .. .. . , 26
+Calorific Value and Price . . .. . . . . 26
+B. —Water Power .. .. .. .. .. .. 27
+Example afforded by the Cotter River .. . . ' 28
+Investigation of State Water Power . . . . 31
+PART III.—ADAPTATION OF THE POWER
+RESOURCES OF THE STATE TO MEET
+THE REQUIREMENTS .. .. .. 34
+
+
+A. —Development of the Coal Resources of the State
+for Power Production .. .. .. .. 3fl
+(i.) Overall Steam Power Station Efficiencies . . 36
+(ii.) Gas Engines. Gas Turbines .. .. 37
+(iii.) Coke-oven Gas .. .. .. ... 36
+B. —Utilisation op the Water Power Resources op the
+State .. .. .. .. .. .... 40
+Points in the Development of a Water Power . . 41
+C. —Electrical Transmission v. Railway Haulage . . 41
+(i.) Influence of Transmission Line Design . . 41
+(ii.) Large v. Small Power Stations . . . . 4 2
+(iii.) Influence of Electrical System of Transmis-
+sion. High-tension Continuous Current 46
+(iv.) Actual Cases. Use of Inferior Coals.
+Advantage of Interconnection . . . . 44
+D. —Examples from other Countries .. .. .. 45
+(i.) Company-owned Schemes. Great Britain;
+Sweden; Germany; Switzerland; United
+States . . . . . . . . . . 45
+(ii.) State and Municipally-owned Schemes.
+Sweden; Holland; Germany; Switzer-
+land; Canada; Hydro-Electric Power
+Commission of Ontario .. .. . . 43
+E. Solution of the Power Supply Problem in New
+South Wales .. .. .. .. .. .. 52
+CONCLUSION .. .. 53
+
+
+POWER REQUIREMENTS AND RESOURCES
+OF NEW SOUTH WALES.
+By WILLIAM GORINI, M. Inst. C.E., M.I.E.E., M.A.I.E.E.,
+Chief Electrical Engineer, Department of Public Works,
+New South Wales Government.
+This paper is divided into three parts. In Part I an in-
+quiry is made as to the present total power in use in the State,
+and an attempt is made to forecast the extent to which power
+may reasonably be anticipated to be required in the immediate
+future. In Part 11. will be found a discussion of the resources
+available for meeting the anticipated demand; and in Part
+111., the author has attempted to indicate in what manner these
+resources should be developed in order best to provide for the
+requirements so as to supply power at the lowest rates, and
+in such a manner as to invite the establishment of new indus-
+tries in New South Wales.
+Each of these inquiries opens up a wide branch of discus-
+sion, and the author has found difficulty in confining the paper
+within reasonable limits whilst dealing thoroughly with each
+matter deserving consideration.
+PART I.—POWER REQUIREMENTS OF N.S.W.
+It will be convenient to discuss this subject under four
+headings, subjecting each in turn to such analysis as will show
+the probable growth within a period, which the author, for the
+
+
+purpose of discussion, lias set at 15 years, i.e., until 1930.
+These headings are as follows;
+A. —Manufacturing Industries.
+B. —Towns Supply.
+C. —Rural Supply.
+D. —Locomotion.
+As regards the first two headings, in attempting to fore-
+cast the future requirements, there has been considerable pro-
+gress up to the present date, of which a careful scrutiny en-
+ables valuable deductions to be drawn as regards the future.
+As to the second heading, i.e.. Towns Supply, the development
+in New South Wales has been insignificant compared with
+what has been done in other parts of the world, and with
+what might have been expected in this State; whilst Rural
+Supply is in a still more backward position.
+Increased demand in respect of each class of operation is
+bound to arise,, a number of factors conducing thereto. First
+amongst these is the increasing tendency to apply power to
+many classes of operation hitherto carried out by manual
+labour, due partly to the spread of education opening the eyes
+of the man in the street to the fact that mechanical power is
+msily and cheaply applied, partly to the fact that electrical
+supply has contributed greatly to that ease of application and
+to the low price of power, and last, but by no means least, to
+the absolute necessity, owing to the continual rise in rates
+of wages, of minimising the use of human labour and employ-
+ing power-driven machinery wherever possible. If the popu-
+lation remained steady, these factors alone would cause an
+augmented demand; but it is clear that the evergrowing popu-
+lation of the State will cause an acceleration of the rate of
+increase, which will be still further accentuated as manu-
+factures new to this State, are, as they doubtless will be.
+added to those already in operation. This is apart from the
+possibility of the discovery of new mining fields which may
+add to the requirements to an extent that cannot be fore-
+cast. For these reasons it may be expected that the curve
+of total demand for power will, at least for the next few de-
+cades, rise at an ever increasing rate. Some idea of what
+
+
+lhat rate will be may be arrived at by individual examination
+•of the various classes of operations.
+A.—MANUFACTURING INDUSTRIES.
+These are referred to under two sub-headings.
+(i.) Industries Requiring Mechanical Power.
+All the world over, excepting where water has been
+used from time immemorial as a source of power, the
+steam engine since its introduction more than a century ago,
+for long formed the chief means of providing that motive
+power which is essential in the majority of the industrial arts
+and manufactures. Towards the close of the last century,
+the gas engine asserted its claim for consideration, and very
+little later the electric motor, coupled with the facilities af-
+forded by electrical transmission, so proved its convenience
+for the final application of power, that therb is now no
+field of industrial enterprise where the electric motor is
+not competing successfully against the older forms of prime
+mover, this term being used in its broadest sense, relative to
+the factory, to indicate any mechanism whereby any form of
+latent or potential energy is changed into the energy of
+motion for industrial purposes.
+As above hinted, New South Wales has been notoriously
+backward in connection with electrical applications, but the
+State Statistical Register shows that since the beginning of the
+present century a notable advance has been made, and elec-
+tricity now bids fair to take its proper place in manufactur-
+ing in Nbav South Wales just as it has so established itself
+in other parts of the World.
+The following figures, deduced from the State Statistical
+Register show the average horse power in the State in use for
+industrial manufactures of all classes, excepting, of course,
+electrical power stations, from the beginning of this century.
+The earlier records available are not in each case presented
+in the same form. Consequently, years in which some figures
+are missing or are otherwise confusing have been omitted,
+and only those Where the statistics are directly comparable
+have been included in this tdble.
+
+
+I
+2
+Stationary
+Totai.
+3 4
+TABLE 1.
+Industrial Prime-Movers.
+Average Horse-Power.
+5 6 7 8
+9
+Year.
+Steam.
+<Jas.
+Water.
+Oil.
+Total
+Non-
+Electric.
+Electric
+Motors.
+Total
+All Classes.
+Ratio
+Non-elect ric
+Electric.
+1901
+35,354
+1,548
+62
+36
+*
+37,000
+...
+330
+37,330
+112 12
+1905
+40,935
+...
+..
+3,054
+90
+•217
+44,296
+3,682
+47'978
+12-05
+1908
+46,153
+5,841
+73
+445
+52,512
+10,937
+63,449
+4 80
+1909
+50,290
+7,841
+77
+508
+58,716
+11,773
+70,489
+4 99
+1910
+54,987
+9,317
+67
+652
+65,023
+15,991
+81,014
+4-07
+1911
+60,725
+10,911
+80
+1,097
+72,813
+20,671
+93,484
+3-52
+1912
+61,227
+14,399
+43
+921
+76,590
+26,652
+103,242
+2-87
+1913
+67,045
+12,294
+77
+1.142
+80,558
+35,885
+116,443
+2-24
+1913*
+24,757
+8,356
+20
+265
+33,398
+24,276
+57,674
+1-37
+* Metropolitan Area Only.
+The results as regards Columns 6,7, and 8, are presented
+in the form of curves in Figure 1. These curves show inter
+alia
+That as might be expected from the considerations set
+forth above, the curve of total power has a decided
+upward tendency. Dividing the period from 1901
+to 1913 into three intervals of four years each, the
+increases for the successive intervals are: 10,648,
+22,511, and 45,954 H.P. respectively.
+That whereas at the beginning of the century the H.P.
+suplied from other forms of prime mover was 112
+times that suplied by electric motors, at the close of
+1913 this ratio had been reduced from 112 to 2\.
+That whilst the total H.P. (average used) had increased
+3.12 times during this period, that supplied by elec-
+tric motors had increased 108.7 times, as against
+only 2.2 times for other forms of prime mover.
+That whereas the electric motor curve shows an ac-
+celerating upward tendency, the non-electric curve
+
+
+FIGURE 1
+STATIONARY INDUSTRIAL PRIME MOVERS
+INCREASE OF H.p. FROM 1901 TO 1913
+
+
+FI G. 2
+STATIONARY INDUSTRIAL PRIME MOVERS
+PROBABLE INCREASE OF H. P FROM 1915 TO 1930
+
+
+reached a point of inflection in 1911, since when the
+rate of increase shows retardation to have com-
+menced, and the curve may be expected to fall
+after a few years to a point where it will probably
+remain fairly steady for some time, representing
+the power taken by those industries for which di-
+rect application of steam engines has been proved
+to form at least one satisfactory solution of the
+driving problems involved, after which it is possible
+that it may slowly rise again.
+In Figure 2. the same results are plotted to a
+flatter scale, and the curves are continued in an upward direc-
+tion until 1930. Two methods suggested themselves for con-
+tinuing these curves; one the strictly synthetic method of
+attempting to evaluate the respective influences of increase
+of mechanical application, initiation of new industries, rise
+of wages; and growth of population; a difficult though inter-
+esting task, and though considered not adopted by the author;
+the other, to find the equation to a curve approximating to
+that plotted and then to simply continue it. This latter
+is a short cut and has been adopted; but an attempt to apply
+the former method serves to strengthen the results arrived
+at.
+The nett result is that for the next 15 years the increased
+power demand for stationary industrial uses may be antici-
+pated to amount for the whole of the State to a total of
+197,500 11. P.. i.e., 381,000 H.P. in addition to that in use in
+1913.
+Of this total, 416,000 H.P. may be anticipated to be sup-
+plied electrically, and the balance, 81,500 H.P., may be re-
+garded as non-electric.
+Allowing for diversity factor and losses, the 416,000-h.p.
+will require 300,000 k.w., and will use, with a load factor of 23
+per cent.. 600 million units per annum.
+(ii.) Industries Requiring Power for Electro-Chemical
+or Electro-Thermic Processes.
+Consideration of the contributing factors referred to above
+leads the author to include in this total the use of power in
+industries new to the State though it is quite within the range
+
+
+of ppssib,ility, tlutt anything up tq one half the figure sug-
+gested for 1930 wav be required for electrochemical and elec-
+trqthermic processes alone, in which ease that total would
+be’ largely increased. r f l he chief products of these pro-
+cesses gre calcium carbide, alkalies, and sundry allied pro-
+ducts, and as regards electrp.-metallurgy, copper, high-grade
+steel and aluminium.
+Calcium Carbide.—ln 1904 the imports, less exports of cal-
+cium carbide, into the Commonwealth, were 45,866 cwt.. valued
+at £40,174. Nine years later, in 1913, these figures had grown
+to 285,408 cwts., valued at £182.774.
+In 1906 the autho'r reported to the Queensland Government
+on a proposal to use the Barron Falls for the manufacture of
+carbide. The scheme at that time fell through, and thus the
+introduction of a new industry, which would have* been not
+only the means of providing work for a large number of opera-
+tives, but also a most lucrative venture for the manufacturing
+company, and greatly to the benefit of Queensland, was for the
+time being lost to Australia.
+There is no reason why all the carbide used in Australia
+should net be made in N.S.W.. and though the extended supply
+of electric power advocated by the author later in this paper
+might somewhat lessen the demand in future, yet for isolated
+positions in the immense areas of the State which no power dis-
+tribution scheme designed on present-day lines can hope to
+reach, there will still exist a demand for acetylene lighting,
+apart from the other uses to which carbide may be put, and
+apart too from the manufacture of calcium cyanamide (“nitro-
+lim’-), an article of considerable manorial value prepared
+from calcium carbide, with of nitrogen avail-
+able in a form easily assimilable by plant life.
+The author visited carbide works at Avesta, in Sweden,
+where also other most interesting electro-chemical and purely
+chemical processes were in operation; also the carborundum
+works at Niagara, but time did not permit of his availing him-
+self of the kind permission granted by Dr. S. Eyde to inspect
+the electro-chemical works at Rjukan, in Norway, where the
+largest power station in Europe, totalling 145,000 11. P., sup-
+plies woyks, wh,ere, amongst other things, nitrogen is extracted
+frpjn the atmosphere by the Birkeland process.
+
+
+Alkalies.—The electrical manufacture pf alkalies, particu-
+larly caustic soda, chlorate of potash, and Caustic potash, is an-
+other industry extensively carried on in various localities where
+cheap power is available. The latest Commonwealth re-
+turns for caustic soda show imports less exports to be
+97,309 cwts.. valued at £55,102.
+Copper.—Turning to electro-metallurgy, copper-retining is
+already in operation at Lithgow and Port Kembla, and will
+greatly increase if Australia becomes more self-contained as
+time progresses, which is the more probable, seeing that the
+practice of relying chiefly upon Germany for refining
+is likely to be altered in the future.
+Iron and Steel. — Lron-smeltiug and refining, and the manu-
+facture of the higher grades of steel, are also processes in actual
+commercial use at the present day. The author saw 7 working las:
+year at Trollhiittan. the experimental blast furnace constructed
+by the Swedish Jernkontoret, or Society of Ironmasters.
+These works have since been acquired by a company, and are
+used for preparing the highest class of iron wdiich is employed
+for the manufacture of special steels. The furnace uses
+about 2,040 k.w. and turns out over 20 tons of pig iron per
+diem. The author also saw 7 at Avork a Stassano furnace at
+Dunstan. near NeAvcastle-on-Tyne. producing from steel scrap
+5 tons of high-class steel p.d.; two Ileroult furnaces, one
+basic and one acid, at K. Lindenherg’s Steel Works, near
+Diisseldorf, turning out about 3 and 10 to 12 tons p.d. respec-
+tively; and finally, a Girod furnace at Krupp’s Works at
+Essen, and also at the same place (not working at the time
+of his visit) a Frick furnace.
+Although the author was convinced that there 1 was a con-
+siderable field for the electric, furnace 1 for steel-refining in
+Australia it was only recently in conversation with Air. B. J.
+Smart. B.Sc.. Testing Engineer of the Public Works Depart-
+ment, that he re-aliseal Imw the ore's available in Australia lenel
+themselves especially te> electric treatment. Mr. Smart states
+that the 1 character of e>res, coke*, anel e>ther necessary mater-
+ials 5 which as so far knenvn form the main source of the iron
+supplies of Australia, is such as to prohibit the manufacture
+of high-grade acid, eepen-hearth steel such as is required for
+railway tyres, axles, boiler plates, guns, etc., the percentage
+
+
+of phosphorus being such that it is necessary to remove this
+by the basic process, the resulting product being better
+adapted for the production of structural steel, rails, &e. He
+states that by remelting basic steel on an acid bottom in an
+electric furnace, say of the Heroult type, there is no doubt
+that from results actually tried out, the steel produced is
+equal to the best acid steel. Mr. Smart is of opinion that
+the Germans have already been driven to some such course
+in the manufacture of guns, owing to a shortage of acid
+ores, and that a similar course may eventually be followed in
+thU country.
+It is clear that as development of the iron and steel re-
+cources of the Commonwealth progresses, there will be a
+greater need of the special classes of steel referred to, and
+seeing that New South Wales has led the way in this industry,
+the power requirements of the State in this direction are evi-
+dently considerable.
+Aluminium.—As regards aluminium, the author unsuccess-
+fully attempted to obtain access to works in Scotland. Germany,
+Prance, and America, where this metal is electrically prepared.
+Though the principles are well known, it appears that trade
+secrets, learnt as the result of experience, are jealously
+guarded, with the result that every application to view was
+answered by a polite invitation to visit the hydro-electric
+works, regretting at the same time the inability to permit ac-
+ces to the aluminium factory itself. Reference to the “Min-
+eral Resources of New South Wales,” by Mr. E. F. Pittman,
+Government Geologist and Under Secretary for Mines, shows
+that there are extensive deposits of bauxite in the State, and
+although cryolite, which it is understood is necessary for the
+manufacture, is not obtainable here, neither is it so far as
+one can learn in the other countries of the world where al-
+uriiinium is manufactured, so that in each case it has to be
+imported. At page 214 of the work cited. Mr. Pittman states:
+“It is satisfactory to know that the ores from which it is chiefly
+made in other countries occur in abundance in New South Wales.
+. . . There can be little doubt that the aluminium-smelting
+industry will be established in this part of the world before
+long.” On this account it seems that it needs only com-
+mercial enterprise, coupled with cheap electrical power, to
+enable tbe manufacture to be started in N.S.W.
+
+
+The author saw the hydro-electric works at Kinloch-
+leven, where 50,000 H.P. are developed for this industry by
+the British Aluminium Co., and the outside of the aluminium
+works themselves both there and at Uauffenburg, on the
+Rhine, and at Niagara, where again many thousands of horse
+power are used in the production of this metal.
+On this large subject of electro-chemical and electro-
+thermic industries the author has collected more data than
+it is possible to present in this paper. Enough has been said,
+however, to show that a supply of cheap electric power is one
+of the requirements of the State in this connection; and that
+given this cheap power in a convenient, locality new industries
+will be started for which tens of thousands of horse power
+will be required.
+B.—TOWNS SUPPLY
+The extremely backward position not only of New South
+Wales but of all Australia, as regards the electric lighting
+of the smaller towns, has frequently been a matter of won-
+der to the author. More than 20 years ago, in other countries
+of the world, such as England, Switerzland, and the United
+States, there were small towns on a par with the country
+towns of this State supplied with electricity for lighting and
+power. The reason of the forwardness of these countries
+is not only, as in Switzerland, that water power is abundant
+and cheap, for cheap fuel here counterbalances this consid-
+eration, and if the price is necessarily higher, generally speak-
+ing, the easier conditions of life here permit of a higher price
+being paid.
+One must go further to satisfactorily explain the back-
+wardness of New South Wales. It is suggested that the
+proximity of manufacturing centres with suitable machinery,
+obtainable at short notice, together with object-lessons in the
+immediate neighbourhood, afforded by paying undertakings,
+sufficient to satisfy the more enterprising members of the
+community, may largely account for the forward state of the
+industry in the countries referred to. Unfortunately, the
+corresponding object-lessons in New South Wales were in the
+past, with few exceptions, only glaring examples of failure
+of electricity supply, and if the causes of these failures be
+sought, in most cases it will be found that the reason must be
+
+
+laid at the door of bad engineering, together with a lack
+of appreciation of the commercial considerations involyed.
+In the majority of instances, the local authorities or com-
+panies were badly advised, and it was attempted to make
+street lighting pay apart from a correctly designed distributing
+system for private consumers. Examples have come under
+the author’s notice, where in place of a proper reticulation
+a few miles of copper wire have been hung in the streets
+without regard to the density of loading or the provision of
+sufficient feeders and the calculation of drop, with the result
+that the voltage on the consumer’s premises has varied from
+240 at the power station down to 200 or less at the far end
+of the mains. It is evident that in such cases the original
+design lias not been entrusted to the care of a competent con-
+sulting engineer. Cases have occurred where the consultant has
+lamely asked a municipal authority what private lighting he
+must provide for. The author emphatically submits that it is
+the duty of the advising engineer to tell municipal authorities
+what they need to provide for and not to ask them. In
+most cases where a plant has been properly laid down ab
+initio, and the mains system carefully designed to cater for
+private lighting, financial success has resulted.
+In addition to the set back in this State owing to failure
+of certain early plant, the lack of any effective legislation en-
+abling local authorities or companies to proceed on established
+lines with regard to the borrowing of capital and the acquir-
+ing of rights, has further militated against progress. The Local
+Government Act truly permits borrowing under certain condi-
+tions. one of which is that interest and repayment of loan funds
+must be paid out of a special loan rate; and it is not allowed
+for the profits of the undertaking to be applied towards pay-
+ment of interest and loan repayments. The new Local Govern-
+ment Bill now before Parliament will, if it passes,
+remove this disability, and where in any district people want a
+supply of electricity, they will have it in their power to obtain it.
+The general initiation of town lighting in the past in this
+State has for the foregoing reasons been too slow, too un-
+satisfactory to permit of any comparative statement covering
+past progress, for it is practically only within the last three
+or four years that any progress at all has been made, and
+
+
+TABLE 2.
+Name of Town
+Inverell ... ... Tainwortii
+' Teniora.
+For year ended
+December, 1914 . December, 1914...
+Dec’her, 1914
+Population
+5,200 ... 8,000
+8,050.
+Completed year of
+working ...
+Third ... . ... Second
+First.
+Plant capacity k.>v. ...
+72 ... '■ ... 25ft
+60.
+Connections, k. w.
+267 ... ... 748
+131.
+Max. load k.w.
+90 ... ... 1(58
+60
+Running load factor ...
+14-4% 28-1%
+12 8%,
+limits sold
+118,791 839,168
+67,265.
+Capital invested
+£10.828 £14,526
+4(5.971.
+Total costs
+£8.180 £4,272
+£1.559.
+Tptal Revenue
+£8,789 £6,138
+£2,220.
+Surplus...
+£609 C 1,866
+£661
+Units sold per head ...
+219 42 4
+22 1.
+Watts per head
+17 8 210
+197.
+As regards the last two items, the corresponding figures per head of population for the
+two undertakings with winch the author was connected in Tasmania, were
+Oannceston (water-
+power) 100 units sold and 83
+3 watts, and Oevonport (steam driven), 1903 fi
+gnres, 39 units sold
+apd.47'5 watts. Ttie estimate
+s given below are thus seen to be conservative.
+speaking generally, omitting reference to the larger centres of
+population, prior to 1910, there were only a few antiquated
+pia.pts in existence. Consequently, no attempt is here made
+to present progress in the past ffom the beginning of the
+century as under the first heading above, but a table is give'll
+showing the progress made since their inception or rehabili-
+tation of those municipal country town supply systems which
+have been established on a sound basis.
+As mentioned by our President, in his introductory ad-
+dress. Victoria is ahead of New South Wales with 73 country
+towns as against this State’s 40. On the population basis,
+Tasmania's 0 country towns quoted by Mr. Myers, as against
+our 40, with ten times the number of inhabitants,' is further
+evidence of the backwardness of the Mother State.
+As regards future requirements, it is surely not unreas-
+onable to expect that every self-respecting community of say
+I,OQO inhabitants and upwards will within the next 15, years
+demand and obtain a supply of electric light. Of such com-
+munities there were at the end of 1913 in New South Wales
+no less than 113, with an aggregate population of 350.840, and
+allowing for the anticipated increase of population as
+from the Government Statistician's Returns, the number
+which may be anticipated in 1930 is .170, with a population in
+the aggregate of 500,000. requiring for lighting and small
+power purposes, exclusive of the manufacturing industries.
+
+
+■dealt with under heading A. above, 15,000,000 units per an-
+num, with a maximum load of 15,000 k.w., or allowing for
+where the requirements under heading A. overlap those under
+this section, a total of 30,000,000 units per annum, with a
+maximum demand of 20,000 k.w.
+C.—RURAL SUPPLY.
+The question of the use of electricity for rural supply has
+been touched upon in the last two presidential addresses.
+The extensive use of power in country districts for farm :
+ing and other operations is a matter of great importance to
+the State, owing to the high cost of labour and the necessity
+above referred to of introducing labour-saving devices where-
+ever possible.
+In the past such use has been limited to those purposes to
+which on the one hand traction engines, and on the other
+stationary gas, oil and petrol engines can be adapted. If
+electrical power could be made available on a comprehensive
+scale in the country districts, its advent would give a great
+impetus to the substitution of power-using contrivances for
+all agricultural operations. This was recognised at an early
+stage of the Murrurnbidgee Irrigation Scheme by the late
+Commissioner, Mr. L. A. B. Wade, M. Inst. C. 8., with whom
+the author was in collaboration during the earlier work car-
+ried out by the Public Works Department prior to the creation
+of the Commission in January, 1913, and later he acted as ad-
+viser to the Commissioner in connection with the initial plant,
+the transmission line between the plant and the new township
+of Leeton, and the reticulation of the township. The com-
+paratively low voltage of 2,000 was adopted on account of the
+urgency of the work at its inception, a suitable generating
+set of this voltage being available, but it was intended from
+the outset to raise the pressure as soon as a comprehensive
+scheme for supply to the area were adopted.
+As to the reticulation, it is noteworthy that the poles and
+wires are kept as far as possible in back lanes, half-way between
+the streets; and the transmission line also deserves notice as
+being, as far as the author is aware, the first instance of a
+flexible steel pole transmission line in Australia.
+The question of supplying the a'-ea surrounding Leeton
+was under consideration, and a preliminary extension in one
+
+
+direction had been run and a comprehensive report furnished
+on the subject of extended supply when the author left the
+State for England, &c., whereupon the responsibility for the
+care of the undertaking was transferred to Dr. J. P. Y. Mad-
+sen, from whom the author is glad to hear of the continued
+success of the scheme.
+General Farming Operations.—During his tour, the author
+made inquiries as to actual cases of electrical energy distributed
+on a large scale for agricultural purposes; and not only learnt of
+large areas in Northern Europe so supplied, but was able to visit
+two farms electrically equipped and a central station supplying
+a considerable tract of country. This station was near Liibeck,
+of 10,300 k.w. capacity obtained from steam turbo-generators,
+blast furnace gas and coal being used for fuel. The energy
+was distributed in four different directions at 30,000 volts
+over lines of
+co-operative associations buy from the supply company at
+30,000 volts, and transform at 700 substations to 11,000, dis-
+tributing at this pressure over 1140 miles of mains. Of these
+five, the Grevesmiihletn Association, with a maximum load of
+500 k.w., used in 1912/13, 608,700 units, paying therefor
+£2,888 on a sliding scale (from 1.2 d. to 0.92 d. per unit), trans-
+forming at 96 substations, mostly on individual farms, of
+which the owners were shareholders in the association, and
+retailing 527,703 units to the members at a flat rate of 2.4 d.
+per unit, including all distribution charges. At the farm
+visited were 11 motors, totalling H.P., varying in power
+from 40 down to H.P., employed for threshing, chaff-cutting,
+workshop use, grain drying, and sundry other similar opera-
+tions.
+Ploughing.—Enquiries with regard to electric ploughing
+elicited some interesting data. Figures were supplied which,
+substituting Australian wages and allowing the plant to cost 50
+per cent, higher here, amount to from 4/6 to 12/6 per acre,
+according as the depth of furrow varies from 4in. to 14in. These
+figures allow for interest and amortisation, and for repairs and
+renewals on a liberal scale with electrical energy charged at
+1.5 d. per unit. The power required is at the rate of from 40
+to 70 watts, per acre, and thq energy from 12 to 27 units per
+acrf *' according to the depth of furrow.
+
+
+Shearing.—Comparing the cost of electricity with oil as
+the means for furnishing power for shearing, a 16 8.11. P. oil-
+engine will suffice for shearing 180,000 sheep, with a six weeks'
+season, at a cost of £BO, including all charges as above. An
+electric motor will do the same work with electricity at 1.5 d.
+per unit for £36. the power required being at the rate of about
+80 watts per thousand sheep, and the energy used about 24
+units per thousand sheep. If, then, the 40 million sheep of
+the State were sheared electrically, some 3.200 k.w. would be
+required, and the energy used would be in the neighbourhood
+of one million units. The load factor is necessarily low, but
+when taken in conjunction with other rural uses, sheep-shear-
+ing would help to fill up the gaps caused by the cessation of
+other agricultural or pastoral operations, so as to maintain an
+•even load curve.
+Dairy Work.—The author visited a dairy farm of 200 cows
+in Limburg, in Holland, where 44-h.p. was in use for milking,
+refrigerating, butter-making, etc., a considerable portion of the
+work being carried out electrically. There are approximately
+•650 dairy factories in N.S.W., the majority of which use any-
+thing between 4 and 24-h.p. each; 6,500 k.w. would be required
+for this purpose, with a total consumption of three million units
+per annum.
+IRRIGATION.
+Tallis again is a possible list' which must he kept in
+view. Irrigation by means of electric pumping from a large
+Station has transformed whole tracts of country in Califor-
+nia from desert into orchard land of high value.
+Whilst these various uses will undoubtedly in the future
+•cause a great and increasing demand for electrical power, some
+idea of the extent of which may be gathered from the above con-
+siderations, in order to forecast the probable requirements the
+best plan is to adopt some conservative figdfe on which to
+hazard a guess.
+Taking the cultivated area of the State as 3,000,000 acres
+and allowing 1 k.w. to every 100 acfeS, if & gehefal power
+supply were available to-day, there would be a demand of
+50,000 k.w., and in 15 years’ time this should, for the reasons
+given in the prefatory remarks dbove, be more than doubled,
+or should at least reach 100,000 k.w., with an annual consumption
+of 100,000,000 units.
+
+
+TABLE 3.—N.S.W. GOVERNMENT TRAMWAYS.
+Avkiiaoe Load for Maximum Morn.
+OU-ITI'T.
+Thousands of K.W.
+Millions of Units.
+Maximum for Year.
+Increase.
+Total for Year.
+Increase.
+1901
+14 1
+1902
+0 22
+19 5
+a *4
+1902
+7 r>4
+1 22
+22-6
+121
+. 1904
+t O.)
+0 01
+22 1
+0-5
+1902
+8 20
+0-75
+25-0
+1-9
+1900
+9 10
+0 80
+27-2
+0-0
+1907
+10 02
+0 92
+29 7
+2-5
+190S
+. 10 77
+0-75
+42-6
+2-9
+1909
+1-3-50
+2-79
+52 "2
+8-0
+1910
+15-80
+2 24
+01 4
+9-2
+{911
+18 60
+2-80
+715
+10 1
+1912
+22 20
+2-70
+84-0 ’
+12-5
+1912
+22 92
+1-62
+94*-2
+10-2
+1914
+•24-92
+0 99
+95 7
+1 4
+Owing to the intermittent character of the agricultural
+work the load factor is unusually low in this case, but com-
+bined with a town supply the average load factor is reason-
+ably high, and seeing that each rural district has its adjacent
+country town or towns, the catering for the requirements of
+these two classes of demand will eventually need to be con-
+sidered together in detail for each area supplied. This ques-
+tion is further dealt with under Part 111.
+D.—LOCOMOTION.
+This subject naturally divides itself under three headings :
+X) Tramways.
+(ii.) Urban and Suburban Railways.
+(iil.) Main Line Railways.
+(i.) Tramways: —
+Our Past President, Mr. 0. AY. Brain. M.lnst.H.K..
+lias kindly supplied figures relative to the growth of the New-
+South Wales Government tramways since 1900. from w-hieh the
+following table has been prepared:—
+It will be seen that the rapidity of the growth was great-
+est from 1909 to 1913. and that it has since somewhat dropped
+The electrification of the Newcastle trams will shortly be
+ebtnplefed. and probably new systems will be started in other
+
+
+towns of the State, with perhaps some inter-urban lines be-
+tween adjacent towns suitably situated —such, for example, as
+the coastal towns from Port Kembla northward—yet the pos-
+sible competition of self-contained motor-driven vehicles, whe-
+ther petrol or electric, such as caused unforeseen interference
+with the London County Council’s tramway receipts must not be
+overlooked. And further, the city and suburban railways will
+relieve tram traffic and retard the increase which would other-
+wise occur. However, it may be assumed that the increase will
+be at least half as much as the average increase from 1901 to
+1914. thus making a total for 1930 of say 35.000 k.w. and 145
+millions of units.
+(ii.) Urban and Suburban Railways: —
+.Air. J. C. Bradfield. ALE.. ALInst.C.E.. Chief Engineer for
+Aletropolitan Railway Construction, has kindly supplied fig-
+ures with respect to this subject.
+For the complete electrification of the Suburban Railways,
+viz., the existing railways as far as Parramatta, Hornsby,
+Bankstown, and Oatley, and for the proposed City Railway and
+Eastern, AVestern, and Northern Suburbs Railways, 130,000 k.w.
+will be required.
+Air. Roger T. Smith, in his paper on “Some Railway Con-
+ditions Governing Electrification,” read before the Institution
+of Electrical Engineers in February, 1914, gives the average
+load factor of such a railway as from 45 to 55 per cent.; but
+taking the more moderate figure of 23 per cent., the annual
+energy requirements for these railways will be 260 millions of
+units. ■
+It is not anticipated that this electrification will be com-
+plete until 1920 or later. The growth beyond these dates will
+depend upon the growth of Sydney. Doubtless other Suburban
+Railways will be electrified in the neighbourhood of Newcastle,
+and possibly of other important centres, so that by 1930 it is
+not unreasonable to* anticipate that 150,000 kilowatts will be at
+work, using a total of 300 million units.
+(iii.) Main Line Railways: —
+The conditions under which railway electrification for main
+line traffic is feasible have, so far as Great Britain, is concerned,
+
+
+been ably dealt with by Mr. Roger Smith in the paper just
+quoted. I] is conclusions are that, whereas for reasons now well
+understood, for urban and suburban traffic, electrification is an
+absolute necessity, the electric locomotive has yet to be desig-
+ned capable of competing with the steam locomotive under
+British main line conditions, with a draw-bar pull of say 7,500
+te IO.OOOIbs. at speeds in excess of 40 or 45 miles per hour. He
+does not question that such a locomotive can be designed, but he
+points out that the low cost of the best English coal (12/6 per
+ton) is one of the factors making against main line electrification
+in Great Britain. For goods traffic, on the other hand, he re-
+capitulates the advantages of the electric locomotive, showing
+how essentially it suits this class of traffic.
+The arguments in favour of goods traffic apply with still
+greater force in this country, where in many cases the grades
+are greater than in Great Britain, and heavy loads require to
+be hauled for great distances; but as regards passenger traffic,
+New South Wales conditions are different to British, for on
+the one hand few of our trains exceed speeds of 40 or 50 miles
+an hour, and on the other hand, owfing to the great distances, the
+cost of haulage brings the price of coal at inland centres for
+locomotive use to a very high figure; and if central stations
+deriving their power from either water or from local coal, per-
+haps not suited for locomotive burning, were to provide elec-
+trical energy at fairly low rates, many of the interior railways
+of the State, especially those in hilly countries, could be worked
+at a cost considerably below that of steam traction.
+As this subject is to a large extent problematical, the
+author does not include any forecast of the amount of electri-
+cal energy likely to be used for this purpose during the period
+under consideration.
+As indicating the extent to which power is used for the
+railways of the State at the present time, Mr. E. E. Lucy,
+M.l.Mech.E., Chief Mechanical Engineer of the State Govern-
+ment Railways, has kindly furnished the author with the fol-
+lowing information. The total tractive power of the main line
+locomotives (that is, exclusive of those used for suburban pas-
+senger train service) in use at any ©ne time, is 21,729,8941b5.
+This rhay be taken as equivalent to a total of 605,256 b.h.p. The
+consumption of coal for these services during the year ending
+December 1914 was, for main line passenger locomotives,
+
+
+Table 4.
+K.W.
+Millions
+of Units.
+A. — Manufacturing Industries,
+requiring. —
+(i.) Mechanical Power
+(ii.) Power for Electro-Chemical
+300.000
+600
+and Electro-Thermic Pro-
+cesses, saj T
+100.000
+700
+E. — Towns Supply. Exclusive of
+[Manufacturing
+15,000
+15
+C. — Rural Supply
+100,000
+100
+D. — C-) Tramways
+(ii.) Urban and Suburban Rail-
+35.00(1
+145
+ways
+150.000
+300
+(iii.) Main Line Railways . . . .
+Not
+Included.
+Total for 1930
+700,000
+.... 1,860
+242.525 tons, and for goods locomotives. 508,298 tons. The
+estimated yearly increase of traffic is stated to be 8 per cent, on
+the previous year’s business. Assuming this rate of increase
+to continue till 1930, the total power would be equiva-
+lent to 2,205.000 b.b.p.. and the coal for the two classes of ser-
+vice as follows:
+Tons op Coal fok 1930.
+Passenger . . . . . . 769.880
+Goods . . . . . . 1.596.580
+Total . . 2.365.860
+Integrating the coal which would be used from 1916 to 1930
+inclusive, the sum is 21 -8 million tons. Owing to the relative
+economy of fuel, a large part of this would be saved for each
+part of the main line electrified.
+SUMMARY OF PART I.
+Summarising now the anticipated demand for electrical
+power and energy, we have as follows for the probable require-
+ments for 1980:
+Mr. H. R. Forbes Mackay. General Manager of the City
+Council’s Electric Light Department, Mr. J. E. Donoghue.
+General Manager and Chief Engineer of the Electric Lighting
+
+
+FIGURE 3
+ELECTRICAL SUPPLY STATIONS OF N.S.W.
+ROWER &. OUTPUT FROM 1901 TO 1913
+AND
+ANTICIPATED REQUIREMENTS TO 1930
+
+
+Year.
+Table 5.
+(Generator Oapacilv.
+K.W. hr*, (ieneratvd.
+K. W.
+Millions of I'nits.
+1901
+2.600
+....
+15)05
+19.100
+....
+15)08
+26.500
+82.4
+11)10
+07.200
+116.4
+1011
+40.800
+105.0
+1912
+50.200
+.... 166.7
+1910
+56.600
+190.7
+1900
+Avehauk
+Thousands
+Total for Year.
+Fowek.
+of K.W.
+Increase.
+OUTPUT.
+Millions of Units.
+Total for Year. Increase
+1905
+19 . .
+—
+—
+—
+19.10
+. . 37 ..
+IS
+116 ..
+—
+1915
+. . 87 . .
+50
+292
+176
+1920
+. . 193 . .
+106
+604 . .
+312
+1925
+. . 376
+183
+.. 1096 ..
+492
+1930
+. . 700 .
+224
+.. 1862 ..
+766
+and Power Supply Corporation. Mr. Guy Allbut, City Electri-
+cal Engineer of Newcastle, and a number of the town clerks
+and managers connected with the various electric supply sta-
+tions throughout the State, have favoured the author with data
+dealing with the growth of their respective undertakings, which
+show the very rapid rise in the demand since the commence-
+ment of the century. They' agree in the main with the figures
+shown in tin* Statistical Register, which are set down in the
+following table: —
+These figures, including the totals from Table 4, are plot-
+ted in Figure 3, the intervening years between 1913 and 1930
+being filled in by a dotted line, showing approximately in what
+way, from year to year, th.e curves may be expected to rise,
+though it is to be noted that the irregularities which may be
+expected from three to five years hence, from the sudden in-
+creases, owing to the electrification of the city and suburban
+railways, are smoothed out.
+From these curves it may be seen that the following are
+the figures, so far as obtainable, for successive periods of five
+years each from the beginning of the century to the current
+year, and thence estimated to 1930: —
+
+
+The forecast for the five years from 1915 to 1920 thus
+shows a probable increase of 106,000 k.w., with an output of
+312 million units. Preparation for this increase needs to be
+taken in hand immediately.
+If all the units under the curve from 1916-30 inclusive were
+provided by the most efficient steam-plant obtainable, allowing
+the extreme figure of 1,000 units per ton of coal, no less a quan-
+tity than 14.3 millions of tons would be used for this purpose.
+Adding the 21.8 million tons for main line passenger and
+goods locomotives, it is seen that the total coal that may
+be expected to be used for power purposes, if all the power
+is so derived for the years 1916 to 1930, is 36.1 millions of
+tons. Whether part of these coal resources may be saved
+by the substitution of water power is amongst the subjects
+discussed in the next part of this paper.
+PART II.—POWER RESOURCES OF NEW SOUTH
+WALES.
+Turning next to the Power Resources of the State, these
+are limited in the main to two only:—Coal and Water.
+Certainly there are supplies of wood in some parts of the
+country which can be either burnt in boilers or carbonised, and
+the charcoal used for suction gas-engines. For small powers,
+in the absence of a comprehensive power supply scheme, suc-
+tion gas derived from charcoal is one of the cheapest sources
+of power available; but the supply is limited, and the inevitable
+result of starting works, especially if of any magnitude, depen-
+dent upon wood, is that the available supplies in the neigh-
+bourhood are quickly exhausted, with the’ consequence that
+wood has to be drawn from greater and greater distances, in-
+volving a rapid increase of price. Further, when the cost of
+labour is taken into consideration, suction gas-plant in small
+units could not, in general, successfully compete with that de-
+rived from a comprehensive system of supply, such as suggested
+in this paper.
+Of natural gas, in the Pittsburg sense of the term, there is
+none. Kerosene shale of very high quality exists, and if the
+Federal Customs Tariff were so proportioned as to allow of
+the successful commercial development of this mineral, and if
+railway freights for the resulting fuel were reduced, it is
+
+
+possible that a fair quantity of comparatively cheap crude oil
+would be marketed at a price low enough to allow for power
+from engines of the Diesel type to compete with steam. But
+the known deposits of kerosene shale are extremely limited
+when compared with the vastness of the coal fields of the
+State, and at present the industry is unfortunately practically
+at a standstill. Crude petroleum, as a native product, is un-
+known in this State, and therefore, omitting consideration of
+those natural resources which are common to most parts of
+the globe, the heat of the sun and the motion of the tides and
+wind, and the proposed use of sewer gas, as to which the author
+has no reliable data, there remain but the two chief sources of
+power mentioned to consider.
+A. —COAL.
+Available Coal in New South Wales.—Mr. E. P. Pitt-
+man. in his “Coal Resources of N.5.W.,” gives estimates
+showing Ihe total coal in the State, within a. depth of 4,000
+feet, to be probably.in excess of 117,000 million tons. The
+annual coal production of the State was 10VL> million tons in
+1013: figures for lf)12 from Imperial Returns are as follows:
+Country. .Millions of Tons. (Metric).
+Cnited States 484.9
+Great Britain 264.6
+Germany 255.8
+Austria-Hungary 51.7
+France 41.1
+Russia 31.3
+Belgium 23.0
+Total for the World (nearly) . . . . 1.250
+Thus, if the production of the State were increased 100
+times, so as to equal the world’s production, there would be still
+about 100 years’ supply within 4.000 feet of the surface.
+It must be recognised that at present the mining com-
+panies are of necessity utilising the best and most easily
+won of this store. Competition demands that the best coal
+available be offered at the lowest price. There are many
+difficulties involved in the use of inferior qualities, and indeed
+in the mining of some of the better classes, where Nature
+has been so prodigal of her resources as to provide a 30ft.
+
+
+District.
+Calorific Value.
+B.Th.U. per 11..
+I’rices f.o.
+Large.
+r. or f.o.b.
+Small
+Northern . . . .
+. . 10,600 to 12,900
+8/3 to 10/0
+2/6 to 6/6
+Southern.. ..
+. . 10,000 to 12,900
+8/9 to 9/4
+6/8 to 7/3
+AVeslern
+. . 10.400 to 12,800
+?/-
+4/3 to 7/3
+seam. The majority of the problems presented will pro-
+bably be left for posterity to solve. With increasing wages
+and increasing distance from the surface, the cost of winning
+will surely rise; hut at the same time we may look forward
+to more economical methods of use. so that a corresponding
+rise in the price of power does not necessarily follow. The
+methods of utilisation will he touched upon in Part 111 of
+this paper.
+Locality of Coal Measures.—Figure 4 shows the State of
+New South AVales with the positions of the coal measures indi-
+cated thereon, reproduced from a map) included by Air. Pitt-
+man in his work on the ‘‘Coal Resources of N.S.W.” quoted
+above. The dark line shows the out-crop of the Greta coal mea-
+sures, largely worked in the Maitland district; the area marked
+by cross-hatching sloping from left downwards to right
+indicates the Permo-Carboniferous coal measures which
+form the hulk of the coal, supply of New South Walee
+coalfields; and the cross-hatching sloping in the opposite direc-
+tion si ows the localities where the upper or Triassic coal mea-
+sures are found.
+It must not be supposed that over the whole of the areas
+shown there is workable coal. In many places it is too deep
+for working to be contemplated at the present time. In other
+places the coal is of poor quality, or spoilt by faults, volcanic
+dykes or other accidents of the past. The Triassic coals are
+not at present worked for commercial use, the quality being
+inferior.
+Calorific Value and Price.—The average calorific value
+and the current price of coal in large quantities from the various
+coalfields is as follows:
+The coal from one of the Newcastle mines is as high as
+14.000 h.Th.i;.
+The coal from the Greta coal measures, of an average
+B.Th.r.. of 10.000 to IH.MOO. is not included in the above table,
+
+
+FIG. 4
+POWER RESOURCES
+OF
+N.S.W.
+
+
+The poorer (‘lasses of coal referred to will assume greater
+importance as the price of the better class, for the reasons
+referred to above, increases. Moreover, it is quite within the
+range of possibility, even of probability, that these coals will
+be worked, and their latent energy extracted by burning at the
+pit mouth, the usable proportion of energy being thence trans-
+mitted electrically to the localities where power is required, and
+sold at a price which could not be touched if the added cost
+of railway haulage were one of the factors deciding the selling
+price. This matter is further referred to in Part 111.
+B.—WATER POWER.
+The popular idea of the value of water power as costing
+nothing is probably absent from the minds of members of this
+Association.
+It need scarcely be pointed out that there are few water
+power developments in which the cost of the hydraulic work
+is not so heavy that it becomes a question whether the interest
+on capital cost will not more than counterbalance the ad-
+vantages of machinery needing less attendance and upkeep
+generally, ami requiring no fuel. The question as to whether
+water power is worth developing is almost entirely a finan-
+cial matter, the considerations governing the decision being
+the relative cost of power derived from water and from any
+other competing source at the point where used. Assuming
+coal to be the competitor, tin* cost depends largely upon the
+quality, the distance from the coalfield, and the cost of
+freight or of power transmission therefrom.
+The words “almost entirely” have been used above ad-
+visedly for the following reason. If in any locality the price
+as above determined were so nearly balanced that a slight
+preponderance one way or the other in the calculated cost
+is within the limit of probable error of the calculation, the
+decision should be in favour of water power. For the choice
+lies between, on the one hand, making use of kinetic energy,
+derived from water raised by the sun and drawn down by
+gravitation, which would otherwise be absolutely wasted in
+heat, noise, and roek erosion, and on the other, of using up part
+of the national store of bottled energy in the form of coal, which
+once used can never be replaced ; on this account those with
+
+
+whom the decision lies are morally responsible to conserve,
+as far as lies in their power, a great national asset, and to
+make available for use to as great an extent as possible,
+another national asset, which, like time, if not used is lost
+for ever.
+Cotter River.—A concrete example, now outside the limits
+of the State, will serve as an illustration. One of the most favour-
+able schemes examined by the author since his conned ion with
+the Public Works Department was that first suggested, he be-
+lieves, by Air. E. AT. de Burgh, M.lnst.C.E. (now Chief
+Engineer for Water Supply and Sewerage in the Public
+Works Department), of a combined water supply and hydro-
+electric power scheme from the Cotter River for the Federal
+Capital.
+One of the proposals previously reported on in connec-
+tion with the water supply involved a high level dam from
+the Cotter River, with a pipe-line delivering water by gravi-
+tation to the capital, and a suggestion had been made that this
+pipe-line might be broken at two or three intervals where
+power stations would be situated. At this stage, as the
+result of All-, de Burgh’s recommendation, the author was in-
+structed to examine and report on the possibilities, and after a
+careful investigation he advocated a dam somewhat higher up
+the Cotter River than the one previously proposed for the gravi-
+tation scheme, a race or fiuming thence with inverted syphon
+over an intervening gap for a distance of 20 miles to the sum-
+mit of Alt. Macdonald, whence a fall of 880 feet is available
+to the Murrumbidgee River. See Figure 5.
+At the time of this investigation, only twelve months’
+river gaugings were available, so that the water supply was
+at least doubtful; but from the gaugings recently published
+by the Water Conservation and Irrigation Commission, it is
+evident that in the worst year that has occurred since (1912)
+the amount of conservation proposed by the author would
+have been sufficient to provide all the power and domestic
+water necessary for a population of at least 80,000. The needs
+of a population in excess of 50,000, however, have not up to
+the present been considered, and in what follows this figure
+has been taken, the number of units per annum, and the
+maximum demand being based upon the latest returns for
+
+
+FIGURE 5
+FEDERAL CAPITAL
+PROPOSED COMBINED
+HYDRO-ELECTRIC POWER
+AND
+NATER SUPPLY SCHEME
+
+
+the City of Launceston, Tasmania, where the author was City
+Electrical Engineer for a number of years. The figures for
+Launceston are far in excess of the corresponding figures for
+any other city or town in the Commonwealth, or indeed, of
+any town of similar size in the United Kingdom, and are pro-
+bably also considerably greater than what will be used per
+head of population at the Federal Capital, but allowance is
+made for the free use of electricity for heating, cooking, and
+other domestic purposes in the smokeless city, which a pre-
+vious Minister for Home Affairs pictured as the future capital
+of Australia.
+The author’s proposals consist of a 150 ft. dam at R.L.,
+2400 on the Cotter River, with draw-off at R.L. 2460, whence
+a race and pipe-fine with a total fall of 65 feet, 20 miles long,
+terminating at a balance reservoir on the summit of Mt. Mac-
+donald with top water level 2390, whence a pipe-line in dupli-
+cate would lead down the hillside to the Murrumbidgee, the
+reduced level of which, at this point, is 1504, giving a total
+working head, after allowing for pipe friction and keeping
+the station well above flood level, of 830 feet. The water supply
+for the Capital would also be provided from the same reservoir.
+A preliminary report embodying these proposals was com-
+municated to the Federal Authorities, which, however, received
+criticism at the hands of one of their technical advisers, who,
+in spite of some pains taken to explain the point, did not
+appear to understand the function of the balance reservoir,
+and seemed to think that it was essential to a hydro-electric
+scheme for the maximum demand to be maintained contin-
+uously. At this stage the work was taken over from the Pub-
+lic Works Department by the Federal Home Affairs Depart-
+ment.
+Since then the author understands that a steam power
+plant has been erected in the Federal Capital area, primarily
+to be used as a tool of construction, and that it is proposed
+to transmit power thence to a reservoir, to be formed by
+damming the Cotter River near its junction with the Mur-
+rumbidgee, and to use electrically-driven pumps for furnish-
+ing the water supply, thence to a service reservoir in the
+vicinity of Canberra. It is to be hoped that this is only a
+temporary measure, possibly intended to serve later as a
+
+
+steam standby when the hydro-electric scheme is complete.
+If it were otherwise, comparative estimates of a steam supply
+at Canberra with electric pumping, and the gravitation
+scheme advocated by the author for the hydro-electric supply,
+show that the cost of water and electrical energy for the former
+would be 4.6 d. per 1.000 gallons, and 0.98 d. per unit respec-
+tively ; and for the latter, 3.4 d. per 1,000 gallons, and 0.57 d. per
+unit, it being understood that the exact division of the charges
+between water supply and power is necessarily, to a large extent,
+empirical.
+If the initial expense be an objection to the hydro-electric
+scheme, it may be urged in reply that the work can be car-
+ried out in three divisions as the population increasets. By
+suitably damming two small feeders from the Brindabella
+Mountain, some 7% miles from Mt. Macdonald, that end of the
+race could be first constructed, and the water and electric
+supply would be sufficient for an initial population of from
+ten to fifteen thousand. As the population grew, the race
+would be extended back to a small dam above the main dam
+site, which would be so designed as to help in the construction
+of the main dam when that might become necessary, and later,
+as the need for the larger reservoir became apparent the
+main dam could be constructed and brought into operation.
+To emphasise the opinion expressed at the commencement
+of this sub-section that the national supplies should be con-
+served as far as possible, twenty years’ working of the com-
+plete steam scheme for 50,000 people would result hi the
+waste of 310,000 tons of coal, with the doubtful benefit of a
+smaller capital expenditure, accompanied by higher prices to be
+paid both for wafer and electric energy.
+Investigation of State Water Power. —One may argue from
+the example of the Cotter, that there are within the State
+water powers which it will pay to develop; and it is evidently
+a matter of national importance that the resources of the State
+in this respect should be ascertained.
+By the direction of the Honourable Arthur Griffith, then
+Minister for Public Works, examination was made by the author
+as far back as 1911 of the Tumburumba. Buddong. and Gilmore
+Creeks, and in 1912 of the Shoalhaven River, the investigation
+being more complete in this instance.
+
+
+The examination of other streams lias followed, and last
+year the Premier, the Hon. W. A. Holman, directed that a
+systematic preliminary investigation should be made of the
+whole of the water-power resources of the State. The author
+has been entrusted with this investigation, and is carrying it
+out on the following lines.
+Accepting 250 miles as the present commercial limit of
+power transmission, it is intended that all likely water powers
+within this distance from the principal localities where power
+is used shall be examined in the, order of their importance for
+the purpose in view'.
+The preliminary examination will be principally with map
+and aneroid, followed by a clinometer, and, if necessary, a com-
+pass survey of those portions of the river-bed showing promise
+of satisfactory power development. In respect of each of the
+favourable positions thus indicated, the catchment areas above
+such positions and probable run-off, the estimated how. and the
+available power. will be catalogued, and suitable sites for gaug-
+ing having been determined, gauging stations will, where pos-
+sible, be established, and arrangements made for the regular
+reading of the gauge-boards.
+When such preliminary examinations have indicated the
+most favourable wmter pow f er for development in respect of any
+power-using centre, definite estimates will be prepared, so that
+by comparison with similar estimates for pow'er derived from
+coal, it will be knowm wdiether the development of any one
+water power is commercially feasible. Further, if not so feas-
+ible, it will be clear to what price coal must rise in order to
+.justify the development of the water power in question, and. if
+feasible, the cost for any manhfacturing industry dependent
+upon cheap power will be knowm with considerable accuracy
+In general, two classes of water pow'er have to be examined,
+viz., those w T here there is a small volume of w'ater with a large
+fall, and those wdiere the fall is small and the volume large.
+Xo examples exist in the State of a large volume and rapid fall
+combined.
+A list of the chief rivers to be examined is here presented ;
+Plowing West:—
+.Murray Head Waters, including the Tooma and
+Tumberumba Creeks.
+
+
+Name of River.
+Flow,
+sec. ft.
+1 Head.
+1 ft.
+Power.
+k.w.
+Energy.
+Millions of
+units.
+Tumberumba Creek
+and Tributaries
+30
+■ 1.000
+3,000
+23
+Snowy River ...
+300
+! 1,200
+22,500
+172
+Shoal haven River
+123
+j 1,010
+7,500
+57
+Totals
+33,000
+252
+Murrumbidgee. including the Tumut and the avail-
+able power from Burrinjuck Dam.
+It is doubtful whether much may be expected from
+the more northerly rivers flowing west, although
+if conservation dams were constructed for irriga-
+tion or other purposes, it would possibly pay to
+develop the available power.
+Flowing South:—
+Snowy.
+Flowing East: —
+Shoal haven.
+Hawkesbury. including Cataract and Cordeaux
+Rivers, and 'Warragamba Dam.
+Hunter, including Chichester River.
+Manning.
+Hastings.
+Mae 1 ear.
+Clarence.
+Richmond.
+Since instructions were received, a commencement has been
+made, and an interim report on the Tumut River has been pre-
+sented. and reports on other rivers are in course of prepara-
+tion ; progress, however, being necessarily slow because of the
+fewness of officers on account of the war.
+A complete reference'to the water-power resources of the
+State must necessarily wait until this investigation is finished.
+The following figures have been taken from reports which
+have been furnished in the past for the water continuously avail-
+able. the working head, and the consequent available continu-
+ous power, and total energy per annum respectively:—
+AVith aBO per cent, load factor. 100.000 k.w. is seen to be
+available from these few streams.
+
+
+The possibility of shortage of water during drought years
+is one objection often raised against water-power schemes. This
+objection disappears if the hydro-electric stations are tied in
+with a general power scheme, including coal stations. Even
+were it not so, industries dependent upon cheap power would
+certainly be no worse off in times of drought than the farmer
+or sheep-owner who risks enormous sums year after year on the
+chance of good rainfall, and who. if he allowed similar objec-
+tions to rule, would excuse himself from ploughing and sow-
+ing. or from other preparatory work, on account of the possi-
+bility of drought interfering with his profits. In America, some
+of the water-power companies make both full year contracts,
+and at a lower tariff. 10 months’ contracts, reserving the right
+to cut off. in case of a shortage of w v ater. to the extent of two
+months during the year.
+If the power of the few streams mentioned above were
+developed and tied in with a general power scheme for the
+State, the 33,000 k.w. available continuously would, making
+full allowance for losses, provide 252 million units each year,
+thus saving the coal resources to the extent of about a
+quarter of a million tons per annum.
+The figures for the Snowy River are to be taken as ten-
+tative only, the present investigation not being completed. If
+developed to its full extent, the available power will probably
+be more than three times that shown, making the k.w. available
+and the units pm- annum double those given in the last sentence.
+Again, if the Shoalhaven River alone were developed
+and connected with the Sydney Tramways and Municipal
+Supply Systems, being worked continuously so as to utilise
+all the available water in normal seasons, the investigation
+already carried out shows that it would be possible for the
+two systems to be supplied with power for considerably
+less than a farthing a unit, and for all three power sta-
+tions, Ultimo, White Bay and Pyrmont, to be closed down
+during the night shift so that only morning and afternoon
+shifts would have to be worked.
+PART III.-ADAPTATION OF THE POWER RESOURCES
+OF THE STATE TO MEET THE REQUIREMENTS.
+Consideration of the requirements set forth in Part I. of
+this paper, added to the constantly increasing inquiries for
+
+
+power for pumping, for water supply, for sewage disposal, and
+for lighting and manufacturing purposes from various parts of
+the State, emphatically suggest the question as to whether the
+catering for these requirements should, as in the past, be spas-
+modic by means of small eleetric plants dotted about the coun-
+try. in which case the cost of the energy supplied is unduly
+high, oi- whether a well-considered, comprehensive scheme
+should be initiated, so designed as to be capable of expansion,
+with a view to ultimately providing, as far as possible, for all
+the requirements anticipated.
+That the 2’esourees of the State are ample for such a com-
+prehensive scheme has been sufficiently shown in Part 11. The
+author now wishes to definitely submit for discussion the con-
+sideration of the propriety of establishing a system or systems
+of power stations in suitable positions, interconnected where
+practicable by means of transmission mains, serving, firstly,
+those districts, including the larger cities and the South Coast,
+which are more particularly devoted to manufacturing indus-
+tries; secondly, the larger towns; and thirdly, the intervening
+agricultural and pastoral areas. Such a scheme is partially
+suggested in the map of New South Wales (Figure 4), already
+referred to. where a power station is shown on each of the
+northern, southern, and western coal areas, with water power
+stations in some of the positions referred to in Part 11.
+Assuming for such a system electrical transmission as a pos-
+tulate—how to use to best advantage the available power re-
+sources; whether the coal should be borne to the locality where
+power is required or burnt at the mine; whether it should be
+burnt under boilers or distilled and the gas used under boil-
+ers or burnt direct in gas-engines; if used for steam raising,
+the best class of prime-mover to adopt; if distilled, whether the
+coke should be saved or consumed in the production of gas;
+how best to develop a wafer power, the most economical stor-
+age, the correct location and dimensions of race or pipe line,
+the manner of linking in with a general power system; and
+finally, the influence of the electrical system and of the cost
+of transmission on the solution of the problems involved—all
+these are questions each of which might be made the subject
+of a paper by itself, and consequently it is only possible in this
+review to touch lightly on the bearing of the more important
+of these on the matters under consideration.
+
+
+Overall
+Kfficiency.
+13-2
+Units sent
+out per ton
+of H.S.W.
+Goal.
+1,000
+Best Modem Practice
+Probablv
+' obtainable with Steam Turbines . .
+15-0
+1,130
+Possibly
+obtainable with Mercury Turbines. .
+18 -8
+1,420
+Possibly obtainable with Mercury Turbines
+and Surface Combustion Boilers
+20
+A. —DEVELOPMENT OF THE COAL RESOURCES OF THE STATE FOR
+POWER PRODUCTION.
+The ultimate price to be paid for energy derived from
+coal in the wholesale quantities that will surely be used in the
+future, will as surely depend upon the efficiency and the cost
+of the means used for extracting the energy from the coal. In-
+timately connected with this question of efficiency is the amount
+of energy derivable from a given quantity of coal, and the paral-
+lel question as to whether it will cost more to forward the
+■energy by rail in its bottled-up form or to transmit it elec-
+trically.
+(i.)—Overall Steam Power Station Efficiencies.
+The efficiency of steam-boilers at present in general use does
+not ordinarily exceed 80 per cent. Using boilers of this efficiency,
+and the best steam turbines of large size of ordinary construc-
+tion. in a large power station with coal of 14,500 B.Th.U. per
+lb., the actual consumption under favourable conditions is as
+low as 1 -81bs. per unit sent out. With coal obtainable in New
+South Wales of calorific value of 11,500 B.Th.U., the best con-
+sumption obtainable, under present conditions is probably not
+less than 2 -241bs. per unit sent out, whence is derived the figure
+of 3.000 units per ton of coal used in Part I. of this paper.
+Taking 1 k.w. hour as equivalent to 3,413 B.Th.U., it is seen
+that the overall efficiency of the power station under these con-
+ditions is 3413/25760, or 33% per cent.
+The increased efficiency already attained with the Ljungs-
+trbm Turbine, and the possible added efficiency from Mr. W.
+U. R. Emmet’s Mercury Turbine, may result in a considerable
+bettering of these figures in the future; and if gas-fired boilers
+on the surface combustion principle are used, a still further
+increase of efficiency is likely.
+For the several cases referred to, the overall power station
+efficiencies and the available units per ton of coal of average
+calorific value of 3 3.500 B.Th.U. per lb., are as follows: —
+
+
+The last ease is not entirely analogous with the others, since
+it assumes that the fuel is delivered to the power station in the
+form of gas instead of coal.
+(ii.)—Gas Engines.
+Tests of large gas-engines have shown 1 k.w. hour to be
+produced with an expenditure of 10.900 B.Th.U. in the gas
+used, which averaged about 500 B.Th.U. per cubic foot. Allow-
+ing for these results to represent test conditions, and adding
+10 per cent, for losses in normal everyday working, the B.Th.U.
+per k.w. hour sent out would amount to 12,000. giving an effi-
+ciency of 8418/12.000. or 28 4 per cent. Thus, in present day
+practice, the large gas-engine is more than twice as efficient as
+the steam-engine, and without improvement it would still be
+40 per cent, better even if the improved economy promised by
+the surface combustion boiler and mercury turbine became an
+accomplished fact.
+The present difficulty as regards the gas-engine is its enor-
+mous size for a given output. Whereas steam turbines of
+85.000 k.w. capacity in a single unit are at work, and up to
+100.000 k.w. contemplated, 5,000 k.w. is about the largest gas-
+engine plant that is manufactured, and this involves duplicate
+tandem double-acting horizontal sets requiring excessive door
+space. This type has its home in Belgium and Germany. Bri-
+tish makers are now manufacturing high-speed gas-engines,
+which are more promising; but at present these are unobtain-
+able beyond 1.500 8.U.8.. though there is considerable likeli-
+hood of this size being exceeded as the demand arises for them.
+The repairs on the large slow-speed horizontal sets are ex-
+cessive. but nevertheless at a mine visited by the author in
+South AVales. where coke-oven gas was used for driving these
+engines, the Chief Engineer informed him that after making
+all allowances for excessive depreciation and high cost of re-
+pairs. the superior efficiency of the gas-engine was such that
+the price per unit developed was considerably cheaper than if
+the gas had been used under boilers for supplying steam to the
+most efficient steam turbines obtainable.
+On the other hand, in the Newcastle district, where coke-
+oven gas is largely used for power, the practice, so far as the
+Newcastle Electric Supply Co. is concerned, is to burn the gas.
+
+
+and, where available, to utilise waste heat under boilers, the
+steam turbine in this instance being preferred to the gas-engine
+in spite of its lower efficiency.
+If a successful gas turbine is at any time placed on the
+market, the chief hope for it lies less in the increase of range
+of temperature (which is an essential feature of the superiority
+of the steam turbine over the reciprocating steam-engine), but
+rather in the possibility of the eventual provision of large high-
+speed units comparable with the present development of the
+steam turbine, and combining the advantages of absence of
+cylinder lubrication with the need for less attendance and smal-
+ler expenditure on overhauling than the gas-engines at present
+on the market.
+This question is intimately connected with that of the
+utilisation of coke-oven gas, to which attention may next be
+directed.
+(iii.) — Coke Oven Gas.
+Knowing something of the developments on the North East
+Coast of England, prior to his visit home the author had taken
+note of the total amount of coke manufactured in the State,
+and he spent some time prosecuting inquiries as to the possi-
+bilities of commercially developing this side of the industry
+in New South Wales.
+304,800 tons of coke were manufactured last year
+in New South Wales, of which 252,409 were made on the south-
+ern coalfields. At the new iron and steel works belonging to
+the Broken Hill Proprietary, Ltd., at Port Waratah, 66 by-
+product ovens have been erected, and other examples of by-
+product recovery exist in the northern district; but so far as
+the south is concerned,with one exception, viz., the Corrimal mine,
+the whole of the coke-oven gas is wasted, and in no case is any
+attempt made to recover the valuable by-products. If coke-
+ovens were erected on a suitable site, with plant for the recov-
+ery of ammonia and tar, and possibly benzine, toluol, cyanide,
+and other by-products, the whole of the South Coast coke could
+be produced therefrom, and in addition, there would be avail-
+able from the gas no less than 140 million units, which, if the
+industry be regarded as a whole, and the by-products be sold
+at market rates, could be supplied for less than a farthing per
+unit delivered. It need scarcely be pointed out that ammonia
+
+
+is being increasingly required for refrigeration, that sulphate
+of ammonia is a valuable fertiliser, and though more would be
+produced than is required at present in this country, its ex-
+port would add to the material wealth of the State; that the
+large quantity of tar resulting would enable a supply to be
+furnished at low rates for improving the roads of the State;
+and that there is likely to be a large demand for toluol for the
+manufacture of tri-nitro-toluol (T.N.T.), if, as seems probable,
+Australia relies upon herself for her future supplies of ex-
+plosives.
+The figures given above are the result of careful consid-
+eration of the facts, and are based on actual quotations for
+coke-ovens and subsidiary plant, with liberal estimates for
+generating machinery, transmission line, transformers, and
+switchgear, the detail of which, however, is too considerable to
+allow of inclusion in this paper. Suffice it to say that the
+aulhor visited three works in Great Britain and three in Ger-
+many where coke-oven gas was being successfully used for
+driving large gas-engine units for the generation of electricity,
+and one in England and one in Germany where the gas was
+burnt under boilers for supplying steam turbines, in addition
+to a further plant in America where blast furnace gas was
+used for large gas-engines. The total horse-power of the three
+gas-engine stations in England was 8,300. and of the three in
+Germany. 47.300. The gas-engines in the three German sta-
+tions and in one in the British were of the slow-speed hori-
+zontal type, the horse-power of individual units being up to
+5.000. In the other two British stations, high-speed vertical
+gas-engines were employed, the largest seen being of 1.000
+B.n.p.
+Confidential figures were supplied to the author by seve-
+ral British coke-oven owners, showing conclusively the great
+profits which are being made from this industry. This is evi-
+denced by the increasing number of coke ovens with recovery
+plants which are being employed in all parts of the world.
+The four chief firms supplying these plants within recent years
+constructed, up to and including the year 1913, no less than
+6,540 ovens in Great Britain and Ireland, of which 2,662 were
+constructed since the year 1908. One firm alone had con-
+structed. from 1902-1912 inclusive, 5,088 ovens in Germany,
+1.507 in the United States, and 1.370 in England.
+
+
+B.—UTILISATION OF THE WATER POWER RESOURCES OF THE
+STATE.
+When one considers the best method of making use of
+those water powers which lend themselves to easy development,
+and of tying them in with a general system of supply for any
+large district of the State, seeing that rainfall is not constant, it
+is clear that if the hydroelectric stations are to be self-contained
+conservation is necessary, and it becomes a question whether
+the high initial capital expense of such conservation is justi-
+fied, or whether the necessary reserve to tide over periods of
+shortage should be provided in the shape of additional genera-
+tors in the coal power stations. Each case arising will require
+separate investigation, and it will be found in most cases that
+a compromise between these two extremes is the more economi-
+cal course to adopt, the amount of conservation being sufficient
+to maintain the river flow at its usual average for the six sum-
+mer months of the year, leaving exceptional years to be pro-
+vided for by steam plant; or contracts may be arranged, as is
+frequent in America, so that consumers will take the risk of
+shortage, say once in ten years, and have the power at the
+lowest possible rate.
+If, however, power stations are provided in connection with
+water conservation for irrigation purposes, such as the Burrin-
+juck scheme, it must be remembered that in ordinary years the
+reservoir will only be drawn upon for irrigation purposes for
+perhaps five or six months out of the twelve; but in those
+years when there is a shortage of water, the greatest demand
+will be made upon the conserved waters, so that the irrigation
+reservoir power stations would in such case be, during the
+time of drought, working up to their maximum capacity, thus
+relieving the other power stations, and reducing the amount of
+reserve required in coal power stations.
+Again, seeing that the hydraulic works which form so great
+a proportion of hydro-electric developments in the general case
+have already been constructed, the capital cost of the electric
+development of the available power in such a case is unusually
+low. This in itself warrants generating plant being laid down
+on the distinct understanding that it shall only be used inter-
+mittently, and as it would be known several days beforehand
+when such an irrigation water power station would stop work
+for the season, arrangements could be concluded in advance for
+
+
+FIGURES 6. — Wooden Pole Lines in N.S. W.
+FIGURES 7. —Steel Pole Line in N.S.W.
+Flexible Pole and Straining Tower on Yanco-Leeton Transmission Line.
+
+
+transference of electrical staff from the water power to the
+auxiliary coal power station, so that the necessity for a com-
+plete duplicate staff would be avoided.
+Points in the Development of a Water Power.
+The question as to what proportion of the maximum fall
+available shall be utilised, and the amount of storage which
+shall be provided, requires special investigation in each case.
+It is usually false policy to take advantage of only part of the
+head on account of lower capital cost, with the possibility of
+having to erect a power station at a lower level at a later date.
+As regards tin' height of off-take from dam. when an open canal
+is used, it is in general economical to sacrifice part of the
+storage in order to gain additional head, the economical height,
+ceteris paribus, being usually somewhere above the position
+where the ratio of increase of head to total head with off-let
+at bottom of dam is equal to the ratio of loss of storage capa-
+city to total storage at off-let chosen. This is a point to which
+the author has not seen attention called previously, and ex-
+amples have come under Ids notice where, owing to its not be-
+ing attended to. increased cost has been incurred. The smaller
+water flow, and consequent smaller canal and pipes, favour the
+highest location, and the canals are generally more cheaply con-
+structed at the higher levels.
+Before leaving this subject, it may be pointed out that, if
+expensive damming is avoided in favour of tying in with coal
+power stations, the necessary construction of transmission line
+systems is an additional argument in favour of the latter be-
+ing placed at convenient positions adjacent to the mine. This
+leads to the next subject to be considered.
+C.—ELECTRICAL TRANSMISSION V. RAILWAY HAULAGE.
+(i.)—INFLUENCE OF TRANSMISSION LINE DESIGN.
+In New South Wales wooden poles of good lasting quality
+are obtainable at reasonable prices, and where they are so and
+otherwise are necessarily spaced close together, and where white
+ants are not specially to be provided against, their use is ad-
+visable. The author has adopted the design shown in Figure
+6 for a number of lines. The cost of such a line, to-day. using
+
+
+4-chain spacing and 7/14 wire, may be roughly put at £250 per
+mile, though in at least one ease the cost has been little more
+than half this figure.
+To meet the requirements of a country where white ants
+abound, and where in some districts suitable timber is be-
+coming prohibitive in price, the advantage of a steel line with
+supports at less frequent intervals and requiring fewer in-
+sulators is very considerable, and in providing for future re-
+quirements the economy frequently resulting from the use of
+flexible poles should be borne in mind.
+Flexible Poles.—The use of flexible poles was first emphati-
+cally advocated by Mr. Guido Semenza. now of Milan, in a
+paper communicated to the Am. Inst. E.E.. in 1904 (q.v. Proc.
+Am. Inst. E.E.. Yol. XXIII.. p. 147), wherein it was shown
+that the cost of a transmission line can be very materially re-
+duced by designing the poles according to the direction of the
+stresses. The wind stresses being at right angles to the direc-
+tion of the line, the poles should be stiffer in that direction
+than longitudinally. Mr. Semenza ? s suggestions have been car-
+ried into practice in the design of many subsequent transmis-
+sion lines, amongst which is now that connecting Leeton
+with Yanco, where there are towers every half mile, the inter-
+vening supports being flexible poles of approximately half
+the weight of the towers, spaced about 450 ft. apart. There
+is in such a line a saving over one with towers for all sup-
+ports of approximately 5/12ths of the cost of supports and
+foundations. Figure 7 shows both types of support in use
+at Leeton. The cost of this line, with 7/14 wire and insula-
+tors for 6,600 volts, was about £2,000 for four miles. Figure
+8 shows a flexible pole in Sweden, the standard span for which
+was 492 feet, every seventh support being a tower.
+(ii.) —Large v. Small Power Stations.
+It is to be observed that the higher the class of coal and
+the more efficient the means of extracting the energy, the more
+effective is the argument in favour of railway haulage of coal
+as against electrical transmission. But, on the other hand, the
+energy can only be efficiently extracted in large power stations,
+and consequently, when a large power station has been con-
+
+
+FIGURE 9. —High Tensi on Continuous Current
+Transmission. Thury System.
+FIGURE 8. — Flexible pole.
+South Swedish Power Company.
+
+
+structed within reasonable distance of a town, it is in general
+cheaper to make use of power from this station than to con-
+struct a . separate small station.
+Although in Part 11. of this paper suction gas has been
+dismissed, as not to be seriously taken into consideration for
+large stations, yet it has a legitimate application for small
+power stations, in that for districts where coal is say 20/- per
+ton, and where, owing to the small spze and the consequent want
+of economy of the power station so few as say 250 units only
+per. ton are obtainable (the cost per unit for fuel alone being
+nearly Id.), with suction gas, using wood at say 12 - per cord,
+this cost will be reduced to l/6th of a penny. Thus, in isolated
+districts far from a coalfield where wood is abundant and
+cheap, there will be a field for suction gas for some time to come.
+But whether the comparison be made with suction gas or
+steam, if there be a power station within reasonable distance,
+the proportionately large cost of stores, and more particularly
+of labour, compared with the output from such small power
+stations, will render the cost excessive compared with the price
+arrived at by adding to the cost of generating at the large
+station the cost of transmission of the power. The excessive
+cost of labour and stores at the small power station will inevit-
+ably bring the generating cost up to 2y 2 d. or 3d. per unit under
+the most favourable circumstances.
+(iii.) — Influence of Electrical System of Transmission,
+high-tension Continuous Current.
+Reference is due here to the Thury system of high-tension
+continuous current transmission, which has been described by
+Mr. J. S. Highfield in three papers read before the Institution
+of Electrical Engineers (Proc. 1.E.E., Vol. 38, page 471; Vol.
+49, page 848; Vol. 51, page 640), in one of which he has de-
+finitely asserted that in certain cases he has found the cost of
+underground mains for the Thury system not to exceed the
+cost of a three-phase overhead system of similar capacity.
+During his recent tour the author made a special point of
+inspecting the system in operation, first in London at the Met-
+ropolitan Electric Supply Co.’s Willesden Works, and later Mr.
+Thury himself was good enough to meet him at St. Maurice and
+
+
+show him over the power station there supplying power to Lau-
+sanne, and later took him to the St. Bridoire station, which is
+connected in series on the Lyon-Moutiers line. The beautiful
+simplicity of the system, the ease of regulation, together with
+the absence of those complications which characterise the three-
+phase system, cannot fail to excite admiration.
+As regards overhead construction, Figure 9 is an illustra-
+tion of the St. Maurice-Lausanne line, and parts of the Lyons-
+Moutiers line, transmitting 8,400 k.w. at 100,000 volts, are of
+similar construction; but in the city of Lyons a single core
+aluminium cable of 0 -23 square inch, with paper insula-
+tor, lead-covered and armoured, is used underground, the only
+instance in the world of so high a pressure being used on an
+underground cable. Mr. Thury kindly gave the author the
+original map from which Figure 10 has been prepared, which
+shows the position of the high-tension continuous current trans-
+mission mains supplying Lyons, together with the alternating
+current lines and network that are used in conjunction there-
+with.
+This method of transmission is not, of course, to be used
+indiscriminately; but there are instances in this State where
+its use would tend to considerable economy. It is indicated in
+cases where a definite and regular amount of power is to be
+transmitted from an auxiliary station, so that the line may be
+worked to its full capacity, or nearly so. and the conductors
+and insulators thus provided be made use of to their full ex-
+tent; and on account of the low cost of underground mains and
+the high pressures allowable, for bringing large quantities of
+energy into cities where overhead mains are objectionable, and
+where otherwise one would be limited to moderate pressures.
+(iv.)—Actual Cases. Use of Inferior Coals. Advantage
+of Interconnection.
+The author has had occasion to investigate several cases in
+which it has been proved beyond doubt that electrical trans-
+mission is cheaper than haulage by rail. Not only is this so
+in transmitting very large quantities of energy in bulk, say for
+the supply of the metropolis from the southern coalfields, but
+also for more moderate powers there are towns situated a few
+miles back from the sea coast to which the direct line is .very
+
+
+much shorter than the route taken by the railway; and in such
+case the advantage of electric transmission is still more strongly
+evident.
+If the inferior coals of the State of lower calorific value
+than those assumed in these investigations be utilised, which in
+a number of instances the author is assured by Mr. A. A. Atkin-
+son is perfectly feasible, the difference in cost and the superior
+advantage of electrical transmission as against railway haulage
+is still further accentuated.
+Apart from the question of carriage of coal, an additional
+reason for electrical transmission is that it makes possible the
+utilisation of the water power of the State to the fullest avail-
+able extent, and permits of interconnection of power stations
+so as to work each for the minimum hours per diem necessary,
+and thus in the most economical manner enabling the price
+per unit to the public to be the minimum possible.
+D. —EXAMPLES FROM OTHER COUNTRIES
+During his tour the author visited a large number of power
+stations, including many of the chief ones in Great Britain, and
+many on the Continent and in America. Reference is made
+below, however, only to those inspected which have a distinct
+bearing on the subject of power supply in bulk. These are as
+follows:
+(i.) —Company-Owned Schemes.
+Great Britain.—The Newcastle system includes the two
+large power stations of Carville and Dunstan, and four smaller
+coal-fired power stations, the six totalling 87,000 k.w., together
+with 11 waste heat, coke-oven gas, blast-furnace gas, and ex-
+haust steam stations, totalling 34,000 k.w., making a grand
+total of 121,000 k.w., distributed over an area of 1,400 square
+miles, amongst the power users being all the principal Tyne-
+side engineering and ship building works, with about 200,000
+h.p. connected; whilst for municipal purposes and lighting, bulk
+supplies are furnished to Middlesbrough (which resulted in a
+municipal undertaking, with an annual loss being changed into
+one with an increasing annual surplus), Tynemouth, and seve-
+ral urban areas in Northumberland and Durham. As regards
+traction, power is supplied for the electrical operation of three
+suburban lines and part of the main line of the North-Eastern
+
+
+Railway, and a number of tramways on the Tyneside and at
+Sunderland; and finally, electro-chemical and thermic indus-
+tries are in operation for steel refining, the manufacture of
+soda, alundum, and other electro-metallurgical and electro-ther-
+mic products.
+The utilisation of waste heat has resulted in remarkably
+low prices being available, the lowest of which the author heard
+being 0.123 d. per unit for a supply for electro-metallurgical pur-
+poses, used practically constantly all the year round. This is
+equivalent to about £3/6/- per E.H.P. per annum, and is al-
+most as low as any figure charged elsewhere, except for water
+power under the most favourable circumstances, and is a strik-
+ing example of what may be done with coal.
+The Clyde Valley power scheme similarly serves the. chief
+ship-building and engineering works on the Clyde; 27.000 k.w.
+are in use at two large power stations, supplying over an area
+of 750 square miles. For a full description of this plant, which
+has some unique and most interesting features, Mr. D. A. Starr’s
+paper should be consulted (v. Proc. 1.E.E., 1912, Vol. 49. page
+781, et seq.).
+The South Wales Power Comp.any supplies from a single
+power station of 10,500 k.w., situated a little to the north of
+Cardiff, a total connection of 21,600 h.p., the surrounding mines
+and mining villages being the principal consumers. This com-
+pany not only supplies in bulk, but also owns distributing sys-
+tems in several small towns and villages; and it is noteworthy
+that overhead aluminium mains are used exclusively for the
+purpose, over 200 miles being in regular operation. The price
+charged is £5/10/- per E.11.P. of maximum demand per annum
++ o*lsd. per unit.
+The North Wales power scheme utilises water power from
+Snowden; the principal customers are various quarries in North
+Wales, including the noted Penrhyn and Llanberis slate quar-
+ries, together with bulk supplies to several towns. The mains
+extend a distance of 65 y 2 miles; the total power is 6.000 k.w.,
+the pressure 10,000 and 20.000 volts, and the area supplied 300
+square miles.
+The Cornwall Power Co.’s only power station is at Hayle.
+The load is scattered, power being transmitted east beyond Red-
+ruth, south to Penzance, and west as far as Botallack, the ex-
+
+
+FIG. 10
+LYON-MOUTIERS TRANSMISSION
+
+
+treme distance being about 22 miles; 8,800 k.w. are in use, and
+the transmission pressure is 10,000 volts. The prices charged
+are from £4 to £7 per k.w. of maximum demand, plus y 2 d. per
+unit.
+Sweden. —The South Swedish Power Co. has four power
+stations, totalling 20,000 k.w., and supplies a large district
+from Engleholm to Trolleborg. Fifty-one million units were
+sold in 1913, the average price being 0.3 d. per unit.
+German3 r . —At the two mines visited near Aix-la-Chapelle,
+belonging to the Eschweiler Bergwerks Verein, were some of the
+large gas engines supplied with coke-oven gas referred to
+above in Part 11. In October, 1913, the gas-engines, totalling
+14,200’h.p.* produced 3,746 million k.w. hours, at a cost pf
+0-26 d. per unit, largely used for mining purposes, but partly
+sold as bulk supply for all use.
+The Rheinisch-Wesphalisches Station at Essen was one of
+four totalling 127,500 k.w., belonging to the company which
+supplies the whole of the provinces of Rhineland and West-
+phalia, about 2,200 square miles, with a total connection of
+225.000 k.w., the tariff being 3.6 d. per unit for light, and 1.7 d.
+for power, with rebates up to 25 per cent, for large consumers.
+Both the Bonifacius and Prinz Regent Mines visited, in the
+neighbourhood of Essen, had gas-engine stations, the former of
+6.000 k.w. and the latter 16,000 k.w. They supply power for
+their own uses, including winding machinery, and sell for local
+tramways at 0 6d. per unit, surplus energy being sold to the
+Rheinisch-Wesphalisches Electrizitats Gesellschaft at 0 3d. per
+unit, or in case of need they buy from this company at an en-
+hanced price.
+These gas-engine stations are all in connection with coke
+ovens, having complete recovery plants, benzol, and toluol be-
+ing amongst the valuable by-products.
+The Lauchhammer transmission is noteworthy in that the
+fuel used is peat, and the power is transmitted at 110,000 volts
+(the highest pressure in use in Europe) to Groditz (20 miles)
+and to Riesa (31 miles), where two of the company’s works
+are respectively situated.
+Power stations visited at Wyhlen and Rheinfelden, and
+another in construction at Lauffenburg on the Rhine, just across
+the boundary from Switzerland, are controlled by German
+
+
+banks, who construct new works and get them on to a paying
+footing before fonning subsidiary companies to take them over
+and work them, a method of financing new schemes which has
+its advantages, but which is unknown in Australia.
+Switzerland.—The Loentsch Station, with 1,180 feet head
+of water, supplies 25,000 k.w., is tied in with another station of
+14.000 k.w. at Beznau, and transmits at 45,000 volts a maximum
+distance of 85 miles to the Canton of Aargau and a number of
+large manufacturing cities.
+Robbia and Campo Cologne are in Italian Switzerland, the
+Robbia Power Station being notable on account of the high head,
+no less than 1.968 feet being used for.driving the turbines. This,
+with the stations at Campo Cologno and at Malero, in Northern
+Italy, are fine examples of water power work.
+Italy.—Malero Power Station, in conjunction with the two
+stations just referred to in Switzerland, and a number of others
+in Northern Italy, supplies the Societa Lombarda per Distri-
+buzione di Euergia Elettrica. whose system is indicated on the
+map of Northern Italy (Figure 11), which also shows how very
+dense is the network supplying the country to the north-east of
+Milan. The prices charged over this area are for lighting from
+4d. to 6d., for power to small users 2d. to 4d., whilst for bulk
+supply to large customers from %d. to Id. is charged. Mr.
+Semenza, whom the author met at Milan, and who kindly fur-
+nished this map, stated that 30 years ago this district was as
+noted for its poverty as it is now for the well-being of its in-
+habitants, the improvements being entirely due to the people
+being now provided with an abundant and cheap supply of
+power.
+United States. —Keokuk Power Station is designed to be the
+largest in the world. It is intended ultimately that 230,000
+k.w. shall be lodged under one roof. Plant to half this capacity
+is already at work, and power is transmitted 144 miles to St.
+Louis. The station is a fine example of work of the highest
+class.
+In the neighbourhood of Denver steam and water power
+stations are tied together. As a contrast to Keokuk, the Boul-
+der Water Power Station was an example of how 100,000 volts
+may be handled in an inexpensive and rough-and-ready fashion,
+though all essential requirements had been cared for.
+
+
+FIG. 11
+M.W. ITALY
+HYDRO ELECTRIC DEVELOPMENT
+
+
+(iii) — State and Municipally=Owned Schemes.
+Sweden.—At Trollhattan the government have 72,000 k.w.
+developed, and sell in the immediate neighbourhood 18,000 k.w.
+for the electrical smelting of Australian zinc ores, 8,000 k.w.
+for iron smelting and 6.000 k.w. for the manufacture of ferro-
+silicon, a fixed price of from £2/10/- to £2/16/- per k.w. year
+being charged. Power is also transmitted to- Gothenburg at
+50,000 volts, where the bulk charges are £2/16/- per k.w. year,
+based on the four maximum weekly readings, plus 0.07 d. per
+unit; 120 million units were supplied from Trollhattan in 1912.
+At Elfkarleby, North of Stockholm, the government is de-
+veloping 65,000 h.p., the works when visited being under con-
+struction.
+Holland. —The State Coal Mines at Heerlen, in Holland,
+are extremely interesting, especially on account of the care
+taken in providing for the comfort of the workmen, who change
+completely and bathe in well-appointed bathrooms before pro-
+ceeding to their homes. The coal used being all washed im-
+mediately on arrival at the surface, the whole of the surface
+works are remarkable for their cleanliness. At two of the mines
+power to the extent of 7,680 k.w. is developed by steam turbines.
+After providing for the needs of the mines, including electric
+winding, surplus energy is sold to the Societe de Distributions
+Electriques de Limburg at £2 per k.w. and 0 .24d. per unit. One
+of the three directors of the State Mines expressed to the author
+his opinion that the interposition of the distributing company
+was a distinct drawback to an otherwise satisfactory" State ven-
+ture. The output for 1913 was about 10 million units.
+At Nymegen is a station owned by the municipality", which
+supplies parts of the three provinces of Limburg, N. Brabant,
+and S. Gelderland. 9,000 k.w. being in use, and the charges
+varying from £4/8/- to £3 per k.w., plus 0 sd. per unit. Dis-
+tribution and transformer charges are added for distant sup-
+ply. Coal is relatively dear here, being nearly £1 per ton;
+but wages are low, compared with what is paid in Australia.
+Germany.—The State Coal Mines near Gladbeck were in-
+teresting for the use of waste heat from coke-ovens for raising
+steam, and of exhaust steam from winding engines for low-pres-
+sure turbines. The usual by-products were being collected.
+
+
+Switzerland.—The Albula Station belonging to the Zurich
+municipalities was a beautiful example of well-designed work,
+20,000 k.w. being transmitted 90 miles at 40,000 volts.
+Canada: Hydro-Electric Power Commission of Ontario.
+This paper would be incomplete without reference to the opera-
+tions of this Commission, the most notable example of State
+enterprise in the direction referred to yet attempted in the
+world's history.
+The Commission, which-started operations in 1908, has its
+headquarters in Toronto, and the author had an opportunity of
+seeing- something of its work at both ends of the transmission
+line, and of discussing with the Chief Engineer and various
+members of his staff a number of points connected with the
+undertaking which have a relation to the subject here treated.
+The accompanying map, Figure 12, shows the network in
+use last year. Power is bought at Niagara from the Elec-
+trical Development Co. of Ontario, and delivered thence over a
+large portion of the province of Ontario, the contract being for
+100,000 h.p. at £2/3/- per h.p. year.
+The Commission has a special Municipal Department, whose
+work is thus explained in the 1914 Report, page 83: —
+“The .Municipal Department is employed to secure the
+necessary information for the preparation of estimates on the
+cost of supplying power to those districts desiring it, through
+dat<j collected by surveys of the districts and investigations of
+the possible power demands. These investigations are made,
+and estimates submitted, at the request of the municipalities
+desiring power. After a contract for a supply of power has
+been made between the municipality and the Commission, the
+latter acts as consulting engineer when so requested, and is ex-
+pected to prepare engineering plans, specifications, call for ten-
+ders, and supervise the erection of the necessary material and
+apparatus. Later, after power is delivered, this department aids
+the municipality in building up its power load by acting as a
+power solicitor, and advising the town and consumers regard-
+ing the amount of power necessary and the proper electrical
+equipment.
+“The standardisation of apparatus, unification of rates, and
+the inauguration of standard accounting systems are also under
+
+
+FIG. 12
+ELECTRIC GENERATING AND
+TRANSMISSION SYSTEMS
+OF THE
+HYDRRO-ELECTRIC POWER COMMISSION
+OF
+ONTARIO
+
+
+the direct supervision of the Municipal Department, which igi
+also expected to give advice on questions of an electrical nature
+at the request of any municipality in the province.”
+In 1913 no less than 52 municipalities were served at rates
+varying from £3 to £8 per h.p. per year for power, the smallest
+township served having a population of only 400 inhabitants.
+The rates devised by the Commission for charging individual
+consumers are interesting. For domestic lighting they include
+a charge of 2d. per month per 100 square feet of floor area,
+counting all the rooms in the house, whether they are lighted
+or not, plus a charge varying from 1 y 2 d. to 3d. per k.w. hour.
+Commercial rates vary from 3d. to 6d. per unit for the first
+thirty hours’ use per month of the installed capacity, and for
+each unit thereafter from to 2y 2 d. in most instances (in
+two instances to 3d., and in once instance 5d.). Discounts of
+from 10 per cent, to 25 per cent, are allowed for prompt pay-
+ment. For street lighting, the municipalities are charged from
+£1 to £3 per annum for ordinary lamps of from 60 to 100 watts,
+and proportionately higher charges for larger incandescent
+lamps or arc lamps. The rates charged to the municipalities,
+and framed by the Commission to be charged by the munici-
+pality to the consumer, are dependent upon the cost of the trans-
+mission mains and distributing system in the individual cases.
+Apart from the 52 municipalities actually supplied, investi-
+gations were in progress in 1913 with reference to the supply
+of more than 100 other municipalities, townships, or districts,
+many of which were, no doubt, supplied during 1914.
+With regard to rural supply, the following is quoted from
+the 1914 Report, page 186:
+“A rural distribution system for the use of farms and
+small villages has been commenced in ten different townships.
+In some cases where they are of any size the business is handled
+by the township. In other cases the nearest town handles the
+work until the system grows, when it is taken over by the town-
+ship. This arrangement has proved very satisfactory, since it
+enables a number of demonstration farms to be established in
+various parts of the country, and gives the rest of the town-
+ship an opportunity of seeing electric light and power in opera-
+tion on the farm. Much useful information has been gained on
+these farms for determining the most suitable installation of
+
+
+motors and machinery for the average farmer’s use, and in ar-
+riving at the proper system of charge for different kinds of
+service. ’ ’
+The most suitable general equipment is also detailed in the
+.Report, and recommendations are given as regards the most
+economical method of using power. Near Toronto there are no
+less than 200 farmers connected with the mains.
+An interesting detail as regards the transmission mains is
+that the Commission has been using aluminium cable provided
+with a central steel core, which enables aluminium to be used
+on long spans with considerably less sags than would otherwise
+be possible.
+The Commission has been stoutly criticised, especially from
+New York. It possesses unusual parliamentary powers, which,
+doubtless, might be capable of-abuse; but it appears to have
+justified its existence, and the operations have been so success-
+ful that-the Chairman of the Commission, long known as the
+Honourable Adam Beck, who was chiefly instrumental in bring-
+ing the scheme into being, has recently received the honour of
+knighthood.
+E.—SOLUTION OF THE POWER SUPPLY PROBLEM IN
+NEW SOUTH WALES.
+Dr. Ferranti has recently said that electricity supply is a
+matter of national economy, and that properly carried out to
+its logical issue, it is the greatest labour-saving factor with which
+we have any prospect of dealing.
+In Part I. of this paper it has been shown that the antici-
+pated requirements within the next five years of the State are
+■an increase of 106,000 k.w., and 312 millions of units per an-
+num. In Part 11. it is proved that the coal and water power
+resources of the State are ample for all requirements, and in
+Part 111. an attempt has been made to indicate the best method
+•of proceeding to provide for the State’s requirements.
+The analysis of the problem leads one to the inevitable con-
+clusion that the initial step to be taken in the solution of the
+power problem to-day is the establishment of a large power sta-
+tion on the southern coalfield, in conjunction with coke-ovens,
+and recovery plant for tar, ammonia, and possibly benzol, to-
+luol, and cyanide, this station to be tied in with a water-power
+
+
+station established on the Shoalhaven or Snowy Rivers, and with
+other stations in connection with established water supply and
+irrigation schemes, and with the existing large power stations
+in Sydney.
+Coming to the question of ownership, the tendency in Aus-
+tralia has been for such schemes to be nationally owned; and
+it would seem probable that under existing conditions the ven-
+ture is not one such as a private company would undertake. So
+many industries have been nationalised that power supply would
+appear to be a perfectly legitimate undertaking for the State
+to carry on, at least as much for the well-being of the people
+as some of the enterprises already started. The difficulty of a
+company establishing works in connection with the Water Con-
+servation Commission's reservoir at Burrinjuck, and say the
+Metropolitan Board's Water Supply from Cataract, and of
+working in with a hydro-electric scheme from the Shoalhaven
+or Snowy Rivers, tied in with coal-power stations on the South
+Coast or elsewhere, including coke-ovens, would be far greater
+than for the Government to undertake this work themselves,
+earmarking the water powers forthwith, and developing them as
+the need for such development arose.
+Consequently, the author submits that it is quite within the
+bounds of legitimate State enterprise for this important matter
+to be taken up by the Government, and as the demand is in-
+creasing at such a considerable rate, it needs to be taken in hand
+at once. There is no doubt that the conclusion of the war will
+find Australia very much more self-contained in the future than
+in the past in respect of all those supplies which her natural
+resources enable her to produce, and in the economic struggle
+for existence the universal provision of cheap power will be one
+of the factors enabling her to succeed in that struggle.
+CONCLUSION.
+The paper has been long in view'. It is over four years
+since the Honourable Arthur Griffith, then Minister for Public
+Works, authorised its preparation; and to him the author’s
+thanks are specially due, both for this and for enabling him
+to visit other countries of the world to see for himself the power
+developments that are there taking place. During the earlier
+work involved, the author-would acknowledge cordially the as
+
+
+sistance rendered by Mr. W. J. Hanna, then Under-Secretary
+for Public Works, in placing the records of the Public Works
+Department at his disposal.
+The author’s thanks are also due to the present Minister
+for Public Works, the Honourable J. H. Gann, and to the Direc-
+tor-General of Public Works, Mr. J. Davis, M.lnst.C.E., for fa-
+cilities afforded him in the preparation of the paper and the
+accompanying drawings and photographs, and the preparation of
+the blocks; to Mr. E. F. Pittman, A.R.S.M., Govt. Geologist and
+Under Secretary for Mines, for permission to make use of the
+map from his “Coal Resources of New South Wales”; to Mr.
+A. A. Atkinson, Chief Inspector of Coal Mines, for assistance
+with that portion of the paper dealing with the coal resources
+of the State; and to those gentlemen, mostly members of this
+Association, whose names are mentioned in the text as having
+contributed facts of which the- author has made l free use, and
+but for whose kindly co-operation the paper would have been
+incomplete. Lastly, the author wishes to thank the officers of
+his own staff who have assisted him, arid particularly Mr. J. J.
+Richardson, A.M.1.E.E., who has not spared himself in helping
+with the calculations and checking the results arrived at.
+During the years that the author has been studying the
+subject, the questions involved have been coming more and more
+to the front, until the time seems now ripe for a full discus-
+sion by those members of the profession whose occupation es-
+pecially brings them face to face with the problems involved.
+It is in this sense and with this object that the paper is pre-
+sented.

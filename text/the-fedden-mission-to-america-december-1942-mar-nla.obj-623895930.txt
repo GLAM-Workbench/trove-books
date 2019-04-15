@@ -1,0 +1,3293 @@
+
+
+Final Report
+SECRET
+AIRCRAFT PRODUCTION
+MINISTRY OF AIRCRAFT PRODUCTION
+
+
+
+
+FEDDEN MISSION REPORT
+SECTION 2
+Assigned to . Copy Ho. 9J£.
+Address Bate of issue
+This report contains confidential information, and must
+therefore be treated accordingly by the person to whom this copy
+is issued. Anythin!; contained in this report must only be com-
+municated to approved and accredited executives of Government de-
+partments or firms undertaking the manufacture of aircraft or ac-
+cessories for His Majesty’s Government; and must not be published
+or disclosed to unauthorised persons.
+There is a considerable amount of detailed information
+in this report which may only be of interest to those specialising
+on the particular problem. In order, therefore, to assist executives,
+this report has been so framed that at the beginning of each Phrt
+a special coloured page has been provided which sets out as short-
+ly as possible the broad policy conclusions of the Mission on this
+particular subject, including the action that is advised.
+By this means it is hoped that those concernedmth policy
+may have as concise a picture as possible of what is considered
+should be done to put into effect the work of the Mission.
+The purpose of the Mission was to learn what American
+methods could be' introduced into this country to improve our out-
+put, and to investigate certain technical problems and new devel-
+opments in America. The report is therefore mainly concerned
+with those aspects in which the American industry is ahead of cuts,
+and with promising technical developments. No emphasis has been
+laid on points where the Mission consider that British production
+methods or technical develo ment are ahead of American.
+S.T.A.M.
+Cook’s Building,
+40 Stratton Street, W. 1
+June, 1943
+
+
+This report is issued in seven separately bound Sections, as follows;
+SECTION 1 CONSTITUTION, SUMMARY AND GENERAL CONCLUSION’S
+OF THE MISSION
+" 2 AIRCRAFT PRODUCTION
+" 3 AIRCRAFT DESIGN
+" 4 ENGINES, PO’.VER PLANTS AND PROPELLERS
+” 5 ACCESSORIES AND EQTJIHiENT
+" 6 EDUCATION AND RESEARCH
+" 7 POST-VAR PROBLEMS
+Each Section is divided into two or more Parts, and a list of
+contents appears at the beginning of each Part. The in a
+section are lettered A, 3, C etc.
+Each Part is divided into Chapters, the first of which, (on a
+coloured page) gives the broad policy conclusions for the The
+Chapters are made up of Items, and each Item has a number indicating
+the Chapter to which it belongs and its position within the Chapter.
+For example:
+2.03 indicates the third item of Chapter 2
+3.12 M " twelfth " " " 5
+For specifying completely any item, it is also necessary to
+quote the Section and r> art, and in the text, at the beginning of
+each Item, its complete reference is given.
+For example:
+3A - 2.03 indicates Section } Part A, Chapter 2, third item.
+40 - 3*12 indicates Section g, Part C, Chapter 5* twelfth item.
+
+
+CONTENTS OF THE WHOLE REPORT
+SECTION 1 - CCNSTITUTION. SI MiAM AND GENERAL CONCLUSIONS
+PART A - OBJECTS OF THE MISSION, PERSONNEL AND ITINERARY
+Chapter 1 Scope, object and general survey of the Mission
+" 2 Itinerary, December 1942 to March 1943
+" 3 Broad policy conclusions
+" 4 Future policy in regard to Missions to America
+PART B - AMERICAN NATIONAL AIRCRAFT ORGANISATIONS
+Chapter 1 General
+” 2 Army Air Force
+M 3 Navy Department
+” 4 War Production Board
+" 3 Joint Aircraft Committee
+n 6 Office of Scientific Research and Development
+SECTION 2 - AIRCRAFT PRODUCT lON
+PART A - ORGANISATION
+Chapter 1 Broad policy conclusions
+” 2 Engineering departments
+" 3 Factory layout
+” 4 General notes on organisation of airframe factories
+" 5 Boeing Aircraft, Seattle
+M 6 Consolidated Aircraft, San Diego
+” 7 North American Aviation, Inglewood
+n 8 Bell Aircraft, Buffalo
+” 9 Curtiss Wright
+M 10 Other aircraft firms
+11 11 Data* on American airframe factories
+” 12 Canadian aircraft industry
+PART B - FACTORY LAYOUT AND PROCESSES
+Chapter 1 Broad policy conclusions
+n 2 Special applications of lofting
+” 3 Economy of floor space
+" 4 Conveyors
+** 3 Drop hammer
+M 6 Rubber die press
+" 7 Mechanical press
+” 8 Stretcher
+" 9 Special tools
+" 10 Famum rolls
+H 11 Rivet sorting
+" 12 Finishing and painting
+" 13 Extrusion manipulation
+" 14 Pipe bending
+” 15 Glenn Martin 3kin stretching process
+M 16 Plaster moulds for light alloy casting
+" 17 Powder metallurgy
+w 18 Riveting
+M 19 Spot welding
+M 20 Flash welding of undercarriages and engine mountings
+" 21 Heliarc welding
+” 22 Cycle we Id
+
+
+SECTION 3 - AIRCRAFT DESIGN
+PART A - GENERAL DESIGN TECHNIQUE
+Chapter 1 Broad policy conclusions
+" Scope and organisation of engineering departments
+3 Weight analysis
+" 4 Factors and design requirements
+* 3 American stressing technique
+" 6 Aerodynamic design
+* 7 Aerodynamic controls
+8 Stressed skin construction
+■ 9 Pressure cabins
+* 10 Undercarriage design
+" 11 Materials
+" 12 Processes
+" 13 Aircraft testing procedure
+PART B - REVIEW OF AMERICAN AIRCRAFT
+Chapter 1 Broad policy conclusions
+2 Description of new North American P. 51
+" 3 Description of,Curtiss P. 60
+* 4 Description of Bell P. 63
+" 3 Description of Douglas A. 26
+6 The Boeing 8.29 and Consolidated 8.32
+7 Current fighters in production
+8 Current heavy bombers in production
+" 9 Transport types
+" 10 Wooden aircraft
+" 11 Flying boats
+* 12 Tailless aircraft
+* 13 Tabulated data
+PART C - PHOTO LOFTT>3r,
+Chapter 1 Board policy conclusions
+" 2 Technical summary
+" 3 Layout procedure
+4 Alternative reproduction processes
+" 3 Camera procedure
+" 6 Miscellaneous
+PART D - SELF SEALING FUEL TANKS, OIL TANKS AND FUEL HOSE
+Chapter 1 Broad conclusions
+" 2 Technical summary
+" 3 Fuel tanks - American practice
+" 4 Kose - American practice
+SECTION 4 - ENGINES, POWER PLANTS AND FRoraT.Tires
+PART A - PRODUCTION
+Chapter 1 Broad Policy conclusions
+2 General design and production notes on firms visited
+" 3 Organisation and output
+4 Engine and propeller production processes and equipment
+PART B - DESIGN
+Chapter 1 Broad policy conclusions
+2 Technical review of American engine developments
+* 3 Propeller design
+" 4 Power plant policy and installation
+3 Specific technical items
+
+
+PART C - REGENERATIVE ENGINE TESTING PLANT.
+Chapter 1 Broad policy conclusions
+" 2 Technical summary
+* 3 Methods of absorbing engine power
+■ 4 Speed control
+* 5 Relative merits of testing plant end methods
+" 6 The Buick arrangements at Melrose Park, Chicago
+PART D - FUEL ATT) OIL
+Chapter 1 Broad policy conclusions
+* 2 Fuel
+* 3 Oil
+SECTION 5 - ACCESSORIES AND EQUIPMENT
+PART A - ELECTRIC WIRING
+Chapter 1 Broad policy conclusions
+" 2 Summary and conclusions
+" 3 Principles underlying American methods
+* 4 American wiring practice
+" 5 Maintenance and repair aspect
+" 6 Comparative appraisement of British and American
+practice.
+* 7 Developments in relation to alternating current
+" 8 Application to British development and production
+PART B - AIRCRAFT ELECTRICS
+Chapter 1* Broad policy conclusions
+" 2 Conclusions
+" 3 Present use of low pressure direct current
+4 Effect of operating conditions on choice of system
+5 Review of electrical services in relation to hydraulics
+" 6 Manuals on installations
+* 7 Design and production of electrical equipment
+" 8 New developments in aircraft electrics
+" 9 Approval and standardisation of equipment
+" 10 Liaison with America on electrics
+PART C - INSTRUMENTS AND RADIO INSTALLATIONS
+Chapter 1 Broad policy conclusions
+* 2 Aircraft instruments
+* 3 Radio installations
+PART D - AIRCRAFT VIBRATION TESTING AND EQUIPMENT
+Chapter 1 Broad policy conclusions
+" 2 Summary and conclusions
+" 3 Introduction
+" 4 Equipment
+" 5 Application
+* 6 Scope of activities
+" 7 Review of technique
+* 8 Equipment ordered for M.A*P.
+" 9 Application to British development
+
+
+PART E - INSTRUMENTATION OF TEST FLIGHTS
+Chapter 1 Broad policy conclusions
+• 2 Summary and conclusions
+■ 3 Introduction
+" 4 Outline of installations
+• 5 Organisation
+■ 6 Equipment
+■ 7 Review of technique
+■ 8 Application to British development
+SECTION 6 - EDUCATION AND RESEARCH.
+PART A - ENGINEERING STAFF
+Chapter 1 Broad policy conclusions
+■ 2 Economical use of present aircraft engineering
+staff
+" 3 American publications and engineering propaganda
+■ 4 Manuals prepared by firms for instruction of drawing
+office staff etc.
+" 3 Manuals prepared by firms to explain administration and
+define duties
+" 6 Standardisation
+PART B - INDUSTRIAL AND SERVICE TRAINING
+Chapter 1 Broad policy conclusions
+• 2 Technical manuals for part time study
+■ 3 Schools for training industrial and service personnel
+" 4 Instruction manuals prepared by firms on their products
+■ 3 Instructional films
+PART C - UNIVERSITY EDUCATION OF AERONAUT I CAL ENGINEERS
+Chapter 1 Broad policy conclusions
+• 2 American education
+PART D - RESEARCH ESTABUSHMENTS
+Chapter 1 Broad policy conclusions
+" 2 Need for increased researcn equipment in Britain
+• 3 Langley Field
+" 4 Canadian National Research Council
+" 3 American wind tunnels
+" 6 Engine research
+SECTION 7 - POST WAR PROBTFMS.
+Chapter 1 Review of the civil aviation position in America
+• 2 Training aircraft
+
+
+AIRCRAFT PRODUCTION
+PART A ORGANISATION
+CHAPTER 1 - BROAD POLICY CONCLUSIONS
+Item I*ol General
+w I*o2 Action
+CHAPTER 2 - ENGINEERING- DEPARTMENTS
+CHAPTER 3 - FACTOR! LAYOUT
+CHAPTER A - GENERAL NOTES ON ORGANISATION OP AIRERAME
+FACTORIES.
+CHAPTER 5 - BOEING AIRCRAFT, SEATTLE.
+Item 5.01 General
+' n 5*02 Seattle plant
+M 5*03 Organisation charts
+H 3*04 Tool department
+* 5*05 Material control
+" 3-06 Production control
+CHAPTER 6 - CONSOLIDATED AIRCRAFT, SAN DIEGO.
+Item 6*ol General
+M 6,02 San Diego plant
+" 6.03 Organisation chart
+" 6.04 Production control
+tt 6.05 Material control
+w 6.06 Sub-contracts
+n 6.07 Tooling and methods department
+M 6.08 Labour summary
+CHAPTER 7 - NORTH AMERICAN AVIATION, INGLEWOOD
+Item 7*ol General
+w 7*02 Inglewood plant
+M 7*03 Organisation chart
+7*04 Hours control and scheduling section
+M 7*05 Material control section
+w 7*06 Tool engineering
+" 7*07 Planning
+M 7*oB Parts Control (Production Control)
+w 7009 Manufacturing co-ordination
+M 7*lo Labour summary
+
+
+CHAPTER 8 - BEIL AIRCRAFT, BUFFALO
+Item B*ol General
+H B*o2 Buffalo plant
+" B*o3 Organisation charts
+M 8. 04 Estimating
+M 8.05 Product ion cont*x>l
+M 8.06 Production engineering
+H B*o7 Purchase department
+M 8.08 Graphic analysis
+M 8.09 Labour summary
+CHAPTER 9 - CURTISS WRIGHT
+n 9.01 General
+M 9*02 St .Louis plant .
+” 9*03 Organisation charts
+CHAPTER 10 - OTHER AIRCRAFT FIRMS
+Item 10.01 General
+M 10.02 Glenn L. Martin, Baltimore
+» 10.03 Douglas Aircraft, El Segundo, Los Angeles
+" 10.04 Lockheed, Los Angeles
+H 10.05 Vega, Burbank, Los Angeles
+** 10.06 Republic, Farmingdale, Long Island, New York.
+CHAPTER 11 - DATA 0» AMERICAN AIRFRAME FACTORIES ..
+CHAPTER 12 - CANADIAN AIRCRAFT INDUSTRY.
+APPENDIX - T.TST OF DOQUMSNTS BROUGHT FROM AMERICA.
+
+
+CHAPTER 1 - BROAD POLICY CONCLUSIONS.
+2A-I.QI General. The Americans have undoubtedly looked big in the size of their
+staffs and in the organisation -which they have built up. In some cases
+they have been extravagant, but this extravagance is inevitable on account
+of their extremely rapid expansion ,-vdiich has been even greater than ours,
+and also because of the considerable pre-production work and supervision
+required for the large number of unskilled men who have been brought into
+the industry. This is accentuated in some factories because they are not
+yet working to capacity and this means that there is a lade of balance
+between productive and non-productive personnel.
+The various aspects of management, the size and scope of engineering
+departments, the control of Jig office, planning department etc., have
+been conceived on a bold basis. The various production operations are
+broken down into stages and planned more elaborately in America than in
+this country. Much time and effort is put into pre-production work of
+scheduling, process planning, machine loading, labour loading and shop
+layout and this is carried out in greater detail in America than is
+customary in many of our factories. This is considered to be an essential
+part of obtaining efficient production. Time study is extensively used as
+a means of obtaining accurate data far this work. This outlook follows
+naturally on the highly product ionised American automobile industry.
+Factory buildings are on the whole better ventilated and lighted
+etc., than our own. The time and effort put into tooling is well
+rewarded by the results achieved with unskilled labour. In conjunction
+with good supervision, the American system goes quite a long way towards
+obtaining good results from their labour without the incentive of piece-
+work.
+2A-1.02 Action.
+(i) In considering the points which can be applied to the British aircraft
+industry, it is suggested that the following require particular attention:-
+(a) All new types should be carefully vetted by the Production
+Organisation in the early stages of design and every endeavour should
+be made to obtain close liaison between Design and Production. On
+existing types, any difficulties of production should be carefully
+considered by both the Design and Production staffs to see if an
+improvement could be incorporated at a convenient stage*
+(b) Careful attention should be given to all pre-production work
+and steps taken to strengthen both supervision and staff wherever
+possible*
+(c) The British industry has had to face a great shortage of
+skilled personnel and although it is already short staffed, the
+transfer of men to the armed farces continues. It is usually-
+found that such replacements as are supplied are of an inferior
+quality, and it is felt that the present policy must be reversed
+if our clerical organisations are to function in an efficient
+manner. Unless action is taken immediately, it is difficult to
+see how any of the improvements mentioned above will be realised.
+(ii) As a further step, vigorous action should be taken by the Government
+to extend the training facilities throughout the country, and every
+assistance should be given to encourage the industry to improve their
+present educational departments.
+
+
+
+
+CHAPTER 2 - ENGINEERING DEPARTMENTS
+2A-2.01 Engineering departments are dealt with in detail in Section 3 and
+therefore only brief mention is being made of this subject here*
+This whole matter however, has a profound effect on production,
+because a larger number of people in the engineering department are able
+to spend more time in consideration of the production aspect of any design*
+Another important aspect of the American system is that each aircraft type
+is under the supervision of a Project Engineer who is usually answerable
+direct to a Chief Project Engineer whose office is responsible for the co-
+ordination of all the various aspects*
+The Project Engineer is responsible for co-ordinating all the
+engineering work on his particular model, including that of the specialised
+sections, such as hydraulics, power plants, etc*, and all drawings are
+issued over his signature. Freedom of the individual in detail design is
+encouraged. The project engineers generally have a wider experience and
+knowledge of production methods than comparable design s taff personnel in
+U.K. They spend considerably more time in the shops and we were impressed
+by their ability to discuss production methods, workshop functions, plant
+and machinery available for any job, types of jigs and tools, skill of
+workers and all matters relative to their aircraft in relation to the
+production programme.
+It is the opinion of the Mission that the best way to obtain easy
+production is to design for it. We are certain that this close liaison
+with production personnel and methods is a considerable aid to this end and
+that this practice should be more vigorously pursued in this country. It
+is obvious that when production methods and assembly breakdown are
+considered in the scheme stages of the design, it must result in more
+efficient sub-assembly units, and we are convinced that this easing of
+production has not resulted in increased structure weight*
+Perspective drawings were used considerably for a number of processes,
+such as illustrating to unskilled shop personnel the exact amount of work
+comprising their group operation. These drawings were excellently carried
+out and were of considerable value in shortening the time required for
+planning etc* and in getting operators accustomed to their jobs quickly.
+It is recommended that more attention should be paid to the use of
+perspective drawings in this country.
+CHAPTER 3 - FACTORY LAYOUT.
+2A-3*ol Factory layouts are universally good, and full use is made of time
+study methods for this purpose* Great consideration is given to the
+positioning of machines in order to avoid unnecessary handling during
+manufacture*
+In this country we are faced with additional problems introduced by
+dispersal, the provision of blast walls and shelters, but nevertheless
+could benefit by more careful study when laying out both machine and
+assembly shops* In one respect could American practice be criticised and,
+generally speaking, that applies to factories in this country, namely
+inadequate provision in the first instance for storage space in all
+categories*
+One Canadian factory visited approached an ideal layout. Adequate
+stores space to approximately 2J/o of the total floor space had been
+allocated along the entire front of the factory. The hull assembly was
+laid out across the factory at one end and on completion at the far side,
+it was in correct position for the start of the final assembly line moving
+the length of the building. Other components worked away from their Group
+Stores across the factory in the same manner and reached the assembly line
+exactly at their incorporation point, thus avoiding all unnecessary
+movement•
+
+
+The Americans lay out the entire factory at the commencement of a
+contract on a large hoard, similar to that shown in Figs. 1 and 2.
+This is referred to as a "Gazinta" hoard ("This goes into that and that
+into this”, etc.) and is kept up to date throughout the entire contract.
+It is undoubtedly much easier tp organise flow through a factory with a
+complete scale layout of this type than with the small departmental
+layouts usually used hy firms in this country.
+Fig. 1.
+Fig. 2.
+Figs. 3 and 4 are examples of flow systems, and Fig. 5, which is a
+return to he made daily of progress on the 8.24 contract, is typical of.
+the close control which is exercised over the flow of aircraft through
+American plants.
+
+
+FIG. 3.
+FLOW CHART - BELL NIAGARA FALLS PLANT.
+
+
+FIG. 4. FLOW CHART FOR CONSOLIDATED 8.32 CENTRE SECTION
+
+
+FIG. 5 DAILY AIRCRAFT PRODUCTION CHART
+
+
+Gangways in many factories were cut down to a minimum with special
+delivery trollies designed to handle the particular components economically,
+while large basements were used for Stores, Cafeterias, Locker Rooms, etc.
+and the large corridors to control the changeover of shift workers.
+CHAPTER 4 - GENERAL NOTES ON ORGANISATION OF AIRFRAME FACTORIES.
+2A-4.01 The member of the Mission responsible for Works Administration only
+made a detailed investigation at the following four plants:
+Boeing Seattle
+Consolidated San Diego
+North American Inglewood
+Bell , Buffalo
+In addition, short visits were paid to?-
+Curtiss fright Buffalo
+Curtiss Wright St* Louis
+Glenn Martin Baltimore
+Douglas Los Angeles
+Lockheed Los Aug©les
+Veg& Los Angeles
+Republic Long Island, New York
+More detailed information concerning the factories ia given later.
+The Mission could not help being impressed by the breadth of the vision
+behind the recent expansion of the U.S. airframe manufacturing programme and
+the expeditious manner in which it has been put into effect. There are
+undoubtedly many useful lessons which we could learn from U.S. methods, but
+it is necessary to point out that their practice should only be followed after
+careful consideration, as they are in certain respects behind the best methods
+in use in this country.
+In general, the main organisation is broken down into six divisions -
+Contracts, Financial, Quality, Industrial Relations or Personnel, Engineering
+and Manufacturing, and is similar to many of our own factories.
+The Contracts division are responsible for all negotiations regarding
+the contract for production and spares, estimating, and the maintenance of
+records of aircraft and spares deliveries. The Financial division is generally
+sub-divided into many smaller sections covering General accounts, Legal
+matters, Budget control. Payroll and Costing, etc. Punched card systems are
+used extensively for costing and are designed to give much useful information
+to the Manufacturing division.
+The correct position in the organisation of the Inspection has given rise
+to much comment in America, and cases will be found where this department is
+responsible to the General Manager, Chief Engineer, or Production Manager,
+The pre-production work, such as scheduling and process planning, is
+invariably done by the Production department or a Section under its control*
+The schedules, which are prepared from the flight programme, cover all
+details, sub-assemblies and assemblies and, although some are of a complicated
+nature they serve as a useful target on which all other Sections can plan
+their work. The accuracy with which the operations are laid out has an
+important bearing on production, as this information, coupled with standard
+times determined from time study, is used as the basis for machine loading,
+shop layout and labour requirements. These pre-production operations are
+carried out very thoroughly and in more detail than is customary in many of
+our factories. The importance of this work was realised by the Americans as
+far back as 1938* when steps were taken to build up and train suitable
+personnel, many of whom have now become their Sectional Supervisors. It is
+felt that benefit would be derived from the strengthening of this work in
+many of our factories. The functions which we know as progressing and the
+control of Finished Part Store is also controlled by the Production department.
+
+
+Tool Engineering is usually a self-contained Section, who are
+responsible for the design, ordering, obtaining and storage of all tools,
+jigs and fixtures and generally control the Tool Shops.
+Until the present time, there has been no adequate control over the
+supply of raw materials and steps are now being taken to apply controls
+similar to those which are operating s 6 satisfactorily in this Country.
+Perhaps as a result of this, it has been U.S. practice to consider all
+sub-contract items as bought out parts, leaving each individual sub-
+contractor the responsibility of obtaining his raw materials direct from
+Suppliers. As one would expect, £his is not satisfactory and it will
+obviously be some time before the present conditions can be completely
+corrected. There is, in general, a high percentage of sub-contracting on
+machined parts and in some cases the machine shops are looked upon as a
+means of supplying shortages or parts which are living special difficulties
+in manufacture.
+It is usual practice in American factories to have one section entirely
+responsible for all materials or parts purchased outside, including sub-
+contracted parts. Production drawings are received from the Engineering
+department, from, which material requirements are prepared. The section is
+divided into many sub-sections, each dealing with a particular type of
+material and each having a separate buyer. As Material Control generally
+is responsible for the receipt and storage of raw material and bought out
+parts, it is necessary to maintain a stock and an allocated stock record;
+in each of these sections. Shop orders prepared by the Planning department
+are issued to the Material Control to check availability of materials and are
+not generally released until the full quantity for the batch is in Stores.
+There is in this country a division of opinion as to whether it is
+advisable to have a separate Material Control section or to divide the
+functions performed by this section between Planning, Purchase, Progress and
+Stores. Either scheme could be made to work well, but it is considered that
+the latter method avoids a considerable amount 1 of duplication, provides,
+better co-ordination and is therefore a more logical solution of the problem
+than the former.
+It was common practice in .American factories for the Finished Part
+and Assembly Stores to be under the control of the Production Organisation.
+The parts required fortach stage on the assembly line were often kept in
+bins located along the line and minimum stock figures were used as a means
+of controlling the quantity of sets to be held in advance of assembly. It
+was the responsibility of the Production Control to replenish the stocks as
+required. The operators were, however, allowed to procure the parts they
+required from these bins without a requisition, and difficulties were being
+experienced in a number of factories in maintaining balanced sets, as
+scrapped and lost parts could be replaced by the Operator without the
+knowledge of the Production Control. The methods used in this country of
+issuing a group of parts to an aircraft or batch of aircraft against a
+requisition, gives a better control, and it is felt that it will be
+necessary far America to adopt a similar system as materials become more
+difficult to obtain.
+It has been found in this country that regular and high production can
+only be obtained' when there is an adequate backing of raw materials and
+bought-out parts in advance of production and although this
+increases the value of work in progress, it provides a means of disclosing
+potential shortages at a sufficiently early date to enable the necessary
+corrective action to be taken and is, therefore, more than justified.
+There are indications that same American executives have recently arrived
+at the same conclusion, others have either not realised this or, for
+reasons of financial policy, have not taken the necessary action to correct
+these conditions.
+
+
+In many of the plants, punched card control schemes for tools,
+materials and finished parts are being introduced. Such schemes, if
+properly designed and applied, can be of great value, but it must not be
+assumed that the mere introduction of a punched card system will
+necessarily solve all difficulties. Punched card accounting schemes
+probably provide the most effective method of preparing payrolls, purchase
+ledger, Stores Control accounts, Job costs and in some cases, material
+summaries and certain types of progress records. It is considered that in
+many cases the Americans are attempting to use punched cards where simpler
+clerical methods could be equally as effective. The paper work throughout
+all the plants was of a more extensive and complicated nature than that in
+the best factories in this eountry. This has been realised and specialist
+sections are being set up to rationalise and co-ordinate the clerical
+side of the organisation. Up to the present time there has been no
+serious shortage of clerical labour comparable with that which has forced
+us to adopt more economical and simpler methods.
+Throughout the American airframe industry it was noticeable that the
+number of assistants employed on such indirect operations as process
+planning, material control and production control, are considerably higher
+than is the case in this country and that there was a very high quality of
+supervision, particularly in the lower grades, such as Departmental
+Managers, Foremen and Section Leaders. Furthermore, the number of
+operators per supervisor was approximately half that looked upon as
+normal in this country. The necessity to transfer many of our skilled
+personnel to the Armed Forces has resulted in a great shortage in our
+Aircraft Industry, and this has given rise to considerable difficulties.
+It is usually found that such replacements as are supplied are of an
+inferior quality and it is felt that the present policy must be reversed
+if our clerical organisations are to function with the degree of efficiency
+necessary to maintain a high production. Material benefits would accrue
+from the adoption of intensive training courses on American lines, which
+are described in Section 6.
+It has previously been noted that all operations are time studied for
+planning purposes. In no case was it found that the established standards
+were used for the purpose of wage incentives and it is common practice to
+pay all hourly operators on a fixed rate which, after a probationary period
+of three months, is increased on merit considerations only. Despite the
+lack of financial incentive a high rate of operator productivity was
+observed throughout the various plants. The probable reasons for this are
+worthy of consideration. In the first place working conditions, such
+as lighting, air conditioning, canteen facilities, provision of bath rooms,
+are considerably better than the average standards in England; further-
+more; there is a strong propaganda movement designed to foster the spirit
+of loyalty towards the plant, and backed up by liberal use of posters,
+social functions, works magazines, sports clubs, medical and welfare
+services, etc. Full use is also made of suggestion boxes and the rewards
+afforded are on a higher scale than is our habit. In all these respects,
+improvements could be made in England. It is only fair to point out that
+despite these conditions, absenteeism is slightly higher than in this country
+and that it has recently become necessary to freeze labour in order to
+prevent a very high labour turnover.
+CHAPTER 5 - BOEING AIRCRAFT, SEATTLE
+2A-s*ol General. This is one of the oldest established aircraft firms in
+America. They impressed the Mission as being the most experienced
+specialists on heavy bombers. The Seattle plant has probably the
+densest production of any firm seen in America. The Engineering,
+Research and Blight Testing departments are excellently organised and
+have a wealth of technical background.
+
+
+The firm is now spreading its activities, and are hound to experience
+the difficulty of having to disperse their stronger personnel.
+The number of employees increased from 3,800 in August, 1940, to
+33,000 in February, 194-2, and the many difficulties which accompany such
+a rapid expansion appear to have been well controlled.
+The general feeling that construction and manufacture must remain as
+flexible as possible is basad on the assumption that changes can be made
+more easily in the production line to bring the aircraft up-to-date with
+combat experience, and Mr. Beal (Chief Engineer) is very positive in his
+statement that this arrangement has led to a greater output than could
+have been achieved by other means. Conveyors are not used as
+extensively as seen in other factories and no attempt has been made to
+place the final assembly on this basis.
+It is important to note that Boeing is one of the few firms visited
+where a reasonable backing of both raw material and finished parts are
+held in advance of production requirements. The quantities given were
+approximately two months on raw material and 30 days on fabricated parts*
+This backing was giving the Production Control advance information on
+assembly shortages, the result of which was seen at the end of the
+assembly line, where only five aircraft were waiting for shortages as
+against 80 to 100 at most other factories.
+From the attached organisation chart, it will be seen that a
+separate division has been established for Experimental Flight and
+Aerodynamics. ' This section was built around the late E. Allen (Chief
+Test Pilot) for experimental flight and research purposes, and has
+developed into an important part of the organisation.
+2A-5.02 Seattle plant
+Types
+8.17 Fortress
+8.29 Experimental
+Area
+Productive 2,016,4-70 square feet
+Non productive 1,268,095 H "
+Total 3,284-,565 square feet
+fo Stores of Total 25$
+Employees
+Productive 18*573 = 60$
+Non productive 12,358 = 40$
+Total 30,931
+Female (Productive) 4-5$
+(Non productive) 38$
+Engineering Staff (included in above) 2,537 including flight
+experimental of 172
+Absenteeism 10$
+Productive man hours (December) 3,737,000
+Sub-contract ing 29$
+
+
+21-5*03 Organisation charta
+2A-5*04 Tool department
+Functions:
+1 • Checking all engineering drawings and changes prior to issue and
+preparing advanced layouts. (This is done by having
+approximately 30 Tool Department personnel permanently located
+in the Engineering department).
+2. Receiving blue prints and release card from the Engineering
+department and checking against the advance layout.
+
+
+3* Piling blue prints in part number order
+4* Allocating tool code numbers and entering on back of layout
+5. Preparing production schedule for all tools
+6# Preparing a ditto master tool order for each tool required
+7* Ditto tool orders
+8. Requesting a tool drawing where necessary, (drawings are
+required for tools for all machine shop details).
+9. Pre-punching tool location cards (lEM cards).
+10. Issuing tool orders, together with punched cards
+11. Controlling production of tools according to schedule and
+preparing from returned punched cards a tool location
+tabulation.
+12. Controlling Tool Shop
+13* Preparing a tool order for repair of tools where estimated
+time for repair is over 12 hours. (Any repairs that can
+be completed in under 12 hours do not require an order and
+are generally passed to the Tool Room by the Shop Foreman).
+14* Investigating all tool difficulties as reported by Shop
+Inspectors, etc.
+Very close liaison is maintained between Engineering and
+Production by the placing of approximately 30 Tool Engineers in the
+Engineering department. The Tool division is responsible for the
+layout of all operations requiring tools, the Tool Shops and the
+follow-up of manufacture according to schedule. The control is
+based on pre-punched IBM location cards, but as is the case of
+the Production Section, full benefit is not* being derived from this
+method.
+2A-5 •05 Material Control
+Functions:
+1 • Receiving production drawings and part cards from the
+Engineering department for each part assembly or spare
+item.
+2. Determining the material requirements, including tooling
+allowance, for each part from drawing or other sources
+such as templates, etc. (Drawings do not give quantity
+of material per part)
+3. Placing orders for material and bought-out parts and
+following up deliveries according to schedule.
+4. Maintaining order records, stock records, surplus stock
+position records.
+5. Receiving sub-contract information from Production Control,
+checking and placing sub-contract orders.
+6. Agreeing sub-contract prices, but if large unit, price
+must be passed by the Accounts.
+7. Maintaining order records and following up information
+for aircraft items.
+
+
+8* Receiving works order from Production Control for issue
+on material being available. Entering material quantities
+on requisitions.
+It will be seen from the above that the Material Control do
+not receive a copy of the layout and are determining the quantity of
+material per aircraft without knowing how the job has been laid out.
+Difficulty under such arrangements was experienced in U.K. \ an
+accurate figure can only be obtained after the detail has been fully
+planned,
+2A•~5*06 Production Control
+Functions;
+1 • Receiving blue print and part card from Engineering departrasnt
+2. Receiving copy of master tool card from Tool department and
+adding to the layout operation where tools are not required
+and entering inspection code, production assembly number, etc,
+3* Preparing ditto master works order forms.
+4* Duplicating shop order forms,
+5, Pre-punching master location cards for each order,
+‘6. Punching set of location cards,
+7« Issuing shop order envelope to Material' Control according to
+schedule,
+8, Maintaining records of total quantity required and quantity
+order with balance to order,
+9* Receiving location cards, sorting and tabulating position,
+10, Preparing assembly master ditto, breaking down engineering
+split if necessary,
+11, Duplicating assembly order forms
+12, Receiving finished parts in Finished Part Store,
+13* Feeding assembly lines according to assembly sheets,
+maintaining a minimum stock in bins,
+14* Issuing shortage list of items below mi nirmmu
+15* Chasing Material Control or Tool Section for shortages
+against the respective sections,
+16. Controlling the Despatch Section,
+The Production Control are responsible for determining the
+quantity of parts to place on the Shops according to the nature of the
+detail. The quantities are divided into three categories:-
+(a) Parts that are simple to produce and are small
+in size are ordered in batches of 1,500 sets
+(maximum material sizes: sheet 100 square
+inches, extrusion I*, bar 6 H , tubing 6”)
+(b) Parts of average size and of average manufacturing
+problem are placed on the shops in batches of 600
+sets, (maximum material sizes: sheet 500 square
+inches, extrusion 5% bar 3*, tubing 3*)
+
+
+(c) Difficult parts are ordered in monthly quantities
+Bre-punched cards are used to maintain a location record of
+parts in manufacture. This is carried out by pre-punching a quantity of
+cards which are issued with each works order. As the part passes through
+various stations, one of the cards is sent to the Central Production
+Tabulating Section. A tabulation is prepared, showing the location of
+all parts, but the present set-up is complicated.
+It is not possible to pre-determine the exact number of cards to
+be issued with each works order, as the actual quantity varies with
+shortage of material, splitting, etc. As many as 15 are pre-punched,
+half of which are not required and are destroyed on the completion of the
+batch.
+CHAPTER 6 - CONSOLIDATED AIRCRAFT, SAN DIEGO
+2A-6.01 General. This conpany is a most progressive organisation, founded in
+the east at Buffalo, but moved a few years ago to new premises at San
+Diego on the west coast • The company has recently been through a
+considerable re-organisation. Their products and activities cover a
+wide field, including four engined heavy bombers, and flying boats.
+Their engineering organisation is progressive and up to date.
+The layout of the factory was very good, the Assembly Shop being
+arranged for line production, but owing to the nature of the building
+and size of the 8.24 it was necessary to arrange the aircraft at an angle
+of 45° to the line. This has resulted in the accommodation of more
+aircraft on the floor and the increased handling and cradle difficulties
+have been well arranged.
+On the introduction of the Material Control department, it was found
+that transport of material from the Store to the machines was so great
+that a special study was introduced on the handling of material generally.
+From studies taken, it was found that handling was 7Qj& of the total
+fabrication time. Every effort has been made in the design of correct
+equipment, boxes, etc. for transport throughout the whole factory, and a
+manual issuedgiving standard methods.
+The store facilities were inadequate for the quantities required and
+only approximately 20 sets were being maintained in advance of production,
+resulting in 32 8.24*s and 69 PB2Y aircraft waiting at the end of the
+assembly line for shortages. The backing of raw materials was again low
+and with the increasing difficulty in obtaining supplies, 332 machine
+shop orders were held pending receipt of material. It was understood
+that approximately 160,000 square feet had just been allocated for
+Stores for the purpose of increasing the reserve of finished parts.
+Attention has been given to the strength of Shop Foremen, as it is
+considered by Management that the key to production is in the fabricating
+shops and not on the assembly line. At the start of the contract there
+were 76 foremen responsible for over 44 j 000 operators. This figure has
+now been adjusted to 770 foremen and assistant foremen or an average of
+60 operators per foreman. Each foreman is entitled to bonus based on
+standard departmental cost and the output of the Shop. The bonus
+figures range from ls> to and are averaging 17/2 over the whole factory.
+(No bonus is paid to any operators).
+Modifications are not being incorporated as early as possible in the
+production line, as it is the practice to deal with those aircraft at
+the Consolidated Modification Centre first. One of the outstanding
+points is that a trial installation is not taking place, but in view of
+the difficulties experienced, it is felt that adjustment will be made as
+early as possible.
+The Production departments are not yet coupletely organised and there
+is consequently a considerable amount of duplication. An Industrial
+Engineering department has been set up to revise many of the existing
+
+
+procedures, but at present they only function on methods affecting more
+than one Section. It is not uncommon therefore for a department to
+make internal changes without their knowledge.
+2A-6.02 San Diego plant»
+Types
+8.24 Liberator
+P332Y Coronado
+PBY Catalina
+33*32 Experimental
+Area
+productive 3,153,606 square feet
+Non productive 325,971 M ”
+Total 3,479,577
+Productive Yard Area 3,035,464 square feet
+Non " n n 1,523,428 " "
+Total 4,558,912 square feet
+Total Plant Area 8, 038,489 square feet
+fo Stores of total 25f0
+Employees
+Productive 23,954 = 52$
+Non productive 20,592 = 46-0
+Total 44,546
+Female (Productive) 58$
+(Non productive) 17^
+Engineering Staff (included in above) 1,739
+Experimental n m »» n 1,645
+/
+Sub-contr acting 8.24 16^S
+PB2Y 36f0
+PBY 21$
+2A-6• 03 Organisation chart
+
+
+2A-6.Q4 Production Control
+Functions:
+1* Preparing schedules for issue of production orders.
+2. Receiving operation sheets from Tooling department and
+preparing masters and ditto masters for works orders.
+3. Duplicating works order forms*
+4* Releasing orders to Material Control and recording issue.
+5* Receiving shop orders and requisitions from Material Control
+when materials became available.
+6. Procuring material from store and issuing to production shops,
+7* Maintaining control centres in each shop.
+8. Controlling Finished Part Store.
+9* Issuing parts from Finished Part Stores to Assembly Store and
+maintaining & minimum stock in each store.
+10. Progressing Material Control far all bought out parts that
+cannot be obtained from Material Control Store for assembly.
+11. Determining which of the small details should be sub-
+contracted and marking orders accordingly.
+2A-6.05 Material Control
+Functions:
+1. Receiving drawings and bill of material (in units) from the
+Engineering department.
+2. Checking bill of material against drawings.
+3* Punching an IBM card for each item shown on the bill of
+material.
+4* Tabulating bill of material.
+5. Preparing additional punched card having material size
+printed on top for issue to Material Control Section in shop
+for checking quantity of material required per part against
+actual part.
+6. Adjusting bill of material where required.
+7. Building up schedules for delivery of materials and bought
+out parts.
+8. Extending material requirements from bill of material and
+preparing purchase requisition for issue to their own
+buyers.
+9. Receiving copy orders from buyers.
+10. Maintaining order record cards showing materials ordered,
+received, scheduled and allocated.
+11. Receiving materials and controlling Raw Material Stores.
+12. Receiving shop orders from Production, extending material
+requirements to cover batch quantity and entering on
+requisition. (At present preparation of whole requisition
+is done in Material Control).
+
+
+13- Returning shop orders to Production Control as materials
+become available,
+14. Progressing delivery of materials with suppliers.
+15« Preparing a sub-contract requisition for any assembly to be
+manufactured outside and passing to the Sub-Contract
+department,
+16, Maintaining liaison with Government Material Control Centre,
+17. Placing orders for small parts on Sub-Contractors and
+following izp deliveries.
+2A-'6.06 Sub-Contr acts
+Function:
+1. Receiving requisitions for sub-contract assemblies from
+Material Control.
+2. Deciding on suitable Sub-Contractors,
+3* Maintaining technical liaison with Sub-Contractors.
+4* Placing sub-contract orders.
+5. Following up deliveries.
+6. Despatching materials to Sub-Contractors according to
+schedule.
+2A-6.07 Tooling and Methods department
+Function:
+1. Maintaining liaison with the Engineering before production
+drawings are issued.
+2. Receiving drawings from Engineering.
+3» Planning assembly operations, breaking down engineering
+drawings further, if required for production purposes.
+4* Listing all parts required for assembly on assembly bill of
+material sheet, entering description of assembly operation
+on assembly operation shefet.
+3. Preparing master ditto assembly bill of material and
+Assembly operation sheet.
+6. Duplicating assembly copies.
+7. Preparing assembly lists, duplicating one per aircraft.
+8. Laying out operation lists for each detail.
+9* Preparing ditto master sheets from operation detail sheet.
+10. Preparing tool order forms.
+11. Requesting tool drawings and following up receipt.
+12. Placing orders on own Tool Shop or outside Suppliers and
+following up deliveries.
+13* Maintaining master record tool cards.
+
+
+14. Controlling Tool Stores.
+15* Estimating tool costs and maintaining records of estimated
+and actual costs.
+16. Maintaining a Tool Repair Section in each Production Shop
+for small repairs up to 4 hrs. work-
+17* Establishing standard times for all operators.
+18. Preparing shop layout.
+19* Investigating new methods of production, etc.
+2i.-6.08 Labour Summary
+A. Productive Labour
+Total
+Drop Hammer 44&
+Draw Bench 486
+Tube Bending 357
+Machine Shop 1,266
+Sheet Metal 1,399
+Tank Shop 287
+Wing-Shop 4,823
+Welding 752
+Control Surface 883
+Bench Assembly *1,336
+Electrical Bench Assembly 930
+Assembly. Nose Fuselage Bull etc. 5,312
+Final Assembly 3,079
+Radio & Instrument Assy. 479
+Finishing 764
+Anodic & Heat Treatment 176
+Upholstering & Covering 367
+Field Operations 393
+Misc. Outside Duties 110
+General Misc. 307
+Total Productive Labour 23,954
+B. Non-Productive Labour
+Executives & Management 402
+Accounting 569
+Contracts 86
+Timekeepers & Time Clerks 443
+Industrial Relations 711
+Asst. Supts. & Clerks 118
+Engineering 1,739
+Experiment al 1,645
+Productive Control 3,328
+Material Control 1,682
+Tool & Assy. Planning 470
+Tool Control (incl. manufacture) 3,172
+Sub-Con trading 149
+Manufacturing facilities & Stds. 143
+Shipping & Transport 806
+Inspection 1,601
+Salvage 236
+Plant Engineering • 1,708
+Manufacturing Research , 47
+Flight & Service 962
+Industrial Engineering 100
+Plant Protection 319
+Factory Liaison 156
+Total Non-Productive Labour 20,592
+
+
+CHAPTER 7 - NORTH AMERICAN AVIATION, INGLEWOOD
+2A"7»01 general. The North American Aviation Company is & progressive concern
+which realised the importance of* a strong engineering organisation and
+the co-ordination of production and design at an early date. The
+Company was initiated by Mr. Kindleberger in 1935 with about 100 men and
+by September, 1943, inclusive of their shadow plants, will conprise about
+70,000 people. Their latest type, the Mustang, is therefore one of the
+best production -types seen and it is interesting to note the amount of
+assembly work that is being done in the sub—assembly stages. The
+results could not be fully assessed as the delivery of the new contract
+was Just starting, but it is felt that an excellent output should be
+forthcoming.
+The working conditions in both the offices and shops are very good
+and layout has been given very careful consideration by the Method
+department. The Assembly shop has been well laid out for line conveyor
+methods, but up to the present it is only moved in stages.
+Thageneralorgani.sation is broken down into fire main divisions
+W ° “ d fTOm the organisation chL-t lt rtU be
+seen that the Inspection is under the direct control of the Factory
+. anager, and that a Material department has been formed outside his
+control. Both these practices are not common in other factories
+vi sited.
+The Engineering division maintains close liaison with Production
+and is responsible for the aircraft from the design stage to the release
+of production and stage drawings. It is very noticeable that a high
+percentage of the senior staff has a very much greater knowledge of the
+production organisation than is normal in Britain.
+2A-7• 02 Inglewood plant
+Types
+P. 51 Mustang
+8.25 Mitchell
+Area
+Productive 1,269,510 square feet
+Non productive 354» ; i? 9 w n
+1,623,932 square feet
+Productive Yard Area 162,675 square feet.
+Non " " n 653,414 » »
+Total Yard Area 816,089 square feet
+Total Plant Area 2,440,021 square feet
+% Stores of total 20 %
+Employees
+Productive 14,388 s 58$
+Non productive 10,469 = 42$
+Totai 24,857
+Female (Productive) 36$
+(Non productive) 39^
+\ <
+Engineering Staff (included in above) 1097
+Absenteeism &f 0
+Sub-contracting 20 % (Total aircraft)
+6Qfo (Machine Shop)
+
+
+
+
+2A-7*03 Organisation chart
+2A-7.04 Hours Control and Scheduling Section
+Functions:
+1* The preparation, from delivery programme, schedules covering:-
+Procurement of material and bought-out parts
+Procurement of G-.F.E. parts
+Fabrication of details
+Sub-assembly and final assembly
+2, Maintain close liaison with Methods department and Tool
+Design department in building up above.
+3« Establish standards to which actual hours worked may be
+compared.
+4* Receive actual hours worked from the Cost department.
+5* Prepare weekly report of hours for Management.
+6* Provide the shop loading group with information for labour
+requirements.
+7* Issue weekly report on departmental position against schedule.
+2A-7*05 Material Control Section.
+Functions:
+1. Receiving drawings and material lists from the Engineering
+department.
+2. Preparing material lists from production drawings.
+3* Placing orders for materials and bought-out parts.
+4* Progressing delivery of orders.
+
+
+3. Maintaining a record of orders placed and delivered.
+6. Maintaining material allocation records.
+7. Maintaining material stock records and supplies stock position.
+5. Agreeing with the Engineering department on parts to he
+sub-contracted.
+9. Placing sub-contract orders and agreeing on prices.
+10. Maintaining order records of sub-contracted orders.
+11. Maintaining price records of sub-contracted orders.
+12. Progressing sub-contracted orders.
+13* Controlling Raw Material and Bought-Out Stores, including
+Receiving Section.
+14. Controlling G-.F.E. Stores.
+15* Releasing work tickets to Production Control as material
+becomes available and according to schedule.
+2A-7*06 Tool Engineering
+Functions:
+1. Receiving drawing and release notes from Engineering department.
+2. Laying out operations where tools are required and deciding on
+type of tools necessary.
+3. Allocating tool numbers.
+4. Passing copy of layout to Planning.
+3. Issuing orders to Jig and Tool department.
+6. Placing tool sub-contract orders and agreeing prices
+7. Following up deliveries.
+8. Maintaining records of load in Tool department.
+2A-7.07 Planning
+Functions:
+1 • Receiving production drawings and releasing from Engineering
+department.
+2. Receiving tool numbers from Tool Engineering department.
+3. Preparing master ticket for each detail covering actual
+quantity required for duplication on the ditto machine.
+4. Duplicating works order forms (5 copies) and releasing to the
+Control Section according to schedule.
+5. Preparing master works order sheets for Assembly Stores for
+duplication on the ditto machine.
+6. Duplicating assembly works order sheets (3 copies) for issue
+to Control Section according to schedule.
+I
+7. Maintaining record of work released.
+
+
+2a-7*oB Parts Control (Production Control)
+Functions:
+1. Receiving works orders from the Material Control.
+2. Maintaining files of tickets showing work issued, material
+issued, passed inspection.
+3* Controlling delivery of planning orders.
+Maintaining visible edge record of parts received in Store
+and parts issued to Assembly, showing balance in Stores.
+5* Maintaining visible edge record to show progress of sub-
+assembly against schedule.
+6. Obtaining change control information.
+?• Receiving parts in Finished Parts Store and checking in to
+Store and booking on bin cards and location cards.
+8. Issuing parts required for assembly to racks in Shop,
+keeping stock above minimum where possible.
+9. Booking groups issued on assembly work sheet.
+10* Preparing shortage list of parts against schedule when
+issuing to Assembly Shop racks.
+11. Following up shortage lists and issuing daily.
+12. Maintaining Control Section in each Shop and booking work
+to machine groups.
+13* Maintaining Control Section of work issued to machine at
+each machine group.
+14* Preparing requisition on purchase for the issue of sub-
+contract orders when decision to sub-contract is based on
+shop load.
+15* Receiving drawings and engineering orders from Blue-Print
+department for shop use.
+16. Issuing drawings and engineering orders to Shops.
+17* Withdrawing obsolete drawings from Shops.
+24-7*09 Manufacturing Co-ordination.
+Functions;
+1* Maintaining, for Management purposes, full analysis of
+horn's worked etc., from information received from the
+Cost and Accounting departments.
+2. Securing information from the Engineering department and
+changes or modifications to be incorporated in the
+production line and to arrange when incorporation can take
+place.
+«
+3* Maintaining close liaison with both Engineering and Shops
+on the above.
+The production department has been built up rapidly and,
+although all details have been covered, there is a considerable amount
+of duplication in the various Sections and clerical work can be reduoed.
+These points are realised and steps are now being taken to co-ordihate
+
+
+the activities of the sections and to reduce the amount of work involved*
+The suggestion scheme which was introduced a few years ago has been
+adjusted from time to time to meet new conditions and appears to be
+functioning well* All suggestions are received by the Methods department
+where they are carefully vetted* All successful candidates receive a
+bonus equal to 10/b of the estimated savings over a six monthly period*
+There is a general lack of Stores facilities, especially for finished
+parts, and it is felt that steps will have to be taken to reduce this
+fault, as difficulties are being experienced by the Production Control in
+keeping trace of the movement of all parts and, as only a small backing of
+finished parts is maintained in advance of production, there are
+approximately 100 aircraft waiting for shortages at the end of the
+assembly line.
+2A-7« 10 Labour Summary
+A* Productive Labour
+Total
+Machine Shop 1,103
+Sheet Metal 731
+Processing 213
+Paint, Cover & Dope 198
+Pinal Assembly 232
+Welding 187
+Advanced Production 290
+Wing Sub Assembly 1,200
+Machine Sub Assembly 322
+Sheet Metal Sub Assembly 866
+Machine Forming 201
+Hull & Frame Assembly 784
+Pinal Assembling (bomber) 296
+Control Surfaces 745
+Pinal Assembling (Pursuit) 516
+Electrical Assembly 501
+Hydraulics 123
+Pinal Assembly Bomber 624
+Enclosures 196
+Tanks 282
+Tubing 196
+Engine Assembly - 358
+Paint, Lower 123
+Cowling & Ducts 732
+Sub Assembly 321
+Centre Section Bomber 769
+Pursuit Ramp 161
+Hull & Frame (Pursuit) 257
+Bomber Fuselage Assembly 541
+Empennage Assembly 48
+Bomber Ramp 623
+Material Preparation 306
+Shop Foremen 323
+Total Productive Labour 14,360
+
+
+B» Non-Productive Labour
+Total
+General Administrative 15
+Factory Administrative 20
+Wood Shop 280
+Tool Grib 152
+Tool Design 179
+Jig Construction 579
+Foundry 79
+Plant Despatch 145
+Machine Tools 315
+Rivet Tool Dept. 87
+Maintenance 330
+Janitors 181
+Yard Maintenance 99
+Shipping 221
+Planning 152
+Industrial Relations 10
+Personnel Director 12
+Personnel Records 54
+Labour Relations 5
+Selective Service 16
+Employment 94
+Medical Department 77
+Research 17
+Education 25
+Safety Engineer 5
+Transportation 40
+Welfare <sb Recreation 20
+Plant Protection 280
+Purchasing 369
+Inspection 982
+Cost Accounting 140
+Tabulating 71
+Timekeeping 199
+Engineering 1,097
+Template 65
+Contract 52
+Material Conservation 1 21
+General Accounting 153
+Public Relations 16
+Flight Test 138
+Administrative Clerical 45
+Methods 111
+Kansas City Office 36
+Production Control 1,320
+Contract Flight Dept. 22
+Ers. Control & Scheduling 21
+Raw Material Stores 217
+Estimating 80
+Dallas Office 9
+Field Service 420
+Receiving Inspection 288
+Numbering 56
+Factory Mgr. Office 19
+Mfg. Analysis 9
+Mfg. Methods 2
+Plant Facilities 16
+Procedure Control 11
+Government Stores 101
+Mobile Equipment 55
+Communications Dept. 34
+Tool Mfg. Research 3
+Payroll 88
+Change Control 17
+Machine Training 92
+Pre-Factory Training 461
+Employees on Temporary Leave 44
+Total Non-Productive Labour 10,4&9
+
+
+CHAPTER 8 - BELL AIRCRAFT, BUFFALO
+2A-8.01 General, This company has made a remarkable growth. Pounded in 1935
+by Mr, Laurence Bell with a handful of men, it has grown to employ over
+30,000 and increased its turnover 23 times in the last two years, and with
+its shadow organisations will soon control over 30,000, The new plant
+outside Buffalo is probably the best laid out which the Mission saw in
+full operation.
+Both the wing assembly line at Buffalo and the final assembly line at
+Niagara were continuously moving and were apparently giving satisfactory
+results. It was understood that the layout had been carefully considered
+in its early stages and was based on time study data. Continuous
+movement was however only made possible by the recent enlargement of group
+stores to accommodate a minimum of 30 days stocks of finished parts in
+advance of the production programme.
+p
+Raw materials v/ere scheduled from three to four months ahead of
+programme so that assembly backing could be maintained. The total
+storage space required was given at a minimum of 25$ of the total factory
+area, a figure that compares favourably with British practice.
+The plant Consists of two main factories, the older one at Buffalo
+engaged on detail manufacture and wing assembly, and housing most of the
+planning and production control office, and the new factory at Niagara for
+final assembly. Although both are well laid out, the working conditions
+of the older plant are not quite as good as many other factories visited.
+Prom the organisation chart it will be seen that the main divisions
+are similar to normal practice. The engineering, inspection, production,
+Works Manager, industrial relations and financial are the main departments
+responsible to the General Manager. There are, however, several smaller
+sections also reporting direct to the General Manager totalling
+approximately 15 in all. It is generally considered in an efficient
+organisation that not more than five or six*persons should be under the
+direct control of one executive. As would be expected from the above,
+there are several smaller sections that appear to be carrying very similar
+duties, such as the master mechanic, industrial engineering, graphic
+analysis and time study. All these sections are dependent on close
+collaboration and it is difficult to draw a line between the responsibi-
+lities of each. To overcome this situation, an Industrial Engineering
+department is being formed of personnel with organisation experience to
+overhaul the existing methods. A policy committee has also been formed
+to consider changes before they are put into operation, and consists of
+seven members: General Manager, Ist Vice President, Vice President,
+Secretary, Comptroller, Chief Engineer and Works Manager. Several
+procedures were in the process of being changed and it is felt that an
+efficient organisation will steadily be formed.
+The purchase of materials is based on a bill of material for the
+aircraft which is increased by 30$ to cover spares and shop losses. All
+purchases are checked against the assembly group sheet to ensure that
+each item has been fully covered. This has been found necessary in
+Britain, and Bell is the only factory where such practice has been
+noticed.
+Sub-contracting is at present approximately 30$ of the total
+aircraft and it is estimated that, in order to obtain the increased
+schedule, it is necessary to place orders outside for 80$ of the new
+aircraft. Under these conditions it is difficult to see how the full
+schedule will be met by the end of the year.
+
+
+2A-8.02 Buffalo plant
+gyp es
+P. 39 Airacobra
+P. 63 " (improved)
+Area
+Productive 1,880,880 square feet
+Non productive 987,010 " n
+Total 2,867,890 square feet
+% Stores of total 2%
+Employees
+Productive 17,103 =
+Non productive 14,497 =
+Total 31,600
+Female (Productive) ifif o
+(Non Productive) 3^
+Engineering Staff (included in above) 900
+Absenteeism 8^
+Sub-contracting y^ Q
+2A-8.03 Organisation charts
+
+
+2A-8• 04 Estimating.
+Functions:-
+1# Receiving drawings from the Engineering department.
+2. Laying out operations and compiling estimates for details,
+units and spares, etc*
+3. Checking sub-contract prices*
+4* Preparing price lists*
+5* Building up spares list in conjunction with the Army Air
+Force .and issuing to production control*
+6. Checking estimated costs against shop returns*
+2A-8.05 Production Control.
+Functions:
+1* Receiving drawings from Engineering and preparing parts list.
+2* Preparing schedules.
+% Deciding on parts to he sub-contracted.
+4* Placing requisitions on purchase for the placing of orders for
+raw materials, bought-out parts and sub-contracted parts*
+3* Preparing and issuing works orders from layouts received from
+Production Engineering.
+6. Maintaining records of production.
+7* Controlling production*
+8. Receiving parts in Finished Parts Store and issuing for
+assembly in groups*
+9* Controlling G.F.E. Stores.
+10. Despatching materials and spares*
+
+
+2A-8.06 Production Engineering
+Functions:
+1. Receiving drawings from the Engineering department.
+2. Laying out operation sheets for details and assembly*
+3* Preparing tool orders and issuing to Tool department or
+Purchase.
+if. Determining material requirements and placing requisitions
+on the Purchase.
+5* Estimating tool costs and hours.
+6. Following up delivery of tools from Tool Roam or Sub-contractor.
+7* Laying out plant and equipment from time study data received
+from the time study section.
+8. Despatching material to Sub-contractor where agreed.
+2A.-8.07 Purchase Department
+Functions:
+1. Receiving requisition for the purchase of materials, bought-out
+parts, sub-contracted parts, tools, equipment, etc., and
+placing official order on suppliers.
+2. Maintaining order records and following up deliveries
+according to schedule.
+2A-8.08 Graphic Analysis.
+1 • Accumulate all necessary data for compiling full analysis of
+company activities on charts of production output.
+2A-8.09 Labour Summary
+A. Productive Labour
+Fighter Bomber Mod. Total
+Assy Centre
+Machine Shop 2,255 10 - 2,265
+Drop Hammer & Foundry 263 1 - 264
+Cutting & Drilling 239 - - 239
+Gear Manufacture 24 24
+Oleo Strut Manufacture 51 - 51
+Cap Strip Mills 69 5 74
+Welding 321 11 - 332
+Wood Shop 104 1 - 105
+Press Shop 977 13 - 990
+Plexiglass 32 3 35
+Tube Bending & Cable Splicing 174 4 - 178
+Cowl 780 9 406 1,195
+Wing 3,337 50 - 3,387
+Parts Assembly 262 1 - 263
+Finishing 689 6 - 695
+Front Fuselage 858 18 - 876
+Superstructure 341 8 - 349
+Testing & Assembly 169 16 - 185
+Electrical Assembly 202 3 - 205
+Assembly Line 1,906 71 - 1,977
+C/Fwd.
+
+
+Fighter Bomber Mod. Total
+Assy Centre
+Final Assembly 365 27 - 392
+Pre-Flight 663 81 1 745
+Steel Bench & Gas Weld 279 24 - 303
+Heat Treatment & Sand Blast 117 - - 117
+Template Dies & Form Blocks 182 11 - 193
+Toolroom 534 3 - 537
+Plaster Pattern 55 4 59
+Fixture Erection 235 4 - 239
+Flight Test & Research 149 - - 149
+Experimental 38 - - 38
+Bomber Assy. - 642 - 642
+Total Productive 15,670 1,026 407 17,103
+B. Non-Productive Labour
+Fighter Bomber Mod. Total
+Assy. Centre
+Officers & Executives 34 - 35 69
+Office Miscellaneous 130 1 - 131
+Stenographers 19 - - 19
+Accounting 435 - 45 480
+Contract 107 3 - 110
+Engineering 606 - - 606
+Engineering, Blue Prints 115 - - 115
+Engineering, Template & Loft 172 - - 172
+Production Engineering 385 4 - 389
+Factory Administration 118 3 - 121
+Timekeepers £4l 1 - 242
+Purchasing 188 2 - 190
+Shop Project 8 - 8
+Traffic 183 - - 183
+Production Control 2,152 - 37 2,189
+Eraplo;yraent & First Aid 276 1 12 289
+Watchmen 658 - 70 728
+Janitors 904 - - 904
+Scheduling 261 1 - 262
+Shipping 41 41
+Stock Clerks (Finished
+Part Stores) 901 - - 901
+Tool Cribs 464 3 13 480
+Inspection 2,488 28 37 2,553
+Service 380 - - 380
+Plant Engineering 1,341 2 121 1,464
+Training 17 128 - 145
+Modification Centre 4 4
+G.F.E. Parts Control 101 - - 101
+Raw Material Handling 732 4 - 736
+Raw Material Records 75 - 75
+Visual Training & Housing 102 3 - 105
+Advertising 10 - - 10
+Salvage 188 - - 188
+Development & Rework 90 2 - 92
+Industrial Engineering 15 - - 15
+Total Non-Productive 13,937 186 374 14,497
+
+
+CHAPTER 9 - CURTISS WRIGHT
+2A-9• 01 General. Curtiss Wright, under the leadership of Mr. Guy Vaughan,
+are the largest aircraft combination in America, and have plants making
+aircraft, engines and propellers. The whole group employs 150,000
+work people. Three days were spent at Buffalo at two of the four
+aircraft plants, a new factory of 2,000,000 sq. ft. and an old plant
+of 1,300,000 sq. ft. At the present time there is a total of 40,000
+people at these two plants and are women.
+The member of the Mission responsible for Works Administration was
+not on this visit, and therefore it is impossible to include the
+detailed information that has been compiled at the other factories where
+full 3-day investigations were made by him.
+The two main productions in these two plants are the Kittyhawk
+fighter and the Curtiss Commando transport machine.
+The Mission considered that the new Buffalo plant was up to date and
+well organised, and the production of the Kittyhawk was on as sound a
+basis as anything seen in America. In this new factory considerable
+use is being made of underground shops for storage, power plant assemblies
+etc. and components are passed up through lifts to the main assembly
+departments.
+The St. Louis Plant is a new and up to date one. It was built
+around the old experimental Plant which wa3 150,000 sq. ft. The new
+plant was only finished at the beginning of 1942 and is 1,200,000 sq.ft,
+on two floors. The old plant was dismantled and the new one put into
+operation in a period of five days, a remarkable effort. There is also
+an auxiliary plant in the city of St. Louis making a total floor area
+of 1,800.000 sq.ft. Total personnel will be 21,000 work-people.
+At present there are about 20fo women and it is intended to increase
+to 45?S* There are three shifts, stopping for Sunday. The third
+shift works hours and is paid for eight. There is no piece work;
+average earnings, $ 45*00 to $ 50.00 a week. The transport problem is
+a serious one as the Plant is sixteen miles from St. Louis and there
+are over 3>ooo private cars and several hundred buses operating daily.
+The factory is excellently laid out and lighted, and is fitted with
+completely new and up to date plant and canteens. Over 9>ooo meals are
+served a .day.
+The engineering force exceeds 1,000 and 240 were employed on the
+design and development of the wooden Caravan. The tool room staff is
+1,200. They have some remarkably fine machines in the tool room
+including Do all saws and: Minniston grinders. Attached to the tool room
+there is a large force making up the tubular constructions for the
+moving line assembly. There is also an interesting plant with a
+number of special machines for recovering parts from the shop sweepings.
+The lofting system, worked by the Engineering Department, is right
+alongside the jig and tool department and is of the old boat-yard type
+as opposed to the Glenn Martin principle.
+The main product for the future of this factory is going to be
+the A-25, a single engine dive bomber designed at Buffalo some two years
+ago, but considerably modified since. It is being extensively tooled
+and is planned to be erected on a most elaborate moving track. The
+track moves three inches a minute and the erection cycle will be six
+days. The fuselage and power plant are also built up on a most
+elaborate progressive track. The general tooling and layout of this
+machine is ambitious. All the machine tool equipment for the building
+of the A-25 is new and modern.
+The drop-hammers are hydraulically operated and there are two 3,000 ton
+presses which are not fully working yet.
+
+
+At the time of the Mission*s visit, the plant was somewhat disorgan-
+ised owing to the introduction of a new type. When this aircraft is fully
+tooled and the assembly line, with its 56 cradles, is working satisfactorily,
+it will be a highly organised production.
+The general organisation was broken down into six main Divisions -
+Contracts, Engineering, Inspection, Personnel, Production and Finance,
+and follows normal American practice.
+Working conditions were good, despite the fact that the factory was
+permanently blacked out. The main assembly line had been planned for
+continuous movement, but it had not been found possible to put this into
+operation as such a small backing of parts (10 sets) was being maintained
+in advance of production. The line had been designed to move at the rate
+of 15 feet per hour through 56 Assembly Stations and had the capacity for
+10 aircraft per day. The new Dive Bcmber had been stage drawn, but it was
+understood that these drawings were not being used for the purpose of grouping
+sets of parts for assembly.
+Sub-contracted items were considered on similar lines to bought-out
+parts and Curtiss Wrights were not supplying tools or gauges to the
+sub-contractor, unless a special gauge was required for interchangeability
+purposes.
+2A-9•02 St. Louis plant.
+Types
+A. 25 Dive Bomber
+C. 76 Caravan (Transport)
+Area
+Productive 1,221,000 sq.ft.
+% Stores of Total 18&
+Employees
+Broductive 14,000 = 67/£
+Non-productive 7,000 * 33i%
+Total 21,000
+Female labour 25/b
+/
+Engineering staff (included in
+above) 1,300
+Jig and Tool department ** 1,200
+Absenteeism yfo
+Sub-contracting 15% Assembly
+45% Machine shop
+Spares Deliveries 2( Yfo
+
+
+; 2a-9• 03 Organisation Charts.
+
+
+CHAPTER 10 - OTHER AIRCRAFT FIRMS
+2h General, The following information relating to administration
+organisation deals with those firms at which only a one day visit was
+made, and therefore it was not possible to go into the systems and
+organisations in as much detail.
+The firms covered by this chapter are;
+GlemHartin Baltimore
+Douglas Los Angeles
+Lockheed Los Angeles
+Vega Los Angeles
+v Republic Long Island, New York
+A tour only was made of the factories and the figures quoted on
+the following sheets were given verbally and could not, therefore, be
+checked,
+2A-10.02 Glenn L» Martin, Baltimore ,
+2HBS&
+A. 30 Baltimore
+B, 26 Marauder
+EBM Mariner
+Mars
+Area
+Productive 3 >4-87* 171 square feet
+Non productive 1,245 > 758 tt H
+Total 4>732,929 square feet
+% Stores of Total 20^
+Employees
+Productive 40,328 = ~JG%
+Non productive 12,609 = 24
+Total 52,937
+I*olll3lo ( Pro due t ive) 2U%
+(Non productive) 33%
+Engineering staff (included in above) 2,400
+Jig & Tool Department ” w ” 1,500
+Absenteeism 3% during week
+14;4 over weekend
+Sub-contracting 33% of total aircraft
+\o% of engineering work.
+Spares deliveries 13%
+The buildings, the majority of which were of recent construction,
+were permanently blacked out and the working conditions, lighting, and
+cleanliness were of a high standard.
+Of the three main types of aircraft under construction, the
+Marauder was the only one being built on an assembly line designed for
+mechanical movement between the stages. The parts required for each
+
+
+stage were stored in bins running the length of the assembly line, and
+were kept in part number order. Minimum stock figures were used as a
+means of controlling the quantity of sets available for production, and
+it was the responsibility of a snop porter to replenish the stocks as
+required* The Operators were allowed to procure their own parts from
+the assembly bins and there did not appear to be much control over shop
+scrap and losses. It was noticeable that there were a considerable
+number of shortages on the assembly line, which resulted in many aircraft
+waiting for completion on the flying field*
+Moving belt conveyors had been installed for many of the smaller
+sab-assemblies, but in a number of cases these were not being used by the
+Operators.
+2A-10.03 Douglas Aircraft. Si Segundo, Los. Angeles
+Type
+✓
+A* 25 Dauntless
+Area
+productive 784*000 square feet
+Non productive 316,000 " M
+Total 1,300,000 square.feet
+% Stores of Total (approx.)
+Employees
+/
+Productive 13,330 = Tl%
+Non productive 4,170 = 23-4
+Total 18,000
+Female Labour 40^4
+Engineering Staff (included in above) 1,500
+Sub-contracting Total aircraft
+45/4 Machine Shop
+Spares deliveries 15^4
+Assembly drawings received from the Engineering Division were being
+broken down further in the Production Planning department for production
+purposes. The assembly. line consisted of 76 stations, movement being
+made every 3i hours. Again it was noticeable that a very small backing
+of parts was being maintained for the assembly and 89 aircraft were
+waiting for shortages at the end of the line.
+2A-10.04 Lockheed, Los Angeles.
+T2E«
+P. 38 Lightening
+0*59, 60 & R*so Lodestar (Transport)
+C. 69 Constellation
+Area
+Productive 2,217,000 square feet
+f 0 Stores of Total 1554
+Employees
+Productive 31,200 = 7Q?4
+Non productive 13,100 = 30°4
+Total 44,300
+
+
+Female labour 27$
+Engineering staff (included in
+above) 2,000
+Sub-contracting 20$ Total Aircraft
+90; o Machine Shop
+Spares deliveries 20$
+✓
+2A-10.05 Vega, Burbank, Los Angeles,
+SES&
+8.17 Fortress
+8.34 Ventura
+Area
+Productive 1,470,000 sq.ft.
+Non-productive 330,000 M ”
+Total 1,800,000 sq.ft.
+$ Stores of Total 12/15$
+Employees
+%
+Productive 16,900 = 62*.$
+Non-productive 9,600 = 3 6$
+Total 26,500
+Female labour 42$
+Engineering staff (included in
+above) 1,150
+Sub-contracting 15$ Assembly
+50$ Machine Shop
+Spares deliveries Fortress - 18$
+rrrunlTiir wmmmmmrnmmmmm ■ r » mstme /
+Ventura - 30$
+The Lockheed and Vega Plants are closely associated and are controlled
+by the Lockheed Vega Manufacturing Organisation. It was surprising,
+therefore, to find such a difference in outlook between the two Companies.
+The Vega organisation had made several attempts at improving the layout of
+their plant and it is felt that their progressive attitude will lead to an
+efficient output. The general organisation was under review and every
+endeavour was being made to co-ordinate the activities of the Production
+Sections and to rationalise the paper work.
+It was interesting to note that the Planning Production Engineers
+were located in the shops in order for them to be near the operations for
+which they were responsible. The de-centralising of these activities had
+resulted in duplication of certain clerical information and it is felt that
+with the re-organisation, the Production Engineers will, in future, be
+housed in a central Planning department.
+
+
+2A-10.06 Republic, Farmingdale, Long Island, New York.
+Type
+p; 47 Thunderbolt
+Area
+Productive 751,000 sq.ft.
+Non-productive 649,000 n "
+Total 1,400,000 sq.ft.
+/o Stores of Total 15;o approx.
+Snployees
+Productive 11,212 = 78; o
+Non-productive 3,038 = 22, 3
+Total 14,250
+Female labour 17;$
+Engineering staff (included in
+above) 225
+Spares deliveries 23; 3
+Sub-contracting 34/j
+The Republic Aircraft was much smaller than the majority of the
+factories visited, and one of the difficulties that has been experienced
+by management in maintaining a layout for line production has been the
+addition of separate buildings to meet a programme that has been
+continually revised.
+All operations are subject to time study an a basis for machine
+loading and labour loading, and this will be extensively used for shop layout
+when a further extension to the factory has been completed. me
+assembly line has recently been introduced and has been designed to handle
+8 aircraft in 10 hours, moving at the rate of 25 ft. per hour.
+It was noticed that there was a comparatively small engineering
+staff of 225 and it was felt that there was not such a close liaison
+between Design and Production as had been seen in all other American
+factories.
+
+
+CHAPTER 11 - DATA ON A ERICAN ARIFRAME FACTORIES
+2 A. 11. 01
+Plants covered by detailed Examination
+Plant
+Type of Aircraft
+Employees
+%
+Absent-
+eeism
+No. of
+Engin-
+eering
+Force,
+includ-
+ed in
+Total
+Area
+Additional
+Outside Area
+% Sub-
+contract
+%
+Spares
+Prod.
+%
+Non-
+Prod.
+%
+Total
+Female
+of Total
+Average
+Hours
+per
+week
+Productive
+Area
+(sq.ft.)
+%
+Non-
+productive
+Area
+(sq. ft.)
+Total
+Plant
+(sq. ft.)
+95
+Stores
+of
+Total
+Prod.
+Non-
+Prod.
+Dir-
+ect
+Ind-
+irect
+Boeing
+Seattle
+B.17
+B. 29
+Portress
+Experimental
+18,573
+60
+12,358
+40
+30,931
+45
+38
+47.8
+10
+X
+'2,537
+2,016,470
+61
+1,268,995
+39
+3,284,565
+25
+1,470,000
+1,180,670
+29%
+12
+Consolidated
+San Diego
+B.24
+B .32
+PB.2T
+pbt
+Liberator
+Experimental
+Coronado
+Catalina
+23,954
+54
+20,592
+46
+44,546
+58
+17
+55-6
+-
+1,739
+3,153,606
+90
+325,971
+10
+3,479,577
+25
+r^—
+3,035,484
+1,523,428
+16%
+56%
+21%
+17
+North Amor loan
+Inglewood
+P.51
+B.25
+Mustang
+Mitchell
+14,388
+58
+10,469
+42
+24,857
+36
+39
+54-5
+6
+1,097
+1,269,510
+78
+354,422
+22
+1,623,932
+20
+162,675
+653,414
+20% total
+60% N/c
+shop
+10
+Bell
+Buffalo
+P.39
+&
+P.63
+Airaoobra
+17,103
+54
+14,497
+ko
+31,600
+45
+38
+44.9
+8
+893
+1,880,880
+66
+987,010
+34
+2,867,890
+25
+Nil
+4,163,897
+30
+Curtiss Wright
+St. Louis
+A. 25
+<4
+0.76
+Dtvebomber
+Caravan
+14,000
+67
+7,000
+33
+21,000
+25
+1,300
+1,221,000
+18
+15* *33y.
+45% V/c I
+Shop.
+20
+* Includes Plight Research of 172
+Plants where tour only was made.
+Plant
+Type of Aircraft
+Employees
+Engineering
+Staff included
+in Total
+Areas
+%
+S/C
+%
+Spares
+Prod.
+%
+Non-
+Prod.
+%
+Total
+% Female
+of Total
+Productive
+Area
+(sq. ft.)
+%
+Non-
+Productive
+Area
+(sq. ft.)
+%
+Total
+%
+Stores
+of
+Total
+(Harm Martin
+Baltimore
+A. 30
+B.
+FBM
+Baltimore
+Marauder
+Mariner
+1 Mars
+40,328
+76
+12,609
+24
+52,937
+24
+2,400
+3,487,171
+74
+1,245,758
+26
+4,732,929
+20
+33
+15
+Douglas
+SI Segundo
+A. 25
+Dauntless
+13,830
+77
+4,170
+23
+18,000
+40
+1,500
+784,000
+60
+516,000
+40
+1,300,000
+20
+20 Total
+45 V/o
+Shop.
+15
+Lockheed
+Los Angeles
+P.38
+R.50
+0.67
+lightening
+Lodestar
+Constella-
+tion
+51,200
+70
+13,100
+30
+44,300
+27
+2,000
+2,217,000
+-
+-
+-
+-
+15
+20 Total
+90 VS/a
+20
+Vega
+Los Angeles
+B.17
+B.34
+Portress
+Ventura
+16,900
+64
+9,600
+36
+26,500
+42
+,.,50
+1,470,000
+82
+330,000
+18
+1,800,000
+15
+15 Assy.
+50 U/o
+Shop.
+18
+30
+Republic
+Farmingdale
+P.47
+Thunderbolt
+11,212
+78
+3,038
+22
+14,250
+17
+225
+751,000
+54
+649,000
+46
+1,400,000
+15
+34
+23
+
+
+CHAPTER 12 - CANADIAN AIRCRAFT INDUSTRY
+2A-12.01 Three mexrbers of the Mission paid a short visit to Canadian production
+factories at the invitation of Mr. Ralph P. Bell, Director General of
+Aircraft Production, who personally conducted the party on a tour of the
+following factories:-
+Canadian Car & Foundry St. Hubert & Pointe St. Charles
+Canadian Propellers Montreal
+Fairchild Aircraft Ltd. Longueuil
+Canadian Vickers Montreal and Cartierville
+Noordyn Cartierville
+Victory Aircraft Malt on
+De Havilland Toronto
+Massey Harris Toronto
+Fleet Aircraft Fort Erie
+Dowty Equipment Montreal
+Bloctube Controls Montreal
+The party were impressed by the energy and initiative of Mr. Bell and
+the part he has played in building up the Canadian Aircraft Industry, from
+an insignificant number before the war, to 35,000 with 3,500 women 12
+months ago, and to the present total of 85,000 with 25,000 women.
+Canada did not possess the facilities, skilled labour or unlimited
+finance to draw on, that were available in the States, and her effort is
+therefore praiseworthy through having been realised in spite of these
+obstacles. The expansion has now almost reached its peak, and it is
+considered they will now settle down to a steady stabilised production.
+Government control of firms is more in evidence than here, and it was
+stated that there is not an aircraft factory in Canada that is entirely
+privately owned.
+Federal Aircraft Limited is a government concern, originally formed
+for the co-ordination of the various firms concerned with the Anson produc-
+tion. It is now operating as an administrative company, placing sub-
+contracts with firms normally outside the aircraft industry and arranging
+the purchase and supply of materials; it therefore covers many of the
+functions of our English controls.
+Ingenuity and improvisation has been shewn in overcoming expansion
+difficulties. Presses were seen at a lino factory that had been converted
+to aircraft work. Research and laboratory work is undertaken by McG-ill
+University.
+Developments in the States have been closely watched, and questions
+were constantly asked concerning the latest developments and equipment at
+home and in the States.
+The North American Aircraft suggestion scheme, with due acknowledg-
+ments, has been installed in all factories, is beginning to work well, and
+a number of awards have been made.
+It was understood to be government policy to buy equipment needed for
+the main factories instead of waiting for lease-lend procedure to be
+carried through, and in a short time now it is considered that Victory
+Aircraft, Canadian Vickers at Cartierville, and Noordyns will have
+absolutely first class equipment.
+The training of personnel has presented maiy difficulties, but this
+has been tackled in a similar, though not so lavish, manner as in the
+States, by training schools in both the factories and towns. An Aircraft
+Relations Committee has been set up in each area, so that Aircraft
+Executives may discuss all matters relative to the available personnel in
+the district with Executives from other industries.
+It was stated that 4 8% of the Canadian production will now go to the
+States, while 26% is needed for their own Air Force, thus leaving only 26%
+available for this country.
+
+
+Assurances were given on all sides that Canada were particularly
+anxious to build British aircraft and that American orders were obtained
+after all efforts to build British had failed.
+It is considered that every effort should be made to foster this
+production and obtain whatever capacity becomes available in the future,
+and it is felt that a close and permanent liaison should be set up in
+Canada to assist, advise, and report on this whole matter.
+While the industry has grown to its present proportions, only one
+Canadian designed aircraft, the Norseman, is in production. The Govern-
+ment fully realise their weakness in this direction and an effort is being
+made to build up a design and technical organisation for post-war require-
+ments. There is no doubt they would like to obtain this help from
+England, but it is felt that this is a subject which requires some
+ventilation with the Canadian authorities.
+The largest Aircraft Plant in Canada is that of Victory Aircraft,
+at Mai ton, near Toronto, with a floor area of approximately 850,000 sq.ft.
+This factory was originally built by the National Steel Car Corporation in
+1938, but late in 1942 the Government took over- the factory and changed
+the name to Victory Aircraft, appointing Mr. Dave Boyd the General Manager,
+and Mr. J.B. Bickell of International Nickel as President.
+The firm has been completely re-organised along sound lines, following
+in the main the English pre-production system and there is every indication
+that this is beginning to work well. The factory is of modern design and
+well laid out for the production of large aircraft.
+They are at present finishing off their Anson programme and Iysander
+spares, and tooling up for Lancaster and York production. The party were
+impressed with the thorough manner in which this was being tackled and
+have confidence that the first Lancaster will be ready within a short time.
+There is a sound backing of parts coming behind this, and we feel that the
+production, although slow in starting, will justify itself.
+It was noted that the Glenn Martin Photo Lofting system has been
+introduced with all the latest equipment, and that the personnel for the
+Loft department had been built up from architectural and railway draughts-
+men, together with trainees from schools.
+There is at the moment some lack of equipment, but we found that a
+number of the latest riveting and welding developments we had seen in the
+States were on order to this firm.
+The tempo of work was good, although we understood that there were
+some labour problems being thrashed out with the respective Unions.
+From a conglomeration of sheds in Montreal the Canadian Vickers Co.
+have now shifted to their new Government financed Canadian Factory at
+Cartierville, which is mentioned in Chapter 3. This layout was decided
+upon after a close study of all the factories then being built in the
+States and is typical of the vision behind Canadian expansion; adequate
+storage space, to approximately 25 % of the total floor area, had been
+allocated along the entire front of the factory.
+The Consolidated PBY Flying Boat, known in Canada as the Canso, was
+starting production before the factory was finished. The hull was built
+in the same manner as at San Diego, and was laid out across the factory at
+one end. On reaching completion at the far side, it was in the correct
+position for the start of the final assembly line moving the length of the
+building. Other components working away from their Group Stores across
+the factory in the same manner, reached the assembly line exactly at their
+incorporation point, and thus avoided all unnecessary movement.
+The Noordyn factory, also at Cartierville, expanded in 1942 to some
+700,000 sq.ft, and now employs 9,300 workpeople. The Noordyn designed
+Norseman is being produced for the United States and they are also producing
+the North American Harvard trainer. This was a well equipped factory
+
+
+working on up-to-date lines. Arc welding was being extensively used and
+welding experiments were being carried out with atomic hydrogen.
+Considerable attention was paid in this factory to the protection of
+workpeople with safety devices on drop hammers, and an electric eye
+device was noted, which stopped a press in the event of an operator* s
+hand being put in a danger position.
+The Canadian Car & Foundry Company was visited at St. Hubert and
+Pointe St. Charles, but their Hurricane production is carried out at the
+Fort William plant. They are now changing over to the Curtis dive bomber,
+and will undoubtedly experience some problems, as this is a different
+proposition to the Hurricane. This firm have a number of interests, and
+among the experimental work the Mission were shown drawings of a single
+cylinder unit of a 3,000 h.p. fuel injection engine, which was about to be
+built experimentally for the Army Air Force at Wright Field.
+Constant speed propellers with hydraulic control units and aluminium
+alloy blades were being produced at another of their Montreal factories,
+and the Pointe St. Charles plant was used as a Machine Shop for all of
+these plants.
+The Canadian Propellers Limited Factory at Montreal is a modem plant
+of approximately 110,000 sq.ft, floor area, and a steady flow of Hamilton
+propellers were being produced under ideal conditions.
+Extensive additions were being made under adverse weather conditions
+at the. Longueuil factory of Fairchild Aircraft. When completed, this
+factory will be approximately 650,000 sq.ft. The layout of this new
+extension is on sound lines and a part of this factory was already being
+used as a parts plant. The Bolingbrooke production will shortly be
+tapering off, and they will be building the Curtis Hell Diver on an
+American contract.
+A brief visit was made to see the Mosquito production in the
+De Haviiland factory at Toronto. The production has not yet got into its
+stride and the assembly position seemed unbalanced.
+Massey Harris are doing a considerable amount of sub-contracting work
+on the Mosquito and Anson programme. 3,000 people were employed in the
+factory visited, and the methods and general layout was similar to wood-
+working factories in this Country.
+The production of the Fairchild Cornell by Fleet Aircraft at Fort Eire
+was of particular interest, as the Mission were able later to compare this
+with- the production of the same aircraft at the parent firm in the States.
+The Fort Eire plant was approximately 220,000 sq.ft, floor area, and
+was well laid out. While the production methods were substantially the
+same as at the parent firm, the assembly arrangements were better staged
+and the production was therefore on a more orderly basis.
+The Dowty factory at Montreal were making hydraulic equipment to the
+design of their parent English Company for the Hurricane, Anson and
+Lancaster. This was a well organised small concern.
+Bloc tube Controls Limited of Montreal were producing Lancaster
+controls on a sub-contract from Victory Aircraft. The workmanship was of
+a high standard.
+
+
+APPENDIX - LIST OF DOCUMENTS BROUGHT FROM AMERICA
+1. Bell
+Summary employment report.
+Factory layout and flow chart data.
+Conveyor line drawing and photographs.
+Airacobra construction photographs.
+2. Boeing
+Booklet on Test Laboratory.
+Purchasing procedure.
+Manual of Engineering Division organisation.
+Manual of production procedure
+Engineering Division organisation chart.
+Engineering Division personnel distribution chart.
+Chart of daily factory absentees.
+Chart of factory personnel activity.
+Various cards of works systems and plant statistics.
+Material Department organisation.
+Material Department flow chart.
+3* Consolidated
+Books on Process bulletins.
+Time studies.
+Shop process memoranda.
+Tool and operation planning standards.
+Standard tools.
+Tool design.
+Hydro press standard tools.
+Material handling.
+Introducing forms used by Tooling and Methods Division
+Department 15 and 1 6.
+Organisation and functions of Industrial Training Division.
+Data on conveyor lines.
+Chart F.R. 309 - Speed of assembly lines of FB2T3 Plants 1 and 2.
+Chart F.R.308 - Speed of assembly lines of 8.2 k Plants 1 and 2.
+Drawing bill of procedure.
+Attendance report.
+Model 29 date schedule.
+Plants 1 and 2 total areas.
+Discussion of production control procedures.
+Revised tooling and planning functions.
+Material requisition - Procedures for acquiring.
+Chart - Tool engineering.
+Figure Kardex record system for Government furnished equipment.
+Plan South and North end of building final assembly line 8.24.
+Curtiss
+Manuals on "Curtiss S" Conversion list for interchangeability to
+"Curtiss S" specification.
+Shop practice.
+Departmental routine.
+Process.
+Photographs cf Conveyors and shop layout.
+Female workers in sheet metal department.
+5* Glenn Martin
+Book - Description of aircraft and manufacturing facilities.
+
+
+6. North American.
+Manual— Brief outline of engineering procedure.
+Form - Analysis for research department.
+Book - Release of new part fittings gun sight adjust.
+Book - The use of low carbon low alloy steel in shell type aircraft
+structures.
+Book - Miscellaneous static tests of 4610 nickel moly steel.
+Summary - Production control.
+Production records.
+Works statistics and system.
+Drawing 62 and 82 - Master gauges major assembly.
+Drawing 99 - Tool masters major assembly.
+Works Employees suggestion plan.
+Breakdown chart N.A.B7*
+photographs of building jigs and components' under construction.
+7- Vega.
+Books on Production design engineering memos.
+Stock control.
+Various forms "Vega shop systems”.
+Manufacturing engineering policy and procedures.
+Material control department.
+8. War Production Board.
+Schedule etc., Controlled Materials Plan.
+
+
+AIRCRAFT INDUCTION
+PART B FACTORY LAYOUT AND PROCESSES
+CHAPTER 1 - BROAD POLICY CONCLUSIONS
+item I.CI Design tor production
+M 1,02 Engineering staff
+." 1,03 Collaboration between firms
+" 1.04 Action
+CHAPTER 2 - SPECIAL APPLICATIONS OF LOFTING
+CHAPTER 3 - ECONOMY OF FLOOR SPACE
+CHAPTER 4 - CONVEYORS
+CHAPTER 3 “ DROP HAMMER
+CHAPTER 6 - RUBBER DIE PRESS
+CHAPTER 7 - MECHANICAL PRESS
+CHAPTER 8 - STRETCHER
+CHAPTER 9 ~ SPECIAL TOOLS
+Item 9.01 Use of plastics
+w 9*02 Cerromatrix shims
+n 9*03 Suction pads
+tt 9.04 Rubber die tool for press brakes
+n 9*05 Frazing of lightening holes
+** ' 9*06 Magnetic die sets
+” 9*07 Miscellaneous
+CHAPTER 10 - FARNUM ROLLS
+CHAPTER 11 - RIVET SORTING
+CHAPTER 12 - FINISHING- AND PAINTING
+CHAPTER 13.- EXTRUSION 2,MANIPULATION
+CHAPTER 14 - PIPE BENDING
+CHAPTER 13 - GLENN MARTIN SKIN STRETCHING PROCESS
+CHAPTER 16 - PLASTER MOULDS FOR LIGHT ALLOY CASTING-
+CHAPTER 17 - POWDER METALLURGY
+CHAPTER 18 - RIVETING
+CHAPTER 19 - SPOT WELDING
+CHAPTER 20 - FLASH WELDING OF UNDERCARRIAGES AMD ENGINE MOUNTINGS
+CHAPTER 21 - HELLARC WELDING
+CHAPTER 22 - CYCLSWKLD
+
+
+
+
+PART B FACTORY LAYOUT AND PROCESSES
+CHAPTER 1 - BROAD POLICY CONCLUSIONS
+28-1.01 Design for production. Due to their greater attention to
+detailed design and to the larger design staffs, production in
+America has been greatly simplified.
+28-1.02 Engineering staff. Much attention has been paid to the
+training of aeronautical engineers, both in colleges and the
+aircraft factories, with the result that a large number of
+competent engineers were available at the beginning of the
+expansion scheme. In contrast to this, Britain, almost at
+the end of possible is short of suitably trained
+staff. This whole subject is reviewed at length in section 6.
+28-1.03 Collaboration between firms. One important aspect of
+American industry which has come to light is the extent of
+collaboration between competing firms and the considerable
+interchange of information between these firms. Valuable in-
+formation could be obtained by members of the British aircraft
+industry, if there was more collaboration and a freer inter-
+change of information which would further the considerable
+knowledge held by individuals in this country.
+This opinion was formed and actually recorded in writing
+before the Mission left America. It has been considerably
+strengthened since the return of the Mission as a result of the
+conferences at Hamilton Hace. On several occasions it was
+learnt that British firms are not aware of what others are
+doing at heme, and several improvements can be made in this
+respect.
+28-1.04 Action. Although no basic alterations can be made to increase
+British production during the next 24 months as a result of the
+Mission*s investigations, it will be possible to make appreciable
+improvements in current procedure if the detailed recommendations
+contained in the following chapters can be adopted.
+
+
+
+
+CHAPTER 2 - SPECIAL APPLICATIONS OF LOFTING
+28-2.01 A number of firms make use of photo reproduced templates for simple
+and effective jigs* The template is screwed to a thick ply base, all.
+nncessary holes are drilled and clamps fitted to form a jig suitable for
+the operations required, as shown in the wheel jig in Fig.l.
+It is considered that this is an aid to initial production and
+admirable for obtaining a short run while the normal type jigs are being
+produced, but, from examination of jigs at some firms, that these are in
+the main unsuitable for long production runs.
+Bell Aircraft of Buffalo have developed a component assembly system
+based on lofting of co-ordinated holes in detail. Components are lofted
+in the normal manner and a number of sets of master templates produced,
+by a lithographic method, of sill skins and details complete with rivet
+holes. From these master templates "boiler plate” blanking dies complete
+with rivet punches are made, similar to those used in this Country, except
+that rubber instead of spring strippers are used. All rivet holes are
+punched undersize in the skins, and mating structures have only sufficient
+holes to enable the assembly to be pinned together \ghile all holes are
+drilled through full size.
+The use of blanking dies with rivet punches therefore obviates the need
+for a considerable number of drill jigs, and enables production to commence
+earlier, although their cost and upkeep do not show any saving over the normal
+methods. It is understood that after the initial tryout, it is usually
+necessary to make alterations to the majority of the blanking dies for
+developed shape, in order properly to align the rivet holes, but this is
+quickly and easily accomplished with tooling of this type. In order to
+ensure strict interchangeability, most assemblies are riveted in assembly
+s jigs to prevent any mal-alignment during riveting.
+Fi g. 1. Wheel jig.
+
+
+CHAPTER 3 - ECONOMY OF FLOOR SPACE
+28-3*ol Line production was the general rule and final assembly is dealt with
+below under the heading of conveyors.
+Every effort is made to save floor space and a number of interesting
+layouts were noted. As an example of this, the Curtiss layout for frame
+rings used to be to clamp these on tables as shown in Fig. 2, which occupied
+considerable floor space. The line has now been revised, using a vertical
+wheel board as illustrated in Figs. 3 and 4, which accommodates all the
+work shown in the previous photograph.
+CHAPTER 4 - CONVEYORS
+28-4*ol Conveyors were one of the production matters which the Mission were
+particularly asked to investigate and express a definite opinion upon,
+because there has been so much contradictory evidence regarding the conveyor
+systems as applied to aircraft production. Conveyor systems have been
+widely used during the last 25 years in the American and to a lesser extent
+in our own automobile industry, and although they have been tried in aircraft
+factories in this country, they have not so far been a real success, part-
+ly because they do not fall in line with our general outlook on aircraft
+production and partly because there are few factories in this country whose
+output is really big enough to make them worth while.
+Conveyors of one sort or another were in general use in practically
+all factories visited; the smaller types of conveyor were definitely
+successful, and the general trend was to increase their use wherever possible.
+It is understood that some successful applications have recently been made
+in this countiy and an extension of the scheme is recommended.
+Referring specifically to large conveyors for wing assembly, final
+assembly, etc., the Mission saw many systems installed in the American air-
+craft factories, and large sums of money have been spent on them. Very
+few of them were working to capacity and the ambitious final assembly con-
+veyor systems, at such places as the Curtiss Wright St. Louis plant and the
+Ford Willow Run plant, could reasonably be criticised as being white
+elephants, as they are to-day because they are not working.
+It must however be appreciated that the American aircraft industry is
+still growing rapidly. As Mr. T.P.Wright expressed it, continuously moving
+conveyors for complete aircraft will never pay unless output reaches not
+less than 200 per month of large four engined bombers and 300 per month of
+fighters. Not many of the American aircraft firms have arrived at this
+stage yet, but they are reaching it rapidly, and the Mission are of the opin-
+ion that a visit to the United States in six months* time will give a con-
+siderably changed picture as regards the efficiency and value of these
+conveyors.
+At this stage of the war with the present British output, which is
+roughly stabilised, it is not considered advisable to recommend automatic
+mechanically operated conveyors for final assembly, or even for large com-
+ponents such as wings, but undoubtedly the smaller types of conveyor such as
+that illustrated below in the Curtiss Wright plant should be encouraged. The
+extended use of Morris rolls would also be well worth while in saving labour.
+Fig*s shows a typical application of Morris rolls in the Curtiss Parts
+Plant for handling atack routing and drilling blanks.
+Stores Delivery Conveyors consisting of baskets and trays suspended from
+an elevated monorail were used to deliver details and kit marshalled groups
+in a number of factories. In some cases they were not considered to be
+filled sufficiently to merit their initial cost of upkeep, but they were
+working extremely efficiently at Bells of Buffalo.
+Here each tray, capable of carrying 200 lbs.,was loaded in the Stores
+
+
+Fig. 2.
+Old
+method.
+Figs. 3 and. 4.
+New method
+of clamping
+frame rings.
+
+
+and the indicator set for the correct unloading station. As the tray
+approached its destination, the indicator automatically tripped a light and
+hell device, which gave the group operators at that station ample warning
+that this particular delivery was for them. The track speed was 35 ft.
+per minute, the minimum radius at corners of the buildings were 3 ft. and
+the station dips to floor level were 20 ft. at group stations and 120 ft.
+at the main stores. Pig. 6 shows the track at one of the stations; fig. 7
+is a general view of the conveyor.
+Belt conveyors were in general use, and a considerable number were
+working extremely well and effecting a saving in labour and floor space,
+comparable with the best achieved by the few examples in this Country.
+In cases where there were shortages and insufficient planning of the sequence
+of operations to obtain a balanced cycle, the working was not efficient.
+Pig. 8 shows the original layout of some sub-assembly benches in the
+Curtiss plant, and figures 9 and 10 show the conveyor which has superseded
+itj and a general view at one station showing the complete equipment at the
+disposal of the operator. Inspection was invariably carried out at one or
+more stations along these lines and finally at the end. Kits of parts for
+the station operation were either loaded down the conveyor at set times, or
+delivered by kit trays to the operator in the normal manner.
+It is considered that belt conveyors can with advantage be used for many
+sub-assemblies and assemblies in factories in this country, providing there
+is a straight run, ample backing of parts, and time study of the operations
+shows that a balanced cycle can be maintained.
+There were many variants of the intermittently moving assembly conveyor,
+although in almost every case we were assured these were about to move
+continuously. Until the movement is continuous, this type has little ad-
+vantage over the manually shifted line and does not merit the expensive in-
+stallation, except in rare cases of very heavy units.
+The only factory where we saw continuously moving assembly conveyors
+working effectively was at Bell Aircraft of Buffalo, building the Airacobra
+Fighter. It was .felt that this was not due to any unusual features of
+the conveyors themselve§, but because they had a balanced sequence of
+operations and had overcome the shortages that prevented the other lines
+moving smoothly. They had a backing of at least 30 days behind the line,
+and made up their kits or groups for each station 7 days before they were
+required, issuing these complete for each stage for each aircraft.
+The latest development in this factory covers the delivery of kits for
+complete stage operations, by means of the stores delivery conveyor already
+mentioned, to men stationed in the rafters. These elevated group stores men
+will lower the kits alongside the assembly lines as the aircraft pass from
+one station to the next, thus creating a shop completely devoid of labour
+movement.
+The Mission were particularly impressed by the overall picture of the
+conveyored lines at this factory and consider these developments should be
+carefully watched, as this combination of overhead kit delivery and contin-
+uously moving line may well prove the ideal assembly line arrangement.
+The following photographs and details are typical of current American
+conveyor practice. Pigs. 11 and 12 show the Bell Main Assembly and Wing
+Assembly lines which move at 25 ft. per hour. This was generally agreed
+the optimum speedy with 35 ft. per hour the maximum permissible. Pigs. 13
+and 14 show stations on these lines. Pig. 15 A and B shows the Bell con-
+veyor for wing drilling and painting.
+The simplest form of track was that used on the manually operated
+Mustang line and consisted of an angle attached to the floor with slotted
+guideplates at front and rear of the trollies as Pig.l6. This means of
+keeping the trollies in line was also used where the trollies were
+connected by tow bars and moved by a short chain conveyor at the end station.
+
+
+Fig.
+5.
+Fig. 6.
+Fig. 7.
+
+
+Figs. 8 and 9.
+Sub—assembly
+benches and
+conveyor super-
+seding them.
+Fig.10.
+
+
+Figs. 11 and 12. Bell assembly lines.
+
+
+Figs. 13
+and 14.
+Stations
+on Bell
+assembly
+lines.
+
+
+FIG. 15 A.
+BELL CONVEYOR FOR WING
+DRILLING AND PAINTING
+
+
+FIG.15B. BELL CONVEYOR FOR WING DRILLING & PAINTING
+
+
+Fig. 16.
+The angle track with grooved trolly wheels shown in Pig. 17 is
+preferable to the usual channel type which is easily stopped by bolts etc.
+being dropped in them. The angle shown is 1-y" x and the diameter of
+the wheel is 10”. Junction lines and cross over are shown in Pigs. 18
+and and one of the large trollies which are moved manually on these
+tracks at Gurtiss Wright in Pig.2o.
+Continuous chain conveyors were all of the type shown in Pig. 21. A
+variable rheostat enables the line to be speeded up as the operators
+become more proficient.
+CHAPTER 5 - DROP HAMMER.
+28-5»01 The American aircraft industry was
+the first to develop the drop hammer
+technique of sheet metal manipula-
+tion. This method was found to be
+ideally suited to production of a
+limited number of aircraft and proved
+to be the salvation of the industry
+in the early days of expansion.
+.Then rapid expansion started,
+the industry based its production
+on the methods already well-known
+to its, with the result that a
+large number of drop-hammers were
+installed in all the important
+factories. With the cessation of
+the manufacture of non-essentials,
+production engineers from other
+spheres entered the field of air-
+craft production, bringing with
+them the automobile production
+technique, including the mechanical
+press.
+Fig. 17. Angle track.
+
+
+Figs. 18 and 19. Details of angle track.
+
+
+Fig. 20. Track and trollies at Curtiss.
+Fig. 21. Chain conveyor drive.
+
+
+Thus the use of the mechanical press, together with soft dies of
+Kirksite or zinc alloy, is now playing a greater part in the
+fabrication of sheet metal and is rapidly supplanting the use of the
+drop hammer in large factories, except for experimental work and for
+the first few batches to get a new type into production*
+Experience has shown that the mechanical press, with soft dies,
+provides surprising flexibility for modifications, and much decreased
+production time, while it can be worked by female labour* In certain
+cases it may be necessary to re-design components which were originally
+designed for production on drop hammers only*
+CHAPTER 6 - RUBBER DIE PRESS.
+28-6*ol The rubber die technique in America has developed on similar lines to
+the British method, the biggest advance being in the design of the
+hydraulic presses. Very great attention has been paid to loading
+facilities in order to make the best possible use of the machines and
+Fig* 22 indicates the three most popular methods used©
+Designers in many cases have borne in mind the rubber die technique;
+sharp curves have been avoided where possible and adequate slots provided*
+In order to gather material on a sharp curve, the puckers ( Fig. 23) are
+carefully controlled and positioned between rivet holes*
+F IG 22
+The majority of presses have been
+designed to give a platen pressure of
+•75 tons per sq. inch and use a
+softer rubber die than is normally
+employed in this country, where
+pressures of 1.5 tons are more gener-
+ally used*
+Tools are generally made of Kirk-
+site or similar zinc alloys, except for
+thin forms,when the die is cut from
+boiler plate.
+Fig 23
+
+
+It was noted that press finishing was invariably carried out by hand
+or by a re-strike with lead slugs, the use of shrinkers being very limited.
+Blanking and shearing have been discontinued due to excessive rubber pad
+wear and to inferior products, the blanks normally being prepared either on
+a punch press or on fixed head and radial arm routers.
+CHAPTER 7 - MECHANICAL PRESS.
+28-7.01 A larger proportion of double acting presses are employed than in this
+country. Die design is similar to 3ritish practice, with the exception
+that a greater proportion of soft dies, made of bakelite, Kirksite or
+Masonite are used. Many firms are converting their existing drop hammer
+dies by tte addition of a blank holder for use on the mechanical press,
+thereby increasing their production.
+Less pains are taken than in Britain to safeguard the operations by
+way of automatic guards etc.
+CHAPTER 8 - STRETCHER.
+2BrB*ol The stretching technique employed in America is similar to British
+practice but has been carried further; the machines used are of the
+3rco variety, employing dies of Elrksite or similar zinc (Fig.2if)
+One new type of stretcher has been developed by the Sheridan Company
+for end stretching panels such as seaplane float bottoms, but the
+application is limited. Further development of stretchers is being
+carried out.
+CHAPTER 9 - SPECIAL TOOLS.
+23-9®ol Use of Plastics* The Vega Corporation of America are developing the use
+of plastics for drop hammer tools, punch press tools, drill jigs, routing
+fixtures, etc. and have laid claims that much tool making time is saved.
+Investigations, however, did not appear to bear out these claims for, in
+addition to the difficulties experienced in the contraction and warping of
+the plastic tools, they were veiy susceptible to damage.
+No premature introduction of this technique is recommended in this
+country, but it is felt that research on these lines may prove beneficial.
+23-9® 02 Cerromatrix Shims. An ingenious application of a low melting point
+alloy, Cerromatrix, has been found by the Douglas Corporation for the
+final lining of location points on assembly jigs. It has previously been
+the practice to machine the jig structure and the location points, set in
+position, and use solid shims to fix the desired location.
+Fig.2s indicates the Cerromatrix method used. The surfaces of both
+jig, structure and location points are unmachined,location points being
+positioned by means of packing screws.
+When the desired location has been achieved, three sides of the
+apertures are filled with clay, into which Cerromatrix is poured, thus
+providing a permanent solid shim. A large amount of tool making time has
+been saved by this method.
+28-9.03 Suction Pads. Fig. 26 is self-explanatory. This tool is used for the
+removal of blanks from punch presses where the production quantity does not
+warrant the use of pneumatic ejectors. The large editions of this tool are
+also useful for moving machined stock and are extensively used in America.
+
+
+FIG. 24. “ERCO” 300 TON STRETCH PRESS
+
+
+Fig. 27.
+28-9* 04 Rubber Die Tool for Press Brakes.
+The tool illustrated in Fig. 27
+makes use of a rubber die and an
+interchangeable top blade. The
+principle of this process is
+identical with that of normal
+rubber die technique©
+28-9* 05 Framing of Lightening Holes©
+The tool illustrated in Fig.2B
+has been designed for the speedy
+frazing of both sides of the
+lightening hole at one applica-
+tion.
+28-9*06 Magnetic Die Sets. In order
+to use economical thin gauge
+blanking tools, many presses in
+America have been equipped with
+magnetic die sets on the bolster
+and platen. Whilst this method
+is not recommended for high
+production, it has a certain
+application where simple tem-
+porary blanking or raising tools
+are used.
+Fig. 28.
+28-9*07 Miscellaneous* Figs* 29 and 30 show two special tools and are self-
+explanatory*
+
+
+Fig. 29. Tube flaring machine.
+Fig. JO. Methods of burring.
+CHAPTER 10 - FARNUM ROLLS.
+28-1 0. 01 This rolling machine, deve-
+loped exclusively for the use
+of the aircraft industry in
+-America, has great applica-
+tion for leading edges of flings*
+control surfaces, etc., and is
+different from the normal type
+of three roll machine in that
+small diameter rolls are used,
+enabling radii of small dimen-
+sions to be formed, support
+being given by backing rolls.
+Instant adjustment is provided
+by electric control so that the
+curvature of parts can be
+continuously varied* See Fig. 31.
+Fig. 31. Farnum rolls.
+
+
+Fig. 32A.
+CHAPTER 11 - RIVET SORTING.
+28-11.01 The sorting of shop sweepings in America is carried out regionally* In
+every large aircraft manufacturing centre, small factories have been set
+up to accommodate the sorting of all the aircraft manufacturers in the
+area and numerous ingenious machines have been designed, sketches of
+which are shown in Figs. 32 A to F*
+It is considered desirable that a suitable scheme be introduced in
+this country, where, at present, there is a large wastage of labour
+employed in manual sorting. In order to differentiate between the
+sweepings of each firm, arrangements are made whereby the machines only
+sort one firm* s sweepings at a time, the result being that the sorted'
+rivets remain separated* Thus the sweepings of Firm "A” are sorted on
+Monday and Tuesday, n ß n on v/e dries day and Thursday and so on*
+
+
+Fig. 32B.
+Fig. 32C.
+
+
+Fig.
+32D.
+32E.
+
+
+Fig. 32F.
+
+
+CHAPTER 12 - FINISHING- AND PAINTING.
+28-12*01 The finish of American aircraft types was on the whole very good*
+It has been claimed that, due to more efficient tooling of American
+manufacturers, a better finish is obtainable*
+Observation confirmed the view that American aircraft are better
+finished than their English counterparts; it was found that the better
+finish was due to:-
+(1) American production methods, which are more nearly in line with
+automobile practice, ensure a more consistently good finish*
+(2) The sheet stock obtained from the manufacturers is in better
+condition than can be obtained in this country, due to the
+fact that our sheet stock manufacturers still roller level
+sheets after treatment whereas in America they are stretched.
+(3) In general the designers of American aircraft make use of a
+comparatively light internal structure with a heavy skin.
+This permits machine countersinking in place of punch
+countersinking, and due to a lesser degree of expansion
+through riveting, a much better finish is obtained. Cowlings
+in particular proved this point, where in addition it has
+been found necessary to have the cowling fasteners more
+closely spaced.
+(if.) Greater care is taken over the fit of panels, doors etc., and
+in general more closely pitched fasteners are used.
+In a considerable number of plants, parts conveyors were used
+extensively for chromate and primer coats.
+Details were loaded in racks or hung on hooks and conveyed through a
+dip bath or water extraction booth, where they were sprayed in the normal
+manner. The conveyor then carried them through a drying chamber, heated
+by either batteries of infra red lamps or hot air, and finally to the
+unloading station. The layout of these departments was good and resulted
+in very little handling of parts.
+The American practice is to apply stopping and special surfacing
+only on the wings from the leading edge to 40$ of the chord, whereas
+on the latest British fighter, it is applied to the entire aircraft;
+it is considered that the British process involves several times the man
+hours of the American technique.
+We were assured that exhaustive flight tests had proved that the
+special smooth surfacing back to 40$ of the wing had shown a definite
+increase of 11 m.p.h. on the top speed of one fighter, but that
+increased application of special surfacing progressively up to the
+entire aircraft had failed to produce any further appreciable advantage.
+In view of the man hours involved, we would urge that similar tests be
+carried out on our aircraft and that special surfacing be discontinued
+where it does not show definite advantage.
+The remainder of this American fighter was degreased and sprayed with
+one coat of synthetic enamel to Spec. 14109. This again shows considerable
+time saving over our standard D.T.D. 308, 314 and 517 finishes.
+We would therefore suggest that concurrently with the above flight
+tests, service reports be obtained, showing how these American finishes
+stand up to operational requirements compared with our own, with a view to
+their adoption in cases where they show to general advantage.
+The rubbing down involved in the special surfacing mentioned above
+has proved a decided bottleneck in British production, since no suitable
+
+
+mechanical means are available and large numbers of workers are employed
+to rub down by hand.
+We found that Canadian and certain American firms carry out this
+work in considerably less time by means of the Sundstrand pneumatic
+reciprocating Sanding and Rubbing machine. This Sander has many applications,
+is easily operated and can be used wet or dry. Two of these,
+with all attachments, have been ordered and will be in England shortly.
+It is suggested that further quantities be ordered immediately.
+Infra red heat was used for drying special surfacing compounds and
+finished components, but it was felt that this has not advanced beyond the
+recent developments in some British firms.
+CHAPTER 13 - EXTRUSION MANIPULATION
+28-13.01 Great ingenuity has been displayed on the development of machines for
+the manipulation of extrusions, and the use of such machines is more
+nearly universal in America than it is in this country, where many still
+rely on the older free roll bending method. The two main methods used are
+stretching and ironing as in Pig,33*
+The general trend of design on
+certain new types, such as the 8.29,
+A. 26 and P,51, is for the increased
+use of extrusions on wing and fuselage
+stringers and frames. In some new
+machines such as the B. 32 however,
+very few extrusions were used.
+The supply of extrusions is
+becoming a bottleneck in the
+expanded programme for existing
+types, but except in isolated
+instances, no serious effort.was
+observed to change to rolled sections
+in the manner that this problem was
+Fig. 33.
+tackled in this country some years ago.
+It is recommended that, in the event of any American aircraft being
+considered for production in this country, the supply of extrusions and
+the ability to manipulate them should be considered of paramount
+importance, as the substitution of rolled sections etc. should be
+essentially the responsibility of the American parent firm, since it may
+involve redesign and alterations to drawings, master layouts and even
+equipment.
+CHAPTER 14 - PIPE BENDING
+233-14*01 With the exception of the Blackburn method of pipe bending, little
+advance has been made in this country.
+In America, development has followed the line of universal pipe
+bending machines, embodying the well known principles shown in Pigs,
+34 and 35.
+The machines developed are hand and power driven type, and
+embody stops and graduation plates, enabling the exact duplication
+of bends. This process is not only quicker and ensures the production
+of uniform results, but dispenses with any form of filling.
+Development is proceeding on the lines of a completely automatic
+machine, working from master templates. The Disney films brought back
+by the Mission illustrate this principle clearly.
+
+
+FIG. 34
+PARKER PIPE BENDER
+
+
+Fig. 35. Pipe bender details.
+CHAPTER 15 - GLENN MARTIN SKIN STRETCHING- PROCESS
+28-15*01 This process, indicated in diagrammatic form in Fig. 36, was
+developed to improve further the finish of stressed skin aircraft. The
+rig consists of chrcaaolox strip heaters suitably arranged for particular
+wing panels which provide a temperature of some 30° to 70°F above room
+temperature. The process is as follows:-
+An untrimmed skin is
+assembled to the wing structure
+and tightly clamped into
+position. The heating rig is
+then applied and the temperature
+raised to the desired point.
+With the rig in position, the
+boundary holes are drilled,
+countersunk and riveted and the
+skin trimmed. The rig is then
+removed, and as the skin and the
+s tincture are allowed to cool
+the resultant contraction
+removes all pants and looseness
+in the skin. When room
+temperature has been reached,
+the final drilling, counter-
+sinking and riveting takes
+place.
+Fig. 36.
+The differential in temperature created between the skin and the
+structure ensures tight skins regardless of the temperature to which
+the aircraft is subsequently subjected.
+
+
+This method is generally only suitable for wing panels which have
+no doors er cutouts, such breaks in the surface area giving rise to
+unequal contractions. It is thought that, vdth the introduction of the
+laminar flow wing, development in this country should proceed on the
+lines of the technique being developed by Glenn Martin.
+CHAPTER 16 - PLASTER MOULDS FOR LIGHT ALLOY CASTING-
+2B-16.01 Although a certain amount of research in this connection has "been
+done in this country, the American aircraft industry has gone further
+and found that, for speedy initial production, valuable tool work can be
+saved by employing this casting technique. The resultant castings are
+of equal finish to gravity die castings and the process permits very
+intricate coring. It was not possible to obtain details of the plaster
+used, but it is thought that sufficient knowledge exists in the
+specialist firms in this country to undertake this form of work.
+It is urged that Light Alloy Control interest themselves in this
+technique, which it is felt might avoid many bottlenecks which at
+present exist.
+CHAPTER 17 - POWDER METALLURGY
+28-l7*ol The original development of this process by the Chrysler Corporation
+was in the direction of self-lubricating bushes and carbide cutting
+tools, the former being made in the various bronze bearing alloys.
+Recent research has shown the ability to produce components in ferrous
+materials, and the production of a large amount of machine guns and
+hydraulic pump parts has already commenced. This process, although in
+its early stages of development, shows great promise, and it is
+recommended that research be continued in this country with a view to
+its wider application in the aircraft and accessory industries.
+Another application is that of fuel filters made entirely of
+powdered metal. It is claimed that the resulting element has filtering
+properties equal to a gauze of 180 mesh and gives less back pressure.
+CHAPTER 18 - RIVETING
+28-18.01 Plush riveting of skin surfaces was carried out "by drill and
+countersinking, pre-dimpling or automatic machine riveting.
+Drill countersinking was carried out in the normal manner with
+power drills fitted with an adjustable stop to control the depth of
+countersink. (Pig. 37) • This method did not, however, appear to be
+used on sheets thinner than .051" whereas it is common practice in
+England down to .028”.
+Pre-dimpling was in some cases carried in situ by a special head in
+the rivet gun and suitable holding up dolly. Other firms broke down the
+work after drilling and dimpling both skin and former separately by
+machine, while in seme cases, only the formers were dimpled by this
+machine and they relied on the heading up of the rivet to pull the
+thin skin into the dimple.
+Experiments appear to have gone ahead simultaneously in both Countries
+to make it impossible for unskilled labour to damage the akin when heading
+flush rivets. It is interesting to note that the results are basically
+similar, in that both have developed a riveting set with a large
+slightly convex face that is able to swivel and take up a natural angle
+when not held normal to the skin surface. Not only is skin dajpage
+and quilting minimised, but riveting time is speeded up. Pig.3B shows
+■typical examples of these sets as used in America, and their use is
+advocated on all flush hand riveting.
+
+
+A careful study was made of
+the new Erco machine 'which combines
+the operations of punching and
+countersinking the hole and
+automatically feeding and heading
+the rivet without moving the
+work until all operations are
+complete. The first stroke of
+the driving plunger carries the
+punching die to the work, punches
+the hole and dimples it, while
+the second stroke places the
+rivet in the work and heads it.
+Each stroke of the driving
+plunger is controlled by an
+individual remote controlled
+foot operated air valve, and
+this also makes possible the
+selection of either punching
+holes only on feeding, and
+heading rivets only in holes
+already established. The spring
+stripper which gave trouble
+on early Erco machines in this
+country has been replaced by an
+air pressure type, which can
+be varied from 0 to 50 lbs. to
+suit the thickness of metal being
+punched.
+One of the Mission used this
+machine for some half an hour and
+worked up to a speed of 14 rivets
+per minute, while skilled operators
+Fig. 37.
+were exceeding 25 on straightforward runs.
+F IG 38
+While this machine and the 8.1. P machines already extensively used
+in this country can be applied with advantage to current production in
+both countries, it must be pointed out that neither will be able to cope
+with the thick skins now prevalent in the latest American designs, and
+new riveters must therefore be designed.
+Examples of extremely cheap and effective jigs to locate the stripper
+relative to the work were noted in masonite and metal. Pigs. 59> 40 and
+41 show a view of the Erco riveter and typical jigs.
+It has been proved in both countries that automatic rivet machines
+show at least saving in man hours over drilling countersinking or
+pre-dimpling and advantage should be taken of this on existing types
+where design considerations permit, and new designs should be carefully
+studied to enable it to be used to the fullest extent.
+
+
+Fig. 39.
+Erco riveter.
+Fig. 40.
+Fig. 41.
+
+
+A number of films made their own rivets by the cold head-up method and
+although no direct check was taken, they appeared to be superior to the
+normal rivets in use in this Country.
+CHAPTER 19 - SPOT WELDING
+28-19.01 At present spot welding is generally confined to secondary structures
+with one or two exceptions, the most notable being the Lockheed Constellation
+in which stringers and ribs have been spot welded#
+In order to overcame any lack of confidence in the weld, it has been
+found necessary to appoint spot welding Engineers, solely responsible for
+electrode design, maintenance of machines, cleaning processes, inspection,
+collaboration on aircraft design and periodic testing of samples# This
+practice has now largely overcome the initial prejudice. Aircraft
+designers now appreciate the need for the consideration of spot welding in
+the project design stage; recent aircraft bear witness to this trend of
+thought &n& a considerable extension of the use of spot welding for primary
+structures is to be expected#
+The spot welding machines generally used in America are of the
+condenser discharge type, certain special machines having been designed for
+the high production multiple welding of ammunition boxes and similar
+components# Experiments have been carried out with refrigerated tips,
+but no conclusive evidence could be obtained as to their efficacy, the
+opinions of many firms being at variance#
+The rotary electrode type of spot welder has been developed for spot
+welding of long seams, stringers, etc. and is of particular importance"
+for the production of aircraft of which the construction consists of long
+panels, and for wings of the laminar flow type, where a superfine finish
+is required*
+The machine is of similar design to the orthodox type, but carries
+two cooled rotary electrodes, continuously revolving, in place of the two
+normally fixed electrodes* This pemits the automatic feeding of work, the
+adjustment of speed of rotation and discharge regulating the pitch of the
+welds*
+The cleaning of the electrodes can be carried out concurrently with
+welding by means of revolving wire brushes. A development of this machine
+carries two trailing pressure rollers for relieving the contraction stresses
+surrounding each weld by work hardening the surrounding material.
+Probably the most important
+operation in spot welding is that
+of cleaning the material, and a
+great deal of development work has
+been carried out in America, the
+latest process being that of
+phosphoric acidetch which pemits
+the cleaning of sub-assemblies
+without dismantling#
+Fig*42 is a sketch of the
+Rotary Electrode Spot Welding
+principle#
+Fig. 42.
+CHAPTER 20 - FLASH WELDING- OF TOTOERCARRIAG-ES AMD ENGINE MOUNTINGS
+28“2®#01 At the moment, undercarriages in England are largely made from very
+heavy forgings. This, in turn, demands an excessive amount of machining.
+For example, the reduction in the weight of a Spitfire oleo from the
+forging to the finished part is in the order of 83 lbs#
+
+
+It is the American practice to manufacture oleo legs and under-
+carriage parts from small forgings and steel tube, which are individually
+rough machined, then projection or flash-welded, after finishing
+operations are carried out. As a rule, this occupies approximately
+s(s of the man hours used in the normal British procedure, and as
+machine capacity is a bottleneck in this country the introduction of
+this method is of paramount importance.
+This also, in some measure, is true of engine mountings,, although
+in some cases attempts have been made to employ arc-welding. In this
+country, however, this is not entirely satisfactory as flash welding
+can be much more effectively controlled.
+With regard to undercarriages, attempts have been made here to
+incorporate the welded type but, due to the inability to obtain material
+of the correct specification, these efforts have proved abortive.
+It is strongly recommended, therefore, that material, similar to
+the 5. A.E.43-40 should be put into production immediately, and under-
+carriages redesigned where practicable to take advantage of the welding
+technique.
+CHAPTER 21 - HELIARC WELDING
+28-21 ,01 This process, developed by the Northrop Corporation, primarily for
+use with magnesium, has been found to have a much wider application.
+Not only is the process much simpler than oxy-acetylene welding, but due
+to the gas curtain surrounding the weld, no flux is required, thereby
+obviating one of the causes of corrosion. The process is similar to
+that of atomic hydrogen welding, developed by Metro-Vickers Ltd. in this
+countiy, the main difference being that, instead of striking the arc
+between two tungsten electrodes shrouded by hydrogen gas, the arc is
+struck between a single tungsten electrode and the object being welded,
+the electrode being shrouded by helium, argon or a similar inert gas.
+With the expansion of the
+production of magnesium alloys,
+it is desirable that development
+work in this countiy follow the
+lines of that being carried out in
+America, and to this end it is
+suggested that sample torches and
+equipment be obtained from
+America for use by the British
+aircraft industiy. Fig. 43
+shows a diagrammatic sketch of
+a torch.
+Fig. 43.
+CHAPTER 22 - CYCLE WELD
+28-22.01 This process, developed by the Chrysler Corporation,is not welding,
+in so far as it is not a fusion of metals, but a bonding process, using
+what appears to be a form of thermo setting plastic, the details of
+which have remained a secret. When fully developed, cycleweld will
+provide a very rapid production method for such components as flaps,
+wing panels, etc,, and a finish of a high order can be obtained.
+A start has been made in America on floors, flaps and simple open
+type components, which are already in full production. The process
+is de sc Abed fully in Section 3, but the following is a summary of the
+main points as they affect production:-
+The joining centres are first degreased and the bonding medium
+sprayed, brushed or applied as a paint.
+
+
+The possibilities of
+this process are considered
+very great, and it is urged that
+experimental -work be undertaken
+in this country. It should be
+pointed out, however, that
+components as at present
+designed are generally
+unsuitable for bonding by the
+cycleweld process, it being
+necessary to consider this
+technique in the early design
+stages.
+Fig.4k shows a sketch of
+a typical bonding and curing
+unit.
+The mating parts are then placed in a rig, consisting of rigid
+formers and a deformable thin steel tube -which, when filled with
+heated oil at a temperature of 320°P and a pressure of 200 lbs,
+per sq.inch, provide the necessary characteristics for bonding
+and curing, this taking some 15 minutes.
+Fig. 44. Cycle weld bonding and
+curing unit.
+NATIONAL LIBRARY OF AUSTRALIA
+
+
+
+

@@ -1,0 +1,1249 @@
+
+
+UrU
+Criteria for
+Brito
+U. S. DEPARTMENT OF COMMERCE
+BUREAU OF PUBLIC ROADS
+WASHINGTON: 1954 '
+
+
+
+
+(Criteria for Prestressed
+Concrete Bridges
+DEPARTMENT OF COMMERCE
+Sinclair Weeks, Secretary
+BUREAU OF PUBLIC ROADS
+Francis V. du Pont, Commissioner
+United Slates Government Printing Oflice, Washington : 1954
+For sale by the Superintendent of Documents, U. S. Government Printing Office
+Washington 25, D. C. - Price 15 cents
+
+
+Prestressed coticrete grade-separation structure at Newbury port Turnpike
+(U. S. 1) and Scotland Road, in Newbury, Mass.
+Cover illustration: Prestressed concrete grade-separation structure at New-
+buryport Turnpike ((/. S. 1) and Pine Hill Road, in Newburyport, Mass.
+
+
+Preface
+THE CRITERIA for prestressed concrete bridges presented in this pamphlet
+have been developed in the hope that they may be useful until such time as
+more complete specifications, covering the subject in far greater detail, may be
+presented to the civil engineering profession by American specification and code
+writing bodies.
+The Bureau of Public Roads recognized in 1952 that the prestressed method
+of concrete construction had great possibilities in the building of better and more
+economical highway bridges of reinforced concrete, and that in many instances
+prestressed concrete might become a competitor of structural steel also.
+There were no American standard codes governing the design of prestressed
+concrete bridges at that time. In recognition of the need for a guide to design
+which would provide structures acceptable for Federal-aid projects, the Bureau,
+in March 1952, prepared and distributed a Design Criteria for Prestressed Concrete
+Bridges (Post Tensioning).
+Although the scope of the criteria were very limited, the issue attracted con-
+siderable attention, and many constructive comments and suggestions were
+received from American and European engineers engaged in prestressed concrete
+design and construction. On the basis of these comments and suggestions, a
+rough draft of a new and greatly enlarged criteria, covering design, materials,
+and construction, was prepared and submitted in September 1953 to a number
+of authorities in the field both in this country and abroad. Thoroughly revised
+in light of their comments, the criteria are now issued in this pamphlet, together
+with supporting discussion and source references.
+During the writing of these criteria a joint committee, composed of delegates
+from the American Society of Civil Engineers and the American Concrete Insti-
+tute, was set up to develop a code of practice for prestressed concrete. When
+such a code is published, the Bureau?s criteria will be reviewed in the light of the
+Committee?s findings.
+
+
+
+
+Contents
+Preface iii
+Notation vi
+Cn- Discus-
+DESIGN teria sion
+Temporary stresses : 1 8
+Stress under dead, live, or impact load. 1 9
+Cracking loads 12
+Minimum permissible strengths 12
+Creep, shrinkage, and elastic deformation 1 12
+Decrease in prestress due to friction 1 13
+Ultimate strength 2 14
+Principal tensile stress 2 15
+End anchorage bearing plates for prestressing steel . 2 15
+Computing ultimate strength of beam 2 16
+Stirrups 2 17
+Diaphragms 3 17
+Size, spacing, and cover of prestressing steel 3 18
+Composite construction 3 18
+MATERIALS
+Concrete . 3
+Prestressing reinforcement 3 18
+Permissible variations in gage of wire 3
+Finish of wire 3
+Testing . 4 19
+Inspection. 4
+Rejection 4
+CONSTRUCTION
+I General 4 19
+Post-tensioning method 5 20
+Bonded steel 6 20
+Unbonded steel 6 22
+Placing and fastening steel _ 7 22
+Enclosures 7 22
+Prestressing 7 22
+References
+Publications 23
+Specifications 24
+Acknowledgments 24
+
+
+Notation
+a 6s =steel area for a balanced section (sq. in.).
+a c =the maximum area of that portion of the end of the beam which is geo-
+metrically similar and concentric to the area of the bearing plate (sq. in.).
+a p =bearing area of the anchorage plate (sq. in.).
+a s steel area (sq. in.).
+b = average width of the compression area (in.), assuming A: = 0.23.
+D = dead load (lb.).
+d depth of section from the compression face to the centroid of the steel
+(in-).
+E c ?modulus of elasticity of concrete (p. s. i.)
+S s = modulus of elasticity of steel (p. s. i.).
+fc V a= allowable unit stress on the concrete under the bearing plates (p. s. i.).
+f cs = concrete stress at the centroid of the prestressing steel. Where the stress
+varies from end to end of the beam it shall be taken as the average value
+(p. s. i.).
+/ S f=initial prestress (p. s. i.).
+f'c? ultimate cylinder 28-day strength of concrete (p. s. i.).
+f'd= ultimate cylinder strength of concrete at the time of prestressing (p. s. i.)
+/' g =ultimate stress in the prestressing steel (p. s. i.).
+f sy =stress in prestressing steel at 0.2 percent plastic set (p. s. i.).
+/ = impact load (lb.).
+k = depth from extreme compressive fiber to neutral axis divided by the effec-
+tive depth d.
+L = live load (lb.).
+m? = ultimate moment (in.-lb.).
+p = a s fbd.
+Pb? value of p for a balanced section = a,bjbd.
+
+
+Criteria for Prestressed Concrete Bridges
+DESIGN
+Temporary stresses
+Temporary stresses before creep and shrinkage shall not exceed the following: 1
+Concrete:
+? . fpretensioned 0. 60/ d-
+ecompression in extreme nber< , . . . -
+[post-tensioned 0. s of' ci
+0. 55 f' ci
+Tension 0. 05/' ci
+Prestressing steel: Tension 0. 80/',
+Stress under dead, live, or impact load
+Stress after creep and shrinkage under dead, live, or impact load, or any com-
+bination of these forces, shall not exceed the following:
+Concrete:
+Compression in extreme fiber 0. 4 f' c
+Tension in extreme fiber , 0
+Where the computations show tension in the extreme fiber, unprestressed
+reinforcement may be used, and designed to take the total tensile stresses, provided
+that the computed tension in the concrete before the unprestressed steel is added
+does not exceed 0.08/' O.
+Prestressing steel 0. 6/' s or 0. 8/',?, whichever is less.
+Creep, shrinkage, and elastic deformation
+Decrease in prestress in steel due to creep, shrinkage, and elastic deformation
+shall be assumed to be as follows
+Pretensioned concrete 6,000+ 16/ cs +o.o4/ gi .
+Post-tensioned concrete 3,000+ 11/ cs +o.o4/ st -.
+In these criteria the efficiency of the anchorage has been assumed to be 100
+percent. The designer should add to the figure given for creep and shrinkage an
+amount sufficient to allow for the anchorage efficiency, as determined by test.
+Light-weight aggregate: An amount to be determined by tests.
+Decrease in prestress due to friction
+Where the prestressing steel is ?draped? and wherever minor irregularities
+occur in the alinement of the ducts, the stress in the interior of the beam will be
+somewhat less than that at the jack, due to friction. This loss shall be estimated
+and verified in the field as given in the section on construction under the heading
+?Post-tensioning method (p. 5). A guide to the estimation of the loss will be
+found in the discussion.
+i A notation appears on page vi.
+
+
+Ultimate strength
+The ultimate strength must be such as to withstand the following loads without
+failure:
+D+ 3 (L +7) or 2(7) +L+7), whichever is greater.
+In figuring the ultimate strength, use /'� and o.B f' e (see under the heading
+?Computing ultimate strength of beam?, below).
+Principal tensile stress
+The principal tensile stress shall not exceed the following:
+Dead, live, or impact load, or any combination thereof: 0.03f' c to be carried by the
+concrete and the excess over 0.03/' c to be carried by properly designed stirrups.
+Ultimate loads, without stirrups: o.oB f' c . If this stress is exceeded, stirrups shall
+be designed to take the total principal tensile stresses.
+In the case of both working loads and ultimate loads, the maximum shears may
+be taken at a point 1.5 times the depth of the beam, measured from the nearest
+support.
+End anchorage bearing plates for prestressing steel
+Bearing plates shall be designed so that the bending stresses in the plates due
+to dead, live, and impact load do not exceed that allowable for the type of steel
+used, and the unit pressure on the concrete does not exceed:
+3
+whichever is less.
+V &P
+Computing ultimate strength of beam
+Unless a more exact method is preferred, the following shall be used:
+Where the prestressing elements are bonded to the concrete, the reinforcement
+shall be assumed ?balanced? (i. e., when the steel and concrete fail simultaneously)
+if:
+Pl =e.23- / - C -
+J 8
+The ultimate moment m u shall be determined as follows:
+Where p is equal or less than p h ,
+m u = 0.9a s f' ,d.
+Where p is greater than pi,
+TYIu ? Mbs J 8
+Where the prestressing elements are not bonded to the concrete, the prestressing
+steel shall be considered as an external force and shall not be figured as rein-
+forcement.
+Stirrups
+It is recommended that stirrups be used, whether or not computations show
+that they are needed. The maximum stirrup spacing shall be not more than
+three-fourths of the depth of the beam. The sum of the cross-sectional areas of
+the legs of the stirrup should be -not less than 0.08 percent of the cross-sectional
+area of the prestressed beam for the maximum spacing. Metal mesh of the
+same cross-sectional area per foot of beam may be substituted for stirrups at
+the option of the engineer.
+
+
+Diaphragms
+Diaphragm spacing shall be shown on the plans.
+Size, spacing, and cover of prestressing steel
+Where tension in the prestressing steel is maintained by bond and there is no
+adequate end anchorage provided, 0.2 inch shall be the maximum size of wire
+permitted, where the wires are used singly. Where the wires are used in seven-
+wire strands, the maximum strand permitted shall be %-inch.
+The minimum spacing, both vertically and horizontally, shall be three times
+the diameter of the wire or strand, measured center to center. In no case, how-
+ever, shall the clear spacing between wires or strands be less than times the
+maximum size of the coarse aggregate.
+The minimum cover distance for all prestressing steel shall be V/ 2 inches or one
+diameter of bar, strand, or duct, whichever is greater.
+Where adequate end anchorage is provided, the above limitations are not
+applicable, except that a clear spacing horizontally of times the maximum
+size of the coarse aggregate shall be maintained.
+Composite construction
+Where precast and cast-in-place concrete are designed to act integrally, as when
+precast beams are used to support a east-in-place slab, the horizontal shear
+shall be provided for by positive means, such as keys, and the two types of con-
+crete held firmly together by stirrups extended up into the slab.
+MATERIALS
+Concrete
+Any portland cement and aggregate may be used which is suitable for ordinary
+concrete.
+Prestressing reinforcement
+Prestressing reinforcement shall be high-tensile wire, high-tensile wire strand
+or rope, or high-tensile alloy bars.
+Steel to be bonded to the concrete shall not be galvanized. If the steel is to
+be left unbonded, it shall be protected against corrosion as described in the
+section on construction under the heading "Unbonded steel? (p. 6).
+If wire or strand is used, it shall have an elongation at rupture of not less than
+3 percent in 10 inches. Bars, if used, shall have an elongation at rupture of not
+less than 4 percent in a distance of 20 diameters.
+Permissible variations in gage of wire
+The dimensions of the wire, on any diameter, shall not vary more than plus or
+minus 0.003 inch from the specified nominal diameter. The difference between
+the maximum and minimum diameters, as measured on any given cross-section
+of the wire, shall not be more than 0.003 inch.
+Finish of wire
+The wire shall be free from injurious defects and shall have a workmanlike
+finish with smooth surface.
+
+
+Testing
+All wire, strand, or bars to be shipped to the site shall be assigned a lot num-
+ber and tagged for identification purposes. Anchorage assemblies to be shipped
+shall be likewise identified.
+All samples submitted shall be representative of the lot to be furnished and,
+in the case of wire or strand, shall be taken from the same master roll.
+All of the materials specified for testing shall be furnished free of cost and shall
+be delivered in time for tests to be made well in advance of anticipated time of
+use.
+Where the engineer intends to require nondestructive testing of one or more
+parts of the structure, special specifications shall be drawn giving the required
+details of the work.
+The vendor shall furnish for testing the following samples selected from each
+lot. If ordered by the engineer, the selection of samples shall be made at the
+manufacturer?s plant by the inspector.
+Pretensioning method. ?For pretensioned strands, samples at least 7 feet long
+shall be furnished of each strand size. A sample shall be taken from each end
+of every coil.
+Post-tensioning method. ?The following lengths shall be furnished:
+For wires requiring heading, 5 feet.
+For wires not requiring heading, sufficient length to make up one parallel-lay
+cable 5 feet long consisting of the same number of wires as the cable to be
+furnished.
+For strand to be furnished with fittings, 5 feet between near ends of fittings.
+For bars to be furnished with threaded ends and nuts, 5 feet between threads
+at ends.
+Anchorage assemblies. ?Two anchorage assemblies shall be furnished, complete
+with distribution plates of each size or type to be used, if anchorage assemblies
+are not attached to reinforcement samples.
+Inspection
+An inspector representing the purchaser shall have free entry, at all times while
+the work on the contract is being performed, to all parts of the manufacturer?s
+works which concern the manufacture of the materials ordered. The manufac-
+turer shall afford the inspector, without charge, all reasonable facilities to satisfy
+him that the material is being furnished in accordance with these criteria.
+Rejection
+Material which shows injurious defects during or previous to its installation in
+the work shall be rejected.
+CONSTRUCTION
+General
+Unless otherwise ordered by the engineer, the contractor shall certify to the
+engineer that a technician skilled in the prestressing method used will be avail-
+able to the contractor to give as much aid and instruction in the use of the pre-
+stressing equipment and installation of materials as may be necessary to obtain
+satisfactory results.
+Hydraulic jacks shall be equipped with accurately reading calibrated pressure
+gages. The contractor may elect to substitute screw jacks or other types for
+hydraulic jacks. In that case, proving rings or other approved devices must be
+
+
+used in connection with the jacks. All devices, whether hydraulic jack gages or
+other types, shall be calibrated and, if necessary, recalibrated so as to permit the
+stress in the prestressing steel to be computed at all times. A certified calibration
+curve shall accompany each device.
+.Safety measures must be taken by the contractor to prevent accidents due to
+possible breaking of the prestressing steel or the slipping of the grips during the
+prestressing process.
+Concrete
+All concrete shall be handled and placed in accordance with article 2.4.9 of the
+American Association of State Highway Officials? Standard Specifications for
+Highway Bridges (1953) (I). 2
+Concrete shall not be deposited in the forms until the engineer has inspected
+the placing of the reinforcement, conduits, anchorages, and prestressing steel and
+has given his approval thereof.
+The concrete shall be vibrated internally or externally, or both, as ordered by
+the engineer. The vibrating shall be done with care and in such a manner as to
+avoid displacement of reinforcing, conduits, or wires.
+Steam curing of the concrete will be permitted in lieu of water curing. If the
+contractor elects to cure with steam or by any other special method, the method
+and its details shall meet with the approval of the engineer.
+Transportation and storage
+Precast girders should be transported in an upright position, and points of
+support and directions of the reactions with respect to the girder should be approxi-
+mately the same during transportation and storage as when the girder is in its
+final position. In the event that the contractor deems it expedient to transport
+or store precast girders in other than this position, it shall be done at his own risk.
+Care shall be taken during storage, hoisting, and handling of the precast units
+to prevent cracking or damage. Units damaged by improper storing or handling
+shall be replaced by the contractor at his expense.
+Pretensioning method
+I he prestressing elements shall be accurately held in position and stressed by
+jacks. A record shall be kept of the jacking force and the elongations produced
+thereby. Several units may be cast in one continuous line and stressed at one
+time. Sufficient space shall be left between ends of units to permit access for
+cutting after the concrete has attained the required strength. No bond stress
+shall be transferred to the concrete, nor end anchorages released, until the concrete
+has attained a compressive stress, as shown by cylinder tests, of at least 3,500
+p. s. i. The elements shall be cut or released in such an order that lateral eccen-
+tricity of prestress will be a minimum.
+Post-tensioning method
+The tensioning process shall be conducted so that the tension being applied and
+the elongation of the prestressing elements may be measured at all times. The
+friction loss in the element, i. e., the difference between the tension at the jack and
+the minimum tension, shall be determined by the formula:
+F ? = 2
+where
+F i = total friction loss.
+2 Italic numbers in parentheses refer to the list of references, p. 23.
+
+
+Fi = observed tension at the jack.
+a cross-sectional area of the prestressing element.
+e = observed elongation of the element at the jack when the force at the
+jack is Fi.
+E = secant modulus of elasticity of the element for the stress Fi/a as deter-
+mined from the stress-strain diagram of the element.
+d = distance from the jack to the point of lowest tension in the element.
+Where jacking is done from both ends of the member, the point of
+minimum tension is the center of the beam; where jacking is done
+from one end only, d is the length of the beam.
+A record shall be kept of gage pressures and elongation at all times and submitted
+to the engineer for his approval.
+After tensioning, and wherever practicable, prestressing steel shall be bonded
+to the concrete.
+Bonded steel
+All prestressing reinforcement to be bonded to the concrete shall be free of dirt,
+loose rust, grease, or other deleterious substances.
+Steel installed in holes or flexible metal tubes cast in the concrete preferably
+shall be bonded, in which case the annular space between the perimeter of the hole
+or tube and the steel shall be pressure-grouted after the prestressing process has
+been completed.
+The grout shall be made to the consistency of thick paint and shall be mixed
+in the proportions, by volume, of 1 part portland cement to 0.75 pait (max.) of
+sand passing a No. 30 sieve and 0.75 part (max.) of water. Within the limit spec-
+ified, the proportions of sand and water shall be varied as required by the engineer.
+It may be necessary to eliminate the sand from the mix and use neat cement grout.
+If aluminum powder is used to expand the grout, it shall be added as follows.
+From 2 to 4 grams of the powder (about 1 or 2 teaspoons) shall be added for each
+sack of cement used in the grout. The aluminum powder shall be the unpolished
+variety. The exact amount of aluminum powder shall be designated by the en-
+gineer. The dosage per batch of mortar shall be carefully weighed. A number
+of weighings may be made in the laboratory and the doses placed in glass vials for
+convenient use in the mixing operation. The aluminum powder shall be blended
+with pumicite or other inert powder in the proportion of 1 part powder to 50 parts
+pumicite (or other inert powder) by weight. The blend shall be thoroughly mixed
+with the cement and sand before water is added to the batch, as it has a tendency
+to float in the water. The amount of the blend used should vary from 4.} i ounces
+per sack of cement for concrete having a temperature of 70� F. to 7 ounces for a
+temperature of 40� F. After all ingredients are added, the batch shall be mixed
+for 3 minutes. Batches of grout shall be made small enough so that the batch
+may all be used up in less than 45 minutes, as the action of the aluminum becomes
+very weak after that period of time.
+Except as herein provided, all grout ingredients shall comply with articles
+4.1.1, 4.2.1, and 4.3.2 of the AASHO Standard Specifications for Highway Bridges
+(1953) (1). The final pressure placed on the grout shall be 50 to 100 p. s. i.
+Unbonded steel
+Where the steel is to be left unbonded to the concrete, it shall be carefully pro-
+tected against corrosion by galvanizing and, in addition, a coating of tar or other
+waterproof material shall be applied. If galvanizing is not practicable, another
+method of protection may be approved by the engineer provided tests have
+shown its suitabilitv.
+
+
+Placing and fastening steel
+All steel units shall be accurately placed in the position shown in the plans,
+and firmly held during the placing and setting of the concrete.
+Distances from the forms shall be maintained by stays, blocks, ties, hangers,
+or other approved supports. Blocks for holding units from contact with the
+forms shall be precast mortar blocks of approved shape and dimensions. Layers
+of units shall be separated by mortar blocks or other equally suitable devices.
+Wooden blocks shall not be left in the concrete.
+Wires, wire groups, parallel-lay cables, and any other prestressing elements
+shall be straightened to insure proper positioning in the enclosures. Suitable
+horizontal and vertical spacers shall be provided, if required, to hold the wires
+in place in true position in the enclosures.
+Enclosures
+Enclosures for prestressed reinforcement shall be accurately placed at locations
+shown in the plans or approved by the engineer.
+All enclosures shall be water-tight. They shall be metallic, except that the
+contractor, at his option, may form the enclosures by means of cores or ducts
+composed of rubber or other suitable material which shall be removed prior to
+installing the prestressing reinforcement. Enclosures shall be strong enough to
+maintain their shape under such forces as will come upon them. They shall be
+one-fourth inch larger in internal diameter than the bar, cable, strand, or group
+of wires which they enclose. Where pressure grouting is specified, cores or ducts
+shall be provided with pipes or other suitable connections for the injection of grout
+after the prestressing operations have been completed.
+Prestressing
+After the concrete has attained the required strength, the prestressing rein-
+forcement shall be stressed by means of jacks to the desired tension and the stress
+transferred to the end anchorage.
+Tensioning of the prestressing reinforcement shall not be commenced until
+tests on concrete cylinders, manufactured of the same concrete and cured under
+the same conditions, indicate that the concrete of the particular member to be
+prestressed has attained sufficient compressive strength.
+
+
+Discussion of the Criteria for
+Prestressed Concrete Bridges
+DESIGN
+Temporary stresses
+In selecting permissible stresses to allow at the time of prestressing, it is be-
+lieved that a much lower factor of safety should be used than for design loads.
+In fact, the high temporary stresses imposed serve to test the member and thus
+add safety to the structure. If a particular member fails during the prestressing
+process due to some defect in the material or method of fabrication, it will be dis-
+carded and a sound member substituted.
+It should be noted that the allowable concrete stresses are based on the strength
+at the time of prestressing and not the ultimate at 28 days.
+There seems to be considerable difference of opinion among authorities as to
+the maximum allowable stresses which may be imposed temporarily, i. e., before
+creep and shrinkage takes place. For the maximum temporary concrete com-
+pressive stress Hajnal-Konyi {2B) would allow 0.45f' C i, Dobell {22) prefers O.of'c,-,
+whereas Holley {29) would allow 0.6f' c ; provided the stress was really temporary,
+i. e., provided it was reduced to 0.4f' cf before creep and shrinkage took place.
+Simpson {37) would also permit 0.6f' ci provided it was shortly reduced to 0.5f' e j.
+Siess {36) certainly disapproves permitting the use of 0.6f' e i even as a temporary
+stress. He gives three reasons; First, concrete strengths vary as much as 15
+percent; second, the ultimate for sustained loads is perhaps only 90 percent of
+that for instantaneous loads; and third, some allowance should be made for the
+eccentricity of the prestress force.
+Dean {2l A) points out that a higher temporary concrete stress should be
+allowed for pretensioned concrete than for post-tensioned. He reasons that in
+the former case the maximum compressive concrete stress under dead load alone
+is always at the ends of the beam where it is comparatively harmless, whereas
+in the post-tensioned beam with draped tensioning elements it is more nearly
+uniform. It was therefore decided to allow a temporary stress of 0.60f' cl - for pre-
+tensioned beams but only 0.55f' C j for post-tensioned.
+The temporary maximum for steel was at first placed at 0.7f' s but both Muller
+{S3) and Siess {36) point out that if this limit is adhered to it will be impossible
+in many cases to use O.Gf's as the allowable prestress after creep and shrinkage.
+What they apparently mean is that creep and shrinkage generally amount to
+more than o.lf'?. On the other hand, Simpson {37) would not only limit the
+temporary steel stress to 0.7f' s but would also require that it should not exceed
+o.Bsf' sy . Dobell {22) recommends that f' s be defined as the manufacturer?s
+guaranteed strength.
+
+
+Inasmuch as o.6f'? appears to be a reasonable working value to assume for
+the prestress after creep and shrinkage, it was thought best to raise the temporary
+stress to o.Bof' s . It is believed that this will permit a final prestress of o.6f', to be
+reached in most cases.
+Stress under dead, live, or impact load
+Article 3.4.11 of the AASHO Standard Specifications for Highway Bridges
+(1953) ( 1) for conventional concrete gives 0.4f' c as the allowable limit for dead, live,
+or impact load. It seems reasonable to use the same stress in the case of pre-
+stressed structures. The Connecticut State Highway Department used this
+value in its specifications for the Hubbard Street Bridge (16) , although a maximum
+limit is placed of 1,600 p. s. i. Dobell (22) uses the figure 0.5f' c whereas Muller
+(S3) prefers 0.333f' c and Hajnal-Konyi (28) 0.45f' c . Leonhardt (31) suggests
+o.4f'? for small cross sections and 0.46/' c for large ones, although he would permit
+0.45f' c to be used at the top of the beam and 0.5f' c at the bottom.
+Billig (5, p. 455) uses a load factor of or 0.4f' c , but he bases his factor on
+the cube strength at 28 days rather than the cylinder strength. Basing this on
+cylinder strength (assumed to be 20 percent less than cube strength) the working
+stress becomes o.sf'?.
+Under the heading Notes on Design Specifications for Prestressed Concrete the
+Portland Cement Association (12, p. 19) gives the prestressed concrete design
+standards of four foreign engineers. On page 15 of this reference the statement
+is made that foreign practice uses working stresses in the prestressing steel 60 to
+70 percent of the ultimate or 80 to 85 percent of the stress at the plastic set of
+0.2 percent. The more conservative of these values (60 percent of ultimate and
+80 percent of plastic stress) have been used here.
+Billig (5, p. 456) uses as wmrking steel stresses for pretensioned steel 85 percent
+of 0.1 percent plastic yield stress or 70 percent of ultimate tensile stress, whichever
+is less. For post-tensioned steel he uses 80 percent of 0.1 percent plastic yield
+stress or 65 percent of ultimate tensile stress, whichever is less.
+A comparison between these values and certain stress standards used in this
+country may be of interest.
+The Prestressed Concrete Corporation (35) (headed wire system) uses steel
+with an ultimate of 210,000 to 225,000 p. s. i. and a minimum yield point (0.2
+percent plastic set) of 180,000 to 195,000 p. s. i. They apparently use a working
+stress of 145,000 p. s. i., which is 64 to 69 percent of the ultimate and 74 to 80
+percent of the yield point.
+The Preload Company (25) (Lee-McCall system) uses steel of 145,000 p. s. i.
+ultimate strength and 130,000 p. s. i. yield strength (at 0.2 percent plastic set);
+and for working stresses they suggest 0.70 times the minimum ultimate strength
+or 0.80 times the 0.2-percent offset yield point stress, whichever is lower.
+Muller (33) would require an ultimate tensile strength of the steel of 200,000
+p, s. i. and a 0.2-percent offset yield strength of at least 70 percent, He would
+then permit a working stress 0.6 the ultimate.
+The Massachusetts Department of Public Works (17) uses galvanized wire
+of 220,000 p. s. i. minimum ultimate strength and yield strength of 160,000
+p. s. i. at 0.7-percent extension. The specification requires that the strand be
+stretched to 50 percent of the ultimate in the shop but does not give the working
+stress.
+There seems to be considerable difference of opinion as to how much tension
+to allow in the extreme fiber under dead, live, and impact load. Capouch (20)
+would allow O.OOf'cc for members having no mild steel reinforcement in the
+tensile zone and 0.12f' cc for members having such reinforcement. If, by f' cc ,
+Capouch refers to the ultimate 28-day cylinder strength of the concrete, then his
+allowances are greater than those of Leonhardt (31), who recommends o.oBf' c
+
+
+400 300 200 FRICTION LOSSES IN o oi o-z Q-3
+-i-LM .Pjsll - N I I I I PRESTRESSING UNITS - J_J_
+?? ? Courtesy of the Q- 4
+?? ? S;? Freyssinet Company ?| ?
+750 m �dif>cations)
+140 120 100 80 60 A 40 20 w
+Length X in feet
+70? ? -?-?^>^-80-- ?? -./QC
+T* = Tensile stress at point x /2(
+* T 0 = Tensile stress at jacking end 90
+T av = Average tensile stress | (4 ,
+0qO 0 1 0.3 0.4 0.5 0 6 �
+EQUATIONS; 70� ? "? '30
+for small values of K* + fa., a q0 / jf / / / _
+t 0 = t*(i + k* + fa) 20 o y I 160
+0� _L? 1 eft/ n O. / -
+0 .1 .2 .3 .4 ,5 .6 .7 .8 ,9 1.0 |y[ <jiyT [ | | | | | I I I I
+f a values
+K values
+fa. values
+I io
+,i eo
+T 0 curves; values in 1,000 p.s.i. (in Roman)
+J av curves; values in 1,000 p.s.i. (in italic)
+EXAMPLE: Given: X= 56 ft., a = 25� Assume K= >/, 000 , f = 0.35, = 155,000 p.s.i
+From small chart, determine fa =0.15, Enter large chart at X = 56 and
+follow indicated path. To obtain T* of 155,000 p.s.i., required T 0 is
+191,000 p.s.i. Average stress T av is 173,000 p.s.i.
+Chart for estimating probable friction losses in prestressing units;
+courtesy of the Freyssinet Company, New York, N. Y. (see p. 13).
+
+
+in the bottom under dead, live, and impact load and zero tension under dead
+load and 0.6 (live and impact load); Garrett {26), who would allow 0.04f' c tension
+in the top only; and Dobell {22), allowing 0.025f' e in the bottom of the beam and
+o.osf' c in the top. Eney {2Jf) would allow no tension whatever in the concrete.
+Considering all these points of view, it was decided to assume the concrete not
+capable of taking tension under dead, live, and impact load. If the design is so
+made that tension exists in the extreme fiber, the tension must be borne by steel
+reinforcing in the conventional way. It is often argued that cracks that open up
+during the imposition of the live load cpiickly close after the load has passed and
+so it is perfectly safe to permit tension under these circumstances.
+After due consideration, it was decided to reserve this unique property of
+prestressed concrete for the overloaded condition rather than that of the design
+load. This also is the position taken by the Connecticut State Highway Depart-
+ment in designing the Hubbard Street Bridge {l6) and by the Freyssinet Company
+{32).
+Cracking loads
+Criteria for cracking loads have purposely been omitted. For block construc-
+tion it is obvious that the computations for cracking loads are largely meaningless.
+Tests show that cracks occur considerably below the tensile strength of the con-
+crete because the blocks are cemented together with mortar rather than being
+cast monolithieally {3). If block beams may be accepted where the cracking
+load is very low, in competition with monolithic beams, monolithic beams cannot
+be required to meet a cracking standard.
+Fornerod {25) believes that a block beam should be assumed to be cracked when
+computations show any tension whatever in the extreme fiber, whereas 0.15/' e
+should be allowed as the modulus of rupture for monolithic construction.
+Hajnal-Konyi {2B) points out that a high factor of safety against cracking and
+a high resistance to shock are contradicting requirements.
+Considering all these points of view, and bearing in mind that certain authorities
+would permit tension under working loads, it seems best to omit all reference to
+cracking loads. This is also the opinion of Leonhardt {3l).
+Minimum permissible strengths
+It is customary for designers of prestressed concrete (e.g., 16) to specify the
+minimum concrete and steel strengths {f' c and/' s ) which may be used on the proj-
+ect. These data should be shown on the plans. On the other hand, there appears
+to be no good reason, other than economy of cost, why such a provision should
+be used in a general specification for prestressed concrete. In case weak concrete
+or low-strength steel is used, the general specifications should be so worded as to
+prevent the application of dangerous stresses either at the time of prestressing or
+upon the application of the specified live loads. If such limits are adhered to,
+it will be found, in most cases, that the resulting design will be uneconomical.
+On the other hand, it is conceivable that, under certain circumstances, such a
+design could be justified. This opinion is held by Dobell {22), and by Hajnal-
+Konyi {2B) except for pretensioned concrete. His exception is probably due to
+the need of sufficient bond strength to hold the tension in the wires. It was
+decided, therefore, to specify a minimum for this case only.
+Two authorities differ from this position. Both Muller {33) and Leonhardt {3l)
+advocate placing a lower limit on the concrete strength. The first suggests a
+5,000 p. s. i. minimum whereas the latter prefers 4,000 p. s. i.
+Creep, shrinkage, and elastic deformation
+When concrete is prestressed, a gradual relaxation of stress takes place both
+in the steel and in the concrete. If creep is defined as the ?inelastic deformation
+of concrete or steel, dependent on time and resulting solely from the presence
+
+
+of stress and a function thereof? and shrinkage as the ?contraction of concrete
+due to drying and chemical changes, dependent on time but not on stresses
+induced by external loading? {2), then this relaxation may be divided into four
+causes, which are evaluated as follows:
+(a) Shrinkage of concrete; The shrinkage will be assumed as 0.0002
+inch per inch, causing a relaxation in the steel of 0.0002S 5 =0.0002 X
+28,000,000 = 5,600 p. s. i. or, rounded out, 6,000 p. s. i. In the case of
+pretensioned concrete this should be the allowance for shrinkage. For
+post-tensioned structures it is assumed that one-half the shrinkage has
+occurred before prestressing is begun and, therefore, for this case only
+3,000 p. s. i. is allowed for.
+(b) Elastic compression of concrete: Let f ca ? concrete stress at the
+centroid of the prestressing steel. The effect of this compression on the
+relaxation of the steel will then be ( EJE c )f ca . If it is assumed that
+E s =2S, ooo.ooo and E c =5,000,000, then the elastic compression = 5.6/ c,
+or, rounded out, 5 f cs .
+(c) Creep of concrete: This may be taken at 2.25 times the elastic com-
+pression {3l). Therefore, the creep of concrete = 2.25X5/ cs = 11.25/ cs
+or, rounded out, 11/ cs .
+(d) Creep of steel; / 31 = the stress in the steel immediately after pre-
+stressing. Assuming creep = 4 percent (from 10, p. 30), then the creep
+of steel=o.o4/?-.
+Pretensioned concrete. ?The total losses, resulting from all four of the above
+causes, will be, in pounds per square inch:
+(a) + (b) + (c) + (d) = 6,000+ 16/ ca +o.o4/ si .
+Post-tensioned concrete? The total losses, resulting from the first, third, and
+fourth of the above causes, will be, in pounds per square inch:
+(a) + (c) + (d) = 3.000 +ll f cs + 0.04/, f .
+Light-weight aggregate. ?The Portland Cement Association states {l2, p. 16):
+It may be desirable to include the use of light-weight concrete in
+specifications for prestressing. It is generally characteristic of light-
+weight concrete that it has more creep, shrinkage, and elastic strain
+compared with ordinary concrete. The losses in prestress from these
+sources will consequently be greater. Light-weight concrete may also
+have less ultimate strength and more deflection compared with ordinary
+concrete. If all these characteristics can be taken care of in the design,
+resulting in a safe economical structure, there is no reason why light-
+weight concrete should not be considered for prestressed construction.
+It was at first proposed to increase the allowance for creep and shrinkage by
+50 percent when light-weight aggregate is used, but this was objected to by Simpson
+{37) , who claims to know of cases where the increase of 50 percent would be quite
+insufficient. It therefore seems best to require tests to be made in each individual
+Decrease in prestress due to friction
+The chart on page 10, obtained through the courtesy of the Freyssinet Company
+of New York, N. Y., may help the designer to estimate the probable loss in pre-
+stress due to friction in the enclosure. (The chart has been modified by the
+substitution of a graph for a table for use in determining fa.) The losses are
+assumed to be due to two causes;
+
+
+The ?draping? of the steel. ?Draping causes the steel to impinge or rub against
+the inside curvature of the enclosure during rhe prestressing process. The loss is
+a function of the central angle of curvature and the coefficient of friction between
+the walls of the enclosure and the steel.
+Small deviations, either horizontal or vertical, of the enclosure. ?The process of
+concreting a post-tensioned beam is apt to displace the enclosure embedded in it.
+The displacement cannot easily be determined after the concrete is poured, but
+field experience shows that the lack of true alinement causes appreciable friction
+losses during the prestressing process. These losses are a function of the coefficient
+of friction and the extent and number of deviations from a true alinement.
+Coefficients are assumed for both of the above cases, after which the loss of
+prestress may be estimated from the chart or obtained from the formula:
+T o = T x e (Kx+fa)
+where
+T o =stress at the prestressing jack (p. s. i.).
+T' x =stress at a point x feet from the jack (p. s. i.).
+K =enclosure coefficient, which may vary anywhere from 1/200 to 1/1,500.
+The following values of K are suggested:
+Preformed holes where the concrete comes in direct
+contact with the prestressing steel K= 1/1,000
+Galvanized metal enclosure K? l/1,000
+Ungalvanized metal enclosure K~ 1/500
+/= coefficient of friction between the prestressing steel and the walls of the
+enclosure, for which the following values may be used:
+Preformed holes f=0.50
+Galvanized enclosure /=0.20
+Ungalvanized enclosure /=0.30
+a = angle between the element at the jack and the element at the given point,
+in radians.
+x = length of the element between the jack and the given point. For the
+center line, x = l/ 2, where I= length of beam (ft).
+e = base of Naperian logarithms.
+For a further discussion of this subject, see the section on construction, under
+the heading ?Post-tensioning method? (p. 20)
+Ultimate strength
+It was at first proposed that the ultimate strength be at least 7)-f3.5 (L-\-I)
+or 2.25 (D-\-L-\-I), whichever is greater, but these values appeared to Muller {33),
+Preston (34), and Leonhardt (31) as being too conservative.
+It is the opinion of three authorities that a difference should be made between
+the ultimate load specified for under-reinforced and that for over-reinforced
+beams and slabs. It is well known that under-reinforced prestressed members
+tend to give plenty of warning of complete failure by excessive distortion whereas
+for over-reinforced members the failure is apt to take place suddenly. Hajnal-
+Konyi (28) suggests that the under-reinforced members should be designed to
+withstand 1.5 dead loads + 2.5 live loads at ultimate stresses whereas over-
+reinforced beams should be made to take 2 dead loads + 3 live loads. Dobell (22)
+suggests using for under-reinforced beams 1 D + 3 (L +7) or 2(7) +L + 7), whichever
+is greater; and for over-reinforced beams 17)+ 3.5(7/ +7) or 2.25(7) + L-l-7).
+Leonhardt (31) allows for the difference in safety factors by requiring the member
+to withstand 1.57)-|-27, in both cases, but, in conjunction with this, using the
+compressive strength of the concrete as 0.8 of the ultimate (o.Bf' c ). If, then, the
+
+
+concrete governs the strength of the member (the case of over-reinforcement),
+the effect of using o.Bf' c is to provide for
+I ? s �nit 2L==l - SSD + 2 ? 5L
+0.0
+whereas if the steel governs (the case of under-reinforcement) only 1.5 D +2L is
+provided for. Although not definitely stated, a difference of safety factors is
+also indicated by Fornerod {25).
+It was decided to use Dobell?s suggestion as regards under-reinforced beams;
+and to provide for the higher factor of safety for over-reinforced beams by using
+o.B f' c instead of I.of' e , as suggested by Leonhardt.
+The previous edition of these Bureau of Public Roads criteria permitted the
+distribution of ultimate live load over the whole width of the bridge. That feature
+has been omitted here in the interest of simplicity and consistency.
+Holley {29) raises the question as to whether the bond will hold when the loads
+approach the ultimate. It is true that these criteria do not specify the bond
+strength of the grout. Also, it is not known whether or not the ducts will slip in
+the beam even though the grout holds.
+Principal tensile stress
+Here again there is considerable difference of opinion among authorities.
+Muller {33) suggests 0.04/' c for the temporary stress during prestressing and
+0.02/' e for working loads; in case these values are exceeded, stirrups are to be
+designed to take the full shear (probably he means by shear the full principal
+tensile stresses). Hajnal-Konyi {2B) bases the criterion on the ultimate loads;
+thus, if the ultimate principal stress exceeds 0.5 modulus of rupture, stirrups should
+be used to take the full shear. Leonhardt {3l) would allow 0.015/ L for working
+loads where stirrups are not used and 0.04/' c where they are used. In the latter
+case the stirrups should be designed to take the full tensile stress.
+The ultimate principal tensile stress was fixed at 0.08/' c , but serious objections
+were raised. Muller {33), Garrett {26), and Leonhardt {3l) believe that 0.08/' c
+is much too low compared with? 0.04/' e for working stresses. Hajnal-Konyi {2B),
+Dobell {22), Siess {36), and Holley {29) all emphasize the fact that the principal
+tensile stress at ultimate load is largely meaningless, but Muller pointed out that
+some maximum value must be set to insure that the beam will not fail in shear.
+Hence the value 0.08/' c was retained.
+End anchorage bearing plates for prestressing steel
+According to Komendant {3O), formula 182 in his book Prestressed Concrete
+Structures {lO, p. 173) is based on tests and is empirical only. This formula states
+that the ultimate pressure under the plate is proportional to the square root of the
+ratio of beam-end area to bearing-plate area. Tests have demonstrated, he says,
+that the stress under the plate can be many times higher than the crushing
+strength. He also infers that the cube root of this ratio is also used by some
+designers (see, for example, 5, p. 286, formula 49). In addition, Komendant notes
+that the difference between the square-root and cube-root factors lies in the
+interpretation of stress distribution in concrete, factor of safety, etc.
+It was decided to adopt the more conservative of these values, i. e., to use the
+cube-root factor. On the other hand, it is proposed to place f' c as the maximum
+permissible limit of stress under the plate. Komendant {3O) apparently recom-
+mends the use of a working stress 50 to 80 percent of the ultimate under the plate,
+whether that ultimate is figured by the cube-root or square-root formula. Billig
+(5, p. 286) uses the cube-root formula without any safety factor, or one-half the
+ultimate, whichever value is less. If this ultimate means f' c the formula only
+
+
+f c k\bkd=f s a s _ _ _ _ .
+(1)
+where f c k\ is the average unit compressive stress.
+From equation (1):
+a s ??-k i bkd
+(2)
+allows 25 percent more stress under the plate than is allowed elsewhere in com-
+pression :
+0.5/.-0.4/. = 0. 25/ ,
+The formula given in the criteria specifies that the stress under the plate shall
+not exceed/' c which, in view of Komendant?s {3O) statement that the stress under
+the plate can be many times higher than the crushing stress, does not seem
+excessive.
+Computing ultimate strength of beam
+Various methods have been suggested for figuring the ultimate strength of pre-
+stressed structures. Billig, in his book Prestressed Concrete {5, pp. 260-279),
+suggests one of his own and then outlines six other methods.
+The method used in these criteria is believed to give accurate enough results in
+most cases and to have the advantage of being easy to apply. It is based on the
+following assumptions:
+Ultimate strain in the concrete {9, p. 14) e' c =o. 0016
+Ultimate strain in high-strength steel {27) e' 8 =O. 0105
+Strain in steel after creep and shrinkage but before live load {27) _ .e p =O. 005
+Additional strain in steel due to sufficient live load to cause the
+compression in the concrete in the vicinity of the steel to reduce
+to zero e' v ?O. 0002
+Concrete compression block at instant of failure is assumed rectangular rather
+than triangular.
+A balanced section is assumed to be one in which the steel and concrete fail
+simultaneously under ultimate load.
+Beams are said to be under-reinforced when they have less steel than would be
+required for a balanced section. They are assumed to fail by the stretching
+or fracture of the steel. This, in turn, causes the concrete to crush. The
+failure is generally preceded by serious deflections and distortions, which
+give plenty of warning.
+Over-reinforced beams fail by crushing of the concrete in the compression
+zone. The beam generally collapses suddenly. An additional safety factor
+is provided in this case by using o.B f' c instead of f c in the computations.
+For any loading, the compressive forces equal the tensile forces:
+Also, the strains are proportional to the distance of the element from the
+neutral axis;
+kd _ e c
+d{l ? k) e s ? eo
+where
+e 0 &j)~ I - &p.
+e c =unit strain in the extreme compression fibers of the concrete.
+e 8 = unit strain in the steel.
+from which
+
+
+Cs ? 6o +e c
+Where the assumed ultimate strength is reached in both the steel and concrete:
+fc-O.Sf'c, a, a b ? p p b b b d > and k 0-23.
+Since ki=l, for a rectangular compression block we have, from equation (2):
+n oq �- 8 /'o
+p 6 =0.23 ??
+7 s
+The ultimate bending moment for a balanced section is;
+m u = a bs f' s d (1 k 2 k)
+where k 2 kd is the distance of the centroid of compression from the compression
+face. For a rectangular compression block k 2 = 0.5 and, approximately:
+m u = 0.9 a bs f' s d.
+It should be noted that bis the width of section, assuming it rectangular. For
+any section other than rectangular, b is the average width of the compression
+block. In other words, b is the width of an equivalent rectangle having the
+same area and height as the compression block. Where a s is less than a bs :
+m u = o.9 a s f' s d (approximately).
+If a s is greater than a bs , the increase in a s is partly compensated for by the decrease
+in f's and (1 k 2 k). By trial it is found that the ultimate moment is approxi-
+mately :
+m u = o.9^ab s a s f' s d.
+Stirrups
+Where shear exceeds the shearing strength of a beam, cracks will occur. In an
+unprestressed concrete beam these cracks are most likely to occur near the re-
+actions and at an angle of 45� to the horizontal, because the shear is generally
+greater near the ends of the beam and because the average intensity of diagonal
+tension is maximum at this angle. It must be borne in mind, however, that
+neither of these statements apply to prestressed concrete. First, the shear cracks
+tend to occur, according to Abeles (19), nearer the points of maximum moment
+because it is in this vicinity that the concrete is most weakened by moment cracks.
+Second, the angle which the crack makes with the horizontal tends to be much
+less than 45� because the prestress resists cracking increasingly as the plane ap-
+proaches the vertical. It follows, therefore, that stirrups in prestressed beams
+may be placed wider apart than for nonprestressed beams because the maximum
+plane of rupture is flatter and engages more stirrups. In many prestressed designs
+the stirrups are entirely omitted because the prestress reduces the intensity of
+diagonal tension. On the other hand, while often not needed to resist diagonal
+tension, stirrups are still beneficial in holding a beam together near the ultimate
+load. These criteria recommend but do not require the use of stirrups, but it
+should be noted that when used they should be placed in the vicinity of maximum
+moment as well as that of maximum shear, i. e., all along the beam.
+Diaphragms
+Corning (21) selected tentatively 17 feet or 18 feet as a suitable distance be-
+tween diaphragms. Dobell (22) believes that no diaphragm spacing limits
+should be imposed, and he points out that the Neckar Canal highway bridge
+designed by Leonhardt has diaphragms spaced 30 feet on centers. Five Freyssinet
+
+
+bridges have diaphragms spaced 20 feet to 50 feet. A bridge designed by Magnet
+has diaphragms spaced 65 feet on centers. Diaphragms generally improve the
+design and, at times, are necessary, but the spacing of the diaphragms should be
+given on the plans and not in the specifications.
+Size, spacing, and cover of prestressing steel
+Requirements for size, spacing, and cover of prestressing steel appear to be
+somewhat controversial.
+Where dependence is placed entirely on bond, the size of the prestressing element
+must be limited. Muller (33) would permit %-inch diameter strands or perhaps
+diameter, and Capouch {2O) and Preston (34) think that %-inch diameter
+strands would not be too large. Garrett (26) believes that limiting the size of
+wire to 0.2-inch diameter is certainly very conservative. Eney (24) would limit
+the size of wire to 0.2 inch. It may be noted that the American Railway Engi-
+neering Association is testing wire strands up to diameter.
+It was decided to restrict the maximum wire size to 0.2 inch (5 mm.) and the
+maximum seven-wire strand to % inch (4, pp. 221, 223; 5, p. 446).
+The minimum spacing of wires is taken to be about the same as for ordinary
+reinforced concrete (i. e., 3d). A seven-wire strand is equivalent in area to a
+single wire dyj 7 in diameter; hence, the center-to-center distance should be
+3dV7 = Bd�.
+Preston (34) has an interesting way of spacing his prestressing elements. He
+draws a square around the element of such size that the area of the square multi-
+plied by the ultimate concrete stress equals the stress in the strand. Then he
+stipulates that these squares must not overlap.
+As regards cover, Dobell (22) and Leonhardt (31) would require at least 1 inch
+or half the diameter of the duct, whichever is greater. Muller (33) would delete
+all reference to the size of duct and make the minimum cover 1 to H/i inches.
+Billig ( 5 , p. 453) specifies inch or one diameter, whichever is greater, as the min-
+imum clear cover distance for prestressing members. It is believed, however,
+that these latter values are much too small. Certainly the prestressing steel
+should be embedded at least as much as for ordinary reinforced concrete. A
+minimum clear embedment of l}i inches or one diameter appears to be more
+reasonable.
+The limitation of spacing as regards the coarse aggregate is taken from that
+given in section 3.7.7.(a) of the AASHO Standard Specifications for Highway
+Bridges (1953) ( 1).
+Composite construction
+Billig (5, p. 451) suggests roughening the surface between precast and cast-in-
+place concrete and the use of stirrups.
+MATERIALS
+Prestressing reinforcement
+In writing specifications for prestressing steel it is often customary to express
+the ductility required in terms of elongation in 10 inches at ultimate stress. It
+is certainly true that a ductile steel is less apt to sudden failure during the pre-
+stressing process or when subjected to heavy live loads. On the other hand, it
+appears that the higher the strength of the steel the more difficult it is to obtain
+ductility.
+The Oregon State Highway Department (18), for a steel of 240,000 p. s. i.
+minimum strength, specifies an elongation of 2 percent in 10 inches; so does the
+
+
+Freyssinet Company ( 33 ), with the stipulation that the elongation must be
+measured outside the contraction both sides of the failure. Fornerod (25) suggests
+an elongation of 4 percent in 10 inches for 220,000 p. s. i. wire and 8 percent in 8
+inches for 145,000 p. s. i. bars. Williams (38) believes that 4 percent for wire
+would be a good average figure to specify.
+A somewhat greater elongation can be required for bars, as the ultimate stress
+is lower. The Mac Alloy bars used by the Preload Company (25) will show an
+elongation of s}i percent in 10 inches.
+The following references are also of interest. Dobell (22) suggests specifying
+25-percent reduction in area rather than the amount of elongation. Siess (86)
+would not permit the use of alloy bars. Simpson (37) believes that the specifying
+of 4-percent elongation for wire and 6-percent for bars would be much too high
+and would debar good steels from being used. He recommends 3 percent for wire
+and 4 percent in 20 diameters for bars.
+After considering all these suggestions it was decided to adopt Simpson?s advice.
+Testing
+The requirements for testing are modifications of similar clauses in the California
+Department of Public Works specifications (15).
+CONSTRUCTION
+General
+Skilled technician. ?The clause requiring the contractor to have a technician in
+the prestressing method used on the job comes from a Bureau specification (14)-
+Safety measures. ?The material on safety was written largely from Billig?s book
+Prestressed Concrete (5, p. 447).
+Concrete
+Vibration of concrete. ?There seems to be no objection among authorities to the
+vibration of concrete after pouring. Certain specifications, viz., the Prestressed
+Concrete Corporation (35) and the State highway departments of Connecticut
+(16), California (15), and Massachusetts (17), insist upon it. But there is some
+difference of opinion as to whether internal or external vibration should be used.
+Connecticut prefers external except for slabs, California internal, and Massa-
+chusetts apparently has no preference. Article 2.4.9 of the AASHO Standard
+Specifications for Highway Bridges (1953) (1) requires internal vibration unless
+special authorization of other methods is given by the engineer. Lewis (32) finds
+that internal vibration is often difficult with prestressed concrete because of the
+small spaces in which to work. He would require both internal and external
+vibration except where conditions dictate otherwise.
+Inasmuch as the question of the best method of vibrating depends to a large
+extent on the shape, size, and clearances of the members to be vibrated, it was
+thought best to permit the engineer to decide which to use.
+Curing of concrete. ?Steam curing of concrete has become quite common because
+it permits the early removal of forms. At least one other method has been devised
+which accomplishes the same thing: The concrete is mixed considerably wetter
+than with other methods and then, after depositing in the forms, the excess water
+is removed by applying a partial vacuum to the surface of the concrete.
+Air entrainment. ?It was thought best not to require air entrainment. Some
+designers believe that it limits the shrinkage to some extent. The State highway
+departments of Connecticut (16) and Massachusetts (17) both specify air entrain-
+ment for prestressed concrete. On the other hand, tests made a year or so ago by
+the Iron and Steel Institute (13, p. 106) do not substantiate this claim. Over a
+
+
+period of years the air-entrained beams showed almost exactly the same
+shrinkage as those containing no air-entraining material. Although the cement
+content and slump were almost exactly the same, the strength of the air-entrained
+specimens was about 20 percent less than those having no air entrainment.
+Transportation and storage
+Normally, prestressed beams not cast in place should be transported in such a
+manner that the points of support and direction of reactions during transportation
+are about the same as the beam will have in its final position. However, it was
+pointed out by Muller ( 33 ), Hajnal-Konyi (88), Dobell (22), and Komendant (SO)
+that it is often practical and expedient to transport in some other way. If the
+contractor elects to support the beam during transportation in a way other than
+that used in its final position, special precautions should be taken to avoid injury
+to the beam and the contractor should be held liable in case such injury occurs.
+Overstretching
+It has been customary on certain prestressed concrete jobs to overstretch the
+prestressing steel for a few minutes in order to decrease the creep after the steel
+is finally anchored. However, the practice seems to be losing favor.
+Muller (33) believes that the practice is not necessary for parallel-wire cables.
+Siess (36) claims that overstretching does little good. Garrett (26) and Capouch
+(20) disapprove of including a paragraph on overstretching in the specifications.
+Leonhardt (31) believes that overstretching is not necessary except for certain
+steels and wire ropes.
+It was decided, therefore, not to insist on overstretching, although under certain
+circumstances it may be advisable.
+Pretensioning method
+Muller (33) thinks that the minimum initial prestress should be 4,000 p. s. i.
+whereas Preston (34) and Capouch (20) want the minimum strength of concrete
+dependent on the size of the strand, the former believing that 3,000 p. s. i. concrete
+is all right for strands not over However, inasmuch as the relation be-
+tween size of strand, bond strength, and concrete compressive strength is not
+thoroughly understood, it was thought best to increase the minimum concrete
+strength to 3,500 p. s. i., irrespective of the size of strand. Notice that this stress
+applies at the time of transfer of the bond and not at 28 days.
+Post-tensioning method
+If, during the tensioning process, a considerable amount of friction exists be-
+tween wire, cable, or bar and the duct in which it is enclosed, the resulting tension
+at the ends of the member will be much greater than that at the center. But, in
+general, it is at the center of the beam where the most tension is needed. Where
+any considerable friction is evident during the tensioning process it should be
+either eliminated, allowed for in the design, or the beam rejected (17).
+The allowance for friction when making the design is especially emphasized by
+Muller (33), Hajnal-Konyi (28), and Dobell (22). Both Leonhardt (31) and
+Dobell (22) believe that, if the stress-strain curve is used instead of a general
+value for the modulus of elasticity, the computations based thereon should check
+the field measurements within 5 percent. It should be noted, however, that a
+small tension must be placed on the pretensioning elements prior to measuring
+the elongation in order to take up the slack. Garrett (26) suggests that 400
+p. s. i. tension is sufficient for this purpose.
+Bonded steel
+Requirement of bonding. ?It will be noted that these criteria require bonding of
+steel to the concrete ?wherever practicable.?
+
+
+Tests and theory both indicate that bonded prestressing steel produces a
+stronger beam than unbonded steel (#3). The reason seems to be that at ultimate
+loads the unbonded steel is stressed only a small amount above that produced by
+the jacks at the time it is prestressed ( 8 , p. 15) whereas the bonded steel runs up
+to the ultimate before failure (7, fig. 6, p. 192). Rather than prohibit the use of
+unbonded steel, it seemed best to provide for the difference of strength by the
+methods of computation. Both the Massachusetts Department of Public Works
+(17) and the Prestressed Concrete Corporation (35) use unbonded steel. German
+specifications published in 1950 also permit unbonded steel but they ?handicap?
+the unbonded design in much the same way as proposed here (23) .
+There seems to be considerable difference of opinion on this subject. Siess
+and Appleton (36) believe that bonding of the steel to the concrete should be
+mandatory unless tests prove otherwise. On the other hand, Preston (34) is not
+at all sure that bonding is needed, Dobell (22) and Garrett (26) disapprove of
+showing any preference in the specifications for bonded prestressing steel, and
+Simpson (37) would approve unbonded steel under certain circumstances.
+Grout. ?As to pressure grouting, Dobell (22) believes that it should not be re-
+quired. He says the Sclayn bridge would not pass this requirement. As to grout
+mix and consistency, the Connecticut State Highway Department (16) uses 1.3
+parts Portland cement, 1 part fine sand, surface dry, and 1 part water, by volume.
+If the volume of the cement is taken as unity, these ratios become, approximately,
+Portland cement 1 part, surface-dry sand 0.75 part, and water 0.75 part ?the
+proportions suggested in these criteria. Connecticut gives the pressure required
+in the grouting process to be 80 to 100 p. s. i.
+Muller (33) seems to be in accord with the proportions mentioned above except
+that he wants it made clear that neat cement grout may, in some cases, be the
+best. This has been emphasized in the criteria.
+The California Department of Public Works (15) uses a 1-to-l mix for the grout
+and does not specify the water content. Inasmuch as most modern authorities
+claim that the strength of mortar and concrete depend very largely on the water-
+cement ratio, it is believed to be essential that the water content of the mortar
+should be specified.
+The Oregon State Highway Department (18) specifies 1.3 parts Portland ce-
+ment, 0.7 part sand passing No. 40 sieve, and 1.0 part water.
+Leonhardt (31) points out the importance of water in specifying grout. Of
+course, it is also necessary to have the grout fluid enough to penetrate all the voids
+as intended. In case the required fluidity is not attained by adhering to the
+given proportions of cement, sand, and water, the quantity of sand should be re-
+duced. Also, if a ?thick-paint? consistency can be secured by using a little less
+water, so much the better. For these reasons it was thought best to specify the
+maximum proportion of sand and water rather than their definite values. Another
+element tending to prevent the damming up of the grout during its passage
+through the ducts is the fineness of the sand. The Connecticut State Highway
+Department (16) requires that the sand grain be not over %4-inch. On the
+Tampa Bay Bridge }i part fly ash and % part screened and washed beach sand was
+specified (6) as the fine aggregate for the grout. The final pressure on the grout
+was 35 p. s. i.
+It was decided to require that all sand pass a No. 30 sieve. While this permits
+a sand somewhat coarser than that specified by Oregon, it is believed that the
+No. 30 sieve would be somewhat easier to obtain (being one of those used for the
+fineness-modulus test of sand) and at the same time give a sand fine enough under
+the circumstances. The largest sand grain passing a No. 30 sieve is about }�o-inch
+diameter.
+The admixture of aluminum powder to grout in very small proportions has
+been found to produce minute bubbles of hydrogen which cause the grout to
+
+
+swell and fill the voids more completely. Where the grout is confined, the addi-
+tion of aluminum affects the strength but little {11). While not required by these
+criteria, the use of aluminum is permitted. The method of mixing is taken from
+a Bureau specification (14)-
+Unbonded steel
+There seems to be little objection to the galvanizing of unbonded steel except
+that, as pointed out by Dobell {22). steel bars cannot easily be galvanized. Simp-
+son {37) also notes that substitutes for galvanizing should be permitted. Dobell
+{22) suggests }lj2-inch coating of tar where galvanizing is not practicable and
+Capouch {2O) would dispense with the tar coating wherever galvanizing is prac-
+ticable. Note that the criteria as now written require, where practicable, both
+galvanizing and tar coating.
+Placing and fastening steel
+The clauses on placing and fastening steel were taken almost without change
+from the California Department of Public Works specifications {l5).
+Enclosures; Prestressing
+*
+The clauses on enclosures and on prestressing are modifications of similar
+clauses in the California Department of Public Works specifications {l6).
+Muller {33), Dobell {22), and Leonhardt {3l) all agree that }4-inch clearance
+between the size of the prestressing element and the duct containing it is about
+right. Eney {24) and Lewis {32) are both opposed to the requirement that all
+ducts shall be metallic.
+
+
+References
+PUBLICATIONS
+(1) American Association of State Highway Officials
+Standard Specifications for Highway Bridges, adopted by the American
+Association of State Highway Officials. Sixth edition, 1953. Published by the
+Association, 917 National Press Bldg., Washington 4, D. C.
+(2) American Concrete Institute
+Proposed definitions and notations for prestressed concrete. Report of Joint
+ACI-ASCE Committee 323, Prestressed Concrete. Journal of the American
+Concrete Institute, vol. 24, No. 2, October 1952.
+(3) Appleton, J. H.
+Tests of a full-size prestressed concrete block beam. Engineering Experiment
+Station, University of Illinois, Urbana, 111., June 1952. (Processed; presumably
+not generally available.)
+(4) Baskin, B. J.
+Prestressing applied to the manufacture of precast reinforced concrete bridge
+beams. Proceedings of the First United States Conference on Prestressed Con-
+crete, Massachusetts Institute of Technology, Cambridge, Mass., August 14-16,
+1951.
+(5) Billig, Kurt
+Prestressed Concrete. D. Van Nostrand Co., Inc., New Aork, N. A., 1953.
+(6) Dean, W. E.
+Tests establish construction procedures for prestressed beams in Tampa Bay
+Bridge. Civil Engineering, vol. 23, No. 1, January 1953.
+(7) Germundsson, Thorbjorn
+Prestressed concrete design concepts. Proceedings of the First United States
+Conference on Prestressed Concrete, Alassachusetts Institute of technology,
+Cambridge, Mass., August 14-16, 1951.
+(8) Hechtman, R. A., Ratti, D. 8., and Wang, T. P.
+First progress report on structural behavior of prestressed concrete beams and
+slabs: Part 1. ?Structural behavior of post-tensioned concrete beams. University of
+Washington, Department of Civil Engineering, Seattle, W ash., April 2, 1952.
+(Processed; presumably not generally available.)
+{9) Jensen, Vernon P.
+Ultimate strength of reinforced concrete beams as related to the plasticity ratio
+of concrete. Engineering Experiment Station Bulletin No. 345, I niversity of
+Illinois, Urbana, 111., June 22, 1943.
+{10) Komendant, August E.
+Prestressed Concrete Structures, First edition, 1952. McGraw-Hill Book
+Co., New AMrk, N. Y.
+
+
+{11) Menzel, Carl A.
+Some factors influencing the strength of concrete containing admixtures of
+powdered aluminum. Journal of the American Concrete Institute, vol. 14, No.
+3, January 1943.
+{l2) Portland Cement Association
+Modern developments in reinforced concrete. Structural Bureau, Portland
+Cement Association, Chicago, 111., 1951.
+{l3) Washa, G. W., and Pluck, P. G.
+Effect of compressive reinforcement on the plastic flow of reinforced concrete
+beams. Journal of the American Concrete Institute, vol. 24, No. 2, October 1952.
+SPECIFICATIONS
+{lff) Bureau of Public Roads
+Revised specifications, change order No. 1; Item 208. ?Precast and pre-
+stressed bridge slab units. Alaska Forest Highway Project FH 32-A2, Eyak
+River Bridge.
+{l5) California Department of Public AVorks
+Special provisions, proposal, and contract for constructing a bridge and ap-
+proaches on State highway in Fresno County, District VI, Route 4, sec. Fre.
+{l6) Connecticut State Highway Department
+Special provisions, superstructure of bridge over Hubbard Street on East
+Hartford-Glastonbury Expressway, project No. 53-77.
+{l7) Massachusetts Department of Public AVorks
+Specification item G 15-1, prestressed concrete beams.
+{18) Oregon State Highway Department
+Specifications for prestressed concrete, and Item 208 ?Precast and post-
+tensioned girders and cast-in-place and post-tensioned diaphragms.
+ACKNOWLEDGMENTS
+Comments received in correspondence from the following, all experts in
+the field of prestressed concrete, have been invaluable in the preparation of
+these criteria. Their cooperation is gratefully acknowledged .
+{l9) Abeles, Paul AVilliam. Consulting engineer, Civil Engineering Depart-
+ment, The Railway Executive, London, England.
+{2O) Capouch, M. E. Manager, Construction Materials Sales, American Steel
+and AVire Division, United States Steel Corporation, Cleveland, Ohio.
+{2l) Corning, L. H. Manager, Structural and Railways Bureau, Portland
+Cement Association, Chicago, 111.
+{2l A) Dean, AV. E. Engineer of Bridges, Florida State Road Department.
+{22) Dobell, Curzon. President, Preload Engineers, Inc., Arlington, Va., and
+The Preload Company, Inc., New York, N. Y.
+{23) Dunn, J. E. AVashington Manager, Portland Cement Association, AVash-
+ington, D. C.
+{2ff) Eney, AVilliam Joseph. Head, Department of Civil Engineering and
+Mechanics, and Director, Fritz Engineering Laboratory, Lehigh University,
+Bethlehem, Pa.
+
+
+Fornerod, Marcel F. Chief Engineer, The Preload Company, New York,
+N. Y.
+Garrett, C. L. Structural and Railways Bureau, Portland Cement Asso-
+ciation, Chicago, 111.
+Germtjndsson, Thorbjorn. Manager, Structural and Railways Bureau,
+Portland Cement Association, Chicago, 111.
+Hajnal-Konyi, Kalman. Consulting engineer, London, England.
+Holley, Myle J., Jr. Associate professor of structural engineering, De-
+partment of Civil and Sanitary Engineering, Massachusetts Institute of
+Technology, Cambridge, Mass.
+Komendant, August E. Consulting engineer, New York, N. Y.
+Lbonhardt, Fritz. Government engineer, Bureau of Bridges and Struc-
+tures, Stuttgart, Germany.
+Lewis, Joel R. Highway Bridge Engineer, Hawaii District Office, Bureau
+of Public Roads.
+Muller, Jean. Chief Engineer, Freyssinet Company, Inc., New York,
+N. Y.
+Preston, Howard Kent. Engineer, Construction Materials Division,
+John A. Roebling?s Sons Corp., Trenton, N. J.
+Prestressed Concrete Corporation, Kansas City, Mo.
+Siess, Chester Paul, and Appleton, J. H. Department of Civil Engineer-
+ing, University of Illinois, Urbana, 111.
+Simpson, Howard. Assistant Professor of Structural Engineering, Depart-
+ment of Civil and Sanitary Engineering, Massachusetts Institute of Tech-
+nology, Cambridge, Mass.
+Williams, Morgan. Metallurgist, Bureau of Standards.
+
+
+3 1508 01373408 7
+
+
+
+

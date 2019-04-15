@@ -1,0 +1,807 @@
+
+
+I '
+* ’isr^v-
+ipWfWl? 1 h.p. Type “RY” Air Cooled 4 Cycle
+Engine
+rf
+I
+: ■ li\
+
+
+How to Start
+1. Be sure crankcase is filled with oil—see “Lubrication,” page 3.
+2. Fill base with petrol.
+3. Pull upon choke button. Do not, however, use the choke to start when
+engine is warm, unless necessary.
+4. Turn engine back until compression is felt. Put knotted end of cord
+through slot in starting pulley and wind cord tightly over top of and around
+pulley until ball on other end is close to pulley. Grasp ball in hand, and,
+standing back from engine, pull smartly on cord, when engine should start.
+Illustration shows what is required.
+5. Push choke button in gradually immediately engine starts.
+How to Stop
+Press stop button at the back of flywheel housing. See illustration, page 1
+f '-‘Till i l lHf -
+
+
+. . —*~ r ~7T r
+Lubrication
+buonbunon
+Lubrication of moving parts is accomplished by the SPLASH system. The
+cam gear operates in an oil sump in such manner that oil is picked up between
+the teeth of the gear and is forced out with considerable pressure as the teeth
+of this gear mesh with those of the crankshaft gear. The spray of oil from
+the gears is picked up by the revolving crankshaft and is distributed throughout
+the crankshaft and cylinder. Thus, an ample supply of oil reaches all bearings
+and bearing surfaces. i
+It is essential that the crankcase be kept full of oil. With the engine in
+constant work the oil level should be inspected daily and “topped up” as
+needed. Oil circulation commences the instant the engine is started.
+The use of an S.A.E. No. 20 oil, manufactured by a reputable concern, is
+recommended.
+Care of Fuel System
+No difficulty should be experienced with this system if good, clean petrol
+is used and is poured into the base from a clean container and funnel—be sure
+both are clean. See that plug with hole is always screwed into petrol tank. Do
+not confuse it with oil filler plug in crankcase.
+The check valve assembly at the bottom of the fuel pipe, in the base,
+should be removed periodically for cleaning. Simply blow through the pipe
+from the screened end after washing the screen in petrol; it is not necessary
+to take the check valve assembly apart.
+When connecting fuel pipe again make certain connections are airtight.
+This is important, since the carburettor is of the vacuum lift type and air
+seepage at either end of fuel pipe will result in hard starting and faulty
+operation.
+Carburettor Adjustment
+When adjustment of carburettor is found necessary, proceed as follows: —
+1. Turn needle valve to right until it rests gently on its seat. In no
+circumstances screw it down tightly, as this will injure both needle and seat,
+and make it difficult to obtain satisfactory adjustment thereafter.
+2. Unscrew needle valve approximately | turn.
+3. Start engine, and allow to run under load until normal operating
+temperature is reached.
+4. Turn needle valve
+slowly to right until engine
+loses speed through mix-
+ture having become too
+lean. Note position of
+marker, and then turn
+needle valve slowly to left
+until engine appears to
+labour and the speed drops
+slightly. Note position of
+marker again, then slowly
+turn needle valve to right
+until it is midway between
+the lean and the rich set'
+tings. On an average, this
+will result in the valve be-
+ing about half a turn open
+under full load when en-
+gine is warm.
+
+
+If the carburettor throttle lever has been removed, or if it needs adjust'
+ment, turn butterfly valve (see “Governor Throttle Control”) to right until
+completely closed, then, with governor arm in wide'Open position, replace
+throttle lever on butterfly shaft. Draw up lightly on screw, rotate throttle
+lever to right until governor arm is parallel with, or slightly beyond, crankshaft,
+then tighten lever screw.
+Governor Throttle Control
+The engine is
+designed to
+operate at speed
+shown on name
+plate, and the
+carburettor is
+constructed with
+a butterfly valve
+controlled by a
+mechanical gov-
+ernor as the en-
+gine load varies.
+The governor
+is built on to the
+crankshaft and is
+of the fly'weight
+centrifugal type,
+connected to the
+carburettor valve
+by means of a
+small crank arm
+and link.
+While the em
+gine is motion'
+less the butterfly
+valve is held
+open by a small
+spring attached
+to the control
+link, but upon its
+being started the
+governor weights
+are thrown out'
+wards, due to centrifugal force, thus causing movement of the governor arm
+which results in partial closing of the butterfly valve, with a consequent reduc-
+tion of the charge admitted to the cylinder. As the engine speed increases the
+greater is the effect on the governor weights, and the resultant movement of
+the governor arm will close the butterfly valve to the point where correct
+speed is maintained.
+Any increase in the load put on the engine will cause a drop in the
+revolutions, thereby diminishing the centrifugal force on the governor weights,
+which action will result in the butterfly valve opening to admit a larger charge
+until normal engine speed has been reached.
+Governor control is adjusted at the factory and should not be altered.
+
+
+To Adjust Engine Speed
+The speed of the engine is controlled by the action of the governor and
+the tension of the governor spring, therefore, any change in the tension ot
+this spring will affect the speed.
+Since the spring acts to hold the butterfly valve open to admit a full
+charge to the cylinder, a decrease in tension will result in slower engine speed.
+An increase in the speed is then obtained by increasing the tension of the spring.
+If it is thought that the engine is not running at right speed, use an
+indicator on the crankshaft to check it. If the speed is higher than that uv
+dicated on name
+plate slacken tern
+sion of the
+spring. If the
+speed be found
+lower than it
+should be, it
+may be raised
+simply by in-
+creasing tension.
+CAUTION.
+Do not attempt
+to stretch the
+governor
+spring. Any
+change in its
+a length will ren-
+* der it useless for obtaining correct speed and speed variation.
+Cooling
+The fins on the cylinder and cylinder head of the engine radiate excess
+* heat generated within the cylinder.
+To ensure ample supply of air for cooling purposes under all conditions
+a blower system is built into the engine. The system comprises a series of air
+fins cast on to the face of the flywheel which is covered by a shroud the
+purpose of which is to direct a blast of air continuously on to the cylinder
+and cylinder head. This system ensures the maintenance of a satisfactory
+operating temperature.
+The cooling system requires no attention. In the event of overheating
+consult the Trouble Chart, page 14.
+
+
+The Magneto
+This is a selTcontained unit and consists, chiefly, of an armature plate
+on which are mounted ignition coil, condenser, and breaker points, with a
+permanent magnet built into the flywheel.
+Its operation is extremely simple. As the pole pieces of the magnet pass
+over the heels of the coil a magnetic field is built up about the coil, causing
+current to flow through the primary winding.
+At the pro-
+per time the
+breaker points
+are opened by
+the action of a
+"flat" machined
+on the crank
+shaft, thus
+breaking tht
+primary circuit
+This stops the
+flow of primary)
+current, causing
+the magnetic
+field about the
+coil to break
+down instantly,
+thereby indue' J
+ing an clectri- [
+cal current of ■
+high voltage in .
+the fine sec-
+ondary winding
+of the coil. • This high voltage current is carried to the spark plug where it
+jumps the gap between the points, to ignite the compressed charge in the
+Owing to its rugged construction the magneto may be relied upon to
+function efficiently throughout the life of the engine. It needs no lubrication,
+and no attention other than an occasional inspection of the breaker points and
+spark plug connection.
+Care of Ignition System
+SPARK PLUG—Remove occasionally for cleaning and adjustment oi
+points, the correct gap between which is .020".
+Examine insulator of plug for cracks, as hard starting, missing and faulty
+running of engine are often caused by a defective insulator.
+Be sure insulator is both clean and dry before replacing plug. Wipe off
+any traces of moisture with dry cloth.
+Test the plug by placing it, with cable attached, on cylinder head of engine,
+and turn engine over to observe the spark between points. In a very bright
+light the spark may not be visible, but a pronounced “snap” is audible when
+sparking takes place.
+
+
+IMPORTANT. —-When a new plug is required be sure to get one with a
+14 mm. thread.
+MAGNETO. —In no circumstances tamper with this unless it is evident
+that the hard starting and faulty running of engine is due to some irregularity
+in the magneto.
+Before attempting adjustments, remove cable from spark plug and hold
+terminal on cable about from cylinder head, and turn engine over. If
+there is no spark between terminal and engine, or only a weak one, the
+trouble will most likely result from improperly adjusted, pitted, or corroded
+breaker points. In such case it is necessary to remove the flywheel.
+Proceed as follows: —Remove shroud covering flywheel, then flywheel
+nut and grooved starting pulley. Get someone to grasp the rim of the
+flywheel, to absorb shock, then strike end of crankshaft a light blow with a
+mallet or piece of wood. One or two blows usually suffice. BE CAREFUL
+NOT TO INJURE END OF CRANKSHAFT.
+Any risk of injury to the crankshaft can he avoided by using a
+simple flywheel puller obtainable at low cost from the factory.
+To examine the points, spread them with a blunt instrument. If pitted
+or corroded, turn crankshaft until points close, then insert a small, flat file
+between them. Draw file gently back and forth to dress down the points.
+To check breaker point gap, turn crankshaft slowly until points have
+opened wide. Insert feeler gauge between points —correct gap setting is .012".
+If necessary to make corrections, loosen breaker plate adjusting screw —
+see page 6. Increase the gap by moving breaker assembly towards crankshaft;
+reduce it by moving the assembly in opposite direction. NOTE. —Breaker gap
+is governed by distance from follower to centre of crankshaft when passing
+over flat section.
+Tighten breaker plate adjusting screw.
+Replace flywheel, pulley and nut, making certain flywheel key is properly
+placed in key way. THIS IS IMPORTANT.
+Tighten nut with large wrench.
+Replace shroud. Attach cable to plug and start engine as directed
+Allow to run for 1015 minutes, then stop and re-tighten flywheel nut.
+CAUTION. —A loose flywheel will result in the engine knocking, in
+irregular running, in flywheel hub cracking, and in possible injury to both
+engine and operator.
+Removing Carbon and the Care of Valves
+After a long period of operation it may be necessary to detach the
+cylinder head to remove carbon from the combustion chamber, the head of
+the piston and the valves.
+Scrape off the carbon with a blunt instrument, taking care not to scratch
+the head of piston. After scraping, wash cylinder head, head of piston, valves
+and gasket with petrol.
+
+
+Excess carbon deposit should be removed, also, from the valve seats and
+the valves. To do this turn flywheel slowly until one valve has opened; apply
+small quantity of kerosene to valve and seat; turn flywheel until valve closes,
+making sure valve has seated; turn valve back and forth with valve-grinding
+tool to work off carbon from both valve and its seat.
+Adopt same procedure with the other valve.
+GRINDING VALVES. —If the valves or valve seats are badly pitted,
+the valves must be ground in if loss of compression is to be overcome. This
+necessitates the removal of the cylinder from the crankcase, as well, of course,
+as the head from the cylinder, likewise the taking-off of the flywheel, shroud
+and starting pulley as directed on page 7 under “Magneto.”
+Remove the nuts from crankcase studs and lift cylinder off. Compress
+valve springs to withdraw retainer pins. Remove valves, retainers and springs
+Note that exhaust valve is distinguished by marking not found on the inlet
+valve, and care must be taken, when replacing valves, to see that each is put
+back into its right place.
+Scrape excess carbon from heads and stems of valves, and from valve
+guides and seats in cylinder block, then wash with petrol.
+Next, coat the face of valve with medium-fine valve-grinding compound.
+Replace valve in guide and grind in by turning back and forth with
+valve-grinding tool, making sure the valve is on its seat. Two minutes of
+grinding should be sufficient for each valve.
+With petrol, wash off from both valves and seats all traces of the grinding
+compound, taking care that none of the compound is washed into the engine
+cylinder or the valve guides. Replace valves in their respective guides, as
+stated previously.
+Now check
+tappet clearance.
+This is done by
+seeing that the
+ends of the valve
+stems (with the
+valves seated)
+are flush with
+the base of the
+cylinder, and
+that the tappets
+are flush with
+the face of the
+crankcase as
+shown in this
+illustration and
+that on page 9.
+When the gasket
+is in position be-
+tween crankcase
+and cylinder the
+necessary tappet clearance (.010" to
+.012") is provided.
+
+
+Should it
+be found,
+however, that
+the valve
+stems pro-
+trude beyond
+the base of
+cylinder,
+grind the
+ends of the
+stems care-
+fully until
+they are flush
+with the base.
+Make certain
+that the end
+is ground off
+square with
+stem. The
+tappets are
+adjusted flush
+with the crankcase, at the factory, and should require no attention other than
+an inspection at intervals. Now reassemble valves, springs and retainers in
+the order in which they were taken apart. .
+Coat both sides of the gasket lightly with grease, place it in position over
+the studs in crankcase, and replace cylinder in position, compressing the piston
+rings slightly to facilitate piston entering cylinder. Take care not to break,
+or even bend, rings. A sprung ring will never seal properly.
+Replace nuts on crankcase studs and tighten them evenly—each one a
+little at a time. Then replace cylinder head.
+Next, replace armature plate, flywheel and shroud as instructed on page 7.
+IMPORTANT. —Be sure flywheel nut is tight. Run the engine for from 10 to 15
+minutes, then re-tighten nut. .Serious injury to both crankshaft and flywheel will result
+if engine be run with flywheel nut loose.
+Timing
+Ignition. —Since set ignition timing, without either advance or retard, is
+provided in the engine, the timing of the ignition is done at the factory and
+cannot be altered. The width of the breaker point gap, of course, has some
+effect on timing, nevertheless, if the breaker points be adjusted in accordance
+with directions given on page 7, the timing will be correct.
+Valves.—The valves were pro-
+perly timed before the engine left the
+factory. However, if the engine has
+been taken down and the valves thus
+thrown out of timing, proceed as
+follows to re'time them: —Note the
+punch marks on cam gear and crank'
+shaft gear. Put crankshaft in engine
+with the punch-marked tooth of the
+gear downwards, as shown in the
+illustration. Then insert the cam-
+shaft in the engine so that the
+marked tooth of the crankshaft gear
+is between the two marked teeth of
+the cam gear.
+
+
+—
+MI 2181
+i
+i
+r > ♦
+IVI2172
+mm
+m • • •
+c
+IF*
+• •
+j
+> M2105 |
+H
+c
+R M 2100 m 1
+jm
+!
+1
+M 2173
+"^ v^ r^M217fi
+• •
+■ ■;■ «
+t
+• • .
+? IVI2507
+M917R
+• •
+%
+11 M 1M 2085
+M 2124
+M 1 4
+ipsisift.
+• *
+M2097^
+jeg
+I
+M2111 1
+MM ,q
+M2025 M2029 M 2028 C
+■
+13(14 K 0
+«
+M38
+171202^^
+.J**
+HP I
+=
+M2° 33
+.
+M 2022 *
+1 M2104
+w
+’■0k 1
+M 2034 v
+M2023 1
+, w .|.IH»«-‘. .
+■ - —”
+I
+f**:
+4 " 1
+j-
+/
+M2024 ]
+!Sfj |
+rri ; i
+pi
+.„,„ii..i— ■■ |
+#- r
+‘ •■^* a 7 1
+M2086 l|
+*
+\
+r"
+M2170
+fS?
+r wl i ll
+M2500
+ft M2180
+# 1
+■
+M 2055 O
+M?mq
+M2181
+" igy ||Bi »!i
+\
+S«-
+§ !
+I
+P M2005
+fc-A : . ..
+„ M2052 M2056
+■ I
+imQ
+© 0
+i 1
+T? o
+B.
+J
+M2179
+M2173 M 21 72 J
+M 2130
+, M9ni7P.
+m i. m i"
+'t* 6ae m*'
+M 2053
+I M 2020
+i M
+iTarnmnif
+m
+w sasQ|
+1.
+xmt nr nr M2006
+....
+W IV 2!31 M2159
+,
+_2SS?>
+SSSS3
+n
+u -
+IVI^U4DU
+1
+M 2509
+w
+1 s
+M 2107 C M 2037 C
+If
+P 8-
+— 8 ir^r
+■I M 2101 1
+O
+M2010
+(M25nl
+H M?nn?
+rt M 2039 V
+1
+IPi
+vy IVJ2003 M2003E
+plil\ M 2043 B
+i
+fa
+®>M2016 v
+M 2109
+K/OOOVf C
+M 2108 M2044 M 2043 A M2038C
+K 2
+M2042
+M2013C
+i
+M 201 5
+ENGINE PARTS
+
+
+ENGINE PARTS I
+I 1 t o
+0 HHrtrtHHHHHHHHHHIHHNBM *1- X fl NHH IH HHH H t)HH NH T" '5 7~
+a S u 00
+1 II
+I |.| I I i I [ I I I I I I j I i i IS I 15 IS 15 |SS j 1 M ; i I i I * - Ul
+II IMMIM M M I I I Mfs Is ii is i|s iMiIMI I I I s | w
+i :•i i : ■lgJ:> I « :£ : :lli : i i : = -a ■“ 3
+|::j:j|j\ | j i : | | j ! I j*« |S |S |*£ jf :::; | j j || i I •
+I I'i iI M 1111111 Mif l|*J j!e Is ill ll I; nIMI ! i i | t - -o
+i! ir-iii i 11 ill ii il.isll :| if jl is m i m\k :||g
+!:: : :: : : : : : : : :p*oPcT,Cm®*3 5 : : c i : 2 i :: C fcf :I _ £ :• o : •4• . • _ £ O %
+MMUMI i If M M Mi* i|| i*i|M ! M i MV 8 . u
+IM I M 111~ l| 1111 if|®|ls? l| l| |i| Is 111 If 11 ici *ll
+! I I ! I M i if if i i i i i|* l| ii i |« ig i“ I ig i I :l« i ° I ,fc
+I : 111 § 111 s|i| ni! ;|§i is ii l ii it i 11 mll i 3
+If®l : : is :il mins ! & i|| =i '■ \>>* isl«s i :*s| mlsi*l=i»ll:£i« I is : > ,3 : i :•| n:i:•:gisS: 88 3 • IT I « 2
+i 1U!II 5- i 9 |5« I :g|*g .;|g| j| :g j | |g| j :■§ |S :„ g g S g *■ .
+0 f 3h w s§ m Iff i| i| if i|s ifi i i|li| l«*l lit : isil«ii l : is Ui§ .Mt| I\*;cif il i£*i I|ls * 3 M SS HI to
+i iS| . 12 i*ii ;1 ib
+||o||||| jH j|| i | s||| £ ->ip 2 -||» t |„| s rs«| f I 3 0
+>; mS hJ b jga si g-« I 5 *°
+ol||££hh|l||«EE|¥s«w4%S w r, r,4 8 I +■ z
+* SS|/)
+• s a • O
+1 SSSiSiiiiiiSiiSSlSiiiSS i i iS'SsSiSSiSSsSi f "* E -
+i c“
+« A M
+W Nrt-tinSN ■_
+i D-“
+MMiii- M i 111 Mi! 1! |! IMM!i i I M i! Ii 11 Ilim M-E°
+II NMIfIMnMM M i i M M 11 MMiiilM M II i M i M S o
+lili I i i iIISIi i i I i S liiilll I i I i I i I |illil I i j i : i ® 5
+MIN Ml 11 ii iN i i 11M M 1 MMI |J i MIIM M? M M ’<
+111111 is i 11| ii i 111111 M’i 11f| Miinim| ! i i M i iSnc
+II nll il 11 il ii; liiii N i m I: if if miM i i i ig: i: i: I s
+II s iII"IMII i H I i M I I i" l |“ i :i ! ME;; : M i “j
+i 1! 1111 il 11 if II! i 11111 Mll Miff ipl iiiiii i i I >=
+8 • : I •« i :C » S ;2s 5:::: : ID : : !S 9
+* I! iiiiil i mi IM I i M lll m 1 hi ilfS i| i I it! Ifll i I
+* 11 iI i i I* : 11 1 iisMi| Ms i i|l| iflll ilg i-g ij Ii L 2
+: : S J S • I'' : S - 2 ‘ : a : I 5l : ® ® 2 « : i- I § I 5 : : D
+INN lllljsl j !| ii| |B i|« il • | M il jl- | || u
+i:iijo | I i- i i'g'aiw.Maf its |l :z "* i "111® 1 ® !«1 ««|”J |2S -f ijc lr Sl5 : “-s-g-g E M g-a =»i= ! i« ige |wo §£.2 Sif
+S i| §| ai s §SSs: I|| s u cg| c
+e Sooug®*
+g 1 w u _
+>sw||>ss wuuaSSSSSSMMaKWodllilslifilllltlg^Molull
+S M Q O O ©o <S3 O o fll
+•g N« co »o co oco m—
+a -HHHHNNN«NNciHSnnnnnMmn2«<(i?SBBOBB«»KKffio >C
+a 00000000 oooooooooooooooocSgooooooooooooooooooH
+5 ■22 222522252£2 222 n ««SS nn 2S nn nnnn««nn«n
+» SSSSSSSS SSSSSSSSSSSSSSSSSSsSgSSSSSSSSSSSSSSSSJS
+11
+
+
+•8 IGNITION SYSTEM PARTS lj o jE gj
+3 """ - 1| Q.O a
+0 - •— Ca OC
+\j H iisj i 2 i; 11 i-s |II i i Mis i s il IT 3 § " °
+II i i !«i s is IIIISIM” M i i S” i |i| I|* -SSz
+\l M 11 1M a I s Mg M | I || j< -o °
+|| 11 ih* 1< ili<ili is 11 ig|« iee> ii i s | S g z
+1 iii \%n& i*uilii! >■ 21
+■5 ’sfi lamiass ii i z*
+& |l| h§illjt3ss^“;psill“3-2 \ztrtzl i! & u sa
+SSS&BS u_<u -2ot! ■" «3 n « &££££ «S u'C c O.J.Q g E gfg’S DP*j"n*jo. t.® Eo •rt t- TE >
+< Ooa£)« cd o <*> EtflOOjjKh _ .-i Z c/3 - n > ftS
+* * * * * ** * * ®t ° Ul
+< OO O O GO O2aC ti £
+JJ r~ 00 O' O C-» rttir'OMOOn £J ."S fS B « fit » >
+_Q mro-t TM- 'T I/' V' vO 'O <5 vO t * jjj ■—
+§ N(S(S(SNN nnn nrJn oi n NNr)(sSNMr) r-i nrt r-i r-i n 2£ 5
+I S2SSSS SSS 55222 S2S22SSS 2SS2SS T £ =Z
+u
+©5 1 O?: ©?3 —
+s s s s sss S =
+<^asaw»« a^..l , p— =a) S
+fCj)i I «E®fc|
+S s s
+12 :
+
+
+M 2094 ©
+ri
+M2093
+Number.
+Description.
+No. Used.
+** I
+B
+o
+M2057
+Carburettor Body with Needle Valve Seat and
+i
+M2092J
+M2106
+M2057C
+M2061
+M2062
+Carburettor, complete
+Carburettor Needle Valve
+Needle Valve Spring
+i
+i
+i
+M2063
+Needle Valve Packing
+i
+M2087C
+M2065
+M2066
+*t_>hoke opmdle, Lever and owivel Assembly ....
+i
+%
+P6439
+i
+M2076C
+|M2082
+P6439 ||
+& 0
+M2068
+M2071
+M2072
+Choke Spindle Spring Washers
+Choke Swivel Screw
+J
+i
+1
+B»> M2177
+hi
+M2072
+M 2068
+M2073
+Throttle Spindle •.
+i
+* H-*
+jXS^sS
+M 2061
+1 o
+1 M 2066
+M2074
+M2076C
+M2082
+Throttle Valve
+*Air Valve Plate Assembly
+i
+i
+i
+m
+M 2062
+M2087C
+i
+M2092
+M2093
+M2094
+M2102
+M2106
+M2177
+* Assemb'
+Fuel Pipe, only '.
+Fuel Pipe Cap
+1
+2
+S
+M2063
+1 BC
+M 2065 11 •
+M2071
+Gasket (Carburettor) State number wanted
+Gasket Washer for Check Valve 1
+Air Valve Plate Screws 3
+ies marked thus will be supplied only as illustrated or
+ever, be had separately.
+w
+When
+in list
+ordering, carefully check
+with parts required and
+description
+USE BOTH
+m 2074 (V12073
+M 2057 G
+M2102
+NUMBER AND DEbUKIMIUN UN UKUCK.
+FUEL SYSTEM PARTS
+
+
+n yz\ u-i&v ci-iU
+Fuel Supply
+Carburettor
+Spark Plug
+Magneto
+Uneven running
+(Surging)
+is frequently
+caused by
+Overheating
+Knocking
+Trouble Chart
+’ Tank empty.
+Fuel line clogged.
+Check valve not functioning.
+••K Air leak in fuel line.
+Water or foreign substance in
+Engine will net start if flood
+few moments before cranki:
+Water or foreign substance in petrol tank.
+; will net start if flooded. Allow to settle
+moments before cranking again.
+'Choke not functioning.
+Clogged jet.
+.-4 Needle valve worked loose.
+Needle valve improperly adjusted.
+,Loosely mounted.
+f Ignition lead detached.
+Fouled by carbon or oil.
+Improperly adjusted points.
+Insulator cracked or broken.
+L Insulator covered with moisture or residue.
+{Pitted or improperly adjusted breaker points.
+Loose electrical connections.
+Defective condenser.
+Defective ignition coil.
+Defective spark plug.
+Improperly adjusted carburettor.
+Petrol low in tank.
+Air leak in fuel line.
+Water or foreign substance in tank.
+Governor link injured bent or twisted, causing
+excessive drag on governor arm and carburettor
+lever. Should be straight, with no indication
+of binding.
+Loose electrical connections.
+Accumulation on magneto breaker points—pitted
+or corroded.
+Weak condenser, or ignition coil.
+Loss of compression—
+Leaky valves.
+Sticky valves.
+.•< (Valve stem and guide carboned.)
+Piston rings inactive.
+(Ring grooves filled with carbon.)
+. Governor spring broken or detached.
+Oil level in crankcase too low.
+Carburettor adjusted too lean.
+Belt too tight.
+Restricted air flow around engine.
+Engine over-loaded.
+Leaky valves.
+Piston rings seized in ring grooves
+Excessive accumulation of carbon
+Engine not firmly installed.
+Engine over-loaded.
+Belt too tight.
+Carburettor adjusted too rich.
+I Excessive accumulation of carbon.
+Flywheel loose.
+Connecting rod loose.
+Wrist pin and piston loose.
+
+
+■V'', VSH
+
+
+'rz .f' T? jr\ -•■;_
+P£T:;-"d
+, ‘*-:v: ’ "
+• .v *_ ♦
+■ m ■'
+* *
+00414198
+&A .*3
+f .

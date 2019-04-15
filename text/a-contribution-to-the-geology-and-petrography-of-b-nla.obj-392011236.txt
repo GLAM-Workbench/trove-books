@@ -1,0 +1,2406 @@
+
+
+A- CONTRIBUTION
+TO THE
+GEOLOGY AND PETROGRAPHY
+BATHURST,
+NEW SOUTH WAL ES-
+BY THE
+REV. J. MILNE CURRAN, F.G.S.,
+Lecturer in Geology, Department of Technical Education.
+SYDN
+ANGUS & ROBERTSON,
+
+
+
+
+A. CONTRIBUTION
+TO THE
+GEOLOGY AND PETROGRAPHY
+BATHUEST,
+NEW SOTJTZHI W-A-LES.
+BY THE
+REV. J. MILNE CURRAN, F.G.S.,
+Lecturer in Geology, Department of Technical Education.
+SYDNEY:
+ANGUS & ROBERTSON,
+CASTLEREAGH STREET.
+yy'h'b ss I f
+
+
+SYDNEY
+F. CUNNINGHAMS AND CO., PRINTERS,
+146 PITT STREET.
+
+
+\From Vol. VI. (2nd Series) of the “ Proceedings of the Linnean
+Society of New South Wales ” (27th May , 1891 ).\
+A CONTRIBUTION TO THE GEOLOGY AND PETRO-
+GRAPHY OF BATHURST, NEW SOUTH WALES.
+By J. Milne Curran, F G.S.
+(Plates xiv.-xvm.)
+CONTENTS.
+x. —lntroduction.
+ii.—Area dealt with,
+m. —Previous observers.
+iv. —General Geology.
+v. —Formations represented.
+vi. —Minerals of Bathurst.
+vii. —Rocks of Bathurst.
+A. Igneous Rocks
+C. Altered Rocks
+viii.—■ The Sedimentary Rocks,
+ix.—The Igneous Rocks.
+Granite
+Basalt
+x.—Economic Geology
+xi. Other points of interest.
+xii. —Conclusion.
+B. Sedimentary Rocks
+I Plutonic—Acidic.
+( Volcanic—Basic.
+{Arenaceous.
+Argillaceous.
+Calcareous.
+{Hornfels.
+Schists.
+Knotenschiefer.
+a. In the field.
+b. Origin of.
+c. Microscopic examination.
+d. Chemical composition,
+a. In the field.
+b. Microscopic examination.
+c. Chemical composition.
+
+
+i. Introduction.
+The material embodied in the following paper, is the result of
+observations, made at intervals, during the last ten years. A
+residence of some eight years in Bathurst gave me special" facilities
+to study the geology of the district. During that time 1 have
+carefully examined some 180 square miles of country, taking the
+City of Bathurst as a centre. Although lam conscious the paper
+deals with nothing that may be regarded by geologists as novel or
+striking, for all that, it may be acceptable to place on record my
+observations on a district on which very little has hitherto been
+written. The present contribution will, I hope, be merely an
+introduction to the geology of a portion of the country that
+presents rare facilities for the study of many of the great questions
+connected with the nature of metamorphism, and the phenomena
+presented by altered strata in the regions of eruptive rocks.
+The hand-specimens which accompany this paper will help to
+make clear descriptions of rocks of uncertain affinities. The
+micro-photographs of rock-slices, on Plate xiv., will also help to
+illustrate the structure of the basalts. This is all the more useful
+in the present unsettled state of petrological nomenclature.
+As there is a growing tendency among petrologists to follow
+Professor Rosenbusch’s classification of the eruptive rocks, I have,
+as far as possible, referred the Bathurst rocks to his system.
+There are many interesting questions immediately connected
+with the geology of Bathurst not touched on in this paper. The
+contact area, for instance, that forms a fringe of metamorphic
+rock around the central boss of granite, would demand more
+knowledge and experience in the refinements of modern petro
+graphic methods than I can lay claim to. In fact I have stu-
+diously avoided, or merely pointed out, debatable questions. But,
+having described what almost all geologists are agreed on, the way
+is clear in the future to deal with the more obscure, but possibly
+the more interesting, problems that may be studied in and around
+Bathurst. In dealing with the microscopic structure of the basalts
+
+
+and granites I have received much kind assistance from our leading
+petrologist—A. W. Howitt, Esq., F.G-.5., now Under Secretary
+for Mines, Melbourne.
+ii. Area dealt with.
+I propose to deal with the geology of the country immediately
+around Bathurst. Every reference contained in this paper deals
+with localities or sections that are included in a circle having a
+radius of ten miles, taking Bathurst as a centre. A few interesting
+features outside these limits will be referred to when presenting
+points of interest known to me. These may serve as a guide to
+future students.
+The stretch of country forming, for the most part, the well-
+known Bathurst “ plains ” is, in reality, part of a plateau, on an
+average about 2350 feet above sea level. Bathurst Railway
+Station is 2153 feet above sea level, and the highest point of the
+Bald Hills is some 630 feet above this datum. The extreme diffe-
+rence in level between any two points in the district referred to
+may be taken as 740 feet.
+hi. Previous Observers
+The first reference I can find to the geology of Bathurst is
+contained in Captain Wilkes’ “ Narrative of the United States
+Exploring Expedition,” Yol. n. p. 259.* In this work reference
+is merely made to the fact that the plains of Bathurst were at no
+distant date an inland lake.
+Mr. Stutchbury, who was appointed Geological Surveyor in
+1850, made frequent reference to the Bathurst district in his
+reports to the Colonial Secretary. The only reference of his to
+the country immediately around the City of Bathurst that I can
+find is contained in a report, dated “ Belabula Rivulet, Carcoar,
+County Bathurst, April 12th, 1851.”
+* Narrative of the United States Exploring Expedition during the years
+1838-1842, by Charles Wilkes, Commander; Philadelphia, 1842.
+
+
+Speaking of the country on the Western Road, between Junc-
+tion Hill and Bathurst, he says,* “The rounded blocks, which
+when free upon the surface, appear to be immense boulders, or
+erratic blocks, are not such, but large glandular or globular masses,
+often connected by veins, and evidently intruded subsequently •
+these may be seen in many places in the road-side sections,
+imbedded in coarse granite, traversed by quartz veins in all
+directions.
+“ The foot of the hill is composed of disintegrated granite,
+forming a loose sand. About one mile east of the river the granite
+is overlaid by clay slate, ‘ killas,’ Granite, with fragmentary
+trap-rock, appears to form the whole of the country to Macquarie
+and Bathurst plains ; the plains are alluvium, and, judging from
+the debris in the water-runs, most probably investing granite.
+“ Lead mines were reported as occurring at Brucedale, near
+Peel, about eight miles from Bathurst, a little eastward of north,
+the residence of Mr. W. Suttor; the road then contains much
+micaceous sand and quartz pebbles.
+“ On descending the last hill, about two miles from the house,
+blocks of decomposing granite are occasionally observed; upon
+crossing the creek it is found, in place upon a ridge running nearly
+east and west, associated with mica slate, much disturbed, passing
+into clay slate; the dip of the clay slate is west north west.
+“ To the eastward of south, half a mile from Mr. Suttor’s house,
+a mine has been opened, in which the following varieties of ore
+have been found :
+“ Sulphuret of lead, with arsenical pyrites.
+“ Green phosphate of lead, in veins in the clay slate.
+“ Arsenio-phosphate of lead, and
+“ Argentiferous sulphuret of lead.
+“ The cross lodes make their way west north west through clay
+slate, the angle of dip being 50°.
+* Geological Survey Papers, laid upon the Council Table by the Colonial
+Secretary and ordered by the Council to be printed ; 2nd December, 1851.
+
+
+“The mines, as at present exhibited, do not promise to be
+remunerative; the ore appears to be sporadic rather than in
+regular lodes.
+“ On the eastern side of the creek there are numerous fragments
+of grit stone, containing impressions and casts of Spiriting,
+evidently belonging to the coal measure; these must have been
+transported some distance.”
+In a paper by the Rev. W. B. Clarke on- the Transmutation of
+Rocks in Australasia, read to the Philosophical Society of New
+South Wales in May, 1865, mention is made of metamorphic
+rocks near Bathurst. Says Mr. Clarke, “ One of the most remark-
+able changes I have ever noticed in the neighbourhood of granite
+occurs a little south of Bathurst. . , slates are converted into
+mica schist and griesen, and limestone is changed into saccharoidal
+marble.”*
+In 1867, the Rev. W. B. Clarke, M.A., F.R.S., published the
+first edition of his “ Sedimentary Formations.” He refers to the
+“ existence of gneissoid strata and of schists, of very ancient aspect,
+at Cow Flat, near Bathurst.”!
+In his annual report for the year 1878, Mr. C. S. Wilkinson,
+F.G.S., Government Geologist, refers as follows to the geology of
+Bathurst: —“ Immediately north of the village of Perth, near
+Bathurst, are some table-topped hills—the Bald Hills—capped
+with basalt. The basalt rests on a very siliceous, tertiary pebble
+conglomerate, which, in tuim, rests on granite. ... I believe
+that this basalt is an outlier, or remnant, of the basaltic stream
+which, in pliocene times, flowed down the Campbell’s River valley
+from near Swatch field. The basalt is, in places, columnar, and on
+the Bald Hills this columnar structure is splendidly shown, the
+* Trans. Phil. Soc. New South Wales, 1862-1865 ; Sydney, Reading and
+Wellbank, 1866, p. 267.
+t Remarks on the Sedimentary Formations of New South Wales, by Rev.
+W. B, Clarke, M.A., F.R.S. (fourth edition) ; Sydney, Thomas Richards,
+Government Printer, 1878.
+
+
+five and six-sided columns being of considerable length and well-
+formed ; sometimes they are curved in a remarkable manner.”*
+In the annual report of the geological surveyor in chargef, for
+the year 1879 (p. 214), we find Mr. Wilkinson again making a
+short reference to Bathurst as follows :—“ Following the road
+from Bathurst to Hill End the first eight miles is over granite,
+then silurian schists to Wyagdon, then granite again for one mile
+and a half to near Wattle Flat.”
+The Department of Mines issued a volume in 1882, entitled
+“ Mineral Products of New South Wales.” On p. 39 of this work,
+Mr. Wilkinson says : —“ Near Bathurst upper silurian rocks have
+been considerably metamorphosed, the sandstones passing into
+quartzites, slates into gneiss and hornblendic schists, and the coral-
+line limestone into crystalline marbles in which nearly every trace
+of fossils has been obliterated.”
+Finally, Mr. W. J. Clunies Ross, B.Sc., read a paper, before the
+Melbourne meeting of the Australian Association, on the Plutonic
+and Metamorphic Rocks of Bathurst, New South Wales. Up to
+the date of writing it has not appeared in print, so that I am
+unable to refer to the paper in a more detailed manner.
+iv. General Geology.
+Taking a general view of the district round Bathurst, we have
+presented to us a central mass of granite, forming the floor, and
+partly the sides, of a great valley. Higher up the sides silurian
+rocks rest on the granite. On the floor of this valley a great
+sheet of recent alluvium shingle and clay deposit is spread, and
+through these latter deposits the Macquarie has eroded its present
+bed. A chain of basalt-capped hills rises prominently above the
+granite floor, forming a line generally parallel to the present river.
+* Annual Report of the Department of Mines, New South Wales, for the
+year 1878; Sydney, the Government Printer, 1879.
++ Annual Report of the Department of Mines, New South Wales, for the
+year 1879; Sydney, the Government Printer, 1880.
+
+
+An aureole of altered rocks separates the granite from the silurian
+slates, phyllites or limestones. In short, we have a great saucer-
+like depression, the edges of which are silurian rocks ; below these
+there is a belt of hornfels, or metamorphic rocks, and, finally,
+granite with recent superficial deposits fills the floor of the valley.
+Through this valley, as stated already, rising abruptly from the
+general level, there runs a line of basalt, burying an old river-bed
+of pliocene age. The granite, from its first appearance to the east,
+to the boundary of the silurian rocks on the Bathurst-Orange Road,
+measures some thirty miles across. From the contact rocks on
+the Winburndale Creek, to the junction of the slate and granite,
+south of Bathurst, the distance is some eighteen miles, that is 540
+square miles. But, allowing for a very irregular line of junction
+and the small patches of basalt, I take the granite area to measure,
+at a very moderate estimate, about 460 square miles.
+In this area the lowest rocks—granites and hornfels—are the
+more recent, as will be made clear in another section of this paper.
+Surface Geology.
+This granite country presents a surface of gently undulating hills
+and ridges with broad valleys. Except in cuttings in creeks, or on
+the river-banks, the granite hardly ever shows on the surface, and
+when it does it is so decomposed as to disintegrate readily and
+rapidly. As is usual with granite, the decay commences in the
+felspar grains, thus setting free the other constituents—quartz,
+hornblende, and biotite. The depth to which decomposition extends
+varies much ; sometimes to a few feet, and sometimes, in cases
+that came under my notice, to a depth of 70 feet. The “rolling
+downs ” character of the granite country contrasts strongly with
+the surface appearances of the surrounding slate. The hills in the
+slate country show the bed rock freely in escarpments and bars
+parallel to the strike. The vegetation, moreover, assumes a
+noticeable change on passing from the granite to the slate country.
+The accompanying photographs show in an admirable way the
+difference in weathering in granite and in slate country. Fig. 1
+
+
+shows the channel of the Macquarie in typical granite rocks. A
+short distance down stream (Fig. 2) the river passes into silurian
+slates, dipping at a high angle. The same sharp contrast extends
+through the country, as a whole, and may be studied to advantage
+in the hills about Cow Flat to the south of Bathurst, and in the
+Winburndale Creek, some seven miles to the north of the same town.
+Immediately round Bathurst the granite is overlain by detrital
+deposits, varying in age from pliocene to the most recent, or now
+in process of formation. This applies especially to the strip of
+country, including that on which Bathurst stands, between the
+chain of the Bald Hills and the Macquarie River. Deep water-
+courses have cut through these deposits, exposing beds of allu-
+vium from two to fifteen feet in thickness, or decomposed granite
+in some instances to a depth of thirty feet. That these erosions
+have been effected rapidly, that is within the past fifty years, can
+be readily proved. Some of the old settlers recollect a time
+when many of these creeks were shallow water channels. Roots
+of, comparatively speaking, young trees may oftentimes be seen
+stretching from one wall of these gullies to the opposite one,
+showing that the very beginning of the erosion must have taken
+place at a time when the trees were fairly grown. It is impossible
+not to be struck with the resemblance, in miniature, that some of
+these creeks with their vertical walls bear to the cafions of Colorado.
+The photographs exhibited, taken about one and a half miles to
+the south-west, illustrate these features very clearly. The exact
+locality lies between the racecourse and the slopes of the Bald
+Hills. The oldest of these detrital deposits are, undoubtedly,
+those that flank the Bald Hills, and the more recent are those
+that form terraces to the present river. Further on we shall see
+that the line of basalt that crowns the ridges of the Bald Hills
+marks the course of the one-time bed of the Macquarie. From the
+time it occupied this position, the river has, at various intervals
+eroded channels over the whole country between the Bald Hills
+and the opposite slopes of the valley. In this way are accounted
+for, the beds of shingle, gravel, and detrital matter that
+conceal the granite. Large deposits of shingle and water-worn
+
+
+material, marking the position of ancient river beds, may be
+studied at Kelso, near the Railway Gates; near the Church of
+England grounds; on the slopes to the right of Kelso-Peel Road,
+about two miles from Kelso ; on the gravel-topped hills between
+All Saints’ College and the General Cemetery ; near St. Stanislaus
+College, and generally on the ridges between the Yale Creek and
+the Macquarie.
+v. Table of formations
+REPRESENTED AROUND
+Bathurst.
+<
+HH
+H
+EH
+H
+g n
+O
+Ph
+Most recent or now in
+PROCESS OF FORMING ...
+A. Deposits of loam, clay, sand,
+gravel sj and decomposed
+granites.
+Post Pliocene
+B. Gravels and shingle beds, at
+various levels, between the
+basalt and the present
+river bed.
+pH
+H-I
+E-i
+P 3
+H
+H
+P 3
+W
+Ph
+Ph
+0
+Volcanic.
+Pliocene
+C. Basalt flow, capping hills.
+D. Clays, sand, gravels, and
+conglomerates forming
+“ leads ” under basalt.
+Lower Pliocene
+E. Silicified conglomerates
+older than “ leads.”
+MESOZOIC ROCKS
+I.—Not represented.
+d
+HH
+o
+cs
+o
+<
+Ph
+Igneous and Meta-
+MORPHIC
+' F. Granites.
+G. Hornfels rock, gneissic
+schists, spotted schists, mica
+schists and marbles,
+r H. Clay slates, phyllites, lime-
+\ stones.
+Silurian
+
+
+the district.
+1. Calcite.
+Minerals.
+15. Sphene.
+2. Apatite.
+16. Galena.
+3. Quartz.
+17. Green phosphate of lead.
+4. Garnet.
+18. Arsenio-phosphate of lead.
+5. Olivine.
+19. Limonite.
+6. Topaz.
+20. Mispickel.
+7. Prehnite.
+21. Pyrites (iron).
+8. Felspar.
+22. Magnetite.
+a. Orthoclase.
+23. Copper (native).
+b. Plagioclase, Oligoclase. 24. Malachite,
+c. Albite.
+25. Copper pyrites.
+9. Augite.
+26. Grey ore.
+10. Hornblende.
+27. Azurite.
+11. Actinolite.
+28. Argentiferous galena.
+12. Muscovite.
+29. Gold.
+13. Biotite.
+30. Diamond.
+14. Kaolin.
+31. Manganese (black oxide).
+vi. Minerals op Bathurst.
+Before dealing with the formations and the rocks in detail, it
+may be well to enumerate the minerals and rocks I have found in
+Note. —The following are also reported from Glanmire: —
+Rhodonite (Annual Report Dept. Mines, N.S.W., 1885, p. 141),
+manganese ores, and baryta (Annual Report Dept. Mines, N.S.W.,
+1884, p. 161).
+1. Calcite. —Calcite is found in veins in the limestones on the
+Cow Flat Road, about four miles south of the village of Perth.
+It also forms veins in fissures in the granite. This seems an
+unusual occurrence, and only two instances came under my notice.
+It was rather plentiful in a joint or fissure, cut through in the
+large well of the water-works, Bathurst. There is little doubt
+but that it is a secondary mineral, formed from the decomposition
+of some lime felspar.
+
+
+2. Apatite. —Apatite occurs as microscopic needle-shaped bodies
+in the quartz and felspar crystals of granite. It is very conspicuous
+in some slices.
+3. Quartz. —Quartz is very abundant in the district, and is
+found as veins in the slate rocks adjoining the granite, from a few
+inches up to some feet in thickness. It may be easily studied in
+the slate hills about Peel, eleven miles north of Bathurst, and
+over the country five miles south of Perth. There are large
+quantities of water-worn quartz on the various terraces that the
+river has left in eroding its way from the level of the Bald Hills
+to it present bed. It is almost unnecessary to refer to it as a
+constituent of the granite. In fine, a very pure form of silica is
+found, as silicified wood, in drifts that have been denuded of a
+covering of basalt.
+4. Garnet. —Garnet, the exact species not determined, occurs in
+the river sand, and when sand or gravel is washed for gold
+some garnets are always found. It occurs also as inclusions in the
+felspars of the granite.
+5. Olivine. —This mineral is only known as a constituent of the
+basalt; it rarely attains macroscopic dimensions, but under the
+microscope it is found in crystals, relatively so large as to give the
+basalt a micro-porphyritic structure ; this is well shown in the
+rock-slices, Plate xiv. In polished slabs of basalt it can be detected
+as specks, somewhat darker than the matrix, and easily acted on
+by warm hydrochloric acid. Infusible before the blowpipe ] com-
+pletely soluble in hydrochloric acid ; olive-green in colour ; colour-
+less by transmitted light.
+6. Topaz. —Commonly found with the gem sand washed from the
+alluvial deposits in searching for gold. I have only met with small
+stones.
+7. Prehnite. —A pale green to almost colourless and translucent
+mineral was found, associated with calcite, filling a fissure in
+partly decomposed granite at the water-works. lam indebted for
+my specimen to Mr. W. J. Clunies Ross, B.Sc. It answered as
+follows to the tests applied— Streak: colourless, Hardness: 6,
+
+
+Fracture: even but brittle. Heated in the closed tube, gave off a
+little water. Dissolves completely in hydrochloric acid. Contains
+silica, alumina and lime ; proportions not determined. Before the
+blow-pipe intumesces to a porous mass. This mineral I take to
+be prehnite.
+8. Felspar. —Orthoclase occurs as a leading constituent in the
+Bathurst granite. Near White Rock, and other places, it occurs
+in a porphyritic granite as crystals from half an inch to two inches
+long. Under the microscope it is more cloudy than plagioclase,
+which sometimes accompanies it. In most old rocks, when
+examined in thin slices, orthoclase usually appears more or less
+impure, on account of foreign substances and cleavage planes that
+exist in it. In this respect Bathurst orthoclase follows the general
+rule. No analysis of this mineral has been made, so far as lam
+aware ; but from the intense colours, afforded by Szabo’s methods,
+lam inclined to think the percentage of potash is high. Typical
+orthoclase contains silica 64'6, alumina IS'5, potash 16’9.
+Plagioclase. —lt is rare to find a thin section of Bathurst
+granite entirely free from plagioclase, but there is no predominance
+of this mineral anywhere in the district over the monoclinic felspar,
+by which the granites might pass locally into quartz diorites.
+About four years ago I sent some slices to Mr, A. W. Howitt,
+then of Sale, and he determined that the triclinic felspar of the
+Bathurst granite was, in all probability, oligoclase. Triclinic
+felspars, as one should certainly expect, are abundantly developed
+as microscopic lath-shaped bodies in the basaltic rocks. Any
+slice of the Bathurst basalt will show this clearly. See PI. xiv.
+Alhite. —Mr. Howitt detected this felspar in some micro-slices I
+submitted to him in 1886. It occurred as minute veins in ortho-
+clase, placed approximately in the direction of the ortho axis.
+9. Augite. —This monoclinic pyroxene is known only as a micro-
+porphyritic constituent of the basalts. Sections, approximately
+parallel to the clinopinacoid, are readily obtainable. It also
+occurs as minute grains in the ground mass of the basalts. Its
+
+
+abundance in this relation can be ascertained by treating a rock-
+slice with acid so as to separate the soluble olivine and magnetite.
+10. Hornblende. —ls found as a macroscopic mineral in the
+granite ; crystals vary in size, the largest I have noticed measuring
+from one-sixteenth to one-eighth of an inch along the vertical axis.
+11. Actinolite. —Found to the south of Bathurst, forming veins
+in quartz. M ost of my specimens come from Cow Flat. It formed
+fibrous, radiated masses of dark green colour, easily fusible before
+the blow-pipe. After fusion it becomes strongly magnetic. Specific
+gravity 3 - 5.
+12. Muscovite. —Muscovite, or common mica, is found as an
+accessory mineral in the Bathurst granites. Towards the edges of
+the granite mass it often entirely replaces the black mica so
+characteristic of the typical Bathurst granite. Muscovite occurs
+in considerable quantities in the river sands. When fresh it is
+usually colourless, when slightly decomposed it appears as a rich
+yellow, and an opaque golden hue is very common. It also is
+found in the sands of almost every creek in the district.
+13. Biotite. —Black, magnesia, iron mica occurs as small, partly
+formed crystals and scales, disseminated through the granite, but
+occasionally, particularly near the edges of the granite rocks, large
+plates can be detected. By transmitted light it sometimes appears
+of a deep green colour. After loug heating it decomposes in
+sulphuric acid. Fusible without much difficulty. Plates, corre-
+sponding to basal sections, are easily picked out in decomposing
+granites. The dark colour of the granite is due to the exceedingly
+large proportion it contains of biotite and hornblende.
+14. Kaolin. —Kaolin, of various degrees of purity, can be found
+both as decomposed granite in situ, and in small beds of trans-
+ported material. A pure white kaolin was found on the Bald
+Hills, a little to the right of the line of section A B marked on
+the map. When washed free from particles of quartz it formed a
+tolerably pure kaolin, but the percentage of iron was too high for
+a marketable article.
+
+
+15. Sphene. — The sands, resulting from the decomposition of
+the granites, are full of magnetic ironstone and titaniferous iron.
+This material is so plentiful that after floods it will be found
+deposited as black sand in the creeks to the south of Bathurst and
+about Kelso. Mr. A. W. Howitt first drew my attention to it in
+the micro rock-slices. J have since detected wedge-shaped crystals,
+of a deep brown colour showing dark borders with transmitted
+light, in slices of granite from near Mt. Stewart. The titaniferous
+ironsand may be collected in large quantities by passing a magnet
+through the dry sand in any of the creeks within the granite area.
+In this sand I have frequently detected titanium by fusing the
+mineral with bisulphate of potash until decomposed. The fused
+mass is then warmed in water in just sufficient quantity to dissolve
+the soluble material. A few drops of nitric acid are added to the
+filtrate, and the latter diluted with six or seven times its bulk of
+water and boiled. Titanic acid separates as a white powder. The
+powder can be further tested before the blow-pipe in a bead of
+microcosmic salt.
+16. Galena. —ls known to occur in veins and lodes in connection
+with quartz reefs. So far as observed, it is unknown in granite
+rocks, but is found at, or near, the junction of the slate and granite,
+both to the north and south of the granite formation. A typical
+occurrence of this mineral may be studied near the residence of Mr.
+Suttor at JVI t. Grosvenor, Peel. As has been found in other parts
+of the world, the galena here contains variable amounts of silver.
+It is not found in such large quantities as to make it profitable
+as a lead ore. The silver assays are always low, the highest not
+exceeding 20 oz, per ton of ore.
+17. Phosphate of Lead. —Occurs sparingly as an incrustation on
+decomposed galena ore on the Grosvenor Estate, near Peel, i
+have never detected the arsenical variety of this mineral referred
+to by Mr. Stutchbury, ante p. 176.
+19. Limonite. —Limonite is found as veins filling cracks or
+joints in the granite. It is clearly in these instances a secondary
+
+
+product. It is met with in the excavations at the water-works,
+and also in a tunnel driven to test the wash in the Bald Hills.
+Thin layers of this mineral may sometimes be noticed in dried-up
+water-holes, near the decomposed basalts in the Bald Hills. Clayey
+ironstones are also found as a cementing material, binding quartz
+pebbles together, forming post-pliocene river drifts. Peculiar pea-
+shaped concretions of ironstone are often met with in deposits
+formed from decomposing basalts.
+20. Mispickel. —Arsenio-pyrites or mispickel is tolerably abun-
+dant in the schistose and slate country along the southern granitic
+boundary. It occurs both massive and crystallized. This mineral
+was found in a well, associated with iron pyrites, on Mr. Butler’s
+selection near Green Swamp, on the Kelso-Rockley Road,
+21. Iron pyrites. —Is very plentiful in the slate country about
+Bathurst. A very notable occurrence was discovered in a shaft
+put down by Mr. J. Wilde on Butler’s farm, to the south of Perth.
+The crystals were mostly cubes, and formed the greater part of
+the rock. Microscopic crystals of pyrites are very common in
+some of the slates about Cow Flat. I have also noticed yellow
+iron pyrites in micro-slices of granite from a railway cutting
+beyond George’s Plains ; also in slices of the same rock from the
+base of Mount Pleasant. It can easily be recognised in microscopic
+sections by reflected light, the bright yellow of the pyrites being
+clearly seen.
+22. Magnetite. —This is only known as a microscopic constituent
+of basalt. It will be referred to, in detail, in dealing with the
+microscopic structure of the basalts.
+23-28. Copper Minerals. —lt has been already remarked that
+the metalliferous minerals are confined to the zone of contact
+rocks. It is in these rocks that native copper, malachite, copper
+pyrites, grey ore, and azurite have been discovered. I have found
+native copper in hornfels rock at Duramana, on Kelly’s farm.
+Malachite occurs sparingly at Cow Flat, south of Bathurst. In
+the specimens I examined it seemed to result from some alteration
+of azurite or blue carbonate of copper. In keeping with this fact
+
+
+I have often noticed fibrous green malachite as pseudomorphs
+after azurite at the Cobar copper mines. Grey copper ore is
+recorded, on good authority, as occurring in the Cow Flat copper
+mines. These mines are now closed.
+29. Gold. —Gold is found in the drifts of the Macquarie, and,
+more or less abundantly in the shingle beds forming river terraces
+back to the pliocene “ leads.” The fact that gold is found in
+water courses cutting through decomposed granite rocks, such as
+in those creeks on the common near Bathurst, is thought by some
+to prove that the gold has been shed from a granitic matrix. While
+admitting that, in some instances, gold may be derived from a
+granitic rock,* yet, in our case, it is unnecessary to fall back on
+any such supposition, I venture to account for the presence of
+the alluvial gold in this way. The Bald Hills are some 600 feet
+above the Bathurst Plains. On their summits there rests a
+layer of basalts covering pliocene drift. This drift has been
+proved by tunnelling to carry gold. At some points the basalt
+and underlying drift have been entirely removed by denudations,
+while along their whole length the margins of the drift have been
+eroded. The detrital matter, with its auriferous deposit thus
+obtained, has been spread out between the hills and the river,
+during all that period that the river has been cutting its way from
+its old position to its present level. The gold now obtainable in
+the granite creeks is, in fact, a re-distributed pliocene lead. The
+character of the gold confirms this theory. It is not possible to
+distinguish the gold washed from the creeks from some flakes
+found in the highest drifts. In the creeks referred to the precious
+metal was never found in quantities sufficient to pay for its
+recovery.
+30. Diamonds. —Although I have not seen a diamond from any
+of the drifts round Bathurst, it may be well to refer to the fact
+* For an interesting article on gold in granite, see Clarke’s “ Southern
+Gold-fields : Researches in the Southern Gold-fields of New South Wales,
+by the Rev. W. B. Clarke, M.A., F.G.S. Sydney, Reading & Wellbank’
+1860.
+
+
+1.
+ROCKS OF BATHURST.
+Igneous Division.
+A. Plutonic Acidic Rocks.
+Amphibole granite. 4. Graphic granite.
+2.
+Granulite.
+5. Greisen.
+3.
+Aplite.
+6. Porphyritic granite.
+1.
+Clays.
+7. Felsite.
+B. Volcanic Basic Rocks.
+Basalt.
+Sedimentary Bocks.
+A. Argillaceous.
+2. Slate.
+1.
+Sands.
+B. Arenaceous.
+2. Sandstone. 3. Conglomerate.
+1.
+Hornfels.
+C. Calcareous.
+Limestone.
+Altered Rocks.
+2. Schists. 3. Nodular schists.
+that the Rev. W. B. Clarke records four diamonds as coming from
+the bed of the Macquarie, near Suitor’s Bar. None have been
+discovered of late years.
+vii. Rocks of Bathurst.
+In enumerating the rocks of Bathurst, 1 think it well to define
+the terms used in describing the igneous rocks. It makes little
+matter what system of nomenclature one follows, provided always
+that the terms are clearly understood. Throughout this paper the
+rock names will be made use of in the sense here indicated.
+
+
+vii. Igneous Division.
+a. Plutonic Acidic Rocks.
+1. Amphibole granite. —A crystalline, granular rock, composed
+of quartz + orthoclase + plagioclase + hornblende.* This corre-
+sponds to the granulite a amphibole of Fouque and Levy. These
+authors, in the splendid work just referred to, define granulite as
+consisting of black mica, oligoclase, orthoclase, quartz and horn-
+blende. Granulite a amphibole merely differs from this rock in
+the total or partial substitution of hornblende for black mica.f
+2. Granitite. — A crystalline, granular rock, consisting of
+quartz + orthoclase + plagioclase + magnesian mica. This agrees
+with granitite of Fouque and L6vy.
+3. Aplite. —A granular compound of potash felspar (orthoclase
+or raicrocline) and quartz, with muscovite mica as an accessory.
+4. Graphic granite. —This variety of aplite, in which the quartz
+laminae form figures bearing a fancied resemblance to Hebrew
+letters, is sometimes found as water-worn fragments about Poor
+Man’s Hollow and at Perth.
+5. Greisen. —Thin veins of a rock, composed of quartz and mica,
+may be found near the boundaries of the granite and slate country.
+6. Porphyritic granite. —ln very many parts of the district the
+felspar crystals of the granite are so large and well-developed,
+being frequently two and three inches in length, as to entitle the
+rock to be called porphyritic granite.
+7. Felsite. —An intimate, granular-crystalline admixture of
+orthoclase and quartz. Common in the drifts.
+* Rosenbusch, Mikroskopische Physiographie der Massigen Gesteine, p.
+29; Zweite Auflage.
+t Min4ralogie Micro-graphique Roches Eruptives Francises, pp. 156,160.
+
+
+b. Volcanic Basic Rocks.
+Basalt —An intimate dark blue or black compound of augite,
+labradorite and olivine, with some glassy matter. Magnetite and
+ilmenite are generally present as well. The Bathurst basalt is
+micro-porphyritic in structure, and, according to Mold's classifica-
+tion, our rock is a plagioclase basalt. Boricky would call
+it a felspar-basalt. Rosenbusch makes basalt include all neo-
+volcanic rocks of basic composition, which essentially contain
+plagioclase and augite. Olivine, this author does not consider as
+an essential constituent. As regards structure, this basalt falls
+under Division 4 in Rosenbusch’s classification, and is, therefore,
+termed hypo-crystalline porphyritic.*
+vii. Sedimentary Rocks,
+Argillaceous Rocks.
+1. Clays. —Composed of hydrous silicate of alumina. The
+Bathurst clays contain mixtures of sand and iron oxides in various
+proportions.
+2. Slate. —lndurated clay, sometimes fissile in planes forming
+an angle with the bedding, but more often fissile in the direction
+of the bedding.
+Arenaceous Group.
+1. Sand. —Chemical composition, silica. Mineral components,
+quartz or flint, Beds of sand are common in many of the more
+recent formations.
+2. Sandstone. —The shingle of the drifts consists of siliceous
+sandstones to a very great extent; pure quartz and felspar
+pebbles, however, predominate.
+3 Conglomerates . —This rock consists of rounded pebbles of
+quartz, sandstone, slate and jasperoid rock, cemented either by
+siliceous or ferruginous matter. As stated on p. 181, we have two
+conglomerates, similar in composition but different in age, near
+Bathurst.
+* Rosenbusch, Mikroskopische Physiographic der Massigen Gesteine, p.
+728; Zweite Auflage.
+
+
+Calcareous Rocks.
+Limestones.— Chemical composition, carbonate of lime. Some
+of the crystalline limestones, of a clear white colour, from Cow
+Flat, are good examples of this rock. At the limekilns, some 18
+miles north of Bathurst, there are very considerable beds of lime
+stone. Some are white, but, in most instances, they are blue or
+grey, from the fact that the last remnants of organic life have not
+been destroyed.
+Altered Rocks.
+1. Horn/els. —A black or bluish-black rock, close-grained and
+heavy, with blebs of a milk-blue quartz. In hand specimens this
+rock might be taken for a fine-grained gneiss or an altered schist.
+Study of the rock, in situ, shows it in every variety, from
+massive and holo-crystalline to schistose.
+2. Nodular Schist (Knotenschiefer). —Schists in which small,
+rounded concretions are present, and which stand out like knots
+on the planes of foliation. Splendid examples of this rock may
+be found in a creek by the roadside on the Bathurst-Peel Road.
+The exact locality is at a point where a small bridge or culvert on
+the main road crosses a tributary of the Winburndale Creek, near
+the foot of a steep hill, about 7 miles from Bathurst.
+3. Schistose Rocks. —The schistose rocks about Bathurst might
+be described as clay-slates in which layers of mica have been
+developed and exhibiting distinct foliation. A typical mica schist
+is an aggregate of quartz and mica only. Hand specimens can be
+found about Bathurst that cannot readily be distinguished from
+typical mica schists. But, as a rule, the rocks that I have noticed
+might be described as felspathic, mica schists, in fact a transition
+rock, or a variety between the normal type and a gneissic schist.
+They are abundantly developed about Cow Flat and in the country
+round the upper Winburndale Rivulet to the north-west of
+Bathurst,
+viii. Sedimentary Formations,
+Upper Silurian. —The slates, gneissic schists, and limestones
+near Bathurst, have been regarded by all our geologists as of
+
+
+Petraia sp.
+. Suttor.
+Mines Department. ||
+Stromatopora striatella ..
+/ Clarke.
+1 Curran.
+... De Koninck.
+Favositesfibrosa ...
+I Clarke.
+1 Curran.
+De Koninck.
+upper silurian age.* The lithological characters of the rocks
+suggest, almost at first sight, that the slates and limestones are
+similar in age to well known silurian formations. Very few
+fossils have been discovered, and all those that have been described
+point to the same conclusion. De Koninck mentions Siromatopora
+striatellai from the Limekilns 16 miles north of Bathurst. Recently
+I have collected specimens of the same fossil from the same place.
+De Koninck also mentions Favosites fibrosa from this locality. J A
+short time ago I noticed well preserved examples of the silurian
+coral, Phillipsastnm, near the Benglen Caves Limekilns. Mr.
+Etheridge, jun., palaeontologist to the Australian Museum, to
+whom I submitted my specimens, informed me that the Phillips-
+astraea is a new species.§ The fossil evidence stands thus :
+COLLECTED BY. IDENTIFIED BY.
+Phillipsastrcea sp.
+Curran.
+Etheridge, jun.
+* Wilkinson, Notes on the Geology of N. S. Wales, p. 39 of Mineral
+Products of N. S. Wales; Sydney, Government Printer, 1882.
++ Recherches sur les Fossiles Paleozoiques de La Nouvelle-Galles du Sud,
+p. 10.
+X Fossiles Paleozoiques, p. 22.
+§ Mr. Etheridge considers the Phillipsastrcea a new species. He proposes
+to describe it at an early date as P. Currani. Regarding this coral, he
+writes, under date 12th February, 1891 :—“ Phillipsastrcea. —This is a very
+interesting coral and does not appear to be identical with any of the European
+or American species, so far as the works of reference at my disposal will
+enable me to judge. P. Currani is peculiar in the absence of all trace of a
+columellarian tubercle, and the central area or calici being entirely tabulate-
+vesicular, on to which the septa do not pass. De Koninck records P.
+Verneuilii, Ed. & H., as a New South Wales species, but speaks, in his
+description, of the corallum as composed of superimposed layers, and
+possessing a thin columella. Neither of these features are present in your
+specimen.”
+|| Annual Report of the Department of Mines, New South Wales, for the
+year 1881, Appendix H. p. 148; Sydney, Government Printer, 1882,
+
+
+These are silurian in type. There can be no question that
+the. fossiliferous limestones are interbedded with the phyllites
+and slates; so the whole formation may be unhesitatingly
+accepted as silurian in age. There is still additional evi-
+dence pointing in the same direction. Resting uncpnformably
+on the slates are to be found in places a series of sandstones
+and grits containing the well known brachiopods Spirifer
+disjunctus and Rhynchonella pleurodon. These Devonian rocks
+are in turn overlaid by carboniferous beds. These succes-
+sions can be studied well by examining the country to the
+east of the Bathurst-Limekilns Road, on the upper reaches of
+the Winburndale, and generally, from the spurs of the Winburn-
+dale Mountains, in the same neighbourhood, across to the Lime-
+kilns. To sum up, we have evidence from the fossils enumerated,
+as well as stratigraphical and lithological proofs, of the position
+of the slate formations in the geological series.
+When one approaches Bathurst, from any side, it will be noticed
+that as the granite region is approached the slates show signs of
+disturbance. They become more fissile in character, and faults are
+frequently developed. Contorted strata, principally slate, are to be
+seen in every creek or favourable cutting. Good examples of this
+occur about Peel, and an exceptionally good contorted section is
+exposed in a road cutting on the right of George’s Plains and Cow
+Flat Road. Travelling still towards the granite, glistening plates
+of mica become apparent on splitting the rock, showing a new
+phase of crystallization. Further on, the mica becomes more
+plentiful, so much so as to be recognisable as alternating layers along
+which the rock easily cleaves. While still nearer the granite the
+now schistose rock exhibits a peculiar puckered and wavy surface
+with a satiny sheen. Then dark spots make their appearance,
+and knots, ovoid and round, stand out on the weathered planes.
+These spots vary in size from a pin’s head to a pea. In this we
+have an excellent example of the interesting metamorphic slate
+known as Knotenschiefer. Finally, a mass of rock is met with of
+a dark blue colour, with no traces of schistosity in any direction,
+forming a typical hornfels. This interesting succession of zones
+
+
+of contact metamorphism can be followed in a line due north
+from Mr. Coombe’s residence, Glanmire. Spotted schists and
+hornfels can be followed by travelling up the creek (a tributary of
+the Winburndale) from the culvert referred to on p. 192. The
+hornfels will be found exposed between the head of the creek and
+the road. Hornfels rock, in many interesting varieties, can be
+collected too at Duramana, where it is used for road purposes. Good
+outcrops of the same rock are easily accessible in a road cutting
+on the Orange Road, near the “ Rocks,” as well as on the Rockley
+Road, south of Perth, and on the Blayney Road, near the granite
+boundary.
+The aureole of metamorphic rock around the granite may be
+divided into thi’ee zones, but, from the very nature of the case, it
+is evident that no hard and fast line can be drawn between these
+belts. The zones may be distinguished as—
+1. Zone of micaceous clay slate.
+2. Zone of knotted slate, often mica slate (Knotenglimmer-
+schiefer).
+3. Zone of hornfels rock.
+It will of course be understood that these zones of rock do not
+follow each other in due succession at every point. That this
+should be so would suppose denudation to have excavated the
+river valley equally on all sides—a manifest impossibility. As a
+matter of fact knotted and altered slates may be found at times
+nearer the central granite mass than hornfels rock. But this
+difficulty is easily explained by assuming an underlying mass of
+granite not yet exposed, or by noticing that sometimes the granite
+dips away under the slate rock at a low angle and further on
+comes once more to the surface.
+Relative Age of the Sedimentary Rocks. —Silurian slate is the
+oldest rock around Bathurst. At first sight this may seem rather
+puzzling. The position and structure of these slates show them to
+be sedimentary in origin. But we have abundant proof that they
+were laid down, consolidated, and crushed into great folds long
+before the granite was erupted. Of course we might suppose the
+
+
+granite to be the result of extreme metamorphism, as possibly
+some granites are, but in studying the geology of Bathurst one
+soon abandons all hope of maintaining such an origin for the
+granitic mass as a whole. This will be dealt with further on.
+Wherever I have studied good junctions I always'noticed that
+the slates are cut off suddenly by the granite, and in no instance
+have I ever seen a slate rock resting on a granitic floor in a way
+that would suggest it was originally laid down there. Indeed, no
+idea can now be formed of what may have been the character of
+the old sea-bed on which the sediments were first deposited. No
+trace or vestige of it remains. The granite behaves in every
+respect as a rock that was erupted into overlying slates, and is,
+therefore, the newer. Slate, then, we take to be the most ancient
+formation. Next in age come the granites. The overlying
+Devonian rocks are, of course, more recent than either.
+From the character of the material forming the great bulk of
+the slates, we can surmise that the rocks were formed on a deep
+sea-bottom. The margins of any sea-bed would naturally be made
+up of coarser material. Bocks, corresponding to these deposits,
+are abundantly represented. The lines of limestone had an origin
+not unlike the coral reefs of our own day. The proximity of lime-
+stone to conglomerates points to the presence of a shallow sea or
+sea-beach. The old silurian ocean had its lines of coast, and
+there must have been a continent at no great distance off, the
+wearing down of which supplied the material to form the rocks
+we are discussing. In what direction did this continent lie 1
+What was the nature of its rocks 1 Has it disappeared to its very
+foundations 1 These are questions, full of interest as they are to
+the geologist, to which no satisfactory replies can be given.
+The only formations resting on the granites and slates are the
+drifts. These are all of tertiary and post-tertiary age. Between
+these two widely separated formations there exists an immense
+interval, regarding which the rocks of Bathurst contribute nothing
+to our knowledge. It is difficult to think that no other rocks,
+Devonian, Carboniferous, or Jurassic, ever existed above where
+
+
+Bathurst now stands. Evidence is accumulating to show that the
+Devonian rocks, found both to the east and west of Bathurst, once
+formed a great anticlinal fold over the granite. This, probably,
+formed an island in Carboniferous and Jurassic seas. But all
+direct proof is missing and practically nothing is known of the
+physical surroundings of this district from Devonian to Jurassic
+times. The most tenable opinion is that we had dry land here-
+abouts when the Carboniferous formations to the north and west
+were being deposited. This means that rivers from Bathurst
+mountains flowed into Carboniferous and probably Mesozoic
+seas, and that our hills were old when many parts of Europe
+and Asia were still under water.
+The drifts referred to are all alluvial, marine deposits being
+quite unknown. Every drift about Bathurst owes its origin to
+the present river. The oldest deposit is some 540 feet above the
+present bed, so that the amount of eroded matter is very consider-
+able. By joining the basalt hills marked F, A, H, K, on the
+accompanying map (PI. xvill.), the bed of the old pliocene river may
+be approximately traced. These basalt hills were, there is no
+doubt, once continuous, and the gaps now present are the result of
+subaerial denudation. The history of the changes, since the days
+when the Macquarie flowed through this channel nearly 600
+feet above its present level, is shortly this. The river was the
+main drainage line of the country, therefore, the lowest depression
+within the water-shed. Active volcanoes were pouring out floods
+of lava about Swatchfield and Orange. One of these streams of
+liquid rock flowed down and filled up the valley of the Macquarie.
+The river waters were thus displaced and forced to erode for them-
+selves a new channel. The granite proved more yielding than the
+compact basalt, so that while the basalt remains the granite has
+been subjected to every agent of denudation. In effecting this we
+can with much reason suppose the river to have been a far greater
+stream that it is now. Volcanic eruptions are always attended
+with atmospheric disturbance and heavy rains; moreover, the
+rainfall was undoubtedly greater. Then the rock was, in all
+
+
+probability, suffering from la maladie du granite so noticeable
+now,*
+A glance at section i, PI. xvi, will show some of the various posi-
+tions of the river from its oldest bed to its present course. The
+remnants of old channels on the slopes between the river and the
+Bald Hills vary in age. The oldest drift we know to be Pliocene.
+The newest is now forming, and the most we can do is to point
+out that the drifts cover intervals from the Pliocene to this day.
+ix. Igneous Rocks.
+Granite —In the field. —There is no lack of outcrops of granite,
+even within the limits of the sketch map appended. Wherever
+the granites show on the surface they are decomposed. This is so
+constant a character that it may be taken for granted that the
+whole surface of the granite is undergoing rapid decomposition, as
+stated in a former part of this paper. In sinking wells, ten and
+twenty feet of decomposed rock are frequently met with. All
+along the river valley wherever the rock crops out it is invariably
+decomposed. Indeed, Bathurst affords a good instance of the
+sickening of granite referred to by Dolomieu. Even when the
+minerals of the rock hold firmly together, their slices, cut from
+surface specimens, show cloudy felspars and incipient kaolinization.
+For microscopical purposes the best locality to procure chips for
+micro-slices is at the waterworks, where a deep shaft has been
+put down, and among the broken boulders on the northern slopes
+of Mt. Pleasant.
+Granite is exposed up the river to O’Connell’s Plains, and along
+the railway line to Locksley. Between Locksley and Brewongle
+some interesting junctions may be noted, one in particular at a
+bridge crossing the line between the two stations. Following the
+* The disintegration of granite is a striking feature of large districts in
+Auvergne, especially in the neighbourhood of Clermont. This decay was
+called by Dolomieu “la maladie du granite.” The phenomenon may, without
+doubt, be ascribed to the continual disengagement of carbonic acid gas from
+numerous fissures. Lyell’s Principles of Geology, 11th edition, Vol. I. p. 409.
+
+
+line west, good junctions of the Silurian rock and granite can be
+seen a little to the Bathurst side of Newbridge Station. Decom-
+posed granite is exposed in a cutting on the river bank at the foot
+of George Street, near the railway gates, Kelso, near the rifle
+butts, at Rankin’s Bridge, in the railway cuttings between Bathurst
+and Brewongle, and in almost any of the creeks on the slopes of
+the Bald Hills. Following the river down, junctions of slate and
+granite rocks wflll be found in the neighbourhood of the “ Forge,”
+some sixteen miles from Bathurst. The change from the granite
+to the slate country is very marked in this vicinity. The granite
+rocks are worn into smooth boulders, reminding one of the roches
+moutonnees produced by ice action, while the slate shows jutting
+points and pinnacles that conform more or less to the strike of
+the slate. Boulders of a hard, undecomposed granite are to be
+found on the railway line beyond Wimbledon. Porphyritic
+granite is common, but limited in quantity, in each locality.
+There are some good specimens near the river crossing on the
+road to White Rock.
+A rather noticeable feature in the Bathurst granite is the
+inclusions that are by no means rare. These vary from a few inches
+to many yards in length. The prevailing tint of the granite is
+a light bluish-grey. The inclusions are always dark coloured.
+When examined minutely they are found to consist of the same
+material as the body of the granite in a finer state of division.
+These inclusions contain a considerable amount of titanic or
+magnetic iron. When the rock is powdered a magnet will
+separate it readily. If the Bathurst granite is of metamorphic
+origin, then the inclusions may represent fragments of the
+original parent rock that have withstood metamorphism. On the
+other hand, they might represent fragments of slate caught up
+by the molten granite. After studying a great many of these
+inclusions, I find it hard to believe that they are the result of any
+chemical or selective influences in the cooling mass. I rather
+incline to the view that they are mechanical. Some of the
+inclusions consist entirely of black mica, felspar and quartz.
+There is no sharp line separating the one from the other.
+
+
+In weathering, the granite gives rise to a rather poor and barren
+soil. Fortunately, soils resulting from either granites or sand-
+stones are seldom found alone. Everywhere there is spread about
+a certain amount of alluvium from the old river beds.' And over
+large tracts traces of a rich soil, resulting from the decomposition
+of basalts, can be detected.
+Origin of the Granite. —There is a growing belief in the meta-
+morphic origin of many granites. The Bathurst granite, being
+limited in extent and easily accessible to its boundaries, presented
+special facilities to study its origin. It is now a common position
+for geologists to hold that, although in many and perhaps most
+instances, granite is an intrusive rock of plutonic origin, yet
+granites do occur which are the result of extreme metamorphism.
+Examples are eagerly sought for to show that granite can be pro-
+duced by the metamorphism of sedimentary materials in situ.
+At the very outset I may state that although I am tolerably
+familiar with the line of junction between the slates and granites,
+I have never met with one instance of a gradual change by which
+granite could be said to melt away on all sides into the surrounding
+strata, or in which an undoubted granite shades off, by gradations,
+into a rock of clastic origin. In studying the origin of the granite,
+the boundaries and junction lines will naturally afford interesting
+material. Are these boundaries marked by a hard and fast line ?
+Does the granite mass behave like an eruptive rock ? Does it
+alter the rocks it touches 1 Does it thrust dykes and veins into
+the rocks around, or do the many square miles of granite melt
+away, by insensible gradations, into slates and phyllites ?
+Wherever I have observed contacts, the line of junction has
+been hard and fast. The granite does thrust out veins into the
+slates near it, and, without doubt, it alters clay slates to hornfels.
+The granite is, therefore, in a sense intrusive, but this does not
+exclude the view that it may have been, for all that, derived from
+pre-existing sediments. I will now describe a few instances that
+will maintain my position as to the intrusive nature of the granite,
+and then consider the probabilities of its being derived from pre-
+existing sedimentaries.
+
+
+A junction of granites and Silurian rock can be well seen near
+the bridge over the Winburndale Creek, on the Bathurst-Peel
+Road, a few hundred yards up stream. Two rocks are noticeable,
+one of flesh-coloured granite, which is very marked in its contrast
+with the other, a massive, compact, bluish rock —a hornfels or
+altered slate. The granite is mainly binary with strings and nests
+of translucent quartz. There are occasional flakes of black mica,
+and layers of white mica are sometimes developed along the joints.
+The flesh-coloured porphyritic granite sends veins of varying
+thickness into the hornfels. One vein, not above an inch in
+thickness, is shot in a right line into the altered slate for fully 20
+yards ; see PI. xv. fig. 5.
+In the same locality I noticed a granitic vein springing from the
+main mass of granite and entering the hornfels as a dyke about a
+foot thick. A short distance away it is narrowed down to five
+inches, at the same time bending round to form a right angle with
+the first direction and then continuing in a right line in its new
+course. Smaller veins connect the two arms at the angle. A
+diagi’am of this interesting intrusion will be found on PI. xv. fig. 6.
+A little further along the same road, in the direction of Bathurst,
+a tributary of the Winburndale is crossed. It is dry at most
+seasons of the year. By following up this creek, a variety of
+rocks will be met with, indicating that the junction of the slate
+and granite is not far off. Near the culvert, in fact under it,
+splendid samples of “ spotted slate ” can be found with a general
+strike to the north-west.
+I will narrate, in the order they are met with, some of the
+varieties of rocks that may be studied here, following the creek up
+from the road.
+1. Some three hundred yards from the culvert there is a vein of
+felspathic rock, containing blebs of translucent quartz, silvery
+mica, and quartz veins. This is some three feet in thickness, and
+contains inclusions of a schistose hornfels.
+2. Slate, dipping north-east at a high angle.
+
+
+3. A granitic dyke, with inclusions of a schistose hornfels. The
+general direction conforms to that of the slate. It consists of
+felspar, quartz and white mica. Besides the mica distributed
+through the rock, there occur nests of the same mineral, oftentimes
+with the mica contorted and broken.
+4. Spotted slate, with occasional thin veins of quartz.
+5. A dyke of granite, with large felspars and white mica. There
+are layers of white mica on every joint.
+6. Slate,
+7. Coarse granite, with parallel jointings.
+8. Spotted slate.
+9. Granite vein, some six yards wide, in places almost as fine-
+grained as a felsite. The rock is rendered porphyritic in places
+by nests of silvery mica and felspar. There are also thin veins of
+quartz.
+10. A thick belt of spotted slate, nearly two hundred yards
+wide, with occasional thin veins of quartz.
+11. A vein of granite, with black mica.
+So far, although we are approaching the main granitic mass,
+neither black mica nor hornblende has yet been developed.
+12. Boulders of porphyritic granite, with dark fine-grained
+inclusions.
+13. Beyond these last named x’ocks there are few exposures of
+the bed rock, but some hundred yards further on the typical
+Bathurst granite is met with, containing both hornblende and
+black mica.
+The succession here detailed points out that the actual junction
+between the older and newer rocks is a wavy line with sharp and
+deep bends. In one place the granite runs into the slate in dykes
+and veins, while between these there are left jutting points and
+arms of the old rock standing between walls of granite. Junctions
+of a similar nature are described by Mr. A. W. Howitt in his able
+paper on the Diorites and Granites of Swift’s Creek.*
+* Transactions of the Royal Society of Victoria, Vol. xvi, pp. 11-87.
+
+
+Near Newbridge, the junction of the igneous and sedimentary
+rocks presents the same features. In a cutting on the Bathurst
+side of the railway station bars of igneous and slate rocks can be
+studied in actual contact. The boundaxy-line between the two is
+still sharp, and no evidence can be found of a slate merging into
+a granite. On the contrary, examples can be found where the
+intrusion of the granite in a liquid or pasty condition, but
+evidently under great pressure, has bent and crushed, and pushed
+on one side, the easily yielding slates. In cases where the granite
+does alter the rock with which it is in contact, the alteration
+consists in the development of a rock not in any way resembling
+a granite. Where the alteration is most complete, a hornfels is
+the result, and where incipient alteration is noticeable, a close
+examination reveals merely a rearrangement of old minerals and
+the introduction of only one new one. Between Locksley and
+Brewongle, on the railway line, a good example is exposed of
+the alteration produced by the intrusion of granite. Near a high
+level bridge, between these two stations, a mass of granite will be
+found lying partly to one side and partly under a micaceous and
+schistose rock. The granite sends veins into the overlying
+beds. This upper rock, as stated, is of a schistose character, and
+it will be noticed that the planes of schistosity are parallel to the
+mass of the intrusive rock. In this instance the schistose planes
+are horizontal, which gives the rock a bedded appearance. But in
+other parts of the district, notably on the Hockley Road, south of
+Peel, where a foliated or schistose structure is developed, the
+foliation planes are vertical. This inclines one to the view that
+an envelope of foliated rock once surrounded the granite mass, so
+that when a portion of the original sediments remain above the
+granite the schistose structure will be horizontal, but when they
+are seen forming a vertical boundary to the intruded granite the
+planes of schistosity will be vertical. In connection with this
+peculiar structural development, it may be mentioned that a
+schistose structure can be induced in wax and mixtures of oxide of
+iron and pipeclay by pressure,* and that, in these instances, the
+* See Tyndall’s “ Fragments of Science,” Yol. I. p. 366.
+
+
+planes of the laminae are found to arrange themselves in rudely
+parallel planes perpendicular to the lines of pressure. Whatever
+may be the explanation, we have here at Bathurst a foliated or
+schistose structure developed in sedimentary rocks when in contact
+with an intrusive granite. When a fragment of these ancient
+sediments is found above, and resting on, the granite, the foliated
+structure lies horizontally, and when found adjoining the granite
+mass, the folia stand vertically. A diagram showing the intrusive
+veins at Locksley will be found on PI. xv. fig. 1. The sketches
+were made some eight years ago, when the face of the cutting was
+fresh. I examined the same section a few months ago, and
+although the rocks have disintegrated a little and vegetation is
+beginning to take hold there, the intrusive veins can be easily
+studied.
+With the evidence of these sections before us, we are now in a
+position to enquire into the origin of the granite. Everything
+that we know points to the one conclusion, that the Bathurst
+granite is intrusive. The granite alters rocks with which it comes
+in contact. It sends tongues, veins and dykes into the adjoining
+rocks. Nowhere can we trace a gradual change from a sediment
+to a rock granitic in structure. The proximity of granite has
+converted phyllites into hornfels. It has caused a rearrangement
+of old minerals in the sedimentary strata, and caused the
+development of one new mineral in abundance, namely, mica.
+But this is all. Nothing approaching a granite can be found
+resulting from any metamorphic process, and in no one section
+have I ever discovered anything like a change from a clastic to a
+holo-crystalline rock, granitic in composition.
+When I first examined the rocks around Bathurst the prevailing
+impression left on my mind was that the granite melted away by
+insensible gradations into the surrounding rocks. A more minute
+examination rendered this position untenable; but it will be
+interesting if we can yet discover a granite truly metamorphic in
+origin. There can be no difficulty, as far as chemical composition
+of some slates goes, in believing that the constituents of a slate
+
+
+rock may be rearranged so as to give rise to a rock that may not
+be distinguished from granite. The evidence advanced in support
+of the metamorphic origin of many granites broke down when the
+rocks were subjected to the test of microscopical examination.
+But there are still cases where all the refinements of modern
+geology have been employed without shaking the conclusion that
+some granites, at least, and certainly some crystalline schists, can
+be produced by the metamorphism of rocks in situ *
+There is little doubt, then, but that the granite was intruded
+into Silurian rocks after their folding and elevation. Possibly the
+granitic intrusion formed an anticlinal, and lifted the sediments
+yet higher. Silurian rocks once occupied the place now taken by
+the granite. Were the former rocks simply lifted or thrust aside,
+or were they absorbed by the molten or plastic granite ? Lifted, I
+should say. There is little proof to show in support of this view,
+but it is an impression left after a study of the whole district. I
+have no doubt at all but that portions of the Silurian rocks were
+absorbed by the granite in its intrusion. When we examine the
+outer edges of the granite, we find that for a short distance from the
+contact it differs from the typical rock. There is, for instance, an
+absence of hornblende, the mica is in nests, and the minerals,
+generally, are not arranged as in a normal granite. Quartz,
+instead of filling up the spaces left by the other constituents, is
+found in grains and blebs through a much larger body of felspar.
+All this might be accounted for by the more rapid cooling of the
+margins of any intrusive rock. But I consider it as the result of
+the absorption of a certain amount of the pre-existing phyllites.
+In this connection I would like to draw attention to some views
+on the origin of crystalline rocks as set forth in the volume of the
+International Geological Congress for 1888. f
+In a paper on the “Archaean Geology of the Region N.W. of
+Lake Superior,” Dr. A. C. Lawson points out that the archaean
+* See Green’s “Physical Geography,” Chapter ix., second edition.
++ Congres lnternational 4me Session —Londres, 1888. Etudes
+sur les Schistes Cristallins.
+
+
+rocks of that region can be resolved into two great divisions. The
+lower composed of rocks which but for their foliation are regarded
+as of plutonic igneous origin. Resting on these is a mass of
+stratiform rocks, partly detrital, partly volcanic. These latter, or
+upper series, were certainly not laid down on the lower. The old
+floor on which they were deposited has disappeared ; and again,
+Dr. Lawson points out that the lower series could not have been
+the crust from which the detritus for forming the upper rocks was
+derived.
+“ There is but one way of reconciling these statements. It is a
+simple conception, and one well in accordance with established
+geological truth, that certain portions of the earth’s crust upon which
+strata are accumulating may sink gradually. Now, that portion
+of it upon which the upper archean was accumulating, to a thick-
+ness of several miles, may be conceived to have been depressed,
+either by reason of the superincumbent weight or from other
+causes, till it came within a zone of a sort of fusion compatible
+with the conditions of such depths. This fusion gives us the
+magma which is implied in the conception of the laurentian gneisses,
+granites, and syenites, being of plutonic igneous origin.” 44
+Vancouver Island furnishes another example that may throw
+some light on the origin of the Bathurst granite. Dr. G. M.
+Dawson has described the relations of granites to triassic beds in
+Vancouver and the adjacent coasts. Triassic beds are frequently
+found in contact with, or resting upon, granite rocks. They were
+not, however, deposited on a granitic floor, as the granites are
+evidently of a later date. “ The circumstances attending the line
+of junction of the granites with the rocks of the Vancouver
+(triassic) series have been carefully examined at a great number
+of points. The granites near this line are usually charged with
+innumerable darker fragments of the Vancouver series, which,
+when in the immediate vicinity of the parent rock, are angular
+aud clearly marked, but at a greater distance become rounded and
+blurred in outline, and might then be mistaken for concretionary
+* Congrfes Geologique International, Londres, 1889 ; pp. 75, 76.
+
+
+masses in the granite, into the substance of which they have been
+in process of being absorbed. The width of the belt characterized
+by these fragments is very variable, and where the plane of the
+present surface cuts that of the junction of the two classes of rocks
+at an acute angle—as is often the case—it is considerable,
+frequently exceeding half a mile. . . . The only explanation
+which appears to satisfactorily account for the appearances met
+with, is, that we have at the surface a plane which was at one
+time so deeply buried in the earth’s crust that the rocks beneath it
+had become subject to granitic fusion or alteration.”*
+The bearing of these extracts on the geology of Bathurst is
+obvious. Here we have Silurian rocks resting on a granite. There
+must have been a solid floor on which they were deposited. The
+granite on which they rest was certainly not the pre-existing base-
+ment. And it is extremely improbable that granitic rocks formed
+the crust from which the sediments were derived. Thus far the
+conditions are very similar; and it is hard to resist the conclusion
+that when the original floor of the Silurian was being absorbed in
+the granitic magma, some of the Silurian rocks suffered a like fate.
+The Devonian and Carboniferous formations are now estimated, by
+Mr. C. S. Wilkinson,f to measure 20,000 feet in thickness. With
+two miles of strata resting on our Silurian rocks, we can see the
+possibility of the lowest series being brought within a zone of
+fusion, which would furnish the required magma, and make the
+Bathurst granite, in a sense, at once metamorphic and intrusive.
+We have abundant proof, as shown above, that the granite is
+intrusive in character. It is quite another question to decide
+whether the material that forms the granite was drawn from a
+deep-seated source, or whether it is the result of the profound
+metamorphism of a previously existing sediment.
+* Annual Report of the Geological Survey of Canada, 1887 ; Report 8.,
+pp. 11-13.
+t See “ Notes on the Geology of New South Wales,” by C. S. Wilkinson,
+F.G.S., contained in “Mineral Products of New South Wales;” Sydney,
+the Government Printer, 1887.
+
+
+I am not in possession at the present time of sufficient material
+to deal with this question, but, as a first step towards a solution
+of the problem, I may state that there is abundant reason for
+believing that the granite exposed about Bathurst is but a small
+portion of a very large mass that underlies the palaeozoic rocks on
+all sides. In keeping with this view, we find that the granite is
+exposed for a much greater distance up and down the river than
+across the valley. The lowest rock for miles around is probably
+granite, and the Bathurst rock shows merely where the overlying
+beds have been denuded.
+Microscopic Examination of the Granite. —l have made some
+twenty-five slices of the granite for microscopic examination.
+Nearly all the minerals of the rock can be seen macroscopically,
+particularly in polished specimens. Certainly there are fine-grained
+varieties, but the average Bathurst granite is coarse-grained.
+Crystals of black hornblende are not unusual of 9 mm. in length.
+Glistening faces of felspars, 16 mm. long, are frequently found.
+In polished specimens the silica and felspars appear in about equal
+quantity, or perhaps with felspars slightly in excess. The minerals
+proved to be present by a microscopic examination are :
+Essential Minerals. Accessory Minerals.
+Quartz. Muscovite.
+Felspar. Apatite.
+Hornblende. Sphene.
+Biotite. Garnet.
+Magnetite. Calcite.
+Quartz. —Under the microscope, in plain parallel light, the
+quartz is easily distinguished from all other minerals by its water-
+clear appearance, the absence of inclusions, and its fresh, unaltered
+aspect. It is found filling up the spaces left by the other consti-
+tuents. Under higher powers, inclusions will be noticed, but not
+in such quantity as to lessen the contrast between the clear quartz
+and the cloudy felspars. The hair-like lines that cut through the
+quartz in every direction fall under the heading of trichites,
+described by various observers. These trichites can be noticed
+
+
+striking in every direction through the clear quartz. A power of
+one hundred diameters shows them in great abundance. They
+branch, sometimes meet at a point, fifteen or twenty diverge from
+one point, and sometimes opaque blebs are found at various
+points along their length, or, more often, at the end. I can offer
+no explanation as to their real nature. Cavities are abundant in
+the quartz. They can be detected in every slice. I have noticed
+one spontaneously moving bubble. Besides the trichites and
+bubbles, tubes can be seen in the silica with a power of fifty
+diameters. They are evidently tracks left in the plastic mass by
+moving bubbles of gas.
+Examined in polarized light, with crossed Nicols, the quartz
+displays the usual gorgeous broad sheets and bands of colour, one
+colour imperceptibly shading into another. In very thin slices
+it appears a dull blue-grey. The great abundance of cavities in
+the silica of all the slices is explained by the fact that the quartz
+was the last mineral to crystallize. When rocks that have cooled
+from an igneous magma are studied, it is often noted, as we should
+expect, that the most fusible mineral was the last to crystallize.
+But it is found that this does not apply to granitic rocks. Every
+student knows that quartz is commonly called infusible, while the
+felspars are considered fusible in various degrees. In the con-
+solidation of granite from an igneous fluid or paste, felspar was
+the first to crystallize, while the more infusible quartz filled up
+the interspaces and was the last to solidify. Our granite is no
+exception to the rule, for the silica occurs in an amorphous state,
+enclosing the other minerals as in all true granites. This is
+explained by supposing that the original plasticity was induced in
+some other way than by what we understand as dry igneous
+fusion. The fluid inclusions prove the presence of water and
+various salts. The quartz, being the last to harden, took in any
+fluid residue and, from its enduring nature, retained it. A notable
+feature of the quartzes, under the microscope, is the presence of
+microscopic dust which seems to have accumulated on the outside
+surfaces of the quartz granules.
+
+
+The proportion in which the minerals occur, as revealed by the
+microscope, may be expressed as follows, felspar being * the com-
+monest : —l. Orthoclase ; 2, Silica ; 3. Triclinic felspars ; 4. Bio-
+tite; 5. Hornblende ; 6. Magnetite; 7. White mica.
+Felspars. —With crossed Nicols, the felspars can be readily
+divided into orthoclase and into felspars with distinct triclinic
+striations. The orthoclase occurs in sub-crystalline patches, and,
+in most slides, is the more plentiful of the two. In its general
+appearance the orthoclase is always cloudy, even in the thinnest
+sections. The cloudiness and opacity of the orthoclase is a constant
+character in all the slices I have cut. I attribute this peculiar
+dimness to pores and fractures that no doubt hasten incipient
+kaolinization. This structure has, no doubt, a great deal to do
+with the “ sickening of the rock ” before referred to. Indeed,
+anyone accustomed to micro-petrographical work, would, on
+account of these characters, at once decide that the rock was not
+of an enduring character.
+Triclinic Felspars. —The banded appearance, so characteristic of
+the triclinic felspars, is at once noticeable under crossed Nicols in
+every slice. The amount of plagioclase relative to the orthoclase
+varies much. The plagioclase is often in excess, and sometimes
+the two felspars seem equal in quantity. I sent a few slices of
+this rock to Mr. A, W, Howitt, our leading Australian petrologist,
+and he decided, from the structure of the crystals and from their
+obscuration angles, that the felspar was oligoclase. Sections are
+not uncommon with the fine bands of colour crossing at an angle of
+90°. This felspar contains inclusions of other minerals that had
+crystallized before itself. Magnetite is a common inclusion, as
+well as corroded crystals and plates of hornblende.
+Hornblende. —Every slice will show hornblende more or less
+plentifully under the microscope. The crystals are generally much
+corroded, showing that they were formed long before the felspars.
+A few examples show the exact prismatic hornblende. Most of
+the sections, however, are in zones other than the prismatic, and
+show only one set of cleavage lines. In thin sections it appears
+
+
+of a deep brown colour, and sometimes of a rich sap green. Nearly
+every slice has a favourable section on which the angle, formed by
+an axis of elasticity and a crystallographic axis, can be measured.
+Sometimes it is not easy to distinguish between hornblende and
+biotite in slices of the Bathurst granite. For the information of
+students who may make use of these notes, I may just indicate the
+difference. The micas, including of course biotite, show no sensible
+dichroism in sections parallel to the base. In sections across the
+cleavage the biotites will show very strong dichroism on rotating
+the lower Nicol prism. Hornblende is also dichroic, but a few
+sections can usually be found on the slice parallel, or nearly
+parallel, to the base; these will show two sets of cleavage.
+Sections of hornblende, parallel to the vertical axis, show but one
+set of cleavage lines, and in this resemble mica. But tlie cleavage
+planes of the hornblende are generally coarse, or seldom so close
+as those in mica. Mica, too, has usually a more ragged look than
+hornblende, and the ends of the laminae have a frayed-out appear-
+ance. Finally, unless the section be cut exactly parallel to the
+orthopinacoid, hornblende does not extinguish when the cleavage
+lines are parallel to a diagonal of the Nicols. Between
+crossed Nicol prisms all sections of biotite will be black when the
+cleavage corresponds with the plane of vibration of either Nicol, since
+the cleavage corresponds with an axis of elasticity. With horn-
+blende this is not the case, and, in the larger number of its sections,
+the point of maximum darkness will be obtained when the cleavage
+makes a certain, though not great, angle with the plane of the light.
+Biotite. —Biotite is common in all the slices. It appears as
+irregular plates, with parallel striae, corresponding to the cleavage
+on sections, parallel to the vertical axis. The absorption exhibited
+by rotating the polarizing prism under the section is very marked.
+Sometimes flakes show of a light brown colour, without any
+cleavage lines, exhibiting no dichroism. These I take to be
+biotites cut parallel to the basal planes or cleavage. They
+resemble, in every respect, flakes or plates cleaved from biotites
+and mounted separately for comparison.
+
+
+Muscovite. —Muscovite is, comparatively speaking, rare. Mr.
+A. W. Howitt first pointed out its presence to me. It is common
+enough in the aplite and kindred rocks on the borders of the
+granite country. But in the main body of the granite it lias been,
+up to the present, detected only under the microscope.
+Magnetite is readily recognised in every slice by its remaining
+opaque in the thinnest sections, and by its peculiar lustre in
+reflected light. Sphene is another rare constituent. It appears
+in clear brownish-red granules. Sometimes wedge-shaped crystals
+can be seen with dark or almost opaque edges.
+I have selected four fairly typical slides from my rock slices,
+and I will give a short description of their microscopic characters.
+1. (Slice 48). The general appearance of this slice under the
+miscroscope is that of a holo-crystalline rock. Some of the micas
+and hornblende show crystalline faces, but the quartz and felspars
+are, for the most part, allotriomorphic. With crossed Nicols, a
+considerable quantity of plagioclase becomes visible, but it is
+altogether subordinate in amount to the orthoclase. The quartz
+occurs in broad plates, filling up the interspaces between the other
+minerals, and showing in polarized light the customary brilliant
+colours. Glass cavities and fluid cavities are very abundant in the
+quartz. Fluid cavities, with bubbles of gas, can be readily found
+with a magnifying power of about seventy-five diameters. By
+using immersion lens, cavities containing spontaneously moving
+bubbles can be detected. The Bathurst granite affords abundant
+material for studying this wonderful phenomenon. The slide I
+am describing contains many good examples of spontaneously
+moving bubbles. Some of these bubbles move round the cavities
+slowly, reminding one of the movements of a rotifer in search of
+food. Others are stationary until the slice is slightly heated, when
+the bubbles are seized with a sort of trembling motion and suddenly
+start off travelling round the cavity. I have noticed many in
+which the movements are so rapid that it is difficult for the eye to
+follow them in their course. In this slice brown dichroic mica is
+abundant. It becomes almost dark in some positions as the
+
+
+polarizer is rotated. There are also a few crystals of hornblende,
+which is also strongly dichroic; but, as has been already explained
+in a former portion of this paper, there is little danger of con-
+founding the two minerals. The orthoclase felspar is cloudy,
+appearing of a snowy white by reflected light. The hornblendes
+contain some bright green patches of decomposition matter.
+2. (Slice 38), This slide contains a hornblende crystal 4 - 6 mm.
+along its vertical axis. The largest patch of quartz is 2 mm. by
+T 8 mm. Triclinic felspars are present showing a beautiful
+banded structure under crossed Nicols. The quartz is clear and
+limpid, containing few inclusions other than the fluid cavities.
+The hornblende and biotite are the only minerals showing
+traces of boundary planes.
+3. (Slice 34). The minerals present are quartz, biotite, felspar,
+orthoclase, and triclinic felspar. Fluid cavities are very plentiful
+in the quartz, numbers coming into the focus of the glass as the
+different planes are reached by the fine adjustment. The felspars
+are in places almost impellucid. A few crystals of magnetite are
+included in a flake of biotite.
+4. (Slice 37). Under the microscope some finely striated, clear
+brown mica is seen. Even in the thinnest section it is strongly
+dichroic. When the cleavage lines are parallel to the plane of
+vibration of the light, the sections are black or very dark brown.
+A few crystals of apatite are enclosed in the quartz and biotite.
+A reddish-brown wedge-shaped sphene will be noticed on the
+margin of the slice. The biotite alters to a leek-green material
+that often preserves the dichroic character, but the cleavage lines
+are lost. The felspars as is usual are impure and cloudy, and the
+quartz beautifully pellucid. The hair-like microlites, to which
+reference has been already made, are abundant. Triclinic felspar
+is present, but not so plentiful as orthoclase.
+Chemical composition of the Granite.
+Specific gravity at 18*5° C 2‘85-2'93
+1 am indebted to Mr. Mingaye, F.C.S., of the Geological Survey
+Laboratory, for the following analysis of the granite. The
+
+
+Silica
+66-69
+Alumina
+17-03
+Ferric oxide
+315
+Ferrous ditto
+-69
+Manganous ditto
+Lime (Ca 0)
+1-82
+Magnesia (Mg 0)
+2-50
+Potash (K 2 0)
+6-26
+Soda (Na 2 0)
+1-21
+Phosphoric acid ....
+Sulphuric anhydride
+Titanic acid
+Moisture
+-48
+specimen submitted for analysis was fairly typical of the general
+character of the rock ;
+Hornblende-biotite-granite.
+99-83
+Comparing the above with well-known granites, it will be seen
+that the Bathurst rock contains about 10 per cent, less silica
+than the normal type of West of England granite, while it is
+richer than the average granite in alumina and potash.
+Basalt.
+The basalts have been defined as dai’k-coloured lavas of basic
+composition and high specific gravity, representing the extrusive
+or volcanic type of the gabbros and dolerites. Dr. Geikie limits
+the term basalt to the contemporaneous lavas of basic composition.*
+They consist of a compact or finely granular ground-mass, through
+which crystals of plagioclase, augite and olivine are scattered.
+Again, some authors use the terms dolerite, anamesite and basaltf
+for rocks which, chemically identical and all holo-crystalline, differ
+* British Petrography, by J. J, Harris Teall, M.A. ; London, 1888, p. 193.
+t Professor J. G. Bonney—Anniversary Address to the Geological Society,
+London ; Quarterly Journal Geological Society, Vol. xli. p. 70.
+
+
+in the coarseness and fineness of their grains, so that the last term
+is applied to a rock which either may be holo-crystalline or may
+retain a glassy base. It would be convenient, then, to restrict
+the term dolerite to the holo-crystalline variety, using the epithet
+coarse-grained or fine-grained as the case may be ; to apply the
+name anamesite to the hemi-crystalline varieties ; and to include
+in the term basalt all that retain a glassy base.
+The Bathurst rock I shall refer to under the name of basalt
+simply. It is not as fine-grained as the typical anamesite, nor as
+coarse-grained as a dolerite, and the amount of glass in the base
+is variable. I would describe the Bathurst basalt as a blue-black,
+compact, apparently homogeneous rock, that breaks with a
+splintery and conchoidal fracture, and in which the component
+minerals can be studied only with the microscope, unless occa-
+sionally scattered porphyritically through the mass. It occurs as
+a contemporaneous flow and consists essentially of triclinic felspar,
+augite, olivine and magnetite, with small portions of an unindi-
+vidualised glassy base.* Zirkel, in studying the basalts of the
+fortieth parallel of North America, separated the felspar-bearing
+basaltic rocks into four distinct groups.! The Bathurst rocks
+would naturally fall into the group which he describes as
+“ possessing a microscopically very fine-grained, totally crystalline
+aggregation of crippled microlites, largely felspar and augite,
+which serve as a ground-mass, in which micro-porphyritical and
+macro-porphyritical larger crystals of felspar and olivine, with
+occasional augites are distinctly and sharply embedded.” Add
+magnetite and occasional patches of a glassy base, and the above
+description answers fairly well for the Bathurst rock. Of course,
+in speaking of basalts generally, we would call our rock a felspar
+* The fact of its being a contemporaneous flow does not affect the classi-
+fication. I agree with the English geologists who refuse to accept the
+geological age of a rock as a character on which its nomenclature ought to
+be based. See Judd, “On the Tertiary Gabbros,” &c., of Scotland,
+Q.J.G.S., Vol. xlii. p. 60.
+f Zirkel, Microscopical Petrography of the Fortieth Parallel; United
+States Geological Exploration, p. 253.
+
+
+basalt, which would distinguish it at once from the leucite basalts
+that are known to occur at Harden, Byrock, and Cobar. Com-
+pared with the basalts immediately around, those of Orange and
+Carcoar for instance, the Bathurst rock is distinctive enough.
+This is most easily detected in preparing thin slices for the micro-
+scope. Long before the slice is sufficiently thin, the Orange basalt
+is seen, by transmitted light, to consist of a felted mass of plagio-
+clase, with augites and olivines for the most part wedged between.
+The Bathurst slice on the contrary will show micro-porphyritic
+minerals in a holo-crystalline base with an abundance of magnetite
+and drop-like grains of augite. Basalts of this type are not
+uncommon in Europe and America. The resemblance extends
+even to such minute details as the serpentinization of the olivines,
+and the sharp well-marked features of the iron oxides. Zirkel’s
+remark, relative to the American basalt, applies well to this
+Australian example. “It is worth while,” he says, “to pause and
+remark that in these widely remote quarters of the globe the
+product of the solidification of a molten mass, although exposed
+to many casualties, has nevertheless maintained a surprisingly
+close identity of microscopical composition.”*
+Basalt in the Field. —A glance at the map accompanying this
+paper will show the extent of the basalt. It marks the course of
+an old river valley. At the outside it is not more than 150 to 200
+feet in thickness where it lies deepest. It can be studied well at
+the quarries on the Bald Hills, where stone is obtained for road
+purposes. Perth railway station is very convenient to the hill
+marked F. Here the basalt forms one of those table-topped hills
+which, in the western district, are invariably recognised, even from
+a distance, as basaltic. The road from Perth to Evans’ Plains
+crosses a saddle in the hills. On this road sections of decomposed
+granite are exposed, where the weathering of the rock can be
+noted. About half way up the hill water-worn pebbles will be
+found, increasing as we ascend. These have weathered out from
+the drift that lies between the granite and basalt. As soon as no
+
+
+more water-worn pebbles can be found, it may be takeu for granted
+that the highest point of the drift and the lowest point of the
+basalt have been reached. The weathered surfaces of the rock on
+the hill tops show no evidence of the prismatic structure under-
+neath. This prismatic structure may be seen in the quarries
+referred to. They are situated on the line A—B. The columns
+are utilised in their natural state for kerb stones. They break in
+some directions with a conchoidal fracture, while in other directions
+the stone can be broken in parallel flakes. From Perth the basalt
+may be followed without a break to the point marked L. Here
+there is an isolated hill with a basaltic cap, known as the Pinnacle.
+The table-topped hill overlooking Evans’ Plains is the next remnant
+of the once continuous sheet. Then there is a long break to Mt.
+Pleasant, near Mr, Stewart’s residence. Perth and Mt. Pleasant
+are the extreme points of the basaltic flow around Bathurst. Of
+course these points were not the original limits of the basalt
+plateaux. Allusion has been already made to the source of this
+basalt. Mr. Wilkinson pointed out that the stream came down
+from the neighbourhood of Swatchfield. Possibly a microscopic
+examination of the Swatchfield basalts could throw light on
+this question. It is certain, however, that no volcanic “ neck ”or
+traces of a crater exist within a radius of ten miles of Bathurst.
+Very little has been done to expose the drifts under the basalt,
+so that some idea may be gathered as to the nature of the old
+valley. Along some points, where the basalt has been entirely
+worn away, there is an abundance of silicified wood strewn about
+the surface. This, no doubt, has been derived from the drift, and
+shows that the river valley flowed through a forest-clad region.
+At the present time the ridge of basalt forming the Bald Hills
+stands from 400 to 600 feet above the surrounding country. In
+the pre-volcanic days it was of course the lowest point. We have
+here, then, a splendid example of the effects of subaerial denuda-
+tion. The old mountains and valley have both disappeared, and
+the untiring hand of Nature has spread out the material of which
+they were composed over the great tertiary plains of the interior.
+In this connection I must draw attention to a fact oftentimes
+
+
+overlooked when dealing with our geology. We are, for the most
+part, accustomed to consider the material removed by denudation
+as eventually carried to the sea. None of the material removed
+by denudation from around Bathurst in Tertiary times ever reached
+any sea. It was disposed of in the same way as is the vast amount
+of material brought down each year by the Macquarie. None of
+this material ever gets to the sea, but is deposited over the plains
+between Dubbo and the Darling. “ The precipitous and rugged
+country about the Upper Macquarie, the chains of basalt capped
+hills in the Bathurst district, and all the surfaces which form the
+valley of the river down to Wellington, have been carved into
+their present shapes by the subaerial influences of air, fiost, xain,
+and rivers. Near Dubbo we might draw the line which would
+show the limit of deposition, denudation and deposition being
+synchronous and co-equal. The basaltic hills referred to have
+their representatives at Dubbo, but with their summits barely on
+a level with the surrounding country.”* Professor A. Geikie
+describes geological features very similar to our own in a paper on
+the “Tertiary Volcanic Rocks of the British Islands. Refening
+to the ridge of Eigg, he says;—“ In Eigg a fragment of the river
+valley has been preserved solely because it has been sealed up
+under streams of vitreous lava which could better withstand the
+progress of waste. Thus the Scur of Eigg, like the fragments of
+the older basalt-plateaux of Auvergne, remains as a monument
+not only of volcanic eruptions, but of a former land surface, now
+effaced, and of the irresistible march of those slow and seemingly
+feeble agencies by which the denudation of a country is effected.
+It is very probable that a columnar structure is developed along
+the line of hills, but unfortunately there are no natural exposures
+of this interesting phenomenon. A large opening has been made
+nearly on the line of section AB, PL xvi. Here the columns of
+basalt show well. Many are curved in a peculiar manner, but for
+the most part the columns are straight. Between the joints they
+vary in length from two to seven feet. The cup and socket
+*J. Milne Curran, “ Notes on Geology of Dubbo.” P. L. Soc. N.S.W.
+01, X. p. 170.
+
+
+structure so characteristic of the jointings in basalt is nowhere to
+be seen. The joints are planes, sometimes normal to the sides of
+the columns and sometimes forming small angles with them. As
+regards thickness, there is no uniformity in the columns. The
+average size might be taken as eighteen inches across. The
+weathering of these columns is rather noticeable. As the basalt
+decomposes it peels off in layers, and the centres of these films are
+fairly fresh. Plate xvil. shows this peculiar weathering.
+The columns are, for the most part, tetragons, pentagons, and
+hexagons. With regard to the relative frequency of the various
+kinds, the following may be taken as a fair estimate—tetragons
+4 per cent., pentagons 20 per cent., hexagons 65 per cent.
+I made some measurements of the angles of the basaltic columns
+with these results :
+Tetragons (sum = 360°) :
+(i.) a 93° (ii.) a 113°
+b 110 b 81
+88
+68
+Pentagons (sum = 540°)
+(i.) a 112°
+(u.) a 133°
+b 121
+b 118
+c 81
+d 115
+e 95
+c 100
+d 98°
+e 89
+(iii.) a
+
+
+In hand specimens, the Bathurst basalt bears a strong resem-
+blance to the Rowley Regis basalt of Staffordshire. It is not
+unlike, in its texture, a basalt in my own collection from Madeira.
+It differs, however, from the basalt flows of the same age about
+Orange and Dubbo. It is commonly known as “ blue metal,”
+and I think that the Bathurst rocks have a decidedly bluer
+shade than the generality of western basalts. This peculiar
+blue-black is noticeable only on fractured surfaces, polished
+surfaces being very dark or almost black.
+Microscopic Structure of the Basalt. —l have cut thirty slices of
+this basalt, collected at various points between Perth and Mt.
+Pleasant. Five slices were cut from rocks from the high hill
+overlooking Perth. Ten slices were made from the columnar
+basalt in the quarries already referred to, and were taken from an
+average depth of fifteen feet from the surface. A few slices were
+collected from the hill known as the Pinnacle, and the remaining
+number from Mt. Pleasant. Under the microscope there is no
+essential difference between any of the slides. In fact there is
+not even a structural difference between the slices from the most
+widely separated localities.
+In grinding down the sections, the first mineral to show is
+olivine. While the section is still comparatively thick, the micro-
+porphyritic crystals of olivine are seen as clear spots in the, as yet,
+opaque slice. The next mineral recognisable is invariably the
+augite, and as the section thins down the plexus or network of the
+tiny felspars becomes visible. As the section grows thinner, the
+
+
+base resolves itself into tiny globules of olivine, augite and felspar.
+In this ground-mass augite is much more abundant than would be
+supposed at first sight. In every slice black grains of magnetite
+are plentiful, and remain opaque in the thinnest sections. It is
+usually well preserved and shows no signs of decomposition. It
+was the first mineral to separate from the glassy magma, and is
+the only primary constituent ever enclosed in the olivines.
+Broadly speaking, the structure is decidedly micro-porphyritic.
+A “ streaming of the felspars ” is a very characteristic structure
+at once recognised under the microscope. It is hardly pronounced
+enough, however, to be termed a fluxion structure. The lath-
+shaped plagioclases are often seen sweeping round the larger
+olivines and augites, pointing, without doubt, to movements in the
+molten magma. This structure is shown on PI. xiv. figs. 4 and 5.
+The abundance of black magnetite which remains opaque even
+in the thinnest slices is the next feature to attract attention.
+From Professor Judd’s researches, I could conclude from this
+feature alone that the rock cooled at or near the surface. As
+Professor Judd remarks,* in most deeply-seated rocks the iron
+oxides enter into complete combination with the silicates, and in
+other cases there is a progressive increase in the quantity of
+magnetite which is separated according to the proximity to the
+surface at which consolidation has taken place.
+Magnetite was one of the first minerals to separate from the
+magma. It is the only mineral ever included in the olivine, but
+its enclosure in this mineral is a very common occurrence. The
+large olivine crystal on PI. xiv. fig. 4, shows a cube of magnetite.
+The felspars, too, it will be noticed, seem for the most part per-
+fectly fresh and unaltered. These plagioclases exhibit parallel
+twin-striation in polarized light, a feature common to rocks of
+this sort throughout the globe.
+The olivines are abundant in every slice, showing, as is usual,
+that peculiar ground glass surface which helps to identify it.
+
+
+rock.
+Porphyritic olivine ...
+... 13 percent.
+„ augite
+... 9 per cent.
+Olivine is of course no longer regarded an essential constituent
+of basalt, but it occurs in such remarkably fine crystals in these
+rocks that their presence distinguish it at once from all Aus-
+tralian basalts with which lam acquainted. By taking a micro-
+photograph and cutting out the portions representing the olivines,
+the percentage of olivine can be calculated. With the porphyritic
+crystals this is easily done, but in estimating the granular olivines
+of the base a large margin for error must be allowed. The applica-
+tion of this method is common with petrologists, and was originally
+devised by Dr. Sorby.* I have cut several micro-photographs in
+this way with fairly even results for the average structure of the
+rock under Rosenbusch’s class of olivine-basalt.f
+This comparatively large percentage of olivine would bring the
+Besides the large crystals of olivine there is the granular
+olivine which with augite and felspar form the base. Under a
+magnifying power of 100 diameters a micro-photograph can be got
+of this granular base, from which the parts representing olivine
+can be cut. My experiences gave me 23 to 29 as the per-
+centage of this mineral in the base.
+A glance at the micro-photographs appended will show the
+presence of porphyritic augites. But there is also a very large
+amount of augites in the micro-granular ground-mass. The
+quantity of augite is easily shown by treating the slice (after first
+getting a micro-photograph) with warm hydrochloric acid. After
+four hours’ digestion, the magnetite, serpentinous matters and
+olivine dissolve, and the felspars and augite only remain;
+olivine and magnetite being soluble in HCI., while the augite
+and plagioclase are scarcely affected.
+* J. J. H. Teall, “ Petrological Notes on some North of England Dykes.”
+Q.J.G.S., Yol. xl., p. 216.
+f H. Rosenbusch, Micro-Physiographie der Massigen Gesteine, Zweite
+Auflage, p. 733.
+
+
+Another reaction that renders the olivine of the ground-mass
+distinct enough from the augite is effected by treating the slice
+with warm HCL, until on gently drying the olivines gelatinize
+slightly, when they can be stained by fuchsin. The olivines will
+then stand out in marked contrast to the augites.
+In many of the slides patches of an isotropic glass can easily be
+detected, particularly with the help of the quartz plate. The glass
+often seems of a light wine-red colour by transmitted light. I notice
+that prolonged treatment with acid has no appreciable effect on
+this substance. The glass is, therefore, not of a tachylytic nature,
+but more acid in character.
+From what has already been said it will be gathered that there
+are two generations of olivine, augite and felspars in the Bathurst
+basalts. This is quite in keeping with the observations that have
+been made on similar rocks in the Old World. In the peridotites
+it is common to find olivine in the ground-mass and the same
+mineral as porphyritic crystals. In many dolerites labradorite and
+augite form the principal ingredients of a ground-mass in which
+the same minerals occur porphyritically* I have met with no
+explanation altogether satisfactory of this common condition of
+igneous rocks. In the paper just referred to Dr. Bonney remarks
+that although an explanation of these anomalies does not seem
+hopeful, we may bear in mind that the temperature of consolida-
+tion for a mineral out of a magma is not necessarily identical with
+that of the isolated mineral, as one substance acts as a flux on
+another.
+As throwing some light upon this interesting question of the
+separation of minerals from a molten magma, the following extract
+from a paper by Professor Judd applies to our own rocks.
+“ In some instances the mechanically injured condition of the
+crystals and other appearances strongly suggest their actual trans-
+port from below in the midst of the materials of the surrounding
+ground-mass. But in others the porphyritic crystals exhibit zoned
+structures and other characters not found, perhaps, in the deeper-
+* See Professor T. G. Bonney, Q.J.G.S., Vol. xli., p. 79.
+
+
+seated rocks of the class in the same area. May we not in these
+cases explain the phenomena in the way suggested by M. Michel-
+Levy by the consolidation having taken place at two different
+periods 1 It is not difficult to imagine conditions which would
+bring about such a result. If, for example, a mass of igneous
+materials were in a liquid state at a great depth from the surface,
+the conditions might be favourable to the separation of a felspar
+of a given composition from the magma. The continued abstrac-
+tion of certain elements from the base would alter the composition
+of the surrounding magma, and this would modify slightly the
+conditions causing the successively formed zones of the crystal to
+vary slightly in composition. But if a fissure were formed above
+such a molten mass, then the pressure upon it would be greatly
+and suddenly relieved, even though no actual movement occurred
+in the deeper-seated portion. Under the entirely new conditions
+thus originated, the magma surrounding the zoned crystals already
+formed might be induced to crystallise in a totally different manner,
+the order of the separation of the minerals and the forms and
+relations of their several crystals being determined by these new
+conditions.”
+As some of the minerals in the basalt present features worth
+noticing, I may refer to the characters they present when seen
+under the microscope.
+Olivine. —The porphyritic crystals of olivine are so abundant
+that, with very few slides, sections may be found in various zones
+sufficient to study its leading optical properties. I have noticed
+sections close to basal planes, and sections approximately parallel
+to the macropinacoid, so as to show an interference figure in con-
+vergent polarized light. Sections roughly showing the form of an
+elongated hexagon are plentiful. The peculiar ground glass
+surfaces, due to its high refractive index, are very pronounced.
+In fairly thin slices the mineral shows a very faint yellow-brown
+colour. But the most remarkable feature in the olivine is the
+fact that it is the first mineral in the rock to fall a victim to
+alteration. Every large crystal shows serpentinous lines of
+
+
+decomposition. I have not met with an instance where the
+alteration is complete. The green serpentinous matter follows the
+cracks and cleavage lines and gradually eats its way across the
+intervening spaces. The micro-photographs on PI. xiv. figs. 2 and 4
+show this change clearly enough.
+The edges of the olivines are sharply defined and show little or
+no signs of corrosion. The form of the crystals does not seem
+affected in any way by the surrounding minerals, so that, to use a
+term of Rosenbusch’s, they are for the most part idiomorphic.
+Inclusions of magnetite are common, as well as patches of a semi-
+devitrified glassy base. It is more than probable that some of the
+large olivines were formed at a depth and floated up before the
+second generation of olivines consolidated. On PI. xiv. fig. 1 will
+be noticed a crystal of olivine that was broken along a central
+line ; one half is seen in the micro-photograph, and the other half
+is found on another part of the slide.
+Augite. —The augite in the Bathurst basalt is not penetrated by
+the felspars, so as to give rise to an ophitic structure. But the
+consolidation of the augites must have been subsequent to that of
+the felspars. The augite is sometimes to be seen partly moulded
+around the ends of the laths of plagioclase. An example is shown
+on PI. xiv. fig. 5. Here a large zoned augite is seen partially
+penetrated by a felspar as if the latter was forcibly carried against
+the augite when the pyroxene was still in a plastic condition.
+On slide 41 an augite will be found with well defined edges.
+It shows a figure in convergent polarized light. Faint traces
+of cleavage lines seemingly parallel to the prism can be
+detected, so that it is evidently a section. The same
+slide shows some good examples of zoned and twinned
+augites. On slide 46 a fine example can be found of a porphju’itic
+augite sliced in the clinopinacoidal plane. The crystal is partially
+penetrated by a felspar, and with inclined Nicols shows the well
+known hour-glass structure often noticed in augites.
+Felspar. —Mr. A. W. Howitt made some measurements of the
+felspars in this basalt, and noted that, as all the obscuration angles
+
+
+measure 20° in the zone OP go Pco , the felspars were not more
+basic than andesine. For the present it will be sufficient to
+describe the felspar, whether andesine or labradorite, as plagio-
+clase. Twin crystals are very common in every slice. Sometimes
+broad cruciform twins are seen, one good example of which may
+be noted on slide 41.
+Magnetite. —l have never isolated the black crystalline
+bodies which I have provisionally named magnetite. On being
+analysed they may prove to be ilmenite or titaniferous magnetite.
+By drawing a magnet through detrital matter, near the basalt,
+large quantities of a magnetic iron can be collected. This gives a
+strong reaction for titanium. I have not been able to decide
+whether this may not be derived from the adjoining granite.
+The magnetite in the basalt I take to be a primary constituent.
+It is invariably sound and undecomposed. It -can be noticed
+enclosed in clear augites and olivines. I have noticed secondary
+magnetite in other basalts, but in that case the olivine and some
+of the augite had disappeared, and the iron of the ferro-magnesian
+minerals was represented by the magnetite. The augites in our
+rock are beautifully clear, and no olivines are wholly decomposed.
+I have selected three slices as fairly representing the microscopic
+character of the whole basalt. I will describe their general
+structure.
+1. (Slide 45). The micro-porphyritic structure of this slide is
+just visible to the unaided eye. Under the microscope large
+olivine crystals are seen, set in a paste or granular base of magne-
+tite, augite and felspar microlites. The olivine crystals are beauti-
+fully clear, magnetite and blebs of glass being the only inclusions.
+The olivines are better preserved than it most slices, showing
+very little signs of serpentinization. The streaming of the felspars
+is very characteristic. One large olivine has evidently moved when
+the paste was partially set, as it is seen to have pushed on either
+side a collection of felspars. Besides the lath-shaped felspars,
+broad rectangular plagioclases of another species probably are
+represented. The magnetite crystals seem disposed to gather
+around the edges of the augites and olivines.
+
+
+Specific gravity at 18‘5° C
+2-63-2-75
+Silica ,,
+44-67
+Alumina
+21*38
+Ferric oxide
+2-82
+Ferrous ditto
+5-99
+Lime (Ca 0)
+10-24
+2. (Slide 48). Large twins of augite can be detected without
+the use of the microscope, their yellowish-brown colour contrasting
+with the other almost colourless minerals of the slice. Under the
+microscope the greater number of the lath-shaped felspars show
+incomplete terminations. A few small olivines are seen altered
+completely to a light green serpentine. Many other patches of a
+like green secondary product, that show no definite boundaries,
+originated in the same way. All the magnetite seems a primary
+constituent. A few large augites show lines of uncertain inclusions
+just inside their boundaries and parallel to the outer edges of the
+crystal. With inclined Nicols, faint traces of zones can be
+detected. There is very little glassy matter.
+3, (Slide 9). Under the microscope, shows the general structure
+of the Bathurst basalt. Porphyritic crystals of augite, olivine and
+plagioclase, set in a much finer ground mass of the same minerals,
+with cubes of magnetite abundantly developed. The felspars flow
+round the augites, but are not seen to penetrate them, so there is
+no arrangement approaching to the ophitic structure. Patches of a
+light red isotropic body are seen set in the dark hemi-crystalline
+base. It is probably glass. The large compound augite has
+some inclusions of the same material. The augite contains well
+marked cubes of magnetite as inclusions. The olivines are seen
+cracked in directions evidently independent of the cleavage lines.
+They are also somewhat corroded along their outer edges.
+The microscopic structure of the basalt is so uniform along its
+length in the field that the above descriptions may be taken as
+fairly typical of the whole.
+Chemical composition of the Basalt.
+
+
+Magnesia (Mg 0)
+. 9-58
+Potash (K 2 0)
+. 1-03
+Soda (Na 2 0)
+2-70
+Phosphoric anhydride
+•22
+Sulphuric ditto
+trace
+Titanic acid
+. trace
+Moisture
+•79
+99-42
+For this analysis I am indebted to Mr. J. Mingaye, F.C.S.,
+Analyst to the Department of Mines. The chemical composition
+shows a basic rock quite in keeping with its microscopical
+characters.
+To facilitate the future study of the rocks of Bathurst, I now
+append a few remarks to point out the means of seeing the various
+features of interest in connection with the district. The passage
+from a granitic to a slate country, and the characters that accom-
+pany the change, can be observed in a morning’s drive. By taking
+the Peel Road, via Kelso, tertiary drifts are seen on the right
+from Kelso to the trigonometrical station, at the first turn to the
+right. Granite country continues until the descent is begun to the
+valley of the Winburndale Creek. In this creek, and in a small
+tributary already referred to, contact rocks can be noted. When
+the village of Peel is reached the student finds himself in the
+midst of slate country. Take the road that leads back to Bathurst,
+via Duramana. Some worked out alluvial deposits can be examined
+on the creek. With a local guide then follow the road to Rankin s
+Bridge, via Kelly’s farm and Duramana. About Kelly’s farm
+hornfels rocks, semi-granites, and the weathering of granitic
+boulders can be studied. Getting on to the main road to Rankin’s
+Bridge we are again in granite country ; outcrops of the rock are
+plentiful near the bridge. From the road near Seage’s farms good
+views can be had of the sheets of the basalt away to the south,
+forming the Bald Hills at one extremity and Mount Pleasant at
+the other.
+
+
+On reaching Peel another route could have been takeu. Beyond
+the village a road leads away to the right through Silurian
+slate country. This’road joins the Bathurst Limekilns road, which
+latter can be followed home. At the bridge crossing the Win-
+burndale, good casts of Brachiopods —Spirifer and Rhynchonella—
+can be found in the water-worn pebbles of the creek. These have
+been washed down from the Devonian sandstones that are exten-
+sively developed up the valley.
+A very good idea of the slate and schist country about Cow
+Flat can be gained by driving south through Perth, and following
+the Rockley Road to the top of the first range. Here contorted
+slate, clay slate and crystalline limestone crop out. A road
+through Cow Flat to George’s Plains railway station leads away to
+the right. Along this latter road splendid examples of meta-
+morphosed rocks, slate country and quartz reefs can be seen.
+Basalt is best seen by ascending the Bald Hills at Perth, and
+then following a track that leads along the hill tops to Bathurst,
+via the basalt quarries and Poor Man’s Hollow. A separate trip
+should be taken to study the drifts and basalt on the hill over
+Evans’ Plains, and the same rocks at Mount Pleasant.
+The localities of the contact rocks have been already referred to
+in sufficient detail.
+x. Economic Geology.
+Gold. —There is little prospect of finding payable gold in quantity
+immediately round Bathurst. It is not probable that it has been
+derived from the granite. We therefore fall back on the only
+alternative that it has been drifted from a distance. And the
+nearest auriferous country whence it could have been derived is
+too far away to leave any hope of heavy deposits.
+Granite. —For building purposes the granite will hardly ever
+become a marketable commodity. Even at a depth the felspars
+are kaolinized and the whole rock suffers from incipient decom-
+position. True it will take a polish, but I have had an opportunity
+recently of examining a polished slab of Bathurst granite that had
+been exposed to the weather for eleven years. Already the laminae
+
+
+of biotite were fraying out, and the large hornblendes were honey-
+combed and had quite lost every trace of polish. Disintegrated
+granite is used extensively about Bathurst for walks amd gardens
+in the same way as gravel is used in other countries.
+Basalt. —The basalt is used extensively for road making, for
+which it is admirably suited. It is fortunate that there is so
+large a reserve of this useful rock in the vicinity of the town. It
+is sometimes used for building purposes. The basalt can be easily
+dressed with a hammer into rectangular blocks, and buildings in
+which it is used must be of an enduring nature. Its very dark
+colour is its only fault. It is as durable as any building stone
+need be. Some that has been in use for fifteen years shows no
+trace of weathering, being so dense and compact that not even
+a lichen had taken hold on its surface.
+Kaolin. —The deposits of kaolin have been frequently tested and
+condemned, chiefly on account of a rather high percentage of iron
+that they contain. When good fire-clay and kaolins are so easily
+procurable in the colony, it is hardly likely that the Bathurst
+article will prove of economic value.
+Copper. —The lodes of copper about Cow Flat were at one time
+extensively worked. Many who are familiar with the under-
+ground workings ai’e of opinion that they will yet prove a source of
+wealth. The whole country about Cow Flat is highly favourable
+for mineral deposits, A belt of highly mineralized country runs
+from here along the granite boundaries. Large deposits of pyrites
+occur in highly metamorphosed slates. Very little has been done
+to test their value.
+To the north of Bathurst the country about Peel seems favour-
+able for auriferous reefs. Odd samples of copper-stained rocks are
+occasionally found in the metamorphic rocks round Duramina.
+These point to the occurrence of copper lodes not yet discovered.
+Clays. —Excellent clays for brick-making are found all along
+the alluvial flats. Where the alluvial material mingles with the
+decomposed basalts the bricks improve both in quality and colour.
+
+
+xi. Other Points op Interest.
+About eighteen miles to the north of Bathurst some very
+interesting geological country is easily accessible, particularly
+about the Limekilns and the Ben Glen caves, where good collec-
+tions of Silurian fossils can be made.
+At Blayney a finely typical example of the interesting rock
+diabase occurs. It will be found in a small quarry near the R.C.
+Church. To the naked eye it might pass for a diorite, but on
+slicing the rock it is seen to consist entirely of felspar, magnetite,
+and a monoclinic pyroxene, augite. The augites are porphyritic,
+and many of them beautifully zoned.
+At King’s Plains, near Blayney, rich and extensive patches of
+gold bearing drift are known to occur, which have not been worked
+chiefly on account of the great body of water that has to be con-
+tended with. Gold also occurs here in a steatitic slate, which
+once contained large quantities of pyrites. The pyrites has
+altogether disappeared, but the rock is full of cubical cavities
+pointing to its former existence.
+I have in my own collection a monster twin pseudomorph of
+pyrites found here, in which the faces of the cube measure two
+and a half inches.
+About Carcoar some highly interesting gabbros are extensively
+developed. These are holo-crystalline rocks of coarse texture,
+consisting of pyroxene and felspar. In calling these rocks gabbro
+I follow Professor Judd’s classification in his paper on the gabbros
+of Scotland and Ireland.*
+At the Three Brothers Hills, between Bathurst and Blayney,
+an interesting basalt is found with a flaggy structure. I have not
+examined the locality, but I have seen slabs of basalt brought in
+from there varying in thickness from two inches to four.
+Steatite is found in a slaty condition about Hockley and
+Locksley.
+* Q.J.G.S., Vol. xlii. , p. 61.
+
+
+Wood opal, that polishes well, can be collected in some paddocks
+between the cemetery and Mount Pleasant. Good fire opals are
+known from Rocky Bridge Creek, where they occur in a decom-
+posed trachytic lava flow. Good coloured amethysts and rose
+quartz are frequently brought in from the country between
+O’Connell and Oberon.
+xii. Conclusion.
+1. Getting results together we find that about Bathurst granitic
+rocks are extensively represented.
+2. This granite area is surrounded by an aureole of metamorphic
+rocks.
+3. There is no insensible gradation from a clastic to a holo-
+crystalline rock, from a sedimentary rock to a granite.
+4. The granite is intrusive as regards the surrounding slate
+rocks.
+5. This is not necessarily opposed to the view that part of
+the granite may have been formed by a whole or partial fusion of
+pre-existing sediments. Like the granites of Vancouver, the
+Bathurst granite is probably at once intrusive and, in a sense,
+metamorphic.
+6. The silurian slates are the oldest rocks now represented in
+the district—older than the underlying granites.
+7. The granite comes next in order of time.
+8. The granite rocks underlying the slates are not the floor on
+which the slate rocks were originally laid down.
+9. This floor has entirely disappeared through sinking within a
+zone of fusion, or through being absorbed by an ascending molten
+magma.
+10. Under the microscope the granite is a hornblende-biotite-
+granite with a triclinic felspar.
+
+
+11. On a microscopic examination the “blue metal” is found
+to be a true olivine basalt and an old lava flow that filled up an
+ancient river bed. The point of eruption was near Swatchfield.
+No doubt pages and chapters of the geological record are missing,
+but the foregoing is my reading of the history of Bathurst as
+written in her rocks.
+EXPLANATION OF PLATES.
+Plate xiv.— Reproduced from microphotographs of thin slices of Bathurst
+basalts. Fig. 1, x 50, shows the general structure of the basalt at Pinnanlg
+Hill. To the right two olivines are seen, traversed by serpentinous lines of
+decomposition. The lower olivine represents one half of a crystal, the
+other half of which floated away to a considerable distance. The lath-
+shaped felspars show a tendency to stream round the large crystals. Fig
+2is a basalt from Mt. Pleasant, enlarged 50 diameters. A very character-
+istic olivine occupies the right of the figure. The dark lines following the
+cracks are bright green decomposition products. On the other side of the
+figure there is a large plagioclase, containing some inclusions of the base.
+Fig 3 shows a thin slice of basalt from the quarries at Bald Hills, enlarged
+50 diameters. At the top of this figure there is a portion of a micro-
+porphyritic olivine, and some distance below a basal section of augite.
+These and other large crystals are set in a micro-crystalline ground mass.
+The lath-shaped felspars show a decided flow. The magnetite is very
+abundant as black grains. Fig. 4, x9O diameters. Under this magnifying
+power magnetite shows clearly. The large olivine in the upper portion of
+the figure shows inclusions of this mineral, one being a perfect cube. The
+other large crystal is an idiomorphic augite. Between these two crystals
+a streaming of the felspars is very noticeable. It will be remarked that the
+felspars have incomplete terminations and sometimes bifurcate at either
+extremity. Fig. 5. —In the lower left hand portion of this figure a large
+augite is seen partially penetrated by two plagioclase prisms. The smaller
+lath-shaped felspars flow round the augite in an interesting manner.
+Magnetite is scattered through the slide. The two clear spaces at the top
+are olivines. The thin slices in Figs. 4 and 5 were cut from basalt used for
+kerb-stones in Bathurst, and quarried on the Bald Hills a few miles south
+of the city.
+Plate xv. —Fig. 1 shows a vein of granite intruding a much altered
+sedimentary rock. Between Brewongle and Locksley this section is exposed
+
+
+in a railway cutting. Fig. 2 shows an intrusive vein in 'Silurian slates, on
+the outer boundary of the granite, near Newbridge. Fig. 3is a sketch of
+forking veins of binary granite, near Newbridge. Fig. 4 shows a younger
+and lighter-coloured granite penetrating a dark coloured rock of the same
+character. Figs. 5 and 6 show veins of granite cutting through altered
+sedimentary rocks. These were sketched in the Winburudale Creek, above
+the bridge on the Bathurst-Peel Road. Fig. 7 represents junctions between
+slates and granite. The line of junction is very sharp and well defined,
+and is exposed in a railway cutting on the Bathurst side of Newbridge
+railway station.
+Plate xvi. —The highest point of the basalt is about 600 feet above the
+river. The drift which is shown under the basalt was pierced by a tunnel.
+The relations of the rocks to the sections are drawn from notes made during
+the progress of the tunnelling works. Fig. 2 gives the relative positions of
+all the basalt around Bathurst. Some four miles of the ridges do not
+show in the sketch, as at the left of the section the chain of hills bends
+away south at right angles and so is hidden from view. The view is from
+the north.
+Plate xvii. —Prismatic basalt, Bald Hills. This quarry is very nearly on
+the line of section marked AB on the map. The weathering of the rock is
+shown. Large flakes of decomposed matter peel off the sides of the prisms.
+These flakes are from half an inch to one and a half inches in thickness,
+and often contain a core of undecomposed basalt. As work goes on it is
+probable that better columns will be exposed.
+Plate xvxii. —Sketch map representing the boundaries of the basalt as
+accurately as is possible on this scale. It is easy to join the isolated patches
+and thus trace the former course of the river.
+I have to thank Miss Annie Herlihey, of the Dubbo Superior
+Public School, for much valuable assistance in the preparation of
+this paper.
+
+
+P. LS.N.S.W.(2'? < ? Ser.) VoI.VI
+PI.XLV
+J M C, Del.
+ST-Leigh i Co.Jith
+
+
+
+
+R L.S.N.S.W.(2 nd Ser.) VoI.VI
+
+
+
+
+RLS.N.S.W.(2" d Ser.) VoI.VI
+PI.XVI
+
+
+■
+
+
+PL.S.N.S.W.(2 nd Ser)VoL.VI.
+PI.XVII
+J-MCj Del BASALTIC COLUMNS, BALD HILLS, s-T-LtMtCo. HHt
+BATHU RST
+
+
+
+
+PLS.N,S,W.(2 nd Sec) VoI.VI.
+PLXVIII
+
+

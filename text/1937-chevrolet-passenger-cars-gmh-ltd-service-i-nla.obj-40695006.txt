@@ -1,0 +1,1876 @@
+
+
+SERVICE
+INFORMATION
+1937
+CHEVROLET
+Passenger Cars
+Issued by the Service Department, General Motors - Holden's Limited
+March, 1937
+
+
+Frame
+The frame is of the Box-girder type, which
+provides great strength combined with a mini-
+mum weight. It has the further advantage of
+making access simple to other parts of the chassis.
+It consists only of two double-drop side rails
+connected by three box-section cross members,
+another cross member which serves as a fuel tank
+support, and an engine side support tie bar.
+CROSS MEMBERS
+The box-section front cross member and king
+pin support together form a support for the en-
+gine, radiator, headlamps, front end sheet metal
+and knee-action units. The tie bar is bolted di-
+rectly to the bottom of the side rail. Being bolted
+in place, the member can easily be removed when
+it is necessary to remove the engine oil pan.
+The second cross member serves as a support
+for the transmission, hand and foot brake mech-
+anism and their supports and protects the front
+end of the battery against flying stones.
+At the left side of the frame, just ahead of this
+member, a channel links the side rail and the
+cross member. This bracket supports the brake
+main cylinder and pedals.
+The third cross member serves as a support for
+the front of the fuel tank.
+HANGERS
+Practically all of the hangers attach to the lower
+flanges of the side rails. The rear spring front
+hangers are placed directly under each side rail,
+reducing otherwise severe loads by eliminating
+torsional overhang.
+The rear hangers of the rear springs are heavy
+drop-forged brackets, each incorporating a cylin-
+drical boss in which the shackle pin fits.
+The four step hangers are riveted to both
+flanges of the rails.
+Bolts for the rear shock absorbers and front
+and rear bumpers go completely through the side
+rails. In addition, a sheet steel reinforcement, with
+each end rolled cylindrically to enwrap the attach-
+ing bolts, is used at each point of the bumper and
+shock absorber mounting points.
+BODY MOUNTING
+For attaching the front end of the body to the
+chassis three body hold-down bolts are provided
+at each front corner. Two pass through a body
+bracket, which is located on the front of the dash,
+and one is located just behind the dash and passes
+through the body sill into the chassis.
+Fig. 1—Frame
+SERVICE INFORMATION 1937 chevr O let CARS
+
+
+Fig. 2 —Box Type Frame Provides Accessibility
+FRONT END MOUNTING
+Unit mounting of the radiator, front fenders
+and headlamps with support at the centre of the
+front cross member, is again employed, although
+the design is materially altered from that used in
+1936 ‘ POWER PLANT MOUNTING
+The engine front mounting bolts project
+through a double thickness of metal and rein-
+forcements. The mounting cushion itself is the
+same as in 1936, but slightly less resilient. Attach-
+ment at the sides to the tie bar is similar to the
+1936 arrangement.
+The transmission support bracket carries the
+rubber cushion on a flanged platform-like projec-
+tion. The rubber cushions for both the side and
+rear mountings are the same as the ones used on
+the 1936 Passenger cars.
+The Power Plant Mounting adjustment is the
+same as for 1936, and is the same for both Stan-
+dard and Master De Luxe.
+DIFFERENCE STANDARD AND MASTER
+DE LUXE FRAME
+The Standard frame differs from the Master De
+Luxe at the front end because the Standard has a
+conventional front axle, while the Master De
+Luxe has a knee-action. Otherwise the two frames
+are the same.
+Front End Suspension
+MASTER DE LUXE FRONT END
+SUSPENSION
+The Knee-action unit, used on the Master De
+Luxe, has several slight but important changes.
+(1) The seal surface on the wheel support arm
+is now provided with a rolled finish which
+is much finer and smoother than that pro-
+vided in 1936.
+(2) The heavy type rubber seal used in the latter
+part of 1936, is continued.
+Fig. 3 —King Pin Bushing
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+(3) The threads of the radius rods are rolled in
+order to provide smooth bearing surface and
+consequent long life.
+(4) Floating bushings are now used for the king
+pins instead of the former needle bearing.
+This steadies up the steering and reduces
+strains imposed on the steering gear.
+See also "Shock Absorbers.”
+STANDARD MODEL FRONT END
+SUSPENSION
+A conventional type of semi-elliptic springs and
+an I-beam axle are used on the Standard instead
+of the Knee-action used on the Master De Luxe.
+The front axle is an I-beam forging with reverse
+Elliott ends. It is offset to the front.
+Floating king pin bushings are used instead of
+pressed-in bushings as formerly.
+FRONT SPRINGS
+A feature of the Standard front spring is the
+design of the front eye. This is of the reversed
+double wrapped type, the type that proved so
+successful on the 1936 109 in. In this construction
+the eye is formed from the second leaf. This, in
+turn, is wrapped by the top leaf which serves as
+a reinforcement.
+To reduce the amount of spring wind-up due to
+brake application, each front spring has a special
+torque leaf, which is actually a half leaf extend-
+ing from the spring seat to the rear eye. It rests on
+the top leaf and is held to it by the spring bolt
+and clips.
+A threaded pin in the eye bushing forms the
+front attachment of the spring to the hanger on
+the frame. The shackles at the rear of the spring
+are of the same threaded type that is used on the
+rear spring.
+Fig. 4—Front Axle Assembly, Standard Models
+Durable rubber spring bumpers of the hollow,
+conical type, are inserted in the retainers, attached
+to the frame. A wire ring in the base locks the
+bumper in the retainer. The bumper plate, which
+is raised to clear the centre bolt, is held by the
+spring U bolts.
+SHOCK ABSORBERS
+Shock absorbers on the Master De Luxe models
+are double acting front and single acting rear.
+They are the same type as used in 1936, except
+for changes in the valving to accommodate tbe
+changes in the weight distribution of the car.
+The Standard model has single acting shock
+absorbers both front and rear.
+Rear End Suspension
+REAR AXLE
+The propeller shaft is located lower in the
+chassis and, with the lower frame, permits the
+rear floor level to be dropped two inches without
+an inconvenient tunnel. This is made possible by
+the use of spiral hypeid pinion and ring gears.
+Spiral hypoid gears resemble in appearance the
+spiral bevel gears used heretofore, but are so de-
+signed that the pinion runs off centre, or is under-
+slung, with respect to the ring gear. The hypoid
+gears combine this "underslung” principle and
+silent operation with relatively low friction. In
+these respects, they may be considered to combine
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+the advantages of both worm gears and bevel
+gears.
+The axle is again of the semi-floating type with
+a pressed steel banjo housing.
+The two-pinion type differential is continued,
+with a slight reduction in size and weight of the
+parts as compared with the 1936 Master. The
+differential assembly is mounted one-half inch left
+of the centre of the propeller shaft to equalize the
+loads on the differential side support bearings,
+making each do its proper share of work.
+Barrel type roller bearings, in which contact
+area increases as the load increases, are used as
+differential side bearings.
+Because of the offsetting of the differential, the
+left and right hand axle shafts are di§erent in
+length but otherwise they are identical. The longer
+one is the right hand shaft.
+The drive shaft bushings must now be driven
+out of the housing from the back end; a special
+leather pinion shaft bushing seal is now used.
+A simple, single oil seal which serves as an oil
+deflector, is used just outside the wheel bearings
+to prevent lubricant leaking on to the brake
+mechanism.
+Fig. 5—Rear Axle
+Fig. 6—Barrel Type Roller Deflection
+RING GEAR ATTACHMENT
+The ring gear is now held by ten | in. screws
+which go into tapped holes in the back of the gear
+itself, as opposed to the former use of twelve
+5/16 in. rivets through the differential case and
+an inner ring on the gear. The new method is
+better because it gives a more solid backing and
+support on the gear. Further, the use of screws
+permits easier replacement.
+The bolts are wired together in pairs. Five
+guide pins made from | in. x 24 in. x in. bolts
+should be used to pilot the ring gear when press-
+ing it on the case. Use new bolts every time the
+ring gear is changed, and make sure the correct
+ones are obtained in order to make certain that
+the bolts do not "bottom.”
+AXLE ADJUSTMENT
+The setting of the pinion is arrived at by shims.
+Standard shimming is .033 in. The pinion and
+housing are marked as in 1936. No thick spacer
+is used as in 1936. The required back lash is .004
+in. to .008 in. and the adjustment is the same as
+in 1936.
+REAR AXLE LUBRICATION
+IT IS DEFINITELY NECESSARY THAT
+ONLY THE HYPOID LUBRICANTS AP-
+PROVED BY GENERAL MOTORS —HOL-
+DEN’S BE USED IN THESE AXLES. SEE ALL-
+DEALER BULLETINS NOS. 60, 61.
+The type of lubricant used in the rear axle of
+the 1937 passenger car is of the utmost import-
+ance due to the sliding contact between the teeth
+in Hypoid gears. To do a thorough job, the lub-
+ricant used must have sufficient "toughness” to
+maintain an oil film on the contacting surfaces
+of the gear teeth, and must not contain any cor-
+rosive substances, nor must it have a tendency to
+foam, or to become stringy.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+For these reasons, the only lubricant that is to
+be used in the 1937 Hypoid rear axle is Special
+E.P. (Extreme Pressure) Lubricant. Hypoid Lub-
+ricant Nasco E.P. No. 1 is suitable for this
+purpose.
+Steam or water flushers must not be used in
+flushing out the differential in Hypoid rear axles.
+This is very important as the moisture may react
+with certain of the ingredients in the lubricant to
+form corrosive substances.
+The lubricant in the rear axle should be in-
+spected at each 1,000 mile lubrication period for
+amount and condition, and under no circum-
+stances is any lubricant except the same brand of
+Hypoid E.P. Lubricant to be added to that already
+in the rear axle. Different brands of Hypoid Gear
+Lubricant should not be mixed. Therefore, unless
+the brand already in the axle is definitely known,
+lubricant should not be added but the axle should
+be drained and refilled.
+The rear axle housing should be drained at
+least twice a year, or every 5,000 miles, and re-
+filled with Special E.P. Lubricant.
+PROPELLER SHAFT AND TORQUE TUBE
+The propeller shaft and torque tube have been
+lengthened in. as compared with the 1936
+Master, due to the fact that the engine is shorter
+and has been moved ahead. They are both stronger
+Fig. 7 —Propeller Shaft and Universal Joint
+and less subject to vibration because the torque
+tube is larger and the propeller shaft bearings
+are re-located to support it better.
+A vent in the propeller shaft tube relieves pres-
+sure built up in the axle housing due to the use
+of improved grease seals.
+REAR SPRINGS
+The features are: Rubber front mount,
+threaded shackles with high grade cork seals. In-
+terlocking spring clips are used, as described under
+"Standard Model Front Suspension.”
+SHOCK ABSORBERS
+(See page 4)
+Brakes
+The brakes for the 1937 models are changed
+only in the hydraulic piping, the main cylinder,
+pedal adjustment, brake lining, and the hand
+brake hook-up. All the brake mechanism at the
+wheels is identical to that used in 1936.
+BRAKE PIPING
+The main line is now threaded directly into the
+rear end of the main cylinder, eliminating the
+former brass connector, connector screw and cop-
+per gaskets. This actually means that only one
+joint is used at this point instead of four.
+The pipe to the front extends to the front cross
+member, below which a T connection splits the
+fluid path to each front wheel. The pipe to the
+rear leaves the side rail at the rear kick-up in
+Fig. 8—Brake System
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+almost the same manner as in 1936, and is con-
+nected to the rear brakes through a flexible lead,
+a T joint and a pipe behind the axle. The piping
+is clipped to the frame so that the whole system
+is as nearly on one level as possible in order to
+avoid air pockets.
+MAIN CYLINDER
+The main cylinder mechanical details are the
+same as in 1936, the only change in the entire
+set-up being that the casting now includes bosses
+for the pedal mounting.
+This results in greatly improved pedal mount-
+ing.
+The actual attachment to the frame now is
+made by two bolts through lugs cast on the main
+cylinder. The bolt through the rear lug attaches
+through the L-shaped frame member, a spacer
+tube and the box-section cross member. The front
+bolt goes through the L-shaped member and
+through a reinforcement.
+WHEEL CYLINDERS
+The wheel cylinders are the same size on both
+models, I-4- in. front and 1-3/16 in. rear. This is
+the same as the 1936 Master.
+BRAKE LININGS AND DRUMS
+The brake lining has been changed. The for-
+ward shoe lining is DV-2270 and the reverse shoe
+facing 453-R. The forward shoes have red paint
+on the sides for identification. This lining or fac-
+ing is more "squeak-free” than formerly and does
+not create as severe a brake when wet as some
+facings. The same lining and shoes are used on
+both Standard and Master De Luxe. The same
+type cast iron and steel combination drums are
+used on both jobs. The rears are interchangeable,
+the fronts are not.
+Fig. 9 —Main Brake Cylinder
+The emergency brake cables are set at an angle
+with the frame, so that no springs are necessary
+to keep them away from the tyres.
+PEDALS
+The pedal shaft now is chromium plated, pre-
+senting a smoother bearing surface for the pedal
+bushings.
+Brake and clutch pedals are of a detachable
+stem type, consisting of the pedal proper, mounted
+on a short shaft through the yoke on the main
+cylinder, and the pedal push rod, which carries
+the pedal pad. The push rod is round in section,
+so that good sealing against heat and cold is pos-
+sible at the toe boards. The pedals are not adjust-
+able for length.
+ADJUSTMENT
+Except for the pedal setting, the adjustment of
+brakes is the same as in 1936. Pedal adjustment
+is accomplished by means of an eccentric at the
+junction of the pedal and the main cylinder rod.
+(See figure 9-) If sufficient adjustment cannot
+be obtained in this manner, shims may be re-
+moved or installed between the main cylinder and
+the frame at the forward end of the former.
+Engine
+NEW FEATURES
+Increased power and torque at all speeds.
+Increased piston displacement.
+Greater bore and shorter stroke.
+Higher compression ratio.
+More rigid cylinder and case casting.
+More rigid fouf-bearing crankshaft.
+Greater main and camshaft bearing areas.
+Lighter, dome-head, cast iron pistons.
+Four steel-backed babbitt camshaft bearings.
+New, more sensitive harmonic balancer.
+Diamond bored piston pin bushings.
+Shorter, stiffer connecting rods.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Diamond bored connecting rod bearings.
+Improved connecting rod bearing oil grooves.
+Heavier flywheel.
+Increased fuel economy.
+Better manifold heat control.
+New design, high reserve fuel pump.
+Smoother fuel delivery.
+Improved octane selector adjustment.
+New air cleaner with removable element.
+Better cylinder head gasket burn-out resistance.
+New gear type oil pump.
+Ventilated timing gear chamber.
+Increased oil pressures at all speeds.
+Oil filler on side opposite exhaust manifold.
+CRANKSHAFT
+For 1937 a four-bearing crankshaft is used.
+The strength and rigidity of the shaft are greatly
+increased by the overlap of shaft and crank pin
+cross sections, which amounts to -| in. This pro-
+vides a continuous band of steel through highly
+stressed lengths of the shaft, preventing the con-
+centration of stresses in the crank arms. This, and
+the short stroke, make this shaft inherently stiff.
+MAIN BEARINGS
+The main bearing ft is slightly looser than in
+1936. It should be set up to a very light drag and
+then one shim should be added.
+The front intermediate bearing cap has the
+word "front” cast in it, and the cap should be
+assembled with this word toward the front of the
+engine. The rear intermediate cap has the word
+"rear” cast in it, and this cap should be assembled
+with the word "rear” toward the rear of the
+engine.
+Fig. 10—Engine
+The front intermediate bearing shells, both
+upper and lower, have the letter "I” cast in the
+oil groove to distinguish them from the front
+bearing shells which are practically the same size.
+FLYWHEEL AND RING GEAR
+To make certain that the timing ball in the
+flywheel rim is in the correct position with respect
+to the shaft, the pattern of the bolt holes is made
+non-symmetrically, assuring correct alignment at
+assembly.
+The flywheel ring gear has 139 teeth. With 139
+teeth, an odd number, the hunting tooth principle
+Fig. 11 —Crankshaft showing Main Journals
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+is continued, assuring
+long gear life because
+the pinion must revolve
+139 times before any
+two gear teeth repeat
+a contact. Similarly, in
+production, hob im-
+perfection effects are
+neutralized, providing
+greater machining ac-
+curacy.
+HARMONIC
+BALANCER
+The same general
+design as in 1936 is
+used but the construc-
+tion is more simple.
+The spring mounted
+weight in front has a
+greater vibration dam-
+pening range and is
+less subject to turning
+vibrations.
+Fig. 12 —Harmonic Balancer
+The 1937 harmonic balancer is not interchange-
+able with the former one. A new Puller and
+Driver are necessary because of bolt spacings.
+CYLINDER HEAD AND GASKET
+Greater resistance to burn-out is offered by the
+new head gasket because the metal edge, or grom-
+met, around the cylinders is improved. The metal
+rim around each hole is wider. In addition, the
+grommets are linked together in pairs to provide
+a greater length of metal "path” for heat trans-
+fer. The gasket is marked "this side up” and must
+be installed as indicated.
+As previously, guide pins should be used when
+installing gasket and head. They should be in-
+stalled in the front and rear bolt holes on the
+left side of the engine.
+1937 IMPROVED SEALING
+Accomplished by wider grommets.
+Fig. 13 —Cylinder Head Gasket
+The cylinder head should be tightened as in
+1936; namely, start at the centre and work our
+toward the ends.
+The compression ratio is increased. The pis-
+tons, as described later, are of a new dome-head
+shape. The contours of the combustion chambers
+are changed to correspond.
+CAMSHAFT
+The four-bearing principle is applied also to
+the camshaft, steadying it against deflection due
+to tappet loads on the cams.
+The cams proper are increased in size at the
+base circle. This increase, without a change in
+lift, gives a much better type of cam because
+effects of manufacturing variations are mini-
+mized.
+The camshaft bearings are all steel-backed
+babbitt, and are replaceable.
+CONNECTING RODS
+The connecting rods are reduced in length.
+The bearings are diamond bored. The bearing has
+a single straight annular oil groove at its centre,
+with a spreader groove cut along the parting lines
+of the bearing halves. This provides good oil
+distribution while less of the bearing surface is
+cut away. An air bleed or vent at the top of the
+bearing makes operation safe with cold oil.
+Fig. 14 —Four-Bearing Camshaft
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Fig. 15 —Connecting Rod Bearings
+The bearing ft is one
+shim looser than in
+1936, because of the
+larger journal and the
+diamond bore bearings.
+The accuracy of this
+diamond boring oper-
+ation doubles the initial
+contact surface of these
+bearings. For this rea-
+son they must be fitted
+less tightly than former-
+ly, otherwise the en-
+gine will remain tight
+for a long time. The
+pinch bolt and numbers
+on the rod and cap are
+to be installed towards
+the camshaft as in pre-
+vious years.
+VALVES AND
+VALVE MECHANISM
+Valve springs, caps,
+keys, lifters, lifter
+springs, are the same as
+in 1936. The 1936 and
+1937 exhaust valves
+are the same size and
+vary only in the depth
+of the cup in the valve
+head. The 1937 valve
+is marked "G.M. 37
+Exhaust” and the cup
+Fig. 16 —Sectional Views
+of Engine, showing
+Valve Train
+is more shallow than in 1936. It is very important
+that only 1937 valves be used in 1937 engines.
+However, 1937 exhaust valves may be used in
+1936 engines.
+VALVE TIMING
+The same valve timing as in 1936 is employed,
+but is checked in a new way.
+Valve timing may be checked as follows: —
+On a cold engine—
+(l) Turn over engine until No. 1 exhaust valve
+is definitely closed, then remove all lash until
+the valve is riding open slightly.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+(2) Turn engine over until No. 1 exhaust valve
+opens fully and starts to close. —Watch "tri-
+angle” mark on flywheel and line it up accur-
+ately with the pointer in, the flywheel
+housing.
+(3) Mount a dial indicator to bear on the adjust-
+ing screw of No. 1 exhaust valve rocker arm
+and set indicator to rear .036 in. on plus side.
+(4) Crank the engine until the indicator hand
+stops moving. If the valve timing is correct,
+the indicator should read o°, plus or minus
+.003 in.
+Note. —If incorrect reading is obtained, before
+tearing engine down re-make the check,
+watching for insecure indicator mounting
+and presence of lash in the valve.
+Valve Clearance —•
+Intake ... ... .006 in.—.ooB in. hot.
+Exhaust ... .013 in.—. 013 in. hot.
+This is the same as in 1936.
+TIMING GEARS
+The pitch diameter of the gears is smaller as
+a result of closer spacing between the crankshaft
+and the camshaft.
+TIMING GEAR CASE REMOVAL
+It is necessary to remove the oil pan in order
+to reach the bottom cover bolts.
+PISTONS
+The pistons are cast-iron, electro-plated.
+A gain in strength and a reduction in weight
+are obtained by the new piston design.
+Fig. 17 —Piston
+The strength of the arch is given to the piston
+by its dome-headed construction. Light weight
+and great rigidity are added to the piston by its
+slipper-type skirt and X-rib bracing.
+The reduced piston weight makes possible a
+reduction in piston pin diameter from 1 in. to | in.
+The piston pin bushings are diamond bored.
+The piston fit is 25 lbs. pull on a .0013 in.
+jeeler J in. wide, the same as in 1936.
+The piston pin fit should be finger to medium
+thumb-push fit, the same as in 1936.
+The piston ring fit —check with .002 in. jeeler,
+top ring should be free, second ring snug, third
+ring (oil control) should also he free and can
+have as much as .003 in. clearance.
+Fig. 18 —Carburettor
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+CARBURETTOR
+In order to suit the new engine, the metering
+rod jet and metering rod are recalibrated to re-
+duce the amount of fuel in the fuel air mixture,
+a definite economy step.
+In order to provide extra good sealing of the
+carburettor float bowl, the bowl cover has been re-
+designed to be fastened with four screws. This
+gives a tight seal with no danger of warping.
+A baffle has been added in bowl below vent, to
+prevent petrol slopping into carburettor, causing
+stalling on rough roads or after quick stops.
+The internal vent has been changed so that on
+full choke the bowl is open to atmospheric pres-
+sure.
+The float level is f in. and -| in, the same as
+in 1936.
+The metering rod gauge is the same as in 1936
+—(No. T-109-25).
+THROTTLE LINKAGE
+To provide a definite amount of lost motion
+which is necessary for flexibility in the throttle
+linkage, a manual adjustment is made through a
+set screw, which is placed between the accelerat-
+or lever and the throttle control lever. Both are
+re-designed for the new arrangement, the throttle
+rod being made straight and hence more rigid.
+Previously, there was a bend in the rod, which
+was used in making the adjustment for the initial
+settmg FUEL PUMP
+The bowl is on the top and is thus more easily
+accessible and readily seen. The diaphragm is
+easily removed by using a screwdriver from the
+lever side, also easily replaced by holding up the
+arm with a small screwdriver. The pump screen
+is accessible for cleaning by removing the bowl
+after loosening the knurled nut and swinging
+aside the bale over the bowl.
+Valves and seats are now assemblies and these
+two assemblies are interchangeable. They cannot
+be installed incorrectly if installed opposite to
+each other.
+MANIFOLDS AND INTAKE HEATER
+The exhaust outlet is placed at the centre of
+the engine, between the third and fourth cylinders,
+where the hot exhaust from all six cylinders may
+sweep around the intake heater box.
+Fig. 19 —Fuel Pump
+The size of the intake manifold is increased
+from 1-5/32 in. to 1 in. on account of the larger
+engine.
+The heat valve shaft is now bushed with stain-
+less steel bushings to prevent rusting and sticking.
+The valve itself is a curved steel plate similar
+to previous ones, but half wrapped around the
+shaft, with a clamp on the opposite side similarly
+half wrapped. These are welded together and
+welded to the shaft.
+Fig. 20—Manifold Heat Control Valve
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Fig. 21 —Manifolds
+The valve is put in the "heat on” position by
+a flat coil thermostat mounted outside the mani-
+fold on the end of the shaft. Under conditions of
+no load or during warm-up period, the heat valve
+may strike the manifold stop, once on dosing the
+throttle after rapid acceleration, and once or twice
+on deceleration just before idle. The design is
+such that the pressure of the exhaust gas tends to
+blow open the valve. The spring tension and the
+valve weight are calibrated to give the proper
+heat control, and dampen out any vibrations of
+the valve due to the turbulence or fluctuations of
+the exhaust gas, after warm-up.
+Under no conditions should the spring tension
+be changed, or any part of the heat valve as-
+sembly be altered as detonation or sticking of the
+valve may result.
+Percolation of the fuel is avoided by disposing
+of the manifold metal so as to reduce conduction
+Fig. 22—
+Removing Air
+Cleaner Element
+of heat to a minimum and cutting down the size
+of the box around the tee. As an additional pre-
+caution, a metal inlet to exhaust manifold gasket
+of special design is used. This is a piece of steel
+1/32 in. thick and rolled double on its inner
+edge. The actual metal to metal contact for trans-
+fer of heat is only 3/32 in. wide.
+AIR CLEANER AND SILENCER
+By removing a wing nut on the top of the
+cleaner, it is possible to lift off the cover and pull
+the cleaner element out easily.
+ENGINE LUBRICATION SYSTEM
+Exhaustive tests proved that the basic engine
+lubrication system employed during 1936 gave
+better results in the 1937 engine than any other
+of the various systems tried. Therefore, it is again
+used.
+The only major change in the system is that a
+gear type pump is used in place of the former
+vane type.
+Fig. 23 —Oil Pump
+OIL PUMP
+Two seven-tooth gears are housed in the body
+of the pump. One is driven by a shaft coupled
+to the distributor shaft; the other is piloted by a
+short shaft mounted in the pump body. Under
+the pump body proper is a cover below which is
+a long hexagonal suction pipe which screws into
+the cover.
+Oil discharged from the pump is forced down-
+ward into a lead in the cover which is connected
+to the oil line.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Cast in the pump cover are two hollows, one
+serving as an inlet manifold or feeder for the
+gears, the other providing space for the oil to
+squeeze out ahead of the contacting teeth and
+serving as an entrance for the high pressure oil
+going into the engine lubrication lines. This relief
+eliminates noises which arise from the action of
+the teeth on trapped oil. Above the gears, at each
+side, are two reliefs which serve similarly as
+silencers.
+In the oil pump cover, in line with the dis-
+charge opening, is a cold oil by-pass blocked by
+a ball valve, spring-loaded to 75 pounds. At rimes
+when frictional resistance in the oil lines is great,
+as in cold starting, the gears, continuing to force
+oil into the line, could cause breaks and leaks
+were it not for some kind of by-pass.
+Fig. 24—Sectional View showing Location of Oil Pump
+Fig. 25 —Water Pump
+The gears are ground on one side only and the
+ground side must he toward the cover. The idler
+gear is of cast iron and the drive gear of steel,
+insuring long life. The distributor thrust washer
+is now held in the oil pump; thus eliminating the
+chance of misplacement or loss.
+FRONT COVER VENTILATION
+To prevent sludge formation and possible cor-
+rosion from engine fumes inside the timing gear
+front cover, a vent into the valve tappet chamber
+is provided.
+WATER PUMP
+The water pump will be serviced as an assem-
+bly until further notice.
+An oil reservoir is formed in the body of the
+pump and by a stamped cover pressed on the
+front of the body casting. Lubrication is accom-
+plished by filling this reservoir. Oil from it flows
+through drilled holes to the bushings and per-
+meates them, then flows from the porous bushings
+to the packings, keeping them soft and assisting
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+them to seal. A drilled hole in the pump body
+vents air from the reservoir to speed filling with-
+out overflow of oil.
+A heavy engine oil should be used for lub-
+rication.
+The water pump is permanently packed, self-
+adjusting, with vane type rotor. The shaft is sup-
+ported by two copper graphite composition bush-
+ings. Between the bushings are specially designed
+chevron packing rings (four on the inner face of
+the rear bushing, two on the inner face of the
+front bushing). A coiled compression spring, be-
+tween the two sets of packing rings, maintains
+adjustment and prevents leaks by putting pres-
+sure on the packing. Due to the spring tension,
+the packing resets itself every time the engine is
+stopped.
+Care should be taken against too tight a fan
+belt adjustment. CLUTCH
+The clutch is basically the same as in 1936. It
+is of the single plate dry disc type, consisting of
+a pressure plate assembly having nine pressure
+Fig. 27 —Oiling
+Throwout Bearing
+springs, three release levers and a clutch disc
+mounted on a drop forged splined hub.
+The clutch fork is mounted on a swivel. The
+swivel is screwed in a shoulder stud in the clutch
+housing.
+The release bearing is made of a carbon graph-
+ite composition shrunk into a trunnion collar
+Fig, 26 —Clutch
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+mounted in the fork. This collar has an oil res-
+ervoir, which is back of the bearing, with an
+oiler on the top. This allows the throwout bear-
+ing collar to be filled with oil, which in turn
+seeps into the bearing.
+It is only necessary to refill the clutch throwout
+collar when, upon releasing the clutch, a "squeak-
+ing” noise occurs.
+To fill the clutch throwout bearing collar with
+oil, remove the floor board and the inspection
+cover on the clutch housing. Driving conditions
+control the frequency of oiling this reservoir. It
+should be filled with S.A.E. 160 oil.
+There is somewhat less clearance in the new
+clutch; consequently it is necessary to block down
+the fingers when disassembling. The underpan
+extension of the clutch housing is in one piece.
+The clutch fork is made in. narrower than in
+1936, and the clutch fork spring position is re-
+versed. The clutch inspection opening is re-
+shaped, allowing for greater accessibility.
+The clutch adjustment is T\- in., as in 1936.
+Transmission
+A new type synchro-mesh transmission is used.
+It is more compact and lighter in weight than
+that used formerly, but has definitely greater
+capacity.
+The principles embodied in the previous syn-
+chro-mesh transmissions are still used, but the
+arrangement of synchro-mesh parts is entirely new.
+The 1937 transmission is much more simple to
+service than previous models. This is due to the
+fact that it is no longer necessary to check syn-
+chronizer clearances.
+SYNCHRONIZATION
+The synchronizer cones are now part of the
+high and intermediate sliding sleeve, and the syn-
+chronizer rings are carried within the sliding
+sleeve (Fig. 29) ■ The rings are held in their cor-
+rect relation to the synchronizer cones by means
+of spring lock rings, which are reached through
+slots cut in the sliding sleeve.
+Fig. 28—Transmission
+Each synchronizer ring has three lugs which
+engage in slots cut into the gear with which it
+synchronizes. Therefore, when synchronizing the
+Fig. 29 —Transmission Parts
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+speed of die sliding sleeve and the gear to be
+engaged, the lugs of the synchronizer ring being
+engaged with the gears to be mated, cause that
+gear to be speeded up or slowed down as the case
+may be.
+Fig. 30 —Synchronizer Ring and Second Speed Gear
+The actual synchronizing is done by the syn-
+chronizer ring lugs first contacting with a spring,
+located on the gear to be mated, causing the
+chamfered edges of the lug to contact with similar
+wedge angles machined on the shoulder of the
+gear. The wedge angles of the lugs and those on
+the gears, resist the shift action on the sliding
+sleeve as long as there is any difference in the
+rotating speed of the two parts being mated, and
+as the speed of the two parts is equalized, the
+pressure between the wedge angles diminishes,
+allowing the shift to be completed.
+Fig. 31 —Wedge Angles Positioned for Contact
+GEAR SHIFT
+The gear shift lever and shifter mechanism is
+entirely new.
+The shifter yokes are carried on shifter shafts
+mounted in the transmission case. The cover
+carries the gear shift lever only. The two front
+bolts of the cover lock the shifter shafts in place.
+Care should be taken to insure these being used
+in their proper location.
+An interlock plate contacts with the lower end
+of the gear shift lever and moving with it, en-
+gages with a plate attached to the cover, which
+Fig. 32 —Gear Shift Lever and Transmission Cover
+positively prevents the engagement of more than
+one gear at a time. (See figures 32, 33, 34.)
+As illustrated, the interlock is a stamped piece
+of steel, either end of which engages with the
+yokes. The hole near its centre fits the end of
+the shift lever. Above the interlock is the inter-
+lock guide plate with each end rounded and
+notched.
+In neutral, each notch partly overlaps fulcrum
+pins riveted in the ends of the interlock, prevent-
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Fig. 33 —Shifter Interlock
+Fig. 34 —Interlock Action for Shifts
+ing fore and aft movement of the interlock or
+yokes, or engagement of any gears. When the
+shift lever is moved to the side it carries the inter-
+lock with it. This frees one fulcrum pin from its
+notch, permitting shifting of the yoke on that side
+of the transmission. At the same time, the other
+notch and pin engage completely and form a
+pivot for the interlock. Until this engagement is
+complete, no shift can be made, and when com-
+plete, no shift is possible on the pivot side of the
+transmission.
+The leverage obtained through the arrange-
+ment of the interlock assembly permits a short
+shift lever between the fulcrum ball and the
+lower end of the lever. As a result, the gearshift
+tower is very nearly at floor level.
+The gearshift handball travel is made prac-
+tically equal for all shifts. This is accomplished
+by offsetting the gearshift lever hole in the inter-
+lock stamping a distance proportional to the
+length of shifts.
+COUNTER-SHAFT BUSHINGS
+These bushings are anchored in the gear by
+ball peening the bushing into the holes. Lubrica-
+tion is improved by flats ground on the shaft to
+serve as oil feeds.
+REVERSE IDLER SHAFT REMOVAL
+The reverse idler shaft is held in by a tapered
+pin. In order to remove the shaft, drive the pin
+into the shaft. Then remove the shaft with a bent
+wire.
+Do not attempt to push the shaft out with a
+finger of the hand, as the latter may get stuck as
+a result.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+UNIVERSAL JOINT
+The universal joint is now the same on both
+Standard and Master De Luxe. It is of the bolted
+type. The ball is now provided with a Duprene
+and felt seal. The Duprene goes next to the trans-
+mission. In the front yoke ten splines are used
+instead of six splines as used in 1936.
+SPEEDOMETER DRIVE
+Simplification of the speedometer driven gear
+assembly located above the universal joint, is
+accomplished by a re-design of the driven gear
+fitting to incorporate both the fitting and plug
+formerly used. The end of die cable is now
+swaged square, and is inserted into a square hole
+in the driven gear shaft, eliminating the use of
+the key drive formerly employed.
+The speedometer gear ratio is changed to cor-
+respond with changes in rear axle.
+Fig. 35 —Speedometer Driven Gear and Fitting
+Assembly
+Fuel Tank and Exhaust System
+FUEL TANK
+The same fuel tank as that used in 1936 is con-
+tinued on all body types, the filler neck position,
+however, has been changed. It projects through
+the rear fender on the right side of the car.
+FUEL TANK FILLER CAP
+To prevent spilling of petrol on the fender or
+body when making sharp turns or travelling over
+rough roads, a new device is incorporated in the
+filler cap, consisting of a baffle cup and a "jiggle
+pin.” Through this new arrangement the vent
+area is reduced to a minimum, yet it is large
+enough to serve as a breather for the fuel tank.
+The small vent area is accomplished by insert-
+ing a special pin in the breather holes, which are
+kept open by its bouncing action.
+Fig. 36 —Exhaust System Suspension
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+The device not only controls the flow of the
+petrol, but also traps in the baffle cup any that
+may escape through the lower vent. The chamber
+volume is adequate for the ordinary overflow,
+which subsequently returns to the tank. A small
+hole is provided at the top of the chamber to com-
+plete the breather system.
+EXHAUST SYSTEM
+The exhaust system is essentially the same as
+in 1936. It is supported in a manner similar to the
+1936 109 in. Series model. The mounting is made
+more flexible by the use of additional rubber.
+Fig. 37 —Petrol Tank
+Steering
+MASTER DE LUXE
+The Master De Luxe steering gear is the same,
+in principle, as that used on the 1936 Master. It
+has a 17-| to 1 ratio, and is now bolted on top
+of the frame box-section side rail. A new flange,
+cast to the pitman shaft housing, sets directly on
+top of the rail, and is held to it by two bolts
+threaded through the rail, the heavy side rail re-
+inforcement plate and two nuts welded to the
+Fig. 38 —Master De Luxe Steering Gear Mounting
+Fig. 39 —Master De Luxe Steering Gear Stops
+plate. Alignment with the dash is obtained by
+placing shims between the steering gear housing
+and frame.
+The serrations at the end of the pitman arm
+shaft are spaced irregularly so that it is impos-
+sible to assemble the arm on the shaft incorrectly.
+Two steering stops are cast within the steering
+gear housing. This eliminates the necessity for
+the bracket formerly fixed on the frame for this
+purpose. The teeth on the roller contact these
+stops to obviate any possibility of the roller over-
+running the end of the worm.
+The adjustment is the same as in 1936.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Fig. 40 —Standard Steering Gear
+As mentioned under "Front Suspension” float-
+ing bronze bushings replace the needle bearings
+in the king pin supports.
+These bushings tend to steady up the steering
+and reduce the strains imposed on the steering
+gear.
+STANDARD
+The steering gear on the Standard is quite dif-
+ferent from that on the Master De Luxe.
+It is of the worm and sector type. The main
+shaft worm is mounted between two taper roller
+Fig. 41—Standard Steering Gear Sector Mounting
+Fig. 42—Exploded View of Standard Steering Gear
+Assembly
+bearings located in an eccentric sleeve, which is
+mounted in the steering gear housing.
+The sector shaft is straddle-mounted and ro-
+tates on two bronze bushings, one in the housing
+and the other in the side cover. The bushing in
+the housing floats, permitting the shaft to rotate
+in the bushing and the bushing to rotate in the
+housing.
+ADJUSTMENT
+The sector shaft is adjusted for end play in a
+manner similar to 1936. The main shaft end play
+is now adjusted at the bottom end of the steering
+gear by means of a screw and lock nut adjust-
+Fig. 43 —Master Steering Gear Adjustments
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+ment. The adjustment for back lash between the
+worm and sector is made by means of a new type
+lever adjustment located at the bottom of the
+gear.
+The adjustment of the Standard gear differs fur-
+ther from the Master De Luxe in that the bearings
+are set up with no appreciable tension and there
+is no high spot in the gear mesh.
+The correct lubricant for the Standard steering
+gear is Transmission Oil. The construction of the
+housing permits seasonal changes.
+STANDARD MODEL DRAG LINK
+Two springs have been added to the Standard
+drag link, thus providing a spring on each side of
+the pitman arm ball as well as at each side of the
+third arm ball. This arrangement gives the rod
+a "floating” method of suspension in each socket
+and does the work of a kick shackle. Adjustment
+—up tight and back at least \ turn.
+Fig. 44 —Standard Drag Link
+Wheels and Tyres
+The same wheels and tyres are used on both ‘
+Standard and Master De Luxe models. The tyre
+size is 16 x 6.00. The tyre pressures are 26 lbs.
+front cold, and 28 lbs. rear cold. Left hand thread
+hub bolts are now used on both series on the left
+side of the car.
+Electrical
+BATTERY
+A 6 volt, 15 plate battery is used. The capacity
+remains the same as in 1936, i.e., 105 ampere
+hours.
+The battery is supported in a hanger on the
+right side of the frame directly behind the second
+cross member. The front of the battery case is
+protected against stones by the cross member and
+by a metal shield.
+Fig. 45 —Battery Location
+GENERATOR
+A generator provided with a third brush is now
+used. The lighting switch is provided with a lamp
+load resistance. Moving the lighting switch out
+one or more notches cuts out the resistance and
+steps up the charging rate to maximum. The first
+notch out of the switch cuts out the resistance
+only, without turning on lights.
+IGNITION DISTRIBUTOR
+This is of the same general design as in 1936,
+except that the advance characteristics of the new
+engine are changed to provide 46 degrees advance
+at 3500 R.P.M. The distributor point gap is .018
+in. The distributor number is 649-G.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Fig. 46 —Octane Selector
+VACUUM ADVANCE AND OCTANE
+SELECTOR
+This is the same as in 1936, except for the
+method of setting the octane selector. Chevrolet
+has a 17° advance with an arm travel of slightly
+under in!
+SPARK PLUGS
+The gap is increased to .035 in. to .037 in. A
+multiple spark condition exists when a spark
+jumps a wide gap through highly compressed
+fuel mixture. This multiple spark provides more
+Fig. 47 —Spark Plug Gap
+than one chance for the mixture to ignite,
+whereas, with a short, single spark, if the one
+spark misses fire, there is "ragged” engine oper-
+ation unless the mixture is enriched to permit
+more ready firing. Thus the wider spark gap
+actually permits smooth operation on a "leaner”
+fuel mixture without over-stressing any part of
+the ignition system.
+The spark plug type is Pyrox P.Z.14, with a
+gap of .035 in. to .037 in.
+Fig. 48—Headlamp Adjustment
+HEADLAMPS
+These are attached to the radiator in a similar
+manner to that employed in 1936. A terminal
+block for the headlamp wires is used in 1937 on
+the inside of the radiator shell. Care should be
+exercised to see that too long a screw is not used
+in attaching the wires, otherwise a short circuit
+may result.
+The headlamp switch is located on the instru-
+ment board and has four positions; —"Off,”
+"Charge Acceleration” (See Generator), "Park-
+ing,” "Headlights.”
+Headlamp adjustment is shown in figure 48.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Cooling System
+Fig. 49 —Radiator Fillers
+The water pump has been described under the
+section entitled "Engine.” The radiator filler is
+mounted on the top of the core upper tank on the
+right hand side of the car. Formerly it was located
+on the opposite side and projected to the rear of
+the tank.
+In order that the water can be drained directly
+into a pail, the drain cock is now located at the
+Fig. 50 —Draining Radiator
+front of the lower tank, where it can be operated
+from the front of the car. There is also a drain
+cock located on the left rear of the engine, to com-
+plete drainage of the cylinder block.
+A new mounting of the core, plus sufficient
+room ahead of the engine, permits easy removal
+of the core for servicing without the necessity of
+removing the complete radiator assembly from the
+Fig. 51—Radiator Core Removal
+car. Three accessible bolts through the anchoring
+flange at each side attach the core to the radiator
+shell. When these bolts and the water pump are
+removed, the core may be slipped easily out of
+the car.
+The thermostat starts to open at 140 to 142
+degrees, and is fully open at 170 degrees.
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+CHASSIS LUBRICATION
+EVERY 5,000 MILES OR TWICE A YEAR
+fQ Carburettor Accelerating Pump Shaft: Re-
+■ • move the cover and fill the screw hole with
+graphite grease.
+MRear Axle: Drain completely, flush and
+refill with special E.P. (extreme pressure)
+lubricant recommended by your Dealer. Do not
+use ordinary rear axle lubricant. This should be
+done every 5,000 miles or at least twice a year.
+EVERY 10,000 MILES
+J Front Wheel Bearings: Remove the wheels,
+• clean the bearings and pack the bearing
+ball retainers with a high melting point front
+wheel bearing grease. Do not pack the hub be-
+tween the inner and outer bearing assemblies nor
+the hub cap, as this excessive lubrication will
+result in grease working out into brake drums
+and on the linings.
+In mounting the front wheels, great care must be
+taken to adjust the bearings properly —an opera-
+tion that requires mechanical skill.
+K Front Shock Absorber I Keep the shock ab-
+sorbers filled with
+| Rear Shock Absorber Genuine G.M. - H.
+■ , I Shock Absorber
+Fluid. Do not, under any circumstances, use a
+shock absorber fluid other than that recommended
+above. Heavy body fluids are detrimental to the
+proper functioning of the unit. Use the same fluid,
+summer and winter. Consult your Dealer for de-
+tailed instructions.
+YEARLY
+“I £L Transmission: Drain completely, flush and
+■ “ refill. Use transmission oil S.A.E. 110.
+MISCELLANEOUS
+11 Clutch Release Bearing: The clutch release
+■ ■ bearing is of the carbon type lubricated
+from a reservoir with an oiler on top. This con-
+struction eliminates necessity for frequent lub-
+rication.
+It is only necessary to refill the clutch throwout
+collar when, upon releasing the clutch, a squeak-
+ing noise occurs.
+To fill the clutch throwout bearing collar with
+oil, remove the cover plate on the toe board and
+the inspection cover on the clutch housing. The
+clutch throwout bearing oiler should be filled with
+S.A.E. No. 160 oil.
+Universal Joint: The universal joint is directly
+connected to, and receives its lubrication from,
+the transmission. The pipe plug opening in the
+housing is used to fill the unit at the time of
+assembly.
+Rear Wheels: The rear wheel bearings receive
+their lubrication from the rear axle. Additional
+lubrication of the bearings is unnecessary.
+Rear Spring Bushings: Rubber bushings are used
+at the front of each rear spring. These bushings
+must not be lubricated or sprayed with oil.
+Rear Springs: Should the car owner find it neces-
+sary to have the spring leaves lubricated, a cup
+grease to which 8% to 10% of graphite has been
+added should be used.
+LUBRICATION CHART
+1937 STANDARD CHEVROLET MODELS
+Lock Cylinders: Lubricate with powdered
+graphite.
+Door Check: Use soft soap on rod. Use light ma-
+chine oil on hinge pin.
+Door Dovetail Bumpers and Striker Plate: Apply
+“Decrease” to the metal shoes.
+Front Seat Adjuster: Use graphite lubricant on
+gears. Use cup grease sparingly on seat supports.
+BODY
+EVERY 1,000 MILES
+light machine oil along the upper edge of the
+sash channel on the inside for its entire length.
+This oil will flow down on the channel and lubri-
+cate channel, bracket and the regulator arm knob.
+Windscreen Wiper Shaft: Use light machine oil.
+Door Hinge Pins: Use light machine oil.
+Door Lock Bolts; Use “Doorcase” on curved side.
+Use light machine oil on flat side.
+Hood Hinges and Catch Mechanism: Light ma-
+chine oil.
+Window Regulator: Lower window to fully opened
+position. Hold a piece of wire with one end touch-
+ing the shaft at the gear end (inside the door).
+Apply a few drops of light machine oil to the wire
+and allow it to run down to the shaft.
+Window Regulator Arm: Raise the window glass
+to the closed position. Using a squirt can, apply
+CHASSIS LUBRICATION
+EVERY 1,000 MILES
+Only a good grade of water-resistant chassis lub-
+ricant should be used at points indicated in the
+chassis diagram, except where other lubricants
+are specifically mentioned.
+NOTE: The chassis should be lubricated every
+1,000 miles if the car is operated on paved high-
+ways. If operated mostly on dirt or gravel roads,
+more frequent lubrication will be necessary.
+Front Spring Shackles.
+Steering Knuckles.
+Steering Tie Rod Ends.
+’Jf Front Spring Bolts.
+Distributor Shaft.
+13 Spring Saddles.
+15 Rear Spring Shackles.
+10 Steering Connecting Rod.
+11 Steering Connecting Rod.
+ML Water Pump: Fill the oil cup with a good
+w grade of engine oil.
+f Starter Motor: Two or three drops of light
+engine oil in the oil cup at the front end
+of the starter motor.
+MRear Axle: Check the oil level. It should
+be maintained at the filler plug opening.
+Use only E.P. (extreme pressure) lubricant of
+the same brand as already in the axle. If the
+brand is unknown, do not add lubricant. Drain
+completely and refill with new lubricant every
+5.000 miles or at least twice a year.
+| ML Transmission: Check the oil level. It should
+IW be maintained at the filler plug opening.
+Use transmission oil S.A.E. 110.
+■f Brake Master Cylinder; Check the oil level
+I M and see that it is not less than half full.
+Use only Genuine G.M.-H. Brake Fluid. Consult
+your Dealer.
+1A Steering Gear; The steering gear should
+■ Jr be lubricated with special steering gear
+lubricant. This is a light, non-flowing lubricant
+having a temperature range from extreme sum-
+mer conditions to below zero without affecting
+the efficiency of the steering gear. Seasonal
+change of the lubricant is unnecessary and the
+housing should not be drained. If other lubricants
+are used, it may be necessary to dilute them in
+extremely cold weather.
+Do not use pressure fitting in the filler plug hole
+when filling the steering gear, as this will force
+grease up the steering column.
+Generator: A few drops of light engine oil
+• •in the oil cups at each end of the
+generator.
+EVERY 1,000—1,500 MILES
+Engine: Drain and refill the crankcase. Use S.A.E.
+30 for summer months and S.A.E. 20 for winter
+months. EVERY 2,000 MILES
+“tfk Air Cleaner: The filter element of the air
+■ w cleaner should be removed and washed in
+petrol. Keep the felt pad dry. After drying, re-
+oil it by dipping it in S.A.E. 50 engine oil. Allow
+the excess oil to drain off and then re-assemble.
+
+
+CHASSIS LUBRICATION
+EVERY 1,000 MILES
+Only a good grade of water-resistant chassis lub-
+ricant should be used at points indicated in the
+chassis diagram, except where other lubricants
+are mentioned.
+NOTE: The chassis should be lubricated every
+1,000 miles if the car is operated on paved high-
+ways. If operated mostly on dirt or gravel roads,
+more frequent lubrication will be necessary.
+J Front Spring Unit Radius Rod.
+Front Spring Unit King Pin.
+g Steering Tie Rod.
+Distributor.
+14 Spring Saddles.
+15 Rear Spring Shackles.
+11 Steering Connecting Rod.
+1 Generator: A few drops of light engine oil
+in the oil cups at each end of the
+generator.
+t Water Pump: Fill the oil cup with a good
+grade of engine oil.
+3 Front Spring Units: Keep the housings
+filled to the level of the filler plug with
+Genuine G.M.-H. Shock Insulation Fluid. Use the
+same fluid summer and winter.
+Do not under any circumstances use a fluid other
+than that recommended above. Heavy body fluids
+are detrimental to the proper functioning of the
+unit.
+| ft Starting Motor: Two or three drops of
+I w light engine oil in the oil cup at the front
+end.
+| Jt Rear Axle: Check the oil level. It should
+iw be maintained at the filler plug opening.
+Use only E.P. (extreme pressure) lubricant of the
+same brand as already in the axle. If the brand is
+unknown, do not add lubricant. Drain completely
+and refill with new lubricant every 5,000 miles
+or at least twice a year.
+| Transmission: Check the oil level. It should
+■ ' be maintained at the filler plug opening.
+Use transmission oil S.A.E. 110.
+| O Brake Master Cylinder: Check the oil level
+I O and see that it is not less than half full.
+Use only Genuine G.M.-H. Brake Fluid. Consult
+your Dealer.
+|A Steering Gear: The steering gear should
+I w be lubricated with special steering gear
+lubricant. This is a light, non-flowing lubricant
+having a temperature range from extreme sum-
+mer conditions to below zero without affecting
+the efficiency of the steering gear. Seasonal
+change of the lubricant is unnecessary and the
+housing should not be drained. If other lubricants
+are used, it may be necessary to dilute them in
+extremely cold weather. Do not use pressure fit-
+ting in the filler plug hole when filling the steer-
+ing gear, as this will force grease up the steering
+column.
+EVERY 1,000—1,500 MILES
+Engine: Drain and refill the crankcase. Use S.A.E.
+30 for summer months and S.A.E. 20 for winter
+months.
+Hood Hinges and Catch Mechanism: Light ma-
+chine oil.
+Window Regulator: Lower window to fully opened
+position. Hold a piece of wire with one end touch-
+ing the shaft at the gear end (inside the door).
+Apply a few drops of light machine oil to the
+wire and allow it to run down to the shaft.
+Window Regulator Arm: Raise the window glass
+to the closed position. Using a squirt can, apply
+BODY
+EVERY 1,000 MILES
+light machine oil along the upper edge of the
+sash channel on the inside for its entire length.
+This oil will flow down on the channel and lub-
+ricate channel, bracket and the regulator arm
+knob.
+Windscreen Wiper Shaft: Use light machine oil.
+Door Hinge Pins: Use light machine oil.
+Door Lock Bolts: Use “Doorcase” on curved side.
+Use light machine oil on flat side.
+Lock Cylinders: Lubricate with powdered
+graphite.
+Door Check: Use soft soap on rod. Use light ma-
+chine oil on hinge pin.
+Door Dovetail Bumpers and Striker Plate: Apply
+“Decrease” to the metal shoes.
+Front Seat Adjuster: Use graphite lubricant on
+gears. Use cup grease sparingly on seat supports.
+LUBRICATION CHART
+1937 CHEVROLET MASTER DE LUXE MODELS
+CHASSIS LUBRICATION
+EVERY 2,000 MILES
+6 Front Spring Unit Spindle Bushing: Re-
+move the plug at the inner end of the
+spindle and pack the reservoir with a lubricant
+such as soft cup grease.
+*i ft Air Cleaner: The filter element of the air
+* w cleaner should be removed and washed in
+petrol. Keep felt pad dry. After drying, re-oil it
+by dipping it in S.A.E. 50 engine oil. Allow excess
+oil to drain off and then re-assemble.
+EVERY 5,000 MILES OR TWICE A YEAR
+|| Carburettor Accelerating Pump Shaft: Re-
+■ I move the cover and fill the screw hole with
+graphite grease.
+| //L Rear Axle: Drain completely, flush and
+I w refill with special E.P. (extreme pressure)
+lubricant recommended by your Dealer. Do not
+use ordinary rear axle lubricant. This should be
+done every 5,000 miles or at least twice a year.
+EVERY 10,000 MILES
+4 Front Wheel Bearings: Remove the wheels,
+clean the bearings and pack the bearing
+ball retainers with a high melting point front
+wheel bearing grease. Do not pack the hub be-
+tween the inner and outer bearing assemblies
+nor the hub cap, as this excessive lubrication will
+result in grease working out into the brake drums
+and on the linings. In mounting the front wheels,
+great care must be taken to adjust the bearings
+properly— an operation requiring mechanical skill,
+| Rear Shock Absorbers: Keep the shock
+I absorbers filled with Genuine G.M.-H.
+Shock Absorber fluid. Do not, under any circum-
+stances, use a shock absorber fluid other than that
+recommended above. Heavy body fluids are detri-
+mental to the proper functioning of the unit. Use
+the same fluid, summer and winter.
+YEARLY
+| "F Transmission: Drain completely, flush and
+■ » refill. Use transmission oil S.A.E. 110.
+MISCELLANEOUS
+I*l Clutch Release Bearing: The clutch release
+I * bearing is of the carbon type lubricated
+from a reservoir with an oiler on top. This con-
+struction eliminates the necessity for frequent
+lubrication.
+It is only necessary to refill the reservoir when,
+upon releasing the clutch, a squeaking noise
+occurs.
+To fill the clutch throwout bearing collar with oil,
+remove the cover plate on the toe board and the
+inspection cover on the clutch housing. The clutch
+throwout bearing oiler should be filled with S.A.E.
+No. 160 oil.
+Universal Joint: The universal joint receives its
+lubrication from the transmission. The pipe plug
+opening is used to fill the unit at the time of
+assembly.
+Rear Wheels: The rear wheel bearings receive
+their lubrication from the rear axle. Additional
+lubrication of the bearings is unnecessary.
+Rubber Spring Bushings: Rubber bushings are
+used at the front end of each rear spring. These
+bushings must not be lubricated or sprayed with
+oil.
+Rear Springs: Should the car owner find it neces-
+sary to have the spring leaves lubricated, a
+medium cup grease, to which 8% to 10% of
+graphite has been added should be used
+
+
+3 1508 00283744 6
+Standard
+Master De Luxe
+Wheelbase
+112|- in.
+112d in.
+Tread —Front
+56f in.
+57-17/64 in.
+Tread —Rear
+57-9/16 in.
+57-9/16 in.
+FRONT SUSPENSION:-
+Type
+Conventional
+Independent
+REAR AXLE:-
+No. of Teeth on Gear and Pinion ...
+41 — 11
+41 — 11
+Gear Ratio ...
+3.73
+3.73
+BRAKES:-
+Type of Actuation
+Hydraulic, Internal Expanding
+Hydraulic, Internal Expanding
+Parking Lever Operation
+On Rear Service Shoes
+On Rear Service Shoes
+Operation of Parking Brake Inde-
+pendent of Service Brake
+Yes
+Yes
+Brake Drum Type
+Pressed Steel Back with Cast
+Pressed Steel Back with Cast
+Iron Rim
+Iron Rim
+Brake Drum Diameter
+11 in.
+11 in.
+ENGINE:-
+Engine Type
+Valve-in-head
+Valve-in-head
+No. of Cylinders
+6
+6
+Bore
+3i in.
+3i in.
+Stroke
+3| in.
+3| in.
+Piston Displacement
+216.5 cu. in.
+216.5 cu. in.
+Compression Ratio
+6.25 to 1
+6.25 to 1
+Horse Power (S.A.E.)
+29.4
+29.4
+Maximum Brake Horse Power
+85 at 3200 R.P.M.
+85 at 3200 R.P.M.
+Firing Order
+I-5-3.6-2-4
+1-5-3-6-2-4
+Valve Tappet Clearance —
+Intake
+.006 in. to .008 in. hot
+.006 in. to .008 in. hot
+Exhaust
+.013 in. to .015 in. hot
+.013 in. to .015 in. hot
+Piston Material
+Cast Iron
+Cast Iron
+Piston Surface Treatment
+Electro-Plated with Tin
+Electro-Plated with Tin
+Ring Location about Piston Pin ...
+Above
+Above
+Connecting Rod Material ...
+Drop Forged Steel
+Drop Forged Steel
+Connecting Rod Bearing Material ...
+Babbitt
+Babbitt
+Crankshaft End Play
+.003 in. to .007 in.
+.003 in. to .007 in.
+Crankshaft Bearing Material
+Steel Backed Babbitt
+Steel Backed Babbitt
+Camshaft Material
+Drop Forged Steel
+Drop Forged Steel
+Camshaft Bearing Material
+Steel Backed Babbitt
+Steel Backed Babbitt
+Camshaft Drive ...
+Gear
+Gear
+Valve Seat Angle
+30 degrees
+30 degrees
+Carburettor
+Carter Down-Draft
+Carter Down-Draft
+Choke Control
+Manual
+Manual
+General Specifications
+RVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Standard
+Master De Luxe
+Fuel Gauge
+... AC, Electric Type
+AC, Electric Type
+Fuel Pump
+... Diaphragm Type driven off
+Diaphragm Type driven off
+Camshaft
+Camshaft
+Number of Intake Ports
+Radiator Hose I.D. —-
+... 3
+3
+Inlet
+... li in.
+li in.
+Outlet
+... H in.
+li in.
+Fan Belt Adjustment
+... Movable Generator
+Movable Generator
+Water Pump Type
+... Vane
+Vane
+Water Temperature Control ...
+Thermostat Opening —
+... Automatic
+Automatic
+Starts
+... 142° F.
+142° F.
+Fully Open
+ENGINE LUBRICATION:-
+... 170°
+170°
+Oil cleaned by
+... Screen
+Screen
+Normal Oil Pressure
+... 17 lbs.
+17 lbs.
+Timing Gears
+... Nozzle
+Nozzle
+Tappets
+... Drip and Splash
+Drip and Splash
+Pistons, Pins and Rings
+... Splash
+Splash
+Main and Camshaft Bearings
+... Force Feed
+Force Feed
+Connecting Rods
+CLUTCH:-
+... Dipper and Nozzle
+Dipper and Nozzle
+Clutch Adjustment
+... li in.
+li in.
+Type
+... Dry Disc
+Dry Disc
+Lubrication of Release Bearing
+... Carbon Disc —Manual Lubrica-
+Carbon Disc —Manual Lubrica-
+tion through oil hole when
+tion through oil hole when
+noise indicates necessity.
+noise indicates necessity.
+Clutch Pedal Pressure
+TRANSMISSION: -
+... 35 lbs.
+35 lbs.
+Type
+... Synchro-mesh
+Synchro-mesh
+Type of Gearing
+Ratio —
+... Helical Second
+Helical Second
+Low ...
+... 2.94 to 1
+2.94 to 1
+Second
+... 1.68 to 1
+1.68 to 1
+Reverse
+... 2.94 to 1
+2.94 to 1
+Universal Joint
+... One Enclosed Joint connecting
+One Enclosed Joint connecting
+Transmission and Drive
+Transmission and Drive
+WHEELS AND TYRES:-
+Shaft.
+Shaft.
+Tyre Size
+... 6.00 — 16
+6.00 — 16
+Number of Ply
+Tyre Inflation —
+... 4
+4
+Front
+... 26 Cold — 30 Hot
+26 Cold — 30 Hot
+Rear
+STEERING:-
+... 28 Cold — 32 Hot
+28 Cold — 32 Hot
+Steering Gear Type
+... Worm and Sector
+Worm and Double Roller
+Steering Gear Ratio
+... 16 to 1
+17.5 to 1
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+Standard
+Master De Luxe
+ELECTRICAL SYSTEM:-
+Charging Rate Adjustment ...
+Maximum Charging Rate —
+... Third Brush
+Third Brush
+Cold
+... 18 to 21
+18 to 21
+Hot
+... 15 to 17
+15 to 17
+Generator Model Number ...
+... 948-R
+948-R
+Ventilated
+... Yes
+Yes
+Starting Motor Model Number
+... 739-A
+739-A
+Engagement
+... Bendix
+Bendix
+Shift Operation
+... Hand Control on Instrument
+Panel
+Hand Control on Instrument
+Panel
+Distributor Point Gap
+... .018 in.
+.018 in.
+Spark Plug Gap
+... .035 in. to .037 in.
+.035 in. to .037 in.
+Spark Plug Model
+... Pyrox P.Z.14
+Pyrox P.Z.14
+Battery Capacity
+... 105 Amps.
+105 Amps.
+Voltage
+... 6
+6
+Number of Plates
+... 15
+15
+Horn Type
+... Vibrator
+Vibrator
+Headlight Type
+... Tilt-Ray, Double Filament
+Tilt-Ray, Double Filament
+Headlight Switch Control
+... Toeboard and Instrument Panel
+Toeboard and Instrument Panel
+Parking Light Location
+Power of Bulbs —
+... In Headlamp
+In Headlamp
+Headlight
+... 32-21 C.P.
+32-21 C.P.
+Parking Light
+... 1.5 C.P.
+1.5 C.P,
+Tail Light
+... 3 C.P.
+3 C.P.
+Stop Light
+... 3 C.P.
+3 C.P.
+Instrument Light ...
+... 1.5 C.P.
+1.5 C.P.
+Dome Light
+... 6 C.P.
+6 C.P.
+Electrical Circuit Protection ...
+... 20 Amp. Fuse
+20 Amp. Fuse
+Body and Sheet Metal Finish
+Duco Lacquer
+Duco Lacquer
+List of Tool Equipment
+... Screwdriver, Pliers, Wheel
+Wrench, Hammer, Jack and
+Handle, Starting Crank,
+Grease Gun, Tyre Pump,
+Spark Plug Wrench, Oil Can,
+Adjustable Wrench, 4 Open
+End Wrenches, Instruction
+Book, Tool Container.
+Screwdriver, Pliers, Wheel
+Wrench, Hammer, Jack and
+Handle, Starting Crank,
+Grease Gun, Tyre Pump,
+Spark Plug Wrench, Oil Can,
+Adjustable Wrench, 4 Open
+End Wrenches, Instruction
+Book, Tool Container.
+CAPACITIES:-
+Petrol Tank
+... Ilf gallons
+Ilf gallons
+Crankcase
+... 4f quarts
+4f quarts
+Cooling System
+11 quarts
+11 quarts
+Transmission
+... If pints
+If pints
+Rear Axle
+... 3 pints
+3 pints
+SERVICE INFORMATION 1937 CHEVROLET CARS
+
+
+GENERAL MOTORS - HOLDEN'S LTD.
+MELBOURNE + SYDNEY + ADELAIDE '
+BRISBANE + PERTH
+G. W. GREEN a SONS PTY. LTD. • .

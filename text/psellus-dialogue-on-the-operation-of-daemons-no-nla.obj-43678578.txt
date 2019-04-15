@@ -1,0 +1,1879 @@
+
+
+
+
+
+
+
+
+PSELLUS’ DIALOGUE
+ON THE
+OPERATION OF DAEMONS;
+NOW, FOR TBB FIRST TIME,
+TRANSLATED INTO ENGLISH
+FROM THE ORIGINAL GREEK,
+ILLUSTRATED WITH NOTES,
+MARCUS COLLISSON,
+SYDNEY:
+PUBLISHED BY JAMES TEGO, BOOKSELLER AND STATIONER,
+PRINTED BY D. L. WELCH,
+AT THE ATLAS-OFFICE, OPPOSITE THE POST-OFFICE,
+Of whom the work may be bad.'
+MDCCCXLIII.
+
+
+The Translator is willing to devote a few hours daily to private
+tuition.—discourse of instruction would include, besides the Classics,
+a general English Education. Communications addressed to Marcus
+Collisson, may be left at either Mr.Tegg’s, Bookseller, Mr. Welch*
+Jointer, opposite the Post-office, or Mr. Sands, Print-seller, George*
+street.
+Subscribers are informed, that owing to the work being enlarged
+by additional matter in the Introduction and Notes, the price will be
+Two Shillings.
+
+
+Sydney, February, 1843.
+Your kindness to a stranger at this extremity of
+the globe, and your well-known encouragement of general
+literature, induce dedicate to you this Translation of
+Psellus’ Dialogue on Daemons, as a small, but sincere token
+of grateful acknowledgment, hoping you will extend that
+indulgence which first literary attempts seem to call for.
+I have the honor to be,
+Your obliged and obedient humble Servant,
+TIIK TRANSLATOR.
+Dr. Charles Nicholson.
+
+
+
+
+INTRODUCTORY PREFACE.
+Mich.el I’sellus, who flourished in the eleventli cen-
+tury, the Author of this little treatise on the operation of
+Daemons, was an eminent philologist, philosopher, and
+scholar, and filled the office of Tutor to the young Prince
+Michael, son of Constantine Ducas, with great credit to him-
+self, as appears from the euloginm passed on him by Anna
+Comnena, daughter of the emperor Alexis (Alcxiados,
+lib. v.) Beside other works, he wrote an exposition of
+Aristotle's Philosophy, and Commentaries on the'Book of
+Psalms and Solomon’s Song. Mosheim, the ecclesiastical
+historian, pays the following tribute to his worth : —“ But
+the greatest ornament of the Republic of Letters in the
+eleventh century was Michael Psellus, a man illustrious in
+every respect, and deeply versed in all the various kinds of
+erudition that were known in his age. This great man
+recommended warmly to his countrymen the study of phi-
+losophy, and particularly the system of Aristotle, which he
+embellished and illustrated in several learned and ingenious
+productions.”
+The work (now for the first time published in an English
+dress) was written A. D. about 1050, and was distinguished
+by the learned Barthius with the honorable title, “The
+Little Golden Book.” It is interesting as a literary curi-
+osity, being now exceedingly scarce, as well as by its
+subject, on which mankind have generally shown them-
+selves verv inquisitive. It is further interesting from its
+A 3
+
+
+detailing most minutely the extraordinary secret proceed-
+ings of the Euchitae, otherwise called Massalians (which,
+it must be admitted, is a desideratum), and it seems to
+determine the true meaning of the expression “ doctrines
+of daemons” (Ist Tim. iv., 1).
+We may further remark respecting the work, it may be
+considered a fair specimen of the manner in which heathen
+philosophy was blended with Christian theology in the
+author’s day, and of the plausible reasonings with which
+the most absurd theories were supported; and it goes far
+to show that certain terms, which by ecclesiastical usage
+have obtained a harsh signification, had not acquired such
+harsh signification so early as the period for which Psellus*
+dialogue is laid. It relates also an instance of dcernoniacal
+possession which cannot be accounted for on the suppo-
+sition that such possessions were imaginary.
+The proprie.y of apprising the mere English reader of
+the distinction between a daemon and the devil suggests
+itself here.* The Pagan world, for the most part, knew
+nothing whatever of the devil, though well acquainted with
+daemons, and addicted to their worship; and nothing can
+be more clearly evinced from Scripture than the fact that
+• Properly speaking, the Pagan mythology, though it taught a
+future state of punishment, had nothing analogous with the hell of
+revelation. Neither Charon, nor Pluto, nor jEacus, nor Rhadaman-
+thus, bears the slightest resemblance to that apostate being who is
+variously designated Adversaiy, Tempter, and Traducer. The local
+arrangement, too, of the Pagan hell, and the administration of Us
+punishments, essentially distinguished it from the hell of the Christian
+svstem. The Pagan hell wa? ludicrously divided into compartments,
+in which men were punished according to their respective demerits,
+and had, besides, attached a region called the Elysian Plains, to
+which heroes (first-rate characters, in the Pagan’s estimate) were
+admitted immediately on their decease, and minor offenders after
+they had undergone a purgatorial process. It is true the Latin
+Christians adopted the term Inferni to express hell; yet that wag
+rather because it was more convenient to adopt a term in general
+use, am\ which, in its widest signification, included the idea of a
+f'Mine state of punishment, than because there was much natuial
+fitness m the term to convey the idea intended.
+
+
+there is but one devil, whereas the daemons are numerous;
+the distinction between them, though invariably observed
+in Scripture, has not been carried out in either our autho-
+rized translation, the German of Luther, or the Geneva
+French. It has been rigidly preserved, however, by the
+Syriac version, all the Latin translations, ancient and
+modern, and Diodatti’s Italian version. We cannot do
+better than cite what Dr. Campbell has so lucidly written
+on this subject; after remarking that there is scarcely any
+perceptible difference between Sai/iuv and Scufioviov, this
+acute critic observes (Diss. vi., p. 1, § 8): —“
+dfemon, occurs frequently in the Gospels, and always in
+reference to possessions, real or supposed; but the word
+Sia jSoXog, devil, is never so applied. The use of the term
+Saijionov, daemon, is as constantly indefinite as the term
+SiajioXoQ, devil, is definite : not but that it is sometimes
+attended by the article, but that is only when the ordinary
+rules of composition require that the article be used of a
+term that is strictly indefinite. Thus when a possession is
+first named, it is called simply Sai/ionov, or dffimon, or
+TTViv/Mx a%a9aprov, an unclean spirit; never to Saijiovwv,
+or to irvtvfia a%adapTov ; but when in the progress of
+the story mention is again made of the same daemon, he is
+styled to Scu/ioviov, the daemon, namely, that already
+spoken of; and in English, as well as Greek, this is the
+usage in regard to all indefinites. Further, the plural
+haijiovia occurs frequently, applied to the same order of
+beings with the singular; but what sets the difference of
+signification in the clearest light is that though both Words,
+SiaSoXog and Sai/ioviov, occur often in the Septuagint,
+they are invariably used for translating different Hebrew
+words ; SiatoXog is always in Hebrew either "ip, tsar,
+enemy, or w, Satan, adversary, words never translated
+Saijioviov. This word, on the contrary, is made to express
+some Hebrew terra signifying idol, Pagan deity, apparition,
+or what some render satyr. What the precise idea of the
+dsemons to whom possessions were ascribed then was, it
+
+
+would, perhaps, be impossible for us with any certainty to
+affirm; but as it is evident that the two words hatoXoi;
+and Saipoviov are not once confounded, though the first
+occurs in the New Testament upwards of thirty times, and
+the second about sixty, they can by no just rule of inter-
+pretation be rendered by the same term ; possessions are
+never attributed to the being termed o Sio&oXoc, nor are
+his authority and dominion ever ascribed to daemons. Nay,
+when the discriminating appellations of the devil are occa-
+sionally mentioned, Sat/soviov is never used as one.
+It may be proper to subjoin here the most striking
+instances of the term being mistranslated in the authorized
+version. Acts xvii., 18 : “ Others said he seemeth to be a
+setter forth' of strange gods,” should be strange daemons.
+Ist Corinth, x., 20, 21 : “ The things which the Gentiles
+sacrifice they sacrifice to devils, and not to God, and I
+would not that ye should have fellowship with devils ; ye
+cannot drink the cup of the Lord, and the cup of devils ;
+ye cannot be partakers of the Lord’s table and the table of
+devils" Here in every instance the word rendered devils
+should be rendered damions. Rev. ix., 20 : “ The rest of
+the men which were not killed by these plagues, yet re-
+pented not of the works of their hands, that they should
+not worship devils read daemons. Ist. Tim. iv., 1 :
+“ Giving heed to seducing spirits, and doctrine of devils,”
+should be daemons. James ii., 19 : “ Thou believest that
+there is one God; thou doest well; the devils also believe
+and tremble substitute daemons.
+With respect to the instance of dacmoniacal possession
+recorded in Psellus’ work, and which is irreconcileable
+with the supposition that such possessions were imaginary,
+although, indeed, it may be objected that that particular
+case is not duly authenticated, yet we can hardly conceive
+it possible for any one who implicitly believes the infallible
+truth of Scripture, and reads it with ordinary attention, to
+call in question the reality of dacmoniacal possessions, at
+least in the apostolic age. Nothing can be more pertinent
+
+
+than Dr. Campbell's remarks on this subject (Diss. vi.,
+p. 1, § 10): —“A late learned and ingenious author
+(Dr. Farmer),” observes Dr. Campbell, “ has written an
+elaborate dissertation to evince that there was no real
+possession in the demoniacs mentioned in the Gospel, but
+that the style there employed was adopted merely in con-
+formity to popular prejudice, and used of a natural disease.
+Concerning this doctrine, I shall only say, in passing, that
+if there had been no more to argue from sacred writ in
+favour of the common opinion than the name taifioviZo-
+pevof, or even the phrases Satfiovwv f\ t: , exfiaWitv, &c.,
+I should have thought his explanation at least not impro-
+bable ; but, when I find mention made of the- number of
+da-mons in particular possessions, their action so expressly
+distinguished from that of the man possessed, conversations
+held by the former in regard to the disposal of them after
+their expulsion, and accounts given how they were actually
+disposed of—when I find desires and passions ascribed
+peculiarly to them, and similitudes taken from the conduct
+w hich they usually observe, it is. impossible for me to deny
+their existence, without admitting that the sacred historians
+were either deceived themselves in regard to them, or in-
+tended to deceive their readers. Nay, if they were faithful
+historians, this reflection, I am afraid, will strike still
+deeper.”
+Without consenting to all that Psellus advances on the
+origin, nature, modes of action, and occasional manifesta-
+tion of dannons, yet, believing implicitly the sacred Scrip-
+tures, we can have no more doubt of the existence of such
+beings than we have of our own. Dr. Campbell also ob-
+serves, (Diss. vi., p. 1, §11): —“Though we cannot dis-
+cover with certainty, from all that is said in the Gospel
+concerning possessions, whether the datmons were con-
+ceived to be the ghosts of wicked men deceased, or lapsed
+angels, or (as was the opinion of some early Christian
+writers, lust. M. Apol. 1) the mongrel breed of certain
+angels (whom they understood by the sons of God, men-
+
+
+Honed in Genesis, eh. vi., 2) and of the daughters of men,
+it is plain they were conceived to he malignant spirits.
+They are exhibited as the causes of the most direful cala-
+mities to the unhappy person whom they possess—dumb-
+ness, deafness, madness, palsy, and the like. The descriptive
+titles given them always denote some ill quality or other j
+most frequently they are called TTi’tvgara axaSagra,
+unclean spirits ; sometimes irvtvgara ironqpa, malign
+spirits; they are represented as conscious that they are
+doomed to misery and torments, though their punishment
+be for a while suspended. ‘ Art thou come hither, fiaara-
+vaaai q gag, to torment us before the time ?’ Matt, viii.,
+29.”
+Calmet seems to be of opinion that the daemons are
+identical with the apostate angels : we cannot but believe
+that such as were connected with dsemoniacal possession
+were the same with the apostate angels, the more especially
+as we find not the remotest allusion to their origin as a
+distinct class, and as both they and the apostate angels are
+represented as destined to future torment. The possessed
+with datmons at Gadara cry out, on our Lord’s approach,
+“ Art thou come to torment us before the time” —(Malt,
+viii., 29) —whilst our Lord says, delivering the future
+judgment, “ Depart ye cursed into everlasting fire, pre-
+pared for the devil and his angels: ” from which passages
+it would appear that neither Satan nor the daemons are yet
+enduring the extreme punishment prepared for them; in-
+deed, the scriptural opinion appears to be that, as the devil
+walkcth about like a roaring lion seeking whom he may
+devour, going to and fro in the earth, walking up and
+down in it, so his emissaries, the apostate angels, the
+daemons, roam through every part of it, inflicting diseases,
+tempting to sin, and blasting physical as well as moral
+good. If it be said that such a supposition is irreconcilable
+with the power and beneficence of the Divine Being, will
+those who make such objection venture to deny the exist-
+ence of moral and physical evil ? and if that be reconcil-
+
+
+able with the power and beneficence of the Supreme, why
+may not the doctrine just laid down ? Will it be said that
+such a supposition is irreconcilable with the immutability
+and permanency of the Divine laws ? Will those who
+make such objection assert, that the superficial know-
+ledge they may have acquired of nature’s laws warrants
+them in saying that they understand the Divine laws ?
+who can tell all the causes that lead to any one, even the
+most insignificant, event ?—and who can tell but that the
+laws of nature, without our perceiving it, are controlled by
+dicmonic agency ? We only see a few of the links—we
+cannot see all the links of the chain that lead to any one
+result.
+It may be proper to examine here the Heathen notion of
+the word daemon, by which means (mutatis mutandis) we
+will be better able to understand its scriptural application.
+Its etymology conveys the idea either of an acute intel-
+ligence or of an appointed agent; but as these may exist
+separately, in distinct beings, or combined in the same
+being, it is obvious mere etymology cannot guide us to a
+safe conclusion in bur enquiry. Homer applies the epithet
+daemons, in more than- one instance, to the dii majomm
+gentium (Iliad, v. 222); but whether he regarded the dii
+majorum gentium as an inferior order of beings, subordinate
+to a superior intelligence, or heroes advanced to this
+eminence, or merely applied this term as suitable, in its
+primary sense of an acute intelligence, to beings of the
+very first order, is somewhat doubtful. The scholiast seems
+to favour the view last mentioned (Horn. Iliad. Cantab.
+1711, vers. 222). We cannot but be persuaded that Homer
+considered all the gods and goddesses of human origin,
+and occasionally gave glimpses of his opinion on this point,
+though he dared not openly to avow his sentiments. One
+very striking instance of this furtive way of insinuating
+his private opinions we have in the 22nd book of the Iliad,
+74th line, where, speaking of a river in the Troade, he
+says, On Xav9ov KaXfovat 9toi, avl ptf h Xicapavlpov,
+
+
+“ which the Gods call Xauthus, hut men Scamander
+Xanthus being the name hy which the ancients designated
+the river, he almost says that ancients and gods are con-
+vertible terms. It may he objected, “ can Jupiter himself
+he included under this idea —Jupiter, to whom almighty
+power and supreme dominion are attributed, and who is
+styled by the poets “ the father of gods and men, the
+greatest and best of beings De La Motte’s reply to
+Madame Dacicr is here very apposite—“ What! could
+Homer seriously believe Jupiter to he the creator of gods
+and men ? Could he think him the father of his own
+father Saturn, whom he drove out of heaveur or of Juno,
+his sister and his wife, of Neptune and Pluto, his brothers,
+or of the nymphs who had charge of him in his childhood,
+or of the giants who made war upon him, and would have
+dethroned him, if they had been then arrived at the age
+of manhood ? How well his actions justify the Latin
+epithets, optimus, maximum, most gracious, most mighty,
+so often given him, all the world knows.” (Dc la Critique,
+seconde partie, Des Dieux.) On the whole, we are rather
+inclined to think that Homer considered all gods (the dii
+majorum gentium not excepted) as daunons of human
+original. Hesiod follows next in order of time ; he
+seems decidedly of opinion that all gods were daemons,
+and originally human ; he intimates that the daemons are
+the men of the golden age, who lived under Saturn, and
+avers that they are the protectors of mankind, ouXax«t
+roiv Qvgrmv avOpinirtov. (Vide Scholiast on Homer’s Iliad,
+A. 222.) Socrates’ sentiments on this subject, as also
+those of Plato and his immediate disciples, may be gathered
+from the following extract from Plato’s Cratylus ;—“ Soc.
+What'shall we consider next? Ilermogenes, Damons, to
+be sure, and heroes, and men. Soc. Let it be daemons,
+then, and with what propriety they are so named. Con-
+sider, Hermogenes, if I say ought worthy of your attention
+as to what might have been the sense of the word daemon.
+llermog. Proceed. Soc. Are you aware that Hesiod says
+
+
+certain are daemons ? Hermog. I don’t remember it. Soc.
+Nor that he says the first generation of men were golden ?
+Herm, I know that, at all events. Soc. Well, then, he
+speaks thus respecting it: —
+* When destiny concealed this generation
+They were called pure subterranean Intelligences* [Daiinones],
+Excellent, Avertors of evils, Protectors of mortal men.*
+Herm. What, then, pray ? Soc. I think he calls a gene-
+ration the golden [generation], not as though produced
+from gold, but because excellent and glorious ; and I con-
+jecture it is for analogous reasons he says we are an iron
+generation. Herm. You say the truth. Soc. You think,
+then, he would say, if any one of the present age were
+excellent, he belonged to the golden age ? Herm. It is
+but the natural inference. Soc. Who are excellent but
+the wise ? Herm. The wise, none else. Soc. This, there-
+fore, he specially intimates respecting Intelligences, that
+he designated them Intelligences because wise and intel-
+ligent, and in our ancient speech the word occurs. Ac-
+cordingly not only Hesiod, but many other poets also, calls
+them appropriately thus. How many, too, are in the habit
+of saying, when a good man dies, that he obtains a glorious
+lot, and dignity, and becomes an intelligence, designating
+him thus owing to his wisdom ?• In the same manner I
+aver that the intelligent man is every good man, and that
+the same, whether living or dead; is intellectual, and is
+correctly called an intelligence.”—Plutarch, who flourished
+in the second century, gives the following as his doctrine
+of daemons : —“ According to a divine nature and justice,
+the souls of virtuous men are advanced to the rank of
+daemons ; if they are properly purified, they are exalted into
+gods, not by any political institution, but according to right
+reason.” The same author says in another place (de Isis
+• We have rendered this word, Saifiovtg, intelligences, and will
+throughout. Were we to tender it daemons, it would be impossible
+to convey the agteeable play on the word which afterwards occurs.
+
+
+et Osiris, p. 361), that Isis and Osiris were for their virtue
+changed into gods, as were Hercules and Bacchus after-
+wards, receiving the united honors both of gods and
+daemons.
+From these data we conclude that the word daemon, as
+signifying in its abstract sense an intelligence, was occa-
+sionally applied from the earliest times to deities of the
+very first order, but afterwards came to be appropriated to
+deified men ; and that the heathen (philosophers excepted)
+believed in no being identical with or bearing the slightest
+resemblance to our God. In the language of one who
+cannot be suspected of any partiality to Christianity, they
+were “ a kind of superstitious atheists, who acknowledged
+no being that corresponds with our idea of a deity,” (Nat.
+Hist, of Rel., sect, iv.)
+The heathen did not pretend to be acquainted with all
+the existing daemons or intelligences. So sensible were
+the Greeks of their ignorance on this head, that they
+actually had, in Paul’s day, an altar at Athens with the
+inscription, “To an unknown God.” They thought by
+this contrivance to obviate any bad results that might
+accrue from their ignorance, and secure to every daemon or
+intelligence a due share of honor. Paul accordingly, with
+ingenious artifice, takes advantage of this circumstance'to
+introduce Jesus to their notice as a daemon * or intelli-
+• It seems probable that the line of conduct pursued by the
+Apostle on this occasion was suggested by that remark of the Athe-
+nians themselves, “he seems to he a setter forth of strange intelli-
+gencesp (usually rendered daemons); because he preached to them
+tqv I rjaovv icat rtjv Avaaracnv, Jesus and Resurrection, they
+conceived Jesus to be a male intelligence, and Resurrection ; Anas-
+tasin, a female intelligence, according to their custom deifying abstract
+qualities, and making them gods and goddesses as suited the gender
+of the name. Nor can this conduct of the Apostle be termed with
+any propriety “ a pious fraud”. ’Tis true that though the term djemon
+in its primary use signifies intelligence, his auditors would be very
+apt to take the term in its more extended sense. The Apostle, how-
+ever, could not justly be held responsible for the acceptation in
+which they choose to take his woids; yet it must be admitted that
+
+
+gence they were unconsciously worshipping. He thus
+apologizes on Mar’s Hill, (Acts xvii. 21): —“ Ye men of
+Athens, I perceive that in every thing you somewhat sur-
+pass in the worship of daemons ( Kara iravra mq ctiatcai-
+fiovcarepove*); for as I passed by, and beheld your devo-
+tions, I found an altar with this inscription, “ to an un-
+known God;’’ whom therefore you ignorantly worship ,
+Him declare I unto you.” In this apology the word
+daemon does not convey the idea of either an impure or
+malignant being, but simply of an intelligence.
+It can hardly be questioned but that the heathen, when
+worshipping deified men as daemons, were really worship-
+ping beings who had no existence but in their own imagi-
+nations ; and in so doing, though they could not be said
+to worship any particular dwmon, yet might they with
+propriety be called worshippers of daemons, beings which,
+whether real or imaginary, were confessedly inferior to the
+Supreme. In this seems to lie the force of the Apos-
+tle’s remark (Ist Cor. x., 19,20,) “ What say I, then ? that
+the idol is anything, or that which is offered in sacrifice to
+idols anything ? but I say that the things which the Gen-
+tiles sacrifice they sacrifice to daemons, and not to God,
+and I would not that you should have fellowship with
+the Apostle did not in this instance state the whole truth, but merely
+so much as suited his immediate purpose of extricating himself from
+the power of their fanatical philosophers. His principal object
+seems to have been to show that on their own principles, w'hich
+admitted a multiplicity of gods, and regarded without jealousy the
+gods of other nations, they could not injustice or consistency punish
+him for preaching a God they had never heard of before, even
+Jesus. With a similar tact the Apostle rescued himself fiom the
+malice of the Jews, when arraigned before the high priest, by avow-
+ing himself a Pharisee, and insisting that the doctrine of a future
+resurrection was the great matter of dispute; but this, as in the
+former instance, was not the whole truth ; it answered, however, the
+Apostle’s purpose by creating a division in his favour. Sorely this
+was the wisdom of the serpent, without its venom.
+• The Athenians gloried in the fact .that they were
+eaTIQOVg than the other states of Greece, and must have considered
+the Apostle’s language highly complimentary.
+B 2
+
+
+daemons. Ye cannot drink the cup of the Lord, and the
+cup of daemons.” As if the Apostle had said, “do I mean
+to assert that an idol is intrinsically anything? by no
+means; the veriest tyro in the school of Christ knows that
+an idol is nothing, for eyes have they, and see not, &c.;
+but while I grant this, I still maintain, that the things
+which the Gentiles sacrifice they sacrifice to daemons, of
+which the idols are symbolical representations.” Possibly
+the particular daemon intended by the idol might have no
+existence, but idols may be considered with propriety to
+represent the class, viz., beings intermediate between God
+and man, inferior to the former, but superior to the latter;
+“ for to all who come under this description, real or
+imaginary, good or bad, the name daemons (intelligences)
+is promiscuously applied. The reality of such intermediate
+order of beings revelation everywhere supposes, and ra-
+tional theism does not contradict. Now it is to the kind
+expressed in the definition now given that the pagan deities
+are represented as corresponding, and not individually to
+particular damans, actually existing. To say, therefore,
+that the Gentiles sacrifice to daemons is no more than to
+say that they sac-ifice to beings which, whether real or
+imaginary, we perceive, from their own account of them,
+to be below the Supreme.” (Camph., Diss. vi., p. 1,
+§ 15.)
+It may be asked, of what practical utility is a work of
+this nature—of what practical importance can it be whether
+we believe or disbelieve the existence of daemons ? We
+humbly conceive it is not optional with us to treat any
+portion of divine truth as unimportant, because we cannot
+see its practical bearing upon the conduct. If it can be
+unequivocally shown from the Word of God that daemons
+exist, the belief of the fact belongs to us, the utility of it
+to Him that permits it. At the same time, we cannot for-
+bear observing that, if it be a work of utility to throw
+light, in the least degree, on any portion of the Word of
+God, and to rescue a term or a passage from a perverted
+
+
+use, then we flatter ourselves such ends may be in some
+measure effected by the publication of Psellus’ work ; but
+if there were no other reason for its publication than a
+desire to communicate the arguments with which, in those
+comparatively early times, men of a philosophic turn of
+mind fortified themselves in the belief of dsemoniacal pos-
+sessions (as well in the Apostolic age as in their own time),
+we conceive none could justly condemn such a laudable
+motive. Surely a supercilious contempt for the Analdm
+of ancient literature, which would censure them unheard,
+or consign their writings to oblivion, is no mark of either
+liberality or wisdom in the present age.
+
+
+MICHiEL PSELLUS’ DIALOGUE,
+BETWEEN
+TIMOTHY AND THRACIAN,
+ON THE OPERATION OF DAEMONS,
+Versus Manes and the Euchitce (a.)
+Timothy.—ls it long, Thracian, since you visited
+Byzantium ?
+Thracian. —Yes, it is long, Timothy; two years per-
+haps, or more ; I have been abroad.
+Timothy.—But where, and why, and engaged in what
+business, were you away so long ?
+Thracian. —The questions you put would take too long
+to answer just now; I must devise Alcinous’ narrative (S)
+if I am obliged to particularize every thing I was present
+at, and every thing I endured, while constrained to associate
+with impious characters—those Euchitae, or, as many call
+them, Enthusiasts—have you not heard of them at all ?
+Timothy.—Why, I understand that there are amongst
+us individuals as godless as they are absurd, and that in
+the midst of the sacred quire * (to speak in comedian
+style;) but as to their dogmas, their customs, their laws,
+their proceedings, their discourses, I have not yet been
+able to learn any thing about them; wherefore I beg of
+you to tell me most explicitly whatever you know, if you
+are disposed to oblige an intimate acquaintance, I will even
+add, a friend.
+Thracian. —Even have it so, friend Timothy, though
+* In holy orders.
+
+
+it be enough to give one a head-ache if he but attempt to
+describe the outlandish doctrines and doings of dsemon-
+ry ; and though you cannot possibly derive any advantage
+from such description—for, If it be true what Simonides (c)
+says ,(c) that the statement of facts is their delineation, and
+that therefore the statement of profitable facts must be
+profitable, and the statement of unprofitable facts quite
+the opposite—what possible benefit could you derive from
+my delineating their seductive statements ?
+Timothy. —Nay, but I shall be greatly benefited, Thra-
+cian ; surely it is not unserviceable for physicians to be
+acquainted with drugs of a deadly nature, that so none
+may be endangered by their use: besides, some of the
+particulars, at all events, will not be unprofitable. We
+have our choice, therefore, either to carry off from your
+disquisition what is profitable, or to be on our guard of it
+if it have anything pernicious.
+Thracian. —Agreed, my friend; you shall hear (as the
+poet says) truths certainly, but most unpleasant ones :
+but if my narrative advert to certain unseemly proceedings,
+I require of you, in common justice, not to be angry with
+me who relate them, but with those who do them. This
+execrable doctrine had its rise with Manes* the Maniac,
+from him their [the Euchitse’s] multitudinous origins have
+flowed down as from a foetid fountain; for, according to
+the accursed Manes,f there were two origins of all things:
+• Here there is obviously a play on the word Manes, which we
+have endeavoured to preserve in some measure in the translation;
+the Greek reads Trapa M avtVTOQ TOV pavtVTOQ : this descrip-
+tion of punning is very ancient. The Jews, playing on the word
+Beelzebul, signifying God of Heaven, converted it into Beelzebub,
+God of the Dunghill, he being supposed the god of a fly, that de-
+lights in ordure.
+f The Greek reads £7rj/paru), which signifies lovely; we cannot
+but think this either a typographical error, or an error of some tran-
+scriber, and that the word, in the original MS., was fTraparw,
+which signifies accursed: this view is countenanced by the Latin
+translators, employing, as the synonyme, intestabilis.
+
+
+he, with senseless impiety, opposed a god, the author of
+evil, to God, the Creator of every good—a ruler of the
+wickedness of the Terrestials, to the bounteous Ruler of
+the Caelestials. But the dsemoniacal Euchitse have adopted
+yet a third origin ; according to them, two sons, with their
+father, make the senior and the junior origin; to the fa-
+ther they have assigned the supra-mundane region solely,
+to the younger son the atmospheric region, and to the
+elder the government of things in the world—a theory
+which differs in nothing from the Greek mythology, ac-
+cording to which the universe is portioned out into three
+parts. These rotten-minded men, having laid this rotten
+foundation, thus far are unanimous in their sentiments ;
+but from this point are divided in their judgments into
+three parties: some yield worship to both sons, maintain-
+ing, that though they are at variance, yet that both are
+equally deserving of being worshipped, because they are
+sprung from one parent, and will yet be reconciled. But
+others serve the younger son as being the governor of the
+superior region, which extends immediately over the earth;
+and yet they do not absolutely disdain the elder son, but
+are on their guard of him, as of one who has it in his
+power to do them injury; while the third party, who are
+further sunk in impiety, withdraw altogether from the
+worship of the celestial son, and enshrine in their hearts
+the earthly alone, even Satan, dignifying him with the
+most august names, as, the First-begotten, Estranged from
+the Father, the Creator of Plants and Animals, and the
+rest of the compound beings. Preferring to make suit to
+him who is the Destroyer and Murderer, gracious God 1
+how many insults do they offer to the Celestial, whom they
+pronounce envious, an unnatural persecutor of his brother,
+(who administers judiciously the government of the world)
+and aver, that it is his being puffed up with envy occasions
+earthquakes and hail and famine, on which account they
+imprecate on him, as well other anathemas, as in particular
+that horrible one! * * * * * * *
+
+
+Timothy. —By what train of reasoning have they brought
+themselves to believe and pronounce Satan a son of God,
+when not merely the Prophetic Writings, but the Oracles
+of Divine Truth everywhere speak but of one son, and he
+that reclined on our Lord’s bosom (as is recorded in the
+Holy Gospel), exclaims, concerning the divine Xoyoc, “the
+Glory as of the Only-begotten of the Father,” whence has
+such a tremendous error assailed them ?
+Thracian. —Whence, Timothy, but from the Prince of
+Lies, who deceives the understandings of his witless vo-
+taries by such vain-glorious fiction, vaunting that he will
+place his throne above the clouds, and averring that he
+will be equal to the Highest; for this very reason he has
+been consigned to outer darkness: and when he appears to
+them, he announces himself the first-begotten son of God
+and creator of all terrene things,* who disposes of every-
+thing in the world, and by this means, following up the
+peculiar foible of each, cheats the fools, who ought to
+have considered him an empty braggart and the arch-
+prince of falsehood, and overwhelmed with ridicule his
+pompous pretensions, instead of believing everything he
+says, and suffering themselves to be led about like oxen
+by the nose. However, it will soon be in their power to
+convict him of being a liar, for if they insist on his making
+good his honied promises, he will turn out no better than
+the ass in lion’s skin which, when it attempted to roar like
+a lion, its braying betrayed. At present, however, they
+resemble the blind, and the deaf, and the insane, since they
+cannot perceive, from the consanguinity of universal na-
+* This, it must be admitted, is the true character of Satan, so far
+as regards his lyinyr propensities ; he was a liar from the beginning.
+“ When he spcaketh a lie he spcaketh bis own, for he is a liar, and
+his (the liar’s) father.” But whether there "be an admixture of
+var ify with mendacity, or his lies be uttered purely with a view to
+deceive, is not so easily determined ; yet certainly his mendacious
+address to the Messiah, “ All this power will I give thee and the
+glory of them, for that is delivered unto me, and to whomsoever
+I will I give it,” seems to partake of a boastful character.
+
+
+ture, that there is but one Creator, nor hear that very
+consanguinity declaring the self-same truth, nor discover,
+by reasoning, that if there were two opposite creators,
+there would not be that one arrangement and oneness
+(svoiaie) which binds all things together. As the Prophet
+says, “ the ox and the ass know their master and their
+master’s crib,” but these bid their Master farewell, and
+have elected to the place of God the most abject of all
+creatures. “ Scorched though they be with the fire,” (as
+the Proverb says) they yet follow and precipitate them-
+selves into that fire which has long been provided for him
+and his co-apostates.
+Timothy.— But what profit do they derive from ab-
+juring the Divine religion received from their fathers,* and
+rushing on certain destruction ?
+Thracian. —As to profit, I do not know that they de-
+rive any, but I rather think not; for though the daemons
+promise them gold, and possessions, and notoriety, yet you
+know they cannot give them to any: they do, however,
+present to the initiated phantasms and flashing appearances,
+which these men-detesters of God call visions of God.
+Such as wish to be spectators of them, gracious Heavens !
+how many shameful things, how many unutterable and de-
+testable must they witness ! For everything which we con-
+sider sanctioned by law, and a doctrine to be preached,
+and a duty to be practised, they madly disregard, nay, they
+even disregard the laws of nature; to commit their de-
+* Here we see how little dependence can be placed on that faith
+which is founded on human authority, “ which stands in the wisdom
+of man and not in tiie power of God.' 5 Those who can assign no
+better reason for their Christianity than that it was transmitted from
+their fathers, will become Pagans, Mahommedans, or Inlidels, when
+they cannot exercise their teligion safely, or when it is more con-
+ducive to their temporal interest to renounce it; or else they are
+liable to be drawn into any fanciful theory, that has but the charm
+of novelty to recommend it, with talent and eloquence to enforce it.
+Little dependence can be reposed in any faith which is not the re-
+sult of an Enlightened, rational conviction. Superstition itself is
+vastly more influential than nominal ClirUtianify.
+
+
+baucheries to writing would only befit the impure pen of
+Archilochus, (4) nay, I do think that were he present he
+would be loath to commemorate orgies so detestable and
+vile, as were never witnessed in Greece, no, nor in any
+barbarous land ; for where or when did any one ever hear
+that man, that august and sacred animal, ate excretions,
+whether moist or dry—a monstrosity which, I believe, not
+even wild beasts in a rabid state are capable of committing,
+and yet this is but the preliminary proceeding with these
+execrable wretches.
+Timothy. —What for, Thracian ?
+Thracian. —Oh, this is one of their secrets—they know
+best who do it: however, on my frequently questioning on
+this point, all I could learn was, that the daemons became
+friendly and affable on their partaking of the excretions.
+In this particular I was satisfied they spoke truth, though
+incapable of speaking it in other matters; since nothing
+can be so eminently gratifying to hostile spirits as to see
+man (who is an object of envy), man who has been ho-
+noured with the Divine image, fallen to such a state of
+degradation : this is putting the finishing stroke on their
+folly. Nor is this confined to the Antistites of the dogma*
+* It is remarkable that in the whole course of this treatise Pseiius,
+speaking of the most revolting doctrines, never once employs the
+term atpiffig, but Soyfia, which his Latin translator improperly
+renders hasresis. To what is this attributable?—are we to suppose
+that the word txtptmg was unknown to Pseiius as a term of re-
+proach, or that however appropriate the term might be to express
+the word sect, it was altogether inappropriate to express the doc-
+trine of a sect. No one instance can be shown in Scripture, nor in
+the writings of the first two centuries, of an opinion, whether true
+or false, being denominated heresy. It is applied in Scripture in-
+differently to either a good or bad sect, without implying either fa-
+vour or censure, (thus we read the sect of the Saducees, the sect
+of the Pharisees, the strictest sect of our religion), but never to a
+sentiment, whether good or bad; in fact, it is nearly synonymous
+with cytcrpa, rendered in the authorized version division , gxitTfia,
+being the incipient state of that which, in its more confirmed and
+aggravated form, is aLpEffig. There is one passage in the New
+
+
+(to wlioni they tack the appellation, Apostles), but extends
+to the Euchitae and the Gnosti.* But as to their mystical
+sacrifice,f God preserve me ! who could describe it ? I
+blush to repeat the shameful things I witnessed, and yet I
+am bound to repeat them, for you, Timothy, have already
+Testament which, to a superficial reader, might seem to clash with
+the views here stated. “ A man that is a heretick after the first and
+second admonition reject; knowing that he who is such is subverted
+and sinnelh, being condemned of himself” —(Tit. iii. 10, 11 ) This
+is a mis translation in two ways, for not only does it attach to the
+word CUptriKOQ, a modern and ecclesiastical sense, which was un-
+known in primitive times, but it is at variance with the very genius
+and structure of the language. On this last point Dr. Campbell,
+with his usual acuteness and accuracy, observes (Diss. 9. p. 4. s. 11) :
+—“ It is plain, from the genius of the language, that the word
+atpETLKog in this place does not mean a member of an aipegig
+or sect, who may be unconscious of any fault , and so is not
+equivalent to our word sectary, much less does it answer to our
+English word heretic, which always implies, one who entertains
+opinions in religion not only erroneous but pernicious ; whereas we
+have shewn that the word cape£i£, in scriptural use, has no neces-
+sary connection with opinion at all; its immediate connection is
+with division or dissension, as it is thereby that sects and parties are
+formed. AipcrtKOf av9pu)7rog must therefore mean, one who is
+the founder of a sect, or at least has the disposition to create
+cttp€££i£ or sects in the community, and may properly be rendeml
+a factious man.'*
+• The Greek reads Tvuigrotg, the Lat. Comment, suggests
+TviogriKOtg, the name of a well-known sect, but we conceive
+VvufgTOtg to be the correct reading, and that it is not the Gnostics
+are referred to, but a particular class among the Euchtt®, called
+tinosti, or Litterati. The conclusion we would draw from the above
+passage is, that the EucMt® were divided into three classes—the
+Proestatoi or Presidents, the Gnosti or Literati, and the Euchit®
+or Praying-men, who formed perhaps the uneducated and largest
+portion—the last being most generally known, and the most nu-
+merous, the whole body might have been called by the general
+name, Euchit®,
+t This expression the Enchit® derived from the Christians, who
+designated the Lord’s Supper the mystical, i. e., symbolical sacrifice.
+This seems to indicate that Transubslantiation formed no part of
+the primitive creed.
+
+
+prevailed on me; I will therefore skim over them lightly,
+omitting the more shameful proceedings, lest I should seem
+to be acting a tragedy, [rather than giving a plain state-
+ment of facts.*] Vesperi enim luminibus accensis, quo
+tempore salutarera domini celebramus passionem, in domum
+praescriptam deductis, quas sacrilegi sacris suis initiave-
+runt, puellis ne lucem execrandi quod designaut, flagitii
+testem habeant, cum puellis libidinose volutantur in quam-
+cumque tandem, sen sororem, seu propriam filiam, seu ma-
+trem quilibet incident. Siquidem et hac in re dsemonibus
+rem gratam facere arbitrantur, si leges divinas transgress!
+fuerint, in quibas cautum est, ne nuptise cum sanguine
+cognato contrahantur. Having perfected this rite, they
+are dismissed; on the expiry of nine months, when the
+unnatural progeny of an unnatural seed is about being
+born, they meet again at the same place, and on the third
+day after parturition, tearing the wretched infants from
+their mothers, and scarifying their tender flesh with knives,
+they catch in basins the dripping blood, and casting the
+infants, still breathing, on the pile, consume them ; after-
+wards, mingling their ashes with the blood in the basins,
+they make a sort of horrible compound, with which, se-
+cretly defiling their food, liquid and solid, like those who
+mix poison with mead, not only they themselves partake
+of these viands, but others also who are not privy to their
+secret proceedings.
+Timothy. —What end do they propose to themselves by
+such revolting pollutions ?
+Thracian. —They are persuaded that by this means the
+divine symbols inscribed in our souls are thrust out and
+expunged, for so long as they continue there the daemon
+tribe are afraid and keep aloof, as one might from the
+royal signet attached to a cabinet; in order, therefore, to
+enable the daemons to reside in their souls they, without
+• Note.—Wherever brackets are supplied thus [ ] the words
+included are not the author's, but are merely inserted to make the
+sense more explicit.
+
+
+any apprehension, chase away the divine symbols, by their
+insults to heaven—and a profitable exchange they have
+made of it. But not satisfied with perpetrating this
+wickedness themselves, they lay a snare for others; the
+polluted viands tempting the pious* also, who, without
+being aware of it, partake of the strange food, they like
+so many Tantali serving up their children for the enter-
+tainment.
+Timothy. —Good Heavens, Thracian ! this is what my
+grandfather by the father’s side predicted ; for once being
+distressed, because some subverted as well the other privi-
+leges of the good as their acquisition of a liberal educa-
+tion,f I asked him, will there ever be a restoration ? he
+being then an old man, and very sagacious in forseeing
+coming events, gently stroking my head and fetching a
+heavy sigh, replied, “ My son, my child, do you imagine
+that they will ever again restore literature, or anything ex-
+cellent ? The time is at hand when men will live worse
+than wild beasts, for now Antichrist is at hand, even at
+the doors, and evil precursors in the shape of monstrous
+doctrines and unlawful practices, no better than the orgies
+of Bacchus, must usher in his advent. And whatever
+things have been represented by the Greeks in their tra-
+gedies, as Saturn and Thyestes and Tantalus devouring
+their offspring, (Edipus debauching his mother, and Cinyras
+his daughters, all these fearful enormities will break in
+• Query—might not that aversion which many of the Roman and
+Corinthian converts evinced to partaking of food served up at en-
+tertainments, or exposed for sale by heathens, have been occasioned
+partly by a suspicion that it was secretly defiled by similar practices
+to what are here described.
++ Here there seems a pointed allusion to the Emperor Julian,
+whose artful policy it was to shut up the schools of the Christians, in
+which they taught philosophy and the liberal arts. It may indeed
+be objected that Julian lived in the fourth century, whereas Psellus
+flourished in the eleventh century. We are not, however, under any
+necessity for supposing that Psellus’ Dialogue is laid for his own
+day. The Euchitee, against whom this dialogue is levelled, started up
+at the close of the fourth century.
+
+
+upon our state; but see my son, and be on your guard, for
+know, know for certain, that not only individuals from the
+illiterate and unpolished class, but many also of the
+learned,* will be drawn away into the same practices.”
+These things, if I am to judge from the result, he spake
+prophetically; but 1, when I recall to mind his words,
+which are as fresh in my memory now as when he uttered
+them, am surprised at what you tell me.
+Thracian. —And well you may be surprised ; for, many
+as are the absurd nations described by historians in the far
+North, and the parts about Lybia and Syrtes, yet I venture
+to say no one has ever heard of such impiety being prac-
+tised by them, no, nor by the Celts, nor by any other na-
+tion near Britain, though destitute of laws and in a savage
+state.
+Timothy. —lt is afflicting to think, Thracian, that such
+horrible practices should take up their abode in our quarter
+of the world. But a perplexity of long standing respecting
+daemons distresses me ; among other things, I should like
+to know whether they are manifestly seen by the demon-
+iacal wretches.
+Thracian. —Not a doubt of it, my friend, for this they
+all strive, might and main ; their assemblage and sacrifice,
+and rites, and every horrible practice of theirs, are held for
+this purpose, to bring about a manifestation.
+Timothy. —How then can they, being incorporeal, be
+seen with the visual organs ?
+Thracian. —But, my good friend, they are not incor-
+poreal; the daemon tribe have a body, and are conversant
+with corporeal beings, which one may learn even from the
+* It is somewhat remarkable that heresy (we use the word in its
+present acceptation) has always originated with the learned. We
+doubt if there'can be adduced a single instance of an illiterate
+hieresiarch, which would seem to shew that its rise is not.owing so
+much to the ignorance of the multitude as to a daring spirit of inno-
+vation and depraved ambition in men of learning,
+c 2
+
+
+holy fathers of our religion, if one only addict himself
+heartily to magical practices. We hear many too relating
+how the daemons appeared to them in a bodily form ; and
+the divine Basilius, who beheld invisible things (or at
+least not clear to ordinary eyes) maintains it, that not
+merely the daemons, but even the pure angels have bodies,*
+being a sort of thin, aerial, and pure spirits; and in proof
+of this he adduces the testimony of David, most celebrated
+of the prophets, saying, “ He maketh his angels spirits,
+and his messengers a flame of fire.”f And it must needs
+be even so, for when the ministering spirits are despatched
+to their respective (as the divine Paul says)
+they must needs have some body, in order to their moving,
+becoming stationary and apparent; for these effects could
+* That Ccelestial beings, Messengers of God to man, have appeared
+in visible form, must be admitted by every believer in Revelation ;
+but whether they appeared in their proper nature, or in a form
+suited to the specific occasion of appearance, it is difficult perhaps to
+determine ; yet, if as the Apostle says, “ there is a spiritual as well
+as a natural body, (Ist Cor. xv., 44,) a body which shall neither be
+frail, nor gross, nor subject to the wants that oppress the present
+body, but one which shall be fitted for the highest possible spiritual
+service and happiness, there is nothing irrational in the supposition
+that angels may have such a body. Abstractedly considered, matter
+has nothing contaminating in it—nothing which morally unfits it for
+union with a pure spirit; it is merely owing to its being associated
+with fallen man, that it seems to possess a degrading property. The
+fact that the believer’s happiness will not be consummated till the
+union of the soul and body at the resurrection, when the soul will
+occupy the body, not as a prison-house, but as a suitable mansion,
+goes far to establish this latter point.
++ This passage, Dr. Chalmers in one of his works, (we believe his
+Astronomical Discourses,) renders, “He maketh the winds his mes-
+sengers, the flaming fire his servants." We cannot but consider the
+passage correctly rendered in the authorised version, “He maketh
+his angels spirits, [or winds], his ministers a flame of fire;” certain
+it is, unless we take the passage in this way, it will be utterly
+destitute of force and meaning, in the Ist chap. Epist. Hebrews, 7th
+verse, where the Apostle contrasts the superior power and authority
+of the Son with that of angels.
+|The passage referred to, plainly is, “ are they not all ministering
+spirits sent foith t.o minister to those who shall be heirs of salvation."
+
+
+not be accomplished otherwise than through the medium
+of a body.
+Timothy. —How comes it then, that in most passages
+of Scripture they are spoken of as incorporeal.
+Thracian. —It is the practice both with Christian and
+profane authors, even the most ancient, to speak of the
+grosser description of bodies as corporeal; but those which
+are very thin, eluding both the sight and touch, not only
+w T e Christians, but even many profane authors think fit to
+call incorporeal.
+Timothy. —But tell me, the body which angels have by
+natural constitution, is it the same with that which daemons
+have ?
+Thracian. —What folly! there must be a vast difference,
+for the angelic, emitting a sort of extraneous rays, is op-
+pressive and intolerable to the visual organs : but as to
+the daemonic, whether it was once of this sort I cannot
+say, but so it would seem; (for Esaias disparagingly calls
+Lucifer “ him that had fallen ") now, however it is an ob-
+scure and darksome sort of thing, saddened in aspect, di-
+vested of its kindred light; but the angelic nature is im-
+material, and therefore is capable of penetrating and
+passing through all solids, being more impalpable than the
+sun’s rays, which, passing through transparent bodies, the
+opaque objects on this earth reflect, so as to render its
+stroke endurable, for there is something material in it;
+but nothing can interpose opposition to an angel, because
+they present opposition to nothing, not being homogeneous
+with any thing; on the other hand, the bodies of daemons,
+though constituted indistinct by their tenuity, are yet in
+some measure material and palpable.
+Timothy. — l ambecoming quite a sage, Thracian, (as the
+proverb says (ej), by these novel accessions of knowledge;
+for to me, indeed, this is a novel fact, that some daemons
+are corporeal and palpable.
+Thracian. —There is no novelty in our being ignorant
+of many things, so long as we are men, Timothy, as the
+c 3
+
+
+saying is ; ’tis well, however, if, as ages advance, our good
+sense increases. Be assured of this, that in making these
+statements, I am not uttering lying raphsodies, like the
+Cretans and Phoeniceans,* but am persuaded of their truth
+from the Saviour’s words, which affirm, that the daemons
+shall be punished with fire, a punishment they would be
+incapable of if incorporeal. Since a being that is destitute
+of a body cannot suffer in the body, therefore they must
+needs undergo punishment by means of bodies, constituted
+capable of suffering. Much, however, I have suppressed
+which I heard from some who adventured themselves to
+intuition ;f for my own part, I have never seen a being of
+that nature —Heaven grant that I may never behold the
+fearful looks of daemons ! But I conversed with a monk
+in Mesopotamia, who really was an initiated inspector of
+daemonic phantasms : these magical practices he after-
+wards abandoned as worthless and deceptive, and having
+made his recantation, attached himself to the true doctrine,
+which we profess, and assiduously applying himself, un-
+derwent a course of instruction at my hands; he accord-
+ingly told me many and extraordinary things about dsemons;
+and once, on my asking, if dsemons were capable of animal
+passion, “ Not a doubt of it,” said he. Quemadmodum
+et sperma nonnulli eorum emittunt et vermes quosdam
+spermate procreant. At incredible est, inquam excrement!
+quicquam dsemonibus inesse, vasave spermatica et vitalia
+vasaquidem eis, inquit ille,hujusmodi nulla insunt, superflui
+autem seu excrementi nescio quid emittunt hoc mihi asserenti
+credito. But, said I, if they derive nourishment, they must
+derive it as we do ? Marcus [for that was his name], replied,
+* The Cretans and Phoenicians were remarkable for their lying
+propensities, so much so that their bad faith became proverbial. The
+Apostle Paul in the Epistle to Titus, (ch. i. 12,) cites the Poet
+Epimenides description of them, with approbation of its truth, “ the
+Cretans ate always liars, evil beasts, slow bellies.”—Everyone has
+heard of the Punica tides.
++ This is a technical phrase. See note on the word ridiculous
+tricks, in the 47fh page.
+
+
+some derive it by inhalation, as for instance a spirit resident
+in lungs and nerves, and some from moisture, but not as we
+do, with the mouth, but as sponges and testaceous fishes
+do, by drawing nourishment from the extraneous moisture
+lying around them, and they afterwards void a spermatic
+substance, but they do not all resemble each other in
+this particular, but only such descriptions of daemons as are
+allied to matter, such as the Lucifugus, and Aqueous, and
+Subterranean. And are there many descriptions of
+daemons, Marcus, I asked again ? There are many, said he,
+and of every possible variety of figure and conformation,
+so that the air is full of them, both that above and that
+around us, the earth and the sea are full of them, and the
+lowest subterranean depths. Then, said I, if it would not
+be troublesome, would you particularize each ? It would
+be troublesome, said he, to recall to mind matters I have
+dislodged from thence, yet I cannot refuse, when you com-
+mand, and so saying he counted off many species of
+daemons, adding their names, their forms, and their haunts.
+Timothy. —What’s to hinder you then Thracian, enu-
+merating them to us ?
+Thracian. —I was not very solicitous, my good sir, to
+retain either the substance or arrangement of that conver-
+sation, nor can I now recollect it. What possible benefit
+could I derive from an over-solicitude to retain their names,
+their haunts, and in what particular they resemble, and in
+what differ from each other ? therefore, I have allowed such
+insipid matter to escape my memory, yet I retain a little
+out of a great deal, and whatever you are curious about, if
+you enquire of me you shall know it.
+Timothy. —This in particular, I wish to know, how
+many orders of daemons are there ?
+Thracian. —He said, there were in all six species of
+daemons, I know not whether subdividing the entire genus
+by their habits, or by the degree of their attachment to
+bodies —be that as it may, he said that the sexade [of
+daemons] were corporeal and mundane, because in that
+
+
+number all corporeal circumstances are comprised, and
+agreeably to it the mundane system was constituted; after-
+wards he observed, that this first number [the sexade] was
+represented by the scalene triangle, for that beings of the
+divine and celestial order were represented by the equila-
+teral triangle, as being consistent with itself, and with
+difficulty inclinable to evil, whilst human beings were repre-
+sented by the isoscelles triangle, as being in some measure
+liable to error in their choice, yet capable of reformation
+on repentance. On the other hand, that the daemonic
+tribe were represented by the scalene* triangle, as being
+at variance with itself, and not at all approaching to
+excellence. Whether he were really of this opinion or not,
+this is certain, he counted off six species of daemons, and
+first he mentioned Leliurium,f speaking in his barbarous
+vernacular tongue, a name which signifies Igneous. This
+order of daemons haunts the air above us, for the entire
+genus has been expelled from the regions adjacent to the
+moon, as a profane thing with us would be expelled from
+a temple, but the second occupies the air contiguous to us,
+and is called by the proper name Aerial; the third is the
+Earthly, the fourth the Aqueous and Marine, the fifth the
+• Here Ethics and Mathematics are curiously blended, few of our
+modern mathematicians, we believe, are in the habit of assigning a
+moral meaning to Geometrical problems, theorems, or figures; most
+probably this notion was derived from the Pythagoreans, but at all
+events, it shews that those who embraced such fanciful opinions
+were not the illiterate vulgar. It may be necessary to explain this
+conceit, more particularly to the mere English reader—the equilateral
+triangle, which was bounded by three equal sides, was considered
+the emblem of excellence, hence the ccelestial beings were regarded
+as represented by it. The Isoscelles triangle, which was bounded by
+two equal and one unequal side, was considered not quite so perfect
+in its conformation, and was therefore supposed to represent human
+beings, while the Scalene triangle, which was bounded by three
+sides, every one of which was unequal to the other, was thought
+aptly to shadow forth the perverseness and waywardness of the
+daemonic tribe.
++ Query, is this the Leraures of the Latins, and the Leprechawn
+of the Irish.
+
+
+Subterranean, and the last the Lucifugus, which can
+scarcely be considered sentient beings. All these species
+of da;mons are haters of God, and enemies of man, and they
+say, that the Aqueous and Subterranean are worse than the
+merely bad, but that the Lucifugus are eminently mali-
+cious and mischievous, for these, said he, not merely impair
+men’s intellects, by phantasies and illusions, hut destroy
+them with the same alacrity as we would the most savage
+wild beast. The Aqueous suffocate in the water all that
+approach them ; the Subterranean and Lucifugus, if they
+can only insinuate themselves into the lungs of those they
+meet, seize and choke them, rendering them epileptic and
+insane; the Aerial and Earthly, with art and cunning
+stealthily approach and deceive men’s minds, impelling
+them to unlawful and unnatural lusts. But how, said I,
+or what doing, do they accomplish this ? is it by lording-it
+over us, and leading us about wherever they please, as if
+we were so many slaves ? Not by lording it over us, says
+Marcus, but by leading us into reminiscences, for when we
+are in an imaginative spirit, approaching by virtue of their
+spiritual nature, they whisper descriptions of sensual
+delights and pleasures, not that they actually emit distinct
+sounds, but they insinuate a sort of murmur, that serves
+with them the place of words. But it is impossible, said
+I, they could utter words without sound ? It is not impos-
+sible, said he, as you will perceive, if you only reflect, that
+when one is speaking to another at a distance, he must
+speak in a high key, but if he be near, he need barely
+murmur, and whisper into the ear of his auditor, and if one
+could approach the very essence of the soul, there would
+be no occasion for any sound whatever, but any word we
+pleased would reach its destination by a noiseless path;
+a faculty which they say is possessed by disembodied
+spirits, for they hold communication with each other in a
+noiseless manner, in the same way the daemons hdld com-
+munication with us, without our perceiving it, so that it is
+impossible to discover from what quarter an attack may be
+
+
+made upon us.* You need have no doubt on this point, if
+you only consider what happens in the atmosphere ; when
+the sun shines, he combines colors and forms, and transmits
+them to objects capable of receiving them, (as we may
+observe in mirrors); thus also the daemons, assuming ap-
+pearances and colors, and whatever forms they please,
+transport them into our animal spirit, and occasion us in
+consequence a vast deal of trouble, suggesting designs,
+reviving the recollection of pleasures, obtruding represen-
+tations of sensual delights, both waking and sleeping;
+sometimes, too, rousing the baser passions by titillations,
+they excite to insane and unnatural amours, and especially
+when they find warm perspirations co-operating ; for in this
+way, donning Pluto’s helmit, with craft and the most
+refined subtlety, they create a commotion in men’s minds.
+The other description of dlemons have not a particle of
+wit, and are incapable of cunning, yet are they dangerous
+and very terrible, injuring after the manner of the Cha-
+ronean spirit, for (as they report) the Charonean spirit
+destroys every thing that comes in its way, whether beast,
+man, or bird ; in the same way these daemons terrifically
+destroy every one they fall in with, injuring them in body
+• This is indeed u the doctrine of daemons,” in all its length, depth,
+breadth, and fulness. Were one engaged sinking a well, and life
+became suddenly extinct, by inhaling choke-damp, his death was
+occasioned by one of the Lucifugus or Subterranean dajmons; was
+one while bathing to be suddenly seized with cramp, and sink to
+rise no more, he was pulled under by one of the Aqueous or Marine
+dasmons; was oue from not keeping the hands or the head indus-
+triously employed, to be haunted with the filthy vagrancies of a
+prurient imagination, this was the work of an Alrial daemon,
+whispering impure desires into his soul; so that, as-Thracian says,
+“ it was impossible to tell from what quarter an attack might be
+made upon us.” How wretched must have been the condition of
+those enslaved to such a degrading superstition. Well might Horace
+ask (who probably spoke from a personal experience of this horrible
+slavery’—
+Somnia terrores magicos, miracula, sagas
+Nocturnes lemures, portentaque Thessala rides?
+Epint. 11,, book 2, v. 209, 210.
+
+
+and mind, and subverting their natural habits ; sometimes
+they destroy not merely men, but even irrational animals,
+in the fire, in the water, or by casting them over precipices.
+Timothy. —But what can be their object in entering
+irrational animals ? for this happened to the swine at
+Gargasa (as the Sacred Writings attest). I am not sur-
+prised if, being hostile to men, they injure them ; but what
+is the sense of their entering irrational animals ?
+Thracian. — Marcus said that it was not from any
+motive of hatred, nor from any hostile intention, that they
+pounced upon some beasts, but from a vehement desire
+for animal heat; for, as they inhabit the most profound
+depths, which are cold to the last degree, and destitute of
+moisture, they are excessively cold ; being contracted and
+pained in consequence, they natui ally long for a moist and
+vivifying heat to revel in, and spring into irrational animals,
+and plunge into baths and pits ; on the other hand, the
+heat that proceeds from fire they avoid, because consuming
+and scorching, but gladly attach themselves to the moisture
+of animals, as being congenial to their nature, but espe-
+cially to that of man, as being most congenial of all; and
+when infused into them they occasion no small uproar, the
+pores in which the animal spirit resides being clogged, and
+the spirit confined and displaced by the bulk of their
+bodies, which is the cause of their agitating men’s persons,
+and injuring their faculties, and obstructing their motions.
+When a subterranean dtemon assails one, he agitates and
+distorts the person possessed, and speaks through him,
+using the tongue of the sufferer * as if it were his own
+• Potter, describing the three different kinds of theomancers, has
+a passage which throws considerable light on the above :—“ One sort
+of theomancers were possessed with prophesying daemons, which
+lodged within them, and dictated whal they should answer to those
+wiio inquired of them, or spoke out of the bellies or breasts of the
+possessed persons, they all the while remaining speechless, and not
+so much as moving their tongues or their lips ; or pronounced the
+answer themselves, making use of the members of the demoniac;
+these were called BaifXOViKtj7rroi t i. e. possessed with demons;
+
+
+member; but if a lucifugus daemon clandestinely possess
+a person, it occasions a relaxation of his whole system,
+stops his utterance, and almost leaves the sufferer dead ;
+for this last species is more allied to earth than the others,
+and is therefore excessively cold and dry, and any one it
+can secretly possess, it blunts and obscures all the sufferer’s
+natural power; but, because it is irrational and totally
+devoid of intellect, being governed by irrational whim, it
+has no more dread of reproof than the most intractable
+wild beast, for which reason it is designated with great
+propriety dumb and deaf; nor can a sufferer be dispossessed
+but by divine power, procurable by prayer and fasting.*
+“ But, Marcus,” said I, “ physicians would persuade us to
+be of another way of thinking, for they assert that such
+affections are not produced by daemons, but are occasioned
+by an excess or deficiency of humours, or by a disordered
+state of the animal spirits, and accordingly they endeavour
+to cure them by medicine or dietetical regimen, but not
+by incantations or purifications.” Marcus replied—“ It is
+not at all surprising if physicians make such an assertion, for
+they understand nothing but what is perceived by the senses,
+their whole attention being devoted to the body. Lethar-
+gies, Syncopes, cases of hypochondriasm, delirium, which
+they can remove by vomits, or evacuations, or unguents,f
+and because the spirits either lodged or spoke within their bodies,
+theywere also named syya(TTptfiv9oi (which name was also attri-
+buted to the dzemons). It is in allusion to such possessed persons
+Isaias says, as the Septuagint have it, “ If they say unto you, seek
+unto those whose speech is in their belly, and that speak out of the
+earth, those that utter vain words, that apeak from the stomach,
+shall not a nation seek unto their God? why do they inquire con-
+cerning the living from the dead?” (Potter’s Antiq., vol. i., 352,
+edit. Edin., 1832.)
+* Our Lord says, in reference to the expulsion of dzemons, " This
+kind goeth not forth but by prayer and fasting.” To this declaration
+allusion is here evidently made.
+t From this we learn that the application of unguents to the sick,
+referred to by the Apostle James, was not a religious, but a purely
+medical application.
+
+
+it is quite correct to say that these are the effects
+of disordered humours ; but enthusiasms, and madness,
+and possessions, with which when one is seized he is
+incapable of making any use of his judgment, his tongue,
+his imagination, his senses, it is quite another thing moves
+and excites them, and speaks what the person seized is
+unconscious of uttering, though occasionally he prophesies
+something.” With what propriety [I ask] can these effects
+be called the disordered movements of matter ?
+Timothy. —How now, Thracian ! do you yourself assent
+to what Marcus says ?
+Thracian.— Most undoubtedly, Timothy; for how could
+I do otherwise, when I recollect what the holy Gospels
+relate concerning persons possessed with daemons, and
+what befell the man of Corinth at Paul’s command, and
+how many wonderful things are related of them by the
+Fathers; and moreover saw with my own eyes, and heatd
+with my own ears, their doings atElason; for a man in
+that place was in the habit of delivering oracles after the
+manner of the priests of Phoebus, and, amongst other things,
+predicted not a few concerning myself. Having collected
+the multitude of the initiated around him, he said—“ I
+apprise the present company of the fact that an individual
+will be sent against us, by whom the mysteries of our
+worship will be persecuted, and the mysteries of our service
+abolished; myself and many others shall be apprehended
+by that person ; but, though he be very anxious to carry
+me off a prisoner to Byzantium, he shall not do it—not
+though he make many and vigorous efforts to accomplish
+it.” Such predictions he uttered, though I had never
+gone as far from the city as to the neighbouring villages.
+He described, too, my aspect, deportment, and occupation,
+and many who used to pass to and fro told me the facts.
+At length, when I did apprehend him, I asked him how he
+came to be gifted with the prophetic art ? He, though he
+did not wish to divulge the secret, yet, labouring under a
+laconic necessity, confessed the truth, for he said that
+
+
+lie Lad come to the knowledge of demoniacal practices
+through a certain vagabond African, who, bringing him
+by night to a mountain, cansing him to partake of a certain
+herb, spitting into his mouth, and anointing his eyes with
+a certain unguent, enabled him to see a host of demons,
+from among which he perceived a sort of raven fly towards
+him, and down his throat into his stomach. From that
+time up to the present moment he could predict, but only
+respecting such things, and at such times, as the demon
+who possessed him wished; but on Passion week and the
+Resurrection day, so much venerated by Christians, not
+though he himself should greatly desire it, is
+who possessed him disposed to suggest anything. These
+things he told me, and, when one of my followers struck
+him on the cheek, “ you,” said he, “ for this one blow shall
+receive many; and you,” said he, turning to me, “ shall
+suffer great calamities in your person, for the daemons are
+fearfully incensed against you for subverting their service,
+and will involve you in harassing dangers, such as you
+cannot by any possibility escape, unless some power supe-
+rior to that of daemons extricate you.f These things the
+polluted wretch predicted, as if uttering oracles from the
+Delphic Tripod; for they all happened, and I have been
+♦ This is just in tye oracular style. There was always some proviso
+attached to oracular responses, or some ambiguity in them, which
+was calculated to save the oracle’s credit. Thus when Croesus
+applied to Apollo's oracle at Delphos, to know whether he should
+march against Cyrus, he received for answer—
+“ Croesus Halym penetrans, magnam pervertet opum vim.”
+<f If Creesus cross the river Halys, he shall overturn a great empire.”
+The event proved his own overthrow. The same ambiguity attends
+the famous reply of the same oracle to Pyrrhus :
+“ Aio te iEacida, Romanos vincere possum.”
+“ I do pronounce that Rome
+Pyrrhus shall overcome.”
+Which may be interpreted to mean, either that Rome should over-
+come Pyrrhus, or that Pyrrhus should overcome Rome. It is in
+
+
+almost undone by the numerous dangers which hcset me,
+from which my Saviour alone wonderfully rescued me ;
+but who that has seen the oracle in which daemons play
+upon wind instruments,* will say that madness in all its
+forms are but the vitiated movements of matter ?
+Timothy. — l am not at all surprised, Thracian, that
+physicians are of this way of thinking, for how many can-
+not at all understand this sort of thing ? For my part, I
+was first of their opinion, until I saw what was absolutely
+portentous and monstrous in its character, which, as it is
+quite apropos to the present topic, I shall relate. An old
+man like me, and who has, besides, assumed the monastic
+habit, is incapable of telling a falsehood. I had an elder
+brother married to a woman, who was on the whole of a
+good disposition, but exceedingly perverse; she was, too,
+afflicted with a variety of diseases. She, in her confine-
+ment, was very ill, and raved extravagantly, and, tearing
+her bedgown, muttered a sort of barbarous tongue, in a
+much the same prudential spirit our hero of Elason here adds,
+“ unless some power superior to the deemons extricate you.”
+• This is a passage on which we confess ourselves utterly unable
+to throw any light; we scarcely dare to hazard a conjecture. It
+strikes us, however, that a very successful imposture might be played
+off by means of iEolian harps. Perhaps it'is to something of that
+nature allusion is made. We may observe, by the way, it is a great
+mistake to suppose that oracles ceased universally on the coming of
+Christ (as what is here mentioned proves). Though daily declining,
+they continued long after, as the laws of the Empeiors Theodosius,
+Gratian, and Valerian against such as consulted them clearly evince.
+It would be more proper to say that wherever the power of Christ
+was brought to bear upon them they ceased, and eventually died
+out. Their cessation U attested by Strabo, Juvenal, Lucan, and
+others. Plutarch accounts for it by saying that the benefits of the
+Gods are not eternal, as themselves, or that the genii who presided
+over oracles are subject to death ; whilst Athanasius tells the Pagans
+they have been witnesses themselves that the sign of the cross puts
+the dannons to flight, silences oracles, and dissipates enchantments
+which is confirmed by Arnobins, Lactantius, Prudentius, Minutius
+Felix, and others. Lucian says that the oracles were chiefly aft aid
+of the subtleties of the Epicureans, and the Christians.
+D 2
+
+
+low murmuring tone; nor could the bystanders compre-
+hend what she said, but were in a state of perplexity, not
+knowing what to do in so desperate a case. Some women,
+however (for the sex is very quick in discovering expe-
+dients, and particularly clever in meeting exigencies),*
+fetched a very old bald-headed man, with bis skin wrinkled
+and sun-burnt to a very dark hue, who, standing with his
+sword drawn beside the bed, affected to be angry with the
+invalid, and upbraided her much in his own tongue; (I
+mention that, because he was an Armenian). The woman
+replied to him in the same tongue; first she was very
+bold, and, leaning on the bed, rated him with great spirit;
+but when the foreigner was more liberal with his exorcisms,
+and, as if in a passion, threatened to strike her, upon
+this the poor creature crouched and shook all over, and,
+speaking in a timid tone, fell fast asleep. We were amazed,
+not because she was transported with frenzy, for that with
+her was an ordinary occurrence, but because she spoke in
+the Armenian tongue, though she had never up to that
+hour so much as seen an Armenian, and understood nothing
+but her connubial and domestic duties. - ) - On her recovery
+* This, it most be admitted, is a compliment to the sex. as hand-
+some as it is Jost, and, coming from a monk, is particularly gallant.
+t How is a fact of the nature lieie recorded to be accounted for
+but on preternatural principles 1 We do not mean to contend for
+the tenth of the particular fact here recorded, .but doubtless this, if a
+supposed case, Was similar to other real cases that might have been
+adduced; else Par-llns would not have introduced it in his Dialogue.
+Very pertinent to onr present purpose is the following from Calmet’s
+Dictionary ' l4 Some efforts that seem to be supernatural may be
+effects of heated imagination, of melancholy blood, of tricks and
+contrivance; but if a person suddenly should speak and understand
+languages he never learned, talk of sublime matters he never studied,
+discover things secret and unknown ; should be lift up himself in
+the air without visible assistance, art and speak in a manner very
+different from his natural temper and condition, and all this without
+any inducement from interest, passion, or other natural motive; if
+all these circumstances, or the greater part of them, concur in the
+same possession, can there be any room to suspect that it is not
+real? There have, then, been possessions in which all those circum-
+stances concurred ; there have, therefore, been real ones, but espe-
+
+
+I asked what she had undergone, and if she could recall to
+mind anything that had occurred ; she said she saw a sort
+of darksome spectre, resembling a woman, with the hair
+dishevelled, springing upon her; that in her terror she
+had fallen on the bed, and from that time had no recollec-
+tion of what had occurred. She spoke thus on her reco-
+very. Ever since that event a sort of bond of ambiguity
+keeps me perplexed, as to how the daemon which harassed
+this woman could seem feminine, for we may well question
+whether the distinction of sex prevails amongst the daemons
+as amongst the creatures of earth; and, in the next place,
+how could it employ the Armenian tongue ? for we can
+hardly conceive that some daemons speak in the Greek,
+some in the Chaldee, and others in the Persic or Syriac;
+and also why it should crouch at the charmer’s threats,
+and fear a naked sword ; for how can a daemon, which can
+neither be struck nor slain, suffer from a sword ? These
+doubts perplex me exceedingly; upon these points I require
+persuasion, which I think you the most competent person
+to afford, as you are thoroughly acquainted with the sen-
+timents of the ancients, and have acquired a great deal of
+historical knowledge.
+Thracian. —l should wish, Timothy, to render reasons
+dally those which the Gospel declares as such.*’ (Calmet’s Diet.,
+art. Daemon.) To much the same purpose is the following, from the
+Encyclopaedia Britannica:—“ All that Revelation makes known, all
+that human reason can conjecture, concerning the existence of various
+orders of spiritual beings, good and bad, is perfectly consistent with,
+and even favourable to, the doctrine of daemoniacal possession. It
+was generally believed throughout the ancient heathen world ; it was
+equally well known to the Jews, and equally respected by them ; it
+is mentioned in the New Testament in such language, and such
+narratives are related concerning it, that the Gospels cannot well be
+regarded in any other light than as pieces of imposture, and Jesus
+Christ must be considered as a man who dishonestly took advantage
+of the weakness and ignorance of his contemporaries, if this doctrine
+be nothing but a vulgar error. It teaches nothing inconsistent with
+the general conduct of Providence ; it is not the caution of philo-
+sophy, but the pride of reason, that suggests objections against this
+doctrine.*’ (Ency. Brit , p. 58, edit. Edin., 1823.)
+D 3
+
+
+for the matters in question, but I am afraid we may seem
+a pair of triflers, you in searching for what no one has yet
+discovered, I in attempting to explain what I ought rather
+to pass over in silence, and especially as I know that things
+of this kind are made matters of misrepresentation by
+many ; but since, according to [King] Antigonus, one
+ought to oblige his friend, not merely in what is very easily
+performed, but sometimes also where there is something
+of difficulty, I will e’en attempt to loose this bond of am-
+biguity [you complain of], reconsidering the matter which
+gave occasion to Marcus’ discourses. He said that no
+species of daemon was naturally either male or female, but
+that their animal passions were the same with those of
+the creatures with which they were united s for that the
+simple daemonic bodies, which are very ductile and flex-
+ible, are accommodative to the nature of every form; for,
+as one may observe the clouds exhibiting the appearance
+one while of men, at another of bears, at another of ser-
+pents, or some other animal, thus also it is with the bodies
+of daemons ; but when the clouds are disturbed by external
+blasts, diversified appearances are presented; thus also it
+is with the daemons, whose persons are transformed ac-
+cording to their pleasure into whatever appearance they
+please, and are one moment contracted into a less bulk,
+the next stretched out into a greater length. The same
+thing we see exemplified in lubricous animals in the bowels
+of the earth, owing to the softness and pliability of their
+nature, which are not merely altered in respect of size,
+but also in respect of appearance, and that in a variety of
+ways ; the body of daemons likewise is accommodative
+in both particulars: not only is it peculiarly yielding, and
+takes the impression of objects, but, because it is aerial,
+it is susceptible of all kinds of hues, as is the atmosphere;
+such is the body of daemons, owing to the imaginative
+energy inherent in it, and which extends to it the appear-
+ance of colours; for, as when we are panic-struck, we first
+are pale, and afterwards blush, according as the mind is
+
+
+variously affected, owing to the soul extending such affec-
+tions to the body, we may well suppose it is just the same
+way with the daemons, for they from within can send out
+to their bodies the semblance of colours ; for which reason
+each, when metamorphosed into that appearance which is
+agreeable, extending over the surface of his body the
+appearance of color, sometimes appears as a man, some-
+times is metamorphosed as a woman, and, changing those
+forms, it retains neither constantly, for its appearance is
+not substantial, but resembles what occurs in the atmo-
+sphere, or water, in which you no sooner infuse a color, or
+delineate a form, than straitway it dissolves and is dis-
+pelled. We may perceive that the daemons are liable to
+similar affections, for in them color, and figure, and all
+appearance whatever is evanescent. In these things Mar-
+cus, as I conjecture, said what was probable; and from
+this time forward let not the question harass you, whether
+the distinction of sex exists in daemons on account of the
+genital members appearing in them, for these, whether
+male or female, are not constant nor habitual; therefore
+consider that the daemon which so much harassed the
+woman in confinement seemed like a woman, not because
+it was really and habitually feminine, but because it pre-
+sented the appearance of a woman.
+Timothy. —But how comes it Thracian, that it does not
+assume now one form, and now another, like the other
+daemons, but is always seen in this form, for I have heard
+from many, that daemons of the female form only are seen
+by women in confinement ?
+Thracian. —For this too, Marcus assigned a not im-
+probable reason, he said that all daemons have not the same
+power and inclination, that in this particular there is a
+great diversity amongst them, for some are irrational, as
+amongst mortal compound animals, now as amongst them,
+man, being endowed with intellectual and rational powers,
+is gifted with a more discursive imagination, one which
+extends to almost all sensible objects, both in heaven, and
+
+
+around, and on this earth. Horses, oxen, and animals of
+that sort, with a more confined sort of imagination, which
+extends but to some things, which exercise the imaginative
+faculty, [as for instance,] their companions at pasture,
+their stall, or their owners; and gnats, with flies and
+worms, have this faculty exceedingly restricted, not know-
+ing any of them the hole they leave, where they pro-
+ceed, or whither they ought to go, but exercising the
+imagination for the single purpose of aliment, in the same
+manner also the species of daemons are greatly diversified ;
+for amongst them, some as the Empyreal and Aerial are
+possessed of a very discursive imagination, one that extends
+to every imaginable object; very different from them are
+the Subterranean and Lucifugi; they do not assume a
+variety of forms, for they are incapable of numerous
+spectral appearances, not being possessed of pliability and
+versatility of person; the Aqueous and Terrene, occupying
+an intermediate position with respect to those already
+described, are incapable of changing their forms, but in
+whatever forms they delight, in these they constantly con-
+tinue. But you should not be at all perplexed, if the
+daemon that harassed the woman in confinement appeared
+feminine, for being a lascivious daemon, and delighting in
+impure moistures, changing its form, it naturally assumed
+that which is best adapted for a life of pleasure,* but with
+respect to the daemon speaking in the Armenian tongue,
+that was a point Marcus did not clear up, it will be mani-
+fest, however, from the following considerations:—lt is
+impossible to ascertain the peculiar tongue of each particu-
+lar daemon, whether [for instance,] such a daemon speak in
+the Hebrew, or Greek, or Syriac, or other barbarous
+tongue; indeed, [I may ask,] what absolute need have
+they of a voice, who usually hold intercourse without one ?
+[as I already observed,] but as in the case of the angelsf of
+* Spoken like a monk.
+t This is speaking very particularly on a subject respecting winch
+we know little or nothing, “ secret things belong unto God, but the
+
+
+the nations, different angels being appointed over different
+nations,different angels must associate with each other,,
+they use each the tongue of their respective nations; we
+things that are revealed,” &c. We are not under any necessity for sup-
+posing, (hat angelic beings understand each, but a single language,
+they may have an intuitive perception of all languages, and hold"
+intercourse with each other, in a manner, of which we cannot form
+the most remote conception, it is idle to speculate on such a subject.
+Most that can be safely affirmed respecting them, may be comprised
+within a few words—that they are innumerable —that they are God’s
+executive—that they are vastly superior to us in might and intelli-
+gence—and are employed doing good offices to the pious. With
+respect to the manner and circumstances of their appearance, we
+cannot do better than cite what Calmet says on this subject:—“ The
+discovery of angels has usually been after they had delivered their
+message, and always for the purpose of a sign, in confirmation of the
+faith of the party whom they had addressed; it is evident that the
+angel who appeared to Manoab, was taken by both Manoah and
+his wife for a prophet only, till after be had delivered his message,
+he took leave “ wonderfully,” to convince them of his extraordinary
+nature; thus the angel that wrestled with Jacob, at last put the
+hollow of his thigh out of joint, a token that he was no mere man.
+The angel that spoke to Zacharias, rendered him dumb—a token
+beyond the power of mere man, (e. gr. an imposter speaking falsely
+in the name of God,) to produce: and so of others.” Sometimes
+angels did not reveal themselves fully, they gave as it were, obscure
+and very indistinct, though powerful intimations of their presence.
+When angels were commissioned to appear to certain persons only,
+others who were in company with those persons had revelations,
+which indicated an extraordinary occurrence; although the appear-
+ance was not to them, yet they seemed to have felt the effects of it,
+as Dan., x., 7—“ I, Daniel, alone saw the vision; the men that were
+with me saw not the vision; hut a great quaking fell upon them, so
+that they fed to hide themselves Paul's vision was very similar
+in its effects, see Acts ix, 7, xxii, 9, and xxvi, 14, also that seen by
+the guards at the sepulchre, on the occasion of ©ur Lord's Resurrec-
+tion, Matt., xxviii. Angels being invisibly engaged in the care and
+service of mankind, we can have no difficulty in admitting that
+they have had orders on particular occasions to make themselves
+known as ccelestial intelligences, they may often assume the human
+appearance for ought we can tell; but if they assume it completely,
+(as must be supposed, and as nothing forbids,) how can we generally
+be the wiser, does not the Apostolic exhortation, “ Be not forgetful
+to entertain strangers, for thereby some have entertained angels
+unawares,” countenance the idea that such an occurrence w not
+impossible even now.
+
+
+may reasonably conclude, that it is the same way with the
+daemons, for which reason some of them with the Greeks
+delivered oracles in Heroics, but others with the Chaldees
+were evoked in Chaldee, whilst among the they
+were induced to approach by means of incanta-
+tions, in the same manner too, the daemons amongst the
+Armenians, if they happen to go elsewhere, prefer to use
+their tongue [the Armenians’] as if it were the vulgar
+tongue.
+vunguc.
+Timothy. —Be it so Thracian ; but what suffering are
+they capable of, that they fear threats and a sword ? what
+are they to he supposed capable of suffering from such,
+that they crouch with fear, and keep aloof ?
+Thracian. —You are not the only person Timothy, who
+has been perplexed on these points ; before I heard your
+doubts on them I expressed mine to Marcus, and he to
+remove them, observed, the various species of daemons are
+bold, and cowardly in the extreme, but especially such as
+are allied to matter. The Aerial indeed possessing the
+largest share of intelligence, if one rebuke them, can dis-
+tinguish the person rebuking, and no one harrassed by
+them can be liberated, unless such a holy character as
+addicts himself to the worship of God, and relying on the
+Divine povier, calls to his aid the terrible name of the
+Divine Aoyof. Those that are allied to matter, unques-
+tionably fearing a dismissal to abysses and subterranean
+places, and the angels who are usually despatched against
+them, when one threatens them with these, [the angels,]
+and their being conveyed away to such places, and calls
+over them, the designation of the angels appointed to this
+office, are afraid, and thrown into great perturbation ; so
+that from being deranged, they cannot discerff" who it is
+that threatens.
+Timothy.— But what advantage, did he say, resulted
+from the service of the Aerial daemons ?
+Thracian.— He did not say, my good friend, that any
+good resulted from those proceedings ; indeed the things
+
+
+themselves proclaim in a barefaced manner that they are
+made up of vanity, imposture, and a groundless imagina-
+tion, however fiery meteors, such as are usually called
+falling stars, descend from them on their worshippers,
+which the madmen have the hardihood to call visions of
+God, though they have no truth, nor certainty, nor stability
+about them, (for what of a luminous character, could
+belong to the darkened daemons,) and though they are but
+ridiculous tricks of theirs,* such things as are effected by
+optical illusions, or by means called miraculous ? but really
+by imposing on the spectators; these things t wretched
+man discovered long since, and was meditating to abandon
+this religion, yet up to the present moment, I was kept
+fascinated, and my perdition had been inevitable, had not
+you extricated me [from my perilous situation] by the path
+of truth, shining forth like a Pharos, placed to dispel the
+darkness of the sea, Marcus having spoke thus shed a flood
+of tears, and I consoling him said, you can chuse a fitter
+time for weeping, now it is seasonable to magnify your
+salvation, and return thanks to God, by whom both your
+body and soul are emancipated from perdition.
+* There seems here an imitation of what took place on the
+initiation of an individual, at the Eleusinian Mysteries; we are the
+more confirmed in this opinion, from this Monk Marcus being'
+designated in a previous part of the work Tt\i(7Ti]Q £7ro7TT//£,
+an initiated inspector, the very technical phrase applied to one
+initiated in the greater mysteries—a year having elapsed after one
+had been initiated in the minor mysteries, (in which state he was
+called fiVffTtJQ ) ; on the sacrifice of a sow to Ceres, he was admit-
+ted to the greater mysteries, the sacred rites of which some few
+excepted, (to which none but the priests were conscious,) were
+frankly revealed to him, whence he was called styopog or £7ro7TTt]g,
+i, e., Inspector, (Poll., Antiq. r vol., I, 451.) Upon complying with
+certain rites, strange and amazing objects presented themselves;
+sometimes places they were in seemed to shake around them ;
+sometimes appeared bright and resplendent with light, and radiant
+fire, and then again covered with blackness and horror, sometimes
+thunder and lightning, sometimes frightful voices and belluwings,
+sometimes terrible apparitions astounded the trembling spectators;
+their being present at such sights, was called avTOipia, i.e. intui^n.
+
+
+Timothy. —Tell me this, for I long to know it, whether
+the bodies of daemons are of such a nature, as to be capable
+of being struck ?
+Thracian.— Marcus said, that they could be struck, so
+as to be pained by a powerful blow inflicted on the person.
+But how, said I, can that be, as they are spirit, and not
+solid nor compound, for the faculty of sensation belongs to
+compound bodies ? lam amazed, said he, you should be
+ignorant of the fact, that it is not the bone or nerve of any
+is endowed with the faculty of sensation, but the spirit
+inherent in them, therefore, whether the nerve be pained
+or refreshed, or suffer any other affection, the pain proceeds
+from the immission of spirit into spirit, for a compound
+body is not capable of being pained by virtue of itself, but
+by virtue of its union with spirit, for when dissected or
+dead, it is incapable of suffering, because deprived of the
+spirit; also a daemon being altogether spirit, and of a sen-
+sitive constitution in every part of it, sees and hears, and is
+capable of the sense of touch, without the intervention of
+organs of sense, it is pained after the manner of solid bodies,
+with this difference, however, that whereas when they are
+divided, they are with difficulty, or never made whole, this
+when divided, straightway unites, like the particles of air
+or water, when some solid body displaces them; but
+though the spirit unites swifter than speech, yet is it
+pained in the very moment of separation; this is the
+reason why it fears and dreads the points of iron instru-
+ments—and exorcists, well aware of their aversion, when
+they do not wish the daemons to approach a specific place,
+set darts and swords erect, and provide certain other
+things, either • diverting them from that spot by their
+antipathies, or alluring them to another by their attach-
+ments. In these particulars, Marcus’ explanation respecting
+the daemons, in my judgment, seemed probable.
+Timothy. —But did he tell you this Thracian ? did he
+tell you whether the daemons were gifted with fore-
+knowledge ?
+
+
+Thracian.—Yes, but not a causal or intelligent, nor
+experimental foreknowledge, but merely conjectural, for
+which reason it most generally fails, so that they scarcely
+ever utter a particle of truth.
+Timothy.—Can’t you describe to me, the nature of that
+foreknowledge, which is inherent in them ?
+Thracian. —I would describe it, if time permitted me,
+but now ’tis time to return home, for as you see, the air
+around is hazy, and charged with rain, and if we sit here
+in the open air, we will be wet through-and-through,
+Timothy.—Friend, consider what you d», leaving your
+discourse unfinished.
+Thracian. — Don’t be uneasy, my best friend, for please
+God, the first opportunity you and I meet again, I will
+make good whatever is wanting, and that in the Syracusan
+style. [Literally beyond the decimes of the Syracusans.]
+
+
+
+
+NOTES.
+(a) Manes and the Euchitte. —On the overthrow of the credit
+ami anthority of the Gnostic sect in the third century. Manes, or'
+Manichams, by birth a Persian, started up originally a Magian phi-
+losopher. He was instructed in all those arts esteemed in Persia and
+the neighbouring nations, and was thoroughly versed in astronomical
+science. “ His genius/' says Mosheim, “was vigorous and sublime,
+but redundant and ungoverned, and he was presumptuous enough to
+attempt to blend the Magian philosophy with the Christian faith/’
+Mosheim gives a long statement of his peculiar doctrines, which
+fitters in nothing from what is related of them in this work, except
+that it supplies many matters which are here omitted. It may
+astonish us how he could gain over parti/.ans from the Christian body
+to bis fantastic system, (he more especially as lie prescribed the most
+self-denial, prohibiting to the higher order of his followers
+(the Elect, as he called them) not merely sensual indulgences, but the
+most innocent gratifications; he surmounted every difficulty, however,
+by announcing himself the promised Paraclete, who was to instruct
+and guide them into all truth. By virtue of this his pretended cha*
+racier, he pronounced the Old Testament the work of the Prince of
+and the four Gospels, he asserted, were corrupted and
+interpolated by designing and artful men, and embellished with
+Jewish fables and fictions; be therefore supplied their place by a
+gospel which, he said, was dictated to him by God himself, and
+which he distinguished by the title of Erteng. He rejected the Acts
+of the Apostles, and, though he acknowledged the Epistles that are
+attributed to St. Paul to be the productions of that divine Apostle,
+yet he looked upon them as considerably corrupted and falsified in a
+variety of passages.—Euchitae, or Massalian, (the former being the
+Greek, the latter the Hebrew, name), signifying praying-men, was
+a sort of general epithet for persons distinguished for gravity of
+maimer, and was applied in the east with much the same latitude of
+•signification as Bcghard and Lollard were afterwards employed in
+the west, and Puritan in still more modern times; so that many
+truly pious characters, who dared to oppose the mummery and
+superstition of the dark ages, were loaded with the opprobrious
+“pitliot Euchita*, in common with those who held most revolting
+
+
+senth»e»*i »>»'! "ho, fioin very different motives, opposed Ihe
+exisrmg order of tb'ng*. Mamchfeans were aVO called by <b‘e
+deeigiutlo- It was not till toward the close oi the fourth century
+made their appearance as a distinct-religious body
+(bait oafne being derived from their habit of continual prayer; they
+were founded by certain monks of Mesopotamia ; their doctrine;;
+according to Moshcim, was as follows “ They imagined that thi
+mind of every man was inhabited by an evil daman, whom it wa*
+impossible to expel! by any other means than by constant prayer and
+slsging of hymns/’ To this leading tenet they added other enorrifous
+opinions, evidently derived from the source whence the Manichaeane
+derived their errors, viz., the tenets of the oriental philosophy «
+(b) Alcinous' narrative . —Ulysses, feasting with Alcinous, king of
+the Pheeaciaus, presuming on the monarch’s ignorance, amused him)
+self at his expense by giving a fictitious narrative of Ms adventured
+amongst the Lotophagi, Lestrigons) and Cyclops. -Hence any lying
+narrative, filled with marvellous adventnres,*came to be called Alci-.
+nous* narrative, i- e. such a narrative as was delivered for Alcinous*!
+amusement by Ulysses. The phrase passed into a proverb, and is
+thus used by Plato, de ROpub., lib. x.-
+(c) The statement qffacts is their delineation. —The following
+is an expression not only of Simonides, but Democritus, Xoyog
+(pyov <TKir} y the narrative of a fact is its shadow. •
+(ft) The impure pen of Archilochus. —Archilochus was paying his
+addresses to the'daughter of one Lycambcs, and was accepted as a
+suitor; but a richer candidate for the lady’s han<l presenting him-
+self, Arhilochus was dismissed. Upon this Archilochus lampooned
+Lycarnbes in lambic and that with snch effect that in a fit of
+vexation he committed suicide. Horace, in bis Ars Poetka (v. 79),
+In allusion to this circumstance, says—
+“ Archilocum proprio rabies arraavit lambo.”
+(e) The following is an expression of Solon: y $ att
+TToWa f u I become old by constantly learning
+much,” and seems to be the proverb alluded to.
+I>. L. Welch, Printer, opposite Post-office.

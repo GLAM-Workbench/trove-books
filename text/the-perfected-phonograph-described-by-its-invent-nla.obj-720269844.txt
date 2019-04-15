@@ -1,0 +1,630 @@
+
+
+THE PERFECTED PHONOGRAPH
+THOMAS ALVA EDSON.
+PROFR. DOUCLAS ARCHIBALD M.A,OXON.
+DESCRIBED
+BY
+THOMS ALVA EDISON
+WITH AN APPENDIX
+BY
+PROFESSOR DOUGLAS ARCHIBALD, M.A.,OXON.
+Australian Exhibitions under the direction of
+MESSRS. MACMAHON.
+WM. MARSHALL & CO, LITH..MELB.
+
+
+
+
+THE
+PERFECTED PHONOGRAPH,
+Described by its Inventor,
+THOMAS ATVA EDISON.
+WITH
+AN APPENDIX
+BY
+Professor Douglas Archibald,
+M.A., OXON.
+JWelfcoum:
+Wm. Marshall & Co., General Printers, &c., Royal Lane.
+18 9 0.
+
+
+EDISON’S LATEST PHONOGRAPH now Exhibited for the First Time
+in Australia by Professor DOUGLAS ARCHIBALD, N.A., Oxon,
+under the Direction of Messrs. MACMAHON.
+INTRODUCTION.
+No man is more entitled or better able to speak of an invention
+than the inventor himself. Though Edison has produced the
+most startling effect the world has ever seen in this his Perfected
+Phonograph, he is himself little given to either talking or writing
+his thoughts. The following article, therefore, specially contri-
+buted by him on the Phonograph not only possesses intrinsic
+value, but affords a rare opportunity of ascertaining how he was
+led to the discovery of this marvellous invention, and to what
+uses he considers it capable of being directed.
+An attempt by an alien hand to either supplement or expand
+what he has so concisely written on these points in the subse-
+quent article would seem to savour of wanton trespass, I shalb
+therefore, refrain from any such act of vandalism. There seem
+however, to be two difficulties not fully dwelt upon by Edison,
+which haunt many persons when they hear the Instrument, and
+which in the course of my wanderings I find myself more
+frequently asked to explain than any other.
+First, how does the sound come out 1 and, secondly, how
+does the machine reproduce the original quality of the sound,
+including of course the chief marvel—human speech ? I propose
+to deal with these in the simplest possible manner in the short
+Appendix to the following article written by Edison himself.
+E. DOUGLAS ARCHIBALD.
+
+
+THE PERFECTED PHONOGRAPH.
+years ago I contributed to the North American Bedew
+(May-June, 1878), a paper on the “Phonograph and its
+Future,” in which I sketched the solution of certain problems
+accomplished by my invention, and predicted some of the uses
+to which it would be put. Other weighty matters engaged much
+of my time and attention after that article was published, but the
+future of which I then spoke has now arrived, and the predictions
+which I made at that time are now verified. For, when these
+words appear in print, the demonstration of the Phonograph’s
+practical adaptability to the purposes mentioned by me will have
+been completed, and the perfected instrument itself will be in the
+hands of the public, to be tested and employed by them at will.
+Rumors, I understand, have been circulated to the effect that,
+subsequently to my announcements made ten years ago, I allowed
+the Phonograph to go adrift, leaving its further development to
+chance and to the tender mercies of such disinterested persons,
+not connected with me, as might conceive that they were doing
+me a favor by claiming to have developed my idea. Those who
+may have been taken in by these rumors would do well to inform
+themselves concerning the prolonged labor involved in carrying
+out important) inventions. They are also referred to in my former
+statements in this Review , as proof that the signer of those state-
+ments, at least, knew clearly what he was talking about, and
+predicted only that which he has now fulfilled.
+Since the time of Lucretius, the movements of atoms have
+been invested with an intense interest for philosophers and
+scientific students, and the wave motions of light, heat and sound
+have engaged, with a constantly increasing degree of importance,
+the attention of modern investigators. When we consider the
+relations of these motions to mathematics and to music, the
+conception of Pythagoras that number and harmony constituted
+the principle of the Universe, does not seem to be very far out of
+
+
+the way. In the Phonograph we find an illustration of the truth
+that human speech is governed by the laws of number, harmony,
+and rhythm. And by means of these laws, we are now able to
+register all sorts of sound and all articulate utterance —even to
+the lightest shades and variations of the voice—in lines or dots,
+which are an absolute equivalent for the emission of sound by the
+lips; so that, through this contrivance, we can cause these lines
+and dots to give forth again the sound of the voice, of music, and
+all other sounds recorded by them, whether audible or inaudible.
+For it is a very extraordinary fact that, while the deepest tone
+that our ears are capable of recognising is one containing sixteen
+vibrations a second, the Phonograph will record ten vibrations or
+less, and can then raise the pitch until we hear a reproduction
+from them. Similar vibrations above the highest rate audible to
+the ear can be recorded on the Phonograph, and then reproduced
+by lowering the pitch, until we actually hear the record of those
+inaudible pulsations.
+To make the general idea of the recordiug of sound more clear,
+let me remark one or two points. We have all been struck by
+the precision with which even the faintest sea-waves impress upon
+the surface of a beach the fine, sinuous line which is formed by
+the rippling edge of their advance. Almost as familiar is the
+fact that grains of sand sprinkled on a smooth surface of glass or
+wood, on or near a piano, sift themselves into various lines and
+curves, according to the vibrations of the melody played on the
+piano-keys. These things indicate how easily the particles of
+solid matter may receive an imparted motion, or take an im-
+pression, from delicate liquid waves, air waves, or waves of sound.
+Yet, well known though these phenomena are, they apparently
+never suggested until within a few years that the sound-waves set
+going by a human voice might be so directed as to trace an
+impression upon some solid substance, with a nicety equal to that
+of the tide in recording its flow upon a sand beach.
+My own discovery that this could be done came to me almost
+accidentally while I was busy with experiments having a different
+object in view. [ was engaged upon a machine intended to
+repeat Morse characters, which were recorded on paper by inden
+tations that transferred their message to another circuit auto
+
+
+matically, when passed under a tracing-point connected with a
+circuit-closing apparatus. In manipulating this machine, I found
+that when the cylinder carrying the indented paper was turned
+with great swiftness, it gave off a humming noise from the in-
+dentations—a musical, rhythmic sound resembling that of human
+talk heard indistinctly. This led me to try fitting a diaphragm
+to the machine, which would receive the vibrations or sound-
+waves made by my voice when I talked to it, and register these
+vibrations upon an impressible material placed on the cylinder.
+The material selected for immediate use was paraffined paper,
+and the results obtained were excellent. The indentations on
+the cylinder, when rapidly revolved, caused a repetition of the
+original vibrations to reach the ear through a recorder, just as if
+the machine itself were speaking. I saw at once that the problem
+of registering human speech, so that it could be repeated by
+mechanical means as often as might be desired, was solved.
+The history of the Phonograph as it was then devised and
+manufactured in small quantity, merely for purposes of public
+exhibition and explanation, need not be repeated here. The idea
+occurred to me in the spring of 1877, and, according as I could
+get leisure, I gave my attention to preparing the few exhibition
+machines which were placed before the public in 1878, and then
+universally recognized by scientific men and every one else as an
+absolute novelty. These Machines, of course, exemplified only a
+small part of the capacity of the Phonograph. I was hard at
+work describing and noting down the various parts of the machine
+as it would appear when perfected, and making drawings of them
+in various forms.
+As it was impossible to drop my work and sit down to tell
+the public what I was doing every day, I noted briefly in my
+North American Review article of May-June, 1878, some of
+the things which I proposed to accomplish. The details of the
+electric light and other inventions afterwards absorbed much of
+my time and attention. My laboratory was converted into a
+factory in order to supply the demand for the electric light, and
+my progress in carrying out my ideas about the Phonograph,
+though continuous, was necessarily retarded. For months past,
+however, I have had a special factory in operation, producing the
+
+
+component parts of the perfected Phonograph, so as to bring the
+machine within the reach of the public in the form which I
+originally designed it to take.
+It may be of interest, here, to contrast briefly the Perfected
+Phonograph with the mere exhibition models shown, all over the
+world, in 1878. Those models were large, heavy’machines, which
+purposely sacrificed distinctness of articulation, in order to secure
+a loud tone which could be heard in a large room when emitted
+through a funnel-shaped transmitter. Tin-foil was used as the
+material on which the indentations were to be made. The
+cylinders were revolved by hand, or by clock-work ; and there
+were numerous other details of construction which differed from
+those of the instrument as now completed. At that time I had
+made various designs for a special kind of electric motor, differing
+from all others, to run the machine, in place of clock-work ; and
+the Phonograph, as we now manufacture it, is provided with such
+a motor, which turns the cylinder noiselessly, uniformly and
+easily. Instead of tin-oil, I now use a cylinder of wax for re
+ceiving the record of sound pulsations, as in the original experi-
+ment. One diaphragm (the “ recorder ”) receives these pulsations,
+which are incised on the wax, in exceedingly fine lines, hardly
+visible to the naked eye, by means of a small point pressing
+against the wax. A turning tool attachment, near this recording
+diaphragm, pares off the surface of the wax, removing any record
+which may previously have been left there, and smoothing the
+way for whatever you wish to speak into the “ recorder.” When
+you have finished speaking, too simple motions bring the repro-
+ducing diaphragm into place directly over the wax; and this
+diaphragm, provided with a very delicate, but durable, needle,
+takes up and reproduces the vibrations registered in the fine lines
+of indentation, bringing them to the ear by means of a tube.
+Sometimes, indeed, one can hear the recorded words as they are
+thrown off by the needle from the revolving cylinder, without
+using a tube at all, and simply by putting the ear close to the
+wax. The adjustments of these receiving and transmitting
+diaphragms, known as the " recorder ” and the “ reproducer,” are
+very exact, but very easily arranged. And a machine, once ad-
+justed after being set up, will run well with very little attention
+
+
+or readjustment, for a long period of time. The battery, also,
+conveniently placed in a box under the desk which holds the
+instrument, will last for six weeks or more, according to use,
+without renewal. A scale and indicator running the whole
+length of the cylinder, in front, enable you to observe at what
+point you began talking, so that the reproducer may be set at
+that point on the wax as soon as you wish to take off the record.
+Another very handy attachment supplies a key for suspending
+the reproduction of sounds when it is going on too rapidly for the
+copyist who is writing it out. A second key when pressed down,
+will run the reproducer back so as to repeat anything which has
+not been clearly understood, and this may be done any desired
+number of times.
+A single wax cylinder, or blank, may be used for fifteen or
+twenty successive records before it is worn out. But if the re-
+cord is to be kept, the wax blank must not be talked upon again,
+and is simply slipped off from the metal cylinder and filed away
+for future reference. It may be fitted on to the cylinder again
+at any time, and will at once utter whatever has been registered
+on it. One of these wax blanks will repeat its contents thousands
+of times with undiminished clearness. Further, we are able to
+multiply to any extent, at slight cost, phonographic copies of the
+blank, after the talking, or music, or other sounds have been put
+upon it once.
+It is curious to reflect that the Assyrians and Babylonians,
+2,500 years ago, chose baked clay cylinders, - inscribed with cunei-
+form characters, as their medium for perpetuating records ; while
+this recent result of modern science, the Phonograph, uses
+cylinders of wax for a similar purpose, but with the great and
+progressive difference that our wax cylinders speak for themselves,
+and will not have to wait dumbly for centuries to be deciphered,
+like the famous Kileh-Shergat cylinder, by a Rawlinson or a
+Layard. With our facilities, a sovereign, a statesman or a
+historian, can inscribe his words on a Phonograph blank, which
+will then be multiplied a thousand-fold ; each multiple copy will
+repeat the sounds of his voice thousands of times, and so, by pre-
+serving the copies and using them in relays, his utterance can be
+transmitted to posterity, centuries afterwards, as freshly and
+
+
+forcibly as if those later generations heard his living accents
+Instrumental and vocal music—solos, duets, quartets, quintets,
+etc,—can be recorded on the Perfected Phonograph with startling
+completeness and precision. How interesting it will be to future
+generations to learn from the Phonograph exactly how R,ubin-
+stein played a composition on the piano; and what a pi’iceless
+possession it would have been to us, could we have Gen. Grant’s
+memorable works, “ Let us have peace,” inscribed on the Phono-
+graph for perpetual reproduction in his own intonations ! We
+are in a position to obtain results of this sort, by the present
+Phonograph, from the wave motions of sound ; so that it seems
+to me we realize here the “ poetry of motion ” in a new sense,
+combined with the science of motion.
+In my article ten years ago, I enumerated among the uses to
+which the phonograph would be applied : 1. Letter writing and
+all kinds of dictation without the aid of a stenographer. 2.
+Phonographic books, which would speak to blind people without
+effort on their part. 3. The teaching of elocution. 4. Repro-
+duction of music. 5. The “ Family Record ” —a registry of
+sayings, reminiscences, etc., by members of a family, in their own
+voices, and of the last words of dying persons. 6. Music boxes
+and toys. 7. Clocks that should announce in articulate speeeh
+the time for going home, going to meals, etc. 8. The preser-
+vation of languages, by exact reproductions of the manner of pro-
+nouncing. 9. Educational purposes; such as preserving the
+explanations made by a teacher, so that the pupil can refer to
+them at any moment, and spelling or other lessons placed upon
+the Phonograph for convenience in committing to memory. 10.
+Connection with the telephone, so as to make that invention an
+auxiliary in the transmission of permanent and invaluable re-
+cords, instead of being the recipieut of momentary and fleeting
+communications.
+Every one of these uses the perfected Phonograph is now
+ready to carry out. I may add that, through the facility with
+which it stores up and reproduces music of all sorts, or whistling
+and recitations, it can he employed to furnish constant amusement
+to invalids, or to social assemblies, at receptions, dinners, etc.
+Any one sitting in his room alone may order an assorted supply
+
+
+of wax cylinders inscribed with songs, poems, piano or violin
+music, short stories, anecdotes, or dialect pieces, and, by putting
+them on his Phonograph, he can listen to them as originally sung
+or recited by authors, vocalists and actors, or elocutionists. The
+variety of entertainment he thus commands, at trifling expense
+and without moving from his chair, is practically unlimited
+Music by a band, in fact whole operas, can be stored up on the
+cylinders, and the voice of Patti singing in England can thus be
+heard again on this side the ocean, or preserved for future
+generations. On four Cylinders eight inches long, with a diametei
+of five, I can put the whole of “Nicholas Nickleby” in Phonogram
+form. In teaching the correct pronunciation of English, and
+especially of foreign languages, the Phonograph as it stands seems
+flo be beyond comparsion, for no system of phonetic spelling can
+convey to the pupil the pronunciation of a good English, French,
+German or Spanish speaker so well as a machine that repioduces
+his utterance even more exactly than a human imitator could.
+The speeches of orator, the discourses of Clergymen can be
+had “on tap ” in every house that owns a Phonograph. It would
+not be very surprising if, a few years hence, Phongrapliic
+newspaper bulletins should be issued on wax cylinders. E\en
+now, so soon as the Phonograph comes into general use,
+newspaper reporters and correspondents can talk their matter
+into the Phonograph, either in the editorial office or at some
+distant point, by a telephone wire connected with a Phonograph
+in the composing room, so that the communication may be set
+up in type without any preliminary of writing it out in long
+hand.
+The wax cylinders can be sent through the mails in little
+boxes which I have had prepared for the purpose, and then put
+upon another Phonograph at a distant point, to be listened to by
+.a friend or business correspondent To obviate the difficulty
+-caused by the friend’s not having a Phonograph of his own, pay
+stations will be established to which any one may take the
+Phonogram that he has received, have it placed on the instrument,
+and the contents recited to him from the machine, as well as
+.copied out at the same moment by a typewriter. Thus the
+Phonograph will be at the service of every one who can command
+
+
+a few cents for the fee. And which of us would not rather pay
+something extra, in order to hear a dear friend’s or relative’s,
+voice speaking to us from the other side of the earth 1
+Authors can register their fleeting ideas and brief notes on
+the Phonograph at any hour of day or night, without waiting to.
+find pen, ink or paper and in much less time than it would take
+to write out even the shortest memoranda. They can also publish
+their novels or essays exclusively in Phonogram form, so as to
+talk to their readers personally ; and in this way they can pro-
+tect their works from being stolen by means of defective copy-
+right laws. Musical composers, in improvising compositions, will
+be able to have them recorded instantaneously on the Phonograph.
+For the present it has been decided to make all the Phono-
+graphs of unifoi’m size ; so that a record put upon the machine
+in New York may be placed on another machine of the same-
+pattern in China, and speak exactly as it was spoken to on this,
+continent. Each wax blank will receive from 800 to 1,000-
+works ; and of course several blanks may be used for one docu-
+ment, if needed. This uniform size and pattern make the thing
+perfectly practicable in offices which have business connections,
+all over the globe. My private secretary to day speaks all letters
+into a Phonograph, from which they are taken off by a type-
+writer or ordinary long-hand writer, with an immense saving of
+time and trouble. Persons having a large correspondence can
+talk all their letters into the Phonograph in a very short time, and
+leave them to be listened to and copied by an assistant, without
+the delay involved in stenograph or the trouble of going over and
+correcting the copyist’s work, which is almost inevitable under
+the conditions of dictation now prevailing.
+Furthermore, two business men, conferring together, can talk
+irto the recorder by means of a double transmitting tube, with
+perfect privacy, and yet obtain upon the cylinder an unimpeach-
+able transcript of their conversation in their own voices, with
+every break and pause, every hesitation or confident affirmation,
+every partial suggestion or particular explanation, infallibly set
+down in the wax.
+They can then have this conversation written out or typed
+by a secretary, for future reference ; or can, if they prefer, have
+
+
+it multiple-copied by our mechanical process. In this way, many
+misunderstandings may be avoided. Interesting philosophic or
+literary discussions and dialogues may be recorded in the same
+way. In fact, the Phonograph will do, and does at this moment
+accomplish, the same thing in respect of conversation which
+instantaneous photography does for moving objects ; that is, it
+will present whatever it records with a minute accuracy un-
+attained by any other means.
+The most skilful observers, listeners and reliable novelists, or
+ven stenographers, cannot reproduce a conversation exactly as
+it occurred. The account they give is more or less generalized.
+But the Phonograph receives, and then transmits to our ears
+again, every least thing that was said—exactly as it was said—
+with the faultless fidelity of an instantaneous photograph. We
+shall now for the first time know what conversation really is ;
+just as we have learned, only within a few years, through the
+instantaneous photograph, what attitudes are taken by the horse
+in motion.
+Letters of introduction may be spoken on to a Phonograph
+blank, without any of the formality of address and phraseology
+now customary, or the trouble of folding, enveloping and address-
+ing a written communication. In fact, all correspondence will
+be greatly simplified and wisely abbreviated by the use of
+Phonograms. A telephone subscriber can place at his telephone
+a Phonogram which will announce to the exchange, whenever he
+is called up, that he has left the office and will return at a certain
+time. Similarly, one man calling at the office of another and not
+finding him, will talk into the Phonograph anything he wishes to
+say. This saves the trouble of writing a note, and obviates the
+uncertainty of giving to clerk, office boy or servant an oral
+message that may be forgotten or incorrectly delivered. Hotels
+and clubs will, naturally, find this function of the Phonograph
+extremely serviceable ; and their guests, or patrons, will avail
+themselves of Phonograms constantly. The accuracy of inter-
+views with newspaper reporters will also be determined, no doubt,
+by Phonographic record. And travelers in vestibule trains will
+be glad to use Phonograph blanks in place of letter paper and
+
+
+telegraph blanks, owing to the difficulty of writing while on a
+rapidly moving train.
+It must be borne in mind that I am not talking now of things
+which may be made possible in the future. I did my predicting
+ten years ago, and the functions above mentioned are those which
+the present Perfected Phonograph is able to fulfill at this moment.
+To use the Phonograph, a little instruction and practice are
+needed, but much less than the typewriter requires, and hardly
+more than the training needed for the operation of a sewing
+machine.
+Various other uses for which the Phonograph is now fully
+ripe might be mentioned; but I do not want to give to these
+memoranda the character of a catalogue. Enough has been said,
+I think, to indicate that the Phonograph, unlike children, should
+be “ seen ” and “ heard.” It is no longer in a state of infancy.
+It may be still in its childhood ; but it is destined to a vigorous
+maturity. The Phonograph, in one sense, knows more than we
+do ourselves. For it will retain a perfect mechanical memoiy of
+many things which we may forget, even though we have said
+them. It. will become a perfect factor in education ; and it will
+teach us to be careful what we say—for it imparts to us the gift
+of hearing ourselves as others hear us- exerting thus a decidedly
+moral influence by making men brief, business like and straight-
+forward, cultivating improved manners, and uniting distant
+friends and associates by direct vocal communication.
+THOMAS A. EDISON.
+
+
+THE PRINCIPLE OF THE PHONOGRAPH.
+HOW THE SOUND IS RECORDED.
+In order to understand how the wonderful results attained by
+the Phonograph are produced, we must first glance for a few
+moments at what sound is, and how by such simple means as a
+piece of glass, a steel needle, and a cylinder of wax, which really
+represent the whole essential parts of the Phonograph, all kinds
+of sound can be recorded, preserved and reproduced at will.
+First, sound consists of a series of wave-like movements of the
+air, analogous to the waves of the sea, but differing from them in
+one essential point, viz., that whereas in sea waves the water
+moves up and down, while the wave movement is propagated
+horizontally; in the case of sound the air moves backward and
+forward in the same direction as the wave is transmitted, Ihe
+air is thus alternately compressed and rarefied, and as such con-
+ditions travel forward in all directions from the origin of the
+sound, though they become feebler as they spread, they are
+capable of transferring the sensation of sound from one place to
+another. VV hen they meet an obstacle, such as a window or the
+drum of the ear, they cause it to move forwards and backwards
+as often as the region of compression er rarefaction meets it.
+The sensation of sound is produced in the human brain when
+such movements or waves follow one another not less than 16
+times per second or more than 38,000 times per second.
+A deep bass voice causes about 100 waves per second, while
+the highest soprano has reached about 2000. If we again ha\e
+recourse to the analogy of the sea waves, we shall find that, m
+addition to the large waves, there are often present numerous
+smaller waves, down to mere ripplets., each system moving
+independently of the other, and giving to the outer surface or
+contour the most varied shape.
+
+
+It is precisely the same with sound, and it is to the presence,
+number, size, and position of these smaller waves that is due that
+marvellous difference that exists quite apart from pitch between
+the sounds emitted by a drum, an organ, a flute, a violin, a banjo,
+a piano, the human voice, and even between the voices of
+different persons.
+The different elements of musical sound or speech are related
+to the air waves, producing them in the following manner :
+SOUND. WAVE.
+1 Pitch or Note upon 1 Frequency.
+2 Intensity or Loudness 2 Size.
+3 Quality (by which we 3 Shape (which depends
+distinguish one sound upon the number of
+from another). smaller waves super-
+posed on the large
+ones).
+The human ear and the recording part of the Phonograph are
+very similar in construction. In the former the waves beat up
+against a membrane, and cause it to vibrate (l)a certain number
+of times per second, which registers the pitch: (2) a certain
+amount, which depends on the size of the wave, and which
+registers the loudness ; (3) in a certain manner or shape, which
+registers the quality of the sound.
+In the latter a thin plate of glass takes the place of the skin
+membrane. In the ear these movements cause certain bones to
+vibrate which are attached to nerve fibres, acting like bell ropes
+upon the brain.
+In the Phonograph a sharp needle attached to the centre of
+the glassdiaphragm or plate carves on a rotating cylinder of
+wax the number, size and shape of the air movements. So deli-
+cate is the machinery, and so fine the needle, that not only are
+the large waves carved on the wax, but even the minutest ripple
+and it is thus that the Phonograph is enabled to perform that
+wondrous feat of registering and preserving on a wax cylinder
+the complicated wave shapes which correspond to the vowels and
+consonants of human speech as well as to those by which the
+same note differs when played on different musical instruments.
+So far then for the recording of sound by the Phonograph
+and its prototype the human ear.
+
+
+HOW THE SOUND IS REPRODUCED.
+Now comes the more difficult question of how the sounds are
+reproduced. Here the analogy of the human ear fails us. The
+ear records, but the mouth repeats, and with a degree of diver-
+gence from exactness dependent upon that very valuable human
+possession called conscience or bias. The Phonograph is troubled
+by no qualms of conscience, it is moved by no considerations of
+bias or personal gain. It is perhaps the only absolute truth
+speaker in the world. Whatever sound goes in comes out
+unaltered.
+The manner in which the sound reproduction is effected in
+the Phonograph will perhaps be best realised by a familiar
+analogy—We often notice a boy as he runs past some railings
+will press a stick up against them, and cause them to emit a
+semi.musical note by its successive concussions with them. Now
+imagine the railings to move, and the boy and stick to remain
+stationary. You will have the very same effect produced.
+Further imagine the railings to-be replaced by the wax cylinder
+in the Phonograph, with its sound record traced out in indenta-
+tions, and imagine the boy’s stick replaced by a ball pointed
+needle, attached to the centre of a thin glass plate. (In the
+latest machine the same glass plate serves both to record and
+reproduce). Then if the wax cylinder be made to turn round by
+any contrivance, the indentations on its surface as they pass
+underneath the ball-pointed needle, like a succession of railings
+of different sizes and shapes, will cause the needle to vibrate, and
+the glass plate attached to it to shake the air precisely as the air
+shook it when they were made. Consequently, every time this
+is done, provided the wax indentations do not wear out, we shall
+have the same sounds reproduced which caused these particular
+indentations. If a cornet was played in, a cornet sound will
+come out. If a man spoke or sung in, the seme kind of move-
+ments will be reproduced in the air surrounding the glass plate
+by the needle jumping over the hills and valleys on the rotating
+wax, and the glass plate will appear to speak like a human
+being.
+Such is the simple means by which such a marvellous result
+
+
+is attained. But it should be remembered that while the essen
+tials are simple, the elaboration of the details by which the
+Phonograph has been made a practical machine has involved
+immense skill, thought and work.
+Some persons wonder at the source of energy of the sound
+given out. This is derived simply from the rotation of the
+cylinder by an electric dynamo, worked by a battery.
+E. Douglas Archibald.
+COPY OF THE PHONOGRAM
+Spoken in London on March Bth, 1890, by the Right Honorable
+William Ewart Gladstone, M.P., addressed to His Excel-
+lency Lord Carrington, Government House, Sydney; con-
+veyed thither by the hand of Edmund Douglas Archibald,
+and respoken on June Bth, 1890, by the Phonograph, in the
+presence oj their Excellencies Sir Henry and Lady Norman
+and Suite :
+“10 St. James’ Square, London.
+“ My dear Lord Carrington,
+“ I gladly avail myself of this opportunity to assure you
+with how much pleasure I hear of you and of your career as
+Governor in New South Wales. lam also alike honored and
+gratified in being the first person to make a communication
+through the Phonograph to Australasia, as worthily represented
+by the great colony at whose head you have been placed. In the
+Phonograph is a new bond of amity between Australasia and
+the United Kingdom, and I regard each addition to these free
+and friendly ties as an inspired benefit and a fresh guarantee for
+the endurance of a connection alike honorable and beneficial on
+that side the water and on this.
+“ I am, my dear Lord Carrington,
+“ Very faithfully yours,
+“W. E. GLADSTONE.”
+Wm. Marshall & Co., Printers, Melbourne.
+
+
+
+
+The Caligraph Writing Machine.
+This machine is so simple as to its working parts, and the
+arrangement of its keyboard that any intelligent person may
+learn in a week to operate it without any special instruction.
+There are dozens of operators in Sydney, who devoted no
+time to practice before bringing their Caligraphs into active
+business use.
+The speed obtainable after a few weeks trial is twice or
+three times that of handwriting.
+As many as 12 or 15 copies all equal to an original may be
+manifoded with semi-carbon at one operation.
+The machine is adjustable at all points, and is completely
+under the control of the operator.
+Five hundred Caligraphs are used in Australia; fifty
+being in the Government Departments of New South Wales
+The Caligraph is used by the departmental officers of the
+Premiers of New South Wales, Victoria, and South Australia.
+JAS. E. CUNNINGHAM,
+Official Shorthand Writer and Caligraph Agent,
+Lyndhurst Chambers, Elizabeth Street.
+EDISON’S MIMEOGRAPH
+This famous autographican duplicator and typewriter
+reduplicator is used in conjunction with the Caligraph by the
+Board of Technical Education, the Department of Public
+Instruction, The National Life Assurance Society, The Aus-
+tralian Joint Stock Bank, The Borough Council of Waverley,
+The Borough Council of Woollalira, Messrs. Robert Harper and
+Co., and others.
+3,000 copies may be made from one stencil.
+The autographic stylus has no wheel tip, and may be used
+with the facility of an ordinary pen
+The typewriters stencils produce copies equal to the best
+original work A new system of stencilling has just been
+introduced.
+JAS. E. CUNNINGHAM,
+Official Shorthand Writer and Caligraph Agent,
+Lyndhurst Chambers, Elizabeth Street, Sydney.

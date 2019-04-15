@@ -1,0 +1,1240 @@
+
+
+THE VELOCITY OF ACCOMMODATION. By JAMES W.
+BARRETT, M.B. {Melbourne), Demonstrator of Physiology in
+King's College, London.
+Introduction.
+The experiments on which this communication is based, and their
+general mode of conduct, have been subjected to the supervision of
+Professor G. F. Yeo, by whose kind assistance many of the detailed
+parts of the apparatus with which the measurements have been made
+were arranged.
+Mr W, Lang (of Moorfields) has also devised several additional ap-
+pliances for facilitating the work, notably the method of estimating
+the accommodation velocity with binocular vision.
+Further Mr Stanford Morton has materially assisted the writer,
+who feels that the effectiveness of the apparatus he has used depended
+in great measure on the kindness of his friends.
+It would appear that but few workers in physiology have attempted
+to ascertain the time occupied by the act of accommodation.
+The first, as far as the writer is aware, who examined the subject
+experimentally was Yolkmann 1 , who when discussing the motion of
+the eye, in his article “Sehen” in Wagner’s Dictionary, states that
+by an application of Scheiner’s method he found that in half a minute
+he could change his accommodation 20 times from 11 to 6 inches and
+back again. This gives an average of I*s seconds for each movement
+but makes no distinction between alteration from far to near and from
+near to far.
+The first who devoted a special work to the subject was Yierordt 2 ,
+who by means of a chronoscope determined the duration of the acts of
+changing the accommodation of his practised left eye to and from a fixed
+object situated at 1819 cm, and another at a varying near point. The
+objects were diagonally placed threads. He found that the rate varied
+1 Wagner’s Handworterb. d. Physiol. Bd. in. p. 309.
+s “Versuche iiber die Zeitverhaltnisse des Accommodationsvorganges im Auge.”
+Arch, f. physiol. Heilkunde, N. F. Bd. i. 1857.
+
+
+(1) from day to day in the first week, shortening by practice, (2) according
+to the distance of the near object; (3) with the duration of the period of
+previous accommodation ; that is to say, a number of observations
+rapidly following one another were effected more rapidly than an
+isolated one. The time taken by the change of accommodation from
+near to lar bore the relation to that taken from far to near of 100 to
+135, the general mean duration being ’7987 sec. and ’9430 sec. re-
+spectively.
+The only other special paper which has come within the writer’s
+reach is one by Aeby 1 , who attempted to determine by direct observa-
+tion the duration of the act of accommodation. He used needles as the
+points of fixation and estimated the time intervals by making and
+breaking the electric current through an electro-magliet which recorded
+on a glass cylinder.
+He worked within comparatively narrow limits, 480 mm. being the
+maximum far limit and 115 mm. the minimum near limit. The rela-
+tion of the mean time occupied in accommodating from the near to far
+and far to near was 100—150. Owing to the nearness of his maximum
+far point, his results can hardly be compared with those of Yierordt
+(which it appears he had not seen) ; but on the whole, the measurements
+seem longer, and more irregular.
+No statement accompanies these observations as to the conditions of
+refraction of the eyes of these observers, or of their ages; nor do they
+seem to have compared the left with the right eye. Their results are
+moreover somewhat conflicting and their methods appear to be deficient
+in some respects. It therefore seemed advisable to investigate the
+matter in a modified way.
+The difficulties of recording the exact time at which the near and
+far objects are seen most clearly, i.e. the exact time at which the act of
+accommodation begins or ends, are exceedingly great under any circum-
+stances ; because the time required for the mental decision is variable.
+This difficulty is especially so when the method of the former observers—
+viz. that of putting the accommodation apparatus in action by the will
+and recording the time by another volitional act—is adopted.
+In this laboratory an endeavour has been made by the foregoing
+method to measure the velocity of accommodation of the laboratory
+assistant and of the writer, but in both cases it has not been possible
+to arrive at satisfactory results. One of the difficulties encountered is
+1 “Die Accommodations-Geschwindigkeit cl. menscblichen Auges.” Zeitsch.f. rat. Med.
+Dritte E. B. xi. 1801.
+PH. VI. 4
+
+
+the wandering of the eye which occurs when changing from the near
+to the far object, and the writer has been as yet unable to satisfy
+himself that his observations taken in this way are trustworthy, for
+objects such as Yierordt used are very difficult to see clearly at a dis-
+tance of 1800 cm., and the needle points employed by Aeby are only
+applicable to short distances and are open to the same objection.
+To the former observer’s method there is also another objection.
+Rays of light proceeding from a point distant GOO cm. are usually re-
+garded as being practically parallel, and so Yierordt, who placed his far
+point at 1819 cm., three times this distance, was justified in regarding
+rays proceeding from an object situated at that distance as parallel; still
+his eye could not have been perfectly relaxed when looking at such an
+object and must have been accommodated to the extent of y-gxV =+ "05 D,
+a slight, but as will be afterwards shewn, an important amount. The
+last objection to these methods is their very great inconvenience and
+the difficulty experienced in rapidly changing the distances of the far
+and near points in order to vary the observations. On account of these
+objections the writer has endeavoured to construct an apparatus capable
+of effecting all these measurements in a moderate space and with
+considerable rapidity, but which at the same time should ensure optical
+accuracy.
+Method of Experiment.
+The apparatus by which the measurements now given have been
+taken is constructed so as to eliminate the objections mentioned. It
+consists of a skeleton compound microscope; the objective, being a lens
+of about 5 cm. diameter and about 7 cm, focal distance, is supported
+on a fixed stem, whilst the oculars, which can be changed from time
+to time as required, are of slightly less diameter and of varying focal
+distance. They are supported on a lever which can be quickly de-
+pressed and by this action the circuit of a magnet is made and the
+time recorded on a rapidly rotating drum.
+The apparatus is placed horizontally. Under ordinary circumstances
+an observer looking through the ocular would see the inverted image of
+an object placed beyond the focal distance of the objective. If an ocular,
+say of 25 cm,, be introduced, and the distance of the real image from
+the objective be accurately measured, and then the ocular (which can be
+moved towards or from the objective) be placed exactly 25 cm. from the
+image, it follows that the rays issuing from the ocular will be parallel.
+An emmetropic observer, placed with his eye say 10 cm. from
+
+
+this ocular, will see a clear inverted image of the object if his ac-
+commodation be perfectly relaxed, but not otherwise.
+If the ocular be nearer to the image than 25 cm. he will be compelled
+to accommodate to see it clearly, and if it be further away he will be
+quite unable to see it, since the normal eye cannot focus convergent rays
+upon the retina under any circumstances.
+The writer is aware that theoretically no image will be seen if the
+rays are exactly parallel, but as scarcely any eye is emmetropic within
+‘25 D this fact is of no import.
+If the observer’s eye be 10 cm. from the ocular, and the ocular 25 cm.
+from the image, he sees the image distinctly with perfectly relaxed
+accommodation. Now either he or someone else suddenly draws the
+ocular right away from the line of vision, and by so doing makes the
+circuit of an electro-magnetic time-writer, and a graphic record of the
+event which throws the image out of focus is made on a rotating
+drum.
+But as the ocular is drawn away a blurred image is seen, and then
+an efferent impulse is sent to the ciliary muscle which contracts and the
+eye is accommodated for the image distant 35 cm.
+As soon as the image becomes clear the galvanic circuit is broken by
+a movement of the observer’s hand, and the end of the change thus
+marked. The interval between the two records is the time taken for
+the ciliary muscle to contract, together with that taken for the im-
+pulses to pass through the necessary nervous mechanism. The time is
+measured by a tuning-fork writing under the magnetic recorder.
+This preliminary explanation of the method and its mode of applica-
+tion must now be followed by a more practical one.
+The object to be viewed should be as small as convenient, in order to
+eliminate as far as possible errors arising from the imperfections of the
+ordinary opticians’ lenses which have been used.
+There have been used as objects the (1) red wick of an ignited
+candle, (2) letters and slits cut in a large black screen with a light
+behind them (the glare being prevented by sheets of tissue paper), and
+(3) black letters of small size printed on white tissue paper placed over
+an opening in a large black illuminated screen. This last form of object
+was found to be most useful and convenient, since it is much more easy
+to decide quickly when such an image becomes clear than in the case of
+the candle wick or the slits. It should be mentioned here that the
+determination at the end of the observation of the exact moment at
+which the object becomes clear is one of the difficulties of the method,
+4—2
+
+
+but the error arising from it is soon minimized by practice, since each
+observer forms for himself a standard of clearness.
+The objective used has been an ordinary ophthalmologist’s lens, and
+the oculars were spectacle trial glasses of known focal distance.
+The oculars are placed in a grooved brass frame on the end of the
+lever which can be depressed or raised at will.
+By the act of depression the contact is made in an adjustable cup of
+mercury, and the circuit, in which the time-writer is situated, is completed
+without loss of time, and vice versa on raising.
+Great care must be exercised to see that the glasses are centred
+accurately, since otherwise the prismatic action of the ocular is brought
+into play, and on depressing the lever and removing the ocular from the
+line of vision the image has to be sought in a new direction, and so
+much time is lost, not by the contraction of the ciliary muscle but by the
+contraction of the recti muscles, which are moving the eye in search of
+the object.
+The head must be firmly fixed at a given distance from the ocular,
+and has been secured in these experiments with a photographic head-
+rest.
+The time thus taken for accommodation in one and both eyes
+together has been measured, the latter observation being effected by
+the use of a large reading-glass as an ocular. The reading-glass was
+a double cylinder of about 19cm. focal distance; and although this
+method was therefore quite inapplicable to observations on confirmed
+astigmatic eyes, still it was readily applicable in cases where the eyes of
+young emmetropic persons were being tested. In this case the large
+glass was fixed into the lever 19 cm, from the image, and thus replaced
+the ocular ordinarily employed.
+On looking through this glass one image of binocular production
+was visible, and then on depressing the lever and so removing the glass
+from the line of vision two blurred images were seen, which rushed into
+one another and became one clear image: thus indicating the action
+both of the ciliary muscle and of the internal recti.
+Measurements of distances were made with a common centimetre
+rule, and as it was clear that total errors of at least 5 cm. might readily
+arise with the most careful measurements, in all cases where possible
+the apparatus was kept unchanged for a large number of experiments,
+so that no external conditions whatever were consciously altered; the
+present as well as the former observations made on the rate of accom-
+modation are of relative rather than absolute value, and it is to relative
+
+
+values that I would especially direct attention, since the errors for nearly
+all observations are alike.
+In order to measure the time taken to relax the accommodation the
+reverse experiment is performed. The ocular is first depressed and the
+observer accommodates for the image which is distant 35 cm.; he then
+suddenly elevates the ocular into the line of vision, and, as soon as the
+image becomes clear, again depresses it. The recorded interval between
+the raising and depression of the lever represents the duration of the
+relaxation period together with the time taken for the nervous changes.
+In all cases where one eye was used alone, a large blinker was
+placed over the other eye, which was allowed to remain open; for the
+ordinary practice of shutting the eyelids of one eye and keeping the
+other open was found to alter the result very materially, since there is
+a great tendency to accompany the closing of the lids by contraction
+of the ciliary muscle. It was found that if the eyelids be closed and then
+opened, the accommodation is nearly always completely relaxed. In
+fact, when the writer was estimating his own accommodation velocity, he
+at times found difficulty (especially if fatigued] in relaxing fully in any
+other way. In all cases a definite period was allowed to elapse during
+which the object was looked at prior to the observation being com-
+menced; this varied from 5 to 10 secs.
+The following is the method by which the measurements have been
+made.
+Determination of the rate of accommodation from far to near.
+To measure the time required to change from infinity to 33 3 cm. an
+ocular (+ 4D) whose focal distance is 25 cm. is fixed at 25 cm. from the
+image formed by the objective. The eye of the observer is fixed at
+8 cm. from the ocular. Then the ocular is depressed and the image
+thrown out of focus. The time at which the image again becomes clear,
+is then recorded by the lever being raised. In this case the ciliary
+muscle contracts through -f 3D, i.e. adds on to the crystalline lens + 3D.
+To measure from near to far, the person accommodates for the image,
+while the ocular is depressed: he then raises the lens into the axis of
+vision, and, as soon as the image is clear, again depresses it to record the
+time when the act is completed.
+To measure accommodation velocity from infinity to 11cm. The
+ocular is a lens (-f 20D) the focal distance of which is 5 cm. and
+the eye is at 6 cm. from ocular. The experiments were conducted
+as before.
+By modifications of oculars and of the distance of the head from the
+
+
+ocular it is possible to measure the accommodation or relaxation velocity
+from infinity to any point required and vice versa.
+To measure intermediate distances, for example, from 50 cm. to 16 cm.
+and back, the following plan has been adopted.
+If a negative lens be placed in front of the eye in a spectacle frame,
+and care be taken that the lens is distant from the cornea not more than
+13 mm , then it amounts practically to putting that lens within the
+eye, so that if a 2D lens were so placed in front of an eye, that eye
+would be rendered hypermetropic to the extent of 2D.
+Now in order to get distinct vision for objects at an infinite distance
+the ciliary muscle would contract to the extent of 2D, which in the
+emmetropic eye corresponds to a far vision point of 50 cm. Hence if
+an eye, with such a lens in front of it be applied to this instrument, all
+observations begin not with a relaxed eye, but with an eye whose far
+vision point is (practically) 50 cm.
+Suppose then that the ocular is a lens (+ 10D) whose focal distance
+is 10 cm., that it be placed at a distance from the real image of 10 cm.,
+and that the eye be fixed at a distance of 16'6cm. with this —2D
+lens in front of it:—lt then follows that the eye already accommodated
+for 50 cm. will have to accommodate, when the ocular is depressed, not
+for 16'6 cm. (+ 6D), as it would if no additional negative glass were
+interposed, but for (6D + 2D) BD, i.e. 12*5 cm.
+By similar calculations, any other intermediate distance can be
+measured either from far to near, or from near to far.
+For example. The accommodation velocity from 333 to 11 cm.
+can be measured, by putting a ( 3D) lens the focal distance of which is
+33 3cm. in front of the eye, then adjusting an ocular of 10 cm. f. dist.
+(+10D), and fixing the head at 6 6 cm. distance and experimenting as
+before.
+The accommodation velocity of both eyes of four individuals has been
+measured separately; and of these eight eyes, two pairs have been tried
+separately and together.
+The measurements which follow are given without any deductions
+for the time occupied by the passage of nerve impulses. The observa-
+tions extend over a considerable period of time; to each is attached
+the date at which it was taken, so that any comparisons of varying rates
+in the same individual may be made with measurements taken on the
+same day, and as far as possible under the same circumstances.
+The writer desires to remark, apropos of these measurements, that the
+
+
+evident; and further that a number of accommodations from far to a
+very near point was followed in two cases by nausea and a most
+unpleasant nervous disturbance.
+Gross measurements of the accommodation and relaxation of Case
+(A), aet, 22, Physiologist.
+Right eye V = f manifest hypermetropia ’250.
+Left eye V = f
+Punctum proximum about 9 cm.
+I. Accommodation Velocity. (From Far to Near.)
+Distance
+Eight Eye
+Left Eye
+Date
+From
+to
+sec.
+sec.
+infinity
+33 cm.
+1-66
+1-76
+Jan. 9 th.
+(1-34
+1-761
+11*34
+2-09/
+Jan. 10th.
+1-36
+1-97
+Jan. 12th.
+1 *19
+1-33
+Jan. 15th.
+•98
+1-07
+Jan. 20 th.
+•906
+Jan. 23rd.
+•67
+•72
+Jan. 24th.
+•75
+•77
+Feb. 4th.
+•72
+•82
+Feb. 7th.
+Infinity
+11 cm.
+2-26
+2-39
+Jan. 10 th.
+1-73
+1-66
+Jan. 20th.
+1-62
+Jan. 23rd.
+M
+Jan. 24th.
+1-58
+1-5
+Feb. 4th.
+1-66
+1-5
+Feb. 7th.
+33 cm.
+11 cm.
+M4
+1-04
+Jan, 23rd,
+1-02
+1-06
+Feb, 4th.
+1-45
+1-29
+Feb. 7th.
+50 cm.
+16 cm.
+•98
+Jan. 23rd.
+•9
+•88
+Jan. 21st.
+•93
+Jan. 24th.
+•96
+•82
+Feb, 7 th.
+II. Relaxation Velocity. (From
+Near to Far.)
+33 cm.
+Infinity
+About ‘7
+sec. Varying and difficult to
+measure, since some days the accommodation
+could not be
+completely relaxed. Relaxa-
+tion velocities for all other distances too
+rapid for measurement.
+wearying nature of the repeated efforts to focus soon makes itself
+
+
+From
+to
+Eight Eye
+Left Eye
+Mean
+Both
+together
+Date.
+Infinity
+25 cm.
+(Reading
+distance)
+1-29
+M2
+1-43
+1-07
+1-36
+1-095
+1-3
+1-06
+Feb. 6th.
+Feb. 7th.
+All measurements sdven in January are the mean of from 15 —22, in
+Measurements of the accommodation velocity of the two eyes, tested
+separately and together,
+All measurements given in January are the mean of from 15—22. in
+February from 5—15 observations.
+In this case also at least 4 days’ observations prior to the earliest
+mentioned here have been rejected; being made simply for the purpose
+of practising the eyes.
+From these observations a certain number of points are obvious.
+(1) That a considerable diminution in the time occupied in accom-
+modating occurred as the result of practice. Thus the accommodation
+velocity from infinity to 83 cm, was T 66 secs (Right Eye) on Jan. 9 and
+steadily diminished to ’67 sec,, Jan. 24. Since this date it has slightly
+increased.
+(2) That the time occupied by either eye in accommodating appears
+almost exactly the same as that occupied by the two together.
+(3) That the results varied somewhat from day to day, and that
+they were usually fairly constant on any one day.
+(4) That the accommodation velocity of the practised right eye and
+the unpractised left were at first different, but ultimately became fairly
+equal.
+(5) That all relaxation periods except that from 33 cm. (approx.) to
+infinity were unmeasureably short though the method employed recorded
+with accuracy periods of time as small as -1 sec.
+Gross measurements of the accommodation and relaxation of Case
+(B), Laboratory Assistant.
+Right eye V = f manifest hypermetropia ID.
+Left „ V=§ „ „ ID.
+Punct. prox. about 8 cm.
+
+
+From
+to
+Eight Eye
+Left Eye
+Date
+Infinity
+33 cm.
+•44
+•5
+Jan. 27th.
+•5
+•54
+Feb. 7th.
+Infinity
+11 cm.
+•6
+Jan. 27th.
+•72
+•53
+Feb. 4th.
+•78
+•79
+Feb. 7th.
+33 cm.
+11 cm.
+•56
+•53
+Jan. 28th.
+•56
+•5
+Feb. 7th.
+50 cm.
+16 cm.
+Too rapid for measurement.
+II. Relaxation Velocity. Too rapid for measurement.
+Measurements of Accommodation Velocity of the eyes of (B) examined
+e
+•6
+I. Accommodation Velocity. (Far to Near).
+separately and together.
+Eight Eye Left Eye Mean J 8 Date
+From
+Infinity 25 cm.
+•68 -64 -67 Feb. 6th.
+The facts to be gathered from these observations are :
+(1) That the accommodation velocity of this young hypermetrope
+was exceedingly rapid.
+(2) That he accommodated from 50—16 cm. at a rate that defied
+measurement.
+(3) That the result varied from day to day.
+(4) That his right and left equally practised eyes varied little
+from one another.
+(5) That the time taken for either eye to accommodate separately
+was the same as that taken by both acting together.
+(6) That it was impossible to measure any of his relaxation periods
+by reason of their rapidity.
+Gross measurements of the accommodation and relaxation Case of
+(C), set. 35. Ophthalmologist.
+Right eye V = f Emmetropia
+Left „ F= |
+Punct. prox. about 17 cm.
+to
+
+
+From
+to
+Eight Eye
+Left Eye
+Date
+sec.
+sec.
+Infinity
+33 cm.
+•79
+1
+Infinity
+17 cm.
+1-57
+1-58
+Infinity
+1 8 cm.
+1-48
+1-48
+r- Feb. 3rd.
+50 cm.
+20 cm.
+•986
+•85
+J
+33 cm.
+Infinity
+•68
+Right eye V - f with - 3D glasses.
+Left y _ e
+■Ueil/ „ V — 3- „ „ „
+Myopia is — 3D with — 75D astigmatism left uncorrected. Punch
+prox, with glasses about 14 cm. Glasses used during observations.
+From
+to
+Eight Eye
+Left Eye
+Date
+sec.
+sec.
+Infinity
+33 cm.
+1-2
+Jan. 31st.
+1-5
+2-03
+Feb. 4 th.
+1-3
+1-58
+Feb. 4 th.
+Infinity
+15 cm.
+1-77
+Jan. 31st.
+1-84
+2-42
+Feb. 4th.
+Infinity
+14 cm.
+1-8
+2-6
+33 cm.
+15 cm.
+1-61
+Jan. 31st.
+50 cm.
+20 cm.
+1-5
+33 cm.
+Infinity
+1-08
+Jan. 31st.
+All near to far accommodations, except that noted 33 to infinity, too
+rapid for measurement.
+It seems then:
+(1) That the rate of contraction and relaxation of C’s eyes does
+not differ materially from those of A.
+(2) That, like A, he can estimate the time taken to relax only
+from moderately near to the very far off.
+All other near to far observations were too rapid for accurate
+measurement.
+Gross measurements of the accommodation velocities of the eyes of
+(D), set. 32. Ophthalmologist.
+.A.11 near to far accommodations other than that noted were too rapid for
+measurement.
+From these measurements it follows that
+
+
+(1) The velocity of this myopic accommodation was very slow
+compared with that of the other eyes.
+(2) The unpractised left eye accommodated much more slowly
+than the right.
+(3) As in the case of C and of A all near to far measurements
+except the moderately near to very far, of which 33 cm. to infinity is
+the type, are too rapid for measurement.
+General Considerations.
+The exact details of the method by which accommodation is effected
+are hardly yet clear; thus the respective parts played by the radial fibres
+of the ciliary muscle and by the so called circular muscle of Mfiller do
+not seem to have been determined. And since the mere mechanical part
+of accommodation is so very complex, quite apart from the complexities
+of innervation, it is obvious that conclusions as to the rate of any of
+the acts included in accommodation can only be tentative. It is not the
+purpose of the writer to enter into any discussion on this point, or
+yet on the mode of relaxation.
+The first point of interest in relation to these measurements is
+the reduction in accommodation velocity effected by practice. It will
+be observed that the gross measurements of both the right and left eyes
+of A shew a progressive increase in rate from Jan. 9th, when the velocity
+of the right eye from infinity to 33 cm. was T 66 secs, and that of the
+left 176 secs., to Jan. 24th when it was 'C7 sec. right and - 72 sec. left;
+since this date the rate has altered but slightly.
+Similarly the velocity from infinity to 11 cm. on Jan, 10th was 2*26
+secs, for the right and 2'39 secs, for the left. After the steady practice in
+Januar} 7 it was reduced to an average of about T 5 secs, for each eye,
+which is the present rate.
+It should be stated here that during the few days prior to Jan. 10th
+the observations were very long and very variable.
+To what, then, is this reduction to be ascribed ? Is it a diminution
+of the latent period, an increased rate of contraction of the muscle, or
+increased mobility of the apparatus? Or, is it that the nerve mechanism
+used for setting the accommodation apparatus in motion became better
+educated so as to allow more rapid transit of the impulses? It is pro-
+bable that with short practice the exact period at which the image
+becomes clear was more quickly determined.
+As to the latent period and rate of contraction of the muscle
+
+
+varying, if they altered from day to day there must be a departure
+from the behaviour commonly attributed to other kinds of muscle
+tissue ; and as it is only known from analogy that the ciliary muscle has
+a latent period, there is no warrant for assuming that it differs from
+that of other muscles in this important respect.
+If the increased mobility of the apparatus has any influence, it is
+probably inappreciable, since if it were great it would be reasonable to
+assume that the relaxation velocity would alter also. Now as the relaxation
+velocity from extreme tension to complete relaxation is from the first so
+short that it cannot be measured, it is evident that the increased mo-
+bility of the apparatus plays a very slight, if any, part in the reduction
+of the period of accommodation which results from practice.
+It would seem then that the increased facility with which nerve
+impulses are transmitted can alone explain the gradual alteration of
+the measurements effected by practice.
+The variable and lengthy character of the measurements, antecedent
+to those here recorded, soon rapidly disappears; this is probably due to
+the fact that the brain becomes educated, and the gradual improvement
+in rate which sets in afterwards is probably due to the slower education
+of the subordinate nervous mechanism.
+The last hypothesis is that the diminution depends on the more
+rapid recognition of the time at which the image becomes clear. As
+mentioned at an earlier part of this communication, this source of fallacy
+is speedily removed by practice, each observer forming for himself as it
+were a standard of clearness. Hence it may be regarded as having
+influence only in the first few observations.
+Binocular Measurements .
+It has been mentioned that in all these experiments where one eye
+alone was being tested, a blinker was placed over the other eye which
+was then kept open, since the effort of closing the one eye voluntarily
+seemed to alter materially the observations made. The reason for this
+possibly is that some such muscular movements habitually act in associa-
+tion with accommodation and one movement is sufficient to excite the
+other; so that when closing one eye and measuring the accommodation
+velocity, time is lost in controlling and preventing the associated move-
+ment excited by closing the eye. Now since both eyes were open, it is
+probable that both are accommodated together by reason of their
+
+
+educational association, although the velocity of the movement in one
+only was measured.
+This being so, it ought not to have been a matter of surprise that
+the accommodation velocity of the two eyes used together was about
+equal to the mean of the results found by testing them separately, for
+on a priori grounds, such a conclusion would seem probable. Yet the
+thought suggested itself that the increased definition of the image
+consequent on the production of Binocular Vision would have certainly
+diminished the period of the observation. But experiment enabled one
+to conclude that this increased “Acuity of Vision” has but slight
+influence on the time taken to form a clear image. A reference to the
+tables given will shew how nearly the mean of the accommodation
+velocity of the two eyes tested separately coincides with that of the two
+taken together.
+The difference between the accommodation velocities of the two eyes
+is another interesting point. If one eye were very astigmatic one might
+expect that its rate of accommodation would be slower than that of the
+other. However in the instances (A and B) both eyes were of the same
+character, except in so far as one was practised more than the other
+and was so functionally superior.
+It is noteworthy that the accommodation velocity of the eyes
+of B (who had never practised his accommodation for special purposes
+with either eye) was nearly the same in both eyes.
+But in the case of A, who had used his right eye very much more
+than his left, the accommodation velocity was at first very much faster
+in the right than in the left eye, but with practice it became very much
+the same in both eyes.
+Thus an accommodation velocity from infinity to 33 cm. of
+l - 66 secs, right, and T 76 secs, left on Jan 9th,
+1*76 sgcs
+and of 1-34 secs. „ and _,, _ ’ left on Jan. 10th,
+2 09 secs.
+became
+•75 sec. right, and '77 sec. left on Feb. 4th.
+•72 sec. „ and *B2 sec. „ on Feb. 7th.
+And in some of the other measurements in February the right eye
+accommodation velocity was even slower than that of the left.
+Now in the case of C the velocities in each eye were nearly the
+same, but in D’s case the velocity of accommodation in the right eye
+was very much greater than that in the left.
+
+
+Thus on Feb. 4th his accommodation velocity from infinity to 33 cm.
+for the right eye was I*s secs, and for the left 2‘03 secs., whilst from
+infinity to 11, in the right 184 secs., in the left 2 - 42 secs, was required.
+Whether this difference would as in the case of A disappear by
+practice could not be determined.
+It will be observed that in all cases where comparisons have been
+instituted, they have been made between measurements obtained on the
+same day, for comparisons made between measurements obtained on
+different days would (except for special purposes) be liable to error.
+Observations taken for purposes of comparison on any one day have
+always been taken, so far as possible, under the same circumstances
+(i.e. with as little alteration of lenses etc. as possible) and very often at
+one sitting.
+Effect of Fatigue.
+The effect of fatigue is well shewn by the observations taken on Jan.
+10th. After taking some GO consecutive records, measurements of the
+accommodation velocity of the left eye of A from infinity to 33 cm.
+were commenced. The right had given very uniform results T 34 secs,
+for two sets of 22 observations each.
+The first 22 with the left gave 176 secs, and A then felt very
+fatigued, but the next 22 averaged 2D9 secs., and then the observations
+had to be discontinued.
+The exact cause of this fatigue would seem to be the unusual and
+new strain thrown on the subordinate nerve mechanism, which governs
+the ciliary muscle, for it is probable that 100 contractions conducted
+even in rapid succession would not fatigue the muscle itself, which,
+ordinarily in A’s case was daily occupied in doing much more severe
+work.
+Age Difference.
+The general difference in the accommodation velocity in the cases of
+A, B, C, and D is remarkable.
+Thus in accommodating from infinity to 33 cm.,
+B set. 19 years took *5 sec.
+A „ 22 „ „ 75 sec.
+C „ 35 „ „ *8 sec.
+D „ 32 „ (myope) took I*3 secs.
+
+
+from infinity to 11 cm.,
+B took *7 sec.
+A „ 15 secs.
+from infinity to 18 cm.,
+C took I‘s secs.
+from infinity to 14 cm.,
+D took T 8 secs.
+These measurements though only approximate, are instructive.
+The young hypermetrope was most rapid. Then came the slightly
+older emmetrope, and then with but slight difference, the older emme-
+trope; whilst far the slowest of all, was the middle-aged myope.
+These differences might have been expected, but have been neglected
+by previous observers, and require a more comprehensive examination,
+which will be made by the same method.
+So far as the measurements of the change from far to near are
+concerned the results here arrived at correspond with Vierordt’s careful
+observations on his own left eye. But the next set of measurement, is
+apparently in direct opposition to those he made.
+Relaxation Velocity.
+The exact mode in which moderate degrees of relaxation is effected
+is not quite clear. It may be assumed that in changing from the near
+to the very far, the apparatus is allowed to run down. But what
+happens in changing from a near to a moderately far object, for example
+from Bto 33 cm. ? Does the apparatus run down altogether, and then
+re-accommodate up to the required point, or does the muscle relax
+down to 33 cm. where it is then suddenly checked ?
+Now, if the first view were correct, it ought to take longer to relax
+from 11 cm. to 33 cm. than from 11 cm. to infinity. The writer tried to
+see if this were so, but found in every one of the persons examined, that
+any of these periods were too rapid for measurement. That is they
+were less than T sec. Possibly something like this complete running down
+may occur in childhood but probably by education the second method
+becomes generally used. By what nervous mechanism the muscle is
+checked at the necessary point is very difficult to understand, for owing
+to the rapidity of the process it cannot well be a central coordination.
+The only relaxation velocity that could be measured in A, C and D,
+is from a moderately near point, say 33 cm. to infinity. In B’s eyes
+
+
+all relaxation and some accommodation periods defied measurement by
+reason of their rapidity.
+The important practical bearing of this relaxation rapidity is the
+lesson it teaches relative to presbyopia.
+If presbyopia were in great measure due to rigidity of the apparatus
+and not to failure of the ciliary muscle, it would be expected, that the
+relaxation periods of C would be fairly long; but, although that from
+33 to infinity was somewhat long, all others were too rapid for measure-
+ment. Yet his near point has receded to 18 cm. Now this seems to
+negative the view, that rigidity of the passive part of the accommodation
+apparatus plays a large part in the defective accommodation of old
+emmetropic people.
+It is interesting to compare the relaxation velocities of the eyes
+of C, D and A from 33 cm. to infinity, the only measurement that could
+be recorded.
+Right Eye. Left Eye.
+(1-08 secs.
+D Myope jj.g secs _ 158 secs.
+C Emmetrope *6B see.
+A „ *7 sec.
+That there is some difference in the arrangement of the relaxation
+apparatus in the myopic eye and the emmetropic eye is rendered
+probable by these figures, and it appears also that this relaxation ap-
+paratus differs in the two eyes of the same individual.
+But it is difficult to explain the fact that the relaxation velocity
+from 33 to infinity was easily measurable, whilst that from 11 to infinity
+and from 11cm. to 33 cm. was too rapid for measurement —particularly
+in eyes like those of D, which took 108 secs. R. T5B secs. L., to relax
+through the former distance. One may suppose that the great tension
+of the elastic tissue in near accommodation, causes rapid relaxation.
+It is well known that spasm of the accommodation apparatus,
+(ciliary muscle ?) in hypermetropes of low grade, often simulates a slight
+degree of myopia, and that a negative glass improves their vision.
+The question arises, when these curious relaxation results are considered,
+as to whether the accommodation apparatus under ordinary circumstances
+in emmetropes and hypermetropes is ever completely relaxed. If so,
+why is the result of Retinoscopy so variable, in an eye not paralysed
+with atropine, even if the patient is directed to look at a point 10 metres
+off?
+Further if the accommodation apparatus were contracted to the
+
+
+extent, say of + *2D, that is the vision point were 500 cm. yet the
+most distant objects would be clear to the observer, for such an error
+would not interfere with the definition of the image. Now, when it is
+remembered how relatively rarely in urban life people look at the more
+distant objects, such as require complete relaxation, it may be conceded
+that this hypothesis of a prevalent “ functional myopia ” of very low
+grade is a plausible one; and if so these curious relaxation velocities
+are more easily explainable.
+But of course, even if it took a little time to overcome this spasm of
+the accommodation (and in A it on some days takes several seconds),
+why is it, that relaxation from 11 cm. or other very near point to
+infinity is effected with such great rapidity ? The most probable
+explanation is that the great tension causes a more complete as well as
+a more rapid relaxation, than that effected in relaxing from 83 cm. to
+infinity. This explanation is further borne out, by the fact that relaxa-
+tion velocity from 11cm. to 33 cm., or from 16 cm, to 50 cm., or from
+11 cm. to 50 cm., has proved in the cases of A, C and D, too rapid to be
+measured.
+It appears then that whereas Yierordt found the relative duration
+of the accommodation and relaxation periods was about 130 : 100 and
+Aeby gave them as 150 : 100, the present measurements, except in
+some special cases, give a much greater difference.
+Now as Aeby measured such short distances, his observations are
+of limited value from this point of view; and the discrepancy between
+Yierordt’s observations and the writer’s may be explained.
+Yierordt’s far point was not an infinite distance, but 1819 cm.,
+hence his practised left eye was not completely relaxed when looking at
+the far point, but remained contracted to the extent of 'O5 D at
+least.
+There is, moreover, no information as to the refractive condition
+of his eye, nor of his age —points which might make a great difference;
+so that the contradiction of the near to far observations of Yierordt and
+those on emmetropes recorded here seems to be far more apparent than
+real; and when it is remembered that the far to near observations in
+the main agree, this explanation seems the more probable. But under
+any circumstances the view put forward as to the existence of this
+functional myopia, long recognised by ophthalmologists, is, it seems to
+the writer, entitled to consideration. •
+PH. VI.
+
+
+Rates of contraction of the Ciliary Muscle.
+Up to the present, the gross measurements have been given merely
+with a view of comparing the rate of accommodation under varying
+circumstances; and the absolute duration of the local acts of accommo-
+dation has not been discussed. An endeavour will be now made to
+arrive at a more definite conclusion concerning this point.
+The measurements herein recorded represent the (1) latent period
+and time of contraction of the ciliary muscle, and (2) the time occupied
+by the activity of the nerve mechanism which controlled it.
+At the end of any observation, the observer makes a record on the
+drum as soon as the image becomes clear, by breaking the galvanic
+circuit with a key. Therefore the time between the end of his accom-
+modation and the making of the signal is occupied by :
+1. The latent period of the retina.
+2. Passage of an impulse from the retina to the brain.
+3. Cerebral changes.
+4. Passage of impulses to the muscles of the forearm, through
+subordinate nerve mechanism.
+5. Latent period of the muscles.
+The time occupied by the movement of the apparatus may be neglected.
+The total time occupied by similar processes, called the “Reaction
+period for light,” has been frequently measured under different conditions,
+and whilst varying from time to time, usually averages 2 sec.
+The writer has measured it in the case of B and of A for the right
+forearm.
+In B’s case it averaged 'l7 sec.
+In A’s „ „ •2 sec.
+This is not a very great difference when it is remembered that A’s
+accommodation velocity was very much more rapid than B’s. This time
+2 sec. has therefore been assumed to be fairly correct for A, C, D,
+and should therefore be deducted from the observations given. For it
+is evident that if there be any error at all in the case of 0 and D it
+will be in making the reaction period too small.
+At the beginning of the observation a corresponding correction
+should be made.
+After the ocular is depressed, the ciliary muscle contracts, but there
+is an interval before this contraction begins, which is occupied by (1)
+the latent period of the retina; (2) the passage of an impulse to the
+
+
+brain; (3) Cerebral changes; (4) the action of the subordinate nerve
+mechanism; and (5) the latent period of the ciliary muscle. Now the
+latent period of the ciliary muscle can be judged of only by analogy,
+it must be assumed to be about equal to that of other non-striated
+muscle.
+What is then the time occupied by this “reaction period” required
+for impulses leaving the retina to return to the ciliary muscle ? This
+question, the writer fears, cannot be answered at all satisfactorily. But
+he thinks that he will be well within the mark if he assume that it will
+be at least equal to the reaction period calculated for striated muscle,
+viz. - 2 sec.
+It is, however, probable that with special practice it diminishes very
+much, just as that of striated muscles is said to do also, and that was the
+explanation given at another part of this paper, of the great reduction in
+the duration of accommodation with practice. The relative uniformity
+of the results obtainable after the first few days’ practice being probably
+due to psychical training, the steady daily decrease after this is due to
+the education of the subordinate nerve mechanism.
+Hence, at least ‘4 sec. must be deducted from the measurements given
+for A, C and D and ’34 sec. for B, in order to arrive at an approximate
+measurement of the duration of contraction of the ciliary muscle; and
+such a result will only be trustworthy when obtained from observations
+effected after some practice.
+The writer only feels justified in assuming that this reduction cor-
+rects for the reaction period at the end of the observation, and dimi-
+nishes the difference caused by that at the commencement. It might
+be thought that the whole difficulty could be got over by adopting
+Yierordt’s plan of trying to send two impulses from the brain at the
+same moment, one to the recording hand and one to the ciliary muscle,
+but this method has been found in practice to give unreliable results.
+The corrected measurements for the eyes of A, B, C and D follow,
+and represent the duration of the contraction of the ciliary muscle, as
+nearly as it can be arrived at by this method of calculation. Ihe amount
+of the reduction, however, is necessarily provisional, and only in the case
+of A and B was it determined by direct examination of their reaction
+periods.
+
+
+Right Eye
+sees.
+1-26
+/ *94
+1 -94
+•96
+•79
+•58
+•506
+•27
+•35
+•32
+1-86
+1-33
+1-42
+1-18
+1-22
+•74
+•62
+1-05
+■58
+•5
+•56
+Corrected
+;ted Measurements in the case of A.
+Accommodation Yelocity.
+Distance
+Left Eye
+From
+Infinity
+33 cm.
+Jan. 9th.
+Jan. 10 th.
+1-361
+1-69 J
+Jan. 12th.
+Jan. 15 th.
+Jan. 20th.
+Jan. 23rd.
+Jan. 24th.
+Feb. 4th.
+Feb. 7th.
+Infinity
+11 cm.
+Jan. 10th.
+Jan. 20th.
+Jan. 23rd.
+Jan. 24 th.
+Feb. 4th.
+Feb. 7th.
+33 cm.
+11 cm.
+Jan. 23rd.
+Feb. 4th.
+Feb. 7th.
+50 cm.
+16 cm.
+Jan. 23rd.
+Jan. 21st,
+Jan. 24th.
+Feb. 7th.
+Corrected Measurements in
+the case of B,
+From
+Eight Eye
+Left Eye
+secs.
+•16
+•2
+Infinity
+33 cm.
+Jan, 27th.
+Feb. 7th.
+Jan. 27th.
+Feb. 4th.
+Feb. 7 th.'
+Jan. 28th.
+Feb. 7th.
+Infinity
+11 cm.
+33 cm.
+11 cm.
+
+
+THE ACCOMMODATION VELOCITY.
+Corrected Measurements in the case of C.
+From
+to
+Eight Eye
+Left Eye
+Date
+Infinity
+50 cm.
+33 cm.
+17- cm.
+18- cm.
+20 cm.
+secs.
+•39
+1*17
+1-08
+•586
+secs.
+1*18
+1-08
+•45
+► Feb. 3rd.
+33 cm.
+Infinity
+•28
+All other Relaxation Velocities too rapid for measurement.
+Corrected Measurements in the case of D.
+From
+to
+Eight Eye
+Left Eye
+Date
+secs.
+secs.
+Infinity
+33 cm.
+•82
+Jan. 31st.
+M
+1-63
+Feb. 4th.
+•93
+1-18
+Feb. 4th.
+Infinity
+14 cm.
+1-4
+2-2
+Feb. 4th.
+Infinity
+15 cm.
+1-37
+Jan. 31st.
+1-44
+2-02
+Feb. 4th.
+33 cm.
+15 cm.
+1-21
+Feb. 4th.
+50 cm.
+20 cm.
+11
+Jan. 31st.
+33 cm.
+Infinity
+•68
+Jan. 31st.
+Mean Results.
+In the case of A.
+Eight Eye
+From
+Left Eye
+•691 secs,
+1-4 „
+■BO „
+•546 „
+Infinity
+33 cm.
+11 cm.
+11 cm.
+16 cm.
+33 cm.
+50 cm.
+•53 „
+In the case of B.
+Infinity 33 cm. *135 „ *lB „
+„ 11 cm. -36 „ -32 „
+33 cm. 11cm. -2 „ -17 ~
+•96 secs.
+1-22 „
+•73 „
+
+
+Rates at Different parts of the Range.
+The velocity of active accommodation seems to be the same for
+equal distances at any part of the range.
+r lhus on Feb. 4in case of A, the time occupied in accommodating
+from infinity to 33 cm. (‘35 sec. R. and ‘37 sec. L.), together with that
+occupied from 33 cm. to 11 cm. (*62 sec. R. and '66 sec, L.) amounts
+to ’97 sec. R. and I’o3 secs. L., and nearly equals the time taken to ac-
+commodate through the whole distance infinity to 11 cm., viz. ITS secs.
+R. and IT secs. L.
+Again on Feb. 7,
+The accommodation period from infinity to S 3 cm. was ‘32 sec. R.
+and -42 sec. L. This with the duration of accommodation from 33 cm.
+to 11 cm., viz. 1-05 secs. R. and ’B9 sec. L., together amount to 137 secs.
+R. and 1 *3l secs. L., whilst the period occupied in accommodating for
+the whole distance from infinity to 11 cm. was 1*22 secs. R. and IT secs. L.
+Again on Jan. 23rd,
+Infinity to 33 cm. required '506 sec, R., which together with '74 sec. R.,
+time required for the change from 33 cm. to 11 cm., = 1*246 secs., whilst
+that of whole distance was 1*42 secs, R.
+Hence it will be seen that the difference in any case is less than
+‘2 sec. and being variable in both directions may reasonably be ascribed
+to defective measurement.
+In the case of B,
+On I eb. tth the period of accommodation from infinity to 33 cm.
+was T 6 sec. R. and '2 sec. L., which together with that from S 3 cm. to
+11 cm. viz. 2 sec. R. and *l6 sec, L., is *36 sec. R. and *36 sec. L., whilst
+the whole distance took *44 sec. R. and *45 sec. L.
+The observation of the same character on the eye of I) gives a dis-
+cordant result, but its isolated character and the peculiarities of D’s eye
+render the observation untrustworthy.
+The results of these measurements shew that the duration of accom-
+modation from infinity to 33 cm. and from 33 cm. to 11cm. together
+very nearly equal that from infinity to 11 cm. But it will be seen that
+any comparison of this sort depends for its value on the accurate de-
+termination of the reaction periods.
+Since, if the reaction periods be x for the ciliary muscle, and y for
+the hand muscle, and the contraction period say *5 sec. for accommoda-
+tion from infinity to 33 cm. and 7 sec. from 33 cm. to 11 cm.
+
+
+Then these together are
+12 secs. + 2x + 2y.
+Now assuming the duration of the contraction from infinity to 11cm.
+to be I*2 secs, the accommodation would take T 2 secs. +x +y. In
+other words in the first case the reaction delay appears twice in the
+calculation.
+This objection applies equally to the observations made by anyone,
+and the writer is very loth to place much value on conclusions based
+on the corrected measurements.
+It was suggested that possibly the accommodation velocity from a
+moderately far to a moderately near distance might be relatively rapid,
+and measurements have been made accordingly from 50 cm. to 16 cm. in
+the case of A and B, and from 50 cm. to 20 cm. in the case of C and D.
+The range to be travelled over in accommodating
+from infinity to 333 cm. is 3 D,
+from 50 cm. to 20 cm. is 3 D,
+and from 50 cm. to 16 cm. is 4D.
+Although the distance to be traversed from 50 cm. to 16 cm. is
+greater than that from infinity to 333 cm., still the two sets of mea-
+surements will bear comparison.
+In A, 50 cm. to 16 cm. acc. vel, was
+on Feb. 7th, *56 sec. R. and ’42 sec. L
+on Jan. 23rd, •58 sec. R.
+From infinity to 333 cm.
+on Feb. 7th, '32 sec. R., '42 sec. L,
+on Jan. 23rd, ’506 sec. R.
+In the case B duration of accommodation from 50 cm. to 16 cm.
+was too rapid to be measured, i.e. less than 1 sec. reduced, and less
+than 5 sec. gross measurement. But that from infinity to 33 cm. varied
+from •] sec. to *2 sec., so that though a difference does occur in this
+case it is not marked enough to establish any conclusion.
+In the case of C accommodation from
+infinity to 33 cm. took '39 sec.,
+and from 50 cm. to 20 cm. „ 5 and ’6 secs,
+in the case of D accommodation from
+infinity to 33 cm. took 'B2 sec.
+and from 50 cm. to 20 cm. „ 1 1 secs.
+The sum then of these observations tends to the rejection of the
+supposition that accommodation from moderately far to moderately near
+
+
+is more rapid than accommodation in the more extreme part of the
+range; and it is the writer’s opinion that the ciliary muscle contracts at
+very much the same rate through equal distances in any part of its range,
+e.g. the accommodation velocity from 16-6 cm. to 11 cm. (3 D) is much
+the same as that from infinity to 333 cm. (3 D).
+General Conclusions.
+The conclusions which are to be deduced from these observations
+seem to be that
+(1) The accommodation apparatus acts with varying degrees of
+rapidity according to different circumstances, the principal of which
+are
+(a) Age.
+( h) Lesions of refraction,
+(c) Practice (?)
+(d) Individual characteristics.
+( e ) Time of day.
+(/) Fatigue.
+(2) Relaxation occurs with very much greater rapidity than active
+accommodation.
+(3) That, with two eyes of much the same refractive character, the
+accommodation velocity of either measured separately is about the same
+as that of the two acting in concert.
+(4) That in the present state of knowledge no absolute data can be
+given as to the time occupied by the action of the local mechanism for
+any given distance.

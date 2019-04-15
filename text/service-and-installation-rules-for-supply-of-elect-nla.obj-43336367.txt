@@ -1,0 +1,2827 @@
+
+
+THE SYDNEY COUNTY COUNCIL
+Service and
+Installation Rules
+FOR SUPPLY OF
+ELECTRICITY
+Revised and Issued Ist February, 1949,
+and subsequently amended.
+Reprinted June, 1965
+
+
+THE SYDNEY COUNTY COUNCIL
+Service and
+Installation Rules
+FOR SUPPLY OF
+ELECTRICITY
+Revised and Issued Ist February, 1949,
+and subsequently amended.
+Reprinted June, 1965
+
+
+
+
+These Service Rules, published by The Sydney County
+Council, are based on the model Electrical Service
+Rules issued by the Electricity Supply Association
+of Australia.
+Where words which are used in this
+publication have been defined in the
+S.A.A. Wiring Rules, the words
+are used in accordance
+with those definitions.
+
+
+
+
+CONTENTS
+Page
+Advice to Prospective Consumers and Contractors 7
+Terms and Conditions of Supply 10
+Rates for Supply of Electricity and Hiring of Apparatus 10
+System of Supply, Balancing and Installation of Services—
+System of Supply 11
+Balancing of Load and Limitations on the Loading of appar-
+atus 12
+Method of Determining Type of Service to be Installed 18
+Supply to Large Installations 21
+Service Lines and Consumers’ Lines 22
+Service Fuses 26
+Mounting of Service and Metering Equipment 27
+Installation of Temporary Mains or Services 34
+Installation of Special or Additional Services 34
+Metering —
+Provision and Installation of Meters and Time Switches 35
+Location of Meters 39
+Accessibility of Meters 40
+Protection of Meters 42
+Grouping of Meters and Provision of Links 42
+Meter Connections 45
+Multiple Connections at Meters Prohibited 46
+Additional or Subsidiary Meters 46
+Fixing of Conductors in Service Fuses, Meters, etc 46
+Consumers’ Installations—
+Compliance with S.A.A. Wiring Rules 47
+Notice of Completion 47
+Inspection and Testing of New Installations 47
+Inspection and Testing of Additions or Alterations 48
+Calculation of Maximum Demand 49
+Protection and Installation of Consumer’s Mains 50
+Labelling of Switchboards and Entrance Doors 50
+Medium Voltage Supply Direct From Substation Busbars—
+Rupturing Capacity of Main Overload Protective Devices 50
+
+
+Page
+Temporary Wiring—S.A.A. Wiring Rule 361 51
+Starting Current of A.C. Motors 51
+Power Factor of Apparatus 53
+Control of Capacitors 54
+Electrode Type Water Heaters —S.A.A. Wiring Rule 433 (a) 54
+A.C./D.C. Rectifiers 54
+Earthing of Installations 55
+Conductors not to be Earthed 57
+High Voltage Installations 57
+Interference with Supply to Other Consumers 59
+Index 60
+
+
+THE SYDNEY COUNTY COUNCIL
+All communications should be addressed to the
+General Manager, The Sydney County Council,
+P.O. Box 4009, G.P.0., Sydney.
+ADVICE TO PROSPECTIVE CONSUMERS
+AND CONTRACTORS
+Area of Supply. The areas in which electricity is supplied
+by the Council directly to the public are:
+Ashfield Ku-ring-gai Randwick
+Auburn Lane Cove Ryde
+Bankstown Leichhardt Strathfield
+Botany Marrickville Sutherland
+Burwood Mosman
+Canterbury North Sydney Waverley
+Concord Parramatta (old Willoughby
+Drummoyne Ermington and Woollahra
+Hornsby Rydalmere only)
+Hunter’s Hill
+• (The City of Sydney includes the following localities; Alexandria, Darling-
+ton, Erskineville, Newtown, Paddington, Redfern, The Glebe and
+Waterloo.)
+Additional Information. Any additional information on
+the matters covered by these Rules, or on the supply of
+electricity generally, may be obtained by addressing an inquiry
+to the General Manager, or by applying personally at the
+Inquiry Counter at the Council’s offices.
+Note: Special requirements in respect of earthing of installa-
+tions are applicable in the Shires of Hornsby and Sutherland
+and the Municipality of Bankstown. (See Rule 36, Page 55.)
+Applications. Immediately it is known that supply is
+required, an application form should be obtained, carefully
+examined as to the conditions under which supply may be given,
+filled in with all the required information, signed by the person
+who will be responsible for the payment of accounts, and lodged
+with the Council. However, where supply is required for new
+domestic premises, including multiple dwellings to be supplied
+from street mains, the appropriate form may be made out and
+signed by an electrical contractor.
+Warning Against Premature Expenditure. No expense
+should be incurred by the prospective consumer until an applica-
+tion form has been lodged with the Council, and advice has been
+
+
+received that supply will be given and on the conditions under
+which it will be given. (For installations supplied from the
+Direct Current mains see also Rule 1 (a) (iii).)
+When contemplating the connection of electrical welding
+apparatus, X-Ray equipment, motors with rapidly fluctuating
+loads and the like, particular care should be taken to ascertain
+the conditions which must be observed to prevent their inter-
+fering with the supply to other consumers.
+Necessity for Employing a Licensed Person. The Electricity
+Development Act, 1945-1948, requires that all electrical installa-
+tion work be carried out by, or under the constant personal
+supervision of, a suitably licensed person.
+Special and Additional Services. In general, the Council
+will instal only one service for any building or for any group of
+buildings occupied by one consumer. For the conditions under
+which special or additional services may be installed, see Rule
+No. 9, page 34.
+Point of Attachment for Mains. Before any work on installa-
+tion is commenced, the point of attachment for the service line
+and the position of the service equipment should be ascertained
+from the Council.
+Completion Notice. An installation will not be inspected
+until a notice of completion has been lodged by the Electrical
+Contractor. (See Rules Nos. 20 and 21, page 47.)
+The installation must not be connected until it has been
+inspected.
+Re-Inspection Fee. If the initial inspection or test shows
+that the installation is incomplete or does not comply with the
+S.A.A. Wiring Rules or these Service Rules, a fee as determined
+by the Council, will be charged for every subsequent inspection
+necessary. (See Rule 21.)
+Damage to Council’s Equipment. Certain penalties are pre-
+scribed for damaging or interfering with the Council’s equip-
+ment. As a consumer may be held liable for damage to the
+Council’s equipment installed on his premises, such equipment
+should be covered by insurance.
+
+
+Compliance with S.A.A. Wiring Rules. An electric installa-
+tion will not be approved for connection to the Council’s mains
+if it is found not to comply with the Wiring Rules published by
+the Standards Association of Australia, which are known as the
+S.A.A. Wiring Rules, but as the Council’s inspection is made
+after the installation has been completed, and is therefore limited
+by the fact that much of the installation is included within the
+structure and is inaccessible to the Council’s officers, neither the
+inspection nor the subsequent connection of the installation can
+be relied upon as in any way giving an assurance of quality in
+the installation, or of its compliance with any Specification or
+with the Wiring Rules.
+
+
+TERMS AND CONDITIONS OF SUPPLY.
+The general conditions under which electricity will be
+supplied, for example, those relating to security deposits, pay-
+ment of accounts, guarantees of revenue, etc., are published
+separately in a document known as the “General Conditions of
+Supply.”
+A copy of this document may be obtained upon request,
+either in writing addressed to the General Manager, or by per-
+sonal application at the Inquiry Counter at the Council’s offices.
+RATES FOR SUPPLY OF ELECTRICITY AND
+HIRING OF APPARATUS
+Electricity is supplied by the Council at different rates for
+different purposes. Details of the rates and of the conditions
+attached to them are published in a separate document known
+as the “Schedule of Rates.” That document also includes the
+rates and terms for the sale and hire of apparatus and motors.
+A copy of the document may be obtained upon request,
+either in writing addressed to the General Manager, or by per-
+sonal application at the Inquiry Counter at the Council’s offices.
+
+
+SERVICE RULES
+SYSTEM OF SUPPLY, INSTALLATION OF SERVICES
+AND GENERAL REQUIREMENTS REGARDING
+LOADING AND BALANCING OF APPARATUS.
+(1) SYSTEM OF SUPPLY.
+(a) Particulars of Supply.
+(i) Alternating Current, 3 Phase, 50 Cycles, 415/240
+Volts.
+The electricity supplied by the Council is generally
+in the form of alternating current from a 415/240
+volt, 3-phase, 4-wire, 50-cycle system.
+(ii) Alternating Current, 3 Phase, 50 Cycles, High
+Voltage.
+Where large amounts of power are required, the
+Council may supply electricity at high voltage. In
+some cases, special rates are available when supply
+is taken at high voltage.
+(See Rule 38, page 57, for the conditions covering
+the installation of high voltage equipment.)
+(iii) Direct Current, 3 Wire, 480/240 Volt.
+In portions of the central part of the City of Sydney,
+electricity is supplied in the form of direct current
+from a 3-wire 480/240 volt system. The area in
+which the supply may be in the form of direct cur-
+rent extends from Dawes Point to Circular Quay on
+the north, to Central Railway Station on the south,
+and from Darling Harbour on the west, to Mac-
+quarie Street, College Street and Wentworth Avenue,
+on the east.
+The direct current supply system is being replaced
+by an alternating current system. This change will
+require some years to complete.
+
+
+In order to obviate inconvenience and expense when
+the supply system is changed, installations for direct
+current must be arranged in such a manner that they
+may be converted for use with alternating current
+with as little alteration as possible. The appliances
+to be connected should be suitable for use with either
+direct or alternating current. Before any other types
+of appliances are connected to an installation sup-
+plied with direct current, the Council should be
+consulted. Unless this is done, the Council will not
+accept any responsibility for the conversion of the
+appliance to make it suitable for use on alternating
+current. If there is any doubt as to the form of
+supply in particular premises, inquiry should be
+made at the offices of the Council.
+(b) Earthing of Supply System.
+The neutral conductors of both the D.C. and A.C.
+supply systems are earthed at the source of supply. It
+follows that the method of control required for installa-
+tions connected to the Council’s system is that set out in
+S.A.A. Wiring Rule 221. S.A.A. Wiring Rule 222 does
+not apply to installations connected to the Council’s
+system.
+For information regarding the earthing of consumers’
+installations, see Rules Nos. 36 and 37, pages 55 and 57
+of these Service Rules.
+(2) BALANCING OF LOAD AND LIMITATIONS OF THE
+LOADING OF APPARATUS.
+(a) Balancing of Installations. In an installation or separ-
+ately metered portion of an installation supplied from
+more than one phase, the loading shall be balanced as
+nearly as practicable over the phases, and, in any case,
+shall be so balanced that the current in any active con-
+ductor shall not normally exceed that in any other
+active conductor by more than 25 amperes.
+(b) Balancing of Apparatus—General. In an appliance,
+sign, or decorative lighting installation supplied from
+more than one phase, the loading shall be balanced
+as nearly as practicable over the phases, and, in any case,
+
+
+the current in any phase shall not exceed the current
+in any other phase by more than 15 amperes.
+Although this Rule sets out the maximum rating ol
+equipment which may be connected between one phase
+and neutral, no objection will be raised to balancing that
+equipment over two phases and neutral where, for other
+reasons, two phases of the supply are provided. In the
+same way, no objection will be raised to balancing any
+piece of equipment over three phases where, for other
+reasons, a 3-phase supply is provided. However, two
+phases of the supply will not be provided merely for the
+connection of apparatus which, in accordance with these
+Rules, may be connected to a single phase, nor will three
+phases be provided merely for the connection of appara-
+tus which, in accordance with these Rules, may be con-
+nected to a single phase or two phases of the supply.
+NOTE: In these installations connected to the Council’s
+Direct Current system, equipment which, in accordance with
+this Rule, would otherwise be connected to a 2-wire, 240-volt
+A.C. supply, may be connected to a 2-wire 240-volt D.C.
+supply. In all other cases, the equipment must be connected
+to a 3-wire, 480-volt D.C. supply.
+(c) Balancing of Individual Appliances, Signs, and Decora-
+tive Lighting Installations. An individual appliance
+(other than one of those dealt with specifically in the
+following Sub-Clauses of this Rule), a decorative light-
+ing installation, or a sign which is designed to operate
+at 240 volts:
+(i) May, if its rating does not exceed 20 amperes, be
+connected between one phase and neutral.
+(ii) May, if its rating does not exceed 40 amperes, be
+balanced over two phases and neutral.
+(iii) Must, if its rating exceeds 40 amperes, be balanced
+over three phases and neutral.
+(d) Large Single Phase Apparatus (other than Welding
+Apparatus), such as X-Ray Apparatus, Single Phase
+Furnaces, etc. The Council reserves the right to refuse
+to connect, in certain areas, single phase apparatus
+having rapidly fluctuating loads.
+
+
+Single phase apparatus in which, under any conditions,
+the maximum current which may be drawn from the
+mains exceeds 15 amperes at 240 volts (3.6 kVA) must
+not be connected between active and neutral conductors.
+Such apparatus must be connected across two phases
+(415 volts).
+Single phase 415-volt apparatus in which the maximum
+loading, under any conditions, exceed 18 kVA, will be
+connected only by special arrangement whereby the
+consumer may be required to bear the cost of providing
+special mains and a separate service.
+In laying down the conditions which will apply to any
+particular case of single phase 415-volt apparatus with
+a loading exceeding 18 kVA, the Council will take into
+account the maximum instantaneous rating of the
+machine and the characteristics of the load, that is to
+say, whether it is a steady load or a fluctuating load.
+(e) Welding Apparatus. The Council reserves the right to
+refuse to supply electricity from the general supply
+mains to any electric welder, and no expense should be
+incurred by any consumer or prospective consumer until
+application has been lodged with the Council and advice
+has been received that the supply will be given and
+upon what terms and conditions it will be given.
+The Council reserves the right to discontinue the supply
+of electricity to any electric welder, the use of which, in
+the opinion of the General Manager, may cause or is
+causing interference with the supply to any other con-
+sumer. (See Rule 39 on page 59 of these Service Rules.)
+Welding apparatus in which, under any conditions, the
+maximum current which may be drawn from the mains
+exceeds 15 amperes at 240 volts must not be connected
+between active and neutral conductors.
+Single-phase arc welders (for connection to two active
+conductors, 415 volts) exceeding a rating of 10 kVA,
+and three-phase arc welders exceeding a rating of
+30 kVA, in accordance with A.S.S. C 97, and other
+types of welding apparatus in which, under any condi-
+tions, the maximum momentary current which may be
+
+
+drawn exceeds 40 amperes per phase (i.e., line current)
+may be connected only by special arrangement with the
+Council, whereby the consumer may be required to
+bear the cost of providing special mains and a separate
+service.
+In certain circumstances, where premises are supplied
+directly from a substation or from a large service, the
+General Manager may agree to welding apparatus, draw-
+ing currents in excess of those laid down above, being
+connected to the general service. Consideration will
+be given to such special conditions only upon receipt
+of a written request to the General Manager.
+Three-phase to single-phase conversion transformers will
+not be connected, but single-phase loads may be bal-
+anced on a three-phase transformer. The Council, how-
+ever, will not make a three-phase supply available
+merely to facilitate the use of such a transformer.
+(f) Cooking Ranges. A cooking range having a total
+rating not exceeding 41.7 amperes (10 kW) may-be con-
+nected to one phase and neutral.
+Ranges having a rating exceeding 41.7 amperes must be
+arranged for connection to three phases and neutral.
+(g) Commercial Cooking Equipment. Commercial cooking
+equipment used for the cooking and serving of food
+and processes incidental thereto, having a rating not
+exceeding 25 amperes, may be connected to one phase
+and neutral; that having a rating not exceeding 50
+amperes may be connected to two phases and neutral.
+(h) Water Heaters (Instantaneous Type). The rating of
+water heaters of the instantaneous type must not exceed
+the following—
+(i) For single phase 240 volts A.C., or for 240 volts
+D.C., 15 amperes;
+
+
+(ii) For three phase 415 volts A.C., or for 480 volts D.C.,
+18 amperes per phase or per outer.
+The current in one phase must not exceed by more
+than 10 per cent, the current in any other phase.
+(See Rule No. 33, page 54, regarding Electrode Type
+Water Heaters.)
+(i) Playing Areas. Installations for illuminating a tennis
+court, bowling green, or other playing area, the total
+ratings of which do not exceed 20 amperes, may be con-
+nected to one phase and neutral. Where the total rating
+exceeds 20 amperes, but does not exceed 40 amperes,
+the installation may be balanced between two phases
+and neutral. Where the total rating exceeds 40 amperes,
+it must be balanced between three phases and neutral.
+Where 2 or 3 phases of the supply are provided, the
+requirements of this Clause must apply to each indivi-
+dual court, green, or separately switched portion of the
+installation.
+(j) Motors.
+(i) Single Phase Motors. Single phase 240 volts A.C.
+motors have full load ratings of not more than
+15 amperes may be connected to one active conduc-
+tor and neutral. Motors of this type having larger
+ratings may not be connected.
+(See Rule 30, page 51, for the permissible starting
+currents of single phase alternating current motors.)
+(ii) Three Phase Motors. No upper limit is placed on
+the size of three phase alternating current motors.
+The Council, however, will not, without charge,
+provide a three phase supply merely to supply small
+3-phase motors rated at 1 h.p. or less unless, in any
+separately metered portion of an installation, the
+total rating of motors is 3 h.p. or more.
+(iii) Direct Current Motors. Direct current motors rated
+at less than 3 h.p. may be connected to one outer
+and the neutral conductor (240 volt circuit). Direct
+current motors rated at 3 h.p. or more must be
+arranged for connection to two outer conductors
+(480 volts).
+
+
+2-wire
+3-wire
+4-wirc
+Service
+Service
+Service
+Clause
+EQUIPMENT
+(Amps.)
+(Amps.)
+(Amperes)
+Max.
+Max.
+Min.
+Max.
+(c)
+General — Individual Pieces
+of Equipment
+20
+40
+—
+—
+(o
+Range — Total Rating
+41.7
+—
+over 41.7
+(g)
+Commercial Cooking Equipment
+25
+50
+—
+—
+00
+Wash Boiler
+20
+40
+—
+—
+(c)
+Individual Off - Peak Water
+Heaters
+15
+30
+—
+—
+0)
+Groups of Off - Peak Water
+Heaters in one Installation
+15
+30
+—
+—
+(i)
+Tennis Court and other Light-
+ing Installations
+20
+40
+—
+—
+OD
+Instantaneous Water Heaters
+15
+3 phase
+18 Amps,
+per phase
+(d), (e)
+X-Ray, Spot Welders, and
+similar equipment (Max.
+3 phase
+inst. input)
+15
+—
+1 phase
+415 V.
+40
+415 V.
+40 Amps,
+per phase
+(e)
+Arc Welders (Max. inst. in-
+30 kVA
+put) (Thermal kVA)
+15
+50
+—
+lOkVA
+0)
+Single Phase Motors
+15
+—
+•—
+Ci)
+Three Phase Motors
+—
+—
+Above
+—
+—
+1 h.p.
+(k) Wash Boilers. Wash boilers rated at not more than 4.8
+kilowatts (20 amperes) may be arranged for connection
+to one active and neutral conductor (240 volt circuit).
+(l) Off-Peak Storage Water Heaters. Individual off-peak
+storage water heaters may be connected as set out under
+clause (c) of this Rule.
+If the aggregate rating of all off-peak storage water
+heaters connected to a service does not exceed 15
+amperes, all heaters must be connected between one
+phase and neutral. If the aggregate rating of all such
+heaters connected to a service exceeds 15 amperes, but
+does not exceed 30 amperes, they must be balanced
+over two phases and neutral.
+If the aggregate rating of all such heaters connected to
+a service exceeds 30 amperes, they must be balanced
+over three phases and neutral.
+SEE SPECIAL NOTE TO RULES 2 AND 3 AT END OF
+RULE 3.
+NOTE: The requirements set out in this Rule are sum-
+marised in the table below—
+Rating of Equipment which may be connected to
+A.C. Services.
+
+
+(3) METHOD OF DETERMINING TYPE OF SERVICE
+AND NUMBER OF METERS TO BE INSTALLED.
+(a) General.
+The number of phases to which an installation is to be
+connected and through which it will be metered shall
+be determined in the manner set out in Clauses (b)
+and (c) below.
+Where a portion of an installation for a particular
+customer or for supply at any particular rate is to be
+separately metered, it shall be arranged for connection
+to the same number of phases or outers as it would if
+supplied as a separate installation. However, in the
+case of large buildings of three floors or more, where
+many separately metered portions of the installation are
+supplied from one service and the loading of the
+installation as a whole can be balanced in accordance
+with Rule 2 (a), and none of the equipment will, in
+accordance with Rule 2, require two or three phase
+supply, then the Council MAY agree to allow all the
+separately metered portions of the installation on each
+floor to be connected to one and the same active
+conductor.
+(b) Determination by Rating of Individual Apparatus.
+Notwithstanding the total loading of the installation,
+the number of phases to which an installation is to be
+connected may depend on the rating of individual
+apparatus. Accordingly, if the requirements of Rule 2
+make it necessary to instal a 4-wire three phase A.C.
+service, the type of service is thus determined and it is
+not necessary to consider the requirements of Clause (c)
+of this Rule. If, however, the particular apparatus
+to be used may, in accordance with Rule 2, be con-
+nected to a 3-wire, two phase or 2-wire, single phase
+service it will be necessary to calculate the nominal
+loading of the service as set out in Clause (c) of this
+
+
+Rule and the type of service will then be determined
+by whichever method requires the greater number of
+phases.
+(c) Determination by Aggregate Rating of all Equipment—
+Calculation of the Nominal Loading of the Service.
+The total nominal loading of the service, calculated in
+terms of amperes at phase to neutral voltage, shall be
+taken to be the sum of the quantities determined under
+the following items (i), (ii), (iii), (iv) and (v) or the
+quantity determined under (vi), whichever is the greater.
+(i) Cooking Apparatus in—One-half of the rating,
+private residences.
+(Single or multiple
+premises.)
+(ii) Permanently connected —Total rating,
+lamps and apparatus
+other than cooking ap-
+paratus in private resi-
+dences and apparatus
+restricted to supply at
+Stored Heat Rate “off-
+peak” hours.
+(iii) General purpose out—l 2 amperes per single
+lets in premises and por- residence or sub-division,
+tions of premises used
+solely as private resi-
+dences, including those
+sub - divided with
+separate metering.
+(iv) General purpose out —2 amperes for each
+lets. In premises used general purpose outlet
+for residential purposes supplied through the
+other than those men- service, with a minimum
+tioned in (iii) above, of 8 amperes.
+and in all premises or
+portions of premises
+used for other than
+residential purposes.
+
+
+(v) Plug sockets other than—7s% of full rating of
+general purpose outlets, all outlets.
+(vi) Water heaters and ther—When the aggregate rat-
+mal storage space heat- ing of the “off-peak”
+ers supplied only at apparatus is less than the
+Stored Heat (“off-peak” sum of items (i), (ii), (iii),
+hours) through the ser- (iv) and (v) above: NIL.
+vice. When the aggregate rat-
+ing of the “off-peak”
+apparatus is greater than
+the sum of items (i), (ii),
+(iii), (iv) and (v) above:
+TOTAL RATING. Un-
+der these conditions, the
+loading determined for
+item (vi) becomes the
+nominal loading of the
+service and items (i),
+(ii), (iii), (iv) and (v)
+may be ignored. (This
+must not be taken to
+exempt off-peak appara-
+tus from Rule 2 (b) or
+2 (c).)
+When the nominal loading of the service has been calculated
+in the foregoing manner, the following schedule will be
+applied to determine the type of service to be installed;
+Calculated Nominal Loading Type of Service
+Not exceeding 55 amperes —2 wire (one active con-
+ductor and neutral)
+Exceeding 55 amperes but —3 wire (two active con-
+not exceeding 110 amperes ductors and neutral)
+Exceeding 110 amperes —4 wire (three active con-
+ductors and neutral)
+
+
+SPECIAL NOTE TO RULES 2 AND 3.
+The requirements set out in Rules 2 and 3 are those
+applicable generally. However, in certain outlying areas, par-
+ticularly in the Shires of Sutherland and Hornsby and the
+Municipality of Bankstown and in certain other circumstances,
+it may be necessary to vary these requirements. Applicants for
+supply to large apparatus or for supply in outlying portions
+of these areas or where several premises are to be supplied
+through a common line should, therefore, make enquiries before
+proceeding with any work.
+(4) SUPPLY TO LARGE INSTALLATIONS.
+In order to supply large installations, it is sometimes neces-
+sary for the Council to instal a transformer sub-station
+within the consumer’s building or premises. This need
+generally arises if the maximum demand of the installation
+is likely to exceed 350 amperes per phase (252 kVA).
+If it is necessary for the Council to increase the capacity of
+its works in order to supply electricity to any building or
+premises, and if, in the opinion of the General Manager,
+such supply can best be given by installing transformers,
+switchgear, and other apparatus on the premises which are
+to be supplied, the Council shall not be required or com-
+pelled to provide a supply of electricity to that building or
+those premises unless and until the consumer has provided,
+free of cost to the Council, a suitable space and an approved
+enclosure within the building or premises to accommodate
+the mains, transformers, switchgear, cut-outs, and other
+equipment which, in the opinion of the General Manager,
+are necessary to provide the supply to the building or
+premises. The Council shall have the right to use all such
+equipment installed by it in accordance with the foregoing
+paragraph, not only for the supply of electricity to the
+building or premises in which it is installed, but also for the
+supply to other buildings and premises, subject to the
+requirements of the consumer first being met, and the
+
+
+Council shall also have the right to instal additional equip
+ment for the supply to other premises; provided that if the
+consumer is put to expense by reason of the Council’s exer-
+cising its right to supply electricity to other buildings or
+premises from that equipment, or if the consumer is required
+to allot a greater space in the building or premises than
+would be necessary to provide means to supply that building
+or those premises alone, compensation shall be paid by the
+Council to the consumer in an amount and in a manner
+agreed upon between the parties, or, failing an agreement,
+the amount of compensation and the manner of its payment
+shall be settled by arbitration in accordance with the Arbi-
+tration Act, 1902.
+(See Rule 5, below, regarding Installation of Service Lines
+and Underground Service Cables.)
+(5) SERVICE LINES AND CONSUMERS’ LINES
+(a) General. The consumer shall bear the cost of installing
+and maintaining excess service mains (see Clause (c)
+below), the consumer’s line, and the supports on private
+land for the service line and consumer’s line.
+(b) Point of Attachment. The Council will determine the
+route of the service line and consumer’s line and the
+position of the point of attachment. A charge may be
+made to the consumer if the installation of the service
+line to a point of attachment other than that selected by
+the Council involves the Council in greater cost. The
+Council will not accept responsibility for damage to the
+premises resulting from normal tension in the service
+line or causes beyond the Council’s control.
+(c) Installation of Service Line. Except where the consumer
+takes his supply of electricity directly from a substation
+within or adjoining his premises, the service line will
+be supplied, fixed, and maintained by the Council. A
+charge will be made for the work if:
+(i) The service line extends more than 25 feet from the
+point where it crosses the street alignment in the
+case of an underground service, or the length of one
+
+
+span (not exceeding 75 feet from the point where it
+crosses the street alignment) in the case of an over-
+head service. Provided that in the case of single
+domestic premises the first span shall be installed
+without charge;
+or
+(ii) The service line or consumer’s line is terminated at
+some point other than that selected by the Council
+and which involves the Council in greater cost in
+installing the service;
+or
+(iii) The service is “temporary” or “additional.” (See
+Rules 8 and 9, pages 32 and 34.)
+In each of these three cases, the consumer will be
+required to pay the additional cost of the service line
+and consumer’s line.
+In the case of a consumer who takes a supply of elec-
+tricity directly from a substation within or adjoining his
+premises, the high voltage service line or service cable
+will be installed under the conditions set out in (i) and
+(ii) above, but the consumer will be required to bear the
+whole cost of, or to provide, the low or medium voltage
+mains on his land from the substation enclosure to the
+consumer’s switchroom, irrespective of the position of
+the substation in relation to the street alignment, except
+that, where the switchroom immediately adjoins the
+substation and the mains are in the form of busbars, a
+charge will not be made where the length of these mains
+external to the substation does not exceed 3 feet.
+(See Clause (e) on page 24 regarding Installation of
+Consumers’ Lines.)
+(d) Facilities for the Connection of Service Lines and Con-
+sumers’ Lines. Where the Council’s service line is to be
+connected to a consumer’s line, the consumer shall pro-
+vide adequate loops of cable to enable the Council’s
+officers to make the connection.
+When the Council’s service line is to be connected to
+the consumer’s mains at the point of attachment, the
+consumer shall provide adequate tails in the consumer’s
+mains to enable the Council’s officers to make the con-
+nection to the service lines, except that, if the consumer’s
+mains commence in an overhead line connector box or
+similar device, in which a separate entry port is provided
+
+
+for each conductor of the service line, and if that con-
+nector box is mounted within two feet of every con-
+ductor of the service line, the Council will, except in the
+cases covered by the paragraph after next, leave tails of
+the service wires of sufficient lengths to go directly into
+that connector box and will make those connections.
+If the overhead line connector box does not provide a
+separate entry port for each incoming cable, or if that
+box is mounted more than 24 inches from any of the
+conductors of the service line, the consumer will be
+required to provide rubber insulated weatherproof
+cable installed in accordance with the S.A.A. Wiring
+Rules and of sufficient length to permit the connections
+from the service wires to the connector box to be made
+by the Council’s officer, with adequate drip loops.
+NOTE that Rule 25, page 50, requires that the overhead
+line connector box shall be within three feet (3 ft.) of
+each conductor of the service line or consumer’s line.
+Notwithstanding the foregoing paragraph, where new
+connections are to be made to existing service lines, on
+which adequate tails do not exist, where a service rated
+in excess of 200 amperes is to be installed, or where two
+sets of consumer’s mains are to be connected to one set
+of service wires, the consumer must provide cable for
+the necessary connections to the existing conductors.
+If the overhead line connector box does not provide a
+separate entry port for each cable, the cable shall be
+rubber insulated and weatherproofed, but if the over-
+head line connector box provides a separate entry port
+for each cable, the cable may be rubber insulated
+weatherproofed cable, or it may be aerial cable comply-
+ing with Part II of the S.A.A. Wiring Rules.
+(See Rule 6, page 26, regarding “Facilities for the Con-
+nections of Service Fuses.”)
+(e) Installation of Consumer’s Line—S.A.A. Wiring Rule
+331 (h). The consumer’s line installed by or on behalf
+of the consumer must comply with S.A.A. Wiring Rule
+
+
+Free
+Length
+of Post
+2 x 7/0.044
+3 x 7/0.044
+4 x 7/0.044
+4 x 7/0.064
+4 x 7/0.083
+4 x 19/0.052
+4 x .19/0.064
+4 x 19/0.083
+4 ft.
+5 ft.
+6 ft,
+9 ft.
+12 ft.
+15 ft.
+18 ft.
+21 ft.
+3" X 3"
+3" x 3"
+3" x 3"
+4" x 4"
+4" x 4" ♦
+5" x 5"
+6" x 6"
+tPole (10"x6")
+3" x 3"
+3" x 3"
+3" x 3" *
+4" x 4"
+5" x 5"
+5" x 5" •
+6" x 6"
+tPole (10"x6">
+3" x 3"
+3" x 3" *
+4" x 4"
+4" x 4" •
+5" x 5"
+6" x 6"
+6" x 6" *
+tPole (10"x6">
+4" X 4"
+4" x 4"
+4" x 4" •
+5" x 5"
+6" x 6"
+6" x 6" *
+tPole (10"x6")
+tPole dl"x6Vi")
+4" x 4"
+4" x 4" *
+5" x 5" ♦
+6" x 6"
+6" x 6" *
+tPole (10"x6")
+tPole (I0"x6")
+tPole (12"x7")
+Posts marked * are to be stayed by means of G.I. Stay Wire,
+t Pole (10" x 6") means Pole with butt diameter of 10" and head diameter of 6".
+331, and, in addition, must comply with the following
+requirements:
+(i) Minimum Size of Conductor: The conductors must
+not be smaller in cross-sectional area than the con-
+ductors of the Council’s service line to which they
+are connected; in addition, the drop in voltage along
+any conductor of the consumer’s line must not exceed
+three volts when it is carrying the maximum current
+it will be required to carry.
+(ii) Spacing of Conductors: The spacing between aerial
+conductors must not be less than 15 inches.
+(iii) Supporting Posts and Cross-Arms: Supporting posts
+and cross-arms for consumer’s lines must comply
+with Clause (f) below if of wood. If of other
+material, must be of equivalent strength to that
+specified for wood, and shall be specially approved.
+(f) Posts and Cross-Arms for Service Lines and Consumer’s
+Lines.
+(i) Terminal or Angle Posts. Posts erected on con-
+sumer’s premises for the termination of or at angles
+in a service line or consumer’s line shall be of hard-
+wood and shall have cross-sectional dimensions not
+less than those shown in the following table for the
+appropriate conditions:
+(ii) Intermediate Posts. Intermediate posts in a straight
+section of the line must be of hardwood and must
+
+
+Number of Wires
+Supported
+Free Length of
+Post
+Cross-Sectional
+Dimensions of Post
+2 or 3
+Up to 6 ft.
+3" x 3"
+2 or 3
+6 ft. to 12 ft.
+4" x 4"
+2, 3. or 4
+Up to 12 ft.
+4" x 4"
+2, 3, or 4
+12 ft. to 18 ft.
+5" x 5"
+2, 3, or 4
+Over 18 ft.
+t Pole (10" x 6")
+t Pole (10" x 6") ir
+cans Pole with butt diameter of 10
+' and head diameter of 6".
+have cross-sectional dimensions not less than the
+following:
+(iii) Cross-Arms. Cross-arms to support service lines or
+consumer’s lines shall be of hardwood of not less
+than Sin. x Sin. section, and shall be securely fastened
+to the supporting post by galvanised bolts and
+checked or braced.
+(iv) Hardware. Hardware used on service posts must be
+hot-dipped galvanised.
+(6) SERVICE FUSES.
+Service fuses will be supplied and fixed by the Council and
+shall remain its property. The Council reserves the right
+to replace the fuses with links or a circuit breaker or to
+dispense with them altogether.
+The service fuses will be fixed in a position determined by
+the Council. Suitable space must be made available by the
+consumer for the fixing of the service fuses in an accessible
+position such that work may be readily and safely carried
+out on the fuses. The consumer shall ensure that these
+conditions are maintained and if they are not so maintained,
+the consumer will be required to restore the original con-
+ditions or to pay all costs involved in moving the service
+fuses to a suitable position.
+The consumer must provide adequate loops in the con-
+sumer’s mains for the connection of the service fuses, but
+such connection shall be made only by officers of the Council.
+The Council will instal the service fuses on a floor above or
+below the street level only in exceptional circumstances, and,
+in the case of a public building or sub-divided premises, such
+as flats, where only one service is installed for the whole of
+the building, provision must be made for a suitable position
+at or near a public entrance where the fuses will be
+accessible to the Council’s officers at all times.
+The position in which the service fuses are installed is not
+necessarily the position in which the meters will be installed.
+(See also Rules 10 to 18 (inclusive) for the connection and
+location of meters.)
+
+
+(7) MOUNTING OF SERVICE AND METERING
+EQUIPMENT.
+(A) GENERAL PRACTICE.
+(i) Information on General Practice.
+For all installations, other than Single Domestic
+installations covered by Section (B) of this rule, the
+Council will provide and erect a wooden service and
+meter board (or boards) mounted on battens which
+have been supplied and securely fastened by the cus-
+tomer in the appropriate position. Unless specifically
+agreed to by the General Manager, service and meter-
+ing equipment will not be mounted upon the customer’s
+switchboard or on boards of switchboard panel type
+material provided by the customer.
+The requirements applicable to this “general” type
+of service and meter arrangement are set out in sub-
+clause (ii) of this rule.
+The Council’s service fuses, neutral link, meters
+and other associated metering equipment will be
+mounted on the front of the service and meter board
+or boards. The size, number and arrangement of boards
+will depend upon the number of phases of supply to be
+provided, the current rating of the service fuses and
+the number of meters, current transformers, time
+switches and other equipment necessary to meter and
+regulate the supply at the various rates to be applied.
+Where meters are mounted on two or more boards
+above one another, fillet strip boards (generally 4in.
+x 26in.w.) will be fitted between the meter boards to
+provide access to the wiring behind the boards.
+In each case, when application is made for supply,
+an officer of the Council will visit the premises to
+determine the metering arrangements and the customer
+will be notified of the position selected for the location
+of the meters, details of the battens to be fixed, size
+of service and meter board (or boards) which will be
+installed and the overall space, including clearance
+space, which must be provided for the equipment.
+The customer will also be supplied with this informa-
+tion when, as a result of an application for additional
+supply or because of alterations to be made, it will be
+necessary to increase the number of phases of supply,
+increase the rating of service fuses and/or alter the
+metering arrangement.
+The service and meter boards to be used for the
+general arrangement will be determined by the Council
+and will consist of one or more of the following sized
+27
+Rule 7.
+
+
+boards, viz. 18in. x 2lin.w., 18in. x 12in.w., 12in. x
+21in.w., 12in. x 26in.w., 20in. x 26in.w. and 4in. x
+26in.w.
+Service Fuses rated at 70 Amperes: For installations
+having maximum demands up to approximately 50
+amperes per phase the Council’s service fuses will
+generally be 70 ampere H.R.C. fuses. However, in the
+case of small factory and commercial installations,
+inquiries should be made at the Council’s offices before
+assuming that 70 ampere service fuses will be installed
+as, where expansion is possible, 100 ampere service
+fuses may be installed.
+The 70 ampere service fuses will be enclosed in
+metal boxes which are mounted on the front of the
+service board. In some cases, a board other than the
+one to which the meters are fixed may be used for
+this purpose.
+Service Fuses rated at 100 Amperes: 100 ampere
+H.R.C. service fuses will be used where these are
+justified by the service loading or where the customer
+has installed consumer’s mains larger than 19/0.044in.
+These fuses will be enclosed in metal boxes and
+mounted on the front of a board, other than that to
+which the meters are fixed. This “service” board will
+be spaced 2in. from the wall where no current trans-
+formers are used and the cables from the service fuses
+will pass across the face of the “service” board to the
+space behind the “meter” board which is generally
+mounted below it.
+Note: In special cases current transformers may be used
+to meter services which have 100 ampere service
+fuses. (See Rule 10 (c) (i) and (ii)-)
+Service Fuses rated at Over 100 Amperes: Service
+fuses which have ratings in excess of 100 amperes will
+be housed in a distribution service fuse cabinet (100/
+400 amperes) containing up to three service fuses and
+a neutral link in the one enclosure. At times, where
+expansion is possible, 100 ampere service fuses may be
+installed in a distribution service fuse cabinet. The
+service fuse cabinet will be mounted on an 18in. x
+21in.w. “service” board.
+Links: If links are to be installed they must comply
+with the Council’s Document on Metering Links and
+they must be of a type approved for the location. Links
+may be installed between the “service” board and the
+“meter” or “current transformer” board, and, if not
+arranged for front entry of cable, shall be mounted
+
+
+a suitable distance from the wall to allow access to the
+wiring. (See also Rule 14.) Where it is proposed to
+instal links on large services, further details should be
+obtained from the Council.
+(ii) Requirements Applicable to the “General” Type of
+Service and Meter Arrangement.
+Space Required for Service and Metering Equipment.
+In all cases, including recesses or boxes, space for
+the following shall be provided (in the case of recesses
+or boxes, the measurements refer to the inside dimen-
+sions of the lining of the recess or box): —
+(a) For 18in. x 12in.w. boards, if the board is mounted
+at the left side of the customer’s switchboard: lin. at
+top of board, Sin. at bottom of board, Sin. at left side,
+and no space at right side; a total space of 22in. x
+15in.w.
+For 18in. x 12in.w. boards, if the board is not mounted
+at the left side of the customer’s switchboard: lin. at
+top of board, Sin. at bottom of board, Sin. at left side
+and 2in. at right side; a total space of 22in. x 17in.w.
+For boards larger than 18in. x 12in.w., Sin. all round
+the Council’s board.
+(b) Additional space for the consumer’s equipment, if
+any.
+(c) In large installations, adequate space for fillet
+strips. (See Clause (A).)
+(d) 50A. Services. A depth of 9in. from the face of
+the battens upon which the board is to be mounted to
+the inside of the door of the box or to any other
+obstruction.
+Larger Services. The Council should be consulted as
+to the depth required.
+Provision for Battens for Mounting Boards.
+The consumer must supply and erect battens upon
+which the Council’s “service” boards and “meter”
+boards will be mounted. The conditions for the pro-
+vision of battens are:
+(a) Type of Battens and Method of Fixing.
+Two battens shall be erected vertically, one on each
+side of the board. The battens shall be so spaced that
+their outer edges will be in line with the outer edges
+of the board. The battens shall be of suitable softwood,
+D.A.R., and shall be securely fixed to the wall by
+means of wood or metal thread screws or by bolts.
+The fixing of battens to brick or concrete walls by
+
+
+means of screws driven into wooden wall plugs will
+not be acceptable. The fastening method used shall be
+of a type which permits easy removal of the battens.
+(b) Size of Battens.
+2in. x lin. battens mounted flat are required for 18in.
+x 12in.w. boards.
+Sin. x 2in. battens mounted on edge are required for
+18in. x 21in.w. boards for distribution service fuse
+cabinets.
+2in. x 2in. battens are required for all other boards.
+(c) Length of Battens.
+In all cases the customer will be advised of the lengths
+of battens to be provided and fixed by him.
+Note: If conduits, pipes or other obstructions pass be-
+hind or are located behind “service” and “meter”
+boards, the depth of battens to be provided must
+be increased by an amount at least equal to the
+distance the conduit pipe or obstruction project
+from the wall.
+(B) DOMESTIC SERVICE AND METER BOARD.
+(i) Information on Domestic Service and Meter Board
+Practice.
+For single domestic installations requiring one, two
+or three phase supply and having demands of up to 55
+amperes and where the consumer’s mains conductors
+are not in excess of 7/0.064in., a domestic standard
+board 12in. by 18in. wide will be used, mounted on
+an approved metal surround having overall measure-
+ments of 12|in. by 18|in.; the metal surround being
+supplied and fixed by the customer.
+The domestic standard board will carry the Council’s
+meters, service fuses and other equipment and it will
+be attached to the metal surround by means of a special
+hinging device. The standard board, hinging devices
+and other accessories will be supplied and fixed to the
+surround by the Council. The Council will also supply
+and fix the service fuses, neutral link, meters, time
+switches, etc.
+Metal surrounds for mounting the Council’s Domes-
+tic Standard Service Board must comply with the
+Council’s design and must have been approved by the
+Council. Approved surrounds will bear an adhesive
+identifying label on which will be printed the Council’s
+crest and the words “Approved Service Board Mount-
+ing”.
+
+
+Enclosure of Domestic Standard Service and Meter
+Board—Approved “Compact” Weatherproof Box.
+The Domestic Standard Service and Meter Board
+may be enclosed in an approved “Compact” weather-
+proof box. “Compact” weatherproof boxes have been
+specially designed to incorporate the approved metal
+surrounds for the Domestic Standard Service and Meter
+Board. The metal surround will be mounted on rails
+which are incorporated in the “Compact” box near the
+top, and so arranged that it may be slid forward to
+bring the back of the service board in line with the
+front edges of the box when officers of the Council are
+working on the equipment.
+“Compact” weatherproof boxes will be 23|in. high
+by 19|in. wide by 11 in. deep when closed. (There may
+be slight variations to these dimensions according to
+the manufacture.) A space of approximately 9in. high
+by 19in. wide will be provided in the lower portion
+of the box to accommodate the customer’s switch-
+board. The lid of the box will be at least deep
+and hinged at the top in a manner that permits easy
+removal of the lid from a position in front of the box.
+An approved “Compact” weatherproof box may be
+mounted on, or recessed into exterior walls and no
+additional clearance space will be necessary except that
+a clearance of at least 3in. between the side of the box
+and any return wall will be necessary if the box is
+mounted in a corner.
+As for surrounds, “Compact” weatherproof boxes
+must be approved by the Council and must bear an
+adhesive label similar to that described above the
+approved metal surrounds.
+Space Required for Domestic Standard Service Board
+in Confined Spaces or Other Enclosures.
+The surrounds for Domestic Standard Service Boards
+installed in confined spaces or enclosures, other than
+“Compact” weatherproof boxes, must be so located as
+to provide clearances for meter adjustments, sealing,
+etc., between the surround and any obstructions or
+enclosures as laid down in sub-clause (ii) below.
+(ii) Requirements Applicable to the Domestic Service and
+Meter Board.
+Provision and Fixing of Approved Surround.
+The approved metal surround shall be supplied and
+fixed by the customer in the position selected by the
+Council’s officer. The Council will accept, for the
+
+
+attachment of Domestic Standard Service and Meter
+Boards, only surrounds which have been approved by
+the Council and which bear an identifying label.
+The metal surround shall be fixed directly to the
+wall without the use of battens. If the surround is
+mounted on a wooden wall or the back of a wooden
+box, the wood on which the surround is mounted must
+be covered with incombustible material such as sheet
+metal or fibro-cement. The surrounds must be securely
+fixed to the wall by four wood or metal thread screws
+having large heads (or suitable washers) or by bolts.
+Such screws or bolts shall be not less than the equivalent
+of 10-gauge wood screws. The method used for fasten-
+ing the surround shall be such as to permit easy removal
+of the surround. The fixing of surrounds to brick or
+concrete walls by means of screws driven into wooden
+wall plugs will not be acceptable.
+No cables may be brought into or through the space
+behind the meter board except those cables which are
+connected to equipment on the meter board.
+Space Around Approved Metal Surround.
+A clearance of 1 inch shall be provided between the
+top of the surround and any obstruction which does
+not project beyond the face of the service board.
+A clearance of Sin. must be provided between the
+top and between each side of the surround and any
+switchgear, fuse or other obstruction which projects
+beyond the face of the service board.
+Approved “Compact” Weatherproof Box Approved
+Label Necessary.
+The Council will accept as a “Compact” weather-
+proof box for the enclosure of domestic service and
+metering equipment, only those boxes which have been
+approved by the Council and which bear an adhesive
+identifying label similar to that described above for
+approved metal surrounds.
+Mounting of “Compact” Weatherproof Boxes.
+“Compact” weatherproof boxes must be securely
+fastened by at least (4) four wood screws, metal thread
+screws or bolts having large heads or using suitable
+washers. Such screws or bolts shall be not less than the
+equivalent of 10-gauge wood screws. Fixing points may
+be in the sides or in the back of the box and they shall
+be well spaced to provide adequate support. Any other
+method of securing a box will be acceptable only if it
+has first been submitted to and approved by the General
+Manager.
+
+
+The fixing of “Compact” weatherproof boxes to
+brick or concrete walls by means of screws driven into
+wooden wall plugs will not be acceptable.
+Enclosure of Domestic Standard Service and Meter
+Board in Other Than a “Compact” Weatherproof Box.
+If the Domestic Standard Service Board is installed
+in a box or enclosure other than a “Compact” weather-
+proof box, a clearance of not less than Sin. at the top
+and Sin. at each side shall be provided between the
+surround and the side of the box or any other obstruc-
+tion which projects beyond the face of the board.
+If a box or other enclosure is fitted with a lid which
+is hinged at the top, such lid shall open at least 90°
+and a suitable support or device secured to the box
+shall be provided to secure it open in this position.
+This support must not obstruct access to the hinged
+service and meter board or its connections when the
+lid of the box is open. If the lid of a box or enclosure
+is of metal it shall be readily removable from the box.
+(C) ALTERATIONS OR ADDITIONS TO AN
+EXISTING INSTALLATION.
+If alterations or additions, which will entail the
+provision of additional metering equipment, are made
+to an existing installation, sufficient space for the
+additional service and meter board must be provided
+immediately adjacent to the existing service and meter
+board. Where necessary for the mounting of the board,
+battens must be supplied and erected by the customer
+in accordance with the foregoing conditions, provided
+however that, if the existing service and meter board
+is replaced by a board of different size, any battens
+necessary for the erecting of this board will be supplied
+and fixed by the Council.
+Similarly, where an alteration or addition entails
+the provision of an approved surround for a Domestic
+Service and Meter Board, the approved surround and
+any box or enclosure required must be supplied and
+fixed by the customer, provided that where the new
+Domestic Service and Meter Board is to be located in
+the same position as the existing board, the surround,
+supplied by the customer, will be fixed in position by
+the Council.
+
+
+(8) INSTALLATION OF TEMPORARY MAINS OR
+SERVICES.
+The cost of installing and dismantling a temporary service
+or temporary mains, including the cost of metering, will be
+charged to the consumer.
+An offer to pay the charges, written in a special form, or a
+deposit of the estimated cost of the Council’s work, includ-
+ing materials, will be required in all cases before the work
+is started.
+If it is later found that the whole or part of the Council’s
+work becomes part of a permanent service or main, the
+charge to the consumer will be adjusted.
+(9) INSTALLATION OF SPECIAL OR ADDITIONAL
+SERVICES.
+In general, the Council will instal only one service to supply
+one building or to supply any group of buildings occupied
+by one consumer. However, where a special or additional
+service is required by the consumer, and the Council agrees
+to instal that service, the consumer may be required to pay
+the total cost of installing the service, including the cost of
+materials and the cost of fixing additional meters. The
+consumer may also be required to pay rental for the addi-
+tional meters.
+Where two or more services are installed to supply any
+premises, the wiring shall be so arranged that the limits of
+the portions of the installation connected to each service are
+clearly defined. Unless the additional service is provided to
+supply specific equipment, the whole of the installation in
+any defined portion of the premises must be supplied from
+the same service.
+There shall be no interconnection between any services.
+Where a special or additional service is installed, the con-
+sumer may be required to label each of the services in the
+premises to indicate the presence and positions of the other
+services and the specific equipment or defined portion of
+the premises supplied through each service.
+34
+Rule 8.
+
+
+METERING
+(10) PROVISION AND INSTALLATION OF METERS
+AND TIME SWITCHES.
+(A) General. Meters and, where necessary, maximum de-
+mand indicators and other instruments, will be supplied
+and fixed by the Council and shall remain its property.
+The consumer shall provide facilities for the connection
+of meters and other instruments, but such connections
+shall be made only by officers of the Council.
+The connection facilities required will consist of loops
+of cable of length adequate for making the connections
+from the service fuses to the meters, and from the meters
+to the consumer’s main switches, links, etc., but in no
+case shall a meter loop be less than four feet in length.
+The particular conductors in which loops must be left,
+and other details regarding the meter connections, are
+set out in the following paragraphs.
+(B) Direct Current Supply. Direct current installations are
+metered by ampere hour meters and a loop must be
+provided in each active conductor. For certain rates a
+maximum demand indicator is connected in each active
+conductor, and the metering loop must be long enough
+to allow for this connection.
+(C) Alternating Current Supply. Alternating current instal-
+lations are metered by kilowatt-hour meters. These
+instruments require connections to both the active and
+neutral conductors. Details of the manner in which
+these connections are made are set out in Sub-Clauses
+(i) and (ii) below.
+(i) Direct Connected Instruments. Installations which,
+in the opinion of the Council’s officers, will have a
+maximum demand not exceeding 100 amperes per
+phase, will be metered by instruments connected
+directly to the consumer’s mains or to the sub-
+installation mains. Where direct connected in-
+struments are used, a loop must be provided in every
+active conductor to which a meter is to be connected.
+35
+Rule 10.
+
+
+In general, the main neutral conductor will be taken
+directly from the neutral service link to the con-
+sumer’s neutral link. The consumer must provide
+this cable and, in addition, must provide sufficient
+stranded cable not smaller than gauge 3/0.036 and
+not larger than gauge 7/0.036 to permit the making
+of connections from the neutral service link to each
+meter, or from the neutral service link to a connector
+box and from the connector box to each meter.
+Notwithstanding the foregoing, however, where all
+of the following conditions apply:
+(a) a 2-wire service is installed,
+(b) for any one service only one meter (or one
+meter and maximum demand indicator) is to be
+installed,
+(c) the cables are not larger than 7/0.044, both the
+active and neutral conductors will be taken into and
+out of the meter, and the consumer must provide
+adequate loops on both the conductors.
+(ii) Instruments Connected Through Current Trans-
+formers. Installations which, in the opinion of the
+Council’s officers, will have a maximum demand
+exceeding 100 amperes per phase approximately, will
+be metered by instruments connected to current
+transformers. In such installations the following
+facilities must be provided for metering. Where the
+current transformers are mounted immediately
+below the service fuses, the Council will provide the
+means of connection between the service fuses and
+the current transformers. In all other cases sufficient
+cable must be provided by the consumer for the
+connection of each active conductor between the
+service fuses and the current transformers. In all
+cases, a loop must be left in each active conductor
+leading from the installation to provide sufficient
+length of cable (or busbar which shall be adequately
+supported so that no strain is placed on the current
+transformer winding or terminal) for connection to
+the current transformers.
+A pair of cables having at least 250 volt grade insula-
+tion must be run from each current transformer to
+
+
+the corresponding meter. If the total distance be-
+tween the current transformer and the meter, mea-
+sured along the run of these cables, is not more than
+30 feet, the cables shall be of gauge 7/. 029 or larger,
+If the distance exceeds 30 feet but does not exceed
+75 feet, the cables shall be of gauge 7 / .036 or larger.
+Where the distance exceeds 75 feet or where special
+forms of metering are involved, the size and type of
+cables, and the manner in which they are to be in-
+stalled, shall be as determined by the Council. A
+cable known as a “potential wire” of gauge 3/.036
+must be run from the line side of the primary wind-
+ing of each current transformer to the meter position.
+Where the consumer’s installation is protected by an
+earth leakage circuit breaker, these “potential wires”
+must be doubly insulated (i.e., tough rubber sheathed
+or thermoplastic sheathed cable); in other cases they
+must have at least 250 volt grade insulation.
+Each active “potential wire” must be protected by a
+10 ampere fuse which will be supplied, fixed and
+sealed by the Council. Where the current trans-
+formers are fixed on a meter board, the Council will
+fix the fuses on that board. Where the current trans-
+formers are not fixed on a meter board, the consumer
+must provide a supporting insulated panel, suitable
+for fixing the fuses, in an accessible position near
+the current transformers. A cable of not less than
+gauge 3/.036 and 250 volt grade insulation must be
+run from the neutral service link to a connector box,
+and from the connector box to each meter. The
+Council will supply, fix, and connect the connector
+box, which will be fixed on the meter board.
+All wiring as required above, between current trans-
+formers and meters, shall be enclosed in conduit
+which shall not enclose any other conductors.
+NOTE: In installations, the maximum demand of
+which is expected to approach 100 amperes, the
+Contractor will not know whether direct connected
+instruments or current transformers will be used.
+In all such cases, therefore, the Contractor should
+inquire from the Council’s Installation Inspection
+Branch as to the method of metering.
+
+
+(D) Time Control of Installations Supplied During Re-
+stricted Hours.
+Where, in accordance with the provisions of any rate
+published by the Council, electricity is to be supplied
+only during certain hours, the Council will provide
+time control equipment as specified below so that
+electricity to be charged for at the rate may be used
+only during the hours specified in respect to that rate.
+The Council’s equipment may not be used as the con-
+sumer’s main switch; nor may it be used for providing
+any special control required by the consumer.
+The time control equipment supplied by the Council
+will be capable of controlling directly single-phase,
+two-phase or three-phase loads up to a rating of 30
+amperes per phase. Where the load to be controlled
+is in excess of 30 amperes per phase, an approved type
+of contactor must be supplied and installed by the
+consumer in a position adjacent to the metering
+equipment. This contactor will be controlled by the
+Council’s time switch or relay and provision must be
+made for sealing the contactor. The consumer shall
+provide the necessary wiring between the contactor
+and the Council’s time switch or relay.
+NOTE; In residential premises or in other types of pre-
+mises where noise may be objectionable, the contactor
+should be of the “noiseless” type.
+The space required for the Council’s time control
+equipment is as follows. It should be noted, particularly,
+that the space set out refers only to the Council’s time
+control equipment and is in addition to that required
+for the Council’s service and metering equipment and
+for any contactor or other equipment provided by the
+consumer.
+(1) Single phase installations, directly controlled—
+6in. wide x lOJin. high x Sin. deep.
+(2) Two and three phase installations, directly con-
+nected —12in. wide x lOfin. high x Sin. deep.
+(3) Large installations for which a contactor is to be
+supplied by the consumer—
+6in. wide x lOfin. high x Sin. deep.
+The space provided must be not less than that set out
+above. In all cases, “width” means horizontal line across
+
+
+the face of the board, “height” means vertical line, while
+“depth” means horizontal line at right angles to the
+face of the board.
+(11) LOCATION OF METERS.
+Metering instruments and current transformers will be fixed
+in a position approved by the Council, and usually will be
+connected between the service fuses and the consumer’s main
+control gear.
+Where the other conditions of these Rules regarding the
+location, accessibility, etc., of meters are fulfilled, the meters
+will, whenever possible, be erected on the same board as the
+service fuses.
+In special cases, the Council may agree to connect the meters
+on the load side of the consumer’s main control gear. In such
+cases, all the consumer’s switch and fuse gear connected on
+the supply side of the meters shall be of the enclosed type
+and suitable for sealing, unless, in the case of large installa-
+tions supplied through open busbars and an open type
+switchboard, permission is given by the Council for the
+exposure of unmetered conductors, under specified condi-
+tions in an approved location.
+NOTE: Spacing Between Meters and Current Carrying
+Conductors.
+The location of meters, conductors carrying heavy
+current, and associated gear, shall be so selected that
+the following spacing will be maintained between
+the meters and the conductors carrying currents of
+the following order:
+Up to 100 amperes; no special spacing.
+100-200 amperes—minimum spacing of meters
+from conductors; 2 feet.
+200-500 amperes—minimum spacing of meters
+from conductors; 3 feet.
+500-1000 amperes —minimum spacing of meters
+from conductors: 4 feet.
+1000-2000 amperes—minimum spacing of meters
+from conductors: 8 feet.
+When fixing current transformers and meters in a
+new installation, where it is reasonable to assume
+that the loading will be increased, the spacing of
+
+
+meters from conductors should be that correspond-
+ing to the ultimate load on the installation.
+The spacing set out above does not apply where the
+conductors are in the form of a 3-phase cable or
+where the conductors are enclosed in a steel or iron
+conduit or pipe.
+(12) ACCESSIBILITY OF METERS.
+(a) Space. Suitable space must be made available for the
+Council’s meters in a position readily accessible to its
+officers for fixing, reading, testing, adjusting and re-
+moving them without difficulty. In any case the space
+between any wall on which metering equipment is
+mounted and any obstruction shall not be less than
+3 feet. However, where the metering equipment is
+recessed into a wall, this distance may be less, provided
+that all other requirements of this rule are met. Where
+metering equipment is enclosed in a box, the clear
+space in front of the enclosure shall be sufficient for
+the lid or door of the box to be readily opened or
+removed as required by Rule 13.
+(b) Height. Except as otherwise approved by the General
+Manager the metering equipment will be so fixed that:
+(i) in single domestic premises the top of any metering
+instrument is not more than 6 feet and not less
+than 4 feet above ground or floor level.
+(ii) in other than single domestic premises the top of any
+metering instrument is not more than 8 feet and
+not less than 2 feet 6 inches above ground or floor
+level.
+(c) Access. In general the position of any meter must be
+such that the Council’s officers can gain access to it
+without having to obtain a key, but objection will not
+be raised to the metering equipment being located
+within business premises which will always be open
+during ordinary business hours.
+In private residences, meters will be fixed in such
+positions that they will be readily accessible without
+the Council’s officers having to enter rooms, enclosed
+verandahs or any other structures with doors or gates
+which may be locked during the occupier’s absence.
+Any elevated floors or platforms used to provide access
+to metering equipment shall be substantial and per-
+manent and shall be fitted with a railing where con-
+sidered necessary. Access to such elevated positions
+shall be provided by an approved fixed stairway and
+handrail.
+
+
+The customer shall ensure that access to the metering
+equipment as required in the foregoing paragraphs
+is not subsequently restricted. If access is so restricted
+the customer will be required to pay the cost involved
+in moving the meters to an accessible position.
+NOTES ON METERING POSITIONS: The following
+aspects will be taken into consideration when deter-
+mining meter positions: —
+The Council will not agree to its metering equipment
+being situated in a position which for any reason is
+considered to be unsuitable.
+In general the following locations are considered to be
+unsuitable:
+(i) Locations over stairways or ramps, in narrow
+passageways or in other confined spaces.
+(ii) Vehicle docks, driveways and factory passageways
+where the equipment or persons working on the
+instruments cannot be effectively protected.
+(iii) Positions in close proximity to or over machinery
+or open type switchgear.
+(iv) Locations where there may be present fumes, gases
+or dust of such a nature as would be likely to cause
+deterioration of equipment or undue discomfort
+to persons working on the instruments.
+(v) Hazardous locations as defined by S.A.A. Wiring
+Rule 630.
+(vi) Rooms or enclosures where the normal ambient
+temperature exceeds 90° F.
+(vii) Dark locations where there is insufficient natural
+or artificial light.
+(viii) Locations where the use of a step-ladder would be
+hazardous.
+For meters enclosed in a box on the outside wall of
+a residence, the position selected will generally be on
+a side wall which is not adjacent to a passageway pro-
+viding the main access to the premises. Any box en-
+closing metering equipment which is situated on a wall
+alongside which there is a passageway should be recessed
+sufficiently into the wall to provide a clear walkway
+or driveway, unless the pathway is a suitable distance
+from the wall. In single domestic premises the mount-
+ing height for a box situated on an outside wall should
+generally be such that the distance from the ground to
+the top of the metering equipment is 5 feet 6 inches
+and, wherever possible, the box should be recessed into
+the wall.
+
+
+(13) PROTECTION OF METERS.
+(a) The consumer shall provide adequate protection for the
+meters where, in the opinion of the Council’s officers,
+they would otherwise be exposed to mechanical injury,
+effects of the weather, sea air, corrosion, etc.
+(b) Where protection against the effects of the weather is
+necessary, and this protection takes the form of a
+weatherproof box, the box shall be provided with a
+hinged door, glazed or unglazed, and with a catch or
+similar device which is readily accessible from the
+ground or any permanent platform provided. If the
+door of any box enclosing meters is hinged at the top,
+a stay fastened to the door or the box, shall be provided
+to hold the door in the open position when necessary.
+This stay shall be readily accessible from the ground
+or any permanent platform provided.
+(c) In general, the enclosure within which the meters are
+situated may not be locked, but if such protection is
+considered essential, the Council will agree to locking
+the enclosure only if the consumer agrees to purchase
+from the Council a standard lock. The standard locks
+are supplied with individual keys, but all the locks can
+be opened by master keys held by the Council. Standard
+locks may not be used in doors which give access to any
+portion of private premises other than a room or cup-
+board used solely to house metering and switch equip-
+ment.
+(14) GROUPING OF METERS AND PROVISION OF
+LINKS.
+(a) Grouping of Meters. Where one consumer is suppli d
+with electricity at different Rates, or where several con-
+sumers are supplied from one service, the meters will be
+fixed in a group or groups approved by the Council.
+(b) Use and Type of Links. Where it is necessary to connect
+more than one set of meters to one point of supply, the
+connections shall be made by means of connecting or
+paralleling links. These links shall be of a type ap-
+proved by the Council, shall be fitted with covers which
+may be sealed, and shall comply with S.A.A. Wiring
+Rules 329 and 245.
+(c) Connecting Links. Where there is no likelihood that
+a number of portions of an installation arranged for
+separate metering will, at any time, have to be metered
+42
+Rule 13.
+
+
+in parallel, simple connecting links may be used. These
+links must be such that only one connection need be
+made to the “load” side of each of the Council’s service
+fuses, and such that any separately metered portion of
+an installation may be connected and disconnected
+without interfering with the supply to other separately
+metered portions.
+Notwithstanding the foregoing connecting links will
+not be required in the following cases:
+(i) Where not more than two connections of cables not
+larger than 7/0.064 are to be made to a 50 amp.
+service fuse.
+(ii) Where one cable of 19 strands or larger and one
+cable not larger than 7/0.064 are to be connected
+to a service fuse.
+In such cases, the Council will parallel the two sets of
+cables at the “load” terminals of the service fuses. In
+case (ii) above, if the connections are made in this
+manner, connecting links must be inserted in the smaller
+cables.
+(d) Paralleling Links. In public buildings and other places
+where it is probable that changes in tenancies will result
+in one consumer occupying more than one room or suite
+of rooms in which the wiring has been arranged for
+separate metering, paralleling links must be provided to
+allow the wiring in one or a number of rooms to be
+connected easily to one meter. The paralleling links in
+such cases may function also as the connecting links.
+In existing buildings which are divided into rooms and
+suites for occupation by different consumers, but have
+not been provided with suitable paralleling links, the
+paralleling of a separately metered portion of the instal-
+lation will be dealt with by the Council in the following
+manner:
+(i) Where a consumer arranges to take over two or
+more rooms or suites which are adjacent to each
+other on the same floor, and has major structural
+alterations made to the premises which result in the
+rooms which were previously separate becoming one
+room, he will be required to provide one main con-
+trol or suitable links and one set of metering loops
+so that the whole of the supply may be metered with
+one set of meters.
+In this connection, it should be noted that the pro-
+vision of a door between two rooms previously not
+connected will not be considered a major structural
+
+
+alteration in the sense used above, because such a
+door could at any time be screwed closed and the
+rooms let separately as before.
+(ii) Where a consumer requires supply in the one name
+to more than one installation on the same floor, and
+no structural alterations have been made to the
+premises, the Council’s officers will parallel the
+installations at one meter or one set of meters if
+such paralleling is practicable, or parallel at links
+which the Council will provide.
+As it is essential that all active conductors on the supply
+side of the meters shall be protected from interference,
+the active metering links must be provided with covers
+which can be sealed. (In the case of large installations
+supplied through open busbars and an open type switch-
+board, the Council may give permission for the exposure
+of unmetered conductors, under specified conditions, in
+an approved location.)
+It is not necessary to provide paralleling links for the
+neutral, but it is necessary to provide a sealed cover for
+the incoming neutral conductor at the links, and for at
+least one other terminal to which the meter neutral
+connector box may be connected.
+(e) Supplying of Links. In new installations, all the connect-
+ing links and/or paralleling links required must be
+supplied by the consumer.
+In existing installations, any links required must be
+supplied by the consumer, except that, where an addi-
+tional separately metered portion of an installation is
+to be connected to a metering position from which one
+or more consumers, other than the consumer installing
+the additional portion, are already supplied without
+the use of links, the Council will provide and instal links
+to connect the existing and additional installations.
+In all cases, the Council will supply the meter neutral
+connecting boxes unless suitable terminals are, for the
+sake of uniformity, provided by the consumer on the
+sealed portion of his neutral links.
+(f) Position of Links. In general, links shall be mounted
+and fixed in an accessible position by the consumer on
+his switchboard, or on a separate board which will also
+be supplied and fixed by the consumer. The links
+should be fixed as close as possible to the metering posi-
+tion, and in such a position as to keep the length of
+the connecting cable as short as possible and their
+
+
+arrangement as simple as possible, but not in such a
+position as to prevent any additions being made to the
+Council’s metering board, the necessity for which can
+be reasonably anticipated at the time. In selecting the
+position, spacing, etc., of the links, adequate provision
+must be made for the easy entry, connection, and dis-
+connection of cables.
+Notwithstanding the above, where a 50 ampere service
+is installed (except in the case of 18in. x 12in. boards),
+no objection will be raised to the mounting of connect-
+ing links on the Council’s service or metering board,
+provided that adequate space is available for the fixing
+of the links, and for the making of all the necessary
+connections without moving any of the Council’s meter-
+ing or service equipment, and without encroaching on
+the space that is required for the service and metering
+equipment, or on the space that may be reasonably
+expected to be required in future for additional or
+larger metering or service equipment. Where, in these
+circumstances, it is proposed to mount connecting links
+on the Council’s services or meter board, the links will
+be fixed in position and connected by the Council’s
+officers, but all necessary fixing screws must be supplied
+by the consumer. In such cases, the links must be
+fastened by the consumer in a temporary manner to the
+meter board by loosely screwing them to the board, using
+the full complement of screws of the correct size.
+Certain minimum dimensions and other details of the
+Council’s requirements regarding links are published
+in a separate document. Copies of this document may
+be obtained upon application to the office of the
+Council’s Installation Inspection Branch on the second
+floor of the Queen Victoria Building, or by writing to
+the General Manager. The document is intended merely
+as a guide to the manufacturers of links, as the Council
+does not insist on any particular form of link, provided
+that it complies with the minimum requirements set
+out in the document.
+(15) METER CONNECTIONS.
+The type of meters which will be used, and the method of
+connecting them, is determined by the Rate (Tariff) at which
+electricity is supplied, and by the nature of the load.
+For details of the connection in various cases, see Rule 10,
+page 35.
+
+
+(16) MULTIPLE CONNECTIONS AT METERS
+PROHIBITED.
+Not more than one cable may be connected to any one ter-
+minal of a meter. Therefore, where it is necessary to connect
+more than one portion of an installation to a meter, the
+consumer shall arrange, by the use of links or by paralleling
+the different parts of the installation, that only one cable
+need be connected to each meter terminal. Any links
+required for this purpose must be mounted on the con-
+sumer’s switchboard.
+(17) ADDITIONAL OR SUBSIDIARY METERS.
+(a) General. Should any additional meters, current trans-
+formers or other metering equipment be required above
+those necessary for the Council’s purpose, application
+should be made for them. The application must
+include a written undertaking to pay the cost of fixing
+and also to pay a rental of two shillings (2/-) or twenty
+(20) cents per month for each additional single phase
+instrument, for each element of an additional polyphase
+instrument, or for each additional current transformer.
+In the case of additional high voltage metering equip-
+ment the rental shall be 15% per annum of the capital
+value of the equipment as determined by the General
+Manager.
+Subsidiary meters will not be provided by the Council
+in premises supplied at the “Domestic Rate” or the
+“Domestic Cooking Rate”.
+Except in special circumstances as agreed to by the
+General Manager, subsidiary meters may not be con-
+nected to the Council’s current transformer metering
+circuits.
+(b) Charges for Fixing Additional Meters. A charge will
+be made for fixing additional meters and other addi-
+tional equipment. Where the fixing of additional
+meters presents difficulty or where current transformers
+are necessary, or where high voltage metering equip-
+ment is fixed, the actual cost of the work will be
+charged. In all other cases standard charges will be
+made as determined from time to time by the General
+Manager.
+(18) FIXING OF CONDUCTORS IN SERVICE FUSES,
+METERS, Etc.
+Only an employee of the Council may insert the end of any
+conductor in any service fuse, meter, indicator, link, or
+other device belonging to the Council, or make any con-
+nection to or disconnection from conductors directly con-
+nected to the Council’s supply system.
+46
+Rule 16.
+
+
+CONSUMERS' INSTALLATIONS
+(19) CONSUMER’S INSTALLATION—COMPLIANCE
+WITH THE S.A.A. WIRING RULES.
+(a) Every installation to be connected to the Council’s mams
+shall comply with the Wiring Rules published by the
+Standards Association of Australia, and known as the
+S.A.A. Wiring Rules, and with these Service Rules.
+(b) Every installation or addition to an installation pre-
+pared for connection to the Council’s mains must be
+carried out by a person or firm licensed under the
+Electricity Development Act to carry out such work.
+(20) CONSUMER’S INSTALLATION—NOTICE OF
+COMPLETION.
+When the consumer’s installation is complete and ready for
+inspection and connection, the Electrical Contractor or
+Electrician who has carried out the installation must give
+the Council written notice that the installation has been
+carried out by him and is complete and ready for connection
+to the Council’s mains. This notice must be given on a
+printed form provided for the purpose by the Council of
+which copies may be obtained at the Inquiry Counter at the
+Council’s offices, or by written request to the General
+Manager.
+This formal notice of completion is usually referred to as a
+“Ready for Test” Certificate.
+The Electrical Contractor or Electrician is also required to
+provide on this form information regarding the nature,
+extent, and location of the work.
+(21) CUSTOMER’S INSTALLATION-INSPECTION AND
+TESTING OF INSTALLATIONS.
+Upon receipt of the “Ready for Test” Certificate, the
+Council will inspect and test the installation. If the inspec-
+tion and testing show that the installation does not comply
+with the S.A.A. Wiring Rules, or these Service Rules, the
+Council may refuse to connect the installation to its mains.
+No charge will be made for the first inspection and test,
+but a statutory charge will be made for each and every
+subsequent test and inspection made by the Council.
+(See paragraph headed “Compliance with S.A.A. Wiring
+Rules” on page 9, regarding the limits of these inspections.)
+47
+Rule 19.
+
+
+(22) CONSUMER’S INSTALLATION — INSPECTION AND
+TESTING OF ADDITIONS OR ALTERATIONS.
+No addition or alteration to an existing installation may be
+connected until it has been inspected, tested, and approved
+for connection by an officer of the Council. Where, however,
+a “Ready for Test” Certificate in the form specified under
+Rule 20 has been lodged with the Council, no objection will
+be raised to the connection of an addition to an existing final
+sub-circuit, which itself is already connected and in use,
+pending the Council’s inspection, provided the additional
+work is complete and complies with the S.A.A. Wiring Rules
+and these Service Rules.
+In the same way, no objection will be raised to the connec-
+tion of additional circuits to the switchboard, of existing
+installations, provided the new circuits are complete and
+comply with the S.A.A. Wiring Rules and these Rules, and
+are isolated from the supply in the following manner:
+(i) If the additional circuits are to be protected by fuses,
+the fuse carriers shall be removed from the circuit fuses
+and shall be labelled with special labels provided by the
+Council for the purpose, and tied to the switchboard.
+(ii) If the additional circuits are to be protected by overload
+circuit breakers, the circuit breakers shall be left in the
+“Off” (open) position, and a special label provided by
+the Council for the purpose shall be attached to the
+operating handle or knob of each circuit breaker in such
+a manner that it cannot be closed without detaching or
+removing the label. Where this is not possible, the label
+shall be attached to the breaker in such a manner that
+it cannot be closed without the label being noticed.
+The special labels which must be used clearly indicate that
+the fuse carriers may not be inserted in the fuses or the cir-
+cuit breaker closed until after the additions have been tested
+and approved for connection by an officer of the Council.
+These labels may be obtained by application at the General
+Office of the Council’s Installation Inspection Branch or by
+written request addressed to the General Manager.
+Electrical Contractors taking advantage of the permission
+given in this Rule for the connection of new work should
+note particularly the requirements of Rule 19, Clause (a)
+and (b).
+48
+Rule 22.
+
+
+(23) CONSUMER’S INSTALLATION — CALCULATION OF
+MAXIMUM DEMAND.
+(a) General. S.A.A. Wiring Rule 206 sets down methods of
+calculating the maximum demand of an installation. That
+Rule is qualified by Clauses (b) and (c) below. Further-
+more, if at any time the Council has reason to believe
+that the provisions of S.A.A. Wiring Rule 206 are inade-
+quate with respect to any installation, it may require
+the customer to provide for a larger maximum demand.
+NOTE: In connection with this Rule, attention is drawn
+to S.A.A. Wiring Rule 201 (b) (i), which sets it down
+that “Every conductor shall have a current carrying capa-
+city ... at least equal to the current to be carried
+by it... ”
+No method of calculating or assessing maximum demand
+can be deemed to invalidate that Rule.
+(b) Off-peak Water Heaters. Exercising the authority given
+by S.A.A. Wiring Rule 207, the Council has decided that,
+in the calculation of the maximum demand of a domestic
+installation, the loading of off-peak water heaters may
+be ignored if such loading is less than the maximum
+demand of the installation calculated in accordance with
+S.A.A. Wiring Rule 206.
+Where the loading of the off-peak water heating element
+is greater than the maximum demand of an installation
+or sub-installation (exclusive of the off-peak water
+heater) as calculated in accordance with S.A.A Wiring
+Rule 206, the loading of the off-peak water heating
+element must be taken as the maximum demand for
+the installation or sub-installation, and the size of
+mains, sub-mains, and associated switchgear determined
+accordingly.
+For other than domestic installations, allowance shall be
+made for off-peak water heaters at least equal to that
+specified in S.A.A. Wiring Rule 206 (f) (ii). In certain
+commercial premises, such as restaurants which operate
+after 9.00 p.m., it may be necessary to take the full load-
+ing of the off-peak water heaters, together with the maxi-
+mum demand of the rest of the installation, calculated
+from S.A.A. Wiring Rule 206.
+(c) Factories. In general, the maximum demand of a factory
+installation may be assumed to be that calculated from
+S.A.A. Wiring Rule 206, Clauses (d), (e), and (f), but
+in this connection attention is drawn to Clause (a) above.
+49
+Rule 23.
+
+
+(25) CONSUMER’S INSTALLATION—PROTECTION AND
+INSTALLATION OF CONSUMER’S MAINS.
+Consumer’s mains of the types mentioned in S.A.A. Wiring
+Rule 213 (b) (ii) and (iii), need not be enclosed in conduit
+where they are open to view, or where they are protected by
+fuses.
+Any bellmouth used to protect consumer’s mains near the
+point of attachment of a service line or consumer’s line shall
+project beyond that point of attachment, shall be made of
+insulating material, and shall have an overall length of at
+least three (3) inches. The bellmouth shall be within three
+(3) feet of each conductor of the service line or consumer’s
+line. Where an overhead line connector box is used near
+the point of attachment, it shall be within three (3) feet
+of each conductor of the service line or consumer’s line.
+(See also Rule 5 (d): “Facilities for the Connection of Service
+Lines and Consumer’s Lines,” page 23.)
+Mineral-Insulated Metal-Sheathed Cables and Surge
+Diverters —Prohibited Use.
+Mineral-insulated metal-sheathed cables and/or surge
+diverters shall not be connected to overhead service lines or
+consumers’ lines unless fuses or over-current circuit breakers
+are installed between the service lines and such equipment.
+(26) CONSUMER’S INSTALLATION — LABELLING OF
+SWITCHBOARDS AND ENTRANCE DOORS.
+In addition to any labelling required by the S.A.A. Wiring
+Rules, where a building is subdivided and a separate supply
+of electricity is given to occupiers of individual rooms, suites
+of rooms, or flats, an identification number must be marked
+on the main entrance door of each room, suite or flat, and on
+the corresponding switchboard, or some other approved
+system of identification must be adopted.
+(28) CONSUMER’S INSTALLATION—MEDIUM VOLTAGE
+SUPPLY TO LARGE INSTALLATIONS—RUPTURING
+CAPACITY OF MAIN OVERLOAD PROTECTIVE
+DEVICES.
+Where the maximum demand of an installation is likely to
+exceed 350 amperes per phase, or the supply is provided
+directly from a substation, the main overload protective
+devices of the consumer’s installation must consist either of
+High Rupturing Capacity fuses, as defined in the S.A.A.
+Wiring Rules, or of circuit breakers having a breaking
+50
+Rule 25
+
+
+capacity of not less than 25,000kVA when tested in accord-
+ance with B.S.S. 936-1940.
+NOTE: In certain premises which are remote from a sub-
+station or supplied from a substation of small capacity, main
+overload protective devices need not comply with this Rule,
+provided a written request for the waiving of the require-
+ment is made to the General Manager and acceded to by
+him.
+(29) CONSUMER’S INSTALLATION — TEMPORARY
+WIRING — S.A.A. WIRING RULE 361.
+The applicant for supply of electricity to temporary wiring
+will be required to pay to the Council the whole cost of
+providing, metering, and disconnecting the supply, and of
+making the necessary inspections.
+The connection of the temporary wiring by an officer of the
+Council will constitute the Council’s initial permission for
+connection of the temporary wiring, as required by S.A.A.
+Wiring Rule 361 (a).
+If the temporary installation is to remain in use for a period
+exceeding that covered by the initial permit, the Council
+will make a further inspection before the permit will be
+renewed.
+If, as a result of any inspection, the Council finds it necessary
+to withdraw the permission for the connection of the tem-
+porary wiring, it will inform the consumer or his representa-
+tive specifically to that effect. In the absence of such notifica-
+tion of the contrary, the permit will be deemed to be still
+current.
+S.A.A. Wiring Rule 361 provides for the Supply Authority’s
+laying down methods of wiring for temporary installations
+as an alternative to those laid down by the S.A.A. Wiring
+Rules for permanent installations. The Council has pub-
+lished its requirements in this regard in a document headed
+“Temporary Wiring.” Copies of this document may be
+obtained by calling at the office of the Council’s Installation
+Inspection Branch, or by written request to the General
+Manager.
+(30) STARTING CURRENT OF A.C. MOTORS.
+The current taken by motors under the conditions of start-
+ing, i.e. with any current limiting starter in the “start
+position, shall not exceed the following values when
+measured by the locked-rotor method:—
+
+
+NOTE: Where it is not practicable to measure the locked
+rotor current, an approximate indication of this value is
+obtainable by measurement with a suitable pre-set (back
+stopped) ammeter when the motor is started in the normal
+manner.
+(a) Single Phase 240 Volt Motors 40 amperes
+(b) Three Phase Motors:
+Motors not exceeding 2 H.P 26 amperes
+Motors exceeding 2 H.P. but not exceed-
+ing 5 H.P (H.P. x 13)
+amperes
+Motors exceeding 5 H.P 53 + (H.P. x
+2.5) amperes
+Motors which are not frequently started, whichever of
+the following values is greatest; —
+(i) 53 + (H.P. x 2.5) amperes.
+(ii) Total H.P. of motors installed * x 0.8 amperes.
+(iii) The starting current of the largest of the other
+motors installed calculated in accordance with (i).
+* “Total H.P.” is the aggregate rating of motors con-
+nected for the customer to the particular service, in-
+cluding the proposed motor.
+NOTE: Under sub-clause (b) (ii) motors of one-tenth
+of the total H.P. of motors installed may generally be
+used starting direct-on-line.
+In certain premises which are supplied direct from a
+substation, or through a large service, starting currents
+in excess of those laid down in this rule may be per-
+mitted, provided a written request is made to the
+General Manager and acceded to by him.
+(c) Motors Supplied from City Underground Network.
+Notwithstanding Clause (b) above and Clause (d) below,
+in those installations supplied through an underground
+cable from the City underground network, the locked
+rotor current of any three phase motor need not be
+less than 150 amperes, provided that the wiring to such
+motor is so arranged that its use will not interfere with
+the supply of electricity to other customers.
+The area to which this Clause applies extends from a
+line between No. 4 Wharf Darling Harbour to Circular
+Quay on the north to Central Railway Station on the
+south, and from Darling Harbour on the west to
+Macquarie Street, College Street and Wentworth
+Avenue on the east.
+
+
+(d) Motors Operating Fire-Fighting Pumps.
+Notwithstanding Clause (b) above, in the case of A.C.
+motors driving pumps which will be used solely in
+emergency for fire-fighting, the locked rotor current
+shall not exceed 150% of the starting current for such
+motor for the particular service concerned as deter-
+mined under Clause (b) above.
+(e) Alternating Current Motors Operating Lifts.
+Alternating current motors operating lifts will not be
+required to comply with Clauses (b) or (c) of this rule,
+but every alternating current lift motor shall be so
+controlled and operated that the current drawn from
+the mains does not at any time exceed 200 amperes
+per phase, and also does not exceed 22 amperes per
+phase for each 100,000 ft. lbs./min. of lift duty, that is:
+Maximum permissible current =
+(Lift Duty in ft. lbs./min.)
+22 amperes
+100,000
+per phase, with a limit of 200 amperes.
+Lifts operated by motor generator sets must, in general,
+comply with this rule, except that, in certain cases
+where written application is made to the General Man-
+ager, permission may be given for a motor generator
+set, which is not started frequently, to operate with a
+starting current exceeding 200 amperes.
+Notwithstanding the foregoing paragraph, the starting
+current of an alternating current lift motor need never
+be less than 20 amperes. Each motor driving a lift
+shall be protected by a relay such as a thermal over-
+current device in at least two active conductors, which
+shall be of such rating that supply to the motor will
+be disconnected if at any time a current equal to the
+locked rotor current of the motor flows for more than
+twenty seconds.
+Each lift installation shall be provided with a notice
+giving the rated speed of the lift in feet per minute
+and the maximum load which may be carried by the
+lift in pounds weight, or giving the rated duty of the
+lift in ft. lbs./minute. This notice must be fixed either
+to the motor or to the control board, or in some other
+conspicuous place in the lift motor room.
+(31) CONSUMER’S INSTALLATION — POWER FACTOR
+OF APPARATUS.
+The power factor of an installation at maximum load shall
+not be less than 0.80.
+
+
+(32) CONSUMER’S INSTALLATION — CONTROL OF
+CAPACITORS.
+(a) General. The installation and control of capacitors shall
+comply with the relevant Clause of the S.A.A. Wiring
+Rules (see particularly S.A.A. Wiring Rule 432), and
+the following additional requirements regarding power
+factor.
+(b) Automatic Control of Power Factor. Unless they are
+permanently connected in parallel with an individual
+appliance, capacitors shall be controlled by automatic
+gear in steps corresponding with variation in inductive
+load.
+Variation of capacitance with variation of inductive
+load shall be made in steps not exceeding 50 kVA,
+provided that —
+(i) In special cases where written application is made
+to the General Manager and is acceded to by him,
+banks of capacitors may be controlled in steps of
+up to 150 kVA. Approval of such applications will
+depend upon the size and arrangement of the instal-
+lation and the type of automatic control equipment
+being such as to ensure that no dangerous or dele-
+terious effects are likely to occur.
+(ii) Where capacitors are switched in steps correspond-
+ing with the switching of individual appliances or
+groups of appliances controlled or operated as one
+unit, there shall be no limit to the size of the
+capacitors controlled in each step.
+(c) Leading Power Factor Not Allowed. No condition of
+operation of capacitors or variation of inductive load
+shall at any time cause the power factor of the installa-
+tion to become “leading.”
+(33) CONSUMER’S INSTALLATION—ELECTRODE TYPE
+WATER HEATERS—S.A.A. WIRING RULE 433 (a).
+The Council does not specifically prohibit the use of elect-
+rode type water heaters, but reserves the right to place any
+restrictions it finds necessary on their design and installation.
+(See Rule 2 (h), page 15, re Limitation of Loading and
+Balance.)
+(35) CONSUMER’S INSTALLATION — A.C./D.C.
+RECTIFIERS.
+A.C./D.C. rectifying equipment will be approved for con-
+nection only if there is interposed between the rectifier and
+54
+Rule 32.
+
+
+the A.C. supply a double-wound transformer. This Rule
+will not apply to the following types of rectifiers.
+(a) Full wave rectifiers which are clearly marked “Full
+Wave Rectifiers.”
+(b) Rectifiers used in A.C./D.C. Radio and Television Re-
+ceiving Sets designed for domestic use.
+(c) Rectifiers used in conjunction with electrical measuring
+instruments, and similar applications where the rectified
+current does not exceed 100 milliamperes.
+(36) CONSUMER’S INSTALLATION — EARTHING OF
+INSTALLATIONS.
+(a) General. Electric installations which, in accordance with
+the S.A.A. Wiring Rules must be earthed, will be ap-
+proved for connection to the mains of the Council only
+if each installation is protected against faults to earth
+as under:
+(i) (A) In the Area Supplied through Overhead Mains and
+Overhead Service Lines (Other than in the Shire of
+Sutherland and the Municipality of Bankstown) —
+By an earth leakage circuit breaker or breakers com-
+plying with the Approval and Test Specification No.
+C. 110 (issued by the Standards Association of Aus-
+tralia), and installed in accordance with the appro-
+priate requirements of the S.A.A. Wiring Rules.
+(i) (B) In the Shire of Sutherland and the Municipality
+of Bankstown—
+By the Multiple Earthed Neutral system of earthing,
+in accordance with the appropriate requirements of
+the S.A.A. Wiring Rules.
+(ii) In the Area Supplied through Underground Cables.
+(Not including isolated lengths of underground
+cable, in which case (i) above applies.) —By bond-
+ing the main earthing conductor of the installation
+to a special terminal attached to the metallic sheath-
+ing of the Council’s underground cable, this connec-
+tion being additional to the earthing connection
+specified in the S.A.A. Wiring Rules.
+The earth leakage circuit breaker and any auxiliary gear
+referred to in Sub-Clause (i), together with the necessary
+connections, and also additional earthing conductors
+necessary to comply with Sub-Clause (ii), must be pro-
+vided and installed by the consumer.
+
+
+The Council will provide the special terminal on the
+cable sheath required by Sub-Clause (ii), and its officers
+will connect the earthing conductor to the special
+terminal.
+(b) Installations Including Lifts which may Convey Persons.
+To comply with S.A.A. Wiring Rule 229, any electrically
+controlled lift or lifts which may convey persons and
+which are connected to the Council’s supply system as
+part of an installation protected by earth leakage circuit
+breakers, must be protected by a completely indepen-
+dent earth leakage circuit breaker. The separately
+protected lift portion of the installation must be
+arranged for completely selective protection, or, alter-
+nately, the earth leakage circuit breaker protecting the
+lift portion of the installation must be fitted with an
+approved time delay mechanism connected in a manner
+approved by officers of the Council.
+(c) Earthing of Plug Sockets. Notwithstanding S.A.A. Wir-
+ing Rule 501 (a) (ii), all plug sockets in installations
+protected by earth leakage circuit breakers or relays
+must include earthing terminals, which must be earthed
+in accordance with the S.A.A. Wiring Rules.
+(d) Emergency Lighting. Where an emergency lighting in-
+stallation is required, it shall be separately protected by
+an independent earth leakage circuit breaker arranged
+for completely selective operation, or it shall be doubly
+insulated throughout and protected by an independent
+switch and fuse or by an over-current circuit breaker.
+(e) Scope of this Rule. The requirements of this Rule apply
+only to new installations and to new sub-installations
+which are to form part of an existing installation or
+sub-installation already protected by an earth leakage
+circuit breaker. For this purpose an installation shall
+mean all the electrical wiring, etc., situated on any
+premises to which a separate title is or could be applic-
+able. For example, the wiring in each separate part of
+a semi-detached cottage, or the wiring in each separate
+part of a terrace or row of houses or shops, must
+be protected in accordance with this Rule as an “in-
+stallation.”
+(f) Details of the Use of Earth Leakage Circuit Breakers.
+Detailed information regarding the use, installation
+and connection of earth leakage circuit breakers is set
+out in a pamphlet entitled “Protection of Electric Instal-
+lations Against Earth Leakage,” published by the
+
+
+Council. Copies of this pamphlet may be obtained
+without cost by written request to the General Manager,
+or by telephone or personal request to the office of the
+Installation Inspection Branch (Telephone No. 2 0259,
+Extension 5733), on the second floor of the Queen Vic-
+toria Building, George Street, Sydney.
+(37) CONSUMER’S INSTALLATION — CONDUCTORS
+NOT TO BE EARTHED.
+No live conductor in a consumer’s installation shall be
+connected to earth unless:
+(a) The connection to earth is made by a Radio Interference
+Suppressor which complies with the requirements of
+and is installed in accordance with the methods set out
+in S.A.A. Approval and Test Specification No. C 145 —
+Radio Interference Suppression devices for Low and
+Medium Voltage Equipment.
+or
+(b) The General Manager has given written approval for
+the connection. Such written approval will always
+include the condition that the installation shall comply
+with the S.A.A. Wiring Rules covering multiple
+earthed neutral systems.
+(38) CONSUMER’S INSTALLATION — HIGH VOLTAGE
+INSTALLATIONS.
+(a) General. All high voltage equipment which is to be
+connected to the Council’s mains must be approved by
+the General Manager, both with respect to its design
+and construction, and also with respect to its installa-
+tion. So that the consumer may purchase satisfactory
+equipment, the Council will examine drawings and
+specifications of the proposed high voltage gear if such
+drawings are submitted to the Council’s officers by the
+consumer, and will approve such drawings and specifi-
+cations if satisfied that they comply with the Council’s
+requirements.
+IF THE CONSUMER PURCHASES OR INSTALS
+ANY HIGH VOLTAGE EQUIPMENT BEFORE THE
+DESIGN, CONSTRUCTION and METHOD OF IN-
+STALLATION OF THAT EQUIPMENT HAVE
+BEEN FORMALLY APPROVED BY THE GENERAL
+MANAGER, THE COUNCIL WILL HOLD ITSELF
+
+
+FREE TO REFUSE TO CONNECT THE WHOLE
+OR ANY PART OF THE EQUIPMENT WHICH,
+IN THE OPINION OF THE GENERAL MANAGER,
+IS NOT SATISFACTORY.
+NOTE: To assist in the preparation of drawings and
+specifications for high voltage equipment, the follow-
+ing general information is given. It must, however, be
+clearly understood that these general requirements are
+not binding on the Council, as the circumstances of any
+particular case may make it necessary for these require-
+ments to be varied.
+(i) All high voltage switchgear must comply with the
+last published British Standard Specification applic-
+able to it. Switchgear for use on 11 kV supply must
+have a breaking (rupturing) capacity of at least
+150.000 kVA. Switchgear for use of 5 kV supply
+should preferably have a breaking capacity of 150,000
+kVA; however, subject to a written request being
+made to the General Manager, and acceded to by
+him, 5kV switchgear having a breaking capacity of
+100.000 kVA will be accepted in certain locations.
+(ii) Relays, current transformers, and other protective
+equipment, must have characteristics to suit the
+Council’s existing protective system. The Council
+will test the consumer’s equipment for this purpose
+and, without cost to the consumer at the time of the
+initial installation.
+The Council will also make tests of the consumer’s
+existing protective apparatus, when such tests are
+necessary, but, in those cases, will charge the con-
+sumer the cost of making the tests.
+(iii) Facilities must be provided for the disconnection
+of all high voltage and protection circuits.
+(iv) Suitable means of earthing, must be provided by
+the consumer.
+(b) Maintenance. Every high voltage installation must be
+regularly maintained in good order, so that it will
+perform the functions for which it was designed. The
+installation must be completely overhauled at least once
+each year.
+
+
+NOTE: In cases where the customer is not able to obtain
+the services of persons qualified to report on or work on
+high voltage installations, the Council may, at the
+customer’s request and upon his undertaking to pay the
+cost of the work, make regular inspections of any high
+voltage installations and may carry out such mainten-
+ance work as is found necessary as a result of these
+inspections. However, the Council will not, in this
+connection, give the customer any specific guarantees
+regarding the condition of his installation, or guarantee
+the subsequent operation of the equipment.
+(39) CONSUMER’S INSTALLATION — INTERFERENCE
+WITH SUPPLY TO OTHER CONSUMERS.
+(a) Large or Fluctuating Loads. The Council reserves the
+right to refuse to connect apparatus, such as electric
+arc furnaces, welding machines, X-Ray apparatus, etc.,
+having large or fluctuating demands, if it considers that
+by so doing the supply to other consumers would be
+adversely affected.
+When contemplating the connection of electrical weld-
+ing apparatus, X-Ray equipment, motors with fluctuat-
+ing loads, motor-driven reciprocating pumps, and the
+like, the consumer should take particular care to ascer-
+tain from the Council what conditions must be observed
+to prevent their interfering with the supply to other
+consumers.
+(b) General. If the consumer should use or deal with the
+electricity supplied to him in such a manner as to cause,
+in the opinion of the Council, undue interference with
+the supply to other consumers, the Council may call
+upon him to make such necessary adjustments or altera-
+tions, and so to operate the apparatus or equipment as
+to ensure that the supply to other consumers will not
+be interfered with and, in the event of his failing to do
+so, the Council may cut off the supply of electricity to
+his premises.
+The fact that the Council shall have connected and
+have approved the apparatus or equipment shall not
+be taken to exempt the consumer from the operation
+of this Rule.
+
+
+INDEX
+Page
+Accessibility of Meters 40
+Additional Services 8, 34
+Additions —
+Connections of, Prior to Inspection 48
+Inspection of 48
+Advice to Applicants 7
+Apparatus —
+Balance of Loading of 12
+Hiring of 10
+Limitations to the Loading of 12
+Power Factor of 53
+Small 480 volt D.C. will not be Connected 16
+Small 415 volt 3-phase Service will not be Installed 16
+Appliance —(See Apparatus)
+Applicants—
+Advice to 7
+Applications for Supply of Electricity 7
+Area of Supply —
+Alternating Current Area 7, 11
+Direct Current Area 7, 11
+Balancing of Load —
+General 12
+Individual Appliances, Signs, and Decorative Lighting
+Installations 13
+Large Single Phase Apparatus, such as X-Ray and Welding
+Apparatus, Single Phase Furnaces, etc 13
+Cooking Ranges 15
+Off-Peak Water Heaters 17
+Ovens for Baking Food 15
+Wash Boilers 17
+Water Heaters, Instantaneous Type 15
+Playing Areas 16
+Motors 16
+Boards, Service and Metering—
+Size of 27
+Provisions for Battens for 29
+Cabinets and Recesses for 29
+Breaking Capacity—
+High Voltage Circuit Breakers 57
+Medium Voltage Fuses and Circuit Breakers in Special
+Cases 50
+Cabinets for Service and Meter Boards 29
+Calculations of the Nominal Loading of the Service 19
+Calculation of Maximum Demand 49
+
+
+Page
+Capacitors, Control of 54
+Circuit Breakers, Earth Leakage See “Earth Leakage Circuit
+Breakers”, page 65.
+Completion Notice 8, 47
+Compliance with the S.A.A. Wiring Rules 9, 47
+Connection of —
+Additions Prior to Inspection 48
+Conductors directly connected to the Council’s Supply
+System. (See “Fixing of Conductors in Service Fuses,
+Meters, etc.”) 46
+Consumer’s Lines 22
+Meters 35
+Service Fuses 26
+Service Lines 22
+Connecting Links, Provision of, (See also Rule 16, page 46.) 42
+Connector Box, Overhead Line —Use for the Termination of
+Service Lines and Consumer’s Lines 23
+Consumer’s Installation —See "Installations, Consumer’s.”
+Consumer’s Line —
+Compliance with S.A.A. Wiring Rule 331 24
+Facilities for the Connection of 23
+Fall in Pressure in. (See “Minimum Size of Conduc-
+tors”) 25
+Installation of 24
+Minimum Size of Conductors 25
+Point of Attachment of 22
+Posts and Cross-Arms 25
+Spacing of Conductors 25
+Consumer’s Mains (See "Installation —Consumer’s”).
+Contractors, Advice to 7
+Control of Capacitors 54
+Control of Installations Supplied During Restricted Hours 38
+Cooking Ranges —(See “Ranges”).
+Cross-Arms, Consumer’s Lines and Service Lines 25
+Currents, Starting, of A.C. Motors 51
+Current Transformers, Use of, for Metering 36
+Cut-Outs —(See “Fuses”).
+Damage to Council’s Equipment 8
+Decorative Lighting Installations, Balancing of 13
+Earth Leakage Circuit Breakers, Details of the Use of 55
+Earthing of—
+Consumer’s Installations 55
+Plug Sockets 56
+Supply System 12
+Earthing Electrodes for High Voltage Installations-—(See “Instal-
+lations —High Voltage”, page 57).
+Electricity, Rates for Supply of 10
+
+
+Page
+Electrodes, Earthing for High Voltage Installations 59
+Electrode Type Water Heaters 54
+Entrance Doors, Labelling of 50
+Excess Service Lines —(See “Installation of Service Lines,” page
+22).
+Excess Starting Currents, Permission for 52
+Fee, Re-inspection 8
+Fire-Fighting Pumps, Starting Currents of Motors Operating 53
+Frequency of Supply —(See “System of Supply,” page 11).
+Furnaces, Single Phase, Loading and Balancing 13
+Fuses —
+High Rupturing Capacity 50
+Potential 37
+Service —(See “Service Fuses”).
+High Voltage —
+Installations 57
+Installations, Earthing Electrodes for 59
+Hiring of Apparatus 10
+Information—Additional 7
+Installations, Consumers’—
+Additional, Inspection and Testing of 48
+Calculation of Maximum Demand-
+General 49
+Off-Peak Water Heaters 49
+Factories 49
+Conductors not to be Earthed 57
+Consumer’s Switchgear Connected on the Supply Side
+of the Meters 39
+Control of Capacitors 54
+Electrode Type Water Heaters 54
+High Voltage Installations 57
+Interference with Supply to Other Consumers 59
+Labelling of Switchboards and Entrance Doors 50
+Large, Supply to 21
+Inspection and Testing of 47
+Protection Against Fault to Earth 55
+Protection and Installation of Consumer’s Mains 50
+Temporary Wiring 51
+Time Control of 38
+Instantaneous Water Heaters, Loading and Balancing 15
+Interference with Supply to Other Consumers 59
+Labelling of Switchboards and Entrance Doors 50
+
+
+Page
+Large Installations, Supply to 21
+Licensed Person, Necessity for Employing 8
+Lifts —
+Rating of 53
+Starting Current of Motors Operating 53
+Motors, Protection Against Overcurrent 53
+Line —
+Consumer’s —(See “Consumer’s Line”).
+Service —(See “Service Line”).
+Links—
+Use of in Place of Service fuses 26
+Connecting, Provision of 42
+Detailed Information Regarding 45
+Paralleling, Provision of 43
+Locking of Meter Enclosures 42
+Locks, Standard, Use of 42
+Loops —
+For the Connection of Meters 36
+For the Connection of Service Fuses 26
+For the Connection of Service Lines and Consumer’s Lines 23
+Mains—
+Connection Box, Use of 23, 50
+Consumer’s Protection and Installation of 50
+Point of Attachment for 22
+Temporary, Installation of 34
+Maximum Demand, Calculation of 49
+Maximum Demand Indicators, Provision and Installation of 35
+Meter Boards—(See “Boards, Meter”).
+Meter Enclosures, Locking of 39
+Meters —
+Accessibility of 38
+Additional, Charges for 44
+Connection of 34, 43
+Connection on Load Side of Main Control Gear 38
+Direct Connected Instruments 35
+Erection on Service Board 38
+Fixing of Conductors into 46
+For A.C. Supply 35
+For D.C. Supply 35
+Grouping of 42
+Instruments, Connected through Current Transformers 36
+Location of 39
+Locking of Enclosures 42
+Loops for the Connection of 35
+Multiple Connections to, Prohibited 46
+Neutral Connection Box for 37, 44
+
+
+Page
+Meters (continued) —
+Potential Wire for 37
+Position of. Not Necessarily that of Service Fuses 26
+Protection of 42
+Provision and Installation of 35
+Provision of Weatherproofing Boxes for 42
+Subsidiary —
+Charges for 46
+Will Not be Provided in Residence Rate Premises 46
+Wiring tor Meters Connected through Current
+T ranstormers 36
+Method of Determining Types of Service to be Installed 18
+Motors—
+Hiring of 10
+480 volt D.C. under 3 h.p.. Will not be Connected 16
+415 volt A.C. 3-phase, 1 h.p. or less, 3-phase Service will
+not be Installed 16
+A.C., Starting Currents of 51
+Single Phase 52
+Three Phase 52
+Operating Fire-Fighting Pumps 53
+Operating Lifts 53
+Lift, Protection against Overcurrent 53
+Neutral Connector Box for Meters 36, 37, 44
+Nominal Loading of the Service, Calculation of 19
+Notice of Completion 8, 47
+Off-Peak Water Heaters—
+Not included in the Nominal Loading of the Service 19
+Calculation of Maximum Demand 49
+Ovens tor Baking Food, Loading and Balancing 15
+Overhead Line Connector Box, Use for the Termination of Service
+Lines and Consumer’s Lines 23
+Paralleling Links, Provision of 43
+Phases, Number to be Installed in a Service 18
+Playing Areas, Loading and Balancing of Lighting Installations 16
+Point of Attachment —
+Consumer’s Lines 8, 22
+Service Lines 8, 22
+Posts —
+For Service Lines and Consumer’s Lines 25
+Hardware on 26
+Potential Fuses 37
+Power Factor-
+Consumer’s Installation 53
+Automatic Control of 54
+Power Points (Plug Sockets), Earthing of 56
+Premature Expenditure, Warning Against 7
+Protection of Meters 1(2
+Pumps, Fire-Fighting, starting Currents of Motor Operating 53
+
+
+Page
+Ranges, Loading and Balancing 15
+Rates for Supply of Electricity 10
+Ready-for-Test Certificate 8, 47
+Recesses for Service and Meter Boards 29
+Rectifiers A.C./D.C., Prohibition of Certain Types 54
+Relays for the Protection of High Voltage Installations 58
+Re-inspection Fee 8
+Restricted Hours, Control of Installations Supplied During 38
+Rupturing Capacity—(See "Breaking Capacity”).
+S.A.A. Wiring Rules, Compliance with 9, 47
+Service Boards —(See "Boards, Service and Metering”).
+Service Fuses —
+Connection Only by Officers of the Council 26
+In Public Buildings, Provision of Suitable Position 26
+Installation Above or Below Street Level 26
+Loops for the Connection of 26
+Position Determined by Council 26
+Position of, Not Necessarily the Meter Position 26
+Use of Links or Circuit Breaker in Place of 26
+Service Lines—
+Charge for Excess Length 22
+Charge for Running to an Alternative Point of Attachment 22
+Direct from Substation 23
+Facilities for the Connection of 23
+Installation of 22
+Maintenance of 22
+Point of Attachment of 22
+Post and Cross-Arms 25. 26
+Services —
+Special and Additional, Installation of 34
+Temporary, Installation of 34
+Type to be Installed 18
+Signs, Balancing of 13
+Sockets, Earthing of 56
+Space for the Accommodation of Transformers, Switchgear, etc. 21
+Spacing of Conductors of Consumer’s Lines 25
+Special Services, Installation of 34
+Sports Grounds, Loading and Balancing of Lighting Installations 16
+Standard Locks, Use of 42
+Stoves—(See "Ranges”).
+Starting Currents of A.C. Motors 51
+
+
+Page
+Subsidiary Meters—(See “Meters, Subsidiary”).
+Substations Within Consumer's Building or Premises 21
+Supply —
+Applications for 7
+Area of 7
+High Voltage 57
+Large Installations 21
+System of 11
+Terms and Conditions of 10
+Supply System, Earthing of 12
+Switchboards, Labelling of 50
+Switchgear—
+Connected on Line Side of Meters must be Sealed 39
+High Voltage —(See "Installations, High Voltage”).
+Tails, For the Connection of Service Lines and Consumer’s Lines 23
+Tariffs—(See “Rates”).
+Temporary Mains or Services 34
+Temporary Wiring 51
+Tennis Courts, Loading and Balancing of Lighting Installations 16
+Terms and Conditions of Supply 10
+Time Control of Installations 38
+Time Switches —
+Provision and Installation of 38
+Use as Consumer’s Main Switch Prohibited 38
+T ransformers —
+Current Use of for Metering 35
+Three Phase to Single Phase 15
+Type of Service to be Installed 18
+Voltage —(See “System of Supply”).
+Wash Boilers, Loading and Balancing 17
+Water Heaters —
+Electrode Type 54
+Instantaneous Type. Loading and Balancing 15
+Off-Peak, Loading and Balancing 17
+Not Included in the Nominal Loading of the Service 20
+Weatherproof Boxes for Meters, Provision of 42
+Welding Apparatus. Loading and Balancing 13
+Wiring Rules, Compliance with S.A.A 9, 47
+Wiring, Temporary 51
+X-Ray Apparatus, Loading and Balancing 13
+Printed in Australia by North Sydney Printing Pty. Ltd.

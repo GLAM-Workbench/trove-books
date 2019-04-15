@@ -1,0 +1,2917 @@
+
+
+SOILS AND LAND USE
+IN THE BAROSSA DISTRICT, S.A.
+SOILS AND LAND USE SERIES NO. 32
+COMMONWEALTH SCIENTIFIC AND INDUSTRIAL
+RESEARCH ORGANIZATION, AUSTRALIA 1959
+
+
+
+
+Soils and Land Use in the
+Barossa District, South Australia
+The Tanunda-Williamstown Area
+By K. H. Northcote
+Soils and Land Use Series No. 32
+Division of Soils
+Commonwealth Scientific and Industrial
+Research Organization, Australia
+Melbourne 1959
+
+
+Printed by C.S.I.R.O., Melbourne
+
+
+CONTENTS
+PAGE
+Foreword . . . . . . . . . . . . . 4
+Summary .. .. .. .. .. .. 5
+I. Introduction .. .. . . . . . . .. 5
+11. The Landscape .. .. .. . . .. 7
+(a) Physiography and Drainage . . .. . . . . 7
+(b) Parent Materials of the District Soils . . . . . . 8
+111. The Soils .. .. .. .. . . .. 9
+(a) The Mapping Units and the Soil Maps . . . . . . 9
+( b ) Description of the Soil Areas . . . . . . . . 11
+(c) Factors Affecting Soil Productivity . . . . . . 20
+IV. Climatic Influences .. . . . . . . . . 32
+(a) Annual Rainfall . . .. . . . . . . 32
+(b) The Rainfall Economy . . . . . . . . 32
+(c) Intensity of Rainfall . . . . . . . . . . 34
+{d) Temperature . . . . . . . . . . 34
+V. Land Use .. .. .. .. .. .. .. 34
+(a) The Underdeveloped Areas . . . . . . . . 35
+(b) Cropland . . . . . . . . . . . . 35
+(c) Pasture . . . . . . . . . . . . 36
+(d) Horticulture . . . . . . . . . . 37
+VI. Acknowledgments .. .. .. .. .. 39
+VII. References .. . . .. .. .. .. .. 39
+Appendix I. Morphology of the Soils . . . . . . 41
+Maps
+Map A. Soil Map, Tanunda-Rowland Flat Unit, Barossa District, Part
+Hundreds of Barossa and Moorooroo, Counties Adelaide and Light,
+South Australia
+Map B. Soil Map, Lyndoch-Williamstown Unit, Barossa District, Part
+Hundred of Barossa, County of Adelaide, South Australia
+
+
+FOREWORD
+The following report is the final one of a series of publications on the Barossa
+district. The previous reports have dealt with the Nuriootpa area (Soils and Land
+Use Series No. 13), the Angaston-Springton and Tanunda Creek-Trial Hill areas
+(Soils and Land Use Series No. 22), and the Greenock-Gomersal area (Soils and
+Land Use Series No. 30). This report covers the Tanunda-Williamstown area,
+which has characteristics of soils and land use differing in detail from those pre-
+viously described.
+
+
+SOILS AND LAND USE IN THE BAROSSA DISTRICT, SOUTH AUSTRALIA
+THE TANUNDA-WILLIAMSTOWN AREA
+By K. H. NORTHCOTE*
+[Manuscript received July 25, 1958]
+Summary
+In the Tanunda- W iJI iarnstcnvn area the landscape of low, rolling hills and
+plains dissected by creek valleys presents a more undulating topography generally
+than that found in the Nuriootpa area (Soils and Land Use Series No. 13), yet
+without the more prominent hilly features of the Angaston-Springton area (Soils
+and Land Use Series No. 22). The relatively numerous creeks are a pronounced
+feature, and their surface drainage indicates the general direction of movement
+of the underground waters from which some additional supplies could be obtained.
+Four broad groups of parent materials occur, and together with the varied
+physiography largely account for the diversity of the soils, in regard to both their
+morphology and their levels of fertility for plant growth. This is exemplified by
+the amount of agricultural development found on the red-brown earths, grey and
+brown soils of heavy texture, and wiesenboden as contrasted with the underdeveloped
+state of most of the area occupied by the solods and yellow podzolic soils. The
+development of these latter soils is a practicable measure but depends on additions
+of nutrient elements such as molybdenum, zinc, and copper, and possibly potassium
+as well as phosphorus in the fertilizer programme.
+Although the seasonal pattern of the climate is very similar to that of the
+other Barossa areas, reported earlier, the slightly higher rainfall in the Williams-
+town locality may prove attractive for future developments in horticulture in
+the district.
+The results of this survey in regard to land use confirm those obtained on
+earlier surveys, particularly the decline in fertility of surface soils. In addition
+there is an unrealized potential for further pasture development, which in many
+ways provides the key to the future well-being of the district, in which both cereal-
+growing and horticulture are, and will continue to be, important. There is the
+decided possibility of increasing vine plantings in the Williamstown area and in
+this regard the yellow podzolic soils may have a special significance for such varieties
+as Riesling.
+I. INTRODUCTION
+The Barossa district covers about 250 square miles of country in parts of the
+Hundreds of Belvidere, Moorooroo, and Nuriootpa, County Light; part of the
+Hundred of Barossa, County Adelaide; and part of the Hundred of Jutland, County
+Sturt, in South Australia. It is important as the largest wine-producing district in
+Australia. The Tanunda—Williamstown area (Fig. 1) is situated in the southern
+portion of the Barossa valley (the northern portion of which forms the Nuriootpa
+plains) and in the adjoining, almost contiguous, Lyndoch valley, which extends
+south to the Williamstown locality.
+The Tanunda-Williamstown area covers about 24,000 acres and arable farming,
+pastures, and horticulture make significant contributions to the local economy.
+In point of total acreage, the horticultural development is second only to that of
+the Nuriootpa area.
+* Division of Soils, C.5.1.R.0., Adelaide, S.A.
+
+
+Fig. 1.—Locality plan, showing Barossa district, South Australia.
+
+
+II. THE LANDSCAPE
+(a) Physiography and Drainage
+(i) Physiography
+The dominant feature of the area is the generally subdued landscape of low,
+rolling hills and plains dissected by creek valleys and bounded by the steep gradient
+of the northern Mt. Lofty range to the east, where the hills rise to over 2000 ft
+above sea-level. The elevation of Tanunda is 864 ft, Lyndoch 595 ft, and Williams-
+town 900 ft (approx.). The detail of the landscape is complex.
+Two units corresponding to the two soil maps may be recognized; the Tanunda-
+Rowland Flat unit and the Lyndoch-Williamstown unit.
+(1) Tanunda-Rowland Flat Unit. —This is the southern extension of the
+Barossa valley formation, the northern portion of which was described by Northcote,
+Russell, and Wells (1954). It is more broken and undulating than the broad, flat
+Nuriootpa plain to the north, and has a steeper gradient towards the North Para
+River, which forms the western limit of this survey. The boundary between the
+northern and southern portions of the Barossa valley formation is defined by the
+northern limit of the Tanunda micro-association of grey and brown soils of heavy
+texture, their dark grey clay surface soils contrasting with the lighter coloured,
+sandy textures of neighbouring areas.
+The Tanunda micro-association of soils covers flat plains. It occupies promi-
+nent and geographically central positions throughout the unit (see Map A) and
+represents the remains of former lacustrine deposits. These have been dissected
+by numerous creeks, such as Tanunda Creek and Jacob Creek which cross the area
+in a general north-westerly direction to flow into the North Para River. Former
+creek activity has resulted in exposure of Tertiary materials, especially along the
+North Para River, the presence of older alluvial deposits of variable nature such
+as the high-level river gravels of Jacob Creek, between the plains of the Tanunda
+soil micro-association and the present creek valleys, the presence of piedmont
+alluvial plains between the Tanunda soil micro-association and the hill slopes to
+the east, and the formation of a series of terraces in the alluvial deposits. The
+topography of this unit is essentially that of a dissected plain of lacustrine sediments
+with terraces and creek flood-plains and with piedmont alluvial plains extending
+down from the bordering hill slopes.
+This unit merges into the Lyndoch-Williamstown unit near Altona and
+Hoffnung Lagoon, which probably represents the southernmost limit of the Barossa
+valley formation although now separated from it by a minor watershed on a pied-
+mont alluvial plain in the vicinity of Trial Hill Road.
+(2) Lyndoch-Williamstown Unit. —The low, rolling hills and the shallow
+Lyndoch valley, which runs meridionally, almost through the centre of the unit,
+present a contrasting landscape to that of the previous area.
+It is a somewhat wedge-shaped unit with the narrow end based on Williams-
+town. The steep slopes of the northern Mt. Lofty Ranges form its eastern margin
+and the lower but quite rugged hills of the Barossa Reservoir catchment area form
+the south-western limits, Sandy Creek the north-western edge, and the North Para
+
+
+River defines the northern limits of the unit. Lacustrine and alluvial deposits are
+largely restricted to the Lyndoch valley, Tweedie Gully, Victoria Creek, and their
+tributaries. The low hills are composed of Proterozoic rocks, mainly phyllitic slates
+(Campana 1955). These rocks outcrop frequently and occur at shallow depths below
+the soils, which in most cases are formed directly from them. Important areas of
+Tertiary (?) deposits occur in two broad bands which extend from the Sandy Creek
+locality, one diagonally across the area to Altona and the other along the south-
+western margin of the area to Williamstown. The Sandy Creek-Altona band, in
+which irregular sand-ridges occur, has been dissected by the Lyndoch valley.
+(ii) Surface Drainage
+The principal drainage-way is the North Para River, which flows in a general
+south-westerly direction from Nuriootpa to near Rowland Flat, where it bends
+sharply to the north-west, ultimately flowing out in a general westerly direction
+into Gulf St. Vincent. In the Tanunda—Rowland Flat area it is joined by several west
+to north-west flowing tributaries, the larger being Tanunda Creek, Jacob Creek,
+and Kabininge Creek. A watershed near Altona is the starting-point for westerly
+drainage to Lyndoch valley, which rises in the Williamstown locality and follows a
+northerly course to join the North Para River near sections 546 and 547 in the
+Hundred of Barossa. It has many small tributaries, the larger being Tweedie Gully
+and Long Gully. Sandy Creek, which forms the north-western limits of the survey,
+also follows a northerly course to join the North Para River downstream from
+Rosedale. Victoria Creek, a tributary of the South Para River, flows south-west
+across the southern tip of the area in the vicinity of Williamstown. It is separated
+from the headwaters of Lyndoch valley by a watershed near Williamstown.
+Poorly drained areas occur locally at Hoffnung Lagoon in section 567, Hundred
+of Barossa, where two lagoons form seasonally. The smaller is fresh but dries out
+more rapidly than Hoffnung Lagoon itself, which becomes saline during the summer
+and autumn. A low watershed of soil material prevents surface drainage flowing
+from this lagoon into Tweedie Gully.
+(iii) Underground Water Supplies
+The hydrology of the Barossa valley, including the quality of the water, has
+been discussed in some detail by Chugg (1955), who finds that the direction of
+movement of underground water appears to conform generally with that of the
+surface drainage, additional supplies of underground water may be obtained from
+bores, and a safe maximum annual amount for this additional withdrawal would
+be about 150 million gal and 50 million gal respectively for the Tanunda-Jacob
+Creek and Lyndoch valley areas, provided bores are adequately spaced.
+(6) Parent Materials of the District Soils
+Four broad groups of parent materials from which the soils were formed may
+be recognized in the area, as set out in Table 1. Their origins are related to a variety
+of geologic events which resulted in the formation of the present physiography,
+outlined above. This is the main reason for both the large numbers and the diversity
+of the soils, as well as their great range in fertility levels. The soils formed from
+
+
+the Tertiary(?) deposits are easily the most impoverished, with more nutrient-
+element deficiencies than those formed from any other parent material. Even so,
+the range of soil conditions which affect plant growth varies greatly within the one
+broad group of parent materials, for example, in the soils formed from lacustrine
+sediments the wiesenboden soils are influenced by a water-table whereas the grey
+and brown soils of heavy texture are not. Thus the kind of soil needs to be taken
+into account when plant growth is considered. In general, data relating to the
+origin of soils, when considered with the subsequent pattern of soil development
+(which is reflected in the classification of the soil) and with their physical and
+chemical properties, will provide valuable information concerning both present and
+potential problems of soil fertility.
+III. THE SOILS
+There exists a considerable variety of soils in the Barossa district, as previously
+reported (Northcote, Russell, and Wells 1954; Northcote and de Mooy 1957;
+Wells 1959). This continues into the Tanunda-Williamstown area. Notable soil
+differences between this area and those studied previously are: (i) the large areas
+of grey and brown soils of heavy texture, which are found in the Greenock-Gomersal
+area also but do not occur extensively in the Nuriootpa or Angaston-Springton
+areas; (ii) the large areas of solonized forms of brown earths which are often inti-
+mately associated with the grey and brown soils of heavy texture as soil complexes;
+(iii) the large areas of solods and other sandy soils which are also a feature of portions
+of the Nuriootpa area but are particularly well developed here; (iv) the areas of
+yellow podzolic soils which also contain, in complex, small areas of sands, solodized
+solonetz, and solodic soils, whereas the yellow podzolic soils of the Angaston-
+Springton areas are associated with skeletal soils; and (v) the relatively small but
+significant area of wiesenboden.
+On the other hand, the similarity of soils and soil conditions between the
+Tanunda-Williamstown area and the Nuriootpa and Greenock-Gomersal areas is
+clearly evidenced by the common occurrence of large areas of red-brown earths
+with smaller areas of solodized solonetz and alluvial soils.
+{a) The Mapping Units and the Soil Maps
+(i) Mapping Units
+Sixteen major soil groups, many of which conform to the great soil groups
+described by Stephens (1953), were recognized, as set out in Table 1 and in the
+keys to the mapping units on the soil maps.
+The soil family, which is the next higher stage in soil classification above soil
+series, has been used in defining and mapping the individual kinds of soils within
+these major soil groups. This approach is an advantage in an area like the Barossa
+district where large numbers of similar, but not the same, soil series occur, because
+they may be drawn together under the one name. Furthermore, observed similarities
+with soil series of adjoining areas are readily brought out. For example, the family
+similarity between some unnamed red-brown earth soil series in the Tanunda-
+Williamstown area and the Stockwell and Light Pass soil series of the Nuriootpa
+
+
+Parent Material
+Major Soil Groups* and Soil Families, Micro-associations, or Groups Defined
+Alluvial deposits as represented by
+Present flood-plains
+Newer terraces
+Older terraces
+Fans of piedmont and lower hill slopes generally
+Alluvial soils —some soils of DW 3, 4, 5, 6, 7, riverwash
+Alluvial soils —some soils of DW 3, 4, 5, 6, 7, Turrung, 10; brown earths —Para
+Red-brown earths —Jacob, Bilyara 2; rendzina —Kroemer
+Transitional red-brown earths-solonized soils —Nuriootpa, RS2
+Solodized solonetz- —Nuraip, S 6, SIO; solod —Moppa— Vine Vale
+Red-brown earths —Stockwell-Light Pass, Bilyara 4
+Transitional red-brown earths-solonized soils —Nuriootpa, RS 3
+Solonized forms of brown earths —Bethany, Kabininge
+Solodized solonetz —Nuraip, S 10; solod —Moppa-Vine Vale
+Lacustrine sediments
+Newer
+Older
+Wiesenboden —Lyndoch
+Grey and brown soils of heavy texture —Tanunda
+Solonized forms of brown earths —Kabininge
+Solodized solonetz? —Sll
+Tertiary? deposits and/or materials influenced by
+lateritic weathering
+Sands — CSl, CS2, CS3 ; solods —Willamba, Long, Incrassata, 1
+Solodized solonetz —Warpoo, Nuraip; solodic soils —SCI
+Podzolized lateritic soils —Belvidere; yellow podzolic soils —Barossa
+Proterozoic rocks —Torrensian series
+Phyllitie slates and associates
+Jointed quartzites and associates
+Sandstones and associates
+Red-brown earths —Dale, Williamstown; terra rossa—Wilsford
+Grey and brown soils of heavy texture —Altona
+Skeletal soils —Ski
+Yellow podzolic soils — YP 1
+Table 1
+PARENT MATERIALS OP THE DISTRICT SOILS
+* The great soil groups included conform to the descriptions given by Stephens (1953).
+
+
+area were established on the survey, thus these unnamed soil series could be placed
+along with the Stockwell and Light Pass soil series in one soil family, the Stockwell-
+Light Pass soil family. This technique has been used wherever family similarities
+could be established. It avoids excessive naming of soil series also.
+Twenty soil families were defined and used as mapping units, together with
+6 soil series, 8 soil groups, 1 micro-association, 23 soil complexes, and 1 soil com-
+bination. These are shown on the accompanying soil maps and are described below.
+(ii) Soil Maps
+Two soil maps are included for the area, one covering the Tanunda-Rowland
+Flat unit and the other the Lyndoch-Williamstown unit. This is necessary because
+of the awkward shape a combined map would have.
+(6) Description of the Soil Areas
+Representative profiles of the different soils are described in Appendix I.
+The data given below are used to bring out the features of the mapping units as
+individual areas of land; but to avoid repetition, such subjects as the nutrient
+element position, waterlogging, salinity, and other specific factors which affect
+productivity will be discussed separately in the next section. The following comments
+on the soils and their companion profile descriptions given in Appendix I should
+be regarded as reference data to be read in conjunction with the soil maps.
+Category I. Soils with Marked Contrast in Texture between Surface Soil and Subsoil
+All soils of this kind have surface soil horizons clearly distinguishable from
+the subsoil horizons below. The surface soils are sands, loamy sands, sandy loams,
+and loams while the subsoils are clays or less frequently sandy clay loams or sandy
+clays. The contrast between surface soil and subsoil is often enhanced by the arrange-
+ment of the subsoils into clearly defined structural units, e.g. prismatic structure,
+which have been described by Northcote, Russell, and Wells (1954).
+(i) Subsoils Containing Free Calcium Carbonate {Lime)
+{A) Red-brown Earths. —All red-brown earths, in which two broad subgroups
+may be recognized as {a) deep red-brown earths and (6) shallow red-brown earths,
+have three important features in common: browm to grey-brown coarse to medium-
+textured surface soils which in (a) are 6-24 in. thick and in (6) 3-9 in. thick; red-
+brown clay subsoils in [a] 12-30 in. thick and in (6) 4-15 in. thick; and a deeper
+subsoil of brown clay with accumulations of calcium carbonate — (a) usually contains
+less carbonate than (b) and in (b) this layer is frequently cemented and laminated
+whereas it occurs in pockets, inclusions, or veins in (a), and moreover, the calcareous
+horizons begin at greater depths in (a) (20-36 in.) than in (b) (12-24 in.). Some of
+the best district soils and certainly those most easily adapted to a variety of agri-
+cultural uses are included.
+(1) Stockwell-Light Pass Family. —This comprises all the deeper red-brown
+earths of the area which have typically developed on the alluvial-colluvial deposits
+of piedmont fans and lower hill slopes to present broad areas of fairly uniform soils
+with slopes ranging from Jess than 1 per cent, at the base to about 15 per cent, at
+
+
+the top. Compared with the areas covered by the Light Pass and Stockwell soil series
+of the Nuriootpa area (Northcote, Russell, and Wells 1954) their development in
+the Tanunda-Williamstown area is limited. The texture of the surface soil is pre-
+dominantly a loam in the piedmont fan above Jacob Creek and a sandy loam in the
+Trial Hill locality. Loam, sandy loam, and loamy sand textures of the surface soils
+are encountered in these soils in the Lyndoch-Williamstown unit. Because they
+cover relatively small individual areas there, they are not entirely typical of the
+family; soil-moisture relationships, for example, are influenced by the topography
+and the surrounding soils.
+(2) Jacob Family. —These soils cover the older terrace formations which
+present weakly undulating, inclined surfaces having irregular low ridges throughout
+and sloping away from the edges of the Tanunda micro-association which they
+adjoin. The alluvial deposits on which Jacob soils formed are variable in character
+but are typified by waterworn stones, which are a striking feature of series 1. The
+variation in the parent material is reflected in differences between the component
+soil series, particularly the stone content and the mottling of the subsoil. Jacob
+soils all have loamy sand surface horizons which vary in thickness from 4 to 27 in.
+and mottled red-brown clay subsoils varying from 14 to 24 in. thick. The calcium
+carbonate content of the deeper subsoil is also variable. In places it rises to within
+9 in. of the surface and here it coats gritty bands of parent material, the red-brown
+clay horizon being entirely lacking. Thus the Jacob soil areas are fairly variable as
+regards both profile changes and the microtopography. Jacob soils occur also in
+complex with both the Tanunda and Kabininge soils (see map A).
+(3) Bilyara Family. —The Bilyara soils are shallow red-brown earths which
+were defined on the Nuriootpa survey (Northcote, Russell, and Wells 1954). They
+cover remnants of older terrace formations (series 2) and piedmont fans (series 4)
+which have inclined almost flat surfaces and present relatively small areas of fairly
+uniform soils. Series 2 has surface soil texture of loamy sand, sandy loam, loam,
+and sandy clay loam, and these changes occur over very small distances, the sandy
+clay loam patches often standing out as areas of “hard” ground. Series 4 has a
+fairly uniform loam texture of the surface soil and a dark red-brown clay subsoil
+whereas that of series 2 is reddish brown. Bilyara soils occur also in complex with
+the Tanunda grey and brown soils of heavy texture.
+(4) Dale Family.— The Dale family of moderately shallow red-brown earths
+covers the low rounded, rolling hills and the short piedmont fans which spread out
+from them in the Lyndoch-Williamstown unit. Parent materials are dominantly
+Proterozoic phyllitic slates and alluvial-colluvial deposits derived from them.
+Dale soils have loam surface soil horizons 8-10 in. thick, a red-brown clay subsoil
+6-15 in. thick overlying large amounts of calcium carbonate with weathered slates
+below this. Slate fragments also occur throughout the profile. Dale soils on their
+own provide fairly uniform areas of soil, but as they occur commonly in complex
+with either the Wilsford terra rossa soils or the Altona grey and brown soils of
+heavy texture, soil conditions do change markedly over short distances.
+(5) Williamstown Family.—These deep red-brown earths occur only in the
+extreme south-western portion of the Lyndoch-Williamstown unit on Proterozoic
+
+
+schists which were partially weathered before the development of the Williams-
+town soils began. They cover several low rounded hills and also occur on lower
+hill slopes, following in ribbon formation the schists which were exposed by dis-
+section. The surface soil texture is typically a loam and fragments of schist appear
+throughout the profile but are especially concentrated in the A 2 horizon. The red-
+brown friable clay subsoil of about 20 in. thickness passes down into weathered
+schist in which accumulations of calcium carbonate appear in cracks and pockets.
+Williamstown red-brown earths cover fairly uniform areas but the size of these
+varies a great deal.
+(B) Brown Earths. —The general form of their profile is similar to that of the
+red-brown earths but their surface soil is generally greyer and the clay subsoil is
+typically brown. They occur in seasonally moister situations than do red-brown
+earths. Agriculturally they are good soils.
+(1) Para Family. —The Para soil series was defined in the Nuriootpa area
+(Northcote, Russell, and Wells 1954) and similar series (see Appendix I) defined
+on this survey have been placed with that series in the Para family. They occur
+typically on newer terraces formed from alluvia and provide fairly uniform soil
+areas although individually not very large. The Para soils are all deep, with a fine
+sandy loam surface soil 12-18 in. thick over a dark brown clay subsoil and with small
+accumulations of calcium carbonate below 30-36 in.
+(C) Brown Earths-Solonized Forms. —Their profile form is similar to that of
+the brown earth but the surface soil is notably powdery and/or crusty and the
+subsoil, which has a strong prismatic structure, is tough and hard when dry and
+tough and sticky when wet; that is, they have poor physical properties which may
+be attributable to the influence of the sodium ion (Table 4). They are not good
+agricultural soils in their present state but can be greatly improved by fertilization
+and clover pasture leys to become quite useful.
+(1) Bethany Family. —These shallow soils, in which the surface horizon is a
+loamy sand 4-5 in. thick over a subsoil of impermeable clay with pockets of calcium
+carbonate in its deeper layers, have formed on alluvial-colluvial deposits of pied-
+mont fans with slopes of up to 15 per cent. Their soil areas are fairly uniform but
+small changes in the thickness of the surface soil markedly affect plant vigour.
+(2) Kabininge Family.— These are deeper soils than those of the Bethany
+family but their subsoils are equally impermeable and consequently the effects of
+seasonal waterlogging are more evident in their subsurface horizons. They are
+formed on alluvial-colluvial deposits of piedmont fans, on lacustrine sediments, and
+also where the two interfinger. Two series were recognized. Series 1, which has a
+sand surface 9-15 in. thick, occurs in small but discrete areas of a fairly uniform
+nature. Series 2, which has a light sandy loam surface about 6 in. thick, always
+occurs in complex with the Tanunda grey and brown soils of heavy texture. Such
+complexes cover large areas which present variable soil conditions for plant growth.
+{D) Transitional Red-brown Earths-Solonized Soils. —Soils placed in this group
+are somewhat intermediate in character between red-brown earths and solodized
+solonetz. Surface soils are usually sands or loamy sands, light-coloured with an
+
+
+almost white (bleached) subsurface horizon which overlies variously mottled clays
+with accumulations of calcium carbonate in the deeper layers. These features are
+similar to those of the solodized solonetz but their friable prismatic structure, which
+readily breaks down to small blocky units, contrasts with the columnar form of
+that group but is similar to the structure of many red-brown earths. As may be
+expected, they are fair agricultural soils capable of improvement.
+(1) Nuriootpa Family. —The Nuriootpa soil series was defined by Northcote,
+Russell, and Wells (1954) and similar soil series (see Appendix I) defined on this
+survey have been placed with that series in the Nuriootpa family. They occur
+typically in the lower-lying situations along the fringes of the Tertiary deposits
+where these adjoin the Proterozoic phyllitic slates. They present fairly uniform
+soil conditions for each individual area of occurrence.
+(2) Unnamed Soil Group RS2.—This is a group of variable soils with a general
+similarity to the Nuriootpa soils but formed on micaceous alluvia of the newer
+terraces. They cover small areas only.
+(3) Unnamed Soil Group RS3.—This collection of transitional red-brown
+earths is typified by hydromorphic features at the junction of the A and B horizons
+where a relatively thin (up to 1 in.) but hard and impermeable layer is found. Such
+soils cover only small areas, especially where drainage conditions are intermediate
+between those pertaining to red-brown earths and solodized solonetz respectively.
+Moreover, each individual area has some peculiarity of its own.
+( E ) Solodized Solonetz. —The soils included in this group have bleached (almost
+white) subsurface horizons immediately above the clay subsoil, columnar structure
+of the subsoil, and visible accumulations of calcium carbonate in the deeper subsoil.
+They cannot be regarded as good agricultural soils, seasonal problems of drought
+and/or waterlogging and sometimes salinity being a feature, but fertilization and
+sound agronomic practices can do much to enhance their productivity.
+(1) Nuraip Family. —Soil series similar to the Nuraip soil series of the
+Nuriootpa survey (Northcote, Russell, and Wells 1954) have been grouped together
+to form the Nuraip family. In this area Nuraip soils have formed from a variety
+of parent materials but especially from Tertiary deposits exposed and/or transported
+by past stream activity and other alluvia of varying origin. The areas of these
+soils are moderately large, particularly in the valley of Tanunda Creek, and show
+some variability due to small changes in topography of an irregular ridge and swale
+type. Nuraip soils are deep, with a sand surface and a pronounced bleached sub-
+surface horizon overlying an impermeable subsoil clay. They can be regarded as
+strongly solodized solonetz.
+(2) Unnamed Soil Series S6.—Only very small areas of these light sandy loam
+moderately solodized solonetz soils (Northcote, Russell, and Wells 1954) were
+encountered.
+(3) Unnamed Soil Series SlO. —Generally similar to the Nuraip soils but kept
+separate from them because of the loamy sand surface soil and the greyer, more
+sticky subsoil clay. They cover only small areas and have developed from the
+alluvia of piedmont fans and older terraces.
+
+
+(4) Unnamed Soil Seri's Sll. —This is quite a distinctive, shallow, weakly
+solodized solonetz, related to the Moorooroo soil series of the Nuriootpa survey.
+511 covers a strip of transitional soil on the outer margin of some areas of the
+Tanunda grey and brown soils of heavy texture. The sandy loam surface soil is
+typically brittle and crusty, indicating the presence and effect of the sodium ion.
+(5) Warpoo Family. —These sandy strongly solodized solonetz occupy small
+localized rises in the Tertiary deposits of the Lyndoch-Williamstown unit. Because
+of this they are more droughty than the other solodized solonetz. Warpoo soils
+also occur in complex with the Barossa yellow podzolic soils.
+(F) Solodic{l) Soils. —These are all shallow soils characterized by tough clay
+subsoils which evidence the effect of the sodium ion. They are always found in
+small areas, usually local hillocks in, and marginal to, the Tertiary deposits. They
+frequently occur in complex with the Barossa yellow podzolic soils.
+(1) Unnamed Soil Group SCl.—This mapping unit embraces a variation of
+soils with loam, sandy loam, and loamy sand surface textures; two main kinds of
+profiles are given in Appendix I. Because of their small areal extent, they are not
+important agriculturally except in so far as they may become local foci for run-off
+and thus for soil erosion.
+(ii) Subsoils Not Containing Free Calcium Carbonate [Lime)
+(A) Solod. —Characteristic features of this group are deep sandy surface soils,
+pronounced bleached subsurface horizon, a subsoil more clayey than the A horizons
+and of massive form often with an irregular domed surface, and the absence of visible
+accumulations of calcium carbonate in the deeper subsoil. Solods have some
+similarity with strongly solodized solonetz but are even more leached. They are
+poor agricultural soils with seasonal problems of drought and/or waterlogging, but
+correct fertilization and sound agronomic practices will markedly improve their
+productivity.
+(1) Moppa-Vine Vale Family. —The Moppa and Vine Vale soil series were
+defined on the Nuriootpa survey (Northcote, Russell, and Wells 1954) and similar
+series (see Appendix I) found in this area have been placed with them in the Moppa-
+Vine Vale family. Here, these soils are formed on alluvial-colluvial deposits of pied-
+mont fans and lower hill slopes. They cover relatively small areas with slopes of
+1-15 per cent. Soil conditions are fairly uniform within each area. Agriculturally
+they are superior to the other solods.
+(2) Willamba Family. —These are the most widespread solods in the area and
+are particularly prominent in the Sandy Creek locality; they also occur in the
+Greenock-Gomersal area (Wells 1959). The Willamba soils are developed on
+Tertiary deposits and cover a dissected plain on which irregular sand-ridges add
+to an already complicated microtopography. Profile variations are considerable,
+particularly in regard to the thickness of the sand A horizons which vary from
+6to 72 in., 30-36 in. being a common depth. The shallow phases occur on upper
+slopes, especially around Sandy Creek, and the deeper phases on lower slopes and
+on sand-ridges. The subsoil is a mottled light red sandy clay loam which has a
+very irregular up-and-down surface. All these features add up to quite variable
+
+
+soil conditions pertaining over the Willamba soil area. These soils have a low order
+of fertility and are generally more droughty than thu other solods.
+(3) Incrassata Family. —The soil series included in this family are similar to
+the Incrassata soil series defined on the Nuriootpa survey (Northcote, Russell, and
+Wells 1954). They are developed in the relatively lower-lying situations on Tertiary
+deposits around the margin of the Willamba soil area, and other areas occur marginal
+to the Barossa yellow podzolic soils. The coarsely mottled clayey sand or sandy
+clay loam subsoils, with clay coatings on the sides of cracks and aggregate faces,
+clearly show the influence of the fairly severe seasonal waterlogging which is a feature
+of Incrassata soils. Individual areas of these soils are not large and the soil con-
+ditions are fairly uniform throughout.
+(4) Long Family. —In broad terms the Long soils family is similar to the
+Incrassata as it is developed on similar Tertiary parent materials, but the brighter
+colours and only slight mottlings of the sandy clay loam or sandy clay subsoils
+show that they are better-drained soils. They are found along drainage-ways in
+the Willamba soil area; other areas occur marginal to the yellow podzolic soils.
+(5) Unnamed Soil Series 1.- —This soil series covers very small, narrow areas in
+hollows in the Willamba soil area. The organic surface soil and the gley features of
+the subsoil (see Appendix I) indicate the severe restriction on drainage which occurs
+seasonally.
+( B) Podzolized Lateritic Soils
+(1) Belvidere Series. —One small area of this soil occurs near Tanunda. The
+Belvidere series, which was defined by Northcote, Russell, and Wells (1954), has
+sandy A horizons containing variable amounts of ironstone gravel which overlie
+mottled clay subsoils at 9-18 in. in depth. They are low-fertility soils with a
+seasonal problem of subsurface waterlogging.
+( C) Yellow Podzolic Soils. —The main characteristics of these soils are coarse-
+textured A horizons, a definitely lighter-coloured A 2 horizon often of a yellowish
+colour, and a mottled yellow clay subsoil of weak angular blocky structure when
+moist. Yellow podzolic soils have poor reserves of plant nutrients and their subsoils
+restrict water movement. Correct fertilization and sound agronomic practices
+involving a clover pasture will greatly increase their productivity.
+(1) Barossa Family— The Barossa family of yellow podzolic soils is fairly
+widespread in the south-western portion of the Lyndoch-Williamstown unit where
+their parent materials, the Tertiary deposits, cover large areas. The topography
+is that of a dissected plain with many minor topographic irregularities. Barossa
+soils are fairly deep with a sand surface of about 15 in. in thickness over a clay
+subsoil some 30 in. thick, below which are found mottled clays and sandy clays of
+the Tertiary deposits. In themselves, the areas of Barossa soils present fairly uniform
+conditions but considerable variation is encountered owing to the small areas of other
+soils frequently found in complex with them. These are soil group SCI of solodic(?)
+soils, soil group CS2 of sands and ferruginous material, and the Warpoo solodized
+solonetz, as shown on Map B.
+
+
+(2) Unnamed Soil Series YPI. —Only a small area occurs to the east of
+Williamstown. The coarse sandy surface soil is usually about 18 in. thick, but there
+is much variation. It overlies a mottled clay subsoil of about 6 in. in thickness
+which in turn overlies weathered sandstone. The areas of YP I soils are hilly with
+some steep slopes exceeding 25 per cent, and therefore soil conditions are quite
+variable.
+Category 11. Soils ivith No Marked Contrast in Texture between Surface Soil and
+Subsoil
+These soils do not have the distinctive contrast in texture between surface
+soil and subsoil found in the Category I soils. Soil groups are developed on coarse-
+textured and on medium- and/or fine-textured parent materials.
+(i) Coarse-textured
+[A) Sands. —This grouping includes all the sand soils Avhich, because they
+lack distinctive profile features, cannot be placed with any recognized major soil
+group. On the whole they are of limited agricultural value.
+(1) Unnamed Soil Group CSL—These deep soils formed from Tertiary materials
+are usually very coarse and may contain a high percentage of quartz and ironstone
+grit and gravel. Slabs of sandy ironstone are often associated with them. Areas
+are not large but much local variation is usual.
+(2) Unnamed Soil Group CS2.—lncludes both shallow and deep ferruginous
+coarse sandy soils with a reddish brown sandy loam surface. They are formed from
+the Tertiary materials and slabs of sandy ironstone, ferruginized quartz con-
+glomerate, or ferruginized schist are common throughout. They are remnants of
+former geologic periods and consequently the variation is considerable.
+(3) Unnamed Soil Group CS3.—These are the very deep light-coloured loose
+sands of which a limited area occurs north-west of Altona. They are probably
+derived from Tertiary materials.
+( B ) Skeletal Soils
+(1) Unnamed Soil Group Ski.—Very small areas of these soils are found north-
+east of Lyndoch where they are associated with outcrops of jointed quartzite. They
+are essentially shallow loamy soils overlying weathered rocks at variable depths
+(commonly 8 in. here); small veins of clay may occur between the cracks in the
+rock. Other descriptions and details of skeletal soils in the Barossa district are
+given by Northcote and de Mooy (1957).
+(0) Sandy Alluvial Soils
+(1) Turrung Family. —These include all the deep, fine sandy soils adjacent
+to drainage-ways. They are freely to excessively drained (Northcote, Russell, and
+Wells 1954).
+(ii) Medium- and/or Fine-textured
+(A) Terra Rossa Soils.— Their characteristics are: red to brown mellow,
+structured soil usually of shallow depth; no free calcium carbonate in this soil
+material unless incorporated by cultivation; and underlain by calcium carbonate
+accumulations with a hardened capping.
+
+
+(1) Wilsford Family. —These shallow, friable loam soils have developed from
+Proterozoic phyllitic slates and are widespread in the north-eastern portion of the
+Lyndoch-Williamstown unit in association with the Dale red-brown earths. Two
+complexes between these soils were mapped as Wilsford-dominant and Dale-
+dominant. The former, the Wilsford-Dale complex, occurs over the more broken
+and hilly terrain, outcropping rock being a feature also. The latter, the Dale—
+Wilsford complex, occurs on the lower, more rounded hills which are marginal to
+the former complex. The usefulness of these soil complexes is largely determined
+by local topography as both the component soils are sound agricultural soils.
+(. B ) Rendzina
+(1) Kroemer Family. —Similar shallow dark-coloured calcareous soils were
+defined in the Nuriootpa area by Northcote, Russell, and Wells (1954). Only two
+small occurrences were found in the surveyed area.
+( C) Grey and Brown Soils of Heavy Texture. —These are essentially deep clay
+soils, either grey or brown, with a thin, favourably structured, often self-mulching
+surface soil which passes fairly sharply to subsoil clay of more massive structural
+units which continues for some depth, often with calcium carbonate accumulation
+in its lower part, and gradually passes to lighter coloured, often mottled brown,
+clays containing calcium carbonate. A feature of such soils is the conspicuous
+pattern of cracks up to 1-2 in. in width which form as the dry season progresses.
+Gilgai formations often occur and with these calcium carbonate may be distributed
+irregularly throughout the profile and on the soil surface. They are sound agricul-
+tural soils especially for annual grain crops.
+(1) Tanunda Micro-association. —These are the conspicuous “black” clay soils,
+the flat expanses of which dominate the landscape from Rowland Flat to Tanunda
+and west across the North Para River too, in the Gomersal area (Wells 1959).
+Gilgai formation —hump and hollow microrelief —was a feature before cultivation
+but is not evident now except along little-used roads and along fences. These soils
+have developed from older lacustrine sediments and provide fairly uniform con-
+ditions for plant growth over large areas. The grey soils of heavy texture are dominant
+over their brown counterparts throughout most of the area, but the two do occur
+within a few yards of each other in many places. Another minor feature is the
+presence of occasional small saline depressions.
+The Tanunda micro-association is found in complex with both the Jacob and
+Bilyara families of red-brown earths and also the Kabininge family of solonized
+brown earths. These complexes provide the contrast of clay, loamy sand, and
+sandy loam surface soils occurring within yards of each other and thus provide
+very variable soil conditions over relatively small areas.
+(2) Altona Micro-association. —These grey and brown clay soils (see Appendix
+I) have developed on Proterozoic phyllitic slates and rarely occur over large
+individual areas but are common in complex with the Dale red-brown earths to
+provide variable soil conditions over relatively small areas.
+(D) Wiesenboden. —These are essentially dark-coloured clay soils with cal-
+careous clay subsoils and a fluctuating ground-water table.
+
+
+(1) Lyndoch Family. —These black clay soils found in the Lyndoch valley are
+developed from newer lacustrine sediments, still under the influence of ground water.
+They provide fairly uniform soil conditions for plant growth except for variations
+introduced by the fluctuating ground-water table which has affected the salinity
+of this soil and especially its deeper layers in parts of the valley.
+(. E ) Alluvial Soils
+(1) Unnamed Soil Group 10.—The black loam and clay loam soils of creek and
+river flood-plains are included here; seasonal water-tables may influence these soils
+(Northcote, Russell, and Wells 1954).
+Category 111. Soil Complexes
+Where soils change over distances too small to allow their individual areas to
+be mapped out separately, they are grouped together and mapped as a soil complex.
+Complexes of named and numbered soils have been discussed already under
+the appropriate major soil group heading (see soil maps also), but besides these
+there are the soils which occur in proximity to the drainage-ways.
+[A) Soils along Drainage-ways: DW3, DW4, DWS, DW6, DW7. —Complexes
+DWI, DW2, and I) IT3 were mapped in the Nuriootpa area (Northcote, Russell,
+and Wells 1954).
+(1) Complex DW3.—This includes all the soils of the present flood-plain] of the
+North Para River and some of its tributaries. Each time floods occur these soils are
+altered. Useful soil areas do occur, particularly along the Tanunda and Jacob Creeks.
+(2) Complex DW4. —This complex embraces all the soils found in the Tweedie
+Gully-Lyndoch valley areas except the larger areas of the Lyndoch wiesenboden.
+They are mainly deep fine micaceous sands, brown earths similar to the Para soils
+family, transitional red-brown earth-solonized soils, and small areas of the Lyndoch
+wiesenboden. The generally favourable water regime of this valley area enhances
+the agricultural value of these soils.
+(3) Complex DWS. —This accounts for the seasonally waterlogged, that is
+hydromorphic, variations of the Stockwell-Light Pass red-brown earths and the
+Altona grey and brown soils of heavy texture. This is a ribbon development along
+small drainage-ways and thus of strictly limited agricultural significance.
+(4) Complex DW6. —This complex includes the ribbon development of solodized
+solonetz and solod soils around some of the smaller drainage-ways. Their agricul-
+tural use is restricted.
+(5) Complex DW7. —In the Rosedale locality there is a complex array of
+flood-plain and newer and older terraces along the North Para River, the soils of which
+are defined as complex DW7. It is very variable, but the most important parts
+agriculturally are the terraces; the older and higher, which may exceed 7 chains
+in width, are covered by an alluvial soil with brown earth affinities. The newer and
+lower terraces are often wider and their soils, which have less definite brown earth
+affinities, are much more variable, usually containing a large amount of water-
+worn stone.
+
+
+Category IV. Soil Combinations
+{A) Trial Hill. —The soil combination is a broad-scale mapping unit used here
+to show the relationship between this area and the adjoining Tanunda Creek-Trial
+Hill area (Northcote and de Mooy 1957), the Trial Hill combination forming the
+common ground between the two areas. The dominant soils in this combination,
+which covers the lower rounded hills flanking the eastern side of the Barossa valley,
+are red-brown earths, grey-brown skeletal soils, and grey-brown podzolic soils.
+These are described by Northcote and de Mooy (1957). In the areas of the Trial
+Hill combination near Hoffnung Lagoon and Tweedie Gully, the Dale red-brown
+earths occur as well as the Trial Hill family of red-brown earths recorded previously.
+(c) Factors Affecting Soil Productivity
+(i) The Question of Nutrient Elements and Soil Fertility
+It is well known that plants differ in their requirements for nutrient elements
+and that soils differ in their ability to supply them. Because of this some soils are
+termed deficient. A soil deficiency may be either absolute, when not enough of
+the nutrient is present to allow the normal growth of the plant, or partial, when
+additions of the nutrient will improve yield and/or quality of the plant. Many
+deficiencies fall into the latter group. Again, deficiencies may be natural or induced
+by agricultural practices, for example, by over-cropping. The only way to deter-
+mine conclusively the needs of particular plants and soils is to grow plants in soils
+under field conditions. To this end a number of techniques such as the use of
+symptoms of indicator plants, chemical analysis of plants, pot-culture methods,
+all of which give useful clues about what nutrients to try in the field, have been
+developed. Basic to all this should be a knowledge of the kind of soil involved, its
+origin and formation, and its chemical properties, especially the exchangeable
+cations. These characteristics provide data regarding the level of the reserves of
+mineral nutrients in the soils and a guide to the predisposition of soils to deficiencies.
+Then, if these data are considered along with accumulated experience, clues about
+the deficiencies of particular soils will emerge and suggestions for trials in the field
+may be made. In this connexion, the soils of the Tanunda-Williamstown area may
+be divided into three broad groups as follows:
+(a) Soils with the exchangeable cations largely dominated by hydrogen or
+hydrogen plus magnesium and with relatively low total exchangeable cations
+(less than 15 m-equiv. per cent, in Bj horizon), i.e. with a predisposition
+to deficiencies—podzolized lateritic soils, yellow podzolic soils, some solods
+(such as Incrassata), sands, skeletal soils, and some sandy alluvial soils
+(Table 2).
+( b ) Soils with the exchangeable cations largely dominated by the metal ions
+(calcium, magnesium, and potassium) and with relatively high total
+exchangeable cations (more than 15 m-equiv. per cent, in Bi horizon),
+i.e. a low predisposition to deficiencies—red-brown earths, brown earths,
+transitional red-brown earths-solonized soils, terra rossa, rendzina, grey
+and brown soils of heavy texture, wiesenboden, some loamy alluvial soils
+(Table 3).
+
+
+(c) Soils with a significant proportion of sodium in the exchangeable cations
+(more than 6 per cent, in the Bi horizon and increasing in amount with
+depth), i.e. a predisposition to deficiencies due to the influence of sodium
+ion—solonized forms of brown earths, solodized solonetz, and some solods
+(such as Moppa-Vine Vale) and solodic soils (Table 4).
+It will be noted that solods may occur in both groups (a) and (c), which is to
+be expected from their morphology and chemistry which place them somewhere in
+the soil spectrum between solodized solonetz and some forms of podzolized soils.
+(1) Nitrogen and Phosphorus. —These two major elements are considered
+separately because they are needed in nearly all South Australian soils. Indeed,
+the phosphorus deficiency found in so many of our soils has led to the technique of
+improving and maintaining soil fertility with superphosphate applications and
+subterranean clover ( Trifolium subterraneum) pastures, a method which is applicable
+to most of the district soils although barrel medic and snail medic ( Medicago
+tribuloides and M. scutellata) may replace subterranean clover on the grey and brown
+soils of heavy texture, rendzina, and wiesenboden.
+Nitrogen and organic matter are closely bound up with each other and their
+level in soil is related more to soil husbandry than to the kind of soil. In the Barossa
+district, for example, on the same soil type an area under improved pasture con-
+taining subterranean clover will contain more than two and a half times as much
+nitrogen as an area of clean-cultivated vineyard or orchard (Northcote and de Mooy
+1957). This is one reason for the loss of surface soil fertility and increasing erosion
+in vineyard and orchard soils as previously discussed by Northcote, Russell, and
+Wells (1954).
+In common with most South Australian soils, phosphorus contents are low
+(Tables 2-4), soils of group (6) being slightly better supplied than those of ( a ) and
+(c). Applications of superphosphate to all soils should be regarded as basic for
+sound agricultural practice in the district. In this regard, soils of group (a) and
+possibly (c) require heavier initial applications and maintenance dressings than do
+those of group ( b ) (Tiver 1955). This is one reason for the lower productivity which
+is found on many areas of soils of classes (a) and (c) as compared with those of class
+(b). There is room for continued research such as that of Cook (1942), Woodroffe
+and Williams (1953), and Donald and Williams (1954) into this aspect and also
+into the question of the residual effect of applied phosphate on different soils.
+(2) Soils of Group (a) — Podzolized Lateritic Soils, Yellow Podzolic Soils, Some
+Solods, Sands, Skeletal Soils, and Some Sandy Alluvial Soils. —These are the soils in
+which many deficiencies of both an absolute and a partial nature have been recorded
+in other areas and in a wide range of plants (Tiver 1955; Northcote and de Mooy
+1957). Besides nitrogen and phosphorus, the most widespread deficiencies seem
+to be molybdenum, zinc, and copper, especially in subterranean clover. It is
+interesting and a reflection of the highly weathered state of group (a) soils that
+the order of importance of these nutrients varies from locality to locality. The
+suggestion is that they are all needed for high-class production. Again, even if no
+plant response is obtained, copper is frequently necessary to maintain stock health
+and wool quality. Copper, zinc, and molybdenum are also at least partially deficient
+
+
+Sample No.
+Horizon
+Depth
+(in.)
+pH
+Clay
+(%)
+Total*
+Phosphorus
+(%)
+Total*
+Potassium
+(%)
+Exchangeable Cations!
+Total
+Ca
+Mg
+K
+Na
+H
+A
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+Solods
+Willamba family
+A161 (1)
+A x
+0-2i
+6-2
+3
+0-006
+0-04
+9-7
+4-6
+48
+1-0
+10
+0-1
+1
+0-1
+1
+3-9
+40
+A161 (6)
+Bi
+41-51
+6-6
+19
+n.d.f
+n.d.
+7-6
+2-7
+36
+3-0
+39
+0-1
+2
+0-4
+6
+1-3
+17
+A161 (7)
+B-C
+61-70
+7-2
+31
+Incrassata family
+A166 (1)
+Ai
+0-3i
+6-4
+1
+0-003
+0-02
+3-1
+1-4
+45
+0-2
+7
+0-06
+2
+0-02
+1
+1-4
+45
+A166 (4)
+Bt
+35-40
+6-2
+24
+0-004
+0-17
+10-9
+2-3
+21
+3-9
+36
+0-12
+1
+1-2
+11
+3-4
+31
+Long family
+A163 (4)
+Bi
+26-34
+6-5
+14
+0-005
+0-16
+6-1
+2-2
+36
+1-9
+31
+0-17
+3
+0-56
+9
+1-3
+21
+Yellow podzolic soils
+Barossa family
+A171 (1)
+Ai
+0-3
+6-3
+4
+0-004
+0-02
+5-3
+1-5
+28
+0-5
+9
+0-2
+4
+0-03
+1
+3-1
+58
+A171 (5)
+Bl2
+18-24
+6-6
+53
+0-006
+0-16
+12-6
+0-3
+2
+6-0
+48
+0-2
+2
+0-5
+4
+5-6
+44
+A171 (6)
+b 2
+24-28
+5-7
+51
+n.d.
+n.d.
+Podzolized lateritic soils
+Belvidere series
+17672
+A!
+0-5|
+6-1
+4
+n.d.
+n.d.
+6-0
+2-1
+35
+0-4
+7
+0-1
+1
+0-1
+1
+3-3
+55
+17676
+Bi
+18-20
+6-1
+41
+0-008
+n.d.
+12-7
+1-6
+13
+3-4
+27
+0-3
+2
+0-4
+3
+7-0
+55
+Table 2
+ANALYTICAL DATA FOR KEY HORIZONS; SOILS OF GROUP (a)
+* Soluble in boiling hydrochloric acid,
+f n.d. = Not determined.
+t A = m-equiv./100 g of soil; B = percentage composition of exchangeable cations.
+
+
+for many horticultural crops grown on these soils. Vines may respond to zinc
+swabbing by increased yields (Coombe 1952). Where copper-containing sprays are
+used for disease control it is most unlikely that copper deficiency will arise.
+Sulphur deficiency may be important too, but since it is a constituent of
+superphosphate, the application of this fertilizer will correct it, at least temporarily,
+on many of these soils. Other sources of sulphur may become necessary, however,
+as the general level of soil fertility and organic matter is raised and the content of
+phosphorus increased (Anderson 1952 a; Steinberg and Williams 1956).
+All the soils of group (a) are low in potassium and calcium, the yellow podzolic
+soils being particularly low in calcium. There is every reason to anticipate at least a
+partial potassium deficiency on these soils, possibly induced by current forms of soil
+management which, while satisfactory on the more fertile red-brown earths, are not
+adapted to the low-fertility soils of the district. Indeed it is suggested that where
+these soils have been used intensively for horticultural crops, potassium is needed
+now, especially where an attempt is being made to grow legumes for green manure
+or ley pasture purposes, and also where fruit quality is declining. Since calcium
+is a constituent of superphosphate, an absolute deficiency seems unlikely where
+this fertilizer is used, although partial deficiencies in particular crops are more
+than feasible.
+The Willamba solod deserves special mention as a soil of very low natural
+fertility in which deficiencies may be induced relatively easily by using cultural
+practices suitable for more fertile soils such as the neighbouring red-brown earths.
+Highly developed orchards on the Willamba solod have with the passage of time
+shown examples of many deficiencies, including copper, zinc, boron, manganese,
+and recently potassium; pears in particular have suffered. Deficiencies will be
+more intense on the deeper phases of the Willamba soils than on the shallower phases.
+In view of the low fertility of group (a) soils and their predisposition to
+deficiencies it is not surprising that large areas are underdeveloped by comparison
+with the rest of the Tanunda-Williamstown area. But improvement of the soils
+with nutrient elements and subterranean clover pastures is a practical proposition.
+(3) Soils of Group (b) — Red-brown Earths, Brown Earths, Transitional Red-
+hrown Earths-Solonized Soils, Terra Rossa, Rendzina, Grey and Brown Soils of Heavy
+Texture, Wiesenboden, Some Loamy Alluvial Soils. —Apart from phosphorus and
+nitrogen, which have been discussed above, zinc is the main nutrient element likely
+to be required on all these soils. Moreover, the evidence suggests that zinc occurs
+mainly as a partial deficiency; for example, vines may respond by increased yields
+to zinc treatment even though there are no obvious symptoms of zinc deficiency
+(Coombe 1952). Furthermore, it is highly likely that zinc deficiency will occur on a
+wider range of plants on those soils in which not only a high pH but also the calcium
+carbonate content influences the nutrient element position, that is, in the shallow
+red-brown earths such as Bilyara series 2, rendzina, grey and brown soils of heavy
+texture, and wiesenboden. Millikan (1938) reported zinc deficiency in flax grown
+on the Wimmera grey soils of heavy texture, which are related to the Tanunda
+soils; Forster and Hore (1939) obtained increased yields of wheat on the Wimmera
+soils too; cereals, subterranean clover, and flax have all responded to applications
+
+
+Depth
+(in.)
+Clay
+(%)
+CaC0 3
+(%)
+Exchangeable Cations J
+Sample No.
+Horizon
+pH
+Total*
+P
+(%)
+Total*
+K
+(%)
+Total
+Ca
+Mg
+K
+Na
+H
+A
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+Red-brown earths
+Jacob family; series 1
+A63 (1)
+Ai
+0-6
+6-6
+6
+0
+0-018
+0-11
+6-7
+3-3
+50
+0-4
+6
+0-5
+7
+0-2
+2
+2-3
+35
+A63 (5)
+Bis
+22-30
+7-6
+54
+0
+0-012
+0-86
+25-3
+12-6
+50
+7-1
+28
+1-2
+5
+0-8
+3
+3-6
+14
+Bilyara family: series 4
+A64 (2)
+A2
+3-9
+7-0
+19
+0
+n.d.f
+n.d.
+17-5
+10-5
+61
+2-1
+12
+0-9
+5
+0-2
+1
+3-7
+21
+A64 (4)
+D12
+14-18
+7-9
+67
+0-02
+0-017
+1-1
+44-9
+29-5
+66
+8-7
+19
+1-4
+3
+0-6
+1
+4-7
+11
+Bilyara family: series 2
+A17 (2)
+Stockwell-Light Pass fai
+Bi
+nily
+5$-7
+8-3
+53
+0-12
+n.d.
+n.d.
+27-8
+23-7
+85
+2-8
+10
+0-9
+4
+0-3
+1
+—
+—
+A70 (3)
+Bi
+10-21$
+7-5
+77
+0
+0-017
+1-1
+45-4
+19-2
+43
+16-0
+35
+1-8
+4
+1-5
+3
+6-9
+15
+Dale family
+A168 (3)
+Bi
+9-15
+8-1
+55
+0-01
+0-022
+0-9
+32-4
+21-8
+67
+5-1
+16
+1-3
+4
+0-3
+1
+3-9
+12
+Williamstown family
+A170 (1)
+Ai
+0-3
+6-2
+12
+0
+0-025
+0-4
+21-6
+10-4
+48
+2-0
+9
+0-6
+3
+0-2
+I
+8-4
+39
+A170 (4)
+Bi
+8-14
+7-1
+45
+0
+n.d.
+n.d.
+19-2
+8-4
+44
+5-6
+29
+0-8
+4
+0-8
+4
+3-6
+19
+A170 (5)
+B12
+14-26
+8-0
+59
+<0-01
+0-016
+1-2
+24-0
+9-8
+41
+9-0
+38
+1-2
+5
+2-3
+9
+1-7
+7
+Brown earths
+Para family
+A72 (3)
+Bx
+17-19$
+7-3
+39
+0
+0-016
+0-9
+24-0
+9-2
+38
+9-2
+38
+0-9
+4
+0-5
+2
+4-2
+18
+A72 (5)
+b 2 -c
+36-46
+8-2
+25
+<0-01
+n.d.
+n.d.
+18-6
+6-0
+32
+9-8
+53
+0-7
+4
+0-5
+3
+1-6
+8
+Table 3
+ANALYTICAL DATA FOB KEY HORIZONS: SOILS OF GROUP (6)
+
+
+Exchangeable Cations J
+Sample No.
+Horizon
+Depth
+(in.)
+pH
+Clay
+(%)
+CaC0 3
+(%)
+Total*
+P
+(%)
+Total*
+K
+(%)
+Total
+Ca
+Mg
+K
+Na
+H
+A
+A B
+A B
+A B
+A B
+A B
+Transitional red-brown ea
+Nuriootpa family
+A165 (1)
+A165 (4)
+rths-solon
+Ai
+Br
+ized soils
+0-2
+9-15
+6-4
+6-9
+9
+73
+0
+0
+0-006
+0-007
+0-16
+1-01
+9-8
+30-9
+3-0 31
+9-8 32
+1-2 12
+7-4 24
+0-6 6
+3-0 10
+0-1 1
+0-8 2
+4-9 51
+9-9 32
+Terra rossa
+Wilsford family
+A167 (1)
+A
+0-5*
+7-9
+21
+0-02
+0-020
+0-47
+21-5
+16-4 77
+2-0 9
+0-88 4
+0-06 0
+2-2 10
+Grey soil of heavy texture
+Tanunda micro-assoeiatio
+15758
+15762
+n
+(i)
+(4)
+0-7
+38-60
+8-6
+9-3
+41
+22
+4
+67
+0-016
+0-005
+n.d.
+n.d.
+38-7
+20-0
+32-8 85
+7-5 37
+3-8 10
+11-2 56
+1-7 4
+0-3 2
+0- 1
+1- 5
+- —
+Wiesenboden
+Lyndoch family
+A169 (3)
+A169 (4)
+(1)
+(2)
+84-224
+22£-28
+8-2
+8-8
+63
+38
+0-16
+6-5
+n.d.
+0-034
+n.d.
+1-7
+45-7
+n.d.
+19-1 42
+22-2 49
+2-5 5
+1-9 4
+— —
+Table 3 ( Continued)
+* Soluble in boiling hydrochloric acid,
+f n.d. = Not determined.
+t A = m-equiv./100 g of soil; B = percentage composition of exchangeable cations.
+
+
+Exchangeable CationsJ
+Sample No.
+Horizon
+Depth
+(in.)
+pH
+Clay
+(%)
+Total*
+Phosphorus
+(%)
+Total*
+Potassium
+(%)
+Total
+Ca
+Mg
+K
+Na
+H
+A
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+Brown earths-solonized forn
+Bethany family
+A65 (1)
+Ai
+o-H
+7-1
+13
+0-018
+n.d.
+9-7
+4-5
+46
+2-2
+23
+0-4
+4
+0-6
+6
+2-0
+21
+A65 (2)
+Bi
+8-2
+48
+0-011
+0-8
+26-3
+11-0
+42
+10-4
+40
+1-0
+4
+3-9
+14
+—
+—
+Kabininge family: series 1
+A68 (4)
+Bl2
+15-26
+8-0
+63
+n.d.f
+n.d.
+34-8
+15-7
+46
+10-9
+31
+1-5
+4
+3-9
+11
+2-8
+8
+Kabininge family: series 2
+A69 (3)
+Bi
+7-10
+7-7
+66
+0-015
+1-0
+37-8
+18-3
+49
+8-0
+21
+1-5
+4
+5-0
+13
+5-0
+13
+Solodized solonetz
+Nuraip family
+17420
+Ai
+0-4
+6-2
+5
+n.d.
+n.d.
+5-5
+1-8
+33
+0-7
+12
+0-2
+4
+0-1
+2
+2-7
+49
+17424
+Bi
+19-24
+6-5
+46
+0-007
+n.d.
+18-8
+3-2
+17
+6-0
+32
+0-7
+4
+2-7
+14
+6-2
+33
+Warpoo family
+A164 (1)
+Ai
+0-3i
+7-2
+3
+0-011
+0-06
+11-4
+7-5
+66
+1-3
+11
+0-3
+2
+0-05
+1
+2-3
+20
+A164 (5)
+Bi
+19-28
+5-9
+58
+0-008
+0-5
+20-9
+5-9
+28
+5-5
+26
+0-6
+3
+1-4
+7
+7-5
+36
+Solods
+Moppa— Vine Vale family
+17475
+Ai
+0-7
+7-4
+2
+n.d.
+n.d.
+2-5
+1-2
+48
+0-3
+12
+0-2
+8
+0-1
+4
+0-7
+28
+17479
+Bi
+26-28
+6-5
+41
+0-008
+n.d.
+16-5
+3-1
+19
+6-0
+37
+0-4
+2
+1-7
+10
+5-3
+32
+Table 4
+ANALYTICAL DATA FOR KEY HORIZONS: SOILS OF GROUP (c)
+* Soluble in boiling hydrochloric acid,
+f n.d. = Not determined.
+% A = m-equiv./100 g of soil; B = percentage composition of exchangeable cations.
+
+
+of zinc on the grey and brown soils of heavy texture in the south-east of this State;
+and experimental applications of zinc to grapes grown on the Tanunda soils allowed
+normal setting of the berries where previously it was extremely poor (Wells 1959).
+Manganese is also a possible deficiency for some plants grown in the more
+alkaline and calcareous soils of this group —rendzina, grey and brown soils of heavy
+texture, and wiesenboden —although no local reports are known. The incidence of
+manganese deficiency is usually seasonal, being more apparent in dry seasons,
+especially where the soil is affected by a water-table as the wiesenboden are.
+(4) Soils of Group (c) — Solonized Forms of Brown Earths, Solodized Solonetz,
+Some Solods and Solodic Soils. —The high content of exchangeable sodium is the
+special feature of these soils. It could cause an imbalance between nutrient elements
+and make them relatively unavailable. Again, sodium ion has helped to maintain
+the poor structure and consistence found in the sandy loam types, such as the
+Bethany and Kabininge series 2 soils, and because this restricts water entry the
+nutrient supply is often limited, seasonally, sooner than in non-sodium soils.
+Apart from nitrogen and phosphorus, zinc and copper are the main deficiencies
+likely to occur on these soils. Zinc has proved useful on vines (Coombe 1952). The
+application of both zinc and copper has allowed subterranean clover pastures to
+become established on similar soils in the south-east of the State.
+The supply of potassium is generally adequate although the solods are border-
+line and could become deficient.
+The supply of calcium is adequate in the solonized forms of the brown earths
+but is border-line in the solodized solonetz and solods. The possibility of deficiency
+is reduced by the use of superphosphate, which contains calcium, as a fertilizer.
+The Bethany and Kabininge soils could be made much more productive as their
+total exchangeable cation content is quite good (Table 4). To do this, it is suggested
+that the structure and consistence of their surface soils should be improved by
+establishing subterranean clover pastures with superphosphate applied at the rate
+of 2 cwt per acre per year over a period of 5-6 years plus 7 lb zinc per acre and
+31 lb of copper per acre in the first year only; after this a maintenance ration of
+superphosphate at 1 cwt per acre per year should be sufficient. Adequate seed-
+bed preparation is advisable on these soils.
+(5) Phases of Soil Types. —lt is important to realize that within the groups
+outlined above, and indeed within the one soil type, a variation in the thickness of
+the surface soil occurs, and that generally speaking the deeper the surface soil
+beyond the optimum range of 6-15 in. (depending on texture), the greater the chance
+of deficiency problems. This is particularly the case with sand textures. Of course,
+the rooting habit of the plant must be considered also. Again, where the surface
+soil is shallow, problems of soil drought may affect the nutrient element position.
+(ii) Physical Properties for Plealthy Soils
+The behaviour of soil towards tillage operations, entry of water and its passage
+through the soil, aeration, the development of plant roots, and liability to erosion
+are among the factors which depend on the physical properties of the soil. Conse-
+quently, it is important to have satisfactory physical conditions in soil for good
+plant growth.
+
+
+(1) Surface Soils. —Surface soils are stable under well-managed pasture, and
+conversely are liable to degradation under prolonged clean cultivation such as that
+commonly practised in vineyards and orchards. The better the original structure
+and consistence of the soil, the longer will be the time involved before degradation
+occurs, e.g. the Wilsford terra rossa soils as compared with the more readily degradable
+Bethany solonized brown earths. This loss of structure and consistence leads to erosion
+which causes the removal of plant nutrients accumulated in the surface soil, e.g. of
+phosphorus and nitrogen, so that a serious decline in surface soil fertility results
+(Northcote, Russell, and Wells 1954).
+The surface soils in this area may be placed in three broad textural classes,
+as follows:
+(a) Sands, loamy sands, and light sandy loams;
+( h ) Sandy loams, fine sandy loams, sandy clay loams, and loams;
+(c) Clay loams and clays.
+(а) Sand, loamy sand, and light sandy loam textures are found mainly in
+the solodized solonetz, solod, yellow podzolic soils, podzolized lateritic soils, sands,
+skeletal soils, and sandy alluvial soils, and sometimes in red-brown earths and
+transitional red-brown earths-solonized soils (see Appendix I). Prolonged clean
+cultivation results in the formation of a loose, single-grain condition in the surface
+soil, especially where it contains 5 per cent, or less of clay. As a result the soil does
+not always accept water readily, its liability to erosion is high, and the level of
+plant nutrients is low. The large drifting sand-hills in an area of Wifiamba sand
+east of the Sandy Creek locality are striking examples.
+(б) Sandy loam, fine sandy loam, sandy clay loam, and loam textures are
+found mainly in the red-brown earth, brown earth, solonized brown earth, terra
+rossa, solodic soils, and in some alluvial soils (see Appendix I). Prolonged clean
+cultivation results in a break-down of the structural units of the surface soil with
+a release of clay particles which become suspended in water during rain and form
+a film on the soil surface as it dries. The skin or seal of clay so formed (Northcote
+and de Mooy 1957) reduces the rate of water entry into the soil, thus increasing its
+liability to erosion. This condition and the resultant erosion may be observed on the
+Dale and Williamstown red-brown earths, particularly where they have been used
+for cereal-growing in short-term rotations.
+(c) Clay loam and clay textures are found in the rendzina, grey and brown
+soils of heavy texture, and wiesenboden (see Appendix I). The rendzina has a well-
+aggregated granular surface soil which allows water to enter readily, but when wet
+it becomes sticky and may hamper tillage operations. Both the grey and brown
+soils of heavy texture and the wiesenboden have coarsely-structured shrinkable
+clay surface soils which are only slowly permeable to water once the large summer
+cracks have closed. They are liable to some seasonal waterlogging and conversely
+set down hard when dry, thus hampering cultivations at either extreme. Never-
+theless, their structural aggregates are relatively stable or else reform fairly readily
+in the moist state, and on this account they are well suited to arable farming.
+Many areas of the wiesenboden soils have surface deposits of sandy loam and sandy
+
+
+clay loam soil washed down from nearby slopes and these vary from mellow to
+sealed conditions. In the latter state and because the area is almost flat, water
+accumulates and may stand for some time on the soil surface.
+These adverse conditions may be corrected by improving the organic matter
+content in the surface soil. A green manure crop (Till 1953) will maintain or at
+least slow down the rate of deterioration of the surface soil in vineyards and orchards.
+But where the surface soil has already deteriorated ((a) and (6) above), improve-
+ment by this means is doubtful and certainly slow. It is better to use a pasture
+containing a legume such as subterranean clover together with adequate fertilizers,
+depending on soil type. The increased root and microbial activity will reform satis-
+factory soil structure and consistence. Badly sealed and compacted orchard soils
+in the Light Pass area are being improved by this means. Eroded arable soils will
+respond to the same technique (Hayman 1945). The common factor in soil manage-
+ment which maintains both sound physical condition and a favourable balance of
+nutrient elements in the surface soil is the growth of pasture containing a legume.
+(2) Subsoils. —Apart from the surface soils, the arrangement of horizons in the
+profile and the structure and consistence of subsoils strongly influences the internal
+soil-water relationships and the ease with which plant roots may explore the subsoil
+(Northcote, Russell, and Wells 1954). This is especially important for deep-rooting
+plants such as the vine. In terms of their physical attributes, these soils may be
+placed into four classes as follows:
+(а) Soils with structure and consistence of subsoils favourable for water move-
+ment and root exploration—the red-brown earths, brown earths, transitional red-
+brown earths-solonized soils, terra rossa, and some alluvial soils. These are the
+soils which have a generally satisfactory soil-water regime for plant growth. But
+their subsoils are so highly structured that once the surface soil is removed by
+erosion the subsoil aggregates are readily detached from each other and erosion
+gullies develop rapidly.
+(б) Soils with large prismatic, columnar, and massive subsoils which are
+relatively impermeable and thus conducive to the formation of seasonal perched
+water-tables which result in waterlogging of the 3-12 in. of surface soil immediately
+on top of the subsoil during winter and spring. Conversely, because much of this
+water is lost by lateral movement instead of penetrating into the deeper subsoil and
+being stored there, a more intense seasonal drought results during summer and
+autumn. The yellow podzolic soils, podzolized lateritic soils, solonized brown earths,
+solods, and solodized solonetz are included here. Broadly, they are the poorly drained
+soils of the area. The depth of their surface soils and their topographical situation
+strongly influence the severity of their waterlogging. An extreme case is the
+Willamba sand which, because of the depth of sand surface soil and its location on
+slopes, is seldom waterlogged; indeed, it may be considered an excessively drained
+soil in some situations. But it does contribute to the waterlogging of Unnamed
+Series 1 sand which has a perched water-table standing at the surface in wet winters.
+The two cases illustrate the extremes found in these soils.
+(c) Sandy soils with uniform texture profiles which are liable to seasonal
+drought because the water-holding capacity of the subsoil as well as the surface
+
+
+soil is low—sands, skeletal soils, and sandy alluvial soils. These are all excessively
+drained soils.
+(■ d) Clay soils with uniform texture profiles and with high water-holding
+capacity but liable to seasonal drought because the wilting point is high also —
+grey and brown soils of heavy texture, rendzina, and wiesenboden. In the latter,
+the position is modified by the presence of a fluctuating ground-water table.
+In soils of both classes (c) and ( d ) the water regime, the root development of
+plants, and the erosion hazard depend on the same physical properties that exist
+in the surface soils.
+(3) Liability to Erosion. —The district soils are stable under pasture and will
+not erode unless pastures are overgrazed, but under arable culture the soils are
+liable to erode unless their management has been designed to prevent this. More-
+over, the management programme should be based on crop rotation and/or cover
+cropping supported by contour tillage in the hilly portions of the area. The lack of
+contour planning and planting is a failing in many of the more hilly portions of
+the area. Table 5 sets out the erosion hazard under arable culture for the different
+soils.
+(iii) Salinity Problems
+Two distinct kinds of salinity problems occur in the area.
+(1) The Bethany and Kabininge Families of Solonized Brown Earths and Unnamed
+Soil Series Sll of the Solodized Solonetz. —ln all the above soils the total soluble salt
+contents may rise locally to 0-2-0-4 per cent, and the sodium chloride may exceed
+0• 1 per cent, below 20 in. These or higher salt contents are found more frequently
+in the Bethany and /Sll soils than in the Kabininge soils. Only localized salinity
+problems are likely therefore and should not involve large areas. Permanent plant
+cover such as subterranean clover pasture will control the position where saline
+patches do develop. Because of their poor physico-chemical status, Bethany and
+/Sll soils would benefit from a period of fertility and structure building by pasture
+before other crops are grown.
+(2) Salinity Associated with Ground Water. —ln all the complexes of soils along
+the drainage-ways, especially DW?> and DWi, and in the Lyndoch family of wiesen-
+boden, a ground-water table exists which fluctuates considerably with seasonal
+conditions. The salt content of these waters also varies greatly with the season
+and the locality. In general terms salinity is greater (1) where drainage waters
+enter the valleys from the Tertiary geological formations (see Section II), as for
+example in the portion of the Lyndoch valley near and to the north of the town of
+Lyndoch, and (2) after (a) a very wet winter, ( b ) a wet winter following a drier than
+usual season, or (c) in a drier than usual summer after a dry winter. Salts which
+occurred at depth or were widespread over an area are concentrated in the upper
+soil layers by 2(a) and (b) often in the lower-lying places, whereas in 2(c) it is the
+concentration of salts in the ground water which increases. Hickenbotham and
+Williams (1932) found salt-affected vines in the Lyndoch area and traced the damage
+to saline ground water at a depth of 9-10 ft. Control of such salinity problems
+involves drainage, but where this is impracticable, recourse to a permanent plant
+
+
+Very Low
+Very Low, but
+Liable to
+Deposition
+Severe Sheet
+Slight—Moderate
+Sheet, Moderate-
+Severe Gully
+Slight Wind,
+Slight Sheet
+Slight-Moderate
+Wind, Moderate
+Sheet
+Slight—Severe
+Wind, Moderate
+Sheet
+Slight—Moderate
+Wind and
+Sheet, Gully
+Kroemer
+Lyndoch
+SCI
+Stockwell-Light Pass
+Jacob
+Nuraip
+Willamba
+Barossa
+Altona
+10
+Ski
+Bilyara
+Para
+S6
+Inorassata
+YPl
+Tanunda
+1
+Dale
+Nuriootpa
+S 10
+Long
+SI1
+DWS to DWl
+Williamstown
+RS2
+Warpoo
+CSS
+Trial Hill
+RSS
+Moppa— Vine Vale
+Wilsford
+Belvidere
+Bethany
+GSl
+Kabininge
+CS2
+Table 5
+EROSION HAZARDS
+
+
+cover is desirable. This may mean retiring affected areas from vines which do not
+provide sufficient cover to prevent evaporation from the soil and thus the rise of
+water and salts.
+(iv) Waterlogging
+Two forms of waterlogging occur in the area, (1) where a seasonal perched
+water-table develops and saturates the subsurface soil as in all soils with imper-
+meable subsoils and (2) where the ground-water table rises seasonally into the top
+2-3 ft of the soil as in some alluvial soils. In both cases plant roots may suffer from
+excessive water and lack of aeration. Vines and trees are likely to suffer some stress
+under these conditions, as suggested by Northcote, Russell, and Wells (1954).
+Waterlogging for long periods even during the dormant stage of vines and trees may
+affect their development since this dormancy is only relative (Baldwin 1956).
+The most striking case of waterlogging due to ground-water table was observed
+in a vineyard in the Jacob Creek area of soil complex DW 3. Here, irregular patches
+of indifferent vines, some in very poor health, were related to the presence of a
+non-saline ground-water table between 30 and 36 in. in depth, whereas in adjacent
+patches of vigorous vines no ground-water table was encountered within the top
+6 ft of soil.
+IV. CLIMATIC INFLUENCES
+The climate is similar to that of the other areas studied in the Barossa district.
+It has cool, wet winters and hot, more or less droughty summers.
+(a) Annual Rainfall
+Rainfall data (Table 6) for Tanunda, Lyndoch, Williamstown, and Gawler show:
+(1) A general increase in the rainfall from north to south with an increase of
+about l|in. between Tanunda and Lyndoch, but about Sin. between
+Lyndoch and Williamstown.
+(2) The north-south increase in rainfall is accompanied by a decrease in the
+number of wet days per year and thus an increase in the rainfall per wet
+day, indicating generally heavier falls of rain in the Lyndoch-Williams-
+town unit as compared with the Tanunda-Rowland Flat unit.
+(3) A comparison of the rainfall for Lyndoch and Gawler, 9 miles to the west,
+illustrates the decrease in rainfall from east to west across the area.
+(4) More than 75 per cent, of the rain falls in the 7 months April to October
+inclusive.
+(6) The Rainfall Economy
+Trumble (1948) in a study of rainfall, evaporation, and drought frequency in
+South Australia showed that: the mean effective rainfall season for this area v.ries
+between 7-6 months for Tanunda and 8-3 months for Williamstown; althoigh
+effective rain may fall in any month of the year, the probability of this happeiing
+decreases from nearly 100 per cent, in winter to less than 10 per cent, in sumner;
+and the drought-year frequency, that is the percentage of years in which the seison
+of continuously effective rainfall is less than 5 months, varies from 13 per cen. at
+Tanunda to 6 per cent, at Williamstown.
+
+
+Station
+Data
+Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July
+Aug.
+Sept.
+Oct.
+Nov.
+Dec.
+Year
+Tanunda
+Rainfall (in.)
+0-87
+0-90
+0-79
+1-28
+2-47
+2-69
+2-59
+2-98
+2-70
+1-72
+1-16
+1-08
+21-23
+No. of days of 0-01 in. or over
+4
+3
+4
+7
+11
+12
+13
+14
+11
+9
+6
+4
+98
+Rainfall per wet day (in.)
+0-22
+0-30
+0-20
+0-18
+0-22
+0-22
+0-20
+0-21
+0-24
+0-19
+0-19
+0-27
+0-22
+Lyndoch
+Rainfall (in.)
+0-75
+0-89
+0-71
+1-36
+2-57
+2-98
+2-81
+3-28
+3-00
+2-01
+1-17
+1-18
+22-71
+No. of days of 0-01 in. or over
+3
+3
+3
+7
+10
+13
+13
+14
+11
+9
+6
+4
+96
+Rainfall per wet day (in.)
+0-25
+0-29
+0-23
+0-19
+0-25
+0-23
+0-21
+0-23
+0-27
+0-22
+0-19
+0-29
+0-23
+Williamstown
+Rainfall (in.)
+0-92
+1-04
+0-79
+1-63
+3-11
+3-73
+3-33
+3-72
+3-13
+2-00
+1-36
+1-16
+25-92
+No. of days of 0-01 in. or over
+3
+3
+3
+7
+10
+12
+13
+13
+10
+8
+5
+4
+91
+Rainfall per wet day (in.)
+0-30
+0-34
+0-26
+0-23
+0-31
+0-31
+0-25
+0-28
+0-31
+0-25
+0-27
+0-29
+0-28
+Gawler
+Rainfall (in.)
+0-72
+0-85
+0-65
+116
+2-11
+2-28
+1-94
+2-24
+2-09
+1-60
+1-09
+1-02
+17-75
+Table 6
+MEAN MONTHLY AND ANNUAL RAINFALL,* NUMBER OF DAYS OF RAINFALL* OF O'ol IN. OR MORE, AND RAINFALL PER WET DAY FOR THE STANDARD
+PERIOD OF 30 YR, 1911-40, FOR TANUNDA, LYNDOCH, AND WILLIAMSTOWN
+* Abstracted from “Book of Normals, No. 1, Rainfall” (Commonwealth of Australia, Meteorological Branch).
+
+
+Northcote and de Mooy (1957) made a general estimate of the rainfall economy
+for vineyards and orchards and concluded that, within the limits of the method
+available, an average deficit of about 5 in. of rain occurs where the annual rainfall
+is about 22 in. The deficit will be less where the annual rainfall exceeds this amount,
+although not necessarily in proportion. They also made a similar estimate which
+showed the suitability of the Angaston and similar areas for annual pastures. This
+applies equally to the Tanunda-Williamstown area.
+(c) Intensity of Rainfall
+Data presented by Northcote, Russell, and Wells (1954) showed that 2 in. of
+rain falling in a 24-hour period could be regarded as causing excessive run-off under
+Rarossa conditions and that this could be expected to occur on the average once in
+5 years.
+(d) Temperature
+Temperature conditions in the Rarossa district have been discussed by
+Northcote, Russell, and Wells (1954) and Northcote and de Mooy (1957), an important
+feature being the low mean temperatures of less than 50°F for June, July, and
+August, which means a substantial check to plant growth in those months. There-
+fore, the effective growing season as distinct from the effective rainfall season is
+divided into two parts, autumn and spring, with a period of but little growth between.
+An analysis of the degree days above 50°F, that is, the average warmth
+available for plant growth, gave an average annual summation of 2963 degree days
+for Nuriootpa and 2811 degree days for an open situation at Mt. Crawford. It seems
+likely, therefore, that the temperature variation over the Tanunda—Williamstown
+area will not be much different to this for comparable situations. Of course, aspect
+is always important, but it cannot be assessed without detailed data for each
+particular site.
+V. LAND USE
+Although more than 100 years have elapsed since settlement began in this
+district (Northcote, Russell, and Wells 1954), there remain several large areas which
+are either underdeveloped or not developed at all. They contrast strikingly with
+the scenes of intensive farming encountered in other parts of the Tanunda-
+Williamstown area. Agricultural activities are mainly cropping, pastures, and
+horticulture, all of which may be welded into the activity of a single farm, or each
+may form the main or even sole activity of a farm. Nevertheless, there is a general
+zoning of the main kinds of farming, largely related to the distribution of the soils,
+as discussed below.
+A stock and domestic water scheme serves portion of the district but crops
+and pastures depend mainly on rainfall, supplemented by underground water from
+bores and wells where practicable, for their water supply. Further development
+of bores and wells in parts of this district is possible (Chugg 1955). There [is also
+a limited potential for water conservation in earth dams in favoured situations.
+
+
+{a) The Underdeveloped Areas
+The distribution of the underdeveloped areas is closely related to the
+occurrence of the solods and yellow podzolic soils, both of which have very low
+levels of natural fertility. But there is no need for this to continue, as the fertility
+of these soils may be greatly improved, after clearing, by what is now the almost
+traditional southern Australian technique of establishing subterranean clover pasture
+including annual or perennial grasses with superphosphate in which the other
+necessary nutrient (trace) elements are incorporated. These are most likely to be
+molybdenum, copper, and zinc on these soils (see Section 111(c)). * Good pastures
+have been established on the Pewsey Vale yellow podzolic soils in the Tanunda
+Creek area by this means (Northcote and de Mooy 1957).
+Potassium may be required also for either the establishment or the continued
+productivity of subterranean clover on areas of these soils where the small reserves
+of this element (Table 2) have already been used up by vines or other crops, as in
+the case of abandoned orchards on Willamba sand.
+The underdeveloped areas have a considerable potential for pasture develop-
+ment which will improve their fertility and allow other crops to be grown in the
+future. Furthermore, vine- and apple-growing could be extended on the Barossa
+yellow podzolic soils (see Section Y{d) also).
+(6) Cropland
+The most extensive areas of cropland in the Barossa district occur in the
+Tanunda-Williamstown area and the adjoining Greenock-Gomersal area (Wells
+1959) because of the presence of large units of grey and brown soils of heavy texture
+which in association with various red-brown earths provide excellent soils for
+cropping purposes. This is largely a reflection of the relatively stable structure of
+the surface soil of grey and brown soils of heavy texture. It allows them to be
+cultivated for prolonged periods without much deterioration, which is a point of
+contrast with adjacent red-brown earths (Section 111(c)), in which soil erosion is
+much more evident.
+The main crops are cereals for hay or grain, field peas, and lucerne.
+The alternation of field peas and cereals has the advantage of broadening the
+rotation, which helps to maintain the fertility of surface soils. Field-pea growing
+is a valuable industry in the district and Gross (1954) provides useful data for the
+grower. But peas as a crop are not a good safeguard against erosion of surface soil,
+because of their habit of growth when young and because of the light straw after
+harvest. For these reasons, good soil structure is necessary for pea-growing. There-
+fore pasture containing a legume needs to be included in the rotation on red-brown
+earths and contour tillage should be used on slopes, whereas on the Tanunda and
+Altona soil families the more stable structure will allow peas and cereals to be
+grown without the pasture phase, at least for a considerably longer time.
+* These nutrient elements are not given in order of importance, as this varies from place
+to place. Those needed for a given locality may be determined by a field trial such as that of
+Anderson (19526).
+
+
+Where field peas are not grown and the rotation is a fairly narrow one, falloow-
+cereal in some cases, erosion is a serious problem as on the Dale and Williamstoown
+red-brown earths, especially in the Williamstown locality. Here, slopes of 5 per
+cent, and more accentuate the problem, which needs tackling now by broadenning
+the rotation to include subterranean clover pasture and introducing contour tillllage
+so that water and soil will stay in place instead of flowing out onto Williamstaown
+roads owing to the present up-and-down tillage (Herriot 1954). Again, owingg to
+excessive cultivation, the structure of the surface soil, particularly on some anreas
+of the Dale—Altona soil complex, has been completely lost and now presents a hhard
+smooth surface which sheds water and thus causes the soil to be droughty. Estab-
+lishment of subterranean clover pasture is necessary to reform the structural
+aggregates in the soil and thus make it more receptive to water. Pasture in the
+rotation will start a new upward trend in the yields of the cereal crops to folllow
+(Cornish 1949).
+Lucerne figures to advantage in the rotation on the Dale red-brown earthis in
+the Sandy Creek—Rosedale localities. It could be used far more in the district! on
+all soils with calcareous subsoils, especially those of Category I(i).
+(c) Pasture
+The question of pasture has been considered in some detail by North) cote
+and de Mooy (1957) for the Angaston-Springton area of the Barossa district wlhich,
+although much more pasture-conscious than the Tanunda-Williamstown area,, has
+achieved only a fraction of the potential pasture development of which its soils
+and climate are capable. This is true also of the Tanunda-Williamstown jarea,
+where the few good pastures only serve to point up the poor quality of the aveerage
+district pasture. It should be realized that this is a serious defect in the gerneral
+agricultural economy of the district, and especially so in view of the important! role
+good pasture containing clovers or medics plays in maintaining and/or restcoring
+soil fertility, an aspect which has already been stressed in this report.
+All the soils of the district except those which are very shallow, such aas the
+rendzina, the skeletal soils, and some of the sands, are capable of growing imprroved
+pasture of the subterranean clover-perennial grass (Phalaris tuberosa) Itype.
+Certainly some soils such as the solods and yellow podzolics will need fertilizzation
+with other nutrient elements besides superphosphate (see Section 111(c)), butt this
+should not be regarded as a difficulty since standard mixtures of fertilizers are
+available from the fertilizer companies (Tiver 1955). Many may be satisfied with
+subterranean clover-annual grass pastures; but, while these are a big advamce on
+the present “natural” and “volunteer” pastures, they do not use to the fulll the
+resources of soils and climate, which can be obtained only by using perennial grass
+with the clover.
+Where the land is sloping and especially if the soil surface has been comp»acted
+and damaged by over-cultivation, contour tillage will aid in pasture establish-
+ment. Indeed, there is a general lack of contour-farming methods in the hilly portions
+of the Tanunda-Williamstown area. Attention to this particular would help to
+improve productivity. In conclusion it may be stressed again that pasture provides
+
+
+the key to the future well-being of district agriculture through its effect on soil
+structure and fertility.
+( d ) Horticulture
+The horticultural crops grown in the area are mainly wine-grapes, apricots,
+pears, peaches, plums, nectarines, oranges, lemons, almonds, and apples, the last
+more especially near Williamstown. The border-line nature of the rainfall for
+summer-growing vines and trees has been mentioned in Section IV. Some growers
+have been able to develop underground sources of water to provide supplementary
+irrigation for fruit-trees.
+An estimated 5000-6000 acres, or between 20 and 25 per cent, of the total
+area, are used for horticulture. This may be compared with approximately 10,000,
+2000, and less than 1000 acres used for horticulture in the Nuriootpa, Angaston—
+Springton, and Greenock-Gomersal areas respectively. Thus it is the second most
+intensively developed area for horticulture in the Barossa district. Moreover, further
+expansion is possible throughout the area, especially in the Williamstown locality
+which the higher rainfall (see Section IV) makes slightly more attractive; even
+so, the most satisfactory locality for future Barossa district development is the
+Tanunda Creek-Trial Hill area (Northcote and de Mooy 1957).
+At present horticultural crops are concentrated in several clearly defined
+localities. These are as follows:
+(1) Tanunda-Bethany (i.e. the lower Tanunda Creek valley).
+(2) Rowland Flat-Jacob Creek-Kabininge Creek.
+(3) Lyndoch valley-Tweedie Gully.
+(4) Valley of Sandy Creek.
+(5) Victoria Creek valley near Williamstown.
+The geographic core of each locality is a valley in which the moisture regime
+may be regarded as more favourable for deep-rooting, long-lived vines and trees
+than the higher locations nearby. The soils in the valleys belong to the alluvial,
+brown earth, transitional red-brown earths-solonized soils, and wiesenboden soil
+groups. On the adjacent slopes and rises above the creek valleys, the red-brown
+earths, solodized solonetz, transitional red-brown earths-solonized soils, and to a
+lesser extent solods and solodic soils are used for horticulture. Of these the red-
+brown earths are the most intensively planted. Thus, apart from the wiesenboden
+and alluvial soils, which occupy better than average locations so far as moisture is
+concerned, the soils favoured for horticulture have coarser-textured (sand, sandy
+loam, and loam) surface soils over finer-textured (clay, sandy clay, and sandy clay
+loam) subsoils. This is partly a reflection of the limiting effect on summer-growing
+trees and vines of moisture which comes largely from the preceding winter-spring
+rainfall, and partly of the ease with which these soils may be cultivated. The clean
+cultivation usually practised is so thorough that during the summer the upper
+portion of the surface soil is often little better than a dust layer if loose, or a concrete
+layer if compacted. This is a failing because it is this layer which contains the more
+readily available nutrient elements which could be used by plants after summer
+
+
+rains. The art of farming should be to produce a layer of mulch on top of the sunrface
+soil to keep this cool and allow plant roots to develop and draw on its moisisture
+and nutrient supplies (Jacks, Brind, and Smith 1955). There is little doubt / that
+mulching of orchards and vineyards would improve their productivity. Cultivattions
+should not be more frequent than is necessary to destroy weeds which comnpete
+with vines and trees for moisture; otherwise, erosion and loss of surface soil ferttility
+are encouraged (Northcote, Russell, and Wells 1954).
+Many vineyards and orchards in the surveyed area have suffered 1 soil
+deterioration through over-cultivation with a consequent decline in yield I and
+quality. They need to be replanned and replanted and the experience gaineed at
+the Experimental Orchard, Blackwood (Beare and Harris 1955), provides i some
+valuable information. Contour design for all vineyards and orchards on slojpes is
+necessary.
+(i) Vines
+The vine is the most important horticultural crop, since it accounts for more
+than 80 per cent, of the total plantings in the Tanunda-Williamstown areai and
+provides the raw material for the local wine industry. But surprisingly littlle has
+been done to select good strains within the different vine varieties or to determine
+the suitability of the different kinds of soils (major soil groups) for the growiing of
+different varieties with the object of producing musts and wines of particular
+character. The attitude which seems to expect all varieties grown on all soils to
+yield quality and to crop for 60-80 years is possibly incorrect for this climate under
+the current cultural system, and “rotations” may prove worthy of consideration.
+Evidence collected on the survey of the Angaston-Springton area (Norfthcote
+and de Mooy 1957) suggests that grapes of the Riesling variety grown on the Ptewsey
+Vale yellow podzolic soils will produce quality white table wines. Therefore, it is
+suggested that the suitability of the Barossa family of yellow podzolic soils would
+be worth investigating for this purpose. If suitable, plantings of Rieslinjg and
+perhaps other white table-wine varieties could be expanded into the area of Blarossa
+yellow podzolic soils which occur in the higher-rainfall portion of the area. These
+soils are largely underdeveloped at present. Naturally, attention would meed to
+be given to the improvement and maintenance of the fertility of the surface soil.
+Most of the vine plantings on solods are in a run-down condition, some areas
+being given over to sand pits. This is due to lack of moisture and nutritional
+deficiencies. Vines grown on solods face seasonal stresses of drought and/or water-
+logging; besides this, their nutrient content is low and under present ciultural
+methods, vines cannot be expected to grow and produce crops for long periods.
+It is highly likely, for example, that the small reserves of potassium (see Sectkon III)
+have been depleted to the point where it is deficient. Most old vineyard siites on
+solods should be returned to subterranean clover pasture for a period before new
+vineyards are planted. To do this, nutrient elements other than superphosphate
+and potassium will be required (see Section 111(c)). Similarly, yellow podzollic soils
+have low levels of plant nutrients and vines planted on them are likely to be short-
+lived and produce indifferently unless attention is given to their nutrition..
+
+
+Evidence of declining vine yields on all soil types including alluvial soils,
+wiesenboden, and red-brown earths suggests that more attention should be given
+to their nutrition even though this be of an apparently indirect character as when
+green manure crops or subterranean clover pasture leys are used. Further con-
+siderations of vines and soil conditions are given by Northcote, Russell, and Wells
+(1954) and Northcote and de Mooy (1957).
+(ii) Tree-fruits
+Although tree-fruits account for only a small proportion of the total plantings,
+they make an important contribution to the economy of the district because they
+can provide immediate cash returns. Discussions of tree-fruits and soil conditions
+are given for Barossa conditions by Northcote, Russell, and Wells (1954) and
+Northcote and de Mooy (1957).
+Red-brown earths, brown earths, and some alluvial soils are the most satis-
+factory for tree-fruits, although pears and plums may be highly successful on
+wiesenboden and apples seem suited to the yellow podzolic soils, even though their
+plane of nutrition seems very low on such soils. But they are superior to apples
+on the small local rises of solodic soils in the same area, which probably suffer more
+severe moisture stress seasonally as well as the nutritional stress. With this
+exception, orchards on solods, e.g. on Willamba sand, are much more difficult to
+maintain in sound condition than on almost any other soil. Orchards on solods
+are either very poor and have been neglected or else require continual attention
+to nutrition and moisture needs. Thus in this district solods can be developed success-
+fully for orchards only where water is available for supplementary irrigation.
+Furthermore, the nutrient element position requires continual attention as one
+element after another becomes limiting to growth and crop production; at least,
+this is the experience on Willamba sand. But, of course, solods will grow tree-fruits
+if moisture and nutrient needs are met.
+VI. ACKNOWLEDGMENTS
+Mr. M. J. Wright, of the C.5.1.R.0. Division of Soils, gave very useful
+assistance in the field.
+Mr. J. T. Hutton and Mr. R. Bond, both of the Division of Soils, assisted
+in the collection of soil samples and were responsible for the laboratory examination
+of the soils. Discussions with them proved valuable in clarifying many of the
+chemical features of the soils.
+VII. REFERENCES
+Anderson, A. J. (1952 a). —The significance of sulphur deficiency in Australian soils. J. Aust.
+Inst. Agric. Sci. 18: 135-9.
+Anderson, A. J. (19526). —Testing pastures for mineral deficiencies. Riiral Res. in C.5.1.R.0.
+No. 2: 9-10.
+Baldwin, J. G. (1956). —Uptake of nutrients during winter dormancy. Aust. Plant Nutrit.
+Conf. 1: 37-42.
+Bears, J. A., and Harris, J. B. (1955). —An orchard is rebuilt. J. Dep. Agric. S. Aust. 58:
+429-33, 435.
+
+
+Camp ana, B. (1955).—The geology of the Gawler military sheet. Geol. Survey, Dep. JMines
+S. Aust., Rep. Invest. No. 4.
+Chugg, R. I. (1955).—The hydrology of the Barossa valley. Geol. Survey, Dep. Mines S. Must.,
+Rep. Invest. No. 2.
+Cook, L. J. (1942). — The returns from grazing pastures at Kybybolite for the three seasons 1938
+to 1941. J. Dep. Agric. S. Aust. 45: 420-3.
+Coombe, B. G. (1952). — Grape yields increased by zinc swabbing. J. Dep. Agric. S. Ausit. 55:
+456.
+Cobnish, E. A. (1949). —Yield trends in the wheat belt of South Australia during 1896—1941.
+Aust. J. Sci. Res. B 2: 83-137.
+Donald, C. M., and Williams, C. H. (1954). —Fertility and productivity of a podzolic soil as
+influenced by subterranean clover {Trifolium subterraneum L.) and superphosphate.
+Aust. J. Agric. Res. 5; 664-87.
+Fobstee, H. C., and Kobe, H. L. (1939). —Zinc sulphate on wheat. J. Dep. Agric. Viet. 37:
+157-61.
+Geoss, F. C. (1954). —The field pea industry in South Australia. J. Dep. Agric. S. Aust. 58:
+112-25.
+Hayman, R. H. (1945). —Clover-ley farming. J. Dep. Agric. Viet. 43: 409-14.
+Hebeiot, R. I. (1954). — Tillage. J. Dep. Agric. S. Aust. 58: 91-100, 140-9.
+Hickenbotham, A. R., and Williams, J. L. (1932). —Soluble salts in non-irrigated vineyards.
+J. Dep. Agric. S. Aust. 36: 427—33.
+Jacks, G. V., Bbind, W. D., and Smith, R. (1955). —Mulching. Comm. Bur. Soil Sci. Tech.
+Comm. No. 49.
+Millikan, C. R. (1938).- —A preliminary note on the relation of zinc to disease in cereals. J.
+Dep. Agric. Viet. 36: 409-16.
+Nobthcote, K. H., and de Moot, C. J. (1957). —Soils and land use in the Barossa district. South
+Australia. Part A. The Angaston-Springton area. C.5.1.R.0. Aust. Div. Soils, Soils and
+Land Use Ser. No. 22.
+Nobthcote, K. H., Russell, J. S., and Wells, C. B. (1954). —Soils and land use in the Barossa
+district, South Australia. Zone I. The Nuriootpa area. C.5.1.R.0. Aust. Div. Soils,
+Soils and Land Use Ser. No. 13.
+Stbinbeegs, A., and Williams, C. H. (1956). —The sulphur content of some eastern Australian
+soils. Aust. Plant Nutrit. Conf. I: 179-85.
+Stephens, C. G. (1953).- —“A Manual of Australian Soils.” (C.5.1.R.0.: Melbourne.)
+Till, M. R. (1953). —Cover crops for Barossa valley orchards and vineyards. J. Dep. Agric.
+S. Aust. 56: 268—71.
+Tivee, N. S. (1955). —Deficiencies in South Australian soils. J. Dep. Agric. S. Aust. 59: 100-13.
+Teumble, H. C. (1948).- —Rainfall, evaporation and drought-frequency in South Australia.
+J. Dep. Agric. S. Aust. 52: 55—64.
+Wells, C. B. (1959). —Soils and land use in the Barossa district, South Australia. The Greenock—
+Gomersal area. C.5.1.R.0. Aust. Div. Soils, Soils and Land Use Ser. No. 30.
+Woodeoffe, K., and Williams, C. H. (1963). —The residual effect of superphosphate in soils
+cultivated for wheat in South Australia. Aust. J. Agric. Res. 4: 127—50.
+
+
+APPENDIX I
+MORPHOLOGY OF THE SOILS
+The descriptions given below are for the most representative profiles of the
+soil types of each soil family found for the surveyed area.
+I. Category I. Soils with Marked Contrast in Texture between Surface Soil and
+Subsoil
+(a) Subsoils Containing Free Calcium Carbonate (Lime)
+(i) Red-brown Earths
+(1) Stochwell-Light Pass Family. —A typical soil series.
+Ai 2-4 in. of grey-brown loam or sandy loam sometimes stony, grading to
+A 2 2-6 in. of greyish brown loam or sandy loam sometimes stony, a tendency to platy
+structure, clearly defined change to
+Bi 20-27 in. of dark red-brown clay of prismatic structure passing to small blocky and
+granular units under slight pressure, grading to
+B 2 About 24 in. of brown clay with moderate amounts of calcium carbonate in pockets,
+of small blocky structure (If in.) and grading to
+0 Mottled brown, reddish brown, and yellowish brown clays or clay loams with smaller
+amounts of calcium carbonate in pockets, variable kinds and amounts of waterworn
+stones.
+(2) Jacob Family
+Series 1 loamy sand
+Ai 3-6 in. of grey-brown loamy sand with variable amounts of waterworn quartz pebbles,
+grading to
+A 2 4-8 in. of light brown sand with variable (often large) amounts of waterworn stone of
+variable kinds but particularly quartz, clearly defined change to
+Bi 12-18 in. of red-brown mottled with yellow-brown and yellow-grey clay of prismatic
+structure which breaks down to small blocky under pressure; grading to
+(Subhorizons may be recognized on basis of mottling which becomes more intense with
+depth.)
+B 2 About 24 in. of mottled brown and red-brown slightly sandy clay of prismatic structure
+and with small amounts of calcium carbonate grading to
+C Mottled brown sandy clays with variable amounts of waterworn stones and calcium
+carbonate in pockets.
+Series 2 loamy sand
+Ai About 4 in. of brownish grey loamy sand grading to
+A 2 6-12 in. of light brown sand with variable waterworn gravel, clearly defined change to
+Bi 14-18 in. of reddish brown with fine mottlings of yellowish brown and grey clay of
+prismatic structure which breaks down to small blocky under pressure, grading to
+B 2 12-15 in. of mottled yellowish brown and dark brown sandy clay with moderate amounts
+of calcium carbonate and grading to
+C Mottled yellow, yellow-brown, light grey massive sandy clay loam with variable calcium
+carbonate in pockets and some waterworn stone and gravel.
+Phases. —Shallow as above but A horizons less than 10 in. thick, often only 4 in. Deep
+as above but A horizons 16-27 in. thick.
+
+
+(3) Bilyara Family
+Series 2 includes loamy sand, sandy loam, and sandy clay loam types (Norrthcote,
+Russell, and Wells 1954).
+Series 4 loam
+Ai About 3 in. of grey-brown loam grading to
+A 2 About 6 in. of lighter grey-brown loam of platy structure, clearly defined change to
+Bi About 10 in. of dark red-brown clay of strongly prismatic structure which breaks down
+to small blocky and granular units under pressure, fairly sharp change to
+B 2 20—24 in. of brown clay with large amounts of calcium carbonate grading to
+C Mottled yellowish brown and dark red-brown light clay with variable calcium carbonate
+in pockets, and rock fragments.
+(4) Dale Family
+Ai About 4 in. of grey-brown mellow friable loam with organic matter grading to
+A 2 4—6 in. of greyish brown loam to clay loam of soft granular structure with numerous
+stone fragments, clearly defined change to
+Bi 6-15 in. of red-brown clay of prismatic structure which breaks down to granular units
+under pressure, clearly defined change to
+B 2 About 4—12 in. of red-brown to brown clay with large amounts of soft cemented calcium
+carbonate (soft lime pan) and fragments of phyllitic slate.
+C Weathered blue-grey phyllitic slates or proluvium derived from them, both with veins
+of calcium carbonate.
+Other types. —Both fine sandy loam and loamy fine sand textures occur in the A horizons.
+Variations. —The surface of the clay (Bi horizon) may be mottled in grey.
+(5) Williamstown Family
+Ax About 3 in. of greyish brown soft angular blocky (£ in.) loam grading to
+A 2 About 6 in. of light greyish brown compact loam with much weathered schist in its
+lower part, clearly defined change to
+B 18—24 in. of red-brown friable clay of prismatic structure which breaks down to angular
+blocky units under pressure, subplastic but inclined to be sticky when moist, contains
+fragments of decomposing yellow schist grading to
+B-C 6-10 in. of weathered yellow schist with veins of clay as for B horizon passing to
+C Weathered yellow schist with accumulations of calcium carbonate in cracks and pockets.
+(ii) Brown Earths
+(1) Para Family
+Ai 9 in. of greyish brown compact fine sandy loam grading to
+A 2 About 9 in. of light greyish brown compact fine sandy loam, clearly defined change to
+B i 12—18 in. of dark brown clay of prismatic structure which breaks down to small blocky
+units under pressure, diffusely grading to
+B 2 12—24 in. of dark brown light clay or fine sandy clay loam of prismatic structure and
+with small amounts of calcium carbonate in inclusions grading to
+C Variously mottled brown or yellow-brown fine sandy clay loam with small inclusions
+of calcium carbonate. Continues to at least 7 ft.
+(iii) Brown Earths-Solonized Forms
+(1) Bethany Family
+Series 1 loamy sand
+Ai 3—4 in. of grey-brown crusty, cemented, often brittle loamy sand (surface seal prominent
+feature where cultivated) grading to
+
+
+A 2 About I in. of lighter grey-brown cemented loamy sand passing abruptly and sharply to
+lb 7-8 in. of greyish brown clay with dull red inclusions and a grey wash on the surface
+of the structural units, prismatic structure, very hard when dry and sticky when wet,
+grading to
+B 2 24—30 in. of variously mottled brown clay or sandy clay with variable amounts of calcium
+carbonate in pockets, very hard when dry and sticky when wet, grading to
+C Mottled yellow-brown sandy clay with variable amounts of calcium carbonate.
+Other types. —Sandy clay loam texture in the A horizon.
+Phases. —Thickness of A horizons varies, probably owing to cultivation and erosion.
+(2) Kabininge Family
+Series 1 sand
+Ai 3-6 in. of grey-brown sand, grading to
+A 2 6-9 in. of mottled greyish brown and little brown weakly compacted sand with very
+small amounts of quartz gravel, passing sharply and abruptly to
+Bi 15—18 in. of brown finely mottled red, light yellow-grey, and light greenish grey clay
+of prismatic structure which breaks down to angular blocky units (1| in.) under
+pressure, hard when dry, plastic when wet, fairly abrupt change to
+B 2 About 20 in. of brown clay with large amounts of powdery calcium carbonate grading to
+C? Yellowish brown and grey clays with variable amounts of powdery calcium carbonate.
+Series 2 sandy loam. —Occurs in complex with the Tanunda grey and brown soils of
+heavy texture.
+Ai About 4 in. of grey-brown crusty light sandy loam grading to
+A 2 2-3 in. of mottled grey-brown and light brown cemented light sandy loam with a sharp
+and abrupt change to
+Bi About 12 in. of brown clay with greenish grey inclusions, of prismatic structure which
+breaks down to blocky units under pressure; hard when dry, plastic when moist,
+fairly distinct change to
+B 2 9-12 in. of yellow-brown clay with light to medium amounts of calcium carbonate
+grading to
+B-C Very light brown clays with large amounts of calcium carbonate.
+Other types. —Include those with sandy clay loam textures of the A horizon.
+(iv) Transitional Red-brown EarthsSolonized Soils
+(1) Nuriootpa Family
+An About 2 in. of grey-brown loamy sand with some fibrous organic matter grading to
+Al 2 About 6 in. of brown loose sand with some quartz gravel grading to
+A 2 1-3 in. of light brownish yellow loose sand, abruptly changing to
+Bn About 6 in. of yellow-brown prismatic clay which breaks down to granular units under
+firm pressure, grading to
+812 About 18 in. of mottled brownish yellow and red prismatic clay (grey-brown clay coatings
+on aggregate surfaces) which breaks down to angular blocky units under firm pressure,
+grading to
+B 2 Similar material to 812 with small amounts of calcium carbonate as concretionary
+inclusions.
+The underlying materials are variously mottled yellow-brown clays with pockets of
+sandy clay loam and sand and inclusions of calcium carbonate.
+(2) RS2 Group
+Ai 4-6 in. of grey-brown micaceous sand grading to
+A 2 About 12 in. of lighter grey-brown micaceous sand, clearly defined change to
+Bi 6-12 in. of reddish brown clay to fine sandy clay (micaceous) grading to
+
+
+I? 2 About 24 in. of brown fine sandy clay to fine sandy clay loam (micaceous) with small
+inclusions of calcium carbonate.
+Variations. —Gritty and/or gravelly types.
+Phases. Deep phases of all types with A horizons up to 42 in. thick do occur.
+(3) RS3 Group
+Variable collection of red-brown earth-like soils showing hydromorphic featurres of
+intensely bleached and cemented A 2 horizons or top portion of B] horizon intensely
+mottled in grey or Bx horizon intensely mottled in various colours. Small areais only
+occur.
+(v) Solodized Solonetz
+(1) Nuraip Family
+Ai 4-20 in. of light brown-grey loose sand usually with quartz and ironstone griits and
+gravels in very variable amounts grading to
+A 2 2—lo in. of very light brownish grey loose sand with quartz and ironstone griits and
+gravels, often with a light grey bleached subhorizon in its lower portion, abrupt
+change to
+B n 9-12 in. of mottled yellow-brown, grey clay of irregular columnar structure passsing to
+812 6—12 in. of massive variously mottled yellow-brown sandy clay with red inclusions and
+veins passing to
+B 2 Similar to B i 2 with variable inclusions and/or pockets of calcium carbonate.
+Note. (1) The considerable variation in thickness of the A horizons, which inidicates
+that several depth phases occur. (2) In restricted areas the top 2-3 in. of the Aj
+horizon is cemented and compact.
+(2) Series S6.—See Northcote, Russell, and Wells (1954).
+(3) Series SlO Loamy Sand
+4—B in. of brownish grey loamy sand usually with quartz and ironstone gravel graiding to
+A 2 2-10 in. of very light brownish grey sand usually with quartz and ironstone grit and
+gravel, abruptly passing to
+B 1 B—l 6 in. of variously mottled grey, grey-brown, yellow-grey clay of columnar structure,
+very sticky when wet, grading to
+B 2 "V ariously mottled massive brown or grey-brown or yellow-brown clay or samdy clay
+with moderate amounts of calcium carbonate.
+(4) Series Sll Sandy Loam
+Ai About 4 in. of grey-brown brittle, often cemented, sandy loam, grading to
+Aa About 2 in. of light grey-brown (bleached) sandy loam, abruptly passing to
+12—18 in. of mottled yellow-brown clay of columnar structure grading into
+B 2 Variously mottled yellow-brown clay with variable content of calcium carbomato.
+Note.- Series £ll is related to the Moorooroo soil series of the Nuriootpa surveys (North -
+cote, Russell, and Wells 1954).
+(5) War poo Family
+An 2—3 in. of light grey-brown loamy fine sand grading to
+Ai 2 About 6 in. of lighter grey-brown loose sand grading to
+A 2 About 6 in. of brownish white loose sand, abruptly and unevenly changing to
+Bi 12-15 in. of mottled yellow-brown, light grey, red, yellow-grey columnar clay; the
+domes of the columns are a coarsely mottled yellow-brown sandy clay loam about
+2 in. thick, grading to
+82-C About 6 in. of variously mottled yellow clay, massive and containing small inclusions
+of calcium carbonate, sharply overlying
+C? Pallid- and/or mottled-zone materials coated with calcium carbonate.
+
+
+(vi) Solodic Soils
+(1) SCI Group
+Profile (a)
+Ai About 3 in. of grey-brown loam or sandy loam, compact, grading to
+A 2 About 1 in. of very light grey-brown sandy loam compact, cemented, abruptly changing to
+B 8-12 in. of mottled light reddish brown bloeky clay, tough and hard when dry, sharply
+overlying
+B-C Variably mottled light brown clay with heavy biscuity pan of calcium carbonate.
+Profile (b)
+Ai 2-6 in. of light brownish grey platy loamy sand grading to
+A 2 2-8 in. of light grey sand with quartz and ironstone gravel abruptly changing to
+B 10-12 in. of reddish brown hard and tough clay, bloeky and somewhat domed, grading to
+B-C About 6 in. of mottled white, light yellow, light brown clay which grades into
+C Light grey weathered schist, with or without inclusions of calcium carbonate.
+(6) Subsoils Not Containing Free Calcium Carbonate [Lime)
+(i) Solods
+(1) Moppa—Vine Vale Family
+Ai About 12 in. of light grey-brown sand sometimes with various grits and gravels, grading to
+A 2 About 10 in. of very light brown sand (bleached) with various grits and gravels abruptly
+passing to
+B About 10 in. of massive, strongly and variously mottled yellow-brown clay or sandy
+clay sometimes with various grits and gravels grading to a sandy clay which between
+36 and 48 in. in total depth passes to a sandy clay loam with various grits and gravels.
+(2) Willamba Family. —See Greenock-Gomersal area also (Wells 1959). The following
+profile is from the Sandy Creek locality. It is very variable in detail.
+An About 2 in. of speckled grey (pepper and salt) loose sand with fibrous organic matter
+grading to
+Al 2 About 4 in. of light grey-brown loose sand grading to
+A2l About 12 in. of very light brown loose sand grading to
+A 22 15-18 in. of yellowish white sand with small amounts of quartz and ironstone grit and
+gravel passing abruptly to
+B About 20 in. of mottled light red and light reddish yellow massive coarsely sandy clay
+loam containing small channels of light grey sand grading to
+B-C Mottled light brownish yellow clayey sand with inclusions of mottled red-brown and
+light grey clay continuing to below 6 ft.
+Phases. —The thickness of the A horizon varies considerably and both shallow and deep
+phases occur, in the former the A horizons may be as thin as 6 in. and in the latter
+they may be as thick as 72 in. Gravelly phases were found where moderate amounts
+of quartz and ironstone gravel occur in the A horizons.
+(3) Incrassata Family
+Ai 3-6 in. of speckled light grey-brown loose sand with slight fibrous organic matter grading
+to
+A 2 20-30 in. of brownish white loose sand with very small amounts of quartz and iron-
+stone grits, abrupt change to
+Bi About 5 in. of coarsely mottled yellow-brown, red, and light grey clayey sand or sandy
+clay loam with coatings of grey-brown clay along root channels and cracks, degrade
+columnar to massive structure, somewhat gleyed, grading to
+B 2 About 20 in. of coarsely mottled yellow-brown, red with some light grey sandy clay
+loam massive and cemented grading to
+B-C Coarsely mottled brownish yellow sandy clay containing very small inclusions of calcium
+carbonate below 6 ft.
+
+
+(4) Long Family
+About 6 in. of grey-brown loose sand with some quartz gravel grading to
+A 2 15—25 in. of very light greyish brown loose sand (bleached) and some quartz gr;ravel,
+abrupt but uneven change to
+Bi About 8 in. of slightly mottled yellow-brown sandy clay loam or sandy clay witth in-
+definite columnar structure grading to
+B 2 About 10 in. of mottled yellow-brown massive sandy clay loam grading to
+C Variously mottled red and yellow-brown massive sandy clay with variable but small
+inclusions of calcium carbonate below about 6 ft.
+Note.- Long family is similar to the Incrassata family but all its member soils are Ibetter
+drained than those of the latter family.
+(5) Unnamed Soil Series 1
+An 1 in. of grey speckled light grey fibrous organic matter and sand, spongy, gradiing to
+Al 2 About 3 in. of grey sand with rusty brown inclusions and fibrous spongy organic miatter,
+grading to
+A 2 20-24 in. of light grey sand with rusty brown inclusions, abruptly and unevenly passsing to
+About 3 in. of prismatic and angular blocky clay having grey-brown clay coatimgs on
+all aggregate faces and with yellow-brown sandy clay and light grey clayeyr sand
+centres to the units.
+B 2 About 10 m. as for Bi but the grey-brown clay coatings are much thinner, gradiing to
+C Mottled yellow-brown, light grey, and red clayey sands.
+(ii) Podzolized Lateritic Soils
+(1) Belvidere Series. —See Northcote, Russell, and Wells (1954).
+(iii) Yellow Podzolic Soils
+(1) Barossa Family
+3—4 in. of yellowish grey loose sand with fibrous organic matter grading to
+A 2 About 12 in. of pale yellow sand becoming lighter with depth, abruptly changimg to
+3—4 in. of brownish yellow massive slightly sandy clay with rusty brown incllusions,
+hard when dry, sticky when wet, grading to
+B 2 24-30 in. of coarsely mottled brownish yellow clay grading to
+B-C Coarsely mottled yellow, red, light grey clay or sandy clay (mottled-zone mateerial).
+(2) Unnamed Soil Series YPI
+Ax 6-9 in. of dark grey loamy coarse sand grading to
+A 2 About 12 in. of light brown coarse sand with grit and weathered fragments of sarndstone.
+B About 6 in. of mottled brownish yellow, light brown, and red massive clay witlh coarse
+sand and grit, weathered fragments of sandstone.
+C Weathered Aldgate sandstone with veins of clay similar to B horizon.
+11. Category 11. Soils with No Marked Contrast in Texture between Surfaace Soil
+and Subsoil
+(a) Coarse-textured
+(i) Sands
+(1) Unnamed Soil Group CSI
+Very variable profiles of grey-brown coarse sand grading to light brown coairse sand
+b y 12—15 in.; containing waterworn quartz and ironstone grits, gravels, ancd stones,
+often in very large amount; extends to more than 60 in. in depth. Lenseis of red-
+brown clayey coarse sand may occur irregularly throughout.
+
+
+(2) Unnamed Soil Group CS2
+(1) About 4 in. of reddish brown sandy loam with organic matter and quartz and iron-
+stone gravel grading to
+(2) Variable thickness of light reddish brown coarse sand with quartz grit and slabs of sandy
+ironstone, ferruginized quartz conglomerate, or ferruginized schist.
+Note.- —Very small patches of the Williamstown red-brown earth occur with CS2.
+(3) Unnamed Soil Group CSS
+(1) About 12 in. of light brownish grey loose sand, grading to
+(2) 18-24 in. of brownish white loose sand, grading to
+(3) Yellowish white loose sand which continues to at least 7to 10 ft; below this occur
+variable river deposits.
+(ii) Skeletal Soils
+(1) Unnamed Soil Group Ski
+A 6-9 in. of grey-brown light sandy loam with fragments of jointed quartzite, increasing
+in amount with depth and grading down into
+C Weathered jointed quartzite with occasional veins of clay along joint planes.
+(iii) Sandy Alluvial Soils
+(1) Turning Family. —See Northcote, Russell, and Wells (1954).
+( b ) Medium- andjor Fine-textured
+(i) Terra Rossa
+(1) Wilsford Family
+A 4—6 in. of dark greyish brown mellow and friable loam with organic matter, grading to
+B 6—9 in. of dark brown or dark reddish brown mellow and friable loam of granular structure,
+abrupt change to
+C Indurated layer of calcium carbonate with inclusions of weathered blue-grey phyllitic
+slates which increase in amount with depth.
+(ii) Rendzina
+(1) Kroemer Family
+Series 3 clay loam
+A 3—5 in. of dark brownish grey friable clay with grains of calcium carbonate overlying
+0 Soft laminated layer of calcium carbonate.
+(iii) Grey and Brown Soils of Heavy Texture
+(1) Tanunda Micro-association
+Major component
+(1) 2-4 in. of dark brownish grey granular clay with traces of calcium carbonate passing
+fairly sharply to
+(2) About 8 in. of yellow-grey mottled grey clay of large blocky structure which breaks
+down to angular blocky (1 in.) with small amounts of calcium carbonate, friable when
+moist but hard when dry, grading over 6-10 in. to
+(3) 30-36 in. of dark grey clay of blocky structure (2 in.) with small amounts of calcium
+carbonate grading to
+(4) Mottled light brown clay with moderate to large amounts of calcium carbonate, extending
+to beyond 6 ft.
+Note. —This is the general theme of a very variable soil as regards details of the profile.
+
+
+Minor component
+(1) About 4 in. of brown granular clay with traces of calcium carbonate passing fairly
+sharply to
+(2) Finely mottled yellow-brown clay with moderate to large amounts of calcium carbonate;
+the clay becomes browner and more calcareous with depth and extends to more than
+36 in.
+Note. —This is the general theme of a very variable soil as regards details of the profile.
+(2) Altona Micro-association
+Major component.— Profile from flat area between gilgais.
+(1) 6-8 in. of dark brownish grey granular clay grading to
+(2) 24-30 in. of dark grey angular blocky clay grading to
+(3) Grey to dark grey clay with moderate to large amounts of calcium carbonate.
+Note. —Nodules of calcium carbonate occur on the surface of gilgai puffs.
+Minor component.— The associated brown soil of heavy texture is similar to the grey
+soil of the major component except for colour and the calcium carbonate occurs at
+significantly shallower depths (from 18 in.).
+(iv) Wiesenboden
+(1) Lyndoch Family
+Deposition: About 6 in. deposition layer of dark grey-brown micaceous sandy loam
+or sandy clay loam, cloddy (this is very variable and may be absent).
+(1) 12—15 in. of black micaceous clay with prismatic structure which breaks down to granular
+units under pressure, traces of calcium carbonate, grading to
+(2) About 6 in. of black clay as (1) with light brownish grey mottles containing streaks of
+calcium carbonate, grading to
+(3) About 30 in. of mottled light brownish grey micaceous clay containing both soft and
+concretionary calcium carbonate which increases in amount with depth, grading to
+(4) Mottled brown micaceous clays containing small amounts of soft calcium carbonate.
+Note. —Water-table stood at 60 in. in early winter.
+(v) Alluvial Soils
+(1) Soil Group 10
+(1) 6-10 in. of brownish grey firm loam.
+(2) About 6 in. of black clay loam.
+(3) About 10 in. of grey fine sandy clay loam.
+(4) About 20 in. of black friable fine sandy clay or clay with rusty brown inclusions passing to
+mottled yellow-grey and yellow-brown fine sandy clay or clay with small inclusions
+of calcium carbonate.
+
+
+C.S.I.R.O. SOILS AND LAND USE SERIES NO. 32
+MAPS
+Map A. Soil Map, Tammda-Rowland Flat Unit, Barossa
+District, Part Hundreds of Barossa and Moorooroo,
+Counties Adelaide and Light, South Australia
+Map B. Soil Map, Lyndoch-Williamstown Unit, Barossa
+District, Part Hundred of Barossa, County of
+Adelaide, South Australia
+
+
+
+
+
+
+SOILS AND LAND USE SERIES
+1. The Soils and Horticultural Potential of Portion of the Coomealla Irrigation Area, Mew
+South Wales
+2. A Soil Survey and the Land Use Potential of Portion of the Hundred of Duncan, Kangaroo
+Island, South Australia
+3. Survey of Soils, Land Use and Soil Erosion in the Coleraine District
+4. The Soils of the Western Part of the Murray Valley Irrigation Area and tlieir Classification
+for Irrigation
+5. Soils of Deniboota Irrigation District and their Classification for Irrigation
+6. Survey of Soils, Land Use and Soil Erosion in the Northern Marginal Lands, S.A.
+7. The Soils of the Kingston-Avenue Drainage Area, South Australia
+8. A Survey of Soils and Land Use in Part of the Coonalpyn Downs, South Australia
+9. Soils of the Abermusden Irrigation Area, New South Wales
+10. The Soils and Land Use Potential of the Lower Burdekin Valley, North Queensland
+11. A Survey of Soils, and Some Aspects of Soil Fertility, in the Lismore District, New South
+Wales
+12. A Soil and Land-use Study of the Australian Territory of Norfolk Island, South Pacific
+Ocean
+13. Soils and Land Use in the Barossa District, South Australia. Zone I. The Nuriootpa Area
+14. The Soils and Potential Land Use of Part of County Cardwell (Hundreds of Coombc and
+Richards) in the Coonalpyn Downs, South Australia
+15. Soils of the Swan Valley Vineyard Area, Western Australia
+16. The Soils and Irrigation Potential of the Capel-Boyanup Area, Western Australia
+17. A Reconnaissance Survey of the Soils of the Shire of Kowree, Victoria
+18. Jemargo Extension of the Berriquin Irrigation District, New South Wales
+19. The Soils of the East Murrakool District, New South Wales, and their Relation to Land
+Use under Irrigation
+20. Soils and Land Use in the Harvey Area, Western Australia
+21. A Survey of the Soils and their Utilization in Portion of the Mt. Lofty Ranges, South
+Australia
+22. Soils and Land Use in the Barossa District, South Australia. Part A. The Angaston—
+Springton Area. Part B. The Tanunda Creek-Trial Hill Area
+23. The Soils of Flinders Island, Tasmania
+24. A Study of the Soils and Some Aspects of the Hydrology at Yudnapinna Station, South
+Australia
+25. A Soil Survey of Part of Brunei, British Borneo
+26. The Soils and Some Aspects of Land Use in the Burnie, Table Cape, and Surrounding
+Districts, North-West Tasmania
+27. The Soils and Land Use of the Denimein Irrigation District, New South Wales
+28. Soils and Land Use in the Toowoomba Area, Darling Downs, Queensland
+29. Soils and Potential Land Use of the Area around Lake Alexandria and Lake Albert,
+South Australia
+30. Soils and Land Use in the Barossa District, South Australia. The Greenock-Gomersal Area
+31. The Soils and Irrigation Potential of the Pinjarra-Waroona Area, Western Australia
+32. Soils and Land Use in the Barossa District, South Australia. The Tanunda-Williamstown
+Area

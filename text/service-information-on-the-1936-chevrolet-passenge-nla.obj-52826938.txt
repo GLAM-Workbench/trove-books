@@ -1,0 +1,1550 @@
+
+
+ACCELERATOR
+SUPPLEMENT
+Service Information
+on the
+1936 CHEVROLET PASSENGER CARS
+Major Improvements
+MASTER DE LUXE AND CHEVROLET
+Hydraulic Brakes.
+Higher Engine Compression.
+Full Length Cylinder Water Jackets.
+Improved Valve Mechanism.
+Revised Valve Timing.
+Improved Carburetion.
+More Durable Clutch Disc Cushion Springs.
+Vibrator Type Voltage Regulator.
+New Headlamps with Revised Mounting.
+MASTER DE LUXE ONLY
+Combination Steel and Cast Iron Brake Drums.
+More Rigid Knee-Action Support Arm.
+CHEVROLET SERIES ONLY
+Increased Wheelbase.
+Increased Horse Power.
+Entirely New "Box Girder" Frame.
+Improved Springs.
+Front Spring Bumpers Added.
+Screw Type Spring Shackles.
+Improved Transmission Shifting Mechanism.
+Stronger Rear Axle.
+Larger Brake Drums.
+Pressed Steel Wheels.
+Heavier Steering Gear.
+Improved Exhaust System.
+Increased Capacity of Petrol Tank.
+Larger Radiator.
+Roomier Bodies.
+Issued by the Parts and Service Department, General Motors-Holden's Limited
+
+
+
+
+Chevrolet Master De Luxe
+Chevrolet
+Wheelbase
+113 in.
+109 in.
+Engine Type
+Valve-in-Head
+Valve-in-Head
+No. of Cylinders
+6
+6
+Bore and Stroke
+3-5/16 in. x 4 in.
+3-5/16 in. x 4 in.
+Piston Displacement
+206.8 cu. in.
+206.8 cu. in.
+Compression Ratio
+6:1
+6:1
+Actual H.P.
+79 at 3200 R.P.M.
+79 at 3200 R.P.M.
+Rated H.P. (S.A.E. or R.A.C.)
+26.3
+26.3
+Firing Order
+1-5-3-6-2-4
+1-5-3-6-2-4
+Tyre Size
+5.50—17 in.
+5.25—17 in.
+Rear Axle Ratio
+4.11 to 1
+4.11 to 1
+CAPACITIES
+Crankcase (Refill)
+4 quarts
+4 quarts
+Transmission
+2 pints
+Id pints
+Rear Axle
+4 pints
+pints
+Petrol Tank
+111 gallons
+lid gallons
+Cooling System
+12% quarts
+12d quarts
+General Specifications
+Fig. 1-Engine
+ACCELERATOR A SUPPLEMENT
+
+
+Engine
+The 1936 Master De Luxe engine remains
+basically the same, although numerous refine-
+ments have been made to increase its efficiency
+and durability.
+The horse power and torque throughout the
+lower speed ranges have been increased, to pro-
+vide better performance. The maximum horse
+power has been decreased very slightly, but this
+has no effect on maximum car speed.
+All parts of the engine except those specifically
+mentioned herein, remain the same as in 1935.
+The 1936 Chevrolet Series engine is identical
+with the Master, with exception of the air cleaner,
+the clutch pressure plate springs and the clutch
+housing.
+CYLINDER BLOCK
+The cylinder block has been changed to incor-
+porate full length water jackets. These extend to
+the bottom of the cylinder bore as shown in
+figure 2.
+Fig. 2 —Cylinder Water Jacket
+With this construction the engine operating
+conditions are improved; the cylinder bores re-
+main truly round and straight, and the piston
+rings always maintain full contact with the walls.
+All moving parts —pistons, rings, connecting rods,
+etc., run cooler and the normal life of these parts
+is increased.
+CYLINDER HEAD
+Due to refinements in the design of the com-
+bustion chamber, it has been possible to increase
+the compression ratio from 5.6 : 1 to 6.0 : 1,
+Valve seat cooling has been improved by a
+more uniform metal thickness.
+VALVES, SPRINGS AND LIFTERS
+A counterbore has been added at the bottom
+of the exhaust valve guides to prevent possible
+sticking of the valves. See "A” figure 3. This
+Fig. 3 —Valve Guide Counterbore
+eliminates contact between the valve guide and
+the carbon-forming portion of the valve stem.
+Valves, rocker arms, push rods and lifters re-
+main the same.
+Slight changes have been made in the valve
+springs to reduce the pressure when the valve
+is open. The new' spring pressures are as follow:
+Valve closed (length 1| in.) ... 42 to 48 lbs.
+Valve open (length 1-9/16 in.) 100 to 107 lbs.
+Approximate free length —2-7/32 in.
+Valve lash remains the same on both models,
+namely .006 in. minimum jor inlet and .013 in.
+minimum jor exhaust, with the engine at normal
+ACCELERATOR SUPPLEMENT
+
+
+road temperature. Average shop conditions do
+not permit driving each car on the road to nor-
+malize engine temperatures, therefore when an
+engine is warmed-up by idling and is not driven
+on the road, valves should he set with a clearance
+of .008 in. for intake and .015 in. exhaust.
+Improvements have been made in the 1936 en-
+gine to maintain more constant valve clearance
+under all conditions.
+The main factors causing variations in valve
+clearance are the cylinder block and the push
+rods —the cylinder block expands as the cooling
+water heats up, and the push rods expand as the
+temperature of the oil increases.
+In previous engines, the water heated up much
+faster than the oil. The colder oil poured over
+the push rods tended to retard their expansion,
+and since the block expansion was rapid follow-
+ing the temperature rise of the water, there was a
+tendency for the cylinder head to "lift” away
+from the tops of the push rods. As the tempera-
+ture of the oil gradually increased, the push rods
+expanded until the tappet clearance finally be-
+came stabilized.
+In the 1936 engines, due to the long water
+jackets and the fact that the oil pipe to the rocker
+arms is passed through the water jacket (see
+figure 7), oil going to the rocker arms and push
+rods warms up much more quickly. This serves
+to speed up the expansion of the push rods, mini-
+mizing the difference between the block and push
+rod expansions, thus decreasing the valve lash
+variation during the warm-up period. As soon
+as the oil becomes hotter than the cooling water,
+the oil line to the rocker arms acts as an oil
+cooler and tends to reduce the temperature of the
+oil. Figure 4 shows a comparison of the actual
+oil temperatures, using the 1935 temperatures as
+a basis.
+On previous models, an oil temperature 100° F.
+above the water temperature was possible under
+high speed driving. In the 1936 engine, the maxi-
+mum temperature difference has been lowered to
+60° F. and therefore the tendency for valve lash
+to decrease on hard driving has been correspond-
+ingly reduced.
+Apart from the quieter operation of the valves,
+the idling of the 1936 engine when hot, after a
+long run, has been noticeably improved by the
+above changes.
+Fig. 4—Oil Temperature Chart
+CAMSHAFT
+The ramp of the cams, which is the slight and
+gradual increase from the base circle of the cam,
+up to the point where the cam begins to open the
+valve, has been re-shaped on both intake and
+exhaust.
+In actual valve timing, this causes the valves to
+open later and close sooner than previously and
+the resulting smaller overlap between the open-
+ing of the intake valve and the closing of the
+exhaust, improves the idling performance of the
+engine and provides more power in the lower
+speed range.
+The inlet cams have also been changed by the
+adoption of a "round-nose” contour which results
+in quieter valve operation and greater valve
+spring life. .
+ACCELERATOR SUPPLEMENT
+
+
+VALVE TIMING
+The timing gears remain the same as in 1935
+Master engine.
+Valve timing may be checked as follows:
+On a cold engine—
+1. Remove all lash from No. 1 exhaust valve.
+2. With the lifter on the back of the cam, mount
+a long stroke dial indicator to bear on the
+adjusting screw of the rocker arm and set the
+indicator to zero.
+3. Crank the engine until No. 1 exhaust valve
+opens and then starts to close. Then watch
+for the ignition timing mark on the flywheel
+and carefully bring it in line with the pointer.
+If the valve timing is correct, the indicator
+should read .036 in.
+ENGINE MOUNTINGS
+The design of the engine mountings remains
+unchanged for 1936. The same adjustment in-
+structions apply.
+EXHAUST SYSTEM
+Master De Luxe
+The exhaust system remains unchanged on
+Master models, except for minor improvements
+in the mounting.
+Chevrolet
+The suspension of the exhaust system on Chev-
+rolet series has been redesigned. Two rubber
+grommets are carried in the upper flange of the
+support bracket at the rear of the muffler in place
+of the one grommet formerly used at this point.
+See figure 5.
+The tail pipe is suspended from the rear cross
+member by a support which is mounted in a rub-
+ber grommet containing approximately twice as
+much rubber as formerly. See figure 6.
+The exhaust pipe has been shortened and the
+tail pipe has been lengthened to bring the muffler
+in a more forward position.
+The internal design of the muffler has also
+been improved.
+Fig. 5—Chevrolet Series Muffler Support.
+Fig. 6—Chevrolet Series Tail Pipe Support
+6
+
+
+Engine Lubrication
+OIL PUMP
+The oil pump drive mechanism has been
+strengthened throughout. The tongue which con-
+nects the distributor and oil pump shafts, is wider
+and stronger and is now located on the distributor
+shaft. The oil pump shaft has been increased
+in diameter from % in. to 9/16 in. and the pin
+which connects this shaft to the rotor is enlarged
+from 5/32 in. to 3/16 in. The set screw which
+holds the entire pump assembly to the crankcase,
+has a stronger tapered end and is 3/32 in. larger
+in diameter.
+The distributor gear pin is now definitely the
+weakest point in the drive, so that in case of
+seizure or jamming of the oil pump gears, this
+pin will shear and prevent operation of the engine
+with an inoperative oil pump.
+OIL DISTRIBUTOR
+The oil distributor body gasket is thicker and
+is now made of composition cork to provide a
+better seal.
+The oil distributor now includes a lighter valve
+which eliminates the possibility of periodic vibrat-
+ing noises.
+RIFLE-DRILLED OIL PASSAGE
+The oil pipes which were formerly pressed in
+the block to carry oil to the main bearings, have
+been replaced by a rifle-drilled passage serving
+the same purpose.
+OIL TEMPERATURE CONTROL
+As previously mentioned under '"Valves,
+Springs and Lifters,” the full length water jackets
+and the routing of the valve rocker arm oil pipe
+through the water jacket serve to quickly raise
+oil temperature after starting and to limit the
+temperature under hard driving conditions. The
+pipe as shown from "A” to "B” (figure 7) is a
+single piece of tubing.
+CRANKCASE FILLER AND VENTILATOR
+A baffle has been added inside the crankcase
+to prevent the loss of oil vapour through the
+ventilator at high speeds (see figure 8).
+As shown in the illustration, a handle has been
+welded to the oil filler cap. The new cap may
+be used on previous models.
+Fig. 7 —Oil Temperature Control
+Fig. 8 —Crankcase Ventilator Baffle
+ACCELERATOR SUPPLEMENT
+
+
+Cooling System
+As previously mentioned, the water jackets now
+extend to the bottom of the cylinder bores, pro-
+viding uniform cooling throughout their entire
+length.
+Due to the longer water jackets on both models
+and the larger radiator on Chevrolet series, the
+cooling system capacity has been increased to 12%
+quarts.
+The radiator filler cap on Chevrolet series is
+now located under the hood, similar to the Master
+De Luxe series.
+RADIATOR
+The radiator core has been re-designed with
+a new section which gives more efficient heat dis-
+sipation. The same radiator is used on both
+models.
+DRAINING THE COOLING SYSTEM
+In addition to the regular drain cock at the
+bottom of the radiator, an additional drain fitting
+is provided on the left side of the cylinder block.
+Important. —Both drain cocks must he opened for
+complete drainage of the cooling system.
+Fuel System
+PETROL TANK
+The petrol tank is of new construction and
+consists of two identical stampings which are
+seam-welded, face to face. See figure 9- When
+welded together, the flanges of the two stampings
+form a rigid reinforcement around the entire tank,
+preventing longitudinal bending which might
+open seams and cause a leak. Further rigidity is
+provided by five equally spaced ribs extending
+from the front to the rear of each stamping.
+The fuel tank for 1936 is the same on both
+models , the capacity being 11\ gallons.
+Fig. 9 —Petrol Tank
+CARBURETTOR
+Numerous refinements have been made in the
+1936 carburettor.
+By means of a passage connecting the float
+chamber to the inside of the air horn (see figure
+10), the air pressure in the carburettor float
+chamber is balanced with that on the inside of
+the air horn. With this balanced pressure, the
+proportions of air and fuel in the mixture remain
+substantially the same at all times, even though
+the air flow may be restricted by a dirty air
+cleaner.
+Fig. 10 —Carburettor Pressure Balance Port
+ACCELERATOR SUPPLEMENT
+
+
+Due to the new requirements of the engine, and
+the "balanced” feature of the carburettor, calibra-
+tions of the metering rod and jet have been
+changed. The float chamber vent has been re-
+moved and a heavier metering rod washer is now
+used to assist in sealing the float chamber. This
+part must not be omitted when the carburettor is
+being worked on, and for the same reason it is
+also very important not to omit the small gasket
+between the air horn and the carburettor body.
+The air horn is retained to the carburettor body
+by three screws instead of two. This provides
+a stronger anchorage and prevents any possible
+loosening which might cause air leakage in the
+passage way between float chamber and air horn.
+The choke valve of the carburettor has been
+simplified by the removal of the locking
+mechanism.
+The needle valve and seat have been re-de-
+signed to withstand approximately twice as much
+pressure.
+Two holes at the idle port replace the former
+slot which was apt to vary in shape due to the
+method of punching. This makes the fuel con-
+sumption more uniform at speeds from 15 to 25
+miles per hour.
+The position of the holes governing the vacuum
+spark advance has been changed slightly to in-
+crease the effective range.
+The float level remains unchanged, namely f in.
+This is measured from the surface of the cover
+with the gasket removed, to the nearest point on
+the float, when the assembly is held in the in-
+verted position.
+The correct idle adjustment is 1 to 2 turns open.
+INLET MANIFOLD
+A slightly smaller inlet manifold, incorporat-
+ing all the features of the previous manifold, is
+used on the 1936 engines. The smaller manifold
+increases the velocity of the fuel mixture, improv-
+ing the distribution and providing better engine
+performance during the warm-up period.
+CARBURETTOR HEAT CONTROL
+The cover of the heat control thermostat has
+been changed to reduce the cut-away portion.
+This allows the valve to open more quickly.
+Electrical System
+GENERATOR
+The ventilated-type generator is continued. In
+the 1936 generator, however, the third brush is
+non-adjustable, this being permanently set at
+maximum charging rate.
+VOLTAGE CONTROL UNIT
+The vibrating type of voltage regulator is used
+in place of the step or lock-out type used on the
+1935 models. The vibrating type provides more
+accurate control of the voltage and thus more
+nearly meets the requirements of the battery.
+Certain tests, as outlined below, may be made
+to establish whether or not a voltage regulator
+is functioning properly. Should a regulator prove
+defective by these tests, it should be referred to
+the Equipment Distributors holding the repre-
+sentation for this item for repair or replacement.
+Generator Not Charging
+1. Be sure the base of the regulator is satisfac-
+torily grounded.
+2. Ground the field coil terminal (F) of the
+regulator with the engine running at a speed
+equivalent to 25 miles per hour. If the gen-
+erator now charges, the trouble is in the
+voltage regulator.
+3. If the generator does not charge when the
+(F) terminal is grounded, remove the gener-
+ator lead and strike it against the engine
+block. If no spark occurs, the trouble is in
+the generator.
+Generator Always Charging too High
+This will be indicated by the burning out of
+lamp bulbs and the burning of distributor points.
+1. Check battery gravity and if all three cells do
+not read approximately the same gravity, cor-
+rect the trouble in the battery.
+2. Run the engine for 15 minutes at a speed
+equivalent to 25 miles per hour. At the end
+of this time the ammeter should show a charge
+between 3 and 8 amperes. If showing more
+ACCELERATOR SUPPLEMENT
+
+
+than 10 amperes, a voltmeter reading should
+be taken between the ammeter terminal of
+regulator and a ground. If this reading is
+above 8.0 volts, it indicates that the regulator
+requires adjustment.
+Generator Always Charging Too Low
+1. Check the battery gravity and if less than
+1.250 in States of Vic., N.S.W., S.A. and Tas-
+mania, or 1.200 in States of Queensland, W.A.
+and Northern Territory, install a fully charged
+battery.
+2. With the centre high tension wire removed
+from distributor, put car in gear, apply brakes,
+engage clutch, and operate the starter for 10
+seconds. This procedure locks the starting
+motor and gives a maximum battery discharge
+thus dropping the battery voltage below
+normal.
+3. Place the gear shift in neutral, start engine
+and adjust engine speed so that the ammeter
+indicates maximum charge. If this is not less
+than 14 amperes, the generator is functioning
+satisfactorily.
+4. If the output is less than 14 amperes, ground
+the "F” terminal on the generator. If the
+charging rate increases when this is done, it
+indicates that the trouble is in the voltage reg-
+ulator or in a loose or high resistance con-
+nection between the regulator and the battery,
+or at the battery terminal. A badly sulphated
+battery will also give this effect, but it will
+only be temporary since the sulphate will soon
+be broken down.. If the charging rate does
+not increase when the "F” terminal is ground-
+ed, it indicates that the trouble is in the
+generator.
+AMMETER
+Due to the voltage regulator, the ammeter will
+indicate a variable charging rate depending on
+the condition of the battery. This may be as low
+as 3 amperes which would indicate that the bat-
+tery is fully charged and that the regulator is
+functioning properly to prevent the over-charging
+of the battery.
+Vibration or rapid fluctuation of the ammeter
+needle may also occur, which is also a normal con-
+dition with the vibrator type of voltage regulator.
+IGNITION TIMING
+Due to the new engine characteristics and the
+higher compression ratio, the maximum auto-
+matic advance has been decreased from 28° to
+25°. The vacuum advance has been increased
+from 12° to 17° and the range of the vacuum
+advance has been broadened so that it is now
+effective from 15 to 70 miles per hour.
+The distributor points should be adjusted to
+.018 in. and the ignition timed to the steel ball
+pressed in the flywheel. This ball is positioned
+5° before top dead centre.
+Final setting of the ignition should be made
+on the road by means of the Octane Selector, to
+suit the particular grade of fuel being used.
+SPARK PLUGS
+Pyrox P.Z.14-AX spark plugs are used. The
+correct gap is .028 in. to .030 in.
+Clutch
+The service life of the clutch disc cushioning
+springs has been materially increased due to a new
+method of processing the wire. The new treat-
+ment, known as "shot-blasting,” consists of ex-
+posing the wire to a blast of thousands of small
+lead pellets, which peen the surface evenly and
+cold-work the material so that its fatigue strength
+and endurance capacity under repeated stress are
+greatly increased.
+The arrangement of the cap screws which
+attach the clutch cover to the flywheel, is revised.
+The nine bolts are spaced in groups of three at
+each of the pressure lever supports, instead of
+their former location in the flexible part of the
+cover between the supports.
+As in the case of the 1935 models, two different
+types of clutch pressure plate springs are used in
+the Chevrolet series. The two outside springs in
+each group are alike and are unmarked. The
+centre spring is painted to indicate its different
+rate. These springs must he installed in their
+correct positions.
+The clutch lash on both models is 1 \ in.
+10
+
+
+Transmission
+Chevrolet
+Master De Luxe
+The 1936 transmission remains the same with
+the exception of the speedometer driven gear
+mounting. This is now positioned above the
+main shaft instead of below, so that the speedo-
+meter cable will clear the brake master cylinder.
+This necessitated a change from a left to a right-
+hand spiral on the speedometer gears. The speed-
+ometer ratio remains the same.
+Chevrolet
+The design of the Chevrolet series transmission
+has been improved to provide smoother and easier
+shifting. This has been accomplished by a new
+rail-type shifting mechanism, which is similar to
+that used on the Master series. Also, an inter-
+lock has been added to prevent the possibility of
+shifting into two gears at one time.
+The speedometer drive remains unchanged on
+the Chevrolet series transmission.
+A boss with a tapped hole has been added on
+the right side of the transmission rear bearing
+retainer to provide an attachment for the ground
+strap of the battery. The two bosses formerly
+on each side of the transmission case for the
+mounting of the hand brake lever have been re-
+moved as they are no longer necessary. This lever
+is now mounted on a bracket attached to the
+frame centre cross member.
+Master De Luxe
+The rear axle remains the same as in 1935,
+with exception of minor changes.
+The flanges for the brake backing plates have
+been reshaped and these are now attached by
+means of four | in. rivets instead of eight 5/16 in.
+rivets as in 1935.
+The inner races of the differential side bear-
+ings and the hub of the differential case have
+been increased in width to give better support to
+the bearings and to prevent the possibility of the
+inner races turning on the hubs of the differential
+case. See figure 11.
+Rear Axle
+Fig. 11 —Master
+De Luxe Series
+Differential
+Side Bearing
+Fig. 12—Propeller Shaft and Torque Tube Details
+ACCELERATOR SUPPLEMENT
+
+
+Chevrolet
+The drive from the universal joint to the rear
+axle has been redesigned for greater durability.
+This has been accomplished by increasing the dia-
+meters of the spiral drive pinion and the propel-
+ler shafts, by a stronger connection of these two
+members and by the addition of a bushing in the
+front end of the torque tube to support the rear
+yoke of the universal joint. See figure 12. In
+addition, the axle has been changed to conform
+with new spring centres and the new brake hook-
+up. Both the propeller shaft and the torque tube
+have been lengthened to compensate for the
+longer wheel base and the more forward location
+of the engine in the frame.
+The double row pinion thrust bearing has been
+changed to conform with the larger diameter of
+the new pinion shaft.
+Hyatt roller bearings of the new "barrel-type”
+design support the differential. See figure 13-
+These bearings have a unique characteristic, in
+that their capacity increases as the load increases.
+Figure 14 is an exaggerated view of the "barrel”
+rollers in the unloaded and loaded positions.
+The adjustment of these new type side bear-
+ings is the same as the adjustment of the former
+hall bearings.
+The brake drums are mounted on the outside
+of the shaft flanges, being located by means of a
+machined pilot and secured by two cap screws.
+Fig. 13 —Standard Series Differencial Side Bearing
+Fig. 14 —Barrel Type Roller Deflection
+Front Suspension
+Master De Luxe
+With exception of more rigid wheel support
+arms, the front suspension remains unchanged.
+Due to the smaller diameter of the brake
+drums and backing plates, the 1936 car height
+measurement is 4| in. (5| in. on cars with
+special heavier springs for rough roads). This
+measurement is taken from the bottom of the
+king pin boss to the lowest point on the backing
+plate.
+For 1936, radius rods will be serviced only as
+assemblies including the radius rod, the front
+bracket and the backing plate stud. Shims for
+correcting any slight misalignment between the
+front bracket and the unit will be continued.
+FRONT WHEEL ALIGNMENT
+The specifications for front wheel alignment
+are as follows; —
+Master De Luxe
+Caster (king pin) 0° f l r (both sides to be
+even within \ ’)
+Camber \ - |° +|' (both sides to
+be even within
+Toe-in ... ... 1/16 in. to 3/32 in.
+Steering geometry (toe-out on turn) 20 ’ and 23°
+Chevrolet
+Caster ... 2| * |° (both sides to be
+even within -| Ci )
+Camber ... ... 1° r 4 (both sides to be
+even within \ )
+Toe-in 1/16 in. to in.
+Steering geometry (toe-out on turn) 20‘ and 23°
+ACCELERATOR SUPPLEMENT
+
+
+Front Axle
+CHEVROLET
+The offset in the centre of the front axle "I”
+beam is now towards the rear instead of the front.
+The life of the king pins and their bushings
+is increased by approximately 20% greater bush-
+ing area. The bushings are increased 3/16 in. in
+length and the steering knuckle bosses have been
+increased accordingly. The king pins are | in.
+longer than in 1935. See figure 15.
+STEERING KNUCKLE ATTACHMENT
+The four bolts which hold each steering
+knuckle, steering arm and brake flange plate to-
+gether, have been increased from | in. to 7/16 in.
+in diameter, and these are now located farther
+apart, thus providing a stronger mounting.
+Fig. 15 —"Chevrolet” Series Steering Knuckle Details
+Springs
+Chevrolet Series
+The riding qualities of the 1936 Chevrolet
+series have been greatly improved by an entirely
+new spring design. The front springs are softer
+and are 3 in. longer therefore their frequency or
+vibration rate is reduced and more nearly ap-
+proaches the frequency of the rear springs. This
+reduces the tendency of the car to pitch and pro-
+vides a more evenly balanced ride.
+Referring to figure 16, it will be noted that
+the two upper spring leaves of each front spring
+are rolled at the forward end to form an eye of
+double thickness and that the front spring eye
+bushing is held in the second leaf whereas the
+rear bushing is held in the first leaf. This con-
+struction is especially strong in resisting spring
+"wind-up” when the brakes are applied.
+Fore and aft clearance is provided between the
+inner and outer spring eyes at the front of the
+spring. This clearance is 3/32 in. at the front
+and 5/32 in. at the rear of the eye and is neces-
+sary to allow free action of the springs without
+noise or interference.
+Front springs are equipped with special rubber
+bumpers which effectively assist the spring in
+absorbing shock on severe bumps. These are
+similar to the rubber bumpers used on the rear
+of the Master De Luxe series.
+The rear springs which are now 5 in, shorter
+are mounted 1-9/16 in. farther apart to increase
+the car stability.
+SHACKLES-CHEVROLET SERIES
+Threaded type shackles are used on both front
+and rear springs similar to Master De Luxe design.
+The front springs are now shackled at the rear
+instead of the front. See figure 16. At forward
+end, a special threaded bolt and bushing are used.
+At the forward end of the rear spring the Mas-
+ter type ’Tnlox” rubber bushing has been adopted.
+See figure 17.
+SHOCK ABSORBERS
+The Master De Luxe series shock absorbers
+remain unchanged. On the Chevrolet series, the
+valving of both front and rear shock absorbers has
+been changed slightly to conform with the new
+ride characteristics of the car.
+13
+
+
+Fig. 17—"Chevrolet" Series Rear Spring
+
+
+Brakes
+Both models are equipped with entirely new
+hydraulic service brakes which have been designed
+for lower pedal pressure, minimum pedal fade-out
+on consecutive high speed stops, easier adjust-
+ment and simplified replacement of parts.
+The mechanically operated hand brake is con-
+tinued, being connected by means of rods and
+cables to the shoes of the rear wheels only.
+BRAKE SHOES
+The brake shoes have been moved 90° from
+their former location, the new position being
+selected on account of the necessity of bleeding
+the brake lines. See figure 18. This change
+necessitated increased friction at the articulated
+links and the elimination of the former guides in
+favour of tension springs.
+In each brake, two shoes, hinging on double
+articulated links from a common pivot at the bot-
+tom of the brake, provide forward and reverse
+braking in the same manner as heretofore. These
+shoes are made from "T” section steel in which
+the flange and web are rolled from one piece.
+This provides a light and rigid construction which
+dissipates the heat more quickly from the linings,
+thus increasing their life. All shoe assemblies on
+each model are interchangeable but Chevrolet
+and Master De Luxe assemblies are non-inter-
+changeable because of the different types of
+lining.
+Upon braking, the double joint effect of the
+articulating links permits the shoe to be carried
+in the direction of the moving brake drum. The
+articulation of both shoes and their links is lim-
+ited in a manner similar to that of the 1935 re-
+verse shoe, but this feature is incorporated in the
+forward acting shoe merely from the standpoint
+of interchangeability.
+Limited articulation on the reverse shoe is for
+the purpose of preventing excessive toe wear on
+forward brake application. This is accomplished
+by the insertion of a pin through the holes in both
+links and the heel of the shoe. See figure 19.
+The holes in the links are of slightly larger dia-
+meter than the pin, and permit some movement
+in the joint. A stiff compression spring under the
+head of the pin holds the links tightly against the
+shoe web.
+Fig. 18 —Front Wheel Brake Shoes
+15
+
+
+Fig. 19 —Stages of Lining Wear on Forward Braking
+On forward braking, each shoe and its links
+pivot at the anchor pin as a unit, due to the com-
+pression of the spring. The forward shoe is picked
+up by the revolving drum into which it then
+adjusts itself.
+With the reverse shoe, however, the action is
+somewhat different, as it is applied against the
+rotation of the drum. This tends to lift the heel
+of the shoe which would ordinarily cause exces-
+sive wear at the toe. However, the pin in the
+heel of the shoe prevents it from lifting, and re-
+sults in uniform wear of the lining. The clear-
+ance hole around the pin permits just enough
+articulation to allow the shoe to adjust itself into
+the drum on reverse braking. As soon as suf-
+ficient toe wear occurs to permit the shoe to ride
+against the pin, further articulation is prevented
+and the reverse shoe acts as a fixed shoe in for-
+ward braking.
+The self-actuation of the forward shoe is greater
+on forward braking. Likewise the reverse shoe
+has its greater self-actuation when the car is in
+reverse. In each case the actuation is designed
+to give just the right amount without being exces-
+sive. This has been increased, however, in com-
+parison with 1935 and the pedal pressure is ma-
+terially reduced.
+For the rime being at least, brake lining will
+not be serviced separately. When replacing brake
+shoe assemblies, it is essential that corresponding
+shoes on both sides be changed. For example,
+should a right forward shoe be changed, the left
+forward shoe should also be changed.
+BRAKE SHOE GUIDE SPRINGS
+At the centre of each brake shoe, a conical coil
+spring, which takes the place of the former guide
+from the brake shoe anchor plate, is hooked
+through the web of the shoe to an anchor welded
+to the brake flange plate. This spring holds the
+inner edge of the shoe flange rightly against the
+three small projections on the backing plate, thus
+keeping the shoe in perfect alignment and at the
+same time preventing it from rattling or vibrating.
+BRAKE DRUMS
+Master De Luxe
+The brake drums are of composite construction,
+each consisting of a cast iron rim of heavy sec-
+tion, cast integrally with a pressed steel web. See
+figure 20. The outer circumference of the drum
+has four deep grooves which form cooling ribs.
+Fig. 20 —Brake Drum Construction
+ACCELERATOR
+
+
+The new drum combines the advantages of a cast
+iron braking surface with the light weight feature
+of a pressed steel drum. Cast iron is an ideal
+braking surface on account of the minute par-
+ticles of graphite contained in the iron. It pre-
+vents the scoring of drums and increases the life
+of the linings.
+The advantages gained through the use of the
+composite drums have permitted a reduction in
+drum diameter from 12 in. to 11 in. with still
+greater braking efficiency than before.
+Chevrolet
+The Chevrolet series, being lighter in weight,
+are equipped with improved pressed steel drums
+which have been increased from 10 in. to 11 in.
+in diameter.
+BRAKE DRUM DIRT SHIELDS
+The brake drum dirt shield is a full ring instead
+of a split ring, and is welded at four more places
+to the flange plate. This shield forms a gutter
+to drain away any water or mud before it can
+enter the brake mechanism.
+WHEEL CYLINDERS
+Each wheel cylinder contains two pistons which
+act on the brake shoes in opposite directions. See
+figure 18. The piston is an aluminium cup ground
+to a fit of .002 in. to .004 in. clearance in the
+cylinder bore. The rubber cup at the inner end
+of the piston is moulded to fit snugly into the
+bore and to act as a seal and thus prevent the
+escape of brake fluid past the piston.
+The end cover is stamped in two cup-shaped
+pieces, which are welded together back to back.
+One of these slips over the end of the cylinder
+on a machined pilot and the other serves as an
+adjustment wheel, notches being cut around its
+circumference. The adjustment screw extends to
+the brake shoe, a deep notch in its outer end
+permitting it to straddle the brake shoe web. At
+the centre of the wheel cylinder a light spring
+exerts pressure against the two pistons, maintain-
+ing contact between the various parts.
+Front wheel cylinders are slightly larger than
+those on the rear, in order to give the proper dis-
+tribution of braking effort. Cylinder sizes are as
+follows: —
+Front Rear
+Chevrolet Master De Luxe 1|- in. 1-3/16 in.
+Chevrolet 1-J- in. 1-1/16 in.
+MASTER CYLINDER
+The pressure developed in the master cylinder
+by pedal movement, is distributed equally through
+the pipes and hoses to the four wheel cylinders.
+At the wheel cylinders, this hydraulic pressure is
+converted into movement which expands the shoes
+into their drums.
+The master cylinder consists of a housing, pis-
+ton, compensating valves and ports, and a com-
+bined piston and pedal stop. See figure 21. A
+Fig. 21 —Master Cylinder
+large reservoir for brake fluid is incorporated in
+the cast iron housing above the cylinder. It is
+filled through a hole at the top which is sealed by
+a removable cap. Two drilled ports lead from
+the reservoir to the cylinder, the larger one being
+called the "breather port” and the smaller one the
+"compensating port.”
+The piston is a long, spool-like member ground
+to a fit of .001 in. to .005 in. clearance in the
+bore. It incorporates a rubber seal at the for-
+ward end and a rubber "primary” cup at the
+rear. This rubber cup is maintained in contact
+against the end of the piston by a light spring.
+The combined outlet and return valve at the rear
+of the cylinder is held against its seat by the same
+spring. This valve is made of rubber and is
+encased in a steel cage.
+ACCELERATOR SUPPLEMENT
+
+
+The combined piston and pedal stop is a steel
+disc held in the forward end of the cylinder by
+a lock ring. The upset end of the piston rod
+contacts with the stop when the brakes are re-
+leased. A rubber boot, which works like an ac-
+cordion, encloses the rod and seals the end of the
+cylinder. The piston rod is adjustable and should
+be set to provide 4 in. clearance between the brake
+pedal and the underside of the toe board. It is
+not necessary to disconnect the rod to perform
+this adjustment.
+Operation
+Movement of the brake pedal pushes the rod
+against the piston, forcing the piston and its cup
+to move towards the rear. The resultant pressure
+opens the rubber valve and allows the fluid to
+flow into the lines.
+When the brake is released, the main cylinder
+return spring forces the piston and its cup for-
+ward. The brake shoe retracting springs exert
+pressure on the fluid, forcing the cylinder outlet
+valve from its seat and allowing the fluid to
+return to the cylinder. However, when the pres-
+sure drops to 9 lbs., this valve closes, retaining
+this pressure in the lines and thus preventing the
+possible entry of air into the system.
+The return of the piston and its primary cup
+to the released position is faster than the return
+of the fluid through the lines. On account of
+this, a momentary vacuum is created in the master
+cylinder which causes additional fluid to be drawn
+from the reservoir, thiougn the breather port,
+through the drilled holes in the piston end and
+past the lip of the primary cup. As the fluid
+returns from the lines, this extra fluid flows back
+into the reservoir through the compensating port.
+Thus, a full cylinder of fluid is assured for every
+brake application.
+HYDRAULIC BRAKE LINES
+The master cylinder is connected to the wheel
+cylinder by means of special steel tubing and flex-
+ible hoses. Exposed parts of the tubing are pro-
+tected from injury by flying stones from the
+wheels, by means of an armour which consists of
+closely wound heavy steel wire around the tubing.
+The ends of all rubes are flared on an angle
+of 45°, with the lip of the flare bent inward to
+form a double thickness. See figure 22. As the
+nut is tightened, the flared end is compressed,
+forming a strong leak-proof connection.
+Fig. 22 —Hydraulic Brake Line Connection
+The special steel tubes are serviced as formed-
+assemblies only, no bending being necessary. The
+compression nuts are slipped on the tubing before'
+the special flared ends are formed. Copper tubing
+must not be used to replace the steel tubing.
+Each hose is formed of rubber, moulded around
+an impregnated fabric core. The copper-plated
+steel connectors at each end are pressed onto the
+hose and the barrel of each connector is rolled
+into the rubber to form a durable joint (see figure
+23). All hose assemblies are interchangeable.
+Fig. 23 —Hydraulic Brake Wheel Hose
+HAND BRAKE
+The hand brake operates mechanically on the
+brake shoes of the rear wheels. It is designed to
+provide 25 per cent, more travel than the service
+brake, thus insuring a margin of safety at all
+times.
+ACCELERATOR SUPPLEMENT
+
+
+Ordinarily the hand brake cable conduits at
+the rear wheels should not require lubrication for
+the life of the car, as they are packed with lubri-
+cant at the time of assembly and sealed with
+rubber bellows. If lubrication is required at high
+mileages, a non-fluid grease should he used and
+the rear wheels should be removed to make sure
+that no grease enters the brakes.
+On the Master De Luxe series the hand brake
+lever is joined to its pull rod through a heavy
+coil spring as shown in figure 24. Upon engage-
+ment, the spring allows the pawl to engage with
+teeth in the sector beyond the necessary travel of
+the linkage for brake engagement.
+Fig. 24—Hand Brake Ratchet
+BLEEDING BRAKES
+Whenever a pipe line is removed at one brake,
+then only that wheel cylinder need be bled. If
+any main pipe lines are disconnected, the com-
+plete system must be bled. The long lines, or
+those leading to the left wheel cylinders, should
+be bled first.
+Fill the reservoir with G.M.-H. Hydraulic
+Brake Fluid before commencing the bleeding
+operation, and keep the reservoir at least half
+full of fluid during the bleeding operation. Main
+Cylinder Filler f-713 which automatically keeps
+the reservoir full, is obtainable from Parts Dept.,
+and is strongly recommended as a time-saving
+tool.
+Remove the screw from the end of the bleeder
+connection and attach bleeder drain J-747, also
+obtainable from Parts Dept. Immerse the end of
+the tube in hydraulic brake fluid contained in a
+pint jar or other clean container. Unscrew the
+bleeder connection \ to f turns and depress the
+foot pedal by hand, allowing the pedal to return
+to the "off” position slowly. This gives a pump-
+ing action which forces the fluid through the tub-
+ing and out at the wheel cylinders, carrying with
+it any air that may be present.
+Watch the flow of liquid from the hose, the end
+of which should be kept below the surface of the
+liquid in the jar, and when all air bubbles cease
+to appear or when the stream is a solid mass,
+dose the bleeder connection.
+Fluid withdrawn in the bleeding operation
+should not be used again unless it is known to be
+clean. If used, it should always be strained
+through a flannel cloth, nap side up. If the auto-
+matic main cylinder filler J-713 is not used, fluid
+should be replenished in the reservoir after each
+cylinder is bled. Should the reservoir be drained
+during the bleeding operation, air will enter the
+system and "re-bleeding” will then be necessary.
+After the bleeding operation is completed, the
+reservoir should be filled. It is extremely im-
+portant that only Genuine G.M.-H. Hydraulic
+Brake Fluid he used in the system. If improper
+fluid or mineral oil is used, it will be necessary
+to drain and flush out the entire system with
+alcohol and to replace all rubber parts.
+SERVICE BRAKE ADJUSTMENT
+The adjustment of the new brakes is extremely
+simple, there being only one adjustment at each
+shoe. No special tools are required.
+On both models, with one exception, access to
+the adjustment wheels at each brake is provided
+through two holes in the backing plate. On the
+Master series front brakes, a hole in the web of
+the brake drum which is exposed by removing
+the wheel, serves the same purpose. All adjust-
+ing holes are provided with covers to prevent the
+entry of dirt or water.
+When adjusting the service brakes, the hand
+brake rods should first be disconnected, then each
+ACCELERATOR SUPPLEMENT
+
+
+shoe should be adjusted individually into the
+drum until a light drag is obtained. The adjust-
+ing wheel should then be backed o§ four notches.
+HAND BRAKE ADJUSTMENT
+Hand brakes should be adjusted each time the
+service brakes are adjusted and always after the
+service brakes are adjusted. Hand brake adjust-
+ment should then be made by tightening the rods
+until all slack is removed. Hand brakes should
+be equalized by loosening the rod of the tight
+brake. Do not change shoe adjustment when
+making a hand brake setting.
+The eccentric adjustment of the lever as shown
+at "A” in figure 25 should not require changing
+except when new linings are installed. In this
+case, the brake rods should be disconnected and
+Fig. 25 —Rear Wheel Hand Brake Hook-Up
+the eccentric should be adjusted until there is no
+play between the lever and the connecting link
+as shown at "B.” This operation should likewise
+be performed after the service brakes have been
+adjusted.
+STOP LAMP SWITCH
+A new stop lamp switch operated by hydraulic
+pressure, is used. See figure 21. The switch con-
+sists of two terminals moulded in a block of bake-
+lite, a metal diaphragm which contacts with the
+points of the terminals, a rubber disc which seals
+the diaphragm from the brake fluid, and the
+housing in which these parts are encased. The
+metal diaphragm is the only moving part of the
+switch.
+When the brakes are applied, the pressure
+causes the diaphragm to contact with the terminal
+points, completing the stop light circuit. The
+switch requires no adjustment.
+HYDRAULIC BRAKE ' DON'TS”
+DON’T use anything but Genuine G.M.-H.
+Hydraulic Brake Fluid in the system.
+DON’T use Brake Fluid over again, unless it
+is known to be clean. In any case it should always
+be strained through dean flannel with the nap
+side up.
+DON’T let Hydraulic Brake Fluid stand
+around in open containers.
+DON’T attempt to bleed brakes or depress the
+pedal when the brake drums are removed.
+DON’T allow the master cylinder to become
+less than half full when bleeding.
+DON’T allow the brake pedal to return to its
+off position quickly when bleeding.
+DON’T allow the end of the bleeder hose to
+get above the level of the fluid in the container
+during the bleeding operations.
+DON’T open the bleeder valve more than \ to
+| turns.
+DON’T wash any part of the system with any-
+thing but clean alcohol.
+DON’T handle brake parts with dirty hands.
+Don’t wash hands in petrol; use soap and water.
+DON’T allow grease, paint, or oil of any kind
+to come in contact with the brake linings or brake
+drums.
+DON’T change one shoe and lining assembly;
+change corresponding shoes on both sides of the
+car.
+DON’T install a new drum without first dress-
+ing down the braking surface with fine emery
+cloth. The drum on the opposite side of the car
+should be treated in the same manner.
+20
+
+
+DON’T bore or grind drums to more than
+.020 in. larger in diameter than originally, and
+DON’T machine drums at all unless a first class
+job can be done.
+-\ ex p er | ment w i t h wheel cylinders of
+111111111 ill :e t^an A 056 originally installed in
+DON’T use copper tubing to repair the hy-
+draulic brake lines. It will nor withstand the
+pressure.
+DON’T over-lubricate front wheel bearings.
+DON’T use any lubricant whatever on the
+brake mechanism.
+Wheels and Tyres
+5.50 —17 in. tyres are standard equipment on
+Master De Luxe models. These are mounted on
+16 in. pressed steel wheels.
+5.25 —17 in. tyres are supplied on Chevrolet
+models, these being mounted on 17 in. pressed
+steel wheels.
+The minimum tyre pressures are as follow: —
+Master De Luxe —5.50 —17: Front, 30 lbs.;
+Rear, 32 lbs.
+Chevrolet —5.25 —17: Front and Rear, 32 lbs.
+Tyre pressures should be checked at least once
+a week and when inflating the tyres, it is advis-
+able to inflate them 2 lbs. higher than the above
+recommended minimum pressures to allow for the
+slight loss of pressure which normally occurs.
+CAR JACK
+The bumper type jack is supplied with both
+Master De Luxe and Chevrolet series for 1936.
+Steering Gear
+The Master De Luxe steering gear remains un-
+changed, with exception of the pitman arm shaft
+bushings which are now made of bronze instead
+of bi-metal.
+The Chevrolet steering gear has been improved
+by enlarging the diameter of the pitman shaft to
+1 in. See figure 26. The diameter of the bush-
+ings has been correspondingly increased and they
+have also been lengthened \ in. A cork seal,
+encased in a steel retainer, is pressed into the
+outer end of the housing to prevent the entrance
+of road dirt and also to prevent oil from leaking
+out of the housing.
+A better balance of steering effort has been
+obtained by new steering geometry. The pitman
+arm is relocated in relation to the steering worm,
+equalizing to a greater extent the pitman arm
+Fig. 26—"Chevrolet" Series Steering Gear
+21
+
+
+Fig. 27 —"Chevrolet” Series Frame
+travel for right and left turns. Previously, a
+greater amount of travel was provided to the
+left, which meant that more steering effort was
+required when making a right turn. To accom-
+plish this result, the lengths of the pitman arm,
+the steering arms and the drag link have been
+revised, and the steering tie rod has been short-
+ened to clear the backing plates of the new brakes.
+These changes result in a slight increase in the
+overall steering ratio, which further reduces the
+steering effort.
+FRAME-CHEVROLET
+The frame of the 1936 Chevrolet models is of
+especially strong and rigid design, entirely differ-
+ent in construction from the conventional type
+frame. The new frame is called a "box-girder”
+frame, because every structural member is of
+sturdy, rigid box section. This type of section
+resists both torsion and bending to a greater ex-
+tent than any other form of section employing
+an equal amount of metal.
+The side rails each consist of a flanged inverted
+"U” section member, the opening of which is
+welded to a flat steel plate. See figure 27.
+The three structural cross members are of the
+full box section and are attached to the side rails
+by means of welds and rivets to form an excep-
+tionally strong assembly. The fourth cross mem-
+ber serves as a forward support for the fuel tank.
+The frame is nearly a foot longer to provide
+for the increased wheelbase, longer front springs,
+and the relocation of the radiator and engine
+which have been moved 2|- in. forward.
+Step hangers and engine side supports are
+made of channel sections and are riveted to the
+inner and outer flanges of the side rails. At the
+point of attachment of the shock absorbers, re-
+inforcements are riveted within the box-section of
+the rails. Each reinforcement is in the form of a
+steel sheet with its two ends rolled into cylinders.
+The construction of the new frame does not
+permit the drilling of holes at any ptint, as these
+will definitely weaken the section.
+22
+
+
+CHASSIS LUBRICATION
+EVERY 1,000 MILES
+Only a good grade of water-resistant chassis lub-
+ricant should be used at points indicated in the
+chassis diagram, except where other lubricants
+are specifically mentioned.
+<J Front Spring Bolt
+Steering Knuckle
+£ Tie Rod
+g Front Spring Shackle
+12 Spring Saddle
+13 Rear Spring Shackle
+17 Steering Connecting Rod
+19 Steering Connecting Rod
+ft Generator: Two or three drops of light oil
+Mm\t in the cups at both ends of the generator.
+9 Starting Motor: Two or three drops of
+light oil in oil cup at front end of the
+starting motor.
+7 Distributor: Fill and turn down the grease
+cup.
+2 Water Pump: Fill and turn down the
+grease cup. Use waterproof grease. Fill
+oil cup with engine oil.
+Steering Gear: The steering gear should
+IO be lubricated with special steering gear
+lubricant. This is a light non-flowing grease
+having a temperature range from extreme sum-
+mer conditions to below zero without affecting
+the efficiency of the steering gear. Seasonal
+change of this lubricant is unnecessary and the
+housing should not be drained. If other lub-
+ricants are used, it may be necessary to dilute
+in extremely cold weather.
+Do not use a pressure fitting in the filler plug
+hole when filling the steering gear, as this will
+force grease up the steering column.
+Parking Brake Linkage: The parking brake link-
+age—the clevis pins and rods—may be lubricated
+with a good grade of engine oil.
+The parking brake cables are packed with grease
+at the factory. Should the car owner find it
+necessary to repack them, a good grade of water-
+resistant chassis lubricant should be used.
+IJI Transmission; Check the oil level. It
+should be maintained at the filler plug
+opening. Add transmission oil, SAE No. 160.
+See instructions under “Yearly.”
+IJt Rear Axle: Check the oil level. It should
+be maintained at the filler plug opening.
+Add transmission oil, SAE No. 160. See instruc-
+tions under “Yearly.”
+LUBRICATION CHART
+1936 CHEVROLET PASSENGER CAR MODELS
+ENGINE LUBRICATION
+The engine oil in the crankcase should be filled
+to the proper level with a well-refined oil of the
+viscosity recommended. The oil level rod, in
+the left side of the crankcase is marked “Full”
+and “Low.” These notations have broad arrows
+pointing to the level lines. Maintain the oil
+level between these two lines, going neither
+above the “Full” line nor below the “Low.”
+During the First 500 Miles: Use oil placed in the
+crankcase at the factory. This is a light oil to
+be used in the engine during the breaking-in
+period.
+After the First 500 Miles: Drain the crankcase
+and refill with an oil having a viscosity of S.A.E.
+30 for summer and S.A.E. 20 for winter.
+At 1500 Miles: Drain and refill with S.A.E. 30
+(summer) and S.A.E. 20 (winter).
+EVERY 1,000—1,500 MILES
+Engine: Drain, flush and refill the crankcase.
+■j O Air Cleaner; Remove the cleaner and take
+■ O off the cover and felt pad. Wash the
+cleaner in petrol. After drying, re-oil it by dip-
+ping it in SAE No. 50 oil, draining off the excess.
+Keep the felt pad dry.
+EVERY 5,000 MILES
+C Carburettor Accelerating Pump Shaft:
+I■# Remove the dust cover and fill the cover
+screw hole with graphite grease.
+EVERY 10,000 MILES
+5 Front Shock Absorber a Keep the shock
+I absorbers filled
+nßear Shock Absorber (with genuine
+j G.M. - H. shock
+absorber fluid. Do not under any circumstances,
+use a shock absorber fluid other than that recom-
+mended above.
+3 Front Wheel Bearings: Remove the
+wheels, clean the bearings and pack the
+bearing ball retainers with a high melting point
+front wheel bearing grease. Do not pack the
+hub between the inner and outer bearing assem-
+blies nor the hub cap, as this excessive lubrica-
+tion will result in grease working out into the
+brake drums and on the linings.
+YEARLY
+Transmission: Drain completely, flush and refill
+with transmission oil, SAE No. 160.
+Rear Axle: Drain completely, flush and refill with
+transmission oil, SAE No. 160.
+MISCELLANEOUS
+Clutch Release Bearing: The clutch release
+• V bearing is of the carbon type lubricated
+from a reservoir with an oiler on top. This con-
+struction eliminates the necessity for frequent
+lubrication.
+It is only necessary to refill the clutch throwout
+collar when, upon releasing the clutch, a squeak-
+ing noise occurs.
+To fill the clutch throwout bearing collar with oil,
+remove the cover plate on the toe board and the
+inspection cover on the clutch housing. The
+clutch throwout bearing oiler should be filled with
+SAE No. 160 oil.
+Universal Joint: The universal joint is directly
+connected to, and receives its lubrication from,
+the transmission.
+Rear Wheels: The rear wheel bearings receive
+their lubrication from the rear axle. Additional
+lubrication of the bearings is unnecessary.
+Hydraulic Brakes: Addition of fluid to the brake
+master cylinder should be made by your Chev-
+rolet Dealer. Use only genuine G.M.-H. hydrau-
+lic brake fluid.
+Rear Springs: Should the car owner find ft neces-
+sary to have the spring leaves lubricated, a cup
+grease to which 8% to 10% of graphite has been
+added should be used.
+
+
+CHASSIS LUBRICATION
+EVERY 1,000 MILES
+Only a good grade of water-resistant chassis lub-
+ricant should be used at points indicated in the
+chassis diagram, except where other lubricants
+are specifically mentioned.
+Front Spring Unit Radius Rod
+Front Spring Unit King Pin
+Front Wheel Tie Rod
+20 Steering Connecting Rod
+13 Spring Saddle
+14 Spring Shackle
+1 Generator: Two or three drops of light
+oil in the cups at both ends of the
+generator.
+Ift Starting Motor: Two or three drops of
+IW light oil in the oil cup at the front end of
+the starting motor.
+9 Distributor: Fill and turn down the grease
+cup.
+2 Water Pump: Fill and turn down the
+grease cup. Use waterproof grease. Fill
+the oil cup with engine oil.
+'t A Steering Gear: The steering gear should
+I * be lubricated with special steering gear
+lubricant. This is a light non-flowing grease
+having a temperature range from extreme sum-
+mer conditions to below zero without affecting
+the efficiency of the steering gear. Seasonal
+change of this lubricant is unnecessary and the
+housing should not be drained. If other lubri-
+cants are used, it may be necessary to dilute in
+extremely cold weather.
+Do not use a pressure fitting in the filler plug
+hole when filling the steering gear, as this will
+force grease up the steering column.
+Parking Brake Linkage: The parking brake link-
+age—the clevis pins and rods—may be lubricated
+with a good grade of engine oil.
+The parking brake cables are packed with grease
+at the factory. Should the car owner find it
+necessary to repack them, a good grade of water-
+resistant chassis lubricant should be used.
+*| ML Transmission: Check the oil level. It
+■" should be maintained at the filler plug
+opening. Add transmission oil, S.A.E. No. 110.
+1 C Rear Axle: Check the oil level. It should
+■ be maintained at the filler plug opening.
+Add transmission oil, S.A.E. No. 160.
+3 Front Spring Unit: Check the oil level.
+Keep the housings filled to the level of
+the filler plug with genuine G.M.-H. shock in-
+sulation fluid.
+Do not, under any circumstances, use a shock
+insulation fluid other than that recommended
+above. Heavy body fluids are detrimental to the
+proper functioning of the unit. Use the same
+fluid, summer and winter.
+LUBRICATION CHART
+1936 CHEVROLET MASTER DE LUXE MODELS
+ENGINE LUBRICATION
+The engine oil in the crankcase should be filled
+to the proper level with a well-refined oil of the
+viscosity recommended. The oil level rod, in
+the left side of the crankcase is marked “Full”
+and “Low.” These notations have broad arrows
+pointing to the level lines. Maintain the oil
+level between these two lines, going neither
+above the “Full” line nor below the “Low.”
+During the First 500 Miles: Use oil placed in the
+crankcase at the factory. This is a light oil to
+be used in the engine during the breaking-in
+period.
+After the First 500 Miles: Drain the crankcase
+and refill with an oil having a viscosity of S.A.E.
+30 for summer and S.A.E. 20 for winter.
+At 1500 Miles: Drain and refill with S.A.E. 30
+(summer) and S.A.E. 20 (winter).
+EVERY 1,000-1,500 MILES
+Engine: Drain, flush and refill the crankcase.
+EVERY 2,000 MILES
+>t Air Cleaner: Remove the cleaner and take
+I # off the cover and felt pad. Wash the
+cleaner in petrol. After drying, re-oil it by dip-
+ping it in S.A.E. No. 50 oil, draining off the
+excess. Keep the felt pad dry.
+EVERY 5,000 MILES
+•gO Carburettor Accelerating Pump Shaft:
+I O Remove the dust cover and fill the cover
+screw hole with graphite grease.
+5 Front Spring Unit Spindle Bushing:
+Every 5,000 miles, the front spindle bush-
+ing should be lubricated. To do this, remove
+the plug at the inner end of the spindle and pack
+the reservoir with a lubricant such as soft cup
+grease or vaseline. Passages from this reser-
+voir carry the lubricant through the spindle to
+the bearing surface.
+The slotted pipe plug is installed at this point to
+prevent over-lubrication, generally occasioned by
+the use of a pressure gun. Over-lubrication
+results in grease working out into the brake
+drum and on the linings.
+EVERY 10,000 MILES
+Rear Shock Absorbers; Keep the shock
+IMm absorbers filled with genuine G.M.-H.
+shock absorber fluid.
+Do not, under any circumstances, use a shock
+absorber fluid other than that recommended
+above.
+5 Front Wheel Bearings: Remove the
+wheels, clean the bearings and pack the
+bearing ball retainers with a high melting point
+froiit wheel bearing grease.
+Do not pack the hub between the inner and outer
+bearing assemblies nor the hub cap, as this ex-
+cessive lubrication will result in grease working
+out into the brake drums and on the linings.
+YEARLY
+Transmission: Drain completely, flush and refill
+with transmission oil, S.A.E. No. 110.
+Rear Axle: Drain completely, flush and refill with
+transmission oil, S.A.E. No. 160.
+MISCELLANEOUS
+n Clutch Release Bearing: The clutch re-
+lease bearing is of the carbon type lub-
+ricated from a reservoir with an oiler on top.
+This construction eliminates the necessity for
+frequent lubrication.
+It is only necessary to refill the clutch throwout
+collar when, upon releasing the clutch, a squeak-
+ing noise occurs.
+To fill the clutch throwout bearing collar with
+oil, remove the cover plate on the toe board and
+the inspection cover on the clutch housing. The
+clutch throwout bearing oiler should be filled
+with S.A.E. No. 160 oil.
+Universal Joint: The universal joint is directly
+connected to, and receives its lubrication from,
+the transmission.
+Rear Wheels: The rear wheel bearings receive
+their lubrication from the rear axle. Additional
+lubrication of the bearings is unnecessary.
+Rubber Spring Bushings: Rubber bushings are
+used at the front end of each rear spring. These
+bushings must not be lubricated or sprayed with
+oil. ,
+Hydraulic Brakes; Addition of fluid to the brake
+master cylinder should be made by your Chev-
+rolet Dealer. Use only genuine G.M.-H. hydraulic
+brake fluid.
+Rear Springs: Should the car owner find it ne-
+cessary to have the spring leaves lubricated, a
+medium cup grease, to which 8% to 10% of
+graphite has been added, should be used.
+
+
+G. W. GREEN ft SONS PTY. LTD.

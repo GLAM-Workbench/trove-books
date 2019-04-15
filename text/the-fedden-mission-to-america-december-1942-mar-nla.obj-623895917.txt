@@ -1,0 +1,1822 @@
+
+
+Final Report
+SECRET
+CONSTITUTION, SUMMARY AND GENERAL CONCLUSIONS
+OF THE MISSION
+MINISTRY OF AIRCRAFT PRODUCTION
+
+
+
+
+FEDDEN MISSION REPORT
+SECTION 1
+Assigned to
+Address
+Copy No.
+Date of issue
+This report contains confidential information, and must
+therefore be treated accordingly by the person to whom this copy
+is issued. Anything contained in this report must only be
+communicated to approved and accredited executives of Government
+departments or firms undertaking the manufacture of aircraft or
+accessories for His Majesty's Government; and must not be published
+or disclosed to unauthorised persons.
+There is a considerable amount of detailed information in
+this report which may only be of interest to those specialising on
+the particular problem. In order, therefore, to assist executives,
+this report has been so framed that at the beginning of each Part a
+special coloured page has been provided which sets out as shortly
+as possible the broad policy conclusions of the Mission on this
+particular subject, including the action that is advised.
+By this means it is hoped that those concerned with policy
+may have as concise a picture as possible of what is considered
+should be done to put into effect the work of the Mission.
+The purpose of the Mission was to learn what American
+methods could be introduced into this country to improve our output,
+and to investigate certain technical problems and new developments
+In America. The report is therefore mainly concerned with those
+aspects in which the American industry is ahead of ours, and with
+promising technical developments. No emphasis has been laid on
+points where the Mission consider that British production methods
+or technical development are ahead of American.
+S.T.A.M.
+Cook's Building,
+2*jo Stratton Street, W. 1.
+June,
+
+
+This report is issued in seven separately bound Sections, as follows:
+SECTION 1 CONSTITUTION, SUMMARY AND GENERAL
+CONCLUSIONS OP THE MISSION
+M 2 AIRCRAFT PRODUCTION
+" 3 AIRCRAFT DESIGN
+M 4 ENGINES, POWER PLANTS AND PROPELLERS
+M 5 ACCESSORIES AND EQUIPMENT
+” 6 EDUCATION AND RESEARCH
+* 7 POST-WAR PROBLEMS
+Each Section is divided into two or more Parts, and a list of
+contents appears at the beginning of each Part. The Parts in a
+section are lettered A, B, C etc.
+Each Part is divided into Chapters, the first of which (on a
+coloured page) gives the broad policy conclusions for the Part. The
+Chapters are made up of Items, and each Item has a number indicating
+the Chapter to which it belongs and its position within the Chapter.
+For example:
+2.03 indicates the third item of Chapter 2
+5.12 M M twelfth • " ■ 5
+For specifying completely any item, it is also necessary to
+quote the Section and Part, and in the text, at the beginning of
+each Item, its complete reference is given.
+For example:
+3A - 2.03 indicates Section 3> Part A, Chapter 2, third item.
+bO - 5.12 indicates Section 4, Part C, Chapter 5, twelfth item.
+
+
+CONTENTS OF THE WHOLE REPORT
+SECTION 1 - CONSTITUTION, SUMMARY AND GENERAL CONCLUSIONS
+PART A - OBJECTS OP THE MISSION, PERSONNEL AND ITINERARY
+Chapter 1 Scope, object and general survey of the Mission
+" 2 Itinerary, December 1942 to March 1943
+M 3 Broad policy conclusions
+w 4 Future policy in regard to Missions to America
+PART B - AMERICAN NATIONAL AIRCRAFT ORGANISATIONS
+Chapter 1 General
+" 2 Array Air Force
+" 3 Navy Department
+H 4 War Production Board
+H 5 Joint Aircraft Committee
+" 6 Office of Scientific Research and Development
+SECTION 2 - AIRCRAFT PRODUCTION
+PART A - ORGANISATION
+Chapter 1 Broad policy conclusions
+" 2 Engineering departments
+" 3 Factory layout
+H 4 General notes on organisation of airframe factories
+M 5 Boeing Aircraft, Seattle
+" 6 Consolidated Aircraft, San Diego
+" 7 North American Aviation, Inglewood
+" 8 Bell Aircraft, Buffalo
+" 9 Curtiss Wright
+w 10 Other aircraft firms
+" 11 Data on American airframe factories
+M 12 Canadian aircraft industry
+PART B - FACTORY LAYOUT AND PROCESSES
+Chapter 1 Broad policy conclusions
+" 2 Special applications of lofting
+M 3 Economy of floor space
+M 4 Conveyors
+" 5 Drop hammer
+** 6 Rubber die press
+" 7 Mechanical press
+" 8 Stretcher
+" 9 Special tools
+M 10 Famum rolls
+” 11 Rivet sorting
+n 12 Finishing and painting
+M 13 Extrusion manipulation
+H 14 Pipe bending
+n 15 Glenn Martin skin stretching process
+M 16 Plaster moulds for light alloy casting
+" 17 Powder metallurgy
+" 18 Riveting
+w 19 Spot welding
+13 20 Flash welding of undercarriages and engine mountings
+" 21 Heliarc welding
+M 22 Cycleweld
+
+
+SECTION 3 - AIRCRAFT DESIGN
+PART A - GENERAL DESIGN TECHNIQUE
+Chapter 1 Broad policy conclusions
+2 Scope and organisation of engineering departments
+M 3 Weight analysis
+” 4 Factors and design requirements
+M 5 American stressing technique
+” 6 Aerodynamic design
+n 7 Aerodynamic controls
+M 8 Stressed skin construction
+M 9 Pressure cabins
+M 10 Undercarriage design
+M 11 Materials
+” 12 Processes
+n 13 Aircraft testing procedure
+PART B - REVIEW OF AMERICAN AIRCRAFT
+Chapter 1 Broad policy conclusions
+w 2 Description of new North American P. 51
+** 3 Descritpion of Curtiss P. 60
+” 4 Description of Bell P. 63
+M 3 Description of Douglas A. 26
+M 6 The Boeing 8.29 and Consolidated 8.32
+7 Current fighters in production
+8 Current heavy bombers in production
+" 9 Transport types
+10 Wooden aircraft
+n 11 Flying boats
+" 12 Tailless aircraft
+w 13 Tabulated data
+PART C - PHOTO LOFTING-
+Chapter 1 Board policy conclusions
+n 2 Technical summary
+M 3 Layout procedure
+M 4 Alternative reproduction processes
+** 5 Camera procedure
+" 6 Miscellaneous
+PART D - SELF SEALING FUEL TANKS, OIL TANKS AND FUEL HOSE
+Chapter 1 Broad conclusions
+w 2 Technical summary
+" 3 Fuel tanks - American practice
+M 4 Hose - American practice
+SECTION 4 - ENGINES, POWER PLANTS AND PROFELLERS
+PART A - PRODUCTION
+Chapter 1 Broad Policy conclusions
+2 General design and production notes on firms visited
+" 3 Organisation and output
+4 Engine and propeller production processes and equipment
+PART B - DESIGN
+Chapter 1 Broad policy conclusions
+2 Technical review of American engine developments
+" 3 Propeller design
+n 4 Pbwer plant policy and installation
+" 3 Specific technical items
+
+
+PART C - REGENERATIVE ENGINE TESTING PLANT
+Chapter 1 Broad policy conclusions
+M 2 Technical summary
+H 3 Methods of absorbing engine power
+" 4 Speed control
+" 3 Relative merits of testing plant and methods
+'* 6 The Buick arrangements at Melrose Park, Chicago
+PART D - FUEL AND OIL
+Chapter 1 Broad policy conclusions
+M 2 Fuel
+" 3 Oil
+.
+SECTION 3 - ACCESSORIES AND EQUIPMENT
+PART A - ELECTRIC WIRING-
+Chapter 1 Broad policy conclusions
+" 2 Summary and conclusions
+H 3 Principles underlying American methods
+w 4 American wiring practice
+" 3 Maintenance and repair aspect
+M 6 Comparative appraisement of British and American
+practice
+M 7 Developments in relation to alternating current
+M 8 Application to British development and production
+PART B - AIRCRAFT ELECTRICS
+Chapter 1 Broad policy conclusions
+f ‘ 2 Conclusions
+M 3 Present use of low pressure direct current
+” 4 Effect of operating conditions on choice of system
+” 5 Review of electrical services in relation to hydraulics
+" 6 Manuals on installations
+" 7 Design and production of electrical equipment
+" 8 New developments in aircraft electrics
+w 9 Approval and standardisation of equipment
+" 10 Liaison with America on electrics
+PART C - INSTRUMENTS AND RADIO INSTALLATIONS
+Chapter 1 Broad policy conclusions
+n 2 Aircraft instruments
+" 3 Radio installations
+PART D - AIRCRAFT VIBRATION TESTING AND EQUIPMENT
+Chapter 1 Broad policy conclusions
+" 2 Summary and conclusions
+** 3 Introduction
+w 4 Equipment
+M 5 Application
+" 6 Scope of activities
+" 7 Review of technique
+M 8 Equipment ordered for M.A®P.
+n 9 Application to British development
+
+
+PART E - INSTHDMSNTATION OF TEST FLIGHTS
+Chapter 1 Broad policy conclusions
+** 2 Summary and conclusions
+M 3 Introduction
+" 4 Outline of installations
+M 5 Organisation
+M 6 Equipment
+M 7 Review of technique
+M 8 Application to British development
+SECTION 6 - EDUCATION AND RESEARCH
+PART A - ENGINEERING- STAFF
+Chapter 1 Broad policy conclusions
+” 2 Economical use of present aircraft engineering
+staff
+" 3 American publications and engineering propaganda
+” 4 Manuals prepared by firms for instruction of
+drawing office staff etc.
+" 5 Manuals prepared by firms to explain administration
+and define duties
+" 6 Standardisation
+PART B - INDUSTRIAL AND SERVICE TRAINING
+Chapter 1 Broad policy conclusions
+H 2 Technical manuals for part time study
+M 3 Schools for training industrial and service personnel
+H 4 Instruction manuals prepared by firms on their products
+" 5 Instructional films
+PART C - UNIVERSITY EDUCATION OP AERONAUTICAL ENGINEERS
+Chapter 1 Broad policy conclusions
+H 2 American education
+PART D - RESEARCH ESTABLISHMENTS
+Chapter 1 Broad policy conclusions
+" 2 Need for increased research equipment in Britain
+** 3 Langley Field
+" 4 Canadian National Research Council
+** 5 American wind tunnels
+tt 6 Engine research
+SECTION 7 - POST WAR PROBLEMS
+Chapter 1 Review of the civil aviation position in America
+M 2 Training aircraft
+
+
+CONSTITUTION. SUMMARY AND GENERAL CONCLUSIONS
+PAST A OBJECTS OF THE MISSION. PERSONNEL AND
+ITINERARY
+CHAPTER 1 - SCOPE. OBJECT AND GENERAL SURVEY Qg THE MISSION
+Item I*ol Constitution and brief history
+" 1»02 General impressions of the tour
+1»03 Scale of American production
+M 1.04 Improvement of aircraft output in Britain
+" 1.Q5 Improvement of engine and propeller in Britain
+M I*o6 Immediate future American aircraft production
+” I*o7 New American prototype aircraft
+w I*oB American stressed skin construction
+w I*o9 Strength factors
+I*lo Tricycle undercarriages and American brake hear •
+" 1.11 De-icing and winterisation
+" I*l2 New power plant
+” I*l3 Puel
+” I*l4 Propeller development
+" I*ls Structural materials
+M I*l6 Plastics
+M I*l7 Wooden aircraft
+" I*lB Materials for engines and propellers
+" I*l9 Electrical developments
+” I*2o Aircraft and engine vibration testing
+M 1.21 Instrumentation of flight testing
+1.22 Intensive development of American ancillary equipment
+" 1.23 Naval types and naval training
+M 1.24 Engineering personnel
+1.23 Aircraft research in America at the present time
+H 1.26 Training methods
+1*27 Making the most use of our engineering staff
+1.28 Collaboration between firms in the industry
+1.29 Liaison with M.A.P. and B.A.C.
+M 1.30 Conclusions
+CHAPTER 2 - ITINERARY DECEMBER 1942 to MARCH 1943
+CHAPTER 3 ~ BROAD POLICY CONCLUSIONS
+CHAPTER 4 . * FUTURE POLICY IN REGARD TO MISSIONS TO AMERICA
+
+
+
+
+CHAPTER 1 - SCOPE, OBJECT AND GENERAL SURVEY OF THE MISSION
+IA-1.01 Constitution and brief history - On November 17th the then Minister of
+Aircraft Production, Colonel J. J. Llewellin, arranged for Sir Roy Fedden to
+organise and lead a special technical Mission for a tour of the American
+aircraft industry, to last approximately three months* The terms of
+reference of the Mission were to be broadly as follows: -
+(i) To select representative American aircraft, engine and propeller
+firms, and, from an engineer’s standpoint, review their
+production, and ascertain whether it would be practicable to
+introduce any American methods into British production in order
+to improve our output during the next 24 months.
+(ii) To confer with the American authorities on a selected number of
+technical problems and investigate certain new developments in
+U.S.A.
+The team was selected and the party set off by sea on December 20th
+and arrived at New York on December 26th, The final constitution of the
+Mission was as follows: -
+Sir A.H. Roy Pedden
+Mr. I.G-.Duncan - General Technical Assistant
+Messrs. J.Lloyd, W.Tye and
+D.M.A*Leggett - Stressed skin construction
+and aircraft design
+Mr*M*B.Berks - Works administration and
+organisation
+Mr. S.P. Woodley - Aircraft production
+Mr.W*W.W.Downing - Factory planning for
+aircraft production
+Messrs. B.G-.Markham and
+N.S.Muir - Power Plants, and engine
+accessories.
+Mr.A.H.Tiltman - Photo lofting, self sealing
+tanks, and manuals
+Mr. C.G-. A. Woodford - Electrical problems.
+Wing Commander Maurice Summers on aircraft matters and Mr. John Reed on
+Engine Production were loaned to the Mission for a portion of the tour by
+the B.A.C. Pew of the Mission were known to each other personally before-
+hand, but all were experienced in their own particular field of aircraft
+engineering and soon became united into a gpod working team.
+The passage by sea was found useful to discuss the wrk that the Mission
+had to tackle on arriving in America, to work out a general plan of campaign
+and to allocate the various problems which had to be investigated.
+On arrival in Washington the Mission were met by Mr .T.P.Wright of the
+War Production Board, Mr. G-rover Loening, Technical Adviser to Mr. Nelson
+and Dr. Edward Warner, Vice-Chairman of the Civil Aeronautics Board. The
+American authorities had understood that Sir Roy Pedden was bringing out
+the members of The Royal Aeronautical Society's Advisory Committee to the
+Minister of Aircraft Production and had prepared a schedule accordingly.
+With the help of Sir Richard Fairey and the three gentlemen named above, this
+matter was soon remedied and an adjustment of the programme made. Meetings
+were held at the Navy Bureau of Aeronautics with the Amy and Navy
+authorities at which the terms of reference,and proposed work of the Mission
+were discussed, and the best way to carry out the tour and the firms to be
+visited,were reviewed in detail. A complete pro grannie covering the next 10
+weeks was worked out and final arrangements made for permits to visit the
+various firms. At these preliminary meetings the American authorities
+asked that certain additions should be made to the list of technical items
+to be investigated by the Mission; this was agreed to, and the following is
+a list as finally drawn up at Washington before starting on the tcur:-
+
+
+AIRFRAMES
+1* Plastics
+2. Pressure cabins
+3* Stressed skin construction
+4» Plywoods
+5* Structure for Laminar flow wings
+6 . Surface finish
+7* Tricycle landing gear
+8* Airplane controls
+POWER PLANTS
+1* Cockpit and cabin heating
+2* Induction systems, including dust strainers
+3* Winterisation
+k* Supercharger hydraulic controls
+3* Flame damping
+6. Power eggs
+7* 2 speed supercharger gears
+8. Two stage blowers (intercooling and after-
+cooling)
+9* Single lever power control
+10. Exhaust turbo applications
+11. Exhaust turbo control
+12. Auxiliary power plants
+13» Long shaft drives
+PROPELLERS
+1. Contra rotating
+2. De-icing
+3* Interconnected propeller controls
+4* 2 speed reduction gears in conjunction with
+contra-rotating propellers
+5* Wooden blade technique
+6. Steel blades
+ACCESSORIES
+1* Electric and hydraulic systems
+2. Aircraft electrical wiring systems
+3* Installation of radio systems
+4* Engine starters
+PRODUCTION METHODS
+1. Automatic welding of light alloys
+2. Special machine tools
+3* Riveting methods
+4* Self-sealing tanks
+5* Conveyor systems
+GENERAL AIRCRAFT ITEMS
+1. Design for production
+2. Carbon monoxide
+3® Load factors and structural design
+4* Aerodynamic brakes
+5* Flight test procedure of prototypes
+MISCELLANEOUS
+1. Oscillograph vibration equipment for aircraft,
+engines and propellers
+2. Electrical regenerative dynamometers
+3» General production and development position
+of series type exhaust turbos
+4* Photo lofting
+
+
+LABORAT OKIES
+1* Pasadena - Aerodynamic problems
+2. Langley Field - Aerodynamic problems, Power Plant
+cowling
+3* Wright Field - Aerodynamics, propellers and power
+plant
+4* Naval Aircraft Factory, Philadelphia - Aerodynamics
+and engines
+5. Cleveland - New Engine Laboratory
+The Mission had attached to them Colonel Bunker of the Array Air Force ani
+Lieutenant Ludington of the Naval Bureau of Aeronautics, These officers
+were of inestimatable value, and accompanied the party nearly the whole time,
+making advance arrangements, booking rooms at hotels, attending the meetings,
+etc., as -well as ensuring the timely issue of permits, to visit the plants
+and diffusing a background of information on the industry. The Mission
+were also accompanied by Mr. G-rover Loening as technical adviser, and for a
+portion of the time by Mr .T.P. Wright and Dr .Edward Warner.
+The Mission were provided with two Lockheed Lodestars, by the courtesy
+of Mr .Robert Lovett, Assistant Secretary of War for Air, and arrived at Dayton
+on January 4th. Two full days were then spent with General Carroll, Director
+of Engineering and Research and General Wolfe, Director of Aircraft and
+Engine Production, and their assistants, who provided much information as to
+what to look far. For the next two months the Mission travelled some 12,000
+miles in these 2 aircraft, and also on occasion by train, covering a con-
+siderable portion of the United States. The tour was divided into two
+parts; the first portion entailed going West visiting St. Louis, Los Angeles,
+San Diego, and Seattle, under the aegis of the West Coast War Production
+Committee. During the first period one aircraft went East after 3 weeks
+with the power plant section to make a series of visits in the Detroit area.
+Subsequently the -whole Mission with both aircraft returned to Dayton for a
+series of conferences lasting 5 days, starting on Monday, February Ist, with
+the Army officials under the chairmanship of General Carroll. Dr. Warner
+and Mr.Loening also took part in these conferences. For the second
+portion of the tour the Mission went East, and a series of visits were made
+under the aegis of the East Coast War Production Canmittee to aircraft firms
+in the Detroit, Cleveland, Cincinnati, Buffalo, New York, Long Island,
+Williamsport and Philadelphia areas; while the power plant section made
+their Production and Technical review of Engines and Propellers.
+When the Mission were about half way the tour a cable was
+received from Sir Richard Fairey asking that a visit be mi.de to the Canadian
+aircraft plants. Having already a tight schedule planned with many
+American firms, it was impossible for all the Mission to @d, but five members
+went into Canada for a hurried visit, and the production and research aspects
+of the Canadian aircraft war effort are dealt with briefly in the Report.
+The Mission arrived back in Washington on March Ist, spent several days
+in writing up their notes and then had a final 2 days' conference under the
+chairmanship of Admiral Pace and the Navy Bureau authorities, with Mr.T.P.
+Wright, Dr. Warner and Mr. Grover Loening in attendance. The two
+conferences, one at Dayton and the other at Washington, were undoubtedly of
+great value as they required the Mission to crystallise their ideas and put
+them forward for discussion and criticism by the Military and Naval
+authorities.
+During their stay in Washington the Mission received every help and
+assistance from Sir Richard Fairey and the staff of the B.A.C. where they
+had temporary office accommodation.
+The various members of the Mission returned to England by the end of
+March.
+c After the issue of a preliminary report on April Ist, the Mission took
+part in conferences with the principal members of the M.A.P. and the inlustry.
+The first; at which the Minister presided, was held at Millbank on April 28th.
+At the Royal Aeronautical Society's Library more detailed discussions were
+
+
+held on April 29th on aircraft production, on April 30th on aircraft design,
+on May 3rd on power plant production and design and on May 26th on aircraft
+electric and instrumentation problems. The intervening period was spent
+on preparing this final report.
+IA-1.02 General Impressions of the Tour.
+Throughout the tour, the Mission received the most generous and broad-
+minded treatment on all hands. The Americans appreciated the practical
+training of the personnel, and the constructive criticism they were able to
+offer. Opposite numbers in the firms vied with each other to help each
+member on his own particular job.
+Enthusiasm for a new cause in America tends to reach the level of a
+crusade, and the urge to go full out to create new production facilities in
+record time and regardless of cost, was almost everywhere in evidence during
+the tour. The American industry have been supplied with unlimited resources,
+but must be given full credit for having embarked on their work with enthu-
+siasm and vision. They have planned in a large way, and in some cases
+perhaps extravagantly, but they certainly have acted quickly and boldly as
+regards setting up new plant facilities, and the selection of suitable pro-
+duction types; and on the whole they have chosen wisely.
+The Mission were impressed with the scale, extent and seriousness of
+the wartime expansion of the American aircraft industry. The President
+has called for what is an unheard of number of aircraft, but there is no
+question that the Army and Navy authorities as well as the industry have
+jumped to his demands in a wholehearted way, and are doing all they can to
+meet them, although the promised output may appear a long time coming.
+IA-1 •03 Scale of American Production.
+It must be appreciated that the Americans have had a short time in
+which to expand their Aircraft Industry and their goal is an extremely high
+one. Broadly speaking the number of people in the American industry has
+increased during the last four years 50- fold and the output about 20 times.
+Such a growth is, of course, phenomenal, and is only possible from a nation
+that is young mentally, and has enthusiasm and drive. It would be equally
+true to say that it would only have been possible, with unlimited money
+and by being given quick decisions, and that they have had the further ad-
+vantages of climate, at any rate on the West Coast, and they have no distrac-
+tions such as bombing and dispersal to hamper them.
+The Mission found excellent collaboration between design and production
+staffs, and a real appreciation by design staffs of the necessity for easing
+production and the breaking down of components to meet unskilled labour
+conditions. On the whole it is felt that there is more extensive jigging
+and tooling, line production is carried out to a fuller extent, greater
+supervision exists in the shops and more experience of how to plan for
+production, than is current practice in our own plants at home. All these are
+logical steps to have taken with the larger plan of production, and with
+the ability to draw upon all the experience, background and staff of the
+American automobile industry. Everywhere large quantities of first class
+production plant were seen and it is felt that it is not an exaggeration to
+say that much of the old equipment still doing good work in this country
+would not be accepted in America for production.
+The Mission were impressed by the excellence of the new plants, the good
+lighting and ventilation, and the speed at which new buildings are put up.
+In passing it may be mentioned that the output of machine tools in America
+is of the order of }OO,OOO per annum, and the machine tool industry now
+caught up with American requirements and is being put to other munitions
+work. The Mission consider that the introduction of a larger number of
+modern machine tools in Britain might economise our labour force.
+Taking all things into consideration the Mission felt that the work-
+people were doing well. There were approximately 25 to women in air-
+
+
+craft factories and 10 to 15% in propeller and engine factories. There
+is no piece work in the aircraft industry as we know it; all workers
+operate to a carefully set time rate. Up to the present there has been
+a sufficient supply of labour in America to enable workpeople to be set
+a given task, and if they do not, by means of a complete training, and
+tool set up, get up to this required standard in a given time, they are
+replaced. The wages are high and after a period of probation women
+are paid the same as men. Absenteeism is stated to be high which is
+an evil often present with high wages.
+The Mission were heartened by the large number of excellently made
+aircraft rolling off the production lines. Generally the output seemed
+to be building up well and by the end of this year it should be of the
+order of 8000 - 8500 per month of which about 60-70% will be operational
+types.
+As will always occur in any great effort of this kind, mistakes are
+inevitable, and the Mission have not been mesmerised by the scale of the
+American aircraft expansion scheme or that everything has gone to schedule
+without any setbacks. While there is no object in being destructive,
+they do not take the view that everything is perfection in the American
+aircraft industry, and they appreciate there are certain things which we
+are doing better at home. For instance, the Mission have seen that some
+mistakes have been made in the automobile industry where, in a few
+instances, the point of view has been taken that they would show this
+young aircraft industry how to produce aircraft in quantities,and without
+knowing the true facts have wasted time and money in the process. There
+are shortages of fabricated materials which may become more serious in the
+near future, and the American methods of ordering these materials by
+priorities rather than by allocation is, in the opinion of the Mission,
+inferior to ours and this whole question of material supplies is being
+entirely re-planned. Sub-contracting and modifications are both difficult
+problems which are emphasised due to the great distances, and both are having
+the careful consideration of the authorities. A number of aircraft were
+seen waiting for different components.
+About 900 aircraft were noted waiting for delivery, and as the output
+mounts, this question of getting the machines to the scene of action will
+undoubtedly be a serious problem with a continually mounting output. In
+other words, the American industry are still going through some of the
+troubles which we have already got over, such as the difficulties in the
+supply of embodiment loan equipment, but it is believed, these matters will
+rapidly straighten themselves out.
+The Mission do not wish to make any deprecatory comparisons between
+the British and American industry or aircraft, but desire to bring to the
+notice of our officials and industry at home, that there is a great deal to
+be learnt from what is being done in America to-day.
+IA-1 •04 Improvement of aircraft output in Britain.
+As was anticipated, the Mission do not feel that the smaller British
+output, now stabilised on a lesser number of established types, can have any
+drastic changes in methods of production introduced, but there are a number
+of processes which can be brought into our current manufacture quickly,
+which, althought not revolutionary, will contribute to efficiency and increased
+production. Typical examples are:-
+A standardised method of lofting and photographic reproduction.
+A closer study of factory layout and flow lines.
+The flash welding of undercarriage and engine mountings.
+The introduction of improved methods of welding and riveting
+light alloy materials.
+
+
+IA-1.05 Improvement of Engine and Propeller Production in Britain,
+The Mission found less that was novel to British ideas and procedure
+than in the American aircraft industry. On both sides of the Atlantic
+there are the same two schools of thought on air cooled and liquid cooled
+engines, and they are generally of the same geometric form. Manufacture
+of these types in both Continents is more stabilised and generally follows
+the automobile industry. There are, however, certain processes which if
+introduced at heme would improve our engine production, Typical examples
+are:-
+Special purpose machine tools.
+Methods of quenching and straightening hardened
+components.
+The Packard method of stripping and rebuilding Rolls
+Royce engines on a continuously moving conveyor.
+Improved methods of engine packing.
+IA-1.06 Immediate Future American Aircraft Production.
+(i) Fighter class. Three interesting pursuit types already on test
+and falling in line with British fighter school of thought, were
+especially noted. These were the modified Mustang, a new
+Airacobra, and a new air cooled Curtiss Wright fighter, all
+fitted with two stage mechanically driven superchargers and
+beautifully finished laminar flow wings. The Mustang fitted
+with the Merlin 68 is thought by the Mission to be the most useful
+type of the three. It has an excellent all-round performance
+(details are given in Section 3)> and as is well known the design
+has been considerably influenced by British operational experience.
+(ii) Medium Bomber class. The Mission were struck by the variety of
+types including Boston, Havoc, Marauder, Mitchell, etc., designed
+for practically the same work. It was felt that there is a
+considerable wastage of manufacturing effort in tooling,
+maintenance and spares owing to such a multiplicity of similar
+types. There is one new example of this type however, that
+must be mentioned, namely, the Douglas A. 26 which is a twin engine
+aircraft of 29,000 lb. all up weight and a top speed of 372 m.p.h.
+at 17,000 ft. It is an interesting type of aircraft about which
+there has been a great deal of discussion recently in this country.
+It is going into large production in a variety of forms and
+should prove a valuable asset to the R.A.F. The Mission re-
+commended that this machine should receive the careful consider-
+ation of all our authorities, that a sample be brought to
+England and that full particulars and working drawings should be
+obtained.
+(iii) Heavy Bomber. Two new types of heavy bombers are just starting
+in large scale production. The Mission were asked by the Minister
+to report on these two machines, and have recommended the Boeing
+8.29 as being a good type of aircraft embodying the latest American
+form of construction. Even if present American estimates of range
+are written down somewhat, and it is assuned,to be on the safe side,
+that on British airfields take-off considerations will restrict the
+all up weight to 115,000 lb., it will be capable of carrying a
+20,000 lb. bomb load for a theoretical range of 1600 miles. It
+should prove to be a useful type, and in view of the fact that
+we could not get into production with anything of this size and
+calibre of our own design in under 4 or 5 years, the Mission con-
+sider that one should be obtained for test as quickly as possible,
+and a nucleus staff should be sent over to obtain full details of
+this machine, as it has many original features in its design which
+would be useful to us in any case.
+(iv) Transport machines. In .america they have provided for a large alloca-
+tion of transport aircraft; over 12,000 are on order. The necessity
+for numbers of this class of aircraft for carrying troops and freight
+was not appreciated by us in the early stages of the war. These
+transport machines are in fact modifications of civil types of which
+the Americans have had such wide experience.
+
+
+They vary from the well known Lockheed Lodestar, Douglas
+DC3 and DC4 to the latest Lockheed Constellation. Millions
+of dollars have been spent on the jigging and tooling of
+these types for interchangeable and rapid production. A
+personnel and spares organisation is being created on a big
+scale and a mileage experience built up all over the world,
+fetching and carrying on behalf of the Allied forces. In
+a few months time an air transport system will exist almost
+comparable to a pre-war road transport organisation. These
+orders are quite separate from the categories of lighter
+transport types under 14,000 lbs.
+(v) Flying Boats. Before the Mission went to America they were
+under the impression that the flying boat was dying in
+America for military work. They did not find that this
+was the case. There are three types in production,
+Catalina, Mariner and Coronado, the last two being modern
+types. The technical side of the Mission reviewed in
+detail the Coronado, which is of the new form of American
+stressed skin construction, the four engines being fitted
+with two stage mechanically driven superchargers.
+The Mission spent an interesting afternoon on the
+Glenn Martin Mars, which is a fine job and has now gone into
+small production; 20 machines are ordered and will come out
+in about 12-18 months’ time. One machine has been flying
+for over a year, but it has been under-powered. The
+production series with 3,000 h.p. engines and an all up
+weight of something in excess of 150,000 lbs. will prove to
+be a useful type of freight carrier.
+(vi) Training Machines. Since the Mission were flown in service
+aircraft they came down at odd military airfields especially
+in the Western Desert and had a good opportunity to see large
+numbers of service training machines. There is a fine family
+of training machines, some 7 or 8 types in all, including the
+Harvard, whose reputation is known over here, Cessna, Curtiss
+Wright and Boeing. These types include twin engine stressed
+skin aircraft with up to date engines, variable pitch propellers,
+and full flap control.
+IA-1.07 New American Prototype Aircraft. Reference will be made only to those
+machines which are serious propositions and are actually produced experimen-
+tally, rather than new schemes which are merely being talked about. The
+Mission saw several new types of prototype aircraft in course of construction,
+some of which were most promising. The American authorities are pressing
+firms to go into new types, and there is sufficient engineering capacity,
+draughtsmen and manufacturing resources to undertake this work. Amongst
+these the Mission were interested in a number of shaft driven and buried
+engine aircraft. The American industry seem to have taken a logical view-
+point on this subject, namely that until the non-conventional type of power
+plant is an accomplished fact, the buried engine and shaft drive is probably
+the most practical way of reducing drag. They also have found that the
+bogey of vibration and harmonics in shaft drives have been eliminated by the
+new electrical strain gauging technique.
+In this category, the Mission discussed a single seater fighter with
+24 cylinder 2,600 h.p. Allison liquid cooled engine placed behind the pilot,
+with single shaft driving a tractor propeller, a Northrop single seater
+fighter with 18 cylinder air cooled engine placed behind the pilot, with
+shaft drive and fan cooling incorporated, a 4 engined bomber with 3,000 h.p.
+Pratt & Whitney buried engines and shaft drive and fan cooling, with contra-
+rotating pusher propellers, the shafts being about 24 ft. long, and a 6
+engined bomber with six of these same engines and pusher propellers. All
+these machines are actually under construction and it is understood that
+one of the fighters has actually flown since the Mission saw it in January
+of this year.
+
+
+The Navy also have a flying boat prototype in the mock-up stage,
+with the main engine plant arranged inside the hull with shaft drives
+up to the wings, in order to give engine accessibility and minimum drag
+for long range work. Tail-first, tail-less and pilotless wireless
+controlled aircraft are all being pursued in the United States and are
+actually flying, and were reviewed by certain members of the Mission.
+IA-1.08 .American Stressed Skin Construction. One of the important matters
+that the Mission was sent over to investigate was the latest American
+stressed skin technique, developed especially for easier production,
+and to accommodate the new form of laminar flow wing which is becoming
+almost universally used on new designs in that country. Steps
+are being taken to allow British engineers to examine this type of
+construction for possible use on their new designs. Its chief advant-
+ages are that it employs a thick skin in combination with heavy
+stringers or corrugations, in conjunction with light spar flanges.
+The result is a stiffer structure and a smooth surface, having
+at least equal strength and lightness to the conventional construc-
+tion. The structure weights of these wings are not inferior to the
+best British practice.
+IA-1.09 Strength Factors. A study of strength factors and design require-
+ments and a comparison of American and British procedure was made and
+it is hoped that this investigation by the Mission will clarify onee
+and for all the inaccurate statements made in the past about the
+overall strength of sane American machines. As an interesting example
+of the sort of thing that came to light - if approval is based on
+calculation, American procedure is to work on average thickness of
+materials whereas we work on minimum gauges, with the result that
+the British designs will be VJ/o stronger if equal factors are quoted.
+IA-1.10 Tricycle undercarriages and American brake gear. Tricycle under-
+carriages were being used on more than 50/ a of the new types of air-
+craft which the Mission viewed while in the States. Only one fira
+who had used tricycle undercarriages was not enthusiastic about
+them for the future.
+American brake gear in conjunction with their wheel and tyre
+standards makes a powerful braking combination, and is worth keeping
+in mind, in the opinion of the Mission, for new British designs.
+IA-1.11 De-icing and Yfinterisation. The Mission having flown many miles in
+fairly strenuous climatic conditions during their tour had the
+seriousness of this problem brought home to them and have collected
+a good deal of information on the subject. Exhaust heat de-icing
+of leading edges is coming in as quickly as possible on new production
+models in the United States.
+IA-1.12 New Power Plant. Active development is going on of conventional
+engines, and there seems to be no feeling in America that the rec-
+iprocating engine is dead - rather that it is healthy and alive and is
+going up considerably in power. As a practical example of this
+the JUssion saw 4 new test houses with electrical dynamometers and
+refrigerating plant to take powers up to 8,000 h.p. and several
+dynamometers for 5,000 h.p. It is true that the 8,000 h.p. dynamometer
+plants only had engines of 2,000 and 2,600 h.p. on them at the time,
+but it gives some idea of the line of thought which is being pursued
+in America. On several occasions the members of the Mission were
+told that American aircraft designers anticipated the production of
+4,000 h.p. reciprocating engines within 5 years and were planning
+for double the size in less than 10 years.
+
+
+Air cooled and liquid cooled power plants are being pursued actively.
+The success of British and German liquid cooled in line engines has had its
+effect in America during the last few years, but the Mission saw two
+promising 24 cylinder liquid cooled high power engines abandoned, and there
+seems to be a tendency to go back to air cooling for the higher powered
+engines, in conjunction with some interesting new developments on cylinder
+construction, baffling and fan cooling.
+The Mission saw 5 promising new engines exceeding 2,000 h.p. At
+Pratt & Whitney they saw two 3* ooo h.p. engines of the same type running on
+the bench side by side at the same time. Over s*ooo hours of development
+have been carried out on this particular type of engine. One liquid cooled
+and one air cooled engine of sound and approved design of 2,600 and 3,000 h.p.
+respectively will be in series production quite shortly, and several
+hundreds per month being made by the sumner of 1944. The Mission are
+satisfied that these are not empty promises; the development work, test
+plants and factories were there to ensure the realisation of this work.
+It is hoped that the Mission were able to be of some use to the American
+authorities on the exhaust turbo and supercharging generally. The Amy
+authorities are relying on the exhaust turbo for the auxiliary stage of their
+two stage supercharger and several thousands of these are operating success-
+fully in service.
+The G.S. C. exhaust turbo is scheduled for large output, possibly in
+excess of requirements. There are still some problems with the G.E.C.
+edition of the exhaust turbo, and the Mission saw certain new installations
+for both liquid and air cooled types in which the cowling and sheet metal
+work was complicated, cumbersome and in their opinion unsafe from a fire risk
+point of view. The Americans are alive to these facts and are doing their
+best to modify them. The Mission would not like our authorities at home to
+feel that the exhaust turbo in America is likely to drop out, although in
+its present form it leaves something to be desired, and promising developments
+were seen.
+IA-1.13 Fuel. Fuel was a subject which the Mission were asked to leave alone and
+they did so, but they could not help being asked a number of questions on the
+subject and they were invited by the Standard Oil Company of New Jersey to a
+luncheon followed by an interesting discussion with lantern slides in the
+afternoon. Arising out of this meeting some important points come to light
+on the subject of inproved fuels during the present hostilities. The
+Mission would like to sound a warning that in their opinion the 12*0 fighter
+grade fuel is going to be late, and that it will not be available by June
+1944. Looking further ahead, the development may be expected of suitably
+blended hydro-carbons, which it will be quite practical to produce
+commercially in 3 or 4 years after the war, owing to the vast new plants for
+high octane fuel; these blends will enable a much higher power and
+efficiency to be obtained from the reciprocating engine. This is a matter
+which should be watched as it will give a longer life to the conventional
+type of reciprocating engine.
+IA-1,14. Propeller Development. As regards propeller development, the Mission were
+unsuccessful in arousing interest in the compressed wooden blade and it is
+felt that it might be a mistake to push the matter further; the technique
+of forging the duralumin blade has been so highly developed, and there are
+other new developments for blades. Hollow steel blades are being pursued
+actively and are considered to be the most promising line of attack for
+engines of 4*ooo h.p. One of the interesting developments the Mission saw
+in regard to propellers is the new Hamilton superhydromatic which provides
+for very rapid pitch change (30° per second) and does not use engine oil.
+The General Motors Corporation have in production a promising new variable
+pitch propeller with steel blades and the operating mechanism in the blade
+roots. This means a new geometric layout of the hub, but it is commended
+to our industry as being worth attention. Contra-rotating propellers are
+being pursued actively and are in about the same position as in our country,
+but they will be in series production earlier. The Mission saw two 2 speed
+contra-rotating reduction gears; one was stripped down and seemed a clean
+and light design. The Americans intend using two speed reduction gears
+chiefly to improve cruising at altitude.
+
+
+A-1.15 Structural Materials. As regards materials, a considerable amount of re-
+search work is being carried out by the Aluminium Company of America, which
+has been fully reported on by Mr. Devereux. A new high zinc alloy of
+British origin, with better physical properties than we are using in
+production, is being pursued actively. It is felt by the Mission that
+American sheets are generally flatter. There is considerable interest in
+magnesium as a material for aircraft structures, not so much to save weight,
+as to obtain stiffhess and smoothness and thus better finish. This material
+is being employed in conjunction with the new Heliarc method of welding, and
+the Mission saw spars being built up with this process for a new prototype,
+some of the sections of which were 4”. At least one new aircraft has gone
+into production with certain of the primary structures in magnesium with
+Heliarc welding.
+The Mission did not find much Interest in steel as a medium for aircraft
+structures and following the American line of thought of thick skins, this
+seems logical. However, a number of tailplanes and wing type were seen made
+of steel experimentally for production models, also the centre section of
+one of the big heavy bombers. The Budd steel transport plane is going into
+production and will be coming out in quantities by the end of this year.
+A-1.16 Plastics. In spite of the stories to the contrary, the Mission did not
+find any great advances in true plastics; in fact they are only being used
+for the same sort of items as we are doing at home, such as levers, covers
+etc. Some people are still enthusiastic about the future of plastics, but
+it would appear that this is a long way off and has probably got to come first
+in some more stabilised industry, such as the automobile, before it can be
+applied to primary structures in aircraft.
+A-1 •17 Wooden Aircraft. Some excellent efforts have been made In America during
+the last two years in the development of wooden aircraft, particularly the
+Curtiss Caravan which is a large transport machine of about 28,000 lbs. and
+of which 2,600 are proposed, but the general opinion was that wood was dis-
+appointing in the larger types of aircraft and that it was a war-time
+necessity which would not be perpetuated. The members of the Mission went
+to see two or three firms who are working on compressed and impregnated wood,
+but they cannot find any enthusiasm amongst the most advanced designers for
+consideration of this class of material, except for trainers and unstressed
+parts. There is one exception to this; the Mission understand that the
+Kaiser-Howard Hughes design office are planning two large all wooden freighters
+exceeding 200,000 lb. in weight.
+A-1.18 Materials for engines and propellers. As regards material developments for
+engines and propellers, one of the chief interests lay in the scantlings of
+American steel stampings; for instance the Rolls Rcyce crankshaft stamping is
+30 lbs. lighter than its British counterpart. The Mission saw several good
+examples of coining and final working of steel and small duralumin stampings
+in production. Mr. Henry Ford has had some cast crankshafts and cylinder
+barrels made experimentally at his Engine Factory, and it is understood that
+the cylinders are successful.
+The Mission feel that they must say something about magnesium castings.
+There has been so much change of policy at home on this matter that the
+British foundry industry and aircraft and engine constructors are in a con-
+fused state. In America on the other hand, magnesium casting technique
+has been steadily pursued for a number of years and the percentage of success-
+ful magnesium castings used in high powered engines is considerably greater
+than in England. The Mission recommended that a foundry representative, .
+engine designer and chemist should be sent to study American Magnesium foundry
+technique, and that a clear policy should be laid down as to the use of
+magnesium castings in England.
+V-4.19 Electrical Developments. Simplicity in production is the keynote of the
+present American wiring practice as compared with British methods, and a
+saving in weight and man hours, together with a reduction in vulnerability,
+could be achieved by the introduction of some of the American methods. The
+Mission are in agreement with the proposals for new electrical Installations
+on future American and they hope that their visit will enable this
+country to collaborate and standardise on these, and thereby save time and
+
+
+effort for the future. The Mission found that there is some tendency
+to go over to electrics, in place of hydraulics for ancillary equipment,
+on the score of simplicity, maintenance, ease of manufacture, and less
+vulnerability even at the expense of a slight increase in weight.
+IA-1.20 .Aircraft and Engine Vibration Testing. Important work is being
+carried out with seismic and cathode ray electrical oscillograph equip-
+ment, in conjunction with strain gauges and other precision instruments,
+for measuring the deteimining vibrations of aircraft components on
+the ground as well as in the air; also for components of engines and
+complete engines. This technique is being applied to the flight
+testing of all new types of aircraft. This electrical strain gauge
+technique, as well as photo-elasticity, stresscoat, and extensometer
+analysis has made great strides in America during the last 2 years,
+and has opened up an entirely new field to the aeronautical engineer
+for checking his designs even before the complete aircraft or engine are
+built and running.
+IA-1.21 Instrumentation of Flight Testing. Prior to the war the American
+films did not as a rule possess the type of highly trained test pilot
+that we had in this country. Plight testing of civil types was
+entirely in the hands of transport companies and the tefets of military
+machines were carried out at the Army and Naval depots. The growth
+of the American aircraft industry has been such that it was impossible
+to obtain a supply of suitable men, and a new procedure has been devel-
+oped during the last two years. For instance, on the Boeing 8.29>
+the Lockheed Constellation, and the Consolidated 8.32, the prototypes
+are fitted up with equipment weighing nearly two tons and operated
+by precision automatic equipment in combination with motion picture
+cameras. The wiring etc. of this equipment is built into the proto-
+type machine as its construction proceeds, and takes same weeks to
+complete, but saves a great deal of time and expense in actual flight.
+This work is combined with but is complementary to the vibration
+technique already outlined.
+The most complete equipment was fitted to the first Constellation
+and during the first three hours flight, records from 57 electrical
+strain gauge pick-ups were made and over 5700 photographs taken. An
+excellent paper by the late Eddie Allen has appeared on this subject
+in the last January issue of Aeronautical Sciences.
+IA-1.22 Intensive Development of American Ancillary Equipment. The Mission
+found that the American aircraft industry have been particularly
+quick during the last two or three years to benefit from their own
+mistakes in this respect, and to absorb quickly and introduce those
+qualities of our aircraft which have proved valuable as the result of
+our longer operational experience. A notable example is Gun Turrets.
+As a result of bad weather upsetting arrangements, one or two members
+of the Mission were lucky enough to pay a short visit to a new factory,
+which had never seen a gun turret 20 months ago, and whose normal
+production was electric washing machines and fans. The Mission
+found a fine new plant of approximately 800,000 sq.ft, and 6,000
+workpeople, an engineering staff of 450 engaged on excellent turret
+development, which the Executives were only too anxious to say had been
+initiated on information from Frazer Nash and Boulton & Paul. American
+power driven gun turrets were non-existent early in the war; now
+their latest types have many good points. In fact although this work
+did not come within the official purview of the Mission, many of the
+developments which have been seen in America in regard to gunnery
+control and sights are in their opinion far reaching.
+IA-1.23 Naval Types and Naval Training. The Mission were charged with no
+direct work in connection with the Navy or Fleet Air Arm machines,
+but the Navy Bureau were so extremely kind and helpful, that a good
+deal was seen of how the Navy operates. The Mission studied in some
+detail 3 Naval fighters, two Grummans and the Chance Vought Corsair,
+
+
+and 3 dive-bombers, the largest being a new type of 19,000 lbs, all
+up weight. The Mission were most impressed with the design features
+and construction of these types. The construction is somewhat com-
+plicated and expensive as compared with land types, but they are superior
+in performance to anything that has been seen before. Two of the
+machines are fitted with two stage mechanically driven superchargers.
+Certain members of the Mission visited 4 Navy main Depots, San Diego,
+Sands Point, Philadelphia and Washington. The San Diego Naval
+Air Station is splendidly equipped with modem foundry, press tool and
+machine shops and employs over 4,000 men. Any part of an engine or
+aircraft can be and is constructed there. aircraft were repaired
+in the month of December including main constructional replacements
+which were produced in these shops. There are 60r7 of these Naval
+Stations so equipped, and the Mission were impressed with the excellence
+of the training of the engineering staff and the nucleus that is
+provided for carriers and outlying shore based depots. Certain
+members of the American Navy Headquarters Staff suggested that any
+further British Mission which may be sent over might deal, with ad-
+vantage, in detail with the American carrier based aircraft.
+IA-1.24 Engineering Personnel. The Mission were impressed by the technical
+training and the breadth of vision of certain of the senior executives
+of both the Army and the Navy, and as they obtained a more detailed
+knowledge of the extent of the aircraft expansion in America, they
+formed the opinion that it would have been difficult to have realised
+the results that have been attained without such men having been in
+harness for an extended period. The Mission were equally impressed
+with the scale and size of the engineering staffs of the most
+important firms in America. These do not cover planning, jigging and
+tooling. They are responsible for design and experimental work only,
+and are generally about five times bigger than our staffs. The most
+important bomber firm has a staff of 2,700 as compared with something
+like 400 in this country, and the most important fighter firm 1,100
+as against our 180. The American staff pyramids down with five or
+six really experienced executives under the Chief Engineer and a dozen
+good men under these again.
+Although America may have lacked the few outstanding personalities
+this country has been fortunate to possess during the last 10 years,
+and who have been responsible for the standard and technical excellence
+of the present R.A.F. equipment, nevertheless the general technical
+training and theoretical knowledge of the average aeronautical engineer
+and draughtsman in America is of a higher order than in this country,
+and there is undoubtedly a great number of trained men in this category.
+This is due, in the opinion of the Mission, to the excellent facilities
+at the various engineering universities for the training of aeronautical
+engineers. Great strides have been made in this direction in America
+during the last few years. Large sums of money have been devoted
+to the building up of research equipment and suitable personnel for
+the training of aeronautical engineers.
+In America, aeronautical engineer students at universities are
+employed on up to date research work for specific new aircraft and engines,
+and are therefore in touch with the latest developments. Post-graduate
+courses with an excellent syllabus and up to date research equipment are
+in operation at many universities throughout America, outstanding examples
+being at Pasadena and M.1.T., Cambridge. Army and Navy officers and
+members of the Research and Experimental Departments go to Pasadena
+and M.I.T for post-graduate courses. There are well attended courses
+in jigging, planning and production engineering, as well as such im-
+portant questions as electrical vibration technique. The Mission feel
+that something has got to be done immediately to increase the future
+supply of Aeronautical Engineers in this country, and submit that we
+must tackle this question of aeronautical engineers* education at once.
+IA-1.25 Aircraft Research in America at the present time. The Mission were
+impressed with the volume of new equipment which has been spent on
+
+
+research during the last two or three years, and the general character
+and extent of research work that is going on both in Government
+Departments and in industry.
+The Mission believe that M.A.P. and the industry have no conception
+of the volume of work that will be coming out from these departments
+during the next 12 to 18 months. Considering wind tunnel work as
+an example, whereas valuable work is going on in England, it is wrong
+to assume that our tunnel equipment is sufficient and that we are
+going quickly enough. There are 12 large high speed tunnels in
+America, either completed or under construction. In Britain we have
+two. In America there are three large privately owned tunnels
+and one shared by four films either finished or under construction.
+In terms of power for these 12 tunnels, the Americans employ 186,000
+h.p. as compared with our 8,000 h.p.
+The Americans are fully alive to the necessity of putting complete
+power plants into tunnels. A new 20 foot closed Jet wind tunnel is
+being erected at Cleveland which has independent facilities for
+refrigeration and engine exhaust gas extraction. The tunnel will be
+capable of testing a 3*ooo h.p. engine at feet altitude
+pressure and temperature, and is designed for a maximum speed of
+300 m.p.h. at 30,000 feet with a fan power of 18,000 h.p.
+The whole layout of this engine research laboratory is unique,
+and it is complete with the latest dynamometer plants for s*ooo h.p.,
+modern machine shops, electrical strain gauge department, separate
+buildings for heat exchanger, fuel and oil laboratories as well as
+the 20* altitude tunnel. One engine firm has a similar type of
+tunnel absorbing 16,000 h.p. nearly completed and 2 other such tunnels
+are under consideration. One engine firm is spending a million
+dollars a month on development, and another 800,000 dollars per month.
+Certain members of the Mission had the privilege of spending
+half a day with the Chief Engineer of one of the largest aircraft
+firms in inspecting the research department of the company and the
+work that was being carried out there and had been planned for 1943*
+This is quite separate and apart from the manufacture of new proto-
+types that will be caning into production during the next three to four
+years. The schedule approved for the current year was 1,124,000
+dollars.
+IA-1.26 Training methods. Since the end of 1941 the American authorities and
+industry generally have entered into a big scheme for training of
+workers. Some of these seem to be somewhat elaborate and long. Never-
+theless there was a general feeling that these schools were well worth
+while and that a short individual training is better than bringing
+people directly into the shop.
+Most films have extensive film making departments, and a staff
+of pictoral artists for making suitable perspective drawings and
+breakdown diagrams for use in the shop.
+Examples follow of a few points that the Mission were struck
+with along these lines:
+At Boeing there were being fitted up a batch of special
+trucks, somewhere about 60 feet in length, in which com-
+ponents of the Portress such as the undercarriage, flaps
+etc., were set up in section form and capable of being
+operated. These were to be sent over the country to
+the different training centres with suitable demonstrators.
+At Consolidated there was a good organisation for training
+Army Air Force personnel. There were some hundreds of
+men being trained on the Liberator, with extensive class
+rooms, and sample machines set up in the open and sectioned
+for instructional purposes such as operating the undercarriages,
+
+
+flaps, loading dummy bombs, etc.
+The Mission were fortunate enough to spend an afternoon with
+Walt Disney, and saw the extent of the work he is doing for the Army
+and Navy in preparing instructional films. His studios are almost
+entirely given over to this work. The Mission have brought back
+examples of these films of which 33 have already been issued.
+The Mission also visited, while in Los Angeles, the Aero Industries
+Technical Institute and brought back samples of their instructional
+manuals.
+IA-1.27 Making the most use of our Engineering Staff. An investigation made
+by the Mission of the American Engineering Departments, their organ-
+isation and scope, has brought home the necessity for conserving our
+energies and rationalising our design staffs until such time as we
+can build up a stronger force of trained engineers. This, it is
+submitted, can only be accomplished by the industry of their own
+free will, and necessitates unselfish collaboration and the production
+now of a number of standardised manuals on such subjects as drawing
+office procedure, weight data, engineering and lofting, which if
+they could be established and worked to, would conserve the energies
+and economise the work of our design staffs. Some of these matters
+such as drawing standardisation and material specifications were
+tackled by the M. A.P. in the summer of 1941* and a practical scheme
+for both was inaugurated, which it was hoped could have been brought
+rapidly into operation in a few weeks. It is the Mission’s earnest
+desire to see something along these lines done promptly. In America
+these matters have been tackled in a most complete but somewhat
+extravagant way, and we should be able to tackle this problem benefit-
+ing from experience gleaned in America.
+IA-1.28 Collaboration between firms in the Industry. The Mission would
+like to draw attention to the collaborative work being done by
+the West and East Coast War Production Committees which have now
+been strengthened by a National Aircraft Council. Although under
+normal conditions there is the most keen competition between firms
+in the industry, they appear to have been ready to sink personalities
+and trade- competition for the war effort, and to exchange their
+ideas, pooling patents, engineering processes, methods of training
+etc. They are doing an excellent job to eliminate bottlenecks
+and get on with the war from the aircraft standpoint. The Mission
+were impressed by the breadth of vision of the senior executives
+serving on these Committees. The result obtained by these
+Committees is certainly good and we understand that considerable
+freedom of action is given to them by the authorities.
+IA-1.29 Liaison with M.A.P. and B.A. C. Members of the Mission have been
+somewhat surprised to find that certain matters, which they had been
+asked to look into, have already been the subject matter of reports
+from B.A.C. On their return they have also had reason to contact
+members of the M.A.P. and the industry, and find that they are not
+aware of certain developments going on in the U.S.A. and reports
+that have already been sent from America. The Mission talked this
+matter over at some length at the B.A.C. Headquarters at Washington,
+and it was felt that we should submit some proposals as a result of
+this discussion,by means of which considerable improvements can be
+made in regard to interchange of technical data. It is suggested tha
+that a Technical Records Department should be set up at M.A.P. with
+quite a small staff, which should contain a central registry of all
+matters upon which reports or data have been forwarded from U.S.A.
+or vice versa. It is suggested that if such a department could be
+set up, to which all firms could have access and could also send
+requests for information, it would do much to help general liaison.
+
+
+Similarly several firms in America stated that they had been asking for
+information on certain subjects from England, and had not been able to
+get a reply.
+IA-1 *3O Conclusions. To sum up, the Mission feels that it has been privileged
+to have had the opportunity of making this tour. The members have had
+a valuable and instructive time, and have learned a number of things
+which, if the British industry are able to accept, will improve our
+output in the near future. They have also been afforded every opportun-
+ity of discussing with the American authorities and industry a number of
+technical problems set them by the Minister of Aircraft Production to
+investigate while in America. They have benefited from these discussions
+and at the same time feel that they have been able to impart certain
+useful information to the American authorities, details of whidh are
+recorded later in this report.
+They have also been afforded the opportunity of inspecting new
+prototype aircraft and engines which are about to go into production
+in America, and these also are dealt with in detail later in this report.
+CHAPTER 2 - ITINERARY DECEMBER 1942 to MARCH 1943
+IA-2.01 Saturday, December 19th. Left London by train.
+Saturday, 26th. Arrived by sea at New York.
+Monday, 28th. Arrived at 8.A.C., Washington.
+Monday, December 28th to Conferences with 8.A.C., Amy and
+Friday January Ist. Navy authorities.
+Saturday, 2nd. Visited Glenn Martin, Baltimore.
+Sunday, 3rd. Left by night train for Dayton, Ohio.
+Monday, 4th to Conferences with the Wright Field
+Tuesday, sth. authorities.
+Wednesday, 6th. Left by air for St. Louis.
+Wednesday afternoon 6th Spent at the Curtiss Wright plant,
+and Thursday 7th. St. Louis.
+Thursday, 7th. Arrived late at night at Phoenix.
+Friday, Bth. Arrived by air at raid-day at Minesfield,
+Los Angeles. Conference with West
+Coast War Production Committee.
+Friday Bth to Visits to aircraft plants in the
+Thursday, 14th. Los Angeles area under the aegis of
+the West Coast Consnittee.
+Friday, 15th to At Consolidated Aircraft, San Diego.
+Monday 18th, inclusive.
+
+
+Tuesday, 19th. Left by air for Seattle. Delayed en route by
+bad weather.
+Wednesday, 20th to At Boeing, Seattle.
+Friday, 22nd inclusive.
+Saturday, 23rd. Left Seattle by air for Los Angeles.
+Sunday, 24th, to The Aircraft section returned to Los Angeles under
+Saturday,3oth. the aegis of the West Coast Committee for further
+visits to aircraft plants.
+Sunday, 24th. The Engine and Power Plant section of the Mission
+left by air for a series of visits in the Detroit
+area.
+Sunday, 31st. All the Mission assembled again at Dayton,Ohio.
+Monday, February Ist, All the Mission at a series of conferences with
+to Saturday, 6th. Wright Field authorities.
+Sunday, 7th to Aircraft section went to Canada to inspect
+9th inclusive. Canadian aircraft factories.
+Sunday, 7th to Power Plant section at Allison, Indianapolis.
+9 th, inclusive.
+Wednesday, 10th. At Curtiss Wright, Buffalo.
+Friday,l2th. At Bell, Buffalo.
+Saturday, 13th. The Aircraft section at Bell, Buffalo, Power Plant
+Section to New York.
+Monday, 15th. Aircraft section at Curtiss Wright, Buffalo.
+Monday, 15th to Design 3ide of the Power Plant section in the New
+Saturday, 27th York area,
+inclusive.
+Monday, 15th to Production and Development side of the Power Plant
+Saturday, 27th. section at engine and propeller factories in the
+New York and Detroit areas.
+Tuesday, l6th to Aircraft section in the Detroit and New York areas.
+Thursday, 25 th.
+Friday, 26th to 27th. At Philadelphia.
+Sunday, 28th. The Mission re-assembled at Washington.
+Monday, March Ist. At Navy Airfield at Annacostia to see the Japanese
+"Zero" fighter.
+Tuesday, 2nd to Conferences at B.A.C.
+Thursday 4th.
+Friday, sth. All day conference with Navy Bureau, Washington.
+Saturday, 6th. All day conference with Navy Bureau.
+Sunday, 7th. Final conference of the Mission at B.A.C. offices,
+packing papers and final dispersal.
+From then onwards the Mission split up, returning home by different
+routes by sea and by air. All but four members of the Mission were home by
+the 19th March. Ihe last members of the Mission were back by April 13th.
+
+
+LIST OF VISITS TO FIRMS
+Aircraft Engine, power Accessories
+plants and propellers materials, etc.
+West Goat District
+Boeing, Seattle Kinner, Glendale Miller, Los Angeles
+Consolidated, San Diego Rohr, San Diego
+Douglas, Santa Monica Solar, San Diego
+Lockheed, Burbank \
+North American, Inglewood
+Northrop, Hawthorne
+Yega, Burbank
+Vultee, Downey
+/
+\. '
+Central District
+Briggs Body, Detroit Allison, Indianapolis Aluminium Co. of
+America,
+Pittsburgh
+Chiysler, Detroit Buick, Detroit Bendix Products,
+• South Bend
+Curtiss Wright, St. Louis ' Cleveland Graphite
+Bronze, Cleveland
+Ford, Willow Run, Detroit Ford, Detroit Dynarnatic Corp.
+Chicago.
+Hudson, Detroit General Motors, Detroit General Electric,
+V Schenectady
+A.O.Smith, Milwaukee Packard, Detroit Minneapolis -
+Honeywell,
+Minneapolis
+Stewart-Warner,
+Chicago
+Thomson Products Co.
+Cleveland. -
+East Coast District
+Bell, Buffalo Hamilton Standard, ' Bendix Aviation,
+Hartford New Jersey.
+Curtiss Wright, Buffalo Lawrance, Linden, Eastman Kodak,
+New Jersey. Rochester
+Fairchild, Long Island Lycoming, Williamsport General Electric,
+West Iynn.
+Glenn Martin, Baltimore Pratt and Whitney, / Lanstone Monotype,
+Hartford Philadelphia
+Grumman, Long Island Ranger, Farmingdale Sperry, Brooklyn
+Republic, Farmingdale Wright Aeronautical,
+Cincinnati
+Wright Aeronautical, *
+Paterson
+
+
+Aircraft Engines, power Accessories,
+plants and propellers, materials, etc.
+Canada
+Canadian Car & Foundry, Canadian Propellers, Dowty Equipment,
+St. Hubert & Pointe Montreal. Montreal.
+St. Charles. Bloctube Controls,
+Fairchild Aircraft Ltd, Montreal.
+Longueuil
+Canadian Vickers,
+Montreal and CartiervilDe
+Noordyn, Cartierville
+Victory Aircraft, Malton
+De Havilland, Toronto.
+Massey Harris, Toronto.
+Fleet Aircraft, Fort Erie.
+LIST OF VISITS - GOVERNMENT DEPARTMENTS, RESEARCH
+ESTABLISHMENTS, UNIVERSITIES, ETC.
+East Coast District Central District West Coast District
+East Coast War Production
+Council
+Navy Bureau of Aeronautics, N.A.C.A. Engine Lab., Aircraft War
+Washington Cleveland Production Council,
+War Production Board, Los Angeles
+Washington
+Naval Aircraft Factory, Wright -Field, Dayton
+Philadelphia
+N.A.C.A., Langley Field
+New York University California Institute
+M.1.T., Cambridge. of Technology,
+Pasadena.
+✓- ' ■
+Canada
+National Research Council,
+Ottawa.
+
+
+CHAPTER 3 - BROAD POLICY CONCLUSIONS
+IA-3.01 To sum up the broad conclusions of the Mission, the members consider
+that they have been afforded a remarkable opportunity to obtain a com-
+prehensive blue print of the American aircraft industry as it stands to-day,
+what it will be like in 9 months' time, and what are the plans for future
+aircraft developments and activities in the United States.
+As Britishers, whose chief desire is to see victory for the Allies, they
+are greatly heartened at the scale of the American aircraft industry and the
+numbers of well finished aircraft which are now rolling off the. production
+lines in ever increasing quantities.
+At the beginning of each section of this report there is a separate
+summing up of the high spots, so that the M.A.P. officials and the industry
+will know exactly what the Mission feel on each subject, together with
+their recommendations of what action they consider should be taken on each.
+It is hoped thereby that it will be possible to get busy on each of these
+sections as quickly as possible.
+It is felt, however, that apart from these specific problems there are
+some broader aspects of the Mission's visit which should be emphasised, not
+so much as lessons which may be learnt to improve our output in the immediate
+future, but which must receive our attention for a longer term policy.
+First the Mission would like to refer to the question of maintaining
+close technical and policy liaison on all aircraft matters with Anerica. It
+is believed that this question is an important one, and just as the broadest
+thinking people in both countries realise that without the help of each
+other on international matters our future is precarious, so also it is con-
+sidered to be of the highest importance that there should be close collabor-
+ation and sympathetic understanding on all aircraft developmeit, between
+Great Britain and America.
+It is believed that the leaders of the aircraft movement on both sides
+of the Atlantic now appreciate the true position and will take every
+opportunity to make up for any misunderstandings, that may have occurred in
+the past,by working along these lines.
+Undoubtedly a great deal of good work has already been accomplished to
+this end in America, and the Mission hope that they have been able to add
+their quota by their practical outlook and their ability to give constructive
+criticism, as well as a quid pro quo on the various matters under review.
+It is felt that if the recommendations of the Mission in regard to a
+central technical records organisation, and close liaison and dissemination of
+information between the two countries, can be built up, it will be mutually
+beneficial.
+There is no doubt that the Americans are benefiting rapidly from practical
+operational experience. They are facing up to facts and are making progress
+at a rapid rate on certain features of military aircralt in which they did
+not excel in the past.
+As a counter to the convictions of the Mission as to the rapid technical
+growth of the American aircraft industry, it is realised that it may be said
+"If what the Mission say is true, why are British aircraft superior to-day in
+certain respects to those of any other nation, either Allies or Axis, and
+why are British machines so successfully carrying such a heavy load of the
+air war?" There is a clear and definite answer to this challenge. Design,
+development and production of modem stressed skin aircraft takes much longer
+than even the most realistic engineer will admit. From the original con-
+ception to the date when the machines are rolling off the line in sufficient
+quantities to be an asset to the war effort, rather than a liability, is a
+long time. Machines have so changed and have become so much more
+that even with the latest engineering technique, it would appear to require
+some two and a half to three years for fighters and four to five years for
+heavy bombers to mature to a stabilised production stage. The British
+production aircraft which are now taking the load of the air war are for the
+
+
+most part 6-7 years old, and were conceived at a time when English
+technicians were more steeped in problems of military aircraft,
+whereas the Americans had more experience in civil and transport
+aircraft. Further, in those days aircraft development was more of
+an art as compared with an applied science as it is to-day.
+Much water has flowed under the bridges since this time. Both
+countries industries have expanded enormously and the American, auth-
+orities have, over this period, poured vast sums of money into research,
+and have trained a large band of aircraft engineers, whereas British
+engineering and research capacity has remained practically static.
+While it is fully appreciated that the latter position was inevitable
+because we were holding the fort until America could come into the war,
+this situation, it is submitted, is now changed and it is necessary
+for us to do something about it.
+Further, the new family of American aircraft, which has benefited
+from this research work and increased force of engineers, is
+barely coming into the picture. We have the Mustang, the first of
+the new fighters, which it must be admitted is a valuable type,
+and the new four engined bombers, also employing many new technical
+features, which will not be delivered from America into the war area
+until the middle or end of 1944*
+The Mission have tried to emphasise the number of new prototypes
+and the volume of research and development that is going on in
+America at the present time. It is appreciated that certain of
+these prototypes might be open to criticism and might, at the present
+time, be thought to be unprofitable. Nevertheless it is quite
+certain that some of them will prove successful, and will be in
+advance of anything we have, because we have neither had the time
+nor opportunity to investigate such projects.
+It is therefore hoped that the authorities and the technical side
+of the industry will give full weight to the views of the Mission
+as to technical development, and will not rest satisfied by emphasising
+the quality of the present British fighter and bomber products, which
+is already so well known and proven.
+As has been said elsewhere in this report, any new movement in
+America very soon hits the level of a crusade and it is felt that
+the aircraft industry is no exception to the rule. The last war
+made the American motor car the largest engineering industry in the
+world; it is felt by the members of the Mission that the ordinary
+man in the street in America is taking a great and surprising interest in
+aircraft and air transportation, and is doing all in his power to
+encourage the view that this world war is going to give his country
+the chance to make American aircraft the largest and most important
+industry of its kind in the post-war world.
+Coming back as the Mission have, a band of engineers who have
+seen their counterparts in America provided with money, equipment
+and facilities beyond their wildest dreams, it may be thought that
+they are looking at the whole problem with tinted glasses and with a
+somewhat disparaging and unjustified view of the situation at home.
+It is seriously believed that this is not the case, and that we in
+this country ought to be preparing, as the Americans are, for big
+steps forward in the design of engines and aircraft.
+
+
+The Mission consider that the practical way of dealing with this
+situation, which undoubtedly exists, is to take stock of our present facilities
+and equipment for producing a few types of new aircraft, worthy successors of
+those which have maintained our supremacy in the present war, and it is
+believed that this can be done. It must, however, be approached with the
+viewpoint of action and determination and without so many delays.
+The question of long term research and development is the subject of
+other sections of this report, but rapid action on this side also is
+necessary along certain definite lines.
+Dealing first with power plant, a more definite and concerted policy is
+necessary on conventional type high power engines. It would be conservative
+to state that we want two types of 5,000 h.p. engines as quickly as possible,
+and that testing equipment should march in line to meet the realisation of
+these types. Steps should be taken to further shaft drive, and we must
+develop our own exhaust turbo units and bring our propeller designs up to
+date to meet the latest requirements.
+It is appreciated that all these things are being talked about, but, it
+is understood few of them are being proceeded with on a realistic basis.
+The other lesser items in regard to power plant will not be discussed in this
+broad review, as they are the subject of detailed investigation in the various
+sections. , "
+Turning to aircraft it is appreciated that we shall maintain our position
+m regard to high altitude single engine liquid cooled fighters, but it is felt
+that greater push should be given to the low altitude high performance fighter.
+We shall see American aircraft with ground level speeds more nearly approaching
+what is feasible from the unconventional type of power plant, and a very defi-
+nite target should be set which will necessitate a specialised power plant and
+aircraft. A ground speed of 430 m.p.h. should be attainable, with a rate of
+climb in excess of 6,000 ft. a minute, and with the aim of maximum performance
+at 20,000 ft. of over 480 m.p.h. A large conventional type of high speed
+bomber, and a civil aircraft of about 150,000-170,000 lbs., should also be em-
+barked upon at once, with the necessary staff and personnel to ensure their
+being got out sufficiently quickly. As mentioned above, a suitable type of
+power plant requires developing for this size of machine, with attention to reli
+ability and fuel consumption.
+Certain developments on offensive armament, which it is understood our
+technicians are fully alive to, and which are in line with the latest American
+school of thought, but which may not yet be fully appreciated by our operational
+people, require, it is believed, careful attention and unbiased investigation.
+The items just enumerated are considered by the Mission as short term and
+logical developments and could, it is submitted, be embarked upon immediately
+if the recommendations in regard to rationalisation of design staff were
+incorporated. Included in the short term projects the Mission would like
+to emphasise the following also.
+Amongst the technical items which it was asked to investigate were a
+number of controversial matters such as winterisation, starting, de-icing,
+single lever control, which it was impossible to finalise because the matters
+were in a fluid state, and there has not yet been evolved an altogether
+satisfactory solution. However, the discussions that took dace were worth
+while and carried the problems a stage further.
+It did, however, become patent to both the Americans and ourselves that
+closer collaboration between the technicians of both countries who are right
+down on these jobs was necessary to obtain a rapid solution, and that it was
+really not of much use to use the M.A.P. and B.A.C. as a post box for the
+solving of such problems.
+
+
+The different aspects of these problems are so intimate, are changing
+from day to day, and are affected to such a degree by climatic and operational
+conditions, that it really is necessary that, for the most important of these
+items, two or three engineers should go over from England to America or
+vice versa on each of these subjects, and be able to spend sufficient time
+to get down to the drawing board and experimental developments of their
+opposite numbers. It is urged that the M.A.P. should take stock of these
+various matters, which have been ventilated to ascertain extent but not far
+enough, and arrange with the American authorities that we should send over
+some people to stay for a few weeks on a certain problem, and they would
+collaborate in another field by sending people over to stay with us until
+the particular problem is solved. The Mission wish to make a strong
+point of these comments, as it is felt that it is a really important
+contribution to the solution of these problems.
+The Mission would also like to reiterate here the views already expressed
+at the Conferences in London after their return on the question of electric
+strain gauge oscillograph and instrumentation technique. To grapple with
+these problems quickly enough, they feel that special sections must be set up
+in this country. They would again put on record their sincere desire that
+selected people should be sent to the post graduate courses at Pasadena and
+M.I.T. Cambridge this year; that a school for test pilots incorporating the
+new instrumentation technique should be set up in this country, which a
+number of American pilots should be invited to attend. It is felt certain
+that such a scheme would be welcome in America, both by the British and
+American flight test sides.
+\
+The questions of long term research and the training of engineers to
+operate this equipment, both of which are so necessary in order that we may
+be able to introduce new and more revolutionary designs of an unconventional
+nature, necessitates concrete and realistic planning and execution of a new
+research programme, which is dealt with in a separate section. It i 3
+earnestly hoped that the views of the Mission, or some other similar scheme,
+will be adopted on this subject and proceeded with quickly, but it will take
+time, and we must be prepared to be behind for the time being while such a
+scheme is coming to fruition. The Mission do not feel, however, that this
+need be the cause for alarm and despondency, if only immediate action can
+be taken on a new research programme as well as to interim projects. It
+is felt that we possess such a wealth of experience and background of conven-
+tional types for the latter that if we can only act quickly we shall be able
+to meet any competition in the future.
+
+
+CHAPTER 4 - FUTURE POLICY IN REGARD TO MISSIONS TO AMERICA
+IA-4- 01 When this Mission was originally initiated, it was given very broad
+terms of reference, and it was stated that on its return to England, those of
+its recommendations which were approved by the Minister should be implemented
+by the members of the Mission; and that in due course further tours and
+investigations would be carried out in America on behalf of the M.A.P.
+For the reference of the Minister it is considered desirable to record
+the impressions of the Mission in regard to future policy.
+It is believed that generally speaking, due to the practical knowledge
+and enthusiasm of the members, coupled with the excellent reception and
+help given to them throughout America, a considerable amount of useful data
+and information has been collected. It has been brought home clearly that
+there is great scope for better and closer liaison between the two countries
+on aviation matters generally; at present this is somewhat lacking and both
+countries suffer therefrom.
+As to future Missions, there are certain points -which it is felt must
+be ventilated if they are to be worth while. First it is submitted that
+visits conducted in this way are more efficient, and more appreciated by the
+American engineers, the industry and the authorities generally, than
+haphazard individual excursions. All such Missions must inevitably be an
+interference with work, but all who wish to see the war successfully
+prosecuted are willing to bear with such incursions if they are properly
+organised, with practical specialists to deal with specific problems, do
+not come too often, and have something worth while to offer as a quid pro
+quo.
+The Mission gleaned that in the past there has been a certain amount of
+overlapping by British visitors, and that individual visits are not welcomed.
+If at a firm, or such a place as Wright Field, the authorities have due
+warning that a number of engineers are coming, details of who they are and
+what they want to discuss, the authorities are prepared to receive them,
+give them proper attention and prepare information for them; the mutual
+association is worth while to both sides. But if British visitors drop in
+at odd times, not knowing exactly what they have come for, and often over-
+lapping each other, they are nothing more than a nuisance.
+The American authorities and the industry appreciated the fact that the
+Mission prepared their agenda carefully in advance, and gave explicit
+details of what they wanted to talk about. The Mission endeavoured to
+obtain a frank opinion from the American authorities at Washington and
+Wright Field as to whether they would be welcome again, and they were given
+an answer in the affirmative, providing the arrangements could be made on
+similar lines, that some new subjects could be taken up and that the visits
+were not too frequent.
+To undertake such a Mission and obtain results is a big undertaking
+requiring careful preparation. From the time the Mission is initiated,
+and a set of tasks allotted to it, to the time the final repcr t is completed,
+, should be eight months; two months should be allowed to collect together
+the team and prepare the necessary information, so that the Mission has not
+only a knowledge of what is to be investigated in America, but a quid pro
+quo to give in return. Then three months are required in America, followed
+by three months at home to co-relate the results, write the report and impart
+the necessary information to those interested.
+It would appear therefore, that it should be feasible to make one and
+a half trips per annum to America. Each time a Mission goes it should
+achieve more because more would be known as to how to tackle the problems,
+what to avoid and what to concentrate upon.
+If it is decided to continue with this procedure it is submitted that a
+number of specific jobs should be selected, that they should be notified to
+America in advance and ample time given to prepare the data. It is felt
+that it would be appreciated by the Americans, if say two additional senior
+
+
+authorities from England could be spared, as well as the leader of the
+Mission, so as to add weight to it, and enable greater authority to be
+given to those most valuable conferences and discussions on policy questions
+which took place at Wright Field and the Navy Bureau, "which most certainly
+should be repeated#
+
+
+CONSTITUTION, SUMMARY AND GENERAL CONCLUSIONS
+FART B AMERICAN NATIONAL AIRCRAFT ORGANISATIONS
+CHAPTER 1 ~ GENERAL
+CHAPTER 2 “ ARMY AIR FORCE
+CHAPTER 3 , ~ NAVY DEPARTMENT
+CHAPTER 4 - WAR PRODUCT I(K BOARD
+CHAPTER 5 - JOINT AIRCRAFT CQMTTEE
+CHAPTER 6 - OFFICE OF SCIENTIFIC RESEARCH AND
+DEVELOPMENT
+
+
+
+
+CHAPTER 1 - GENERAL.
+18-1«01 As the organisation in America for aircraft technical matters and
+production is split up into a larger number of units than it is in this
+country, the set up is liable to appear complicated at first sight, and
+for this reason the following notes have been written to explain the
+main functions of the various groups.
+In a number of cases organisation charts were handed to the Mission
+by the various Government departments etc., and some of these are
+reproduced. In view of this, only brief notes will be given on the
+individual branches.
+Chart 1 shows the National Organisation and it will be seen that,
+as far as aircraft matters are concerned there are five sections as
+detailed in the following Chapters.
+CHART 1. NATIONAL ORGANISATION
+CHAPTER 2 - ARMY AIR FORGE.
+18-2.01 The Army Air Force, who have their headquarters in Washington, comprise
+the departments shown on chart 2A. The Director of military Requirements
+in Washington is in charge of Directors of Bombardment, Training, etc.,
+and these are normally operational personnel rather than engineers,
+although technical advisors are attached to this departments.
+The Materiel Command under General Echols also has a headquarters
+staff at Washington, made up as shown on chart 28, and General Chidlaw on
+the experimental engineering side has a number of qualified engineers on
+his staff, some of whom have graduated from Wright Field.
+The actual technical work and production liaison is done at the
+Materiel Centre, Wright Field, which is run hy General Vanaman through
+three main divisions; Production, Experimental and Procurement, the
+details of which are shown on charts 2C, 2D and 2E respectively. The
+Procurement Division is further sub-divided and the layout of the
+Aircraft Procurement Branch is shown on chart 2F.
+Probably the most interesting part of the Wright Field organisation
+is the use of Project Officers. Groups of Project Officers are attached
+both to the Production Division and to Experimental Engineering and they
+are responsible for all work on their own particular types.
+
+
+CHART 2A ORGANISATION OF THE ARMY AIR FORCES
+
+
+CHART 2B MATERIEL COMMAND
+Going back about three years, Wright Field consisted of
+(a) Field service. This is now removed from Wright Field and
+is called the Air Service Command.
+(b) Engineering - which at this time had just been strengthened by
+the formation of a separate production engineering section.
+(c) Procurement.
+Project Officers were started by Major Echols, as he was then, when
+he was chief engineer at Wright Field nine years ago. At this time a
+small group of Project Officers were located in an office adjacent
+to Major Echols and each of these specialised on a particular class of
+aircraft as follows: -
+fa) Bombardment
+Pursuit
+(c) Attack and observation
+(dj Trainers
+The above scheme has functioned ever sinoe, and there are now about
+six Project Officers under Colonel Craigie in the Experimental Engineering
+Division and a further six under Colonel Harman in the Production Engineering
+Division.
+These Project Officers are assisted by civil project engineers, and
+also by junior Army officers who are also trained engineers and who are
+sometimes pilots.
+The Mission vrere impressed by the wide experience of these Project
+Officers and a few lines are therefore included on their training and
+experience.
+Army cadets normally go straight to West Point from school, but
+quite a large number enter the Array after taking university courses in
+engineering. People in this category who wish to enter the Army Air
+Force go directly from the university, after graduating, to the Amy
+Flying School. After preliminary training and three or four years in
+normal service officers go to the Amy Staff College for a years engineering
+training and the most promising of these are subsequently sent to post
+graduate universities such as the California Institute of Technology to
+take their master's degree.
+X GEN. ECHOLS IS NOW RESPONSIBLE ALSO FOR THE
+SUPERVISION OF MAINTENENCE t DISTRIBUTION
+
+
+CHART 2C PRODUCTION DIVISION
+
+
+CHART 2D. EXPERIMENTAL ENGINEERING SECTION
+Project Officers must be active pilots and most of the present Project
+Officers have been at Wright Field for about 8 years* During this period
+these people have had experience in several departments, each having spent
+probably two years on end in a position in one of the laboratories or
+other technical sections. Promotion to Project Officer is obtained after
+the necessary experience has been built up, and it was interesting to find
+that most of the Project Officers have been in their present positions
+for something like four years.
+
+
+CHART 2E PROCUREMENT DIVISION MATERIAL CENTRE
+CHART 2F. AIRCRAFT PROCUREMENT BRANCH OF THE PROCUREMENT DIVISION
+
+
+Officers from Wright Field are frequently transferred hack to flying
+duties with the Army Air Force for periods of up to three years, after which
+they return again to Wright Field# Others are given experience as Air
+Force representatives at factories, and in some cases a man*s experience
+includes both the above#
+The Project Officer is the final authority at Wright Field on all
+matters appertaining to the design and development of the aircraft (Experi-
+mental Engineering Division) and production matters (Production Division),
+subject to the supervision of their respective Chief Project Engineers
+and the Commanding General# They act as the contact between Wright Field,
+the active Air Force and the industry#
+All correspondence and queries referring to a particular aircraft
+pass direct to the Project Officer concerned, who gets reports or advice
+as required from the Flight Section, the various laboratories etc.; the
+decision is then in the Project Officer 1 s hands.
+The Project Officer spends something like a quarter of his time at
+the contractor*s factory, and often goes there to fly the first prototype
+to Wright Field, after which he dictates the tests that are required and
+usually spends some time himself flying in the machine with the test
+pilot and test crew provided by the Flight Section.
+When preliminary designs are submitted by alternative manufacturers
+for a new machine it is the duty of the Project Officer on this type
+(bombardment, pursuit, etc#) to consult the specialist laboratories, etc.
+and then advise the Commanding General, through the Chief Project Officer,
+on the relative merits of the competitive designs. The final decision
+for the placing of an order for a new prototype is made by General Echols.
+Despite the good organisation of Wright Field, it was found that the
+speed of issuing reports and the quality of these reports, was considerably
+behind similar publications in this country and this was one of the points
+which were taken up by the Mission with General Echols and Admiral Davison#
+CHAPTER 3 - NAVY DEPARTMENT.
+18-3#ol Aircraft matters for the Navy are, of course, dealt with quite separately
+CHART 3 BUREAU OF AERONAUTICS
+
+
+CHART 4 - WAR PRODUCTION BOARD
+
+
+CHART 5.
+
+
+from the Army Air Force organisation. Control is effected through the
+Bureau of Aeronautics at Washington under Admiral McCain and his
+organisation is shown on chart 3* Unlike the Army, the Navy has
+concentrated its technical departments in Washington. Research is
+carried out mainly at the Naval aircraft factory at Philadelphia,
+and there are some excellent aircraft yards at such places as San Diego.
+CHAPTER 4 - WAR PRODUCTION BOARD.
+ID-4*ol The War Production Board operates from Washington and is responsible
+for priorities, scheduling, etc. The Aircraft Production Board is
+under the chairmanship of Mr.C.E. Wilson, Vice Chairman of W.P.8., and
+Mr.T*P. Wright is the main executive of the department. The organisation
+of -this department is shown on chart 4*
+CHAPTER 5 - JOINT AIRCRAFT COMMITTEE.
+18-5• 01 The Joint Aircraft Committee is made up of representatives from the
+Army, Navy, War Production Board and British authorities. The main
+committee has set up a number of sub-committees on standardisation,
+allocation of deliveries, spares, etc., and the layout of these is shown
+on chart 5*
+CHAPTER 6 - OFFICE OF SCIENTIFIC RESEARCH AND DEVELOBMENT.
+18-6.01 This office operates through a committee in Washington, of which
+Dr, Bush is chairman. The N.A.C.A. is the official Government research
+organisation for aeronautics and operates under a committee made up of
+representatives from the Army, Navy, civil aeronautics authorities etc,,
+together with six representatives appointed by the White House, The
+organisation of the N.A.C.A.is shown on chart 6.
+The untiring energy of Dr. Lewis and his persistence in the importance
+of research, has had a considerable influence in building up the best
+possible research facilities for the N.A.C.A.
+CHART 6 - NATIONAL ADVISORY COMMITTEE ON AERONAUTICS.
+NATIONAL LIBRARY OF AUSTRALIA
+★ These committees are made up of representatives of Government Departments
+and Industry, and appoint various sub-committees as reouired.
+
+
+
+

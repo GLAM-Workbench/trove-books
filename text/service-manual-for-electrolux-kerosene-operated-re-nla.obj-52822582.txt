@@ -1,0 +1,2686 @@
+
+
+Keep in
+ELECTROLUX PTY. LIMITED
+Service Manual
+for
+Kerosene- Operated
+Refrigerators
+o ■C
+A.R.D. BJC.
+Oct. 1939
+
+
+SERVICE MANUAL
+FOR
+ELECTROLUX
+KEROSENE-OPERATED
+REFRIGERATORS
+Models L. 22, L3B, LK.55, L 220, L3BO and LK.550
+ELECTROLUX Pty. Ltd.
+(Incorporated in New South Wales)
+HEAD OFFICE:
+415 BOURKE STREET, MELBOURNE
+Telegrams: Electrolux, Melbourne
+Telephone: MU 6293 (3 lines).
+WORKS:
+ALEXANDRA AVENUE.
+SOUTH YARRA, MELBOURNE.
+Telephone: Windsor 1019/20
+A.R.D. B.K.
+Oct., 1939
+
+
+INDEX.
+INTRODUCTION 3
+DEFINITIONS 4
+THE CYCLE OF OPERATION OF THE ELECTROLUX AIR-COOLED UNITS - - 5
+CABINET, UNIT AND KEROSENE EQUIPMENT TYPE DETAILS 9
+MODELS L. 22 AND L. 220 Specification - - - -- -- -- -10
+MODELS LOS AND L. 380 Specification - - - -- -- -- -11
+MODELS LK.55 AND LK.550 Specification - - - -- -..--12
+DIAGRAMS OF KEROSENE LAMPS Pages 13, 14, 15, 16 and 17
+DESCRIPTION OF KEROSENE LAMPS USED IN ELECTROLUX REFRIGERATORS 18
+DESCRIPTION OF DIFFERENT TYPES OF KEROSENE EQUIPMENT - - - 19
+INSTRUCTIONS FOR INSTALLING AND STARTING UP 20
+Installation of the Cabinet - - - - -- -- -- - 20
+Starting the Refrigerator - - - - - -- -- .- -20
+Checking the Adjustment of the Equipment - -- -- ---20
+Selection of Burner Size - - - - - - 22
+CONTROLLING AND OPERATING THE EQUIPMENT 23
+Regulation of Temperature - - - - -- -.-..23
+Maintenance of the Equipment - - - - -- -....23
+Replacing the Wick - - - - - -- -- ...23
+ICE MAKING TIMES 24
+ICE-CREAM FREEZING 25
+SERVICE AND MAINTENANCE OF ELECTROLUX AIR-COOLED REFRIGERATORS 26
+How the Refrigerator Functions - - - .- .- -- .26
+Tracing and Remedying Faults - - - -- -- -- -26
+Fault Tracing Chart - - - - - -...-27 and 28
+Refrigerator too Cold - - - - - -- -...-29
+Refrigerator not Cold Enough - - - - -- .- ..-29
+No Refrigeration - - - - - - 30
+Food Tainting - -- -- -...--.-31
+Ice Tainting - -- -- -....--.-31
+Ice Making -----_ ..-.--.-32
+To Shut Down Cabinet - - - - .-...---32
+REPLACEMENT OF DOOR GASKETS 32
+REPLACEMENT OF DOOR HINGES AND LOCKS MODELS L. 220, L. 380 AND
+LK.550 33
+DIAGNOSING COMPLAINTS AND REMEDY OF SAME 33
+REPLACEMENT OF COOLING UNITS 35
+Unit 42A in L. 22 and L. 220 ... - -- -- -- - 35
+Unit 61A in L. 38 and L. 380 - - - - ..---..36
+Unit 80A in LK.55 and LK.550 - - - -- -- -- - 36
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+Introduction
+<* j I HIS manual is compiled as an aid to the efficient servicing of ELECTROLUX Kerosene-
+operated Refrigerators, and if studied carefully will materially assist the service repre-
+sentative in maintaining a comprehensive knowledge of such refrigerators, thereby enabling him
+to render satisfactory service to the user.
+Sufficient data is contained in this manual to enable the service representative to deal satis-
+factorily with work generally required in installation and service, but if additional information
+on service or individual local problems is required, please communicate with the distributor
+for your State, who will, if necessary, obtain this from:
+THE REFRIGERATOR DEPARTMENT,
+ELECTROLUX PTY. LTD.,
+415 BOURKE STREET.
+MELBOURNE, C.l.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+DEFINITIONS
+REFRIGERATION is the process of removing
+heat from a space or object, thereby producing a
+cold condition.
+The AIR-COOLED ELECTROLUX RE-
+FRIGERATOR is a cabinet refrigerated by
+“THE ELECTROLUX AIR-COOLED UNIT.”
+The ELECTROLUX UNIT (1) is a self-
+contained, continuously operating refrigerating
+system of the absorption type, wherein the
+motivating force is developed within the unit by
+the application of heat.
+The CABINET is an insulated box used for
+food storage, in which refrigeration is produced
+by the action of the Electrolux Llnit.
+The FOOD STORAGE SPACE (6) is the
+interior of the insulated cabinet which is pro-
+vided with shelves for storing food. The LINING
+(8), which is of porcelain enamel, forms the
+boundary of the food storage space. It is pro-
+vided with a WINDOW (2) through which the
+radiator of the unit is fitted.
+The RADIATOR (3) is that part which
+covers the EVAPORATOR. Its function is to
+provide adequate radiating surface for cooling
+the FOOD STORAGE SPACE and it includes
+the ICE FREEZING COMPARTMENT (4).
+INSULATION (7) is a wall of heat-resisting
+material used to prevent entry of heat from the
+outside air to the food compartment.
+ICE TRAYS (5), with loose dividers, are pro-
+vided to make ice in convenient, usable form.
+Fig. 1
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+THE CYCLE OF OPERATION
+OF
+THE ELECTROLUX AIR-COOLED UNITS
+The method of operation employed in the
+Electrolux Kerosene Refrigerator is generally
+regarded as coming under the classification of
+an Absorption System, but such a description is
+inadequate in that it overlooks the essential feature
+of the Electrolux System which distinguishes it
+from both the purely Absorption and the Com-
+pression systems that is, the feature which
+enables it to eliminate all mechanical moving parts.
+The inventors have taken advantage of two
+well-known physical laws : —Firstly, that the
+evaporation of a liquid at a given temperature
+does not depend on the total pressure existent,
+but will take place provided that the pressure
+exerted on the surface of the liquid by its own
+vapour is sufficiently low; and, secondly, that if
+there is a mixture of gases in any vessel, the
+total pressure will be the sum of the pressures
+which would be exerted separately by each of the
+gases occupying the same vessel alone.
+In the Electrolux apparatus, the total pressure
+is practically constant, but in the radiator system
+(that part of the apparatus in which the evapora-
+tion of the refrigerant takes place and cold pro-
+duced) another gas hydrogen is introduced.
+This gas produces such a proportion of the total
+pressure that the remaining portion which is
+supplied by the refrigerant is sufficiently low to
+produce evaporation at the low temperatures
+required. Thus the need for an expansion valve
+and a compressor is eliminated.
+The Electrolux Unit is composed of a series
+of steel cylinders connected by steel tubes which
+are welded together to form a single inter-com-
+municating container. A diagrammatic view of
+an Electrolux Unit is given in Fig. 2.
+A charge consisting of a small quantity of aqua-
+ammonia (distilled water and ammonia) and
+hydrogen gas is hermetically sealed within the
+Electrolux Unit. The charge distributes itself
+naturally in the unit, the liquid seeking the lowest
+levels and the hydrogen gas filling the remaining
+space. The charge is under sufficient pressure to
+condense ammonia vapour at ordinary room tem-
+peratures. The pressure is always equal through-
+out the unit but varies slightly as the room
+temperature changes.
+The operation of the Electrolux Unit comprises
+three simultaneous cycles: the ammonia cycle,
+the hydrogen cycle, and the aqua-ammonia cycle.
+The rate at which these cycles are performed
+governs the amount of refrigeration produced. As
+the rates accelerate, refrigeration increases, and
+conversely.
+With the application of heat to the lower por-
+tion of the BOILER, ammonia vapour is driven
+off together with a small quantity of water vapour.
+These gases pass through the VAPOUR
+COOLER to the WATER SEPARATOR. The
+baffles in the Water Separator are cooled by fins.
+The hot ammonia and water vapour comes into
+contact with these cooled baffles. This condenses
+the water vapour, which drops back into the
+BOILER.
+The dry ammonia gas then passes to the lower
+portion of the CONDENSER, where it is lique-
+fied by cooling. The liquid ammonia then flows
+into the LOW-TEMPERATURE RADIATOR.
+As the liquid ammonia flows down through the
+tubes of the LOW-TEMPERATURE RADIA-
+TOR, it absorbs heat, evaporates and produces
+refrigeration. This radiator also freezes water
+to produce ice cubes.
+If all the ammonia vapour is not condensed in
+the lower portion of the CONDENSER, the
+uncondensed gas will pass upwards to the upper
+part of the CONDENSER where, if the existing
+pressure is high enough, the ammonia vapour will
+be condensed. If the room temperature increases
+to such a degree that the pressure within the
+Electrolux Unit is insufficient to condense the
+ammonia vapour in the CONDENSER, some
+ammonia vapour passes into the PRESSURE
+EQUALISING VESSEL and pushes therefrom
+a quantffv of reserve hydrogen gas into the
+ABSORBER and RADIATOR systems, thereby
+increasing the pressure within the unit. The
+pressure is increased because hydrogen gas is
+insoluble in water and the ammonia vapour which
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+displaces the hydrogen gas occupies a greater
+volume than the same amount of ammonia when
+in the state of ammonia solution.
+Ammonia gas condensed in the upper portion
+of the CONDENSER passes into the HIGH-
+TEMPERATURE RADIATOR. The liquid
+ammonia passing into the HIGH-TEMPERA-
+TURE RADIATOR evaporates into a mixture
+of ammonia and hydrogen gas fed from the
+LOW-TEMPERATURE RADIATOR and as-
+sists in the cooling of the cabinet.
+When the room temperature becomes lower, the
+ammonia vapour in the PRESSURE EQUALIS-
+ING VESSEL condenses, allowing the reserve
+hydrogen to return to the EQUALISING
+VESSEL, and the pressure is reduced.
+Hydrogen gas enters the LOW-TEMPERA-
+TURE RADIATOR from the top, and as it
+flows it continually sweeps the surface of the
+liquid ammonia, removing the ammonia vapour
+and causing continued refrigeration.
+The cool, heavy mixture of the hydrogen gas
+and ammonia vapour leaves the RADIATOR
+SYSTEM and passes through the GAS HEAT
+EXCHANGER over the outside of the tubes
+containing hydrogen gas from the ABSORBER,
+thereby effecting a heat exchange which increases
+unit efficiency.
+The mixture of hydrogen gas and ammonia
+vapour enters the bottom of the ABSORBER. A
+flow of weak liquid solution coming from the
+BOILER enters the top of the absorber, and on
+flowing down through the ABSORBER comes
+into contact with the mixture of hydrogen gas
+and ammonia vapour passing upward. The weak
+liquid absorbs the ammonia vapour, forming a
+strong solution which flows downward into the
+ABSORBER VESSEL, while the hydrogen con-
+tinues upward to the LOW-TEMPERATURE
+RADIATOR, thus completing the hydrogen cycle.
+It will be seen that the hydrogen circulation is
+maintained by the difference in density between
+the hydrogen and the mixed gases on the two
+sides of the circuit.
+From the ABSORBER VESSEL the strong
+solution flows through the inner tubes of the
+LIQUID HEAT EXCHANGER to the PUMP
+COIL. In the LIQUID HEAT EXCHANGER
+the strong solution passes through the inner tubes
+to the exchanger in the opposite direction to that
+of the weak liquid contained in the outer tubes.
+An exchange of heat is therefore effected which
+materially assists in the efficiency of the unit. The
+thermo-syphon pump lifts the strong liquid to the
+top of the boiler, thus completing the ammonia
+cycle, and also the cycle of the aqua-ammonia.
+It should be observed that the hydrogen cycle
+is confined between the LOW-TEMPERATURE
+RADIATOR and the ABSORBER: the ammonia
+cycle is confined between the BOILER,
+CONDENSER, RADIATOR and ABSORBER,
+while the aqua-ammonia cycle takes place be-
+tween the BOILER and the ABSORBER. All
+three cycles meet in the ABSORBER.
+While passing through the LIQUID HEAT
+EXCHANGER a heat exchange is effected
+between the cool, strong solution from the
+ABSORBER VESSEL and the hot, weak solution
+from the ABSORBER.
+The heat which is liberated by the absorption
+of ammonia vapour by the weak liquid in the
+ABSORBER is radiated by the cooling fins of
+the ABSORBER.
+The feature of automatic pressure change
+affords very efficient operation of the unit under
+normal room temperature conditions (since the
+unit operates more efficiently at lower pressures)
+as it is not necessary to charge the unit initially
+with a high pressure to enable satisfactory opera-
+tion under high room temperature conditions.
+The above-given description applies directly to
+the 61A and 80A units (see Fig. 2). The 42A
+unit (see Fig. 3) in the L. 22 and L. 220 cabinets
+is of slightly different construction to the 61A and
+80A units, although the cycle of operation within
+all the units is the same. The main points where
+the construction differs are that the 42A unit has
+a different type of evaporator, viz., a vertical
+cylinder, with perforated discs inside, in a hori-
+zontal position, instead of the coil type of evapora-
+tor used in the 61A and 80A units. Also, the
+42A unit does not include the Pressure Equalising
+Vessel.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+THE CYCLE OF OPERATION OF THE ELECTROLUX
+AIR-COOLED UNITS — continued.
+
+
+Fig. 2.
+
+
+Fig. 3
+
+
+CABINET MODEL.
+UNIT TYPE.
+KEROSENE EQUIPMENT TYPE.
+L.22— Approx. 2(4 cub. ft - Fitted with 3
+shelves in food storage space.
+42A Unit has fin type condenser and a coil
+type absorber. Boiler on the left
+side when viewed from the front of
+the cabinet. Unit has removable
+aluminium-alloy cast radiator.
+(See Figure 11.)
+42F1 Lever type control 8-line burner,
+8-line lamp glass and 8-line wick. The
+fuel tank has no mirror device.
+L.220—Approx. 2*4 cub. ft. Fitted with 3
+shelves in food storage space.
+NOTE.—L.22 and L.220 not to be confused
+with the earlier type L.2 refrigerator
+which is of the same size but has a
+flat top and a cooling element cover-
+ing the entire back of the refrigerator.
+Boiler on right hand side when viewed
+from the front of the cabinet.
+42A Unit has fin type condenser and a coil
+type absorber. Boiler on the left side
+when viewed from the front of the
+cabinet. Unit has removable aluminium-
+alloy cast radiator.
+(See Figure 11.)
+422FI Roller type control with 8-line burner.
+8-line lamp glass and 8-line wick. The
+fuel tank is fitted with mirror device.
+L.38— Approx. 4 cub. ft. Fitted with 4
+shelves in the food storage space.
+6lA Unit has fin type condenser and a
+coil type absorber. Boiler on the
+left side when viewed from the front
+of the cabinet.
+Unit is fitted with pressure equalising
+vessel and has sheet metal radiator
+not removable.
+(See Figure 14.)
+61F2 Models manufactured in 1937 had lever-
+type controls and were fitted with 10-linc
+burner, 10-line lamp glass and 10-linc
+wick. The fuel tank had no mirror
+device. Later this was changed to 612F1.
+Fo r description, see below.
+L.380—Approx. 4 cub. ft. Fitted with 4
+shelves in food storage space.
+61A Unit has fin type condenser and a
+coil type absorber. Boiler on the
+left side when viewed from the front
+of the cabinet.
+Unit is fitted with pressure equalising
+vessel and has sheet metal radiator
+not removable.
+(See Figure 14.)
+612F1 Roller type control with 14-line burner.
+14-line lamp glass. 14-line wick. Fuel
+tank fitted with mirror device.
+NOTE.—10-line burner, 10-line lamp glass and
+10-line wick can be supplied for 612F1
+controls if required.
+LK.55—Approx. 5.5 cub. ft. Fitted with 5
+shelves in food storage space.
+80A Same type of unit as 61A only slightly
+larger.
+80F2 Models manufactured in 1937 had
+type controls and were fitted with 14-line
+burner. 14-line lamp glass and 14-line
+wick. The fuel tank had no mirror device.
+Later this was changed to 802F1. For
+description, see below.
+LK.550—Approx. 5.5 cub. ft. Fitted with 5
+shelves in food storage space.
+80A Same type of unit as 61A only slightly
+larger.
+802FI Roller type with 14-linc burner, 14-linc
+lamp glass and 14-line wick. The fuel tank
+is fitted with a mirror device.
+CABINET, UNIT AND KEROSENE EQUIPMENT DETAILS
+EXPLANATION OF PRINCIPAL DIFFERENCES BETWEEN MODELS
+L.22, L.38, LK.55 and L.220. L.380 and LK.550.
+The principal difference between these models concerns the cabinet exteriors as in the latter
+the doors have a panel effect in the centre running the full length of same. The cabinet legs are edged
+in black at the bottom for a depth of approximately U inches. The hinges of the new models are of
+an entirely different design, being concealed, and there is no visible strike for the door lock, as the
+latter is built into the door with the catch recessed into the left hand facing strip looked at from the
+front of the cabinet.
+All cabinets are fitted with number plates which —on Models L.22, L.38 and LK.55—are screwed
+to the bakelite frame of the door on the side nearest the hinges, and can easily be read by opening the
+door to its fullest extent. On the Models L.220, L.380 and LK.550 the cabinet number plate is attached
+to the underside of the upper black facing strip in the entrance to the cabinet. The unit number plate
+is fitted to the casing of the liquid temperature exchanger, i.e., the lowest part of the unit extending
+beneath the cabinet. It may be read from the front underneath the cabinet. It is essential when servic-
+ing a refrigerator, always to make a note of the particulars given on these number plates, and to quote
+them in connection with reports and orders for replacement parts.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+MODELS L.22 AND L.220
+SPECIFICATION.
+L. 22.
+INSIDE DIMENSIONS.
+Storage Capacity 2\ cub. ft.
+Shelf Area 4.8 sq. ft.
+OUTSIDE DIMENSIONS.
+Total Volume ------ ft.
+Height (with feet fitted) - - - 3 ft. 6? ins.
+Depth (exclusive of door furniture) 2 ft.
+Width - -- -.--..1 ft. 9i ins.
+Net Weight (approx.) - - - - 218 lbs.
+Inland Rail Weight (approx.) - 349 lbs.
+L. 220.
+INSIDE DIMENSIONS.
+Storage Capacity ------ cub. ft.
+Shelf Area ------- 4.8 sq. ft.
+OUTSIDE DIMENSIONS.
+Total Volume ------ 12icub. ft.
+Height (with feet fitted) - - - 3 ft. 6J ins.
+Depth (exclusive of door furniture) 2 ft.
+Width 1 ft. 91 ins.
+Net Weight (approx.) - - - - 205 lbs.
+Inland Rail Weight (approx.) - 339 lbs.
+L. 22 and L. 220.
+INTERNAL FINISH.
+Lining: Porcelain enamelled steel.
+Shelves: Galvanised steel, welded construction.
+Cooling Radiator: Aluminium alloy.
+ICE CAPACITY.
+2 Ice Drawers with metal cube separators each
+providing 9 cubes.
+EXTERNAL FINISH.
+White washable enamelled steel with chromium
+plated door furniture.
+On the L. 220 portions of the hinges and lock
+are bakelite.
+KEROSENE CONSUMPTION.
+Approximately 1 pint per day.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+MODELS L.38 AND L.380
+SPECIFICATION.
+L. 38.
+INSIDE DIMENSIONS.
+Storage Capacity (approx.) - - 4 cub. ft.
+Shelf Area ------- 7.5 sq. ft.
+OUTSIDE DIMENSIONS.
+Total Volume - -- -- --20 cub. ft.
+Height (with feet fitted) - - - 4 ft. 3f ins.
+Depth (exclusive of door furniture) 2 ft. If ins.
+Width - - - - - - - - - 2 ft. 1 in.
+Net Weight (approx.) - - - - 338 lbs.
+Inland Rail Weight (approx.) - 495 lbs.
+L. 380.
+INSIDE DIMENSIONS.
+Storage Capacity (approx.) - - 4 cub. ft.
+Shelf Area - - - - - - - 7.5 sq. ft.
+OUTSIDE DIMENSIONS.
+Total Volume ------- 20 cub. ft.
+Height (with feet fitted) - - - 4 ft. 3| ins.
+Depth (exclusive of door furniture) 2 ft. 1| ins.
+Width - - - - - - - - - 2 ft. 1 in.
+Net Weight (approx.) - - - - 307 lbs.
+Inland Rail Weight (approx.) - 462 lbs.
+L. 38 and L. 380.
+INTERNAL FINISH.
+Lining: Porcelain enamelled steel.
+Shelves: Galvanised steel shelves (one adjust-
+able and one sliding).
+Cooling Radiator: Non-removable sheet-metal
+radiator, with porcelain enamelled and
+aluminium covers.
+ICE CAPACITY.
+3 Ice Drawers (one with rubber and two with
+metal cube separators), each providing 16
+cubes.
+EXTERNAL FINISH.
+White washable enamelled steel with chromium
+plated door furniture.
+On the L. 380 portions of the hinges and lock
+are bakelite.
+KEROSENE CONSUMPTION.
+Approximately 1.4 pints per day.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+MODELS LK.55 AND LK.550
+SPECIFICATION.
+LK.55.
+INSIDE DIMENSIONS.
+Storage Capacity (approx.) - - cub. ft.
+Shelf Area - -- -- -- 9 sq. ft.
+OUTSIDE DIMENSIONS.
+Total Volume ------ cub. ft.
+Height (with feet fitted) - - - 4 ft. 9 ins.
+Depth (exclusive of door furniture) 2 ft. 4i ins.
+Width - -- -- -- -- 2 ft. 3f ins.
+Net Weight ------- 404 lbs.
+Inland Rail Weight (approx.) - 588 lbs.
+LK.550.
+INSIDE DIMENSIONS.
+Storage Capacity (approx.) - - cub. ft.
+Shelf Area - - - - - - - 9 sq. ft.
+OUTSIDE DIMENSIONS.
+Total Volume -----25 i cüb. ft.
+Height (with feet fitted) - - 4 ft. 9 ins.
+Depth (exclusive of door furniture) 2 ft. ins.
+Width 2 ft. 3* ins.
+Net Weight ------ 368 lbs.
+Inland Rail Weight (approx.) - 553 lbs.
+LK.55 and LK.550.
+INTERNAL FINISH.
+Lining: Porcelain enamelled steel.
+Shelves: 5 galvanised steel shelves (two rever-
+sible, sliding).
+Cooling Radiator: Non-removable sheet-metal
+radiator, with porcelain enamelled and
+aluminium covers.
+ICE CAPACITY.
+4 Ice Drawers, three of one size (two having
+metal separators and one having rubber
+separator).
+EXTERNAL FINISH.
+White washable enamelled steel with chromium
+plated door furniture.
+On the LK.550 portions of the hinges and lock
+are bakelite.
+KEROSENE CONSUMPTION.
+Approximately 1.8 pints per day.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+FIGURE 4.
+1. Flue Cover.
+2. Flue Pipe.
+3. Baffle Support Wire.
+4. Baffle.
+5. Boiler Tube.
+6. Lamp Glass.
+9. Burner.
+10. Float Indicator.
+11. Filling Hole
+12. Handle of Fuel Tank.
+13. Lever for Burner.
+14. Wick-Raising Knob.
+16. Flue Brush.
+17. Fuel Tank.
+18. Wick-raising Spindle.
+19. Tank Holder.
+20. Shield Plate.
+21. Rubber Plug.
+22. Cork Plug.
+23. Flue Support Bracket.
+24. Cabinet Top.
+
+
+FIGURE 5.
+1. Flue Cap.
+2. Flue Pipe.
+3. Baffle Support Wire.
+4. Baffle.
+5. Boiler Tube.
+6. Lamp Glass.
+9. Burner.
+10. Float Indicator.
+11. Filling Cap.
+12. Handle of Fuel Tank.
+13. Lever for Burner.
+14. Wick-Raising Knob.
+16. Flue Brush.
+17. Fuel Tank.
+18. Wick-Raising Spindle.
+19. Tank Holder.
+20. Shield Plate.
+21. Rubber Plug.
+22. Cork Plug.
+23. Flue Support Bracket.
+24. Cabinet Top.
+25. Centralising Ring.
+
+
+FIGURE 6.
+1. Flue Cap.
+2. Flue Pipe.
+3. Baffle Support Wire.
+4. Baffle.
+5. Boiler Tube.
+6. Centralising Ring.
+7. Lamp Glass.
+8. Burner.
+9. Rollers.
+10. Fuel Tank.
+11. Rollers.
+12. Bent-in Edges of Tank Holder.
+13. Handle of Fuel Tank.
+14. Wick-Raising Knob.
+15. Mirror.
+16. Filler Cap.
+17. Float Indicator.
+18. Tank Holder Bracket.
+19. Tank Holder.
+20. Guide Bar.
+21. Rubber Plug.
+22. Cork Plug.
+24. Flue Support Bracket.
+25. Cabinet Top.
+26. Globe Plate.
+30. Flue Brush.
+
+
+FIGURE 7.
+1. Flue Cap.
+2. Flue Pipe.
+3. Baffle Support Wire.
+4. Baffle.
+5. Boiler Tube.
+6. End of Boiler Tube.
+7. Lamp Glass.
+8. Burner.
+9. Rollers.
+10. Fuel Tank.
+11. Rollers.
+12. Bent-in Edges of Tank Holder.
+13. Handle of Fuel Tank.
+14. Wick-Raising Knob.
+15. Mirror.
+16. Filling Cap.
+17. Float Indicator.
+18. Tank Holder Bracket.
+19. Tank Holder.
+20. Guide Bar.
+21. Rubber Plug.
+22. Cork Plug.
+23. Flue Support Bracket.
+24. Cabinet Top.
+25. Flue Brush.
+
+
+FIGURE 8.
+1. Flue Cap.
+2. Flue Pipe.
+3. Asbestos Washer.
+4. Baffle Support
+5. Thin Baffle.
+6. Boiler Tube.
+7. Lamp Glass.
+8. Burner.
+9. Rollers.
+10. Distance Ring.
+11. Fuel Tank.
+12. Rollers.
+13. Bent-in Edges of Tank Holder.
+14. Handle of Fuel Tank.
+15. Wick-Raising Knob.
+16. Mirror.
+17. Filling Cap.
+18. Float Indicator.
+19. Tank Holder Bracket.
+20. Tank Holder.
+21. Guide Bar.
+22. Rubber Plug.
+23. Cork Plug.
+24. Flue Support Bracket.
+25. Cabinet Top.
+26. Flue Brush.
+
+
+TYPE.
+FITTED TO
+MODEL.
+GENERAL INFORMATION.
+A.
+Lever type without
+centralising ring.
+L.22
+The fuel tank rests on the bottom of the tank holder. The lamp glass fits up around the boiler tube. 1 his
+eguipment has 8-line burner, 8-line wick and 8-linc lamp glass. The baffle is located 4" from the bottom
+of the boiler and the fuel tank has no mirror device. (See Figure 4.)
+B.
+Lever type with cen-
+tralising ring.
+L.22
+I'hc fuel tank rests oil the bottom of the tank holder. The lamp glass seats in the centrad: ing ring which
+is attached to the bottom of the boiler tube. This equipment is fitted with ail 8-line burner. 8-line wick
+and 8-line lamp glass. The baffle is located 4" from the bottom of the boiler. The fuel tank has no
+mirror device. (See Figure 5.)
+NOTE. In some cases with Tvpcs A and B it will be found that an extension piece has been attached to the baffle support wire
+allowing the baffle to locate itself 2" lower down in the boiler. This extension piece should be removed as it has been found that
+more satisfactory results can be obtained from the refrigerator with the baffle located 4" from the bottom of the boiler tube.
+C.
+Lever type with cen-
+tralising ring, asbestos
+washer and with thin
+flue baffle introduced
+in place of the stan-
+dard type baffle.
+L.22
+The fuel tank rests on the bottom of the tank holder and the lamp glass seats in the centralising ring
+which is attached to the bottom of the boiler tube. This equipment is fitted with 8-line burner. 8-line
+wick and 8-line lamp glass. The fuel tank has no mirror device. These kerosene controls were originally
+the same as Type B, hut the flue baffle has been replaced by a thinner flue baffle and located 4" from
+the bottom of the boiler. In addition to this an asbestos washer has heen fitted at the point where the
+flue pipe joins the boiler lube.
+D.
+Roller type lamp fitted
+with centralising ring.
+L.22
+The fuel tank is suspended from the tank holder by means of four rollers. The lamp glass seats in the
+centralising ring which is attached to the bottom of the boiler tube. This equipment is fitted with 8-line
+burner, 8-line wick and 8-line lamp glass. (See Figure 6.)
+E.
+Roller type lamp with-
+out centralising ring,
+with thin flue baffle
+and asbestos washer.
+Distance ring on
+burner.
+L.22
+&
+L.220
+On the Model I..22 these kerosene controls were originally the same as Type D, but have been converted
+to Type E in accordance with separate instructions. They are therefore fitted with distance ring. Det. No.
+66167, asbestos washer, Det. No. 66168 and thin flue baffle. Det. No. 62239/8.
+For both the Models L.22 and I..220 the fuel tank is suspended from the tank holder by means of four
+rollers. The lamp glass fits up around the boiler. This equipment is fitted with 8-line burner, 8-line
+wick and 8-line lamp glass. The fuel tank has a mirror device. (See Figure 8.)
+A.
+Lever type without
+centralising ring.
+L.38
+The fuel tank, rests on the bottom of the tank holder and the lamp glass fits up around the boiler tube.
+This equipment is fitted with 10-line burner, 10-line wick and 10-line lamp glass. The baffle is located
+2" from the bottom of the boiler tube. The fuel tank has no mirror device. (See Figure 4.)
+B.
+Lever type with cen-
+tralising ring.
+L.38
+The fuel tank rests on the bottom of the tank holder and the lamp glass seats in the centralising ring
+which is attached to the bottom of the boiler tube. This equipment is fitted with 10-line burner. 10-line
+wick and 10-line lamp glass. The baffle is located 2" from the bottom of the boiler tube. The fuel tank
+has no mirror device. (See Figure 5.)
+C.
+Roller type with cen-
+tralising ring
+L.38
+6
+L.380
+The fuel tank is suspended from the tank holder by means of four rollers. The lamp glass seats in the
+centralising ring which is attached to the bottom of the boiler tube. This control is fitted with 14-line
+burner. 14-line wick and 14-line lamp glass. The fuel tank has a mirror device. (See Figure 6.)
+NOTE.—In some cases with the Type A and B—L.38—it will be found that the 10-line burner. 10-line wick and 10-line lamp glass
+have been replaced with 14-line burner. 14-line wick and 14-line lamp glass and that with the Type C —L.38 and L.380—the 14-linc
+burner, 14-line wick and 14-line lamp glass have been replaced with 10-line burner. 10-line wick and 10-line lamp glass.
+A.
+Lever type without
+centralising ring.
+LK.55
+The fuel tank rests on the bottom of the tank holder and the lamp glass fits up around the boiler tube.
+This control is fitted with 14-line burner, 14-line wick and 14-line lamp glass. The baffle is located
+4" from the bottom of the boiler tube and the fuel tank has; no mirror device. (See Figure 4.)
+B.
+Lever type with cep
+tralising ring.
+LK.55
+The fuel tank rests on the bottom of the tank holder. The lamp glass seats in the centralising ring which
+is attached to the bottom of the boiler tube. The control is fitted with 14-line burner, 14-line wick
+and 14-line lamp glass. The baffle is located 4" from the bottom of the boiler, and the fuel tank
+has no mirror device. (See Figure 5.)
+C.
+Roller type with cen
+tralising ring.
+LK.55
+&
+LK.550
+The fuel tank is suspended from the tank holder by means of four rollers, and the lamp glass .scats in the
+centralising ring which is attached to the bottom of the boiler tube. This control is fitted with 14-line burner.
+14-line wick and 14-line lamp glass. The baffle is located 4" from the bottom of the boiler. The fuel
+tank is fitted with a mirror device. (See Figure 6.)
+Burners supplied with roller type kerosene controls, that is the burner without the skirt, cannot be used for lever type controls, but
+burners supplied on lever type controls can be used on roller type controls by removing the spring which encircles the lower part
+of the burner and fits up under the skirt.
+NOTE.—FOR ALL CORRESPONDENCE RELATING TO KEROSENE CONTROLS, STATE TYPE OF CONTROL AND THE
+MODEL—FOR INSTANCE L.22 KEROSENE CONTROL TYPE D, L.38 KEROSENE CONTROL TYPE A, OR LK.550
+KEROSENE CONTROL TYPE C.
+DESCRIPTION OF KEROSENE LAMPS USED IN
+ELECTROLUX KEROSENE-OPERATED REFRIGERATORS
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+DESCRIPTION OF DIFFERENT TYPES OF
+KEROSENE EQUIPMENT
+The kerosene equipment consists of the tank,
+burner, wick and lamp glass.
+The burner is mainly an ordinary wick burner
+and should be cared for in the usual way. To
+simplify operation an extension is provided
+coupled to the wick screw and furnished with a
+knob (14) at the outer end so that the wick may
+be easily adjusted from the front of the cabinet.
+While fundamentally all the kerosene equip-
+ments are the same, slight differences exist accord-
+ing to the model and time of manufacture. A
+reference to page 18 and also the diagrams on
+pages 13, 14, 15, 16 and 17 will quickly enable
+the serviceman to recognise the type of equip-
+ment he may be called upon to deal with.
+Briefly, the principal difference between the
+tanks originally fitted and those now being fitted
+is that with the former the tank rests on the bottom
+of the tank holder, whilst with the latter the tank
+is suspended on rollers, two on each side being
+fitted to brackets attached transversely across the
+top of the tank and which run on suitable runways
+located on the tank holder. In addition to this
+the roller type tanks have a special mirror
+attachment in which, when it is withdrawn from
+the tank, the flame can be observed.
+It is important to see that the correct wick
+and lamp glass are fitted in their respective
+burners, otherwise satisfactory results cannot be
+obtained, with consequent dissatisfaction to the
+user.
+It can be mentioned here that lamp wicks for
+the different models are marked by one, two or
+three coloured threads woven into the wick as
+follows: —
+Models L. 22 and L.22o—for 8-line burner—
+has one thread.
+Models L. 38 and L.3Bo—for 14-line burner
+has three threads.
+Models LK.55 and LK.sso—for 14-line bur-
+ner—has three threads.
+Some Model L. 38 kerosene-operated refrigera-
+tors, however, have been fitted with a 10-line
+8-line
+10-line
+burner, lamp glass and wick, the latter having two
+threads woven into it, and this fact should be
+observed when replacements are being made. It
+by chance the wicks are not marked with the
+coloured threads as stated above an easy method
+of identifying them will be to check the measure-
+ments across the bottom of the wick, as illustrated
+in the diagrams at the foot of this page.
+With regard to lamp glasses, the same pro-
+cedure should be observed, for example, where a
+10-line burner is fitted, then also a 10-line lamp
+glass will be required for replacement purposes.
+The lamp glasses have no particular distinguishing
+mark, but should be ordered according to the type
+of burner fitted, for example, Models L. 22 and
+L. 220 8-line lamp glass, Models L. 38 10-line and
+14-line lamp glass, Models LK.55, L. 380 and
+LK.550 14-line lamp glass.
+An easy method of identifying the lamp glasses
+is by measuring the diameter of the bottom of the
+glass—that is, the part which rests in the per-
+forated bowl of the burner. The measurements of
+the lamp glasses are as follows:
+8-line lamp glass, diameter 1| in.
+10-line lamp glass, diameter in.
+14-line lamp glass, diameter 2 in.
+The flue cap covers the top of the flue pipe,
+whilst the flue baffle, which is suspended from it
+by means of a support wire in the boiler tube just
+above the flame, is slightly twisted in shape with
+the object of ensuring a better diffusion of heat
+generated. A further point to be observed is the
+correct location of the flue baffle, the lower edge
+of which should be located above the lower edge
+of the boiler tube as follows:
+Model L. 22 Model LBS Model LK.55
+4 in. 2 in. 4 in.
+Model L. 220 Model L. 380 Model LK.550
+4 in. 2 in. 4 in.
+Fig. 9 illustrates a flue baffle hanging in posi-
+tion in the boiler tube, “H” thereon representing
+the distances mentioned above.
+14-line
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+INSTRUCTIONS FOR INSTALLING AND STARTIN-UP OF
+MODELS L. 22, L. 220, L.38, L.380, LK.55 AND LK.550
+INSTALLATION OF THE CABINET.
+It is very important that the refrigerator should
+be located in the most suitable and accessible place
+indoors. If possible, avoid installing the refrigera-
+tor in a kitchen or under a tin-roofed section of
+the house on which the sun beats down for long
+periods as such places are unsuitable. Too much
+importance cannot be attached to this as it is in
+the best interests of every one concerned that the
+refrigerator should be installed so that it will
+operate under the most favourable conditions ob-
+tainable. Also avoid locations subject to heat
+from stoves, radiators, direct rays from the sun
+or to excessive draughts.
+The refrigerator must be supported on a firm
+foundation—the rubber buffers attached to the
+feet of the cabinet for protection in transit having
+first been removed. It is also very essential that
+the cabinet be level and this can be checked with
+a spirit level used in the following manner: —
+Before fitting the cabinet top, place a spirit level
+on the top of the cabinet frame which runs from
+the front to the rear of the cabinet on either side.
+After levelling both sides, the level should be
+placed along the cabinet frame in a position
+directly above the name plate and a level taken
+here. If necessary the legs of the refrigerator can
+be packed up to obtain the desired level.
+It is essential that a space of at least 6 inches
+be allowed at the back of the refrigerator, 12
+inches on either side and at least 36 inches above
+all models, is left free so that the air circulation
+ever the fins at the back of the cabinet is not
+obstructed. Also, the space between the feet of
+the cabinet should be kept quite clear. Generally
+speaking, the more free air space surrounding the
+cabinet the better.
+The flue pipe (2) should be in position as
+shown on the diagram (Fig. 7), i.e., it should be
+properly centred on top of the boiler tube (5)
+of the cooling unit, and pressed against this by
+means of the bracket (23). If the flue pipe is
+not securely held in this manner, the bracket (23)
+should be bent slightly downwards. For the
+correct functioning of the refrigerator it is im-
+portant that no air leak is possible between the
+lower edge of the flue pipe (2) and where it
+seats around the upper end of the central tube
+of the boiler. The baffle (4) with its supporting
+wire (3) and the flue cap (1) should be placed
+in position as shown on the diagram on page 16.
+STARTING THE REFRIGERATOR.
+Remove the cap of the filling hole (16) and
+fill the tank with best quality lighting kerosene.
+The tank should be filled so that the float indica-
+tor (17) is level with the upper red line on the
+scale.
+When filling the lamp with kerosene be
+particularly careful not to use any bottle, jug or
+container of any sort which has been used for
+petrol, oil or water. Before lighting the lamp
+for the first time, allow the wick to become satu-
+rated—we recommend at least half an hour for
+this purpose. Then light it and fit the lamp glass.
+Turn the flame down low to allow the glass to
+gradually become hot.
+To avoid any deformation in transit of the
+bent-in edges (12) of the tank holder, a slotted
+wooden plate is inserted between the edges. Re-
+move this plate and place the tank —with the
+lamp glass fitted—in the tank-holder.
+CHECKING THE ADJUSTMENT OF THE
+EQUIPMENT.
+Note: All figures quoted refer to diagram of
+lamp, Fig. 7, with the exception of (6), which
+in Fig. 6 refers to Models L. 22, L. 38, LK.55,
+L. 380 and LK.550, and in Fig. 7 refers to Model
+L. 220 only. No difficulty should be experienced in
+deciding which type of lamp is fitted to an Elec-
+trolux kerosene-operated refrigerator.
+On page 17 is shown Fig. 8, illustrating roller
+type equipment for L. 220 with the following
+additions: —
+(3) Asbestos Washer, Detail No. 66168.
+(10) Distance Ring, Detail No. 66167.
+(5) Flue Baffle, Detail No. 62239/8.
+The asbestos washer, Detail No. 66168, is
+fitted over the top of the boiler tube and the flue
+pipe when fitted rests on the asbestos washer.
+This ensures that there is no possibility of air
+entering the flue pipe where it joins the boiler tube.
+The distance ring, Detail No. 66167, which is
+intended for use on Models L. 22 and L. 220
+roller type equipment only is fitted over the
+stem of the burner that is, the part which
+fits into the fuel tank guide tube. Its pur-
+pose is to compensate for the removal of the
+centralising ring. If, when the centralising ring
+is removed—that is, when converting L. 22 kero-
+sene control type D to L. 22 kerosene control type
+E—the distance ring should not be fitted, it will
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+be found that the lamp glass will not fit up around
+the boiler tube when the fuel tank is placed in
+position in the tank holder.
+It has been found that under trying atmospheric
+conditions more satisfactory results can be ob-
+tained from the Models L. 22 and L. 220 if the thin
+flue baffle, Detail No. 62239/8 is fitted. This
+baffle should be located 4 in. from the bottom of
+the boiler tube.
+When inserting the tank into the tank holder
+underneath the cabinet, let the first pair of rollers
+(9) run on the bent-in edges (12) of the holder
+and slide the tank carefully to the rear of the
+cabinet as far as it will go, taking care that the
+second pair of rollers (11) run on the same edges.
+Because of the relevant positions of the two pairs
+of rollers, the tank is being inserted in a slanting
+position so that the lamp glass will rise towards
+the lower end of the boiler tube in the Model
+L. 220, Fig. 8, and towards the centralising ring
+(6) at the lower end of the boiler tube in Fig. 6,
+for the Models L. 380 and LK.550. If the lamp
+glass does not locate itself correctly move the
+lamp slightly to one side or the other, making
+use of the slight play which is available in the
+guide. These instructions refer to roller type
+equipment.
+With the lever type equipment the burner must
+be pressed down by means of the lever (13),
+Fig. 5, fitted to the fuel tank, before the lamp is
+placed in position or withdrawn from the tank
+holder. Whilst holding down the burner by means
+of the lever the fuel tank is fitted into the tank
+holder, and by gently sliding the fuel tank along
+on the bottom of the tank holder, a position will
+be arrived at where the lamp glass will fit up
+around the boiler tube when the lever is eased
+upwards or, in cases where a centralising ring is
+fitted, the lamp glass will seat correctly in the
+centralising ring.
+It is very important that the burner (8) is cor-
+rectly located. Particular care is taken at the
+factory in the assembly of the kerosene equipment
+before the refrigerator is packed, but as there
+always exists a slight possibility of a knock or a
+bump that may be received in transit or when
+unpacking, a very careful inspection and adjust-
+ment, if necessary, should be effected before start-
+ing the refrigerator. When no centralising ring
+is fitted it is particularly important to see that
+the metal ring on top of the lamp glass is com-
+pletely encircling the end of the boiler tube (6)
+which protrudes slightly below the bottom of the
+boiler insulation. If care is not taken regarding
+the foregoing it can happen that the metal rim
+will ride on the lower edge of the boiler tube (6),
+and by doing so prevent the correct heat input
+being obtained with a consequent loss of efficiency
+in the cabinet.
+If the lamp glass does not locate itself correctly
+as mentioned above, readjust the position of the
+guide bar (20) by loosening the screws securing
+it to the side of the tank holder and moving the
+guide bar so as to obtain good centralisation of
+the burner in the ring, after which the screws
+should be tightened again. The screw holes in
+the tank holder being oval, it is quite simple to
+make this adjustment. In addition to observing
+the location of the lamp glass from the front of
+the cabinet—that is, through the window in the
+front plate of the tank holder—it can also be
+observed from the back of the cabinet through a
+small hole approximately | inch in diameter
+located in the top left hand corner of the tank
+holder, looking at same from the back of the
+cabinet. Another advantage of this hole is that
+in the event of it being necessary to remove the
+centralising ring without removing the tank holder,
+a small screw-driver inserted through the hole at
+the correct angle will come in contact with the
+screw securing the centralising ring.
+It is also important that the wick is even all
+round and will remain even when turned upwards.
+If this is not so the flame will start to smoke before
+the maximum flame is reached, and this may result
+in too low a heat input being obtained from the
+burner. It is therefore of the utmost importance
+to observe that the wick is correctly trimmed and
+located. The flame has a tendency to rise Im-
+mediately after lighting, and consequently it should
+be inspected and readjusted once or twice during
+the first hour of burning. This is particularly
+necessary when operating at high room tempera-
+tures.
+It may not be necessary with the Model L. 380,
+which has the same size burner as the Model
+LK.550 or those Models L. 38 which have been
+fitted with 14-line burners, to keep the flame as
+high as possible when high atmospheric tempera-
+tures prevail. If this is done it may result in too
+high a heat input, which will have the same effect
+as too low. a heat input, with the result that in-
+sufficient refrigeration will be obtained in the
+cabinet.
+Contrary to the Models L. 38 and L. 380 re-
+frigerators when atmospheric temperatures are
+high the Models L. 22 and L. 220 must have the
+maximum heat input that can be obtained from
+the 8-line burner.
+INSTRUCTIONS FOR INSTALLING AND STARTING-UP OF
+MODELS L. 22, L. 220, L. 38, L. 380, LK.55, and LK.sso— continued.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+The flame can easily be inspected by means of
+the mirror (15), which can be pulled forward and
+set so as to enable a person standing upright
+before the cabinet to observe the flame. The float
+indicator (17) can also be seen in the mirror.
+After starting up the refrigerator the ice
+drawers should be filled with water to within
+I inch of the top and placed in their usual position
+in the radiator. With the door closed the re-
+frigerator should be allowed to operate for twenty-
+four hours. The door should then be opened, the
+ice drawers emptied and the contents thrown
+away. The interior of the cabinet should then
+be thoroughly wiped out with a clean cloth, the
+ice drawers filled with fresh water and again
+placed in position in the cabinet. It is advisable
+to wait until ice has formed in the drawers before
+placing food in the cabinet.
+SELECTION OF BURNER SIZE.
+Models LK.55, L. 380 and LK.550 have been
+fitted with 14-line burners, and in most cases
+Models L. 38.
+However, in the case of the Models L. 38 and
+L. 380, it is sometimes difficult with this burner
+under temperate conditions to lower the flame
+sufficiently to eliminate risk of freezing tempera-
+tures in the cabinet and at the same time avoid
+odour from the flue gases. In view of this, it may
+be of advantage in certain parts of the country
+for the user of these models to have one of each
+type of burner, for example, a 10-line and 14-line,
+using the former during the cooler months and
+the latter during the summer season. Interchange
+of burners is simple and can be effected by the
+user on referring to page 12 of the instruction
+book which is supplied with each cabinet, under
+the heading “Replacing the Wick.”
+INSTRUCTIONS FOR INSTALLING AND STARTING-UP OF
+MODELS L. 22, L. 220, L. 38, L. 380, LK.55, and LK.550 — continued.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+CONTROLLING AND OPERATING THE EQUIPMENT
+REGULATION OF TEMPERATURE.
+Generally speaking, the higher the burner flame
+has been set the colder the cabinet interior will
+become, and the height of the flame should be
+adjusted in accordance with the atmospheric tem-
+perature. On hot days a high flame will be re-
+quired, and vice versa. In this respect, please
+note what has already been said on page 21,
+col. 2, 2nd last para, regarding the disadvantage
+of having too high a flame with the 14-line burner
+fitted to the Models LOS and L. 380. NEVER
+SET THE FLAME SO HIGH THAT IT
+SMOKES.
+IT IS ESSENTIAL THAT THE VEN-
+TILATION OPENING ON TOP OF THE
+CABINET SHOULD NOT BE COVERED IN
+ANY WAY TO HINDER FREE AIR CIRCU-
+LATION. If this should be covered, it is quite
+possible that the operation of the cabinet will be
+considerably influenced.
+MAINTENANCE OF THE EQUIPMENT.
+After the flame has been correctly adjusted, it
+needs very little attention, and one filling of the
+tank will be sufficient for about three or four
+days. It is important that the tank is refilled
+immediately the level of the kerosene drops so
+low that the float indicator (17) is down to the
+lower red line on the scale.
+THE REASON FOR THIS IS that if the
+kerosene level is allowed to drop lower than that,
+all the kerosene in the tank may be used, in which
+case the wick will char, and as a consequence
+will not permit the full amount of kerosene to
+flow up the wick capillaries to the burner head.
+This will mean that sufficient heat cannot be
+developed by the burner, and consequently the
+unit will not operate as satisfactorily as it should.
+The indicator (17) provided on the tank shows
+when refilling is necessary, but the tank need not
+be removed from the tank holder to do this. Every
+second time the tank needs refilling, it should be
+removed. Before doing so, however, the flame
+SHOULD BE LOWERED. Then lift the handle
+(13) upwards and the fore portion of the fuel
+tank with the burner will be lowered until the
+glass chimney is free of the boiler tube. The tank
+can then be withdrawn. In cases where the kero-
+sene equipment is the slide type —that is, where
+the fuel tank rests on the bottom of the tank
+holder —it is necessary to press down the burner
+by means of the lever before removing the fuel
+tank from the tank holder.
+Advantage should be taken of the fact that the
+lamp has been removed to trim the wick, clean
+the burner, the flue pipe, the boiler tube,
+and also the baffle supporting wire. Remove
+the baffle and baffle wire and clean the flue pipe
+and boiler tube with the flue brush (25) supplied.
+The brush must be vigorously pushed up and
+down to clean these parts. The withdrawing
+and replacing of the baffle with its supporting
+wire and cap will be found much easier if the
+supporting wire is rotated slightly as it is either
+withdrawn from or replaced in the flue pipe and
+the boiler tube.
+REPLACING THE WICK.
+It is very important that the correct wick is
+used for each burner. For example, a 10-line wick
+should never be used in a 14-line burner or
+an 8-line wick used in either a 10-line or 14-line
+burner. Also a 14-line wick should never be
+cut down for use in a 10-line or an 8-line burner,
+or a 10-line wick cut down for use in an 8-line
+burner. To assist you when ordering spare wicks
+it can be mentioned here that these are marked
+by one, two or three coloured threads woven
+into the wick.
+Model L. 22 8-line 1 0 , a
+Model L. 220 8-line } ° ne thread '
+Model L. 38 10-line Two threads.
+Model L. 38 14-line
+Model L. 380 14-line rp, , ,
+Model L.K.55 14-line Three threads '
+Model LK.550 14-line
+Model L. 380 is fitted with a 14-line burner as
+standard equipment, but a 10-line burner can be
+used for this model in districts where very high
+atmospheric temperatures are not experienced.
+To change the wick the following method
+should be employed. After removing the tank
+from the tank holder in the cabinet the extension
+is uncoupled from the wick screw by pulling
+gently on the knob (14). The burner is lifted
+out of the tank, the old wick removed and
+the new wick inserted so that the whole
+width of the wick enters the crescent shaped
+opening at the bottom of the burner. The wick
+should be inserted carefully until it engages with
+the wick screw, whereafter the wick is screwed
+up until it projects about 1 inch above the upper
+edge of the burner. The wick should then be
+raised and lowered several times to ascertain that
+it is operating evenly. Should, when doing so,
+one side of the wick remain lower than the other
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+Cabinet
+Model
+Number of
+Ice Drawers
+Ice-Making
+Times
+L.22 and
+L.220
+2 drawers
+4-5 hours
+L.38 and
+L.380
+3 drawers
+(one rubber-lin^d)
+3-4 hours
+LK.55 and
+LK.550
+4 drawers
+(one rubber-lined)
+3-4 hours
+side, pull the lower side upwards and again raise
+and lower the wick until it is operating evenly.
+It may sometimes be necessary to repeat this pro-
+cedure before the wick moves correctly in the
+burner. In some cases it is advisable to pull the
+wick by hand up and down through the burner
+without using the wick screw in order to remove
+buckles and creases.
+After adjusting, pour a few drops of kero-
+sene on top of the wick and screw it up
+1/16th inch above the burner and light it. The
+burner is still left outside the tank. Let the flame
+burn until it goes out by itself. Then remove the
+carbon crust from the wick with a matchstick
+and the wick should be absolutely even around
+the top of the burner.
+The burner can then be inserted in the tank,
+the coupling re-engaged with the wick screw, and
+when the new wick is saturated the lamp will
+again be ready for use.
+We recommend the use of a FIRST GRADE
+LIGHTING KEROSENE only for the successful
+operation of the Electrolux Refrigerator, as its
+high calorific value, high standard of purity and
+extremely low sulphur content make it the only
+suitable fuel for kerosene refrigeration.
+Also we stress the importance of the following;
+(1) The container for storage of kerosene
+should never be stored in the open as dust and
+moisture-laden air are the contaminating agents
+responsible for the majority of burning troubles.
+Make sure that the funnel or tin used for the
+transferring of kerosene to the tank is thoroughly
+clean. On no account rinse under the water tap
+prior to use.
+(2) The wick consists of fibres bound together
+in such a way as to produce fine tubes or capil-
+laries. If these capillaries become blocked
+through moisture or dirt being drawn up from
+the kerosene tank, insufficient kerosene will be
+supplied, causing a falling flame with a heavy
+wick char. This can be remedied by removing
+the wick, boiling same in water to which a little
+washing soda has been added and then rinsing
+in boiling water, after which, dry the wick
+thoroughly in an oven and use immediately. At
+the end of the season it is essential that the wick
+be dried and thoroughly cleansed as outlined above
+before storing for the winter, in the event of the
+cabinet not being used during that season.
+(3) See that the wick guide is thoroughly
+cleansed before replacing the wick. Also that the
+tank is thoroughly washed out with clean kero-
+sene, as, if this is not done, it will collect moisture
+from the air and dust from the atmosphere, which
+will eventually choke the capillaries. Note:—
+To clean the fuel tank remove the burner com-
+plete with the wick and lamp glass. The kero-
+sene in the fuel tank should be removed by empty-
+ing it out through the burner guide tube. This
+can be done by holding the fuel tank at either
+end, first raising one end then the other, mean-
+while holding the burner guide tube over a con-
+tainer. The fuel tank should also be revolved a
+few times to make certain that no kerosene is
+lodged between the baffles. If the kerosene re-
+moved from the fuel tank is very dirty or any
+trace of water is present, it is advisable to pour
+some clean kerosene into the fuel tank and then
+proceed with the emptying again. If necessary,
+this operation should be repeated.
+(4) The level of kerosene in the tank should
+be watched very carefully and not allowed to fall
+too low, as this would mean that insufficient kero-
+sene will be drawn up the wick capillaries,
+causing “starving.” There is also the possibility
+of the wick becoming dry-burnt, which would
+affect the flow of kerosene to the flame. Wicks
+which have been “dry-burnt” should be replaced
+with new ones.
+ICE MAKING TIMES FOR CABINETS.
+The times required for making ice cubes in the
+ice drawers of the cabinet as stated in the follow-
+ing table are for cabinets working under average
+conditions of food load and door service and
+working in an air temperature of approximately
+90° F. It is necessary for the flame to be set as
+high as possible without smoking. If the tempera-
+ture is lower than 90° F., and where the food
+load is less, then the times will be correspond-
+ingly less. If the air temperature is higher, or the
+food load is greater, the times will be longer. The
+temperature of the water placed in the ice drawers
+will also affect the ice making times. The tem-
+perature of water allowed in the figures given
+is approximately 60° F. The ice drawers fitted
+with rubber linings will take slightly longer to
+make ice.
+CONTROLLING AND OPERATING THE EQUIPMENT — continued.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+As the aforementioned facts will influence ice
+making times, those given on the previous page
+will vary. Note:—A point to be observed in
+connection with the double ice drawer in the
+Models LK.55 and LK.550 is that the sides of
+the drawer should be gently pressed inwards if
+these have become distorted after freezing of
+the contents. This is to compensate for a slight
+increase in the width of the drawer due to ex-
+pansion of the contents during the freezing pro-
+cess. If the ice drawers are allowed to spread
+outwards, it will be found that the sides of th'e
+ice drawers will be damaged by the small lugs on
+which the special ice drawer release operates.
+To accelerate ice making the flame should be
+temporarily set at its highest point. When ice
+is formed, however, the flame should be turned
+to its normal setting, or foodstuffs in the cabinet
+may become frozen and any bottles of liquid may
+burst. Ice making is also accelerated if the un-
+used cubes of ice are replaced in the ice drawers
+when refilling them with water. Ice cubes may
+be stored for short periods in the glass defrosting
+dish under the radiator.
+ICE CREAM FREEZING.
+It must be realised that ice cream freezing
+requires lower temperatures than those required
+for freezing water. The precise mixture em-
+ployed for the cream has also a considerable
+bearing on the freezing temperature, and for this
+reason only the recipes recommended in the Com-
+pany’s publication, “Simplified Catering,” should
+be employed.
+The texture of the ice cream after freezing is
+dependent on the amount of air contained in the
+mixture. In order to incorporate air and keep it
+in the mixture until freezing is complete, it is
+necessary to use some ingredient which will hold
+a large amount of air. Fresh dairy cream,
+evaporated milk, whites of eggs, or cream made
+with any proprietary brand of cream maker, can
+be used for this purpose, as they become stiff
+when whipped and triple in bulk.
+To obtain the low temperatures required to
+freeze the cream, the flame should be temporarily
+turned to its highest point for at least an hour
+before the cream is ready for placing in the freez-
+ing drawers. It should be emphasised that it is
+impossible to store ice cream in the food storage
+space of the refrigerator. If it is desired to con-
+serve a small quantity of purchased ice cream,
+the only possible way to do this is to place the
+ice cream in the freezing drawers, and then only
+if the flame has been turned to its maximum height
+for at least two hours.
+When operating the cabinet at low tempera-
+tures, such as those required for ice cream freez-
+ing, care should be taken to see that the other
+foodstuffs in the cabinet do not become frozen.
+After completion of the ice cream freezing, the
+normal setting of the flame should be reverted to.
+CONTROLLING AND OPERATING THE EQUIPMENT — continued.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+SERVICE AND MAINTENANCE OF ELECTROLUX
+AIR-COOLED REFRIGERATORS
+HOW THE REFRIGERATOR FUNCTIONS.
+A domestic refrigerator is designed for the
+storage of foodstuffs at such temperatures as to
+keep the food fresh. Provision is also made for
+the making of ice cubes.
+The correct storage temperatures for various
+foods differ somewhat, but, generally speaking,
+if food is stored in a temperature below 50°
+F., it can be kept fresh for some days. In prac-
+tice it is found that a temperature of about 40° F.
+to 45" F. is ideal for storage of the type of food-
+stuffs generally kept in the private house.
+It will be seen later that the temperature in the
+cabinet varies at certain points, but the tempera-
+tures stated above are the average and can be
+considered as being measured at a point about
+central in the food storage space.
+The cabinet itself consists of a hygienic porce-
+lain lining, with provision for shelves, forming the
+food storage space, and an outside casing of steel
+the space between the lining and outside casing
+being filled with insulating material.
+The food storage space is cooled by means of
+a cooling unit (a description of which is given
+on page 5), which extracts the heat from the
+food and the air in the storage space.
+When the cabinet is cooled there is a decided
+difference in the temperature inside and outside
+the cabinet. Insulating material is therefore used
+to reduce to a minimum the amount of heat pass-
+ing into the refrigerator from the outside air.
+Some heat does, however, pass into the cabinet,
+and the amount varies with the difference between
+the outside and inside temperatures. W4th an
+air temperature of 75° F. and a cabinet tem-
+perature of 40° F., the difference is 35° F. If
+the temperature of the air were increased to 90°
+F., then the difference in cabinet and air tempera-
+tures would be 50° F., and the amount of heat
+load placed on the cabinet would be increased.
+It therefore follows that if the cooling unit was
+shut off, the temperature in the cabinet would
+rise quicker in the high air temperature than in
+the low.
+The radiator, which protrudes into the food
+storage space, is the means of conveying the heat
+from the cabinet interior to the point where
+evaporation of the refrigerant takes place, and
+therefore the temperature of the radiator is con-
+siderably below that of the cabinet interior. Ice
+drawers are provided in the radiator, where
+water may be frozen into cubes of ice. The
+average difference between the radiator and
+cabinet temperatures is about 25° F., for an air
+temperature of 80° F., and increases or decreases
+with the rise and fall in air temperature.
+The air immediately around the radiator is at
+a lower temperature and is therefore heavier and
+moves downward to and across the bottom of
+the food storage space. As it moves round, the
+air temperature rises slightly, due to the extrac-
+tion of heat from the food. This causes the air
+to become lighter, and in consequence it rise's
+upwards, thus producing an air circulation inside
+the cabinet. This circulation is shown on page 31.
+The amount of cooling obtained from the unit
+can be controlled by varying the heat input.
+TRACING AND REMEDYING FAULTS.
+General Information.
+On pages 27 and 28 will be found a Fault-
+Tracing Chart. This has been compiled to assist
+the service representative in making a rapid
+diagnosis of the fault, to suggest what may be the
+cause of the trouble, and what steps to take to
+apply the remedy.
+The amount of labour entailed is small, and the
+tools necessary are few. One main essential,
+however, is the provision of two reliable and
+fairly robust thermometers which can be obtained
+from Electrolux Pty. Ltd. Correctly taken tem-
+peratures play a very important part in arriving
+at a correct diagnosis, and when recorded on a
+report, enable a complete picture of the position
+to be formed and for the correct advice to be
+given where necessary.
+When taking temperatures of the air, radiator,
+or cabinet interior, allow sufficient time to elapse
+for the liquid in the thermometer to become
+steady. Temperatures of the radiator and the
+cabinet may be considerably below the room
+temperature, and unless the temperature is read
+off quickly, an entirely wrong figure will be ob-
+tained. Avoid holding the bulb of the thermometer
+in the fingers when reading off temperatures,
+or even breathing directly on to the thermometer,
+as these will cause errors to occur.
+brief explanation of possible faults that might
+arise and the remedies for these are given in the
+following pages. They have been dealt with
+along the lines given in the Fault-Tracing Chart.
+If we examine this chart we find that the nature
+of the complaints has been sub-divided into sec-
+tions Symptoms, Cause, and Remedy. Some
+very helpful information is also given on pages
+29, 30 and 31. *
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+COMPLAINT.
+SYMPTOM.
+CAUSE.
+REMEDY.
+REFRIGERATOR TOO
+COLD
+Radiator temperature about correct.
+Radiator temperature too low.
+Room temperature abnormally low.
+The flame is too high.
+The flame is too small.
+Wrong quality of kerosene.
+Flue baffle missing or wrongly
+located.
+Flue or boiler tube partially choked.
+Will correct itself with rise in room
+temperature. If when using a 14-!ine
+burner difficulties arise in avoiding
+heavy frosting of the radiator and at
+the same time avoid kerosene odour
+from the burner, replace the 14-linc
+with a 10-line burner.
+Lower the flame.
+Increase the flame, but carefully, so that
+smoke is avoided. If required, clean
+the wick.
+Only kerosene of the best quality should
+be used. Preferably "150° F. fire
+test.”
+Install baffle or adjust supporting wire.
+Clean flue, boiler tube, baffle and flue
+cap.
+Radiator temperature too high, poor
+ice-freezing.
+<
+Burner not correctly located. Lamp
+glass does not encircle lower end
+of boiler tube or fit correctly in
+the centralising ring.
+Adjust position of guide bar to obtain
+good centralisation of burner.
+POOR OR IRREGULAR
+REFRIGERATION
+■<
+Radiator temperature correct, i.e.,
+normal ice-freezing.
+k
+r
+Flame decreases or goes out.
+Air circulation round the cooling
+unit is restricted.
+Refrigerator is not level.
+Extra heavy service load.
+Air leakage into the cabinet too high.
+The refrigerator shut off at night.
+V.
+' Air circulation in cabinet restricted.
+1 Radiator coated with ice or frost.
+No kerosene in tank. Observe the
+position of the float indicator.
+Wrong quality kerosene.
+Correct location of refrigerator. Remove
+any temporary restriction.
+Level the refrigerator. There must be no
+sloping forward.
+Temporary condition. Explain to user.
+Check door gasket, gaskets on mounting
+plates and rubber plugs in the inner
+mount plate.
+This should not be done. The refrigera-
+tor should work continuously day and
+night.
+Re-arrange food. Instruct user.
+Extinguish the flame. Let ice melt and
+collect in drip tray, which should be
+emptied. Dry cabinet interior and light
+flame.
+Fill tank until float indicator is level
+with upper red line on scale. Instruct
+user.
+Instruct user that first-class kerosene only
+must be used. Kerosene intended for
+engines must not be used.
+NO REFRIGERATION
+The burner has been lit before the
+wick was sufficiently soaked in
+kerosene.
+Extinguish flame and leave burner unlit
+for about an hour, also pour a few
+drops of kerosene on top of wick.
+tU Warm or slightly cool radiator.
+Bottom of absorber warm.
+°n
+Wu
+“z
+qjO Warm radiator. Cool absorber.
+QCJ Cool or slightly warm con-
+U denser. Boiler very hot.
+Stoppage in gas circulation in the
+unit system.
+Stoppage in liquid circulation in the
+unit system.
+Place the cabinet fitted with unit hori-
+zontally on the floor for half an hour,
+with the door opening facing the floor.
+Then turn the cabinet on to its top
+(that is with the feet in the air) for a
+quarter of an hour. It is necessary to
+remove the cabinet top before doing
+this.
+Replace unit.
+ELECTROLUX AIR-COOLED REFRIGERATOR
+FAULT-TRACING CHART
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+COMPLAINT.
+SYMPTOM.
+CAUSE.
+REMEDY.
+f Kerosene odour.
+i
+j
+Kerosene has been spilt on the tank
+in the neighbourhood of the burner.
+Clean burner and outer surface of kero-
+sene tank. Instruct user.
+ODOUR
+] Combustion products.
+r
+i
+i
+i
+With a H-line burner the flue gases
+have a bad odour if the flame is
+too small.
+The flame is too high.
+Increase the flame so that the top point
+is somewhat above the throttling of the
+lamp glass, or fit a 10-linc burner in
+the place of the H line.
+Extinguish the flame and take out the
+lamp. Clean boiler tube, flue, baffle,
+and flue cover. A suitable flue brush it
+delivered with the cabinet. After clean-
+ing, start with a lower flame and inspect
+the flame two or three times to see that
+it has not risen too high. Explain to
+the user.
+BURNER SMOKES
+<
+The lamp glass does not encircle the
+lower end of the boiler tube, but
+has caught the end of it. or where
+a centralising ring is fitted the
+lamp glass does not seat correctly
+in same.
+The lamp glass has been broken.
+The baffle touches the flame.
+While inserting the lamp ascertain that
+the lamp glass is correctly located.
+Instruct user.
+Replace it with a new one.
+Shorten the length of the supporting wire
+so that the baffle, when suspended in
+position in the boiler tube, is located
+in accordance with the measurements
+given on page 19.
+Soot has accumulated in the flue pipe,
+on the baffle or in the flue cover.
+Clean flue pipe, etc. Instruct user.
+ODOUR IN CABINET
+i
+i
+Cabinet interior dirty.
+Foodstuffs with strong odour have
+been placed uncovered in cabinet.
+To clean the interior enamelled lining of
+the cabinet use a lukewarm weak solu-
+tion of baking soda. The radiator, ice
+drawers and shelves must, however, be
+cleaned with warm water only. Never
+use strong chemicals or abrasives to
+clean these parts, or their protective
+surfaces will be spoiled. Instruct user.
+Place such foods in covered dishes.
+In spite of a clean cabinet there is a
+certain odour.
+Leakage through the insulation of the
+cabinet.
+Ice drawers dirty.
+Check door gaskets, mount plate gaskets
+and rubber plugs in inner mount plate.
+Clean with warm water.
+Protective finish of ice drawers
+spoiled, showing scratches.
+Faulty cleaning.
+Instruct user. If required, replace ice
+drawers.
+ICE TAINT
+Ice drawers clean, surface undam-
+aged, ice nevertheless tainted.
+..
+Collection of water from defrosting
+in ice drawers.
+Instruct user to empty and clean ice
+drawers after defrosting.
+METAL OF ICE
+DRAWERS
+DISCOLOURED
+Surface undamaged.
+Limey water.
+In this instance the matter should be re-
+ferred to the Distributor for your State
+who has received special instructions
+how to treat same.
+ELECTROLUX AIR-COOLED REFRIGERATOR
+FAULT-TRACING CHART
+
+
+REFRIGERATOR TOO COLD.
+A complaint under the heading, “Refrigerator
+Too Cold,’’ can be produced by two distinct
+symptoms. If the radiator temperature is too
+low, then the cabinet temperature will also follow
+the same line. Generally speaking, this can only
+happen when the flame is too high and practic-
+ally no service load on the refrigerator. Con-
+sequently, the flame should be observed once or
+twice during the day.
+On the other hand, if the radiator temperature
+is correct (that is, if the difference between the
+radiator temperature and the average cabinet
+temperature is not greater than 25° F. with the
+lowest setting of the flame) the trouble in all
+probability will be due to extremely low atmos-
+pheric temperature.
+It will be as well to mention here that the
+flame can invariably be turned down at night just
+before the family retires if no use is made of
+the cabinet between 9 p.m. and 6 a.m. During
+this period there will be less work for the unit
+to do owing to the door of the cabinet being
+kept closed. However, just how low the flame
+can be turned down can only be decided by ex-
+perience as the height of the flame can always
+vary with the atmospheric temperature. Under
+very trying atmospheric conditions it may not be
+advisable to turn the flame down at all at night
+time.
+REFRIGERATOR NOT COLD ENOUGH.
+If the complaint is one of “Refrigerator not cold
+enough,” again the temperature of the radiator
+is taken as a symptom. If the radiator tempera-
+ture is correct, the high cabinet temperature may
+be due to the air circulation being restricted by
+a bad arrangement of foodstuffs inside the cabinet.
+If food is placed on large dishes that extend
+almost completely over the whole surface of the
+shelves, air circulation is so restricted that the
+space at the bottom of the cabinet hardly gets
+cooled at all. An explanation to the user and a
+rearrangement of the food is all that is necessary.
+Extra heavy service load, that includes a great
+number of door openings, may also be the cause
+of high cabinet temperatures. The placing of
+fairly large quantities of hot liquids or solids in
+the cabinet will also cause high temperatures, but
+in this case a high radiator temperature also can
+be expected.
+Air leakage into the cabinet through worn-out
+or badly-fitting door gaskets, or the door not
+being kept fully closed, will also produce high
+temperatures.
+If the radiator temperature as well as the
+cabinet temperature is too high, a temporary
+restriction of the exterior air circulation over the
+cooling fins of the unit may be the cause. Such
+temporary restrictions may be caused by the
+placing of something on top of the cabinet so as
+to cover the space above the condenser fins. A
+tea-cloth hung over this portion of the cabinet
+to dry will cause a restriction. Boxes pushed
+into the space below the refrigerator will also
+cause trouble.
+Too little or incorrectly applied heat to the cod-
+ing unit will result in a loss of cooling effect. If
+the cooling efficiency of the unit is reduced, the
+cabinet interior will not be cooled sufficiently.
+Too much heat applied to the unit may have the
+same effect as too little or incorrectly applied
+heat. This is particularly the case on Models
+L. 38 or L. 380 fitted with 14-line burners.
+The flue baffle plays an important part in the
+correct distribution of heat to the cooling unit,
+and it is therefore essential to ensure that the
+flue baffle is fitted to the refrigerator. The posi-
+tion of the baffle is a point which must be ob-
+served in carrying out service, see Fig. 9 on this
+page, and page 19, col. 2.
+Where the user of the Model L. 22 has diffi-
+culty in obtaining refrigeration at high atmos-
+pheric temperatures, the heat can be slightly
+increased by replacing the existing baffle with
+one of thinner material which can be obtained
+from the Distributor for the State concerned.
+Fig. 9.
+SERVICE AND MAINTENANCE OF ELECTROLUX
+AIR-COOLED REFRIGERATORS — continued.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+When the replacement of the baffle is being
+effected advantage should be taken of the fact
+to shorten the supporting wire so that the lower
+edge of the baffle is now suspended 4 inches
+above the lower edge of the boiler tube.
+If the radiator is allowed to become heavily
+coated with frost or ice, radiation is considerably
+reduced, and consequently the unit cannot cool
+the cabinet with its usual degree of efficiency.
+In humid climates frost is accumulated on the
+radiator (around the ice trays, etc.). More suit-
+able cabinet temperatures are maintained and more
+economical operation will result if this is defrosted
+before it becomes excessive. It is a mistake to
+assume that more frost on the radiator gives a
+colder cabinet. To defrost, turn down the flame
+and remove the fuel tank. Remove the foodstuffs
+and ice drawers from the cabinet, allow the frost
+around the radiator to melt and the resulting water
+will be collected in the glass drip tray. To ac-
+celerate the melting of the frost the cabinet door
+should be left open.
+NO REFRIGERATION.
+If the complaint falls under the heading of "No
+Refrigeration,” the first thing to examine should
+be the kerosene equipment. Therefore, a careful
+check should be made to see that all instructions
+given in this manual referring to the kerosene
+equipment are closely adhered to.
+If the refrigerator does not give satisfactory
+results this will almost invariably be due to lack
+of heat input caused by either unsuitable kerosene,
+a faulty wick, badly fitting lamp glass or a flue
+pipe which is partially or completely choked with
+soot or a combination of these faults.
+It may not always be possible for you to im-
+mediately locate the fault, but it can be ascertained
+if either of these are the cause by measuring the
+consumption of kerosene with the flame set at
+the highest point. Under trying conditions when
+the flame is turned to its highest point —without
+smoking —the kerosene consumption of the Models
+L. 38, L. 380, LK.55 and LK.550 should be between
+8/10ths and 9/10ths pint in ten hours; for the
+Models L. 22 and L. 220 5/10ths pint in ten hours.
+To check the kerosene consumption—turn down
+the flame, remove the tank and empty same. Then
+carefully measure in the following quantities of
+kerosene: —Models L. 22 and L. 220, 3 pints;
+Models L. 38, L. 380, LK.55 and LK.550, 5 pints.
+Light the lamp, replace the fuel tank in the tank
+holder and maintain the flame at its highest point
+—without smoking—for a period of ten hours,
+this time to be taken from when the tank is re-
+placed in the refrigerator. During the ten-hour
+period it is very important to occasionally observe
+that the flame is maintained at its highest point.
+At the end of the ten-hour period turn down
+the flame, remove the tank and carefully empty
+same of all remaining kerosene into a container
+from which the contents can be measured. By
+deducting this quantity from the original amount
+placed in the tank you will obtain the consumption
+of kerosene which has taken place during the ten-
+hour period. This should be approximately as
+follows: —Models L. 22 and L. 220, 5/10ths pint;
+Models L. 38, L. 380, LK.55 and LK.550, between
+8/10'ths and 9/10ths pint. If this kerosene con-
+sumption cannot be obtained you will know that
+the heat input to the refrigerator is affected and
+the kerosene equipment should be very carefully
+checked. Note: —If a 10-line burner is being used
+the kerosene consumption should be approximately
+7/10ths pint in ten hours.
+It may be found—where no centralising ring is
+fitted—that the lamp glass is not fitting correctly
+around the bottom of the boiler tube. Alterna-
+tively, it may be found that the metal rim of the
+lamp glass fouls the lower edge of the boiler tube
+when the lamp is placed in position in the tank
+holder. Should this be the cause, we recommend
+that the lower end of the boiler tube be slightly
+chamfered to an angle of approximately 45°.
+Thereafter no difficulty should be experienced
+when fitting the lamp glass into position.
+In cases where an inspection of the kerosene
+equipment shows everything to be correct, and
+the cabinet is level, then, providing that the
+cabinet has been operating for some hours, the
+following symptoms should be looked for on the
+unit:—
+Warm or only slightly cool radiator, cold con-
+denser, the bottom of the absorber cool or aery
+hot.
+If any of these symptoms are present, then the
+operation of the unit itself may be affected and
+may have to be replaced. Before replacing the
+unit proceed to apply the remedy mentioned in
+the Fault-Tracing Chart under the heading "No
+Refrigeration”—that is, lay the cabinet on its face
+for a period of not less than half an hour and
+then upside down—that is, on its top —for a
+further quarter of an hour. If this remedy is not
+effective the unit will have to be replaced.
+Before recommending an exchange of the unit,
+the service representative should definitely satisfy
+SERVICE AND MAINTENANCE OF ELECTROLUX
+AIR-COOLED REFRIGERATORS — continued.
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+himself that all points pertaining to the kerosene
+equipment are correct and that the stipulated con-
+ditions as to the position of the cabinet and free
+air circulation are complied with.
+FOOD TAINTING.
+It has occasionally been found that an odour
+exists in the cabinet when it is first unpacked. For
+want of a better name, this can be termed “manu-
+facturing odour,” and to eliminate this we recom-
+mend that the ice drawers be filled with water to
+within about 4 inch of the top and placed in their
+usual position in the radiator. The refrigerator
+should then be started up —without foodstuffs in
+it —and with the door kept closed be allowed to
+operate for approximately 24 hours.
+The refrigerator should then be “defrosted,” the
+ice drawers emptied and then refilled with fresh
+water and the inside of the cabinet thoroughly
+wiped out with a clean cloth.
+Complaints regarding the tainting of foodstuffs
+placed inside the cabinet may be due to a dirty
+cabinet interior. Old pieces of meat, fish or butter
+may be left in the corners of the cabinet, adhering
+to the shelves or radiator, or may have in some
+way fallen behind the radiator. The cabinet may
+not have been given a periodic washing out. A
+good washing out of the cabinet with warm water
+should remove this cause of the complaint. Oc-
+casionally, food or liquids lodge behind the
+radiator cover plates—L.3B and L. 380, LK.55 and
+LK.sso—and these should be removed and, if
+necessary, cleaned.
+Some trouble with food tainting may arise
+through the placing of foods with strong odours,
+such as butter, cheese or cream, in the cabinet, in
+which case the odour of one permeates the other.
+Dairy produce, which is particularly susceptible
+to tainting, should always be kept covered. An
+arrangement of the food in relation to the air
+circulation in the cabinet will assist in preventing
+this complaint.
+ICE TAINTING.
+The tainting of ice from the ice drawers may
+occur if the ice drawers are dirty or if the anodi-
+cally-treated surface of the aluminium has been
+destroyed. WASHING WITH STRONG
+ALKALIS, SUCH AS SODA, OR SCOURING
+WITH ABRASIVE POWDERS WILL DE-
+STROY THE PROTECTIVE SURFACE.
+If the ice drawers are left full in the radiator
+during defrosting, some of the water from the
+melted ice or frost may enter the drawers. Since
+the collection of ice or frost on the radiator has in
+all probability been existent for some little time
+SERVICE AND MAINTENANCE OF ELECTROLUX
+AIR-COOLED REFRIGERATORS —continued
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+and thereby absorbed odours from food in the
+cabinet, it may not be pure and, therefore, tainted
+ice would result. Ice drawers should always be
+emptied and washed in clear warm water only at
+each defrosting.
+A breakdown in the protective coating of the
+ice drawers can be detected by the appearance of
+black spots on the surface, and possibly by the
+formation of a white powdery substance around
+these spots.
+These must not be confused with a black or
+brownish film which sometimes forms on the ice
+drawers due to minerals in the water being used.
+This film does not affect the surface of the metal
+and can easily be removed by treating in accord-
+ance with the special instructions issued to your
+Distributor.
+ICE MAKING.
+Complaints as to the time required for ice
+making in the ice drawers need careful investiga-
+tion owing to the number of points involved.
+Some users have the impression that ice can be
+obtained from a refrigerator in large quantity and
+in a very short space of time. The normal times
+for ice making are given on page 24; these are
+average figures and the time must be increased if
+the air temperature is higher. The cabinet, which
+is continuously working in high temperatures or
+under a heavy food load, cannot be expected to
+produce ice in the same time as one working under
+less arduous conditions.
+Ice making is accelerated by leaving the unused
+cubes in the ice drawers when same are being
+refilled with water.
+TO SHUT DOWN THE CABINET.
+If the refrigerator is not in operation, it should
+be emptied, thoroughly cleaned out and the door
+left ajar. THE ICE DRAWERS SHOULD
+BE DRIED AND KEPT OUTSIDE THE
+CABINET.
+REPLACEMENT OF DOOR GASKETS.
+Should at any time the inner or outer door
+gaskets need replacing instructions for dismantling
+and assembling the door are as follows:
+First remove the door from the cabinet by un-
+screwing the hinges from the cabinet front. With
+the Models L. 220, L. 380 and LK.550 it will be
+necessary to first remove the chromium plated
+hinge clips. These can be removed by inserting
+a small screw-driver in the slot on the inside of
+the hinge clip and with a little leverage the clip
+will spring outwards and can be removed from
+the hinge.
+When dismantling or ssembling a door the
+lock should always be re .oved. This refers to
+the Models L. 22, L. 38 and _,K.55. On the Models
+L. 220, L. 380 and LK.SSC the door handle only
+can be removed as the lock is located inside the
+door. For removing the handles of the Models
+L. 220, L. 380 and LK.550 see page 33, Fig. 10 and
+proceed in the following manner: —First re-
+move the small screw (4) in the lower portion
+of the door handle (6) and the bakelite push
+bar (1) can then be removed by lifting it out
+from the lower end of the handle. The small
+spring (2) is removed and then the two screws
+(3) and (7) holding the handle to the door
+can be removed. It is advisable to remove
+the bakelite push rod (8) which is fitted into
+the socket inside the lock. This will obviate any
+danger of it being lost or broken when assembling
+the door.
+When replacing the door handle, first take the
+bakelite push rod and pass it into the hole in the
+door with the flat end inwards ensuring that it
+enters the socket provided on the lock inside.
+Place the metal handle on the door, ensuring that
+the opening in the larger end of the handle passes
+over the bakelite push rod, and secure by means
+of the two screws (3) and (7). Replace the bake-
+lite lever inserting the end (1) first and ensure
+that the spring (2) is correctly positioned in the
+lever as indicated, and that it is also located over
+the stud (5) in the handle. The bakelite push bar
+(1) can now be secured in position in the handle
+(6) by means of the screw (4).
+Lay the door on some soft material with the
+inside facing upwards. For replacing the inner
+door gasket it will only be necessary to remove
+the inner door plate screws and the porcelain
+inner door plate. The gasket can then be removed
+from the bakelite door frame and a new one fitted.
+Should the outer door plate gasket—that is, the
+one which seals the door—need replacing it will
+be necessary to remove the porcelain inner door
+plate, bakelite door frame with gasket and also
+the door insulation. The door gasket can then be
+removed by taking out the small staples which
+fasten the door gasket in position. The small
+studs which hold the bakelite frame in position
+should not be removed. When removing the old
+gasket particular note should be taken of the
+position of the gasket. On the Models L. 22, L. 38
+and LK.55 the door gasket rests on the wooden
+frame and also the bent-over edge of the outer
+SERVICE AND MAINTENANCE OF ELECTROLUX
+AIR-COOLED REFRIGERATORS —continued
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+door plate. On the Models L. 220 and L. 380 the
+door gasket has a sma'l lip which fits in between
+the wooden door Dan • the turned-in edge
+of the outer door plat . ~)n the Model LK.550
+the door frame is stee and the outer door plate
+gasket is held in posii >n by a light steel frame
+fitted on the door for tl s purpose. For replacing
+outer door plate gaskets on Models L. 22, L. 220,
+L. 38, L. 380 and LK.55 small carpet tacks should
+be to hold the door gasket in position.
+Care should be exercised to see that the holes
+in the bakelite door frame fit over the small steel
+studs, otherwise the frame will not be in the cor-
+rect position, and in most cases the door will not
+close properly when refitted to the cabinet.
+In the assembly of the doors for the Models
+L. 220, L. 380 and LK.550 it is essential to see that
+the tongue of the lock is in correct relation to the
+bakelite door frame. If the frame is not replaced
+in its correct position—that is, on the small steel
+studs which stand up through the gasket—it will
+interfere with the operation of the lock. The
+tongue must not in any way touch the chromium
+plated clip fastened around the hole in the bake-
+lite door frame. Before refitting the door to the
+cabinet, the free operation of the tongue should
+be tried by pressing and releasing the black push
+bar which is fitted to the lock handle.
+Gaskets cut to the correct size for each model
+can be obtained from your distributor.
+REPLACEMENT OF DOOR HINGES
+AND LOCKS.
+Should at any time a hinge or lock need re-
+placing on the Models L. 220, L. 380 or LK.550,
+it will be necessary to remove the door and dis-
+mantle same. It will not be necessary to remove
+the outer door gasket. This can be eased up
+slightly and the hinge or lock removed. A new
+hinge or lock can then be fitted and the gasket
+allowed to rest in its original position.
+TO AID THE SERVICEMAN TO QUICKLY
+DIAGNOSE ANY COMPLAINTS WHICH
+HE MAY RECEIVE, THE FOLLOWING
+ANALYSIS, TAKEN IN CONJUNCTION
+WITH THE INFORMATION ALREADY
+GIVEN ON PAGES 29. 30 AND 31, SHOULD
+BE OF MATERIAL ASSISTANCE TO HIM.
+THE FLAME DECREASES OR GOES OUT,
+Cause : No kerosene in the tank, which is in-
+dicated by the float indicator. Remedy : Fill the
+tank with kerosene until the indicator reaches the
+upper red mark.
+Cause ; The wick cannot be raised or levelled
+up. This may be due to a fault in the wick raiser.
+Remedy : If the wick raiser cannot be readjusted,
+the burner should be replaced immediately.
+Cause ; Inferior quality kerosene. Remedy :
+Only kerosene of the best quality for lighting pur-
+poses should be used—i.e., not kerosene intended
+for engines nor kerosene of inferior quality.
+Cause : The burner has been lit before the
+wick has been sufficiently soaked in kerosene.
+Remedy : Lower the flame, remove the fuel tank
+and leave the burner unlit for about one hour;
+also pour a few drops of kerosene on top of the
+wick before relighting.
+Cause: THE BURNER HAS BEEN ALIGHT
+FOR SO LONG A TIME THAT THE WICK
+IS COVERED WITH CARBON CRUST.
+Remedy : Remove the tank and clean the wick.
+Clean the burner also if required. The perforated
+bowl into which the bottom of the lamp glass fits
+can be unscrewed for this purpose.
+THE BURNER SMOKES.
+Note : —lf the burner begins to smoke the flame
+should be lowered, the kerosene tank removed
+and the flue pipe, baffle and flue cover cleaned
+before the actual fault is remedied. A suitable
+flue brush is delivered with the cabinet.
+Cause : Flame too large. Remedy : After
+cleaning, start with a lower flame setting and
+inspect the flame two or three times during the
+first hour to see that it has not risen too high.
+Cause : THE BURNER IS NOT LOCATED
+EXACTLY UNDER THE BOILER TUBE OR
+IN THE CENTRALISING RING. Remedy:
+On putting the tank in position, verify that the
+glass chimney is located correctly. If necessary,
+SERVICE AND MAINTENANCE OF ELECTROLUX
+AIR-COOLED REFRIGERATORS —continued
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+adjust the position of the guide (20) so as to
+obtain good centralisation of the burner. See
+page 21, col. 2, para. 2.
+Cause : The location of the refrigerator is quite
+often the cause of smoking. If the refrigerator
+should at any time be subjected to severe
+draughts, the flame will smoke very badly.
+Remedy : Remove the refrigerator to a more
+favourable position.
+Cause ; The glass chimney is broken. Remedy:
+Replace the glass chimney with a new one.
+Cause : The baffle touches the flame. Remedy ;
+Shorten the length of the supporting wire so that
+the dimensions given in page 19, col. 2, para. 4.
+are maintained.
+Cause : Soot has accumulated in the flue pipe,
+on the baffle or in the flue cover. Remedy : Clean
+the flue pipe, according to page 33. “The Burner
+Smokes,” para. 1.
+THE FLUE GASES HAVE A BAD ODOUR.
+Cause ; Kerosene has been spilt on the tank in
+the neighbourhood of the burner. Remedy : Clean
+the burner and the outer surface of the kerosene
+tank.
+Cause : When the L. 38, LK.55, L. 380 or
+LK.550 cabinets are operated with a 14-line burner
+the flue vapours may have a bad smell if the flame
+is TOO SMALL. Remedy : Increase the flame
+so that the .top point is somewhat above the neck
+of the glass‘d chimney.
+IRREGULAR REFRIGERATION.
+Cause : The refrigerator is shut off at night.
+Remedy; This should not be done. THE
+REFRIGERATOR SHOULD WORK CON-
+TINUOUSLY DAY AND NIGHT.
+Cause : The refrigerator is not level. Remedy :
+Level the refrigerator. There must be no sloping
+forward, but a slight inclination backward is
+permissible.
+POOR OR NO REFRIGERATION.
+Cause : The flame is too small. Remedy : In-
+crease the flame, but carefully, so that smoke is
+avoided.
+Cause : Heat input is affected. Remedy :
+Refer to page 30, under heading, “No Refrigera-
+tion. 3
+Cause : Baffle wrongly located. Remedy : Ad
+just the length of the supporting wire so that th
+baffle will be located according to page 19, col. 2,
+para. 4.
+Cause : Air circulation round the unit restricted.
+Remedy ; Correct location of the refrigerator,
+the back of the cabinet top is an opening for th
+air circulation of the unit. Ascertain that nothin
+covers this opening and that the space betwec
+the cabinet legs is clear.
+Cause : The refrigerator is not level. Remedy .
+Level the cabinet so that the sides of the cabinet
+are vertical. Refer to page 20, col. 1, para. 2.
+Cause : Radiator heavily coated with fro c ‘ or
+ice. Remedy : Defrost; see page 30, o 1,
+para. 3.
+Cause : On the Model L. 22 the olts fi " ( the
+radiator have become loose. Remedy : 1 ghten
+the radiator bolts.
+Cause : Unit operation affected. Remedy : Re-
+move the tank from its holder and also all the
+foodstuffs, wire shelves and ice drawers. Remove
+the cabinet top and flue pipe. Then carefully lay
+the cabinet on its face—door underneath—in a
+horizontal position for at least half an hour. Then
+invert the cabinet so that it rests with its top on
+the floor and the four legs in the air and leave it
+in this position for a further fifteen minutes. The
+cabinet can then be replaced in its original posi-
+tion. Relight and replace the lamp and start up
+again. (See Fault-Tracing Chart under “Cause,”
+stoppage in gas or liquid circulation of unit
+system.)
+POINTS TO REMEMBER.
+THE CABINET MUST BE LEVEL.
+THE HEAT INPUT MUST BE CORRECT
+FOR THE PREVAILING ATMOSPHERIC
+CONDITIONS.
+EFFICIENT AIR CIRCULATION OVER
+THE UNIT FINS AT THE BACK OF THE
+CABINET IS ESSENTIAL.
+BAFFLE HEIGHTS :
+4 inches for L. 22 and L. 220.
+2 inches for LOS and L. 380.
+4 inches for LK.55 and LK.550.
+SEE THAT THE USER UNDERSTANDS
+THE IMPORTANCE OF KEEPING THE
+LAMP CLEAN AND REGULARLY DE-
+FROSTING THE RADIATOR.
+SERVICE AND MAINTENANCE OF ELECTROLUX
+AIR-COOLED REFRIGERATORS —continue
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+REPLACEMENT OF COOLING UNITS
+Electrolux Air-co> Inits differ somewhat in
+construction and outward appearance and the size
+aries according to the particular cabinet to which
+they are fitted.
+The replacement of the cooling units will, how-
+ever, be found to be a fairly simple operation if
+the work is carried out along the lines given in the
+fo,lowing instructions, but it must be understood
+hat the services of two men are necessary to
+nable units to be removed or replaced as other-
+wise the insulation on the inside of the unit
+vindow or the insulation between the mounting
+plates of the unit will be damaged.
+REPLACEMENT OF UNIT 42A IN L. 22
+TO L. 220 CABINETS.
+R<j- .■!' I of O'd Unit.
+(1) Remove the kerosene lamp complete and all
+loose equipment from the cabinet interior.
+Also remove the drip plate from the radiator.
+(2) Remove door by unscrewing the hinges from
+the cabinet side and also remove the strike
+for the lock. For Model L. 220 remove the
+chromium plated covers of the hinges and
+unscrew the hinges from the cabinet side
+and remove the door. Remove the flue cap,
+baffle wire and baffle. Remove the cabinet
+top by taking out the fixing screws at the
+back and lifting off from the back. Remove
+the support bracket with the flue pipe. In
+the case of the E type controls, remove the
+asbestos washer which fits over the top end
+of the boiler, and which the flue pipe rests
+on.
+(3) Remove the shelf hook by easing the lock
+nut and then unscrewing the hook. Ease
+off the three radiator bolts—located at the
+rear of the radiator—and lower the radiator
+to its lowest extreme. Then remove the
+sealing plugs on the inside and outside of
+the cabinet.
+(4) Turn the cabinet upside down—so that the
+legs are pointing upwards—and remove the
+centralising ring, which, if fitted, is secured
+with a screw to the bottom of the boiler
+tube. Then remove the tank holder.
+(5) Lay the cabinet face downwards on some
+soft material and remove the two back legs
+from the cabinet.
+(6) Remove the screws securing the unit to the
+angle iron frame of the cabinet. Also the
+two screws securing the unit mounting plate
+to the top of the cabinet frame.
+(7) Lift out the unit in the manner illustrated
+in Fig. 12. The lifting out and the replacing
+of a unit should be carried out by two
+persons, making sure that the unit is re-
+moved from or lowered into the cabinet in
+a perfectly horizontal position. This
+obviates the danger of damaging the cork
+mounting of the unit. Now remove the cast
+radiator from the old unit by lifting it up-
+wards and fit it to the new unit. The bolts
+should not be tightened up at this stage.
+When fitted to the new unit, the radiator should
+be lowered to its fullest extent and should be in
+a position facing at right-angles to the unit frame,
+so that it can easily be inserted through the unit
+window. See Fig. 11.
+Fig. 11.
+Fitting the New Unit.
+See that the bitumen sealing of the cork between
+the two mounting plates of the unit is not dam-
+aged. If it should be, repair it with melted
+bitumen or the special sealing compound obtain-
+able from Electrolux Pty. Ltd.
+(1) See that the sealing gasket is in position on
+the unit outer mounting plate as shown in
+Fig. 11, and also that the gasket in the unit
+window is correctly placed, Fig. 13. If, in
+the Model L. 22, the inner unit window
+gasket should be displaced completely, re-
+move it, thoroughly clean the channel free
+of all bitumen in which the gasket rests.
+Also remove all bitumen from the gasket.
+If the old gasket is damaged, replace it with
+THE ELECTROLUX KEROSENE-OPERATED REFRIGERATOR
+
+
+a new one. Then carefully replace the
+gasket, sealing same in position with melted
+bitumen. It is important that the flat portion
+of the gasket—which rests in the channel—
+is covered with melted bitumen. The bitu-
+men should be allowed to set for at least ten
+minutes before the new unit is fitted.
+The foregoing does not apply to the Model
+L. 220 where the inner unit window gasket
+is fastened in position with wood strips.
+Should this gasket require replacing, the
+wood strips can easily be removed, a new
+gasket fitted and the strips replaced in their
+original positions, first making sure that
+they fasten the gasket securely.
+(2) Before lowering the unit into the cabinet,
+apply a liberal application of French chalk
+to both the cork insulation between the
+mounting plates of the unit and the insula-
+tion around the unit window. Lower the
+unit into the cabinet and temporarily secure
+it with the fixing screws. At this stage the
+screws should not be screwed home, as it is
+necessary to observe that the inner mounting
+plate is seating correctly against the inner
+window gasket. This can be seen by turn-
+ing the cabinet on its side. IT IS MOST
+IMPORTANT THAT THE UNIT IS
+NOT SECURED IN POSITION UN-
+LESS THE INNER MOUNTING
+PLATE IS LOCATED CORRECTLY.
+When the mounting plate is seating correctly
+tighten up the fixing screws on mounting
+plate and also on the angle iron frame of
+the cabinet.
+(3) Replace the two back legs on the cabinet.
+(4) From the face downwards position turn the
+cabinet on to its top so that the legs are
+pointing upwards. Then replace the tank
+holder in its original position. Also the
+centralising ring, where fitted, securing same
+in position with the set screw.
+(5) Turn the cabinet back on its legs and replace
+both the inner and outer sealing plugs.
+Note ; —The inner plug is rubber.
+(6) Fit on the asbestos washer over the top end
+of the boiler tube C and E type controls
+only. Refit the flue pipe and secure by
+means of the support bracket. Replace the
+baffle with its support wire. Replace the
+cabinet top and secure with the fixing
+screws. Then replace the flue cap.
+(7) Re-align the radiator into its correct position
+by using the small wire shelf as a guide.
+This should be level (horizontal) when the
+radiator is in such a position that the shelf
+being used as a guide can be easily inserted
+in or withdrawn from the cabinet.
+When the radiator is in its correct position,
+tighten up the securing bolts. The shelf
+hook can now be replaced and lock
+position with the lock-nut. The r
+location for this is when the ce* a'
+comfortably rests on the hook.
+(8) Replace the cabinet door. When so
+make sure that the correct washers are in
+position between the hinges/str ke and the
+cabinet. This refers to the Model L. 22 only.
+In the case of the Model L. 220, replace the
+door and fit the chromium plated cover clips
+on the hinges.
+(9) Replace the loose equipment in the cabinet,
+and also the drip plate on the radiator.
+(10) Replace the kerosene lamp complete and
+check that the lamp is seating correctly.
+REPLACEMENT OF UNIT 61A IN L. 38
+AND L. 380 CABINETS AND OF UNIT
+80A IN LK.55 AND LK.550 CABINETS.
+Removal o/ Old Unit.
+(1) Remove the kerosene lamp complete and all
+loose equipment from the cabinet interior.
+Remove door by unscrewing the hinges from
+the cabinet side and also remove the strike
+for the lock. For Models L. 380 and LK.550,
+remove the chromium plated covers of the
+hinges and unscrew hinges from the cabinet
+side. Then remove the door.
+(2) Remove the flue cap, baffle wire and baffle.
+Remove the cabinet top by taking out the
+fixing screws at the back and lifting off from
+the back. Remove the support bracket with
+the flue pipe.
+(3) Unscrew the fixing screws and carefully re-
+move the side and front cover plates of the
+radiator. Then remove the two side plate
+support brackets complete with screws.
+Note :—Please observe the correct location
+of these brackets before removing same.
+Also remove the two rubber sealing plugs
+on the inside and the two cork sealing plugs
+on the outside of the cabinet. In the case
+of the Models LK.55 and LK.550 the cork
+plugs on the outside cannot be removed
+until after the rear shield plate is removed,
+(4) Remove the two hexagon bolts and nuts
+from the upper part of the radiator which
+secure it to the bracket inside the cabinet.
+Fig. 13.
+REPLACEMENT OF COOLING UNITS —continued
+THE ELECTROLUX ' "ERATOR
+
+
+(5) Turn the cabinet upside down -so that the
+legs are pointing upwards—and remove the
+centralising ring, which, if fitted, is secured
+with a screw to the bottom of the boiler
+tube. Then remove the tank holder.
+(6) Lay the cabinet face downwards on some
+soft material. Also remove the shield plate
+(if fitted) from the unit, see (20) Fig. 5.
+r ' move the screws securing the back legs
+'-c cabinet and take off the legs, together
+with the flat connecting bar; also remove
+the angle iron from the top back of the
+cabinet.
+(8) Remove die screws securing the unit to the
+angle iron frame of the cabinet.
+(9) Lift out the unit in the manner shown in
+Fig. 12. The lifting out and the replacing
+of a unit should be carried out by two per-
+sons, making sure that the unit is removed
+or lowered in a perfectly horizontal
+position. This obviates the danger of
+damaging the cork mounting of the unit.
+Fig. 12.
+Fitting the New Unit.
+See that the bitumen sealing of the cork between
+the two mounting plates of the unit is not dam-
+aged. If it should be. repair it with melted
+bitumen or the special sealing compound obtain-
+able from Electrolux Pty, Ltd.
+(1 ) See that the sealing gasket is in position on
+the unit outer mounting plate as shown in
+Fig. 14. and also that the gasket in the unit
+window is correctly placed, Fig. 13. If, in
+the Models L. 38 or LK.55, the inner unit
+window gaske' should he displaced, com-
+pletely removi ie
+channel free u ail hit amen in which die
+gasket rests. ai
+the gasket. ]i -he gasket is tidinaged it
+should be rep] n
+carefully replace the gasket, sealing same in
+position with melted bitumen. It is impor-
+tant that the flat portion of the gasket—
+which rests in the channel —is covered with
+melted bitumen. This bitumen should be
+allowed at least ten minutes to set before
+the new unit is fitted.
+Fig. 13.
+Fig. 14.
+THE ELFCTPC TTI X KEROSENE-OPERATED REFRIGERATOR
+REPLACEMENT OF COOLING UNITS-c onti rated
+
+
+The foregoing does not apply to the Models
+L. 380 or LK.550 where the inner unit win-
+dow gasket is fastened in position with wood
+strips. Should the gasket require replacing
+on the Models L. 380 or LK.550, the wood
+strips can easily be removed, a new gasket
+fitted and the strips replaced in their original
+positions, first making sure that they fasten
+the gasket securely.
+(2) Before lowering the unit into the cabinet,
+apply a liberal application of French chalk
+to both the cork insulation between the
+mounting plates of the unit and the insula-
+tion around the unit window. Lower the
+unit into the cabinet and temporarily secure
+with the fixing screws. At this stage the
+screws should not be screwed home, as it is
+important to see that the inner mounting
+plate is seating correctly against the inner
+window gasket. This can be seen by turn-
+ing the cabinet on its side. IT IS MOST
+IMPORTANT THAT THE UNIT IS
+NOT SECURED IN POSITION UN-
+LESS THE INNER MOUNTING
+PLATE IS LOCATED CORRECTLY.
+When the mounting plate is seated correctly
+the unit screws should be tightened up.
+(3) Replace the flat connecting bar with the two
+back legs, also replace the angle iron stay
+to the top back of the cabinet, making sure
+that this stay is fitted correctly so as to
+fasten the cabinet top.
+(4) From the fahq position turn the
+cabinet on' t<s ’its top so that the legs are
+pointing upwards. Then replace the tank
+holder in its original position. Also the
+centralising ring, where fitted, securing same
+in position with the set screw.
+(5) Turn the cabinet back on its legs and replace
+both the two inner and two outer sealing
+plugs. Note : —The inner plugs are rubber.
+Insert and tighten the two hexagon bolts on
+the radiator bracket. Also replace the two
+side plate support brackets and then the
+side and front cover plates. Replace the
+shield plate, if fitted.
+(6) Refit the flue pipe and secure by means of
+the support bracket. Replace the cabinet
+top and secure with the fixing screws. Re-
+place the baffle, cap and support wire
+complete.
+(7) Replace the cabinet door. When doing so
+make sure that the correct washers are in
+position between the hinges/strike and the
+cabinet. This refers to Models L. 38 and
+LK.55 only. In the case of the Models
+L. 380 and LK.550, replace the door and
+then the chromium plated cover clips for
+hinges.
+(8) Replace the loose equipment in the cabinet.
+(9) Replace the kerosene lamp complete and
+check that the lamp is seating correctly.
+Wholly Set Up and Printed
+in Australia by
+H. HEARNE & CO. Pty. Ltd.,,
+285-7 Latrobe Street, Melbourne.
+REPLACEMENT OF COOLING UNlTS^rcontinued

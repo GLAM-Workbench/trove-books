@@ -1,0 +1,2816 @@
+
+
+Bulletin No. 6
+DESIGNING HOUSES
+FOR AUSTRALIAN CLIMATES
+COMMONWEALTH EXPERIMENTAL BUILDING STATION
+PRICE : FIVE SHILLINGS
+
+
+Bulletin No. 6
+Designing Houses for Australian Climates
+J. W. Drysdale, 8.E., A.M.I.E.Aust.
+Second Edition, 1959
+Crown Copyright
+DEPARTMENT OF WORKS
+COMMONWEALTH EXPERIMENTAL BUILDING STATION
+Sydney, 1952
+
+
+Preface
+The functional design of dwellings in relation to climatic factors
+was first discussed for Australian conditions in Bulletin No. 3,
+which was published during 1947. In 1952, the opportunity
+was taken through the publication of Bulletin No. 6 to expand
+the treatment of the subject, and to incorporate conclusions
+reached from relevant researches undertaken during the inter-
+vening period. In particular, physiological aspects of the subject
+are discussed in greater detail than was previously possible.
+With the need to reprint Bulletin No. 6, another opportunity
+has been presented to incorporate in a new edition of the Bulletin
+further information which has come to hand through the Station's
+continued studies.
+Although the experimental studies which provide the technical
+background to the recommendations made were conducted
+solely in Australia, and the findings are intended to apply only
+to Australian conditions, it is believed that the data will be
+applicable in other geographical regions where comparable
+climates prevail. Similarly, the recommendations, though per-
+taining to houses, will nevertheless be applicable in broad
+principle to small buildings of similar general construction and
+form.
+J. W. Drysdale,
+1959.
+
+
+Contents
+Preface ii
+Introduction iv
+1. Physiological considerations 1
+2. Climates of Australia 3
+3. Some implications of climatic factors in design ... 6
+4. Principal design considerations 8
+5. Functional requirements 19
+6. Orientation 30
+7. Physical discomfort 32
+8. Recommendations 36
+9. References 38
+Appendix A: Climatic data sheets for capital cities
+Adelaide ... 41
+Brisbane ... 42
+Canberra ... 43
+Hobart ... 44
+Melbourne 45
+Perth ... 46
+Sydney ... 47
+
+
+Introduction
+It has been shown by controlled experiments that most people
+would like to live in an environment having a dry-bulb tempera-
+ture of approximately 65° F. during winter and of about 76° F.
+during summer. Individual preferences vary, but not sufficiently
+to invalidate the generalization. However, no climate is as
+mild as this, and most impose seasonal extremes or maintain
+high temperatures throughout the year which are known to
+produce environments outside this comfort-range.
+During winter, it is usually possible to be comfortable by
+wearing appropriate clothing, or by heating rooms ; but when
+the weather is hot, insufficient relief is afforded by reducing
+clothing to a conventional minimum, and comfort cannot be
+restored without resort to expensive and frequently complex
+equipment. Extensive use of such equipment is obviously
+impracticable, but it now appears, as the result of investigations
+by the Station, that much can be done to offset the rigours of
+climate by exercising careful control over design, and by the
+selective use of building materials. Data now available for
+Australian conditions permit indoor and outdoor environments
+to be related for different forms of construction, and from this
+it is possible to assess the economics of adapting construction to
+suit climate, to make dwellings more comfortable habitations
+throughout the year.
+Much of the experimental background for statements contained
+in this Bulletin is given in the Station’s Technical Study No. 34,
+“ Climate and Design of Buildings—The Thermal Behaviour of
+Dwellings,” and Special Report No. 11, “ Summer Temperatures
+in Buildings.”
+
+
+1. Physiological Considerations
+The human body generates considerable quantities of heat as
+the result of intake of food and complex chemical reactions, but
+normally it is able to maintain a stable temperature of approxi-
+mately 98-4° F. by adjusting the rate at which heat is lost to
+its environment. This regulatory process is automatic over a
+wide range of temperatures, but if heat is lost too fast or too
+slowly, the temperature of the body is changed, and acute dis-
+comfort results.
+The exchange of heat occurs principally through the agencies
+of conduction, radiation, and evaporation, each factor operating
+independently of the others, but in a manner determined by the
+environment. When the dry-bulb temperature of the environ-
+ment is lower than that of the body, heat will flow by conduction
+from the body to the air which surrounds it, but if the air is the
+hotter, then the body will gain heat by conduction. The
+direction in which heat is exchanged by radiation depends upon
+the relative temperatures of the surface of the body and clothing,
+and of the surfaces bounding the space occupied ; it is not
+affected by the temperature of the air, and heat will flow to the
+surface which is the cooler.
+The rate of evaporation of perspiration, which determines the
+rate at which heat can be lost through this agency, is governed
+by the difference between the vapour pressure of the environment
+and the vapour pressure at the surface of the skin ; it is not
+influenced directly by the relative humidity of the atmosphere.
+Thus, heat can always be lost from the body by evaporation,
+but losses by conduction and radiation decrease progressively as
+temperatures rise, and finally the latter factors cause heat to be
+received instead of being lost. When the rate of movement of
+air about the body is increased, the actions of conduction and
+evaporation are strengthened without interfering with the
+manner in which they are operating.
+Many attempts have been made to develop means for com-
+paring environments. Most have been based upon the subjective
+reactions of human beings in environments for which dry-bulb
+and wet-bulb temperatures and rates of air movement have been
+known, and for which radiation has been expressed as mean
+radiant temperature, or as globe-temperature. The best known
+attempt employs the Effective Temperature Scale, developed
+for the American Society of Heating and Ventilating Engineers,
+and is widely accepted. The working chart is one which allows
+for the influences of dry-bulb and wet-bulb temperatures and
+rates of air movement, but does not consider radiation or the
+influences of clothing and rates of activity.
+Although the Effective Temperature Scale was intended to
+reveal environmental conditions which would produce the same
+immediate subjective reactions, it has been used, perhaps
+fallaciously, to gauge the continuing relative stresses imposed by
+
+
+different atmospheres. It has been assumed for summer con-
+ditions, for example, that if an environment has an Effective
+Temperature lower than that of another, it is to be preferred
+to the latter, irrespective of the actual temperatures and rates of
+air movement prevailing.
+The Station has demonstrated ( x ) ( 2 ) that the concept of
+Effective Temperature is not applicable to some typical con-
+ditions experienced in Australia, and has developed another
+viewpoint which is considered to have greater practical applica-
+tion for persons who are seated and nominally at rest. It
+appears that such persons are able to maintain tolerable comfort
+until the dry-bulb temperature of the environment has risen to
+about 85° F., at or about which temperature tolerable comfort
+gives way to discomfort. No practical purpose relevant to this
+discussion is thought to be served by attempting to qualify the
+degree of discomfort experienced at still higher temperatures
+which do not approach the limits of human tolerance.
+Similarly, there seems little merit in seeking to differentiate
+between levels of winter discomfort induced by cold conditions ;
+human beings react unfavourably towards any conditions which
+cause thermal discomfort.
+Since the attitude of the occupant of a house to his or her
+thermal environment must be regarded as the true reflection of
+the adequacy of construction, or winter heating system, for the
+climate concerned, temperatures occurring indoors, and their
+relation to desirable levels, are of paramount importance as
+design factors. The subject is discussed further in section 7.
+
+
+2. Climates of Australia
+The climatological subdivision of Australia which the Station
+has adopted is one which considers only those differences in
+climate which are capable of being reflected in design, or warrant
+making some special provision. Other classifications are seen
+to be too detailed, and it is apparent that small variations in
+climate would not make any significant impact upon indoor
+environments.
+There are seen to be three major climatic zones : the hot-
+humid zone in which temperatures remain high throughout the
+year, and their daily range is small ; the hot-arid zone in which
+both the daily and the seasonal ranges of temperature are wide ;
+and the temperate zone which also experiences wide ranges of
+diurnal and seasonal temperatures, at lower temperatures than
+for the hot-arid zone, but still resulting in moderately hot
+summers and cold winters. These temperature-characteristics are
+illustrated below :
+Hot-Humid Zone
+Summer : High daytime dry-bulb temperatures (85 to 95° F.).
+High dry-bulb temperatures at night (75 to 85° F.j.
+High relative humidity day and night (70 to 80 per
+cent).
+Winter : Warm to hot days (75 to 85° F.).
+Mild nights (60 to 70° F.).
+General : Heavy summer rainfall ; dry winter.
+Small diurnal temperature range, particularly
+during summer (10 to 15° F.).
+Hot-Arid Zone
+Summer : Very high daytime dry-bulb temperatures (95 to
+110° F.).
+Hot nights (70 to 80° F.).
+Low relative humidity day and night (20 to 35 per
+cent).
+Prolonged heat waves ; hot, dry winds.
+Winter : Warm to hot days (65 to 80° F.).
+Cool to cold nights (40 to 55° F.).
+General : Irregular, low rainfall, occurring principally in
+summer.
+Large diurnal and seasonal variations in tempera
+ture (20 to 35° F.).
+Temperate Zone
+Summer ; High daytime dry-bulb temperatures (85 to 95° F.).
+Moderate dry-bulb temperatures at night (55 to
+65° F.).
+Moderate humidity (30 to 40 per cent).
+Winter : Cool to cold days (50 to 60° F.).
+Cold nights (35 to 45° F.).
+
+
+1(5 KO 125 150 155 MO 145 ISO
+I i i l 1 1 "" I i
+- ' - 5
+0T& OfV. J & - 10
+DAIWIN aXL
+Broome J***J"**J***J“ ",* * 1 I * T I •
+Pori- Median I'.'. \ 'J'. ! ."
+Bo‘ r :::;:; :J::;: :4WW:: : -*
+J 2.. Alice Springs f
+!••••• 1 i Lonoreocb • • rPy??t8fl .
+I j ( • . nockhomproo
+o r ! .‘ ‘ ; : ; ; •' W ' l ' unQ ; : ; ; ; ; • • • ; i \ • ; • ;; ; ; • yOedraciaHxa* * f .■■■*■■■;
+'• Gerald Ion /»■ •— — «-_• &WSS^nS|j
+1 . . iCook - t-.-j-
+to??"”;:;: if< Q jg°9 r !'«::::;: \ I;;:::;:;::::;::;::: ( ::; : oll* 0^2 r^: W
+tll'oi:: ::;;:;; -^^T^koi hi«; 00 <-2ag~fk* ji ;y: 50
+PERTH6;;; ,o o o o o V-edunOV a. .. . .fori- Augush e Armidole •:;« ; A
+l“U; »0OO00 • ■ • ■ • Yl o O O •' f 0 j' CO O O O o o o.. - :. fy
+fi o o.o 00000/ \ o o -ytoooo • ■ -oooo Dubbo • o o o; jojjj.j L|„
+Y oy fa oooobooooooo n o.,oo g e o.: ::vS^ asHe
+pl i foAAOLLAlDL-sa p ? f o o oDamursro .::-.:r
+s sis o°fe r o a o o^flFFittjirip iYDNEY
+j- Wbony CP* S.S.So o ° |r ;&cXtf5E.RP,A
+o i 1° 2 ° 0 2 S 0 ° °«2>«ncilfa ; J-■ ■/ -55
+Warrnambool
+>XX?vvN I Tropical humid
+I la | Sub-tropical humid 5 I
+: : :TT: » 2 Hoh arid ZeebanV^*7 LaUnC “ 1 ' 0n " 4 °
+000000 % 7a Dry uoorm lemperak ia \
+« ~ 5 Temperate
+y *■ j » 5a Cool femperahe
+1 1 1 I 1 1 1 1 1 1
+110 115 120 125 130 155 140 1+5 150 155
+Fig. 1. A BROAD CLASSIFICATION OF AUSTRALIAN CLIMATES
+
+
+General : Rainfall throughout the year, but maximum
+precipitation during winter.
+Considerable diurnal temperature range (20 to 30°
+F.) and a seasonal range '.of about 30° F.
+It is common experience that the movements of air masses
+across the continent cause some areas to experience climatic
+conditions peculiar to two or more climatic zones. Such areas,
+for the purpose of the Station’s classification of climates, have
+been designated as sub-zones of the climate whose character-
+istics predominate. The geographical extent of the climatic
+zones are shown on the map, Fig. 1. Except where a range of
+mountains or another topographical feature accentuates a change
+in climate, one climate merges into another, and no firm bound-
+aries actually exist.
+Another effect of elevation upon climate is to temper daytime
+temperatures, and often, to decrease sharply temperatures at
+night.
+Although temperatures have been used, for convenience, as a
+basis for classifying climates —and temperature is an important
+design factor—other features of climates must be considered when
+designing buildings. For example, it is essential to know the
+quarter and the strength of prevailing breezes which must be
+utilized for ventilation, and to know whether or not winds are hot,
+cool, or cold, and if they are accompanied by dust or rain. The
+prevalence of cloud must also be considered, principally on a
+seasonal basis, to ascertain if sunshine is a feature of the winter
+climate.
+Micro-climatology will enter into individual problems, but the
+subject is too complex to be discussed here, and it is the respon-
+sibility of the designer to acquaint himself with site conditions,
+and to make decisions within the framework of recommendations
+made in later sections. The Station, however, has consolidated
+and published meteorological data for purposes of design, ( 3 ) for
+capital cities and a large number of towns in Australia. Data
+for capital cities are given in Appendix A.
+
+
+3. Some Implications of Climatic Factors in Design
+Site conditions vary sufficiently to preclude the possibility that
+general recommendations will be applicable directly to the
+particular case. It is desirable, therefore, to analyse the major
+climatic factors to be considered in design, and to place each in
+its proper perspective for the guidance of those who must in-
+evitably make compromise decisions.
+Dry-bulb Temperature
+The dry-bulb temperature of the outdoor environment is
+usually registered by means of a glass-stem thermometer located
+within a ventilated screen, to ensure that the temperature shown
+by the thermometer fairly represents the temperature of the air,
+and that the reading is unaffected by radiant heat. Shade dry-
+bulb temperature is a complex design factor because of its vari-
+ability, and it warrants examination for diurnal changes and
+seasonal variations.
+If the diurnal change is small, as in the hot-humid zone, it can
+be assumed that indoor temperatures will not at any time depart
+significantly from the outdoor mean ; but if the range is large,
+as in the hot-arid and the temperate climatic zones, the conse-
+quent indoor temperatures may depart significantly from the
+outdoor mean, and changes in temperature indoors will be greater
+than in the hot-humid zone for the same form of construction.
+From the seasonal viewpoint, a small seasonal change in tempera-
+ture is usually associated with a mild to warm winter, and there
+are no problems of winter heating ; but if the change is large, the
+actual winter temperatures encountered will determine the
+provisions which should be made.
+Relative Humidity
+The relative humidity of an environment, which expresses as a
+percentage the amount of water vapour present in the air to the
+amount which can be contained in air saturated at the same
+temperature, is assessed from its dry-bulb and wet-bulb tempera-
+tures ; the latter temperature is frequently registered in the same
+way as dry-bulb temperature, except that the bulb of the thermo-
+meter is clothed with an absorbent fabric kept thoroughly wet
+with water. If the relative humidity is high when the dry-bulb
+temperature is high, conditions are oppressively humid, and
+persons seek relief by increasing the rate of air movement about
+themselves.
+Hot-humid conditions foster the growth of mould on the
+surfaces of materials susceptible to attack. There is some
+to show that the growth of mould is rapid under
+favourable conditions when the dry-bulb temperature is higher
+than 75° F., and the relative humidity exceeds 70 per cent.
+Prevailing Winds
+The quarter and the strength of prevailing winds are significant,
+and provide useful data when analysed to establish typical
+conditions for summer and winter. The analysis for summer, if
+
+
+extended to consider separately the wind data for mornings,
+afternoons, and evenings, will indicate suitable orientations for
+good natural ventilation for various rooms at times when they
+will normally be occupied. It will reveal, also, the quarter of
+unfavourable winds, hot or cold, and nominate where openings
+should be capable of being closed tightly against adverse con-
+ditions.
+In the humid tropics, wind storms are of some importance,
+because they impose critical loads upon structures, and often
+bring with them rain which tests the weathertightness of con-
+struction. Frequently, however, squalls do not blow from the
+same quarter as the breezes which are relied upon to promote
+ventilation indoors.
+Sunshine
+Heat is received by radiation from the sun in quantities which
+are dependent upon atmospheric conditions such as cloud and
+haze, and not upon the prevailing dry-bulb temperature of the
+air. The effect of solar radiation is to increase the temperature
+of sunlit surfaces, thereby accelerating the rate at which heat
+will flow into the body of the material. In the case of a house,
+this effect is favourable during winter, but is undesirable in
+summer.
+Another aspect of radiation from the sun is the diffuse com-
+ponent which provides light, and the designer should consider
+requirements for day lighting in conjunction with those for
+excluding or admitting the direct component, sunshine.< 5 >
+Rainfall
+Rain is not usually regarded as a design factor, yet it can have
+a direct bearing upon the planning of a house. Rates of pre-
+cipitation will affect drainage arrangements, and the constancy
+of falls with high wind will influence the weatherproofness
+necessary for the construction. Light driving rain continuing
+over an extended period can be more penetrating than a sharp
+tropical storm. Rainfall will also have some bearing upon the
+capacity of storage tanks to be provided for water in districts
+where reticulated supply is not available. The principal factor
+will be the period between falls which can be relied upon to
+replenish supplies.
+Other Factors
+It is not proposed to discuss at length the problems which are
+introduced by frosts and snow, but experience has shown that the
+possibility that water may freeze in pipes and burst them has
+often been neglected by Australians, with consequent mishaps
+and damage by flooding. Similarly, insufficient attention has
+been given at times to the provision of vapour barriers at or near
+the indoor surfaces of external walls when consistently cold
+conditions prevail ; the absence of vapour barriers in the circum-
+stances can lead to damaging condensation.
+Although insect pests do not constitute a climatic factor, their
+prevalance is so intimately related to climate that they, and
+protective measures against them, deserve attention.
+
+
+4. Principal Design Considerations
+From the foregoing examination of Australian climates and of
+the influence of each climatic factor upon building construction,
+it will be seen that considerable relief from severe climatic con-
+ditions should be possible if simple principles can be observed.
+These principles are discussed in subsequent paragraphs in
+relation to the climatic factors which were noted in the preceding
+section.
+Dry-bulb Temperature
+In areas experiencing hot-arid to temperate climates, seasonal
+variations in dry-bulb temperature outdoors are such that the
+upper limit of temperature for comfort will be exceeded frequently
+during summer, and temperatures during winter will often be
+below the desirable level for winter comfort. Thus, both summer
+and winter problems can be expected ; their relative severities
+will vary with the locality concerned.
+In the hot-humid climatic zone, the dry-bulb temperature of
+the atmosphere is uncomfortably high throughout summer, and
+many winter days are also very hot. Minimum temperatures
+too, are relatively high during winter, and necessitate the placing
+of emphasis upon hot conditions when designing for the humid
+tropics.
+The daily range of temperatures between minimum and
+maximum should also enter into design considerations. If the
+range is small (10 to 15° F.), as is the case in the hot-humid
+climatic zone, it will have only limited influence upon indoor
+environments, but where the range is consistently larger (20 to
+35° F.), particularly during summer as in other climatic zones,
+it will be undesirable to permit changes of similar magnitudes to
+occur indoors.
+Whenever the temperatures of indoor and outdoor surfaces
+differ, heat will always flow through the construction towards
+the surface having the lower temperature, and the quantity of
+heat flowing will be related directly to the difference between the
+temperatures. Thus, if the weather is hot, heat will flow into
+a dwelling, but if it is colder outdoors than indoors, then heat will
+flow outwards, such gain or loss of heat always being accompanied
+by a change in temperature indoors unless equilibrium is main-
+tained by artificial means.
+However, there is some opportunity to control the resulting
+flow of heat and change in temperature indoors, by the use of
+thermal insulation or of some materials, particularly heavy-
+weight ones such as bricks and concrete, which are able to store
+or liberate large quantities of heat without the occurrence of a
+major change in temperature within them. Thin sheet materials,
+in contrast, are comparatively light in weight, and have not the
+ability to gain or lose large quantities of heat with small changes
+in temperature.
+The foregoing is illustrated by Fig. 2, developed by the Station
+from data compiled from temperature surveys which w'ere con-
+
+
+Ff\
+' l6 l 1 A 7 A\WW\ 1
+e / / / "- LJ
+s '//
+s m. /y- 7 4--f- 4 j
+r kJy 7
+-e / /
+_Q f
+-5 12 ■
+i. / \ "V>
+-b / \l /
+8 10 —f rf—L f-j-4 !
+i / F F
+§ / #
+1 8 \"v~ ft fr
+— 5ffl-
+ts> „
+-a 2+
+_c
+tr>
+x
+o
+2 oil 11111 1.1 III [.Li! 11111111 lil 1 111 111 IJI 111.1111 LJ
+80 85 90 95 100 105
+BricU caviFy-itiall consFrucHon;
+windows closed during day;
+windows open during day.
+-Timber-frame consFrucFion;
+ceilings and exFernal walls
+insulated; bare concreFe
+floor; windows closed
+during day.
+Timber-frame consVrucVion;
+ceilings and external malls
+insuldredr windows closed
+; windows closed
+during day.
+-Timber-frame consFrucFion*,
+ceilings insulaFed; ujindoujs
+closed during day.
+-Timber-frame consFrucFion;
+windows open during day.
+Max. shade dry-bulb
+FemperaFure
+Fig. 2. THERMAL-BEHAVIOUR CHART
+(Use and limitations of the chart are discussed on pages 8 and 10.)
+- °F
+
+
+ducted in thermal models, and in dwellings located in widely
+separated districts throughout Australia. The chart provides
+means for assessing the extent to which dry-bulb temperatures
+at centrally located positions in dwellings will be lower than
+outdoor dry-bulb temperatures during the hottest period of a
+summer day. It is intended to apply only to Australian dom-
+estic construction of traditional form, in which walls and parti-
+tions bear conventional relationships*, and to climatic conditions
+which provide a diurnal range of at least 20° F. dry-bulb. The
+likely corresponding thermal behaviour of non-traditional
+construction can be approximated by interpolation of relative
+weights per square foot of area of external walls, so long as
+external walls and partitions again correspond with respect to
+relative weights.
+It will be noted from the chart that the transmission of heat by
+ventilating air can offset the thermal benefit inherent in the use
+of thermal insulation in timber-frame houses. The corresponding
+effect in houses of brick or other heavyweight construction is
+much less pronounced.
+Unfortunately, the characteristic of heavyweight construction
+which provides cool conditions indoors during hot days still
+operates at night, and results in unfavourably high temperatures
+indoors when it might be mild or cool outdoors. Frame con-
+struction, by contrast, heats rapidly and is hot during the day,
+but it cools relatively rapidly at night and thereby provides
+better night-time conditions than heavyweight construction. In
+winter, the rapid response of frame construction to heating
+operates favourably, and during sunny days frame construction
+is warmer than heavyweight construction ; but frame construc-
+tion cannot retain heat so well, and is colder than heavyweight
+construction on winter mornings, unless heating is continuous.
+These characteristic thermal behaviours of brick and of frame
+construction are well understood, and illustrate that optimum
+conditions cannot be provided by one weight of construction.
+Relative Humidity
+Unless special equipment is available, it is not possible to
+control relative humidity independently of dry-bulb temperature.
+The relative humidity of an environment will increase if its
+dry-bulb temperature is reduced, and vice versa.
+At winter temperatures, the level of relative humidity does not
+materially affect human comfort. This is attributable to the
+relatively low rate at which moisture exudes from the body, and
+to the ability of air, under normal conditions, to absorb the
+moisture as quickly as it is liberated. During hot days, perspira-
+tion is produced much more rapidly, particularly after the onset
+of sweat-gland activity, and at this stage high vapour pressure
+affects the rate at which perspiration can evaporate, and thereby
+influences the cooling effect to be obtained.
+* For example, frame walls and frame partitions clad with light boarding
+or sheeting, or 11-in. brick cavity walls and 4|-in. brick partitions ; sus-
+pended timber floors, pitched roof with fibrous-plaster ceilings below.
+
+
+Prevailing Winds
+It is well recognized that air movement is an adjunct to
+comfort during hot weather, and that careful control of air move-
+ment is necessary during winter if discomfort by draughts is to
+be avoided. Thus, it is essential that the designer should take
+cognizance of winds on a seasonal basis, and consider, further, the
+strength and direction of prevailing breezes during summer for
+various times of day and night. During summer particularly,
+breezes do not necessarily blow from the same quarter throughout
+the day, and a proper understanding of wind conditions will
+enable windows to be located in appropriate positions for best
+utilization of air movement indoors.
+The directions whence winds blow, and the normal wind
+velocities, may influence the types of window to be used.
+Double-hung windows, hoppers, and top-hung sashes all partially
+obstruct the available opening, and are consequently most
+effective when breezes are blowing strongly normal to the wall in
+which they are fitted. This is true also of louvres, except that
+louvres provide greater effective area per unit area of opening.
+Alternatively, casements may be used ; they have the advantage
+that sashes can be swung clear of the opening, and can be adjusted
+to serve as wind scoops should the breeze be blowing obliquely
+to the wall in which they are situated.
+When arranging for air to be admitted into a house, it is equally
+necessary to make provision for it to escape on the leeward side —
+otherwise air will not enter in reasonable quantities—and to
+ensure that air movement can be induced throughout each room.
+If the windows and the door of a room are situated in adjoining
+walls, it can be expected that the principal flow of air will be
+directly between the windows and the door, and that the remain-
+der of the room will be ventilated indifferently in consequence.
+Air will be ineffectually directed, also, if sills of windows are too
+high. This is of particular importance in the humid tropics,
+where sills should be sufficiently low to ensure the passage of air
+about persons who are seated or are reclining.
+Another practice which should be avoided is that of supporting
+partitions clear of floor and ceiling. The openings thus provided
+above and below partitions can prejudice ventilation by per-
+mitting air to escape during its passage through rooms ; they
+further result in loss of privacy between rooms.
+It is desirable that prevailing breezes should cause air in the
+kitchen to pass outdoors directly. It is common experience that
+neglect of this consideration is responsible for the dispersion of
+heat and odours from cooking and the preparation of food
+throughout the house. The same considerations apply to
+W.C.’s, for which there is greater emphasis in most by-laws upon
+permanently ventilating the compartment than upon preventing
+the dispersion of odours by insisting upon a tightly fitting door.
+Figs. 3 and 4 illustrate the direction and frequency of prevailing
+winds for a considerable number of areas throughout Australia.
+
+
+Wind direction towards centre of rose.
+Black bars represent morning winds.
+Open bars represent afternoon winds.
+Lengths of bars represent relative frequencies of direction.
+Numerals on bars indicate percentage of winds from the particular direction which exceed 20 m.p.h.
+Figures in the centre circle represent the percentage of calms, morning on top, afternoon below.
+Fig. 3.
+PREVAILING SUMMER WINDS FOR AUSTRALIA—DECEMBER,
+JANUARY, FEBRUARY
+Based on Research Bulletin No. 5, Department of Home Security, Australia.
+
+
+White cellulose paint
+0-18
+Whitewashed galvanized iron
+0*22
+Glazed white bricks ...
+0-26
+Yellow cellulose paint
+0-33
+Glazed cream bricks ...
+0-36
+Orange cellulose paint
+0-41
+Aluminium
+0-54
+Clay bricks and tiles (red) ...
+0-60
+New galvanized iron ...
+0-64
+Cement tiles (grey) ...
+0-65
+Aged asbestos cement
+0-75
+Green cellulose paint
+0-79
+Bituminous felt
+0-88
+Aged galvanized iron
+0-90
+Black mat surface
+0-97
+Sunshine
+It is considered necessary, in many quarters, that sunshine
+should be admitted to every habitable space for at least one hour
+each day. The basis of this requirement is somewhat obscure,
+and the practice would be inappropriate for a hot climate. A
+preferable arrangement would be to utilize the seasonal change
+in the path of the sun to provide sunshine indoors during winter,
+if the winters are cold, and to prevent the entry of sunshine
+during summer. Best seasonal control of sunshine is obtainable
+on a northern aspect, where it is possible to observe this functional
+requirement without the need to resort to adjustable shades ;
+a north wall is effectively shaded by eaves with a normal width
+of overhang.
+Penetration of direct sunshine into rooms results in a direct
+gain of heat indoors. An indirect effect, not less important, is
+that of the accelerated rate at which heat flows into a dwelling
+when external surfaces become sunlit. When solar radiation
+falls upon a material, the amount of heat which is absorbed by it
+is proportional to the absorptivity of the material. Typical
+absorption coefficients of various paints and materials are listed
+below :*
+Solar radiation which is absorbed by a material will cause the
+material to attain a temperature in excess of that of the air close
+to it. The maximum excess (°F.) which is theoretically possible
+at the surface of the material can be assessed from the factor
+where —
+a = surface absorption coefficient (see preceding list).
+k s surface coefficient. (This coefficient has a value of
+approximately 4 to 6 B,Th.U./sq. ft./hr. for sur-
+faces exposed to light to moderate breezes respect-
+ively.)
+I = intensity of solar radiation. (The value of I varies
+with the elevation of the sun and other factors, but
+representative maximum values are 300 for hori-
+zontal surfaces and 200 for vertical surfaces, both
+expressed as B.Th.U./sq. ft./hr.)
+* Based on H. E. Becket, “ Exclusion of Solar Heat,” Institution of
+Heating and Ventilating Engineers Journal, Dec., 1934 and Apr., 1935,
+Table IV.
+
+
+Wind direction towards centre of rose.
+Black bars represent morning winds.
+Open bars represent afternoon winds.
+Lengths of bars represent relative frequencies of direction
+Numerals on bars indicate percentage of winds from the particular direction which exceed 20 m.p.h.
+Figures in the centre circle represent the percentage of calms, morning on top, afternoon below.
+Fig. 4.
+PREVAILING WINTER WINDS FOR AUSTRALIA—JUNE,
+JULY, AUGUST
+Based on Research Bulletin No. 5, Department of Home Security, Australia.
+
+
+TYPE OF SHADING DEVICE
+Actual temperatures attained will usually be substantially less
+than those computed, because the simplified formula makes no
+allowance for heat which is conducted inwards from the surface
+of the material in service, or for the roughness of the material,
+which affects the loss of heat to the air. In practice, walls of
+dwellings might attain a temperature of 130° F. while sunlit,
+and pitched roofs might heat to about 150° F. during hot summer
+days when the dry-bulb temperature of the air is about 100 to
+110° F. Thus, the rate of flow of heat into a dwelling, which is
+proportional to the temperature differences prevailing, can be
+increased several times when walls are sunlit. The principal
+effects are twofold: firstly, the temperatures of internal surfaces
+will rise, and secondly, heat will be transferred to the air in
+contact with them.
+During summer, this heating effect is obviously undesirable,
+but the additional heat is advantageous in winter. Automatic
+control can be provided by deciduous creepers whose foliage is
+shed during the cold months when shading is not required.
+Shading may be provided alternatively by trellis, shades, louvres,
+or vegetation, but frequently these are not strictly functional in
+their behaviour.
+Thermal insulation incorporated in external walls (and in roof-
+ceiling construction) serves to impede the inward flow of heat in
+summer, and it will similarly impede the outward flow of heat in
+winter. However, such insulation will necessarily retard the
+cooling of a house after a hot day, and reduce the warming effect
+of winter sunshine in rooms with a northern aspect.
+It is essential that ventilation in summer should not be pre-
+judiced by the manner in which shade is provided. This is
+particularly important in the treatment of windows, which must
+continue to admit adequate daylight, and air for purposes of
+ventilation. From the radiation viewpoint, it is preferable to
+intercept sunshine externally ; once the radiation has penetrated
+the glass, the heat which is not reflected by the shading device
+is retained in the room. The relative efficacies of different
+shading devices are apparent from the following tabulation of
+some typical values of solar heat transmitted through shaded
+windows :
+Internal curtains
+Internal roller blinds, fully drawn*
+Internal Venetian blind, slats at 45°
+External canvas awning
+External louvred blind or shutter
+* Transmission increases as the colour
+80 to 90
+40 to 80
+45 to 75
+25 to 30
+15 to 20
+of the blind darkens
+TRANSMISSION AS COMPARED
+WITH UNSHADED WINDOW, %
+(All such shading devices will exclude some daylight also, and
+due allowance should accordingly be made if it is desired to
+maintain a particular level of illumination indoors. Often, the
+reduced illumination occasioned by the use of shades is not
+disadvantageous at times when the shades need to be in service.)
+
+
+Solar radiation falling on roofs will produce effects similar to
+those noted with respect to walls, but these effects will be more
+severe and prolonged than those arising from walls. It is usually
+not convenient to shade roofs, but there are instances of roofs
+shaded by means of a second layer of sheeting fixed clear of the
+main roof, and of flat concrete roofs protected from solar radia-
+tion by precast concrete slabs laid on blocks to provide a free
+airway between the roof and the slabs.
+Special mention is made of the use of verandas to provide shade.
+In Australia, verandas have come to be regarded as the proper
+means for shading walls, and are now traditional, particularly in
+country areas. They are often provided somewhat indiscrimin-
+ately, and frequently defeat their purpose by actually detracting
+from comfort. There appear to be two main practices ; one is
+to provide verandas on three or more sides of a dwelling, and the
+other to provide front and back verandas only, irrespective of
+orientation. Usually, the verandas are unlined, and frequently
+sections of them are enclosed with single-thickness sheeting to
+provide additional accommodation.
+While verandas will shade walls effectively during the hot part
+of the day, the sun may shine strongly beneath them when at
+low altitudes, during the morning and the late afternoon. At
+these times, vertical surfaces receive solar radiation at maximum
+intensities, and frequently canvas or other shades are brought
+into service to intercept the radiation. These shades are effect-
+ive, but they reduce daylight indoors, and impede air movement
+which may be relied upon for ventilation. When verandas are
+not lined, air beneath them becomes heated above the tempera-
+ture of shade air. This leads to hot air being blown indoors by
+the prevailing breeze.
+A more direct approach to the shading problem, if site con-
+ditions will permit, is to plan principal rooms to face north, to
+enable the eaves to shade the north wall and windows in it during
+summer, and to shade east and west walls, as required, by
+trellis, vegetation, or similar devices. It is not suggested, how-
+ever, that verandas should be omitted. They serve a positive
+need, but a balanced view would tend to restrict verandas to
+requirements for outdoor-living and for protected play-areas for
+children. An additional consideration is that of a covered drying
+area, which is very desirable in the humid tropics.
+Rainfall
+In southern Australia, where rain falls principally during
+winter, a few only of the problems associated with rainfall are
+encountered. Because the weather is usually cold, it is custom-
+ary for dwellings to remain closed against adverse conditions, and
+for water from roofs and sites to be drained in the most expedi-
+tious manner. If rain falls principally during the hot season,
+which is the condition in the hot-humid zone and in the hot-arid
+climatic zone, an entirely different problem arises, and requires
+an adequate solution. The principal new factor, which is acute
+where the climate is hot and humid, is that of maintaining the
+opposing conditions of weathertightness of construction and
+liberal natural ventilation indoors.
+
+
+Basically, it is necessary to know if rain falls steadily over
+extended periods or if it falls as heavy downpours, and whether or
+not precipitation is accompanied by strong wind. If rain is
+usually not accompanied by wind, there is no special problem,
+and the practice of fitting hoods over windows and the use of
+louvres or top-hung sashes will suffice. Driving rain will necessi-
+tate providing greater protection, and place emphasis upon top-
+hung sashes which overlap the openings they serve. It is
+possible, however, that rain squalls might blow from a quarter
+opposed to that of the prevailing breeze, and tightly fitting
+windows or hoppers might then be used on the storm quarter
+only.
+Rain which falls on a roof is usually collected in gutters and is
+drained from the site through pipes. In the humid tropics,
+however, gutters are frequently omitted, to avoid the formation
+of breeding-pools for mosquitoes, and rainwater is permitted to
+discharge directly on to the ground or on to concrete aprons.
+This practice needs to be considered in conjunction with the
+weathertightness of the construction, because the water cascading
+from the roof can be blown against the structure. Despite the
+foregoing, there will be occasions when gutters must be provided
+for the catchment of rainwater. Under such circumstances, it
+would be desirable to grade gutters more steeply than is usual, to
+increase the rate of flow as well as to make drainage more com-
+plete, and to fit mosquito-wire to permanent openings in all
+storage tanks.
+After consideration of the preceding general discussion, it will
+be realized that orientation is an important factor in the function-
+al design of a dwelling. It is important that rooms should be
+located to receive favourable breezes at times when the rooms
+are normally occupied ; the dwellings should be oriented to
+provide maximum self-shading during summer, and principal
+rooms should be oriented to permit ventilation to be maintained
+during summer rainstorms. There is also some preference to
+orient bedrooms away from the east to avoid disturbance of
+occupants by early morning sun.
+Insect Pests
+Some reference has been made already to insect pests and to
+the need for protection from them for occupants of a house.
+There are two schools of thought : one favours the fitting of fly-
+wire screens to all doors and windows ; the other prefers a
+screened enclosure for evening-living areas, and sleeping beneath
+mosquito nets, because it is difficult to screen a house effectively.
+The latter procedure seems to have the greater support and
+practical justification, and can be expected to afford superior
+ventilation, which is a prime consideration when nights are hot.
+In the hot-arid and the temperate zones, flies which abound by
+day are often greater pests than mosquitoes, and the screening of
+doors and windows is amply justified. The screens will also
+exclude flying beetles and insects which are encountered on
+summer nights. Reference is made also to termites and to the
+need to guard against their entry into a structure. This subject
+has already been discussed at length by others.
+
+
+Bush fires
+Bush fires are unfortunately a feature of those Australian
+regions where natural vegetation abounds and a hot-dry season
+is experienced.
+As it is often impracticable to isolate a house so that it will be
+beyond the possible range of burning material borne by a strong
+wind, it follows that openings in construction will constitute a
+hazard in this context, unless they are capable of being closed
+tightly, or preferably, are protected by fine wire mesh. Should
+flying brands effect entry via unprotected openings in roofs,
+gable ends, eaves soffits, or to sub-floor spaces, the properties of
+materials used in the construction of the house can well be of
+little practical importance as a fire safeguard. Indeed, it can be
+suggested that if a bush fire approaches a house so closely that
+external woodwork is ignited by radiated heat, it is problematical
+whether a brick house or a timber-frame house will be the more
+vulnerable in the circumstances, in the absence of adequate
+fire-fighting facilities to attack immediately an incipient con-
+flagration.
+
+
+5. Functional Requirements
+It would be ideal if dwellings could be constructed with thermal
+characteristics which would protect the occupants from all
+unfavourable aspects of the climate, yet enable full advantage to
+be taken of factors which are favourable to human comfort. No
+such solution is possible, and climatic conditions judged to cause
+greatest thermal disabilities should thus constitute the bases for
+initial design.
+Dry-bulb Temperature
+The magnitudes and ranges of dry-bulb temperatures are
+generally limiting factors in design, and govern the choice and
+arrangement of materials for optimum conditions indoors. This
+is particularly true for hot-arid to temperate climatic conditions
+where the diurnal range of temperature is 20 to 35° F. in summer,
+and seasonal extremes differ by 60° F. or more.
+Under such conditions the indoor environment should be
+controlled to bear the following relationships to outdoor con-
+ditions ;
+{a) Summer day—cooler than outdoors.
+( h) Summer night —as cool as outdoors.
+(c) Winter day—as warm as or warmer than outdoors.
+( d ) Winter nights—much warmer than outdoors.
+(c) Winter mornings—much warmer than outdoors.
+Condition (a) can be achieved by the use of heavyweight,
+shaded, or insulated construction, as discussed in the preceding
+section ; the heavier, or better shaded or insulated the construc-
+tion, the cooler will be the indoor environment by day, provided
+that there is no undue heat gain through windows. Condition
+( b) requires that the construction shall cool rapidly after a hot
+day, and this can be approximated without resort to mechanical
+ventilation only in frame construction which is clad lightly and
+is well ventilated. The quick thermal response of frame con-
+struction will make (c) possible on sunny days, but if winter
+days are cloudy, then artificial heating will be necessary to
+achieve conditions (c) and ( d ). When heating is intermittent,
+frame construction responds more rapidly than heavyweight
+construction (e.g., brick or concrete construction), but it has less
+heat-storage capacity than heavyweight construction ; hence
+the latter construction is to be preferred to satisfy condition (<?).
+If summer is severe and more prolonged than winter, heavy-
+weight construction would be desirable for kitchen, dining room,
+and living room, which are occupied by day, and lightweight
+frame construction for bedrooms and evening-living spaces.
+Composite construction is not commonly used, but there does not
+seem to be any reason why it should not be developed.
+When winter is the more severe season, either form of construc-
+tion can provide comfortable conditions indoors when the natural
+thermal characteristics of the construction are aided by wisely
+selected heating appliances ; one form of construction is not
+eminently superior to the other.
+
+
+Similarly, the thermal characteristics of materials of construc-
+tion need not be a prime consideration in districts experiencing
+mild-temperate climatic conditions.
+The criteria to avoid physical discomfort are to maintain the
+temperature of the indoor environment below about 85° F. during
+summer, and to provide a temperature of not less than 65° F.
+indoors during winter. For optimum comfort conditions, it is
+desirable, also, that the temperatures of surfaces bounding a
+room should not be markedly different from that of the air in
+the room.
+Whenever a difference in temperature exists between indoors
+and outdoors, the temperatures of internal surfaces of walls,
+floors, and ceilings will differ from that of air in the room ; those
+of walls and ceilings will be higher when it is hotter outdoors, and
+lower when it is colder outdoors ; floors will usually be at a lower
+temperature than that of the air in the room. The actual
+temperatures prevailing will determine whether the human body
+will gain heat from the surfaces, or lose heat to them. The winter
+problem of cold surfaces can also be acute, because cold surfaces
+promote loss of heat from the body by radiation, and chill the
+air in contact with them.
+Theoretical considerations suggest that appropriate treatment
+would be to screen hot or cold surfaces from a room by means of
+drapes, or by panelling or sheet material having good insulating
+properties ; such materials retard the flow of heat to or from the
+offending surfaces. During winter, this treatment is very
+effective, and in addition facilitates the heating-up of a room
+when a fire is lit or other heating is operated, but in summer,
+when heat is transferred in considerable quantities through open
+windows, wall surfaces so treated continue to behave in this
+fashion, and can warm up rapidly, independently of the thermal
+characteristics of the backing wall.
+At first sight it might be thought that it would be preferable to
+limit ventilation during summer, and that keeping windows
+closed would promote more comfortable conditions indoors.
+This is true to some extent, but when the temperature of air
+indoors rises above about 80° F., occupants of a house will seek
+additional air movement. If this can be provided conveniently
+by a fan which agitates the air in a room, a considerable measure
+of relief is usually possible, but many households rely upon
+opening windows to outdoor breezes, even if somewhat hotter
+that the air indoors, to provide the relief sought. This procedure
+is not paradoxical, as might appear to be the case.
+Thermal insulation, when incorporated in the shell of a
+dwelling, will retard the rate at which heat is received by or lost
+from the lining of a room, but the changes in surface temperatures
+which will result will depend further upon the thermal properties
+of the lining material and the quantity of heat which can be
+exchanged for unit change in temperature. An earlier reference
+was that lightweight material responds more readily than heavy-
+weight materials to exchange of heat ; therefore lightweight
+materials will be valuable for lining rooms in which rapid changes
+in surface temperatures are desired.
+
+
+In circumstances where the materials of construction have
+been chosen particularly for durability or for structural reasons,
+thermal insulation can often be applied to the construction
+to retard the flow of heat. Thermal insulation is available
+commercially in Australia in three principal forms, namely,
+mineral-wool-type insulation, reflective-type insulation, and
+insulating boards.
+Insulation of the mineral-wool type is usually available in the
+form of granules, batts, and blankets ; some suppliers have
+equipment for the pneumatic placement of insulation in the walls
+and roof spaces of houses already erected. Reflective insulation
+is available in several forms and grades ; its efficacy depends on
+the use of one or more bright metallic-foil surfaces interposed as a
+detached diaphragm between a hot or cold surface and the
+surface to be protected thermally. Softboards, normally
+marketed as wallboards, are also insulating boards ; other types
+of insulating board often require to be faced or be otherwise
+protected in service, as they may not provide durable wearing
+surfaces.
+It should also be recognized that a bright foil surface which is
+fixed upward facing in a horizontal plane will gradually become
+coated with dust, and that its ability to reflect heat will according-
+ly be reduced. Although this is unfortunate, the overall
+insulating effect is not impaired seriously, because the method of
+fixing reflective insulation usually provides at least one air space
+which did not exist previously, and this air space itself provides
+a useful measure of thermal insulation. Those types of reflective
+insulation which have a paper base should preferably be faced
+both sides with foil or some other impervious film.
+Because thermal insulation will retard the rate at which heat
+will flow from or to a material, it provides means for regulating
+the temperatures of the material through which the heat flows.
+An illustration of this principle for winter conditions is the
+increase in temperature of internal surfaces of a heated room
+which will occur when the wall is insulated. Some of the heat
+which would have been lost in the uninsulated condition is
+retained within the material, and produces a rise in temperature
+throughout it. For the summer condition, when the direction
+of flow of heat is reversed, thermal insulation can reduce the rate
+at which heat is received by a material, and consequently prevent
+its attaining a temperature as high as that which would have
+been attained in the uninsulated condition.
+Windows are difficult to insulate effectively, and double
+glazing is usually adopted when the winter climate is particularly
+severe. Effective protection for less severe winter conditions
+can be provided by heavy drapes or curtains which extend to the
+floor, or fit the windows closely. Drapes or curtains of this
+nature will prevent air in the room from circulating against the
+cold glass, and they provide surfaces which will respond quickly
+to intermittent heating. Double glazing does not reduce
+materially the transmission of solar radiation.
+The foregoing considerations of transmission of heat apply to
+floors also, but smaller temperature differences are usually
+
+
+associated with the same indoor and outdoor conditions. Firstly,
+the temperature of air reaching the underside of a suspended
+floor will approximate that of outdoor air for a timber-frame
+house without footing walls or equivalent protection for the
+under-floor space, but if the sub-floor space is protected, which
+is the case for a brick house, air beneath the house will be appreci-
+ably warmer. Secondly, open fires and radiators, and other
+heating appliances which introduce heat into a room above floor
+level, fail to influence directly the temperature of the surface of a
+floor, which therefore often remains 5° F. or more cooler than air
+in the occupied zone of the room.
+Thermal insulation alone will not prevent traditional floors
+from being relatively cold, because air will convect naturally and
+maintain warmest conditions at upper levels in a room. How-
+ever, the introduction of heat into a floor or at floor level will
+reduce the temperature difference between floor and ceiling, and
+provide more equable conditions.
+Concrete slab floors in contact with the ground do not vary in
+temperature to nearly the same extent as do suspended timber
+floors. In consequence, they serve to stabilize the temperature
+of indoor environments. Nevertheless the temperatures of
+concrete slab floors on the ground can, in winter, fall below the
+comfort limit discussed in section 7. The response of such floors
+to convective heating is slow ; this characteristic of concrete
+slab floors, though a favourable one in summer, is to some extent
+undesirable in winter. However, it so happens that the natural
+thermal characteristics of a floor are masked substantially by the
+application of floor coverings, particularly by those such as felts
+and carpets, which afford a measure of thermal insulation.
+Suspended concrete floors generally lack inherent thermal merit.
+The preceding paragraphs have considered indoor environments
+during winter when a room has been warmed, and stable con-
+ditions have been reached. These considerations pertain to
+situations involving continuous heating during winter, which is
+common practice in Europe and the United States, and data for
+such regions are broadly applicable in Australia, but when
+heating is intermittent, as is customary in many parts of Aus-
+tralia, other physical factors operate and assume importance.
+When space heating is intermittent, the heat capacity of the
+construction will influence the rate at which heat introduced into
+a room will raise the temperature of air within the room, and the
+rate at which the temperature of the air will fall when the source
+of heat is removed, in much the same way as the indoor environ-
+ment is influenced in summer.
+Because heavyweight construction, of which 11-in. brick
+cavity-wall construction is an example, is able to absorb large
+quantities of heat without an appreciable rise of temperature
+within it, a room with heavyweight walls will warm slowly, as
+compared with a room with walls of lightweight sheeting.
+However, heavyweight construction, once it is warmed, will
+liberate heat for some hours after the original source of heat has
+been removed, and can provide comfortable conditions after air
+in an equivalent room in timber-frame construction has ceased
+
+
+to be warm. Thus, when heating is intermittent, and a fire is
+lighted during evenings only, brick construction will provide still
+warmer morning conditions than frame construction.
+One method of assisting air within heavyweight construction to
+heat more rapidly is to line walls with lightweight sheeting, such
+as softboard, or with wood panelling. (The former is a soft
+material and therefore has not the wearing qualities of plaster
+or cement render.) Alternatively, heavy-quality wallpaper
+might be applied to walls ; it has been found to be similarly
+effective to a measurable degree.
+If the winter climate is essentially cloudy or overcast, reliance
+should be placed upon heating a dwelling continuously from
+within if comfortable environmental conditions are to be main-
+tained indoors ; no special significance need then be attached to
+the weight of construction involved. However, if winter days
+are sunny, timber-frame construction will respond much more
+quickly to heat received by solar radiation than will heavyweight
+construction, and to that extent the former can be expected to
+provide more favourable conditions indoors during the day. This
+is confirmed by experimental evidence( 10 ) which shows that
+traditional frame construction is warmer than brick construction
+from mid-morning to late afternoon on sunny winter days.
+There is also some evidence to show that the sluggish warming
+of brick construction can be partially offset by freely admitting
+winter sunshine through large north-facing windows, and that
+the benefit of the heat received indoors by the penetration of
+sunshine is not lost at night, provided that heavy internal drapes
+are fitted to the windows. It appears, also, that heat reflected
+from the ground and the sky can be intercepted in summer by
+shutters or louvred blinds fitted externally.
+It has already been noted than thermal insulation, incorporated
+in the shell of a structure, retards the flow of heat through the
+construction and thereby reduces the magnitude of the solar
+effect indoors ; thus, an uninsulated house, when subjected to
+solar radiation, will heat more rapidly than an equivalent insul-
+ated house, and will attain a higher temperature. Insulated
+rooms, therefore, if not heated from within, will not be as warm
+during sunny winter days as equivalent uninsulated rooms.
+These effects are most pronounced in rooms where windows are
+closed to exclude cold wind, and are distinct from summer
+considerations when windows are normally opened for ventilation.
+Relative Humidity
+The level of relative humidity is a characteristic of climate.
+Ambient conditions pertain within well ventilated houses, except
+that higher humidities will occur at times as the result of cooking
+and ablution processes, and the like.
+However, in winter, when a house is closed against inclement
+weather, the relative humidity of air indoors can rise markedly
+above outdoor levels. As a result, slight cooling of indoor air
+such as is brought about by its contact with cold wall surfaces
+will lead to the formation of condensation thereon. It follows
+
+
+that surfaces subject to wetting by condensation in this manner,
+or, where relevant, the decorative finishes applied to them, should
+be resistant to moisture. (A parallel problem exists in hot-
+humid climates where humid atmospheric conditions are conduc-
+ive to the growth of mould on paints. See page 6.)
+Winter conditions envisaged above lead to the natural outward
+migration of water vapour from the warm indoors. Should water
+vapour in its passage through construction encounter compon-
+ents at temperatures at or below dewpoint temperature, con-
+densation will form within the construction, with attendant
+dangers to materials and finishes.( 6 ) In circumstances where
+the average minimum winter temperature is about 40° F. or
+lower, the aforementioned condensation problem is likely to be
+acute, and warrants consideration in relation to the conditions
+involved. The situation is one which calls for the use of an
+effective vapour barrier at the warm (indoor) side of the con-
+struction, to impede the entry of water vapour into the
+construction.
+It follows that water vapour which might nevertheless pene-
+trate into the construction should be free to reach outdoors.
+Hence, the method of sarking weatherboards might need to be
+specially considered in relation to the behaviour of the sarking as
+a vapour barrier, in the wrong position for the latter. Where
+both treatments are used, the sarking, as fixed, should be more
+permeable to water vapour than the vapour barrier.
+Prevailing Winds and Natural Ventilation
+The utilization of favourable breezes for ventilation is a
+constant consideration in the humid tropics, where dry-bulb
+temperatures are consistently high during summer and are high
+by day at other times of the year. In other climatic zones the
+problem is essentially a summer one. Whatever the circum-
+stances, an adequate solution depends largely upon planning and
+the ability of the designer to orient a dwelling to receive breezes
+in rooms at times when they will normally be occupied.
+Restful sleep, which is vital to the maintenance of good health
+and efficiency, is not possible in a hot, calm environment. It is
+recognized, however, that air movement will alleviate conditions,
+and functional design must therefore enable full use to be made of
+cool breezes which blow during evenings and at night ; evening
+breezes will assist the rooms to cool after a hot day, and night
+breezes will continue the cooling process and continue to induce
+the air movement which promotes greater physical comfort in
+summer.
+The benefit to be derived from ventilation through windows
+will be largely nullified if sills of windows are set too high to
+permit the circulation of inflowing air at bed level, or if the win-
+dows and door of a room are not arranged to ensure that air
+movement is induced throughout the room. Night breezes are
+usually light by comparison with daytime breezes.
+The daytime problem is more complex : a kitchen requires
+copious ventilation, to remove heat and fumes from cooking
+
+
+processes without dispersion of heat and odours throughout the
+house ; the living room, which can be occupied at any time during
+the day and evening, needs to be well ventilated in summer during
+the greater part of the day. The extent to which these require-
+ments can be fulfilled will be influenced by site conditions, and
+by the direction and strength of prevailing breezes.
+The ventilation of a kitchen is usually a vexed problem in
+which planning is a major factor. It is not always feasible to
+set cooking stoves into ventilated recesses on the leeward sides of
+houses, to provide for the natural removal of heat and fumes, or
+to locate them in recesses ventilated by chimney stacks of normal
+domestic proportions. In consequence, resort has been made to
+the provision of vented canopies over cookers to entrain heated
+fumes. Such an arrangement is partially effective for the
+purpose, at best, even when a canopy and the flue therefrom
+are generously proportioned ; they are relatively ineffectual
+where there is a cross-draught over the cooker, as will often be the
+case in a kitchen well ventilated by an open window. A power-
+operated exhaust fan located in an external wall of a kitchen
+might frequently be required to overcome difficulties of the
+nature discussed.
+The practice of venting appliances and canopies into roof
+spaces on the ground of expediency is one which warrants close
+scrutiny ; it can be regarded as insanitary, and it is conducive to
+the formation of condensation under roofs which are sheeted,
+sarked, or boarded.
+Verandas have become traditional as outdoor living areas, and
+in some climatic zones have come to be regarded as an essential
+provision to provide a cool area to which occupants of a house
+may resort on hot nights. While it is not denied that a veranda
+can serve the purpose intended, it is questionable whether a
+veranda is necessarily the solution. A more functional approach
+to the problem would be to design dwellings to improve environ-
+mental conditions indoors to the point where it would be un-
+necessary for occupants to seek relief outdoors. This is usually
+possible by open planning and considered placing of windows and
+doors for maximum utilization of air movement available
+outdoors.
+Because verandas serve also as play areas for children, and as
+drying space for clothes, they are useful additions to a dwelling,
+but some caution needs to be exercised when planning them. If
+a veranda is on the windward side of a house, and windows of
+rooms open on to it, these rooms will be ventilated by air which
+traverses the veranda. It is important, therefore, that inflowing
+air should not become hotter as it passes along or across the
+veranda. One way of avoiding the trouble is to line the underside
+of the roof with boarding or sheet material, and to leave the
+veranda open. It has been found experimentally^ 1 ) that an
+unlined veranda with a galvanized-iron roof and enclosed with a
+single thickness of sheet material and casement windows will
+cause air contained within it to rise at least 5° F. above the
+temperature of shade-air when the veranda is sunlit and the
+outdoor temperature is only 90° F.
+
+
+Sunshine
+References have been made already to solar radiation and to
+its heating effect on sunlit surfaces. Sunlit surfaces become
+hotter than the temperature of shade-air, and in summer the
+problem arises of preventing the effect being transmitted indoors,
+yet, in winter it is desirable that a dwelling should respond to
+heat received from the sun, as well as to the normal increase of
+air temperature. The conflicting requirements suggest that the
+selective seasonal shading of construction, rather than reliance
+on either thermal insulation or heavyweight or lightweight
+construction alone, will assist in the resolution of this thermal
+problem.
+The effect of shading is that the temperatures of external
+surfaces, otherwise sunlit, will be maintained at or about the
+temperature of shade-air, and a much smaller outdoor-indoor
+temperature difference will be available to drive heat inwards.
+To some extent shade is thus equivalent in its effect to
+thermal insulation in summer ; the latter retards the flow of heat
+by introducing a thermal resistance.
+It is not always convenient or economical to shade roofs, but
+walls lend themselves to this treatment. Permanent shading
+devices in the form of trellis or sheet material, although useful
+in summer, will continue to provide shade in winter, and are
+therefore not as functional in their behaviour as deciduous
+vegetation, which can be grown on light frameworks.
+Throughout most of Australia, the normal projection of eaves
+and gutters will provide shade for walls which face north (and for
+south walls north of the Tropic of Capricorn) during summer
+months. When site conditions permit a house to be oriented in
+this way, east and west walls only require to be protected other-
+wise. The provision to be made will be a minimum if east and
+west walls are as short as possible, but verandas should not be
+expected to shade east and west walls from direct sunshine during
+early mornings and late afternoons, when the sun is at low
+altitudes.
+When designing for natural lighting, it is desirable to locate
+heads of windows as high as practicable, because the intensity
+of daylight at points in a room remote from a window increases
+as the height of the head of the window is increased. Further,
+the penetration of daylight into a room is improved to a greater
+degree by raising the head of a window than by increasing the
+width of the window by the same amount.
+The areas of glass, expressed as percentages of the areas of
+floors, which might be used as a guide to reasonable minima for
+rooms 10 to 15 ft. deep, and illuminated by windows in one wall,
+are given below :
+
+
+TABLE OF AREAS OF GLASS FOR WINDOWS IN PRINCIPAL ROOMS
+ROOM
+HEIGHT
+OF HEAD
+OF
+WINDOW
+AREA OF GLASS (PERCENTAGE OF
+FLOOR AREA) FOR ANGLES OF
+OBSTRUCTION OF
+NO
+OBSTRUCTION
+10°
+20°
+!
+i o
+°
+o
+Living \
+Dining j
+Bedrooms ...
+Kitchen
+6 ft. 8 in.
+7 ft. 8 in.
+6 ft. 8 in.
+7 ft. 8 in.
+6 ft. 8 in.
+7 ft. 8 in.
+m%
+10%
+io%*
+io%*
+25%
+20%
+15%
+12*%
+10%*
+U)%*
+30%
+25%
+25%
+20%
+12*%
+10%
+50%
+40%
+40%
+30%
+20%
+15%
+* Usually regarded as minimum provision.
+In bathrooms, the area of glass in windows can reasonably be
+6 sq. ft. or 10 per cent of the floor area, whichever is the greater,
+and in laundries, 12 sq. ft. or 12| per cent of the floor area,
+whichever is the greater.
+In the foregoing table, the column headed “ No Obstruction ”
+is applicable to a situation in which only sky is visible through a
+window from the point which is being considered in the room.
+This condition could be realized on a sloping site in a built-up
+area, or in the country, but more frequently trees or other
+buildings obstruct light. Typical obstructions which are en-
+countered on suburban allotments are illustrated in Fig. 5, and
+their heights are expressed as angles of elevation above a hori-
+zontal plane through the sill of the window. These angles are
+to be used when applying the preceding table to windows which
+face obstructions.
+For situations where it is considered inadvisable to attempt
+to maintain the level of illumination in a room by lighting it
+from windows in one wall, data have been omitted from the table.
+In these circumstances, windows in two walls would be desirable,
+but if this cannot be arranged it is possible that a lower standard
+of illumination may be accepted without hardship. Daylighting
+of houses is a different problem from that of illuminating working
+areas in offices and factories, because, in the home, tasks can
+often be moved near to windows, and high levels of illumination
+are not essential throughout all rooms. Because of this flexi-
+bility, normal design procedures need not be followed to arrive
+at a satisfactory answer, and the approximations which are
+given in the foregoing table will be applicable to most domestic
+situations. Broadly, adequate daylight can be expected in
+rooms with unobstructed windows of normal proportions at
+distances from the window equal to twice the height of the head
+of a window above the floor.
+Sunlight is frequently associated with conditions of glare,
+which constitutes a serious visual disability. Sunlit surfaces
+such as window sills, walls of adjoining property, and even light-
+coloured ground or concrete, within the field of view can be
+troublesome in this regard. Similarly, skies which are bright,
+because of the presence of clouds or haze, can be objectionable.
+
+
+/XA |V7 # j tnc *
+lj f4 *\} \ ,llmtt ' in,
+i^ 1
+[* ~ ~ ' 80'
+"V
+'^ s ‘ ~~ ’ Tsvo-ihorcy Obstruction
+’ ~— Obstruction
+' s<
+r
+SITE PLAN
+/ ObsVrocHon . **
+, \/
+. 4inol«-iterty ObsfrucMon I
+> 9 i zs I
+SIDE BOUNDARIES
+OBSTRUCTIONS AT FRONT
+OBSTRUCTIONS AT REAR
+Fig. 5. TYPICAL OBSTRUCTIONS OCCURRING ON
+SUBURBAN ALLOTMENTS
+
+
+However, it is not widely recognized that these glare problems
+will be intensified if window walls and window framing seen from
+within a room are not painted in light colours.
+Rainfall
+The problem of entraining rainwater which falls on the roof of
+a house is universal, and traditional practices for collecting this
+water and conveying it away from the building are, in most cases,
+entirely adequate. Similarly, domestic construction for cool
+climates has been developed in a manner which ensures the
+exclusion of driving rain. No special problems arise, because
+rain is usually accompanied by cool to cold winds, and it is
+convenient to maintain windows and doors closed.
+However, particularly in northern Australia, the wet season is
+the hot season, and it is essential to maintain effective ventilation
+indoors without admitting rain. Sometimes existing practices
+fail to exclude rain, and residents in the humid tropics are
+prepared to accept the penetration of water if good air movement
+can be maintained. Such an attitude is logical if provision is
+made to collect water which seeps indoors, and to drain it
+outside. It is common experience that some forms of louvres
+leak between the blades and their frame, but because the rain
+which penetrates will run down the internal surfaces of the
+frames, this water can be intercepted readily, and be drained
+away without causing damage to adjoining construction or
+furnishings.
+When rain is not accompanied by wind, wide eaves or hoods
+will afford sufficient protection for open windows ; but driving
+rain will beat indoors unless other precautions are taken. On
+this account, there seems to be a need to develop a tropical
+window unit to serve the special needs of the climate. One
+functional arrangement would be a frame extending from floor
+to ceiling, and containing casements or louvres within the normal
+window area and top-hung sashes or louvres above and below.
+All three sections could be opened during favourable weather,
+and when rain squalls occurred the middle section only need be
+closed ; the eaves would protect the top opening, and a liberal
+overlap for the bottom panel would ensure reasonable protection
+of the opening at the lower level.
+Insect Pests
+It is customary to prevent the entry of flies, mosquitoes, and
+other flying insect pests by fitting screens to windows and by
+protecting external doorways with flywire doors. The latter
+serve a dual role, by allowing the passage of air while obstructing
+insects. The extent to which a house need be protected will
+depend largely upon the prevalence of flying creatures, and the
+time of day when they abound.
+When circumstances dictate that all windows and external
+doorways should be screened against flies, as usually is the case
+in hot-dry climates, it is a common error to overlook the entry
+of flies via chimneys. It is therefore desirable that chimneys,
+too, should be fitted with flywire screens. A chimney which
+serves a solid-fuel cooker can be fitted with a screen within the
+chimney, below the top of the metal flue ; other chimneys, which
+might serve open fireplaces, will require screens which can be
+removed when it is desired to light a fire.
+
+
+6. Orientation
+If an attempt were made to observe all functional requirements
+when designing dwellings to suit climatic conditions, considerable
+confusion would result, and it is doubtful whether a workable plan
+could be prepared. No matter how important each requirement
+might be, there must be compromise to ensure proper relationship
+between the several rooms of a house and the purposes which they
+are intended to serve. Some examples of needs which can cause
+conflicts in design are given below ;
+1. All habitable rooms should receive favourable summer
+breezes at times when they are normally occupied,
+whether or not summer breezes blow from two quarters at
+different times of the day. Windows in such rooms
+should nevertheless face away from the storm quarter,
+and away from the quarter of cold winds.
+2. A dwelling should be shaded in summer, and use be made
+of self-shading, but shade can be disadvantageous during
+winter.
+3. Notwithstanding 1 and 2 above, bedrooms should not face
+east if the morning sun is to be avoided, and windows of
+principal rooms should not overlook adjoining premises.
+When a compromise is to be effected, it is first necessary to
+decide whether the summer season or the winter season causes
+the greater thermal disability in the district concerned. This
+can be determined by reference to published data.( 3 ) If it is
+judged that summer is the more severe season, and that the
+summer climate is hot and dry, then the principal design factors
+decrease in importance in the following order :
+{a) Utilization of cooling breezes to promote ventilation
+indoors.
+( b) Use of building materials and thermal insulation,
+supplemented by shading devices, to minimize the effect
+indoors of solar radiation.
+(c) Use of building materials and thermal insulation to
+facilitate heating of rooms on cold nights.
+{d) Utilization indoors of winter sunshine.
+If the summer climate is severe, but conditions are humid
+instead of dry, then the important design factors are [a) and ( h )
+in that descending order, but there are usually no winter problems
+to justify special provisions regarding (c) and ( d ), When the
+winter problem is dominant, the sequence becomes {d), (c), and
+(6), which places emphasis upon keeping warm.
+In those regions where the climate is truly temperate, extreme
+temperatures are the exception rather than the rule. In such
+districts, the designer need consider only (a) and (d), unless it is
+specially desired to design for a few particularly hot or very cold
+days to be experienced annually.
+Because the directions of prevailing breezes and other
+characteristics of climate vary within a climatic zone, no firm
+recommendations can be made as to how these conditions can
+
+
+be satisfied. It must remain the responsibility of the designer
+to analyse problems individually, and to interpret functional
+requirements within the limitations imposed by site and other
+conditions.
+If a functional design is to be developed, there must be constant
+recognition of such factors as the quarters whence principal winds
+blow, and the directions from which solar radiation will be
+received at different times of the day throughout the year.
+When these climatic factors have been considered with the needs
+of various rooms of a house, it will be found that site conditions
+will often prevent compliance with all of them. In these cir-
+cumstances, particularly, careful orientation of principal rooms
+will assist the designer to regulate the effects of the climatic
+factors which are involved.
+However, in so doing, it is desirable to ensure that windows of
+rooms in which quietness is sought are faced away from busy
+streets and windows in adjoining premises. This can be specially
+important in hot-climate regions where windows must necessarily
+remain open ; noise travels relatively unimpeded through an
+open window. Noise is attenuated as the distance from its
+source is increased, and by trees, shrubs and the like serving as a
+barrier against the transmission of noise, but the benefits to be
+derived from these should be regarded as being nominal only on
+domestic sites of normal size. Thus, the question of privacy can
+attain special significance.
+Although matters pertaining to planning are expressly excluded
+from this analysis of climate and the design of houses, reference
+might usefully be made in this context to the added internal
+privacy between bedrooms of open construction in hot-humid
+climates which is afforded by the insertion of the bathroom or
+other utility space between them. Nevertheless, it is to be
+recognized that noise is transmitted by air along circuitous paths,
+and through openings even as small as those commonly present
+between doors and a floor.
+
+
+7. Physical Discomfort
+Preceding sections have discussed the components of climates,
+and means whereby the effects of their unfavourable character-
+istics might be tempered indoors. The extent to which such
+adjustment can be made is frequently variable, and can be a
+matter of personal choice, with economic implications. Merit
+inherent in proposed measures for the improvement of the indoor
+conditions can now be forecast from an understanding of the
+reaction of the human body to its thermal environment.
+As has been indicated previously, most people would prefer to
+live in an environment having a dry-bulb temperature of approxi-
+mately 65° F. during winter and of about 76° F. during summer.
+People in some climatic zones might wish to make small adjust-
+ments to these temperatures for optimum conditions, but the
+temperatures quoted will suffice for discussion of the general
+case. Within this range of temperatures comfort can be achieved
+by adjusting the quantity of clothing worn. At lower tempera-
+tures, clothing or heating will restore the proper heat balance ;
+beyond the upper limit, however, it is necessary to discard
+clothing to maintain tolerable comfort, and frequently the
+environment can be sufficiently hot to cause physical discomfort
+when clothing has been reduced to a conventional minimum.
+Thermal discomfort does not occur at any precise temperature ;
+its onset is progressive outside the broad range of temperature
+noted above, and is influenced by climatic factors in combination,
+and by the activity and dress of the person concerned.
+As temperatures rise from the optimum level of about 76° F.
+to approximately 85° F., above which discomfort can be expected,
+human beings make progressive changes in their mental assess-
+ment of the thermal stress of the environment ; comfort is
+superseded by indefinite sensations of feeling hot, and finally
+discomfort occurs with profuse sweating and other indications
+of thermal strain. It is common experience, however, that not
+all temperatures within this transition range are uncomfortably
+high, and that conditions which they produce can be hot without
+being unpleasantly so. Because the distinction between comfort
+and discomfort is a matter of individual opinion, it is not possible
+to define precisely those conditions which will produce the same
+responses from all individuals of a group ; males are generally
+less tolerant of heat than females, for example, though the margin
+is small.
+Dry-bulb temperature provides a convenient index of dis-
+comfort at summer temperatures ; it correlates well with sub-
+jective reactions, and its numerical value is readily understood in
+relation to climatic stress. ( 12 ) However, the measured value of
+the dry-bulb temperature of an environment is not the true
+measure of the situation ; it requires adjustment to acknowledge
+the cooling influence of air movement, and the disabilities of high
+humidity and hot surfaces.
+For the reason that the weightings which are discussed below
+were deduced from investigations concerned with subjective
+
+
+reactions under conditions of hot discomfort, they are not
+intended to be applicable at ambient dry-bulb temperatures below
+80° F. At normal summer dry-bulb temperatures of 80° F. and
+higher, the dry-bulb index temperature can be deduced by
+adjustment of the prevailing dry-bulb temperature in accordance
+with the following procedure :< 13 )
+Add I|° F. for each 10% increase in relative humidity above
+40%.
+Subtract 1° F. for each increase of 30 f.p.m. in rate of air
+movement above 10 f.p.m. up to 200 f.p.m., provided air
+temperature does not exceed 98° F.
+Add 1° F. for each 5° F. that the average temperature of a
+wall or a ceiling exceeds 100° F.; where more than one hot
+surface is involved, this adjustment should be made with
+respect to each such surface.
+When the foregoing is applied to an environment in which the
+dry-bulb temperature is 88° F., the relative humidity 40%, air
+movement 100 f.p.m., and the ceiling and one wall have average
+temperatures 105° F., the resulting index temperature is—
+88 + (li x 0) (1 X 3) + (1 X 2)
+= 88 + 0 3 + 2 = 87° F.
+Had the ceiling and wall in the above example been insulated
+thermally, or otherwise maintained at temperatures approxi-
+mating the indoor dry-bulb temperature, the index temperature
+would have been 85° F., the nominal threshold of discomfort,
+and not above it.
+These examples not only highlight the subjective implications
+of climate factors in summer, but show also the practical con-
+venience of a weighted dry-bulb index of thermal stress for
+environmental conditions ; the component weightings reveal
+the relative benefits to be derived from alleviatory measures
+available at different costs.
+The deduced index temperature might be regarded as an
+equivalent temperature (but not in the sense of the Equivalent
+Temperature index of comfort),( 14 ) in that it is intended to
+conjure up a picture of thermal stress commonly associated with
+an environment having a dry-bulb temperature of the deduced
+numerical value with conditions of moderate relative humidity
+and calm air.
+Relative humidity is not commonly a comfort consideration in
+winter, unless its value should become unduly low. This can
+happen when cold air at low relative humidity is warmed for
+reasons of comfort. When such warmed air is breathed, mucous
+membranes can be irritated, unless the air is artificially humidi-
+fied. The winter problem is rather that conditions of high
+humidity are conducive to the formation of condensation, as
+discussed in section 5.
+The movement of air, and increments in the rate at which it
+moves, are detected much more readily in winter than in summer
+by human beings. In fact, air moving indoors at 40 f.p.m.( 15 )
+
+
+might well be regarded by many persons as constituting a draught
+at temperatures around 65° F.
+In parallel to the foregoing, human awareness of warm and
+cold surfaces is quickened at winter temperatures. The former
+are conducive to comfort, whereas the latter can affect conditions
+adversely in two ways ; body heat is lost by radiation to cold
+surfaces, and further chilling around feet and ankles results when
+air cooled by contact with cold surfaces gravitates downwards,
+to spill across the floor of a closed space.
+The merit of warming a space by the introduction of heat at
+floor level is thus clearly apparent, though such an arrangement
+is not without economic and technical difficulties. One such
+difficulty is that of introducing heat in a quantity appropriate to
+the circumstances, without raising the temperature of the surface
+to be walked upon above 80 to 85° F.( 16 ) If higher floor tempera-
+tures are induced, feet in contact with the floor will be so warmed
+as to cause the body to react as if the environment were truly
+warm to hot ; such a condition can be prejudicial to health.
+If, however, a person’s feet are placed in contact with a cold
+floor, the effect will be that the circulation of blood to the legs
+and feet will be restricted automatically, with consequent
+chilling of these members. Although critical temperatures have
+not yet been clearly determined, a seated person can anticipate
+this chilling to occur when the temperature of a floor or of air
+immediately above it is about 57° F. and lower, though the
+temperature of the air around the torso might be within the
+accredited winter comfort range of 65 to 68 °F.
+Paradoxically, the conventional open fire, which is both
+traditional and popular, is a poor aid to winter comfort ; it is
+grossly inefficient, it is highly directional as to the emission of
+radiant heat, and it induces strong draughts in the room served.
+However, draughts can be reduced by the introduction at or near
+the hearth of cold outdoor air needed to satisfy the draught of
+the chimney.* 17 )
+The foregoing discussion relates to persons who are standing
+or seated. When persons are reclining, somewhat different
+temperatures are associated with the onset of discomfort, for the
+reason that such a posture retards materially the loss of heat from
+the body. In summer, this can be a major disability. Where hot-
+humid conditions prevail, relief is frequently sought through the
+normal use of a fan. Some relief is possible in this way also,
+where hot-dry conditions prevail, though the fan might be used
+to better advantage at night at an open window to encourage the
+inflow of cool outdoor air. A preferred simple arrangement of
+assisted ventilation is that employing an attic-type fan, ( 18 ) but
+it is not proposed to discuss herein the use of equipment as an
+adjunct to comfort.
+Reference must also be made to the ingrained belief held widely
+in northern Australia that the practice of elevating a house above
+the ground is conducive to greater comfort indoors ; an elevated
+house is claimed to be cooler than a similar one built convention-
+ally nearer the ground.
+
+
+An examination made of the problem in relation to gradients of
+temperature, humidity, and air movement occurring at limited
+heights above the ground provided no real evidence to support
+the belief.( u ) It was found, on sunny days, that air 15 in. above
+the ground was usually 2° F. hotter than air 7 ft. above the
+ground, and that on particularly hot calm days the difference
+increased to 4 to 5° F.; air temperatures at the 7-ft. level were
+usually only 1° F. cooler than air at 4 ft. above the ground. No
+humidity gradient could be established, even under simulated
+conditions of high temperature and humidity.
+Observations of air speeds at heights of 5 ft. and 11 ft. above the
+ground revealed, as is to be expected, a greater rate of movement
+at 11 ft. than at 5 ft. However, the advantage possible at the
+11-ft. level was significant numerically only when the rate of air
+movement was judged to be adequate physiologically at both
+levels.
+Nevertheless, a new facet to the problem results from the
+increasing use of concrete slab floors for houses ; doors and
+windows, and other ventilation openings at low levels in a house
+are accordingly brought closer to the ground than when floors are
+timber-joisted, and some minor temperature disability might
+well be encountered in consequence. Notwithstanding, the
+height of a floor is likely to be determined from considerations of
+practical convenience and personal choice, outside by-law
+limitations.
+The coolest place in an elevated house is the space beneath it ;
+the “ ceiling ” is well insulated, the “ floor ” is shaded ground,
+and the natural breeze-way is conducive to good air movement.
+
+
+8. Recommendations
+If circumstances permit functional requirements to be
+observed, it will be advantageous to adopt the principles which
+are summarized in the table hereunder. In this table the prob-
+lem of house design is considered on a year-round basis for the
+three major climatic zones in Australia, and the suggestions allow
+for those situations where there is conflict between requirements
+for summer and winter.
+OF PRINCIPAL FUNCTIONAL REQUIREMENTS (THERMAL)
+TABLE
+CLIMATE
+ELEMENT/
+HOT-HUMID ZONE
+HOT-ARID ZONE
+TEMPERATE ZONE
+Heavyweight construction 01
+insulated frame construc-
+tion for sunlit walls ; other-
+wise frame construction.
+Heavyweight constructioi
+for living rooms, dininj
+rooms, and kitchens ; frami
+construction for bedrooms.
+Weight of construction not
+important, but provisions
+for hot-arid zone useful in
+districts remote from coast.
+Frame construction ade
+quate, but heavyweighl
+construction offers bettei
+resistance to transmissior
+of noise.
+As for walls above.
+As for walls above.
+Cladding and pitch to b<
+selected primarily foi
+weather-resistance. Roofs
+may be framed or of heavy-
+weight construction.
+Cladding and pitch to b(
+selected primarily foi
+weather-resistance. Roofs
+may be framed or of heavy
+weight construction.
+Cladding and pitch to be
+selected primarily for
+weather-resistance. Roofs
+may be framed or of heavy-
+weight construction.
+Essential, and if not insul-
+ated, should be fixed cleai
+of roof to permit roof space
+to be ventilated freely.
+Essential, and if not insul-
+ated, should be fixed clea:
+of roof to permit roof space
+to be ventilated.
+Essential, and if not insul-
+ated, should be fixed clear
+of roof.
+Concrete on ground or sus-
+pended, or timber sus-
+pended, as desired. Enclose
+under-floor spaces, if any.
+Concrete on ground or sus
+pended, or timber suspend-
+ed, as desired.
+Concrete on ground or sus-
+pended, or timber sus-
+pended, as desired. Enclose
+under-floor spaces, if any.
+Casements, top-hung sashes,
+louvres, used extensively tc
+minimize blank walling.
+Casements, top-hung sashes,
+or double-hung sashes, all
+capable of being closed
+tightly.
+Casements, top-hung sashes,
+or double-hung sashes, all
+capable of being closed
+tightly.
+Desirable to provide at least
+1-in. mineral wool or layer
+of reflective insulation
+between roof and ceiling,
+and in frame walls which
+cannot be shaded.
+Desirable to provide at least
+1-in. mineral wool or layer
+of reflective insulation
+between roof and ceiling,
+and in frame walls though
+they be shaded.
+Advantageous to lay at least
+1-in. mineral wool on ceil-
+ings, or layer of reflective
+insulation over ceiling joists
+of heated rooms.
+Not required, except where
+space is air conditioned.
+Not required.
+Required in cool temperature
+regions, especially when
+walls and ceilings are insul-
+ated.
+Shade walls by eaves ; ad-
+ditional shade optional ;
+internal blinds adequate.
+Shade walls by eaves or with Shade walls by eaves or wit:
+trellis or vegetation ; shade trellis or vegetation ; shad'
+windows with shutters or windows with shutters 01
+blinds, preferably extern- blinds, preferably extern-
+ally. ally.
+Not essential, but paint oi
+base material should be ol
+lightest practicable coloui
+if wall or roof not insulated.
+Not essential, but paint 01
+base material should be o:
+lightest practicable coloui
+if wall or roof not insulated
+Surface treatments and
+colours of external surfaces
+not important, though light
+colours preferable if wall or
+roof not insulated.
+
+
+Although the functional design of a house with respect to
+climatic conditions is conducive to more comfortable living
+conditions, it is no substitute for efficient planning for con-
+venient living. Rather, a sound understanding of climatic
+considerations should be applied to offset thermal disabilities
+seen to arise from the practical planning of a house as a habitable
+unit to suit a particular site.
+
+
+9. References
+1. Drysdale, J. W., “ Climate and Design of Buildings, Physio-
+logical Study No. 2,” Technical Study No. 32*, Com-
+monwealth Experimental Building Station, Sydney,
+1950.
+2. Drysdale, J. W., “ Climate and Design of Buildings, Physio-
+logical Study No. 3,” Technical Study No. 35, Common-
+wealth Experimental Building Station, Sydney, 1951.
+3. Keough, J. J., “ Selected Australian Climatic Data for Use
+in Building Design,” Technical Study No. 36, Common-
+wealth Experimental Building Station, Sydney, 1951.
+4. Hindson, W. R. and Mortensen, K. N., “ Fungicidal Treat-
+ment of Textiles, Leather and Other Materials,” Circular
+No. 12, Defence Research Laboratories, Melbourne,
+1948.
+5. Phillips, R. 0., “ Sunshine and Shade in Australasia,”
+Technical Study No. 23*, Commonwealth Experimental
+Building Station, 2nd edit., Sydney, 1950.
+6. Anon., “ Condensation in Dwellings,” Notes on the Science
+of Building No. 61, Commonwealth Experimental
+Building Station, Sydney. (In the press.)
+7. Anon., “ Termites (White Ants),” Trade Circular No. 36,
+Division of Forest Products, Council for Scientific and
+Industrial Research, 2nd edit., Melbourne, 1942.
+8. Anon., “ White Ants, Termite-proofing of Buildings in
+Australia,” Notes on the Science of Building No. 11,
+Commonwealth Experimental Building Station, Sydney,
+1950.
+9. Beesley, J., “ Eradicating Termites (White Ants) from
+Buildings,” C.5.1.R.0. Forest Products Newsletters,
+Nos. 234, Sept. 1957, pp. 4-6, 235, Oct. 1958, pp. 1-3,
+236, Nov. 1957, pp. 3-4.
+10. Drysdale, J. W., “ A Review of Investigations of the Thermal
+Behaviour of Buildings, January to August, 1949,”
+Technical Study No. 30*, Commonwealth Experimental
+Building Station, Sydney, 1949.
+11. Drysdale, J. W., “ Climate and Design of Buildings, The
+Thermal Behaviour of Dwellings,” Technical Study No.
+34, Commonwealth Experimental Building Station,
+Sydney, 1950.
+
+
+12. Macfarlane, W. V., “ Thermal Comfort Zones,” Architectural
+Science Review, Vol. 1, No. 1, Nov. 1958, pp. 1-14.
+13. Macfarlane, W. V., Private communication, 1959.
+14. Dufton, A. F., “The Equivalent Warmth of an Environ-
+ment,” Institution of Heating and Ventilating Engineers
+Journal, Vol. 4, June, 1936. (Reprint).
+15. Bedford, Thomas., “ Comfort in Relation to Warmth and
+Ventilation,” Institution of Heating and Ventilating
+Engineers Journal, Vol. 22, June, 1954, pp. 85-114.
+16. Chrenko, F, A., “ Heated Floors and Comfort,” Institution of
+Heating and Ventilating Engineers Journal, Vol. 23, Tan.,
+1956, pp. 385-396.
+17. Angus, T. C., “ The Study of Air Flow, Ventilation and Air
+Movement in Small Rooms as Effected by Open Fire-
+places and Ventilation Ducts,” Institution of Heating and
+Ventilating Engineers Journal, Vol. 17, Nov., 1949, pp.
+378-418.
+18. Weston, E. T., “ Ventilating and Cooling a House with an
+Attic Exhaust Fan,” Special Report No. 9, Common-
+wealth Experimental Building Station, Sydney, 1952.
+* Technical Studies Nos. 23, 30, and 32 were formerly known as
+Duplicated Documents Nos. 23, 30, and 32 respectively.
+
+
+
+
+Lat. 34° 56' S. Long. 138° 35' E. Elev. 140 ft.
+SEASON
+SUMMER
+WINTER
+SHADE DRY-BULB TEMPERATURE :
+Mean maximum °F.
+84
+61
+Mean minimum °F.
+61
+46
+•100° F
+11
+Average number of days when maximum equals I
+95° F
+20
+or exceeds ... ... ... ... ... 1
+90° F
+30
+85° F
+41
+60° F
+47
+Average number of days when maximum is less J
+55° F
+6
+than ... ... ... ... ... ... |
+50° F
+0
+45° F
+0
+RELATIVE HUMIDITY : Average % at time of max. D.B. temperature
+36
+57
+SUNSHINE HOURS :
+f
+9
+52
+8
+Average number of days when sunshine hours <
+6
+68
+30
+exceed ... ... ... ... ... (.
+3
+78
+57
+RAINFALL :
+Average total points
+313
+1,100
+Average number of wet days (at least 1 point received)
+16
+47
+Maximum rate, points per hour over 5-minute period occurring once
+m 10 years ...
+330
+/
+usually received...
+S to W
+Quarter from which rain is ... ... ... \
+seldom received ...
+E to
+SE
+r
+morning ...
+SW
+NE
+PREVAILING WINDS : Quarter
+afternoon
+SW
+W
+L
+night
+SE-S
+NE-E
+DUSTSTORMS : Usual quarter
+NW
+to N
+Appendix A: Climatic Data Sheets for Capital Cities
+The letter x signifies throughout that data were omitted because of lack of recorded
+Information. Data schedules for summer and winter pertain to the formal 3-months
+duration of each season only.
+ADELAIDE, SA
+Cooling breeze in summer —S to SW.
+Warming breeze in winter—NW to N.
+Thunderstorms occur on 15 days per annum.
+Frosts occur occasionally on the plains and are characteristic of the “ Hills ” country of
+the region.
+Duststorms occur about 5 days per annum.
+Snow falls very occasionally on the Mount Lofty Ranges.
+The greatest wind speed recorded in the area is 88 m.p.h. from NW.
+
+
+Lat. 27° 28' S. Long. 153° 02' E. Elev. 137 ft.
+SEA
+SUMMER
+SON
+WINTER
+SHADE DRY-BULB TEMPERATURE:
+Mean maximum °F.
+85
+70
+Mean minimum °F.
+68
+50
+'100° F
+0
+Average number of days when maximum equals J
+95° F
+2
+or exceeds ... ... ... ... ... 1
+90° F
+11
+85° F
+41
+60° F
+2
+Average number of days when maximum is less 1
+55° F
+0
+than ... ... ... ... ... ... |
+50° F
+0
+45° F
+0
+RELATIVE HUMIDITY : Average % at time of max. D.B. temperature
+49
+32
+SUNSHINE HOURS :
+f
+9
+43
+48
+Average number of days when sunshine hours ■<
+6
+60
+70
+exceed ... ... ... ... ... [
+3
+73
+80
+RAINFALL;
+Average total points
+1,543
+570
+Average number of wet days (at least 1 point received)
+35
+23
+Maximum rate, points per hour over 5-minute period occurring once
+in 10 years ...
+580
+/
+usually received...
+E to S
+Quarter from which rain is ... ... ... \
+seldom received ...
+SW to W
+r
+morning ...
+SE-S
+S-SW
+PREVAILING WINDS : Quarter -<
+afternoon
+NE-E
+SE-SW
+I
+night
+NE-SE
+SW-NW
+DUSTSTORMS : Usual quarter
+W
+BRISBANE, QLD.
+Cooling breeze in summer—SE to S.
+Warming breeze in winter—N toJNE.
+Thunderstorms from WNW occur on about 50 days per annum.
+Occasional frosts occur in the area.
+Duststorms are infrequent.
+The greatest wind speed recorded in the area is 89 m.p.h. from the SW at Archerfleld.
+
+
+CANBERRA, ACT
+SEASON
+SUMMER WINTER
+81 54
+53 34
+0 F 1
+° F 6
+° F 18
+° F 33
+° F ... 87
+° F ... 64
+° F ... 22
+° u ... 3
+37 61
+x x
+X X
+X X
+570 614
+21 30
+Lat. 35° 20' S. Long. 149° 15' E. Elev. 1,837 ft.
+SHADE DRY-BULB TEMPERATURE :
+Mean maximum °F.
+Mean minimum °F.
+{loo° F.
+95° F.
+90° F.
+85° F.
+{6o° F.
+55° F.
+50° F.
+45° F.
+RELATIVE HUMIDITY : Average % at time of max. D.B. temperature
+SUNSHINE HOURS:
+f 9
+Average number of days when sunshine hours < 6
+exceed ... ... ... ... ... 3
+RAINFALL:
+Average total points
+Average number of wet days (at least 1 point received)
+Maximum rate, points per hour over 5-minute period occurring once
+in 10 years ...
+{usually received...
+seldom received ...
+{morning ...
+afternoon
+night
+DUSTSTORMS ; Usual quarter
+NW-N & E-S
+SW to W
+SE & NW W-NW
+W-NW W-NW
+W-NW
+♦ There is no true prevailing wind on winter nights, the predominant winds being E to SE
+and NW to N.
+" Cooling breeze in summer—SE to S.
+Thunderstorms occur on 14 days per annum.
+Frosts are frequent, occurring on 55 days per annum.
+Duststorms occur on about 5 days.
+Snow is rare in the capital, but seasonal in neighbouring hills.
+The greatest wind speed recorded at this station is 68 m.p.h. from W.
+*
+E-SE
+
+
+SEASON
+SUMMER WINTER
+69 54
+53 41
+i° r 0
+.° 1
+i° 2
+° 4
+... 84
+° F ... 56
+... 19
+0 ... 2
+HOBART, TAS.
+Lat 42° 53' S. Long. 147° 20' E. Elev. 177 ft.
+SHADE DRY-BULB TEMPERATURE :
+Mean maximum °F.
+Mean minimum °F.
+{loo° F.
+95° F.
+90° F.
+85° F.
+{6o° F.
+55° F.
+50° F.
+45° F.
+RELATIVE HUMIDITY : Average % at time of max. D.B. temperature
+SUNSHINE HOURS ;
+f 9
+Average number of days when sunshine hours < 6
+exceed ... ... ... ... ... L 3
+RAINFALL:
+Average total points
+Average number of wet days (at least 1 point received)
+Maximum rate, points per hour over 5-minute period occurring once
+in 10 years
+{usually received...
+seldom received ...
+{morning ...
+afternoon
+night
+DUSTSTORMS : Usual quarter
+Cooling breeze in summer—SE to S.
+Thunderstorms occur on 8 days per annum.
+Frosts are characteristic of the inland districts.
+Duststorms are infrequent.
+Snow is experienced each year on neighbouring mountain.
+SE to SW
+NE to E
+NW-N NW-N
+SE NW-N
+SE-SW W-N
+The greatest wind speed recorded at this station is 87 m.p.h. from W.
+
+
+MELBOURNE, VIC.
+SEASON
+SUMMER WINTER
+77 57
+56 43
+F 3
+° F 9
+F 14
+0 F 20
+i° * ... 78
+|° F ... 38
+i° F ... 11
+° F ... 0
+44 59
+41 3
+61 23
+76 49
+605 580
+28 50
+Lat. 37° 49' S. Long. 144° 58' E. Elev. 115 ft.
+SHADE DRY-BULB TEMPERATURE :
+Mean maximum °F.
+Mean minimum °F.
+{loo° F.
+95° F.
+90° F.
+85° F.
+{6o° F.
+55° F.
+50° F.
+45° F.
+RELATIVE HUMIDITY : Average % at time of max. D.B. temperature
+SUNSHINE HOURS :
+f 9
+Average number of days when sunshine hours < 6
+exceed ... ... ... ... ... 3
+RAINFALL:
+Average total points
+Average number of wet days (at least 1 point received)
+Maximum rate, points per hour over 5-minute period occurring once
+in 10 years ...
+{usually received...
+seldom received ...
+{morning ...
+afternoon
+night
+DUSTSTORMS : Usual quarter
+Cooling breeze in summer—SE to S.
+Thunderstorms occur on 15 days per annum.
+Frosts are characteristic of inland parts of the region.
+Occasional duststorms occur
+S to W
+NE to E
+S-SW W-N
+SE-SW W-N
+NE &SW NW-NE
+NW to N
+The greatest wind speed recorded in the area is 90 m.p.h. from W.
+
+
+SUMMER
+84
+63
+4
+11
+22
+37
+37
+70
+82
+88
+137
+11
+PERTH, WA
+SEASON
+Lat. 31° 57' S. Long. 115° 51' E. Elev. 197 ft.
+WINTER
+SHADE DRY-BULB TEMPERATURE:
+Mean maximum °F.
+Mean minimum °F.
+{loo° F.
+95° F.
+90° F.
+85° F.
+{6o° F.
+55° F.
+50° F.
+45° F.
+RELATIVE HUMIDITY : Average % at time of max. D.B. temperature
+SUNSHINE HOURS:
+f 9
+Average number of days when sunshine hours ■< 6
+exceed ... ... ... ... ... (_ 3
+RAINFALL:
+Average total points
+Average number of wet days (at least 1 point received)
+Maximum rate, points per hour over 5-minute period occurring once
+in 10 years ...
+{usually received,
+seldom received .
+SW to W
+NE to SE
+f morning ...
+PREVAILING WINDS ; Quarter afternoon
+(.night
+SE-S N-NE
+S-SW SW-NW
+S NE-E
+DUSTSTORMS : Usual quarter
+N to NE
+Cooling breeze in summer—S to SW.
+Thunderstorms occur on 12 days per annum.
+Frosts are characteristic of the region.
+Duststorms are experienced occasionally.
+The highest wind speed recorded at this station is 80 m.p.h. from W.
+
+
+SYDNEY, NSW
+SEASON
+SUMMER WINTER
+78 61
+64 47
+2
+0 F 3
+° F 6
+° F 12
+i° ... 27
+° B ... 2
+° F ... 0
+° F ... 0
+60 50
+39 28
+57 59
+70 73
+1,050 1,218
+38 33
+Appendix A
+Lat. 33° 51' S. Long. 151° 13' E. Elev. 138 ft.
+SHADE DRY-BULB TEMPERATURE:
+Mean maximum °F.
+Mean minimum °F.
+{loo° F.
+95° F.
+90° F.
+85° F.
+{6o° F.
+55° F.
+50° F.
+45° F.
+RELATIVE HUMIDITY : Average % at time of max. D.B. temperature
+SUNSHINE HOURS :
+f 9
+Average number of days when sunshine hours < 6
+exceed ... ... ... ... ... 3
+RAINFALL:
+Average total points
+Average number of wet days (at least 1 point received)
+Maximum rate, points per hour over 5-minute period occurring once
+in 10 years ...
+("usually received...
+Quarter from which rain is ... ... ... \seldom received ...
+{morning .
+afternoon
+night
+DUSTSTORMS : Usual quarter
+E to SW
+NW to N
+NE-S W
+NE-E SW-NW
+S-W W-NW
+Cooling breeze in summer—NE to SE.
+Thunderstorms occur on 20 days per annum.
+Frosts are rare, except on plains of western district, where they are characteristic.
+Duststorms are infrequent, but dust haze is experienced occasionally.
+The greatest wind speed recorded in this region is 95 m.p.h. from W, at the Sydney
+Weather Bureau.
+
+
+Number SB 30
+June, 195U
+Universal Decimal
+Classification No.
+691 -.620.19(213)
+NOTES ON
+THE SCIENCE OF BUILDING
+BEHAVIOUR OF BUILDING
+MATERIALS IN TROPICAL REGIONS
+TROPICAL RAIN PORCST
+MNtSFAIL
+N QLD
+TEMPERATURE "*
+<v) 2
+MEAN MAY
+70
+MEAN MM.
+MEAN 00
+RELATIVE 70
+HUMIDITY 00
+(%) -
+00
+RAINFALL .
+ON) J
+J h mUUImI
+9A4 A O •
+HOT OUT
+ALICE SRRMCS
+N. TCAArVDNT
+This Note has been prepared for inclusion in this series by the
+DIVISION OF BUILDING RESEARCH, C.5.1.R.0.,
+Graham Road, Highett, 5.21, Victoria.
+INTRODUCTION
+It is common Belief that hot or tropical climates cause more rapid deteri- tropical monsoon
+oration of materials than do temperate climates; nevertheless, popular o*b„ in
+views of the severity of so-called tropical conditions are often distorted « imm'nr
+and exaggerated. This Note therefore sets out to state briefly, yet temperature “*
+clearly, what actually happens, and to suggest remedies in many cases. Much <*f) “
+of what is stated can be taken to apply, with less emphasis, outside the mean max "
+tropics. mean Mm. „
+The accompanying diagrams and map show the typical characteristics and the
+regions of occurrence of the climates of Australia. mean
+RELATIVE to
+Of the materials used in building, those of organic origin (such as timber, "7%™ "
+paint, and plastics) are the most likely to deteriorate under climatic influ- «
+ovi/to • 4 noTirron4 r> el o I 011 r% V» eo mo + e a a an v\tia/4h«+ o i
+ence; inorganic materials (such as metals, and concrete and clay products), “
+if properly made, suffer little deterioration. The risk of breakdown of "
+materials is always somewhat higher in the tropics than it is in temperate
+regions and there is thus always of necessity a correspondingly higher pre- rainfall “
+mium on good construction and adequate maintenance. on) „
+WEATHERING FACTORS
+jImImIjIoInI
+raj a 0 0
+1.01 Solar radiation and high temperature. In tropical areas, deterioration by
+radiation is severe, because of the constant exposure to sunlight of high
+intensity. Under, these conditions, materials may deteriorate through ac-
+tinic action, or simply through the heating effect of the radiation. (The temperate
+latter, by causing expansion in the daytime, followed by contraction in the
+cooler evenings, leads to cracking and disintegration.) These effects are M .
+greatest in the desert regions, and least in the cloudier, wet regions near £ [TT3
+the equator. They can be minimized by reflective treatment or by shading. temperature TT|
+TEMPERATURE **
+(*F) **
+NO
+MEAN MAY.
+70
+MEAN MM.
+1 «02 Moisture, rain, humidity, and condensation.. There are several weathering mean min. ”
+factors related to the high volume and high intensity of rainfall in the Z
+tropics. Firstly, there is greater hazard than in temperate areas from ■*'
+MEAN 00
+RELATIVE 10
+HUMIDITY 00
+water penetration and flooding. Secondly, there Is more thorough and more MEAN ”
+prolonged wetting of materials, and less chance for drying, and this promotes relative Z
+fungal growth. Thirdly, there is high relative humidity, with the deposi- mAhoitt «
+tion of dew. <%)
+<%) "
+M
+1.03 Condensation caused by daily fluctuations in temperature can be responsible »
+for much damage to materials. Moisture deposited in this way is a serious ”
+hazard because of its übiquity and the difficulty of ensuring evaporation „
+from confined space's, and also because the combined effects of intimately " A ?>i) LL ■
+deposited dew and following sunlight encourage rapid chemical and mechan- 1 "
+leal breakdown.
+RAMFALL
+jIwMjUM
+rA4 A • o
+jImImUIoImI
+9A4 A 0 0
+COMMONWEALTH EXPERIMENTAL BUILDING STATION
+DEPARTM ENT OF WO RKS AND HOUSING
+
+
+2.01
+t?
+NOTES ON THE SCIENCE OF BUILDING
+1 .oi+
+1 .05
+Climatic zones of Australia
+2.02
+2.03
+2.oi+
+2.05
+2.06
+Corrosion on underside
+of galvanised-iron roof
+2.07
+2.09
+2.10
+The hest way of combating the moisture problem is to provide means
+for rapid shedding of water, adequate ventilation, and good drainage.
+Biological agencies. Surface moulds may grow on a wide variety of
+organic materials, but their effect on building materials as a whole
+is small. Disfigurement of paints, and of the surfaces of some
+other materials, such as wallboards, is the chief effect.
+Attack by wood-destroying fungi is potentially far more serious,
+because they may invade the cell structure of wood, causing complete
+destruction (see also para. 2.21+ ). Nevertheless, fungal growth
+in buildings is not so prevalent as might be imagined, because the
+critical moisture content of wood for onset of decay is high.
+Of the various wood-boring insects which damage building timbers,
+termites are the most destructive. Suitable precautions against
+their invasion, even in hot-dry climates, are always desirable.
+PERFORMANCE OF MATERIALS
+METALS
+Iron, steel, and galvanized iron. In hot-dry climates the corro-
+sion of iron and steel has been found to be negligible, and even in
+hot-humid climates there is little difficulty in preserving exposed
+steelwork, particularly when it is freely washed by rain.
+On the other hand, galvanized iron is considerably affected by hot-
+humid marine conditions, corrosion at the laps and on the protected
+undersurfaces being severe. However, when remote from coastal
+areas and when well pitched and subjected to rain washing, galvanized
+iron lasts many years. Corrosion is most pronounced at the laps,
+where evaporation is slow, and on the undersides of the sheets, in
+the latter case because of nightly condensation of moisture on sur-
+faces which rain does not wash free of corrosion products.
+In humid marine localities it may be worth painting galvanized iron
+to prolong its life. A zinc dust or zinc chromate primer should be
+used to inhibit corrosion. Where possible, the laps should be paint-
+ed before the sheets of iron are laid.
+Aluminium, and aluminium alloys. Aluminium is an excellent material
+for buildings in sub-tropical and tropical localities. Even in
+coastal areas, deterioration of aluminium roofing is not excessive,
+and what does occur usually takes place on the undersides of the
+sheets.
+Copper and copper alloys. Like iron and steel, copper and copper
+alloys are less affected by tropical atmospheres, even in coastal
+situations, than by industrial atmospheres. Insect screens of
+bronze wire, and roof gutterings, downpipes, and flashings of copper
+are to be preferred to those of galvanized iron.
+Lead. Throughout Australia, fatigue cracking of lead in exposed
+situations, e.g., roof flashings, is a serious problem. The trouble
+is probably intensified by the conditions produced by the relatively
+high temperatures of this continent, and by the purity of the metal
+ordinarily marketed. It can be reduced by employing low-alloy
+leads, such as silver-copper-lead alloy and antimonial lead, and by
+using heavyweight sheet, e.g., not under i+-lb., for flashings.
+CEMENT AND CONCRETE
+Portland-cement products are widely used in hot countries, and are
+subject to little deterioration that can be attributed specifically
+to the climate.
+Cement storage. in humid-tropical regions, if cement is stored
+merely in bags, it is particularly prone to deteriorate through pre-
+mature hydration. It should be stored in airtight containers, such
+as i+h-gallon lidded drums fitted with rubber gaskets.
+Water. Water for the washing of aggregates and for adequate curing
+is often not available in dry areas, and what there is may be unde-
+sirably warm (thus increasing placing difficulties, because of rapid
+hydration and premature drying), and it may be too saline. Low
+strength, cracking, and excessive permeability, and also corrosion
+of reinforcement may result from lack of suitable mixing water
+inadequate curing.
+Concrete in contact with 3" •' W;. ri concrete may be
+attackou s Ip ha to- bedr: <-• , ... is common to use high-alumi-
+cement instead of Portland cement. However. in hot rllr
+procedure is risky, because high-alumina cement, whe’i h„. dram , un-
+de rysta] oiTiati 8j ‘ P, and
+COMMONWEALTH EXPERIMENTAL BUILDING STATION
+
+
+NOTES ON THE SCIENCE OF BUILDING
+Water containing acids from the rotting vegetation commonly found
+in humid-tropical areas may he aggressive to concrete. Suitable
+remedies are the protection of the concrete with bitumen or tar, or
+treatment of the water with a neutralizer.
+Corrosion of reinforcement. The problem of protection of steel
+reinforcement in concrete is not peculiar to the tropics, but in
+tropical conditions, lack of fresh water, poor storage of cement,
+and primitive labour may increase the difficulties.
+2,12
+2.13
+Cracks and porosity which may develop in concrete of poor quality
+permit the entry of water. In any locality, this may rust the re-
+inforcement and cause spalling of the concrete.
+2.1 U
+To ensure sound concrete the following rules should always be ob-
+served. Use only clean, well graded aggregate, salt-free water,
+and fresh or well stored cement; keep the water-cement ratio as low
+as possible; compact the mix thoroughly; cure the concrete well, by
+keeping it damp; provide adequate cover of concrete for the rein-
+forcement.
+2.15
+Algal growth on concrete. In tropical areas of high rainfall, con-
+crete and other cement products, such as tiles and asbestos-cement
+sheet, are particularly susceptible to blackening of exposed sur-
+faces by algae.
+2.16
+Painting with oil-bound or cement paints defers the onset of the
+staining, but under severe conditions it is usually apparent after
+about three years. Washing of the affected parts with a dilute
+solution of a soluble copper salt, such as copper sulphate, helps
+to kill the growth, and enables it to be removed by wire brushing;
+a3% soft-soap solution followed by a wash with al % copper sulphate
+solution is one effective treatment.
+Cracking and spalling
+of reinforced concrete
+MASONRY. CLAY PRODUCTS, EARTH
+Building stones. Frost and corrosive gases, the chief agencies of
+destruction of masonry materials in the temperate zones, are practi-
+cally absent in the tropics, and consequently tropical conditions do
+not constitute a hazard for masonry materials. Even stone of quite
+low quality is usually found to give satisfactory service.
+2.17
+2.18
+Burnt - clay products. Good burnt-clay products do not appear to show
+much deterioration on exposure to tropical conditions, but poor fa-
+cilities and unskilled labour often result in under-burnt products of
+low quality, and these may undergo serious erosion.
+2.19
+Earth-wall construction. Water is the principal weathering agent
+affecting earth-wall construction.
+2.20
+Protection from the weather may be given to ordinary earth-wall con-
+struction by waterproof washes and renderings, and by correct design
+of the structure to minimize erosion by splashing during rain. Earth
+stabilized with bitumen or cement, is a much more durable material
+than ordinary earth-wall construction, and techniques for its use
+are now well established, (see the Station's Bulletin No. 5, "Earth-
+wall Construction").
+Blackening of rendering by algae
+The usual termite precautions should be taken with all earth-wall
+construction.
+TIMBER
+2.22
+Deterioration of timber may arise from photochemical effects, from
+physical weathering caused by changes of temperature and humidity,
+and from fungal and insect attack. Exposure to extremes in climatic
+conditions, by causing continual dimensional changes, will produce
+checks, splits, warping, and raised grain, and result in poor paint-
+holding properties.
+Attack by moulds and fungi. Moulds do not affect wood as much as
+they do other organic materials, and their effect is not serious.
+Any treatments designed to inhibit attack by wood-destroying fungi
+and termites will usually give protection against mould growth.
+2.23
+2,2k
+Attack by wood-destroying fungi, as already noted, can be much more
+serious; under given prevailing conditions, its extent depends
+chiefly on the durability of the species of timber under attack.
+Otherwise, the conditions most likely to cause decay are high atmos-
+pheric humidity, particularly in closed spaces under buildings, and
+high moisture content in the timber, the latter produced by prolong-
+ed wetting where there is contact with the ground in exposed situ-
+ations subject to continual wetting, and where there are joints and
+laps within which rain collects and cannot evaporate.
+COMMONWEALTH EXPERIMENTAL BUILDING STATION
+8t 8841
+
+
+ff' 2 8 FEB 1963)^1
+' - 4 -'j5>' 2 .33
+-~s«* ! * sJ ***"*^
+Price 9d >&,
+**-/ obtainable from V
+o/ \| 3.01
+2ITHL BUILDING RtStAUCH lo
+1 LIAISON SERVICE j
+\ P.O. BOX 2807 AA /
+\ MELBOURNE X
+NOTES ON THE SCIENCE OF BUILDING
+2.25
+If non-durable timbers have to be used, these should he treated
+(preferably impregnated rather than brush coated) with preservatives
+wherever contact with the ground or continual exposure to water is
+inevitable; both adequate soil drainage and arrangements to conduct
+roof water well away from woodwork and foundations should be pro-
+vided.
+2.26
+Opinions on the preservative value of paint treatments in the humid
+tropics vary. Although a sound paint film retards water absorption,
+it also prevents the escape of water which may have got into the
+timber, and thereby increases the decay risk. Preservative treat-
+ment followed by painting is likely to be more successful than paint-
+ing alone where combined decay and weathering attack are likely.
+2,27
+Attack by termites. The incidence of termites (popularly known as
+white ants) varies considerably from place to place, and even in
+areas where there is great risk of infestation, attack is often
+sporadic.
+2.28
+Information on termite attack and methods of control are given in an
+earlier Note, SB 11, ’'White Ants - Termite-proofing of buildings in
+Australia”.
+Erosion of under-burnt bricks
+PAINT
+2.29
+In hot climates, the performance of ordinary paints is very often
+poor, repainting being needed every one to three years. The chief
+cause of breakdown is probably the high radiation, which intensifies
+physical, chemical, and photochemical deterioration. Doubtless,
+the frequent alternation of rain and sunshine, and the constantly
+high humidity (which retards drying) militate still further against
+good performance in humid-tropical, rain-forest, and monsoonal cli-
+mates; the effects of dew combined with radiation may be very se-
+vere. Fungicides, though sometimes regarded as inevitable ingre-
+dients in paints used in the humid tropics, are not essential in
+well formulated sure-drying finishes. In remote areas, prolonged
+storage of paints is often necessary, and high temperatures then
+cause segregation of the ingredients; paints intended for hot cli-
+mates are therefore improved by the use of fillers, e.g., asbestine,
+to prevent settling.
+2.30
+Paint vehicles fortified with alkyd rest-, are outstandingly success-
+ful in hot climates; when pigmented with aluminium or micaceous iron
+ore. they should have a life of 10 years or more. On steel, these
+coaxings are extremely satisfactory as finishings over an inhibitive
+primer.
+Concrete slab “umbrella”
+protecting bituminous flat roof
+BITUMINOUS MATERIALS
+The weathering of bitumens is brought about largely by chemical re-
+actions promoted by sunlight. It results in embrittlement, crack-
+ing, and crumbling.
+2.32
+Experience overseas has shown that exposed bituminous roofing mater-
+ials have a shorter life in the hotter areas than in the cooler ones,
+and throughout Australia the performance of bituminous roofing is
+poorer than in overseas cool areas, such for example, as in Europe
+and North America. Possibly the greatest single improvement that
+can be made is to provide a reflective surface treatment to reduce
+the effects of thermal and actinic radiation, and one highly effect-
+ive protective treatment (widely used in the Middle East) takes the
+form of an ’'umbrella” of concrete slabs.
+Useful reflective treatments are whitewash, aluminium paint, heavy
+dressings of white mineral shippings, and tile Blabbing. Such treat-
+ments are considered essential for the satisfactory performance of
+flat roofs in Australia.
+CONCLUSION
+Our knowledge of the behaviour of building materials under tropical
+conditions, and the reasons for this behaviour, have been stated
+briefly in this Note. Contrary to what might have been expected,
+the available evidence suggests that problems of tropical weathering
+usually differ only in degree from those of more temperate latitudes;
+thus it is possible to estimate, by interpolation, the probable be-
+haviour of a building material for the range from temperate to trop-
+ical conditions.
+COMMONWEALTH EXPERIMENTAL BUILDING STATION
+POST OFFICE BOX 30 . CHATSWOOD, N.S . W .
+
+
+Wholly set up and printed in Australia by John Andrew & Co., 21 Phillip Street, Sydney.
+
+

@@ -1,0 +1,11692 @@
+
+
+
+
+
+
+Prepared under the direction of
+H. A. HUNT,
+Commonwealth Meteorologist.
+AUSTRALIA,
+COMMONWEALTH METEOROLOGY.
+INSTRUCTIONS
+TO
+COUNTRY OBSERVERS.
+SYDNEY: WILLIAM APPLEGATE GULLICK, GOVERNMENT PRINTER.
+1907.
+
+
+PREFACE.
+These instructions are framed to conform to International regulations, and
+acknowledgments are due for much of the matter to Marriott’s “ Hints to
+Meteorological Observers”; to Dr. Mills’ “Instructions to British Rainfall
+Observers”; and to the Instructions to Meteorological Observers issued by
+the U.S.A. Weather Bureau.
+
+
+CONTENTS.
+Pagre
+Classification of Stations of the Commonwealth Meteorological Service .... 7
+Instruments required to equip Stations 7
+Hours of Observations 7
+Keeping of Registers and Posting Returns 8 •
+Barometer—Attached Thermometer 8
+~ How to adjust a Fortin 8
+~ Method of Reading 8
+. ~ Diagram of Vernier and Barometer Scale.
+~ How to Correct Reading 9
+Thermometers—Dry and Wet Bulbs .' .' 9
+~ Diagram of Wet Bulb (showing how to tie on the Muslin).
+~ Maximum—How to Read 9
+~ Minimum—How to Read .. 9
+~ ' Diagram of Minimum.
+~ Defects of Spirit Thermometers—How to Remedy them 9
+~ Thermometer Screens 10
+~ Terrestrial Radiation 10
+Rain-gauge—Exposure 10
+~ Hour of Observation 11
+~ Measurement of Rain 11
+Evaporators 12
+Wind Direction , 12
+~ How to fix true North 12
+~ Variations of the Magnetic Needle 12
+~ Isogonic Chart of Australia.
+Wind Force—Beaufort Scale 13
+Clouds—Estimation of the Amount 13
+~ Different Types 13,14
+~ Motion and Direction 14
+Weather—Entry of the State of the Weather, &c 15
+~ International Symbols.
+~ Phonological Observations 16
+Code for Telegraphic Reports 16
+APPENDIX.
+Tables.
+Table 1. —Correction for Temperature to be subtracted from the reading of
+Barometers 20
+Glossary 23
+
+
+Meteoeological observations to be of scientific value must be made on a
+uniform, plan, and taken with standardised instruments, otherwise the
+results will not be mutually comparable.
+Classification of Stations.
+Second Order Stations are equipped with self-recording instruments,
+also with a barometer, a maximum thermometer, a minimum thermo-
+meter, a dry-bulb thermometer, a wet-bulb thermometer, and with appara-
+tus for determining solar and terrestrial radiation, a screen, a rain-
+gauge, an evaporator, and a wind-vane or self-recording anemometer.
+Third Order Stations have a barometer, a maximum thermometer, a
+minimum thermometer, a dry-bulb, thermometer, a wet-bulb thermometer,
+a screen, a rain-gauge, and also, where necessary, a wind-vane.
+Climatological Stations are equipped with a maximum thermometer, a
+minimum thermometer, a dry-bulb thermometer, a wet-bulb thermometer,
+a rain-gauge, and, where necessary, a wind-vane.
+Rain Stations are equipped with a rain-gauge and, where necessary,
+with a wind-vane.
+Hours of Observations.
+Observations for forecasting purposes are to be taken—
+(а) In tbe Eastern States, at 9 a.m.—standard time (150° meridian);
+(б) In South Australia and the Northern Territory, at 8.30 a.m.—
+standard time (142£° meridian);
+(c) In Western Australia, at 8 a.m,—standard time (120° meridian);
+and wired immediately, in code (vide pages 16-19), in the following order,
+to the Divisional Office: —Barometer (corrected), dry bulb, wet bulb, and
+maximum and minimum thermometers, direction and force of wind, rain-
+fall (in points), cloud (amount, type, and direction). Weather remarks
+(see page 15). Coastal Stations should also furnish the state of the sea,
+and River Stations the height of the river.
+Observations for purely climatological purposes are to be taken at local
+time. In the case of Rain Stations and Climatological Stations, at
+9 a.m. only; at Second and Third Order Stations, at 9 a.m,, 3 p.m., and
+9 p.m. For difference between standard and local time, vide chart.
+Instructions to Country Observers.
+
+
+Keeping of Registers.
+To conform with the meteorological regulations of the chief kindred
+institutions of the world, subject, however, to such adaptations as are
+necessary to meet our peculiar conditions and special requirements, and
+for the satisfactory reduction of observations, it is necessary that the
+monthly observing books be sent by post with the monthly returns, or as
+soon after as may be convenient. *But before doing so, the observations
+should be entered in the register books supplied for* local reference. ;
+Method of Reading Instruments —The Barometer.
+First note the reading of the attached thermometer to the nearest tenth
+of a degree—if the barometer is a Fortin, adjust the mercury in the
+cistern by turning the screw at the bottom of the cistern, so that the ivory
+point is just brought into contact with the surface of the mercury, but
+does not depress it; the ivory point and its reflected image in the mercury
+should appear to just touch each other and form a double cone. Then
+gently tap the tube with the finger, to prevent the mercury from adhering
+to-the glass. Next turn the vernier (the .small adjustable scale), so that
+its two lower edges just touch the rounded top of the mercury, i.e., the
+front and back edges of the vernier, the top of the mercury, and the eye
+of the observer must be in- the same straight line (fig. I). Move the
+head up and down to make sure that this is so; then read off the division
+next below the lower edge (A, fig. I) of the vernier. Suppose it to be
+between 29*050 inches and 29*100 inches, the reading is 29*050 inches
+plus the vernier indication. Next look along the vernier until one of its
+lines is found to be continuous with a line on the scale. Suppose this is
+at the fourth division on the vernier—as each of the figures marked on
+the vernier counts as a hundredth, and each intermediate division as two
+thousandths—the reading on the vernier will be *OOB inch (vide C,
+fig. I). The .reading of the barometer is therefore 29*050 + *OOB
+= 29*058 inches. Should two lines on the vernier be nearly continuous
+with two on the scale, the intermediate value should be adopted. For
+example: suppose that any two lines on the vernier, such as *OlO and
+‘OOB appear to be both continuous with two on the scale, then the reading
+of the vernier would be *OO9. The barometer reading would, conse-
+quently, be 29*050 + *OO9 = 29*059 inches.
+After the reading has been taken, if the barometer is a Fortin, the
+mercury in the cistern should be lowered by turning the screw at the
+bottom until the surface is well below the ivory point, otherwise dirt will
+collect and the mercury will oxidise immediately underneath the ivory
+point, and its reflected image will become indistinct. If the barometer
+is of the Kew pattern, no adjustment of the cistern has to be made, and
+the vernier is read exactly as with the Fortin.
+Note, —The scale on the instrument is usually divided into inches,
+tenths, and half-tenths, and the vernier, being made equal in length to
+twenty-four divisions of the scale, is divided into twenty-five equal parts.
+Each division of the vernier is therefore shorter than each division of the
+scale, by the twenty-fifth part of *O5, which is *OO2 inch.
+• Observers are advised to keep their register book and monthly return forma entered np to date, eo
+as to avoid delay in posting returns at the end of each month.
+
+
+Vi tVAA
+30-450
+30-400 I
+30330
+30-300
+*050 30-230
+* 048 — 30-200
+•046 — 30-150
+•044 — 30-100
+'° 43 — 30-050
+‘° 40 -*30000
+•036
+29-950
+•036
+29-900
+•034
+30-850
+•032 _
+•030 29 ' 800
+•028 _ 29 ‘ 750
+•026 _ ** 7 °9
+•024 _ 29-650 -
+•022 29-600
+•020 2955b
+•018 ►29 , 500
+• 016 29-450
+•014 29*400
+•012 29-350
+•010 29-300
+•008 c 29-250
+•006 — 29-200
+•004 — 29-100
+•002 — 29-100
+29-090
+>29000
+28-950
+28-900
+28-850
+28-800
+Als the Zero of the Vernier, not B. Cis the line on
+the Vernier coinciding with one on the fixed Scale.
+Fig. I.
+
+
+31000
+— 30*950
+050 *800
+wall— 8 50
+040 _ -800
+044 _ ‘750 _
+042 _ "700
+04 ft_ _ — -650
+030 _ *€00
+030 _ *550
+034 _ *500
+032 _ *460
+03Q_ _ 4100
+020 .350
+B '300
+; 084 *aso
+012 -200
+020 — *.50
+018 *100
+0,8 -- *050
+0 '* “ 30 000
+012 _
+0 - 29*950
+“ *900
+008 _
+008 850
+004 _ 800
+*750
+008 —.
+j! „-Jpo__-
+it — 29000
+COMMONWEALTH METEOROLOGY
+INSTRUCTIONS FOR READING THE BAROMETER.
+1. First read the attached thermometer, to the nearest 31000
+■tenth of a degree. 3o«bo
+6 050 -»oo
+2. Lightly tap the barometer tube with the finger to enable <ms . _ 850
+the mercury column to truly adjust itself. 040 _ 800
+044 _ ‘750 _
+3. Raise the vernier well above the top of the mercury; 04a -too *
+then lower it until both front and back lower edges of the 04ft__ — -eso
+vernier are in line with the top of the curved mercury surface. 030 _ .goo
+A little light will thus be visible on each side of the apparent ose -sso
+point of contact.) 034 .500
+032 _
+4. Note the value, on the fixed barometer scale, of the line , 03flL
+next below the position of the bottom edge, or zero line, oza ” 3go
+•on the vernier, that is, below the top of the mercury. (The « 3QO
+longer lines show tenths of an inch, and the shorter lines half 0 *" OM ' 2g(J •
+tenths, so that if we count up from, say, the 29£ inches line
+and write out their values to three places of decimals, we get ©2Q
+successively 29-500, 29’550, 29-600, 29-650 inches, and so on.) 018
+5. Run your eye up the vernier scale until you come to that " -° 5O
+line on it which is exactly level with some line on the fixed 30 000
+scale of the barometer. 010 ~— 29-950
+.900
+6. Add the vernier scale value of this line to that of the oos _— , 850
+barometer scale line just noted. (The vernier scale value is 006 _ -soo
+obtained in -this way. The- kmg lines below the point of . - .750
+coincidence give the number of hundredths of an' inch and the A ~ .700
+additional short lines up to the point of coincidence the ' 'jifflSC—" 'eso *
+thousandths of an inch, reckoned two at a time, to be added ' Wk eoo
+to the reading of the barometer scale. For example, suppose ||ji , 550
+the line on the vernier which appeared to be level with one of |jl . 500
+the barometer scale lines was the third above the second BB| -450
+long line marked 2, then there would be two hundredths 1
+and six thousandths of an inch to be added to the reading of jffij , 350
+the barometer scale already obtained. Suppose this to be |®_ , 300
+-29-650, we get as the true barometer reading:— |®_ . 250
+From the barometer scale .. 29-650 few ,20 °
+From the vernier scale,. .. 26 «] _ ~0 0
+Barometer reading .. .. 29 • 676 yH _ 29D00
+(For a barometer reading of 29-677 inches, the rise of one-
+thousandth of an inch would throw the third line above the ~
+figure 2 on the vernier slightly out of coincidence with its
+barometer scale line but bring the fourth line nearer, so that
+both these lines would be equally near coincidence with lines |s|
+on the barometer scale. For a reading of 29-678, the fourth |
+line above would coincide ; and so on.) I ~
+H. A. HMT, I M
+Commonwealth Meteorologist. I BUI
+A—Denotes the Apparent point of Con-
+Lentral Bureau, tact of tUe y eruie r vritu the top of the
+22nd November, 1910. Mercury Column.
+B—Pcint of Coincidence of Vernier
+Scale.
+N.B.—Please paste one copy on a piece of cardboard and hang near the barometer, and the
+-other in the instruction book.
+A—Denotes the Apparent point of Con-
+tact of the Vernier with the top of the
+Mercury Column.
+B—Pcint of Coincidence of Vernier
+Scale.
+
+
+In the event of these instructions being ineffectual, the observer should
+immediately report the matter to the nearest divisional officer, who will,
+if necessary, send by first post a new instrument, on receipt of which the
+old one must always be returned, no matter what the condition may be.
+Thermometer Screen.
+The thermometers above referred to must be exposed in a s regulation
+screen (see fig. No. IV), in order that true shade temperature results may
+be secured. The screen is to be mounted on four stout splayed legs, in a
+free and open space, to the south of any buildings, and with the door
+facing true south, and at such a height that the bulbs of the dry and wet
+thermometers shall be 4 feet above the level of the ground.
+Terrestrial Radiation.
+Whenever a minimum thermometer is supplied for terrestrial radiation
+the instrument should be placed on the wooden rests, with the bulb just
+touching the ground, and the other end about half an inch off, in an open
+position (not under the screen), and with a fence or some protection
+around it, to prevent it from being trod on. It must be read every morn-
+ing, exactly the same as the minimum in the screen, and reset in the
+afternoon. During the heat of the day it is advisable to place it in the
+screen, or protect it in some way from the rays of the sun. The spirit
+column is very liable to become detached or broken, and the thermometer
+should therefore be frequently examined.
+Rain-gauge.
+This instrument is used for measuring any form of precipitation, be it
+rain, hail, or dew. A gauge of special pattern is supplied for measuring
+snow.
+The exposure of the rain-gauge is a very important matter. A too-
+sheltered position is as objectionable as a too-exposed one.
+The wind is the most serious disturbing influence. Driving rain will
+fail to reach the opening of the gauge, if it is placed too close to buildings
+or trees. On the other hand, if it is in a very open position, the wind
+blowing against the gauge causes eddies, which occasionally carry away
+considerable quantities of rain; as much as 20 per cent, has been known
+to be lost at times.
+The site selected, should, if possible, be an open one, unobstructed by
+high trees or fences. Low fences, structures, or hedges are, however, an
+advantage, if at distance not less than the heights of the surrounding
+objects.
+The British Rainfall Organisation has framed rules for securing uni-
+formity in recording rainfall on which the following are based, and
+Australian observers are requested to adhere to them where practicable.
+1. Selection of Site. —A rain-gauge should be placed on a level piece
+of ground, not upon a slope or terrace, and certainly not on a wall or
+roof. It should be at a distance from every object higher than itself,
+and should never be nearer to a wall or house than a distance equal to
+
+
+DESC R I PTION. ' ~~ j | j j,-fT • "
+The fop portion of Screen ■ V J * 4
+to be,constructed through- —■" "— ■ , y\ j X- ’ [>£ - . —=— 'x I.
+out of Cedar, and the lower ■ ■ - — . y - 8 i —H S' ' Xv Bfr - ! < K . {
+frame and tegs to be of ■■- * y.\ "j x ,1 /' !%£ I ' ■ 1 'S
+Red gum or Jarrah. The " 1 "* y \ nmrrr ZZt i 0 / K» h > S n
+different parts of top to be 1 0 E ! ' S * X S 1
+put together with mortises, ■ — ' ' " '|" ir X pf& i< ii..,- ■■ ■ — ■■— > s? 1
+tenons, and brass screws. """ ' 11 y! —Zld Wt— -.-■ 1 -.H ; '"-'rdS I
+Louvres to be fastened " m ■ : fa ■ „ i '/ !■ I 1 IjSj
+together and fixed by =“—- - - - ■%.-. ||4 -*-■
+copper nails. Door to be -,-4— i . ? P j ~ i n? j ■• =
+hung by two 3" brass buff 4-fi rH I vMrt- r'. 1 Wt'\ '. Wk*'- 1 ' i
+hinges, and to be fastened J_ T : : X i nil 1 I fW
+by brass hasp, staple and L - j I '“Ml ', St_l_ !
+padlock, p.c. 2s. 6d. Under- 1(1 ill I *
+side of roof to be grooved. ill m' 1
+and joints of boards to II T; *• / Section C D.
+be covered by V." x 'll 1 'll ;
+weathered fillets as shewn. | | I j 1 ill 1
+Top portion to be bolted to I 0 il m l > c ad to
+tower frame and stand by 1 , I * I K I
+r ‘ U frr ip
+Legs and frame of stand to Front Elevation. ' 1,*1 * I I ,;,/v.»o &
+be mortised and tenoned I J I I* 1 ! _j j *’**
+and halved, and secured. I I I I Xu" ,
+together by trenails or u*. 1 1 I o„. 11 ‘ ~ n_
+screws. Previous to being 7^ ww/yv»w>w/>f*fpw>w W' w Lh -
+put together, all the parts I I 11 ™ \ m n I 1 '
+to be painted two coats of I I 11 ' . ,, j
+white lead paint, and when Jr 11’ &/ I I
+put together to be given a II- 11- %r.r '
+finishing coot of white zinc I 11 \p/
+Paint and varnish. ‘ 11 , , t r , rr '' an
+1—r-r-.M — — i «— z—— kvu^Ai— i Sc*lc of Feof.
+mi in i . • . .
+Thermometer Screen.
+
+
+RAIN GAUGE
+
+
+the height of that object, nor nearer to a growing shrub or tree than a
+distance equal to twice that height. Care should be taken to keep flowers
+or vegetables away from the gauge for a distance of at least 3 feet all
+round. The height above the sea-level should be determined, if possible,
+by levelling from the nearest bench mark. The approximate height may
+be easily ascertained in many cases by reference to the maps of the official
+Survey Department. A specific name should be selected by each observer
+for his station.
+2. Mountain and Moorland Sites. —Care should be taken that mountain
+or moorland gauges are not unduly exposed to the sweep of the wind.
+A level patch of ground or a very slight hollow should be selected, and a
+turf wall about 2 feet high, surrounding the gauge at a distance of from
+6 to 10 feet, is recommended.
+3. Placing the Gauge. —The gauge should be planted in the earth and
+fixed in a box (fig. Y) by stakes, or placed in a hole which exactly fits it,
+in a block of cement. It should be fixed so firmly that it will neither be
+blown over nor tilted by the strongest wind, and it is best to be surrounded
+by short grass. The gauge should be occasionally examined, and repaired
+if any leakage or other defect is detected, and a report made of the
+circumstance to the central bureau.
+4. Height above Ground. —The funnel of a rain-gauge should be set
+exactly level, and at a height of about 1 foot above ground. If the gauge
+is surrounded by long grass, or likely to become so, the height may be as
+much as 1 ft. 6 in., but it should never be more.
+5. Change of Gauge. —When an old established gauge has to be discon-
+tinued for any reason, a new gauge should be established on a proper site
+one year, or, if possible, two years, before the old one is removed, so that
+the readings of both may be compared and the continuity of the record
+ensured. This rule does not apply to the substitution for an old gauge,
+which has become defective, of a new gauge of the same size and pattern
+on the same site. It is most convenient to start a new gauge on Ist
+January. The fact of a change, with date, distance, and direction from
+former site, should be reported to the central bureau when it is made.
+6. Absence of Observer. —An assistant should, if possible, be trained
+to measure the rainfall in the absence of the observer. When no such
+provision can be made it should be arranged to have the gauge visited
+at the usual hour, and the water bottled and labelled, to be kept until
+the observer returns.
+7. Hour of Observation. —Rainfall should be measured at 9 a.m. daily,
+and the amount entered against the date on which it is measured.
+. 8. Heading the Rain Glass. —ln measuring rain by means of the gradu-
+ated glass the observer must pour the water carefully from the gauge into
+the glass measure. The reading should be taken by holding it upright
+or setting it on a level slab, then bringing the eye opposite the level of
+the water so as to fix the nearest line on the scale to the water surface, not
+necessarily the line next above or the line next below the surface, but the
+one of these which is nearer. Each division represents one point. If
+there is more water in the gauge than can be measured at once, the glass
+should be filled up to the 50 mark, emptied into a jar, and filled up again
+as often as necessary, counting the number of times, and finally measur-
+ing the residue in the usual way. The water in the jar may be measured
+
+
+again roughly to make sure that no mistake has been made in counting
+the number of half-inches. The amount should be written'down before
+the water is thrown away; Every measuring glass supplied by the central
+bureau is certified.
+9. Heavy Bains. —Although a. self-recording gauge affords the fullest
+information as to heavy rains in, short periods, an ordinary gauge can
+also be utilised. The gauge should be examined immediately on the cessa*
+tion of heavy rain,’ the amount and the time of commencement and cessa-
+tion noticed, and the water returned to the gauge, so as not to interfere
+with next morning’s reading. As a fall of 4 inches or more may occur
+in one day in any part of Australia (though few observers believe this
+until they experience it), no gauge of less capacity should be used. If
+/after heavy rain there appears to be any likelihood of the gauge over-
+flowing, it should be measured and emptied, and the amount added to
+the next morning’s reading. ,
+Evaporators.
+Vessels or tanks used for determining the amount of evaporation should
+be exposed in as natural a way as possible, and such vessels or tanks
+should be fenced around, to prevent dogs or other animals drinking from
+them..
+Wind Direction.
+The wind should be observed to 16 points of the compass, and capital
+letters should be entered in the register to indicate the directions, thus:
+N North., , S South.,
+NNE North-north-east. SSW South-south-west.
+NE North-east. SW South-west.
+ENE East-north-east. WSW West-south-west.
+E-*. East. W.V West.
+ESE". East-south-east. WNW.’ West-north-west.
+SE South-east. NW North-west.
+SSE South-south-east. NNW North-north-west.
+The direction of the wind may be ascertained from the indication of.
+a.freely-moving vane; when such is not available, by observing the drift
+of smoke. By the direction of the wind is meant that point of the com-
+pass from which it is blowing. Care must be taken by watching the vane
+for a few minutes to see that the direction is that' of the general current
+of air passing over the place, and’that the air-current is not affected by
+local circumstances.
+It is desirable to fix astronomically one cardinal point, and frequently
+to examine the position of the pointers of the vane—a pole carrying'a
+vane is liable to twist owing to changes of humidity. The true north
+point'may be determined by means of the azimuth compass, by applying
+the magnetic variation; correction corresponding to the position of the
+station'(see Isogonic Chart, fig. VI).
+The magnetic variation, is* easterly to the-east, of the 0° line, and
+westerly to the west off itf. Thus, at Port Augusta ( vide chart, fig. VI),
+and at all places through which the same 5° line passes the true north is
+5° to the west of the direction shown by the compass needle, and so on.
+
+
+COMMONWEALTH METEOROLOGY.
+Instructions for Erecting Wind Vane
+NOTE.—Please Paste in Instruction Book after Page 12.
+When erecting a Yane care must betaken —
+(1) That it is freely exposed on all sides, and not affected
+by local eddies, &c.
+(2) That it moves freely.
+(3) That the cardinal points indicated on the Yane are
+correctly set.
+The Yane is packed in eight separate parts. The pedestal with
+centre bracket for the arms indicating the cardinal points and also the
+bottom flange are packed in one piece.
+■ To erect Yane : Fix the pedestal temporarily, and screw the arms
+into the centre bracket (Fig. 2) in the positions indicated in Fig. 4,
+and then screw on the lock nuts.
+In the same manner put together the floater (Fig. 3), care being
+taken not to pinch the inner tube by screwing the arms too far (as the
+sensitiveness of the Yane would be greatly diminished), and lock by
+the lock nuts provided (Fig. 3).
+The arrow head is fixed flat, and the observer will find it is much
+easier to read, especially at night, than if the head were vertical
+(Fig. I)-
+It may be better, if fixing the Yane on a post, to remove bottom
+flange and bore a hole in the post about 12in. deep, and wedge the
+pedestal firmly and vertically into this.
+It is desirable to fix astronomically one cardinal point, and
+frequently to examine the position of the pointers of the Yane. A pole
+carrying a Yane is liable to twist owing to changes of humidity. The
+true north point may be determined by means of the magnetic compass
+by applying the magnetic variation correction corresponding to the
+position of the station (see Isogonic Chart following p. 12 in
+Instruction Book).
+The magnetic variation is easterly to the east of the 0° line, and
+westerly to the west of it. Thus, at Melbourne (see Chart), and at all
+places through which the same line, about 8° 15', passes, the true
+north is 8° 15' to the west of the direction shown by the compass
+needle, and so on.
+Care should be taken when using a compass that it is not subjected
+to any disturbing effects which may be introduced by the presence of
+iron or steel bodies, or of powerful electric currents. When using a
+compass, the observer should satisfy himself that all possible sources
+of disturbance are absent. Even the presence of small objects, as iron
+nails in the support on which the compass is placed, or of knives or
+keys in the observer’s pockets, may cause serious errors of unknown
+magnitude.
+Printed by authority, under the direction of —
+H. A. HUNT,
+Commonwealth Meteorologist .
+C.6353. *
+
+
+W— £
+Pj.Z
+■Dm!. ™n—
+I Ey3
+N
+W (S) E
+Fy4
+>
+
+
+HO |IS 12 0_ 12 i 13I0 13 i MO 14 5 ISO !*5 ISO '
+& 4 \ \. \ \ \ \ \ 1 I I / j a
+»- Vi- c- i- Vnjh III "f *
+\ 4 * Isogonic Chart \ v / n t
+Australia 4 %TftjT\/ _ a
+AuSOSMOy ING THE LOO L TIME FOR EACH 5* J I
+AS COMPARED WITH GREENWICH. U H
+IT* 20Ts* 7* 40" S* ‘/rfV 9* t* W-frst 3 ,r *-frst 3* TO"* Fist 9* fo m FMt »**-frst K*20 m frst JOtur'A-
+id iis i2o ns ij» m mo .ms iso nT no
+#•»»
+
+
+Wind Force;
+In* the absence of. any form of anemometer;: the force of.the .wind should
+be estimated according to Beaufort’s scale, as under:
+0 Calm 2 miles per hour.
+1 Light air .- 4 „ „
+2. Light breeze 7 „ „
+3 Gentle breeze- 10 ~ ~
+4 Moderate breeze 14 ~ ~
+5 Fresh breeze 19' „ ~
+6 Strong breeze 25 ~ „
+7 Moderate gale ’ 31 „ „
+8 Fresh gale 37 ~ ~
+'9 Strong gale 44 ~ ~
+10 Whole gale 53 ~ ~
+11 Storm :...i 64 ~ ~
+12. Hurricane 77 ~ ~
+Clouds.
+The proportion of sky covered with cloud is to be observed. This is-
+done by estimation, the scale adopted being 0 to 10; 0 indicating a cloud-
+less sky, and 10, a sky which is completely covered with cloud or overcast.
+It is also desirable to note the kind of cloud prevalent at the time, and'
+the direction from which it is moving.
+The different modifications and forms of clouds as adopted by the-
+International Committee are as follows:
+Cirrus ( Gi .), *Gode A. —Detached clouds, delicate and fibrous-looking,
+taking the form of feathers, generally of a white colour, sometimes-
+arranged in belts which cross a portion of the sky in “great circles,”
+and, by an effect of perspective, converge towards one or two opposite-
+points of the horizon (the Ci.-S., and the Ci.Cu. often contribute to the-
+formation of these belts).
+Cirro-stratus (Ci.-S.), *Gode B. —A thin, whitish sheet, at times
+completely covering the sky, and only giving it a whitish appearance
+(it is then sometimes called Cirro-nebula), or at others presenting, more;
+or less distinctly, a formation like a tangled web. This sheet often pro-
+duces halos around the sun and moon.
+Cirro-cumulus (Ci.-Cu.), *Gode G. —Small globular masses or white
+flakes without shadows, or having very slight shadows, arranged in groups
+and often in lines.
+Alto-cumulus (A.-Cu.), *Code D. —Largish globular masses, white or
+greyish, partially shaded, arranged in groups or lines, and often so
+closely packed that their edges appear confused. The detached masses
+are generally larger and more compact (changing to S.tCu.) at the centre
+of the group; at the margin they form into finer flakes (changing to *
+Ci.-Cu.). They often spread themselves out in lines in one or two direc-
+tions.
+* Letters A, B, C, &c., refer to the plates on the Cloud Chart, which should he framed and hung in a
+convenient place for constant reference.
+
+
+Alto-stratus (.4.-$.), *Code E. —A thick sheet of a grey or bluish colour,
+which shows a brilliant patch in the neighbourhood of the sun or moon,
+and which, without causing halos, may give rise to coronae. This form
+goes through all the changes like the Cirro-stratus, but by measurements
+made at Upsala, its altitude is one-half less.
+Strato-cumulus ( S.-Cu .), *Code F. —Large globular masses or rolls of
+dark cloud, frequently covering the whole sky, especially in winter, and
+occasionally giving it a wavy appearance. The layer of Strato-cumulus
+is not, as a rule, very thick, and patches of blue sky are often visible
+through the intervening spaces. A 1 sorts of transitions between this form
+and the Alto-cumulus are noticeable. It may be distinguished from
+Nimbus by its globular and rolled appearance, and also because it does
+not bring rain.
+Nimbus (A.), *Code G. —Rain-cloud. A thick layer of dark clouds,
+without shape and with ragged edge, from which continued rain or snow
+generally falls. Through the openings of these clouds an upper layer of
+Cirro-stratus or Alto-stratus may almost invariably be seen. If the layer
+of Nimbus separates up into shreds, or if small loose clouds are visible
+floating at a low level, underneath a large Nimbus, they may be described
+as Fracto-nimbus (the “ Scud ” of sailors).
+Cumulus {Cu.), *Code H . —Wool-pack clouds. Thick clouds of which the
+upper surface is dome-shaped and exhibits protuberances, while the base
+is horizontal. These clouds appear to be formed by a diurnal ascensional
+movement which is not always observable. When the cloud is opposite the
+sun, the surfaces usually presented to the observer have a greater brilli-
+ance than the margins of the protuberances. When the light falls aslant,
+these clouds give deep shadows; when, on the contrary, the clouds are on
+the same side of the sun, they appear dark, with bright edges. The true
+Cumulus has clear upper and lower limits. It is often broken up by
+strong winds, and the detached portions undergo continual changes.
+These may be distinguished by the name of Fracto-cumulus (*Code N).
+Cumulus-nimbus ( Cu.-N .), *Code I. —The thunder cloud; shower cloud.
+Heavy masses of cloud, rising in the form of mountains, turrets, or
+anvils, generally having a sheet or screen of fibrous appearance above
+(“ false Cirrus ”), and underneath a mass of cloud similar to Nimbus.
+From the base there usually fall local showers of rain or snow (occasion-
+ally hail or soft hail). Sometimes the upper edges have the compact form
+of Cumulus, forming into massive peaks, round which the delicate “ false
+Cirrus ” floats, and sometimes the edges themselves separate into a fringe
+of filament similar to that of the Cirrus cloud. This last form is par-
+ticularly common in spring showers. The front of thunder clouds of wide
+extent frequently presents the form of a large bow spread over a portion
+of the sky, which is uniformly brighter in colour.
+Stratus (S.), *Code K. —A horizontal sheet of lifted fog. When this
+sheet is broken up into irregular shreds by the wind, or by the summits of
+mountains, it may be distinguished by the name of Fracto-stratus
+(*Code L).
+A cloud mirror or nephoscope is sometimes used for observing the
+direction of movement of the clouds, and ascertaining they* rate of motion.
+• Letters A, B, C, &0., refer to the plates on the Cloud Chart, whichfshould be framed and hung in a
+convenient place for constant reference.
+
+
+Observers who are able to devote time to the study of the clouds should
+pay attention to the following points and enter the same in the register:
+1. The kind of cloud. Indicated by the international letters of the
+name of the cloud.
+2. The direction from which the clouds come. 1 If the observer
+remains perfectly still for several seconds, the movement of the
+clouds may be easily observed, in relation to a steeple or pole
+erected in an open space. If the movement of the cloud is very
+slow, the head should be steadied by using a rest. This method
+of observing must only be used for clouds near the zenith, for
+if they are distant from it, perspective may lead to errors. In
+such cases the nephoscope should be used,
+3. The point of radiation of the upper clouds. These clouds often
+take the form of narrow parallel lines, which by reason of per-
+spective appear to issue from a given point on the horizon. The
+“ point of radiation ” is the name given to the point where
+these belts or their prolongations meet the horizon.
+4. Undulated clouds. It often happens that the clouds have the
+appearance of regular striae, parallel and equidistant, like waves
+on the surface of water. This is mostly the case with the
+Cirro-cumulus, Strato-cumulus (roll Cumulus), &c. It is im-
+portant to note the direction of these striae. When two systems
+are apparent, as is often seen in clouds separated into globular
+masses by striae in two directions, the directions of these two
+systems should be noted. As far as possible, these observations
+should be taken of striae near the zenith, so as to avoid errors
+caused by perspective.
+5. The density and situation of a bank of Cirrus. The upper clouds
+often assume the form of a tangled web or sheet, more or less
+dense, which, as it appears above the horizon, looks like a thin
+bank of a light or greyish colour. As this form of cloud is
+closely connected wtih barometrical depressions, it is necessary
+to observe:—(a) The density. For this, the scale should be
+o—very thin and irregular; I—thin, but regular; 2—fairly
+thick; 3 —thick; and 4—very thick and of a dark colour.
+(6) The direction in which the sheet or bank appear thickest.
+6. Remarks.—All interesting particulars should be noted, such as:
+(a) During summer all low clouds, as a rule, assume special
+forms, resembling, more or less, the Cumulus. In such cases
+an entry should be made in the “ Remarks ” Stratus or Nimbus
+Cumuliformis. ( b ) It sometimes happens that a cumulus
+presents a mammillated lower surface. This appearance should
+be noted under the name of Mammato-cumulus. (c) It should
+always be noted whether the clouds seem to be stationary or im
+very rapid motion.
+r Weather.
+In addition to the foregoing observations, it is very desirable to note-
+the state of the weather and any phenomena that may have occurred since-
+the last observation, such as thunderstorms, halos, fog, snow, &c. These
+may be entered in the register and on the monthly return sheet, in an
+abbreviated form by the letters of Beaufort’s notation, or by the Inter-
+national symbols, as follows :
+
+
+2900
+Fatalism
+29-43
+Festa
+29-86
+Firkin
+30-29
+Forgive
+29-01
+Fated
+2944
+Fester
+.29-87
+Fiscal
+30 30
+Formal
+29-02
+Father
+29-45
+Festive
+29-88
+Fish
+29-03
+F athom
+29-46
+Festus
+29-89
+Fit
+30*31
+Formed
+29-04
+Fatigue
+29-47
+Fete
+29-90
+Fitful
+30-32
+Forth
+2905
+Fatling
+29-48
+Fetid
+30-33
+Fortune
+29-06
+Faucet
+29-49
+Feudal
+29-91
+Fixed •
+30-34
+Forum
+29-07
+. Faugh
+39-50
+Fever
+29-92
+Flag
+3035
+F orward
+29-08
+Fault
+29-93
+Flagon
+30-36
+France
+29-09
+Fauna
+2951
+Few
+29-94
+Flail
+30-37
+F raud
+2910
+Faust
+2952
+Fiance
+29-95
+Flake
+30-38
+F razer
+29-53
+Fiasco
+29-96
+Flap
+30-39
+Freak
+2911
+Favor
+29-54
+Fibrin
+29-97
+Flat
+30-40
+Fred
+29-12
+Fawn
+2955
+Fickle
+29-98
+Flax
+2913
+Fay
+29-56
+Fiddle
+29-99
+Fled
+30-41
+F reely
+2914
+Fayal
+29-57
+Fidget
+30-00
+Fledge
+30-42
+Freeman
+2915
+Fayette
+29-58
+Fidus
+30-43
+F rench
+29-16
+Faxon
+,29-59
+Field
+30-01
+Fleet
+30-44
+Frenzy
+29-17
+. Fear
+29-60
+Fiend
+30-02
+Flesh
+30-45
+Fresco
+2918
+Fearing
+30-03
+Flinch
+30-46
+Friar
+2919
+Feast
+29-61
+Fierce
+30-04
+Fling
+30-47
+Friday
+29-20
+Feather
+29-62
+Fifteen
+30-05
+Flint
+30-48
+Friend
+29-63
+Fifth
+30-06
+Flock
+30-49
+Frigate
+29-21
+Feature
+29-64
+Figaro
+30-07
+Florid
+30-50
+Frigid
+2922
+Febrile
+29-65
+Fight
+30-08
+Floss
+29-23
+Federal
+29-66
+Figment
+30-09
+Flown
+30-51
+‘Frill
+29-24
+Feeble
+29-67
+Figure
+30-10
+Flue
+30-52
+Fringe
+29-25
+Feed
+29-68
+Filbert
+30-53
+Frisk
+29-26
+Feeding
+29-69
+Filch
+30-11
+Fluid
+30-54
+Frit
+29-27
+Feline
+29-70
+File
+30-12
+Flurry
+30 : 55
+Frog
+29-28
+Felix
+30-13
+Flute
+30-56
+Frolic
+29-29
+Felon
+29-71
+Filed
+3014
+Foal
+30-57
+Front
+29-30
+Felony
+29-72
+Filial
+30-15
+Focal
+30-58
+Froth
+29-73
+Fillet
+3016
+Focus
+30-59
+F rown
+2931
+Female
+29-74
+Film
+30-17
+Foist
+30-60
+Frozen
+29-32
+Fence
+29-75
+Final
+30-18
+Folio
+29-33
+Fenian
+29-76
+Finance
+30-19
+Folks
+30-61
+Frugal
+29-34
+Fennel
+29-77
+Finch
+30-20
+Fondle
+30-62
+Fudge
+29-35
+Fenton
+29-78
+Find
+30-63
+Fuel
+29-36
+Ferment
+29-79
+Finder
+30-21
+Food
+30-64
+Fugitive
+29-37
+Fern
+29-80
+Finely
+30-22
+Forage
+30-65
+1 Fugue
+29-38
+Ferret
+30-23
+Foray
+30-66
+Fulcrum
+29-39
+Ferrule
+29-81
+Finger
+30-24
+Forbid
+30-67
+Fulfil
+29-40
+Ferrum
+29-82
+Finis
+30-25
+Forest
+30-68
+Fuller
+29-83
+Finish
+30-26
+Forfeit
+30-69
+Fully
+29-41
+Ferry
+29-84
+Finland
+30-27
+Forge
+30-70
+Fullness
+29-42
+Fertile
+29-85
+Finny
+30-28
+Forget
+30-71
+Fulsome
+Barometer readings below iO’OO or above 30*71 to be sent in figures.
+Phonological Observations.
+A careful watch should be kept for noticing the first flowering of uncul
+tivated plants, the arrival and song of birds, the appearance of butter
+flies and other insects, &c.
+Codes for Telegraphic Reports.
+BAROMETER.
+
+
+International Symbols.
+AURORA —_ w
+BLUE SKY - b
+CLOUDS (DETACHED) c
+DRIFTING SNOW
+DRIZZLING RAIN d
+DUST HAZE oo
+FOG... ' ==
+GLAZED FROST -
+GLOOMY g
+HAIL. - A
+HOAR FROST ..... i 1
+ICE CRYSTALS —^
+LIGHTNING 4/
+LUNAR HALO CD
+LUNAR CORONA , ID
+MIST .........
+OVERCAST (DULL)....... 0
+PASSING SHOWERS P
+RAIN ®
+RAINBOW
+SILVER THAW _ V
+SNOW
+SNOW ON THE GROUND
+SOFT HAIL A
+SOLAR CORONA r O
+SOLAR HALO —. ®
+STRONG WIND-
+SQUALLY <7
+THUNDER , T
+THUNDERSTORM K
+UGLY THREATENING U
+VISIBILITY V
+WET : .. W
+
+
+0
+Thaw
+32
+Tinsel
+64
+Transit !
+96
+Tunis
+1
+That
+33
+Tioga
+65
+Trash
+97
+Tunnel
+2
+Thebes |
+34
+Tip
+66
+Travel
+98
+Turban
+3
+' Thee 1
+35
+Tipton
+67
+Tray i
+99
+Turbid
+4
+Theft |
+36
+Titan i
+68
+Treat
+100
+Turf
+5
+Thence
+37
+Tivoli
+69
+Treble
+6
+'There
+38
+Toddy
+70
+Tree
+101
+Turgid
+7
+Thermo
+39
+Toga
+102
+Turkey
+8
+Thesis
+40
+Toil
+71
+Trend
+103
+Turn
+9
+They
+72
+Trepan
+104
+Turner
+10
+Thibet
+41
+Token
+73
+Trepid
+105
+Turtle
+42
+Told
+74
+Trial
+106
+Tuscan
+11
+, Thick
+43
+•Tomb
+75
+Tribe
+107
+Tusk
+12
+Thief
+44
+Tone
+76
+Tribune
+108
+Tutor
+13
+Think
+45
+Tonic
+77
+Trick
+109
+Twain
+14
+Thomas
+46
+Topaz
+78
+Trigger
+110
+Twenty
+15
+Thou
+47
+Topeka
+79
+Trill
+16
+Thrash
+48
+Topic
+80
+Tripp
+111
+Twig
+17
+Throat
+49
+Torpid
+112
+Twirl
+18
+Throb
+50
+Tory
+81
+Triplet
+113
+Twist
+19
+Throng
+82
+Tripod
+114
+Twixt
+20
+Throw
+51
+Total
+83
+Trophy
+115
+Tybee
+52
+Touch
+84
+Truant
+116
+Tycoon
+21
+Thrum
+53
+Toulon
+85
+True
+117
+Tyler
+22
+Thyme
+54
+Towel
+86
+Truly
+118
+Tymbal
+23
+Tick
+55
+Town
+87
+Trumpet
+119
+Type
+24
+Tide
+56
+Trace
+88
+Trust
+120
+Typic
+25
+Tidy
+57
+Trade
+89
+Truth
+26
+Tiff
+58
+Traduce
+90
+Tube
+121
+Tyrant
+27
+Tiger
+59
+Traffic
+122
+Tyrian
+28
+Time
+60
+Tragic
+91
+Tuesday
+123
+Tyro
+29
+Tindall
+92
+Tuft
+124
+Tyrol
+30
+Ting
+61
+Trainer
+93
+Tug
+125
+Tyson
+62
+Traitor
+94
+Tumor
+31
+Tinker
+63
+Tram
+95
+Tump
+N.
+N.N.E.
+Race
+Rack
+S.
+S.S.W.
+Ranche
+Range
+Calm=“ Reap”..
+Miles
+per
+Hour.
+2
+7. Moderate gale ...
+Miles
+per
+Hour.
+31
+N.E.
+E.N.E.
+Raft
+Rage
+s.vv.
+w.s.w.
+4
+S. Fresh gale
+37
+Rapid
+2. Light breeze
+7
+9. Strong gale
+44
+E.
+Raid
+w.
+Rare
+3. Gentle breeze ...
+10
+10. Whole gale
+53
+E.S.E.
+Rake
+W.N.W.
+Rasp
+4. Moderate breeze.
+14
+11. Storm
+64
+S.E.
+Rally
+N.W.
+Rat
+5. Fresh breeze
+19
+12. Hurricane
+77
+S.S.E.
+Ralph
+N.N.W.
+Ratio
+6. Strong breeze ...
+25
+THERMOMETER
+WIND.
+When sending the wind, use the code word for the direction, and the
+figure for the strength of the wind; for example—Wind is from N.E.,
+blowing a fresh breeze. You would send “ Raft 5.”
+
+
+0
+Ab
+31
+Age
+61
+Am
+91
+Apron
+1
+Abase
+32
+Aged
+62
+Amaze
+92
+Aqua
+2
+Abbot
+33
+Agent
+63
+Amber
+93
+Arab
+3
+Abet
+34
+Agile
+64
+Amble
+94
+Arcade
+4
+Abide
+35
+Aglow
+65
+Amen
+95
+Arch
+5
+Able
+36
+Ague
+66
+Amid
+96
+Ardent
+6
+Absent
+37
+Ahead
+67
+Amiss
+97
+Ardor
+7
+Abyss
+38
+Aid
+68
+Ammon
+98
+Argil
+8
+9
+Ache
+Acid
+Act
+39
+40
+Ajar
+Akin
+69
+70
+Ample
+Anchor
+99
+Argus
+10
+100
+200
+Babel
+Balm
+41
+Alas
+71
+Andv
+11
+Active
+42
+Alba
+72
+Angel
+300
+Barge
+12
+13
+Actor
+Acute
+43
+44
+Album
+Alder
+73
+74
+Angry
+Anise
+400
+500
+Bask
+Bay
+14
+Add
+45
+Alert
+75
+Ankle
+600
+Beard
+15
+Aden
+46
+Alibi
+76
+Annex
+700
+Beat
+16
+Adieu
+47
+Alike
+77
+Annoy
+800
+Belch
+17
+Adler
+48
+Allay
+78
+Annul
+900
+Bell
+18
+Admit
+49
+Allege
+79
+Anthem
+1000
+Bengal
+19
+Adorn
+50
+Allude
+80
+Antic
+20
+Adri
+1100
+1200
+Bind
+Blame
+21
+Adrift
+51
+Alma
+81
+Anvil
+22
+Adult
+52
+Alms
+82
+Any
+1300
+Bled
+23
+Advise
+63
+Aloe
+83
+Apart
+1400
+Blight
+24
+Afar
+54
+Aloft
+84
+Ape
+1500
+Blooom
+25
+Affix
+55
+Along
+85
+Apex
+1600
+Blush
+26
+27
+Afraid
+Aft
+56
+57
+Aloud
+Alpha
+86
+87
+Apish
+Appeal
+1700
+1800
+Body
+Bold
+28
+After
+58
+Alps
+88
+Append
+1900
+Brace
+29
+Again
+59
+Also
+89
+Apply
+2000
+Brute
+30
+Agate
+60
+Alum
+90
+April
+N.
+N.W.
+w.
+s.w.
+Threatening appearance in
+Lightning in
+Thunder in
+Grist
+Grudge
+Gable
+Growth
+Gush
+Gentile
+Grove
+Gulp
+Gaudy
+Grouse
+Gulf
+Garner
+s.
+8.E.
+E.
+N.E.
+Threatening appearance in
+Lightning i»
+Thunder in
+Gross
+Guilt
+Garden
+Groove
+Guide
+Gamble
+Groin
+Guard
+Gallant
+Groan
+Gruff
+Gaily
+RAINFALL
+If the rain measured- exceeds 100 points, it is to be sent in two words;
+for instance —281 points is to be sent as “ Balm Anvil.”
+STATE OF WEATHER.
+
+
+Fine and clear 4 Gad Heavy, gloomy sky ... Geld
+Gale increasing ... Gaff Sultry Gem
+Gale moderating ... Gag Thunder storms ... Gig
+Hot wind Gall Thunder showers ... Ginger
+Fierce hot wind ... Game Haze ... ••• . ••• Get
+Fierce squalls ... ... Grimy Heavy dew last night Gills
+Snow Gray Hoar frost last night ... Gin
+Threatening rain ... Gang Foggy Gird
+Light rain ... ... Gap Dense fog ... ... Girl
+Passing showers ... Garb Mist ... ... ... Girth
+Misty lain ... ... Gas Smoke haze Gibe
+Showery ... Gash Sea rising ... ... Gift
+Heavy showers ... ... Gasp Sea moderating ... Give
+Heavy steady rain ... Gate Overcast ... ... Go
+Steady rain Gats Three-fourths clouded... Gob
+Squally Gaunt One-half clouded ... Gog
+Squally, with hail ... Gay One-fourth clouded ... Gold
+Hail storms Gear Fine, but cloudy ... Golden
+CLOUD
+Cirrus A. Nimbus G.
+Cirro-stratus B. Cumulus H.
+Cirro-cumulus C. Cumulo-nimbus I.
+Alto-cumulus D. Stratus K.
+Alto-stratus E. Fracto-stratus L.
+Strato-cumulus ... ... F. Fracto-cumulus ... ... M.
+STATE OF SEA
+Dead calm Nip Rather rough Nose
+Very smooth ... ... ... Nod Rough ... ... ... ... Not
+Smooth Nook High ... ... ...• Noun
+Slight Noon Very high Now-
+Moderate Nor Tremendous Nude
+STATE OF WEATHER— continued.
+
+
+. TABLE I.
+Corrections for Temperature to be Subtracted from Reading of Baronnters
+with Brass Scales.
+Att.
+Inches.
+Inches.
+Inches.
+Inches.'
+Inches.
+Inches.
+Inches.
+Inches.
+Inches.
+Att.
+Therm.,
+Fahr.
+27-0
+27-5
+28-0
+28-5
+290
+29-6
+30-0
+30-6
+31-0
+Fahr.
+O
+34
+•013
+*014
+•014
+•014
+•014
+•015
+•015
+•015
+•016
+O •
+34
+35
+•016
+016
+•016
+•016
+•017
+•017
+•017
+•017
+•018
+35
+36
+•018
+•019
+•019
+•019
+•020
+•020
+•020
+•020
+•021
+36
+37
+•021
+•021
+•021
+•021
+•022
+•022
+•023
+•023
+•024
+37
+38
+•023
+•023
+•024
+•024
+*025
+•025
+•026
+•026
+•027
+38
+39
+•025
+025
+•026
+•026
+•027
+•027
+•028
+•028
+•029
+39
+40
+•028
+•028
+•029
+•029
+•030
+•030
+•031
+•031
+•032
+40
+41
+•030
+•030
+•031
+•031
+•032
+033
+•033
+034
+•035
+41
+42
+•033
+•033
+•034
+•034
+•035
+•036
+•036
+•037
+•038
+42
+43
+•035
+•035
+•036
+•037
+037
+•038
+•039
+•039
+040
+43
+44
+•037
+•038
+*039
+•040
+•040
+•041
+•042
+•042
+043
+44
+45
+•040
+•040
+•041
+•042
+•042
+•043
+•044
+•045
+•046
+45
+46
+•042
+•043
+•044
+•045
+•045
+•046
+•047
+•048
+•049
+46
+47
+•045
+•045
+•046
+•047
+•048
+•049
+•049
+•050
+•051
+47
+48
+•047
+•048
+•049
+•050
+•051
+•052
+•052
+•053
+•054
+48
+49
+•050-
+•050
+•051
+•052
+053
+•054
+*055
+•056
+•057
+49
+50
+•052
+•053
+•054
+•055
+•056
+•057
+•058
+•059
+•060
+50
+51
+•054
+•055
+•056
+•057
+•058
+•059
+•060
+•061
+•062
+51
+52
+•057
+•058
+•059
+•060
+•061
+•062
+•063
+•064
+•065
+52
+53
+•059
+•060
+•061
+•062
+•063
+•064
+•065
+•067
+•068
+53
+54
+•062
+•063
+•064
+•065
+i -066
+•087
+•068
+070
+•071
+54
+65
+•064
+•065
+•066
+•067
+•068
+•070
+•071
+•072
+•074
+55
+56
+•066
+•068
+•069
+•070
+•071
+•073
+•074
+•075
+•076
+56
+57
+•069
+•070
+•071
+•072
+•074
+075
+•076
+•078
+•079
+57
+58
+•071
+*073
+•074
+•075
+•077
+•078
+•079
+. -081
+•082
+58
+59
+•074
+•075
+•076
+•077
+•079
+•080
+•082
+•083
+•085
+59
+60
+•076
+•077
+•079
+•080
+•082
+083
+•085
+•086
+•088
+60
+61
+•078
+•080
+•081
+•082
+•084
+•085
+•087
+•088
+•090
+61
+62
+•081
+•082
+•084
+•085
+•087
+•088
+•090
+•091
+•093
+62
+63
+•083
+•084
+•086
+•087
+•089
+•091
+•092
+•094
+•094
+63
+64
+•086
+•087
+•089
+•090
+•092
+•094
+•095
+•097
+•099
+64
+65
+•088
+•089
+091
+093
+•094
+•096
+•098-
+•099
+•101
+67)
+66
+•090
+•092
+•094
+•096
+097
+•099
+•101
+•102
+•104
+66
+67
+•093
+•094
+•096
+•098
+•099
+•101
+103
+•105
+•107
+67
+68
+•095
+•097
+•099
+•101
+•102
+104
+•106
+•108
+•no
+68
+69
+•098
+•099
+•101
+•103
+•105
+•106
+•108
+•no
+•112
+69
+70
+•100
+•102
+•104
+•106
+•108
+•109
+•111
+•113
+*115
+70
+71
+•102
+•104
+•106
+•108
+•no
+•112
+•114
+•116
+•118
+71
+72
+•105
+•107
+•109
+•111
+•113
+•115
+•117
+•119
+•121
+72
+73
+•107
+•109
+•111
+113
+116
+•117
+•119
+•121
+•123
+73
+74
+•no
+•112
+•114
+•116
+•118
+•120
+•122
+•124
+•126
+74
+75
+•112
+•114
+•116
+•118
+•120
+•122
+•124
+•126
+•129
+75
+76
+•114
+•117
+•119
+•121
+•123
+•125
+•127
+•129
+•132
+76
+77
+•117
+•119
+•121
+•123
+125
+127
+•130
+•132
+*135
+77
+78
+. *119
+•199
+•124
+•126
+128
+•130
+•133
+•135
+•138
+78
+79
+•122
+•124
+•126
+•128
+•130
+•133
+•135
+•137
+•140
+79
+80
+•124
+•126
+•129
+•131
+•133
+•136
+•138
+•140
+•143
+80
+81
+•126
+•128
+131
+•133
+136
+•139
+•141
+•143
+•146
+81
+APPENDIX.
+
+
+Att.
+Therm.,
+Fahr.
+Inches.
+27-0
+Inches.
+27-5
+Inches.
+28-0
+Inches.
+285
+Inches.
+29 0
+Inches.
+29-5
+Inches.
+300
+Inches.
+30-5
+Inches.
+31 0
+Att.
+Therm.,
+Fahr.
+•
+82
+•129
+•131
+•134
+•136
+•138
+•141
+•143
+•145
+•148
+e
+82
+83
+•131
+•133
+•136
+•138
+•141
+•144
+•146
+•148
+*151
+83
+84
+•134
+•136
+•139
+•141
+•143
+•146
+•149
+•151
+•154
+84
+85
+•136
+•138
+•141
+•143
+•146
+•149
+•151
+•154
+•157
+85
+86
+•138
+•140
+•144
+•146
+•149
+•152
+•154
+•156
+•160
+86
+87
+•141
+•143
+•146
+•148
+•151
+•154
+•157
+•159
+•163
+87
+88
+•143
+•145
+•149
+•151
+•154
+•157
+•160
+•162
+•166
+88
+89
+•146
+•148
+•151
+•153
+•156
+•159
+•162
+•165
+•168
+89
+90
+•148
+•150
+•153
+•156
+•159
+•162
+•165
+•167
+•171
+90
+91
+•150
+•153
+•156
+•159
+•162
+•165
+•167
+•170
+•173
+91
+92
+•153
+•156
+•158
+•161
+•164
+•167
+•170
+•172
+•175
+92
+93
+•155
+•158
+•161
+•164
+•167
+•170
+J172
+•175
+•178
+93
+94
+•157
+•161
+•163
+•166
+•169
+172
+•175
+•177
+. -180
+94
+95
+•160
+•163
+•166
+•169
+•172
+•175
+•178
+•180
+•183
+95
+96
+•162
+•165
+•168
+•171
+•174
+•178
+•181
+•183
+•186
+96
+97
+•165
+•168
+•171
+•174
+•177
+•180
+•183
+•186
+•189
+97
+98
+•167
+•170
+•173
+•176
+•179
+•183
+•186
+•188
+•191
+98
+99
+•169
+•173
+•176
+•179
+•182
+•185
+•188
+•191
+•194
+99
+100
+•172
+•175
+•178
+•181
+•184
+•188
+•191
+•194
+•197
+100
+101
+•175
+•178
+•181
+•184
+•187
+•190
+•193
+•196
+•199
+101
+102
+•177
+•180
+•183
+•186
+•189
+•193
+•196
+•198
+•201
+102
+103
+•179
+•183
+•186
+•189
+•192
+•195
+•198
+•201
+•204
+103
+104
+•172
+•185
+•188
+•191
+•194
+•198
+•200
+•204
+•207
+104
+105
+•174
+•187
+•190
+•193
+•196
+•200
+•203
+•206
+•209
+105
+TABLE I— continued.
+
+
+DRY BULB.
+P
+P
+«
+£-<
+«
+£
+Wet
+Bulb
+89
+88
+87
+86
+8(
+81
+85
+8S
+84
+85
+se
+87
+8i
+8S
+90
+91
+92
+93
+94
+95
+9e
+9'
+98
+99
+10C
+101
+102
+ioa
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+Wet
+100
+100
+96
+100
+96
+92
+100
+96
+92
+88
+96
+92
+88
+84
+92
+88
+84
+81
+88
+85
+81
+77
+85
+81
+78
+74
+81
+78
+74
+71
+78
+75
+71
+68
+76
+71
+68
+65
+72
+69
+65
+62
+69
+6fl
+63
+60
+66
+63
+60
+57
+63
+60
+58
+55
+61
+58
+55
+52
+58
+56
+53
+50
+66
+63
+51
+48
+54
+51
+49
+46
+51
+49
+46
+44
+49
+47
+45
+42
+47
+45
+42
+40
+45
+43
+41
+39
+44
+41
+39
+37
+42
+40
+37
+35
+40
+38
+36
+34
+38
+36
+34
+32
+37
+35
+33
+31
+35
+33
+32
+30
+34
+32
+30
+28
+33
+31
+29
+27
+31
+29
+28
+26
+30
+28
+26
+25
+29
+27
+25
+24
+27
+26
+24
+23
+89
+88
+87
+86
+85
+84
+83
+82
+81
+100
+100
+96
+100
+96
+91
+100
+96
+91
+87
+100
+96
+91
+87
+83
+96
+92
+88
+84
+80
+92
+88
+84
+80
+76
+88
+84
+80
+76
+73
+84
+80
+77
+73
+69
+80
+77
+73
+70
+66
+77
+74
+70
+67
+63
+74
+70
+67
+64
+60
+71
+67
+64
+61
+68
+68
+64
+61
+58
+55
+65
+62
+59
+56
+53
+62
+59
+56
+53
+50
+59
+56
+54
+51
+48
+57
+54
+51
+48
+46
+54
+52
+49
+46
+44
+52
+49
+47
+44
+42
+60
+47
+45
+42
+40
+48
+45
+43
+40
+38
+46
+43
+42
+38
+36
+44
+42
+41
+37
+34
+42
+41
+39
+35
+33
+40
+39
+37
+33
+31
+38
+38
+35
+32
+30
+37
+36
+34
+30
+28
+35
+34
+32
+29
+27
+33
+33
+31
+28
+26
+32
+31
+29
+26
+24
+31
+30
+28
+25
+23
+29
+29
+27
+24
+22
+28
+27
+26
+23
+21
+27
+26
+24
+22
+20
+25
+25
+23
+21
+19
+24
+24
+22
+20
+18
+23
+23
+21
+19
+17
+22
+22
+20
+18
+16
+21
+21
+19
+17
+15
+85
+84
+83
+82
+81
+S'
+«
+H
+t
+80
+79
+78
+77
+76
+100
+95
+91
+87
+82
+95
+91
+87
+83
+78
+91
+87
+83
+79
+75
+87
+83
+79
+75
+71
+83
+79
+75
+71
+68
+79
+76
+72
+68
+64
+76
+72
+68
+65
+61
+72
+69
+65
+62
+58
+69
+66
+62
+59
+55
+66
+63
+59
+56
+53
+63
+60
+66
+53
+50
+60
+57
+54
+51
+48
+57
+54
+51
+48
+45
+55
+52
+49
+46
+43
+62
+49
+46
+44
+41
+50
+47
+44
+41
+39
+47
+45
+42
+39
+37
+45
+43
+40
+37
+35
+43
+41
+38
+36
+33
+41
+39
+36
+34
+31
+39
+37
+34
+32
+30
+37
+35
+33
+30
+28
+36
+33
+31
+29
+27
+34
+32
+29
+27
+25
+32
+30
+28
+26
+24
+31
+29
+27
+25
+23
+29
+27
+25
+23
+21
+28
+26
+24
+22
+20
+26
+25
+23
+21
+19
+25
+23
+21
+20
+18
+24
+22
+20
+19
+17
+23
+21
+19
+18
+16
+22
+20
+18
+17
+15
+20
+19
+17
+16
+14
+19
+18
+16
+15
+13
+18
+17
+15
+14
+12
+17
+16
+14
+13
+11
+16
+15
+14
+12
+10
+16
+14
+13
+11
+9
+15
+13
+12
+10
+8
+13
+12
+11
+9
+7
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+78
+74
+70
+66
+62
+74
+70
+67
+63
+59
+71
+67
+63
+59
+56
+67
+64
+60
+56
+53
+64
+60
+57
+63
+60
+61
+57
+54
+51
+47
+58
+64
+51
+48
+45
+65
+62
+49
+45
+42
+52
+49
+46
+43
+40
+50
+47
+44
+41
+38
+47
+44
+41
+38
+36
+45
+42
+39
+36
+34
+42
+40
+37
+34
+32
+40
+38
+35
+32
+30
+38
+36
+33
+31
+28
+36
+34
+31
+29
+26
+34
+32
+29
+27
+25
+33
+30
+28
+25
+23
+31
+28
+26
+24
+22
+29
+27
+25
+23
+20
+28
+25
+23
+21
+19
+26
+24
+22
+20
+18
+25
+23
+21
+19
+17
+23
+21
+19
+17
+16
+22
+20
+18
+16
+14
+21
+19
+17
+15
+13
+20
+18
+16
+14
+12
+18
+17
+15
+13
+12
+17
+16
+14
+12
+11
+16
+15
+13
+11
+10
+15
+14
+12
+10
+9
+14
+13
+11
+10
+8
+13
+12
+10
+9
+7
+13
+11
+9
+8
+6
+12
+10
+8
+7
+6
+11
+9
+7
+6
+4
+10
+8
+6
+5
+3
+9
+7
+6
+4
+2
+8
+6
+4
+3
+1
+7
+5
+3
+2
+6
+4
+2
+1
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+58
+55
+51
+48
+44
+55
+62
+48
+45
+41
+52
+49
+45
+42
+39
+49
+46
+43
+40
+36
+47
+43
+40
+37
+34
+44
+41
+38
+35
+32
+42
+39
+36
+S3
+80
+39
+36
+33
+31
+28
+37
+34
+31
+29
+26
+35
+32
+29
+27
+24
+33
+30
+28
+25
+22
+31
+28
+26
+23
+21
+29
+27
+24
+22
+19
+27
+25
+22
+20
+18
+26
+23
+21
+19
+16
+24
+22
+20
+17
+15
+23
+20
+18
+16
+14
+21
+19
+17
+15
+13
+20
+18
+16
+14
+12
+18
+16
+14
+12
+11
+17
+16
+13
+11
+10
+16
+14
+12
+10
+9
+15
+13
+11
+9
+8
+14
+12
+10
+8
+7
+13
+11
+9
+8
+6
+12
+10
+8
+7
+5
+11
+9
+8
+6
+4
+10
+8
+7
+5
+3
+9
+8
+6
+4
+2
+8
+7
+6
+3
+1
+7
+6
+4
+2
+6
+5
+3
+1
+6
+4
+2
+4
+3
+1
+3
+2
+2
+1
+1
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+41
+37
+34
+31
+28
+38
+35
+32
+29
+25
+36
+32
+29
+26
+23
+S3
+30
+27
+24
+22
+31
+28
+26
+22
+20
+29
+26
+23
+21
+18
+27
+24
+22
+19
+16
+25
+22
+20
+17
+15
+23
+21
+18
+16
+13
+22
+19
+17
+14
+12
+20
+18
+15
+13
+11
+18
+16
+14
+12
+9
+17
+15
+12
+10
+8
+16
+13
+11
+9
+7
+14
+12
+10
+8
+6
+13
+11
+9
+7
+5
+12
+10
+8
+6
+4
+11
+9
+7
+6
+3
+10
+8
+6
+4
+2
+9
+7
+5
+3
+2
+8
+6
+4
+2
+1
+7
+5
+3
+2
+6
+4
+3
+1
+5
+4
+2
+4
+3
+1
+3
+2
+2
+1
+1
+65
+64
+68
+62
+61
+60
+69
+58
+67
+66
+25
+21
+18
+16
+13
+22
+20
+17
+14
+11
+21
+18
+15
+12
+9
+19
+16
+13
+11
+8
+17
+14
+12
+9
+7
+15
+13
+10
+8
+5
+14
+11
+9
+6
+4
+12
+10
+7
+5
+3
+11
+9
+6
+4
+2
+10
+7
+5
+3
+1
+8
+6
+4
+2
+7
+5
+3
+1
+6
+4
+2
+5
+3
+1
+4
+2
+3
+1
+2
+1
+1
+60
+59
+58
+67
+56
+65
+54
+10
+7
+8
+6
+7
+4
+5
+8
+4
+2
+3
+1
+2
+1
+55
+54
+Wet
+Bulb.
+Bulb.
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+DRY BULB.
+DRY BULB.
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+46
+40
+47
+48
+49
+50
+61
+62
+63
+64
+55
+5(
+67
+69
+69 60
+61
+100
+96
+91
+86
+42
+41
+100
+100
+91
+91
+83
+84
+76
+70
+68
+69
+62
+62
+55
+66
+49
+60
+44
+45
+38
+40
+34
+36
+29
+30
+25
+26
+21
+22
+17
+18
+13
+15
+10
+12
+7
+9
+4
+1 6
+1
+31100
+r 96
+100
+95
+91
+78
+77
+76
+\
+40
+39
+38
+37
+36
+100
+100
+90
+100
+90
+81
+100
+91
+81
+72
+100
+91
+82
+73
+64
+91
+82
+74
+65
+57
+83
+74
+66
+68
+60
+76
+67
+69
+61
+43
+68
+60
+52
+46
+37
+61
+63
+46
+38
+31
+54
+47
+40
+33
+26
+48
+41
+34
+28
+21
+42
+36
+29
+23
+16
+37
+31
+24
+18
+12
+32
+26
+20
+14
+8
+27
+22
+16
+10
+4
+23
+17
+12
+6
+1
+19
+13
+8
+3
+15
+10
+6
+12
+6
+1
+8
+3
+100
+6
+100
+95
+2
+100
+95
+90
+100
+95
+90
+86
+100
+95
+90
+86
+81
+95
+90
+86
+81
+77
+91
+86
+82
+77
+73
+86
+82
+78
+73
+69
+82
+78
+74
+70
+66
+75
+74
+73
+72
+71
+36
+34
+33
+32
+31
+100
+100
+89
+100
+89
+80
+100
+89
+80
+70
+100
+90
+80
+70
+62
+90
+80
+70
+62
+54
+81
+71
+62
+64
+46
+72
+63
+64
+46
+39
+64
+65
+46
+39
+33
+56
+47
+39
+33
+27
+49
+40
+33
+27
+21
+42
+34
+27
+21
+16
+36
+28
+21
+16
+11
+30
+23
+15
+11
+6
+24
+17
+10
+6
+2
+19
+12
+6
+2
+14
+8
+2
+10
+4
+6
+21
+100
+100
+95
+100
+05
+89
+100
+95
+90
+85
+100
+95
+90
+85
+80
+95
+90
+85
+80
+75
+90
+85
+80
+76
+71
+85
+81
+76
+72
+67
+81
+76
+72
+68
+63
+77
+72
+68
+64
+60
+73
+68
+64
+60
+56
+69
+65
+61
+57
+63
+66
+61
+67
+54
+50
+62
+58
+54
+51
+47
+70
+69
+68
+67
+66
+to
+mi
+3
+30
+29
+28
+27
+26
+100
+100
+88
+100
+88
+77
+100
+89
+77
+66
+100
+89
+78
+67
+57
+89
+79
+68
+68
+48
+79
+69
+69
+49
+39
+70
+60
+60
+41
+31
+61
+62
+42
+33
+24
+63
+44
+36
+26
+17
+46
+37
+28
+19
+11
+38
+30
+21
+13
+6
+31
+23
+16
+8
+25
+18
+10
+2
+20
+12
+6
+14
+7
+9
+2
+6
+100
+100
+94
+100
+94
+89
+100
+94
+89
+83
+100
+94
+89
+84
+78
+04
+89
+84
+79
+73
+89
+84
+79
+74
+69
+84
+79
+74
+69
+65
+80
+75
+70
+65
+61
+75
+70
+66
+61
+57
+71
+66
+62
+57
+53
+67
+62
+58
+54
+50
+63
+59
+54
+50
+46
+59
+55
+51
+47
+43
+66
+52
+48
+44
+40
+52
+49
+45
+41
+37
+49
+46
+42
+38
+35
+46
+43
+39
+36
+82
+43
+40
+36
+33
+30
+65
+64
+63
+62
+61
+a
+a
+h-
+Ul
+*
+25
+24
+23
+22
+21
+100
+87
+75
+62
+60
+88
+76
+63
+61
+40
+76
+64
+53
+41
+30
+66
+54
+43
+32
+21
+65
+46
+34
+23
+13
+48
+36
+26
+15
+6
+37
+28
+18
+8
+30
+20
+11
+1
+22
+13
+4
+15
+6
+9
+3
+3
+100
+100
+94
+100
+94
+88
+100
+94
+88
+82
+100
+94
+88
+82
+76
+94
+88
+82
+77
+71
+88
+83
+77
+72
+66
+83
+78
+72
+67
+62
+78
+73
+67
+62
+57
+73
+68
+63
+58
+53
+68
+64
+59
+54
+49
+64
+59
+55
+50
+46
+60
+55
+51
+47
+42
+56
+52
+47
+43
+39
+52
+48
+44
+40
+36
+49
+45
+41
+37
+33
+46
+42
+38
+34
+30
+42
+39
+35
+31
+27
+39
+36
+32
+28
+25
+37
+33
+29
+26
+23
+34
+30
+27
+24
+20
+31
+28
+25
+21
+18
+29
+26
+23
+19
+16
+27
+24
+20
+17
+14
+60
+59
+68
+57
+56
+H
+*
+20
+38
+28
+19
+11
+3
+100
+93
+87
+80
+100
+93
+87
+80
+74
+93
+87
+81
+75
+69
+87
+81
+75
+69
+63
+81
+76
+70
+64
+58
+76
+70
+65
+59
+54
+71
+65
+60
+54
+49
+66
+61
+55
+50
+45
+61
+56
+51
+46
+41
+57
+52
+47
+42
+37
+53
+48
+43
+38
+34
+49
+44
+39
+35
+31
+45
+40
+36
+32
+27
+41
+37
+33
+29
+25
+38
+34
+30
+26
+22
+35
+31
+27
+23
+19
+32
+28
+24
+20
+17
+29
+25
+22
+18
+14
+26
+23
+19
+16
+12
+24
+20
+17
+14
+10
+22
+18
+15
+12
+8
+19
+16
+13
+10
+6
+17
+15
+13
+10
+7
+5
+2
+12
+9
+6
+3
+55
+100
+100
+93
+100
+93
+86
+11
+8
+5
+9
+6
+3
+63
+52
+51
+100
+100
+92
+100
+92
+85
+100
+93
+85
+78
+100
+93
+86
+78
+72
+93
+86
+79
+72
+65
+86
+79
+73
+66
+60
+80
+73
+67
+60
+54
+74
+67
+61
+55
+49
+69
+62
+56
+50
+44
+63
+57
+51
+45
+40
+58
+52
+46
+41
+36
+53
+47
+42
+37
+32
+48
+43
+38
+33
+28
+44
+3tf
+34
+29
+24
+40
+35
+30
+26
+21
+36
+32
+27
+22
+18
+33
+28
+24
+19
+15
+29
+25
+21
+16
+12
+26
+22
+18
+14
+10
+23
+19
+15
+11
+7
+20
+17
+13
+9
+5
+18
+14
+10
+7
+3
+15
+12
+8
+5
+1
+13
+9
+6
+3
+11
+7
+4
+1
+9
+6
+2
+7
+4
+1
+5
+2
+3
+2
+60
+49
+48
+47
+46
+100
+100
+92
+100
+92
+84
+92
+84
+77
+85
+77
+70
+78
+70
+63
+71
+64
+57
+65
+58
+51
+59
+52
+46
+53
+47
+41
+48
+42
+36
+43
+37
+32
+39
+33
+28
+34
+29
+24
+30
+25
+20
+26
+21
+17
+23
+18
+13
+20
+15
+10
+16
+12
+8
+14
+9
+5
+11
+7
+2
+8
+4
+6
+2
+3
+1
+46
+44
+43
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+69
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+D&T BULB.
+—Take the reading of the Wet Bulb at the side, and the Dry Bulb at the top or bottom,
+Sese lines meet will give you the relative humidity— e.g., Wet Bulb, 59; Dry Bulb, 68; Humidity, II.
+and rm a
+line
+horlxirtally and vertically;
+the
+numbet
+COMMONWEALTH METEOROLOGY.
+TABLE FOR DETERMINING THE RELATIVE HUMIDITY FROM THE READINGS OF THE DRY AND WET BULB
+THERMOMETERS.
+
+
+A Glossary of Meteorological Terms.
+Accumulated Temperature. This is the
+combined amount and duration of the
+excess or defect of the air temperature
+above or below the base temperature
+of 42°. It is considered that the tem-
+perature above that value is mainly
+effectual in starting and maintaining
+the growth and in completing the
+ripening of agricultural crops.
+Actinometer. An instrument for measur-
+ing the intensity of solar radiation.
+Adiabatic. The relation of the changes
+which occur in the pressure, volume,
+and temperature of a mass of gas,
+which is subject to the condition that
+it neither parts with, nor receives,
+heat during the process.
+After-glow. The radiance or glow seen in
+the western sky for a longer period
+than usual after the sun has set.
+Alto-Cumulus. See Cloud?, p. 13.
+Alto-Stratus. See Clouds, p. 13.
+Auemo-Clinograph. An instrument for re-
+cording the angular deviations of wind
+movement from a horizontal path, or
+from one parallel to the surface of the
+ground.
+Anemogram. The trace marked on paper
+by an anemograph.
+Anemograph. A self-recording anemome-
+ter.
+Anemometer. An instrument for measur-
+ing the pressure or velocity of the
+wind.
+Anemoscope. An instrument for recording
+the direction of the wind.
+Aneroid. An instrument consisting essen-
+tially of an elastic metal box, exhausted
+of air, which indicates on a dial the
+changes due to variations of external
+pressure on the box, and therefore
+acting as a barometer.
+Aneroidograph. A self-recording aneroid
+barometer.
+4nthelion. Coloured rings seen round the
+shadow of an observer, projected on to
+a cloud or fog lying below him. Also
+called “ Glory.”
+Anticyclone. An area of relatively high
+barometric pressure increasing towards
+the centre, in which the wind blows
+spirally outwards, and in the northern
+hemisphere, in the direction of the
+movement of the hands of a watch.
+Anti-Trades. Winds circulating on the
+Polar sides of the Trade-winds, the
+prevailing directions being South-west
+in the northern hemisphere and North-
+west in the southern hemisphere.
+Aqueous Vapour. See Elastic Force of
+Vapour.
+Arched Squall. A squall off the west coast
+of Africa, in which the clouds take the
+shape of an arch.
+Atmoraeter. An instrument for measuring
+the amount of evaporation of water.
+Atmospheric Pressure. Pressure produced
+by the weight of the air.
+Audibility. Unusual distinctness of distant
+sounds.
+Aurora Australis. A luminous electrical
+display of much beauty appearing in
+the sky in the southern hemisphere,
+sometimes taking the form of an arch,
+streamers, corona, glow, &c.
+Aurora Borealis. A similar display to the
+Aurora Australis, only appearing in the
+northern hemisphere.
+Average. See Mean.
+Azimuth. The angle which the vertical
+plane passing through an object makes
+with the plane of the meridian.
+Backing-Wind. A wind which changes in
+a direction contrary to that of the
+sun’s apparent course, as e.g. from W.
+through S. to E., &c.
+Baguio. The Philippine name for a revol-
+ving storm or cyclone.
+Ball Lightning. A luminous ball or globe
+which moves slowly and sometimes
+bursts, giving rise to flashes of light-
+_ ning.
+Ballon Sonde. A small rubber balloon
+employed for raising a meteorograph.
+to obtain a record of the conditions
+prevailing in the upper regions of the
+atmosphere.
+Balneology. The science or study of mineral
+springs and baths.
+Barocyctonometer. An instrument for as-
+certaining the position, distance, and
+direction of advance of a cyclone or
+revolving storm.
+Barogram. The trace marked on paper by
+a barograph.
+Barograph. A self-recording barometer.
+Barometer. An instrument for measuring
+the pressure of the atmosphere.
+Beaufort’s Scale. Devised by Admiral Sir
+F. Beaufort, and now in general use
+for estimating the force of the wind.
+|See p. 13.]
+Bize. A cold, piercing wind of Languedoc.
+
+
+Blackthorn winter. The cold weather,
+accompanied by keen North-east winds
+which sometimes occurs about the
+second week in April, when the black-
+thorn is in bloom.
+Blizzard. A violent and bitterly cold wind
+accompanied with blinding snow.
+Bloxamize. The method adopted by Mr.
+J. C. Bloxam to obtain smoothed mean
+values.
+Bora. A violent, cold, anticyclonic wind,
+, blowing down from mountains close to
+the coast, if a chilled tableland lies
+behind them. The Bora of the Adriatic
+is best known, but a similar wind is
+observed elsewhere.
+Breezes, Land and Sea. Winds which blow
+near the coast, from sea to land during
+the day, and from land to sea during
+the night.
+BrickQelder. A very hot, dust-laden wind
+blowing from the North in New South
+Wales.
+Brocken Spectre. See Anthelion or Glory.
+Brontometer. An instrument to show the
+sequence of the various phenomena
+occurring during thunderstorms,
+Buran. Gale from the North-east, accom-
+panied with drifting snow, in the
+Steppes of Central Asia. See Purga.
+Burst of the Monsoon. The sudden change
+of weather accompanying the setting
+in of the South-west Monsoon.
+Buys-Ballot’s Law. In the southern hemi-
+sphere, “ Stand with your back to the
+wind and the barometer will be lower
+on the right hand and higher on the
+left.” [Directions are reversed in the
+northern hemisphere.]
+Calm. A quiescent state of the air.
+Calm Belt. See Doldrums.
+Calm Centre. The vortex of a cyclonic
+storm.
+Centigrade. The thermometer scale, fre-
+quently called after Celsius,' in general
+use on the Continent, in which the
+interval between the freezing and boil-
+ing points is divided into 100°, the
+freezing-point being o°, and the boiling
+point 100°.
+Chinook. A warm dry wind at the eastern
+base of the Rocky Mountains, similar
+to the Fohn.
+Cirro-Cumulus. See Clouds, p. 13.
+Cirro-Stratus. Sec Clouds, p. 13.
+Cirrus. See Clouds, p. 13.
+Climate. The average condition of meteor-
+ological phenomena at a given place.
+Climatological Station. A station at which
+observations are made only once a day,
+usually at 9 a.m.
+.Climatology, The 7 science or study of
+climate.
+Cloud. Moisture in the air condensed into
+a visible form. [For names'df Clouds,
+sec p. 13.] •
+Cloud-Burst. Sudden precipitation of a
+• great amount of rain or hail in a short
+f time.
+Col. A neck of low pressure between two
+anticyclones.
+Comozants. See St. Elmo’s Fire.
+Corona. A series of small coloured rings,
+due to refraction through thin clouds,
+, . round the sun or moon. The order of
+the colours is the reverse of that in
+the rainbow.
+Corposants. See St. Elmo’s Fire.
+Crepuscular Rays. Diverging beams seen
+when the sun is near the eastern
+■ or western horizon, and' clouds are
+gathered round its disc.
+Cumulo-Nimbus. Thunder cloud. See
+Clouds, p. 13.
+Cumulus. Wool-pack cloud. See Clouds,
+p. 13.
+Cyclone. An area of relatively low baro-
+metric pressure, decreasing towards
+the centre, in which the wind blows
+spirally inwards, and in the northern
+hemisphere, in the opposite direction
+to the movement of the hands of a
+watch. The name is usually applied to
+tropical revolving storms.
+Day Degree. The accumulated tempera-
+ture is expressed in “ Dav Degrees ”
+a day degree signifying 1° of excess or
+defect of temperature above or below
+42° continued for 24 hours, or any
+other number of degrees for an in-
+versely proportional number of hours.
+Depression. See Cyclone.
+Dew. Condensation of moisture on solid
+objects caused through cooling by ra-
+diation.
+Dew-Point. The temperature at which dew
+begins to be deposited.
+Diathermancy. The property in virtue of
+which the solar rays pass through a
+medium without raising its tempera-
+ture.
+Diurnal Inequality or Diurnal Variation.
+Changes due to the time of day.
+Diurnal Range. The amount of variation
+between the maximum and minimum
+of any element during the 24 hours.
+
+
+Doldrums. The belt of calms ; near the
+equator.
+Drizzle. Rain in very small drops, ' <
+Dust-Counter. An instrument for counting
+the number of dust particles'in a given-
+volume of air.
+Dust-storm. A whirlwind passing over a
+dry or sandy district and carrying up
+the dust into the air. . 1
+Dynamic Cooling. The cooling produced
+by the expansion of air when it passes
+into a region of decreased pressure.
+Elastic Force of Vapour. Pressure of the
+water vapour in the atmosphere.
+Electrometer. An instrument for measur-
+ing the electrification of the air.
+Error of Capacity. The error in the height
+of a mercurial barometer arising from
+the change of level of the mercury in
+the cistern.
+Etesian Winds. Northerly winds which
+prevail in summer over the Mediter-
+ranean.
+Evaporation.. The process of vapour pas-
+sing into the air from water and moist
+surfaces.
+Evaporimeter. An instrument for measur-
+ing the amount of evaporation.
+Eye of the storm. The vortex or calm
+centre of a tropical revolving storm.
+Fahrenheit. The thermometer scale in
+general use in English-speaking coun-
+tries, in which the interval between the
+freezing and boiling points is divided
+into 180°, the freezing-point being 32°
+and the boiling-point 212°.
+Five-Day Means. Frequently employed on
+the Continent, by which the year is
+subdivided into 73 pentads or periods
+of 5 days each.
+Flood. An inundation caused by heavy
+rainfall or the overflow of a river.
+Fog. A cloud in contact with or close to
+the ground.
+Fog-Bow. White rainbow seen on a thick
+fog.
+Fohn. A warm, dry wind descending from
+the mountains, most frequent in Alpine
+valleys, and elsewhere in mountainous
+districts. It owes its dryness to the
+circumstance that the air is descending
+from a mountain ridge, and is warmed
+by compression in its descent.
+Forked Lightning. The branched or sinuous
+flashes of lightning.
+Freezing-point. The temperature at which
+water freezes or ice melts—viz. 32°
+Fahrenheit, and 0° Centigrade.
+Fulgurites. Silicious tubes of various sizes,,
+vitrified internally by lightning strik-
+ing the ground and fusing the sand, j
+Gale. Strong wind with a velocity of over
+30 miles an hour. '
+Glazed Frost. The coating of ice produced
+either by a frost setting in after a
+partial thaw, or by rain falling during
+hard frost and congealing as it falls.
+Globular Lightning. See Ball Lightning.
+Gloom. The darkness occasioned by a
+dense pall of cloud.
+Glory. Coloured rings seen round the
+shadow of an observer, projected on
+to a cloud or fog lying below him.
+(Also called “ Anthelion.”)
+Gradient. The difference in pressure, tem-
+perature, or other meteorological ele-
+ment per unit of distance.
+Graupel (German). Soft hail.
+Green Ray. A flash of greenish-blue light
+seen, when the sun’s disc appeal’s or
+disappears, in a sunrise or sunset on a
+clear horizon.
+Gresil (French). Soft hail.
+Hail. Frozen rain. Large hailstones some-
+times consist of alternate deposits of
+hoar-frost and ice.
+Halo. Large circle of coloured light sur-
+rounding the sun or moon, commonly
+of about 44° in diameter.
+Harmattan. Hot, Easterly wind on the
+west coast of Africa. It is loaded
+with red dust. '
+Haze. Obscuration of the atmosphere pro-
+duced by the presence of dust particles.
+Helm-Wind. A violent, cold. Easterly
+wind blowing down the western slope
+of Crossfell, Cumberland.
+High-Pressure System. See Anticyclone.
+Hoar-Frost. Frozen dew.
+Humidity. See Relative Humidity,
+Hurricane. The name usually applied to
+the tropical revolving storms which
+visit the West Indies and the islands of
+the South Pacifici
+Hyetometry. The determination of the
+amount of water condensed out of the
+atmosphere in the form of rain, hail,
+or snow.
+Hygrograph. A self-recording hygrometer.
+Hygrometer. An instrument for measuring
+the humidity of the air.
+
+
+Hygrometry. The determination of the
+amount of water present in the air in
+a vaporous form.
+Hypsometer. A thermometer for measur-
+ing altitudes by the lowering of the
+boiling-point of water consequent upon
+the reduction of atmospheric pressure
+at high altitudes.
+Index Error. The error made in laying off
+the scale of an instrument.
+Indian Summer. Fine weather for a few
+days about September 30, in North
+America.
+Insolation. Solar radiation.
+Inversion of Temperature. A warmer stra-
+tum of air above a colder one.
+lon. Any minute material particle which
+carries an electrical charge.
+Iridescent Clouds. The under-surface of
+cirrus or cirro-cumulus clouds illumi-
+nated with rings or patches of irides-
+cent colours.
+Isabnormal Lines. Lines drawn through
+places having the same anomaly, e.g.
+the same difference between the actual
+mean temperatures and the theoretical
+mean temperatures for places in a given
+latitude.
+Isobars. Lines on maps showing equal
+atmospheric pressure.
+Isobrontal Lines. Lines on maps showing
+equal times or hours of thunderstorms.
+Isohels. Lines on maps showing equal
+amounts of bright sunshine.
+Isohyets. Lines on maps showing equal
+amounts of rainfall.
+Isonephs. Lines on maps showing equal
+amounts of cloudiness.
+Isotherms. Lines on maps showing equal
+temperatures.
+Khamsin. Hot, dry wind of Egypt, sup-
+posed to last for 50 days at a time.
+Kite. The form most used in meteorology
+is the Hargreave or box-kite, and it
+is employed for raising a meteorograph
+to obtain a record of the conditions
+prevailing in the upper regions of the
+atmosphere.
+Lammas Floods. A term used to denote
+a wet period about the first week in
+August.
+Land Breeze. See Breezes.
+Larry. A local name for a dense sea-fog
+at Teignmouth, Devon.
+Leste. Hot, dry, dust-bearing wind of
+Madeira. It blows from between
+North-east and South-east. __
+Levanter. See Solano.
+Leveche. The Spanish name for the
+Sirocco.
+Lightning. Disruptive discharge of elec-
+tricity during thunderstorms.
+Lightning Conductor. A mode of protec-
+tion against lightning.
+Line Squalls. The line of squalls which are
+associated with the trough of a cyclone
+or V-depression.
+London Fog. The dry, gloomy, irritating
+fog peculiar to London and other large
+towns, aggravated by smoke.
+Low-Pressure System. See Cyclone.
+Lunar Halo. See Halo.
+Lunar Rainbow. See Rainbow.
+Mackerel Sky. Cirro-cumulus clouds.
+Mares’ Tails. Long, wispy, cirrus clouds.
+Mean. The arithmetical average or mean
+is the sum of all the values forming the
+series of figures under consideration
+divided by their number. Average is
+the term used for results extending over
+a long period, while Mean is used for
+short periods, e.g., a day, month, or
+year.
+Meteorograph. An instrument for record-
+ing the changes of pressure, tempera-
+ture, humidity, &c., on one sheet of
+paper.
+Meteorology. The science of the atmos-
+phere.
+Micro-Barograph. A very sensitive stato-
+. scope which combines the recording of
+variations of atmospheric pressure upon
+a magnified scale with the practical
+obliteration of the general surges,
+through the operation of a small leak.
+Mirage. An appearance produced by the
+successive bending of rays of light in
+passing through strata of air of varying
+densities.
+Mist. A cloud in contact with the ground,
+wetting objects exposed to it.
+Mistral. A violent, cold, dry. North-
+westerly wind, of similar origin to the
+Bora, which sweeps the shores of the
+Gulf of Lyons.
+Mock Suns and Moons. Bright patches of
+fight seen at the points where the
+vertical or horizontal bands of fight
+from the sun or moon intersect a halo.
+Monsoons. Periodical winds blowing from
+sea to land in summer, and from land
+to sea in winter. The South-west or
+summer Monsoon, and the North-east
+or winter Monsoon of India, China, and
+the neighbouring seas, are the best
+known examples.
+Nephoscope. An instrument for observing
+the direction and rate of motion of
+clouds.
+
+
+Nimbus. Rain Cloud. See Clouds, p.
+Noah’s Ark. A cloud formed by stripes of
+cirrus which (owing to perspective)
+appear to coalesce at opposite points
+of the horizon.
+Northers. Dry, cold winds over the Gulf
+of Mexico. Si milar winds at Valparaiso
+have the same name.
+Ombrometer. A rain-gauge.
+Ozone. An exceptionally active condition
+of oxygen. '
+Pampero. A sudden cold, squally
+Southerly wind blowing in the rear of
+a low pressure system over the pampas
+of Argentina, and in the neighbour-
+hood of the River Plate.
+Paraselenes. Mock-moons.
+Parhelia. Mock-suns.
+Peg-top Sunset. When the sun is setting
+over the sea it sometimes assumes the
+shape of a peg-top owing to refraction.
+Pentad. A period of five days.
+Percolation. The penetration of rain into
+the soil.
+Periodical Variations. The variations which
+recur at regular intervals, such as a
+day or a year.
+Phenology. A term indicating the observa-
+tion of natural periodical phenomena,
+such as the flowering of plants, the
+migration and song of birds, &c.
+Pluvlograph. A self-recording rain-gauge.
+Pluviometer. A rain-gauge.
+Pocky Cloud. The base of a cumulus cloud
+when it assumes a festooned appear-
+ance.
+Ponente. A Westerly wind in the Mediter-
+ranean.
+Pressure Plate. A form of anemometer for
+registering the pressure of the wind.
+Pressure Tube. A form of anemometer by
+which the force of the wind,is measured.
+Prognostics. Premonitory signs of good or
+bad weather.
+Psychrometer. The dry-bulb and wet-bulb
+thermometers.
+Pumping of Barometer. Unsteadiness of
+the mercury in the barometer tube
+caused by the temporary reduction of
+pressure in a room produced by gusts
+of wind.
+Punos. Intensely cold, dry winds in the
+Puna regions of South America, blow-
+ing chiefly from South and South-
+west.
+Purga. A very violent Buran (which see).
+Pyrhellometer. An instrument for measur-
+ing the intensity of solar radiation.
+Radiation. The interchange of heat be-
+tween bodies which are not in contact.
+Bain. Condensed moisture which falls
+from the clouds in a liquid form.
+Ralnband. A dark band or shading seen
+on the red side of the double line D in
+the atmospheric absorption spectrum.
+Rainbow. An arc of prismatic colours seen
+opposite the sun or moon when rain
+is falling.
+Rainfall. This term includes all forms of
+atmospheric precipitation.
+Rain Gauge. An instrument for measuring
+rainfall.
+Rainy Day or Rain Day. This is defined
+in the British Isles to be a day on which
+o‘ol inch, or more, of rain is recorded.
+Reaumur. The thermometer scale form-
+erly in use in Germany and Russia,
+but now abandoned officially, in which
+the interval between the freezing and
+boiling points is divided into 80°; 0°
+is at the freezing-point.
+Red Rain. Rain charged with dust carried
+often for great distances from sandy
+deserts.
+Relative Humidity. The ratio or percent-
+age of the actual vapour pressure to
+that of saturated water vapour at the
+temperature of the air.
+Ridge. A high-pressure area between two
+contiguous areas of low pressure.
+Rime. Hoar-frost.
+Roaring Forties. The regions between lat.
+40° and 50° S., where the “ brave West
+winds ” blow.
+St. Elmo’s Fire. A luminous, electrical dis-
+play, similar to the brush-discharge of
+an electrical machine, visible at night
+at the extremities of pointed objects,
+such as mast-heads and yard-arms of
+ships, tops of trees, &c., during un-
+settled weather.
+St. Luke’s Summer. A period of fine, quiet
+weather about the middle of October.
+St. Martin’s Summer. A period of excep-
+tionally mild, quiet weather in Novem-
+ber.
+Saturation. The condition of the air when
+fully charged with moisture.
+Scotch Mist. The name given to the fine
+rain or drizzle which is of frequent
+occurrence in hilly country.
+Scud. Fragmental clouds driven along by
+stormy winds beneath heavy clouds.
+Sea-Breeze. See Breezes.
+Second Order Station. A station at which
+observations are made twice a day,
+usually at 9 a.m. and 9 p.m.
+
+
+Secondary Cyclone. A small depression
+i accompanying a larger or primary
+cyclone. ,
+Seismometer. An instrument for measuring
+earth-tremors or earthquakes.
+Serein. Fine rain falling from a cloudless
+sky.
+Sheet Lightning. The reflection of distant
+flashes of lightning.
+Silver Thaw. The phenomenon of a large
+quantity of frozen moisture on trees,
+walls, &c., sometimes consisting of iqe,
+but more frequently crystallized and
+presenting a beautiful snow-like
+appearance.
+Simoon* A hot, suffocating wind, bearing
+clouds of sand, in the Sahara.
+Sirocco. A hot, South-east wind blowing
+from the heated Sahara, dry on the
+coast of Africa, but moist on the coast
+of Europe.
+Sleet. A mixture of snow and rain.
+Sling Thermometer. A thermometer tied
+to a string and swung round the head
+to determine the temperature of the
+air. Readings obtained in this manner,
+even in full sunshine, agree very
+closely with the true shade tempera-
+ture.
+Snow. Minute crystals of water, the
+crystals being hexagonal or six-pointed.
+Snow Rollers. Cylinders of snow formed
+and driven along by the wind, some-
+thing like a lady’s muff.
+Soft Hail. Pyramidal soft pellets of ice,
+like miniature snowballs, which fall in
+cold weather in spring.
+Soft place in the Monsoon. A tract in the
+North Indian Ocean between the
+Equator and 9° N., and between
+Cloney and Socotra, where the Mon-
+soon is weaker than elsewhere.
+Solano. The East wind in Spain.
+Solar Halo. See Halo,
+Solar Radiation. The term used for heat
+which is received from the sun.
+Southerly Burster. A sudden strong, cool,
+•South wind in the rear of a low pres-
+sure system in Australia.
+Squall. A sudden, short storm of gusty
+wind.
+Statoscope. An instrument consisting of a
+series of very sensitive metal boxes
+(something like the vacuum boxes of
+an aneroid) contained in a hermeti-
+cally-sealed reservoir which is placed
+in a box thickly surrounded by wool,
+to prevent the disturbing influence
+of change of temperature. A very
+sensitive form of barometer.
+Stephanome. An instrument for measuring
+the angular size of halos, fog-bows,
+glories, &c.
+Storm. A violent commotion of the atmo-
+sphere.
+Strato-Cumulus. See Clouds, p. 13.
+Stratus. See Clouds, p. 13.
+Sulphur Rain. A deposit of the pollen of
+pine trees often carried by wind 1 for
+long distances and brought down by
+rain.
+Sultry. Hot and close condition of the
+atmosphere.
+Sun-Dogs. Mock-suns.
+Sunless Day. A day on which the duration
+> of sunshine is less than 3 minutes.
+Sun Pillar. A perpendicular column of
+light, of the breadth of the sun’s disc,
+seen projecting upwards from the sun
+about the time of sunrise or sunset.
+Sunshine Recorder. An instrument for
+recording the duration of bright sun-
+shine.
+Sympiesometer. An instrument formerly
+in use for showing the variations of
+atmospheric pressure. Its indications
+result partly from the pressure "and
+partly from the temperature of the
+atmosphere.
+Synoptic Chart. A map showing, by
+means of isobars, isotherms, &c., the
+general distribution of atmospheric
+conditions over a considerable area.
+Temperature. The state of a body with
+regard to heat.
+Tension of Vapour. See Elastic Force of
+Vapour.
+Terrestrial Radiation. The term used for
+heat which is given out from the Earth.
+Thermogram. The trace marked on paper
+by a thermograph.
+Thermograph. A self-recording thermo-
+meter.
+Thermometer. An instrument for measur-
+ing the temperature.
+Thermometre Fronde. See Sling Thermo-
+meter.
+Thermometer Screen. A louvre-boarded
+box for protecting the thermometers
+' from the sun’s rays and also from rain.
+Thermo-sychropherus. An apparatus for
+illustrating the cooling effect by the
+communication of heat under certain
+conditions to a mass of air in the free
+atmosphere.
+Thunder. The noise heard after the dis-
+charge of lightning.
+Thunderstorm. An atmospheric disturb-
+ance accompanied by lightning, thun-
+der, and frequently hail.
+Tornado. Originally a severe squall on the
+coast of Senegambia and Guinea, but
+of late years applied to whirlwinds on
+shore.
+
+
+Tornado Cloud. A funnel-shaped cloud
+which accompanies violent and des-
+tructive tornadoes, and most frequent
+in the United States.
+Trade-Winds. Constant winds which blow
+towards the Equator from the North-
+east and South-east between the lati-
+tudes of about 30° N. and 30° S.
+Tramontana. A general name for Northerly
+winds in Italy.
+Trough. The line of lowest barometer
+readings during the passage of a
+cyclone, at right angles to its path.
+Tule Fog. The term used in California to
+denote fogs over marshes and swamps,
+or the fogs of the lowlands and the
+valleys.
+Typhoon. A violent revolving storm in the
+China Seas and Eastern Pacific.
+Upbank Thaw. A rise of temperature with
+height during severe froat, when the
+cold air collects in the valleys, while
+the adjacent summits are warmed by
+the descending air from the centre of
+an anticyclone.
+V-Depresslon. A low-pressure area be-
+tween two contiguous areas of high
+pressure.
+Vapour Tension. See Elastic Force of
+Vapour.
+Veering-Wind. A wind with changes in
+the same direction as the apparent
+course of the sun, i.e., from E. by S
+to W., &c.
+Velocity of Wind. The rate at which the
+wind travels in miles per hour.
+Venda vales. South-west winds in the
+Straits of Gibraltar very troublesome
+to navigation; the term is also used
+for Westerly winds in New Granada.
+Vernier. A small movable scale for taking
+minute readings, attached to instru-
+ments.
+Visibility. Unusual clearness of distant
+objects.
+Vortex. The calm centre of a cyclonic
+storm.
+Waterspout. A whirlwind passing over the
+sea, in which a spout or trunk is formed,
+joining the cloud and sea.
+Weather. The condition of the atmosphere
+at any moment with regard to wind,
+temperature, cloud, moisture, and pre-
+cipitation.
+Weather-Forecast. A prediction of coming
+weather based on meteorological obser-
+vations.
+Wedge. See Ridge.
+Whirlwind. A small, local cyclonic whirl
+in which there is a very strong upward
+motion of the air.
+White Squall. A sudden squall of wind
+which only becomes visible through the
+commotion on the sea surface, which is
+lashed up into white spoon-drift.
+Williwaws. Sudden violent squalls in the
+Straits of Magellan.
+Willy Willy. The name applied to a cyclone
+in Western Australia.
+Wind. Air in motion.
+Wind Rose. A diagram showing the pro-
+portions of winds observed from each
+point of the compass.
+Wind Vane. An instrument employed for
+showing the direction of the wind.
+
+
+
+
+TART V
+V
+P
+mMMAMWP AT TI4
+RT TPPATT
+i
+r
+\
+F
+MCTFORAI nr.v
+'
+M •
+i oi
+¥
+•
+w
+1
+JL *
+.Til 6f ADtThUJA
+Saturation rressurc
+Water Vapour.
+1
+,
+A
+V
+|1
+1
+□
+1
+1
+/
+i-4i nviinrrv
+1928
+A
+fesJik
+w
+i
+Hr
+(a) In Inches of Mercury at 32" F. in Latitude 45 at
+M
+k
+M
+kl
+91
+I
+M
+Lob
+Jk
+▼ J
+He
+a m
+TRAL BURE U
+Sea Level ; ( b) in
+Millibars.
+' K'.
+Inches.
+Milli-
+bars.
+°F,
+Inches.
+Milli-
+bars.
+C F.
+Inches.
+Milli-
+bars.
+°F.
+Inches.
+Milli-
+bars.
+Pressure of
+Water Vapour in Inches ot Mercury at 32 u
+F.
+in
+Latitude 45
+o
+•
+Relative Humidity,
+per
+cent.
+35-0
+0-203
+6-86
+45-0
+o-
+298
+10
+10
+55-0
+0-432
+14*64
+BAROMETER
+READING
+, 29*7
+INCHES.
+(Tables extracted trom Australian Meteorological Observer
+s Handbook, 1925.)
+•2
+•204
+6-92
+•2
+•
+301
+10
+18
+•2
+•435
+14-74
+•4
+•206
+6‘98
+•4
+303
+0
+0-045
+1-52
+•6
+•208
+7-03
+•6
+305
+10
+34
+•6
+•442
+•445
+14-
+15-
+Wet
+Dry Bulb.
+Wet
+Dry Bulb.
+Wet
+Dry Bulb.
+Wet
+Dry Bulb.
+I
+•047
+1-59
+•8
+•209
+7-09
+•8
+*
+308
+10 - 42
+*8
+Bulb.
+1
+Bulb.
+Bulb.
+1
+Bvulb
+36-0
+•211
+7-14
+46-0 ,
+310
+10
+49
+•448
+15-18
+80
+81
+j 82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+82
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+108
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+2
+•049
+1-67
+50 0
+1
+j
+3
+*052
+1-75
+•2
+•212
+7-20
+■2
+*
+312
+10
+57
+•2
+•451
+15’29
+89
+89
+1-337
+1-323
+1-310
+t-236
+1-232
+1-268
+• 255
+1-241
+1-227
+1-214
+89
+1-200
+1-
+186
+1-173
+1-159 1
+•145
+1
+-132
+1-113
+1-104
+1*030
+1-077
+819
+1*063
+1-049
+1-033
+1-022
+1-008
+0
+■ 995
+0-
+981
+• 967
+0-954
+0-940
+4
+•054
+1-83
+•4
+•2M
+7-25
+•4 [
+315
+10
+Co
+•4
+•455
+15‘40
+1
+100
+96
+92
+88
+85
+81
+78
+75
+72
+69
+66
+63
+61
+58
+56
+54
+51
+49
+47
+45
+44
+42
+40
+38
+37
+35
+34
+33
+31
+30
+29
+27
+5
+•057
+1-92
+•6
+•216
+■7-31
+■6
+317
+io-
+73
+•6
+•458
+15"51
+88
+1-322
+1-308
+1-295
+88
+1-281
+1-267
+1-254
+1-240
+1-226
+1-2213
+1-199
+1-135
+1-172
+1-158
+88
+1-144
+1-
+130
+1-117
+1-103 1
+•OSS
+1
+•076
+1-082
+1-048
+1-035
+1-021
+83
+1*007
+0-994
+0-980
+0-966
+0-953
+0
+• 939
+G
+• 925
+G
+•912
+0-898
+0-884
+6
+•059
+2-01 ,
+•8
+•218
+7-37
+• 8 I
+319
+10
+81
+•8
+•461
+15*62
+100
+96
+92
+88
+85
+81
+78
+75
+71
+69
+66
+63
+60
+58
+56
+53
+5!
+49
+47
+45
+43
+41
+40
+38
+36
+35
+33
+32
+31
+29
+28
+27
+26
+47-0
+322
+•465
+15-73
+87
+1-231
+1-2S7
+1-253
+1-240
+SI
+1-22S
+1-212
+1-199
+1-135
+1-111
+1-1158
+• 144
+1-130
+1-117
+1-103
+87
+1-089
+1-
+076
+1-062
+t-048 1
+•035
+1
+•021
+1-007
+0-994
+0-980
+0-966
+87
+0*953
+0-939
+0-925
+0-912
+0-898
+0
+-S84
+G
+• 871
+fl
+•857
+0-343
+0-830
+7
+•062
+2-10
+37-0
+•219
+7-43
+10-90
+57 ‘0
+100
+96
+92
+88
+84
+81
+78
+74
+y
+i
+68
+65
+63
+60
+58
+5o
+53
+51
+4i
+46
+45
+42
+41
+39
+37
+36
+34
+33
+3
+2
+30
+29
+28
+26
+25
+24
+8
+•065
+2-20
+•2
+•221
+7-49
+•2
+324
+10
+98
+•2
+•468
+15’84
+86
+1-240
+1-227
+1-213
+1200
+1-133
+86
+1-172
+1-159
+1-145
+1-131
+1-118
+1-1104
+1
+•090
+1-077
+1-053
+1-049
+88
+1-036
+1-
+022
+1-003
+0-995 ) 0
+•981
+0
+968
+0-354
+0-940
+0-926
+0-D13
+8i6
+0*899
+0-886
+0-872
+0-358
+0-843
+0
+• 831
+0
+.817
+G
+•804
+0-790
+0-776
+9
+■068
+2-30
+•4
+•223
+7-55
+•4
+327
+11 -06
+•4
+•471
+15’96
+100
+96
+92
+88
+84
+81
+77
+74
+71
+}
+8
+65
+62
+60
+57
+55
+52
+50
+48
+46 i
+44
+42
+40
+39
+37
+35
+34
+32
+31
+30
+28
+27
+26
+25
+24
+23
+10
+•071
+2-40
+•6
+■224
+7-61
+•6
+329
+11
+15
+•6
+•475
+16-07
+11
+•074
+2*51
+•8
+•226
+7-66
+•8
+332
+11
+23
+•8
+•478
+16-19
+85
+1-202
+1-183
+1-174
+1-161
+1-147
+1-133
+85
+1-120
+1-106
+1-032
+1-079
+1-053
+1-0151
+1
+•038
+1-024
+1-010
+0-997
+85
+0-983
+0-
+970
+0-956
+0-942 0
+•929
+0
+915
+0-901
+0-888
+0-874
+0-360
+85
+0*847
+0-833
+0-820
+0-803
+0-792
+0
+•779
+0
+*765
+0
+•751
+0*738
+0*724
+334
+11
+31
+•481
+16-31
+100
+96
+92
+88
+84
+80
+77
+74
+71
+68
+5
+62
+59
+57
+54
+52
+50
+48
+46
+44
+42
+40
+38
+37
+35
+33
+32
+31
+29
+28
+27
+25
+24
+23
+22
+21
+12
+•078
+2-63
+38-0
+•228
+7-72
+48-0
+'
+58-Oj
+84
+1-164
+1-150
+1-136
+1-123
+1-109
+1-095
+1-082
+84
+1-058
+1-054
+1-041
+1-027
+1-014
+1-000
+0-986
+0-373
+0-959
+0-946
+84
+0-932
+0-
+918
+0-903
+0-S91
+1 o
+•877
+0
+364
+,
+9-850
+0-836
+0-823
+0-S09
+84
+0*793
+0-782
+0-768
+0-755
+0-741
+0
+•727
+0*714
+0
+•700
+0*686
+0*873
+13
+•081
+2-75
+•2
+•230
+7-79
+•2
+'
+337
+11
+•40
+•2
+"485
+16'42
+100
+96
+92
+88
+84
+80
+77
+74
+70
+67
+64
+»
+2
+59
+56
+54
+52
+49
+47
+45
+43
+41
+39
+38
+36
+34
+33
+31
+30
+29
+27
+26
+25
+24
+23
+22
+21
+20
+14
+•085
+2-87
+•4
+•232
+7-85
+•4
+*
+339
+11
+■49
+’4
+*488
+16*54
+83
+..
+1-127
+1-113
+1-099
+1-086
+1-072
+1-058
+1-045
+1-031
+S3
+1-018
+1-004
+0-330
+0-377
+0-953
+0-950
+0
+•933
+0-S22
+0-903
+0-395
+83
+0-882
+0-
+868
+0-354
+0-841
+0
+•827
+0
+313
+9-S00
+0-780
+0-773
+0-759
+83
+0*745
+0-732
+0-718
+0-704
+0-691
+0
+•677
+0*664
+0
+•650
+0*636
+0*623
+15
+•088
+3-00
+•6
+•233
+7-91
+•6
+342
+11
+■57
+•6
+•492
+16*66
+100
+96
+91
+88
+84
+SO
+77
+73
+70
+67
+64
+61
+5 9
+56
+54
+51
+49
+47
+45
+43
+41
+39
+37
+35
+34
+32
+31
+29
+28
+27
+26
+24
+23
+22
+21
+20
+19
+18
+16
+•092
+3-13
+•8
+•235
+7*97
+•8
+*
+344
+11
+•(53
+•8
+•495
+16*78
+82
+1-091
+1-077
+1-064
+1-050
+1-036
+1-023
+1-009
+0-993
+0-982
+82
+0-363
+0-955
+0-341
+0-S23
+0-914
+0-900
+0
+•887
+0-873
+0-859
+0-843
+82
+0-832
+0-
+319
+0-805
+0-791
+0
+•778
+0-
+764
+9-751
+0-737
+0-T23
+0-710
+82
+0*696
+0-683
+0-669
+0-655
+0-642
+0
+•628
+0
+•815
+0-601
+0*587
+0*574
+*
+11
+•74
+•499
+16-90
+100
+96
+91
+87
+84
+80
+76
+73
+70
+67
+64
+61
+58
+*6
+53
+51
+48
+46
+44
+42
+40
+38
+37
+35
+33
+32
+30
+29
+28
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+17
+•096
+3-27
+39-0
+•237
+8-03
+49-0
+347
+59-0
+31
+1-056
+1-042
+1-029
+1-015
+1-001
+0-988
+0-974
+0-331
+0-847
+0-934
+81
+0-920
+o-sos
+0-333
+0-879
+0-856
+0-852
+0
+• 838
+0-825
+0-811
+0-798
+81
+0-784
+0-
+770
+0-757
+0-743 0*730
+0-716
+9-702
+0-689
+0-675
+0-SS2
+81
+0*648
+0-634
+0-621
+0-G07
+0-594
+0
+-380
+0*567
+0
+•553
+0*539
+0*526
+18
+•101
+3-41
+•2
+•239
+8-09
+•2
+349
+11
+•83
+•2
+•502
+17‘02
+1
+100
+96
+91
+87
+83
+80
+76
+73
+69
+66
+63
+60
+58
+55
+53
+50
+48
+46
+44
+42
+40
+38
+36
+34
+33
+31
+30
+28
+27
+26
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+19
+•105
+3-56
+•4
+•241
+8-15
+•4
+352
+11
+•92
+•4
+•506
+17*14
+t
+20
+•110
+3-71
+■6
+•243
+8-22
+•6
+355
+12
+•01
+•6
+•510
+17-26
+80
+1-022
+1-008
+0-995
+0-381
+0-983
+0-954
+0-940
+0-327
+0-913
+0-900
+0-886
+80
+0-373
+0-S59
+0-845
+0-832
+0-818
+0-805
+0
+-791
+0-778
+0*764
+0-750
+80
+0-737
+0-
+723
+0-710
+0*896
+0-682
+0-
+683
+0*655
+0-642
+0-628
+0-815
+80
+0*601
+0-588
+0-574
+0-560
+0-547
+0
+533
+0
+*520
+0
+•508
+0*492
+21
+•114
+3*87
+•8
+•245
+8-28
+■8
+357
+12
+•10
+•8
+*513
+17-39
+100
+95
+91
+87
+83
+79
+76
+72
+69
+66
+63
+60
+57
+55
+52
+>0
+47
+45
+43
+41
+39
+37
+36
+34
+32
+31
+29
+28
+26
+25
+24
+23
+22
+20
+IS
+18
+17
+16
+16
+15
+12
+•19
+•517
+17-51
+79
+0-975
+' 0-962
+0-948
+0-935
+0-321
+0-S03
+0-894
+0-880
+0-867
+0-853
+0-340
+79
+0-826
+0-813
+0-799
+0-786
+0'V2
+0-758
+0-745
+0-731
+0*713
+0-704
+79
+0-391
+0-
+677
+0-664
+0*630
+0
+63S
+0-
+323
+0-609
+0-596
+0-582
+0-568
+79
+0*555
+0-541
+0-528
+0-514
+0-301
+0
+487
+0
+•474
+0
+•460
+22
+•119
+4-04
+40-0
+•246
+8-35
+50-0
+360
+60-0
+95
+91
+87
+83
+79
+76
+72
+69
+66
+63
+60
+57
+54
+52
+49
+17
+45
+43
+41
+39
+37
+35
+33
+32
+30
+29
+27
+26
+25
+23
+22 1
+21
+20
+19
+18
+17
+16
+15
+14
+23
+•124
+4-21
+•2
+•248
+8-41
+•2
+362
+12
+•28
+•2
+•521
+17-63
+78
+0-930
+0-916
+0-903
+0-889
+0-876
+0-862
+0-349
+0-835
+0-822
+0-803
+0-794
+78
+0-731
+0-767
+0-754
+0-740
+0-7i7
+0-713
+0-700
+0-683
+0*672
+0-859
+78
+0-545
+0-
+632
+0-618
+0*303
+1 0-591
+0-
+578
+0-564
+0-550
+0-537
+0-523
+7»
+0*510
+0-496
+0-483
+0-469
+0-458
+0
+442
+0
+•428
+24
+•130
+4-39
+■4
+•250
+8-48
+•4
+365
+12
+•37
+•4
+•524
+17-76
+91
+87
+83
+79
+75
+72
+68
+65
+62
+59
+56
+54
+51
+49
+46
+14
+42
+40
+38
+36
+34
+33
+31
+29
+28
+27
+25
+24
+23
+21
+20
+19
+18
+17
+16
+J
+5
+14
+14
+25
+•135
+4-58
+•6
+•252
+8-55
+•6
+368
+12
+•46
+•6
+"528
+17-89
+77
+0-885
+0-372
+0-853
+0-845
+0-831
+0-818
+0-804
+0-790
+0-777
+0-763
+0-750
+77
+0-736
+0-723
+0-709
+0-696
+0-632
+0-669
+0
+-655
+0-642
+0*628
+0-614
+77
+0-601
+0-
+587
+0-574
+C*5S0
+o
+547
+0-
+533
+0-520
+9-506
+0-493
+0-479
+rn
+0*466
+0-452
+0-438
+0-425
+0-412
+0
+398
+26
+•141
+4-77
+•8
+•254
+8-61
+■8
+371
+12
+•55
+•8
+•532
+18-01
+87
+83
+79
+75
+71
+68
+65
+62
+59
+56
+53
+51
+48
+46
+44
+(1
+39
+37
+36
+34
+32
+30
+29
+27
+26
+£
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+•536
+18-14
+76
+0-842
+0-828
+0-815
+0-801
+0-788
+0-774
+0-760
+0-747
+0-733
+0-720
+0-706
+76
+0-693
+0-679
+0-666
+0-552
+0-659
+0-625
+0
+•812
+0-598
+0*585
+0-571
+76
+0-558
+0-
+544
+0-531
+0*517
+1 0
+504
+0-
+490
+0-476
+9-463
+0-443
+0-436
+7S
+0*422
+0-409
+0-395
+0-382
+0-368
+27
+•147
+4-97
+41-0
+•256
+8-68
+51-0
+373
+12
+•64
+61-0
+82
+78
+75
+71
+68
+64
+61
+58
+55
+53
+50
+48
+45
+43
+41
+19
+37
+33
+33
+31
+30
+28
+27
+25
+24
+23
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+28
+•153
+5-18
+•2
+•258
+8-74
+■2
+376
+12
+•74
+•2
+•539
+18-27
+29
+•159
+5-40
+•4
+•260
+8-81
+•4
+379
+12
+•83
+•4
+•543
+18-40
+75
+0-799
+0-785
+0-772
+C-75S
+0-745
+0-731
+0-718
+0-704
+0-691
+0-677
+0-664
+75
+0-650
+0-637
+0-623
+0-610
+0-558
+0-583
+0
+• 589
+0-555
+0*542
+0-529
+75
+0-515
+0-
+302
+0-483
+0-475
+0
+481
+0-
+447
+0-434
+9-420
+0-407
+0-394
+75
+0*380
+0-366
+0-353
+0-339
+30
+■166
+5-62
+•6
+•262
+8-88
+•6
+382
+12
+•93
+•6
+•547
+18-53
+78
+74
+71
+67
+64
+61
+58
+55
+52
+50
+47
+45
+42
+40
+38
+16
+34
+33
+31
+29
+28
+26
+25
+23
+22
+21
+20
+18
+17
+16
+15
+14
+13
+- 13
+12
+31
+•173
+5-85
+•8
+•264
+8-95
+•8
+384
+13
+•02
+•8
+•551
+18-66
+74
+0-757
+0-743
+0-730
+0-716
+0-703
+0-689
+0-678
+0-662
+0-649
+0-835
+0-G22 I
+74
+0-608
+0-595
+0-581
+0-558
+0-554
+0-541
+0
+-527
+0-514
+0*500
+0-487
+74'
+0-473
+0-
+160
+0-446
+0-433
+0
+419
+0-
+408
+•392
+9-379
+G-385
+0-352
+74
+0*338
+0-325
+0-311
+•555
+18-79
+74
+70
+67
+64
+60
+57
+54
+52
+49
+47
+44 |
+42
+40
+38
+36
+14
+32
+30
+28
+27
+25
+24
+23
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+32-0
+•180
+6-09
+42-0
+•266
+9-01
+52-0
+387
+13
+•12
+62-0
+73
+0-716
+0-702
+0-589
+0-675
+0-662
+0-648
+0-635
+0-621
+o-eos
+0-594
+0-581 |
+73
+0-567
+0-354
+0-340
+0-527
+0-514
+0-500
+0
+•487
+0-473
+0*460
+0-446
+73
+0-432
+0-
+419
+0-406
+0-392
+i 0
+379
+0-
+335
+•352
+0-338
+0-325
+0-311
+73
+0*298
+0-284
+•2
+•181
+6’14
+•2
+•268
+9-08
+•2
+390
+13-22
+•2
+•559
+18-92
+70
+61?-
+63
+60
+57
+54
+51
+49
+46
+44
+41 I
+39
+37
+35
+33
+11
+29
+28
+26
+25
+23
+22
+21
+19
+18
+17
+16
+15
+14
+13
+12
+11
+✓ 10
+•4
+•183
+6-19
+•4
+■270
+9-15
+•4
+393
+13
+•31
+•4
+‘563
+19-06
+72
+0-676
+0-652
+0-649
+0-635
+0-622
+0-603
+0-595
+0-581
+0-568
+0-554
+0-541
+72
+0-527
+0-514
+0-500
+0-437
+0-4 r 4
+0-460
+0
+•447
+0-433
+0*420
+0-403
+72
+0-393
+0-
+379
+0-356
+0-352
+0
+339
+0-
+325
+•312
+9-293
+0-285
+0-271
+72
+0*258
+•6
+•184
+6-24
+•6
+•272
+9-22
+•6
+396
+13
+•41
+•6
+■567
+•571
+19-19
+19-33
+66
+63
+59
+56
+53
+51
+48
+45
+43
+41
+38
+36
+34
+32
+31
+19
+27
+25
+24
+23
+21
+20
+19
+17
+16
+15
+14
+13
+12
+11
+10
+10
+1
+!
+•8
+•186
+6-29
+•8
+•274
+9-29
+■8
+399
+13
+•51
+•8
+71
+0-636
+C-S23
+0-609
+0-593
+0-582
+0-889
+0-555
+0-542
+0-528
+0-515
+0-502
+71
+0-488
+0-475
+0-461
+0-443
+0-454
+0-421
+0
+•407
+0-334
+0*380
+0-367
+71
+0-353
+0-
+340
+0-326
+0-313
+0
+300
+0-
+286
+-273
+9-259
+0-248
+0-232
+62
+59
+56
+53
+50
+47
+45
+42
+40
+38
+36
+34
+32
+30
+28
+16
+25
+23
+22
+20
+19
+18
+17
+16
+14 ,
+13
+12
+12
+11
+10
+9
+33-0
+•187
+6-34
+43-0
+•277
+9-37
+53-0
+402
+13
+•61
+63-0
+•575
+19-46
+•189
+6-39
+405
+13
+•71
+■ 9
+•679
+19*60
+0-476
+0-463
+70
+0-450
+0-436
+•369
+0-358
+0-342
+0-329
+70
+0-315
+*2
+0*42,5
+0*40;?
+0*J#O
+u*
+•4
+•190
+6-44
+•4
+•281
+9-51
+•4
+408
+13
+•81
+•4
+•583
+19-74
+58
+55
+52
+49
+47
+44
+42
+39
+37
+35
+33
+31
+29
+27
+26
+I
+23
+21
+20
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+69
+70
+71
+72 |
+73
+74
+75
+76
+77
+78
+79
+•6
+•192
+6-49
+•6
+•283
+9-58
+411
+13
+•91
+■ a
+•587
+19-88
+0-560
+0-503
+0-492
+0-473
+0-46S
+0-452
+0-433
+0-425
+63 i
+0-412
+0-39S
+•331
+0-318
+0-304
+0-291
+68
+0-251
+U'O 1 J
+U-.5/Z
+U*
+U*^40
+• 1 Oi)
+•8
+•193
+6-54
+•8
+•285
+9-66
+•8
+414
+14-01
+•8
+■591
+20-02
+65
+52
+49
+46
+43
+41
+39
+36
+34
+32
+30
+28
+27
+2
+5
+23
+?
+20
+19
+18
+16
+15
+14
+13
+12
+11
+10
+J
+8
+8
+79
+0*389
+68
+0-522
+0-509
+0-496
+0-482
+0-469
+0-455
+0-442
+0-428
+0-415
+0-402
+0-388
+68
+0-375
+0-361
+0-348
+0-335
+0-321
+0-308
+0
+•294
+0-281
+0*268
+0-254
+68
+0-241
+0-
+227
+0-214
+0-200
+0
+187
+0-
+174
+•160
+34-0
+•195
+6-60
+44-0
+•287
+9-73
+54-0
+417
+14
+•11
+64-0
+•595
+20-16
+51
+48
+45
+43
+40
+38
+36
+33
+31
+29
+28
+26
+24
+22
+20
+18
+17
+16
+14
+13
+12
+11
+10
+9
+8
+8
+7
+78
+0*957
+100
+•2
+•196
+6-65
+•2
+•290
+9-80
+•2
+420
+14
+•22
+•2
+•599
+20-30
+67
+0-486
+0-473
+0-459
+0-446
+0-432
+0-419
+0-406
+0-392
+0-379
+0-365
+0-352
+67
+0-339
+0-325
+0-312
+0-298
+0-2S5
+0-272
+0
+•258
+0-245
+0-231
+0-213
+67
+0-204
+0-
+191
+0-178
+0-154
+1 0
+131
+0-
+137
+0*943
+•4
+•198
+6-70
+•4
+•292
+9*88
+•4
+423
+14
+•32
+•4
+•604
+20 "44
+48
+45
+42
+40
+37
+35
+33
+31
+29
+27
+25
+23
+22
+20
+19
+17
+16
+15
+14
+12
+11
+10
+9
+8
+8
+7
+6
+77
+100
+95
+•6
+•199
+6-76
+•6
+•294
+9-96
+•6
+•426
+14
+•43
+•6
+•608
+20-58
+66
+0-450
+0-437
+0-424
+0-410
+C-3S7
+0-284
+0-370
+0-357
+0-343
+0-330
+0-316
+66
+0-303
+0-230
+0-27G
+0-263
+0-2S0
+0-236
+0
+•223
+0-209
+0-196
+0-182
+66
+0-169
+0-
+156
+0-142
+0-129
+0
+116
+u*»zo
+0*912
+0*899
+•8
+•201
+6-81
+•8
+•296
+10-03
+•8
+429
+14
+•53
+•8
+•612
+20-72
+44
+41
+39
+36
+34
+32
+30
+28
+26
+24
+22
+21
+19
+18
+16
+1
+5
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+76 ,
+0*398
+100
+0-832
+95
+0*869
+91
+0*855
+65
+0-416
+0-402
+0-383
+0-375
+0-332
+0-349
+0-335
+0-322
+0-308
+0-295
+C-282
+63
+0-268
+0-255
+0-242
+0-223
+0-215
+0-
+201
+0
+•183
+0-175
+0-161
+0-148
+65
+0-134
+0-
+121
+0-108
+0-334
+65-0
+0-616
+20-87
+75-0
+0-866
+29-34
+85-0
+1-201
+40
+•69
+95’0
+1-645
+55-71
+41
+38
+36
+33
+31
+29
+27
+25
+23
+22
+20
+IS
+17
+16
+14
+1
+12
+11
+10
+9
+8
+7
+6
+5
+4
+,s
+0*812
+82
+0*770
+•2
+•621
+21-02
+•2
+•872
+29-54
+•2
+1-209
+40
+•95
+96-0
+1 -696
+57*45
+64
+0381
+0-368
+0-354
+0-341
+0-328
+0-314
+0-301
+0-288
+0-274
+0-2S1
+0-248
+64
+0-234
+0-221
+0-207
+0-194
+0-181
+0-
+167
+0
+•154
+0-141
+0-127
+0-114
+64
+0-100
+0-
+087
+0-074
+95
+91
+ft.7Q7
+86
+0*784
+'4
+•625
+21-17
+■4
+■878
+29-73
+•4
+T217
+41
+•22
+97-0
+1-749
+59-23
+63
+37
+35
+32
+30
+28
+16
+24
+22
+21
+19
+IS
+16
+15
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+4
+74
+0*838
+0.324
+•6
+•629
+21-31
+•6
+•884
+29-93
+•6
+1-225
+41
+•48
+98-0
+1-803
+61-07
+0-343
+C-334
+0-321
+0-303
+0-294
+0-2J1
+0-268
+0-254
+0-241
+0-227
+C-214
+63
+0-201
+0-187
+0-174
+0-161
+0-147
+0-
+134
+0
+•121
+0-107
+0-054
+0-080
+63
+0-037
+0-
+054
+05
+•8
+•634
+21-46
+•8
+•890
+30-13
+•8
+1-233
+41
+•75
+99-0
+1-859
+62-95
+62
+34
+32
+29
+27
+25
+23
+0-218
+22
+20
+18
+17
+15
+14
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+3
+73
+0
+• 810
+0.7R3
+n.7?n
+0*756
+0-315
+0-301
+0-288
+0-275
+0-261
+0-234
+0-221
+0-203
+0-194
+0-181
+62
+0-168
+0-154
+0-141
+0-128
+0-114
+0-
+101
+0
+•083
+0-074
+0-061
+0-048
+62
+0-034
+100
+•no
+82
+0*716
+78
+0.7Q3
+74
+66-0
+•638
+21-61
+76-0
+•896
+30-33
+86-0
+1-241
+42
+•01
+100-0
+1-916
+64-89
+61
+31
+29
+26
+24
+22
+21
+7.9
+17
+16
+14
+13
+12
+10
+9
+s
+7
+6
+5
+4
+3
+2
+2
+72
+0-783
+0
+0.75S
+0.743
+n.7*n
+•2
+•642
+21-76
+•2
+•902
+30-53
+•2
+1-248
+42
+•28
+101-0
+1-975
+66-87
+0-282
+0-269
+0-256
+0-242
+0-229
+0-216
+0-202
+0-189
+0-176
+0-162
+0-149
+61
+0-133
+0-122
+0-103
+0-033
+0-082
+0-
+069
+0
+•056
+0-042
+0-029
+0-018
+100
+95
+90
+80
+81
+0-690
+77
+73
+0*663
+70
+0*650
+•4
+•647
+21-91
+•4
+•908
+30-73
+•4
+1-
+256
+42
+•55
+102-0
+2*035
+68-91
+28
+25
+23
+20
+IS
+16
+15
+13
+12
+11
+9
+8
+7
+6
+5
+4
+3
+2
+2
+1
+71
+0-757
+0-744
+0
+•730
+0-717
+0-704
+0-S76
+•6
+•651
+22-06
+•6
+•914
+30-94
+•6
+1
+264
+42
+•82
+103-0
+2-097
+71 '00
+0-237
+0*197
+17
+0*184
+15
+0-171
+14
+0-140
+0*157
+19
+0*144
+11
+0*131
+10
+0-117
+8
+100
+95
+90
+Xfi
+81
+•8
+*656
+22*22
+■8
+•920
+31-15
+•8
+1-273
+43
+•10
+104-0
+2-160
+73-15
+60
+0-250
+25
+0-219
+0*224
+0-210
+19
+0-180
+60
+0-104
+0-091
+6
+0-060
+0-077
+0-034
+4
+0-033
+0-951
+3
+0-020
+0-
+037
+2
+006
+0
+•024
+1
+0-011
+1
+70
+0-732
+0-719
+0-705
+0
+•692
+0-678
+0-863
+0*651
+0-638
+0*624
+0*811
+67-0
+•660
+22-37
+77-0
+•926
+31-35
+87-0
+1-281
+43
+■37
+105-0
+2-225
+75-35
+59
+0-206
+0-133
+0-166
+0-153
+0-126
+0-113
+0-100
+0-336
+59
+0*073
+0-046
+0-
+58
+59
+60
+61
+62
+63
+04
+65
+66
+67
+68
+69
+0-707
+100
+0-394
+95
+0-380
+90
+0-367
+0
+85
+•854
+81
+0-340
+77
+0-327
+73
+0.013
+69
+o-soo
+65
+0*586
+62
+0*573
+•2
+•665
+22-52
+•932
+31-56
+43
+*65
+2-292
+77-61
+21
+20
+16
+16
+14
+13
+77
+79
+•2
+*2
+i zoy
+58
+0-083
+0-069
+C-0S6
+100
+95
+90
+85
+81
+70
+79
+•4
+•670
+22-68
+•4
+•938
+31-78
+•4
+1-297
+43
+■93
+107-0
+2-360
+79-93
+0-189
+0-17C
+0-182
+0-149
+0-136
+0-122
+0-103
+0-095
+53
+0-043
+0-029
+0-016
+0-003
+63
+0*684
+68
+0-S70
+0-657
+0-643
+0-330
+0
+•616
+0-S03
+0-590
+0*576
+0-563
+0*549
+0*536
+•6
+•674
+22-84
+•6
+•944
+31-99
+•6
+r
+305
+44
+21
+108-0
+2-431
+82-31
+IS
+17
+15
+13
+12
+10
+9
+7
+0
+5
+3
+2
+1
+L
+ICO
+0-347
+95
+90
+85
+80
+76
+79.
+08
+6A
+'8
+•679
+23-00
+•8
+•951
+32-20
+■8
+l •
+314
+44
+49
+109-0
+2-503
+84-75
+0-159
+16
+0-146
+14
+0-132
+72-
+0-119
+11
+0-106
+- g
+0-012
+0*079
+/■-
+0-036
+0-053
+4
+0-039
+3
+0-026
+2
+57
+0*013
+i
+67
+0-
+sso
+on
+0*334
+90
+0*620
+85
+0*607
+80
+0-593
+0
+•580
+0*567
+0*553
+0*540
+0*526
+0*513
+0*500
+SI
+0*464
+68-0
+•684
+23-15
+78-0
+•957
+32-41
+88-0
+i
+322
+44-77
+110-0
+2-577
+87-25
+56
+0-130
+0-116
+0-103
+0-090
+0-076
+0-053|
+0-050
+0-037
+0-023
+C-010
+86
+0-633
+0-
+625
+0-311
+66
+0-598
+0-584
+0-571
+0-358
+0-544
+0-531
+0-518
+0*504
+0-491
+0-477
+•2
+•688
+23-31
+•2
+•963
+32-62
+•2
+1
+330
+45
+111 -o
+2 ’652
+89'81
+13
+11
+9
+8
+7
+5
+4
+3
+2
+TOO
+95
+89
+85
+80
+75
+71
+67
+63
+60
+56
+53
+50
+47
+•4
+•693
+23-47
+■4
+•970
+32-84
+•4
+1-339
+45
+•34
+112-0
+2-730
+92’44
+*6
+•698
+23-63
+•6
+•976
+33-06
+•6
+1-
+347
+45
+63
+113-0
+2-810
+95-14
+55
+0-101
+0-087
+0-074
+0-061
+0-048
+0-034
+0-021
+0-008
+■■
+65
+0-616
+0-603
+0-
+590
+0-376
+65
+0-363
+0-549
+0-536
+0-523
+0
+•309
+0-498
+0-482
+0*469
+0-456
+0-442
+0*429
+•8
+•703
+23-79
+•8
+■983
+33-27
+•8
+1
+356
+45
+92
+114’0
+2-891
+97-91
+54
+10
+0-072
+0-059
+/
+0*046
+O
+0*033
+4
+0*019
+3
+0*006
+2
+1
+100
+94
+89
+84
+64
+80
+75
+3-515
+71
+67
+63
+59
+56
+52
+49
+46
+43
+46
+•20
+2-975
+100-74
+64
+0-
+395
+0-532
+0-SG9
+0-
+555
+0-542
+0-528
+0-302
+0-483
+(
+•475
+0-482
+0-448
+0*435
+0-421
+0-408
+0*395
+69-0
+•707
+23-95
+79-0
+•989
+33-49
+89-0
+1-364
+115-0
+S3
+6
+6
+2
+1
+100
+94
+89
+84
+79
+75
+70
+66
+62
+59
+55
+59
+49
+46
+43
+•2
+•712
+24-12
+•2
+•996
+33-71
+•2
+1-373
+46
+•49
+116-0
+3-061
+103-64
+0-044
+0-031
+0-018
+0-005
+63
+0-575
+0-
+561
+0-548
+0-535
+0-
+521
+0-503
+63
+0-495
+0-481
+0-468
+0-455
+G
+•441
+0-428
+0-414
+0-401
+0-388
+0-374
+0*361
+■4
+•717
+24-29
+•4
+1-002
+33-94
+•4
+1
+382
+46
+•79
+117-0
+3‘148
+106'62
+§2
+3
+2
+100
+04
+89
+84
+79
+74
+70
+60
+62
+58
+51
+48
+45
+42
+39
+36
+•6
+•722
+24-45
+•6
+1-009
+34-16
+•6
+1-390
+47
+09
+118-0
+3-239
+109-67
+0-017
+C-004
+62
+0-535
+• 542
+0-528
+0-315
+0-502
+0-
+483
+0-475
+62
+0-462
+0-448
+0-435
+0-421
+0-403
+0-395
+0-381
+0-368
+0-355
+0-341
+0*328
+•8
+•727
+24-62
+•8
+1-015
+34-38
+•8
+1
+399
+47
+•39
+119-0
+3*331
+112‘79
+2
+100
+94
+89
+84
+79
+74
+69
+65
+61
+57
+54
+50
+47
+44
+41
+38
+36
+33
+61
+0-533
+100
+0-522
+94
+•509
+89
+0-
+496
+83
+0-482
+78
+0-439
+73
+456
+69
+0-442
+65
+61
+0-429
+0*416
+0-402
+53
+0*389
+0-336
+37
+0*322
+0-309
+32
+0*296
+30
+70-0
+•732
+24-79
+80-0
+1-022
+34-60
+90-0
+1
+408
+47
+•68
+120-0
+3-425
+115-99
+61
+57
+50
+46
+43
+40
+*2
+•737
+24-96
+•2
+1-029
+34-83
+•2
+1
+417
+47
+•99
+•4
+•742
+25-13
+•4
+1-035
+35-06
+•4
+1-426
+48
+29
+60
+0-517
+0-504
+0-490
+•477
+0-
+464
+0-450
+0-437
+0-
+424
+0-410
+60
+0-397
+0-384
+0-370
+0-357
+0
+•344
+0-330
+9-317
+0-304
+0-290
+0-277
+0*264
+•6
+•747
+25*30
+•6
+1-042
+35-29
+•6
+1
+435
+48
+*59
+100
+94
+88
+S3
+78
+73
+68
+64
+60
+56
+52
+49
+46
+42
+39
+37
+34
+31
+29
+27
+•8
+•752
+25-47
+•8
+1-049
+35-52
+•8
+1-444
+48
+•90
+59
+0-499
+3-488
+0-472
+0-459
+•445
+0-
+432
+0-419
+0-406
+0-379
+59
+0-366
+0.353
+0-339
+0-326
+0.313
+0-246
+0*233
+71-0
+•757
+25-64
+81-0
+1-056
+35-75
+91-0
+1-453
+49
+•20
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+0-482
+100
+100
+0-468
+94
+94
+0-455
+88
+88
+0-442
+82
+S3
+0-423
+77
+78
+•415
+72
+0-
+73
+402
+67
+68
+0-388
+63
+64
+0-375
+59
+59
+55
+0-348
+51
+58
+52
+0-335
+48
+0-322
+45
+0-309
+41
+42
+0-295
+39
+36
+33
+9-235
+29
+30
+0-242
+27
+28
+0-229
+25
+26
+0-216
+23
+24
+0*202
+20
+•2
+•762
+25-82
+•2
+1-063
+35-99
+•2
+1-462
+49-51
+55
+47
+44
+38
+35
+32
+•4
+•768
+26-00
+•4
+1-070
+36-23
+•4
+1
+471
+49
+•83
+57
+0-464
+57
+0-451
+0-438
+0-425
+0-411
+0-398
+• 385
+0-
+372
+0-358
+0-345
+0-332
+0-318
+57
+0-305
+0-232
+0-278
+0-285
+0-252
+0-239
+9-225
+0-212
+0-199
+0-186
+0*172
+•6
+•773
+26-18
+•6
+1-077
+36-46
+‘6
+1
+480
+50-14
+100
+94
+88
+82
+77
+7
+2
+67
+62
+58
+54
+50
+47
+43
+40
+37
+34
+31
+28
+26
+24
+21
+19
+17
+•8
+•778
+26-36
+•8
+1 -084
+36-70
+■8
+1 -490
+50
+•45
+56
+0-448
+0-435
+56
+0-422
+0-408
+0-395
+0-382
+0-363
+•355
+0-
+342
+0-329
+0-315
+0-302
+0-289
+56
+0-276
+0-262
+0-249
+0-236
+G
+•222
+0-209
+9-196
+0*183
+0-169
+0-156
+0*143
+50
+•76
+100
+94
+88
+82
+76
+71
+66
+62
+57
+53
+49
+46
+42
+39
+36
+33
+30
+27
+25
+23
+20
+18
+16
+14
+72-0
+•783
+26-53
+82-0
+1-091
+36-94
+92-0
+1-499
+•2
+•789
+26-71
+•2
+1-098
+37-18
+•2
+1
+-608
+51
+■08
+55
+0-432
+0-419
+0-405
+55
+0-392
+0-379
+3-366
+0-353
+0-339
+•326
+0-
+313
+0-300
+0-28S
+0-
+273
+0-250
+53
+0-247
+0-233
+0-220
+0-207
+• 194
+0-180
+9-167
+0*154
+0-140
+0-127
+0*114
+•4
+•794
+26-89
+•4
+1-105
+37-42
+•4
+1
+•518
+51
+•40
+100
+93
+87
+81
+6
+71
+66
+61
+57
+53
+49
+4
+5
+41
+38
+35
+32
+29
+26
+24
+22
+19
+17
+15
+13
+12
+■6
+•799
+27-07
+•6
+1-112
+37-66
+■6
+1
+■527
+51
+•72
+54
+0-417
+0-404
+0-390
+0-377
+54
+0-364
+0-351
+3-337
+0-324
+0-311
+•238
+0-
+284
+0-271
+0-258
+0-
+245
+0-231
+54
+0-218
+0-205
+0-192
+0-178
+•165
+0-152
+9-139
+0*125
+0-112
+0-099
+0*086
+•8
+•805
+27-26
+•8
+1*119
+37-91
+•8
+1
+•537
+52
+’05
+100
+93
+87
+81
+76
+70
+65
+61
+56
+52
+45
+44
+40
+37
+34
+31
+28
+25
+23
+20
+18
+16
+14
+12
+10
+9
+•546
+52
+•37
+S3
+0-402
+0-389
+0-375
+0-352
+0-349
+53
+0-336
+0-322
+9-303
+0-296
+9-283
+•259
+0-
+253
+0-243
+0-230
+0-
+217
+0-203
+53
+0-130
+0-177
+0-164
+0-150
+• 137
+0-124
+9-111
+0*097
+0-084
+0-071
+0-058
+73-0
+•810
+27-44
+83-0
+1-127
+38-15
+93-0
+1
+100
+93
+87
+81
+75
+70
+65
+60
+55
+51
+47
+43
+39
+36
+33
+30
+27
+24
+22
+19
+17
+15
+13
+11
+7
+6
+•2
+•816
+27*62
+•2
+1 " 134
+38-40
+•2
+1 '556
+52
+•70
+52
+0-
+387
+0-374
+0-361
+0-343
+0-334
+0-321
+52
+0-303
+0-235
+9-282
+0-263
+9-255
+0-242
+0-
+229
+0-21S
+0-202
+0-
+139
+0-176
+52
+0-163
+0-149
+0-136
+0-123
+0-110
+0-096
+9-033
+0*070
+0-057
+0-044
+0-030
+•4
+•821
+27-81
+•4
+1*141
+38-65
+•4
+1
+•566
+53-03
+100
+93
+87
+80
+75
+69
+64
+9
+54
+50
+4
+(]
+42
+38
+35
+3
+2
+29
+26
+23
+20
+18
+16
+14
+12
+10
+8
+5
+3
+•6
+•827
+28-00
+•6
+1-149
+38-90
+•6
+1
+■575
+53
+•37
+51
+0-373
+0-
+360
+0-347
+0-334
+0-321
+0-307
+0-294
+51
+0-281
+0-268
+9-254
+0-241
+0-228
+0-215
+0
+202
+0-188
+0-17
+5
+0-
+182
+0-143
+51
+0-136
+0-122
+0-109
+0-096
+0-083
+0-070
+0-036
+0-043
+0-030
+0-017
+0-004
+•8
+•832
+28-19
+•8
+1-156
+39-15
+•8
+1-585
+53
+■70
+100
+93
+86
+80
+74
+69
+63
+58
+4
+49
+4.5
+41
+37
+34
+31
+27
+25
+22
+19
+17
+14
+12
+10
+8
+6
+5
+2
+74-0
+•838
+28-37
+84-0
+1-164
+39-40
+94-0
+1-595
+54-02
+50
+0
+• 360
+0-347
+0-
+333
+0-320
+0-307
+0-234
+0-281
+0-267
+50
+0-254
+0-241
+0-228
+0-215
+9-201
+0-188
+c-
+175
+0-162
+0-149
+0-
+135
+0-122
+50
+0-109
+0-033
+0-033
+0-039
+G-038
+0-043
+0-030
+0-017
+0-003
+•2
+•843
+28-57
+•2
+1*171
+39-65
+*2
+1-605
+64
+•35
+100
+93
+86
+80
+74
+68
+63
+58
+53
+48
+44
+40
+5
+6
+33
+29
+26
+2
+1
+20
+IS
+15
+13
+11
+9
+7
+5
+3
+2
+•4
+•849
+28-76
+•4
+1-179
+39-91
+•4
+1-615
+54
+•69
+43
+0-347
+0
+-334
+0-320
+0-
+307
+0-294
+0-281
+0-268
+0-254
+0-241
+40
+0-228
+3-215
+0-202
+0-188
+9-175
+0-162
+0-
+149
+0-136
+0-122
+0-
+109
+0-096
+43
+0-033
+0-010
+0-056
+0-043
+0-030
+0-017
+0-004
+•6
+•855
+28-95
+•6
+1-186
+40-17
+•6
+1
+•625
+5o’0o
+100
+93
+86
+79
+73
+67
+62
+57
+52
+47
+43
+39
+35
+32
+28
+5
+22
+19
+17
+14
+12
+9
+7
+6
+4
+2
+•8
+•861
+29-15
+1 ' 8
+1-194
+40-43
+•8
+1 -635
+55
+•37
+48
+0-334
+0-321
+0-308
+0-295
+0-
+281
+0-268
+0-255
+0-242
+0-229
+0-216
+48
+0-202
+0-189
+0-176
+0-163
+9-150
+9-136
+0-
+123
+0-110
+0-097
+0-
+034
+0-011
+48
+0-037
+0-044
+0-031
+0-013
+0-005
+1
+\
+36
+37 j
+38
+39
+40
+41
+42
+43
+44
+45
+46
+100
+93
+86
+79
+73
+67
+61
+56
+51
+46
+42
+38
+34
+30
+27
+24
+21
+18
+15
+13
+10
+8
+6
+4
+2
+1
+47
+0-322
+0-309
+0-296
+0
+•282
+0-269
+0-
+256
+0-243
+0-230
+0-217
+0-203
+0-190
+47
+0-177
+0-164
+0-131
+0-138
+9-124
+9-
+It
+0
+098
+0-085
+0-072
+0-
+058
+0-045
+47
+0-032
+0-019
+0-006
+100
+92
+85
+78
+72
+66
+60
+55
+50
+45
+41
+37
+33
+29
+26
+2
+2
+19
+16
+14
+11
+9
+7
+5
+3
+1
+46
+G-310
+46
+0-297
+0-284
+0-270
+0
+•257
+0-244
+0-
+231
+0-213
+0-205
+0-192
+0-178
+0-165
+46
+0-152
+0-139
+0-128
+0-113
+9-100
+9-086
+0
+on
+0-060
+0-047
+0-
+034
+0-021
+46
+0-007
+Note.—
+Siive the pit
+ceding table
+was printed the
+new set of Hygrometnc
+100
+92
+85
+78
+72
+65
+60
+54
+49
+44
+40
+36
+32
+28
+24
+21
+18
+15
+12
+10
+7
+5
+3
+1
+(M.O.
+has been
+203
+0-167
+0-141
+O
+45
+0-298
+0-285
+45
+0-272
+0-259
+0-246
+c
+-233
+0-220
+0-
+0-193
+0-180
+0-154
+45
+0-128
+0-114
+0-101
+0-038
+9-075
+9-062
+0
+049
+0-038
+0-022
+0-
+0GS
+received.
+In those tables the values of
+the saturation vapour pressure
+100
+92
+85
+78
+71
+65
+59
+53
+48
+43
+39
+34
+30
+26
+13
+20
+16
+14
+11
+8
+3
+1
+obtained b
+v Scheel and Heuse, and
+published with the ai
+ithority
+of the
+44
+0-287
+0-274
+0-261
+84
+0-237
+44
+0-248
+77
+0-224
+0-235
+70
+0-211
+0-222
+64
+C-198
+0
+•203
+58
+•185
+0-196
+52
+0-172
+0-
+182
+0-169
+42
+0-145
+0-156
+37
+0-132
+0-143
+33
+0-119
+0-130
+29
+0-106
+0-117
+25
+0-033
+44
+0-104
+0-090
+0-077
+C-064
+12
+0-040
+0-051
+9
+0-027
+9-038
+0
+025
+0-012
+Reichsanstalt in the Annnlen
+der Physik in 1910,
+have been
+C
+dopted. The
+43
+0-277
+100
+0-284
+92
+0*250
+43
+c
+0-
+153
+43
+21
+0-030
+IS
+0*037
+15
+0*054
+9-
+D14
+0
+001
+2
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+fol'owing small table
+gives
+the amount
+of the
+s at
+various
+100
+92
+84
+70
+63
+57
+51
+46
+41
+28
+24
+20
+17
+10
+2
+UU11A UllUIi
+77
+13
+8
+5
+temperatures to the values given in
+order to bring them into agreement
+Table V. which would be required in
+with Scheel and Heuse’s results.
+42
+41
+••
+"
+0-256
+0-266
+100
+0-243
+0-253
+91
+0-230
+0-240
+84
+0-217
+0-227
+76
+0-204
+0-214
+69
+0-191
+42
+41
+0-201
+62
+0-173
+0-188
+56
+0-165
+0-174
+50
+0-152
+0
+fl
+•161
+45
+•138
+0-148
+40
+0-125
+0-
+0-
+135
+35
+112
+0-122
+30
+0-099
+0-109
+26
+0-086
+0-096
+22
+0-073
+0-083
+IS
+0-060
+0-070
+15
+0-047
+42
+41
+0-056
+12
+0-034
+0-043
+9
+0-020
+0-030
+0
+0-003
+0-017
+3
+0-004
+1
+35
+0-195
+0-203
+100
+190
+91
+83
+75
+68
+62
+55
+49
+44
+38
+34
+29
+25
+21
+17
+13
+10
+4
+1
+34
+0-182
+Temperature
+°E.
+32
+50
+68
+86
+104
+122
+40
+0-246
+0-233
+0-220
+0-207
+0-194
+0-131
+0-168
+40
+0-155
+0-142
+0-129
+0
+• 116
+0-103
+0-
+090
+0-076
+0-053
+0-050
+0-037
+0-024
+40
+0-011
+33
+0-187
+100
+0-174
+90
+0*161
+100
+0-224
+91
+0-211
+83
+0-198
+75
+0-185
+68
+0-172
+61
+54
+48
+42
+37
+32
+27
+23
+19
+15
+12
+8
+5
+2
+100
+89
+80
+39
+0-237
+0-159
+0-146
+39
+0-133
+0-120
+0-106
+G
+•033
+0-080
+0-
+067
+0-054
+0-041
+0-028
+0-015
+0-002
+1
+32
+0-180
+100
+0-168
+89
+0-155
+80
+0-143
+70
+Inches
+■000
+4- • 003
+4-.007
++
+013
++-•019
++ •022
+100
+91
+82
+74
+67
+60
+53
+47
+41
+36
+31
+26
+22
+17
+13
+10
+6
+3
+311
+173
+38
+0-228
+1G0
+0-215
+91
+0-2Q2
+82
+0-139
+74
+0-176
+66
+0-163
+59
+0*150
+52
+0-137
+46
+0-124
+38
+0-111
+0-098
+0-084
+G
+• 071
+0-058
+0-
+045
+0-032
+0-019
+0-006
+0
+0-161
+0-149
+0-137
+0-126
+Mill i bars
++ -oi
++ -09
++ •
+23
++
+•43
++ -63
++ -75
+40
+34
+29
+24
+20
+16
+12
+8
+5
+1
+TART V
+VI (a).
+100
+89
+80
+70
+62
+37
+0-219
+0-206
+0-193
+0-180
+0-137
+0-154
+0-141
+0-123
+0-115
+0-102
+37
+0-089
+0-078
+0-063
+C
+•050
+0-037
+0-
+024
+0-011
+310
+133
+0-119
+61
+0-100
+0-107
+53
+0-089
+81
+45
+38
+33
+28
+23
+18
+14
+10
+0-131
+70
+0-112
+100
+90
+73
+55
+58
+51
+6
+3
+Correction to vanour Pressures given
+m
+labie VI. ior Differences
+36
+0-211
+100
+0-198
+90
+0-185
+81
+0*172
+7?
+0-159
+64
+0-146
+0-133
+50
+0-120
+43
+0-107
+37
+0-094
+31
+0-081
+26
+36
+0-058
+21
+0-054
+16
+0-042
+12
+0
+•028
+8
+0-015
+4
+0-
+002
+1
+of Barometer Reading at
+Station Level from
+29*7 Inches
+29
+• •
+••
+0-159
+0-
+148
+0-
+136
+0-124
+89
+130
+79
+118
+69
+OS
+35
+0-1S0
+0-177
+0-164
+0-151
+0-138
+0-125
+0-112
+0-093
+0-088
+0-072
+0-060
+35
+0-045
+0-033
+0-020
+G
+•007
+■■
+.
+"
+1
+Depression of Wet Bulb below Dry Bulb °F.
+228
+••
+0-153
+0-141
+0-
+0
+0-1
+0-094
+0-032
+0-071
+90
+0-169
+81
+0-156
+72
+0-143
+64
+0-130
+19
+o-m
+42
+0-091
+36
+0-078
+30
+0-065
+24
+0-052
+19
+0-039
+14
+0-026
+10
+0-013
+2
+Pressure
+ion
+89
+78
+68
+59
+50
+42
+35
+34
+0-117
+34
+Difference.
+10
+20
+30
+27
+••
+0-147
+0-135
+0-123
+0-
+112
+0
+100
+0-088
+0-078
+0-065
+0-053
+H. A,
+HUNT,
+f SO
+0-148
+71
+0-135
+62
+63
+0*122
+55
+0-109
+47
+0-096
+J 0
+0-083
+23
+17
+12
+8
+4
+100
+88
+67
+08
+49
+41
+33
+26
+33
+0-070
+0-057
+0-044
+0-031
+0-013
+33
+0-005
+1
+•
+in.
+• 002
+26
+0-141
+0-129
+0-117
+0-103
+0-
+094
+0
+032
+0-070
+0-059
+0-047
+0-035
+70
+54
+46
+39
+33
+27
+21
+15
+10
+6
+2
+Inches
+1
+in.
+• 004
+in.
+•007
+in.
+•009
+in.
+•on
+in.
+•013
+100
+88
+77
+66
+57
+48
+39
+31
+24
+17
+c
+!cmn!
+rmiAtAnlfik ]\$ ezl&nvn I n ers eiS-
+32
+0-130
+0-118
+0-108
+0-093
+0-081
+0-038
+0-056
+0-044
+0-031
+0-019
+0-006
+1
+i
+I
+1
+I
+• 005
+•009
+• 014
+•018
+-022
+•027
+25
+0-135
+0-124
+0-112
+0-100
+0-088
+077
+0-030
+62
+5A
+46
+39
+33
+27
+21
+77
+5
+2
+3
+• 007
+• Old
+•020
+•026
+• 033
+•040
+U U1 tt
+0-102
+46
+0-008
+2
+• 009
+• 018
+•026
+•035
+•044
+•053
+100
+88
+76
+6i
+55
+46
+37
+30
+22
+15
+9
+Melbourne.
+31
+\ 0-114
+54
+0-090
+39
+0-079
+33
+0-057
+27
+0-035
+37
+0-043
+16
+0-031
+77
+0-020
+6
+5
+• 0X1
+•02
+2
+•033
+• 044
+•055
+•066
+24
+0-118
+87
+0-106
+75
+0-094
+64
+0-083
+5i
+0-071
+45
+0-
+039
+36
+0
+• 048
+28
+0*036
+20
+0*024
+13
+0*012
+6
+0-001
+October,
+1925.
+30
+0-095
+0-084
+0-072
+0-060
+0-048
+0-036
+0-025
+0-013
+0-C01
+Corrections
+are
+additive if the pressure is below 2
+9 • 7 inches, subtractive
+if it is
+23
+0*101
+0-03S
+0-078
+0-066
+0-034
+0-
+042
+0
+• 031
+0-019
+0-007
+I 45
+38
+31
+20
+14
+9
+5
+above.
+75
+63
+0*072
+53
+43
+34
+26
+18
+11
+4
+29
+0*042
+22
+0*084
+0-061
+0-049
+9-037
+0-
+926
+0-014
+0-002
+0-077
+j 37
+0-085
+30
+0-054
+23
+0-030
+12
+0*018
+7
+0-008
+2
+-
+TABLE
+VI (b).
+62
+51
+41
+32
+23
+15
+8
+1
+28
+0-024
+10
+121
+0*068
+0-056
+0-044
+0-032
+0-021
+0-
+009
+0-059
+28
+0-047
+21
+0-035
+16
+0*012
+5
+Equivalent
+in Vapour Pressure of 1 %
+Relative Humidity.
+50
+40
+30
+21
+13
+5
+27
+0-041
+! 19
+0-029
+13
+0-018
+8
+0*006
+2
+Dry Bulb.
+Vapour
+Pressure.
+20
+0*051
+38
+0-040
+28
+0*028
+19
+0-016
+11
+0*004
+3
+26
+j 0-024
+0-012
+..
+119
+0*035
+0-023
+0-012
+11
+'j
+5
+T.
+50
+in.
+•004
+26
+17
+8
+25
+0-006
+3
+|
+..
+..
+60
+70
+80
+90
+•005
+•007
+•010
+•014
+18
+17
+0*019
+14
+0*003
+0*007
+5
+2
+1
+1
+C.7614,
+
+

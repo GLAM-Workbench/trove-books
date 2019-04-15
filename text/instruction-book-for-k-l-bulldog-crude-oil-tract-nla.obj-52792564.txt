@@ -1,0 +1,2932 @@
+
+
+K.L. TRACTORS
+LIMITED
+INSTRUCTIONS FOR
+OPERATING & MAINTAINING
+THE
+K.L. BULLDOG
+CRUDE OIL TRACTOR
+K. L. BULLETIN
+
+
+
+
+INSTRUCTION
+BOOK
+for
+K. L. BULLDOG
+CRUDE OIL TRACTOR
+The strict observance of the contents of this instruction
+book will assure the owner of long and satisfactory service from
+the K. L. Bulldog Tractor.
+It is therefore imperative that the tractor owner or operator
+should become thoroughly acquainted with the construction, oper-
+ation and maintenance of the tractor by carefully following these
+instructions and recommendations.
+ISSUED BY
+K.L. TRACTORS LTD.
+SPRINGY ALE
+VICTORIA, AUSTRALIA
+
+
+
+
+CONTENTS
+SECTION 1 PAGE
+DESCRIPTION & ACTION OF ENGINE 6-11
+Starting the engine 9
+If engine refuses to start 11
+SECTION 2
+COOLING SYSTEM 12 - 16
+Cooling 13
+Refilling while engine hot 13
+Hot water in winter • 13
+Danger from frost 13
+Safety plug 13
+Radiator shutter 15
+Removing scale 15
+Cleaning radiator . L6
+Fan belt adjustment 1-6
+Fan shaft bearing adjustment 16
+SECTION 5 ,
+LUBRICATION 17-31
+Oil . . . 17
+Handling oil. 17
+Oil tank. . . 17
+Points of lubrication 17
+Oiler 19
+Adjusting lubricator pumps 19
+Adjustment of the regulator shaft 23
+Priming with oil 23
+Renewal of oil and cleaning the lubricating system. . 23
+Oil return pump 25
+Gauze strainer for return oil 25
+Return oil cleaner .25
+Care of return oil cleaner 25
+Gear lubrication 27
+Grease. 27
+Lubricating chart for K.L. Bulldog Tractors ..... 29-31
+SECTION 4
+FUEL SYSTEM 32 - 41
+Filling up fuel .33
+Cleaning fuel tank. . . 33
+Fuel strainer and stop valve 33
+Fuel lever 33
+Fuel lever setting for idling . > . . 33
+
+
+Governor and fuel lever settings. . 33
+Priming with fuel . 35
+Removing air from pipe line 35
+Testing valves 35
+Fuel pump . . . 36
+Checking and adjustment of pump stroke 36
+Gland packing 37
+Atomizer ,39
+Setting atomizer 39
+Testing atomizer 39
+Care of atomizer 41
+SECTION 5
+ENGINE 42-53
+Hot bulb 43
+Cleaning combustion chamber 43
+Cleaning engine 43
+Piston rings. 45
+Gudgeon pin 45
+Gudgeon bush. 45
+Cleaning oil conduits in crankshaft 45
+Replacing piston 47
+Big end bearing 47
+Compression 47
+Flushing socket 47
+Seizing of piston 47
+Air cleaner 49
+Cleaning air cleaner. . 49
+Air flaps 50
+Exhaust 51
+Trouble chart 52
+Causes and remedies 53
+SECTION 6
+CLUTCH 54-58
+Clutch general 55
+Action of 3-shoe clutch 55
+Adjustment of 3-shoe clutches 56
+Adjustment of sliding collar 57
+Adjustment of linkage of 3-shoe clutches 57
+Adjustment of 3-shoe clutch brake 58
+SECTION 7
+TRANSMISSION 59 - 65
+Transmission general 59
+Intermediate idler gear ,59
+Gear shifting general -59
+Care of transmission 63
+Care of differential and rear axle bearing 63
+Assembling transmission ...... 65
+CONTENTS (Continued)
+PAGE
+
+
+SECTION 8 PACE
+WHEEL & TIRE MAINTENANCE 66-75
+Front wheels 67
+Steering knuckle 67
+Front wheel toe-in 58
+Wheel camber . • • 58
+Steering linkage 68
+Tyre maintenance and repairs 69
+Inflation 69
+Proper air pressure for mounting tyres 69
+Checking air pressures 70
+Care of tyres 70
+Repairs 70
+Methods of adding extra weight 71
+Methods of getting water into a tube 71
+To water inflate tyres 71
+To remove water from tyres 73
+Anti-freezing precautions for tyres 73
+Hitching tractor ploughs 73
+To find centre of load •. 73
+Wheel loading 74
+Load and inflation tables 74
+Method of changing rear tyre 75
+SECTION 9
+BRAKES 77
+SECTION 10
+POWER TAKE-OFF 79
+Belt work 79
+SECTION 11
+GENERAL INSTRUCTIONS 80 - 81
+SECTION 12
+BLOW LAMP 82-85
+Fuel ' 83
+Filling 83
+Heating 83
+Lighting 83
+Regulating 83
+Extinguishing 83
+Troubles 85
+CONTENTS* (Continued)
+
+
+(21 ) Crank shaft.
+(22) Transmission oil bath.
+(23) Swinging draw bar.
+(16) Atomizer.
+(17) Safety plug.
+(18) Hot bulb.
+(19) Front axle beam.
+(20) Engine piston.
+(11) Fuel tank.
+(12) Silencer.
+(13) Cooling water header tank.
+(14) Radiator units.
+(15) Cylinder head.
+(6) Brake lever.
+(7) Clutch pedal,
+(8) Air cleaner.
+(9) Oil container.
+(10) Return oil filter.
+(1) Sprung haulage hitch.
+(2) Tool box.
+(3) Inspection plate.
+(4) Secondary gear lever.
+(5) Primary gear lever.
+
+
+SECTION I.
+DESCRIPTION & ACTION OF
+ENGINE
+Fig. 2. Sectional view of the engine.
+A Exhaust ports
+D Cylinder head
+E Air intake ports
+G Hot bulb
+J Cylinder
+K Piston
+L Air channel
+P Air valve flaps
+S Connecting rod
+U Crank case
+W Crank shaft
+The engine is of the horizontal, single cylinder, 2-cycle, hot
+bulb type with crankcase compression to take care of induction and
+scavenging. In the 2-cycle type of engine the piston not only performs
+its conventional duty in the cylinder, but also creates crankcase compression.
+FIRST CYCLE - During the power stroke the air in the crankcase M U",
+Fig. 2, is compressed by the backward movement of the piston. Just before
+the termination of the power stroke the piston uncovers the exhaust ports
+"A” on the near, and, a little later, the air intakes ports "E w on the
+off-side of the cylinder. Air under pressure from the crankcase rushes
+through the channel "L” and intake ports "E" and, guided by the deflector
+type piston head, fills the cylinder with pure air.
+SECOND CYCLE - The piston moves forward, sucking air into the
+crankcase through the air cleaner, and at the same time, compressing the
+fresh air in the cylinder, while fuel in a finely atomized 'spray, is in-
+jected through the atomizer by the fuel pump into the combustion chamber.
+The charge is not exploded, but by a combined action of the hot bulb and the
+subsequent compression a gradual combustion takes place, resulting in
+smooth, consistent power very similar to that of the steam engine.
+7
+
+
+Fig. 3. Fuel, oil and water tanks.
+1. Oil for lubricator.
+2. Fuel.
+B. Cooling water.
+Fig. 5. Taking off steering wheel.
+Fig. 4. Heating the bulb.
+Fig. 6. Opening fuel stop valve;
+8
+
+
+SIGHTING THE ENGINE
+The hot 'bulb is heated by the blow lamp for a few minutes, while
+the operator is greasing and tanking up. A few strokes are given to the
+fuel pump-hand lever and a swing on the starting wheel starts the engine.
+STARTING PROCEDURE - Fill radiator to one inch from top of gauze
+filter with soft water, preferably rain or boiled water, Fig. 3 - 3.
+Fill fuel tank, Fig. 3-2.
+Fill fresh lubricating oil tank and continue to add oil until oil
+flows into return oil tank and reaches a level from top of division,
+Fig. 3-1.
+Three-quarters fill blow lamp with petrol and light, Fig. 90.
+Place blow lamp under hot bulb, care being taken to open air flaps
+on hot bulb cover, Fig. 4.
+Place fuel lever in fully forward position, Fig. 35. This ensures
+adequate supply of oil to piston and gudgeon pin when priming lubricator,
+Page 22, Fig. 23.
+Remove steering wheel and place in crankshaft on right hand side,
+Fig. 5.
+Place gears in neutral.
+Turn crankshaft so that key is in rearmost position.
+Place fuel lever in starting position, namely, 3 notches ahead of
+the idling position, Fig. 35.
+Open fuel stop valve 4 full turns, Fig. 5.
+Turn atomizer three full turns from right down position.
+Prime fuel pump by giving priming handle three short, hard strokes,
+See Page 35.
+Start engine by rocking the steering wheel sharply anti-clockwise,
+Fig. 7.
+Remove steering wheel with a short sharp pull, holding-it by means
+of the loose knob, Fig. 8.
+See that engine is running in the correct direction.
+Remove and extinguish blow lamp.
+Replace steering wheel.
+
+
+Fig. 7. Cranking of engine by
+steering wheel.
+Fig. 8. Removing the steering wheel
+after engine starts.
+Fig. 9. Operating levers on
+K.L. Bulldog Tractor.
+B. Fuel (ever.
+D. Engine direction indicator.
+G. Primary gear change lever.
+H. Hand brake lever.
+K. Clutch pedal.
+O. Plough line ring.
+S. Secondary gear change lever.
+
+
+IF ENGINE REFUSES TO START. A small quantity of fuel oil may have
+accumulated in the pocket of the hot bulb, due to excessive hand pumping,
+and, when starting by blow lamp, this must be removed before the engine
+can be started.
+Remove safety plug and heat up bulb thoroughly. Turn engine
+round a few times slowly with fuel lever in closed (rear) position. Turn
+flywheel into starting position, key in crankshaft upwards, replace safety
+plug, and attempt to start again.
+
+
+Fig. 10. Cylinder head with safety plug.
+Fig. 11. Ring cover removed for
+inspection of cylinder head.
+Fig. 12. Radiator shutters open and closed positions.
+
+
+SECTION 2.
+COOLING SYSTEM
+The cooling is accomplished by a thermosyphon system assisted by
+a double radiator and fan. The water circulates by rising through the
+water riser and returning to the cylinder jacket and head through the
+radiator.
+Keep tank filled within one inch of the top of the gauze filler
+with soft water, preferably rain or boiled water, free from impurities.
+Water containing lime forms scale in the cooling system, thus re-
+ducing the cooling effect and causing overheating.
+Inspect water level occasionally when working and replenish when
+necessary. Never remove gauze when filling. Never use oily vessels, for
+filling up cooling water, because oil in connection with scale forms an
+effective heat insulating material.
+REFILLING VHILE ENGINE HOT - Never pour cold water into an empty
+or nehrly empty water system when engine is hot, otherwise the cylinder or
+head might be damaged. Wait until engine cools. Take care not to scald
+hands or face by steam or hot water when opening filler cap while engine
+is hot.
+HOT WATER IN WINTER - In cold weather fill cooling system with hot
+water. This thins down the congealed oil between piston and cylinder and
+makes the engine easy to turn. A few turns, given to the flywheel will
+show if every thing moves freely. Any part stiffened by cold should be
+warmed slightly and carefully with the blow lamp.
+DANGER FROM FROST - On no account must water be left in cooling
+system if there is the least sign of frost, otherwise serious damage might
+result by bursting of cylinder, head, radiator or tank. To drain water,
+open drain cock under engine, (handle in tool box), and drain plug on
+cylinder head and filler cap on water tank;. Make sure that the drain cock
+is clear by passing a wire through it. Leave cock open. Re-use drained
+water.
+SAFETY PLUG - As a precaution against overheating caused by lack
+of water, scale etc., a safety plug, Fig. 10, is fitted in the cylinder
+head. The core of this is filled with a melting fuse (a) consisting of a
+fusible alloy, v;hich melts at a certain temperature. Never use lead or
+iron as a substitute.
+Keep a number of spare fuses on hand, obtainable from our Agents.
+These are knocked in with a hammer. The hole, Fig.lo (b) and the thread
+for the safety plug must be often cleaned. After replacing a fuse due to
+overheating prime with oil.
+13
+
+
+Fig. 18. Tightening of fan belt.
+Fig. 14. Section of fan pulley.
+1 Outer pulley plate
+2 Ring nut
+3 Key
+4 Nut
+5 Inner pulley plate with hub
+6 Felt holder
+7 Spring washer for belt adjustment
+8 Ring nut
+9 Fan belt
+10 Packing ring
+11 Lock pin
+12 Felt ring
+13 Fan shaft
+14 Fan shaft housing
+15 Tapered roller bearing
+16 Shim
+17 Spacer
+
+
+Oil iflust be pumped through the oil pipes until lubricating points
+are amply supplied. In order that the oil should reach the gudgeon pin and
+big end bearing during hand priming, set fuel lever in foremost position
+and turn the flywheel by cranking wheel, so that key, Fig. 28 (a), in
+crankshaft shows to the rear.
+To ensure engine remaining in this position remove safety plug.
+Then fit crank supplied to the pumpshaft, Fig. 18(2l), press into the
+lubricator and turn in a clockwise direction for 180 turns, at a speed not
+exceeding 60 turns a minute, Fig. 23. Then turn twice in an anticlockwise
+direction to disengage dog clutch and withdraw.
+This priming is necessary before starting the engine and after a
+fuse has been replaced, due to overheating.
+RADIATOR SHUTTER - For reducing the cooling effect of the radiator
+shutters are provided.on the off-side of the tractor, Fig. 12. Keep
+shutters closed until cooling water temperature is near boiling point,
+which is necessary in order to obtain good combustion and smokeless exhaust
+In very cold weather cover the header tank and radiators with a blanket or
+hessian.
+REMOVING SCALE - From time to time remove ring cover, Fig. n, on
+cylinder head and ascertain whether any scale has formed. If this is so,
+it must be removed in the following way: drain water, take out the
+atomizer and safety plug and remove cylinder head. Then remove water
+jacket base plate, chip and scrape scale as far as possible from cylinder
+and from cylinder head after removing the ring cover.
+T 0 remove scale from parts not accessible to hand tools, replace
+the base plate and plug water holes in cylinder, remove radiator units and
+water tank. Then fill up with commercial hydrochloric acid and let stand
+for 4to 6 hours, when scale will have dissolved. Now drain off the
+sludge, assisting by stirring up with a wire, and flush several times with
+hot vfater. The cylinder head is to be treated in the same way.
+CARE MUST BE TAKEN TO PREVENT ACID GETTING INTO THE CYLINDER, ON
+THE PISTON, ON HANDS OR ON CLOTHES.
+Having removed the scale from the cylinder, head, riser and
+header tank, the radiator units must be attended to. Assemble cooling
+system. Fill with soft water, in which 5 lbs. of soda have been dissolved.
+Hun engine for half an hour to cause circulation. Stop engine for an hour,
+then run it again for an hour. When cold, drain and flush until all
+sludge is removed. T 0 make sure that all scale is removed, repeat the
+whole procedure after 20 working hours.
+As a substitute for a scale preventative, a few handfuls of
+caustic soda should be added to the cooling water.
+
+
+To keep up the efficiency of the radiator, the outside of the
+radiator units must be kept free from dust and oil and must not be painted
+as this would reduce the cooling effect. If dirty, wash with a water jet,
+if oily, remove and clean with hot water and soda or paraffin.
+FAN BELT ADJUSTMENT - The fan belt must be correctly tensioned.
+If too tight, bearings will overheat and wear out quickly, if it slips by
+being too loose, the water will overheat, causing steam to issue from the
+filler cap. To tighten belt, remove a spacing washer, Fig. 13 (e), from
+between the inner and outer pulley plate and place it between the latter
+and ring nut (c). If the belt is still insufficiently tightened, shift
+another washer from inside to outside (C spanner in tool box). KEEP THE
+BELT lEEE FROM OIL AND GREASE.
+FAN SHAFT BEARING ADJUSTMENT - The fan shaft is running on
+tapered roller bearings. Increased humming of the fan usually indicates
+that adjustment of the bearing is needed. It is adjusted by shims,
+Fig.l4{l6) between bearing cup and ring nut (8) which is removed after
+removing nut (4), pulling off the complete pulley with belt, when key (3)
+will fall out, and removing lock pin (ll).
+At the same time inspect the felt ring (12) and that on the
+opposite shaft end, for which purpose the R.H. radiator and fan must be
+taken down.
+
+
+POINTS OP
+LUBRICATION
+Served
+Points of Lubrication
+.
+with
+Crank pin and main bearings
+Fresh Oil
+Mechanical
+Piston, cylinder and gudgeon pin
+Circulating Oil
+Oiler
+Transmission and rear axle housing
+Gear Oil
+Oil Bath
+All points of lubrication enumerated
+Grease
+Grease Gun
+in lubricating chart
+and Oil Can
+SECTION 3.
+LUBRICATION
+OIL - The life and efficient working of the tractor depend on
+proper lubrication; neglect in this direction will cause serious trouble,
+excessive wear and breakdown.
+Only high grade mineral oil should be used, i.e., an odorless oil,
+free from water, acid and other impurities. It should not, after
+exposure in thin films to the atmosphere, become resinous or dry up to a
+varnish-like layer.
+HANDLING OIL - When handling oil scrupulous cleanliness is
+absolutely essential. Prior to opening the oil drum, dust and dirt must be
+removed from its cover. No open can should be used for storage, and the
+oil should preferably be poured into the oil tank straight from the drum,
+in which it is purchased. Under no circumstances must the strainer be re-
+moved during filling. Thick oil should be thinned down by warming.
+OIL TANK - The oil tank, Pig. 15, is divided by a partition wall
+(6) into two compartments: (5) for return and (4) for fresh oil, which is
+filled daily by filler (2). When compartment (4) is filled up to the top
+of partition (6) the fresh oil gains access to compartment (5) where it
+mixes with the return oil. Continue filling up until the oil level exceeds
+the partition wall (6) by not more than smm inch) in order to avoid
+overflowing and spilling when,on starting the engine, the oil
+accumulated in the crankcase is suddenly returned to the container. The
+fresh oil compartment (4) is connected by suction pipe (7) to the pump
+units for lubricating the crank pin and main bearings, while compartment
+(5) is connected to the piston lubricating pump by suction pipe (17).
+I
+The level in the two compartments should be checked at least
+twice a day by the dip rods, screwed into each compartment, Fig. 16, and
+replenished with fresh oil if it is getting low.
+
+
+Fig. 15. Lubricating system, fuel and automatic oil control
+through fuel lever.
+1. Fuel lever.
+2. Oil filler screen.
+3. Return oil filter.
+4. Fresh oil container.
+5. Circulating oil container.
+6. Partition wall.
+7. Fresh oil suction pipe.
+8. Fuel operating rod.
+9. Oil operating rod.
+Fig. 16. One dip rod for each compartment.
+10. Oil control adjusting fork.
+11. Joint pin.
+12. Lock nut.
+13. Tappet adjusting nut.
+14. Plunger.
+15. Oil regulator shaft.
+16. Oiler.
+17. Circulating oil suction pipe.
+Fig. 17. Mechanical lubricator
+and pipes
+1 Mechanical lubricator
+2 Return pump (gear type)
+3 Regulator shaft for piston
+lubrication
+4 Fresh oil suction pipe
+5 Circulating oil suction pipe
+6 Delivery pipe to R. H. main bearing piston, cylinder
+and gudgeon pin L.H. main bearing crank pin
+7 Delivery pipe to R. H. main bearing piston, cylinder
+and gudgeon pin L.H. main bearing crank pin
+8 Delivery pipe to R. H. main bearing piston, cylinder
+and gudgeon pin L.H. main bearing crank pin
+9 Delivery pipe to R. H. main bearing piston, cylinder
+and gudgeon pin L.H. main bearing crank pin
+
+
+Quarter turns to adjusting
+screw, Fig.20 (3) of the pump
+Number of
+quarter turns
+Fig. 17 (7) for cylinder
+lubrication
+2
+Fig. 17 (8) for L.H. main bearing
+8
+Fig. 17 (6) for R.H. main bearing
+8
+Fig. 17 (9) for crank pin
+lubrication
+16
+OILER - Main bearings, big end and piston including gudgeon pin
+and cylinder walls are served by the mechanical oiler, which is fixed to
+the main bearing cover behind the left flywheel and driven from the crank
+shaft by a skew gear and shaft as shown in Fig. 17. The oiler consists of
+4 plunger pumps, the barrels of which are bored into the pump body,
+Fig. 18 (6). A separate oil pump is provided for each point, requiring
+lubrication, and the action is as follows
+The pump plunger, Fig. 18 (4) is actuated by the rotation of the
+swash plate (17), rigidly fixed to the driving spindle (25), whilst at the
+same time the oil suction and delivery conduits are alternately connected
+with the pump chamber by apertures, provided in the rotating spindle 05)•
+If the pump plunger (4) is raised by the swash plate (17), a connection
+between the pump chamber and the suction opening is established by a bore
+in spindle (15). The oil is thus drawn in by the upward stroke of the pump
+plunger. As the plunger descends, the spindle (15) rotates and establishes
+a connection by means of a channel between the pump barrel end the delivery
+pipe.
+ADJUSTING LUBRICATOR PUMPS - The lubricating pump units must be
+checked for correct adjustment, since faulty adjustment will lead to
+serious damage or heavy oil consumption. Each pump has an individual ad-
+justing screw’, Fig. 18 (3) , adjusting the length of the plunger stroke and
+consequently the quantity of lubricating oil, supplied to each point.
+This screw; has a left hand thread. Turning to the left increases, to the
+right decreases the oil supply. To check or adjust the pump units, unscrew;
+the lubricator cap as showm in Fig. 19, and turn the aforementioned ad-
+justing screw;, Fig. 18 (3) to "No Stroke" position by turning it to the
+right as far as it will go. Then turn to the left for the number of
+quarter turns given below;.
+Note that the adjusting screwis (3) and (22) , Fig. 18, (4) in
+Fig. 20, are rather hard to turn, because each quarter turn is arrested by
+a catch.
+The lubricator cap (20) Fig* 18, contains a check (2) preventing
+the pump plunger being pushed beyond the maximum stroke by oil pressure.
+
+
+Fig. 18 Sectional views of the mechanical lubricator. Upper view
+shows a pump unit for big end and main bearings, lower views show the
+pump unit and compensating plunger for cylinder lubrication
+1 Spring cover
+2 Plunger check ring
+3 Plunger adjusting screw
+4 Pump plunger
+5 Fresh oil delivery pipe
+6 Pump body
+7 Disengager
+8 Lubricator drive housing
+9 Spring for disengager pin
+10 Disengager pin
+11 Worm gear
+12 Worm
+13 Mixed oil suction pipe
+14 Fresh oil suction pipe
+15 Driving spindle
+16 Dog clutch
+17 Plunger swash plate
+18 Disengaging fork
+19 Clutch spring
+20 Screw cap
+21 Clutch connecting shaft
+22 Plunger stroke adjusting
+screw to piston
+lubrication
+23 Pump plunger
+24 Mixed oil delivery pipe
+25 Threaded stud for puffing
+compensating plunger out
+of action
+26 Compensation plunger of
+automatic cylinder oil
+regulator
+27 Regulator shaft
+28 Regulator spring housing
+29 Regulator spring
+
+
+Therefore, THE SCREW CAP MUST BE TIGHTLY SCREWED UP AND SECURED BY A TORE.
+The oiler pump (23), Eig. 18, for supplying lubricating oil to
+piston and cylinder is also actuated by swash plate (17) and adjusted by
+its adjusting screw (22) in a similar way to the other three pumps by their
+adjusting screws (3). It differs, however, from these pumps in so far as
+it is primarily adjusted at the Works to supply a quantity of oil equal to
+twelve quarter turns of the adjusting screw (22), which quantity cannot be
+reduced by adjusting screw (22). For this purpose this pump is provided
+with a two-way adjustment illustrated in Fig. 20, i.e., the primary adjust-
+ment by sleeve (2). Adjusting sleeve (2) is secured against turning
+circlip (3) and should not be touched by any unauthorized person, since its
+readjustment requires expert knowledge.
+Although adjustment by secondary adjusting screw (4), Fig. 20,
+does not permit cutting down the oil supply below the setting of the
+primary adjustment sleeve (2), the oil supply is, in fact, cut down
+automatically by the setting of the fuel lever when the tractor is idling
+or operating on a light load, in order to economize oil consumption and to
+prevent overoiling and smoky exhaust.
+This is attained by altering the capacity of the pump chamber
+through the medium of the compensating plunger (26) Fig. 18.
+The compensating plunger in its turn, is dependent on the
+regulating shaft (27) Fig. 18, connected to the fuel lever by rods (8) and
+(9) in Fig. 15 and rotated round its own axis by the fuel lever.
+The compensating plunger (26) Fig. 18, and the regulating shaft
+(27) are interlocked with each other by slots as shown. The cam, provided
+in the slot of the regulating shaft, limits the length of the stroke of
+the compensating plunger.
+When the fuel lever is set for full load, the compensating plunger
+(26) is drawn back into the barrel, so that it does not interfere with the
+pump chamber and the maximum quantity of oil, to which the pump is
+primarily adjusted is delivered to the pistons. When the fuel lever is
+set for lighter loads, the compensating plunger is proportionately released
+by the movement of the fuel lever, Le., by the changed position of the con
+on the regulating shaft and is pushed by the coil spring (29) into the
+pump chamber thus reducing its capacity.
+As shown in Fig. 18, the heads of the two plungers are slanted so
+that the compensating plunger (26) is pushed back into its barrel by the
+delivery stroke of the pump plunger. During the suction stroke the pump
+plunger (23) the compensating plunger (26) is pushed again into the pump
+chamber by spring (29), thus closely following up the suction stroke of
+the pump plunger, partly compensating its stroke and consequently reducing
+the oil quantity in proportion to the load on the engine.
+21
+
+
+Fig. 19.
+Adjustment of lubricator pumps.
+Fig. 21.
+Adjustment of regulator shaft of piston lubrication
+G: Mark on oiler bousing
+Z: Pointer on regulator shaft
+Fig. 23. Priming lubricating oil
+Fig. 20. Adjustment of lubricator pump for cylinder lubrication
+3 Circlip for locking the
+pump stroke adjusting sleeve
+4 Adjusting screw for secondary
+adjustment of the pump stroke
+Fig. 22. Position of piston for priming with oil.
+Key in crankshaft showing to the rear
+Fig. 24. Drain plugs for oil tanks.
+1 Pump plunger head
+2 Threaded adjusting sleeve
+for primary pump stroke
+adjustment in the Works
+
+
+ADJUSTMENT OF THE REGULATOR SHAFT - With fuel lever set to mark (1)
+Fig. 35, the engine idling at 300 r.p.m., the pointer (Z) Fig. 21, on the
+regulator shaft must coincide with mark (G) on the oiler housing. Adjust-
+ment is effected by fork (10), Fig. 15, on link (9). This adjustment is
+always necessary when the fuel pump tappet has been readjusted.
+The automatic lubricating oil supply (i.e. cutting down when
+idling), controlled by the fuel lever, can be put out of action by placing
+a nut on the threaded stud (25), Fig. 18, fixed to the compensating
+plunger (26) and by tightening the nut to prevent the compensating
+plunger being pushed into the pump barrel by spring (29) when released by
+the regulating cam.
+PRIMING WITH OIL - Oil must be pumped through the oil pipes until
+lubricating points are amply supplied. In order that the oil should reach
+the gudgeon pin and big end bearing during hand priming, set fuel lever in
+foremost position and turn the flywheel by cranking wheel, so that key (s),
+Fig. 22, in crankshaft shows to the rear. To ensure engine remaining in
+this position remove safety plug. Then fit crank, supplied to the pump
+shaft (21), Fig. 18, press into the lubricator and turn in a clockwise
+direction for 180 turns, at a speed not exceeding 60 turns a minute
+Fig. 23. Then turn twice in an anti-clockwise direction to disengage dog
+clutch and withdraw.
+This priming is necessary before starting the engine and after a
+fuse has been replaced, due to overheating.
+RENEWAL OF OIL AMD CLEANING LUBRICATING SYSTEM - After the first
+100, and subsequently every 300 working hours the oil must be drained from
+the oil tanks by the drain plugs (M) and (A 2) , Fig. 24, and replenished
+with fresh oil after carefully mopping up all sediments from the
+containers.
+The lubricating system should be cleaned every 1800 working hours
+at the same time as removing the tanks for cleaning the fuel tank. To
+do this, drain oil from tanks when level is low by unscrewing the drain
+plugs, Fig. 24.
+Remove oil tank cover with filter attached to it and wash both
+compartments (4) and (5), Fig. 15, with kerosene, remove all sediments by
+mopping with a lintless cloth (not cotton waste) end re-connect suction
+pipes.
+Then unscrew cap (20), Fig. 18, from lubricator and wash
+thoroughly both cap and oiler with kerosene without taking the latter down
+from the tractor. Clean the inside mechanism and pumps by pumping
+kerosene through the lubricator by means of the crank handle.
+For this purpose disconnect oil delivery pipes at their
+
+
+Fig. 25. Front view of gauze strainer
+in crankcase base plate.
+1 Crank case
+2 Crank case base plate
+3 Radius rod
+4 Return oil pipe
+5 Pipe union screw
+6 Gauze strainer
+Fig. 27. Gear oil level control plug.
+Fig. 26. Oil cleaner for return oil.
+1 Return pipe from pump
+2 Overflow valve ball
+3 Overflow valve spring
+4 Felt ring holding spring
+5 Centre tube
+6 Filter felts
+7 Nut
+8 Filter housing
+9 Return oil conduit
+10 Oil tank cover
+12 Gauze strainer
+13 Dip rods
+14 Spring seat
+15 Felt ring
+16 Washer
+Fig. 28. Filler plug for gear oil.
+
+
+lubrication points after marking them with tags. Pour a little kerosene
+into each compartment of the oil container and turn crank handle until no
+more kerosene comes out of any of the delivery pipes. Wipe the oil
+container carefully out with a dry lintless cloth and fill with fresh oil.
+Then continue pumping by crank handle until clean oil comes from all
+delivery pipes without air bubbles.
+If, after turning the crank handle about 100 times and no oil
+comes out, this is a sign that air is contained in the suction line, which
+must be removed by temporarily increasing the pump plunger stroke by
+several quarter turns by turning adjusting screw (5), Fig. 13, to the left
+Then continue hand pumping. After all air has been removed, readjust pump
+plunger. Then reassemble and do not omit to secure the tightly screwed up
+lubricator cap by wire. The oil chamber containing the skew gear drive
+of the oiler, must be drained every 1000 working hours by drain plug,
+Fig. 19, on the left main bearing cover and refilled with half a pint of
+lubricating oil through the hole of the oil pipe reduction socket on top
+of the main bearing cover after removing the oil pipe and the said socket.
+OIL RETURN PUMP - The geared type oil return pump (2), Fig. 17,
+returns the oil accumulating in the crankcase by pipe (I), Fig. 26, to
+the circulating oil compartment (5), Fig. 15.
+GAUZE STRAINER FOR RETURN OIL - During its circulation, the oil
+is cleaned first, from coarser impurities by the gauze strainer, built into
+the crankcase base plate, and then thoroughly by the oil cleaner attached
+to the underside of the oil tank cover.
+The gauze strainer, Fig. 25, must be cleaned weekly, or every
+50 hours: Remove sludge from crankcase, using a brush, and flush with
+kerosene. Replace gauze screen if damaged. Make sure that return pipe
+(4), Fig. 25, is clear, otherwise take down and blow through with an
+air pump.
+RETURN OIL CLEANER - After passing through the gauze strainer,
+the return oil enters through pipe (I) and conduit (9), Fig. 26, into
+the chamber between filter housing (8) and filter felts. It is pressed
+through the felts (6), in which all impurities are retained, into the com-
+partment, encircling the perforated centre tube, through which it flows
+down into the return oil compartment (5), Fig. 15.
+Should felts become choked through want of cleaning, the oil
+passes unfiltered from pipe (I) through valve (2) Fig. 25, direct into
+the centre tube.
+CARE OF THE RETURN OIL CLEANER - The cleaner must be cleaned at
+the same time when renewing the oil, i.e., after the first 100, and
+subsequently every 300. working hours in the following way:
+
+
+Fig. 29. Sectional view of transmission.
+1 Upper oil bath
+compartment
+2 Drain plug for 1
+3 Drain plug of lower
+oil bath compartment
+4 Oil level control plug
+Fig. 30. Lubricating with grease gun.
+
+
+Unscrew the 6 oil tank cover holding screws and remove the cover
+with the cleaner attached to it. Then remove the filter by removing nut
+(7) Fig. 26. Wash the felts, all filter parts as well as the interior of
+the oil tank and conduit (S) and (l) thoroughly with kerosene, and re-
+assemble after the felts have thoroughly dried.
+Do not use Felts other than those supplied from the K.L. Tractor
+works. Keep spare felts on hand.
+Take care not to lose the ball valve (2), which is apt to jump
+out when pipe (5) is being unscrewed from oil tank cover (10) for the
+purpose of cleaning the oil passages.
+GEAR LUBRICATION
+The gear case of the tractor is provided with a filler hole,
+Fig. 28, and oil lever control plug, Fig. 27, and (4), Fig. 29, and 2
+drain plugs (2) and (3), Fig. 29. After the first 100 working hours the
+gear oil must be drained and removed. Drain the oil immediately after’
+stopping the tractor, while the engine is still warm and the oil in liquid
+state, by removing plugs (2) and (3), Fig. 29. Replenish, taking care
+that the oil level in the housing is not higher than up to the control
+plug (4), Fig. 27, otherwise it might leak out and damage the rubber tyres
+Therefore, before filling gear oil through the filler hole,
+remove the oil level control plug and all gummy oil sediments by which
+the oil level control hole may be choked.
+"When filling the gear case the oil must flow, directed by means
+of a funnel, into the smaller upper compartment (1), Fig. 29, arranged
+sideways within the gear box so that the compartment is filled to
+capacity before the oil flows into the lower main compartment.
+Subsequently, the gear oil is to be renewed every 1,500
+working hours.
+GRIA.SE
+All points, provided with nipples are lubricated as indicated
+in the lubricating shart, Fig. 31, by the grease gun supplied with
+tractor. The grease lubrication.is of as much importance as the oil
+lubrication. A very soft, high grade grease of mineral base is to be
+used, free from water, acid and other impurities, as well as not being
+resinous nor rancid.
+
+
+When using grease gun, piece it on nipple end push barrel towards
+nipple, then allow it to slide back, and repeat several times until a
+resistance is felt, or grease oozes from the bearing points. When the large
+plunger goes entirely into the barrel the grease gun is empty. If grease
+oozes from between nipple and nozzle, renew grease gun nozzle and/or nipple.
+Grease emerging from the joints must be removed, otherwise it would collect
+grit and dust.
+When greasing fan spindle, care must be taken not to over-grease
+as excess grease is thrown by the fan into the radiator cores causing over-
+heating. Two or three strokes of the grease gun daily should be sufficient.
+
+
+LUBRICATING
+CHART
+FOR
+K.L. BULLDOG
+CRUDE OIL TRACTOR
+
+
+Fig. 31. Lubrication points on
+K.L. Bulldog Tractor.
+30
+
+
+LUBRICATING CHART BOR
+K.L. BULLDOG TRACTORS
+j KEY NO.
+NUMBER OF
+BLR VICH
+ON CHART
+NIPPLES
+QUANTITY
+TWICE DAILY;
+SERVE WITH GREASE GUN
+Clutch, sleeve under R.H. flywheel
+cover flap.
+19
+1
+6-8 strokes
+SERVE WITH LUBRICATING OIL
+Mechanical force feed lubricator
+32
+Fill as directed
+in text.
+Eccentric strap and lubricator
+29
+drive - use oil can
+30
+Approx. 6
+squirts with can.
+ONCE DAILY:
+SERVE WITH GREASE GUN
+Wrist pin bearings L.H. & R.H.
+1, 3
+4
+2-3 strokes
+Front wheel bearings L.H. & R.H.
+2
+2
+2-3 '•
+Track rod bushes
+4
+2
+1-2 ’»
+Eccentric sheave (under L.H.
+flywheel cover flap)
+6
+1
+2-3 "
+Steering sector shaft
+7
+1
+2-3 '•
+Pivot pin, swinging draw bar
+9
+1
+2-3 "
+Rear bearing, power take-off
+13
+1
+1-2 »
+Steering column
+14
+1
+1-2 «
+Side rod of steering gear (front
+and rear)
+15, 2V
+2
+1-2 **
+1st. gear shaft bearings
+16, 54
+2
+2-3 "
+Stay rod pivot bearing
+17
+1
+1-2 "
+Clutch sliding collar
+20
+1
+2-3 ”
+Clutch operating shaft (lower end)
+22
+1
+1-2 "
+Idler gear
+23
+1
+2-3 "
+Rocker shaft
+24, 28
+2
+1-2 "
+Fuel pump tappet
+25
+1
+1-2 "
+King pin, centre of front axle
+26
+1
+1-2 •»
+Roller pin of swinging draw bar
+33
+1
+2-3 '»
+ONCE WEEKLY;
+SERVE WITH GREASE GUN
+Fan bearings
+5
+1
+3-4 strokes
+Clutch pedal cross shaft beamings
+8
+2
+2-3 *
+Spring hitch
+11, 12
+2
+3-4 "
+Clutch shoe pivots (under R.H.
+flywheel cover)
+21
+3
+2-3 "
+ONCE MONTHLY:
+Gear oil-replenish to correct level
+(see Instruction Text)
+18 :
+As required
+ALL JOINTS NOT PROVIDED LTTH NIPPLES LUST BE SERVED FROM TIMS TO TIME LTTH
+OIL CAN AFTER THOROUGH CLEANING
+31
+
+
+Fig. 32. Fuel supply system.
+1. Fuel control rod.
+2. Oil control rod.
+3. Fuel supply regulating wedge.
+4. Governor rocker arm shaft.
+5. Pump tappet.
+6. Fuel pump.
+7. Fuel suction pipe.
+8. Fuel strainer.
+9. Fuel stop valve.
+10. Atomizer.
+11. Fuel delivery pipe.
+12. Eccentric strap.
+13. Engine rotation governor.
+14. Fuel tank.
+15. Crank shaft.
+16. Fuel pipe to strainer
+Fig. 34. Outside view of fuel supply.
+A Fuel stop valve
+B Atomizer
+F Fuel strainer
+D Pump casing
+P Fuel pump
+V Fuel pump handle
+d Fuel delivery pipe
+s Fuel suction pipe
+Fig. 33. Fuel strainer and stop valve.
+Fig. 35. Fuel lever setting.
+
+
+SECTION 4
+FUEL SYSTEM
+FILLING UP FUEL - When filling with fuel filler (2) , Fig. 5, the
+gauze strainer must never be removed, and careful attention should be paid
+to cleanliness, as engine stoppages are often caused by dirty fuel. Do not
+use the dregs of storage tanks, as they contain sediment.
+CLEANING FUEL TANK - The fuel tank should be completely drained
+and cleaned every 600 working hours. To drain the tank, unscrew the plug
+at the bottom of the fuel strainer, Fig. 33, and open stop valve, and re-
+move the air cleaner cowling, disconnect the tank fastening screws and all
+pipes on the tank including the oil suction pipes (7) and (17), Fig. 15,
+remove the tank and wash thoroughly with kerosene.
+This opportunity should be taken to clean the lubricating system.
+STOP VALVE AND FUEL STRAINER - The fuel strainer (F) Fig. 34, is
+placed in the pipe line (16) and (7), Fig. 32, between the tank and pump.
+This is provided with a stop valve (A), Fig. 34, vhich is opened 4 turns.
+The strainer should be cleaned every 100 working hours by unscrewing the
+plug at the bottom, as shown in Fig. 53.
+Take care that the inlet and outlet openings and fuel pipes are
+perfectly clear.
+Clean the fuel filler gauze at the same time.
+FUEL LEVER - The operator controls the fuel supply to the engine
+by setting the fuel lever Fig. 35. If the engine load is increased, the
+supply of fuel to the engine must be increased by moving the lever for-
+ward, if the load is decreased, the fuel supply must be decreased by
+moving the lever backwards.
+FUEL LEVER SETTING 1"0R IDLING - The engine commences to knock
+when the temporary permissible peak load is reached. There is no danger
+in temporary knocking of the engine but continuous knocking must be
+avoided.
+For idling, set the fuel lever on mark 1, when the engine will
+idle at 350 r.p.m. Do not put the lever below this mark to idle, or in-
+sufficient lubricating oil will be supplied to the piston and cylinder.
+Do not alter the lever operating rods, for dismantling withdraw
+only the pins from the joints.
+GOVERNOR & FUEL LEVER SETTINGS - The two speed governor, Fig. 36,
+acting with the fuel lever settings, is mounted on the left hand flywheel
+and crankshaft, and keeps the two engine speeds, i.e., the idling speed
+
+
+Fig. 37. Air pocket trap.
+1 Air chamber
+2 Center tube
+3 Pipe Union
+4 Accessibility plug
+5 Air discharge plug
+6 Suction valve
+7 Delivery valve
+8 Pump body
+Fig. 36. Governor.
+1. Lock nut.
+2. Adjusting screw for maximum speed.
+3. Governor spring for high speed.
+4. Fly weight.
+5. Inner (fast) eccentric.
+6. Outer (loose) eccentric.
+7. Adjusting screw for minimum speed.
+8. Lock nut.
+9. Governor spring for low
+speed.
+10. Governor housing.
+11. Eccentric strap.
+12. Adjusting nut.
+13. Lock nut.
+14. Dead play before action
+of governor.
+Fig. 38. Sectional view of fuel pump valves. D Delivery valve;
+S Suction valve.
+1 Fuel priming handle
+2 Pump casing
+3 Gland adjusting nut
+4 Pump body
+5 Pump plunger spring
+6 Gland distance piece
+7 Gland packing
+8 Pump plunger
+9 Fuel delivery pipe
+10 Fuel suction pipe
+11 Delivery pipe union screw
+12 Delivery valve housing
+13 Delivery valve spring
+14 Delivery valve
+15 Delivery valve ball
+16 Suction valve spring
+17 Suction valve
+18 Suction valve ball
+19 Suction valve housing
+20 Suction pipe union screw
+34
+
+
+of 350 r.p.m. end the normal speed of 500 r.p.m., approximately, constant
+under all normal load conditions, providing the fuel lever is correctly-
+set. V/ith fuel lever on mark (1), Fig. 35, only serine (9) Fig. 36, is
+active, and the speed is limited to 350 r.p.m. T'Jhen the fuel lever is
+advanced beyond mark (2), spring (3) is brought into action, and the com-
+bined action of both springs keeps the engine speed nearly constant at
+600 r.p.m.
+The governor is correctly adjusted at the works and neither
+the adjusting nuts 1,3, 12 and 13, nor the centre bolt (2) for pre-
+compression of spring (5) should be altered.
+The dead play at (14) before the governor begins to act at
+normal speed is necessary.
+PRIMEITG V.TTri FUEL - On the pump casing (2) Fig. 38, a handle
+(1), is fitted, by which the hot bulb is primed rith fuel for starting.
+Open the fuel stop valve 4 turns, and push priming lever to the left until
+the resistance of the pump plunger spring is felt, then give priming lever
+2to 3 short hard strokes. Do not overprime, otherwise the engine rill
+refuse to start. After priming is finished be sure to push lever back
+until it engages rith the catch.
+REMOVING AIR FROM PIPS HITS - Before first starting the engine,
+and after the fuel strainer, pipes, or atomizer have been removed, or the
+engine has stopped due to rant of fuel, the air pockets in the pipe line
+must be removed.
+Open the fuel stop valve 4 turns, loosen pipe union on
+delivery valve, disconnect fuel pipe at the atomizer and unscrer plug (5)
+Fig. 37, until air is expelled and fuel flors freely from the plug,
+tighten plug (5) and operate the pump rith the priming lever until fuel
+flows freely, without air bubbles, from the end of. the delivery pipe.
+Make sure that fuel line unions, such as gland nuts, valve
+housings and pipe unions are tight to avoid sucking of air, and retighten
+if necessary.
+TESTING VALYBS - In order to test the efficiency of valves,
+disconnect suction and delivery pipes and unscrer valve housings. Examine
+valve rith balls removed to see if their cones fit tightly in their
+seatings by pouring a little gasolene into the housings, and this should
+not seep through. If it does, the valves must be'ground in, as
+follows;
+Place the valve housing in a vice, apply a very fine
+grinding compound to the valve cone and place it in the valve seating. By
+means of a small stick turn the valve by quarter turns alternately to the
+
+
+right and left in the seating applying a little pressure, lifting the cone
+occasionally to let the grinding compound get between the cone and the seat.
+Continue in this manner until the surface of the seat and cone show an even
+surface all the way round. If the valve seating is badly worn, it must be
+milled before reseating the valve or a new one must be fitted.
+It is advisable to keep a set of spare valves on hand.
+■Whilst the suction and delivery pipes are out, make sure that the
+ball valves seat tightly by inserting the balls and testing. Should the
+seatings be leaky, place a brass drift on the ball in the housing and give
+a few light taps with the hammer. Damaged or rusty balls must be replaced.
+When re-assembling be careful to fit the proper valves and springs.
+Each valve goes with the housing, into the seating of which it has been
+ground. The stronger spring belongs to the delivery valve. The springs
+must be correctly fitted and air pockets removed from pipe line before
+tightening the pipe unions.
+FUEL PUMP - The plunger type fuel pump (6), Fig. 32, is operated
+by an eccentric strap through governor rocker arm (4), pump tappet (5) and
+and pump plunger. Between rocker arm (4) and tappet (5) the regulating
+wedge (3) is interposed, and this is operated by the fuel lever, thus
+varying the stroke and consequently the amount of fuel delivered to the
+engine.
+In order to avoid over-heating of the engine by overcharging it
+with fuel and consequently giving a smoky exhaust, caused by the inertia
+of the governor fly-weights in case of sudden changes of load, the stroke
+of the fuel pump is limited and the excess movement caused by action of the
+fly-weights cancelled out in the following way:
+The movement of the collar, integral with the tappet (7),Fig. 40,
+is limited on one (minimum) side by the inner shoulder of the adjustable
+tappet guide (9), and on the other (maximum) side by the adjustable, slotted
+tappet check screw (14), screwed into the tappet guide. Thus the movement
+of the tappet and the stroke of the plunger are limited. The excess move-
+ment of the rocker arm (2), governed by the governor strap, in case of
+sudden changes of load is taken up by the buffer (4) and its spring (3),
+for which purpose the anchorage stud of the buffer is carried in the bore
+of the rocker arm in a sliding fit with a certain amount of axial play under
+the control of the buffer spring (3).
+CHECKING AND ADJUSTMENT OF PUMP STROKE - With the fuel lever set
+to mark (1), Fig. 35, the engine must idle at 350 r.p.m. checked with a
+revolution counter. If this is not so, adjust the engine speed to this
+number of revolutions by screwing the tappet guide (9), Fig. 40, in or out
+while engine is running after loosening the lock nut (8). After adjustment,
+tighten the lock nut but not to such an extent that the tappet will stick.
+Then check the minimum idling speed once more. Then check the pump stroke
+which must be 2.0 mm.
+
+
+To do this, proceed as follows:
+mtr Stop engine, remove pump casing, Fig. 39, set fuel lever on mark
+(3)*for maximum load and remove safety plug to facilitate turning of fly-
+wheel. When turning the flywheel slowly, the tappet (7), Fig. 39, will be
+moved in forward direction, and after it has come to a standstill in fore-
+most position, measure the distance (e) as shown in Fig. 39, with a
+calliper. Then turn the flywheel half a revolution until the backward
+movement of the tappet comes to a standstill and measure the distance (e)
+again. The difference between the two measurements indicates the maximum
+tappet (or pump) stroke, which must be as stated above. The maximum
+limitation of the pump stroke is adjusted by screwing the tappet check
+screw (14) Fig. 40, in (for decreasing the pump stroke) or out (for in-
+creasing it) after loosening tab washer (13) and lock nut (10) until the
+difference of the measurements (e) is not more or less than started above.
+A greater stroke would cause overheating of the engine and smoke. Then
+draw lock nut tight and check the stroke once more. Secure by bending one
+tab of the lock washer (13) over the tappet check screw and the other over
+the lock nut.
+Note that the checking and adjustment of the minimum limitation
+is with engine running and fuel lever on mark (1) Fig. 35, and that of the
+maximum limitation with engine at rest and fuel lever on mark (3).
+DO NOT ADJUST PUMP STROKS SO 'THAT ENGINE IDLES WITH TUEL LEVER
+PLACED LOWER THAN MARK (I) ON FUEL QUADRANT AS LUBRICATING OIL SUPPLY TO
+CYLINDER IS THEN ELIMINATED.
+GLAND PACKING - Should fuel leak from the gland, Fig. 33, while
+the engine is running, slightly tighten gland nut (3), but not to such an
+extent that the pump plunger sticks. If this tightening of the nut (3)
+is not sufficient to stop leakage of fuel, then a new gland packing is
+required and should be inserted as follows:
+Remove fuel pipes from the pump, also the valves and valve
+housings, take off the pump by removing the two nuts and levering the
+plunger past the tappet.
+With the pump removed, withdraw the plunger and remove the
+spring, when the gland nut can be token off and the old packing removed.
+Thoroughly clean all parts in kerosene, then place the pump body
+lightly in a vice, with stuffing box uppermost. Insert the pump plunger
+with gland nut and gland in their correct positions on it, hold'the nut
+and gland up and place one round of graphited string (previously cut to
+correct length) round the pump plunger. Push this round home into the
+stuffing box by means of the gland and repeat this operation with other
+rounds of pocking until the stuffing box is filled to within about f-" of
+the top.
+In putting the rounds in, keep the gaps of adjacent ones
+diametrically opposite.
+
+
+Carefully remove the plunger, oil well and fit the spring, then
+reinsert plunger with spring gland and gland nut on it into the pump body.
+Particles of packing which may have become detached should be
+carefully removed from the pump body.
+Replace pump on the cylinder block and adjust gland nut so that
+it contacts gland but does not cause plunger to stick.
+Reassemble valve housings, valves and pipes to the pump body, re-
+place pump cover and then proceed to remove air from pump and fuel lines
+as previously instructed.
+Fig. 39. Measuring the pump stroke.
+Fig. 40. Fuel pump tappet adjustment.
+1 Nut
+2 Rocker arm
+3 Buffer spring
+4 Rocker arm buffer
+5 Fuel supply regulating wedge
+6 Crank case
+7 Fuel pump tappet
+8 Lock nut
+9 Tappet guide
+10 Lock nut
+11 Pump plunger
+12 Plunger spring
+13 Lock washer
+14 Slotted tappet check screw.
+
+
+Fig. 41. Atomizer.
+1 Hand wheel
+2 Spindle
+3 Gland screw
+4 Gland packing string
+5 Fuel pipe union screw
+6 Fuel pipe
+7 Water jacket
+8 Nozzle
+9 Copper washer
+10 Ring cover screw
+11 Ring cover
+12 Rubber packing ring for ring cover
+13 Atomizer body
+14 Spindle stop
+ATOMIZER
+The Atomizer, Fig. 41, must be handled carefully, special
+attention being paid to nozzle (8), and grooves at the end of spindle (2)
+which are carefully ground at the factory. The fuel spray for various
+loads is regulated by screwing the spindle up or down. Fig. 42, according
+to requirements, but this adjustment does not alter the quantity of fuel
+injected, only increasing or decreasing the degree and angle of
+atomization, with which the fuel is sprayed on the heating plate or into
+the pocket of the bulb, Fig. 45.
+SETTING ATOMIZER
+When the estimated load ■ . .
+is over 12 H.P. (full load) . . . close the spindle - Fig. 43.
+is 6 - 12 H.P. . . . 1|- turns open, (to the left).
+is 0 - 6 H.P. , and when starting ... 3 turns up - Fig. 43.
+When spindle is screwed right down, Fig. 41, to stop (14), this
+is full load position, and "turns up" are counted from this position,
+Fig. 42. Above settings are only approximate. Do not apply force when
+screwing spindle down for full load and return slightly when it reaches
+the bottom. Adjustment should be carried out immediately after stopping
+the tractor or any change of load. If the atomizer spindle is unscrewed
+too far on a heavy load, the bulb will become over heated, end irregular
+running will result, the engine will knock and pull badly. If it is
+screwed in too far on a light load, misfiring and smoking from the exhaust
+will result and perhaps ignition will cease altogether.
+TESTING OF ATOMIZER - For testing unscrew the atomizer from
+cylinder head and connect it up to delivery pipe, leaving the unions
+loose. Now pump by priming handle, Fig. 44, in order to expel all air
+from pipe; when fuel flows freely, tighten the union nut and pump again.
+The correct shape of the spray is tested in the following way:
+
+
+Fig. 42. Position of spindle.
+V, at full load. L, when idling.
+Fig. 43. Action of atomizer.
+V, at full load. L, when idling.
+Fig, 45. Fuel spray.
+V, at full load, L, when idling.
+Fig. 44. Fuel spray.
+V, at full load. L, when idling.
+Fig. 46. Dismantling atomizer.
+a. Nozzle hole.
+b. Nozzle.
+c. Groove in spindle.
+
+
+A piece of paper is held horizontally underneath the atomizer at
+a distance of sg" from end of the nozzle, and one or two short hard strokes
+are given to the priming handle. If the spindle is screwed right down,
+the spray crown should show in a perfect circle of 4?-" diameter, Fig. 44.
+If unscrewed 3 turns (no load), it will show a practically straight spray.
+If fuel leaves in blobs, air is present in the pipe or nozzle and
+must be expelled by further pumping. Replace atomizer in cylinder head
+and fit delivery pipe loosely so that the air may be pumped out, and then
+tighten up.
+Perfect atomization is of special importance for efficient tractor
+operation under light loads, therefore, satisfy yourself that at atomizer
+settings for half load and idling (spindle screwed lg and 3 turns up) the
+atomization is perfect, although the spray crown diameter is smaller.
+When testing the spray, the hits on the priming handle must be as sharp
+and short as possible in order to establish natural working conditions.
+CARS OF ATOMIZER - Under correct conditions, the nozzle remains
+clean for weeks, but it may become choked by badly filtered fuel.
+If the atomizer nozzle requires cleaning, one, or a combination
+of the following faults, will ensue:
+Lack of power, smoky exhaust, bulb incandescent on one side,
+pump stiff to operate by priming handle, engine steps, spray incorrect
+or one-sided.
+Remove nozzle (b), Fig. 46, unscrew spindle and clean the grooves
+(c) carefully, using a chip of wood. Clean the inside of the nozzle,
+being careful not to enlarge the hole (a).
+When fitting atomizer, do not use unnecessary force to tighten
+and do not attempt to keep it tight in the cylinder head by using any
+other packing than copper washers (9), Fig. 41, which can be had in
+different thicknesses to assure correct position of the atomizer for
+connecting to fuel pipe. Use only one washer of proper thickness.
+Efficient operation of the K.L. Bulldog Tractor depends on
+correct atomization of the fuel. It is of primary importance to keep the
+atomizer in perfect condition. First of all, it is necessary to re-
+condition and, if necessary, to renew the nozzle, because its jet hole
+may be worn by rapid passage of the ejaculated fuel. A defective
+atomizer must be sent for repair to the Works or Agents and replaced by a
+new atomizer ’which should always be kept in stock for such a case.
+
+
+Fig. 47. Cleaning the hot bulb.
+Fig. 49. Cylinder head removed.
+Fig. 48. Drawing off the cylinder head.
+Fig. 50. Removing air cleaner base.
+
+
+SECTION 5.
+ENGINE
+HOT BULB - The hot bulb must be clean, since accumulation of
+carbon impairs combustion, and when in the pocket, prevents the engine
+running properly without load. If the engine has been running for some
+time, with the nozzle dirty or the atomizer spindle wrongly adjusted,
+carbon may have accumulated in the bulb and pocket, and this must be
+removed. Mineral ingredients, contained in many kinds of fuel oils, are
+deposited in the bulb in the form of yellow ash, which must be scraped
+off, Fig. 47.
+Before removing the bulb, its position, as well os that of the
+copper ring and bulb cover with reference to the cylinder head, should be
+marked so that these parts can be put beck in exactly the same position.
+The threads of the studs in the cylinder head should be brushed
+over with graphite supplied to prevent the nuts burning on during working,
+and thus tearing the thread when next loosened. The nuts must be evenly
+and firmly tightened a little after the engine is warm. If the leakage
+continues due to the copper ring having become hard, it must be annealed
+by heating to cherry red and quenching in water.
+CLEANING- COMBUSTION CHAMBER - The combustion chamber must be
+cleaned from time to time as follows:
+Remove bulb cover and bulb, remove atomizer, the two bulb cover
+holding studs at rear and unscrew cylinder head fastening nuts; draw
+cylinder head off by means of draw bolts as shown in Fig. 48. Scrape
+deposits from cylinder head without injuring copper ring seat. Then re-
+move carbon also from the cylinder wells and wash with kerosene.
+VJhen replacing cylinder head, see that it is perfectly tight by
+fitting it evenly. If the copper ring joint is renewed, all rubber packing
+rings must be renewed at the same time.
+CLEANING ENGINE - The engine should be cleaned periodically
+according to the amount of work done. Particular care must be taken to
+thoroughly remove all carbon deposits from the outside and inside of the
+piston. Carbon, being an efficient insulating material, is apt to cause
+overheating of the engine if permitted to accumulate in the skirt or on
+the head of the piston. Remove cylinder head. Then remove air cleaner
+and air cleaner base thus giving access to the crankcase. The big end
+nuts are unscrewed, Fig. 51, and bearing cap taken off. Remove shims,
+taking care to replace in same position when reassembling. The piston and
+
+
+Fig. 52. Removing piston rings.
+Fig. 51.- Unscrewing big end nuts.
+Fig. 53. Removing gudgeon ring from piston.
+Fig. 54. Drawing bush from connecting rod.
+Fig. 55. Inserting piston into cylinder.
+
+
+connecting rod are then carefully removed by pushing them towards'the
+cylinder head, taking care that the crank pin and the cylinder walls do not
+get damaged end that the connecting rod does not knock against the edge of
+the piston skirt. A piece of copper or rubber tubing placed on the big
+end bolts, safeguards the crankpin and the cylinder from scores. All parts
+must be thoroughly cleaned with kerosene, using firm cloth and not cotton
+waste, which is apt to choke lubricating lines.
+PISTON RINGS - Piston rings should fit loosely in the grooves,
+and if a ring is bedded in, it must be carefully loosened by tapping
+gently all round with a mallet, or the whole piston placed for one hour in
+kerosene. The piston rings being very fragile, should be handled care-
+fully. For.removing them, use 3 thin strips (use discarded air flaps),
+Fig. 52, and mark the rings to ensure their reinsertion in same order and
+groove.
+GUDGEON PIN - To remove gudgeon pin: Remove the lock wire from
+the lock screw head. Then unscrew the lock screw taking care not to lose
+the spring washer under its head. The gudgeon pin end, away from the lock
+screw, being slightly bigger in diameter than the other end, must be
+driven out from the lock screw side as shown in Fig. 53. If the gudgeon
+pin be worn on one side only, it may be re-used after turning it by half
+a turn, and if badly worn it must be replaced by a new one. uhen re-
+assembling the gudgeon pin, take care that the holes for the lock screw
+are in exact alignment, otherwise it would be impossible to fit the screw.
+Do not omit to place the spring washer under the lock screw head and
+secure the head with the lock wire.
+GUDGEON BUSH - To remove gudgeon bush from connecting rod, first
+remove the locking grub screv; (S) , Fig. 54. Use a press or a simple
+withdrawing tool, as shown in Fig. 54. When fitting new bush do not omit
+fitting the locking grub screw.
+CLEANING OIL CONDUITS IN CRANKSHAFT - At the opportunity of
+removing the piston end connecting rod, the crankshaft and crankcase
+should be cleaned out, for which purpose the radius rods (3) and crankcase
+base plate (2), Fig. 25, must be removed. The banjo ring taking care of
+crank pin lubrication and now accessible through the hole of the removed
+air cleaner base, must be thoroughly cleaned end freed from the gummy oil
+sediments by alternately squirting kerosene into their grooves end turning
+the crankshaft with the starting wheel.
+The lubricating hole in the crankshaft is first cleaned with a
+wire as far as accessible and then blown through with an air pump, or
+cleansing oil is pumped through by means of the grease gun. Turn the
+crank pin to its lowest position so that the kerosene drains out and
+leaves the oil hole perfectly clear. Then wash the inside of the
+crankcase.
+
+
+Fig. 56. Big end bearing shims.
+Fig. 57. Socket for flushing the cylinder with kerosene.
+46
+
+
+WHEN CLEANING THE ULTERIOR OF THE ENGINE NEVER USE COTTON WASTE,
+ONLY FIRM CLEANING CLOTH.
+REPLACING PISTON - When replacing the piston, it must be v;ell
+lubricated and the same care must be taken as when dismantling. Push
+each ring into the same groove from which it was taken and the piston,
+carefully, without force, into the cylinder. Do not use a hammer. To
+facilitate the work, a piston ring clamp should be used, consisting of a
+wire ring, the ends of which are bent to form a handle. This is first
+placed round the back piston ring, Fig. 55, the latter being pressed into
+its groove by tightening the clamp.
+The part of the piston containing the ring can then be pushed
+into the cylinder, the ring clamp sliding automatically to the next ring.
+This is repeated with the second, third and fourth ring. ■
+BIG END BEARING - The big end bearing cap and shims ere then re-
+placed and nuts tightened. If bearing is too loose, remove shims evenly
+from each side, Fig. 56, until clearance of 0.004” is obtained. To
+avoid confusion, the connecting rod, bolts and nuts are numbered. When
+bearing nuts are finally tightened and split pins securely fitted, make
+sure that crankshaft turns freely.
+COMPRESSION - Before starting the engine, the flywheel should be
+moved to and fro by means of the starting wheel to ensure that all
+moving parts work freely and the engine has compression. If the engine
+can be turned beyond the dead centre more easily than usual the piston
+rings may be jammed or broken, cylinder head or hot bulb faulty, allowing
+the compression to escape. Cylinder head or bulb nuts to be tightened
+or the joint ring replaced.
+FLUSHING SOCKET - Immediately after stopping the engine for
+night, place the piston in rear dead centre with key in crankshaft showing
+up, pour a little kerosene into the cylinder flushing socket (2), Fig. 57,
+after removing the plug, allow’ the kerosene to draw into the cylinder,
+then move piston backward and forward. This prevents the oil in the
+cylinder from congealing and makes the engine easy to turn when next re-
+quired. Leave the crankshaft key showing up. Before restarting, prime
+with oil.
+SEIZING OF PISTON - If the piston happens to seize due to
+gumminess, pour a little kerosene into the cylinder through the flushing
+socket, Fig. 57, then after a few; minutes, it will be possible to move
+the flywheel, although w.’ith difficulty at first, until finally it moves
+freely. Just before restarting the engine, pump some lubricating oil by
+the mechanical lubricator to ensure the piston being amply lubricated
+from the start.
+
+
+Fig. 58. Sectional view of air cleaner.
+1 Cowling cover
+2 Air cleaner fastening nut
+3 Air cleaner cover
+4 Air cleaner centre rod
+5 Inner screen cylinder
+6 Coir padding
+7 Outer cage
+8 Hinge pin
+9 Air cleaner housing
+10 Base with air flap valve
+11 Air flaps
+12 Cowling
+Fig. 59. Removing the clogged fibre.
+Fig. 60. By means of a narrow strip of wood,
+the fibre Is pressed between the cage and
+the screen cylinder.
+Fig. 61. Removal of air flaps.
+a Air cleaner base
+b Air flap fastening screw
+c Air flap seat screw (square headed}
+e Air flap
+f Air flap check
+
+
+AIR CLSAHSR - It is of primary importance that the air, dram in
+by the engine should be absolutely clean, as sand and dust, combined with
+lubricating oil set up friction in the engine and cause rapid wear.
+Therefore, an air cleaner is mounted under the cowling immediately above
+the air intake valve on the crank case.
+It consists of coir padding, moistened with oil and inserted be-
+tween the inner screen cylinder (5), Rig. 58, and the outer cage (7), in
+which the dust is deposited.
+CLEANING AIR CLEANER - The choking of the fibre padding in the
+cleaner depends on the amount of dust and air. Vflien choked up, it must be
+cleaned or replaced. After the tractor has been out of use for some time,
+examine padding and moisten with oil, if necessary, by coating the outside
+of the filter with oil (about 1 pint), which by the action of the engine
+will be sucked into the fibre padding.
+Do not open the filter while the engine is running.
+To clean the sir cleaner, open cowling cover (i), Fig. 58, un-
+screw air cleaner fastening nut (2) and lift the air cleaner out of its
+housing.
+Thoroughly sluice the cleaner in a suitable container, using
+power kerosene. (A 12-gallon drum vjith top removed and three quarters
+filled with kerosene is suitable).
+Place two straps across the top of the container and support air
+cleaner on them after sluicing. Allow it to drain for several hours,
+then smear about 1 pint of engine oil over the outside of the cleaner and
+replace it on the engine.
+V/hen new fibre is being used to replace fibre which has become
+choked, it should be first washed with water to remove dust and other
+impurities. Then it is well loosened and spread out to dry. For one
+filling about 2 lbs. are required. By means of a narrow strip of wood
+the well dried fibre is then pressed between the cage and screen cylinder,
+and distributed evenly over the entire surface, Fig. 60. The fibre must
+not be packed too tightly, but on the other hand, no spaces must be left
+in the filling, through which air might pass unfiltered. It is essential
+that the cleaner be filled right to the top, as the fibre settles some-
+what during running. Finally, smear about 1 pint of oil over the outside
+as outlined previously.
+Under ordinary conditions it will suffice'to clean the cleaner
+every 100 working hours, on the other hand, in very dusty districts, it
+will be necessary to clean it 2 or 3 times a day.- Under such conditions
+it is advisable to keep one or two spare filters ready for use in order
+to ahoid loss of time in cleaning.
+
+
+The K.L. Bulldog Tractor coir padding air cleaner is very efficient and
+gives lOOfo clean air if properly attended to. It cannot be overemphasized
+to do so as the life of the tractor, especially the life of the cylinder and
+piston depends on it.
+AIR FLAPS - If flaps of the air inlet valve under the air cleaner
+are bent or broken, not enough air is supplied for scavenging end filling
+the cylinder, resulting in loss of power of the engine.
+After taking off the air cleaner, remove air cleaner base (10),
+Fig. 61, to which the flap valve is attached and replace damaged flaps by
+new ones. Take care that the flaps do not bear with a pressure upon their
+seating, but a clearance of about .5 mm is left between their free end and
+air cleaner base.
+
+
+Fig. 62. Exhaust and spark arrester.
+1 Baffle box
+2 Outer baffle
+3 Centre baffle
+4 Inner baffle
+5 Gasket
+6 Pipe dip
+7 Exhaust pipe
+8 Drain pipe
+9 Exhaust elbow
+EXHAUST
+To avoid loss of power, the ex-
+haust should be kept free of carbon
+deposits, caused by over oiling and
+incomplete combustion. Therefore, it
+is of primary importance to keep the
+fuel lever as low as possible,
+consistent with the load, especially
+when idling.
+The inside of the exhaust pipe
+must be cleaned thoroughly once a
+fortnight. The whole of the exhaust
+piping and the silencer must be taken
+to pieces and its parts cleaned with
+a scraper and steel brush. If, after a
+a long period of working, considerable
+carbon has been deposited, which can-
+not be removed with a scraper, the
+parts can be burned off over a light
+paper fire. This must be done with
+care to prevent the sheet metal ,being
+burnt by the high temperatures,
+produced by the deposits.
+DURING HARVEST OR MEN DANGER OF
+FIRE IS PRESENT, DO NOT OPERATE
+TRACTOR WITHOUT BAFFLE PLATES AND DO
+NOT OMIT THEM WHEN ASSEMBLING.
+The exhaust ports in the cylinder
+must be cleaned out with a scraper and
+wiped out with a cloth moistened with
+kerosene. Close exhaust ports by
+turning piston to top dead centre so
+that no carbon gets into the cylinder.
+Tractors are equipped with an upright
+exhaust as shown in Fig. 62.
+
+
+TROUBLE CHART
+SYMPTOMS
+CAUSE NOS. (See
+Opposite)
+Engine
+vail not start
+1, 2, 3, 5, 16,
+17, 19,
+20, 21, 22.
+Engine
+stops after starting.
+15, 17, 18, 19,
+20, 21,
+22.
+Engine
+runs irregularly
+15, 17, 19, 20,
+22, 26,
+28, 29, 30.
+Engine
+stops while working
+1, 4, 8, 11, 14, 17, 20, 22, 23,
+24, 26, 27, 28, 29.
+Engine
+stops while idling
+1, 4, 5, 8, 14,
+20, 22, 25, 26,
+15, 16,
+27, 28,
+17, 18, 19,
+29.
+Engine
+knocks
+4, 7, 8, 9, 11,
+28, 30.
+19, 20,
+22, 23, 24,
+Engine
+smokes
+5, 12, 15, 19,
+20, 22,
+28, 30.
+Engine
+pulls badly
+5, 15, 17, 18,
+26, 28, 29, 30.
+19, 20,
+22, 24, 25,
+
+
+CAUSES
+1. Lack of fuel
+2. Bulb insufficiently heated
+3. Fuel supply shut off
+4. Lack of water (fuse melted)
+5. Water too cold
+6. Congealed oil
+7. Cooling system fouled
+8. Scale (fuse melts)
+9. Fan belt incorrectly tensioned
+10. Lubricator incorrectly adjusted
+11. Lack of oil
+12. Return oil line choked
+13. Broken or blocked gears
+14. Fuel line choked
+15. Fuel lever incorrectly set
+16. Air in fuel line
+17. Fuel pump fouled
+■ i
+18. Gland packing-leaky
+19. Atomizer incorrectly set
+20. Atomizer dirty
+21. Hot bulb flooded
+22. Hot bulb dirty
+23. Water in cylinder
+24. Cylinder dirty
+25. Piston rings jammed and broken
+26. Lack of compression
+27. Piston seized
+28. Air cleaner padding dirty or
+too tight
+29. Air flap bent or broken
+30. Exhaust or exhaust ports dirty
+REMSDI ES
+Fill fuel tank.
+Heat by blow lamp.
+Open fuel stop valve 4 turns.
+Fill up water, renew fuse.
+Use hot water, close radiator
+shutter.
+Use hot water and warm up by
+blow lamp.
+Clean cooling system.
+Remove scale, renew fuse.
+Adjust fan belt.
+Adjust lubricator.
+Replenish oil container.
+Clean return oil strainer and
+filter.
+Inspect gears.
+Clean fuel strainer.
+Set the fuel lever correctly.
+Remove air and prime.
+Clean and test valves.
+Renew gland packing.
+Set atomizer correctly.
+Test spray and clean nozzle.
+Remove excess fuel.
+Remove carbon from bulb.
+Remove packing between cylinder
+and head.
+Clean cylinder.
+Inspect piston rings and test
+compression.
+Test compression.
+Flush with kerosene.
+Clean air cleaner.
+Renew air flap.
+Clean exhaust.
+
+
+Fig. 64, Shoe expansion unit.
+a. Sliding collar,
+b. Shoepressure coil spring.
+c. Floating spring seat.
+d. Adjusting bolt lock nut.
+c. Ball joint with adjusting
+bolt,
+f. Clutch shoe.
+g. Spring cage.
+Fig. 66. Clutch brake adjustment.
+Fig. 63. Clutch assembly.
+a Sliding collar
+b Shoe pressure spring
+c Floating spring seat
+d Adjusting bolt lock nut
+e Ball joint with adjusting bolt
+f Clutch shoe
+g Spring cage
+k Spider
+I Bracing plate
+m Belt pulley on farm and
+dual purpose tractor
+p Flywheel
+r Engaging spring
+s Clutch connecting rod
+t Adjusting fork lock nut
+u Adjusting nut
+Fig. 65. Sliding collar assembly,
+a Bronce thrust pads
+b Outer sliding collar ring
+c Spacers
+d Ring locking rivet
+e Ring with stubs
+g Inner sliding collar ring
+
+
+SECTION 6.
+CLUTCH
+CLUTCH GENERAL - The clutch interposed between the engine and the
+transmission enables the operator to cut off the power flow from the engine
+to transmission at any moment when required, i.e. for gear changing, by
+depressing the clutch pedal (K) Fig. 9. A further downward pressure brakes
+the pulley, clutch and Ist gear shaft. T/hen releasing the pressure on
+pedal, first the brake is released and then the clutch is engaged.
+The clutch must engage smoothly, therefore, release the pressure
+on the clutch gradually. Never drive downhill with the clutch disengaged.
+Declutch immediately the engine tends to stop due to overload or want of
+fuel, otherwise engine will reverse. This is of greatest importance when
+driving uphill, in such case, disengage clutch and brake the tractor
+immediately, otherwise the tractor might be pulled backward by the weight
+of the trailer. Before re-engaging the clutch, control correct engine
+rotation by knob (D), Fig. 9. Avoid riding the foot on the clutch pedal,
+as even a slight pressure exerted on the pedal when the tractor is pulling
+will cause the clutch to slip, wearing out the clutch linings.
+ACTION OF THE 5-SHOE CLUTCH - On K.L. Tractors the rotary motion
+of the crankshaft is transmitted to the driving wheels and driving pulley
+by an expanding 3-shoe clutch consisting of the spider, the clutch shoes
+with pressure unit and sliding collar, and the throw-out unit.
+The spider hub is carried by the R.H. crankshaft extension on
+sleeves interposed between shaft and hub. On the inner end of the spider
+hub the ring gear is keyed on, transmitting the motion through the trans-
+mission to the driving wheels; on its outer end, it carries three spider
+arms, to which the driving pulley is bolted in such a manner that it em-
+braces the flywheel, which is running inside the pulley rim.
+The transmission of power is established and interrupted by the
+clutch shoes pressed into or lifted out of the groove provided on the
+inner circumference of the flywheel.
+The 3-shoe clutch is actuated by the clutch pedal through the
+axial movements of the clutch sliding collar on the spider hub.
+Each shoe (f), Fig. 64, is firstly pivoted on a pin passing
+through the web of the pulley bolted to the spider, and secondly, it is
+connected with the clutch sliding collar (a) by a pressure unit consisting
+of spring cage (g), coil spring (b), built into this cage with a certain
+amount of compression, and the adjusting bolt, connected with the shoe
+ball joint {e).
+The ball headed adjusting bolt (e)' is screwed into the floating
+spring seat (c) and locked from rotation by lock nut (d). When clutch
+
+
+is "in" (engaged), the spring (b) thus exerts pressure on the clutch shoe
+through the floating seat and ball joint bolt. Due to its expansion being
+limited by the cage apex, it is most important to adjust the ball joint
+bolt (e) in the spring seat (c) so that - with clutch engaged - a clearance
+of not less than .5 and not more than 1. mm, which is guided by a hole in
+the cage apex.
+ADJUSTMENT OF 5-SHOE CLUTCHES - It is of utmost importance that
+all three shoes engage simultaneously. To ascertain that this is so, de-
+press clutch pedal until the shoes just begin to disengage. By nosmoving
+each shoe separately by hand, it can be easily felt, whether they engage
+simultaneously or not and re-adjust if necessary. Repeat this test twice
+more after turning every time the spider by one third of its circumference.
+If, in spite of the fact that the engine is turning at normal
+speed, it no longer pulls properly, and if the clutch shoes drag, the
+clutch must be re-adjusted. When the tractor is new, the clutch shoes must
+be frequently re-adjusted, as, when new, the linings are settling down, so
+that the shoes are not sufficiently pressed into the flywheel groove.
+To gain access to the clutch, remove the flywheel cover and the
+clutch guard plate on the off-side of the engine.
+Unscrew lock nut (d), Fig. 63, on all three shoes by holding the
+ball joint bolt at its square section with another spanner. Disengage
+clutch and unscrew ball joint bolt on one shoe by one or two quarter turns,
+thus increasing the pressure of spring (b) and adjust the other two springs
+accordingly. Then tighten lock nuts (d) while holding the ball joint bolt
+with another spanner.
+Note that the spring clearance being equal is no proof of correct
+adjustment, the clearance on the three springs may differ within the limits
+of .5 to 1. mm, although the shoes are correctly adjusted.
+Should one of the springs become dead and no replacement spring
+be at hand, a washer must be inserted between the spring and adjusting nut
+(c) instead, unscrewing the ball joint bolt so far that the clearance
+amounts to more than 1 mm.
+On release of the clutch pedal, the clutch must engage completely
+on its own accord. If it does not, the clutch springs are exerting too
+much power (i.e. the ball, joint bolts having been unscrewed too far), or
+the clutch connecting rods require adjustment, due to being bent, or wear
+of the joint pins and/or sliding collar bronce thrust pad.
+When the tractor is warm, the belt pulley should slowly run out
+after the clutch has been disengaged (without actuating the clutch brake).
+There should be a certain amount of movement on the clutch pedal between
+
+
+disengagement and brake actuation. Should the pulley continue running
+after declutching, this is a sign that the ball joint bolt has been un-
+screwed too far. Grease and dirt, accumulating on the clutch shoes and
+in the groove, should occasionally be washed out with kerosene.
+ADJUSTMENT OF CLUTCH SLIDING COLLAR - If the clutch pedal shows
+slackness before being depressed, and the stub ring (e), Fig. 65, shows
+side play, which can be ascertained after removing the clutch rod joint
+pin, this is a sign that the sliding collar needs adjustment due to wear
+of the bronce thrust pads (a). To do this the sliding collar must be
+taken down after taking down the complete clutch assembly and removing
+the clutch ring gear; Drive the ring locking rivet (d) out from the in-
+side, insert pins of suitable size into the 2 holes, provided in the inner
+collar ring, and by means of these pins and a lever, screw the inner ring
+(g) down from the outer ring (b). Remove -in accordance with the play
+ascertained - one or more spacers (c) (which are obtainable in thicknesses
+of 0.015" and 0.030". After reassembling,'the stub ring (e) must turn
+freely without showing any side play. Then secure ring (b) and (g)
+against turning by inserting rivet (d) from the outside through the
+apertures provided in the rings and spacers and secure it by riveting it
+in the inner countersink.
+ADJUSTMENT OF LINKAGE OF 5-SHOE CLUTCHES - When adjusting 5-shoe
+clutch, do not alter setting of the linkage. Should it become necessary,
+for any reason, to remove the rod, withdraw the pins (u), Fig. 53, in the
+joints without removing the lock nuts and adjusting forks. The clutch
+linkage must be so adjusted that the clutch pedal is stopped by the plat-
+form when clutch is fully engaged, otherwise the clutch sliding collar
+will run hot.
+The rod is too long if clutch is engaged before the pedal is
+stopped. It is too short if pedal is stopped before the clutch is en-
+gaged. Before altering the adjustment of the rod, ascertain if the clutch
+shoe adjustment is correct. For adjusting the length of the connecting
+rod, withdraw the pin (u) and then screw the fork in or out, as the case
+may be, to such on extent, that the joint pin is slack when clutch is
+fully engaged and the pedal lever firmly rests against the platform.
+Make sure that the joint pin is still slack when the end play (of 2 mm.)
+of the crankshaft is on the governor side. To do this, declutch, take
+the off-side flywheel arms by your hands and push the flywheel in the
+direction of the near side.
+The clutch spring (r), Fig. 63, must have enough tension to'en-
+gage clutch smoothly; adjustment is only necessary after dismantling.
+ADJUSTMENT OF 5-SHOE CLUTCH BRAKE -' For stopping the three-shoe
+clutch and pulley, clutch brakes (b), Fig. 66, is provided. If it fails
+
+
+to act, it must be adjusted by means of the clutch brake adjusting screw
+(k), each half turn of which is arrested by a catch. Access to this screw
+is gained by turning the pulley on the off-side until the semi-circular
+indenture in the inner edge of the pulley rim coincides with that in the
+crankcase ledge.
+Through the aperture formed thereby insert box spanner supplied
+and turn the adjusting screw one turn. After adjustment, the brake must
+be tested with the engine running. The brake must be so adjusted that
+after disengaging the clutch, there is a certain amount of play between
+declutching and braking to allow for clean changing of gears. The coil
+spring (f) on the brake hand serves only to actuate the catch of the brake
+adjusting screw. The brake itself is unsprung. Worn brake linings must
+be replaced.
+
+
+SECTION 7.
+TRANSMISSION
+TRANSMISSION GENERAL - The transmission consists of the clutch
+ring gear, the intermediate idler gear, the speed change and reduction
+gear, the differential with rear axle halves and with rear wheels rigidly
+fixed to them. The movement of the tractor is made possible by the grip
+of the rear or driving wheels on the ground, which, therefore, form part
+of the transmission.
+The clutch hub interposed between the crankshaft and the ring
+gear, carried by it, enables it to establish a rigid connection between the
+crankshaft and ring gear or to interrupt it.
+The transmission is of the sliding mesh type with spur gears,
+ball and roller bearings throughout. The gear box contains four gear
+shafts. The Ist and 3rd gear shafts carry each one sliding double pinion,
+controlled by the gear change levers through selector forks.
+INTERMEDIATE IDIER GEAR - The intermediate idler gear Fig. 69,
+transmitting the engine effect from the ring gear to the transmission, is
+running on tapered roller bearings, which must be inspected should the
+overhauling of the clutch take place. For taking up end play,, the lock
+wire must be removed from the adjusting screws (6), Fig. 69, and Fig. 70,
+and these screws alternately and evenly tightened.
+GEAR SHIFTING GENERAL - The K.L. Tractor has six gears or
+travelling speeds. The various gear changes are effected by gear shift
+levers (1) Fig. 72 and (16) Fig. 72. All gear changes must be made with
+clutch disengaged. Rough handling when shifting gears will inevitably
+lead to damaged gears. Correct gear changing is silent. To avoid
+"crashing" adopt the following procedure:
+TO CHANGE UP: 1. Declutch by slightly depressing the clutch
+pedal and slide lever to neutral.
+2. Press clutch slightly harder to actuate brake.
+3. Slide lever into higher gear.
+4. Release clutch pedal.
+TO CHANGE DOWN: 1. Declutch slide lever to neutral and release
+clutch pedal.
+2. Wait until tractor is travelling at correct
+speed.
+3. Declutch.
+
+
+Fig. 67. Sectional view of transmission.
+Fig. 68. Diagramatic section of transmission.
+
+
+4. Slide to lower gear.
+5. Release clutch pedal.
+If the lever is slid across gently, and the change be misjudged,
+no damage will result when the teeth are felt rubbing each other. In
+such a case, and if difficulties are encountered in gear shifting on a
+downward grade, stop tractor and start in required gear. The gears must
+always be put in neutral immediately after stopping the tractor.
+K.L. Tractors have two gear shift levers, the primary lever (1)
+and the secondary lever (16) Fig. 72. When changing gear, first set the-
+secondary lever (16) movable in two directions, and then the primary lever
+(1) which can be placed in four different positions, as shovm in Fig. 71.
+Looking forward, the secondary lever (16) is moved from neutral:
+to the left for Ist, 2nd, 3rd speed forward
+and Ist reverse,
+to the right for 4th, sth 6th speed forward and
+2nd reverse.
+Then set the primary lever from neutral position as follows:
+For first and 4th speed forward - backward and to
+the left,
+For 2nd and sth speed forward - forward and to the
+left,
+For 3rd and 6th speed forward - forward and to the
+right,
+For Ist and 2nd speed reverse - backward and to the
+right.
+In order to shift from Ist to 4th, from 2nd to sth, from 3rd to
+6th, end from Ist to 2nd reverse or vice versa, only the secondary gear
+shift lever need be pushed to the opposite side, but only when the tractor
+is stationary. When engaging Ist or 4th speed or reverse the primary
+lever will spring forward half an inch, thus automatically locking itself
+into position, therefore, MOVE THE LEVER in the direction indicated by
+the arrow, Fig. 71, UNTIL THE SNAPPING OF THE ANCHORAGE CLIP (10) OR (11)
+FIG. 72, IS DISTINCTLY FELT ON THE LEVER. Then let in the clutch. For
+disengaging, pull lever back, thus unlocking it and slide into neutral.
+In case of 2nd and sth, 3rd and 6th gear, the locking action takes place
+when the primary lever springs backwards, therefore push forward to
+disengage. The secondary lever locks itself by springing forward and is
+disengaged by being pulled back. If, due to obstruction of the gear teeth,
+the primary lever cannot be shifted, place lever in neutral, disengage
+and engage clutch again, when the obstruction will be overcome. In case
+the secondary lever cannot be shifted, set primary lever first, disengage
+and engage clutch again, when it will be possible to shift the secondary
+lever.
+
+
+Fig. 70. Adjusting idler gear bearing.
+Fig. 69. Intermediate idler gear.
+1 Intermediate idler gear between
+clutch ring gear and transmission
+2 Lock ring
+3 lapered roller bearing
+4 Distance piece
+5 Stud shaft
+6 Bearing adjusting screw
+Fig. 71. Gear selection.
+Fig. 72. Diagramatic gear selection.
+1 Gear shift lever
+2 Spring dust cover
+3 Spring
+4 Dust seal
+5 Ball joint
+6 Swivel pin
+7 Gear case
+8 Selector rod (1st & R)
+9 Selector rod (2nd & 3rd)
+10 Anchorage clip
+11 Anchorage clip
+12 Anchorage clip spring
+13 Selector fork
+14 Sliding mesh pinion
+15 Gear locating plate
+16 Secondary gear shift lever
+17 Spring dust cover
+18 Spring
+19 Ball joint dust seal
+20 Ball joint
+21 Swivel pin
+22 Secondary selector rod
+23 Anchorage clip
+24 Clip spring
+25 Secondary selector rod
+26 Secondary sliding mesh pinion
+
+
+When driving on a downward grade use the same speed as would be
+required for driving on the same grade upwards; if difficulties in changing
+gear are encountered on a downward drive, the tractor must be stopped for
+changing t.he speed gears. The gears should always be put in neutral
+immediately after stopping the tractor.
+CARE OF TRANSMISSION - Every six months (1500 working hours) the
+transmission must be cleaned and the gearing inspected. Drain the gear
+oil from gear case immediately after stopping the tractor while the engine
+is still warm and the oil in liquid state. Before removing the gear case
+inspection plate as shown in Fig. 73, its adjoining parts must be thoroughly
+cleaned and the platform with fenders must be removed before getting
+access to the inspection plate. Then carefully wash all shafts, gear
+wheels and bearings, remove sludge from gear case using a brush and flush
+with kerosene.
+At this opportunity, the gear shaft bearings should be inspected
+and end play taken up. The Ist, 2nd, 3rd and 4th gear shafts are running
+on tapered, roller bearings. The end play is taken up by shims inserted
+between outside bearing race and gear shaft cover as illustrated in
+Fig. 74. These shims are found in part lists under Nos. 5121, 5122 and
+5123.f0r Ist.gear shaft, under Nos. 5130, 5131 and 5132 for 2nd, under
+Nos. 5110, 5111, 5112, 5113 and 5114 for 3rd and under Nos. 5100, 5101,
+5102 and 5103 for the 4th gear shaft.
+Remove shims evenly from each side when adjusting to keep shaft
+in central position.
+CARE OF DIFFERENTIAL AND REAR AXLE BEARING - For inspection and
+cleaning the differential and the rear axle bearings, proceed as follows:
+1. Jack up tractor rear under differential.
+2. Unscrew bolts and nuts holding the wheels to the rear axle
+flange (1) Fig. 76 and remove wheels.
+3. Remove rear axle with bearing housing (9), Fig. 76, after
+unscrewing nut.
+4. Remove brake band of gear brake.
+5. Unscrew ring nut and drive the stay rod out to the left
+while holding the tubular space. When taking out this,
+attention must be paid to spacing shims or washers which
+may be inserted between the tubular spacer and the gear
+case web in order to replace them properly when re-assembling.
+6. Draw off the gear brake drum by means of a puller.
+7. Remove the 4th gear shaft which is to be driven out to
+the left.
+8. Draw off the rear axle tubes by means of draw bolts
+supporting the differential to prevent it from falling down.
+Now take out the differential from above. If bevel gears have
+more than .5 mm play, the bronce thrust pads (9) and (10), Fig. 75, must
+be renewed. Assemble the differential by the identification numbers
+stencilled on the respective parts.
+
+
+Fig. 73. Gear case with inspection plate removed.
+Fig. 75.
+Differential spider shaft. Differential and ring gear,
+1 Ring gear
+2 Differential bevel gear
+3 Rear axle bevel gear
+4 Differential housing
+5 Ground bolts with nut
+6 Ball bearing
+7 Bevel gear cross pin
+8 Lock pin
+9 Bronze washer
+10 Bronze washer
+Fig. 74. Adjustment of gear shaft bearings
+by shims between outside of roller
+race and shaft cover.
+Fig. 76. Rear axle bearing.
+1 Rear axle flange
+2 Ring
+3 Spacer
+4 Tapered roller bearing
+5 Shims
+6 Lock key
+7 Felt ring
+8 Pin for driving out tapered
+roller bearing
+9 Roller bearing housing
+10 Bush
+11 Axle tube
+12 Nut
+
+
+If there is any end play in the tapered roller bearings of the
+rear axle, this must be taken up as follows:
+Place the rear axle vertically on two wooden blocks with the flange
+of the bearing housing (9), Fig. 76, resting upon these blocks and axle
+flange (1) hanging down and the inside roller bearing turned upward.
+Nov; drive the outside ring (cup) of the inner tapered roller
+bearing (4), Fig. 76, down as far as it will go by lightly tapping with
+a hammer on the circumference of this race with a drift. When all play
+in the bearing has disappeared, ascertain the distance between the outer
+ring (cup) and the edge of the bearing housing, then measure also, the
+height of the collar on the axle tube going into this recess. The
+difference between the two measurements plus the thickness of paper
+gasket (12), Fig. 76, indicates the clearance which must be filled either
+by shims (5) inserted between axle tube and tapered roller bearing, or by
+gaskets between axle tube and roller bearing, which must turn freely
+without showing any end play.
+ASSEMBLING- TRANSMISSION - Before assembling lubricate all
+bearings. Renew stuffing box packing of steering spindle if necessary,
+using a length of 24 inch asbestos string of inch diameter.
+When fitting the differential, care must be taken that the high
+rim of the ring gear is on the off side. Before replacing the inspection
+plate, cleansing oil trapped in wells and pockets of the transmission
+housing must be dried with a lintless cloth. Then re-install all parts
+in reverse order being sure that all gaskets are intact and all screws
+drawn tight and retightened after the engine is warm. Refill gear oil up
+to the control plug but not more.
+Repeat test of rear axle bearing, for which purpose the gear
+shift lever must be placed in neutral. The rear wheel must still turn
+freely without showing end play. If it turns too stiffly, dismantle
+again and remove one shim.
+
+
+Fig. 77. Sectional view of steering knuckle assembly.
+1 Front wheel
+2 Grease nipple
+3 Forked front axle beam
+4 Axle housing
+5 Front wheel fastening screws
+6 Stub axle
+7 Large tapered roller bearing
+8 Inner labyrinth seal ring
+9 Outer labyrinth seal ring
+10 Axle bearing guard
+11 Screw
+12 Screw
+IB Small tapered roller bearing
+14 Adjusting ring nut with hole
+15 Lock plate
+16 Lock washer
+17 Inside hub cap
+18 Lock nut
+19 Lock pin
+20 Felt ring
+21 Thrust washer
+
+
+SECTION 8.
+WHEEL & TYRE MAINTENANCE
+While the rear wheels form part of the transmission, the front
+wheels are an independent unit. The heavy strains to which this unit is
+subject is apt to cause trouble and even break down if the bearings are
+not properly attended to and the position peculiar to the front vjheels is
+neglected, because the front wheels are not parallel, but the extension
+of their horizontal and vertical diameters meet in front and underneath
+the tractor. The inclination to the front is called toe-in; that towards
+the ground, wheel camber.
+If wheels wobble or difficulties in steering are encountered,
+these are signs that the front wheels and their steering linkage have not
+been properly cared for.
+Sl'klißlNG KNUCKLE - The steering knuckle bearing must be inspected
+frequently for end play by moving it axially to and fro after jacking it
+up. Slightest signs of end play must be taken up immediately by adjusting
+ring nut (14), Fig. 77, secured by lock plate (15) and lock pin (19).
+To get access to this nut, the front wheel must be jacked up and turned
+on full lock. -Then remove hub cap (17), felt ring (20), lock nut (15),
+lock washer (16), lock plate (15), and lock pin (19).
+For adjusting the bearing, lock the front wheel by tightening
+the adjusting nut (14). Then release this nut again by about one-sixth
+of a turn, but so that the hole in this nut for taking up the lock pin
+(19) is in alignment with one of the holes in lock plate (15), placed on
+top of ring nut (14). Then strike a short hard blow against the inner end
+of the stub axle, thus releasing the bearing cone and the wheel, which
+must turn freely without showing any end play. Re-assemble and repeat
+test after tightening lock nut (18).
+Should, by neglect of attendance, the play has become .020 ins.
+or more, it is necessary to dismantle the whole assembly in order to re-
+place any part which may have worn or been broken. Remove front wheel,
+unscrew the three screws (11) holding the outer labyrinth seal ring (10)
+to the hub casing and, by means of a drift, knock the stub axle from the
+inner race of the small roller bearing (13). Wash the roller bearings
+and all other parts with kerosene and replace any defective parts. Renew
+felt ring (20) if necessary. Fill the hub with grease and reassemble.
+By means of a socket of suitable size drive the cone of the small bearing
+on the stub axle. Then adjust the bearings as described.
+67
+
+
+The wheel fastening nuts must be re-tightened from time to time.
+FRONT WHEEL TOE-IN Before checking or adjusting the front wheel
+toe-in, make sure that the track rod joints are not worn out, otherwise
+the bushes in the track arms must be renewed.
+The front wheels must be adjusted so that when the wheels are
+aiming straight ahead, the distance between the inner side of the wheel
+rims at axle height must measure from 2 to 4 mm (.08-16”) less at the
+front, than at the rear of the rims. This adjustment is effected by
+screwing the fork (g), Fig. 78, on track rod (s) out to cause greater
+toe-in.
+WHEEL CAMBER - The distance between the front wheel rims at their
+lowest points must be smaller than that at their opposite highest points.
+This inclination or camber of the front wheels is maintained by the wrist
+pin brushes, the wear of which is checked by jacking the front wheels up
+and lifting them slightly. If the wear is excessive the axle beam yokes
+must be rebushed, as this wear causes loss of wheel camber and therefore,
+difficult steering.
+STEERING LINKAGE - Wear of tyres and difficult steering is
+further caused by wear in the drag link joints, which must be taken up by
+removing one or two shims (w) as shown in Fig. 79.
+Fig. 78. Track rod adjustment.
+Fig. 79. Taking up wear in steering linkage,
+s drag link d drag link ball joint cap
+w shims in drag link ball joint
+68
+
+
+TYRE MAINTENANCE AND REPAIRS
+The proper care of tractor tyres is essential resulting in longer
+life, better ground grip and economy. These instructions have been
+prepared to provide tractor owners with information so that they may re-
+ceive all the service originally built into the tyres.
+INFLATION - Use of proper air pressure is the most important
+factor in the satisfactory performance and maintenance of tractor tyres.
+Following are brief tables showing recommended pressures for all tractor
+tyres.
+TRACTOR TYRE .INFLATION
+Front - All sizes.
+1. 4 ply tyres 28 lbs.
+2. 6 ply tyres 36 lbs.
+Rear - All sizes.
+3. Minimum inflation pressure. ... 12 lbs.
+4. When ploughing, increase pressure in
+tyre on furrow wheel by 4 lbs.
+5. When special heavy wheels are used, or
+heavy loads are carried on the tractor,
+inflation pressure must be increased.
+Both over-inflation and under-inflation ere harmful. Under-
+inflation will damage the cord body of the tyre. It will cause a series
+of diagonal breaks in the cord fabric in the sidewall area. This usually
+occurs on the inner sidewall of the furrow wheel tyre. Under-inflations
+will result in repeated buckling of the sidewall and the constant buckling
+will break the cord fabric.
+Inflation should always be high enough, especially in the furrow
+wheel tyre so that the tyre will not buckle. The buckling can be seen,
+especially on hard pulls, by the driver or someone who walks alongside
+of the tractor.
+If the tyre buckles or wrinkles, the air pressure should be in-
+creased to the point where the sidewalls remain smooth while the tyre is
+pulling. Under-inflation may also allow the tyre to slip on the rim which
+in turn, will tear off the valve stem of the tube,
+Over-inflation should also be avoided. It causes loss of traction
+which results in excessive slippage, causing tyres to wear more rapidly.
+The inflation of tyres on new tractors should be watched carefully
+Tractors are despatched from the factory with very high air pressure in
+order to prevent bouncing of the tractor during delivery. The air should
+be dropped to the recommended pressure before the tractor is put to work.
+PROPER AIR PRESSURE FOR MOUNTING TYRES - After rear tyres are
+mounted on the rims, they should be inflated to 30 pounds air pressure in
+order to force the tyre beads firmly onto the rims. The rim and tyre are
+
+
+tapered so this pressure is necessary in order to force the beads firmly
+into place.
+The tyre should be inflated to 30 pounds air pressure every time
+the tyre bead is pushed away from the rim seat at any point. Then the
+air pressure should be dropped to the recommended pressures.
+This practice should always be followed, as otherwise the tyre
+will slip on the rim and shear off the valve stem.
+CHECK AIR PRESSURES FREQUENTLY - Air pressures should be checked
+every 2 to 3 weeks and should not be allowed to drop below the recommended
+levels. A low pressure gauge, with one pound graduations, is necessary
+in order to get accurate inflation.
+If tyres are partly filled with water, see that valve in tube is
+in topmost position (12 o'clock) before testing pressure. Always use
+caps on the valves as this prevents loss of air.
+CARE 0E TYRES - Never leave your tractor standing idle in direct
+sunlight for any length of time. 'When not in use and not housed, cover
+the tyres with bags.
+Do not allow tyres to come in contact with grease or oil as both
+destroy rubber.
+REPAIRS - Proper attention to repairs prevents premature tyre
+failure. If the rubber on the sidewall or tread is cut through, exposing
+the fabric, it should be washed out with petrol and filled with Tread
+Cut Repair Gum to prevent dirt_ and moisture from working into and
+damaging the fabric.
+When a puncture is made by a large nail or similar object, a
+rubber plug should be inserted from the inside.
+If an injury results in the body fabric being broken for a
+space up to 2 inches, it can be repaired with a Cemented Cord Patch or a
+Quick Applying Criss Cross Patch. The injured area is cleaned with petrol
+and roughened up with a rasp for a space the size of the patch to be
+used. A heavy coat of Cold Patching Rubber Cement is applied and allowed
+to dry thoroughly.
+The injury should be filled with Tread Cut Repair Gum from the
+inside, and the patch pressed down tightly over the injury. The outside
+of the injury should be filled in with Tread Cut Repair Gum to seal it
+against dirt and moisture.
+Any injury to the fabric over 2 inches long requires a permanent
+vulcanized repair. The nearest tyre manufacturer will supply further
+information. After repairs, the instructions for remounting tyres should
+be strictly adhered to.
+70
+
+
+METHODS OF ADDING EXTRA. WEIGHT - Addition of weight to the driving
+wheels may be provided by bolting weights to the wheels, but the use of
+water in the tyres for weight is less expensive and less difficult to
+handle. No objectionable operating effects are encountered when water
+weight is used at tractor speeds as high as 20 miles per hour.
+From an operating standpoint, tests have shown no appreciable
+difference in the effect of solid or liquid weights.
+AIR CUSHION TAKES SHOCK - K.L. Tractors Ltd. recommend 75 per
+cent water inflation, that is, the tyre should be inflated with water to
+three-quarters of its air capacity. The remaining 25 per cent or quarter
+will then act as an air cushion, having the effect of a spring. Water is
+not compressible, but air isl Therefore, the air left in the tyre 25
+per cent or one-quarter of the normal air volume at correct pressure
+acts as a cushion, Fig. 80. When the tyre passes over a sudden projection
+in the ground, the indention causes the water to rise above its normal
+level in the tyre and compresses the volume of air in the "air chamber"
+or "air cushion". The air compresses it gives like a spring, and the
+tyre travels over the projection in the ground, unharmed. This "air
+cushion" takes the shock, acts as a spring-like shock absorber to local
+impact and - its most important function - prevents fracture or abnormal
+casing growth.
+METHODS OF GETTING WATER HTTP A TUBE (FIG. 81) - There are three
+methods explained here by which water can be forced into the tubes.
+1. By line pressure
+2. Gravity method
+3. Hand force pump method
+NOTE: Two types of tube valves and hose couplings are available
+at any tyre manufacturers for getting water into tubes.
+TO WATER-INFIATE TYRES (F1G.82)
+1. Jack the tyre to be water inflated clear of the ground.
+2. Remove core from valve stem. In the case of Special Water
+Inflation Valve, unscrew and remove valve stems and allow
+air to completely expel itself from the tyre.
+3. Revolve tractor wheel until tube valve is in the 12 o’clock
+position, that is, directly above the wheel hub.
+4. Connect water hose to tyre valve with water valve coupling.
+5. Fill the tyre with water up to the valve level while it is
+in the 12 o'clock position.
+6. Remove water valve coupling from the tyre tube valve from
+time to time to "bleed" the remaining air in the tube,
+otherwise, this remaining air will act as back pressure and
+prevent the water from entering the tyre.
+71
+
+
+FIG. 80. ACTION OF AIR AS CUSHION AGAINST SHOCK.
+FIG. 81. WATER INFLATED TRACTOR TYRES TO 75% CAPACITY.
+FIG. 82. INTRODUCING WATER INTO TYRES.
+FIG. 83. REMOVING WATER FROM TYRES
+FIG. 84. CORRECT VERTICAL HITCH ADJUSTMENT FOR TRACTOR-
+DRAWN PLOUGHS.
+72
+
+
+7. To ensure that you have the correct amount of water inflation,
+continue to fill the tyre with water, with valve still in
+the 12 o’clock position, until water flows out of the valve.
+Allow the surplus water to drain off still keeping the valve
+in the 12 o'clock position.
+8. When surplus water has ceased to flow from the valve, replace
+the valve core or insertion piece.
+9. Now inflate the part water-inflated tyre with air to the
+correct pressure.
+Minimum: Front tyres - 28 lbs.
+Minimum; Rear tyres - 12 lbs.
+10. Replace valve dust cover firmly and remove jack.
+TO REMOVE WATER FROM TYRES (F1G.85)
+1. Jack the tyre to be drained of water clear of the ground.
+2. Remove core from valve stem. (With special water inflation
+valve, unscrew and remove insertion piece.)
+3. Revolve tractor wheel until tube valve is in a 6 o'clock
+position, that is, directly below the wheel hub.
+4. With valve in the 6 o'clock position, allow the water to
+drain.
+WARNING: Do NOT, under any circumstances, run
+part water inflated tractor tyres before they
+have been inflated to correct air pressure
+recommended.
+ANTI FREEZING PRECAUTIONS - In certain areas, in extremely cold
+weather, there is always the possibility of water in tractor tyres freezing
+To prevent this, we recommend that 1 lb. of Calcium Chloride be added for
+each gallon of water. This will provide an efficient anti-freezing
+solution.
+Tyre size:- 13.50 - 28. when 75 per cent, full of water contains
+37 gals, of water - 370 lbs.
+Tyre size:- 13.50 - 32. when 75 per cent. full of-water contains
+39 gals, of water - 390 lbs.
+HITCHING TRACTOR PLOUGHS (FIG. 84) - Correct hitching of your
+plough to tractor is important. For best work and easiest handling, the
+correct hitch at "A 1 ' is the place where "A" is in a true line between
+point of hitch "B" and the centre of the load "C" on the plough.
+TO FIND CENTRE OF LOAD - First, find total cut of plough. Half
+of total cut is centre of cut. Measure to the rear side of centre of
+cut, one quarter the width of cut of one bottom, to get centre of load.
+
+
+LOAD AND INFLATION
+TABLES
+REAR TRACTOR TYRES
+(Conventional Type)
+Tyre
+Size
+Ply
+Rating
+Recommended Inflation Pressure (lbs.)
+12
+14
+16
+18
+20
+Recommended
+Load per Tyre (lbs.
+9.00-24
+6
+1520
+1670
+1820
+1970
+2120
+9.00-36
+6
+1825
+2000
+2175
+2330
+2470
+10.00-36
+6
+2120
+2320
+2510
+2690
+2860
+10.50-20
+6
+1550
+1700
+1850
+2000
+2150
+11.25-24
+6
+2000
+2200
+2375
+2540
+2710
+11.25-28
+6
+2140
+2340
+2530
+2710
+2880
+12.75-24
+6
+2620
+2870
+3100
+3325
+3540
+12.75-28
+6
+2800
+3060
+3300
+3540
+3760
+12.75-32
+6
+2960
+3240
+3510
+3750
+4000
+13.50-24
+6
+2970
+3250
+3520
+3760
+4010
+13.50-28
+8
+3170
+3460
+3740
+4010
+4275
+13.50-32
+6
+3360
+3660
+3950
+4230
+4500
+When mounted implements are used on tractors, loads may be
+increased up to 20$ with no increase in air
+pressure.
+WHEEL LOADING
+When checking the wheel loading of tractor rear tyres, take the
+rear end weight of your tractor including wheels, divide this weight be-
+tween the two rear tyres and you will obtain the gross weight carried by
+your tyres. Then, by comparing this figure with the Tyre Load and
+Inflation Schedule below you will be able to ascertain if any more weight
+can be applied within the load carrying capacity of the tyres.
+
+
+FIG. 85. METHOD OF CHANGING REAR TYRE.
+CAUTION: The nuts at the inner circle shown at (5-A) retain the wheels on the
+hubs. It is important that the nuts at (1-8) in the outer circle are not loosened
+while any air pressure exists in the tyre. The wheel is in two sections which are
+bolted together by the nuts and bolts in the outer section.
+Should these be loosened when air is retained under pressure in the tyre, injury to the
+operator is possible.
+REMOVAL:
+1. Place the wheel on the ground with the handles of the outer rim upwards
+and with the tool provided release the air pressure from the tube by the
+removal of the inserts from the valve in the tube.
+2. Remove all nuts from the bolts in the outer circle (1-8).
+3. Taking great care not to injure the beads of the tyre insert a blunt lever
+between the bead and rim (2), hammering the lever around the entire
+circumference of the rim thus freeing the bead from the tapered bead seat.
+Once the tyre is loosened removal is easy.
+4. Turn the tyre over and repeat the previous levering and hammering operation.
+5. Remove Tube (3).
+TO REASSEMBLE:
+1. Replace valve core and place tube inside tyre. Inflate tube with sufficient
+air to support the tube walls but not enough to stretch them.
+2. With the studded portion of the wheel uppermost, lower the tyre over the
+wheel and work tyre down into position.
+3. Standing inside, and holding the retaining rim by the handles (4) lower in
+position over the two sets of studs, making sure to face the valve stem which
+is pushed through the slotted portion of the upper rim.
+Tighten nuts one turn at a time, working opposite nuts in succession until alt
+nuts are pulled down tightly. Inflate to proper pressure and replace on Tractor.
+FRONT WHEELS: Fitting is the same as normal well-base car or truck wheel
+procedure.
+
+
+
+
+Fig. 86. Gear hand brake with ratchet.
+6 Brake drum
+H Brake operating lever
+S Ratchet
+f Spring
+m1 Adjusting nut
+m2 Adjusting nut
+p Tension bolt
+SECTION 9.
+BRAKES
+TRANSMISSION BRAKE - The L.H. gear brake, Fig. 86, operated by-
+hand lever (H) with ratchet is used for holding the tractor on inclines
+or for belt work. It is adjusted by loosening lock nut washers and
+screwing the adjusting nuts up to such an extent that the brake band holds
+the drum after three ratchet teeth, and the spring (f) is compressed to a
+length of Zjg" with lever in foremost position.
+WHEN DRIVING DOWNHILL USE THE ENGINE AS A BRAKE BY SELECTING A
+LOW GEAR. This saves the brake, which is therefore, always ready for an
+emergency. A hot brake drum has not the efficiency of a cold one. IT
+GOES WITHOUT SAYING THAT TRAILERS MUST HAVE THEIR OWN INDIVIDUAL BRAKES,
+WHICH MUST BE APPLIED IMMEDIATELY WHEN DRIVING DOWN HILL, IT BEING
+IMPOSSIBLE TO HOLD UP THE WEIGHT OF TRAILERS BY BRAKING THE TRACTOR.
+TRAILERS WITHOUT BRAKES WOULD INVARIABLY LEAD TO ACCIDENTS.
+
+
+Fig. 87. Power take-off.
+1 Splined shaft end
+2 Felt ring
+3 Rear cover
+4 Crease nipple
+5 Main casing
+6 Power take off shaft
+7 Tapered roller bearing
+8 Nut
+9 Dog clutch, loose
+10 Bevel gear
+11 Ring
+12 Ist gear shaft
+13 Tapered roller bearing
+14 Clutch shaft
+15 Bevel gear
+16 Drive casing
+17 Tapered roller bearing
+18 Operating lever pin
+19 Accessibility screw
+20 Operating fork
+21 Cover
+22 Spring
+23 Operating lever rod
+24 Crease nipple
+25 Segment
+26 Operating lever
+Fig. 88. Clutch locking bar.
+Fig. 89. Z, Rear shaft of power take-off.
+H, Power take-off operating lever.
+
+
+SECTION 10.
+POWER TAKE-OFF
+The power take-off, Fig. 87, consisting of a shaft running on
+two pairs of tapered' roller bearings and fully protected from dust and
+dirt, is driven from the Ist gear shaft by bevel gears (10/ and (15) ,
+which are therefore always running when the engine clutch is engaged.
+The power take-off is engaged or disengaged by means of lever H, Fig. 89,
+located within easy reach of the operator. This lever should only be
+operated with engine clutch disengaged.
+The power take-off will transmit full engine power and runs at
+the same speed, regardless of the forward speed of the tractor.
+BELT WORK - VJhen it is desired to use the tractor for belt work,
+remove the off side flywheel cover, apply hand brake and chock the wheels
+For putting on the belt while the engine is running, stop the pulley by
+depressing the clutch pedal and holding it in this position by hooking it
+to the dash by the clutch locking bar, supplied with the tools, Fig. 88.
+DO NOT ALLOW THE ENGINE TO RUN FOR ANT LENGTH OF TIME WITH
+CLUTCH DISENGAGED IN ORDER TO PREVENT THE CRANKSHAFT RUNNING IDLE IN THE
+CLUTCH SLEEVES, UNDULY WEARING THEM.
+Rubber tyred tractors must be earthed to avoid accumulation of
+static electricity caused by belt friction.
+
+
+SECTION 11.
+GENERAL INSTRUCTIONS
+All tools, special spanners and pullers mentioned in this
+instruction book are standard equipment of the tractor and contained in
+the tool box.
+When dismantling a unit the order of the component parts should
+be carefully noted to ensure correct assembly. Special attention should
+be paid to thin spacing washers, which, when stuck up by thick oil to one
+or the other adjoining parts, are easily overlooked and lost. These and
+similar small parts, such as washers, lock plates, wires, nuts and cotter
+pins though they may seem to be negligible, must on no account be omitted,
+and if lost should be replaced by original K.L. Bulldog parts.
+Before removing adjustable parts a note should be made with.re-
+gard to their position which should also be marked with relative part.
+All removed parts should be cleaned immediately and carefully stored.
+When removing adjusting nuts of precompressed springs or adjusting screws
+the number of turns should be noted. As a rule the fitting or reassembly
+of a unit is not described in the instruction book because the procedure
+of dismantling, which, as stated above, should be carefully noted, is
+simply reversed.
+When tightening nuts and bolts, their size must be taken into
+consideration and no excessive long spanner or spanners with defective
+jaws should be used.
+Tools should only be used for their proper purpose. Machined or
+ground parts or castings should only be struck with a copper, lead or
+wooden hammer or by inserting a piece of wood between them and the hammer.
+When applying a puller the draw bolts must be tightened gradually and
+alternately. When a unit is to be screwed on by several screws or nuts,
+these nuts or screws should be tightened gradually, evenly and alternately
+passing from one screw or nut to one on the opposite side. The nuts must
+be secured by cotter pins or lock wire.
+Lubricating and fuel oil should be poured into the tractor tanks
+direct from the original containers, in which they are purchased. If
+that is impracticable, separate vessels should be used for oil and fuel
+as well as for cooling water and cleansing oil or kerosene. These vessels
+should be kept clean and never used for any other purpose nor interchanged
+with each other.
+For cleaning the interior parts of the machine, use only a firm
+lintless cloth, never cotton vjaste, the fibres of which are apt to choke
+the pipes and cause trouble.
+
+
+When removing adjustable connecting links, only remove the clevis
+pin from the joint without touching the adjusting fork and its lock nut.
+When removing pipe lines a tag should be fixed to every end of
+the pipe marking its point of connection in order to avoid confusion when
+re-assembling. Before connecting an oil or fuel pipe, all air contained
+therein must be removed. Therefore, first connect the intake end of the
+pipe and let the fluid pass through until it leaves the other end without
+air bubbles. Then connect the delivery end, at first loosely so as to
+allow the air contained in the union to escape also.
+Plain roller bearings must have a certain axial play, the limits
+of which are specified in each individual case. The axial play of the
+crankshaft (main) bearing must be about 2 mm. Excessive play is taken up
+by inserting shims between the outer race and the bearing cover.
+Tapered roller bearings must turn freely, unless their free
+motion is somewhat retarded through a felt washer, without showing any
+perceptible axial play whatsoever when moved by hand. The slightest signs
+of axial play must be taken up immediately, therefore, tapered roller
+bearings should be inspected more or less frequently, according to the
+strain to which they are subjected. The adjustment is effected by shims
+or screw adjustment. When adjusting a roller tapered bearing, it is a
+good plan to tighten the bearing so that the wheel stops revolving and
+then to remove a .1 mm shim or to back off the adjusting nut by one-sixth
+of its circumference and to strike a short hard blow against the opposite
+shaft end to cause the bearing cup to take up the slack.
+To adapt a felt ring: A well fitted felt ring will give a
+perfect seal after it has expanded through saturation of oil. If too
+loosely fitted, the sealing will be imperfect, and if too tightly seated,
+the washer will be damaged by excessive friction. Before inserting a
+new felt ring into its retainer flatten it a little with a hammer, then
+insert and drive it with light taps into its groove. Then insert a round
+piece of wood, i.e., a hammer handle into the hole of the ftlt and pass it
+under slight pressure along the inner circumference, thus enlarging the
+inner diameter of the felt ring and increasing its bearing face. Should
+a loose enough fit not be attained in this way, the inner circumference
+should be carefully worked with a rasp.
+Labyrinth seals require no other attention than forcing grease
+through the grease nipple until the old grease oozes out of the joints of
+the labyrinth rings expelling all impurities.
+
+
+Fig. 90. Blow lamp (sectional view)
+1. Burner
+2. Screw plug
+3. Nozzle
+4. Wire coil
+5. Vapouriser gauge
+6. Closure screw
+7. Heating tray
+8. Vapouriser tube
+9. Valve body
+10. Valve cork
+11. Valve cone
+12. Stuffing box packing
+13. Stuffing box nut
+14. Regulating spindle
+15. Safety valve
+16. Valve cork
+17. Packing
+18. Filling cap
+19. Air pump
+20. Pump cap
+21. Pump packing
+22. Filling level
+23. Pump barrel
+24. Pump leather
+25. Container
+
+
+SECTION 12.
+BLOW LAMP.
+This is an important accessory and must be handled carefully
+and kept ready for use. The arrangement and dimensions of the individual
+parts are such that the fuel in the container is completely vapourised
+and burns with an intense blue flame, with a greenish tint in the centre.
+A yellow flame, falling off or diminishing of the flame, or if the fuel
+comes out in sprays, indicates an irregularity, which must be remedied
+at once.
+FUEL - Clean white spirit or benzole should be used.
+FILLING - The container (25), Fig. 90, holds about one pint, but
+it should be filled only about once inch from the top.
+HEATING - Close filling cap (18) and regulating spindle (14) and
+give pump two or three strokes. Fill heating tray with spirit, light and
+place wind screen on top of lamp.
+LIGHTING - Open the spindle (14) slowly one or two turns shortly
+before the flame from the heating spirit dies down, and if the vapour
+coming through the burner does not ignite, it should be lit with a match
+at the top (1).
+REGULATING - In a few minutes the burner will be sufficiently
+hot and a little more pressure can be applied, but only just sufficient
+to enable the pump to move with difficulty. Adjust flame by opening
+spindle. As the lamp burns, the pressure in the container will decrease,
+and must be raised by pumping.
+EXTINGUISHING - Close regulating spindle (14) and release air
+from container by drawing the projecting valve rod (15) in filling
+cap (18) for a moment, Fig. 92.
+TURNING - It is dangerous to expose the lamp to the heat of a
+coal fire or the container to a bare flame.
+
+
+Fig. 91. Unscrewing the nozzle.
+Fig. 93. Cleaning the nozzle.
+Fig. 92. Releasing air from container.
+Fig. 94. Cleaning the vapourized ducts.
+Fig. 95. Blow lamp stored under cowling.
+
+
+TROUBLES
+Dirty or unsuitable spirit
+Unsufficient heat before starting
+Nozzle (3), Fig. 90, choked up
+Filling cap (18) or pump cap (20) are
+not tight enough.
+Packing (17) in filling cap (18) or
+packing (21) in the pump cap (20)
+defective.
+Leaky stuffing box (13)
+Pump fails to work properly.
+Should the plunger be forced out and
+fuel enters the pump barrel (23),
+valve (11) does not fit tightly.
+REMEDIES
+Remove and refill with fresh
+spirit.
+Increase supply of spirit in
+heating tray.
+Pass the cleaner through the
+hole in nozzle, taking care not
+to enlarge same, Fig. 93.
+Tighten up.
+Renew.
+Tighten up slightly or renew
+asbestos packing (12). New
+packing should be coated with
+graphite.
+Plunger should be withdrawn,
+the leather cup (24) slightly
+opened out and coated with grease.
+The lamp must be extinguished
+at once or it will catch fire.
+Valve (11) must be cleaned and
+if necessary, renewed. Valve
+cone (11) is tightly fitted to
+the valve body (9) by means of
+a cork gasket (10).
+After a long time in use, the burner part (1) and particularly
+the vapourizer gauze (5) may become choked up. It should be unscrewed
+from the container, the ducts cleaned out with a wire hook, and nev;
+gauze inserted, Fig. 94. Before refitting, the thread (8) should be
+coated with soft soap.
+Safety valve may be leaky. If this is so, unscrew the cover on
+the filling cap and insert a new cork. If the spring of the safety valve
+is broken or slack, it should be replaced by one of the same thickness.
+
+
+Distributors of
+K.L. BULLDOG TRACTORS
+&
+TRACTOR SPARES
+in Australia
+VICTORIA K.L. Tractor Sales Fty. Ltd.,
+304 Spencer St., Melbourne.
+Telephone MU7181
+Telegrams "Keltractor” Melb.
+N.S.W Dangar, Gedye & Malloch Ltd.,
+10-14 Young St., Circular Quay,
+Sydney.
+Telephone B 6095
+Telegrams "Dangers” Sydney.
+QUEENSLAND K.L. Tractor Sales Pty. Ltd.,
+, TT . i * . 304 Spencer St., Melbourne.
+Telephone MJjifll
+Telegrams "Keltractor" Melb.
+SOUTH AUST Elder, Smith. 5 & Co. Ltd.,
+27-31 Currie Street, South Aust.
+Telephone C 3001
+Telegrams ”Eldersmith” Adelaide.
+WESTERN AUST Kelly & Lewis (W.A.) Ltd.,
+349 William Street, Perth.
+Telephone, B 7640, B 3034
+Telegramd 1 *Diesengine” Perth.
+TASMANIA K.L. Distributors Pty. Ltd.,
+233 Elizabeth St., Hobart.
+Telephone Hobart 6322-6292
+Telegrams "Diesengine” Hobart.
+NEW ZEALAND A.C. Harrison & Co. Ltd.,
+155 Victoria Street, Christchurch.
+Telephone 33 - 743
+Copyright
+■K.L. TRACTORS LTD. SPRINGVALE, VICTORIA.
+
+
+
+

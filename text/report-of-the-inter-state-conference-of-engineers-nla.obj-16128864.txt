@@ -1,0 +1,9944 @@
+
+
+
+
+REPORT
+OF THE
+INTER-STATE CONFERENCE OF ENGTIEERS
+REPR ESENUNQ THE
+STATES OF NEW SOUTH WALES, VICTORIA, AND SOUTH AUSTRALIA
+IN RESPECT OF THE
+RIVER MURRAY AND ITS TRIBUTARIES
+1 9 13
+$5 ;
+ALBERT 3. UULLE’IT, GOVERNMENT PRINTER, MBf BOURN*
+
+
+
+
+No.
+Page,
+1
+Instructions, &c.
+• • «a*
+6
+2
+Scope of Conference ..
+6
+3
+General information as to the River Murray problem
+6
+4
+Additional gaugings available
+6
+5
+Proportion of contributions by New South Wales, Victoria, and Queensland
+6
+6
+The Acre Foot Unit
+8
+7
+Losses by evaporation and percolation
+8
+8
+River and tributaries must’ be considered as a whole
+• •
+t
+9
+Need for regulation to equalize variations of flow
+• •
+9
+10
+Extent to which it is possible to regulate the river by storage
+• •
+9
+11
+Measure of value of a storage work
+9
+12
+Value of storages to safeguard agaihst drought
+9
+13
+Existing storage works and works under construction in the three States ..
+10
+14
+Extent of irrigation at present from the Murray and its Tributaries
+10
+15
+Place of delivery of South Australia’s share of water
+12
+16
+Statement of requirements for irrigation as supplied by the State Premiers..
+12
+17
+Extent of regulation considered practicable in present circumstances
+12
+18
+Extent of irrigation possible with practicable regulation as described
+13
+19
+New storages required for the scheme of practicable regulation
+14
+20
+Navigation with unlocked rivers
+15
+21
+Navigation with locked rivers
+16
+22
+Extent of reduction of flow at the inlet to Lake Victoria
+17
+23
+Cost of storage and works for distribution of regulated flows
+18
+24
+Conclusions ..
+18
+25
+Agreement between the States suggested by Mr. de Burgh, New South Wales, and Mr. Dethridge,
+Victoria
+20
+26
+Basis of agreement between the three States suggested by Mr. Graham
+Australia .. .. ' .. .. .. .. ...
+List of Appendices .. .. .. ’ ..
+Stewart, South
+21
+23
+INDEX TO REPORT.
+A 2
+
+
+
+
+INTER-STATE CONFERENCE OF ENGINEERS
+ON
+RIVER MURRAY AND TRIBUTARIES.
+1. REPORT OE THE ENGINEERS.
+To the Honorable the Premiers of New South Wales , Victoria , and South Australia .
+We, the Engineers representing the States of New South Wales, Victoria, and
+South Australia, appointed in accordance with the following resolution, which was passed
+by the Premiers of New South Wales, Victoria, and South Australia in conference at
+Melbourne, on the 23rd January, 1911—
+" 1. That the Engineers of the three States be instructed to inquire without
+delay, and present to the Premiers by the Ist December, 1911, a
+Report and recommendations based upon data now available, and
+on such further data as they shall obtain by that date, which will,
+in their opinion, be essential or conducive to a settlement by agreement
+between the States of New South Wales, Victoria, and South Aus-
+tralia, of the question of the River Murray and its Tributaries.
+“ 2. That for the purpose of such inquiry and Report the Engineers may
+jointly engage such professional assistance as may be necessary.
+“ 3. That the cost of the inquiry and Report be shared equally by the three
+States.”
+have the honour to present our Report.
+Prom the terms of the resolution it will be observed that the Engineers were
+instructed to present their Report to the Premiers by the Ist December, 1911. This
+was not possible, as the representative for South Australia was absent on official business
+in England, Europe, and America, and was unable to attend any meeting until 17th
+January, 1912 —the first meeting of the Conference. On this cause of delay in making
+a commencement being explained to them, the Premiers of the three interested States
+granted an extension of time until the Ist June, 1912. We considered it necessary to
+state that even this extension might be found insufficient, chiefly on account of the
+large amount of additional survey work required. This anticipation has proved correct.
+For the collection and arrangement of data for the preparation of the Report
+the following Staff was appointed :
+Mr. E. Checchi, Engineer permanently in charge of all gauging work for the
+State of Victoria, as Chief Engineering Officer for the investigation.
+Mr. A. S. French, Engineering Surveyor attached to the River Gauging
+Branch of the Public Works Department, New South Wales, to assist
+generally, and especially in connexion with the preparation of the New
+South Wales data.
+Mr. H. Eaton, Engineering Surveyor on the staff of the Engineer-in-Chief’s
+Department of South Australia, and who is conversant with the gaugings
+of the River Murray in South Australia, to furnish information required
+in this respect.
+Mr. D. McLean, 8.C.E., as office assistant in making computations and the
+preparation of diagrams.
+Surveyors were from time to time appointed as required.
+Mr. P. J. O’Malley, by arrangement with the State Rivers and Water Supply
+Commission of Victoria, of which body he is an officer, was appointed Secretary to
+the Conference,
+
+
+2. SCOPE OF THE CONFERENCE.
+At the first formal session of the Conference it was found that difference of
+opinion existed as to the scope of the Inquiry, Mr. de Burgh and Mr. Dethridge holding
+that the instructions called for recommendations on all matters, including navigation and
+the apportionment of water between the States for irrigation, which are matters of
+policy, while Mr. Graham Stewart explained that the instructions accompanying his
+appointment empowered him to determine facts and to make recommendations only
+on engineering matters —such as storage and locking as a means of conserving, control-
+ling, and generally rendering to the greatest extent available, for the purposes of any
+agreement, the waters of the River Murray and its Tributaries —and not on policy,
+which was a matter for the Governments concerned on the Report being presented.
+On Mr. Stewart verifying bis position and finding it to be as explained, it was decided to
+proceed as far as possible in securing agreement as to the facts and then reconsider the
+question of recommendations.
+3. GENERAL INFORMATION AS TO THE RIVER MURRAY
+PROBLEM.
+The history of the river question, geography, and physical characteristics of the
+River Murray basin, the methods of gauging the volumes of the main and contributing
+streams, and the nature of the several interests involved having been sufficiently
+described for present purposes in the Reports of former Commissions —notably the
+Inter-State Royal Commission of 1902 —it is felt to be only necessary to refer to these
+matters where a special purpose requires such a course.
+4. ADDITIONAL GAUGINGS AVAILABLE.
+The task of bringing up to date all information concerning gaugings, and arriving
+at agreement as to what might be acccepted as the most reliable data available for the
+purpose of the Inquiry, was one of the first taken in hand. This work took several
+months, because in many cases, though observation work had been regularly attended
+to, the computation and recording of results had been allowed to get into arrears. In
+the case of the Morgan gaugings, a discharge curve compiled from recent observations
+has been adopted and a new table prepared on this basis, which brings these in closer
+agreement with the upper river gaugings. When all returns were available it was found
+that the results obtained by the officers of each State, who had worked independently
+of each other, were generally in such agreement that no discrepancy of any moment
+required to be adjusted. The apparent discrepancy which is still shown in some years
+between the yearly totals of the Morgan and up-river gaugings is due to these being
+taken for each calendar year, and not for the year extending from one low river to
+another, which may be taken as from the Ist May to 30th April. As the records of
+gaugings must always be of prime importance in any consideration of the River Murray
+question, complete statements of those for the principal stations are attached to this
+Report. (See Appendix No. 1.)
+5. PROPORTION OF CONTRIBUTIONS BY NEW SOUTH WALES,
+VICTORIA, AND QUEENSLAND.
+At the time of the 1902 Commission the information available respecting the
+contribution by New South Wales above Jingellic was very meagre. Actual gaugings
+of the principal tributaries in this locality, and observations of rainfall at stations under
+the control of the Commonwealth Meteorologist on this catchment, are now available.
+The gaugings of the Murrumbidgee at Hay and of the Darling at Menindie have also
+been brought up co date. In view of all the data, which we regard as sufficiently
+
+
+Proportions of Contributions by each State to the Flow op the River Murray, as Deduced
+from Averages of all Stream Gaugings.
+—
+NCw South Wales.
+Victoria.
+Queensland.
+At Jingellic. —Average annual flow as gauged, 1,728,000
+acre-feet —
+Swampy Plains Creek ' 'i.
+Tooma River .. .. ..
+Indi River, 360,000 divided in the proportion,
+N.S.W. 7*6 to Viet. 14*4 ..
+The remaining 372,000 acre feet, on the basis of the
+subjoined statement of products of catchment areas and
+rainfall are taken as having been contributed by the
+following streams in the proportions stated : —
+Ourauee River, ——
+’ 34
+Acre feet per Annum.
+564.000
+432.000
+124,364
+27,353
+Acre feet per Annum.
+235,636
+Acre feet per Annum
+♦ •
+Corryong Creek
+Cudgewa Creek,
+i=— of 372,000 ..
+34
+344,647
+• •
+Walwa Creek
+34
+Percentage ratio
+• • • • • •
+1,147,717
+66*4
+580,283
+33*6
+# #
+At Albury. —Average annual flow as gauged, 3,432,000
+acre feet—
+Upper Murray River at Jingellic
+■'Mitta River .. ■
+Kiewa River
+The remaining acre feet are taken as having
+been contributed by the direct catchment of the river
+between Jingellic and Albury in the proportion of 38*5
+from N.S.W., and 61*5 from Viet. The areas of this
+catchment in square miles are N.S.W. 722 and Viet.
+1005 ; the mean annual rainfalls are N.S.W. 28*6 and
+Viet, 32*8 inches, and the proportions of the products
+of these figures are as stated above
+1,147,717
+41,580
+580,283
+1,116,000
+480,000 *
+66,420
+• •
+Percentage ratio
+1,189,297
+34*6
+2,242,703
+65*4
+• •
+*At Torrumbarry.^— Average annual flow as gauged,
+4,859,000 acre feet—
+Murray River at Albury .. ..
+Ovens River .. .. ..
+Broken River .. .. .. *
+Goulburn River .. .. ..
+Campaspe River .,
+1,189,297
+. 2,242,703
+1.056.000
+216,000
+2.232.000
+! 80,000
+Percentage ratio
+.[ ■ ' ..
+1,189,297
+16*7
+5,926,703
+83*3
+*At Mildura. —Average annual flow as gauged,
+7,472,000 acre feet —
+Murray River, at Torrumbarry
+Murrumbidgee River, at Burrinjuck
+Tumut River ,. .. ..
+Loddon River ..
+1,189,297
+1.392.000
+1.380.000
+5,926,703
+228,000
+Percentage ratio
+' ' # t f #
+3,961,297
+39*1
+6,154,703
+60*9
+At Lake Victoria. —Average annual flow, 13,440,000
+acre feet—
+Murray River at Mildura .. % .
+Darling River, in proportion of 64 Queensland,
+to 36 N.S.W. , ... .. *..
+3,961,297
+1,200,000
+6,154,703
+• •
+2,128,000
+. ’ <' V )
+Percentage ratio
+5,161,297
+38*4 ..
+6,154,703
+45*8
+2,128,000
+15-8
+* The discrepancies between the gauged flows at Torrnmbariy and Mildura and the flgu
+accounted for by overflow into Jiew South and stream losses,
+res showing proportions of contributing are
+complete for determination of the matter with substantial accuracy, we find the
+contributions to be in the proportion shown in the following statement: —
+
+
+Sub-statement op Products op Catchment Areas and Mean Annual Rainpall above Jinoellic.
+Area in Square
+Mean Annual
+Products reduced
+Percentage of
+Proportion of
+Milos. *
+Rainfall in Inches.
+Acre-feet.
+Total.
+Products.
+New South Wales —
+Swampy Plains Creek
+441
+32*2
+757,000
+16
+Tooma River ..
+673
+36*8
+1,321,000
+28
+54*1
+Ouranee River
+73
+30
+117,000
+2*6
+Indi River, N.S.W. ..
+170
+39*4
+357,000
+7*6
+Victoria—
+Indi River, Viet.
+324
+39*4
+681,000
+14*4
+%
+Corryong Creek
+363
+34-4
+666,000
+14-1
+-
+45*9
+CudgSWa Creek
+403
+32
+688,000
+14*6
+Walwa Creek
+81
+30*4
+131,000
+2-8
+Of these streams only the Swampy Plains Creek, the Tooma, and the Indi Rivers are gauged.
+The figures for the catchments of the Swampy Plains, Corryong, and Cudgewa
+Creeks include
+areas of 40, 22 and 21 square miles respectively, which discharge directly into the River Murray.
+6. THE ACRE-FOOT UNIT.
+Throughout this investigation the units used, where others are not specially
+mentioned, are —
+The acre foot for storages ;
+The acre foot per month for stream flows.
+The advantage of these units is that the statement of any volume in acre feet permits
+of a quick perception of the area of land it will cover for irrigation.
+The use of the acre foot per month facilitates computation of the use that can
+be made of stream flows either in connexion with storage or the irrigation of land. The
+equivalents in cubic feet are —
+Acre feet. Cubic feet.
+1 = 43,560
+23 = 1,001,880 (approximately one million).
+An acre foot per month is approximately equal to a cubic foot per minute.
+7. LOSSES BY EVAPORATION AND PERCOLATION.
+The varying conditions of the seasons, of the shape of cross section of the streams
+and the geological formation of their beds preclude any estimate as to the losses by
+evaporation and percolation being made that can be regarded as other than a mere
+approximation. But after a study of the actual losses indicated by gaugings, on several
+sections of the main stream and the principal tributaries, it was concluded that , for
+present purposes an average of the losses by percolation and evaporation in the rivers
+might be taken as *OOO3 per unit of volume per mile of river. Thus, in the case of a
+volume of 1,000 units entering the section 1,040 miles in length between the proposed
+Upper Murray Storage at Oumberoona anil Lake Victoria weir site (near Frenchman's
+Creek), 732 might be expected at the lower end. The losses in the storages have been
+roughly estimated)at 4 feet in depth per annum in the upper storages, 6 feet in Lake
+Victoria, and |9 feet in the river from Lake Victoria to; the .mouth, disregarding the
+expansion of the river into Lakes Alexandrina and Albert. These estimates of losses
+may have to be varied in the light of further experience and gaugings.
+8. RIVER AND TRIBUTARIES MUST BE CONSIDERED AS A WHOLE.
+It has been suggested that each of the Upper States might have complete control
+of the tributaries in its own territory, and that the control of the main stream might be
+left to a separate authority. We desire to poiiit out that', without the effective-contri-
+butions of its chief tributaries, the volume of the river would be a small proportion of
+the total of the river and its tributaries, the area of catchment directly supplying the
+main Stream being relatively small, We have, therefore, considered the nVer system
+as a whole.
+
+
+9. NEED FOR REGULATION TO EQUALIZE VARIATIONS OF FLOW.
+The solution of the problem of making, to the extent possible, full use of the '
+waters of the Murray system, largely depends upon regulation by storage, so that the
+water which now runs to waste during the season or period of the year, when there is
+little need for irrigation, and more than sufficient for navigation and other purposes,
+may be reserved for the season or period when it is needed ; and also in order that
+the surplus in years of high flow may, as far as possible, £>e carried forward to those of
+y low flow. The diagrams of flow accompanying this Report show how great the variation
+of flow is, not only between winter and summer, but also between different groups
+of years.
+10. EXTENT TO WHICH IT IS POSSIBLE TO REGULATE THE RIVER BY
+STORAGE.
+... . .
+The ideal condition of regulation by storage would be that which would enable
+all water discharged from the catchments of the system, less inevitable losses, to be com-
+pletely controlled and made available in the volumes and at the times most suitable.
+The attainment of complete control of the flow at all times may, however, be declared
+impossible because of the inordinate cost of the storages that would be needed to impound
+the floods of high years such as 1894 and 1906.
+The question therefore becomes one of how near the ideal condition can be
+approached with due regard to financial practicability^and with a view to determining
+this, investigation has been made of a number of storage sites on the main stream and
+tributaries, including a re-examination of the site at Cumberoona proposed by the
+1902 Royal Commission, and surveys of sites on the Upper Murray, the Mitta, Kiewa,
+and Ovens, and also of the shallow basins of the Murray near the affluence of the
+Broken Creek at Barmah. As the Goulburn, Murrumbidgee. and Lake Victoria
+storage possibilities are being dealt with by each of the States more directly concerned
+in their construction, we considered ! it unnecessary to extend our surveys to them.
+Particulars of the above surveys and available information on record are given in the
+Report by Mr. Checchi, marked “ Appendix No. 2.”
+No investigations have been made for regulating the waters of the River Dar-
+ling ; the prospect of any regulation of its flow by storage that would materially assist
+in the scheme of regulation of the main river being very small.
+11. MEASURE OF VALUE OF A STORAGE WORK.
+In determining the value of any storage work in making more water
+for use, the actual capacity of the storage is not the true measure of benefit. In the case
+of irrigation the requirements of a typical scheme may be taken as a supply at a fairly
+uniform rate for the period of nine months, August to April inclusive. Examination
+of a typical-diagram of flow such as that of the Murray at Albury (see Diagram J) will
+show that the natural flow is in most years sufficient for any probable requirements
+for irrigation in the months August to December inclusive. The shortages which
+impose a rigid limit to any considerable development of irrigation from natural flow
+alone occur in the months January to April. The benefits derivable from a storage
+of sufficient capacity are not only the making good of the shortages in the latter period,
+but also the use of a much greater quantity of the natural flow in the first part of the
+period. The measure of benefit of any storage is therefore the increase in use of water
+made possible by it.
+12. VALUE OF STORAGES TO SAFEGUARD AGAINST DROUGHT.
+In times of severe drought, such as that of 1902-3, it is usual to have strongly
+expressed public opinion that the evil effects could be, to a large extent, prevented by
+storage of river waters. While much might be done in the way of mitigation, it does
+not seem that any works of sufficient magnitude to provide for the abnormal conditions
+Occurring at intervals of many years are practicable.
+Indeed it is questionable whether any scheme of storage is possible which, in
+addition to providing for the irrigation development made possible by regulation of flows
+Apt varying widely from those of normal seasons, would also provide for a drpught period
+
+
+such as that of 1902-3. Even if suitable sites could be found for such storages, and it
+was certain that the storages would be effective, the interest charges on their cost, which
+would run on during the numerous seasons when there would be no need for such
+reserve water, would go far to outweigh the benefits derivable when droughts occurred.
+13. EXISTING STORAGE WORKS AND WORKS UNDER CONSTRUCTION IN
+THE THREE STATES.
+New South Wales.— The only storage work at present authorized that will
+appreciably affect the flow of the River Murray is the Burrinjuck Reservoir, now under
+construction, on the Murrumbidgee, above the junction of the Tumut. It has a capacity
+of 766,000 acre feet, which, with the natural flow of the Tumut, will make 120,000 acre
+feet per month available for diversion during the irrigation season, and provide a supply
+for domestic and stock requirements along the Murrumbidgee to its junction with the
+Murray, and on the Yanco Creek (see Diagram E.) Surveys for works for the regulation
+of the Tumut River have been made, but no such works are contemplated in the
+immediate future.
+Victoria. —The following storages have been constructed :
+Goulhurn River Weir. —Capacity, 20,000 acre feet.
+Waranga Reservoir. —Capacity, 197,000 acre feet, filled by a channel from the
+Goulburn Weir 23J miles long; bed width, 110 feet; depth, 7 feet;
+gradient, 6 inches per mile; discharging capacity, 100,000 acre feet
+per month. The water from this storage is used almost solely for
+irrigation. t -
+Kow Swamp Storage. —Capacity, 41,000 acre feet; filled by a channel
+17 miles long, which leaves the River Murray at Torrumbarry, and has
+a discharging capacity of 50,000 acre feet per month. The off-take
+sill is 5 feet above summer level of the river.
+Laanecoorie Storage. —Formed by a weir on the Loddon, capacity, 14,000
+acre feet.
+Kerang Lakes Storage. —Capacity, 92,000 acre feet. This storage comprises
+the basins known as Reedy, Middle, and Third Lakes, Lake Charm,
+Race-course, Cullen's, and Kangaroo Lakes, and Lake Tutchewop.
+These are filled by improved natural water-courses and depend mainly
+on floods from the Loddon River for their supply.
+Colihan River. —Two storages above Malmsbury, with capacities of 12,250
+and 15,000 acre feet respectively.
+There are other storages of small capacity on the catchment
+of the Murray, but none of these appreciably affect the behaviour of
+the river.
+South Australia. —Lake Bonney has a storage capacity of about 48,000 acre
+feet with a depth of 15 feet of water, and operations are now in progress ‘for utilizing
+this for irrigation purposes. It would be possible to increase the capacity of the
+storage to 80,000 acre feet.
+14. EXTENT OF IRRIGATION AT PRESENT PROM THE MURRAY AND ITS
+TRIBUTARIES.
+The extent to which irrigation is at present carried on in the three States is as
+follows: —
+New South Wales. —Apart from private schemes, the area under irrigated
+culture from the Murray and its tributaries, is confined chiefly to the comparatively
+small settlements at Wentworth and Hay, and to so much of the Murrumbidgee scheme
+as is already developed. According to information supplied by the Management of
+the Murrumbidgee area, and by the Agricultural Department, the area embraced totals
+about 12,000 acres. ,
+Assuming the private irrigation schemes from all tributaries of the. Murray in
+New South Wales, to deal with 5,000 acres, a total of 17,000 acres would be reached.
+In the absence of complete records, the quantity of water used upon these areas
+is assumed to be 42,500 acre feet during the irrigating season, or about one-seventh that
+used in Victoria.
+
+
+Statement of the Extent of Irrigation
+and op Areas op Crops Watered — Year 1911-
+12.
+Name of District.
+Area under Irrigation (Acres.)
+j Cereals,
+Lucerne grown
+for Pasture
+and Hay.
+Sorghum and
+other Annual
+Fodder Crops.
+1 Pastures.
+Vineyards,
+1 Orchards and
+j Gardens.
+1 Fallows.
+S
+O
+S
+*5
+c
+H
+Supplied from Ootdbnrn State Works.
+Shepparton
+116
+1,220
+84
+268
+215
+160
+40
+2,103
+Rodney .. ..
+5,297
+17,247
+720
+15,414
+4,181
+2,482
+95
+45,436
+Deakin
+859
+2,119
+379
+4,563
+99
+1,151
+23
+9,193
+Koyuga
+12
+217
+84
+288
+9
+248
+4
+862
+Nannella
+398
+111
+836
+31
+210
+1,586
+Campaspe
+8
+38
+1
+47
+Bamawm .. .. ..
+879
+274
+1,142
+47
+414
+2,756
+Tragowel Plains
+2,348
+122
+218
+12,023
+46
+14,757
+Totals .. .•
+8,632
+22,210
+1,870
+34,572
+4,583
+4,711
+162
+76,740
+Supplied from Kow Swamp State Works.
+Kerang
+4,368
+923
+2,041
+6,434
+13
+66
+50
+13,895
+Dry Lake
+370
+6
+376
+Totals
+4,368
+923
+2,041
+6,804
+19
+66
+50
+14,271
+Supplied from Loddon State Works.
+Boort ..
+2,258
+612
+870
+2,974
+71
+16
+6,801
+Tragowel Plains
+10,836
+172
+937
+2,673
+64
+14,682
+Totals
+13,094
+784
+1,807
+5,647
+135
+16
+21,483
+Supplied from other State Works.
+Campaspe
+100
+455
+8
+60
+12
+635
+Cohuna
+1,979
+4,103
+1,092
+12,000
+260
+283
+19,717
+Gannawarra
+2,710
+790
+1,225
+3,656
+35
+11
+8.427
+Koondrook
+7,986
+542
+889
+9,430
+104
+510
+i41
+19,602
+Nyah ..
+615
+178
+206
+176
+385
+315
+148
+2.023
+Swan Hill
+2,250
+2,856
+1,340
+2,149
+164
+244
+26
+9,029
+Western Wimraera
+30
+30
+25
+938
+1,023
+White Cliffs
+1,466
+450
+469
+2,479
+4,864
+Totals .. ... • ..
+17,106
+9,404
+5,259
+27,496
+4,377
+1,363
+315
+65,320
+Lands supplied from Kerang North- West Lakes
+4,100
+621
+1,297
+7,525
+13,543
+Lands supplied directly from Kow Swamp State
+Works
+697
+1,459
+221
+513
+201
+33
+3,124
+First Mildura
+840
+617
+••
+9,922
+11,379
+Supplied from Coliban State Works
+132
+265
+225
+327
+1,796
+154
+38
+2,937
+Private Diversions in Kerang District
+3,033
+125
+161
+1,435
+60
+4,814
+Grand Totals, 1911-12..
+52,002
+36,408
+12,881
+84,319
+21,033
+6,310
+658
+213,611
+Victoria. —The principal irrigated areas are those in the Goulburn Valley and
+lands adjacent thereto, and Mildura. Particulars of these are given in the following
+extract from the Annual Report of the State Rivers and Water Supply Commission for
+1911-12, in which the total area is stated as 213,611 acres, and during the irrigation
+season about 300,000 acre feet were used upon these areas.
+It will be seen that a large proportion—about a third —of the irrigated area in
+Victoria is for pasture. At certain seasons in dry years the diversions by Victoria
+approximate to the flow of the tributaries in that State.
+South Australia. —The principal irrigation settlement is at Renmark, where
+about 5,500 acres are under irrigated culture, planted principally with citrus and other
+fruit-trees and vines.
+In addition to Renmark, there are settlements at Beri, Lyrup, Pyap, Moorook,
+Kingston, Waikerie, Ramco, and a number of other places between Ramco and Welling-
+ton. The total area under irrigation from the River Murray in South Australia is about
+20,500 acres, and the quantity of water used during the irrigation season about 56,000
+acre feet.
+Ah area of about 15,000 acres near Lake Bonney is in course of being brought
+Wider irrigation as the Cobdogla Irrigation Scheme.
+
+
+Area of Irrigable
+Land.
+Water Required.
+Pumping and
+Gravitation
+Combined.
+Pumping.
+Gravitation.
+Total.
+New South Wales
+Victoria
+South Australia
+Acres.
+4.950.000
+1.450.000
+1,000,000 .
+Acre-foet.
+2,500,000
+Acre-feet.
+1,123,000
+469,000
+Acre-feet.
+13,062,500
+3,096,000
+Acre-feet.
+14,185,500
+3.565.000
+2.600.000
+Totals ..
+7,400,000
+2,500,000
+l,592,(k)0
+' 16,158,500
+'20,250,500
+15. PLACE OF DELIVERY OF SOUTH AUSTRALIA'S SHARE OF WATER.
+In view of the Inter-State Agreement in accordance with which the Government
+of South Australia proposes to construct works for diverting water to, and storing it
+in Lake Victoria, for the purpose of this Report we have taken the site (at or near
+Frenchman's Creek) of the weir to divert to the lake as the place where South Australia
+will in future receive her share of water.
+16. STATEMENT OF REQUIREMENTS FOR IRRIGATION AS SUPPLIED BY
+THE STATE PREMIERS.
+In order to obtain definite statements of requirements a letter in the following
+form was sent to the Premiers of each of the three interested States on 21st February,
+1912 :
+Sir,
+I am directed by the Conference of State Engineers to request that you
+will be so good as to cause to be furnished for their use the following infor-
+mation with regard to the State of (New South Wales, Victoria, or South Aus-
+tralia, according to the destination of the letter) —
+(а) Plans showing areas and situation of all land proposed to be
+irrigated from the River Murray and its tributaries.
+(б) A statement of classification of the land of such areas with
+special regard to suitability for irrigation.
+(c) The quantities of water required for such areas, the period of
+the year during which the water would be used and method
+of application—whether by pumping or gravitation.
+(d) Particulars of all storage works proposed to be constructed
+on the Murray and its tributaries.
+In view of the expressed wish of the Premiers of the States interested,
+that the Report of the Engineers on (Hie River Murray should be furnished
+at the earliest possible date, I have to ask you to be good enough to cause
+the information asked for above to be supplied not later than one month from
+this date.
+I have the honour to be, Sir,
+Your obedient Servant,
+(Sgd.) P. J. O'Malley, Secretary.
+Statements received in reply are given with this Report as Appendix “ No. 3."
+Summarized briefly, the areas of land stated to be irrigable and the volumes of
+water required therefor, are as follows :
+17. EXTENT OF REGULATION CONSIDERED PRACTICABLE IN PRESENT
+CIRCUMSTANCES.
+In general it may be said, that the object of storage is to conserve the flood
+discharge to supplement the low discharge of the same year. Its economic limits are
+determined by such periods of low flow as that from the year 1896 to the year 1899
+inclusive,
+
+
+1.
+At Albury by tbe storage at Cumberoona, on
+Acre feet per month for irrigation
+seasons ranging from
+8 to 9 months.
+the Upper Murray, of 1,000,000 acre feet,
+and by the natural flow of the Mitta and
+Kiewa Rivers
+240,000
+2.
+In the Goulbum, at Murchison, by the con-
+struction of further reservoirs to make a
+total storage of 720,000 acre feet
+126,000
+3.
+In the Murrumbidgee, at Berembed, by the
+Burrinjuck Storage, of 766,000 acre feet,
+and the natural flow of the Tumut River..
+120,000
+4.
+At the outlet from Lake Victoria by the Lake
+Victoria Storage of 500,000 acre feet in
+conjunction with the flow of the River
+Murray
+114,000
+5.
+The natural summer flows of the Ovens,
+Broken, and Campaspe Rivers ..
+26,000
+Total
+626,000
+The following is a statement of the regulated flows that would be made
+available—subject to some diminution in such abnormally dry seasons as 1902-3 —as
+the result of existing works, works under construction, and works suggested by
+this Conference for construction: —
+It may be found desirable and financially practicable to extend works for regu-
+lation to other tributaries as development of settlement demands a greater water supply,
+but the cost of these per unit regulated will be considerably higher than that of
+any of the works now suggested.
+18. EXTENT OF IRRIGATION POSSIBLE WITH PRACTICABLE REGULATION
+AS DESCRIBED.
+Under the heading “ Navigation with Unlocked River/" it is explained that the
+regulated flows made available by storages cannot be regarded as sufficient for both
+navigation and irrigation unless the river be locked. For the present purpose considera-
+tion will be confined to the use of the regulated flows for domestic and stock supply, for
+making good the inevitable losses from the river channels and storage basins, for lockage
+in the portion of the river between Lake Victoria inlet and the mouth —being the main
+portion of the length of river about to be dealt with by South Australia, under the
+Murray Works Act of 1910 of that State, and the Inter-State Agreement thereunder,
+respecting works at Lake Victoria, &c. (subject to ratification by the Parliaments of
+the three States) —and for irrigation.
+Taking domestic and stock supply first, the allowance is at the rate of 9,000 gallons
+per mile per day, for the following mileages
+Lake frontages .. New South Wales .. 560 miles.
+„ „ .. Victoria .. .. 170 „
+„ „ .. South Australia .. 178 „
+River frontages .. New South Wales .. 4,540 „
+„ „ .. Victoria .. .. 3,280 „
+„ „ .. South Australia ~ 1,050 „
+Total .. .. .. 9,778 „
+Aero feet per month.
+Approximately the amount of this allowance for
+domestic and stock supply is .. .. 10,000
+For losses by evaporatibn and percolation from •
+. the river channels and storages the allowances
+amount to .. .. .. .. 80,000-
+Computed requirements for lockage in South Aus-
+tralia .. .. .. .. .. 5,000
+Total .. .. 95,000'
+
+
+Of tliis total of 95,000 acre feet per month (most of which, as indicated
+m Part 7, is a rough approximation as regards losses), it is assumed that an
+average of 47,000 would be required for Lake Victoria and the portion of the
+river from Lake Victoria inlet to the mouth ; but without any allowance for the
+expansion of the river into Lakes Alexandria and Albert. The remainder would
+be required on the main river and tributaries upstream from Lake Victoria inlet,
+and the storages thereon. The total of the regulated flows (626,000 acre feet)
+reduced by the total of the foregoing allowance of 95,000, leaves 531,000 acre
+feet as the regulated monthly flow assumed to be available for irrigation. In New
+South Wales the irrigation season is Stated as nine months'’.' in Victoria eight months
+is usually allowed; in South Australia it is stated as from eight to twelve months.
+If nine months be taken as the mean of the seasons throughout the States, the total
+annual quantity for diversions for irrigation becomes 4,779,000 acre feet. The area of
+land irrigable with this volume depends largely on proximity to the point of diversion,
+character of soil, and the land of crops watered. Losses between the point of diversion
+and the irrigable lands, which in New South Wales and Victoria, owing chiefly to the
+greater length of the channels are greater than in South Australia, would almost cer-
+tainly amount to from 30 to 50 per cent, of the diverted volumes. If 40 per cent, be
+taken as the mean of such losses, averaged for the three States, the total volume delivered
+at the irrigators* fields would be 2,867,400 acre feet. If the further assumption be made
+that as an average each irrigable acre required 2 acre feet of water, the total area irri-
+gable becomes 1,433,700, or in round figures, 1,400,000 acres. This area is so much
+below the total of the areas for which the States, according to the statements furnished
+by them in Part 16, require water, that no hope can be extended of such requirements
+ever being satisfied. It may, however, be pointed out that although small in pro-
+portion to such stated requirements, the area of 1,400,000 acres is nearly six times as
+great as that at present under irrigation in the three States.
+19. NEW STORAGES REQUIRED FOR THE SCHEME OF PEACTICABLE
+EEGULATION.
+The Jnter-State Eoyal Commission of 1902 proposed a storage on the Upper
+Murray at Cumberoona to impound 582,000 acre feet of water, and with the aid of the
+natural flows of the Mitta and Kiewa, to maintain a nearly continuous flow 61 180,000
+acre feet per month at Albury.
+We have carefully reviewed all the gaugings at Albury and Jingellic on the
+Murray, at Tallangatta on the Mitta, and at Kiewa on the Kiewa, and have arrived
+at the conclusion that it is desirable in order to take full advantage of the flows of these
+rivers, that a storage with capacity of 1,000,000 acre feet be provided. Such a storage
+with the aid of the natural flows of the Mitta and Kiewa Eivers would enable a regulated
+flow of 240,000 acre feet a month for the nine months August to April inclusive to be
+maintained at Albury. (See Diagram C.)
+In comparison with such a site as that at Burrinjuck on the Murrumbidgee,
+Cumberoona cannot be regarded as a very favorable place for a large reservoir. The
+length of dam required—B,ooo feet—is very great; the foundation is, in parts, at
+least 50 feet below the surface ; and considerable portions of the area of about 20,000
+acres that would be submerged are flat lands which, though liable to occasional flooding,
+are of high value for grazing, and to some extent for cultivation. These considerations
+caused us to seek more favorable sites higher up the river. Two of these, one at Wagra,
+and the other at Dora Dora, where in each case the river valley narrows to about 2,000
+feet, on surface indications appeared very favorable for the construction of masonry
+dams, and the preliminary testing by hand boring and pit sinking failed to disclose any
+special difficulty in the construction of such works. When, however, a diamond drill
+was brought into operation to fully test the foundations, it was found that depths to
+solid rock were—l 44 feet at Dora Dora, and 205 feet at Wagra.
+The great depth of foundation required at both Wagra and Dora Dora has decided
+us to provisionally adopt the site at Cumberoona, as recommended by the Inter-State
+Eoyal Commission of 1902, for the construction of a dam to impound 1,000,000 acre
+feet, but it is possible that by a further expenditure of time and money a more suitable
+one, both in the matter of foundations and length of dam, might be found above the sites
+already tested. Though of opinion that such expenditure would be justified, in view of
+the conclusion at which we have arrived —that a storage of a capacity of 1,000,000 acre
+feet is desirable in order to give the regulated flow of 240,000 acre feet a month, for nine
+months at Albury, and can be obtained at Cumberoona —we thought it unnecessary to
+postpone the presentation of our Eeport until it was ascertained whether a better site
+than Cumberoona was available for the purpose.
+
+
+Number of months of insufficiency for navigation.
+(1)
+(2)
+(3)
+Year ended 31st December, 1891 ..
+0
+0
+0
+„ 1892 .. ... . ..
+2
+2
+5
+„ „ 1893 ..
+0
+0
+3
+„ „ 1894 ..
+0
+0
+2
+„ 1895 ..
+0
+0
+5
+„ „ 1896 ..
+4
+4
+11
+„ 1897
+8
+. 8
+10
+,, ,, 1898 ..
+7
+.7
+11
+„ „ 1899
+5
+5
+9
+„ „ 1900
+5
+5
+7
+„ „ 1901
+7
+8
+12
+„ „ 1902 ..
+11
+11
+12
+„ 1903.. ..
+6
+6
+8
+1904 ..
+3
+5
+6
+Tie gaugings of the Murray, at Jingellic, have been used in computing the quah-
+tity of water available for the suggested storage, so that no alteration in these figures
+would be necessary for any site between that place and the junction of the Mitta.
+The type of dam proposed at the Cumberoona site, in the event of its final
+adoption, is an earth dam, with reinforced concrete core wall carried down to the
+granite rock underlying the site, and the estimated cost, inclusive of £200,000 for land
+compensation, is £1,353,000.
+*The River Goulburn is regarded most favorably for further storage in Victoria.
+Several sites above the existing weir have been investigated and dams to impound
+volumes ranging from 250,000 to 1,500,000 acre feet appear possible, but in every case
+one or 'more of the difficulties arising from deep and uncertain foundations, great size
+of dam in proportion to capacity, and interference with railways, towns, or valuable
+river flats, are met with. At present a reservoir site at the junction of the Goulburn
+and Delatite Rivers, with maximum capacity of 720,000 acre feet is being explored,
+but for the purpose of this Report the extra storage of 500,000 acre feet on the Goulburn
+mentioned in statement of Victorian requirements has been taken tentatively for the
+scheme of practicable diversions ; this, with the aid of existing storages, would enable
+the flow at Murchison to be regulated to 126,000 acre feet per month during an irrigation
+season of eight months. (See Diagram F.)
+In South Australia no natural economic storage sites of any magnitude are to be
+found between Morgan and the South Australian boundary, and we are agreed that
+Lake Victoria, improved by works for regulating the inflow and outflow, would be the
+most effective storage for use on the lower river. (See Diagram D.)
+The following particulars of this storage are published in the Report of the Inter-
+State Royal Commission of 1902: —
+Capacity, 514,000 acre feet. Area of water surface, 26,515 acres.
+Reduced level when full, 95 * 00.
+Estimates are being prepared by the South Australian Government of the cost
+of the works necessary to convert the lake into a storage*
+20. NAVIGATION WITH UNLOCKED RIVERS.
+The volumes required at Morgan for navigation are —
+Full draught, 6 feet, on Morgan gauge, 442,000 acre feet per month
+Medium „ 5 „ „ 347,000 „ „
+Light „ 3 „ „ 223,000 „ „
+Diagrams A, G, H, and I show the extent to which navigation has been
+reduced by existing diversions, and the effect, assuming diversions to be increased
+as suggested under Parts 17 and 18. A study of these diagrams shows that while past
+diversions have had comparatively little effect upon the duration of the navigable
+period of the river, the proposed diversions would seriously reduce it, and when fully
+developed, would practically destroy navigation. The following is a statement of the
+number of months in each year for the last twenty-one years during which the flow in
+South Australia was or would have been insufficient for full draught navigation under the
+three following conditions:-—(!) “ Natural flow ” ; (2) “ Flow as reduced by actual
+diversions ” ; (3) “ Flow as it would have been with diversions after construction of the
+works suggested under Part 17.”
+
+
+Statement regarding Flow, Etc.,
+in South Australia — continued.
+Number of months of insufficiency for navigation.
+(1)
+(2)
+(3)
+Year ended 31st December, 1905 ..
+5
+5
+8
+„ ,, 1906 ..
+3
+3
+7
+„ „ 1907 ..
+4
+4
+9
+„ „ 1908 ..
+7
+7
+U
+„ „ 1909 ..
+5
+5
+7
+„ „ 1910
+5
+• 7
+8
+„ „ 1911
+0
+1
+5
+Totals
+87
+93
+156
+Murray —
+Blanchetown to State boundary of South Australia, six
+locks .. ..
+£600,000
+South Australian boundary to Echuca, twenty locks
+730,000
+Darling —
+£1,330,000
+Wentworth to Walgett, twenty-four locks
+920,000
+Murrumbidgee —
+Junction of Murray to Hay, nine locks
+321,750
+Total
+£2,571,750
+Column (3) shows the estimated effect in South Australia of the diversions,
+after the construction of the suggested works. From the South Australian boundary to
+Echuca, on the Murray, and Hay, on the Murrumbidgee, the effect in reducing the
+number of months of navigation would be even greater.
+Any volume released from the proposed storages towards maintaining the natural
+duration of navigation as shown in column (l),in an unlocked river, must mean a corre-
+sponding reduction in the volume available for irrigation. The period of release towards
+restoring natural navigability or for irrigation would probably be the same. To attempt
+to provide for constant navigation, or to substantially improve the present conditions
+of navigation, in an unlocked river with stored water, would practically mean the use
+of the storages for that purpose alone. There is no possibility of meeting the require-
+ments of irrigation to the extent mentioned in Part 18 without rendering the river
+practically useless for navigation unless locking be resorted to.
+21. NAVIGATION WITH LOCKED RIVERS.
+We understand —as mentioned in Part 18 —that South Australia is considering
+the construction, at her own cost, of the Lake Victoria works, and the locks and weirs
+necessary to maintain navigation throughout the year from the Murray mouth in South
+Australia to Wentworth in New South Wales. The question of apportionment
+of the cost of locks and weirs constructed in advance of, but which may afterwards
+become effective for the purposes of, a general system of locking of the .Murray
+and its tributaries, the Darling and the Murrumbidgee, would, doubtless, be
+considered in connexion with any agreement between the States (see Clause 42 of the
+Inter-State Agreement of 1907-8). Apart from volumes required for irrigation, and
+for domestic and stock supply, the quantity of water required for a locked river below
+Lake Victoria would be that for loss by evaporation and percolation estimated to be
+28,800 acre feet per month (which would occur in any case), and 5,000 acre feet per month
+for lockage. The total mean requirement for these purposes from the Murray mouth
+to Lake Victoria is therefore 33,800 acre feet per month. This does not make any
+provision for evaporation on the lakes near the mouth.
+With regard to the cost of locking the rivers, on page 43 of the Inter-State Royal
+Commission's Report of 1902, the following estimate is given for providing locks and
+weirs for the navigation of the Murray, Murrumbidgee, and Darling :
+The lengths of rivers referred to above are—Murray, 906 miles; Darling, 1,187
+miles; and Murrumbidgee, 240 miles.
+In the Report of the Victorian Royal Commission on the Murray Waters of 1910,
+on page Ixi, reference is made to the cost of locking the rivers, and the opinion is
+expressed that the estimates previously given would be found insufficient for the work.
+
+
+Year.
+Natural flow of
+Murray Elver.
+Equivalent of
+assumed
+diversions.
+Remainder of
+natural flow above
+inlet to Lake
+Victoria.
+Percentage of
+natural flow
+diverted.
+Percentage of
+natural flow
+remaining above
+inlet to Lake
+Victoria.
+1891
+17,737
+3,278
+14,459
+18
+82
+1892
+10,621
+3,257
+7,364
+31
+69
+1893
+15,792
+3,311
+12,481
+21
+79
+1894
+18,402
+3,332
+15,070
+18
+82
+1895
+10,907
+3,272
+7,635
+30
+70
+1896
+6,580
+3,043
+3,537
+46
+54
+1897
+6,105
+3,413
+2,692
+56
+44
+1898
+6,239
+3,190
+3,049
+51
+49
+1899 .. ..
+6,039
+3,095
+2,944
+51
+49
+1900
+9,214
+3,290
+5,924
+36
+64
+1901
+5,474
+3,209
+2,265
+59
+41
+1902
+2,327
+1,740
+587
+75
+25
+1903
+6,936
+3,311
+3,625
+48
+52
+1904
+9,016
+3,358
+5,658
+37
+63
+1905
+7,991
+3,179
+4,812
+40
+60
+1906
+- 12,793
+3,231
+9,562
+25
+75
+1907
+8,189
+3,168
+5,021
+39
+61
+1908
+5,968
+3,109
+2,859
+52
+48
+1909
+, 10,477
+3,244
+7,233
+31
+69
+1910
+8,032
+2,954
+5,078
+37
+63
+1911 ..
+11,051
+3,279
+7,772
+30
+70
+Maximum year
+18,402
+3,332
+15,070
+18
+82
+Minimum year .. *
+2,327
+1,740
+587
+75
+25
+Moan of 21 years ..
+9,328
+3,155
+6,173
+34
+66
+9103.
+B
+Mr. Stuart Murray, in his Report to the South Australian Government, dated
+February, 1910, estimates the cost of the six locks and weirs required in South Australia
+at £482,428, and the two locks between the South Australian boundary and French-
+man’s Creek at £160,000, the purpose of the locks being to make the river navigable
+from the mouth to Wentworth and facilitate storage at Lake Victoria.
+With a view to expert guidance as to the best methods to be adopted, the whole
+system of locks required to provide permanent navigation between the Murray mouth
+and Wentworth is being reported upon for the Government of South Australia by
+Captain Johnston, of the Corps of Engineers, United States Army.
+The Victorian Government recently carried out exploratory work and prepared
+a design for a movable weir and lock in the Murray at Torrumbarry, and it is estimated
+that the work will cost £130,000.
+Until actual experience of the difficulties to be overcome has .been gained, the
+question of cost of locking the Murray and its tributaries must remain, to some extent,
+an open one.
+While agreeing with the, statement on page 48 of the 1902 Report that weirs
+and locks for navigation will provide no additional storage for irrigation, we would add
+that in the case of any weirs and locks that may be constructed on the rivers above Lake
+Victoria, no draw upon storage would be involved because the supply for irrigation
+and other purposes that would have to be sent down the river in any case would be
+more than sufficient for all lockage requirements.
+In the portion of the river in South Australia, weirs and locks will, to some
+extent, assist irrigation, because without them the river might fall to the level at which
+it tends to become brackish through salt ooze from the banks. In the portions of the
+river above Lake Victoria, excepting where large diversions are proposed, the need of
+weirs and locks may be regarded as apart from use of the water for irrigation, but weirs
+and locks would be required to maintain navigation as and when diversions for irrigation
+(see Parts 17 to 19) take place.
+22. EXTENT OF REDUCTION OF FLOW AT THE INLET TO LAKE
+VICTORIA.
+The following table shows in figures the estimated reduction in the annual volumes
+of flow in the river at Lake Victoria, on the assumption that the diversions in the Upper
+States stated under “ Extent of regulation practicable in present circumstances ”
+(Part 17), and “ Extent of irrigation possible, &c. ” (Part 18), had been made, during
+the period of twenty-one years covered by the table.
+Table showing the Natural Flow of the River Murray above Lake Victoria, and the Equivalent of certain
+assumed Diversions by the Upper States in thousand acre feet per annum.
+
+
+The large percentage of natural flow remaining above the inlet to Lake Victoria,
+as shown in the above table, might suggest that sufficient provision remains for South
+Australian requirements after the diversions in the upper rivers consequent upon the
+construction of the suggested storages and works for diversion of water have been made.
+It must, however, be explained that such is not the case, for most of this water reaches
+South Australia during flood periods in such large volumes that the greater portion of
+it cannot be either stored or used. It might also be suggested that a greater quantity
+could be diverted by the Upper States, but these diversions are limited by a succession
+of low years such as 1896 to 1899, and as mentioned under Part 17 by the probably
+excessive cost of storages other than those already suggested.
+23. COST OF STORAGES AND WORKS FOR DISTRIBUTION OF REGULATED
+FLOWS.
+As stated in Part 19, the estimated cost of the storage at Cumberoona is £1,353,000.
+No precise estimate can be given for the extra storage on the Goulburn, because
+the site has not been finally selected. It is, however, known that the cost will be about
+£2 per acre foot, so that about £1,000,000 would be required for the further storage of
+500.000 acre feet.
+In the case of the Burrinjuck Reservoir, it is understood that when completed
+the cost will also approximate to £1,000,000.
+The estimates given by the 1902 Royal Commission, for works to convert Lake
+Victoria into a storage, including the diverting weir with lock, in the river, amount
+to £84,800. It is probable, however, that when complete information has been
+obtained, this estimate will be found to be too flow, and that at least another £BO,OOO
+will be required, bringing the total up to say, £164,800.
+Omitting Burrinjuck reservoir because it is practically in existence, the estimated
+cost of the further storages required for the scheme of practicable regulation described
+in Parts 17 to 19 amounts to £2,517,800, all of which would have to be provided in the
+future.
+Before the regulated water made available by the storages could be brought
+into use, diverting weirs, pumping stations and distributary channels would have to be
+provided. It ‘is elsewhere shown that, including areas already supplied, irrigation
+would be extended to about 1,400,000 acres. It may be assumed that existing works —
+including the Burrinjuck scheme when in full operation—provide for distribution over
+600.000 acres, leaving 800,000 acres yet to be selected for irrigation throughout the
+three States, for which works of distribution would be required. The cost per acre
+of such works depends upon the character of the country, the size of the holdings
+supplied, and many other considerations. In. the valley of the Goulburn it is about
+£3 per acre, but at Mildura and Renmark, where the channels are mostly lined with
+concrete, it is as high as £lO per acre.
+Por an average throughout the 800,000 acres in question, with diverting weirs
+and pumping stations included, £4 10s. per acre might be taken as a rough approximation
+of cost, giving for distribution works a total of £3,600,000.
+It thus appears that the total further expenditure required to extend irrigation
+with the waters of the River Murray and its tributaries to cover an aggregate area of
+about 1,400,000 acres, which is an increase of 800,000 acres, would be for storage
+£2,517,800, for distribution £3,600,000, making a total of £6,117,800.
+For reasons explained at the beginning of this Report, no attempt is made here
+to apportion either the water or the expenditure between the three States.
+24. CONCLUSIONS.
+Briefly stated, our conclusions are as follows ;
+1. That what is most needed to permit of further irrigation development
+by any of the three interested States is regulation by storage.
+2. That the flow from year to year and period to period is so erratic that no
+scheme for securing complete control of all water is feasible.
+3. That for the purpose of regulation, in addition to the Burrinjuck
+Storage now being constructed by New South Wales, ajid to the
+further storages proposed to be constructed by Victoria on the
+Goulburn, the works that would be of greatest advantage are —
+a storage of about 1,000,000 acre feet capacity on the Upper Murray,
+and the conversion of Lake Victoria into a storage basin.
+
+
+4. That, as development proceeds, further storages may be constructed on
+the other tributaries ; but these will generally involve a much higher
+cost per unit of volume regulated than works for storage on the
+Upper Murray, Goulburn, and Lake Victoria.
+5. That the period during which navigation is possible on an unlocked
+river has been shortened by the existing diversions to some extent,
+and will be further seriously shortened as indicated on Diagrams
+A, G, H, and I, and in table, Part 20, as and when the further
+diversions for irrigation made possible by the Cumberoona, Goulburn,
+Burrinjuck, and Lake Victoria storages come into operation.
+6. That the effect of the diversions for irrigation rendered possible by the
+suggested storages, in reducing the period of navigability, will be
+progressive, and when such diversions are made to the fall extent
+indicated, navigation will be greatly restricted and practically
+prevented unless locking be resorted to.
+7. That the construction of movable weirs, and locks for navigation in the
+Murray, from Wentworth to Echuca, in the Darling, from Went-
+worth to Bourke or Walgett, and in the Murrumbidgee, from the
+Murray Junction to Hay, could be carried out without affecting
+the volume of water .capable of being used for other purposes, and is,
+therefore, solely a question of cost and benefit to be derived from the
+expenditure necessary, and of the interests in navigation already
+established, and that may be established as population and develop-
+ment increase.
+The terms suggested by Mr. de Burgh and Mr. Dethridge as the basis of an
+agreement, and facts and matters which Mr. Graham Stewart submits for con-
+sideration in the preparation of an agreement, are hereinafter separately stated.
+Before concluding we desire to express our appreciation of the courteous response
+by the various Government Departments of the States interested, to our requests for
+information, and of the efficient assistance rendered by the officers of the Conference.
+We have the honour to be,
+Sirs,
+Your obedient Servants,
+July 16tb, 1913. • E. M, de BURGH,
+Chief Engineer for Water Supply and Sewerage,
+Department of Public Works, New South
+Wales.
+July 17th, 1913. J. S. DETHRIDGE,
+Commissioner, State Rivers and Water Supply
+Commission, Victoria.
+July 19th, 1913. GRAHAM STEWART,
+i Australia.
+Presented on K l\th July , 1913.
+
+
+Remarks.
+Divided in accordance with this agreement the share of regulated water to each
+State would be approximately : —
+Acre feet.
+Aero feet.
+New South Wales .. 1,957,000, of which some
+85,000 are now diverted for use.
+Victoria .. .. 2,219,000, „
+600,000 „ „
+South Australia .. 603,000, „
+000 (P‘Us losses in distribution) are now
+OU,UUU diverted for use.
+25. AGREEMENT BETWEEN THE THREE STATES SUGGESTED BY MR. DE
+BURGH, NEW SOUTH WALES, AND MR. DETHRIDGE, VICTORIA.
+Being satisfied that the use of the River Murray and its tributaries for irrigation
+is of first importance, that the interests of navigation are secondary, that the heavy
+expenditure necessary for the regulation of the river flow by means of storage for the
+purpose of maintaining navigation is not warranted, and that any proposal for locking
+the river above Wentworth must be considered on its own merits apart from irrigation,
+we suggest the following agreement for apportionment of the cost of works and of water
+between the three directly interested States.
+Suggested Agreement.
+The States of New South Wales and Victoria to bear in equal shares the cost of
+the Cumberoona and any further storages on the streams above Albury, and, in propor-
+tion to proposed diversions, the cost of any joint works in the River Murray to raise the
+level for purposes of diversion.
+South Australia to bear the cost of all works proposed to be constructed by her
+in the Lake Victoria Agreement as ratified by the State Parliaments, together with all
+works within her own territory.
+The flow of the River Murray at Albury, including the natural or regulated flow
+of the Mitta and Kiewa Rivers and as regulated by the Cumberoona storage, to be shared
+equally by New South Wales and Victoria, subject to any quantity agreed to be sent
+down the river for riparian use and for supply to South Australia.
+New South Wales and Victoria to each have full use of her own tributaries below
+Albury, and to have the right to divert the flows thereof, or alternatively, equivalent
+volumes from the Murray below their affluences, subject to the provision from such
+tributaries, or her share of the flow at Albury, or both, of contributions towards the
+share allotted to South Australia, and the allowance for riparian use on the main stream
+from the affluence of such tributary, or from Albury to Lake Victoria.
+The proportion of the contribution by New South Wales and Victoria to the share
+allotted to South Australia and for riparian use in the main stream to be that which the
+mean natural flow of the tributaries of each State below Albury measured at the points
+of affluence with the Murray, with half the actual mean flow at Albury added in each
+case, bear to each other. In calculating the mean flow of the Darling for this purpose
+a deduction is to be made to the extent of any water diverted by the State of Queensland.
+The minimum quantity to be allowed to pass to South Australia in each year
+to be sufficient to fill Lake Victoria storage once, and in addition to maintain,
+with the aid of the water returned from Lake Victoria, a regulated supply at Lake Victoria
+outlet of 114,000 acre feet per month during the months August to April inclusive, and
+47,000 acre feet per month for the months May to July inclusive, these being the pro-
+visions for , domestic and stock supply, losses by evaporation and percolation in Lake
+Victoria, like losses and lockage in the river from Lake Victoria to the river mouth
+(but not including Lakes Alexandrina and Albert) and for irrigation in the form of a
+regulated supply of 67,000 acre feet per month for nine months. Provided that these
+allowances and the allowance to the upstream States be reduced yyro rata in such abnormal
+seasons as those of 1902 and 1903.
+We recommend that for the purpose of giving effect to such of the recommenda-
+tions herein as involve Inter-State interests, a Board of Control be appointed.
+In the foregoing Report we have indicated the volumes of water which can be
+made available by the construction of certain regulation works.
+Before any works are undertaken it is a matter for each State to decide whether
+the benefits resulting from its share of the regulated water warrant the expenditure
+involved.
+E. M. de BURGH, J. S. DETIIRIDGE,
+July 16tb, 1913. July 17th, 1913.
+
+
+26. BASIS OF AGREEMENT BETWEEN THE STATES SUGGESTED BY
+MR. GRAHAM STEWART, SOUTH AUSTRALIA.
+As explained in the commencement of this Report, my instructions do not require
+me to make recommendations as to apportionment between the States of either the costs
+of works or the volume of water. Apart from these matters, however, the Report
+shows that the following facts should be given full consideration in the preparation of
+any agreement between the States interested.
+(а) That the extent to which irrigation can be extended, even with storage,
+in the three States, is limited by the quantity of water available in
+a series of low years, such as 1896 to 1899; and that the total area
+capable of being irrigated, by the water rendered available by existing
+storages, those under construction, and those suggested for construc-
+tion, in this Report, is approximately 1,400,000 acres. Of this, an
+area of about 600,000 acres, including that to be irrigated by the
+Burrinjuck scheme, is provided for by the works constructed or in
+course of construction ; but only part of such area has already been
+brought under irrigation. This estimate of 600,000 acres is approxi-
+mate only, and does not distinguish between areas devoted to inten-
+sive culture and those devoted to pasture, cereals, and hay. Of the
+1,400,000 acres capable, as stated above, of being irrigated, an area
+of about 800,000 acres remains, when provided for, to be selected
+for irrigation throughout the three States, and the expenditure
+necessary to bring this additional area under irrigation is estimated
+roughly at about £6,200,000.
+(б) That, as* shown by table under Part 20, navigation has been, to some
+extent, injured by diversions, and, unless locking be resorted to,
+will be further injured by any increase of such diversions, and ulti-
+mately, owing to the short duration, and the irregularity of the periods
+of navigability, be destroyed by the diversion of such volumes as are
+required for the irrigation of the above area —1,400,000 acres. That,
+for a system of weirs and locks to maintain and improve the
+navigability of the rivers above the junction of the Darling and
+Murray Rivers, no draw on the supply of water available for other
+purposes would be required.
+(c) That the diversions made by the upper States in the periods of extreme
+low flow—March to June —in such years as 1900, 1901, 1902, 1903,
+1905, and 1912, have caused the natural flow of the river in South
+Australia to be reduced, generally to about half its volume.
+(i d ) That such reduction in volume caused the water left in the river to become
+more or less saline, due to the admixture of salt water seeping from
+the river banks ; that the water in the river, when so rendered saline,
+is unsuitable for irrigation purposes and domestic supply ; and that,
+unless some agreement be arrived at which will insure an adequate
+and regular supply of fresh water in the South Australian portion
+of the river—which, in general, prior to the diversions existed
+throughout the whole year, and which, as diversions extend will
+exist in fewer years and for shorter periods—serious results may
+be anticipated in the near future.
+Assuming the objects in view to be co-operation between the three riparian
+States directly interested in projects for making the best use of the River Murray and
+its tributaries, for the purpose of navigation and irrigation ; and, as a means to the
+attainment of that end, the apportionment, on an equitable basis between the States,
+of the water made available through economic storage and of the unregulated flow ;
+the following interdependent suggestions are submitted for consideration as to general
+lines of an agreement between the States :
+I. —Storages should be constructed above Albury, on the Murray, at Lake
+Victoria, and the existing storage on the Goulbum increased.
+11. —With a view to the construction of a complete system of locks and weirs—
+already shown to be necessary (Part 20) to counteract the effect
+of the diversions for irrigation rendered possible by the storages, and
+
+
+to maintain navigation throughout the year (and which therefore
+should be a condition of any agreement), a report, such as that being
+prepared for the Government of South Australia by the American
+Locking Expert, Captain Johnston, of the Corps of Engineers, United
+States Army, should be obtained in respect of that portion of the
+navigable river system to which the report for such Government
+does not extend, that is to say, in respect of the River Murray, from
+Wentworth to Echuca, the Murrurabidgee, from its junction with
+the Murray to Hay, and the Darling, from Wentworth to Walgett,
+giving the estimated cost, time from commencement required for
+construction, the best system to be adopted, and the sites and order of
+construction.
+Hl.—An agreement to be arrived at as to the provisions upon the following
+points to form part of any settlement:—
+(a) The volumes required, and to be provided, before locking for
+the maintenance of navigability, and after locking towards
+keeping the locked rivers navigable throughout the lengths
+mentioned in paragraph 11, for boats of not less than 5 feet
+draught, with a clearance of 1 ft. 6 in., making a total depth
+of 6 ft. 6 in.
+(b) The monthly minimum volumes of water to be delivered to
+South Australia at the inlet to Lake Victoria (at or near
+Frenchman's Creek), subject in such abnormally low years
+as 1902 and 1903, to a reduction fro rata with a similar
+reduction in the volumes of the other States.
+(c) The share of each of the three States in the unregulated flow,
+as gauged at Lake Victoria, after the diversions mentioned
+under* Part 17 have taken place. This would be necessary
+to determine the limits of any future diversions beyond those
+referred to under such Part.
+IV. —The volumes, to be delivered to South Australia of the waters of the
+River Murray and its tributaries ; the allowance for riparian use
+on the main stream from Albury to Lake Victoria ; and the volumes
+required, until locking for maintenance of navigability, and on
+locking for keeping the locked system effective for navigation, to be
+made up from the flow at Albury regulated by the Upper Murray
+storage, from the tributaries below Albury, or from both, or both
+and other sources. Subject to the right and obligation to the delivery
+of such volumes, the proportions of the contributions by New South
+Wales and Victoria to be those which the mean flows of the tributaries
+flowing through each State with half the mean flow at Albury added
+in each case, bear to each other.
+V. —The national character and advantages of works to make the Murray,
+the Murrumbidgee, and Darling Rivers permanently navigable, and
+the relation of the Commonwealth to navigation, may be thought to
+justify a contribution by the Commonwealth Government towards
+the cost of construction of such works, approximately £3,000,000,
+which would probably, if not necessarily, be spread over a number of
+years.
+VI. —No estimate has been made of the probable returns from expenditure
+in irrigation and navigation ; but it seems clear that both lines of
+development can be co-ordinated and that being undertaken as
+interdependent or necessarily associated works, the success of one
+conduces to the success of the other.
+July 19th, 1913. GRAHAM STEWART,
+Engineer-in-Chief, South Australia.
+
+
+Appendix No. 1—
+Table A.—-Comparison of gangings at Jinjellic, Tallangatta, Kiewa, and Albury
+» B. „ Mildura, Menindie, and Morgan
+it C.—-Discharge of Murray River at Jinjellic..
+» D. „ Mitta River at Tallangatta
+» E. „ Kiewa River at Kiewa
+.« E. „ Murray River at Albury ..
+.. G. „ Ovens River at Wangaratta
+ft H. ,, Broken River at Casey’s Weir
+ft I- „ Goulburn River at Murchison
+tt J- ,, Campaspe River at Rochester ..
+» K. „ Loddon River, at Laanecoorie
+». L. „ Murray River at Torrumbajry .. .. ...
+ft M. ,, Murray River at Mildura..
+tt N. ,, Murray River at Morgan
+tt 0. „ Murrumbidgoe River at Gundagai
+P- tt Murrumbidgee River at Hay
+tt Q- ,, Darling River at Wilcannia
+,t R- „ Darling River at Menindie
+tt S. „ Natural flow and effect of diversions at Lake Victoria
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+Appendix No. 2.—Report by E. Checchi, C.E., on investigation of possibilities of storage elsewhere than at
+Curaberoona, Burrinjuck, Goulburn River, and Lake Victoria
+43
+Appendix No. 3.—Replies from State Authorities to the inquiries of the Conference respecting irrigable lands
+in each State, and the volumes of water required therefor
+46
+Appendix No. and comments concerning pollution of the River Murray and its Tributaries ..
+49
+Diagram “ A.”—Showing navigation line of Murray River at Morgan, and effect at Morgan of existing and certain
+assumed diversions described in the Report.
+Diagram “ B.”—Showing effect on Murray River above Lake Victoria of certain assumed diversions from the Goulburn,
+Murrumbidgoe, and Murray Rivers described in the Report.
+Diagram “ C.”—Showing behaviour of proposed Upper Murray Storage in conjunction, with the natural flow of the
+Kiewa and Mitta Rivers in providing at Albury a regulated flow of 240,000 acre feet per month from August
+to April inclusive.
+Diagram “ D.”—Showing behaviour of proposed Lake Victoria Storage in providing, in conjunction with the flow of
+the River Murray, a regulated flow of 104,000 acre feet per month for the months September to April inclusive,
+and 41,000 acre feet per month for the months May to August inclusive.
+Diagram “ E.”—-Showing behaviour of Burrinjuck Storage in providing, in conjunction with the flow of the
+River, certain regulated flows for irrigation.
+Turaut
+Diagram “ F.”—Showing behaviour of proposed Goulburn Storage in providing a regulated flow of 126,000 acre feet
+per month for the months September to April inclusive, and 6,000 [acre feet per month throughout the rest of
+the year.
+Diagram “ Q.”—Showing navigation line and effect on Murray River at Torrumbarry of certain assumed diversions
+described in the Report. (
+Diagram “ H.”—Showing navigation line and effect on Murray River at Mildura of certain assumed diversions
+described in the Report.
+Diagram “ navigation line and effect on the Murrumbidgee River, at its junction with the Murray River,
+of certain assumed diversions described in the Report.
+Diagram “ J.”—-Showing the natural flows of the Murray, Mitta, and Kiewa Rivers, and how storage on the Upper
+Murray to a largo extent obviates the need for storages on the Mitta and Kiewa Rivers.
+LIST OF APPENDICES.
+
+
+APPENDIX No. 1.
+TABLE A.
+SHOWING COMPARISON OF THE GAUGINGS AT JINGELLIC, TALLANGATTA, KIEWA, AND ALBURY, IN MILLIONS CUBIC FEET PER ANNUM.
+—-
+Victorian Gaugings.
+New South Wales
+Gaugings.
+New South Wales Gaugings compared with those of Victoria.
+Murray River
+at
+Jingellic.
+Mitta River
+at
+Taiiangatta.
+Kiewa River
+at
+Kiewa.
+Total.
+Murray River ,
+at
+Albury.
+Gain.
+Per cent.
+Loss..
+Per cent.
+1891
+91,772
+68,384
+17,889
+178,045
+178,047
+2
+1892 ..
+71,709
+52,855
+18,787
+143,351
+146,632
+3,281
+2
+1893 ..
+103,339
+63,370
+23,093
+189,802
+203,023
+13,221
+7
+, .
+1894 ..
+152,991
+87,987
+29,506
+270,484
+293,376
+22,892
+8
+, ,
+1895 ..
+72,932
+43,491
+19,245
+135,668
+141,435
+5,767
+4
+# ,
+1896 ..
+52,199
+32,517
+12,703
+97,419
+90,888
+6,531
+7
+1897 ..
+55,144
+38,834
+14,801
+108,779
+105,677 •
+3,102
+3 .
+1898 ..
+66,241
+41,377
+17,788
+125,406
+115,861
+# #
+9,545-
+8
+1899 ..
+55,624
+38,710
+13,243
+107,577
+96,442
+11,135
+10
+1900 ..
+89,997
+51,309
+20,534
+161,840
+164,894
+3,054
+2
+, ,
+1901 ..
+63,659
+31,300
+13,516
+108,475
+105,392
+m #
+, #
+3,083
+3
+1902 ..
+25,913
+12,581
+7,021
+45,515
+39,030
+t #
+6,485.
+14
+1903 ..
+57,027
+29,579
+17,557
+104,163
+97,974
+6,189
+6
+1904 ..
+73,246
+43,816
+20,941
+138,003
+139,471
+1,468
+i
+# ,
+, ,
+1905 ..
+86,889
+44,696
+24,543
+156,128
+157,902
+1,774
+i
+, ,
+1906 ..
+140,609
+82,000
+48,000
+270,609
+266,239
+# ,
+4,370
+2
+1907 ..
+55,168
+31,700
+19,100
+105,968
+100,077
+5,891
+6
+1908 ..
+54,505
+25,200
+16,106
+94,811
+103,457
+8,646
+9
+9 #
+, #
+1909 ..
+98,963
+69,100
+35,310
+203,373
+188,471
+14,902
+7
+1910 ..
+58,700
+33,300
+22,628
+114,628
+107,240
+7,388
+6
+1911 ..
+\
+72,094
+44,801
+24,968
+141,863
+133,353
+8,510
+6
+Totals
+1,598,721
+966,907
+436,279
+3,001,907
+2,974,881
+••
+27,026
+1
+•Note. Taking the whole period of 21 years the gaugings are almost identical in volume. This agreement.
+however, must be considered
+more as a coincidence than
+as evidence of perfect accuracy.
+
+
+TABLE B.
+SHOWING COMPARISON OF THE GAUGINGS AT MILD UR A, MENINDIE, AND MORGAN, IN MILLIONS CUBIC FEET PER ANNUM.
+Victorian
+.New South Wales
+Year.
+Oauginga at Mildura.
+Gaugings at Menindie.
+Total.
+Gaugings at Morgan.
+Gain. *
+Per cent.
+Loss.
+Per cent.
+Year.
+1891
+534,115
+415,287
+949,402
+721,453
+227,949
+24
+1891
+1892
+359,475
+160,191
+519,666
+432,024
+87,642
+17
+1892
+1393
+511,228
+403,329
+914,557
+642,116
+. .
+272,441
+30
+1893
+1894
+750,125 .
+278,636
+1,028,761
+750,541
+278,220
+27
+1894
+1895
+346,582
+56,458
+403,040
+436,622
+33,582
+8
+1895
+1896
+205,456
+74,376
+279,832
+256,590
+23,242
+8
+1896
+1897
+197,288
+61,815
+259,103
+234,260
+24,843
+10
+1897
+1898
+204,257
+60,408
+264,665
+240,383
+24,282
+9
+1898
+1899
+209,686
+19,528
+229,214
+234,853
+5,639
+3
+1899
+1900
+354,302
+58,548
+412,850
+358,114
+54,736
+13
+1900
+1901
+210,398
+23,595
+233,993
+204,568
+29,425
+13
+1901
+1902
+56,241
+50
+56,291
+73,754
+17,463
+31
+1902
+1903
+215,004
+127,810
+342,814
+264,819
+77,995
+23
+1903
+1904
+269,684
+89,653
+359,337
+348,885
+10,452
+3
+1904
+1905
+287,113
+37,964
+325,077 •
+306,214
+18,863
+6
+1905
+1906
+605,676
+72,990
+678,666
+503,864
+174,802
+3
+1906
+1907
+254,756
+48,986
+303,742
+311,417
+*7,675
+3
+1907
+1908
+200,862
+66,908
+267,770
+221,905
+45,865
+17
+1908
+1909
+459,867
+34,574
+494,441 •
+400,532
+93,909
+19
+1909
+1910
+268,000
+96,861
+364,861
+305,105
+59J56
+16
+1910
+1911
+379,527
+93,055
+£72,582
+419,987
+••
+52,595
+11
+1911
+Totals
+6,879,642
+2,281,022
+9,160,664
+7,668,006
+••
+•
+1,492,658
+16
+—
+
+
+MURRAY RIVER AT JINGELLIC.
+TABLE C.
+—DISCHARGE IN THOUSANDS ACRE FEET.
+Tear.
+Janaary.
+February.
+March.
+April.
+May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1891
+388
+116
+67
+79
+76
+179
+344
+208
+182
+178
+177
+94
+2,088
+1891
+1892
+51
+36
+33
+42
+73
+121
+125
+143
+250
+306
+348
+105
+1,633
+1892
+1893
+57
+38
+44
+49
+125
+267
+279
+204
+400
+470
+268
+150
+2,351
+1893
+1894
+190
+68
+100
+131
+137
+364
+559
+428
+529
+575
+251
+142
+3,474
+1894
+1895
+81
+62
+53
+46
+76
+186
+121
+216
+390
+266
+97
+70
+1,664
+1895
+1896
+41
+48
+42
+79
+116
+102
+116
+88
+204
+194
+97
+63
+1,189
+1896
+1897
+121
+65
+60
+38
+38
+59
+113
+161
+260
+195
+98
+48
+1,256
+1897
+1898
+29
+71
+29
+37
+69
+117
+102
+212
+244
+243
+277
+93
+1,513
+1898
+1899
+57
+35
+42
+100
+62
+172
+137
+175
+150
+171
+116
+51
+1,268
+1899
+1900
+40
+22
+88
+158
+135
+219
+212
+244
+419
+303
+145
+63
+2,048
+1900
+1901
+38
+24
+24
+26
+65
+83
+57
+122
+369
+326
+259
+61
+1,454
+1901
+1902
+47
+23
+31
+26
+22
+- 76
+76
+30
+73
+110
+32
+42
+588 ,
+1902
+1903
+20
+8
+19
+41
+61
+79
+180
+106
+259
+311
+137
+75
+1,296
+1903
+1904
+104
+55
+34
+29
+52
+101
+203
+192
+236
+331
+248
+81
+1,666
+1904
+1905
+42
+29
+19
+29
+41
+128
+389
+223
+226
+348
+354
+145
+1,973
+1905
+1906
+47
+22
+58
+114
+179
+305
+374
+396
+550
+619
+308
+221
+3,193
+1906
+1907
+81
+47
+38
+49
+69
+74
+84
+167
+190
+182
+169
+106
+1,256
+1907
+1908
+47
+37
+25
+25
+55
+71
+115
+104
+271
+303
+141
+46
+1,240
+1908
+1909
+28
+32
+41
+54
+113
+422
+230
+553
+’ 312
+294
+117
+54
+2,250
+1909
+1910
+38
+26
+25
+20
+35
+57
+107
+98
+339
+254
+180
+159
+1,338
+1910
+1911
+96
+101
+132
+72
+53
+186
+273
+242
+217
+108
+80
+84
+1,644
+1911
+Total
+' 1,643
+965
+1,004
+1,244
+1,641
+3,368
+4,196
+4,312
+6,070
+6,087
+3,899
+1,953
+36,382
+Mean
+78
+46
+48
+59
+78
+160
+200
+205
+289
+290
+186
+93
+1,732
+
+
+TABLE D.
+MITTA RIVER AT TALLANGATT A.—DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May.
+June.
+July,
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1887
+30
+35
+57
+79
+49
+95
+280
+237
+316
+230
+329
+123
+1,860
+1887
+1888
+86
+47
+30
+24
+37
+75
+119
+101
+134
+94
+46
+31
+824
+1888
+1889
+67
+43
+22
+43
+103
+302
+150
+175
+441
+228
+163
+99
+1,836
+1889
+1890
+37
+52
+37
+32
+41
+246
+139
+111
+170
+321
+202
+99
+1,487
+1890
+1891
+207
+87
+70
+64
+69
+81
+265
+222
+159
+150
+102
+79
+1,555
+1891
+1892
+60
+31
+27
+43
+63
+89
+91
+87
+136
+187
+289
+100
+1,203
+1892
+1893
+. 63
+33
+37
+35
+71
+125
+169
+113
+268
+312
+113
+100
+1,439
+1893
+1894
+85
+49
+57
+75
+76
+209
+250
+264
+373
+352
+122
+88
+2,000
+1894
+1895
+53
+37
+37
+42
+61
+90
+72
+127
+250
+116
+57
+49
+991
+1895
+1896
+23
+21
+21
+55
+59
+71
+77
+54
+166
+90
+65
+40
+742
+1896
+1897
+70
+79
+32
+17
+14
+33
+69
+109
+227
+156
+56
+26
+888
+1897
+1898
+11
+53
+28
+33
+48
+96
+77
+140
+134
+134
+133
+57
+944
+1898
+1899
+38
+26
+40
+58
+61
+146
+111
+138
+87
+77
+67
+33
+882
+1899
+1900
+29
+17
+43
+91
+87
+136
+118
+194
+202
+119
+84
+48
+1,168
+1900
+1901
+23
+10
+8
+13
+20
+52
+30
+82
+186
+121
+106
+31
+682
+1901
+1902
+15
+7
+7
+8
+8
+48
+42
+22
+35
+48
+15
+30
+285
+1902
+1903
+9
+8
+11
+21
+22
+46
+115
+64
+121
+132
+73
+50
+672
+1903
+1904
+. 52
+25
+13
+11
+30
+60
+165
+130
+147
+192
+130
+39
+994
+1904
+1905
+12
+9
+6
+7
+14
+64
+301
+116
+122
+167
+133
+62
+1,013
+1905
+1906
+21
+11
+65
+40
+96
+223
+242
+271
+264
+342
+153
+144
+1,872
+1906
+1907
+50
+34
+18
+20
+35
+48
+55
+133
+109
+102
+76
+39
+719
+1907
+1908
+20
+17
+12
+11
+22
+46
+50
+51
+130
+134
+57
+25
+575
+1908
+1909
+12
+10
+18
+25
+91
+323
+127
+* 522
+178
+137
+79
+42
+1,564
+1909
+1910
+20
+13
+14
+12
+18
+34
+61
+58
+202
+144
+102
+77
+755
+1910
+1911
+65
+72
+106
+41
+46
+151
+157
+144
+96
+81
+42
+19
+1,020
+1911
+Total
+1,158
+826
+816
+900
+1,241
+2,889
+3,332
+3,665
+4,653
+4,166
+2,794
+1,530
+27,970
+Mean
+46
+33
+33
+36
+50
+116
+133
+146
+186
+166
+112
+61
+1,118
+—
+
+
+TABLE E.
+KIEWA RIVER AT KIEWA.—DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1886
+11
+18
+9
+7
+10
+12
+15
+*
+•
+53
+68
+66
+41
+40
+350
+1886
+1887
+13
+11
+18
+27
+19
+39
+84
+77
+97
+97
+92
+50
+624
+1887
+1888
+28
+17
+11
+10
+16
+44
+45
+30
+68
+53
+18
+11
+351
+1888
+1889
+* 25
+14
+6
+12
+45
+99
+56
+73
+106
+93
+62
+27
+618
+1889
+1890
+11
+9
+9
+9
+20
+69
+35
+62
+79
+94
+86
+36
+519
+1890
+1891
+64
+20
+11
+22
+13
+25
+69
+37
+40
+50
+38
+17
+406
+1891
+1892
+9
+7
+5
+6
+22
+48
+42
+40
+69
+76
+75
+28
+427
+1892
+1893
+13
+8
+7
+8
+25
+84
+62
+53
+100
+103
+45
+20
+528
+1893
+1894
+16
+10
+17
+27
+22
+73
+81
+87
+106
+120
+71
+40
+670
+1894
+1895
+20
+15
+10
+23
+24
+52
+38
+49
+98
+70
+22
+18
+439
+1895
+1896
+11
+14
+13
+27
+29
+18
+27
+14
+43
+55
+24
+16
+291
+1896
+1897
+36
+16
+13
+7
+6
+18
+31
+42
+65
+68
+22
+12
+336
+1897
+1898
+6
+15
+5
+11
+15
+55
+26
+55
+73
+65
+64
+17
+407
+1898
+1899
+7
+8
+16
+23
+24
+52
+37
+30
+42
+33
+20
+10
+302
+1899
+1900
+9
+4
+24
+37
+30
+42
+49
+55
+79
+88
+36
+16
+469
+1900
+1901
+9
+5
+6
+7
+12
+17
+15
+36
+92
+70
+28
+11
+308
+1901
+1902
+12
+6
+6
+9
+5
+21
+10
+8
+22
+35
+13
+13
+160
+1902
+1903
+10
+5
+9
+18
+22
+29
+57
+30
+74
+95
+30
+19
+398
+1903
+1904
+30
+11
+8
+7
+19
+33
+63
+70
+46
+99
+70
+19
+475
+1904
+1905
+10
+6
+4
+6
+12
+38
+112
+74
+56
+89
+108
+43
+558
+1905
+1906
+11
+6
+52
+17
+56
+111
+116
+106
+177
+286
+88
+61
+1,087
+1906
+1907
+22
+10
+6
+12
+21
+39
+39
+58
+69
+65
+72
+23
+436
+1907
+1908
+14
+9
+6
+5
+15
+22
+33
+30
+73
+87
+38
+11
+343
+1908
+1909
+- 7
+6
+11
+8
+74
+172
+95
+199
+80
+100
+35
+12
+798
+1909
+1910
+8
+6
+6
+4
+15
+27
+67
+48
+190
+114
+86
+35
+606
+1910
+1911
+28
+49
+48
+26
+29
+88
+77
+60
+78
+56
+16
+13
+568
+1911
+Total
+440
+304
+336
+375
+600
+1,327
+1,381
+1,476
+2,090
+2,227
+1,300
+618
+12,474
+Mean
+17
+12 ’
+13
+14
+23
+51
+53
+57
+80
+86
+50
+24
+480
+—
+
+
+MURRAY RIVER AT
+TABLE F.
+ALBURY.—DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May.
+June. r
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1885
+78
+70
+46
+61
+65
+164
+109
+161
+638
+387
+159
+94
+2,032
+1885
+1886
+70
+86 :
+46
+37
+67
+69
+81
+328
+590
+502
+356
+272
+2,504
+1886
+1887
+108
+74
+210
+193
+140
+318
+946
+819
+1,025
+875
+911
+435
+6,054
+1887
+1888
+305
+129 •
+103
+81
+110
+262
+341
+273
+531
+359
+135
+99
+2,728
+1888
+1889
+182 !
+122
+50
+80
+346
+980
+666
+717
+1,254
+878
+557
+323
+6,155
+1889
+1890
+114
+76
+81
+80
+106
+575
+539
+579
+696
+971
+739
+348
+4,903
+1890
+1891
+760 1
+232
+128
+144
+130
+206
+809
+- 514
+347
+327
+310
+180
+4,087
+1891
+1892
+86
+45
+44
+55
+118
+248
+, 264
+304
+539
+630
+786
+251
+3,365
+1892
+1893
+115
+52
+58
+68
+128
+500
+656
+455
+893
+1,026
+497
+210
+4,658
+1893
+1894
+323
+105
+143
+233
+207
+671
+946
+973
+1,141
+1,182
+548
+262
+6,734
+1894
+1895
+164
+108
+99
+95
+150
+324
+255
+368
+851
+515
+182
+135
+3,246
+1895
+1896
+75
+63
+74
+145
+172
+165
+232
+147
+381
+338
+170
+125
+2,087
+1896
+1897
+200
+125
+97
+53
+57
+101
+185
+286
+579
+462
+193
+88
+2,426
+1897
+1898
+47
+88
+50
+56
+91
+237
+185
+408
+463
+390
+479
+165
+2,659
+1898
+1899
+91
+44
+69
+145
+136
+827
+286
+329
+260
+268
+172
+87
+2,214
+1899
+1900
+59
+26
+114
+220
+239
+341
+532
+530
+785
+574
+250
+115
+3,785
+1900
+1901
+59
+31
+36
+48
+74
+138
+100
+208
+638
+513
+466
+109
+2,420
+1901
+1902
+79
+37
+87
+46
+34
+100
+94
+61
+101
+167
+61
+78
+895
+1902
+1903
+46
+22
+39
+65
+87
+124
+337
+188
+424
+540
+242
+134
+2,248
+1903
+1904
+174
+89
+58
+43
+81
+165
+435
+358
+500
+666
+482
+151
+3,202
+1904
+1905
+84
+48
+31
+45
+57
+201
+846
+485
+397
+568
+608
+255
+3,625
+1905
+1906-
+100
+40
+168
+158
+274
+531
+831
+869
+1,004
+1,147
+557
+433
+6,112
+1906
+1907
+192
+104
+81
+88
+130
+156
+155
+325
+311
+317
+267
+170
+2,296
+1907
+1908
+93
+\70
+47
+36
+96
+86
+241
+399
+427
+507
+260
+111
+2,373
+1908
+1909
+56
+39
+75
+85
+235
+616
+543
+1,155
+653
+522
+229
+117
+4,325
+1909
+1910
+68
+47
+57
+38
+56
+107
+204
+174
+667 .
+461
+326
+256
+2,461
+1910
+1911
+187
+187
+265
+136
+140
+344
+444
+498
+327
+268
+135
+130
+3,061
+1911
+Total
+3,915
+2,158
+2,306
+2,534
+3,521
+8,056
+11,262
+11,911
+16,422
+15,360
+10,077
+5,133
+92,655
+Mean
+145
+80
+85
+94
+130
+299
+417
+441
+608
+569
+373
+190
+3,431
+
+
+TABLE G
+OVENS RIVER AT WANGARATTA.— DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May,
+June.
+July.
+Anguit.
+September.
+October.
+November,
+December.
+Total.
+Year
+1887
+23
+17
+28
+59
+39
+117
+221
+211
+202
+131
+173
+69
+1,290
+1887
+1888
+37
+19
+15
+13
+21
+70
+113
+98
+102
+53
+21
+15
+577
+1888
+1889
+37
+20
+10
+15
+83
+287
+168
+214
+290
+141
+93
+55
+1,413
+1889
+1890
+19
+14
+12
+15
+19
+155
+139
+216
+174
+184
+128
+62
+1,137
+1890
+1891
+123
+40
+16
+33
+19
+50
+205
+106
+78
+58
+61
+23
+812
+1891
+1892
+12
+5
+4
+3
+42
+137
+161
+183
+240
+115
+149
+61
+1,112
+1892
+1893
+18
+7
+4
+8
+36
+259
+324
+209
+331
+289
+97
+39
+1,621
+1893
+1894
+17
+10
+14
+32
+42
+183
+316
+335
+388
+334
+149
+93
+1,913
+1894
+1895
+37
+18
+17
+11
+29
+105
+140
+185
+296
+93
+28
+31
+990
+1895
+1896
+10
+ft
+11
+46
+39
+32
+158
+61
+153
+78
+27
+22
+649
+1896
+1897
+44
+12
+8
+6
+5
+28
+75
+135
+204
+112
+39
+10
+678
+1897
+1898
+3
+8
+4
+6
+12
+111
+89
+212
+199
+91
+108
+29
+872
+1898
+1899
+12
+7
+15
+31
+37
+206
+142
+101
+47
+40
+37
+10
+685
+1899
+1900
+4
+3
+12
+40
+56
+107
+169
+• 267
+275
+106
+32
+11
+1,082
+1900
+1901
+6
+4
+4
+6
+7
+47
+36
+99
+238
+167
+107
+18
+739
+1901
+1902
+9
+4
+2
+B
+.2
+38
+21
+10
+14
+15
+6
+14
+140
+1902
+1903
+6
+1
+3
+11
+19
+81
+205
+93
+182
+90
+47
+19
+757
+1903
+1904
+27
+9
+5
+4
+14
+61
+263
+184
+214
+219
+134
+32
+1,166
+1904
+1905
+11
+5
+3
+8
+11
+84
+377
+211
+151
+123
+106
+32
+1,122
+1905
+1906
+14
+3
+41
+22
+64
+258
+366
+330
+328
+330
+99
+102
+1,957
+1906
+1907
+47
+22
+16
+17
+29
+54
+73
+218
+103
+64
+52
+31
+726
+1907
+1908
+20
+6
+4
+3
+13
+53
+105
+78
+130
+95
+44
+19
+570
+1908
+1909
+7
+2
+9
+24
+167
+321
+230
+545
+226
+123
+50
+25
+1,729
+1909
+1910
+11
+4
+4
+3
+9
+37
+147
+97
+399
+200
+110
+79
+1,100
+1910
+1911
+41
+136
+103
+46
+65
+298
+204
+227
+95
+61
+31
+21
+1,328
+1911
+Total
+595
+388
+364
+467
+879
+3,179
+4,447
+4,625
+5,059
+3,312
+1,928
+922
+26,165
+Mean
+•24
+16
+15
+19
+35
+127
+* 178
+185
+202
+132
+77
+37
+1,047
+_
+
+
+TABLE H.
+BROKEN RIVER AT CASEY’S WEIR.—DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1887
+4
+1
+6
+10
+8
+29
+57
+54
+54
+31
+41
+17
+312
+1887
+1888
+9
+4
+4
+4
+6
+11
+16
+13
+19
+10
+7
+5
+108
+1888
+1889
+17
+3
+2
+3
+28
+133
+46
+74
+109
+32
+17
+8
+472
+1889
+1890
+4
+3
+3
+4
+6
+68
+53
+104
+51
+42
+22
+12
+372
+1890
+1891
+15
+5
+4
+8
+5
+8
+51
+28
+13
+7
+9
+6
+159
+1891
+1892
+3
+2
+2
+2
+5
+12
+25
+48
+60
+14
+29
+8
+210
+1892
+1893
+4
+-2
+2
+3
+10
+61
+80
+49
+98
+69
+16
+9
+403
+1893
+1894
+8
+6
+7
+9
+12
+45
+98
+92
+102
+115
+34
+16
+544
+1894
+1895
+7
+5
+4
+5
+6
+12
+16
+37
+31
+18
+5
+6
+152
+1895
+1896
+o
+mJ
+2
+O
+sU
+6
+5
+6
+20
+8
+21
+7
+7
+3
+89
+1896
+1897
+4
+2
+o
+2
+2
+6
+9
+29
+45
+12
+6
+2
+121
+1897
+1898
+1
+0
+1
+2
+3
+31
+16
+38
+32
+12
+10
+5
+151
+1898
+1899
+3
+1
+2
+4
+4
+50
+15
+18
+9
+9
+9
+3
+127
+1890
+1900
+2
+0
+1
+4
+6
+20
+16
+58
+38
+10
+7 ■
+3
+165
+1900
+1901
+I
+0
+0
+2
+2
+10
+10
+16
+35
+32
+18
+5
+131
+1901
+1902
+2
+1
+1
+1
+1
+7
+4
+4
+4
+3
+1
+2
+31
+1902
+1903
+0
+0
+1
+4
+4
+16
+44
+19
+41
+22
+9
+6
+166
+1903
+1904
+8
+3
+1
+1
+4
+9
+72
+31
+41
+36
+17
+9
+232
+1904
+1905
+3
+1
+1
+3
+4
+8
+100
+25
+22
+16
+17
+10
+210
+1905
+1906
+2
+1
+2
+2
+4
+32
+58
+33
+68
+86
+18
+14
+320
+1906
+1907
+6
+4
+3
+4
+5
+6
+9
+19
+11
+7
+6
+6
+86
+1907
+1908
+2
+1
+1
+0
+2
+18
+12
+13
+18
+14
+2
+10
+93
+1908
+1909
+1
+0
+1
+2
+39
+75
+57
+107
+33
+16
+9
+5
+345
+1909
+1910
+2
+1
+1
+1
+2
+6
+29
+15
+68
+20
+16
+9
+170
+1910
+1911
+7
+10
+10
+4
+9
+46
+31
+. 29
+18
+13
+6
+4
+187
+1911
+Total
+Mean
+117
+5
+58
+2
+64
+3
+90
+4
+182
+7
+725
+29
+944
+38
+961
+38
+1,041
+42
+653
+26
+338
+14
+183
+7
+5,356
+215
+—
+
+
+GOULBURN RIVER AT
+TABLE L
+MURCHISON.— DISCHARGE IN THOUSANDS ACRE FEET.
+Tear.
+January.
+February.
+March.
+April.
+May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1882
+64
+25
+14
+20
+86
+131
+315
+428
+393
+247
+122
+124
+1,969
+1882
+1883
+60
+39
+40
+44
+43
+128
+255
+609
+476
+490
+417
+217
+2,818
+1883
+1884
+61
+61
+67
+45
+68
+90
+87
+157
+165
+142
+105
+110
+1*158
+1884
+1885
+62
+53
+31
+70
+39
+222
+197
+238
+461
+331
+116
+113
+U933
+1885
+1886
+91
+79
+47
+34
+47
+56
+53
+295
+279
+208
+209
+129
+1*527
+1886
+1887
+53
+34
+42
+96
+82
+311
+548
+652
+648
+461
+633
+253
+3,813
+1887
+1888
+132
+65
+56
+46
+62
+222
+355
+294
+306
+163
+73
+44
+1*818
+1888
+1889
+96
+43
+23
+42
+129
+717
+497
+481
+861
+406
+218
+102
+3*615
+1889
+1890
+55
+35
+29
+40
+35
+356
+403
+537
+440
+512
+310
+156
+2*908
+1890
+1891
+135
+60
+37
+74
+53
+103
+543
+288
+177
+136
+181
+75
+1*862
+1891
+1892
+39
+21
+19
+28
+95
+303
+353
+358
+467
+195
+266
+126
+2*270
+1892
+1893
+55
+■ 28
+19
+27
+54
+383
+519
+345
+631
+492
+186
+90
+2*829
+1893
+1894
+75
+28
+36
+51
+67
+220
+567
+674
+754
+661
+233
+121
+3*487
+1894
+1895
+78
+40
+36
+41
+55
+165
+232
+329
+484
+175
+50
+46
+1,731
+1895
+1896
+30
+20
+25
+73
+63
+83
+313
+172
+268
+113
+51
+35
+1*246
+1896
+1897
+73
+36
+38
+29
+29
+49
+161
+242
+414
+163
+92
+34 .
+1,360
+1897
+1898
+20
+20
+16
+18
+25
+225
+174
+283
+350
+154
+154
+72
+1,511
+1898
+1899
+41
+25
+31
+45
+86
+385
+308
+296
+102
+108
+79
+36
+1,542
+1899
+1900
+28
+24
+25
+91
+149
+179
+319
+463
+460
+214
+95
+47
+2,094
+1900
+1901
+36
+24
+23
+86
+67
+280
+190
+255
+511
+325
+243
+67
+2,107
+1901
+1902
+46
+28
+28
+29
+27
+93
+87
+48
+72
+74
+40
+50
+622
+1902
+1903
+34
+26
+44
+70
+105
+300
+509
+259
+345
+203
+112
+76
+2,083
+1903
+1904
+187
+114
+45
+30
+39
+171
+576
+340
+403
+316
+185
+61
+2,467
+1904
+1905
+37
+27
+30
+25
+41
+136
+608
+350
+368
+327
+265
+96
+2,310
+1905
+1906
+47
+31
+59
+37
+88
+363
+861
+557
+698
+807
+185
+187
+3,920
+1906
+1907
+81
+46
+31
+43
+57
+87
+116
+326
+132
+144
+86
+76
+1,225
+1907
+1908
+65
+32
+23
+16
+30
+148
+153
+257
+239
+163
+85
+35
+1,246
+1908
+1909
+28
+27
+22
+22
+255
+503
+406
+1,137
+399
+214
+80
+48
+3,141
+1909
+1910
+22
+18
+19
+21
+21
+102
+347
+203
+711
+385
+190
+95
+2,134
+1910
+1911
+56
+136
+132
+58
+103
+899
+59
+425
+172
+115
+46
+56
+2,257
+1911
+Total
+1,887
+1,245
+1,087
+1,351
+2,100
+7,410
+10,111
+11,298
+12,186
+8,444
+5,107
+2,777
+65,003
+Mean
+63
+41
+36
+45
+70
+247
+337
+377
+406
+281
+170
+92
+2,165
+—
+
+
+TABLE J.
+CAMPASPE RIVER AT ROCHESTER. —DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May.
+June.
+July,
+August.
+September.
+October.
+November.
+December.
+Total.
+Year
+1885
+0
+0
+0
+2
+0
+8
+26
+16
+58
+12
+2
+2
+126
+1885
+1886
+6
+0
+0
+0
+1
+0
+0
+23
+15
+4
+. 5
+0
+54
+1886
+1887
+0
+0
+0
+10
+0
+13
+37
+76
+56
+29
+55
+26
+302
+1887
+1888
+2
+0
+0
+0
+1
+8
+29
+10
+9
+7
+0
+0
+66
+1888
+1889
+29
+1
+0
+1
+11
+131
+40
+61
+86
+17
+20
+3
+400
+1889
+1890
+2
+2
+2
+3
+2
+19
+55
+90
+26
+33
+11
+3
+248
+1890
+1891 .
+2
+2
+2
+8
+2
+7
+77
+49
+11
+10
+8
+2
+180
+1891
+1892
+2
+2
+2
+2
+1
+11
+29
+35
+40
+18
+55
+5
+202
+1892
+1893
+2
+2
+2
+2
+10
+97
+65
+47
+62
+39
+14
+2
+344
+1893
+1894
+2
+2
+2
+1
+3
+22
+47
+79
+100
+65
+18
+7
+348
+1894
+1895
+8
+2
+v 2
+2
+2
+2
+6
+18
+32
+11
+2
+2
+89
+1895
+1896
+2
+2
+2
+5
+4
+5
+21
+9
+23
+3
+2
+2
+80
+1896
+1897
+3
+2
+2
+1
+1
+2
+11
+24
+40
+13
+6
+2
+107
+1897
+1898
+2
+2
+2
+1
+1
+18
+9
+29
+37
+4
+1
+2
+108
+1898
+1899
+2
+1
+2
+\
+2
+77
+17
+33
+5
+. 4
+4
+2
+151
+1899
+1900
+o
+2
+1
+1
+5
+24
+35
+43
+36
+8
+2
+3
+162
+1900
+1901
+2
+2
+1
+0
+0
+4
+2
+5
+22
+7
+4
+2
+51
+1901
+1902
+2
+2
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+16
+1902
+1903
+1
+1
+1
+1
+0
+, 4
+29
+10
+31
+34
+5
+12
+129
+1903
+1904
+35
+10
+5
+3
+2
+4
+52
+16
+24
+3
+4
+2
+160
+1904
+1905
+2
+2
+3
+3
+1
+3
+55
+18
+16
+17
+11
+2
+133
+1905
+1906
+3
+3
+4
+2
+n
+i
+40
+54
+49
+108
+70
+6
+7
+353
+1906
+1907
+3
+3
+3
+3
+2
+3
+8
+21
+8
+2
+3
+7
+66
+1907
+1908
+2
+2
+3
+3
+2
+6 .
+7
+12
+22
+5
+3
+3
+70
+1908
+1909
+3
+2
+2
+1
+22
+64
+47
+206
+25
+3
+3
+3
+381
+1909
+1910
+3
+3
+2
+2
+2
+23
+59
+58
+118
+22
+13
+4
+309
+1910
+1911
+4
+69
+30
+6
+24
+92
+36
+37
+34
+16
+4
+4
+356
+1911
+Total
+Mean
+126
+5
+121
+4
+76
+3
+66
+2
+109
+4
+688
+25
+855
+32
+1,075
+40
+1,045
+39
+457
+17
+262
+10
+111
+4
+4,991
+185
+—
+
+
+TABLE K
+L ODD ON RIVER AT LAANECOORIE.— DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+AprU.
+May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1891
+1892
+1893
+1894
+1895
+1896
+1897
+1898
+1899
+1900
+1901
+1902
+190?
+1904
+1905
+1906
+1907
+1908
+1909
+1910
+1911
+2
+1
+2
+3
+21
+1
+35
+8
+1
+2
+1
+4
+8
+30
+2
+3
+1
+1
+2
+2
+8
+1
+2
+1
+2
+2
+3
+1
+1
+7
+1
+1
+1
+.1
+4
+5
+2 '
+3
+2
+2 '
+1
+37
+2
+2
+2
+3
+2
+4
+0
+2
+4
+' 3
+1
+2
+2
+1
+5
+10
+2
+2
+5
+12
+20
+5
+11
+9
+4
+‘5
+11
+1
+2
+3
+3
+2
+3
+13
+2
+7
+2 ;
+5
+3
+4
+1 *
+3
+6
+28
+84
+7
+3
+5
+2
+1
+7
+12
+10
+0
+3
+4
+4
+17
+4
+7
+69
+4
+14
+5
+60
+157
+23
+9
+8
+8
+35
+97
+45
+13
+4
+20
+25
+10
+56
+4
+11
+74
+30
+45 ,
+19
+51
+75
+62
+10
+26
+9
+. 11
+15
+14
+3
+1
+89
+79
+43
+63
+17
+4 :
+48
+58
+26
+23
+48
+58
+69
+26
+12
+29
+23
+27
+56
+5
+1
+21
+26
+13
+57
+. 25
+17
+217
+32
+21
+8
+43
+69
+125
+53
+15
+38
+40
+4
+33
+30 •
+1
+45
+26
+17
+127
+. ; 7
+37
+35
+82
+36
+15
+14
+82
+115
+15
+2
+13
+4 ■
+3
+7
+9 ‘
+3
+34
+19
+21
+98
+24
+15
+12
+16
+8
+9
+52
+52
+16
+2
+2
+6
+2 ,
+4
+1
+3 .
+6
+51
+4
+11
+34
+5
+12
+3
+8
+12
+3
+7
+4
+11
+4
+1
+0
+0
+2
+0
+3
+4
+13
+2
+4
+7
+12
+2
+3
+1
+4
+98
+319
+595
+440
+152
+90
+142'
+129
+174
+177
+81
+30
+300
+222
+142
+476 .
+109
+113
+474
+247
+234
+1891
+1892
+1893
+1894
+1895
+1896
+1897
+1898
+1899
+1900
+1901
+1902
+1903
+1904
+1906
+1906
+1907
+1908
+1909
+1910
+1911
+Total
+Mean
+138
+7
+80
+4
+86
+4
+99
+5
+291
+14
+739
+35
+723
+34
+806
+38
+871
+41
+529
+25
+295
+14
+87
+4
+4,744
+225
+—
+
+
+TABLE L.
+MURRAY RIVER AT TORRUMBARRY.— DISCHARGE IN ACRE FEET.
+Year.
+*
+January.
+February.
+March.
+April.
+. May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1895
+376
+218
+175
+156
+217
+336
+? 1
+600 1
+657
+1,015
+886
+420
+219
+5,275
+1895
+1896
+200
+77
+102
+144
+272
+236
+587
+400
+545
+509
+264
+199
+3,535
+1896
+1897
+181
+184
+113
+75
+72
+86
+330
+473
+941
+665
+401
+148
+3,669
+1897
+1898
+58
+80
+69
+59
+68
+375
+410
+731
+839
+679
+552
+342
+4,162
+1898
+1899
+135
+98
+60
+192
+199
+493
+984
+688
+415
+341
+319
+158
+4,082
+1899
+1900
+66
+57
+67
+241
+325
+402
+859
+791
+1,213
+964
+535
+218
+5,738
+1900
+1901
+99
+56
+42
+67
+153
+341
+347
+402
+804
+954
+836
+320
+4,421
+1901
+1902
+132
+70
+42
+73
+55
+117
+217
+171
+173
+243
+147
+87
+1,527
+1902
+1903
+86
+30
+34
+61
+175
+350
+765
+640
+650
+781
+541
+264
+4,377
+1903
+1904
+349
+214
+92
+47
+71
+191
+755
+917
+963
+807
+" 875
+394
+5,675
+1904
+1905
+123
+55
+40
+48 ,
+62
+243
+800
+1,196
+813
+787
+856
+497
+5,520
+1905
+1906
+183
+66
+139
+153
+256
+561
+1,215
+1,315
+1,446
+1,652
+995
+746
+8,727
+1906
+1907
+385
+195
+115
+106
+198
+274
+261
+644
+•617
+458
+362
+226
+3,841
+1907
+1908
+179
+71
+58
+42
+88
+183
+383
+450
+648
+571
+475
+185
+3,333
+1908
+1909
+64
+47
+61
+59
+415
+701
+1,168
+1,508
+1,448
+921’
+472
+207
+7,071
+1909
+1910
+104
+74
+62
+53
+59
+172
+634
+602
+1,079
+1,158
+721
+403
+5,121
+1910
+1911
+227
+409
+468
+353
+259
+867
+1,208
+1,119
+702
+488
+266
+157
+6,523
+1911
+Total
+2,947
+2,001
+1,739
+1,929
+,2,944
+5,928
+11,523
+12,704
+14,311
+12,764
+9,037
+4,770
+82,597
+Mean
+173
+118
+102
+113
+173
+349
+678
+747
+842
+751
+532
+281
+4,859
+
+
+TABLE M.
+MURRAY RIVER AT MILDURA.—DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May.
+June.
+July.
+August.
+September,
+October.
+November.
+December.
+Total.
+Year.
+1891
+1,138
+850
+641
+437
+476
+440
+717
+1,898
+2,286
+1,430
+1,105
+775
+12,193
+1891
+1892
+493
+276
+167
+80
+191
+431
+675
+933
+955
+1,273
+1,384
+1,321
+8,179
+1892
+1893
+8?3
+301
+216
+205
+249
+482
+1,006
+1,450
+1,798
+1,597
+1,841
+U650
+11,638
+1893
+1894
+705
+519
+344
+415
+606
+829
+1,172
+1,771
+2,774
+2,888
+2,725
+2,336
+17,084
+1894
+1895
+1,168
+473
+349
+277
+288
+379
+621
+791
+867
+1,215
+1,127
+357
+7,912
+1895
+1896
+206
+117
+119
+123
+324
+405
+535
+701
+553
+737
+543
+322
+4,685
+1896
+1897,
+191
+336
+178
+123
+80
+. 85
+268
+470
+700
+963 .
+821
+329
+4,534
+1897
+1898
+106
+63
+121
+59
+58
+144
+517
+555
+827
+909
+696
+610
+4,655
+1898
+1899
+232
+116
+63
+100
+200
+286
+695
+957
+841
+511
+464
+316
+4,781
+1899
+1900
+72
+55
+39
+142
+401
+516
+750
+1,275
+1,270
+1,534
+1,406
+606
+8,066
+1900
+1901
+176
+86
+43
+40
+141
+176
+439
+411
+555
+857
+1,002
+875
+4'801
+1901
+1902
+219
+94
+40
+54
+44
+41
+198
+168
+95
+159
+143
+54
+1,309
+1902
+1903
+• 92
+34
+22
+23
+163
+232
+536
+799
+691
+861
+909 '
+542
+4'904
+1903
+1904
+354
+373
+152
+71
+59
+131
+398
+791
+950
+1,028
+963
+882
+6-152
+1904
+1905
+257
+79
+46
+36
+65
+131
+517
+1,022
+1,457
+1,056
+970
+907
+6,543
+1905
+1906
+419
+127
+96
+277
+331
+661
+923
+1,555
+2,077
+2,491
+2,852
+1,971
+13,780
+1906
+1907
+996
+409
+225
+158
+216
+313
+390
+574
+818
+710
+579
+447
+5,835
+1907
+1908
+310
+127
+94
+72
+79
+167
+442
+575
+673
+850
+775
+426
+4,590
+1908
+1909
+143
+74
+105
+104
+. 208
+624
+954
+1,508
+2,230
+2,618
+1,391
+523
+10,482
+1909
+1910
+196
+139
+105
+92
+77
+133
+469
+766 *
+745
+1,216
+1,343
+832
+6,113
+1910
+1911
+426
+494
+678
+619
+355
+556
+1,005
+1,397
+1,412
+965
+517
+261
+8.685
+1911
+Total
+' 8,742
+5,132
+3,843
+3,507
+4,611
+7,162
+13,217
+20,367
+24,574
+25,868
+23,556 .
+16,342
+156,921
+Mean
+416
+244-.
+183
+167
+220
+341
+629
+970
+1,170
+1,232
+1,122
+778
+7*472
+—
+
+
+TABLE N.
+MURRAY RIVER AT MORGAN.—DISCHARGE IN THOUSANDS ACRE FEET.
+Year,
+January.
+February.
+March.
+April.
+May.
+June.
+July. .
+August.
+September.
+October.
+November.
+December.
+Total,
+Year;
+1891
+1,950
+1,605
+1,293
+1,095
+895
+926
+906
+1,175
+1,961
+2,011
+1,548
+1,130
+16,495
+1891
+1892
+1,069
+779
+501
+270
+204
+422
+610
+892
+1,102
+1,157
+1,357
+1,467
+9,830
+1892
+1893
+1,453
+1,191
+545
+524
+566
+747
+1,012
+1,307
+1,688
+1,991
+1,776
+1,852
+14,652
+1893
+1894
+1,685
+903
+610
+508
+749
+988
+1,258
+. 1,504
+2,023
+2,319
+2,391
+2,155
+17,093
+1894
+1895
+2,073
+1,215
+525
+508
+466
+460
+493
+708
+794
+855
+1,066
+827
+9,990
+1895
+1896
+393
+281
+314
+384
+426
+455
+468
+601
+710
+657
+709
+442
+5,840
+1896
+1897
+307
+346
+315
+208
+167
+122
+175
+378
+680
+895
+977
+775
+5,345
+1897
+1898
+262
+239
+323
+387
+253
+162
+380
+479
+683
+804
+809
+693
+5,474
+1898
+1899
+457
+151
+119
+219
+226
+234
+468
+772
+867
+805
+562
+455
+5,335
+1899
+1900
+208
+36
+30
+110
+320
+456
+621
+927
+1,327
+1,433
+1,476
+1,189
+8,133
+1900
+1901
+390
+166
+51
+4
+42
+160
+315
+366
+507
+748
+965
+940
+4,654
+1901
+1902
+548
+213
+66
+8
+5
+. 7
+93
+197
+168
+117
+173
+92
+1,687
+1902
+1903
+64
+85
+30
+20
+96
+279
+495
+723
+921
+1,023
+1,128
+1,152
+6,016
+1903
+1904
+790
+730
+405
+303
+272
+329
+414
+695
+964
+1,049
+1,011
+982
+7,944
+1904
+1905
+555
+190
+66
+38
+173
+345
+488
+761
+1,103
+1,282
+1,033
+924
+6,958
+1905
+1906
+618
+219
+183
+396
+478
+572
+746
+980
+1,393
+1,720
+2,016
+* 2,127
+11,448
+1906
+1907
+1,578'
+798
+578
+. 320
+331
+319
+348
+427
+653
+715
+594
+453
+7,114
+1907
+1908
+291
+219
+77
+236
+322
+362
+357
+467
+587
+753
+826
+554
+5,051
+1908
+1909
+247
+140
+115
+160
+143
+434
+644
+987
+1,337
+1,956
+1,948
+999
+9,110
+1909
+1910
+321
+229
+401
+407
+377
+320
+356
+668
+841
+890
+1,108
+1,025
+6,943
+1910
+1911
+• 567
+529
+790
+895
+835
+586
+751
+1,074
+1,267
+1,230
+710
+338
+9,572
+1911
+Total
+15,826
+10,264
+7,337
+7,000
+7,346
+8,685
+11,398
+16,088
+21,576
+24,410
+24,183
+20,571
+174,684
+Mean
+754
+489
+349
+333
+350
+413
+543
+766
+1,028
+1,162
+1,152
+979
+8,318
+—
+
+
+TABLE 0.
+MURRUMBID GEE RIVER AT GUNDAGAI— DISCHARGE IN THOUSANDS ACRE FEET
+Year.
+January.
+February,
+March.
+April.
+May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1887
+424
+158
+459
+182
+135
+378
+763
+588
+538
+459
+498
+283
+4,865
+1887
+loco
+199
+106
+113
+77
+53
+106
+192
+139
+253
+164
+42
+191
+1*635
+1888
+looy
+168
+49
+26
+44
+170
+614
+304
+296
+709
+479
+354 ;
+, 216
+3,429
+1889
+i»yu
+78
+101
+245
+112
+172
+659
+666
+602
+385
+472
+380
+276
+4^148
+1890
+loyi
+897
+192
+150
+185
+186
+1,186
+1,607
+842
+510
+389
+303
+208
+6,655
+1891
+loyz
+178
+115
+84
+68
+126
+282
+353
+304
+786
+801
+507
+308
+3*912
+1892
+io yo
+205
+92
+236
+130
+302
+557
+507
+338
+425
+324
+335
+184
+3*635
+1893
+loyl
+375
+255
+633
+726
+361 ;
+674
+784
+721
+855
+482
+291
+198
+6*355
+1894
+lyy *j
+185
+205
+137
+• 86
+81
+207
+239
+267
+412
+313
+163
+120
+2^415
+1895
+Lovo
+114
+97
+80
+77
+179
+302
+312
+130
+.235
+127
+92
+66
+1,811
+1896
+lo97
+284
+135
+101
+96
+•52
+117
+167
+225 '
+381
+346
+116
+83
+2jl03
+1897
+Io9o
+71
+160
+83
+68
+87
+146
+169
+281
+344
+249
+329
+124
+2, nr
+1898
+i»yy
+115
+93
+52
+112
+93
+230
+261
+550
+303
+229
+220
+163
+2,421
+1899
+1900
+121
+48
+78
+160
+554
+517
+1,003
+385
+654
+402
+208
+117 '
+4,247
+1900
+1901.
+92
+82
+62
+76
+92
+110
+86
+278
+406
+398
+325
+64
+2,071
+1901
+1902
+43
+15
+16
+18
+17
+42
+69
+39
+56
+55
+30
+63
+463
+1902
+1903
+18
+8
+29 =
+76
+80
+148
+316
+197
+, 356
+249
+128
+78
+1,683
+1903
+1904
+197
+55
+45
+34
+46
+93
+256
+193
+203
+226
+180
+56
+1,584
+1904
+• 1905
+35
+28
+18
+46
+36
+245
+687
+250
+204
+322
+212
+84
+2,167
+1905
+1906
+35
+15
+76
+184
+234
+409
+452
+471 ••
+855
+855
+253
+170
+4,009
+1906...
+1907
+86 ■
+46
+39
+42'
+54
+87
+91
+225
+185
+170
+162
+113
+1,300
+1907
+1908
+39
+32
+21
+18
+45
+79
+148
+176
+389
+206
+88
+45
+1,286
+1908
+1909
+23
+38
+63
+37
+97
+470
+246
+641
+346
+210
+77 ..
+sa
+2,286
+1909
+1910
+55
+22
+26
+‘ 16
+26
+35
+,128
+96
+283
+197
+108
+111
+1,103
+1910
+1911
+142
+138
+139
+45
+58
+i
+200
+309
+201
+167
+101
+52
+62
+1,614
+1911
+Total
+4,179
+2,285
+3,011
+2,715
+3,336
+7,893
+10,115
+8,435
+10,240
+8,225-
+5,453
+3,421
+69,308
+Mean
+167
+91
+. 120
+109
+133
+316
+405
+337
+410
+329
+218
+137
+2,772
+—
+
+
+TABLE P.
+MURRUMBIDGEE RIVER AT HAY.—DISCHARGE IN THOUSANDS ACRE FEET.
+Year. (
+I *
+January.
+. ... 4
+February.
+March.
+April.
+May.
+June.
+July.
+August.
+September.
+October.
+November.
+December.
+Total.
+Year.
+1887
+73
+279 1
+289
+287
+103
+191
+653
+603
+610
+501
+540
+294
+4,428
+1887 '
+>1888
+250
+77
+51
+35
+-42
+73
+138
+141
+199
+173
+45
+93
+1,317
+1888
+1889
+449
+•63
+35
+43
+138
+281 1
+618
+298
+580
+578
+297
+288
+3,368
+1889
+1890
+74
+54
+105
+136
+59
+248
+664
+599
+504
+503
+508
+222
+3,676
+1890
+4891
+298
+407
+98
+. 89
+100
+151
+1,230
+1,090
+502
+468
+283
+160
+4,926
+1891
+1892
+94
+56
+45
+36
+59
+144
+255
+159
+411
+588
+599
+209
+2,655
+1892
+4893
+95
+52
+95
+52
+122
+304
+484
+501
+361
+396
+260
+176
+2,901
+1893
+1891
+225
+-477
+158
+m
+527
+433
+711
+985
+898
+667
+406
+144
+5,802
+1894
+1895
+117
+107
+66
+'47
+60
+73
+234
+144
+421
+274
+90
+53
+1,686
+1895
+1896
+30
+29
+. 36
+39
+84
+150
+245
+102
+184
+133
+60
+63
+1,155
+1896
+1897
+114
+52
+37
+26
+18
+30
+63
+139
+259
+258
+94
+36
+1,126
+1897
+1898
+25
+30
+51
+15
+13
+51
+74
+177
+259
+117
+187
+62
+1,061
+1898
+1899
+21
+13 :
+6
+26
+24
+69
+156
+249
+184
+104
+119
+50
+1,021
+1899
+1900
+> 21
+13
+11
+82
+100
+429
+828
+422
+496
+459
+128
+90
+3,079
+1900
+1901
+37
+23
+13
+20
+.38
+58
+76
+88
+356
+251
+362
+82
+1,404
+1901
+1902
+34
+16
+9
+11
+11
+14
+46
+32
+28
+36
+22
+14
+273
+1902
+4903
+33
+3
+4
+16
+91
+78
+204
+176
+154
+260
+128
+49
+1,196
+1903
+1904
+107
+75
+31
+18
+21
+38
+143
+201
+170
+174
+185
+57
+1,223
+1904
+4905
+24
+• 11
+11
+17
+. 23
+71
+436
+345
+186
+236
+249
+94
+1,703
+1905
+1906
+35
+11
+36
+70
+210
+273
+438
+427
+585
+867
+314
+208
+3,474
+1906
+1907
+107
+65
+34
+34
+50
+71
+86
+173
+146
+173
+139
+91
+1,169
+1907
+1908
+62
+25
+18
+. 9
+23
+47
+105
+186
+265
+237
+125
+67
+1,169
+1908
+1909
+19
+29
+52
+21
+73
+144
+367
+374
+557
+259
+125
+65
+2,085
+1909
+1910
+44
+44
+19
+19
+12
+29
+107
+106
+188
+217
+126
+104
+1,015
+1910
+1911
+93
+150
+127
+71
+44
+107
+255
+264
+171
+127
+56
+63
+1,528
+1911
+Total
+2,181
+1,861
+1,437
+1,690
+2,045
+3,557
+8,666
+7,989
+8,677
+8,056
+5,447
+2,834
+54,440
+Mean
+87
+74
+57
+68
+82
+142
+347
+320
+347
+322
+218
+113
+2,177
+—
+
+
+TABLE Q.
+DARLING RIVER AT WILCANNIA.— DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May.
+June.
+' July.
+August.
+September.
+October.
+November.
+December.-
+Total.
+Year.
+1886
+6
+17
+22
+2
+0
+167
+975
+1,173
+1,204
+1,262
+1,087
+1,176
+7,091 '
+1886
+1887
+496
+289
+1,053
+1,154
+744
+116
+174
+786
+830
+1,067
+185
+80
+6,974
+1887
+1888
+180
+136
+545
+422
+42
+0
+0
+0
+0
+0
+0
+0
+1,325
+1888
+1889
+0
+5
+3
+5
+48
+242
+917
+1,024
+894
+182
+181
+136
+3,637
+1889
+1890
+185
+351
+860
+1,098
+1,324
+1,280
+1,278
+1,284
+1,221
+805
+413
+293
+10,392
+. 1890
+1891
+280
+895
+1,177
+857
+291
+282
+784
+1,132
+1,160
+1,148
+719
+172
+8,897
+1891
+1892
+385
+105
+65
+58
+247
+199
+394
+355
+147
+402
+929
+1,147
+4,433
+1892
+1893
+542
+225
+931
+1,147
+569
+436
+1,044
+1,264
+1,191
+1,016
+288
+207
+8,860
+1893
+1894
+93
+174
+107
+753
+1,192
+1,146
+648
+646
+346
+336
+323
+221
+5,984
+1894
+1895
+68
+284
+625
+88
+37
+26
+31
+31
+27
+24
+52
+68
+1,361
+1895
+1896
+134
+408
+637
+278
+78
+49
+48
+97
+102
+84 .
+35
+36
+1,986
+1896
+1897
+127
+99
+47
+123
+23
+14
+17
+328
+420
+126
+319
+59
+1,702
+1897
+1898
+213
+389
+768
+114
+40
+29
+25
+38
+33
+68
+22
+13
+1,752
+1898
+1899
+26
+0
+229
+42
+21
+17
+14
+96
+100
+76
+30
+20
+671
+1899
+1900
+10
+4
+18
+99
+126
+52
+241
+564
+308
+103
+47
+10
+1,582
+1900
+1901
+14
+14
+5
+5
+3
+0
+50
+203
+188
+228
+39
+24
+773
+1901
+1902
+5
+0
+0 ,
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+1902
+1903
+53
+28
+7
+30
+57
+161
+257
+350
+725
+569
+1,037
+571
+3,845
+1903
+1904
+182
+276
+155
+63
+162
+• 47
+344
+65
+172
+194
+318
+102
+2,080
+1904
+1905
+20
+23
+29
+108
+416
+165
+117
+116
+63
+39
+15
+16
+1,127
+1905
+T906
+6
+107
+303
+366
+99
+49
+49
+22
+16
+357
+434
+115
+1,923
+1906
+1907
+' 217
+432
+162
+191
+121
+28
+56
+45
+86
+28
+9
+10
+1,385
+1907
+1908
+92
+25
+220
+697
+472
+48
+39
+39
+135
+198
+44
+39
+2,048
+1908
+1909
+78
+68
+86
+. 69
+19
+12
+37
+85
+242
+324
+56
+34
+. 1,110
+1909
+1910
+72
+615
+718
+468
+266
+42
+138
+283
+104
+41
+32
+61
+2,840
+1910
+1911
+158
+464
+1,009
+761
+64
+35
+35
+60
+39
+34
+36
+57
+2,752
+1911
+Total
+3,642
+5,433
+9,781
+8,998
+6,461
+4,641
+7,712
+10,086
+9,753
+8,711
+6,650
+4,667
+86,535
+Mean
+♦ 140
+209 '
+376
+346
+249
+178
+297
+388
+375
+335
+256
+179
+3,328
+
+
+TABLE R.
+DARLING RIVER AT MENINDIE.— DISCHARGE IN THOUSANDS ACRE FEET.
+Year.
+January.
+February.
+March.
+April.
+May. ,
+June.
+July.
+August.
+September.
+October.
+November.
+December.*
+Total.
+Year.
+1885
+27
+268
+47
+60
+20
+1
+0
+3
+0
+0
+0
+0
+426
+1885
+1886
+0
+1
+3
+5
+0
+62
+517
+742
+824
+1,077
+! 1,096
+1,063
+5,390
+1886
+1887
+1,004
+532
+841
+915
+1,019
+645
+291
+... 512
+743
+871
+682
+210
+8,265
+1887
+1888
+138
+140
+328
+522
+140
+17
+0
+0
+0
+0
+0
+0
+L285
+1888
+1889
+0
+0
+0
+0
+25
+163
+631
+922
+931
+586
+284
+156
+3,698
+1889
+1890
+146
+312
+625
+865
+1,212
+1,402
+1,313
+1,270
+1,202
+1,120
+913
+727
+11*107
+1890
+1891
+397
+652
+838
+950
+869
+599
+629 ■
+842
+938
+1,071
+1,019
+727
+9,531
+1891
+1892
+496
+266
+125
+58
+144
+166
+255
+343
+229
+307
+548
+740
+3,677
+1892
+1893
+706
+380
+518
+719
+813
+737
+765
+959
+1,111
+1,098
+892
+559
+9,257
+1893
+1894
+278
+173
+132
+375
+679
+820
+897
+879
+748
+585
+436
+393
+6,395
+1894
+1895
+151
+175
+485
+•248
+64
+31
+23
+18
+13
+8
+14
+66
+1,296
+1895
+1896
+98
+179
+494
+433
+157
+51
+34
+60
+87
+77
+21
+16
+1,707
+1896
+1897
+66
+113
+42
+104
+15
+3
+4
+176
+402
+134
+259
+101
+1,419
+1897
+1898
+104
+281
+519
+311
+64
+17
+10
+17
+13
+33
+16
+1
+1,386
+1898
+1899
+0
+0
+162
+52
+5
+4
+1
+57
+70
+77
+15
+5
+448
+1899
+1900
+4
+0
+0
+27
+84
+24
+154
+415
+422
+153
+58
+3
+1,344
+1900
+1901
+1
+3
+0
+0
+0
+0
+1
+132
+113
+248
+33
+11
+542
+1901
+1902
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+•o
+0
+1
+1902
+1903
+16
+28
+1
+3
+47.
+98
+236
+221
+490
+521
+627
+645
+2,933
+1903
+1904
+483
+170
+90
+210
+271
+103
+165
+190
+171
+49
+105
+51
+2,058
+1904
+1905
+6
+3
+10
+34
+312
+234
+104
+96
+49
+19
+4
+0
+871
+1905
+1906
+0
+52
+236
+335
+.158
+44
+28
+8
+1
+221
+406
+186
+1,675
+1906
+1907
+119
+364
+249
+127
+133
+12 -
+21
+31
+55
+13
+0
+0
+1,124
+1907
+1908
+51
+16
+118
+377
+502
+132
+27,
+23
+97
+151
+34
+8
+1*536
+1908
+1909
+57
+34
+45
+64
+4
+0
+3
+56
+145
+302
+73
+11
+794
+1909
+1910
+40
+273
+564
+365
+396
+87
+97
+225
+113
+22
+9
+29
+2,220
+1910
+1911
+105
+308
+564
+689
+294
+64
+24
+35
+22
+10
+- 7
+14
+2,136
+1911
+Total
+4,494
+4,723
+7,036
+7,848
+7,427
+5,516
+6,230
+8,232
+8,989
+8,753
+7,551
+5,722
+82,521
+Moan
+166
+175
+261
+291
+275
+204
+231
+305
+333
+324
+280
+212
+3,057
+—
+
+
+TABLE S.
+SHOWING THE NATURAL ELOW OF THE MURRAY RIVER ABOVE LAKE VICTORIA AND THE EQUIVALENT OF CERTAIN ASSUMED DIVERSIONS BY THE
+UPPER STATES IN THOUSANDS ACRE FEET PER ANNUM.
+Year.
+Natural Flow of
+Murray River.
+Equivalent of
+assumed Diversions.
+Remainder of Natural Flow above
+inlet to Lake Victoria.
+Percentage of Natural Flow
+Diverted.
+Percentage of Natural Flow
+remaining above inlet to
+Lake Victoria.
+1891
+17,737
+3,278
+14,459
+18
+82
+1892
+10,621
+3,257
+7,364
+31
+-69
+1893
+15,792
+3,311
+12,481
+21
+79
+1894
+18,402
+3,332
+15,070'
+18
+82
+1895
+10,907
+3,272
+7,635
+30
+70
+1896 '
+6,580
+3,043
+3,537
+46
+54
+1897
+6,105
+3,413
+2,692
+56
+44
+1898
+6,239
+3,190
+3,049
+51
+49
+1899
+6,039
+3,095
+2,944
+51
+49
+1900
+9,214
+3,290
+5,924
+36
+64
+1901
+5,474
+3,209
+2,265
+59
+41
+1902
+2,327
+1,740
+587
+75
+25
+1903 *
+6,936
+3,311
+3,625
+48
+52
+1904
+9,016
+3,358
+5,658
+37
+63
+1905
+7,991
+3,179
+4,812
+40
+60
+1906
+12,793
+3,231
+9,562
+25
+75
+1907
+8,189
+3,168
+5,021
+39
+61
+1908 ' .
+5,968
+3,109
+2,859
+52
+48
+1909
+t . .
+10,477
+3,244
+7,233
+31
+69
+1910
+8,032
+2,954
+5.078
+37
+63
+1911
+11,051
+3,279
+7,772
+30
+70
+Maximum
+18,402
+3,332
+15,070
+18
+82
+Minimum
+2,327
+1,740
+587
+75
+25
+Mean ..
+9,328
+3,155
+1
+6,173
+34
+66
+
+
+Table.
+Capacity of storage
+Volume of regulated
+Name of River.
+in thousands of
+acre feet.
+flow in thousands of
+acre feet per mont^
+Murray River at Jinjellic..
+466
+144
+3*2
+Mitta River at Tallangatta
+301 ■ '
+93
+3*2
+Kiewa River at Kiewa
+137
+40
+3*4
+Ovens River at Wangaratta
+386
+87
+4-4
+Broken River at Casey’s Weir 4 ..
+84
+18
+4-7
+Goulbum River at Murchison
+745
+181
+4-1
+Campaspe River at Rochester
+76
+15
+51
+Loddon River at Laanecoorie
+80
+19
+4-2
+Murrnnibidgee River at Gundagai
+6^1
+231
+2^
+Darling River at Menindie
+236
+255
+0-9
+APPENDIX No. 2.
+REPORT ON INVESTIGATION OF POSSIBILITIES OF STORAGE AND REGULATION
+ELSEWHERE THAN AT CftMBEROONA, BURRINJUCK, GOULBURN RIVER, AND
+LAKE VICTORIA, DEALT WITH IN THE MAIN REPORT.
+E. Checchi, C.E.
+With a view to arriving tentatively at the capacity of storage warranted by the natural flow of
+oaoh stream, and the volume of regulated flow attainable with the aid of such storage, all the monthly
+moan flows were collected from the records of gaugings and steps were taken to construct for each stream
+a year of hypothetical flow which might be regarded as the most probable forecast of the flow in any
+future year. Thus in the case of, say, the Kiewa River to obtain a forecast of the probable mean
+natural flow in any future January an average of all mean flows recorded for January in past years was
+taken. A like course was followed for all the other months of the year, and the averages thus obtained
+were fombined as representing a year of typical flow. Having obtained the typical flow, the next step
+was to ascertain the capacity of storage required to equalize it throughout the year. Neglecting for the
+present any question of losses by evaporation and percolation this capacity is simply the amount by which
+the flow in the wet months exceeds the average monthly flow for the whole year.
+The following table shows the capacity of storage thus found to be warrantable, and the volume
+of regulated flow of the hypothetical year for each of the principal streams of the Murray system.
+The capacities thus obtained are not necessarily the ones to be adopted, because they make no
+provision for carrying forward the surplus of years of high rainfall to those of deficient rainfall. It may bo
+mentioned that some authorities, in evidence before the Royal Commissions on the Murray, have expressed
+opinions adverse to the feasibility of carrying volumes forward from year to year on any large scale. Tt is
+also the fact that the conditions assumed as corresponding to the typical year are much better than those
+of the low years, behaviour during which must be the test applied to any proposed scheme.
+The ratio between storage and volume of regulated flows shown in the table may be taken as an index
+of the amount of storage required in proportion to the stream flow. For example, while during years of
+typical flow a storage to hold barely a month’s supply appears sufficient for the Darling River, a much larger
+storage comparatively would be required for the Campaspe River. Evidently the great length of the
+Darling River, its flat grade, and the monsoonal summer rains arc efficient factors working in favour of a
+natural regulation of the flow of this stream.
+Storage Sites Examined.
+Mitta River. —The Report of the Victorian Royal Commission of 1910 refers to a selected site
+near Mooroonjong, but neither here, nor at any other point on the Mitta River below the junction of
+the Snowy Creek, could any place be found where a storage of the kind required could be constructed at
+practicable cost. A short distance above the Snowy Creek junction the valley of the Mitta becomes narrow,
+silurian rock shows freely in the river bed and is found under the banks at depths below the surface ranging
+from 4 feet on the right to 30 feet on the left side. It has been computed from survey that a dam at this
+site with height to top water level of 145 feet would store 124,000 acre feet. Above the site the valley
+widens into flats ; the area submerged by the dam would be 1,908 acres, of which 900 acres are alienated.
+A minor dam about 40 feet high would be required at a saddle on the right flank. The capacity of the
+storage could be increased to 175,000 acre feet by raising the height of both dams by about 24 feet.
+Some 15 miles above the Snowy Creek Junction, near Dartmouth, the river is rock bound, and offers
+a suitable foundation for a high masonry dam. The capacity of storage here would be about 50,000 aero
+feet. As the cost per unit would certainly be higher than at the Junction site, no survey was made.
+Snowy Creek. —For some 6 miles above the junction with the Mitta River the valley of the Snowy
+Creek is narrow, but at a place known as Granite Flat it opens out into table land. Near the upper end
+•of the gorge the creek, which is rock bound, divides into two branches. Near the fork two sites for dams
+are available, one below, the other above the junction. Both sites and the basin which would be common
+to both have been surveyed. It is computed that a depth of water of 215 feet at the lower site would
+impound 125,000 acre feet of water, and a depth of 201 feet at the upper site would impound 104,000 acre
+foot. The smaller storage is the more favorable because the gorge is narrower. The catchment area would
+bo smaller, but still sufficient for the purpose. The areas of land that would be submerge dby these
+storages are 1,500 and 1,700 acres respectively, of which 216 acres are alienated.
+
+
+River.
+Storage in thousands acre
+feet.
+Output In thousands acre
+feet per month.
+Ovens .. - ..
+83
+19
+King
+* 67
+15
+Buffalo
+170
+38
+Buckland ..
+66
+15
+Totals
+386
+87 •
+Kiewa River. —The valley below the point where Junction Creek joins the main river, at the foot of
+Mount Towanga, offers no advantages for the construction of a reservoir. A few miles above this junction,
+the main valley ends and the stream divides into three branches, but none of these is suitable for storage
+because of the narrowness of the valley. Two possible sites exist near Junction Creek, one below, the other
+above, separated by less than 2 miles. Surveys of both sites have been made.
+A geological feature of interest appears for miles on both flanks of this valley in the shape of land-
+slips. Portions of the sides of the valley have mofod some 20 or 30 feet, leaving here and there a bare
+earthy face, steep and smooth. These faults occurring as they do below full-supply level call for remark.
+At the lower of the two sites there is granite rock at a moderate depth, the deepest being 49 feet.
+Similar rock shows in the bed of the river. The upper site is somewhat narrower, but no boring has been
+carried out there. The choice of suitable sites on this river is small, being practically limited to the two
+mentioned.
+It is computed from survey that a depth of water of 114 feet at the lower site would give 78,000
+acre feet of storage, while it is estimated that at a depth of 134 feet 124,000 acre feet would be impounded.
+The area of land that would be submerged by the storage is 2,900 acres, all alienated.
+Ovens River System, s
+This system comprises four streams —the Ovens, King, Buffalo, and Buckland. The gaugings
+available give the aggregate flow of these four rivers. These gaugings have been combined with the respec-
+tive drainage areas and rainialls on the catchments of the individual streams and the contribution of each
+estimated and applied to divide the total storage and output given in previous table. The result in similar
+units is shown hereunder ;
+The Ovens. —The main valley of this river to a point above the junction with the Buckland River is
+miles wide, and the alluvial deposits hundreds of feet thick.' Above the Buckland junction the hill
+sides approach the stream, and a survey of a storage between Porepunkah and Bright has been made. The
+bed and banks of the river are rocky, and bare rocks are visible near the centre of the storage. One of a
+number of bores and a shaft put down on the dam site, however, failed to reach bed-rock at 80 and 28 feet
+respectively; others show that the bed-rock is within reach. The depth of water that could be stored
+here would not exceed 82 feet; this would give 27,000 acre feet. A greater depth than 82 feet would,
+in flood time, submerge portion of the township of Bright. The land that would be submerged is 880 acres,
+300 acres of which is alienated. The construction of a storage at this site would be surrounded with diffi-
+culties, other sites were therefore surveyed. Above Harrietville, where the stream divides into two branches,
+known as the East and West Branch, solid rock is in sight all round. The grade of the stream, however,
+is steep, and the valleys comparatively narrow, consequently, even storages 200 feet deep would in the
+East and West Branches give only 14,000 and 21,000 acre feet respectively. Surveys were carried out to
+a height of 150 feet above the bed of the streams, and the contents computed are 7,500 and 11,000 acre
+feet for the East and West Branch respectively at that level; the land that would be submerged is Crown
+land. No other favorable sites for storages on the Ovens are available, and the aggregate of those mentioned
+falls short of the minimum capacity of storage assigned to this stream in the table above.
+The BucJdand. —Only one site, near Brookside, has been surveyed; other possible sites exist higher
+up stream at Rocky Point, at the junction of Murray Creek, and elsewhere.
+At Brookside the result of the borings show that Silurian rock, which is bare in the bed and banks
+of the stream, is elsewhere to be found within a few feet of the surface. Seeing that the flats here have been
+rendered almost valueless by dredging, and bearing in mind that the aggregate storage to be found on the
+Ovens proper is less than that commanded by the stream, this survey was carried out to a height of 200
+feet above the river bed. The contents of a storage of that depth would be 170,000 acre feet, or nearly
+three times as much as the minimum storage assigned to the stream. The maximum depth of water
+corresponding to a storage of 66,000 acre feet, the assigned value, would be 140 feet. The area submerged
+by this storage would be 1,300 acres, about 1,000 acres of which is alienated, and by the larger one,
+2,246 acres. No instrumental surveys were made of other sites, this being considered the best available.
+The Buffalo* River stretch of river between the junction with the Ovens, near Myrtleford,
+and the junction with Long Corner Creek was surveyed years ago by the Victorian Water Supply Depart-
+ment, and five sites for storages were suggested, the largest being 56,000 acre feet. With the assistance
+of these surveys the site of a storage larger than any suggested has been selected, and the original survey
+extended to a higher level at a place known as the “ Rocks.” The bed and left bank of the river are rocky*
+and borings on the right bank show that silurian rock can be reached at moderate depths, the deepest bore
+being 25 feet. The area of land submerged by this storage would be 2,650 acres, all alienated. It is
+computed from the survey that a maximum depth of 130 feet of water would secure a storage of 135,000
+acre feet capacity. Two miles below and 20 miles above this site other suitable sites for dams exist, but
+no survey has been made of them.
+
+
+Transverse Sections
+fW itTa R. Snowy C* Kiewa R.
+0 V E N S R .
+Porepunkah Harriehvillc
+r.S.C. R.B. F.S.L. 8.8. F.S.L. 8,1
+Buck land R.
+S L —* i.
+Butfalo R.
+King R.
+F.S.L. .
+Scales : Horizontal li (jo 0 ; Vertical pzW .
+
+
+Statement of possible Storages, with Estimates of Cost,
+The object of this table is to show the relative estimated cost of certain storages arrived at on the
+assumption that wherever the depth of water exceeds 100 feet the use of the gravity type of masonry
+dam is required.
+i
+Maximum
+Length of
+Capacities
+Land to be
+Cost in £
+feet.
+feet.
+feet.
+in acres.
+acre foot.
+£ s. d.
+Mitta
+145
+1,080
+124,000
+900
+266,000
+2 3 0
+Masonry
+Snowy Creek
+201
+867
+104,000
+216
+318,000
+3 10
+Masonry
+Kiewa
+114
+2,380
+78,000
+2,900
+260,000
+3 7 0
+Masonry and earth
+Ovens
+82
+3,828
+27,000
+300
+212,000
+7 17 0
+Masonry and earth
+East Branch Creek
+150
+1,303
+7,500
+, .
+262,000
+35 0 0
+Masonry
+West Branch Creek
+150
+1,320
+11,000
+50
+320,000
+29 2 0
+Masonry
+Buckland
+- 140
+4,607
+66,000
+1,000
+590,000
+8 19 0
+Masonry and earth
+Buffalo ...
+130'
+3,800
+135,000
+' 2,650
+607,000
+4 10 0
+Masonry and earth
+King
+144
+5,280
+85,000
+2,000
+1,287,000
+15 3 0
+Masonry and earth
+Moira Lakes
+12
+. ,
+250,000
+. . '
+175,000
+0 14 0
+Levee banks and low
+'
+weirs
+Swampy Plains
+200
+450
+117,000
+213,000
+1 17 0
+Masonry
+TumUt ..
+200
+~mooo
+1,000,000
+,112 0
+Masonry
+Darling Lakes
+i (
+, #
+1,377,000
+. .
+750,000
+0 11 0
+Earthwork
+Broken River
+id
+9 #
+126,000
+140,000
+1 3 0
+Earthwork
+Campaspe
+100
+• .* T
+76,000
+2,600
+92,320
+1 5 0
+Maso^v^y
+Loddon ..
+t
+30,000
+• •
+175,000
+5 17 0
+E. CHECCHL
+King River. —From Wangaratta to Whitfield the valley of this river is too wide for the construction
+of reservoirs. Some 5 miles above Whitfield, at a place known as Glenmore, a survey for a storage has been
+made. It is computed that a dam holding up a depth of water of 144 feet would store 85,000 acre feet.
+On the left bank of the river the Silurian rock lies within 27 feet of the surface. In the river bed
+and on the right bank the bed rock is visible. It is believed that this is the only site on the King River
+worth considering. The area of land that would be submerged would be 2,000 acres, all alienated.
+Sketches of tranverse sections of the valleys at the sites described are given.
+Moira Lakes. —Captain Westergaard, in giving evidence before the Royal Commission, 1910,
+stated ; —“ If the Moira Lakes were locked enough water could be stored to provide a navigable river for
+two months longer.” From surveys, it is computed that a maximum depth of 12 feet in the Moira Lakes,
+New South Wales, would give 100,000 acre feet of storage, and in Victoria a similar depth would give 150,000
+acre feet of storage. The Yalca portions of the Victorian Lakes are shallow and too small for cheap
+storage. The areas submerged are wholly Crown lands. The cost per acre foot of capacity of these lake
+storages would be much lower than that of any of the reservoirs formed by high dams, but they would have
+the disadvantages of comparatively high loss by evaporation, and of not commanding some of the best
+irrigable lands in New South Wales and Victoria, for which water is likely to be required at an early stage
+in any comprehensive scheme of development.
+General.
+No other proposal for storage has been investigated for this Conference, but a summary of previous
+investigations..with reference to the Darling, Swampy Plains, Tumut, Broken, Campaspe, and Loddon
+Rivers, has been embodied in the following statement for reference.
+..None of these storages could be recommended in preference to those at Cumberqona, Goulburn
+River, and Lake Victoria, which, with the partly completed Burrinjuck Reservoir, have been selected by
+the Conference for the scheme of practicable regulation.
+Generally the only need for them would be a local demand for water for irrigation. Such demand
+could not be met from any other source of supply ; each valley would have to depend on its own river for
+the water; and in almost every case the provision of the storage that would be indispensable for irrigation
+would involve heavy cost entailing comparatively high charges. *_
+// During the progress of the Conference, a suggestion was received from Mr. J. S. Gregory, 8.C.E.,/
+of Swan Hill, Victoria, to the effect that the flow of the River Murray might be augmented by bringing
+water from the Snowy River by means of a tunnel through the intervening mountain range to the head
+waters of the River Murray. Three lines were suggested for survey for the tunnel, their lengths being
+16 miles, 21 miles, and 30 miles respectively.
+According to gaugings of the Snowy River at Jindabyne, furnished by the State of New South Wales
+the maximum, mean and minimum flows during the last ten years have been 15,360, 1,180, and 88 cubic feet
+per second respectively. The discharge generally appears to be about equal to 83 per cent, of that of the
+Mitta, or 43 per cent, of that of the Upper Murray. The smallness of the minimum flow of the
+Snowy River indicates that in very dry years any proportion of the natural flow that could be spared would
+be too small to be of much value, and there is no prospect of any scheme involving storage on the Snowy
+River in addition to tunnelling being financially practicable. / /
+
+
+Murray River.
+Country between Yanco Creek and the Murray River.
+First class
+445,000
+Second class
+500,000
+Flats fronting River Murray from Albury to Murrumbidgee
+Junction, a distance of 600 miles, allowing 50 acres
+of wet land per mile of frontage ..
+First class
+30,000
+Malice lands between Murrumbidgee Junction and South
+Australian Border .. .. • ..'
+First class
+.. . 250,000
+Murrumbidgee River.
+Areas north and south of the Murrumbidgee, below Narran-
+dera
+First class
+...... 400,000
+Second class
+.. * ., 831,000
+River Flats from Tumut to the Junction of the Murrum-
+J '
+bidgee and Murray Rivers, a distance of 710 miles,
+allowing 50 acres of wet land per mile of frontage
+First class
+35,500
+Darling River.
+... itf^oo
+Area commanded by Lakes east and west of Menindie
+First class
+2,400,000
+River fiats, Walgett to Wentworth, 1,180 miles, allowing
+50 acres of wet land per mile of frontage
+First class '
+59,000
+{c ) The following statement shows the quantity of water required for such areas and the method
+of application: —
+Murray River.
+For watering 725,000 acres of first class land from July to May inclusive :•
+By gravitation ... .. ...
+445,000 acres
+By pumping
+280,000 „
+2,175,000 acre feet
+For watering 500,000 acres of second class land from September to May
+inclusive by gravitation
+; / •
+1,250,000
+Total requirements from Murray River
+3,425,000 „
+or, 338,000 acre feet per month during irrigating season.
+Murrumbidgee River.
+For watering 435,500 acres of first class land from July to May inclusive
+By gravitation ..
+400,000 acres
+By pumping
+35,500 „
+1,306*500 acre feet
+For watering 831,000 acres of second class land by gravitation from Sep-
+tember to May inclusive
+• * • •
+2,077,500
+Total requirements from Murrumbidgee River
+.. * .
+3,384,000
+or, 350,000 acre feet per month during irrigating season.
+* A copy o£ this plan is forwarded with the .Report.
+APPENDIX No. 3.
+REPLIES TO THE INQUIRIES BY THE CONFERENCE RESPECTING THE IRRIGABLE LANDS
+IN EACH STATE AND THE VOLUMES OF WATER REQUIRED THEREFOR.
+New South Wales.
+Premier’s Office,
+Sydney, N.S.W., 21st September, 1912.
+Sir,
+At the instance of my colleague, the Minister for Public Works, I am enclosing, for favour of trans-
+mission to the State Engineers’ Conference in regard to the Murray Waters, a,letter by the Engineer-in-,
+Chief for Water Conservation in this State, containing particulars of the areas within the State of New
+South Wales suitable for irrigation from the River Murray and its tributaries..
+I have* the honour to be,
+Sir,
+Your obedient servant,
+(Sgd.) JAS. S. McGOWEN.
+Leeton, 25th July, 1912.
+Sir,
+Referring to your request for information in regard to the State of New South Wales, dated 21st
+February, 1912, registered I. and D. 1912-1228/253, I have the honour to submit the following plan and
+particulars for transmission to the Secretray of the Murray Waters Inter-State Engineers’ Conference ;
+* (a) Map of New South Wales, showing in red tint the areas suitable for irrigation from the River
+Murray and tributaries within the State of New South Wales.
+(6) Classification and area of such lands:—
+
+
+Darling River.
+For watering 2,459,000 acres of first class land from July to May inclusive :—
+By gravitation .. .. .. # . 2,400,000 acres
+By pumping .. .. .. ‘ 59,000
+7,377,000 acre feet
+or 670,000 acre feet per month during irrigating season.
+Total requirements per year ' .. .. .. .. 14,186,000 „
+or, per month .. .. .. .. 1,358,000 „
+I have the honour to be,
+Sir,
+Your obedient Servant.,
+(Sgd.) L. A. B. WADE.
+The Secretary to the Premier,
+State of New South Wales.
+Victoria.
+State Rivers and Water Supply Commission,
+Melbourne, 9th July, 1912.
+Sir, •
+In reply to your request of 24th February last, to be furnished with certain information with regard
+to the State of Victoria, viz.:—
+(а) Plans showing areas and situation of all land proposed to be irrigated from the River Murray
+and its tributaries;
+(б) A statement of classification of the land of such areas with special regard *to suitability for
+irrigation;
+(c) The quantities of water required for such areas, the period of the year during which the water
+would be used, and method of application, whether by pumping or gravitation ;
+(d) Particulars of all storage works proposed to be constructed on the Murray and its tributaries;
+I have the honour to submit the accompanying plans and statement, for transmission to the Secretary of
+the Murray Waters Inter-State Conference of Engineers.
+I have the honour to be,
+Sir,
+Your obedient Servant,
+M. NALLY,
+Secretary.
+The Secretary to the Premier,
+State of Victoria, Melbourne.
+Irrigable Lands and Water Requirements of the State of Victoria.
+♦(a) Map of Victoria (16 miles to 1 inch) showing, in red, the areas and situation of the lands
+proposed to be irrigated from the River Murray and its tributaries.
+(6) These lands may be classified thus:—
+First Class. —Suitable for citrus fruits, raisins, &c. Total area, approximately, 100,000 acres.
+Second Class. —Suitable for orchards, lucerne, and maize. Comprises the greater portion of
+the Swan Hill, Koondrook, Cohuna, Cobram, Goulburn Valley, and Campaspe districts.
+Total area, approximately, 1,130,000 acres.
+Third Class.—Suitable for sorghum and other fodder crops and cereals. Mostly situated in
+the valley of the Loddon. Total area, approximately, 220,000 acres.
+(c) The quantities of water required for such areas will be —
+For 100,000 acres of first class land for eleven months from Ist July to
+31st May—
+By pumping .. .. .. .. .. 194,000
+By gravitation .. i. .. .. 106,000
+300,000 acre feet
+For 1,130,000 acres of second class land for nine months from Ist
+September to 31st May—
+By pumping .. .. .. .. .. 275,000
+By gravitation .. .. .. .. 2,550,000
+. 2,825,000
+For 220,000 acres of third class land, for nine months from Ist August to
+30th April—
+By pumping .. .. .. .. .. Nil
+By gravitation .. .. .. •. 440,000
+440,000
+Total quantity required .. .. .. 3,565,000 ~
+The above proposals are subject to it being found possible to make the necessary water available by
+the construction of storages, and by agreement with other interested States.
+A copy of tbl* plan la forwarded with the Report.
+
+
+(d) Proposed Storages —
+Murray River.—The State of Victoria has no proposals for storages on the Murray River apart
+from those suggested in the Report of the Inter-State Royal Commission of 1902, and the
+Victorian Royal Commission on Murray Waters of 1910 for construction on the Upper
+Murray at the joint expense of the interested States. It does, however, desire to obtain
+concurrence in the construction of a movable dam at Torrumbarry mainly for the purpose
+of substituting gravitation supply for the pumping now necessary for the Cohuna and
+Koondrook districts. A design for this structure accompanies this letter.
+Mitta, Kiewa, and Ovens Rivers.—As yet there are no definite proposals-for the construction
+of storages on these streams; but it is known that sites exist for such works, and it is
+expected that construction will be proceeded with as irrigation development creates need
+for more water than the natural flow furnishes.
+Goulburn River.—The total capacity of existing storages is 218,000 acre feet. Proposals for
+increasing the extent of storage by about 500,000 acre feet are under consideration. The
+result of investigations as to sites available and cost of works are shown on the attached
+statement.
+Campaspe and Loddon Rivers.—The results of investigations on these tributaries show that at
+Eppalock, on the' Campaspe, a reservoir of 107,000 acre feet capacity could be constructed
+at an estimated cost of £123,000; and that on the Loddon, in addition to the existing
+storage at Laanecoorie, which has a capacity of 14,000 acre feet, a storage of 30,000 acre
+feet could be constructed at Baringhup at an estimated cost of £175,000. At present
+these possibilities are only receiving general consideration.
+South Australia,
+Commissioner of Public Works Office,
+Adelaide, 12th August, 1912.
+Sir,
+In reply to your letter of the 21st February last asking for information as follows :
+(а) Plans showing areas and situation of all land ’ proposed to be irrigated from the Rivet
+Murray and its tributaries;
+(б) A statement of classification of the land of such areas with special regard to suitability for
+irrigation;
+(c) The quantities of water required for such areas, the period of the year during which the water
+would be used, and method of application—whether by pumping or gravitation;
+{d) Particulars of all storage works proposed to be constructed on the Murray and its tributaries;
+I have the honour to inform you —
+(o) Request for plans showing areas and situation of all land proposed to be irrigated from the
+Murray River and its tributaries.
+*The plan marked “A” forwarded to you with this letter shows, coloured pink, an area of 2,500,000
+acres of land on and adjacent to the River Murray, in South Australia, within which it is estimated that
+there is fully a million acres of land suitable for cultivation under irrigation with water from the River
+Murray. This is the information given to the Royal Commission of 1902, and I am to say that it is impossible,
+with any degree of accuracy, to define at present the specific areas of this land which will be irrigated from
+the River Murray, All that can be said is that the policy of the State is to steadily extend from’ year to
+year the irrigated area so that in time to command as large an area as possible.
+*A second plan, marked “ B,” is also forwarded, showing, coloured dark-green, the swamp lands
+reclaimed or in course of reclamation; margined red, the present irrigable areas with works constructed
+or in course of construction. The acreage of irrigable and reclaimed areas is shown in red figures. The
+plan also shows, coloured light-green, the lands liable to inundation and capable of being reclaimed—area,
+about 288,000 acres; and shows coloured pink the lands above flood level to about 130 feet above low-water
+level which are suitable for irrigation, the area being about 685,000 acres." The lands shown on this plan
+are those which it is contemplated to first bring under cultivation by irrigation with water from the River
+Murray.
+(6) A statement of classification of the land of such areas with special regard to suitability
+for irrigation.
+For the reasons given in paragraph (a) it is impossible to give the information asked for, because no
+such classification has been made.
+(c) The quantities of water required for such areas, the period of the year during which the
+water would be used, and method of application—whether by pumping or gravitation.
+Reply. —From 2 to 3 acre feet during the irrigation season, with a reasonable margin for loss and other
+contingencies, according to the nature of the soil and the irrigated crop.
+Quite apart from the area to be commanded for irrigation there will be a considerable portion of the
+area coloured red, and lands beyond it which will be supplied with water from the River Murray for domestic
+purposes and for supply of stock. One such project has already been approved for the Hundred of Book-
+purnong, Gordon, and Paringa, and other such schemes are being formulated for the Hundreds of Murtho,
+Pyap, Moorook, Holder, and Waikerie. ■
+As regards the question of the period of the year during which the water would be used. the reply
+is that for a considerable portion the supply would be requited from January to December, 'and for the
+remainder the water would be more particularly required from the month of August to the month of March
+inclusive.
+* A copy of this plan la lorvrarded with the Report
+
+
+As to the method of application of the water it is impossible to say the proportion which will be by
+gravitation and the proportion by pumping.
+(d) Particulars of all storage works proposed to be constructed on the Murray and its tributaries.
+The only storages definitely decided upon are Lake Bonney, in South Australia, 3,500 million cubic
+feet; and Lake Victoria, in Now South Wales, about 22,400 million cubic feet. A site has been reported
+on for a storage at Parcoola, near Overland Corner, but nothing definite decided on ; and further examination
+of the Upper Valley of the Murray in South Australia is now being made to see if there are any very suitable
+sites for storages.
+I have the honour to be,
+Sir,
+Your obedient Servant,
+(Sgd.) JAMES W. JONES,
+Secretary.
+P. J. O’Malley, Esq.,
+Secretary, Inter-State Conference of Engineers,
+Public Offices, Treasury Gardens, Melbourne.
+APPENDIX No. 4.
+POLLUTION.
+A special question was referred by the State Premiers to the Conference respecting pollution of the
+river and its tributaries by the towns situated on them. The following information has been collected for
+the purpose of showing the extent of such pollution. It will be observed that out of a total of 62 towns,
+with population of 67,906, on the catchments of the main stream and tributaries, the pan system obtains
+m 37, with population of 52,715. As compared with the conditions of the more thickly populated parts
+of Europe and America, where discharge into rivers, after more or less dilution or purification, is the
+usual method of disposal of actual sewage from cities and towns, the present degree of pollution of the
+waters of the Murray does not appear serious.
+Nevertheless it is very desirable that all such pollution be as far as possible prevented. It cannot
+be too strongly urged that the health authorities of the larger towns endeavour to keep pace with the rapid
+progress of recent years in methods of purifying and dealing with drainage and sewage disposal.
+The matter is one in which voluntary effort on the part of the local authorities would be preferable
+to compulsion, but there appear to be extensive powers vested in the central authorities of the States to act
+in the prevention of pollution when necessary.
+A Circular Letter in the following terms was despatched to 21 places in Victoria, 28 in New South
+Wales, 12 in South Australia; 20 replies in Victoria, 23 in New South Wales, and 11 in South Australia
+were received. '
+(1) What is the population of the Town of
+(2) What is the present method of disposing of—
+(а) Night-soil ?
+(б) House and street drainage ?
+(3) Are any new methods of disposing of night-soil or house drainage under consideration ?
+If so, please furnish brief description of them, and state probable date of carrying them
+into effect.
+(4) Ate there any causes,of pollution of water in the Murray Rivet or tributaries within the
+boundaries of your municipality by tanneries, wool-washing establishments, saw-millsl
+placing sawdust in rivers, slaughter-yards, gold dredging, or other industrial operations
+of any kind whatsoever ? If so, please furnish particulars of nature, extent, and localtiy
+of such operations.
+
+
+The following is a summary of the information received in reply:—
+Victorian River-side Towns.
+1. Total population
+Towns.
+21
+Population.
+31,638
+2. (a) Disposal of night-soil—
+,
+Disposed of by householders
+#
+1
+.. 400
+Collected in pans and buried
+•
+20
+31,238
+(fc) House and street drainage—
+Into river
+17
+26,738
+Into river after septic treatment
+2
+4,200
+Sewerage farm..
+1
+.. 350
+Alleged absorption in sandy country
+1
+350
+3. New methods contemplated for 2 ( b) .
+• • • • • . , , ,
+4
+6,932
+4. Noxious trades or dredging—
+Exist in .. ,.
+• •• •• ••
+8 ‘
+17,100
+Absent from
+* •• . . , ,
+11
+9,838
+Not specified
+New South Wales.
+2
+4,700
+1. Total population
+• • , , , , #
+20
+29,735
+2. (o) Disposal of night-soil—
+•
+Pan system and burial ..
+10
+* 17,742
+Cesspits
+• •• •• •• ••
+6
+1,135
+Sewerage system
+1
+3,000
+Partly sewerage and partly pans
+1
+2,500
+Partly pans and partly cesspits .
+1
+250
+Not specified
+1
+5,108
+(6) House and street drainage—
+Drainage to river
+3
+10,260
+Drainage to river with treatment
+3
+8,000
+Alleged absorption in waste lands
+5
+2,137
+Not specified
+4
+8,023
+No system
+. .
+5
+1,325
+3. Improvements contemplated ..
+•• •• •• ••
+4
+15,258
+No improvements contemplated ■
+16
+14,477
+4. Noxious trades, &c. —
+Noxious trades
+• • •• •• r •
+1
+' 2,750
+None
+18
+21,877
+Not specified
+South Australia.
+1
+5,108
+1. Total population
+• •
+21
+6,533
+2. (a) Night-soil disposal—
+Buried
+• • . . . . • «
+10
+2,131
+Collected in pans and buried
+• • •• •• ••
+7
+3,735
+Cesspits
+.. . . . , , ,
+I
+.. 50
+No system
+. • . . . . . ,
+3
+617
+(6) Blouse and street drainage—
+To the river
+• • • • • • • •
+7
+2,320
+Into lagoon
+• • • • • • • •
+1
+900
+No artificial drainage
+• • • • • • • •
+10
+1,697
+Not specified
+..
+3
+1,616
+3. Improvements contemplated
+. . .. . . .. ■
+.. None
+4. Noxious trades
+Summary for the Three States.
+.. None
+1. Total population of towns concerned
+• • •• •« ••
+62
+67,006
+2. (a) Night-soil disposal—
+Buried
+• • • • • •
+11
+. 2,531
+Collected from pans and buried ..
+. •
+37
+52,715
+Cesspits
+7
+1,158
+Sewerage system
+. . . .
+1
+3,000
+Partly sewerage and partly pans
+. .
+1
+2,500
+Partly pans and partly cesspits ..
+. .
+1
+250
+No system
+..
+3
+617
+Not specified
+. .
+1
+5,108
+(b) House and street drainage—
+Into the river
+. .
+27
+20,308
+Into the river after treatment
+• • • • . . • •
+5
+12,200
+Sewerage farm
+. . . . • • ,,
+:. 1
+350
+Alleged natural absorption
+. .
+6
+2,487
+Into lagoon
+l
+900
+No artificial drainage
+. • . . • . ,,
+15
+3,022
+Not specified ..
+.. .. ..
+7
+9,639
+3. Improvements contemplated in
+• . • . •»
+8
+22,190
+4. Noxious trades, dredging, &o., in
+. • • • • •
+9
+19,850
+Absent from ..
+. .
+50
+38,248
+Not specified ..
+..
+3
+9,808
+The population of those six place's from which no particulars were received is 5,669, giving a total
+population of 73,575 persons in 68 river-side towns.
+The smallest place recorded was Caloote (S.A.), with 15 people ; the largest, Albury (N.S.W.), with
+7,000 ; the average, 1,095 people.
+Authority Albert }. Mullett, Government Printer, Melbourne.
+
+
+Sho^
+~ | 1 bjP* '
+■| — f To
+| II ■ ; { Rave the
+| if , H “ ; .
+1800 _-f a period c
+i -[ aw ,| - * negative r
+jj ~ l||| — Thi
+| ~ i - m j 3 — - made by
+i6oo fa — ;=||| EE: Ae ™
+-1 — ~ 1 1 || , ~ ~ water thru
+d || m 1 |||
+1400 ~ j ~ I | ; — I
+1200 — 1 E! jj
+~ia i=| ~ • ~ i
+= 1 E| Eh —E j~| R
+iooo -- |— [
+: 1 | 1 " 1 I «■'' ‘ i | I i | i i p i —
+* 1891 1892 1893 1894 1895 1896
+
+
+
+
+
+

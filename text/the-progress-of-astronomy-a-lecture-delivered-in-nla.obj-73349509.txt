@@ -1,0 +1,1033 @@
+
+
+: '~>&n
+m """"
+\ V v|<^^ -0
+w? w I
+f SECOND SERIES OF LECTURES V I
+A
+j
+f
+S
+I
+b : :
+)
+f
+r
+i
+J
+' EAST, | y i
+A
+SECOND SERIES OF LECTURES
+\
+vj\
+)
+4
+\
+K
+UNDER THE AUSPICES OF THE A .
+AJ
+EARLY CLOSING ASSOCIATION. \
+THE
+\
+,
+AJ
+\
+)
+\
+Do
+�
+$
+NU
+<&FF
+%
+(
+H
+\i
+s &
+m
+f I
+f
+PROGRESS OF ASTRONOMY:
+A LECTURE
+DELIVERED AT THE DUKE OF EDINBURGH THEATRE, MELBOURNE,
+ON JULY 25, 1870,
+R. L. J. ELLERY, Esq.,
+GOVERNMENT ASTRONOMER.
+\
+A
+(
+x( PEICB SIXPENCE.
+? i
+t
+r \ ' HXcllroixritc:
+DTTDT TOHrri 13V Q TVTTTT TT7AT KK /"(UkT T TTVTC! O
+A PUBLISHED BY S. MULLEN, 55 COLLINS STREET EAST,
+187 �-
+?~??? ??-??v
+Fergusson $ Moore , Printers, Flinders Lane East, Melbourne.
+
+
+? ? :
+'
+.
+
+
+THE PROGRESS OF ASTRONOMY:
+A LECTURE,
+DELIVERED IN THE DUKE OF EDINBURGH THEATRE, ON THE
+25th JULY, 1870,
+R. L. J. ELLERY, ESQ.,
+GOVERNMENT ASTRONOMER.
+The Hon. Sir James M?Culloch presided, and introduced the Lecturer,
+who said:?
+In the year 1676, Charles the Second appointed Flamsteed to be the
+? King?s Astronomical Obseryator,? at a salary of �IOO per annum. The
+duties of the ?Astronomical Observator? were thus set forth: ??He is
+to forthwith apply himself with the most exact care and diligence to the
+rectifying the tables of the motions of the heavens and the places of the
+fixed stars, so as to find out the so much desired longitude of places for
+the perfecting the art of navigation.?
+At this time the Greenwich Observatory had just been erected, and as
+the building of the observatory and the appointment of Flamsteed mark
+an epoch in the history of Astronomy, I propose to take this, one of the
+few good acts which embellished Charles the Second?s reign, as the
+starting point in my lecture.
+To give us a fair start, however, it will be well to briefly review the
+state of astronomical knowledge at this period, in order that we may more
+readily estimate the progress subsequently achieved.
+You will remember that, long before this, the older theories of the
+universe had been cast aside, and the solar system as we now know it
+firmly established. The rotation of the earth had been proved, though
+even at that time questioned by some philosophers. The planets Mercury,
+Venus, Mars, Jupiter and Saturn were well known, and Kepler had
+enunciated his three great laws of planetary motions, whose correctness
+Newton afterwards tested, proved, and from them deduced his theory of
+
+
+gravitation. These laws were ?Ist, That the planets move in ellipses,
+having the sun for one of the foci; 2nd, They describe equal areas in
+equal times; and 3rd, That the squares of their periodic times are
+proportional to the cubes of their mean distances from the sun.
+The last law gives us the means for deducing the relative distances of
+the planets from the sun from the time they occupy in making a complete
+circuit of their orbits ; for example ?if the sun?s distance from the earth
+be taken as the unit, that from Venus will be found to be seven-tenths
+of this unit, and Mars one and a-half times.
+The four satellites of Jupiter had been discovered by Galileo, and one
+of Saturn by Cassini; Huygens had also discovered the ring surrounding
+Saturn ; and it had been shown that Venus, Mars and Jupiter rotated on
+their axes. Telescopes had been invented since 1608; Gregory made
+his first reflecting one in 1663, and Newton his in 1669. Clocks and
+spring watches had also been introduced. Charts of the heavens had
+been constructed, as well as tables of the approximate motions of the
+moon and other heavenly bodies; and successful efforts had been made
+to determine with more precision than had before been attempted the
+figure and dimensions of the earth, by the measurement of certain lengths
+of meridians by Norwood, Picard and La Hire.
+Before referring to the astronomical instruments in use at this time,
+it will be well to point out that they may be classed under three heads.
+First, those which enable us to bring distant objects near to us, so as to
+render their form, features, and peculiarities visible; second, instruments
+by which the angular separation of one body from another can be
+measured; and third, instruments by which time can be measured.
+The first class simply comprises telescopes of various forms; the
+second class depends upon the subdivision of the circle into parts ?into
+degrees, minutes, and seconds. One of the oldest astronomical instru-
+ments of this kind was the astrolabe, a divided circle, about whose centre
+revolved an arm, carrying sights or pins; its extremities pointing to
+different divisions on the circle, as the sights were pointed in different
+directions. The complete circle afterwards gave place to portions of a
+circle more accurately graduated, such as a fourth or sixth part of a circle
+called quadrants and sextants, forms of which have continued in use up
+to the present day. The third class, for measurement of time, you are
+familiar with in the form of the exquisite clocks and watches which are
+now so common. At the time lam now speaking of, however, although
+the old methods of measuring time by clepsydras or water clocks, sand
+glass or ? rush lights,? had been entirely superseded for astronomical
+purposes, the clocks and watches were of a most homely description.
+During the observatorship of our first Astronomer-Royal, Flamsteed,
+the instruments used consisted principally of large sextants and quadrants,
+which had already been greatly improved by the substitution of telescopes
+for the simple tubes and sights hitherto used, and by the more careful
+graduations of their circular arcs. These instruments were very large
+compared to those of the same class now in use, and frequently occupied
+the whole wall of a large room, or even the whole side of a large house
+?as in the case of Tycho Brahe?s mural quadrant at Copenhagen?and
+it is somewhat amusing to compare these gigantic instruments with this
+
+
+small pocket sextant, more especially when we consider that this little
+apparatus is capable of giving better results than its big forefather at
+Copenhagen.
+The reluctance exhibited by astronomers and navigators, at this time,
+to adopt new inventions, was remarkable. We find that the substitution
+of ? optical glasses,? or telescopes for plain sights in the large sextants
+and quadrants, was strongly opposed by some of the most celebrated
+observers. Hevelius, for instance, in writing concerning his astronomical
+observations, about this time, says:?? But this I am convinced of, that
+if I had undertaken the business by means of telescopic sights, I must
+not onjy have wasted many years in fruitless examinations, but I should
+doubtless have been disappointed of my hopes, and that on various
+occasions, not necessary here to mention.?
+It is worthy of note that, in the appointment of Flamsteed, he was
+directed ? to set himself to the rectifying the motions of the heavens
+and the places of the fixed stars, so as to find out the so much desired
+longitude of places.? One of the principal objects of the establishment
+of Greenwich Observatory was to facilitate navigation ?an object that
+has been faithfully kept in view and assiduously followed up from the
+time of its foundation to the present day.
+The progress of the art of navigation had for a long time been
+retarded, from the difficulty of determining the longitude at sea. Several
+methods had been propounded, but owing to the insufficient knowledge
+of the true places and motions of the heavenly bodies, and defective instru-
+ments, it had not yet been possible to put them in practice.
+These methods resolved themselves into observations for determining
+the moon?s motions with respect to the stars, or to transport of the true
+local time of the point of departure from place to place ; the first requir-
+ing angle-measuring instruments and tables of the moon?s place and
+motions, and the second accurate time-keepers or chronometers.
+Longitude is, in fact, the difference of local times between any two
+places at the same moment; so that if we can carry a clock or watch set
+to, and keeping true Melbourne time, to Adelaide, we should find that it
+did not correspond to Adelaide time. When the watch showed twelve
+o?clock, it would only be llh. 34m. 275. there. This difference is a
+measure of the difference of longitude; multiply it by 15, and it gives the
+difference in degrees, minutes and seconds. Melbourne time is faster than
+that at Adelaide, and therefore Melbourne is east of Adelaide 6� 23' 15".
+If, instead of Adelaide, we took the watch to Sydney, we should find the
+difference to be 25 min. 56 sec., but the other way. Sydney time would
+be faster than Melbourne, showing Sydney to be east of Melbourne.
+This will give, you a notion of what is meant by longitude: every
+method for obtaining it resolves itself into ascertaining the difference
+between the times at the place whose longitude you wish to determine,
+and that at the standard or starting point, for which Greenwich is now
+almost universally used. The time at your starting point (or Greenwich)
+can be kept by means of good timekeepers, or it may be found by careful
+astronomical observation of the moon?s place, and comparing this with
+tables showing what her place will be at certain hours of time at the
+starting point; the local time is readily determined by observation and
+
+
+simple calculation ?thus the differences of local times, and hence the
+ongitude, can be found.
+But, as I have already stated, neither the instruments available nor the
+knowledge of the moon?s motion were sufficiently accurate to allow of
+these methods being satisfactorily practised in the year 1675 ; hence the
+great and principal object for the foundation of Greenwich Observatory?
+? the finding out the so much desired longitude of places.?
+The method of finding longitude by observing the moon?s place, by
+getting her distance from known stars, was proposed many years before,
+but could not be carried into practice on account of the inaccurate lunar
+tables. The method of transport of time had already been tried by
+Huygens; and it was during his first trials to overcome the difficulty
+presented to the good going of his timekeepers by the violent motion of
+a ship at sea, that he fell upon the discovery of the isochronous spring,
+with which he made afterwards his pendulum watches, and which is the
+same that is now used in our watches and chronometers. Huygens par-
+tially succeeded, but found that to render his timekeepers sufficiently
+reliable, it would be necessary to devise some greatly improved mechan-
+ism by which the irregularities in them, brought about by changes of
+temperature, could be overcome.
+It will be interesting to show with how much more precision the
+longitude could be determined with Huygen?s primitive and uncom-
+pensated ? pendulum watch ? (as he styled it,) than by the methods
+already in use, and to do this I cannot do better than give you an abstract
+from a paper communicated to the Royal Society of London in the year
+1665, by a Major Holmes. He states that in one of his voyages to Guinea,
+he had given into his care, by some of the grand promoters of navigation,
+two of M. Huygens? ?pendulum watches,? ?that after leaving the coast
+of Guinea, and ? being come to the Isle of St. Thomas, under the line,
+he adjusted his watches, put to sea, and sailed westward seven or eight
+hundred leagues, without changing his course ; after which, finding the
+wind favourable, he steered towards the coast of Africa N.N.E., but,
+having sailed upon that line about two or three hundred leagues, the
+masters of other ships under his conduct, apprehending that they should
+want water before they could reach that coast, did propose to him to
+steer their course to the Barbadoes, to supply themselves with water
+there. The Major having called the master and pilots together, and
+caused them to produce their journals and calculations, it was found that
+those pilots differed from the Major in their reckonings, one of them
+eighty leagues, another about a hundred, and the third more ; but the
+Major judging by his pendulum watches that they were only some thirty
+leagues distant from the Isle of Fuego, which is one of the isles of Cape
+Verde, and that they might reach it next day, and having a great
+confidence in such watches, resolved to steer their course thither; and
+having given order so to do, they got, the very next day about noon, a
+sight of the said isle of Fuego, finding themselves to sail directly upon
+it, and so arrived at it that afternoon as he had said.?
+Another method for finding the longitude had also been proposed.
+Jupiter was known to have four satellites, and it had been observed
+that these were frequently eclipsed, disappearing suddenly by entering
+
+
+within the planet?s shadow as they revolved around him. It was
+proposed that these occurrences, the times of which could be predicted
+with moderate precision, should be observed at sea, and the local time
+compared with the predicted time at the starting point. To observe
+these eclipses a steadily supported and powerful telescope is required,
+and although this might be secured on land, it could not on shipboard ?
+the method, therefore, was impracticable for use at sea.
+I think I have now briefly touched upon the most important points in
+connection with the state of astronomy at the date I start from. But
+before we leave our first Astonomer-Royal Flamsteed, I will give you a
+rather amusing anecdote concerning him, taken from Reliquce Hearniarus,
+and given in Chambers?s Booh of Days: ?? He was weakly and unhealthy
+in childhood. His father, a maltster at Derby, set him to carry out malt
+in a brewing pan, which he found a very tiresome way of effecting his
+object; so he set to and made a wheelbarrow to carry the malt. The
+father then gave him a larger quantity to carry, and young Flamsteed
+felt the disappointment so great that he never after could bear the
+thoughts of a wheelbarrow. Many years after, when he reigned as
+Astronomer-Royal in the Greenwich Observatory, he chanced once more
+to come into unpleasant relations with a wheelbarrow. Having one day
+spent some time in the Ship Tavern with two gentlemen artists of his
+acquaintance, he was taking a rather ceremonious leave of them at the
+door, when, stepping backwards, he plumped into a wheelbarrow. The
+vehicle immediately moved off down-hill with the philosopher in it; nor
+did it stop till it had reached the bottom, much to the amusement of the
+bystanders, but not less to the discomposure of the Astronomer-Royal.?
+Whilst our Royal Observator was ? applying himself with exact care
+and diligence rectifying the places and motions of the heavenly bodies,?
+and constructing his star catalogues and charts, the famous Halley took a
+voyage to St. Helena in order to obtain a catalogue of southern stars,
+which could not be seen by northern astronomers. It was he who, out
+of compliment to Charles 11., formed a new constellation of some southern
+stars which he called Bobur Carolinum, or Charles?s Oak, in commemora-
+tion of the well-known tree in which the King (then Prince Charles) took
+refuge after the Battle of Worcester.
+Whilst at St. Helena, Halley witnessed the transit of Mercury across
+the sun?s disc. You will remember that both Mercury and Venus are
+inferior planets, having their orbits between us and the sun; they are,
+therefore, liable in their orbital motion to pass between the earth and the
+sun, appearing to move across his disc like a small round black spot; and
+such occurrences are called transits.
+That such phenomena did sometimes occur had long been known, and
+the times of some had even been predicted by Kepler?a transit of Mer-
+cury in 1631 for instance?which was the first really observed with cer-
+tainty. A Parisian astronomer named Gassendi thus quaintly describes
+the event: ?? The crafty god had thought to deceive astronomers by
+passing over the sun a little earlier than was expected, and had drawn a
+veil of dark clouds over the earth in order to make his escape more
+effectual. But Apollo, acquainted with his knavish tricks from his
+infancy, would not allow him to pass altogether unnoticed. To be brief,
+
+
+I have been more fortunate than those hunters after Mercury who have
+sought the cunning god in the sun; I found him out, and saw him where
+no one else had hitherto seen him.?
+The first time the transit of Venus was observed was in 1639 by Mr.
+Horrox, a clergyman in Lancashire. This is what he tells of it. He began
+his observations at sunrise, and continued them to the hour of church
+service (it was Sunday.) As soon as he was again at leisure?that is to
+say, at 3.15 p.m. ?he resumed his labours, and, to quote his own words :
+?? At this time an opening in the clouds, which rendered the sun dis-
+tinctly visible, seemed as if Divine Providence encouraged my aspira-
+tions; when, O most gratifying spectacle, the object of so many earnest
+wishes, I perceived a new spot of unusual magnitude, and of a perfectly
+round form, that had just wholly entered upon the left limb of the sun,
+so that the margin of the sun and spot coincided with each other, form-
+ing the angle of contact.?
+The occurrence of the transit of Mercury, which he observed at St.
+Helena, suggested to Halley the possibility of using like occurrences for
+the solution of one of the greatest problems in astronomy, and the basis
+of all celestial measurements ?the distance of the sun from the earth.
+The means of ascertaining the relative distances of the planets from
+the sun had been given to astronomers by Kepler?s Third Law, so if the
+absolute distance of any one could be found, the rest would follow,
+Halley perceived that the parallax of the planet might be found by the
+apparent alteration of the position of its path across the sun?s disc, due
+to observers being placed at widely different parts of the earth?s surface.
+By the word parallax, I mean the angle that would be subtended, at
+the planet, by the earth?s diameter. Determining the parallax is equi-
+valent to finding the distance of an inaccessible object by means of a
+triangle, the base of which, in this case, is the earth?s diameter, the two
+angles being obtained from observation. Now, Venus being nearer to
+the earth than Mercury, her parallax is greater, and consequently the
+separation of her apparent path across the sun would be greater in pro-
+portion. The transits of Venus, therefore, were considered by Halley to
+present far more favourable conditions for the desired determination than
+those of Mercury.
+The transits of Mercury are comparatively frequent: for instance,
+there will be thirteen in the present century, while those of Venus occur
+very seldom ?not more than twice in a century, ?and Halley scarcely
+dared to hope he would live long enough to put his suggested method
+in practice, for it was then the year 1677, and there would be no transit
+of Venus till 1761, a space of eighty-four years. He, however, addressed
+to future astronomers a most earnest exhortation that such ? precious
+occasions should not pass unprofited,? and urged them to unite all their
+efforts to deduce on this and similar occasions one of the most important
+elements of our system, the distance of the sun. How this request has
+been fulfilled, we shall presently see.
+The determination of the parallax of Mars ?the planet next to the
+earth in order of distance from the sun ?has also been used for finding
+the sun?s distance. This planet being ? superior,? never transits the sun;
+a different mode of observation is therefore necessary. When in oppo-
+
+
+sition, its position with reference to that of well-known fixed stars is
+measured at two widely different parts of the earth's surface.
+Halley was the first astronomer to actually compute the orbit of a
+comet, and predict its return ?(the method for doing this had already
+been indicated by Newton, in 1680, after the appearance of the great
+comet of that year.) Among the orbits of about twenty-four comets,
+which he calculated, he found those of 1531, 1607, and 1682 so nearly
+alike?in each case the inclination to the ecliptic was about 17�, the peri-
+helion distance about 48,000,000 of miles, and the motion retrograde,
+while the other elements were equally similar; and, moreover, just about
+seventy-five years had elapsed between each successive appearance?that
+he at once concluded they were one and the same comet returning
+periodically to perihelion. He felt so confident of this that he predicted
+it would return again in 1758. His age at this time?l7os?was forty-
+nine ; he did not expect to reach the age of one hundred and two years;
+he therefore appealed to posterity that if the comet should really return
+about that time, not to lose sight of the fact that the prediction of such a
+result was due to an Englishman. As the period drew nigh, astronomers
+throughout the civilised world were on the watch to test the value of his
+calculation and predictions
+On the 25th December, 1758, a farmer and amateur astronomer in
+Saxony, named Palitsch, -discovers a comet; it was Halley?s comet. It
+came back again in 1835 (and was the first comet I ever saw,) and will
+probably do so again in 1910. This fulfilled prediction marks another
+epoch in astronomy ;* and, remembering Halley?s appeal, posterity of all
+nations has not, and is not likely, to forget that this great triumph was
+Halley?s, and that Halley was an Englishman.
+We will now pass over the next fifty-eight years, which brings us to
+the year 1800. In these fifty-eight years astronomy had not slept.
+Flamsteed and his successors ?Halley, Bradley, and Bliss, ?as well as
+various celebrated Continental astronomers, had so faithfully attached
+themselves to the work for which the Greenwich Observatory was
+established, that the places and motions of the moon, stars, and planets,
+were now known Avith very considerable precision, and reliable tables of
+these were published. The art of navigation had therefore advanced
+considerably, and the great problem of obtaining the longitude at sea
+had been, to a great extent, solved. All these astronomers, however,
+had now gone to rest, and Maskelyne was ? Royal Observator.? The
+immortal Newton had closed his great career in 1727, and the glorious
+results of his labours placed Astronomy the highest among the exact
+sciences, and gave an impulse to it and other branches of Natural
+Philosophy which will never cease to be felt.
+One of our greatest of the Greenwich, and of all astronomers, had
+come and gone in this interval. Bradley succeeded Halley in 1742,
+worked well for twenty years, and died in 1762. It was Bradley who
+discovered the aberration of light, and the nutation of the earth?s axis?
+an example of the one being the amount by which the apparent position
+of a star differs from its real one, in consequence of the combined motion
+* Halley died in 1742, and was succeeded as Astronomer-Royal by Bradley.
+
+
+of the spectator (resulting from the earth?s rotation), and of the light
+emanating from the star; and the other a small irregularity in the earth?s
+motion, caused by lunar gravitation?both affecting the positions of
+heavenly bodies, as determined from observation, to an extent, if un-
+eliminated, that would render them very inaccurate. Bradley also initiated
+and prosecuted a system of observation, which will compare in precision
+with that of the present day. With Bradley?s observations commenced
+a new era in astronomy.
+In this interval, too, Dollond invented the Achromatic Telescope, and
+Hadley the Nautical Quadrant- Harrison also gains the parliamentary
+reward for the perfection of his chronometer. The Nautical Almanac
+was first published in 1767. The transits of Venus, both of 1761 and
+1769, were observed. Herschell (Sir W.) discovers the new planet
+Uranus, and erects his great forty-feet reflecting telescope at Slough,
+near Windsor. Large observatories had been erected at Berlin and St.
+Petersburgh. Dollond?s new invention of making telescopic object glasses
+achromatic, rapidly led to a very great improvement in all classes of astro-
+nomical instruments; and the old mural quadrants were replaced by transit
+telescopes and mural circles. Abbe La Caille had been to the Cape of
+Good Hope, measured an arc of the meridian there, observed and catalogued
+a large number of southern stars with great precision ; and Sir William
+Herschell had discovered that the Milky Way was separable into stars.
+I will now draw your particular attention to three of these ? signs of
+progress ,? and in the first place show how Halley?s suggestions with re-
+spect to the future transit of Venus were attended to.
+The first transit after Halley?s death was in 1761. To observe it,
+astronomers were sent out to different parts of the globe by the English,
+French, and other European Governments; and Maskelyne, who after-
+wards succeeded Bradley at Greenwich, went to St. Helena. With one
+exception, however, all these observers were unfortunately more or less
+disappointed; cloudy weather appeared to prevail at every one of the
+stations selected, except at the Cape of Good Hope, where Mr. Mason
+observed all the phases successfully. At Greenwich and several other
+places in England it was also satisfactorily observed. The parallax of the
+sun resulting from these observations was eight seconds and a half, which
+would give the sun?s distance as about 96,000,000 miles.
+The next transit took place in June, 1769 ; and it was on this occasion
+that George HI. despatched, at his own expense, a well-equipped expedi-
+tion to Tahiti, under the command of that celebrated navigator Captain
+Cook. The phenomenon was successfully observed in both hemispheres,
+and the parallax resulting was 8" 58?equivalent to a distance of
+95,023,000 miles.
+We find, therefore, that Halley?s request was not forgotten, and that
+the results fully justified his anticipations. The great problem of the
+sun?s distance was far nearer its solution than it ever had been ; and this
+determination was accepted as perfectly trustworthy until later years,
+when circumstances arose indicating that it required even further correc-
+tion. To this I shall presently refer.
+The next transit of Venus will take place four years next December
+(December 1874,) which will be followed by another in 1882.
+
+
+The improvements in the methods of obtaining the ? much desired
+longitude ? during the period under review are worthy of remark, and a few
+moments? attention; for on two or three of them depends, in a very great
+measure, the state of almost perfection to which the art of navigation has
+now arrived. I refer to the invention of Hadley?s Quadrant (1731,)
+Harrison?s Chronometer (1765,) and the publication of the Nautical
+Almanac in 1767.
+From what I have already told you concerning the methods of obtain-
+ing longitudes at sea, you will understand that at my last stage the great
+desiderata were ?more accurate time-keepers, more convenient, and
+precise angle-measuring instruments for sea use, and more correct tables
+of the places and motions of the heavenly bodies, and especially of the
+moon.
+The mode of determining the longitude by lunar distances had for a
+long time been advocated by the most eminent astronomers. The difficul-
+ties were the want of good instruments available at sea, and of tables of
+the moon, to obviate the necessity of mariners having to compute her
+place at each observation ?a difficulty that put an almost insuperable bar
+to its adoption. The invention of Hadley supplied the first want ad-
+mirably ; and Maskelyne soon after met the other by inducing the Board
+of Longitude to publish annually a nautical ephemeris, containing the
+places of the sun and moon for eveiy twelve hours, and the distance of
+the latter from the principal fixed stars. Hadley?s quadrant, the ancestor
+of our present beautiful sextant, is an instrument with a graduated
+arc, as in the old quadrants, but which by means of one fixed and one
+movable mirror enables the observer to reflect the images of two stars or
+objects, so as to appear in coincidence. The movable mirror is attached
+to an arm that traverses the graduated arc, the amount of movement
+necessary to bring the object into coincidence measures their angular
+separation, and the angular distance between the moon, and the sun, or a
+fixed star, when corrected by a careful calculation, gave, by the help of
+the lunar tables, the mean time at Greenwich; and this, compared with
+the local time at the place, at once furnished the desired longitude.
+In the year 1714 the British Parliament passed an act holding out
+a great recompense to those who should contribute to the discovery
+of the longitude at sea?namely, �IO,OOO if the longitude were found
+within a degree, �15,000 if within forty minutes, and �20.000 if within
+half a degree. These magnificent rewards produced the desired ( ffect.
+John Harrison, a man of humble origin but great genius, devoted a long
+and laborious life to the construction of clocks and watches for navigation.
+So numerous and important were his improvements that we may with
+justice consider him the inventor of the marine chronometer. It will,
+perhaps, give the best idea of his merits to say that he has done as much
+for this instrument as James Watt for the steam engine. In 1749 he ob-
+tained the Copley medal of the Boyal Society, and in 1761 obtained from
+the Commissioners of the Board of Longitude a trial of his chronometer
+by a voyage to Jamaica. It was found at the end of sixty-one days that
+his chronometer gave the longitude of Port Royal within five seconds of
+time ; and on the return to England, after an absence of 161 days, the
+whole variation was only one minute five seconds. It was evident that
+
+
+the conditions of the Act of Parliament were satisfied, and Harrison re-
+ceived a payment, on account, of �SOOO ; but the Commissioners decided
+that the remainder of the reward should not be paid till a second trial had
+taken place. This was executed in 1764, and crowned with complete suc-
+cess. It was decided unanimously by the Board of Longitude that the
+longitude of Barbadoes had been determined within the limits prescribed
+by the Act. �SOOO was immediately granted to him, and �IO,OOO more
+when he had explained to Commissioners appointed for the purpose the
+details of his construction. This took place in 1765.
+It is somewhat remarkable that an impression is still extant with some
+people that the reward above referred to has yet to be claimed. This
+country, like all others, has its inventors and men of one idea; and the
+amount of correspondence I have received during the last twelve or fifteen
+years from this class of individuals would scarcely be credited. Not a few
+among these correspondents are inventors of nautical instruments or new
+methods of finding the longitude at sea, and until enlightened to the con-
+trary have usually persevered in their frequently chimerical efforts, in the
+hopes of gaining the reward Avhich was long ago given to Harrison,
+The renowned name Herschell first appears upon the records of
+astronomical progress, in the period I am now referring to.
+William Herschell (afterwards Sir William,) a self-taught but able
+astronomer, who had for a long time been engaged in constructing reflect-
+ing telescopes of great perfection and considerable dimensions, to enable
+him to pierce deeper into the mysteries of space, while engaged on the
+evening of the 13th March, 1781, in observing some stars in the con-
+stellation Gemini, noticed one that appeared different in character to the
+rest; the excellence of his telescope admitting of the use of eyepieces
+magnifying several hundred times, he found that the diameter of this object
+increased and assumed a well marked disc-like form, as he increased the
+power, while that of the fixed stars around it remained unaltered. At first
+he thought it was a comet, and communicated the discovery to Maskelyne
+and others, and in the course of two or three months it had been seen by
+nearly all the European astronomers; it was some time, however, before
+it could be decided whether it was a comet or planet, although its
+defined planetary appearance led most astronomers to believe it was the
+latter. Lexell was the first to show that its orbit about the sun was
+nearly circular, and it was therefore a planet, not a comet.
+Herschell, the discoverer, named the planet Georgium Sidus, in honour
+of the King, George HI., from whom he had received great and liberal
+encouragements; but this name did not meet with much favour among
+Continental astronomers. The famous Laplace suggested it should be
+called after Herschell himself, but the other planets having received
+mythological names, it was ultimately agreed to call it Uranus, which
+in the Greek fables is the name of the father of Saturn, as the latter is
+of Jupiter.
+In 1787, Herschell completed his great forty-feet reflector, the first
+of Brobdignagian telescopes (the last is in Melbourne;) with it he dis-
+covered two satellites of Uranus?Oberon and Titania. In 1789 he
+discovers two more satellites of Saturn?s system, Mimas and Euceladus:
+and also suspects the existence of two more satellites in the Uranian
+
+
+system; and in 1798 he announces the discovery that the satellites
+of this planet revolve around him in an opposite direction to that of the
+satellites to other planets.
+While on the subject of this planet, I might mention that it has
+generally been accepted that Uranus has eight satellites, six of which
+were found by Herschell, but Mr. Lassels states emphatically, after a long
+series of observations with his grand reflector, that there are only four,
+or if there are more they remain yet to be discovered. The revolution of
+Uranus about the sun occupies about eighty-four of our years. Its diameter
+is about 33,000 miles, and its distance from the sun about nineteen times
+that of the earth from the sun.
+We will now put on our astronomical ? seven-league boots,? and pass
+on to the year of grace 1870, and look back on the results of astronomical
+research during the last seventy years. It is unfortunate, however, that
+as I come to the thickest of my work, I become sensible that I am
+approaching nearer and nearer to the end of your patience.
+Towards the beginning of this period the first of a series of discoveries
+was made by Piazzi and Gibers, which promises to be almost inexhaus-
+tible, so long as the perfection of telescopes increases in proportion.
+I refer to the planetoids. The first of these, Ceres, was discovered
+by Piazzi, in 1801; Pallas was discovered by Gibers in 1802; Juno in
+1804, by Harding; Vesta'in 1807, by Gibers; and so on, till these small
+members of the solar family number 109.
+It had been long noted that there was a wide space between the orbits
+of Mars and Jupiter, and that there was a certain regular gradatory
+distance between the orbits of the other planets in some manner propor-
+tional to the distance from the sun. This regular order was, however,
+broken for want of a planet to fill this gap in the system, until the first
+planetoid Ceres was discovered.
+The orbit of this body was found to very nearly coincide with the
+position required to complete the order of the distance from the sun?
+an order which is known as Bode?s Law, by which it is assumed that the
+distances are as the numbers 4, 7, 10, 16, 28, 52, 100, 196, and 388 ; for
+the actual distances of the planets accord very closely to this; Neptune
+is, however, to some considerable extent an exception. The large num-
+bers and minute dimensions of these bodies have led to the belief that
+they are fragments of some large planet which had in ages gone by been
+shattered to pieces. This supposition is rendered the more probable
+from the almost inexhaustible supply which seems to attend on each
+increase of the penetrating power of telescopes. The orbits of these little
+planets are so interlaced that we almost wonder that they do not stumble
+across one another in their circuits. If we were to represent the orbits,
+interlaced as they are in space, with rings, we could not lift one without
+lifting all the rest.
+Numerous national observatories have been erected in this interval,
+prominent among which are those at the Cape of Good Hope (1821,) at
+Parramatta, N.S.W. (1822, since dismantled,) Cambridge, in England
+(1823,) at Harvard College, U.S.A. (1840,) Washington (1842,) Williams-
+town, Victoria (1853,) Sydney (1858 ;) and so identified has astronomy
+become with national progress, that several large observatories have been
+
+
+established, and are maintained, by municipalities ; instances of these are
+those of Manchester and Liverpool, while many of the highest class
+have been instituted in connection "with colleges and universities for
+educational purposes.
+Ihe places and motions of the heavenly bodies are now known with
+great exactitude, and the charts, catalogues, and ephemerides of the moon,
+sun, stars, and planets are almost perfect; so precise, in fact, that the
+times of eclipses of the sun or moon, or of the forthcoming transits of
+Venus, can be predicted years beforehand, to commence at a certain time ;
+and it shall be found that the times of prediction and occurrence tallv
+within two seconds.
+More giant telescopes had been constructed, both refractors and re-
+flectors, Among the former I may instance the Dorpat and Pulkowa,
+one nine and a-half, the other sixteen, inches aperture ; Cincinnati twelve*
+Harvard College fifteen, Greenwich twelve inches; and within the last
+year the largest refractor ever made has been completed. I refer to Mr.
+Newall?s great twenty-five inch refractor, constructed by Cook and Son'
+of York.
+Inspecting the Pulkowa telescope, which was known as the ? Great
+Pulkowa Refractor,? Struve, the late Russian Imperial astronomer,
+said?? It might well be called the great refractor, as it broke the legs of
+himself and two of his assistants while they were erecting it.?
+There is one fact in connection with the splendid telescope at Harvard
+College which is worthy of notice?it was purchased with funds raised by
+subscription among the citizens of Poston, Salem, New Bedford, and Nan-
+tucket. _ Mr. Bond says, in one of his reports ?? It is worthy of note that
+no restriction or reservation was in any instance required (by the con-
+tributors) in regard to a right of visiting the observatory, or a control of
+its operations. This liberality on the part of the contributors has been
+productive of the most beneficial effects.? The cost of the telescope and
+tower in which it is erected was about �5OOO, one thousand of which was
+contributed by President Quincy. The Cincinnati telescope is another
+instance of a similar kind, but in this case the contributions were not
+confined to money subscriptions ; no inconsiderable portion of its cost was
+covered by donations in kind, of hams, preserves, and other produce, and
+a contribution of caps figures in the list.
+Of large reflectors. Lord Rosse?s giant of Parsonstown stands first; then
+there are those of Mr. Lassels, Mr. Warren De La Rue, Nasmyth, and
+lastly, the great Melbourne reflector. Besides these, numberless magni-
+ficent telescopes of both kinds, but of smaller dimensions, are now nightly
+scrutinising the skies in the hands of both amateur observers and pro-
+fessional astronomers. In 1835 Sir John Herschell (the son of Sir
+William) commenced his famous scries of observations of the southern
+nebulae and stars at the Cape of Good Hope, with his great reflector, a
+task which occupied him five years. It is in following up and revising
+some of these observations that our great reflector is principally eno-agech
+The results of Sir John Herschell?s Cape observations are now published,' and
+constiute the stadard authority on the nebulae of the southern hemisphere.
+At Greenwich, Pond succeeded Maskelyne in 1812, and next came
+Airy, the present Astronomer-Royal, who was appointed in 1835.
+
+
+The first measurements of the distances of the fixed stars were made
+in 1838 and 1839. Bessel determined that of 61 Cygni, and Hender-
+son that of a Centauri. You will remember that the distance of the
+nearest of the fixed stars is immeasurably greater than that of the farthest
+planets, and that consequently the earth?s diameter, the base line used in
+determining the distance of the planets, becomes uselessly small when we
+come to deal with the stars; instead of the earth?s diameter, therefore,
+the diameter of her orbit about the sun is taken as the base line, which
+gives us a length twice the sun?s distance, or about 183,000,000 miles.
+The process of finding the distance, which is known in astronomical lan-
+guage as determination of annual parallax, depends upon ascertaining
+whether a star?s true position remains the same when observed while
+the earth is in any certain part of her orbit, and again when in another
+part six months distant, in which case there will be, roughly speaking,
+183,000,000 miles between the two points of observation; if the star?s
+position appears unaltered, then it is said its parallax is insensible, and its
+distance so great as to be immeasurable. If ever so small a difference of
+position, however, is discernible, the distance can be deduced.
+In the case of the two stars mentioned, the annual parallax of
+a Centauri was found to be 9-10ths of a second, which gives it a distance
+of 224,000 times the sun?s distance; this star appears to be by far the
+nearest to us. The distance of 61 Cygni, the next nearest, is 366,000
+times the sun?s distance.
+The fact that the solar system is actually moving through space, was
+by this time pretty well established; but there was considerable un-
+certainty as to the precise direction or rate of this movement. Sir John
+Herschell pointed out so long since as 1783 that the direction appeared
+to be towards a certain point in the constellation Hercules. Struve has
+now shown that this is actually the direction; and he says : ? The
+velocity of the motion is such that the sun, with the whole cortege of
+bodies depending on him, advances annually in the direction indicated at
+the rate of 154,000,000 miles per annum.?
+The greatest astronomical achievement during this period was, un-
+doubtedly, the discovery of the planet Neptune ?the last and most distant
+of the major planets now known.
+The circumstances attending this discovery are, I have no doubt, well
+remembered by most of you. Two mathematicians were (independently
+and unknown to each other) engaged in investigating as to the cause of
+certain irregularities exhibited by Uranus in his orbital motion, which
+could only be accounted for by supposing the disturbing cause to be an
+unknown and large planet still more distant from the sun. Both these
+mathematicians (M. Le Vender of Paris, and Mr. Adams of Cambridge)
+sent the results of their calculations to the principal European astronomers,
+indicating the position in the heavens in which the supposed planet might
+be found. A systematic search was commenced, and on September 23rd,
+1845, M. Galle, an assistant in the Berlin Observatory, found the stranger
+close to the position indicated by Le Vender and Adams.
+This new planet has been called Neptune. The full significance of
+this discovery may not at first, perhaps, be so apparent to those un-
+acquainted with the whole circumstances ; but, when we come to consider
+
+
+that the actual position in space occupied by an unknown and invisible
+body, the only indication of whose existence was the disturbing effect on
+the motion of Uranus, was almost precisely pointed out by those mathe-
+maticians, after calculations involving the most difficult and complicated
+considerations, we shall be prepared to endorse the words of Mr. Hind,
+who says :
+?A most brilliant discovery,?the grandest of which Astronomy can boast, ?
+and one that is destined to be a perpetual record in the annals of science?an
+astonishing proof of the power of the human intellect.?
+In all other cases, the one who first sees has reaped the whole honour
+due; but here the mere finding falls far into the shade when compared with
+the intellectual skill that enabled Adams and Verrier to tell astronomers
+where to find it.
+The dimensions of Neptune are not yet known with certainty, on account
+of his immense distance from us; his diameter is, however, estimated at
+about 37,000 miles. He occupies 164.6 years in his revolution about the
+sun, at a distance of about 2746 millions of miles.
+The origin and nature of meteors have long presented a fertile field
+for speculation and theorising. Within the last few years, however, our
+knowledge of these minute denizens of space has been very considerably
+increased, especially since the celebrated meteor shower of November,
+1866. Long prior to this, however, it had been remarked that on certain
+occasions meteors had been seen in unusually large numbers, and Hum-
+boldt describes a grand shower of them he witnessed in 1799, Oldsted,
+in comparing this with former occurrences, adopted the theory that
+these meteoric storms are due to the progress of the earth through
+a mass of these atoms, which appear to be congregated into a ring
+which intersects the earth?s orbit. Professor Newton, of America,
+and others, have still further investigated the matter, and their con-
+clusions tend to establish Oldsted?s theory ; and it is now considered
+that ordinary shooting stars or meteors are minute particles of
+cosmical matter which revolve about the sun in an orbit or ring,
+like the planets; that they are chiefly congregated into two rings,
+one intersecting the plane of the earth?s orbit in August with an inclina-
+tion of 79�; the other in November, with an inclination of 17� ; and also,
+that in some portions of these rings the meteors are more densely crowded
+than at others. They are called the November and August rings, from
+the fact that they intersect that part of the ecliptic occupied by the earth
+in those months. In these months, therefore, meteors are usually far
+more numerous than at others; but it is only when the crowded portions
+of the rings cross the earth?s path at those months that we have those
+grand displays called meteor showers, the last of which was witnessed in
+Northern Europe in November, 1866. Professor Newton shows that so
+far as the November ring is concerned, these showers occur every thirty-
+three years, although the grandest of them will come only at periods of
+about 133 years.
+The motion of these minute bodies is contrary to that of the earth ; we
+therefore meet them ? full filt.? They all appear to come from one point
+in the heavens within the constellation Leo. Mr. Alexander Herschell,
+one of our highest authorities on this class of astronomy, states, as one of
+
+
+the results of his observations of the August fall of 1866, that not one in
+twenty ol these bodies exceeds a pound in weight, most are very much
+smaller, and some cannot exceed a few grains. It appears pretty certain
+that these bodies become visible to us while yet at a distance of from
+seventy to fifty miles; and why such small masses at such a distance can
+produce the brilliant light with which they become visible is accounted
+for by the immense velocity (thirty miles a second) with which they
+approach us, becoming converted into heat immediately they enter our
+atmosphere.
+Photography has of late years come into extensive use in astronomy.
+The first application of it in this direction is due to Dr. Draper, of New
+York, who obtained photographs of the moon in 1840. Mr. Bond, of
+Harvard College, seems to be the next to use it, in 1850, since which it
+has come into very general use; and in the hands of Mr. Warren De La
+Rue, Rutherford, Draper, and others, has now reached a very high state
+of perfection. The moon has naturally received the greatest attention
+from photographers, and some very magnificent pictures have been pub-
+lished from time to time. Photographs of the brighter planets, double
+stars, and star clusters, have also been successfully obtained; and at the
+Kew Observatory, pictures of the sun?s surface are taken every clear day.
+In total eclipses of the sun, also, photography has proved eminently useful
+in securing for all time some of the strange and evanescent appearances
+witnessed on such occasions.
+The application of the electric telegraph to observational astronomy
+belongs to the late portion of the period lam dealing with. It was first
+used by Dr. Locke, in America, in 1848, and the galvanic current has
+now become one of the essentials to a first-class observatory. The
+observer has no longer to listen painfully to the ticks of his clock or
+chronometer, as he watches the progress of the stars across his telescope,
+or the moments at which various phenomena occur; his undivided
+attention can now be devoted to the ocular part of his task. With a
+telegraphic key in his hand, he can at a touch send a signal to the chrono-
+graph, which records the desired instant with greater precision than
+could otherwise be obtained. The extended application of cbronography
+by means of the galvanic current has opened up new modes for the
+solution of many very important astronomical problems.
+So far as our knowledge of the condition and constitution of the
+heavenly bodies is concerned, there is no modern accessory in astronomy
+that has done so much as spectrum analysis. By its aid the constitution
+of the visible portion of the sun has been revealed to us with certainty
+as consisting of incandescent vapours, among which are the vapours of
+many of the substances and gases we know on the earth?s surface, notably
+sodium, iron, nickel, magnesium, barium, calceum, and hydrogen. On
+the occasion of the last total eclipses visible in India and America,
+the spectroscope unravelled the mystery of those strange red prominences
+which are seen to jut out from the sun?s edge during the moments of
+totality. It showed them to be incandescent hydrogen gas ?jets of flame
+projecting for tens of thousands ?nay, almost a hundred thousand miles
+into space, of such gigantic dimensions that they would embrace dozens
+of such puny globes as ours in their fiery arms, like motes in a candle.
+
+
+By an ingenious arrangement of spectroscope with the telescope, these
+red flames can now be witnessed at almost any time without an eclipse,
+with which they have nothing whatever to do, hut which become
+the more readily visible on these occasions on account of the complete
+obscuration of the sun?s direct glare. The spectroscope has also shown
+that the fixed stars are in all respects suns. Lines indicating the
+presence of many of the substances known in the earth, and in a
+state of vapour in the sun, are easily recognised on numbers of them.
+Hydrogen appears to be a common constituent among the stars, and in
+some the hydrogen spectrum becomes the most prominent. Some years
+ago a star, T. Corona, was observed to suddenly grow brighter; before
+the change it was so small as to be invisible to the unaided eye, but in a
+few days it became as brilliant as the brightest stars. The spectroscope
+told us that the sudden increased brilliancy was due to an outburst of
+hydrogen, far outvieing in magnitude the most stupendous flames that are
+ejected into space by our sun. This occurrence, with respect to T.
+Corona, has given rise to speculations, as our sun is continually vomiting
+forth these monster flames, whether there may not be occasions when
+some such terrific outbursts take place on it; but cases like T. Corona
+are the very rare exception, and not the rule; and few instances of
+such rapid variability in the brightness of stars are on record.
+Before concluding, I would like to refer to one item, and that not the least
+in the past seventy years of Astronomy: the establishment of an observatory
+in Victoria, Like Greenwich, it was established to facilitate navigation;
+that was, and still is, its prime object, Its beginnings took place in 1853,
+when I was invited to form and conduct an observatory at Williamstown,
+for the purpose of obtaining and maintaining accurate local time, and of
+giving public time signals to enable masters of ships to obtain errors and
+rates of their chronometers. By this time chronometers had been
+brought to such a state of perfection, that the method of obtaining
+longitude at sea, by the transport of Greenwich time, was almost
+exclusively practised Chronometers, however, of the best construction
+are but machines liable to break down, stop, or go wrong; the Lunar
+distance method therefore affords a valuable stand-by in case of any such
+contingencies, and no good seaman is master of his art, or a safe navigator,
+unless he is up to ?Lunars.? That they are not always so, is unfortu-
+nately a fact, for which, perhaps, the excellence of chronometers is to blame.
+I recollect, some years ago, an excellent old salt whom I had known for
+several years, bringing his chronometers to the observatory on his arrival
+in port; one of them had gone wrong, and the other was not quite trust-
+worthy ; he had been in a quandary. I said to him, I suppose you made
+yourself safe by a few ?Lunars.? ?Lunars !? he said, ? No, sir, I only took
+two ?Lunars? since I was master of a ship; once I was about the meridian
+of Ascension, and my ?Lunar? put me about the middle of the desert of
+Sahara, and next I was near St. Paul?s Island, and it put me pretty nigh
+the meridian of Cape Leuwin, so I thought ?Lunars? were not much
+account, and never took any since. I knocked along this time with the
+log and my lame chronometer, and I guess I?m in port safe enough now.?
+Like Flamsteed, I commenced with indifferent instruments. For about
+twelve months a sextant and chronometer were the only ones of which our
+
+
+National Observatory could boast. Through the liberal support that has
+ever been accorded to science by our Governments and Legislature, how-
+ever, the Observatory in the course of a few years grew out of its swaddling
+clothes, and became a well-equipped establishment. After nine or ten
+years it was removed from Williamstown to its present site.
+Our Observatory was one of those which undertook a series of obser-
+vations for the determination of the parallax of Mars at its opposition in
+1862, for a new measurement of the sun?s distance ; and the Williams-
+town series has been acknowledged to be the most successful obtained on
+that occasion. The sun?s parallax derived from the combination of our
+with the Greenwich observations was 8".93, while that from the Pulkowa
+and Cape of Good Hope was 8".96?a very close coincidence. The most
+noteworthy fact connected with these results is that they agree so closely
+with the parallax assigned by Le Yerrier and Foncault on other grounds.
+Light had hitherto been assumed to travel at the rate of 192,000 miles
+a second. Foncault?s beautiful experiments show r ed its speed to be only
+185,170 miles a second. From eclipses and other phenomena we know
+light takes eight minutes eighteen seconds to come from the sun to us. A
+simple calculation, then, gives 92,000,000 as the distance and 8".86 as the
+parallax. Le Yerrier assigned a parallax of 8".95, which resulted from
+his investigations of the perturbations of some of the planets. The paral-
+lax resulting from the transit of Yenus in 1769 was 8".58, equal to a dis-
+tance of a little over 95,000,000 miles; that from the Mars observations
+gave a distance of 91,500,000 miles ?a difference of three and a half mil-
+lions miles. Were it not for the coincidence of the Mars results with
+those deduced by Foncault and Le Yerrier, there might be some reason
+to doubt the results. Lately, however the Venus observations of 1769
+have been re-discussed by Mr. Stone, of Greenwich, who finds that by
+applying some necessary corrections to the observations, which certain
+appearances on a late transit of Mercury had indicated to be requisite,
+the results coincide almost exactly with those obtained in 1862.
+The astronomical work that has engaged our Observatory is, as at
+Greenwich, the Cape, and many other national observatories, confined al-
+most exclusively to the utilitarian class. The maintenance of correct
+local time, and giving public time signals, to enable mariners to rate their
+chronometers correctly and with facility ; the determination and correction
+of the places of the principal fixed stars ; and a complete survey of cer-
+tain portions of the southern heavens, for the formation of accurate star
+catalogues and charts of the southern hemisphere (a work that has been
+undertaken by this in co-operation with two other British observatories,)
+constitute the principal routine work. Since the erection of our great
+telescope, observation of and depicting the southern nebula; have been
+added to this. The Melbourne star catalogues of the southern heavens
+are now admitted to be the most valuable extant, and it appears they have
+become of special importance with reference to the forthcoming transit
+of Venus; so that whatever our colony may do on that occasion, she has
+already contributed a very honourable share in these star catalogues
+alone.
+It is a very popular belief that practical Astronomy consists of star-
+gazing, looking at the moon, or searching for some unknown stars, planets
+
+
+or comets ; and young ladies who come to the Observatory on fine, plea-
+sant nights, to have a keek at the moon, say, ? How delightful! What a
+beautiful, romantic occupation !? and so it is for an hour or two, if it is
+not too cold ; but long, weary hours of monotonous watching and record-
+ing at night, with the long, dreary calculations of to-morrow looming
+ahead, soon strip the delightful romance from the calling of the practical
+astronomer, and bring it down to the level of other bread and butter
+getting occupations. There is no such thing as star-gazing (as that term
+is generally understood) in a regular observatory ; ?every observation is
+for a particular purpose, and set out beforehand. The more popular
+branches of Astronomy, such as comet and planet seeking, investigations
+of the moon?s surface, delineations of the features of the nearer planets,
+and such like, are, by general consent, left to amateurs and private
+individuals, many of whom are in possession of magnificent telescopes,
+well fitted for the work, and who yearly contribute very largely to our
+knowledge on these subjects. National institutions, however, have to
+grind away at the harder stuff, which does not present enough excite-
+ment, or requires too much application, for those who follow up astronomy
+for amusement. This is how it is we nearly always hear of comets, and
+even planetoids, being discovered by such observers, and not by those who
+have to do the less genial but more utilitarian work.
+The most important work in astronomy, as in other sciences, is that
+which appeals least to the uninitiated and the general public ; hence the
+cui hono question so frequently advanced with respect to observatories
+and scientific institutions ; and i recollect an occasion when an astronomer
+engaged upon some work of the highest importance and real commercial
+value, was severely blamed in public print for allowing a zealous
+yqung amateur astronomer to discover a comet! Greenwich Observatory
+has been established nearly two centuries, yet neither a comet, planet
+or planetoid has ever been first discovered there. For all this, the
+basis of modern astronomy is admitted by all astronomers to rest on the
+Greenwich Observatory.
+As an example of the value?the commercial value ?of the simple
+maintenance of true time, one of the first objects of a national observa-
+tory, I may mention Mr. Warren De la Rue, the celebrated paper
+manufacturer, states that ? he estimates the annual saving to his firm,
+by having exact time, and enforcing strict attendance on his work-people,
+at �3OO per annum (besides some saving of gas and coals, not taken into
+account,) which is an amount that would otherwise be entirely lost; and
+of this he is able to make a return to his work-people in the way of
+additional privileges as respects holidays.?
+In conclusion, I believe I cannot do better than quote the words of Sir
+John Herschell, when speaking of the work of national observatories;?
+? If we ask to what end magnificent establishments are maintained by
+states and sovereigns, furnished with masterpieces of art, and placed
+under the direction of men of first-rate talent and high-minded enthu-
+siasm, sought out for those qualities among the foremost in the ranks of
+science?if we demand, cui hono ? For what good a Bradley has toiled,
+or a Maskelyne or a I'iazzi worn out his venerable age in watching?
+The answer is?not to settle mere speculative points in the doctrine of
+
+
+the universe; not to cater for the pride of man, by refined inquiries into
+the remoter mysteries of nature; not to trace the path of our system
+through infinite space, or its history through past and future eternities.
+These indeed are noble ends, and which I am far from any thought of
+depreciating; the mind swells in their contemplation, and attains in their
+pursuit an expansion and a hardihood which fit it for the boldest enter-
+prise : but the direct practical utility of such labours is fully worthy of
+their speculative grandeur. The stars are the land-marks of the universe;
+and. amidst the endless and complicated fluctuations of our system, seem
+placed by its Creator as guides and records, not merely to elevate our
+minds by the contemplation of what is vast, but to teach us to direct our
+actions by reference to what is immutable in his works. It is indeed
+hardly possible to over-appreciate their value in this point of view.
+Every well-determined star, from the moment its place is registered,
+becomes to the astronomer, the geographer, the navigator, the surveyor,
+a point of departure which can never deceive or fail him?the same for
+ever and in all places; of a delicacy so extreme as to be a test for every
+instrument invented by man, yet equally adapted for the most ordinary
+purposes; as available for regulating a town clock as for conducting a
+navy to the Indies; as effective for mapping down the intricacies of a
+petty barony as for adjusting the boundaries of transatlantic empires.
+When once its place has been thoroughly ascertained and carefully
+recorded, the brazen circle with which that useful work was done may
+moulder?the marble pillar totter on its base?an d the astronomer himself
+survive only in the gratitude of his posterity: but the record remains,
+and transfuses all its own exactness into every determination which takes
+it for a ground-work, giving to inferior instruments, nay even to temporary
+contrivances and to the observations of a few weeks or days, all the
+precision attained originally at the cost of so much time, labour and
+expense.?
+Ferguason and Moore, Printers, 48 Flinders Lane East, Melbourne.
+
+
+
+
+
+
+k
+f
+? r
+*
+9
+j
