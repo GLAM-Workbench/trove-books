@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549481.svg)](https://doi.org/10.5281/zenodo.3549481)
+
 # Trove books
 
 Jupyter notebooks to work with data from Trove's books zone.
