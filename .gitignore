@@ -3,5 +3,5 @@
 .DS_Store
 Untitled*.ipynb
 images
-cache.sqlite
+*.sqlite
 test.py
